@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-erlang.atom"/>
 <id>urn:rprimus:github:newerlangrepos</id>
-<updated>2020-04-03T20:08:13Z</updated>
+<updated>2020-04-05T06:09:44Z</updated>
 <title type='text'>New GitHub Erlang Repos</title>
+ <entry>
+  <title>brucify: coronerl</title>
+  <author>
+   <name>brucify</name>
+  </author>
+  <link href="https://github.com/brucify/coronerl" />
+  <id>urn:rprimus:github:brucify:coronerl</id>
+  <published>2020-04-05T06:09:44Z</published>
+  <updated>2020-04-05T06:09:44Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>szalaytb: regerlang</title>
+  <author>
+   <name>szalaytb</name>
+  </author>
+  <link href="https://github.com/szalaytb/regerlang" />
+  <id>urn:rprimus:github:szalaytb:regerlang</id>
+  <published>2020-04-04T18:50:56Z</published>
+  <updated>2020-04-04T18:50:56Z</updated>
+  <content type="html">
+   regular expression tester for &quot;smaller&quot; files, made with wxerlang, cross-platform
+  </content>
+ </entry>
+ <entry>
+  <title>wiechu: erlang-test</title>
+  <author>
+   <name>wiechu</name>
+  </author>
+  <link href="https://github.com/wiechu/erlang-test" />
+  <id>urn:rprimus:github:wiechu:erlang-test</id>
+  <published>2020-04-04T17:20:07Z</published>
+  <updated>2020-04-04T17:20:07Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>gabrielkoczwara: server</title>
+  <author>
+   <name>gabrielkoczwara</name>
+  </author>
+  <link href="https://github.com/gabrielkoczwara/server" />
+  <id>urn:rprimus:github:gabrielkoczwara:server</id>
+  <published>2020-04-04T11:37:50Z</published>
+  <updated>2020-04-04T11:37:50Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>jbromley: erlang_getting_started</title>
   <author>
@@ -26,19 +78,6 @@
   <id>urn:rprimus:github:szarbartosz:erlang-lab</id>
   <published>2020-04-03T17:46:11Z</published>
   <updated>2020-04-03T17:46:11Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>gitcloneese: coudb_goldrush</title>
-  <author>
-   <name>gitcloneese</name>
-  </author>
-  <link href="https://github.com/gitcloneese/coudb_goldrush" />
-  <id>urn:rprimus:github:gitcloneese:coudb_goldrush</id>
-  <published>2020-04-03T16:39:15Z</published>
-  <updated>2020-04-03T16:39:15Z</updated>
   <content type="html">
    
   </content>
@@ -93,71 +132,6 @@
   <updated>2020-04-03T10:11:06Z</updated>
   <content type="html">
    emqx plugin demo
-  </content>
- </entry>
- <entry>
-  <title>Fomich686: simple_redis</title>
-  <author>
-   <name>Fomich686</name>
-  </author>
-  <link href="https://github.com/Fomich686/simple_redis" />
-  <id>urn:rprimus:github:Fomich686:simple_redis</id>
-  <published>2020-04-02T20:22:30Z</published>
-  <updated>2020-04-02T20:22:30Z</updated>
-  <content type="html">
-   Simple Erlang OTP application that get json and saves it in Redis
-  </content>
- </entry>
- <entry>
-  <title>sammarten: otp</title>
-  <author>
-   <name>sammarten</name>
-  </author>
-  <link href="https://github.com/sammarten/otp" />
-  <id>urn:rprimus:github:sammarten:otp</id>
-  <published>2020-04-02T16:12:46Z</published>
-  <updated>2020-04-02T16:12:46Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>opentelemetry-beam: opentelemetry_prometheus</title>
-  <author>
-   <name>opentelemetry-beam</name>
-  </author>
-  <link href="https://github.com/opentelemetry-beam/opentelemetry_prometheus" />
-  <id>urn:rprimus:github:opentelemetry-beam:opentelemetry_prometheus</id>
-  <published>2020-04-02T15:57:06Z</published>
-  <updated>2020-04-02T15:57:06Z</updated>
-  <content type="html">
-   OpenTelemetry Prometheus Exporter
-  </content>
- </entry>
- <entry>
-  <title>kivra: jsonformat</title>
-  <author>
-   <name>kivra</name>
-  </author>
-  <link href="https://github.com/kivra/jsonformat" />
-  <id>urn:rprimus:github:kivra:jsonformat</id>
-  <published>2020-04-02T14:31:07Z</published>
-  <updated>2020-04-02T14:31:07Z</updated>
-  <content type="html">
-   A Erlang Logger Json Formatter - Structured Logging of Maps to JSON
-  </content>
- </entry>
- <entry>
-  <title>thanasis-com: erlang_exercise</title>
-  <author>
-   <name>thanasis-com</name>
-  </author>
-  <link href="https://github.com/thanasis-com/erlang_exercise" />
-  <id>urn:rprimus:github:thanasis-com:erlang_exercise</id>
-  <published>2020-04-02T13:49:52Z</published>
-  <updated>2020-04-02T13:49:52Z</updated>
-  <content type="html">
-   a (pretty messy) erlang exercise from my MSc years
   </content>
  </entry>
 </feed>
