@@ -2,8 +2,125 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2020-04-05T07:26:32Z</updated>
+<updated>2020-04-06T08:22:14Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>deamonsun: test-quicklisp</title>
+  <author>
+   <name>deamonsun</name>
+  </author>
+  <link href="https://github.com/deamonsun/test-quicklisp" />
+  <id>urn:rprimus:github:deamonsun:test-quicklisp</id>
+  <published>2020-04-06T08:22:14Z</published>
+  <updated>2020-04-06T08:22:14Z</updated>
+  <content type="html">
+   test-quicklisp
+  </content>
+ </entry>
+ <entry>
+  <title>equwal: clic</title>
+  <author>
+   <name>equwal</name>
+  </author>
+  <link href="https://github.com/equwal/clic" />
+  <id>urn:rprimus:github:equwal:clic</id>
+  <published>2020-04-06T06:08:21Z</published>
+  <updated>2020-04-06T06:08:21Z</updated>
+  <content type="html">
+   Gopher client with pretty colours in Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>maitracle: hong-third-first</title>
+  <author>
+   <name>maitracle</name>
+  </author>
+  <link href="https://github.com/maitracle/hong-third-first" />
+  <id>urn:rprimus:github:maitracle:hong-third-first</id>
+  <published>2020-04-06T04:27:01Z</published>
+  <updated>2020-04-06T04:27:01Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Mark-Boger: sel</title>
+  <author>
+   <name>Mark-Boger</name>
+  </author>
+  <link href="https://github.com/Mark-Boger/sel" />
+  <id>urn:rprimus:github:Mark-Boger:sel</id>
+  <published>2020-04-06T02:30:17Z</published>
+  <updated>2020-04-06T02:30:17Z</updated>
+  <content type="html">
+   Selenium webdriver interface
+  </content>
+ </entry>
+ <entry>
+  <title>theneosloth: trivial-prng</title>
+  <author>
+   <name>theneosloth</name>
+  </author>
+  <link href="https://github.com/theneosloth/trivial-prng" />
+  <id>urn:rprimus:github:theneosloth:trivial-prng</id>
+  <published>2020-04-06T02:05:51Z</published>
+  <updated>2020-04-06T02:05:51Z</updated>
+  <content type="html">
+   A very thin wrapper for rebinding *random-state*.
+  </content>
+ </entry>
+ <entry>
+  <title>conjunctive: zip</title>
+  <author>
+   <name>conjunctive</name>
+  </author>
+  <link href="https://github.com/conjunctive/zip" />
+  <id>urn:rprimus:github:conjunctive:zip</id>
+  <published>2020-04-06T02:03:58Z</published>
+  <updated>2020-04-06T02:03:58Z</updated>
+  <content type="html">
+   Zippers for Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>daniellonghi: te_pipeline</title>
+  <author>
+   <name>daniellonghi</name>
+  </author>
+  <link href="https://github.com/daniellonghi/te_pipeline" />
+  <id>urn:rprimus:github:daniellonghi:te_pipeline</id>
+  <published>2020-04-05T21:02:11Z</published>
+  <updated>2020-04-05T21:02:11Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>borodust: cl-resect</title>
+  <author>
+   <name>borodust</name>
+  </author>
+  <link href="https://github.com/borodust/cl-resect" />
+  <id>urn:rprimus:github:borodust:cl-resect</id>
+  <published>2020-04-05T19:20:02Z</published>
+  <updated>2020-04-05T19:20:02Z</updated>
+  <content type="html">
+   Common Lisp bindings to libresect
+  </content>
+ </entry>
+ <entry>
+  <title>markusweis: BioRob</title>
+  <author>
+   <name>markusweis</name>
+  </author>
+  <link href="https://github.com/markusweis/BioRob" />
+  <id>urn:rprimus:github:markusweis:BioRob</id>
+  <published>2020-04-05T09:17:58Z</published>
+  <updated>2020-04-05T09:17:58Z</updated>
+  <content type="html">
+   BioRob X5-HG
+  </content>
+ </entry>
  <entry>
   <title>nikki93: paip</title>
   <author>
@@ -31,16 +148,16 @@
   </content>
  </entry>
  <entry>
-  <title>topikettunen: cl-midi</title>
+  <title>spainisnotequal: cl-web-server</title>
   <author>
-   <name>topikettunen</name>
+   <name>spainisnotequal</name>
   </author>
-  <link href="https://github.com/topikettunen/cl-midi" />
-  <id>urn:rprimus:github:topikettunen:cl-midi</id>
-  <published>2020-04-04T21:00:51Z</published>
-  <updated>2020-04-04T21:00:51Z</updated>
+  <link href="https://github.com/spainisnotequal/cl-web-server" />
+  <id>urn:rprimus:github:spainisnotequal:cl-web-server</id>
+  <published>2020-04-04T19:12:51Z</published>
+  <updated>2020-04-04T19:12:51Z</updated>
   <content type="html">
-   Fork of http://www.doc.gold.ac.uk/isms/lisp/midi/
+   Web server, using Common Lisp
   </content>
  </entry>
  <entry>
@@ -119,45 +236,6 @@
   <updated>2020-04-04T01:32:08Z</updated>
   <content type="html">
    Kata (codewars, etc)
-  </content>
- </entry>
- <entry>
-  <title>LukasZahradnik: planning</title>
-  <author>
-   <name>LukasZahradnik</name>
-  </author>
-  <link href="https://github.com/LukasZahradnik/planning" />
-  <id>urn:rprimus:github:LukasZahradnik:planning</id>
-  <published>2020-04-03T22:58:14Z</published>
-  <updated>2020-04-03T22:58:14Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>The-Receiver: Learning-LISP</title>
-  <author>
-   <name>The-Receiver</name>
-  </author>
-  <link href="https://github.com/The-Receiver/Learning-LISP" />
-  <id>urn:rprimus:github:The-Receiver:Learning-LISP</id>
-  <published>2020-04-03T13:39:53Z</published>
-  <updated>2020-04-03T13:39:53Z</updated>
-  <content type="html">
-   I do stuff in clisp
-  </content>
- </entry>
- <entry>
-  <title>nachtflug5: matlisp</title>
-  <author>
-   <name>nachtflug5</name>
-  </author>
-  <link href="https://github.com/nachtflug5/matlisp" />
-  <id>urn:rprimus:github:nachtflug5:matlisp</id>
-  <published>2020-04-03T10:16:57Z</published>
-  <updated>2020-04-03T10:16:57Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
