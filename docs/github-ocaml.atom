@@ -2,30 +2,69 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2020-04-06T09:23:59Z</updated>
+<updated>2020-04-07T01:05:33Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
  <entry>
-  <title>amelieled: lambdapi</title>
+  <title>pjot726: 99Problems</title>
   <author>
-   <name>amelieled</name>
+   <name>pjot726</name>
   </author>
-  <link href="https://github.com/amelieled/lambdapi" />
-  <id>urn:rprimus:github:amelieled:lambdapi</id>
-  <published>2020-04-06T09:23:59Z</published>
-  <updated>2020-04-06T09:23:59Z</updated>
+  <link href="https://github.com/pjot726/99Problems" />
+  <id>urn:rprimus:github:pjot726:99Problems</id>
+  <published>2020-04-07T01:05:33Z</published>
+  <updated>2020-04-07T01:05:33Z</updated>
+  <content type="html">
+   My solutions to the 99 Problems found at https://ocaml.org/learn/tutorials/99problems.html
+  </content>
+ </entry>
+ <entry>
+  <title>jmars: shen-ocaml</title>
+  <author>
+   <name>jmars</name>
+  </author>
+  <link href="https://github.com/jmars/shen-ocaml" />
+  <id>urn:rprimus:github:jmars:shen-ocaml</id>
+  <published>2020-04-06T23:45:58Z</published>
+  <updated>2020-04-06T23:45:58Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>Deducteam: lp</title>
+  <title>hatsugai: ActorModel</title>
   <author>
-   <name>Deducteam</name>
+   <name>hatsugai</name>
   </author>
-  <link href="https://github.com/Deducteam/lp" />
-  <id>urn:rprimus:github:Deducteam:lp</id>
-  <published>2020-04-06T09:05:39Z</published>
-  <updated>2020-04-06T09:05:39Z</updated>
+  <link href="https://github.com/hatsugai/ActorModel" />
+  <id>urn:rprimus:github:hatsugai:ActorModel</id>
+  <published>2020-04-06T19:51:00Z</published>
+  <updated>2020-04-06T19:51:00Z</updated>
+  <content type="html">
+   Simple visualizer for Actor model
+  </content>
+ </entry>
+ <entry>
+  <title>princedpw: dpt</title>
+  <author>
+   <name>princedpw</name>
+  </author>
+  <link href="https://github.com/princedpw/dpt" />
+  <id>urn:rprimus:github:princedpw:dpt</id>
+  <published>2020-04-06T14:32:19Z</published>
+  <updated>2020-04-06T14:32:19Z</updated>
+  <content type="html">
+   Data plane threads
+  </content>
+ </entry>
+ <entry>
+  <title>sinagaki58: ocaml-project</title>
+  <author>
+   <name>sinagaki58</name>
+  </author>
+  <link href="https://github.com/sinagaki58/ocaml-project" />
+  <id>urn:rprimus:github:sinagaki58:ocaml-project</id>
+  <published>2020-04-06T13:32:32Z</published>
+  <updated>2020-04-06T13:32:32Z</updated>
   <content type="html">
    
   </content>
@@ -54,6 +93,19 @@
   <updated>2020-04-06T02:57:58Z</updated>
   <content type="html">
    Path tracer live coded in stream
+  </content>
+ </entry>
+ <entry>
+  <title>brendon-ng: UCLA-CS-131</title>
+  <author>
+   <name>brendon-ng</name>
+  </author>
+  <link href="https://github.com/brendon-ng/UCLA-CS-131" />
+  <id>urn:rprimus:github:brendon-ng:UCLA-CS-131</id>
+  <published>2020-04-06T01:05:11Z</published>
+  <updated>2020-04-06T01:05:11Z</updated>
+  <content type="html">
+   
   </content>
  </entry>
  <entry>
@@ -132,71 +184,6 @@
   <updated>2020-04-05T02:45:07Z</updated>
   <content type="html">
    Example unikernel using opium + httpaf (using https://github.com/dinosaure/paf-le-chien)
-  </content>
- </entry>
- <entry>
-  <title>spritefullake: central-dogma</title>
-  <author>
-   <name>spritefullake</name>
-  </author>
-  <link href="https://github.com/spritefullake/central-dogma" />
-  <id>urn:rprimus:github:spritefullake:central-dogma</id>
-  <published>2020-04-04T23:50:30Z</published>
-  <updated>2020-04-04T23:50:30Z</updated>
-  <content type="html">
-   The Central Dogma of Biology as a program!
-  </content>
- </entry>
- <entry>
-  <title>aulawrence: lwt_echo_server</title>
-  <author>
-   <name>aulawrence</name>
-  </author>
-  <link href="https://github.com/aulawrence/lwt_echo_server" />
-  <id>urn:rprimus:github:aulawrence:lwt_echo_server</id>
-  <published>2020-04-04T13:34:30Z</published>
-  <updated>2020-04-04T13:34:30Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>clashrover: Spread_Sheet_Ocaml</title>
-  <author>
-   <name>clashrover</name>
-  </author>
-  <link href="https://github.com/clashrover/Spread_Sheet_Ocaml" />
-  <id>urn:rprimus:github:clashrover:Spread_Sheet_Ocaml</id>
-  <published>2020-04-04T13:26:25Z</published>
-  <updated>2020-04-04T13:26:25Z</updated>
-  <content type="html">
-   Spread Sheet formula interpreter using ocaml lex,yacc and driver code 
-  </content>
- </entry>
- <entry>
-  <title>oliverflum: eval_kernel</title>
-  <author>
-   <name>oliverflum</name>
-  </author>
-  <link href="https://github.com/oliverflum/eval_kernel" />
-  <id>urn:rprimus:github:oliverflum:eval_kernel</id>
-  <published>2020-04-04T12:46:06Z</published>
-  <updated>2020-04-04T12:46:06Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Amaoto17: occ</title>
-  <author>
-   <name>Amaoto17</name>
-  </author>
-  <link href="https://github.com/Amaoto17/occ" />
-  <id>urn:rprimus:github:Amaoto17:occ</id>
-  <published>2020-04-04T12:36:37Z</published>
-  <updated>2020-04-04T12:36:37Z</updated>
-  <content type="html">
-   Toy C compiler
   </content>
  </entry>
 </feed>
