@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-sml.atom"/>
 <id>urn:rprimus:github:newsmlrepos</id>
-<updated>2020-04-06T20:17:15Z</updated>
+<updated>2020-04-07T13:20:49Z</updated>
 <title type='text'>New GitHub Sml Repos</title>
+ <entry>
+  <title>diku-dk: sml-regexp</title>
+  <author>
+   <name>diku-dk</name>
+  </author>
+  <link href="https://github.com/diku-dk/sml-regexp" />
+  <id>urn:rprimus:github:diku-dk:sml-regexp</id>
+  <published>2020-04-07T13:20:49Z</published>
+  <updated>2020-04-07T13:20:49Z</updated>
+  <content type="html">
+   Standard ML package for regular expressions
+  </content>
+ </entry>
  <entry>
   <title>diku-dk: sml-hashtable</title>
   <author>
@@ -41,58 +54,6 @@
   <updated>2020-04-06T17:00:49Z</updated>
   <content type="html">
    Standard ML library for generating random numbers
-  </content>
- </entry>
- <entry>
-  <title>Joseplh: Milestone3_2020</title>
-  <author>
-   <name>Joseplh</name>
-  </author>
-  <link href="https://github.com/Joseplh/Milestone3_2020" />
-  <id>urn:rprimus:github:Joseplh:Milestone3_2020</id>
-  <published>2020-04-05T23:02:35Z</published>
-  <updated>2020-04-05T23:02:35Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>kyhorne: comp3002</title>
-  <author>
-   <name>kyhorne</name>
-  </author>
-  <link href="https://github.com/kyhorne/comp3002" />
-  <id>urn:rprimus:github:kyhorne:comp3002</id>
-  <published>2020-04-05T18:56:15Z</published>
-  <updated>2020-04-05T18:56:15Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>diku-dk: sml-setmap</title>
-  <author>
-   <name>diku-dk</name>
-  </author>
-  <link href="https://github.com/diku-dk/sml-setmap" />
-  <id>urn:rprimus:github:diku-dk:sml-setmap</id>
-  <published>2020-04-05T11:38:08Z</published>
-  <updated>2020-04-05T11:38:08Z</updated>
-  <content type="html">
-   Standard ML library for sets and maps
-  </content>
- </entry>
- <entry>
-  <title>medegw01: AGSml</title>
-  <author>
-   <name>medegw01</name>
-  </author>
-  <link href="https://github.com/medegw01/AGSml" />
-  <id>urn:rprimus:github:medegw01:AGSml</id>
-  <published>2020-04-05T03:38:46Z</published>
-  <updated>2020-04-05T03:38:46Z</updated>
-  <content type="html">
-   An automatic game solver for simple two player game like stick
   </content>
  </entry>
 </feed>
