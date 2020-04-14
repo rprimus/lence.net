@@ -2,8 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-erlang.atom"/>
 <id>urn:rprimus:github:newerlangrepos</id>
-<updated>2020-04-12T21:51:06Z</updated>
+<updated>2020-04-14T06:12:42Z</updated>
 <title type='text'>New GitHub Erlang Repos</title>
+ <entry>
+  <title>jhw: hello_erlang</title>
+  <author>
+   <name>jhw</name>
+  </author>
+  <link href="https://github.com/jhw/hello_erlang" />
+  <id>urn:rprimus:github:jhw:hello_erlang</id>
+  <published>2020-04-14T06:12:42Z</published>
+  <updated>2020-04-14T06:12:42Z</updated>
+  <content type="html">
+   Hello World Erlang application
+  </content>
+ </entry>
+ <entry>
+  <title>chouzar: gleam-life</title>
+  <author>
+   <name>chouzar</name>
+  </author>
+  <link href="https://github.com/chouzar/gleam-life" />
+  <id>urn:rprimus:github:chouzar:gleam-life</id>
+  <published>2020-04-14T06:11:42Z</published>
+  <updated>2020-04-14T06:11:42Z</updated>
+  <content type="html">
+   A test library for the Gleam language
+  </content>
+ </entry>
+ <entry>
+  <title>max-au: flexi_model</title>
+  <author>
+   <name>max-au</name>
+  </author>
+  <link href="https://github.com/max-au/flexi_model" />
+  <id>urn:rprimus:github:max-au:flexi_model</id>
+  <published>2020-04-14T03:06:50Z</published>
+  <updated>2020-04-14T03:06:50Z</updated>
+  <content type="html">
+   Flexible Service Topology Model
+  </content>
+ </entry>
+ <entry>
+  <title>Qbius: stardew</title>
+  <author>
+   <name>Qbius</name>
+  </author>
+  <link href="https://github.com/Qbius/stardew" />
+  <id>urn:rprimus:github:Qbius:stardew</id>
+  <published>2020-04-13T21:21:13Z</published>
+  <updated>2020-04-13T21:21:13Z</updated>
+  <content type="html">
+   some random scripts I need for stardew valley
+  </content>
+ </entry>
+ <entry>
+  <title>brennan801: sudoku_final</title>
+  <author>
+   <name>brennan801</name>
+  </author>
+  <link href="https://github.com/brennan801/sudoku_final" />
+  <id>urn:rprimus:github:brennan801:sudoku_final</id>
+  <published>2020-04-13T20:00:59Z</published>
+  <updated>2020-04-13T20:00:59Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>joq62: basic</title>
+  <author>
+   <name>joq62</name>
+  </author>
+  <link href="https://github.com/joq62/basic" />
+  <id>urn:rprimus:github:joq62:basic</id>
+  <published>2020-04-13T19:29:11Z</published>
+  <updated>2020-04-13T19:29:11Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>vtumi: emqx_rabbitmq</title>
+  <author>
+   <name>vtumi</name>
+  </author>
+  <link href="https://github.com/vtumi/emqx_rabbitmq" />
+  <id>urn:rprimus:github:vtumi:emqx_rabbitmq</id>
+  <published>2020-04-13T12:24:14Z</published>
+  <updated>2020-04-13T12:24:14Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>tonyrog: xcal</title>
   <author>
@@ -31,6 +122,32 @@
   </content>
  </entry>
  <entry>
+  <title>michaldarda: designing-for-scalability-with-erlang-otp</title>
+  <author>
+   <name>michaldarda</name>
+  </author>
+  <link href="https://github.com/michaldarda/designing-for-scalability-with-erlang-otp" />
+  <id>urn:rprimus:github:michaldarda:designing-for-scalability-with-erlang-otp</id>
+  <published>2020-04-12T17:00:57Z</published>
+  <updated>2020-04-12T17:00:57Z</updated>
+  <content type="html">
+   Going through examples from Designing for scalability with Erlang/OTP book
+  </content>
+ </entry>
+ <entry>
+  <title>Tansor22: ErlangActors</title>
+  <author>
+   <name>Tansor22</name>
+  </author>
+  <link href="https://github.com/Tansor22/ErlangActors" />
+  <id>urn:rprimus:github:Tansor22:ErlangActors</id>
+  <published>2020-04-12T11:46:23Z</published>
+  <updated>2020-04-12T11:46:23Z</updated>
+  <content type="html">
+   Studying actors paradigm with Erlang, SE 2 term.
+  </content>
+ </entry>
+ <entry>
   <title>AndreoliBR: testelixir</title>
   <author>
    <name>AndreoliBR</name>
@@ -41,175 +158,6 @@
   <updated>2020-04-12T01:28:58Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>eiri: fake-tele</title>
-  <author>
-   <name>eiri</name>
-  </author>
-  <link href="https://github.com/eiri/fake-tele" />
-  <id>urn:rprimus:github:eiri:fake-tele</id>
-  <published>2020-04-11T21:56:41Z</published>
-  <updated>2020-04-11T21:56:41Z</updated>
-  <content type="html">
-   Fake telemetry MQTT client
-  </content>
- </entry>
- <entry>
-  <title>salseeg: solving-euler</title>
-  <author>
-   <name>salseeg</name>
-  </author>
-  <link href="https://github.com/salseeg/solving-euler" />
-  <id>urn:rprimus:github:salseeg:solving-euler</id>
-  <published>2020-04-11T18:54:21Z</published>
-  <updated>2020-04-11T18:54:21Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>rk108: bigdatatech_test</title>
-  <author>
-   <name>rk108</name>
-  </author>
-  <link href="https://github.com/rk108/bigdatatech_test" />
-  <id>urn:rprimus:github:rk108:bigdatatech_test</id>
-  <published>2020-04-11T17:39:26Z</published>
-  <updated>2020-04-11T17:39:26Z</updated>
-  <content type="html">
-   big data tech websocket chat test
-  </content>
- </entry>
- <entry>
-  <title>manucorujo: Concurrence</title>
-  <author>
-   <name>manucorujo</name>
-  </author>
-  <link href="https://github.com/manucorujo/Concurrence" />
-  <id>urn:rprimus:github:manucorujo:Concurrence</id>
-  <published>2020-04-11T17:38:29Z</published>
-  <updated>2020-04-11T17:38:29Z</updated>
-  <content type="html">
-   Concurrence practices of &quot;614G010181920 - Concorrencia e Paralelismo - Grao en EnxeÃ±arÃ­a InformÃ¡tica - UDC&quot; completed at 2020
-  </content>
- </entry>
- <entry>
-  <title>Petroniuss: Erlang</title>
-  <author>
-   <name>Petroniuss</name>
-  </author>
-  <link href="https://github.com/Petroniuss/Erlang" />
-  <id>urn:rprimus:github:Petroniuss:Erlang</id>
-  <published>2020-04-11T15:08:12Z</published>
-  <updated>2020-04-11T15:08:12Z</updated>
-  <content type="html">
-   AGH - IV semester
-  </content>
- </entry>
- <entry>
-  <title>SisMaker: erlSync</title>
-  <author>
-   <name>SisMaker</name>
-  </author>
-  <link href="https://github.com/SisMaker/erlSync" />
-  <id>urn:rprimus:github:SisMaker:erlSync</id>
-  <published>2020-04-11T11:55:27Z</published>
-  <updated>2020-04-11T11:55:27Z</updated>
-  <content type="html">
-   erlangç¼è¯åå è½½ï¼éç¨äºå¼åæ¨¡å¼ä¸ä¿®æ¹ä»£ç æèç¼è¯åèªå¨ç¼è¯å è½½ä»£ç 
-  </content>
- </entry>
- <entry>
-  <title>easylinkerteam: ezlinker_core_plugin</title>
-  <author>
-   <name>easylinkerteam</name>
-  </author>
-  <link href="https://github.com/easylinkerteam/ezlinker_core_plugin" />
-  <id>urn:rprimus:github:easylinkerteam:ezlinker_core_plugin</id>
-  <published>2020-04-11T08:50:33Z</published>
-  <updated>2020-04-11T08:50:33Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>easylinkerteam: ezlinker_advisory_plugin</title>
-  <author>
-   <name>easylinkerteam</name>
-  </author>
-  <link href="https://github.com/easylinkerteam/ezlinker_advisory_plugin" />
-  <id>urn:rprimus:github:easylinkerteam:ezlinker_advisory_plugin</id>
-  <published>2020-04-11T08:48:59Z</published>
-  <updated>2020-04-11T08:48:59Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>easylinkerteam: emqx-coap</title>
-  <author>
-   <name>easylinkerteam</name>
-  </author>
-  <link href="https://github.com/easylinkerteam/emqx-coap" />
-  <id>urn:rprimus:github:easylinkerteam:emqx-coap</id>
-  <published>2020-04-11T08:47:42Z</published>
-  <updated>2020-04-11T08:47:42Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>easylinkerteam: emqx-auth-mysql</title>
-  <author>
-   <name>easylinkerteam</name>
-  </author>
-  <link href="https://github.com/easylinkerteam/emqx-auth-mysql" />
-  <id>urn:rprimus:github:easylinkerteam:emqx-auth-mysql</id>
-  <published>2020-04-11T08:46:03Z</published>
-  <updated>2020-04-11T08:46:03Z</updated>
-  <content type="html">
-   emqx-auth-mysql
-  </content>
- </entry>
- <entry>
-  <title>amangujaria: cheapest_route</title>
-  <author>
-   <name>amangujaria</name>
-  </author>
-  <link href="https://github.com/amangujaria/cheapest_route" />
-  <id>urn:rprimus:github:amangujaria:cheapest_route</id>
-  <published>2020-04-11T08:40:00Z</published>
-  <updated>2020-04-11T08:40:00Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>easylinkerteam: EZMQX</title>
-  <author>
-   <name>easylinkerteam</name>
-  </author>
-  <link href="https://github.com/easylinkerteam/EZMQX" />
-  <id>urn:rprimus:github:easylinkerteam:EZMQX</id>
-  <published>2020-04-11T08:38:05Z</published>
-  <updated>2020-04-11T08:38:05Z</updated>
-  <content type="html">
-   Fork of emqx
-  </content>
- </entry>
- <entry>
-  <title>emqx: emqx-auth-mnesia</title>
-  <author>
-   <name>emqx</name>
-  </author>
-  <link href="https://github.com/emqx/emqx-auth-mnesia" />
-  <id>urn:rprimus:github:emqx:emqx-auth-mnesia</id>
-  <published>2020-04-11T08:16:33Z</published>
-  <updated>2020-04-11T08:16:33Z</updated>
-  <content type="html">
-   Authentication, ACL with Erlang Mnesia
   </content>
  </entry>
 </feed>
