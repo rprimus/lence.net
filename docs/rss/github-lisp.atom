@@ -2,8 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2020-04-14T10:36:03Z</updated>
+<updated>2020-04-15T03:22:26Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>jetmonk: test-grovel</title>
+  <author>
+   <name>jetmonk</name>
+  </author>
+  <link href="https://github.com/jetmonk/test-grovel" />
+  <id>urn:rprimus:github:jetmonk:test-grovel</id>
+  <published>2020-04-15T03:22:26Z</published>
+  <updated>2020-04-15T03:22:26Z</updated>
+  <content type="html">
+   Test package to show how cffi-grovel seems to force an recompilation
+  </content>
+ </entry>
+ <entry>
+  <title>vovaa99: UNI_LISP</title>
+  <author>
+   <name>vovaa99</name>
+  </author>
+  <link href="https://github.com/vovaa99/UNI_LISP" />
+  <id>urn:rprimus:github:vovaa99:UNI_LISP</id>
+  <published>2020-04-14T20:15:44Z</published>
+  <updated>2020-04-14T20:15:44Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>guitarvydas: statemachine0</title>
+  <author>
+   <name>guitarvydas</name>
+  </author>
+  <link href="https://github.com/guitarvydas/statemachine0" />
+  <id>urn:rprimus:github:guitarvydas:statemachine0</id>
+  <published>2020-04-14T19:26:50Z</published>
+  <updated>2020-04-14T19:26:50Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>nmunro: barghest</title>
+  <author>
+   <name>nmunro</name>
+  </author>
+  <link href="https://github.com/nmunro/barghest" />
+  <id>urn:rprimus:github:nmunro:barghest</id>
+  <published>2020-04-14T17:38:05Z</published>
+  <updated>2020-04-14T17:38:05Z</updated>
+  <content type="html">
+   A web framework in Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>NiramayVaidya: Basic_LISP_Codes</title>
+  <author>
+   <name>NiramayVaidya</name>
+  </author>
+  <link href="https://github.com/NiramayVaidya/Basic_LISP_Codes" />
+  <id>urn:rprimus:github:NiramayVaidya:Basic_LISP_Codes</id>
+  <published>2020-04-14T17:07:50Z</published>
+  <updated>2020-04-14T17:07:50Z</updated>
+  <content type="html">
+   Basic LISP codes
+  </content>
+ </entry>
+ <entry>
+  <title>jacekdus: AutoLISP-PT2BLOCK</title>
+  <author>
+   <name>jacekdus</name>
+  </author>
+  <link href="https://github.com/jacekdus/AutoLISP-PT2BLOCK" />
+  <id>urn:rprimus:github:jacekdus:AutoLISP-PT2BLOCK</id>
+  <published>2020-04-14T11:53:48Z</published>
+  <updated>2020-04-14T11:53:48Z</updated>
+  <content type="html">
+   Modification of AutoLISP program for cP. Original fount here: https://autocadtips1.com/2012/03/27/autolisp-replace-selected-points-with-block/
+  </content>
+ </entry>
+ <entry>
+  <title>peey: beautiful-infix-macro</title>
+  <author>
+   <name>peey</name>
+  </author>
+  <link href="https://github.com/peey/beautiful-infix-macro" />
+  <id>urn:rprimus:github:peey:beautiful-infix-macro</id>
+  <published>2020-04-14T11:23:12Z</published>
+  <updated>2020-04-14T11:23:12Z</updated>
+  <content type="html">
+   Supplements https://github.com/peey/ugly-tiny-infix-macro, coming soon to a lisp package repository near you
+  </content>
+ </entry>
  <entry>
   <title>Przemar5: Practical-Common-Lisp</title>
   <author>
@@ -171,136 +262,6 @@
   <updated>2020-04-13T06:06:38Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>guitarvydas: rp-assembler</title>
-  <author>
-   <name>guitarvydas</name>
-  </author>
-  <link href="https://github.com/guitarvydas/rp-assembler" />
-  <id>urn:rprimus:github:guitarvydas:rp-assembler</id>
-  <published>2020-04-12T21:51:26Z</published>
-  <updated>2020-04-12T21:51:26Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>guitarvydas: scanner</title>
-  <author>
-   <name>guitarvydas</name>
-  </author>
-  <link href="https://github.com/guitarvydas/scanner" />
-  <id>urn:rprimus:github:guitarvydas:scanner</id>
-  <published>2020-04-12T21:49:36Z</published>
-  <updated>2020-04-12T21:49:36Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>cbeo: posterbot</title>
-  <author>
-   <name>cbeo</name>
-  </author>
-  <link href="https://github.com/cbeo/posterbot" />
-  <id>urn:rprimus:github:cbeo:posterbot</id>
-  <published>2020-04-12T18:34:39Z</published>
-  <updated>2020-04-12T18:34:39Z</updated>
-  <content type="html">
-   Example matrix bot in Common Lisp using granolin
-  </content>
- </entry>
- <entry>
-  <title>shosho613: CSC291-Gridworld</title>
-  <author>
-   <name>shosho613</name>
-  </author>
-  <link href="https://github.com/shosho613/CSC291-Gridworld" />
-  <id>urn:rprimus:github:shosho613:CSC291-Gridworld</id>
-  <published>2020-04-12T18:27:22Z</published>
-  <updated>2020-04-12T18:27:22Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>rndMemex: Lisp-Exercises</title>
-  <author>
-   <name>rndMemex</name>
-  </author>
-  <link href="https://github.com/rndMemex/Lisp-Exercises" />
-  <id>urn:rprimus:github:rndMemex:Lisp-Exercises</id>
-  <published>2020-04-12T13:29:42Z</published>
-  <updated>2020-04-12T13:29:42Z</updated>
-  <content type="html">
-   Learning Lisp from Practical Common Lisp by Peter Seibel
-  </content>
- </entry>
- <entry>
-  <title>alexpalade: society-is-hard</title>
-  <author>
-   <name>alexpalade</name>
-  </author>
-  <link href="https://github.com/alexpalade/society-is-hard" />
-  <id>urn:rprimus:github:alexpalade:society-is-hard</id>
-  <published>2020-04-12T09:41:49Z</published>
-  <updated>2020-04-12T09:41:49Z</updated>
-  <content type="html">
-   A game for the Spring Lisp Jam 2020
-  </content>
- </entry>
- <entry>
-  <title>lisp-mirror: opfr.lisp</title>
-  <author>
-   <name>lisp-mirror</name>
-  </author>
-  <link href="https://github.com/lisp-mirror/opfr.lisp" />
-  <id>urn:rprimus:github:lisp-mirror:opfr.lisp</id>
-  <published>2020-04-12T09:35:06Z</published>
-  <updated>2020-04-12T09:35:06Z</updated>
-  <content type="html">
-   Outer-parentheses-free REPL
-  </content>
- </entry>
- <entry>
-  <title>Vernacular-ai: stitch</title>
-  <author>
-   <name>Vernacular-ai</name>
-  </author>
-  <link href="https://github.com/Vernacular-ai/stitch" />
-  <id>urn:rprimus:github:Vernacular-ai:stitch</id>
-  <published>2020-04-12T09:27:21Z</published>
-  <updated>2020-04-12T09:27:21Z</updated>
-  <content type="html">
-   Audio stitcher from pool of labelled recordings
-  </content>
- </entry>
- <entry>
-  <title>santo097: LISP</title>
-  <author>
-   <name>santo097</name>
-  </author>
-  <link href="https://github.com/santo097/LISP" />
-  <id>urn:rprimus:github:santo097:LISP</id>
-  <published>2020-04-12T00:42:28Z</published>
-  <updated>2020-04-12T00:42:28Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>defaultxr: thundersnow</title>
-  <author>
-   <name>defaultxr</name>
-  </author>
-  <link href="https://github.com/defaultxr/thundersnow" />
-  <id>urn:rprimus:github:defaultxr:thundersnow</id>
-  <published>2020-04-12T00:30:53Z</published>
-  <updated>2020-04-12T00:30:53Z</updated>
-  <content type="html">
-   Lisp/CLIM-based digital audio workstation and live coding laboratory.
   </content>
  </entry>
 </feed>
