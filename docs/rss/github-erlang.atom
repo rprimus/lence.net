@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-erlang.atom"/>
 <id>urn:rprimus:github:newerlangrepos</id>
-<updated>2020-04-14T06:12:42Z</updated>
+<updated>2020-04-15T03:38:16Z</updated>
 <title type='text'>New GitHub Erlang Repos</title>
+ <entry>
+  <title>feapoi: round_battle_statem</title>
+  <author>
+   <name>feapoi</name>
+  </author>
+  <link href="https://github.com/feapoi/round_battle_statem" />
+  <id>urn:rprimus:github:feapoi:round_battle_statem</id>
+  <published>2020-04-15T03:38:16Z</published>
+  <updated>2020-04-15T03:38:16Z</updated>
+  <content type="html">
+   Turn-based combat state machine
+  </content>
+ </entry>
+ <entry>
+  <title>daidoji: erlang_foo</title>
+  <author>
+   <name>daidoji</name>
+  </author>
+  <link href="https://github.com/daidoji/erlang_foo" />
+  <id>urn:rprimus:github:daidoji:erlang_foo</id>
+  <published>2020-04-15T01:30:50Z</published>
+  <updated>2020-04-15T01:30:50Z</updated>
+  <content type="html">
+   Just trynna learn erlang
+  </content>
+ </entry>
+ <entry>
+  <title>choptastic: erlias</title>
+  <author>
+   <name>choptastic</name>
+  </author>
+  <link href="https://github.com/choptastic/erlias" />
+  <id>urn:rprimus:github:choptastic:erlias</id>
+  <published>2020-04-14T21:50:06Z</published>
+  <updated>2020-04-14T21:50:06Z</updated>
+  <content type="html">
+   Erlang Alias Module Creator
+  </content>
+ </entry>
+ <entry>
+  <title>joq62: web_application</title>
+  <author>
+   <name>joq62</name>
+  </author>
+  <link href="https://github.com/joq62/web_application" />
+  <id>urn:rprimus:github:joq62:web_application</id>
+  <published>2020-04-14T20:52:25Z</published>
+  <updated>2020-04-14T20:52:25Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>god-ch: rebar3_gpb_rpc_plugin</title>
+  <author>
+   <name>god-ch</name>
+  </author>
+  <link href="https://github.com/god-ch/rebar3_gpb_rpc_plugin" />
+  <id>urn:rprimus:github:god-ch:rebar3_gpb_rpc_plugin</id>
+  <published>2020-04-14T17:11:43Z</published>
+  <updated>2020-04-14T17:11:43Z</updated>
+  <content type="html">
+   base on rebar3_gpb_plugin,generate rpc service
+  </content>
+ </entry>
+ <entry>
+  <title>arthur-rrs: calendar-with-elixir-api</title>
+  <author>
+   <name>arthur-rrs</name>
+  </author>
+  <link href="https://github.com/arthur-rrs/calendar-with-elixir-api" />
+  <id>urn:rprimus:github:arthur-rrs:calendar-with-elixir-api</id>
+  <published>2020-04-14T16:34:04Z</published>
+  <updated>2020-04-14T16:34:04Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>jhw: hello_erlang</title>
   <author>
@@ -91,71 +169,6 @@
   <id>urn:rprimus:github:vtumi:emqx_rabbitmq</id>
   <published>2020-04-13T12:24:14Z</published>
   <updated>2020-04-13T12:24:14Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>tonyrog: xcal</title>
-  <author>
-   <name>tonyrog</name>
-  </author>
-  <link href="https://github.com/tonyrog/xcal" />
-  <id>urn:rprimus:github:tonyrog:xcal</id>
-  <published>2020-04-12T21:51:06Z</published>
-  <updated>2020-04-12T21:51:06Z</updated>
-  <content type="html">
-   xcal can send sunrise/sunset events for xbus
-  </content>
- </entry>
- <entry>
-  <title>suexcxine: simple_global</title>
-  <author>
-   <name>suexcxine</name>
-  </author>
-  <link href="https://github.com/suexcxine/simple_global" />
-  <id>urn:rprimus:github:suexcxine:simple_global</id>
-  <published>2020-04-12T17:24:13Z</published>
-  <updated>2020-04-12T17:24:13Z</updated>
-  <content type="html">
-   A simple gen_server callback module for global name register.
-  </content>
- </entry>
- <entry>
-  <title>michaldarda: designing-for-scalability-with-erlang-otp</title>
-  <author>
-   <name>michaldarda</name>
-  </author>
-  <link href="https://github.com/michaldarda/designing-for-scalability-with-erlang-otp" />
-  <id>urn:rprimus:github:michaldarda:designing-for-scalability-with-erlang-otp</id>
-  <published>2020-04-12T17:00:57Z</published>
-  <updated>2020-04-12T17:00:57Z</updated>
-  <content type="html">
-   Going through examples from Designing for scalability with Erlang/OTP book
-  </content>
- </entry>
- <entry>
-  <title>Tansor22: ErlangActors</title>
-  <author>
-   <name>Tansor22</name>
-  </author>
-  <link href="https://github.com/Tansor22/ErlangActors" />
-  <id>urn:rprimus:github:Tansor22:ErlangActors</id>
-  <published>2020-04-12T11:46:23Z</published>
-  <updated>2020-04-12T11:46:23Z</updated>
-  <content type="html">
-   Studying actors paradigm with Erlang, SE 2 term.
-  </content>
- </entry>
- <entry>
-  <title>AndreoliBR: testelixir</title>
-  <author>
-   <name>AndreoliBR</name>
-  </author>
-  <link href="https://github.com/AndreoliBR/testelixir" />
-  <id>urn:rprimus:github:AndreoliBR:testelixir</id>
-  <published>2020-04-12T01:28:58Z</published>
-  <updated>2020-04-12T01:28:58Z</updated>
   <content type="html">
    
   </content>
