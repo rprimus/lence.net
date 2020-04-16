@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2020-04-15T03:22:26Z</updated>
+<updated>2020-04-15T20:03:03Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>phoe: trivial-custom-debugger</title>
+  <author>
+   <name>phoe</name>
+  </author>
+  <link href="https://github.com/phoe/trivial-custom-debugger" />
+  <id>urn:rprimus:github:phoe:trivial-custom-debugger</id>
+  <published>2020-04-15T20:03:03Z</published>
+  <updated>2020-04-15T20:03:03Z</updated>
+  <content type="html">
+   Allows arbitrary functions to become the standard Lisp debugger
+  </content>
+ </entry>
+ <entry>
+  <title>parallele-at: covid</title>
+  <author>
+   <name>parallele-at</name>
+  </author>
+  <link href="https://github.com/parallele-at/covid" />
+  <id>urn:rprimus:github:parallele-at:covid</id>
+  <published>2020-04-15T15:20:40Z</published>
+  <updated>2020-04-15T15:20:40Z</updated>
+  <content type="html">
+   Public Secrets about Vira Useful to Humans
+  </content>
+ </entry>
+ <entry>
+  <title>kpoeck: Scheduling-Solver</title>
+  <author>
+   <name>kpoeck</name>
+  </author>
+  <link href="https://github.com/kpoeck/Scheduling-Solver" />
+  <id>urn:rprimus:github:kpoeck:Scheduling-Solver</id>
+  <published>2020-04-15T14:30:41Z</published>
+  <updated>2020-04-15T14:30:41Z</updated>
+  <content type="html">
+   Scheduling Solver from my diploma thesis
+  </content>
+ </entry>
+ <entry>
+  <title>kpoeck: combine</title>
+  <author>
+   <name>kpoeck</name>
+  </author>
+  <link href="https://github.com/kpoeck/combine" />
+  <id>urn:rprimus:github:kpoeck:combine</id>
+  <published>2020-04-15T11:07:35Z</published>
+  <updated>2020-04-15T11:07:35Z</updated>
+  <content type="html">
+   Solver for combinatoric puzzles
+  </content>
+ </entry>
  <entry>
   <title>jetmonk: test-grovel</title>
   <author>
@@ -156,110 +208,6 @@
   <id>urn:rprimus:github:shawwn:garou</id>
   <published>2020-04-14T00:07:42Z</published>
   <updated>2020-04-14T00:07:42Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>michaelkolber: kong-316</title>
-  <author>
-   <name>michaelkolber</name>
-  </author>
-  <link href="https://github.com/michaelkolber/kong-316" />
-  <id>urn:rprimus:github:michaelkolber:kong-316</id>
-  <published>2020-04-13T23:37:01Z</published>
-  <updated>2020-04-13T23:37:01Z</updated>
-  <content type="html">
-   Helpful programs for Kong&#039;s 316 class at QC
-  </content>
- </entry>
- <entry>
-  <title>guitarvydas: expr-dsl</title>
-  <author>
-   <name>guitarvydas</name>
-  </author>
-  <link href="https://github.com/guitarvydas/expr-dsl" />
-  <id>urn:rprimus:github:guitarvydas:expr-dsl</id>
-  <published>2020-04-13T22:19:28Z</published>
-  <updated>2020-04-13T22:19:28Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>guitarvydas: parsing-assembler</title>
-  <author>
-   <name>guitarvydas</name>
-  </author>
-  <link href="https://github.com/guitarvydas/parsing-assembler" />
-  <id>urn:rprimus:github:guitarvydas:parsing-assembler</id>
-  <published>2020-04-13T21:07:59Z</published>
-  <updated>2020-04-13T21:07:59Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>g000001: srfi-145</title>
-  <author>
-   <name>g000001</name>
-  </author>
-  <link href="https://github.com/g000001/srfi-145" />
-  <id>urn:rprimus:github:g000001:srfi-145</id>
-  <published>2020-04-13T19:27:04Z</published>
-  <updated>2020-04-13T19:27:04Z</updated>
-  <content type="html">
-   SRFI 145 for CL: Assumptions
-  </content>
- </entry>
- <entry>
-  <title>death: cl-deepspeech</title>
-  <author>
-   <name>death</name>
-  </author>
-  <link href="https://github.com/death/cl-deepspeech" />
-  <id>urn:rprimus:github:death:cl-deepspeech</id>
-  <published>2020-04-13T18:54:54Z</published>
-  <updated>2020-04-13T18:54:54Z</updated>
-  <content type="html">
-   DeepSpeech bindings for Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>lisp-mirror: GBBopen</title>
-  <author>
-   <name>lisp-mirror</name>
-  </author>
-  <link href="https://github.com/lisp-mirror/GBBopen" />
-  <id>urn:rprimus:github:lisp-mirror:GBBopen</id>
-  <published>2020-04-13T18:48:33Z</published>
-  <updated>2020-04-13T18:48:33Z</updated>
-  <content type="html">
-   http://gbbopen.org/downloads.html
-  </content>
- </entry>
- <entry>
-  <title>bpanthi977: nlopt</title>
-  <author>
-   <name>bpanthi977</name>
-  </author>
-  <link href="https://github.com/bpanthi977/nlopt" />
-  <id>urn:rprimus:github:bpanthi977:nlopt</id>
-  <published>2020-04-13T12:39:37Z</published>
-  <updated>2020-04-13T12:39:37Z</updated>
-  <content type="html">
-   Common Lisp interface to Non-linear Optimization Library (NLOpt)
-  </content>
- </entry>
- <entry>
-  <title>syuni: land-of-lisp</title>
-  <author>
-   <name>syuni</name>
-  </author>
-  <link href="https://github.com/syuni/land-of-lisp" />
-  <id>urn:rprimus:github:syuni:land-of-lisp</id>
-  <published>2020-04-13T06:06:38Z</published>
-  <updated>2020-04-13T06:06:38Z</updated>
   <content type="html">
    
   </content>
