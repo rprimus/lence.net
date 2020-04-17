@@ -2,8 +2,138 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2020-04-15T20:03:03Z</updated>
+<updated>2020-04-17T06:09:37Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>easye: jeannie</title>
+  <author>
+   <name>easye</name>
+  </author>
+  <link href="https://github.com/easye/jeannie" />
+  <id>urn:rprimus:github:easye:jeannie</id>
+  <published>2020-04-17T06:09:37Z</published>
+  <updated>2020-04-17T06:09:37Z</updated>
+  <content type="html">
+   Jeannie provides an encapsulation of Apache Jena in Common Lisp via direct manipulation of Maven binary POM artifacts via an ~ABCL~ runtime
+  </content>
+ </entry>
+ <entry>
+  <title>Shinmera: feeder</title>
+  <author>
+   <name>Shinmera</name>
+  </author>
+  <link href="https://github.com/Shinmera/feeder" />
+  <id>urn:rprimus:github:Shinmera:feeder</id>
+  <published>2020-04-16T22:15:47Z</published>
+  <updated>2020-04-16T22:15:47Z</updated>
+  <content type="html">
+   RSS, Atom and general feed parsing and generating
+  </content>
+ </entry>
+ <entry>
+  <title>borodust: bodge-tmx</title>
+  <author>
+   <name>borodust</name>
+  </author>
+  <link href="https://github.com/borodust/bodge-tmx" />
+  <id>urn:rprimus:github:borodust:bodge-tmx</id>
+  <published>2020-04-16T21:48:11Z</published>
+  <updated>2020-04-16T21:48:11Z</updated>
+  <content type="html">
+   Thin Common Lisp wrapper over libtmx: https://github.com/baylej/tmx/
+  </content>
+ </entry>
+ <entry>
+  <title>g000001: srfi-173</title>
+  <author>
+   <name>g000001</name>
+  </author>
+  <link href="https://github.com/g000001/srfi-173" />
+  <id>urn:rprimus:github:g000001:srfi-173</id>
+  <published>2020-04-16T20:25:01Z</published>
+  <updated>2020-04-16T20:25:01Z</updated>
+  <content type="html">
+   SRFI 173 for CL: Hooks
+  </content>
+ </entry>
+ <entry>
+  <title>Abzalov50: port</title>
+  <author>
+   <name>Abzalov50</name>
+  </author>
+  <link href="https://github.com/Abzalov50/port" />
+  <id>urn:rprimus:github:Abzalov50:port</id>
+  <published>2020-04-16T19:44:16Z</published>
+  <updated>2020-04-16T19:44:16Z</updated>
+  <content type="html">
+   Fork of Common Lisp &quot;PORT&quot; package
+  </content>
+ </entry>
+ <entry>
+  <title>tommasoviciani: prime-number-lisp</title>
+  <author>
+   <name>tommasoviciani</name>
+  </author>
+  <link href="https://github.com/tommasoviciani/prime-number-lisp" />
+  <id>urn:rprimus:github:tommasoviciani:prime-number-lisp</id>
+  <published>2020-04-16T14:44:53Z</published>
+  <updated>2020-04-16T14:44:53Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>fufie: lambdarock</title>
+  <author>
+   <name>fufie</name>
+  </author>
+  <link href="https://github.com/fufie/lambdarock" />
+  <id>urn:rprimus:github:fufie:lambdarock</id>
+  <published>2020-04-16T12:05:51Z</published>
+  <updated>2020-04-16T12:05:51Z</updated>
+  <content type="html">
+   Common Lisp Roguelike Langband ++
+  </content>
+ </entry>
+ <entry>
+  <title>kpoeck: d3light</title>
+  <author>
+   <name>kpoeck</name>
+  </author>
+  <link href="https://github.com/kpoeck/d3light" />
+  <id>urn:rprimus:github:kpoeck:d3light</id>
+  <published>2020-04-16T10:22:17Z</published>
+  <updated>2020-04-16T10:22:17Z</updated>
+  <content type="html">
+   Backend for an old generic expert system
+  </content>
+ </entry>
+ <entry>
+  <title>vinhtrang1003: WoflGoatCabbage-AI-LISP</title>
+  <author>
+   <name>vinhtrang1003</name>
+  </author>
+  <link href="https://github.com/vinhtrang1003/WoflGoatCabbage-AI-LISP" />
+  <id>urn:rprimus:github:vinhtrang1003:WoflGoatCabbage-AI-LISP</id>
+  <published>2020-04-16T03:45:05Z</published>
+  <updated>2020-04-16T03:45:05Z</updated>
+  <content type="html">
+   WoflGoatCabbage-AI-Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>vinhtrang1003: Connect-3-Lisp</title>
+  <author>
+   <name>vinhtrang1003</name>
+  </author>
+  <link href="https://github.com/vinhtrang1003/Connect-3-Lisp" />
+  <id>urn:rprimus:github:vinhtrang1003:Connect-3-Lisp</id>
+  <published>2020-04-16T03:29:51Z</published>
+  <updated>2020-04-16T03:29:51Z</updated>
+  <content type="html">
+   Simple AI Connect-3 run on Clisp
+  </content>
+ </entry>
  <entry>
   <title>phoe: trivial-custom-debugger</title>
   <author>
@@ -15,6 +145,19 @@
   <updated>2020-04-15T20:03:03Z</updated>
   <content type="html">
    Allows arbitrary functions to become the standard Lisp debugger
+  </content>
+ </entry>
+ <entry>
+  <title>srinathvs: LISPProjects</title>
+  <author>
+   <name>srinathvs</name>
+  </author>
+  <link href="https://github.com/srinathvs/LISPProjects" />
+  <id>urn:rprimus:github:srinathvs:LISPProjects</id>
+  <published>2020-04-15T19:36:31Z</published>
+  <updated>2020-04-15T19:36:31Z</updated>
+  <content type="html">
+   Collection of Lisp Projects
   </content>
  </entry>
  <entry>
@@ -67,149 +210,6 @@
   <updated>2020-04-15T03:22:26Z</updated>
   <content type="html">
    Test package to show how cffi-grovel seems to force an recompilation
-  </content>
- </entry>
- <entry>
-  <title>vovaa99: UNI_LISP</title>
-  <author>
-   <name>vovaa99</name>
-  </author>
-  <link href="https://github.com/vovaa99/UNI_LISP" />
-  <id>urn:rprimus:github:vovaa99:UNI_LISP</id>
-  <published>2020-04-14T20:15:44Z</published>
-  <updated>2020-04-14T20:15:44Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>guitarvydas: statemachine0</title>
-  <author>
-   <name>guitarvydas</name>
-  </author>
-  <link href="https://github.com/guitarvydas/statemachine0" />
-  <id>urn:rprimus:github:guitarvydas:statemachine0</id>
-  <published>2020-04-14T19:26:50Z</published>
-  <updated>2020-04-14T19:26:50Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>nmunro: barghest</title>
-  <author>
-   <name>nmunro</name>
-  </author>
-  <link href="https://github.com/nmunro/barghest" />
-  <id>urn:rprimus:github:nmunro:barghest</id>
-  <published>2020-04-14T17:38:05Z</published>
-  <updated>2020-04-14T17:38:05Z</updated>
-  <content type="html">
-   A web framework in Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>NiramayVaidya: Basic_LISP_Codes</title>
-  <author>
-   <name>NiramayVaidya</name>
-  </author>
-  <link href="https://github.com/NiramayVaidya/Basic_LISP_Codes" />
-  <id>urn:rprimus:github:NiramayVaidya:Basic_LISP_Codes</id>
-  <published>2020-04-14T17:07:50Z</published>
-  <updated>2020-04-14T17:07:50Z</updated>
-  <content type="html">
-   Basic LISP codes
-  </content>
- </entry>
- <entry>
-  <title>jacekdus: AutoLISP-PT2BLOCK</title>
-  <author>
-   <name>jacekdus</name>
-  </author>
-  <link href="https://github.com/jacekdus/AutoLISP-PT2BLOCK" />
-  <id>urn:rprimus:github:jacekdus:AutoLISP-PT2BLOCK</id>
-  <published>2020-04-14T11:53:48Z</published>
-  <updated>2020-04-14T11:53:48Z</updated>
-  <content type="html">
-   Modification of AutoLISP program for cP. Original fount here: https://autocadtips1.com/2012/03/27/autolisp-replace-selected-points-with-block/
-  </content>
- </entry>
- <entry>
-  <title>peey: beautiful-infix-macro</title>
-  <author>
-   <name>peey</name>
-  </author>
-  <link href="https://github.com/peey/beautiful-infix-macro" />
-  <id>urn:rprimus:github:peey:beautiful-infix-macro</id>
-  <published>2020-04-14T11:23:12Z</published>
-  <updated>2020-04-14T11:23:12Z</updated>
-  <content type="html">
-   Supplements https://github.com/peey/ugly-tiny-infix-macro, coming soon to a lisp package repository near you
-  </content>
- </entry>
- <entry>
-  <title>Przemar5: Practical-Common-Lisp</title>
-  <author>
-   <name>Przemar5</name>
-  </author>
-  <link href="https://github.com/Przemar5/Practical-Common-Lisp" />
-  <id>urn:rprimus:github:Przemar5:Practical-Common-Lisp</id>
-  <published>2020-04-14T10:36:03Z</published>
-  <updated>2020-04-14T10:36:03Z</updated>
-  <content type="html">
-   Code with &quot;Practical Common Lisp&quot; book examples
-  </content>
- </entry>
- <entry>
-  <title>luksamuk: cl-rest-server-example</title>
-  <author>
-   <name>luksamuk</name>
-  </author>
-  <link href="https://github.com/luksamuk/cl-rest-server-example" />
-  <id>urn:rprimus:github:luksamuk:cl-rest-server-example</id>
-  <published>2020-04-14T03:28:38Z</published>
-  <updated>2020-04-14T03:28:38Z</updated>
-  <content type="html">
-   Exemplo de servidor REST totalmente feito em Common Lisp para consultas futuras (em progresso)
-  </content>
- </entry>
- <entry>
-  <title>gdonald: console-blackjack-lisp</title>
-  <author>
-   <name>gdonald</name>
-  </author>
-  <link href="https://github.com/gdonald/console-blackjack-lisp" />
-  <id>urn:rprimus:github:gdonald:console-blackjack-lisp</id>
-  <published>2020-04-14T00:53:47Z</published>
-  <updated>2020-04-14T00:53:47Z</updated>
-  <content type="html">
-   Console Blackjack in Lisp
-  </content>
- </entry>
- <entry>
-  <title>DiegoFRI: RoZH</title>
-  <author>
-   <name>DiegoFRI</name>
-  </author>
-  <link href="https://github.com/DiegoFRI/RoZH" />
-  <id>urn:rprimus:github:DiegoFRI:RoZH</id>
-  <published>2020-04-14T00:47:31Z</published>
-  <updated>2020-04-14T00:47:31Z</updated>
-  <content type="html">
-   rozh is a learning platform about robotics related topics
-  </content>
- </entry>
- <entry>
-  <title>shawwn: garou</title>
-  <author>
-   <name>shawwn</name>
-  </author>
-  <link href="https://github.com/shawwn/garou" />
-  <id>urn:rprimus:github:shawwn:garou</id>
-  <published>2020-04-14T00:07:42Z</published>
-  <updated>2020-04-14T00:07:42Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
