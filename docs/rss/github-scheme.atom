@@ -2,19 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-scheme.atom"/>
 <id>urn:rprimus:github:newschemerepos</id>
-<updated>2020-04-19T05:36:20Z</updated>
+<updated>2020-04-20T04:59:55Z</updated>
 <title type='text'>New GitHub Scheme Repos</title>
  <entry>
-  <title>scottviteri: StatisticalModelChecking</title>
+  <title>scottviteri: RandomizedModelCounting</title>
   <author>
    <name>scottviteri</name>
   </author>
-  <link href="https://github.com/scottviteri/StatisticalModelChecking" />
-  <id>urn:rprimus:github:scottviteri:StatisticalModelChecking</id>
-  <published>2020-04-19T05:36:20Z</published>
-  <updated>2020-04-19T05:36:20Z</updated>
+  <link href="https://github.com/scottviteri/RandomizedModelCounting" />
+  <id>urn:rprimus:github:scottviteri:RandomizedModelCounting</id>
+  <published>2020-04-20T04:59:55Z</published>
+  <updated>2020-04-20T04:59:55Z</updated>
   <content type="html">
-   Statistical Model Checking of Boolean Formulas 
+   Model counting of boolean formulas, with approximation by trying random models
+  </content>
+ </entry>
+ <entry>
+  <title>philetus: starbot-config</title>
+  <author>
+   <name>philetus</name>
+  </author>
+  <link href="https://github.com/philetus/starbot-config" />
+  <id>urn:rprimus:github:philetus:starbot-config</id>
+  <published>2020-04-20T04:17:46Z</published>
+  <updated>2020-04-20T04:17:46Z</updated>
+  <content type="html">
+   arch linux + swaywm desktop config
+  </content>
+ </entry>
+ <entry>
+  <title>JuanFelipeGomezTIC: Prueba-con-Camilin</title>
+  <author>
+   <name>JuanFelipeGomezTIC</name>
+  </author>
+  <link href="https://github.com/JuanFelipeGomezTIC/Prueba-con-Camilin" />
+  <id>urn:rprimus:github:JuanFelipeGomezTIC:Prueba-con-Camilin</id>
+  <published>2020-04-19T23:00:08Z</published>
+  <updated>2020-04-19T23:00:08Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Bai-Li-NOAA: Recruitment_Bias_Adjustment</title>
+  <author>
+   <name>Bai-Li-NOAA</name>
+  </author>
+  <link href="https://github.com/Bai-Li-NOAA/Recruitment_Bias_Adjustment" />
+  <id>urn:rprimus:github:Bai-Li-NOAA:Recruitment_Bias_Adjustment</id>
+  <published>2020-04-19T18:20:56Z</published>
+  <updated>2020-04-19T18:20:56Z</updated>
+  <content type="html">
+   
   </content>
  </entry>
  <entry>
@@ -57,6 +96,19 @@
   </content>
  </entry>
  <entry>
+  <title>0rb677: dotfiles-II</title>
+  <author>
+   <name>0rb677</name>
+  </author>
+  <link href="https://github.com/0rb677/dotfiles-II" />
+  <id>urn:rprimus:github:0rb677:dotfiles-II</id>
+  <published>2020-04-18T20:44:02Z</published>
+  <updated>2020-04-18T20:44:02Z</updated>
+  <content type="html">
+   :ox: GuixSD
+  </content>
+ </entry>
+ <entry>
   <title>ersinarioglu: adventure-game</title>
   <author>
    <name>ersinarioglu</name>
@@ -70,16 +122,16 @@
   </content>
  </entry>
  <entry>
-  <title>ryuga4: ships_idris</title>
+  <title>niyarin: rules</title>
   <author>
-   <name>ryuga4</name>
+   <name>niyarin</name>
   </author>
-  <link href="https://github.com/ryuga4/ships_idris" />
-  <id>urn:rprimus:github:ryuga4:ships_idris</id>
-  <published>2020-04-18T17:40:07Z</published>
-  <updated>2020-04-18T17:40:07Z</updated>
+  <link href="https://github.com/niyarin/rules" />
+  <id>urn:rprimus:github:niyarin:rules</id>
+  <published>2020-04-18T17:57:02Z</published>
+  <updated>2020-04-18T17:57:02Z</updated>
   <content type="html">
-   
+   Scheme simple pattern matching function like syntax-rules.
   </content>
  </entry>
  <entry>
@@ -93,58 +145,6 @@
   <updated>2020-04-18T13:53:01Z</updated>
   <content type="html">
    Simple Dataframe implementation in Guile Scheme
-  </content>
- </entry>
- <entry>
-  <title>teknokatze: guile-persist</title>
-  <author>
-   <name>teknokatze</name>
-  </author>
-  <link href="https://github.com/teknokatze/guile-persist" />
-  <id>urn:rprimus:github:teknokatze:guile-persist</id>
-  <published>2020-04-17T23:42:36Z</published>
-  <updated>2020-04-17T23:42:36Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>pratu16x7: gimp_resources</title>
-  <author>
-   <name>pratu16x7</name>
-  </author>
-  <link href="https://github.com/pratu16x7/gimp_resources" />
-  <id>urn:rprimus:github:pratu16x7:gimp_resources</id>
-  <published>2020-04-17T18:01:45Z</published>
-  <updated>2020-04-17T18:01:45Z</updated>
-  <content type="html">
-   A collection of projects, tutorials, patterns, brushes and other utils
-  </content>
- </entry>
- <entry>
-  <title>tsoste: etc</title>
-  <author>
-   <name>tsoste</name>
-  </author>
-  <link href="https://github.com/tsoste/etc" />
-  <id>urn:rprimus:github:tsoste:etc</id>
-  <published>2020-04-17T14:20:37Z</published>
-  <updated>2020-04-17T14:20:37Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ECHibiki: Kotatsu-V</title>
-  <author>
-   <name>ECHibiki</name>
-  </author>
-  <link href="https://github.com/ECHibiki/Kotatsu-V" />
-  <id>urn:rprimus:github:ECHibiki:Kotatsu-V</id>
-  <published>2020-04-17T02:38:54Z</published>
-  <updated>2020-04-17T02:38:54Z</updated>
-  <content type="html">
-   The version of kotatsu running on 4taba and 4taba2
   </content>
  </entry>
 </feed>
