@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-racket.atom"/>
 <id>urn:rprimus:github:newracketrepos</id>
-<updated>2020-04-21T02:18:44Z</updated>
+<updated>2020-04-22T00:18:49Z</updated>
 <title type='text'>New GitHub Racket Repos</title>
+ <entry>
+  <title>butforme: CS135</title>
+  <author>
+   <name>butforme</name>
+  </author>
+  <link href="https://github.com/butforme/CS135" />
+  <id>urn:rprimus:github:butforme:CS135</id>
+  <published>2020-04-22T00:18:49Z</published>
+  <updated>2020-04-22T00:18:49Z</updated>
+  <content type="html">
+   Labs, notes, and coursework for CS135 at Stevens Institute.
+  </content>
+ </entry>
+ <entry>
+  <title>shterrett: eopl</title>
+  <author>
+   <name>shterrett</name>
+  </author>
+  <link href="https://github.com/shterrett/eopl" />
+  <id>urn:rprimus:github:shterrett:eopl</id>
+  <published>2020-04-22T00:18:00Z</published>
+  <updated>2020-04-22T00:18:00Z</updated>
+  <content type="html">
+   Essentials of Programming Languages
+  </content>
+ </entry>
+ <entry>
+  <title>alexveliki: Universe-simulator</title>
+  <author>
+   <name>alexveliki</name>
+  </author>
+  <link href="https://github.com/alexveliki/Universe-simulator" />
+  <id>urn:rprimus:github:alexveliki:Universe-simulator</id>
+  <published>2020-04-21T21:14:06Z</published>
+  <updated>2020-04-21T21:14:06Z</updated>
+  <content type="html">
+   Project for the Functional programming course in FMI, Sofia University &quot;St. Kliment Ohridski&quot;
+  </content>
+ </entry>
+ <entry>
+  <title>Aziqq: sicp-solutions</title>
+  <author>
+   <name>Aziqq</name>
+  </author>
+  <link href="https://github.com/Aziqq/sicp-solutions" />
+  <id>urn:rprimus:github:Aziqq:sicp-solutions</id>
+  <published>2020-04-21T13:20:26Z</published>
+  <updated>2020-04-21T13:20:26Z</updated>
+  <content type="html">
+   SICP solutions in Racket
+  </content>
+ </entry>
  <entry>
   <title>Yusufawzy: Pacman-Game</title>
   <author>
@@ -67,149 +119,6 @@
   <updated>2020-04-20T05:35:27Z</updated>
   <content type="html">
    A very simple application for generating a random string of ASCII character, of a given length.
-  </content>
- </entry>
- <entry>
-  <title>meepdeew: mazes</title>
-  <author>
-   <name>meepdeew</name>
-  </author>
-  <link href="https://github.com/meepdeew/mazes" />
-  <id>urn:rprimus:github:meepdeew:mazes</id>
-  <published>2020-04-19T23:51:00Z</published>
-  <updated>2020-04-19T23:51:00Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>macauleym: what-extension</title>
-  <author>
-   <name>macauleym</name>
-  </author>
-  <link href="https://github.com/macauleym/what-extension" />
-  <id>urn:rprimus:github:macauleym:what-extension</id>
-  <published>2020-04-19T21:34:32Z</published>
-  <updated>2020-04-19T21:34:32Z</updated>
-  <content type="html">
-   A very simple CLI application that takes a file name and gives back the extension.
-  </content>
- </entry>
- <entry>
-  <title>PiyushTibarewal: Gameplay-Optimization</title>
-  <author>
-   <name>PiyushTibarewal</name>
-  </author>
-  <link href="https://github.com/PiyushTibarewal/Gameplay-Optimization" />
-  <id>urn:rprimus:github:PiyushTibarewal:Gameplay-Optimization</id>
-  <published>2020-04-19T20:40:32Z</published>
-  <updated>2020-04-19T20:40:32Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>cclint: first-raytracer</title>
-  <author>
-   <name>cclint</name>
-  </author>
-  <link href="https://github.com/cclint/first-raytracer" />
-  <id>urn:rprimus:github:cclint:first-raytracer</id>
-  <published>2020-04-19T19:47:06Z</published>
-  <updated>2020-04-19T19:47:06Z</updated>
-  <content type="html">
-   Simple ray-tracer, adapted from section 9.8 of Paul Graham&#039;s &#039;ANSI Common Lisp&#039;, 1996, Prentice-Hall Inc.  Adapted by Clinton A. Campbell and William E. Byrd.
-  </content>
- </entry>
- <entry>
-  <title>teonistor: office-story</title>
-  <author>
-   <name>teonistor</name>
-  </author>
-  <link href="https://github.com/teonistor/office-story" />
-  <id>urn:rprimus:github:teonistor:office-story</id>
-  <published>2020-04-19T19:02:16Z</published>
-  <updated>2020-04-19T19:02:16Z</updated>
-  <content type="html">
-   A text-based achievement-flavoured mini-dungeon about infiltrating an office
-  </content>
- </entry>
- <entry>
-  <title>JusungLee0601: connect4</title>
-  <author>
-   <name>JusungLee0601</name>
-  </author>
-  <link href="https://github.com/JusungLee0601/connect4" />
-  <id>urn:rprimus:github:JusungLee0601:connect4</id>
-  <published>2020-04-19T18:15:54Z</published>
-  <updated>2020-04-19T18:15:54Z</updated>
-  <content type="html">
-   Connect 4 final project for CSCI1950Y
-  </content>
- </entry>
- <entry>
-  <title>xsddz: CodingForFun</title>
-  <author>
-   <name>xsddz</name>
-  </author>
-  <link href="https://github.com/xsddz/CodingForFun" />
-  <id>urn:rprimus:github:xsddz:CodingForFun</id>
-  <published>2020-04-19T13:57:53Z</published>
-  <updated>2020-04-19T13:57:53Z</updated>
-  <content type="html">
-   coding for fun
-  </content>
- </entry>
- <entry>
-  <title>Pshypher: htdp-2e</title>
-  <author>
-   <name>Pshypher</name>
-  </author>
-  <link href="https://github.com/Pshypher/htdp-2e" />
-  <id>urn:rprimus:github:Pshypher:htdp-2e</id>
-  <published>2020-04-19T11:28:58Z</published>
-  <updated>2020-04-19T11:28:58Z</updated>
-  <content type="html">
-   Solutions to the exercises within the How to Design Programs text
-  </content>
- </entry>
- <entry>
-  <title>senshu: Silicate</title>
-  <author>
-   <name>senshu</name>
-  </author>
-  <link href="https://github.com/senshu/Silicate" />
-  <id>urn:rprimus:github:senshu:Silicate</id>
-  <published>2020-04-19T10:44:07Z</published>
-  <updated>2020-04-19T10:44:07Z</updated>
-  <content type="html">
-   A domain-specific language for digital hardware design and synthesis
-  </content>
- </entry>
- <entry>
-  <title>lucasboulding: tournament-management-racket</title>
-  <author>
-   <name>lucasboulding</name>
-  </author>
-  <link href="https://github.com/lucasboulding/tournament-management-racket" />
-  <id>urn:rprimus:github:lucasboulding:tournament-management-racket</id>
-  <published>2020-04-19T10:21:23Z</published>
-  <updated>2020-04-19T10:21:23Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>atharvashukla: minesweeper</title>
-  <author>
-   <name>atharvashukla</name>
-  </author>
-  <link href="https://github.com/atharvashukla/minesweeper" />
-  <id>urn:rprimus:github:atharvashukla:minesweeper</id>
-  <published>2020-04-19T01:48:19Z</published>
-  <updated>2020-04-19T01:48:19Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
