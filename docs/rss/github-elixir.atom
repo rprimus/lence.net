@@ -2,71 +2,292 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-elixir.atom"/>
 <id>urn:rprimus:github:newelixirrepos</id>
-<updated>2020-04-23T09:58:24Z</updated>
+<updated>2020-04-24T07:25:43Z</updated>
 <title type='text'>New GitHub Elixir Repos</title>
  <entry>
-  <title>victorinno: exercism-elixir</title>
+  <title>SVogelsang: custom-rpi3</title>
   <author>
-   <name>victorinno</name>
+   <name>SVogelsang</name>
   </author>
-  <link href="https://github.com/victorinno/exercism-elixir" />
-  <id>urn:rprimus:github:victorinno:exercism-elixir</id>
-  <published>2020-04-23T09:58:24Z</published>
-  <updated>2020-04-23T09:58:24Z</updated>
+  <link href="https://github.com/SVogelsang/custom-rpi3" />
+  <id>urn:rprimus:github:SVogelsang:custom-rpi3</id>
+  <published>2020-04-24T07:25:43Z</published>
+  <updated>2020-04-24T07:25:43Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>michailpanagiotis: game</title>
+  <title>talamav: waffle_test</title>
   <author>
-   <name>michailpanagiotis</name>
+   <name>talamav</name>
   </author>
-  <link href="https://github.com/michailpanagiotis/game" />
-  <id>urn:rprimus:github:michailpanagiotis:game</id>
-  <published>2020-04-23T09:07:53Z</published>
-  <updated>2020-04-23T09:07:53Z</updated>
+  <link href="https://github.com/talamav/waffle_test" />
+  <id>urn:rprimus:github:talamav:waffle_test</id>
+  <published>2020-04-24T05:11:38Z</published>
+  <updated>2020-04-24T05:11:38Z</updated>
   <content type="html">
-   Phoenix game
+   Test waffle to upload files on a phoenix project
   </content>
  </entry>
  <entry>
-  <title>SuperThinking: Exercism</title>
+  <title>GunnarPDX: elixir_test</title>
   <author>
-   <name>SuperThinking</name>
+   <name>GunnarPDX</name>
   </author>
-  <link href="https://github.com/SuperThinking/Exercism" />
-  <id>urn:rprimus:github:SuperThinking:Exercism</id>
-  <published>2020-04-23T08:56:47Z</published>
-  <updated>2020-04-23T08:56:47Z</updated>
+  <link href="https://github.com/GunnarPDX/elixir_test" />
+  <id>urn:rprimus:github:GunnarPDX:elixir_test</id>
+  <published>2020-04-24T03:00:40Z</published>
+  <updated>2020-04-24T03:00:40Z</updated>
   <content type="html">
-   Learning/Practicing new stuff at https://exercism.io/
+   some elixir intro stuff
   </content>
  </entry>
  <entry>
-  <title>mechanicles: the_complete_elixir_and_phoenix_bootcamp</title>
+  <title>nerves-networking: vintage_net_bridge</title>
   <author>
-   <name>mechanicles</name>
+   <name>nerves-networking</name>
   </author>
-  <link href="https://github.com/mechanicles/the_complete_elixir_and_phoenix_bootcamp" />
-  <id>urn:rprimus:github:mechanicles:the_complete_elixir_and_phoenix_bootcamp</id>
-  <published>2020-04-23T08:27:58Z</published>
-  <updated>2020-04-23T08:27:58Z</updated>
+  <link href="https://github.com/nerves-networking/vintage_net_bridge" />
+  <id>urn:rprimus:github:nerves-networking:vintage_net_bridge</id>
+  <published>2020-04-23T22:33:15Z</published>
+  <updated>2020-04-23T22:33:15Z</updated>
   <content type="html">
-   The Complete Elixir and Phoenix Bootcamp (Udemy course)
+   Bridge networking for VintageNet
   </content>
  </entry>
  <entry>
-  <title>jackmarchant: chirp</title>
+  <title>audacioustux: seq_server</title>
   <author>
-   <name>jackmarchant</name>
+   <name>audacioustux</name>
   </author>
-  <link href="https://github.com/jackmarchant/chirp" />
-  <id>urn:rprimus:github:jackmarchant:chirp</id>
-  <published>2020-04-23T08:23:10Z</published>
-  <updated>2020-04-23T08:23:10Z</updated>
+  <link href="https://github.com/audacioustux/seq_server" />
+  <id>urn:rprimus:github:audacioustux:seq_server</id>
+  <published>2020-04-23T20:42:46Z</published>
+  <updated>2020-04-23T20:42:46Z</updated>
   <content type="html">
-   A Phoenix Live View tutorial
+   
+  </content>
+ </entry>
+ <entry>
+  <title>mroach: cddb_gateway</title>
+  <author>
+   <name>mroach</name>
+  </author>
+  <link href="https://github.com/mroach/cddb_gateway" />
+  <id>urn:rprimus:github:mroach:cddb_gateway</id>
+  <published>2020-04-23T20:41:46Z</published>
+  <updated>2020-04-23T20:41:46Z</updated>
+  <content type="html">
+   CDDB-compatible read-only gateway
+  </content>
+ </entry>
+ <entry>
+  <title>Matt-Hornsby: aprs_parse</title>
+  <author>
+   <name>Matt-Hornsby</name>
+  </author>
+  <link href="https://github.com/Matt-Hornsby/aprs_parse" />
+  <id>urn:rprimus:github:Matt-Hornsby:aprs_parse</id>
+  <published>2020-04-23T20:39:43Z</published>
+  <updated>2020-04-23T20:39:43Z</updated>
+  <content type="html">
+   Parse APRS messages
+  </content>
+ </entry>
+ <entry>
+  <title>DanteRangel: Phoenix-Microservices</title>
+  <author>
+   <name>DanteRangel</name>
+  </author>
+  <link href="https://github.com/DanteRangel/Phoenix-Microservices" />
+  <id>urn:rprimus:github:DanteRangel:Phoenix-Microservices</id>
+  <published>2020-04-23T20:35:21Z</published>
+  <updated>2020-04-23T20:35:21Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>jluiiizz: account_bank</title>
+  <author>
+   <name>jluiiizz</name>
+  </author>
+  <link href="https://github.com/jluiiizz/account_bank" />
+  <id>urn:rprimus:github:jluiiizz:account_bank</id>
+  <published>2020-04-23T20:22:45Z</published>
+  <updated>2020-04-23T20:22:45Z</updated>
+  <content type="html">
+   A simple accout bank system for personal develop of my test skills. Using elixir btw
+  </content>
+ </entry>
+ <entry>
+  <title>indiegogo: phx_hello</title>
+  <author>
+   <name>indiegogo</name>
+  </author>
+  <link href="https://github.com/indiegogo/phx_hello" />
+  <id>urn:rprimus:github:indiegogo:phx_hello</id>
+  <published>2020-04-23T19:11:47Z</published>
+  <updated>2020-04-23T19:11:47Z</updated>
+  <content type="html">
+   Learning Phoenix
+  </content>
+ </entry>
+ <entry>
+  <title>dersnek: chirp</title>
+  <author>
+   <name>dersnek</name>
+  </author>
+  <link href="https://github.com/dersnek/chirp" />
+  <id>urn:rprimus:github:dersnek:chirp</id>
+  <published>2020-04-23T17:29:23Z</published>
+  <updated>2020-04-23T17:29:23Z</updated>
+  <content type="html">
+   A real-time Twitter clone with LiveView and Phoenix 1.5 (https://youtu.be/MZvmYaFkNJI)
+  </content>
+ </entry>
+ <entry>
+  <title>wowikc: gallery</title>
+  <author>
+   <name>wowikc</name>
+  </author>
+  <link href="https://github.com/wowikc/gallery" />
+  <id>urn:rprimus:github:wowikc:gallery</id>
+  <published>2020-04-23T17:04:10Z</published>
+  <updated>2020-04-23T17:04:10Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>sb8244: sneakers_23_upgrade</title>
+  <author>
+   <name>sb8244</name>
+  </author>
+  <link href="https://github.com/sb8244/sneakers_23_upgrade" />
+  <id>urn:rprimus:github:sb8244:sneakers_23_upgrade</id>
+  <published>2020-04-23T16:49:06Z</published>
+  <updated>2020-04-23T16:49:06Z</updated>
+  <content type="html">
+   Upgrade Sneakers23 to Phoenix 1.5.0-rc0
+  </content>
+ </entry>
+ <entry>
+  <title>mariugul: TTK4145-Real-Time-Programming</title>
+  <author>
+   <name>mariugul</name>
+  </author>
+  <link href="https://github.com/mariugul/TTK4145-Real-Time-Programming" />
+  <id>urn:rprimus:github:mariugul:TTK4145-Real-Time-Programming</id>
+  <published>2020-04-23T16:45:04Z</published>
+  <updated>2020-04-23T16:45:04Z</updated>
+  <content type="html">
+   Software for controlling n elevators, working in parallel across m floors.
+  </content>
+ </entry>
+ <entry>
+  <title>nacaceres: concurrencia_proyecto5</title>
+  <author>
+   <name>nacaceres</name>
+  </author>
+  <link href="https://github.com/nacaceres/concurrencia_proyecto5" />
+  <id>urn:rprimus:github:nacaceres:concurrencia_proyecto5</id>
+  <published>2020-04-23T16:35:18Z</published>
+  <updated>2020-04-23T16:35:18Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>pmop: urusai</title>
+  <author>
+   <name>pmop</name>
+  </author>
+  <link href="https://github.com/pmop/urusai" />
+  <id>urn:rprimus:github:pmop:urusai</id>
+  <published>2020-04-23T16:18:58Z</published>
+  <updated>2020-04-23T16:18:58Z</updated>
+  <content type="html">
+   Toy project of a Real-Time Twitter-like Timeline using Phoenix and LiveView
+  </content>
+ </entry>
+ <entry>
+  <title>fbergr: finnish-pic</title>
+  <author>
+   <name>fbergr</name>
+  </author>
+  <link href="https://github.com/fbergr/finnish-pic" />
+  <id>urn:rprimus:github:fbergr:finnish-pic</id>
+  <published>2020-04-23T15:42:04Z</published>
+  <updated>2020-04-23T15:42:04Z</updated>
+  <content type="html">
+   Finnish Personal Identity Code Validator
+  </content>
+ </entry>
+ <entry>
+  <title>Dmitriy7Smirnov: filesUploader</title>
+  <author>
+   <name>Dmitriy7Smirnov</name>
+  </author>
+  <link href="https://github.com/Dmitriy7Smirnov/filesUploader" />
+  <id>urn:rprimus:github:Dmitriy7Smirnov:filesUploader</id>
+  <published>2020-04-23T15:29:50Z</published>
+  <updated>2020-04-23T15:29:50Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>andrewek: advent_of_code</title>
+  <author>
+   <name>andrewek</name>
+  </author>
+  <link href="https://github.com/andrewek/advent_of_code" />
+  <id>urn:rprimus:github:andrewek:advent_of_code</id>
+  <published>2020-04-23T15:01:01Z</published>
+  <updated>2020-04-23T15:01:01Z</updated>
+  <content type="html">
+   Advent of Code solutions in Elixir
+  </content>
+ </entry>
+ <entry>
+  <title>massa1240: albion-sim-backend</title>
+  <author>
+   <name>massa1240</name>
+  </author>
+  <link href="https://github.com/massa1240/albion-sim-backend" />
+  <id>urn:rprimus:github:massa1240:albion-sim-backend</id>
+  <published>2020-04-23T12:23:42Z</published>
+  <updated>2020-04-23T12:23:42Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>inftp: geocoder_backend</title>
+  <author>
+   <name>inftp</name>
+  </author>
+  <link href="https://github.com/inftp/geocoder_backend" />
+  <id>urn:rprimus:github:inftp:geocoder_backend</id>
+  <published>2020-04-23T12:17:24Z</published>
+  <updated>2020-04-23T12:17:24Z</updated>
+  <content type="html">
+   Backed for GraphQL geocoding API
+  </content>
+ </entry>
+ <entry>
+  <title>Cheng20010201: sa_backend_game</title>
+  <author>
+   <name>Cheng20010201</name>
+  </author>
+  <link href="https://github.com/Cheng20010201/sa_backend_game" />
+  <id>urn:rprimus:github:Cheng20010201:sa_backend_game</id>
+  <published>2020-04-23T10:58:12Z</published>
+  <updated>2020-04-23T10:58:12Z</updated>
+  <content type="html">
+   
   </content>
  </entry>
  <entry>
@@ -79,7 +300,7 @@
   <published>2020-04-23T08:23:02Z</published>
   <updated>2020-04-23T08:23:02Z</updated>
   <content type="html">
-   Base on the &quot;real-time Twitter clone in 15 minutes with LiveView and Phoenix 1.5&quot;, from Chris McCord
+   Based on the &quot;real-time Twitter clone in 15 minutes with LiveView and Phoenix 1.5&quot;, from Chris McCord
   </content>
  </entry>
  <entry>
@@ -106,32 +327,6 @@
   <updated>2020-04-23T07:48:39Z</updated>
   <content type="html">
    There can only be one (process in your cluster)!
-  </content>
- </entry>
- <entry>
-  <title>ckampfe: launcher</title>
-  <author>
-   <name>ckampfe</name>
-  </author>
-  <link href="https://github.com/ckampfe/launcher" />
-  <id>urn:rprimus:github:ckampfe:launcher</id>
-  <published>2020-04-23T06:00:34Z</published>
-  <updated>2020-04-23T06:00:34Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>zechtz: twitter-liveview</title>
-  <author>
-   <name>zechtz</name>
-  </author>
-  <link href="https://github.com/zechtz/twitter-liveview" />
-  <id>urn:rprimus:github:zechtz:twitter-liveview</id>
-  <published>2020-04-23T04:57:26Z</published>
-  <updated>2020-04-23T04:57:26Z</updated>
-  <content type="html">
-   A simple Phoenix application that showcases how to create a simple real-time twitter clone using Phoenix Liveview
   </content>
  </entry>
  <entry>
@@ -187,19 +382,6 @@
   </content>
  </entry>
  <entry>
-  <title>MarkHarper: phoenix_cors_example</title>
-  <author>
-   <name>MarkHarper</name>
-  </author>
-  <link href="https://github.com/MarkHarper/phoenix_cors_example" />
-  <id>urn:rprimus:github:MarkHarper:phoenix_cors_example</id>
-  <published>2020-04-23T01:38:19Z</published>
-  <updated>2020-04-23T01:38:19Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
   <title>carloserocha: tretas</title>
   <author>
    <name>carloserocha</name>
@@ -226,45 +408,6 @@
   </content>
  </entry>
  <entry>
-  <title>malloryerik: chirpy</title>
-  <author>
-   <name>malloryerik</name>
-  </author>
-  <link href="https://github.com/malloryerik/chirpy" />
-  <id>urn:rprimus:github:malloryerik:chirpy</id>
-  <published>2020-04-23T01:20:24Z</published>
-  <updated>2020-04-23T01:20:24Z</updated>
-  <content type="html">
-   Phoenix LiveView Twitter clone from Chris McCord&#039;s tutorial
-  </content>
- </entry>
- <entry>
-  <title>CatsOnFilm: phxslime</title>
-  <author>
-   <name>CatsOnFilm</name>
-  </author>
-  <link href="https://github.com/CatsOnFilm/phxslime" />
-  <id>urn:rprimus:github:CatsOnFilm:phxslime</id>
-  <published>2020-04-23T01:07:25Z</published>
-  <updated>2020-04-23T01:07:25Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>vickyqjx: simple_map</title>
-  <author>
-   <name>vickyqjx</name>
-  </author>
-  <link href="https://github.com/vickyqjx/simple_map" />
-  <id>urn:rprimus:github:vickyqjx:simple_map</id>
-  <published>2020-04-23T00:54:15Z</published>
-  <updated>2020-04-23T00:54:15Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
   <title>dwalintukan: elixir-tinyurl-exercise</title>
   <author>
    <name>dwalintukan</name>
@@ -273,19 +416,6 @@
   <id>urn:rprimus:github:dwalintukan:elixir-tinyurl-exercise</id>
   <published>2020-04-23T00:16:58Z</published>
   <updated>2020-04-23T00:16:58Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>brunnoalberto: elixir-study</title>
-  <author>
-   <name>brunnoalberto</name>
-  </author>
-  <link href="https://github.com/brunnoalberto/elixir-study" />
-  <id>urn:rprimus:github:brunnoalberto:elixir-study</id>
-  <published>2020-04-23T00:09:14Z</published>
-  <updated>2020-04-23T00:09:14Z</updated>
   <content type="html">
    
   </content>
@@ -343,19 +473,6 @@
   </content>
  </entry>
  <entry>
-  <title>EuterpeXI: chirp</title>
-  <author>
-   <name>EuterpeXI</name>
-  </author>
-  <link href="https://github.com/EuterpeXI/chirp" />
-  <id>urn:rprimus:github:EuterpeXI:chirp</id>
-  <published>2020-04-22T21:42:49Z</published>
-  <updated>2020-04-22T21:42:49Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
   <title>koozdra: elixir-class-counters</title>
   <author>
    <name>koozdra</name>
@@ -366,6 +483,19 @@
   <updated>2020-04-22T21:29:21Z</updated>
   <content type="html">
    A basic set of Phoenix endpoints and an agent to manage state. Used to teach a class on Elixir.
+  </content>
+ </entry>
+ <entry>
+  <title>EarthEngineering: facetop_os</title>
+  <author>
+   <name>EarthEngineering</name>
+  </author>
+  <link href="https://github.com/EarthEngineering/facetop_os" />
+  <id>urn:rprimus:github:EarthEngineering:facetop_os</id>
+  <published>2020-04-22T20:32:57Z</published>
+  <updated>2020-04-22T20:32:57Z</updated>
+  <content type="html">
+   Facetop OS
   </content>
  </entry>
  <entry>
@@ -405,19 +535,6 @@
   <updated>2020-04-22T18:56:13Z</updated>
   <content type="html">
    My solutions for Advent of Code 2019 in Elixir.
-  </content>
- </entry>
- <entry>
-  <title>romarickb: schema-mapper</title>
-  <author>
-   <name>romarickb</name>
-  </author>
-  <link href="https://github.com/romarickb/schema-mapper" />
-  <id>urn:rprimus:github:romarickb:schema-mapper</id>
-  <published>2020-04-22T18:39:40Z</published>
-  <updated>2020-04-22T18:39:40Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
  <entry>
@@ -548,6 +665,19 @@
   <updated>2020-04-22T10:37:49Z</updated>
   <content type="html">
    ð ð¬
+  </content>
+ </entry>
+ <entry>
+  <title>hissssst: pathex</title>
+  <author>
+   <name>hissssst</name>
+  </author>
+  <link href="https://github.com/hissssst/pathex" />
+  <id>urn:rprimus:github:hissssst:pathex</id>
+  <published>2020-04-22T10:19:27Z</published>
+  <updated>2020-04-22T10:19:27Z</updated>
+  <content type="html">
+   Compile-time lenses and paths for elixir structures
   </content>
  </entry>
  <entry>
@@ -691,396 +821,6 @@
   <updated>2020-04-22T00:04:03Z</updated>
   <content type="html">
    Elixir API wrapper for 1up Health
-  </content>
- </entry>
- <entry>
-  <title>ddaugher: trendUtils</title>
-  <author>
-   <name>ddaugher</name>
-  </author>
-  <link href="https://github.com/ddaugher/trendUtils" />
-  <id>urn:rprimus:github:ddaugher:trendUtils</id>
-  <published>2020-04-21T23:52:37Z</published>
-  <updated>2020-04-21T23:52:37Z</updated>
-  <content type="html">
-   trendUtils for Elixir
-  </content>
- </entry>
- <entry>
-  <title>ihumanable: patch</title>
-  <author>
-   <name>ihumanable</name>
-  </author>
-  <link href="https://github.com/ihumanable/patch" />
-  <id>urn:rprimus:github:ihumanable:patch</id>
-  <published>2020-04-21T23:52:35Z</published>
-  <updated>2020-04-21T23:52:35Z</updated>
-  <content type="html">
-   Ergonomic Mocking for Elixir
-  </content>
- </entry>
- <entry>
-  <title>nehald: elixir_python</title>
-  <author>
-   <name>nehald</name>
-  </author>
-  <link href="https://github.com/nehald/elixir_python" />
-  <id>urn:rprimus:github:nehald:elixir_python</id>
-  <published>2020-04-21T22:53:18Z</published>
-  <updated>2020-04-21T22:53:18Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>code-shoily: fake_places</title>
-  <author>
-   <name>code-shoily</name>
-  </author>
-  <link href="https://github.com/code-shoily/fake_places" />
-  <id>urn:rprimus:github:code-shoily:fake_places</id>
-  <published>2020-04-21T22:32:24Z</published>
-  <updated>2020-04-21T22:32:24Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>wowikc: gallery-LiveView</title>
-  <author>
-   <name>wowikc</name>
-  </author>
-  <link href="https://github.com/wowikc/gallery-LiveView" />
-  <id>urn:rprimus:github:wowikc:gallery-LiveView</id>
-  <published>2020-04-21T22:19:26Z</published>
-  <updated>2020-04-21T22:19:26Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>arjan: dag</title>
-  <author>
-   <name>arjan</name>
-  </author>
-  <link href="https://github.com/arjan/dag" />
-  <id>urn:rprimus:github:arjan:dag</id>
-  <published>2020-04-21T21:52:30Z</published>
-  <updated>2020-04-21T21:52:30Z</updated>
-  <content type="html">
-   Directed Acyclic Graph (DAG) implementation in Elixir
-  </content>
- </entry>
- <entry>
-  <title>dkreyman: elixirCards</title>
-  <author>
-   <name>dkreyman</name>
-  </author>
-  <link href="https://github.com/dkreyman/elixirCards" />
-  <id>urn:rprimus:github:dkreyman:elixirCards</id>
-  <published>2020-04-21T21:34:19Z</published>
-  <updated>2020-04-21T21:34:19Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>maikkkko1: elixir-currency-converter</title>
-  <author>
-   <name>maikkkko1</name>
-  </author>
-  <link href="https://github.com/maikkkko1/elixir-currency-converter" />
-  <id>urn:rprimus:github:maikkkko1:elixir-currency-converter</id>
-  <published>2020-04-21T21:29:06Z</published>
-  <updated>2020-04-21T21:29:06Z</updated>
-  <content type="html">
-   Currency conversion Application/API - Exchange rates are based on current foreign exchange rates published by the European Central Bank.
-  </content>
- </entry>
- <entry>
-  <title>menuan: fav</title>
-  <author>
-   <name>menuan</name>
-  </author>
-  <link href="https://github.com/menuan/fav" />
-  <id>urn:rprimus:github:menuan:fav</id>
-  <published>2020-04-21T21:28:23Z</published>
-  <updated>2020-04-21T21:28:23Z</updated>
-  <content type="html">
-   A small Elixir library for verifying FirebaseAuth ID tokens.
-  </content>
- </entry>
- <entry>
-  <title>raubrey2014: designing-elixir-systems-with-otp</title>
-  <author>
-   <name>raubrey2014</name>
-  </author>
-  <link href="https://github.com/raubrey2014/designing-elixir-systems-with-otp" />
-  <id>urn:rprimus:github:raubrey2014:designing-elixir-systems-with-otp</id>
-  <published>2020-04-21T20:34:39Z</published>
-  <updated>2020-04-21T20:34:39Z</updated>
-  <content type="html">
-   A collection of exercises guided by the book Designing Elixir Systems with OTP by James Edward Gray, II and Bruce A. Tate.
-  </content>
- </entry>
- <entry>
-  <title>kerryb: palindrome_descendants_kata</title>
-  <author>
-   <name>kerryb</name>
-  </author>
-  <link href="https://github.com/kerryb/palindrome_descendants_kata" />
-  <id>urn:rprimus:github:kerryb:palindrome_descendants_kata</id>
-  <published>2020-04-21T19:38:13Z</published>
-  <updated>2020-04-21T19:38:13Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jackd942: liveview-tetris</title>
-  <author>
-   <name>jackd942</name>
-  </author>
-  <link href="https://github.com/jackd942/liveview-tetris" />
-  <id>urn:rprimus:github:jackd942:liveview-tetris</id>
-  <published>2020-04-21T19:29:44Z</published>
-  <updated>2020-04-21T19:29:44Z</updated>
-  <content type="html">
-   grox.io elixir/phoenix liveview series
-  </content>
- </entry>
- <entry>
-  <title>noamsauerutley: learning-functional-programming-with-elixir</title>
-  <author>
-   <name>noamsauerutley</name>
-  </author>
-  <link href="https://github.com/noamsauerutley/learning-functional-programming-with-elixir" />
-  <id>urn:rprimus:github:noamsauerutley:learning-functional-programming-with-elixir</id>
-  <published>2020-04-21T19:10:25Z</published>
-  <updated>2020-04-21T19:10:25Z</updated>
-  <content type="html">
-   Repo for exercises &amp; work as I read Ulisses Almeida&#039;s book Learning Functional Programming with Elixir
-  </content>
- </entry>
- <entry>
-  <title>pow-auth: pow_demo</title>
-  <author>
-   <name>pow-auth</name>
-  </author>
-  <link href="https://github.com/pow-auth/pow_demo" />
-  <id>urn:rprimus:github:pow-auth:pow_demo</id>
-  <published>2020-04-21T17:43:31Z</published>
-  <updated>2020-04-21T17:43:31Z</updated>
-  <content type="html">
-   Demo App
-  </content>
- </entry>
- <entry>
-  <title>pop-os: sponsors</title>
-  <author>
-   <name>pop-os</name>
-  </author>
-  <link href="https://github.com/pop-os/sponsors" />
-  <id>urn:rprimus:github:pop-os:sponsors</id>
-  <published>2020-04-21T17:12:42Z</published>
-  <updated>2020-04-21T17:12:42Z</updated>
-  <content type="html">
-   The API behind Pop!_OS donations
-  </content>
- </entry>
- <entry>
-  <title>theguuholi: virtualize</title>
-  <author>
-   <name>theguuholi</name>
-  </author>
-  <link href="https://github.com/theguuholi/virtualize" />
-  <id>urn:rprimus:github:theguuholi:virtualize</id>
-  <published>2020-04-21T16:51:23Z</published>
-  <updated>2020-04-21T16:51:23Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>danielemegna: elixir_2019_adventofcode</title>
-  <author>
-   <name>danielemegna</name>
-  </author>
-  <link href="https://github.com/danielemegna/elixir_2019_adventofcode" />
-  <id>urn:rprimus:github:danielemegna:elixir_2019_adventofcode</id>
-  <published>2020-04-21T16:27:25Z</published>
-  <updated>2020-04-21T16:27:25Z</updated>
-  <content type="html">
-   Solutions for https://adventofcode.com/2019 in elixir-lang
-  </content>
- </entry>
- <entry>
-  <title>chadeyrasal: discuss</title>
-  <author>
-   <name>chadeyrasal</name>
-  </author>
-  <link href="https://github.com/chadeyrasal/discuss" />
-  <id>urn:rprimus:github:chadeyrasal:discuss</id>
-  <published>2020-04-21T15:24:20Z</published>
-  <updated>2020-04-21T15:24:20Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>PaulOstazeski: elixirauthgoogleissue37</title>
-  <author>
-   <name>PaulOstazeski</name>
-  </author>
-  <link href="https://github.com/PaulOstazeski/elixirauthgoogleissue37" />
-  <id>urn:rprimus:github:PaulOstazeski:elixirauthgoogleissue37</id>
-  <published>2020-04-21T15:11:51Z</published>
-  <updated>2020-04-21T15:11:51Z</updated>
-  <content type="html">
-   Sample phoenix app demonstrating issue with relying on Mix.env/0 in production release
-  </content>
- </entry>
- <entry>
-  <title>odarriba: phoenix-heroku-example</title>
-  <author>
-   <name>odarriba</name>
-  </author>
-  <link href="https://github.com/odarriba/phoenix-heroku-example" />
-  <id>urn:rprimus:github:odarriba:phoenix-heroku-example</id>
-  <published>2020-04-21T13:59:03Z</published>
-  <updated>2020-04-21T13:59:03Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>psagan: test_live_view</title>
-  <author>
-   <name>psagan</name>
-  </author>
-  <link href="https://github.com/psagan/test_live_view" />
-  <id>urn:rprimus:github:psagan:test_live_view</id>
-  <published>2020-04-21T13:39:52Z</published>
-  <updated>2020-04-21T13:39:52Z</updated>
-  <content type="html">
-   Live view modal with alpine.js and tailwind css
-  </content>
- </entry>
- <entry>
-  <title>flatten-js: linex</title>
-  <author>
-   <name>flatten-js</name>
-  </author>
-  <link href="https://github.com/flatten-js/linex" />
-  <id>urn:rprimus:github:flatten-js:linex</id>
-  <published>2020-04-21T12:54:09Z</published>
-  <updated>2020-04-21T12:54:09Z</updated>
-  <content type="html">
-   This is a flex message template included in the LINE Messaging API
-  </content>
- </entry>
- <entry>
-  <title>elixirschool: telemetry-code-along</title>
-  <author>
-   <name>elixirschool</name>
-  </author>
-  <link href="https://github.com/elixirschool/telemetry-code-along" />
-  <id>urn:rprimus:github:elixirschool:telemetry-code-along</id>
-  <published>2020-04-21T10:35:45Z</published>
-  <updated>2020-04-21T10:35:45Z</updated>
-  <content type="html">
-   Code for Elixir School&#039;s blog post series on Telemetry
-  </content>
- </entry>
- <entry>
-  <title>Minh-Khang: hello_docker_heroku</title>
-  <author>
-   <name>Minh-Khang</name>
-  </author>
-  <link href="https://github.com/Minh-Khang/hello_docker_heroku" />
-  <id>urn:rprimus:github:Minh-Khang:hello_docker_heroku</id>
-  <published>2020-04-21T08:10:13Z</published>
-  <updated>2020-04-21T08:10:13Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>sebastiw: langa-sqlen</title>
-  <author>
-   <name>sebastiw</name>
-  </author>
-  <link href="https://github.com/sebastiw/langa-sqlen" />
-  <id>urn:rprimus:github:sebastiw:langa-sqlen</id>
-  <published>2020-04-21T07:50:14Z</published>
-  <updated>2020-04-21T07:50:14Z</updated>
-  <content type="html">
-   Elixir, ecto, absinthe stack connecting to a postgres db
-  </content>
- </entry>
- <entry>
-  <title>diogenxs: elixir-getting-started</title>
-  <author>
-   <name>diogenxs</name>
-  </author>
-  <link href="https://github.com/diogenxs/elixir-getting-started" />
-  <id>urn:rprimus:github:diogenxs:elixir-getting-started</id>
-  <published>2020-04-21T04:29:46Z</published>
-  <updated>2020-04-21T04:29:46Z</updated>
-  <content type="html">
-   Getting started tutorial from Elixir
-  </content>
- </entry>
- <entry>
-  <title>allefgomes: bank_api</title>
-  <author>
-   <name>allefgomes</name>
-  </author>
-  <link href="https://github.com/allefgomes/bank_api" />
-  <id>urn:rprimus:github:allefgomes:bank_api</id>
-  <published>2020-04-21T04:21:58Z</published>
-  <updated>2020-04-21T04:21:58Z</updated>
-  <content type="html">
-   It is a elixir project to learn about phoenix!
-  </content>
- </entry>
- <entry>
-  <title>ryochin: pinger</title>
-  <author>
-   <name>ryochin</name>
-  </author>
-  <link href="https://github.com/ryochin/pinger" />
-  <id>urn:rprimus:github:ryochin:pinger</id>
-  <published>2020-04-21T03:34:52Z</published>
-  <updated>2020-04-21T03:34:52Z</updated>
-  <content type="html">
-   Simple ICMP Ping library for Elixir
-  </content>
- </entry>
- <entry>
-  <title>carrpet: fact-engine</title>
-  <author>
-   <name>carrpet</name>
-  </author>
-  <link href="https://github.com/carrpet/fact-engine" />
-  <id>urn:rprimus:github:carrpet:fact-engine</id>
-  <published>2020-04-21T03:34:02Z</published>
-  <updated>2020-04-21T03:34:02Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ivanetinajero: elixir-projects</title>
-  <author>
-   <name>ivanetinajero</name>
-  </author>
-  <link href="https://github.com/ivanetinajero/elixir-projects" />
-  <id>urn:rprimus:github:ivanetinajero:elixir-projects</id>
-  <published>2020-04-21T00:53:29Z</published>
-  <updated>2020-04-21T00:53:29Z</updated>
-  <content type="html">
-   elixir-projects
   </content>
  </entry>
 </feed>
