@@ -2,8 +2,112 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2020-04-23T21:25:26Z</updated>
+<updated>2020-04-25T05:07:01Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>Listray: Go</title>
+  <author>
+   <name>Listray</name>
+  </author>
+  <link href="https://github.com/Listray/Go" />
+  <id>urn:rprimus:github:Listray:Go</id>
+  <published>2020-04-25T05:07:01Z</published>
+  <updated>2020-04-25T05:07:01Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>foxx3r: rpg_in_lisp</title>
+  <author>
+   <name>foxx3r</name>
+  </author>
+  <link href="https://github.com/foxx3r/rpg_in_lisp" />
+  <id>urn:rprimus:github:foxx3r:rpg_in_lisp</id>
+  <published>2020-04-24T20:38:16Z</published>
+  <updated>2020-04-24T20:38:16Z</updated>
+  <content type="html">
+   that&#039;s my game&#039;s learning, it was made when I was in chapter 6 of land of Lisp, soon I&#039;ll add a CLI, and won&#039;t continue to use CLISP either :P
+  </content>
+ </entry>
+ <entry>
+  <title>RazvanNour: Prolog-and-Lisp</title>
+  <author>
+   <name>RazvanNour</name>
+  </author>
+  <link href="https://github.com/RazvanNour/Prolog-and-Lisp" />
+  <id>urn:rprimus:github:RazvanNour:Prolog-and-Lisp</id>
+  <published>2020-04-24T19:28:08Z</published>
+  <updated>2020-04-24T19:28:08Z</updated>
+  <content type="html">
+   Short and easy exercises to prove my knowledge of these two languages
+  </content>
+ </entry>
+ <entry>
+  <title>KnightOfTribulus: paip</title>
+  <author>
+   <name>KnightOfTribulus</name>
+  </author>
+  <link href="https://github.com/KnightOfTribulus/paip" />
+  <id>urn:rprimus:github:KnightOfTribulus:paip</id>
+  <published>2020-04-24T15:02:50Z</published>
+  <updated>2020-04-24T15:02:50Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>dvz1: cl-faa</title>
+  <author>
+   <name>dvz1</name>
+  </author>
+  <link href="https://github.com/dvz1/cl-faa" />
+  <id>urn:rprimus:github:dvz1:cl-faa</id>
+  <published>2020-04-24T10:36:46Z</published>
+  <updated>2020-04-24T10:36:46Z</updated>
+  <content type="html">
+   Implementation of fundamental astronomical algorithms
+  </content>
+ </entry>
+ <entry>
+  <title>RemiViola: MLFP</title>
+  <author>
+   <name>RemiViola</name>
+  </author>
+  <link href="https://github.com/RemiViola/MLFP" />
+  <id>urn:rprimus:github:RemiViola:MLFP</id>
+  <published>2020-04-24T08:44:48Z</published>
+  <updated>2020-04-24T08:44:48Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>rwiker: restas-swagger</title>
+  <author>
+   <name>rwiker</name>
+  </author>
+  <link href="https://github.com/rwiker/restas-swagger" />
+  <id>urn:rprimus:github:rwiker:restas-swagger</id>
+  <published>2020-04-24T06:18:57Z</published>
+  <updated>2020-04-24T06:18:57Z</updated>
+  <content type="html">
+   Simple RESTAS plugin for documenting REST APIs, using the OpenAPI (swagger) format.
+  </content>
+ </entry>
+ <entry>
+  <title>agentlans: nt-dice</title>
+  <author>
+   <name>agentlans</name>
+  </author>
+  <link href="https://github.com/agentlans/nt-dice" />
+  <id>urn:rprimus:github:agentlans:nt-dice</id>
+  <published>2020-04-24T06:09:22Z</published>
+  <updated>2020-04-24T06:09:22Z</updated>
+  <content type="html">
+   Generates sets of non-transitive dice
+  </content>
+ </entry>
  <entry>
   <title>copyleft: cl-odata-client</title>
   <author>
@@ -132,110 +236,6 @@
   <updated>2020-04-23T01:12:12Z</updated>
   <content type="html">
    A test project while working through Lisp: A Gentle Introduction to Symbolic Computing
-  </content>
- </entry>
- <entry>
-  <title>FerideM: LISP</title>
-  <author>
-   <name>FerideM</name>
-  </author>
-  <link href="https://github.com/FerideM/LISP" />
-  <id>urn:rprimus:github:FerideM:LISP</id>
-  <published>2020-04-22T22:31:31Z</published>
-  <updated>2020-04-22T22:31:31Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>andyfry01: lisp-sandbox</title>
-  <author>
-   <name>andyfry01</name>
-  </author>
-  <link href="https://github.com/andyfry01/lisp-sandbox" />
-  <id>urn:rprimus:github:andyfry01:lisp-sandbox</id>
-  <published>2020-04-22T21:22:15Z</published>
-  <updated>2020-04-22T21:22:15Z</updated>
-  <content type="html">
-   A collection of random lisp scripts: quick one-off sandbox files, code-along game files from Land of Lisp, and other assorted ephemera from my quest to learn how to program in Common Lisp!
-  </content>
- </entry>
- <entry>
-  <title>Shinmera: dns-client</title>
-  <author>
-   <name>Shinmera</name>
-  </author>
-  <link href="https://github.com/Shinmera/dns-client" />
-  <id>urn:rprimus:github:Shinmera:dns-client</id>
-  <published>2020-04-22T20:25:57Z</published>
-  <updated>2020-04-22T20:25:57Z</updated>
-  <content type="html">
-   A pure-lisp DNS record client
-  </content>
- </entry>
- <entry>
-  <title>pfdietz: s-dot</title>
-  <author>
-   <name>pfdietz</name>
-  </author>
-  <link href="https://github.com/pfdietz/s-dot" />
-  <id>urn:rprimus:github:pfdietz:s-dot</id>
-  <published>2020-04-22T16:47:49Z</published>
-  <updated>2020-04-22T16:47:49Z</updated>
-  <content type="html">
-   Martin Loetzsch&#039;s Common Lisp binding for the graphiz &#039;dot&#039; tool
-  </content>
- </entry>
- <entry>
-  <title>lspscy: CAD-TextCollect</title>
-  <author>
-   <name>lspscy</name>
-  </author>
-  <link href="https://github.com/lspscy/CAD-TextCollect" />
-  <id>urn:rprimus:github:lspscy:CAD-TextCollect</id>
-  <published>2020-04-22T12:53:20Z</published>
-  <updated>2020-04-22T12:53:20Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>lspscy: CAD-CountLength</title>
-  <author>
-   <name>lspscy</name>
-  </author>
-  <link href="https://github.com/lspscy/CAD-CountLength" />
-  <id>urn:rprimus:github:lspscy:CAD-CountLength</id>
-  <published>2020-04-22T12:47:18Z</published>
-  <updated>2020-04-22T12:47:18Z</updated>
-  <content type="html">
-   CAD-CountLength
-  </content>
- </entry>
- <entry>
-  <title>attila-lendvai: seed</title>
-  <author>
-   <name>attila-lendvai</name>
-  </author>
-  <link href="https://github.com/attila-lendvai/seed" />
-  <id>urn:rprimus:github:attila-lendvai:seed</id>
-  <published>2020-04-22T12:33:08Z</published>
-  <updated>2020-04-22T12:33:08Z</updated>
-  <content type="html">
-   A tiny stack-machine bootstrapped from CL, striving to be self-hosting as described in https://github.com/nagydani/seedling/
-  </content>
- </entry>
- <entry>
-  <title>lonjil: rayngine</title>
-  <author>
-   <name>lonjil</name>
-  </author>
-  <link href="https://github.com/lonjil/rayngine" />
-  <id>urn:rprimus:github:lonjil:rayngine</id>
-  <published>2020-04-22T10:51:03Z</published>
-  <updated>2020-04-22T10:51:03Z</updated>
-  <content type="html">
-   Traces rays, &#039;n&#039; stuff.
   </content>
  </entry>
 </feed>

@@ -2,19 +2,604 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-perl.atom"/>
 <id>urn:rprimus:github:newperlrepos</id>
-<updated>2020-04-24T04:29:27Z</updated>
+<updated>2020-04-25T07:40:15Z</updated>
 <title type='text'>New GitHub Perl Repos</title>
  <entry>
-  <title>burnworks: mt_base64_encode_plugin</title>
+  <title>yuki-kimoto: giblognet</title>
   <author>
-   <name>burnworks</name>
+   <name>yuki-kimoto</name>
   </author>
-  <link href="https://github.com/burnworks/mt_base64_encode_plugin" />
-  <id>urn:rprimus:github:burnworks:mt_base64_encode_plugin</id>
-  <published>2020-04-24T04:29:27Z</published>
-  <updated>2020-04-24T04:29:27Z</updated>
+  <link href="https://github.com/yuki-kimoto/giblognet" />
+  <id>urn:rprimus:github:yuki-kimoto:giblognet</id>
+  <published>2020-04-25T07:40:15Z</published>
+  <updated>2020-04-25T07:40:15Z</updated>
   <content type="html">
-   Add base64_encode global modifier for Movable Type
+   
+  </content>
+ </entry>
+ <entry>
+  <title>kuniyoshi: diet</title>
+  <author>
+   <name>kuniyoshi</name>
+  </author>
+  <link href="https://github.com/kuniyoshi/diet" />
+  <id>urn:rprimus:github:kuniyoshi:diet</id>
+  <published>2020-04-25T07:25:10Z</published>
+  <updated>2020-04-25T07:25:10Z</updated>
+  <content type="html">
+   my diet record
+  </content>
+ </entry>
+ <entry>
+  <title>shinji-kono: 14x14ja</title>
+  <author>
+   <name>shinji-kono</name>
+  </author>
+  <link href="https://github.com/shinji-kono/14x14ja" />
+  <id>urn:rprimus:github:shinji-kono:14x14ja</id>
+  <published>2020-04-25T06:58:47Z</published>
+  <updated>2020-04-25T06:58:47Z</updated>
+  <content type="html">
+   modified version of K14 and 7x14 unicode font
+  </content>
+ </entry>
+ <entry>
+  <title>g123sk: merge_excels_with_different_column_names</title>
+  <author>
+   <name>g123sk</name>
+  </author>
+  <link href="https://github.com/g123sk/merge_excels_with_different_column_names" />
+  <id>urn:rprimus:github:g123sk:merge_excels_with_different_column_names</id>
+  <published>2020-04-25T06:15:21Z</published>
+  <updated>2020-04-25T06:15:21Z</updated>
+  <content type="html">
+   Perl utility to merge all excel files (.xlsx, .xls .csv) in a directory including sub-directories. If the excel files have different column names (headers), they can mapped accordingly. Works fine with different title order as well
+  </content>
+ </entry>
+ <entry>
+  <title>jsassu20: MSI-H81M-E34-Catalina</title>
+  <author>
+   <name>jsassu20</name>
+  </author>
+  <link href="https://github.com/jsassu20/MSI-H81M-E34-Catalina" />
+  <id>urn:rprimus:github:jsassu20:MSI-H81M-E34-Catalina</id>
+  <published>2020-04-25T05:32:54Z</published>
+  <updated>2020-04-25T05:32:54Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>pause-play: Apache-ProxyRewrite</title>
+  <author>
+   <name>pause-play</name>
+  </author>
+  <link href="https://github.com/pause-play/Apache-ProxyRewrite" />
+  <id>urn:rprimus:github:pause-play:Apache-ProxyRewrite</id>
+  <published>2020-04-25T04:36:19Z</published>
+  <updated>2020-04-25T04:36:19Z</updated>
+  <content type="html">
+   The CPAN Distro Apache-ProxyRewrite
+  </content>
+ </entry>
+ <entry>
+  <title>pause-play: AnyEvent-Gmail-Feed</title>
+  <author>
+   <name>pause-play</name>
+  </author>
+  <link href="https://github.com/pause-play/AnyEvent-Gmail-Feed" />
+  <id>urn:rprimus:github:pause-play:AnyEvent-Gmail-Feed</id>
+  <published>2020-04-25T04:36:11Z</published>
+  <updated>2020-04-25T04:36:11Z</updated>
+  <content type="html">
+   The CPAN Distro AnyEvent-Gmail-Feed
+  </content>
+ </entry>
+ <entry>
+  <title>pause-play: Apache-ProxyPass</title>
+  <author>
+   <name>pause-play</name>
+  </author>
+  <link href="https://github.com/pause-play/Apache-ProxyPass" />
+  <id>urn:rprimus:github:pause-play:Apache-ProxyPass</id>
+  <published>2020-04-25T04:30:06Z</published>
+  <updated>2020-04-25T04:30:06Z</updated>
+  <content type="html">
+   The CPAN Distro Apache-ProxyPass
+  </content>
+ </entry>
+ <entry>
+  <title>pause-play: Apache-PrettyText</title>
+  <author>
+   <name>pause-play</name>
+  </author>
+  <link href="https://github.com/pause-play/Apache-PrettyText" />
+  <id>urn:rprimus:github:pause-play:Apache-PrettyText</id>
+  <published>2020-04-25T04:29:57Z</published>
+  <updated>2020-04-25T04:29:57Z</updated>
+  <content type="html">
+   The CPAN Distro Apache-PrettyText
+  </content>
+ </entry>
+ <entry>
+  <title>pause-play: Apache-ProxyConf</title>
+  <author>
+   <name>pause-play</name>
+  </author>
+  <link href="https://github.com/pause-play/Apache-ProxyConf" />
+  <id>urn:rprimus:github:pause-play:Apache-ProxyConf</id>
+  <published>2020-04-25T04:27:09Z</published>
+  <updated>2020-04-25T04:27:09Z</updated>
+  <content type="html">
+   The CPAN Distro Apache-ProxyConf
+  </content>
+ </entry>
+ <entry>
+  <title>pause-play: Apache-Proxy</title>
+  <author>
+   <name>pause-play</name>
+  </author>
+  <link href="https://github.com/pause-play/Apache-Proxy" />
+  <id>urn:rprimus:github:pause-play:Apache-Proxy</id>
+  <published>2020-04-25T04:27:01Z</published>
+  <updated>2020-04-25T04:27:01Z</updated>
+  <content type="html">
+   The CPAN Distro Apache-Proxy
+  </content>
+ </entry>
+ <entry>
+  <title>pause-play: AnyEvent-FriendFeed-Realtime</title>
+  <author>
+   <name>pause-play</name>
+  </author>
+  <link href="https://github.com/pause-play/AnyEvent-FriendFeed-Realtime" />
+  <id>urn:rprimus:github:pause-play:AnyEvent-FriendFeed-Realtime</id>
+  <published>2020-04-25T04:23:49Z</published>
+  <updated>2020-04-25T04:23:49Z</updated>
+  <content type="html">
+   The CPAN Distro AnyEvent-FriendFeed-Realtime
+  </content>
+ </entry>
+ <entry>
+  <title>pause-play: AnyEvent-DBI-Abstract</title>
+  <author>
+   <name>pause-play</name>
+  </author>
+  <link href="https://github.com/pause-play/AnyEvent-DBI-Abstract" />
+  <id>urn:rprimus:github:pause-play:AnyEvent-DBI-Abstract</id>
+  <published>2020-04-25T04:17:23Z</published>
+  <updated>2020-04-25T04:17:23Z</updated>
+  <content type="html">
+   The CPAN Distro AnyEvent-DBI-Abstract
+  </content>
+ </entry>
+ <entry>
+  <title>hufjshffwfa: lolololbotnet</title>
+  <author>
+   <name>hufjshffwfa</name>
+  </author>
+  <link href="https://github.com/hufjshffwfa/lolololbotnet" />
+  <id>urn:rprimus:github:hufjshffwfa:lolololbotnet</id>
+  <published>2020-04-25T03:47:38Z</published>
+  <updated>2020-04-25T03:47:38Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>vdgit-work: fping-project</title>
+  <author>
+   <name>vdgit-work</name>
+  </author>
+  <link href="https://github.com/vdgit-work/fping-project" />
+  <id>urn:rprimus:github:vdgit-work:fping-project</id>
+  <published>2020-04-25T03:28:05Z</published>
+  <updated>2020-04-25T03:28:05Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>clvgt12: RPNtool</title>
+  <author>
+   <name>clvgt12</name>
+  </author>
+  <link href="https://github.com/clvgt12/RPNtool" />
+  <id>urn:rprimus:github:clvgt12:RPNtool</id>
+  <published>2020-04-25T02:02:09Z</published>
+  <updated>2020-04-25T02:02:09Z</updated>
+  <content type="html">
+   RPN rules the math word !
+  </content>
+ </entry>
+ <entry>
+  <title>sullo: other-tools</title>
+  <author>
+   <name>sullo</name>
+  </author>
+  <link href="https://github.com/sullo/other-tools" />
+  <id>urn:rprimus:github:sullo:other-tools</id>
+  <published>2020-04-25T01:49:36Z</published>
+  <updated>2020-04-25T01:49:36Z</updated>
+  <content type="html">
+   Other tools developed by CIRT.net
+  </content>
+ </entry>
+ <entry>
+  <title>PotatoCurry: dmpb</title>
+  <author>
+   <name>PotatoCurry</name>
+  </author>
+  <link href="https://github.com/PotatoCurry/dmpb" />
+  <id>urn:rprimus:github:PotatoCurry:dmpb</id>
+  <published>2020-04-25T01:30:20Z</published>
+  <updated>2020-04-25T01:30:20Z</updated>
+  <content type="html">
+   Minimal static site generator in Perl
+  </content>
+ </entry>
+ <entry>
+  <title>corelight: cwrap</title>
+  <author>
+   <name>corelight</name>
+  </author>
+  <link href="https://github.com/corelight/cwrap" />
+  <id>urn:rprimus:github:corelight:cwrap</id>
+  <published>2020-04-25T00:35:39Z</published>
+  <updated>2020-04-25T00:35:39Z</updated>
+  <content type="html">
+   Auto wrap C and C++ functions with instrumentation
+  </content>
+ </entry>
+ <entry>
+  <title>pause-play: Amon2-Plugin-Web-FormValidator-Simple</title>
+  <author>
+   <name>pause-play</name>
+  </author>
+  <link href="https://github.com/pause-play/Amon2-Plugin-Web-FormValidator-Simple" />
+  <id>urn:rprimus:github:pause-play:Amon2-Plugin-Web-FormValidator-Simple</id>
+  <published>2020-04-24T23:41:09Z</published>
+  <updated>2020-04-24T23:41:09Z</updated>
+  <content type="html">
+   The CPAN Distro Amon2-Plugin-Web-FormValidator-Simple
+  </content>
+ </entry>
+ <entry>
+  <title>pause-play: Apache-Precompress</title>
+  <author>
+   <name>pause-play</name>
+  </author>
+  <link href="https://github.com/pause-play/Apache-Precompress" />
+  <id>urn:rprimus:github:pause-play:Apache-Precompress</id>
+  <published>2020-04-24T22:44:46Z</published>
+  <updated>2020-04-24T22:44:46Z</updated>
+  <content type="html">
+   The CPAN Distro Apache-Precompress
+  </content>
+ </entry>
+ <entry>
+  <title>pause-play: Apache-Pod</title>
+  <author>
+   <name>pause-play</name>
+  </author>
+  <link href="https://github.com/pause-play/Apache-Pod" />
+  <id>urn:rprimus:github:pause-play:Apache-Pod</id>
+  <published>2020-04-24T22:42:14Z</published>
+  <updated>2020-04-24T22:42:14Z</updated>
+  <content type="html">
+   The CPAN Distro Apache-Pod
+  </content>
+ </entry>
+ <entry>
+  <title>pause-play: PhotoIndex</title>
+  <author>
+   <name>pause-play</name>
+  </author>
+  <link href="https://github.com/pause-play/PhotoIndex" />
+  <id>urn:rprimus:github:pause-play:PhotoIndex</id>
+  <published>2020-04-24T22:42:04Z</published>
+  <updated>2020-04-24T22:42:04Z</updated>
+  <content type="html">
+   The CPAN Distro PhotoIndex
+  </content>
+ </entry>
+ <entry>
+  <title>pause-play: Apache-PHLogin</title>
+  <author>
+   <name>pause-play</name>
+  </author>
+  <link href="https://github.com/pause-play/Apache-PHLogin" />
+  <id>urn:rprimus:github:pause-play:Apache-PHLogin</id>
+  <published>2020-04-24T22:41:53Z</published>
+  <updated>2020-04-24T22:41:53Z</updated>
+  <content type="html">
+   The CPAN Distro Apache-PHLogin
+  </content>
+ </entry>
+ <entry>
+  <title>pause-play: Apache-PerlVINC</title>
+  <author>
+   <name>pause-play</name>
+  </author>
+  <link href="https://github.com/pause-play/Apache-PerlVINC" />
+  <id>urn:rprimus:github:pause-play:Apache-PerlVINC</id>
+  <published>2020-04-24T22:41:42Z</published>
+  <updated>2020-04-24T22:41:42Z</updated>
+  <content type="html">
+   The CPAN Distro Apache-PerlVINC
+  </content>
+ </entry>
+ <entry>
+  <title>pause-play: Apache-Perldoc</title>
+  <author>
+   <name>pause-play</name>
+  </author>
+  <link href="https://github.com/pause-play/Apache-Perldoc" />
+  <id>urn:rprimus:github:pause-play:Apache-Perldoc</id>
+  <published>2020-04-24T22:41:31Z</published>
+  <updated>2020-04-24T22:41:31Z</updated>
+  <content type="html">
+   The CPAN Distro Apache-Perldoc
+  </content>
+ </entry>
+ <entry>
+  <title>pause-play: Apache-ParseFormData</title>
+  <author>
+   <name>pause-play</name>
+  </author>
+  <link href="https://github.com/pause-play/Apache-ParseFormData" />
+  <id>urn:rprimus:github:pause-play:Apache-ParseFormData</id>
+  <published>2020-04-24T22:41:09Z</published>
+  <updated>2020-04-24T22:41:09Z</updated>
+  <content type="html">
+   The CPAN Distro Apache-ParseFormData
+  </content>
+ </entry>
+ <entry>
+  <title>pause-play: Apache-OWA</title>
+  <author>
+   <name>pause-play</name>
+  </author>
+  <link href="https://github.com/pause-play/Apache-OWA" />
+  <id>urn:rprimus:github:pause-play:Apache-OWA</id>
+  <published>2020-04-24T22:40:47Z</published>
+  <updated>2020-04-24T22:40:47Z</updated>
+  <content type="html">
+   The CPAN Distro Apache-OWA
+  </content>
+ </entry>
+ <entry>
+  <title>pause-play: OpenIndex</title>
+  <author>
+   <name>pause-play</name>
+  </author>
+  <link href="https://github.com/pause-play/OpenIndex" />
+  <id>urn:rprimus:github:pause-play:OpenIndex</id>
+  <published>2020-04-24T22:40:36Z</published>
+  <updated>2020-04-24T22:40:36Z</updated>
+  <content type="html">
+   The CPAN Distro OpenIndex
+  </content>
+ </entry>
+ <entry>
+  <title>kronnopio: SNMP-OSPF</title>
+  <author>
+   <name>kronnopio</name>
+  </author>
+  <link href="https://github.com/kronnopio/SNMP-OSPF" />
+  <id>urn:rprimus:github:kronnopio:SNMP-OSPF</id>
+  <published>2020-04-24T22:24:56Z</published>
+  <updated>2020-04-24T22:24:56Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>pause-play: Acme-PERLANCAR-Test-Images</title>
+  <author>
+   <name>pause-play</name>
+  </author>
+  <link href="https://github.com/pause-play/Acme-PERLANCAR-Test-Images" />
+  <id>urn:rprimus:github:pause-play:Acme-PERLANCAR-Test-Images</id>
+  <published>2020-04-24T22:00:29Z</published>
+  <updated>2020-04-24T22:00:29Z</updated>
+  <content type="html">
+   The CPAN Distro Acme-PERLANCAR-Test-Images
+  </content>
+ </entry>
+ <entry>
+  <title>pause-play: Acme-CPANModules-GetoptModules</title>
+  <author>
+   <name>pause-play</name>
+  </author>
+  <link href="https://github.com/pause-play/Acme-CPANModules-GetoptModules" />
+  <id>urn:rprimus:github:pause-play:Acme-CPANModules-GetoptModules</id>
+  <published>2020-04-24T21:55:35Z</published>
+  <updated>2020-04-24T21:55:35Z</updated>
+  <content type="html">
+   The CPAN Distro Acme-CPANModules-GetoptModules
+  </content>
+ </entry>
+ <entry>
+  <title>EslamTaher: Authenticate</title>
+  <author>
+   <name>EslamTaher</name>
+  </author>
+  <link href="https://github.com/EslamTaher/Authenticate" />
+  <id>urn:rprimus:github:EslamTaher:Authenticate</id>
+  <published>2020-04-24T21:08:35Z</published>
+  <updated>2020-04-24T21:08:35Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>saiftynet: ASCIILOSCOPE</title>
+  <author>
+   <name>saiftynet</name>
+  </author>
+  <link href="https://github.com/saiftynet/ASCIILOSCOPE" />
+  <id>urn:rprimus:github:saiftynet:ASCIILOSCOPE</id>
+  <published>2020-04-24T18:53:09Z</published>
+  <updated>2020-04-24T18:53:09Z</updated>
+  <content type="html">
+   An oscilloscope in ASCII
+  </content>
+ </entry>
+ <entry>
+  <title>Perl5-FFI: FFI-Platypus-Type-PtrObject</title>
+  <author>
+   <name>Perl5-FFI</name>
+  </author>
+  <link href="https://github.com/Perl5-FFI/FFI-Platypus-Type-PtrObject" />
+  <id>urn:rprimus:github:Perl5-FFI:FFI-Platypus-Type-PtrObject</id>
+  <published>2020-04-24T16:38:49Z</published>
+  <updated>2020-04-24T16:38:49Z</updated>
+  <content type="html">
+   Platypus custom type for an object wrapped around an opaque pointer
+  </content>
+ </entry>
+ <entry>
+  <title>tayloj22: bio371project5</title>
+  <author>
+   <name>tayloj22</name>
+  </author>
+  <link href="https://github.com/tayloj22/bio371project5" />
+  <id>urn:rprimus:github:tayloj22:bio371project5</id>
+  <published>2020-04-24T15:32:43Z</published>
+  <updated>2020-04-24T15:32:43Z</updated>
+  <content type="html">
+   Repository for the completion of the semester project for Computational Biology.  Made with Kirk Phillips.
+  </content>
+ </entry>
+ <entry>
+  <title>dpalay: puz</title>
+  <author>
+   <name>dpalay</name>
+  </author>
+  <link href="https://github.com/dpalay/puz" />
+  <id>urn:rprimus:github:dpalay:puz</id>
+  <published>2020-04-24T15:29:49Z</published>
+  <updated>2020-04-24T15:29:49Z</updated>
+  <content type="html">
+   Word Search Generating Website, based on Roger Palay&#039;s perl implementation of puz
+  </content>
+ </entry>
+ <entry>
+  <title>Chebuu: process_mdout</title>
+  <author>
+   <name>Chebuu</name>
+  </author>
+  <link href="https://github.com/Chebuu/process_mdout" />
+  <id>urn:rprimus:github:Chebuu:process_mdout</id>
+  <published>2020-04-24T14:51:18Z</published>
+  <updated>2020-04-24T14:51:18Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>felipecanhedo: axaepa</title>
+  <author>
+   <name>felipecanhedo</name>
+  </author>
+  <link href="https://github.com/felipecanhedo/axaepa" />
+  <id>urn:rprimus:github:felipecanhedo:axaepa</id>
+  <published>2020-04-24T14:44:11Z</published>
+  <updated>2020-04-24T14:44:11Z</updated>
+  <content type="html">
+   APM EPA plugin to collect transaction counts from AXA
+  </content>
+ </entry>
+ <entry>
+  <title>bashaway: rrdcalendar</title>
+  <author>
+   <name>bashaway</name>
+  </author>
+  <link href="https://github.com/bashaway/rrdcalendar" />
+  <id>urn:rprimus:github:bashaway:rrdcalendar</id>
+  <published>2020-04-24T13:04:53Z</published>
+  <updated>2020-04-24T13:04:53Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>ritik-malik: RouteViews_BGP</title>
+  <author>
+   <name>ritik-malik</name>
+  </author>
+  <link href="https://github.com/ritik-malik/RouteViews_BGP" />
+  <id>urn:rprimus:github:ritik-malik:RouteViews_BGP</id>
+  <published>2020-04-24T12:21:17Z</published>
+  <updated>2020-04-24T12:21:17Z</updated>
+  <content type="html">
+   A bot to download BGP data from route views, &amp; filter according to the required AS (optional)
+  </content>
+ </entry>
+ <entry>
+  <title>mattiasboustedt: JSON-Convert</title>
+  <author>
+   <name>mattiasboustedt</name>
+  </author>
+  <link href="https://github.com/mattiasboustedt/JSON-Convert" />
+  <id>urn:rprimus:github:mattiasboustedt:JSON-Convert</id>
+  <published>2020-04-24T11:29:26Z</published>
+  <updated>2020-04-24T11:29:26Z</updated>
+  <content type="html">
+   Used for serializing records in Business Central without calling (for example) Newtonsoft.Json.JsonSerializer.
+  </content>
+ </entry>
+ <entry>
+  <title>BATCAMv2: meta-security</title>
+  <author>
+   <name>BATCAMv2</name>
+  </author>
+  <link href="https://github.com/BATCAMv2/meta-security" />
+  <id>urn:rprimus:github:BATCAMv2:meta-security</id>
+  <published>2020-04-24T11:26:01Z</published>
+  <updated>2020-04-24T11:26:01Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>lameboy2: perl</title>
+  <author>
+   <name>lameboy2</name>
+  </author>
+  <link href="https://github.com/lameboy2/perl" />
+  <id>urn:rprimus:github:lameboy2:perl</id>
+  <published>2020-04-24T10:44:07Z</published>
+  <updated>2020-04-24T10:44:07Z</updated>
+  <content type="html">
+   perlll
+  </content>
+ </entry>
+ <entry>
+  <title>mo-azfar: OTRS-CustomMessage-API</title>
+  <author>
+   <name>mo-azfar</name>
+  </author>
+  <link href="https://github.com/mo-azfar/OTRS-CustomMessage-API" />
+  <id>urn:rprimus:github:mo-azfar:OTRS-CustomMessage-API</id>
+  <published>2020-04-24T08:17:10Z</published>
+  <updated>2020-04-24T08:17:10Z</updated>
+  <content type="html">
+   API for custom message delivery agent (telegram, slack, msteam, rocketchat)
+  </content>
+ </entry>
+ <entry>
+  <title>zinka: verilog-flow</title>
+  <author>
+   <name>zinka</name>
+  </author>
+  <link href="https://github.com/zinka/verilog-flow" />
+  <id>urn:rprimus:github:zinka:verilog-flow</id>
+  <published>2020-04-24T07:18:37Z</published>
+  <updated>2020-04-24T07:18:37Z</updated>
+  <content type="html">
+   Just a Sublime Text project for Verlog programming.
   </content>
  </entry>
  <entry>
@@ -239,19 +824,6 @@
   </content>
  </entry>
  <entry>
-  <title>snehaa2632000: Recommender-System</title>
-  <author>
-   <name>snehaa2632000</name>
-  </author>
-  <link href="https://github.com/snehaa2632000/Recommender-System" />
-  <id>urn:rprimus:github:snehaa2632000:Recommender-System</id>
-  <published>2020-04-23T13:06:32Z</published>
-  <updated>2020-04-23T13:06:32Z</updated>
-  <content type="html">
-   A content based recommender system 
-  </content>
- </entry>
- <entry>
   <title>edgedpub: Tape-Mark-3</title>
   <author>
    <name>edgedpub</name>
@@ -444,305 +1016,6 @@
   <updated>2020-04-23T00:55:37Z</updated>
   <content type="html">
    Wireless Ids Sagemcom
-  </content>
- </entry>
- <entry>
-  <title>Comp215-Group27: test1</title>
-  <author>
-   <name>Comp215-Group27</name>
-  </author>
-  <link href="https://github.com/Comp215-Group27/test1" />
-  <id>urn:rprimus:github:Comp215-Group27:test1</id>
-  <published>2020-04-22T21:52:24Z</published>
-  <updated>2020-04-22T21:52:24Z</updated>
-  <content type="html">
-   test
-  </content>
- </entry>
- <entry>
-  <title>sown87: doxy.me-api-perl</title>
-  <author>
-   <name>sown87</name>
-  </author>
-  <link href="https://github.com/sown87/doxy.me-api-perl" />
-  <id>urn:rprimus:github:sown87:doxy.me-api-perl</id>
-  <published>2020-04-22T20:39:05Z</published>
-  <updated>2020-04-22T20:39:05Z</updated>
-  <content type="html">
-   Perl script for Doxy.me API request for clinic data
-  </content>
- </entry>
- <entry>
-  <title>edquist: BLAHP-bosco-packaging</title>
-  <author>
-   <name>edquist</name>
-  </author>
-  <link href="https://github.com/edquist/BLAHP-bosco-packaging" />
-  <id>urn:rprimus:github:edquist:BLAHP-bosco-packaging</id>
-  <published>2020-04-22T19:50:20Z</published>
-  <updated>2020-04-22T19:50:20Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>mjeffe: arc-utils</title>
-  <author>
-   <name>mjeffe</name>
-  </author>
-  <link href="https://github.com/mjeffe/arc-utils" />
-  <id>urn:rprimus:github:mjeffe:arc-utils</id>
-  <published>2020-04-22T18:51:28Z</published>
-  <updated>2020-04-22T18:51:28Z</updated>
-  <content type="html">
-   Tools and utilities created and used at Arkansas Research Center 
-  </content>
- </entry>
- <entry>
-  <title>mjeffe: arc-perllib</title>
-  <author>
-   <name>mjeffe</name>
-  </author>
-  <link href="https://github.com/mjeffe/arc-perllib" />
-  <id>urn:rprimus:github:mjeffe:arc-perllib</id>
-  <published>2020-04-22T18:15:50Z</published>
-  <updated>2020-04-22T18:15:50Z</updated>
-  <content type="html">
-   Perl libs created and used at Arkansas Research Center
-  </content>
- </entry>
- <entry>
-  <title>qorg11: dotfiles</title>
-  <author>
-   <name>qorg11</name>
-  </author>
-  <link href="https://github.com/qorg11/dotfiles" />
-  <id>urn:rprimus:github:qorg11:dotfiles</id>
-  <published>2020-04-22T16:57:47Z</published>
-  <updated>2020-04-22T16:57:47Z</updated>
-  <content type="html">
-   The dotfiles I use lmao
-  </content>
- </entry>
- <entry>
-  <title>ov3rmind77: intro_perl</title>
-  <author>
-   <name>ov3rmind77</name>
-  </author>
-  <link href="https://github.com/ov3rmind77/intro_perl" />
-  <id>urn:rprimus:github:ov3rmind77:intro_perl</id>
-  <published>2020-04-22T16:05:42Z</published>
-  <updated>2020-04-22T16:05:42Z</updated>
-  <content type="html">
-   Este repositÃ³rio tem fins educacionais, usado para exercÃ­cios com a linguagem PERL
-  </content>
- </entry>
- <entry>
-  <title>bdolmo: GRAPES</title>
-  <author>
-   <name>bdolmo</name>
-  </author>
-  <link href="https://github.com/bdolmo/GRAPES" />
-  <id>urn:rprimus:github:bdolmo:GRAPES</id>
-  <published>2020-04-22T16:03:01Z</published>
-  <updated>2020-04-22T16:03:01Z</updated>
-  <content type="html">
-   SV (and CNV) detection on clinical targeted sequencing data
-  </content>
- </entry>
- <entry>
-  <title>archsploit: packages-gathering</title>
-  <author>
-   <name>archsploit</name>
-  </author>
-  <link href="https://github.com/archsploit/packages-gathering" />
-  <id>urn:rprimus:github:archsploit:packages-gathering</id>
-  <published>2020-04-22T15:51:28Z</published>
-  <updated>2020-04-22T15:51:28Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>monacca1: nuggit</title>
-  <author>
-   <name>monacca1</name>
-  </author>
-  <link href="https://github.com/monacca1/nuggit" />
-  <id>urn:rprimus:github:monacca1:nuggit</id>
-  <published>2020-04-22T15:43:28Z</published>
-  <updated>2020-04-22T15:43:28Z</updated>
-  <content type="html">
-   command line wrapper tool for git that simplifies the use of submodules
-  </content>
- </entry>
- <entry>
-  <title>li010: AutoBuildTool</title>
-  <author>
-   <name>li010</name>
-  </author>
-  <link href="https://github.com/li010/AutoBuildTool" />
-  <id>urn:rprimus:github:li010:AutoBuildTool</id>
-  <published>2020-04-22T13:05:05Z</published>
-  <updated>2020-04-22T13:05:05Z</updated>
-  <content type="html">
-   æ ä¾µå¥å¼iOSèªå¨åæå
-  </content>
- </entry>
- <entry>
-  <title>BarryDigby: GSE118959</title>
-  <author>
-   <name>BarryDigby</name>
-  </author>
-  <link href="https://github.com/BarryDigby/GSE118959" />
-  <id>urn:rprimus:github:BarryDigby:GSE118959</id>
-  <published>2020-04-22T12:53:11Z</published>
-  <updated>2020-04-22T12:53:11Z</updated>
-  <content type="html">
-   Analysis of GSE118959 circRNAs in LNCaP cell lines
-  </content>
- </entry>
- <entry>
-  <title>mo-azfar: OTRS-Ticket-Notification-To-Slack-User</title>
-  <author>
-   <name>mo-azfar</name>
-  </author>
-  <link href="https://github.com/mo-azfar/OTRS-Ticket-Notification-To-Slack-User" />
-  <id>urn:rprimus:github:mo-azfar:OTRS-Ticket-Notification-To-Slack-User</id>
-  <published>2020-04-22T09:56:28Z</published>
-  <updated>2020-04-22T09:56:28Z</updated>
-  <content type="html">
-   Extend Ticket Notification module to send notification to Slack users (agent)
-  </content>
- </entry>
- <entry>
-  <title>mo-azfar: OTRS-Ticket-Notification-To-RocketChat-Users</title>
-  <author>
-   <name>mo-azfar</name>
-  </author>
-  <link href="https://github.com/mo-azfar/OTRS-Ticket-Notification-To-RocketChat-Users" />
-  <id>urn:rprimus:github:mo-azfar:OTRS-Ticket-Notification-To-RocketChat-Users</id>
-  <published>2020-04-22T09:45:09Z</published>
-  <updated>2020-04-22T09:45:09Z</updated>
-  <content type="html">
-   Extend Ticket Notification module to send notification to RocketChat users (agent).
-  </content>
- </entry>
- <entry>
-  <title>mma0786: AdvanceWorkflowDME</title>
-  <author>
-   <name>mma0786</name>
-  </author>
-  <link href="https://github.com/mma0786/AdvanceWorkflowDME" />
-  <id>urn:rprimus:github:mma0786:AdvanceWorkflowDME</id>
-  <published>2020-04-22T09:29:10Z</published>
-  <updated>2020-04-22T09:29:10Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>endlessrocking: voltaas</title>
-  <author>
-   <name>endlessrocking</name>
-  </author>
-  <link href="https://github.com/endlessrocking/voltaas" />
-  <id>urn:rprimus:github:endlessrocking:voltaas</id>
-  <published>2020-04-22T09:17:10Z</published>
-  <updated>2020-04-22T09:17:10Z</updated>
-  <content type="html">
-   Assembler for NVIDIA Volta architecture
-  </content>
- </entry>
- <entry>
-  <title>DarkNinja77: check_snmp_environment.pl</title>
-  <author>
-   <name>DarkNinja77</name>
-  </author>
-  <link href="https://github.com/DarkNinja77/check_snmp_environment.pl" />
-  <id>urn:rprimus:github:DarkNinja77:check_snmp_environment.pl</id>
-  <published>2020-04-22T08:52:07Z</published>
-  <updated>2020-04-22T08:52:07Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>thibaultduponchelle: messy-perl-ci-workflows</title>
-  <author>
-   <name>thibaultduponchelle</name>
-  </author>
-  <link href="https://github.com/thibaultduponchelle/messy-perl-ci-workflows" />
-  <id>urn:rprimus:github:thibaultduponchelle:messy-perl-ci-workflows</id>
-  <published>2020-04-22T08:30:39Z</published>
-  <updated>2020-04-22T08:30:39Z</updated>
-  <content type="html">
-   Messy collection of Perl github ci workflows
-  </content>
- </entry>
- <entry>
-  <title>ology: Math-FractionManip</title>
-  <author>
-   <name>ology</name>
-  </author>
-  <link href="https://github.com/ology/Math-FractionManip" />
-  <id>urn:rprimus:github:ology:Math-FractionManip</id>
-  <published>2020-04-22T07:56:31Z</published>
-  <updated>2020-04-22T07:56:31Z</updated>
-  <content type="html">
-   Manipulate fractions
-  </content>
- </entry>
- <entry>
-  <title>M4GC: bin</title>
-  <author>
-   <name>M4GC</name>
-  </author>
-  <link href="https://github.com/M4GC/bin" />
-  <id>urn:rprimus:github:M4GC:bin</id>
-  <published>2020-04-22T06:15:29Z</published>
-  <updated>2020-04-22T06:15:29Z</updated>
-  <content type="html">
-   just some useful scripts
-  </content>
- </entry>
- <entry>
-  <title>niizumakensuke: crawler.github.io</title>
-  <author>
-   <name>niizumakensuke</name>
-  </author>
-  <link href="https://github.com/niizumakensuke/crawler.github.io" />
-  <id>urn:rprimus:github:niizumakensuke:crawler.github.io</id>
-  <published>2020-04-22T04:46:12Z</published>
-  <updated>2020-04-22T04:46:12Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>yasukasu: sam-dup-align-exclude</title>
-  <author>
-   <name>yasukasu</name>
-  </author>
-  <link href="https://github.com/yasukasu/sam-dup-align-exclude" />
-  <id>urn:rprimus:github:yasukasu:sam-dup-align-exclude</id>
-  <published>2020-04-22T04:32:39Z</published>
-  <updated>2020-04-22T04:32:39Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>sairampally: PLC-TEST-2</title>
-  <author>
-   <name>sairampally</name>
-  </author>
-  <link href="https://github.com/sairampally/PLC-TEST-2" />
-  <id>urn:rprimus:github:sairampally:PLC-TEST-2</id>
-  <published>2020-04-22T00:21:53Z</published>
-  <updated>2020-04-22T00:21:53Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
