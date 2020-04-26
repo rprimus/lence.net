@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-erlang.atom"/>
 <id>urn:rprimus:github:newerlangrepos</id>
-<updated>2020-04-25T02:19:14Z</updated>
+<updated>2020-04-26T04:30:44Z</updated>
 <title type='text'>New GitHub Erlang Repos</title>
+ <entry>
+  <title>wfvining: rslice</title>
+  <author>
+   <name>wfvining</name>
+  </author>
+  <link href="https://github.com/wfvining/rslice" />
+  <id>urn:rprimus:github:wfvining:rslice</id>
+  <published>2020-04-26T04:30:44Z</published>
+  <updated>2020-04-26T04:30:44Z</updated>
+  <content type="html">
+   Erlang library for random slicing
+  </content>
+ </entry>
  <entry>
   <title>Shpaky: ECS</title>
   <author>
@@ -67,58 +80,6 @@
   <updated>2020-04-24T09:19:00Z</updated>
   <content type="html">
    This repo  contains almost all basics of Erlang. 
-  </content>
- </entry>
- <entry>
-  <title>EricRootLee: LearningErlang</title>
-  <author>
-   <name>EricRootLee</name>
-  </author>
-  <link href="https://github.com/EricRootLee/LearningErlang" />
-  <id>urn:rprimus:github:EricRootLee:LearningErlang</id>
-  <published>2020-04-23T23:12:27Z</published>
-  <updated>2020-04-23T23:12:27Z</updated>
-  <content type="html">
-   Quick Start In Erlang
-  </content>
- </entry>
- <entry>
-  <title>jbourlakos: cute</title>
-  <author>
-   <name>jbourlakos</name>
-  </author>
-  <link href="https://github.com/jbourlakos/cute" />
-  <id>urn:rprimus:github:jbourlakos:cute</id>
-  <published>2020-04-23T18:15:48Z</published>
-  <updated>2020-04-23T18:15:48Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>chrisdevilliers: hd_keys</title>
-  <author>
-   <name>chrisdevilliers</name>
-  </author>
-  <link href="https://github.com/chrisdevilliers/hd_keys" />
-  <id>urn:rprimus:github:chrisdevilliers:hd_keys</id>
-  <published>2020-04-23T13:42:33Z</published>
-  <updated>2020-04-23T13:42:33Z</updated>
-  <content type="html">
-   An Erlang/OTP library for hierarchical deterministic key derivation (BIP32)
-  </content>
- </entry>
- <entry>
-  <title>erlang-ls: rebar3_templates</title>
-  <author>
-   <name>erlang-ls</name>
-  </author>
-  <link href="https://github.com/erlang-ls/rebar3_templates" />
-  <id>urn:rprimus:github:erlang-ls:rebar3_templates</id>
-  <published>2020-04-23T12:29:52Z</published>
-  <updated>2020-04-23T12:29:52Z</updated>
-  <content type="html">
-   rebar3 for Erlang LS Development
   </content>
  </entry>
 </feed>
