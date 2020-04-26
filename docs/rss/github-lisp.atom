@@ -2,8 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2020-04-25T05:07:01Z</updated>
+<updated>2020-04-26T05:11:42Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>thrig: random-jsf</title>
+  <author>
+   <name>thrig</name>
+  </author>
+  <link href="https://github.com/thrig/random-jsf" />
+  <id>urn:rprimus:github:thrig:random-jsf</id>
+  <published>2020-04-26T05:11:42Z</published>
+  <updated>2020-04-26T05:11:42Z</updated>
+  <content type="html">
+   Jenkins Small Fast 32-bit random number generator for Common LISP
+  </content>
+ </entry>
+ <entry>
+  <title>kevin-nil: dotfiles</title>
+  <author>
+   <name>kevin-nil</name>
+  </author>
+  <link href="https://github.com/kevin-nil/dotfiles" />
+  <id>urn:rprimus:github:kevin-nil:dotfiles</id>
+  <published>2020-04-25T22:28:00Z</published>
+  <updated>2020-04-25T22:28:00Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>mdbergmann: cl-marsrover</title>
+  <author>
+   <name>mdbergmann</name>
+  </author>
+  <link href="https://github.com/mdbergmann/cl-marsrover" />
+  <id>urn:rprimus:github:mdbergmann:cl-marsrover</id>
+  <published>2020-04-25T21:41:02Z</published>
+  <updated>2020-04-25T21:41:02Z</updated>
+  <content type="html">
+   Mars Rover Kata implementation with Actor
+  </content>
+ </entry>
+ <entry>
+  <title>TheGermanGeologist: SHPBcalc</title>
+  <author>
+   <name>TheGermanGeologist</name>
+  </author>
+  <link href="https://github.com/TheGermanGeologist/SHPBcalc" />
+  <id>urn:rprimus:github:TheGermanGeologist:SHPBcalc</id>
+  <published>2020-04-25T18:38:43Z</published>
+  <updated>2020-04-25T18:38:43Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>fisxoj: json-schema</title>
+  <author>
+   <name>fisxoj</name>
+  </author>
+  <link href="https://github.com/fisxoj/json-schema" />
+  <id>urn:rprimus:github:fisxoj:json-schema</id>
+  <published>2020-04-25T18:20:50Z</published>
+  <updated>2020-04-25T18:20:50Z</updated>
+  <content type="html">
+   JSON Schema validation
+  </content>
+ </entry>
+ <entry>
+  <title>yitzchak: maxima</title>
+  <author>
+   <name>yitzchak</name>
+  </author>
+  <link href="https://github.com/yitzchak/maxima" />
+  <id>urn:rprimus:github:yitzchak:maxima</id>
+  <published>2020-04-25T15:09:01Z</published>
+  <updated>2020-04-25T15:09:01Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>dsanches06: Jogo-da-Torre-IA</title>
+  <author>
+   <name>dsanches06</name>
+  </author>
+  <link href="https://github.com/dsanches06/Jogo-da-Torre-IA" />
+  <id>urn:rprimus:github:dsanches06:Jogo-da-Torre-IA</id>
+  <published>2020-04-25T08:43:23Z</published>
+  <updated>2020-04-25T08:43:23Z</updated>
+  <content type="html">
+   Projecto IA Ãpoca especial 2020 - Jogo da Torre
+  </content>
+ </entry>
  <entry>
   <title>Listray: Go</title>
   <author>
@@ -106,136 +197,6 @@
   <updated>2020-04-24T06:09:22Z</updated>
   <content type="html">
    Generates sets of non-transitive dice
-  </content>
- </entry>
- <entry>
-  <title>copyleft: cl-odata-client</title>
-  <author>
-   <name>copyleft</name>
-  </author>
-  <link href="https://github.com/copyleft/cl-odata-client" />
-  <id>urn:rprimus:github:copyleft:cl-odata-client</id>
-  <published>2020-04-23T21:25:26Z</published>
-  <updated>2020-04-23T21:25:26Z</updated>
-  <content type="html">
-   Common Lisp client library for accessing OData services 
-  </content>
- </entry>
- <entry>
-  <title>guitarvydas: sm-dsl</title>
-  <author>
-   <name>guitarvydas</name>
-  </author>
-  <link href="https://github.com/guitarvydas/sm-dsl" />
-  <id>urn:rprimus:github:guitarvydas:sm-dsl</id>
-  <published>2020-04-23T19:23:54Z</published>
-  <updated>2020-04-23T19:23:54Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>gRastello: elizabot</title>
-  <author>
-   <name>gRastello</name>
-  </author>
-  <link href="https://github.com/gRastello/elizabot" />
-  <id>urn:rprimus:github:gRastello:elizabot</id>
-  <published>2020-04-23T14:23:00Z</published>
-  <updated>2020-04-23T14:23:00Z</updated>
-  <content type="html">
-   A toy ELIZA implementation as a Telegram bot
-  </content>
- </entry>
- <entry>
-  <title>Andrew-Zipperer: texas-hold-em-calculator</title>
-  <author>
-   <name>Andrew-Zipperer</name>
-  </author>
-  <link href="https://github.com/Andrew-Zipperer/texas-hold-em-calculator" />
-  <id>urn:rprimus:github:Andrew-Zipperer:texas-hold-em-calculator</id>
-  <published>2020-04-23T12:11:30Z</published>
-  <updated>2020-04-23T12:11:30Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>fastcoder15: repo1</title>
-  <author>
-   <name>fastcoder15</name>
-  </author>
-  <link href="https://github.com/fastcoder15/repo1" />
-  <id>urn:rprimus:github:fastcoder15:repo1</id>
-  <published>2020-04-23T09:13:05Z</published>
-  <updated>2020-04-23T09:13:05Z</updated>
-  <content type="html">
-   Description
-  </content>
- </entry>
- <entry>
-  <title>arlechann: lack-middleware-method-override</title>
-  <author>
-   <name>arlechann</name>
-  </author>
-  <link href="https://github.com/arlechann/lack-middleware-method-override" />
-  <id>urn:rprimus:github:arlechann:lack-middleware-method-override</id>
-  <published>2020-04-23T08:57:52Z</published>
-  <updated>2020-04-23T08:57:52Z</updated>
-  <content type="html">
-   method override
-  </content>
- </entry>
- <entry>
-  <title>vindarel: lisp-web-template-productlist</title>
-  <author>
-   <name>vindarel</name>
-  </author>
-  <link href="https://github.com/vindarel/lisp-web-template-productlist" />
-  <id>urn:rprimus:github:vindarel:lisp-web-template-productlist</id>
-  <published>2020-04-23T08:50:35Z</published>
-  <updated>2020-04-23T08:50:35Z</updated>
-  <content type="html">
-   A web template with Hunchentoot, Easy-routes, Djula templates, Bulma CSS.
-  </content>
- </entry>
- <entry>
-  <title>afsharalex: visualgorithms</title>
-  <author>
-   <name>afsharalex</name>
-  </author>
-  <link href="https://github.com/afsharalex/visualgorithms" />
-  <id>urn:rprimus:github:afsharalex:visualgorithms</id>
-  <published>2020-04-23T04:43:44Z</published>
-  <updated>2020-04-23T04:43:44Z</updated>
-  <content type="html">
-   Visual representation of popular algorithms.
-  </content>
- </entry>
- <entry>
-  <title>Kehvarl: lisp-koan</title>
-  <author>
-   <name>Kehvarl</name>
-  </author>
-  <link href="https://github.com/Kehvarl/lisp-koan" />
-  <id>urn:rprimus:github:Kehvarl:lisp-koan</id>
-  <published>2020-04-23T02:14:33Z</published>
-  <updated>2020-04-23T02:14:33Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Kehvarl: GentleLisp</title>
-  <author>
-   <name>Kehvarl</name>
-  </author>
-  <link href="https://github.com/Kehvarl/GentleLisp" />
-  <id>urn:rprimus:github:Kehvarl:GentleLisp</id>
-  <published>2020-04-23T01:12:12Z</published>
-  <updated>2020-04-23T01:12:12Z</updated>
-  <content type="html">
-   A test project while working through Lisp: A Gentle Introduction to Symbolic Computing
   </content>
  </entry>
 </feed>
