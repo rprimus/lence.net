@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2020-04-27T16:20:42Z</updated>
+<updated>2020-04-28T05:53:24Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>Gopiandcode: query-complexity-framework</title>
+  <author>
+   <name>Gopiandcode</name>
+  </author>
+  <link href="https://github.com/Gopiandcode/query-complexity-framework" />
+  <id>urn:rprimus:github:Gopiandcode:query-complexity-framework</id>
+  <published>2020-04-28T05:53:24Z</published>
+  <updated>2020-04-28T05:53:24Z</updated>
+  <content type="html">
+   Framework for empirically exploring query complexity questions
+  </content>
+ </entry>
+ <entry>
+  <title>JakeChvatal: abstract-interpretation</title>
+  <author>
+   <name>JakeChvatal</name>
+  </author>
+  <link href="https://github.com/JakeChvatal/abstract-interpretation" />
+  <id>urn:rprimus:github:JakeChvatal:abstract-interpretation</id>
+  <published>2020-04-28T05:25:18Z</published>
+  <updated>2020-04-28T05:25:18Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>TrueshotBarrage: oscrabbl</title>
+  <author>
+   <name>TrueshotBarrage</name>
+  </author>
+  <link href="https://github.com/TrueshotBarrage/oscrabbl" />
+  <id>urn:rprimus:github:TrueshotBarrage:oscrabbl</id>
+  <published>2020-04-28T03:37:18Z</published>
+  <updated>2020-04-28T03:37:18Z</updated>
+  <content type="html">
+   OScrabbl is a Scrabble game for the command-line interface with GUI &amp; non-REPL I/O support, developed in OCaml.
+  </content>
+ </entry>
+ <entry>
+  <title>shonfeder: bindop</title>
+  <author>
+   <name>shonfeder</name>
+  </author>
+  <link href="https://github.com/shonfeder/bindop" />
+  <id>urn:rprimus:github:shonfeder:bindop</id>
+  <published>2020-04-28T00:46:32Z</published>
+  <updated>2020-04-28T00:46:32Z</updated>
+  <content type="html">
+   Common monadic binding operators for OCaml
+  </content>
+ </entry>
+ <entry>
+  <title>ShimadaTomoya: programming_basics_ocaml</title>
+  <author>
+   <name>ShimadaTomoya</name>
+  </author>
+  <link href="https://github.com/ShimadaTomoya/programming_basics_ocaml" />
+  <id>urn:rprimus:github:ShimadaTomoya:programming_basics_ocaml</id>
+  <published>2020-04-27T19:14:17Z</published>
+  <updated>2020-04-27T19:14:17Z</updated>
+  <content type="html">
+   ããã­ã°ã©ãã³ã°ã®åºç¤ãæµäº å¥ä¸èãã®æ¼ç¿åé¡ã®åç­ãpushããrepository
+  </content>
+ </entry>
  <entry>
   <title>pitag-ha: ppx_fprint</title>
   <author>
@@ -15,6 +80,19 @@
   <updated>2020-04-27T16:20:42Z</updated>
   <content type="html">
    PPX-extension for strings including string identifiers wrapped in curly brackets.
+  </content>
+ </entry>
+ <entry>
+  <title>teichholz: Scheme-Compiler</title>
+  <author>
+   <name>teichholz</name>
+  </author>
+  <link href="https://github.com/teichholz/Scheme-Compiler" />
+  <id>urn:rprimus:github:teichholz:Scheme-Compiler</id>
+  <published>2020-04-27T12:47:00Z</published>
+  <updated>2020-04-27T12:47:00Z</updated>
+  <content type="html">
+   
   </content>
  </entry>
  <entry>
@@ -117,84 +195,6 @@
   <id>urn:rprimus:github:ottbot:ibx</id>
   <published>2020-04-26T06:20:19Z</published>
   <updated>2020-04-26T06:20:19Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Et7f3: bs-calendar</title>
-  <author>
-   <name>Et7f3</name>
-  </author>
-  <link href="https://github.com/Et7f3/bs-calendar" />
-  <id>urn:rprimus:github:Et7f3:bs-calendar</id>
-  <published>2020-04-25T21:36:57Z</published>
-  <updated>2020-04-25T21:36:57Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>KrishanBhalla: LearningOcaml</title>
-  <author>
-   <name>KrishanBhalla</name>
-  </author>
-  <link href="https://github.com/KrishanBhalla/LearningOcaml" />
-  <id>urn:rprimus:github:KrishanBhalla:LearningOcaml</id>
-  <published>2020-04-25T18:56:17Z</published>
-  <updated>2020-04-25T18:56:17Z</updated>
-  <content type="html">
-   A collection of exercises from the process of learning ocaml
-  </content>
- </entry>
- <entry>
-  <title>gs0510: interpreter</title>
-  <author>
-   <name>gs0510</name>
-  </author>
-  <link href="https://github.com/gs0510/interpreter" />
-  <id>urn:rprimus:github:gs0510:interpreter</id>
-  <published>2020-04-25T17:11:23Z</published>
-  <updated>2020-04-25T17:11:23Z</updated>
-  <content type="html">
-   Interpreter for Monkey-lang written in OCaml! :monkey: :camel:
-  </content>
- </entry>
- <entry>
-  <title>guignol: camemc</title>
-  <author>
-   <name>guignol</name>
-  </author>
-  <link href="https://github.com/guignol/camemc" />
-  <id>urn:rprimus:github:guignol:camemc</id>
-  <published>2020-04-25T11:35:46Z</published>
-  <updated>2020-04-25T11:35:46Z</updated>
-  <content type="html">
-   c compiler by OCaml
-  </content>
- </entry>
- <entry>
-  <title>gfngfn: Sesterl</title>
-  <author>
-   <name>gfngfn</name>
-  </author>
-  <link href="https://github.com/gfngfn/Sesterl" />
-  <id>urn:rprimus:github:gfngfn:Sesterl</id>
-  <published>2020-04-25T05:57:18Z</published>
-  <updated>2020-04-25T05:57:18Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>yc2454: GKAT</title>
-  <author>
-   <name>yc2454</name>
-  </author>
-  <link href="https://github.com/yc2454/GKAT" />
-  <id>urn:rprimus:github:yc2454:GKAT</id>
-  <published>2020-04-25T05:03:18Z</published>
-  <updated>2020-04-25T05:03:18Z</updated>
   <content type="html">
    
   </content>
