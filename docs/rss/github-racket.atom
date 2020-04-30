@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-racket.atom"/>
 <id>urn:rprimus:github:newracketrepos</id>
-<updated>2020-04-29T02:07:27Z</updated>
+<updated>2020-04-30T01:34:54Z</updated>
 <title type='text'>New GitHub Racket Repos</title>
+ <entry>
+  <title>jaib1: htdp_exercises</title>
+  <author>
+   <name>jaib1</name>
+  </author>
+  <link href="https://github.com/jaib1/htdp_exercises" />
+  <id>urn:rprimus:github:jaib1:htdp_exercises</id>
+  <published>2020-04-30T01:34:54Z</published>
+  <updated>2020-04-30T01:34:54Z</updated>
+  <content type="html">
+   Exercises from &quot;How to Design Programs&quot; 2e
+  </content>
+ </entry>
+ <entry>
+  <title>shafeenr: cs61a</title>
+  <author>
+   <name>shafeenr</name>
+  </author>
+  <link href="https://github.com/shafeenr/cs61a" />
+  <id>urn:rprimus:github:shafeenr:cs61a</id>
+  <published>2020-04-29T22:24:41Z</published>
+  <updated>2020-04-29T22:24:41Z</updated>
+  <content type="html">
+   CS61A, Structure and Interpretation of Computer Programs
+  </content>
+ </entry>
+ <entry>
+  <title>Emanoid: Sorting-Algorithms-Racket</title>
+  <author>
+   <name>Emanoid</name>
+  </author>
+  <link href="https://github.com/Emanoid/Sorting-Algorithms-Racket" />
+  <id>urn:rprimus:github:Emanoid:Sorting-Algorithms-Racket</id>
+  <published>2020-04-29T19:19:50Z</published>
+  <updated>2020-04-29T19:19:50Z</updated>
+  <content type="html">
+   Project on Comparison of Sorting Algorithms
+  </content>
+ </entry>
+ <entry>
+  <title>hepran: htdp-exercises</title>
+  <author>
+   <name>hepran</name>
+  </author>
+  <link href="https://github.com/hepran/htdp-exercises" />
+  <id>urn:rprimus:github:hepran:htdp-exercises</id>
+  <published>2020-04-29T18:21:04Z</published>
+  <updated>2020-04-29T18:21:04Z</updated>
+  <content type="html">
+   Mostly about my answers for all exercises in &#039;How to Design Programs&#039; Book.
+  </content>
+ </entry>
  <entry>
   <title>dkter: bargraphrace</title>
   <author>
@@ -132,149 +184,6 @@
   <updated>2020-04-28T01:58:55Z</updated>
   <content type="html">
    Working through Siek and Newton&#039;s &quot;Essentials of Compilation&quot;
-  </content>
- </entry>
- <entry>
-  <title>bryzhang: cs195y_tiles_game</title>
-  <author>
-   <name>bryzhang</name>
-  </author>
-  <link href="https://github.com/bryzhang/cs195y_tiles_game" />
-  <id>urn:rprimus:github:bryzhang:cs195y_tiles_game</id>
-  <published>2020-04-27T19:58:45Z</published>
-  <updated>2020-04-27T19:58:45Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>cess11: rackvol</title>
-  <author>
-   <name>cess11</name>
-  </author>
-  <link href="https://github.com/cess11/rackvol" />
-  <id>urn:rprimus:github:cess11:rackvol</id>
-  <published>2020-04-27T18:36:51Z</published>
-  <updated>2020-04-27T18:36:51Z</updated>
-  <content type="html">
-   Volume control fÃ¶r Debian Linux amixer in Racket. It&#039;s useless. 
-  </content>
- </entry>
- <entry>
-  <title>syndicate-lang: syndicate-rkt</title>
-  <author>
-   <name>syndicate-lang</name>
-  </author>
-  <link href="https://github.com/syndicate-lang/syndicate-rkt" />
-  <id>urn:rprimus:github:syndicate-lang:syndicate-rkt</id>
-  <published>2020-04-27T18:28:31Z</published>
-  <updated>2020-04-27T18:28:31Z</updated>
-  <content type="html">
-   synÂ·diÂ·cate: a language for interactive programs
-  </content>
- </entry>
- <entry>
-  <title>zyrolasting: hash-partition</title>
-  <author>
-   <name>zyrolasting</name>
-  </author>
-  <link href="https://github.com/zyrolasting/hash-partition" />
-  <id>urn:rprimus:github:zyrolasting:hash-partition</id>
-  <published>2020-04-27T17:53:45Z</published>
-  <updated>2020-04-27T17:53:45Z</updated>
-  <content type="html">
-   A nice way to approach hashes with struct-like views in Racket.
-  </content>
- </entry>
- <entry>
-  <title>bentrab: plc-4</title>
-  <author>
-   <name>bentrab</name>
-  </author>
-  <link href="https://github.com/bentrab/plc-4" />
-  <id>urn:rprimus:github:bentrab:plc-4</id>
-  <published>2020-04-27T17:19:37Z</published>
-  <updated>2020-04-27T17:19:37Z</updated>
-  <content type="html">
-   part 4 bitch
-  </content>
- </entry>
- <entry>
-  <title>emanuelradu: Python-Interpreter</title>
-  <author>
-   <name>emanuelradu</name>
-  </author>
-  <link href="https://github.com/emanuelradu/Python-Interpreter" />
-  <id>urn:rprimus:github:emanuelradu:Python-Interpreter</id>
-  <published>2020-04-27T15:43:06Z</published>
-  <updated>2020-04-27T15:43:06Z</updated>
-  <content type="html">
-   A minimalist Python interpreter in Racket, using functional paradigm and a stack machine model.
-  </content>
- </entry>
- <entry>
-  <title>NekoKami2345: OpenGL-Racket-Projects</title>
-  <author>
-   <name>NekoKami2345</name>
-  </author>
-  <link href="https://github.com/NekoKami2345/OpenGL-Racket-Projects" />
-  <id>urn:rprimus:github:NekoKami2345:OpenGL-Racket-Projects</id>
-  <published>2020-04-27T15:18:56Z</published>
-  <updated>2020-04-27T15:18:56Z</updated>
-  <content type="html">
-   Projects that I&#039;m using to learn how to use OpenGL in Racket
-  </content>
- </entry>
- <entry>
-  <title>alejo074-v: ProgramacionRacket</title>
-  <author>
-   <name>alejo074-v</name>
-  </author>
-  <link href="https://github.com/alejo074-v/ProgramacionRacket" />
-  <id>urn:rprimus:github:alejo074-v:ProgramacionRacket</id>
-  <published>2020-04-27T14:49:27Z</published>
-  <updated>2020-04-27T14:49:27Z</updated>
-  <content type="html">
-   Codigos de Ejercicios en drracket
-  </content>
- </entry>
- <entry>
-  <title>Seminioni: how-to-design-programs</title>
-  <author>
-   <name>Seminioni</name>
-  </author>
-  <link href="https://github.com/Seminioni/how-to-design-programs" />
-  <id>urn:rprimus:github:Seminioni:how-to-design-programs</id>
-  <published>2020-04-27T12:37:43Z</published>
-  <updated>2020-04-27T12:37:43Z</updated>
-  <content type="html">
-   https://htdp.org/2019-02-24/ HTDP, second edition
-  </content>
- </entry>
- <entry>
-  <title>MariaMars2285: Racket_Exercises</title>
-  <author>
-   <name>MariaMars2285</name>
-  </author>
-  <link href="https://github.com/MariaMars2285/Racket_Exercises" />
-  <id>urn:rprimus:github:MariaMars2285:Racket_Exercises</id>
-  <published>2020-04-27T10:32:45Z</published>
-  <updated>2020-04-27T10:32:45Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>deesims: stablematching</title>
-  <author>
-   <name>deesims</name>
-  </author>
-  <link href="https://github.com/deesims/stablematching" />
-  <id>urn:rprimus:github:deesims:stablematching</id>
-  <published>2020-04-27T06:15:50Z</published>
-  <updated>2020-04-27T06:15:50Z</updated>
-  <content type="html">
-   gale shapley algorithm for stable matching, two intersecting matrices
   </content>
  </entry>
 </feed>
