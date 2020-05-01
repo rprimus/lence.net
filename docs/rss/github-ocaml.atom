@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2020-04-30T06:56:13Z</updated>
+<updated>2020-04-30T10:16:01Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>klchai: Frontend_C_OCaml</title>
+  <author>
+   <name>klchai</name>
+  </author>
+  <link href="https://github.com/klchai/Frontend_C_OCaml" />
+  <id>urn:rprimus:github:klchai:Frontend_C_OCaml</id>
+  <published>2020-04-30T10:16:01Z</published>
+  <updated>2020-04-30T10:16:01Z</updated>
+  <content type="html">
+   The goal of this mini-project is to create a lexer/parser (frontend) for a subset of the C language. The chosen fragment of C should be compilable by your frontend as well as by any other C compiler.
+  </content>
+ </entry>
  <entry>
   <title>ssdubey: benchmark_church_infra</title>
   <author>
@@ -132,136 +145,6 @@
   <updated>2020-04-29T00:21:47Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>ryanful: Search-Engine</title>
-  <author>
-   <name>ryanful</name>
-  </author>
-  <link href="https://github.com/ryanful/Search-Engine" />
-  <id>urn:rprimus:github:ryanful:Search-Engine</id>
-  <published>2020-04-28T22:16:07Z</published>
-  <updated>2020-04-28T22:16:07Z</updated>
-  <content type="html">
-   search engine for text documents
-  </content>
- </entry>
- <entry>
-  <title>ryanful: JoCalf-Interpreter</title>
-  <author>
-   <name>ryanful</name>
-  </author>
-  <link href="https://github.com/ryanful/JoCalf-Interpreter" />
-  <id>urn:rprimus:github:ryanful:JoCalf-Interpreter</id>
-  <published>2020-04-28T22:11:15Z</published>
-  <updated>2020-04-28T22:11:15Z</updated>
-  <content type="html">
-   an interpreter for JoCalf, a young language whose parents are OCaml and JavaScript
-  </content>
- </entry>
- <entry>
-  <title>andrewdircks: demo</title>
-  <author>
-   <name>andrewdircks</name>
-  </author>
-  <link href="https://github.com/andrewdircks/demo" />
-  <id>urn:rprimus:github:andrewdircks:demo</id>
-  <published>2020-04-28T19:28:50Z</published>
-  <updated>2020-04-28T19:28:50Z</updated>
-  <content type="html">
-   Test repository used for MS1 application demo
-  </content>
- </entry>
- <entry>
-  <title>kindaro: parsing</title>
-  <author>
-   <name>kindaro</name>
-  </author>
-  <link href="https://github.com/kindaro/parsing" />
-  <id>urn:rprimus:github:kindaro:parsing</id>
-  <published>2020-04-28T18:52:06Z</published>
-  <updated>2020-04-28T18:52:06Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>tsh61: Rutgers-CS314</title>
-  <author>
-   <name>tsh61</name>
-  </author>
-  <link href="https://github.com/tsh61/Rutgers-CS314" />
-  <id>urn:rprimus:github:tsh61:Rutgers-CS314</id>
-  <published>2020-04-28T16:46:22Z</published>
-  <updated>2020-04-28T16:46:22Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>loicpottier: covid19</title>
-  <author>
-   <name>loicpottier</name>
-  </author>
-  <link href="https://github.com/loicpottier/covid19" />
-  <id>urn:rprimus:github:loicpottier:covid19</id>
-  <published>2020-04-28T08:11:03Z</published>
-  <updated>2020-04-28T08:11:03Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Gopiandcode: query-complexity-framework</title>
-  <author>
-   <name>Gopiandcode</name>
-  </author>
-  <link href="https://github.com/Gopiandcode/query-complexity-framework" />
-  <id>urn:rprimus:github:Gopiandcode:query-complexity-framework</id>
-  <published>2020-04-28T05:53:24Z</published>
-  <updated>2020-04-28T05:53:24Z</updated>
-  <content type="html">
-   Framework for empirically exploring query complexity questions
-  </content>
- </entry>
- <entry>
-  <title>JakeChvatal: abstract-interpretation</title>
-  <author>
-   <name>JakeChvatal</name>
-  </author>
-  <link href="https://github.com/JakeChvatal/abstract-interpretation" />
-  <id>urn:rprimus:github:JakeChvatal:abstract-interpretation</id>
-  <published>2020-04-28T05:25:18Z</published>
-  <updated>2020-04-28T05:25:18Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>TrueshotBarrage: oscrabbl</title>
-  <author>
-   <name>TrueshotBarrage</name>
-  </author>
-  <link href="https://github.com/TrueshotBarrage/oscrabbl" />
-  <id>urn:rprimus:github:TrueshotBarrage:oscrabbl</id>
-  <published>2020-04-28T03:37:18Z</published>
-  <updated>2020-04-28T03:37:18Z</updated>
-  <content type="html">
-   OScrabbl is a Scrabble game for the command-line interface with GUI &amp; non-REPL I/O support, developed in OCaml.
-  </content>
- </entry>
- <entry>
-  <title>shonfeder: bindop</title>
-  <author>
-   <name>shonfeder</name>
-  </author>
-  <link href="https://github.com/shonfeder/bindop" />
-  <id>urn:rprimus:github:shonfeder:bindop</id>
-  <published>2020-04-28T00:46:32Z</published>
-  <updated>2020-04-28T00:46:32Z</updated>
-  <content type="html">
-   Common monadic binding operators for OCaml
   </content>
  </entry>
 </feed>
