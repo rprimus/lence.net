@@ -2,8 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2020-05-02T07:14:50Z</updated>
+<updated>2020-05-03T05:18:04Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>Khady: diffwhat</title>
+  <author>
+   <name>Khady</name>
+  </author>
+  <link href="https://github.com/Khady/diffwhat" />
+  <id>urn:rprimus:github:Khady:diffwhat</id>
+  <published>2020-05-03T05:18:04Z</published>
+  <updated>2020-05-03T05:18:04Z</updated>
+  <content type="html">
+   Find places affected by changes in a diff
+  </content>
+ </entry>
+ <entry>
+  <title>sohel97: Compiler-For-Chez-Scheme</title>
+  <author>
+   <name>sohel97</name>
+  </author>
+  <link href="https://github.com/sohel97/Compiler-For-Chez-Scheme" />
+  <id>urn:rprimus:github:sohel97:Compiler-For-Chez-Scheme</id>
+  <published>2020-05-03T02:04:04Z</published>
+  <updated>2020-05-03T02:04:04Z</updated>
+  <content type="html">
+   Compiler for chez scheme programming language
+  </content>
+ </entry>
+ <entry>
+  <title>TrulyNonstrict: web</title>
+  <author>
+   <name>TrulyNonstrict</name>
+  </author>
+  <link href="https://github.com/TrulyNonstrict/web" />
+  <id>urn:rprimus:github:TrulyNonstrict:web</id>
+  <published>2020-05-02T20:40:27Z</published>
+  <updated>2020-05-02T20:40:27Z</updated>
+  <content type="html">
+   The source code of my personal website
+  </content>
+ </entry>
+ <entry>
+  <title>petchema: ocaml-palettisation-shader-generator</title>
+  <author>
+   <name>petchema</name>
+  </author>
+  <link href="https://github.com/petchema/ocaml-palettisation-shader-generator" />
+  <id>urn:rprimus:github:petchema:ocaml-palettisation-shader-generator</id>
+  <published>2020-05-02T18:41:51Z</published>
+  <updated>2020-05-02T18:41:51Z</updated>
+  <content type="html">
+   Generate shader code to palettise colors according to some palette
+  </content>
+ </entry>
+ <entry>
+  <title>NIR-Ginko: ocaml-website</title>
+  <author>
+   <name>NIR-Ginko</name>
+  </author>
+  <link href="https://github.com/NIR-Ginko/ocaml-website" />
+  <id>urn:rprimus:github:NIR-Ginko:ocaml-website</id>
+  <published>2020-05-02T16:43:18Z</published>
+  <updated>2020-05-02T16:43:18Z</updated>
+  <content type="html">
+   Website example using Eliom framework with Ocsigen web server
+  </content>
+ </entry>
+ <entry>
+  <title>maliossimo: ocaml</title>
+  <author>
+   <name>maliossimo</name>
+  </author>
+  <link href="https://github.com/maliossimo/ocaml" />
+  <id>urn:rprimus:github:maliossimo:ocaml</id>
+  <published>2020-05-02T15:50:03Z</published>
+  <updated>2020-05-02T15:50:03Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>voodoos: discord-ml</title>
+  <author>
+   <name>voodoos</name>
+  </author>
+  <link href="https://github.com/voodoos/discord-ml" />
+  <id>urn:rprimus:github:voodoos:discord-ml</id>
+  <published>2020-05-02T11:00:04Z</published>
+  <updated>2020-05-02T11:00:04Z</updated>
+  <content type="html">
+   Experimental binders to the Discord API
+  </content>
+ </entry>
  <entry>
   <title>sanette: ocaml2.org</title>
   <author>
@@ -15,6 +106,19 @@
   <updated>2020-05-02T07:14:50Z</updated>
   <content type="html">
    experimentations with ocaml.org
+  </content>
+ </entry>
+ <entry>
+  <title>brunomspereira: TC</title>
+  <author>
+   <name>brunomspereira</name>
+  </author>
+  <link href="https://github.com/brunomspereira/TC" />
+  <id>urn:rprimus:github:brunomspereira:TC</id>
+  <published>2020-05-02T02:28:40Z</published>
+  <updated>2020-05-02T02:28:40Z</updated>
+  <content type="html">
+   
   </content>
  </entry>
  <entry>
@@ -41,45 +145,6 @@
   <updated>2020-05-01T09:53:12Z</updated>
   <content type="html">
    Artifects created while learning the OCaml  language
-  </content>
- </entry>
- <entry>
-  <title>klchai: Frontend_C_OCaml</title>
-  <author>
-   <name>klchai</name>
-  </author>
-  <link href="https://github.com/klchai/Frontend_C_OCaml" />
-  <id>urn:rprimus:github:klchai:Frontend_C_OCaml</id>
-  <published>2020-04-30T10:16:01Z</published>
-  <updated>2020-04-30T10:16:01Z</updated>
-  <content type="html">
-   The goal of this mini-project is to create a lexer/parser (frontend) for a subset of the C language. The chosen fragment of C should be compilable by your frontend as well as by any other C compiler.
-  </content>
- </entry>
- <entry>
-  <title>ssdubey: benchmark_church_infra</title>
-  <author>
-   <name>ssdubey</name>
-  </author>
-  <link href="https://github.com/ssdubey/benchmark_church_infra" />
-  <id>urn:rprimus:github:ssdubey:benchmark_church_infra</id>
-  <published>2020-04-30T06:56:13Z</published>
-  <updated>2020-04-30T06:56:13Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>bikallem: jsoo_todomvc</title>
-  <author>
-   <name>bikallem</name>
-  </author>
-  <link href="https://github.com/bikallem/jsoo_todomvc" />
-  <id>urn:rprimus:github:bikallem:jsoo_todomvc</id>
-  <published>2020-04-30T01:13:24Z</published>
-  <updated>2020-04-30T01:13:24Z</updated>
-  <content type="html">
-   Todo MVC implemented in js_of_ocaml
   </content>
  </entry>
 </feed>
