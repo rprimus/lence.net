@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-racket.atom"/>
 <id>urn:rprimus:github:newracketrepos</id>
-<updated>2020-05-07T05:31:33Z</updated>
+<updated>2020-05-08T07:25:36Z</updated>
 <title type='text'>New GitHub Racket Repos</title>
+ <entry>
+  <title>Metaxal: quickscript-test</title>
+  <author>
+   <name>Metaxal</name>
+  </author>
+  <link href="https://github.com/Metaxal/quickscript-test" />
+  <id>urn:rprimus:github:Metaxal:quickscript-test</id>
+  <published>2020-05-08T07:25:36Z</published>
+  <updated>2020-05-08T07:25:36Z</updated>
+  <content type="html">
+   Tests for quickscript
+  </content>
+ </entry>
+ <entry>
+  <title>jlscanlon12: Little-Schemer</title>
+  <author>
+   <name>jlscanlon12</name>
+  </author>
+  <link href="https://github.com/jlscanlon12/Little-Schemer" />
+  <id>urn:rprimus:github:jlscanlon12:Little-Schemer</id>
+  <published>2020-05-07T21:39:06Z</published>
+  <updated>2020-05-07T21:39:06Z</updated>
+  <content type="html">
+   Functions written while working throught &quot;The Little Schemer&quot;
+  </content>
+ </entry>
+ <entry>
+  <title>rodrigogribeiro: regex-small-step-model</title>
+  <author>
+   <name>rodrigogribeiro</name>
+  </author>
+  <link href="https://github.com/rodrigogribeiro/regex-small-step-model" />
+  <id>urn:rprimus:github:rodrigogribeiro:regex-small-step-model</id>
+  <published>2020-05-07T17:15:51Z</published>
+  <updated>2020-05-07T17:15:51Z</updated>
+  <content type="html">
+   PLT-Redex model for a small-step semantics for regular expression parsing.
+  </content>
+ </entry>
+ <entry>
+  <title>DexterLagan: assert</title>
+  <author>
+   <name>DexterLagan</name>
+  </author>
+  <link href="https://github.com/DexterLagan/assert" />
+  <id>urn:rprimus:github:DexterLagan:assert</id>
+  <published>2020-05-07T08:23:44Z</published>
+  <updated>2020-05-07T08:23:44Z</updated>
+  <content type="html">
+   A Racket macro which conveniently combines check-equal? and check-true.
+  </content>
+ </entry>
+ <entry>
+  <title>codereport: SICP-2020</title>
+  <author>
+   <name>codereport</name>
+  </author>
+  <link href="https://github.com/codereport/SICP-2020" />
+  <id>urn:rprimus:github:codereport:SICP-2020</id>
+  <published>2020-05-07T07:32:16Z</published>
+  <updated>2020-05-07T07:32:16Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>jiahao42: sicp-solutions</title>
   <author>
@@ -27,7 +92,7 @@
   <published>2020-05-07T05:14:19Z</published>
   <updated>2020-05-07T05:14:19Z</updated>
   <content type="html">
-   
+   Approximate string matching in Racket loosely based on Sublime Text&#039;s approach.
   </content>
  </entry>
  <entry>
@@ -145,71 +210,6 @@
   <updated>2020-05-06T00:05:29Z</updated>
   <content type="html">
    A Racket package that breaks tweedledum.
-  </content>
- </entry>
- <entry>
-  <title>robertbrodin: CS1101-Introduction-to-Program-Design-Projects</title>
-  <author>
-   <name>robertbrodin</name>
-  </author>
-  <link href="https://github.com/robertbrodin/CS1101-Introduction-to-Program-Design-Projects" />
-  <id>urn:rprimus:github:robertbrodin:CS1101-Introduction-to-Program-Design-Projects</id>
-  <published>2020-05-05T18:16:02Z</published>
-  <updated>2020-05-05T18:16:02Z</updated>
-  <content type="html">
-   Projects programmed in Racket in the WPI Introduction to Program Design class.
-  </content>
- </entry>
- <entry>
-  <title>jnoel01: CS135-Discrete-Structures</title>
-  <author>
-   <name>jnoel01</name>
-  </author>
-  <link href="https://github.com/jnoel01/CS135-Discrete-Structures" />
-  <id>urn:rprimus:github:jnoel01:CS135-Discrete-Structures</id>
-  <published>2020-05-05T17:29:06Z</published>
-  <updated>2020-05-05T17:29:06Z</updated>
-  <content type="html">
-   A collection labs from Discrete Structures at Stevens Institute of Technology
-  </content>
- </entry>
- <entry>
-  <title>BneMacclure: Final-Project-ITEC-380</title>
-  <author>
-   <name>BneMacclure</name>
-  </author>
-  <link href="https://github.com/BneMacclure/Final-Project-ITEC-380" />
-  <id>urn:rprimus:github:BneMacclure:Final-Project-ITEC-380</id>
-  <published>2020-05-05T15:20:44Z</published>
-  <updated>2020-05-05T15:20:44Z</updated>
-  <content type="html">
-   Fun interpreter
-  </content>
- </entry>
- <entry>
-  <title>Bogdanp: racket-actions-example</title>
-  <author>
-   <name>Bogdanp</name>
-  </author>
-  <link href="https://github.com/Bogdanp/racket-actions-example" />
-  <id>urn:rprimus:github:Bogdanp:racket-actions-example</id>
-  <published>2020-05-05T09:47:50Z</published>
-  <updated>2020-05-05T09:47:50Z</updated>
-  <content type="html">
-   An example of testing Racket code using GitHub actions.
-  </content>
- </entry>
- <entry>
-  <title>xashes: codewars-kata</title>
-  <author>
-   <name>xashes</name>
-  </author>
-  <link href="https://github.com/xashes/codewars-kata" />
-  <id>urn:rprimus:github:xashes:codewars-kata</id>
-  <published>2020-05-05T01:41:22Z</published>
-  <updated>2020-05-05T01:41:22Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
