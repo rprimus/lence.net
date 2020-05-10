@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2020-05-08T23:55:33Z</updated>
+<updated>2020-05-10T08:14:01Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>johnsondavies: pencil-and-paper-games</title>
+  <author>
+   <name>johnsondavies</name>
+  </author>
+  <link href="https://github.com/johnsondavies/pencil-and-paper-games" />
+  <id>urn:rprimus:github:johnsondavies:pencil-and-paper-games</id>
+  <published>2020-05-10T08:14:01Z</published>
+  <updated>2020-05-10T08:14:01Z</updated>
+  <content type="html">
+   Common Lisp programs to play pencil and paper games.
+  </content>
+ </entry>
+ <entry>
+  <title>bpanthi977: epicycles</title>
+  <author>
+   <name>bpanthi977</name>
+  </author>
+  <link href="https://github.com/bpanthi977/epicycles" />
+  <id>urn:rprimus:github:bpanthi977:epicycles</id>
+  <published>2020-05-10T07:16:36Z</published>
+  <updated>2020-05-10T07:16:36Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>nilesr: jscl-react</title>
+  <author>
+   <name>nilesr</name>
+  </author>
+  <link href="https://github.com/nilesr/jscl-react" />
+  <id>urn:rprimus:github:nilesr:jscl-react</id>
+  <published>2020-05-09T21:18:10Z</published>
+  <updated>2020-05-09T21:18:10Z</updated>
+  <content type="html">
+   A web framework for writing react components in common lisp using jscl
+  </content>
+ </entry>
+ <entry>
+  <title>fstamour: common-lisp-heroku-example</title>
+  <author>
+   <name>fstamour</name>
+  </author>
+  <link href="https://github.com/fstamour/common-lisp-heroku-example" />
+  <id>urn:rprimus:github:fstamour:common-lisp-heroku-example</id>
+  <published>2020-05-09T20:09:01Z</published>
+  <updated>2020-05-09T20:09:01Z</updated>
+  <content type="html">
+   Example of Common Lisp server on Heroku using Docker
+  </content>
+ </entry>
+ <entry>
+  <title>TheSingingFox: gentleintro</title>
+  <author>
+   <name>TheSingingFox</name>
+  </author>
+  <link href="https://github.com/TheSingingFox/gentleintro" />
+  <id>urn:rprimus:github:TheSingingFox:gentleintro</id>
+  <published>2020-05-09T16:43:41Z</published>
+  <updated>2020-05-09T16:43:41Z</updated>
+  <content type="html">
+   Exercises from the book &quot;A gentle introduction to symbolic computation&quot;.
+  </content>
+ </entry>
+ <entry>
+  <title>Kehvarl: better-koans</title>
+  <author>
+   <name>Kehvarl</name>
+  </author>
+  <link href="https://github.com/Kehvarl/better-koans" />
+  <id>urn:rprimus:github:Kehvarl:better-koans</id>
+  <published>2020-05-09T00:54:48Z</published>
+  <updated>2020-05-09T00:54:48Z</updated>
+  <content type="html">
+   Cloned from Phoe&#039;s improved Koans.
+  </content>
+ </entry>
  <entry>
   <title>mahirvaluj: cuteproffanclub</title>
   <author>
@@ -44,6 +122,19 @@
   </content>
  </entry>
  <entry>
+  <title>vandomej: PaletteGenerator</title>
+  <author>
+   <name>vandomej</name>
+  </author>
+  <link href="https://github.com/vandomej/PaletteGenerator" />
+  <id>urn:rprimus:github:vandomej:PaletteGenerator</id>
+  <published>2020-05-08T04:48:57Z</published>
+  <updated>2020-05-08T04:48:57Z</updated>
+  <content type="html">
+   ML algorithm for generating a color palette given an initial color. The dataset used for this neural network is a set of classical painting&#039;s where the color pallete was scrubbed and used as training data.
+  </content>
+ </entry>
+ <entry>
   <title>huyim: LispLearning</title>
   <author>
    <name>huyim</name>
@@ -54,123 +145,6 @@
   <updated>2020-05-08T01:23:27Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>AgustinPardo: LIPS-pathwayTools-queries</title>
-  <author>
-   <name>AgustinPardo</name>
-  </author>
-  <link href="https://github.com/AgustinPardo/LIPS-pathwayTools-queries" />
-  <id>urn:rprimus:github:AgustinPardo:LIPS-pathwayTools-queries</id>
-  <published>2020-05-07T20:30:33Z</published>
-  <updated>2020-05-07T20:30:33Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>HenryS1: hylo</title>
-  <author>
-   <name>HenryS1</name>
-  </author>
-  <link href="https://github.com/HenryS1/hylo" />
-  <id>urn:rprimus:github:HenryS1:hylo</id>
-  <published>2020-05-07T20:28:20Z</published>
-  <updated>2020-05-07T20:28:20Z</updated>
-  <content type="html">
-   Monads for Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>VaclavSynacek: oskar-color-game</title>
-  <author>
-   <name>VaclavSynacek</name>
-  </author>
-  <link href="https://github.com/VaclavSynacek/oskar-color-game" />
-  <id>urn:rprimus:github:VaclavSynacek:oskar-color-game</id>
-  <published>2020-05-07T20:12:43Z</published>
-  <updated>2020-05-07T20:12:43Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>xoxoginger: FP</title>
-  <author>
-   <name>xoxoginger</name>
-  </author>
-  <link href="https://github.com/xoxoginger/FP" />
-  <id>urn:rprimus:github:xoxoginger:FP</id>
-  <published>2020-05-07T19:31:02Z</published>
-  <updated>2020-05-07T19:31:02Z</updated>
-  <content type="html">
-   Functional programming labs
-  </content>
- </entry>
- <entry>
-  <title>kar7hik: cl-dct</title>
-  <author>
-   <name>kar7hik</name>
-  </author>
-  <link href="https://github.com/kar7hik/cl-dct" />
-  <id>urn:rprimus:github:kar7hik:cl-dct</id>
-  <published>2020-05-07T13:16:59Z</published>
-  <updated>2020-05-07T13:16:59Z</updated>
-  <content type="html">
-   Discrete Cosine Transform (DCT) and Inverse Discrete Cosine Transform (IDCT) Implementation
-  </content>
- </entry>
- <entry>
-  <title>small-entropy: cse</title>
-  <author>
-   <name>small-entropy</name>
-  </author>
-  <link href="https://github.com/small-entropy/cse" />
-  <id>urn:rprimus:github:small-entropy:cse</id>
-  <published>2020-05-07T12:09:05Z</published>
-  <updated>2020-05-07T12:09:05Z</updated>
-  <content type="html">
-   Chainsaw Service Engine - is next generation web framework for Common Lisp. 
-  </content>
- </entry>
- <entry>
-  <title>agentlans: chess-moves</title>
-  <author>
-   <name>agentlans</name>
-  </author>
-  <link href="https://github.com/agentlans/chess-moves" />
-  <id>urn:rprimus:github:agentlans:chess-moves</id>
-  <published>2020-05-07T03:18:28Z</published>
-  <updated>2020-05-07T03:18:28Z</updated>
-  <content type="html">
-   Lists legal moves for chess pieces
-  </content>
- </entry>
- <entry>
-  <title>Middleman3: Project6-SP</title>
-  <author>
-   <name>Middleman3</name>
-  </author>
-  <link href="https://github.com/Middleman3/Project6-SP" />
-  <id>urn:rprimus:github:Middleman3:Project6-SP</id>
-  <published>2020-05-07T02:03:25Z</published>
-  <updated>2020-05-07T02:03:25Z</updated>
-  <content type="html">
-   Simple scripts planner in Lisp
-  </content>
- </entry>
- <entry>
-  <title>hodumi: .lem</title>
-  <author>
-   <name>hodumi</name>
-  </author>
-  <link href="https://github.com/hodumi/.lem" />
-  <id>urn:rprimus:github:hodumi:.lem</id>
-  <published>2020-05-07T00:30:30Z</published>
-  <updated>2020-05-07T00:30:30Z</updated>
-  <content type="html">
-   lem configuration files
   </content>
  </entry>
 </feed>

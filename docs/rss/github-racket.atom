@@ -2,8 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-racket.atom"/>
 <id>urn:rprimus:github:newracketrepos</id>
-<updated>2020-05-09T05:11:24Z</updated>
+<updated>2020-05-10T05:58:59Z</updated>
 <title type='text'>New GitHub Racket Repos</title>
+ <entry>
+  <title>foxx3r: family_tree_datalog</title>
+  <author>
+   <name>foxx3r</name>
+  </author>
+  <link href="https://github.com/foxx3r/family_tree_datalog" />
+  <id>urn:rprimus:github:foxx3r:family_tree_datalog</id>
+  <published>2020-05-10T05:58:59Z</published>
+  <updated>2020-05-10T05:58:59Z</updated>
+  <content type="html">
+   This is a family tree in racket using datalog + S-expressions
+  </content>
+ </entry>
+ <entry>
+  <title>krhoda: book_learning</title>
+  <author>
+   <name>krhoda</name>
+  </author>
+  <link href="https://github.com/krhoda/book_learning" />
+  <id>urn:rprimus:github:krhoda:book_learning</id>
+  <published>2020-05-09T22:18:28Z</published>
+  <updated>2020-05-09T22:18:28Z</updated>
+  <content type="html">
+   Sample Source Code, Example Projects, and Notes on numerous languages.
+  </content>
+ </entry>
+ <entry>
+  <title>amanb87: Racket-Programs</title>
+  <author>
+   <name>amanb87</name>
+  </author>
+  <link href="https://github.com/amanb87/Racket-Programs" />
+  <id>urn:rprimus:github:amanb87:Racket-Programs</id>
+  <published>2020-05-09T20:41:05Z</published>
+  <updated>2020-05-09T20:41:05Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>jitwit: jdoc</title>
+  <author>
+   <name>jitwit</name>
+  </author>
+  <link href="https://github.com/jitwit/jdoc" />
+  <id>urn:rprimus:github:jitwit:jdoc</id>
+  <published>2020-05-09T18:58:24Z</published>
+  <updated>2020-05-09T18:58:24Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>BoyPersoon: brute-force-games</title>
+  <author>
+   <name>BoyPersoon</name>
+  </author>
+  <link href="https://github.com/BoyPersoon/brute-force-games" />
+  <id>urn:rprimus:github:BoyPersoon:brute-force-games</id>
+  <published>2020-05-09T18:29:13Z</published>
+  <updated>2020-05-09T18:29:13Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>daniig: baseline_racket</title>
+  <author>
+   <name>daniig</name>
+  </author>
+  <link href="https://github.com/daniig/baseline_racket" />
+  <id>urn:rprimus:github:daniig:baseline_racket</id>
+  <published>2020-05-09T17:56:43Z</published>
+  <updated>2020-05-09T17:56:43Z</updated>
+  <content type="html">
+   A barebones Racket big-bang project
+  </content>
+ </entry>
+ <entry>
+  <title>fayelee0: train-scheme</title>
+  <author>
+   <name>fayelee0</name>
+  </author>
+  <link href="https://github.com/fayelee0/train-scheme" />
+  <id>urn:rprimus:github:fayelee0:train-scheme</id>
+  <published>2020-05-09T11:04:26Z</published>
+  <updated>2020-05-09T11:04:26Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>ALonWol: racket-state-machine</title>
   <author>
@@ -31,6 +122,19 @@
   </content>
  </entry>
  <entry>
+  <title>annrpom: racket-projects</title>
+  <author>
+   <name>annrpom</name>
+  </author>
+  <link href="https://github.com/annrpom/racket-projects" />
+  <id>urn:rprimus:github:annrpom:racket-projects</id>
+  <published>2020-05-08T18:52:31Z</published>
+  <updated>2020-05-08T18:52:31Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
   <title>Metaxal: quickscript-test</title>
   <author>
    <name>Metaxal</name>
@@ -41,97 +145,6 @@
   <updated>2020-05-08T07:25:36Z</updated>
   <content type="html">
    Tests for quickscript
-  </content>
- </entry>
- <entry>
-  <title>jlscanlon12: Little-Schemer</title>
-  <author>
-   <name>jlscanlon12</name>
-  </author>
-  <link href="https://github.com/jlscanlon12/Little-Schemer" />
-  <id>urn:rprimus:github:jlscanlon12:Little-Schemer</id>
-  <published>2020-05-07T21:39:06Z</published>
-  <updated>2020-05-07T21:39:06Z</updated>
-  <content type="html">
-   Functions written while working throught &quot;The Little Schemer&quot;
-  </content>
- </entry>
- <entry>
-  <title>rodrigogribeiro: regex-small-step-model</title>
-  <author>
-   <name>rodrigogribeiro</name>
-  </author>
-  <link href="https://github.com/rodrigogribeiro/regex-small-step-model" />
-  <id>urn:rprimus:github:rodrigogribeiro:regex-small-step-model</id>
-  <published>2020-05-07T17:15:51Z</published>
-  <updated>2020-05-07T17:15:51Z</updated>
-  <content type="html">
-   PLT-Redex model for a small-step semantics for regular expression parsing.
-  </content>
- </entry>
- <entry>
-  <title>DexterLagan: assert</title>
-  <author>
-   <name>DexterLagan</name>
-  </author>
-  <link href="https://github.com/DexterLagan/assert" />
-  <id>urn:rprimus:github:DexterLagan:assert</id>
-  <published>2020-05-07T08:23:44Z</published>
-  <updated>2020-05-07T08:23:44Z</updated>
-  <content type="html">
-   A Racket macro which conveniently combines check-equal? and check-true.
-  </content>
- </entry>
- <entry>
-  <title>codereport: SICP-2020</title>
-  <author>
-   <name>codereport</name>
-  </author>
-  <link href="https://github.com/codereport/SICP-2020" />
-  <id>urn:rprimus:github:codereport:SICP-2020</id>
-  <published>2020-05-07T07:32:16Z</published>
-  <updated>2020-05-07T07:32:16Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jiahao42: sicp-solutions</title>
-  <author>
-   <name>jiahao42</name>
-  </author>
-  <link href="https://github.com/jiahao42/sicp-solutions" />
-  <id>urn:rprimus:github:jiahao42:sicp-solutions</id>
-  <published>2020-05-07T05:31:33Z</published>
-  <updated>2020-05-07T05:31:33Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>zyrolasting: fuzzy-search</title>
-  <author>
-   <name>zyrolasting</name>
-  </author>
-  <link href="https://github.com/zyrolasting/fuzzy-search" />
-  <id>urn:rprimus:github:zyrolasting:fuzzy-search</id>
-  <published>2020-05-07T05:14:19Z</published>
-  <updated>2020-05-07T05:14:19Z</updated>
-  <content type="html">
-   Approximate string matching in Racket loosely based on Sublime Text&#039;s approach.
-  </content>
- </entry>
- <entry>
-  <title>AdinDorf: SchemeLearning</title>
-  <author>
-   <name>AdinDorf</name>
-  </author>
-  <link href="https://github.com/AdinDorf/SchemeLearning" />
-  <id>urn:rprimus:github:AdinDorf:SchemeLearning</id>
-  <published>2020-05-07T04:49:03Z</published>
-  <updated>2020-05-07T04:49:03Z</updated>
-  <content type="html">
-   A series of exercises to get familiar with Scheme and lambda functions
   </content>
  </entry>
 </feed>
