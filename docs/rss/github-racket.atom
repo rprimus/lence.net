@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-racket.atom"/>
 <id>urn:rprimus:github:newracketrepos</id>
-<updated>2020-05-12T02:56:54Z</updated>
+<updated>2020-05-12T21:30:05Z</updated>
 <title type='text'>New GitHub Racket Repos</title>
+ <entry>
+  <title>srulih: Lisp</title>
+  <author>
+   <name>srulih</name>
+  </author>
+  <link href="https://github.com/srulih/Lisp" />
+  <id>urn:rprimus:github:srulih:Lisp</id>
+  <published>2020-05-12T21:30:05Z</published>
+  <updated>2020-05-12T21:30:05Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>naoyafurudono: play-with-turnstile</title>
+  <author>
+   <name>naoyafurudono</name>
+  </author>
+  <link href="https://github.com/naoyafurudono/play-with-turnstile" />
+  <id>urn:rprimus:github:naoyafurudono:play-with-turnstile</id>
+  <published>2020-05-12T09:17:37Z</published>
+  <updated>2020-05-12T09:17:37Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>tomasirm: laboratorio-git-paradigma</title>
   <author>
@@ -31,16 +57,16 @@
   </content>
  </entry>
  <entry>
-  <title>zyrolasting: css-parser</title>
+  <title>zyrolasting: css3-syntax</title>
   <author>
    <name>zyrolasting</name>
   </author>
-  <link href="https://github.com/zyrolasting/css-parser" />
-  <id>urn:rprimus:github:zyrolasting:css-parser</id>
+  <link href="https://github.com/zyrolasting/css3-syntax" />
+  <id>urn:rprimus:github:zyrolasting:css3-syntax</id>
   <published>2020-05-11T21:19:02Z</published>
   <updated>2020-05-11T21:19:02Z</updated>
   <content type="html">
-   A CSS parser implemented in Racket
+   A Racket implementation of the W3C&#039;s CSS Syntax module (Level 3) 
   </content>
  </entry>
  <entry>
@@ -145,19 +171,6 @@
   <updated>2020-05-11T08:30:59Z</updated>
   <content type="html">
    My solutions to the How To Design Programs book
-  </content>
- </entry>
- <entry>
-  <title>foxx3r: family_tree_datalog</title>
-  <author>
-   <name>foxx3r</name>
-  </author>
-  <link href="https://github.com/foxx3r/family_tree_datalog" />
-  <id>urn:rprimus:github:foxx3r:family_tree_datalog</id>
-  <published>2020-05-10T05:58:59Z</published>
-  <updated>2020-05-10T05:58:59Z</updated>
-  <content type="html">
-   This is a family tree in racket using datalog + S-expressions
   </content>
  </entry>
 </feed>

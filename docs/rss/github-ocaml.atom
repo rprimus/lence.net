@@ -2,17 +2,82 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2020-05-12T01:47:28Z</updated>
+<updated>2020-05-13T06:40:09Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
  <entry>
-  <title>jsiebern: re-typescript</title>
+  <title>nslaughter: generator</title>
   <author>
-   <name>jsiebern</name>
+   <name>nslaughter</name>
   </author>
-  <link href="https://github.com/jsiebern/re-typescript" />
-  <id>urn:rprimus:github:jsiebern:re-typescript</id>
-  <published>2020-05-12T01:47:28Z</published>
-  <updated>2020-05-12T01:47:28Z</updated>
+  <link href="https://github.com/nslaughter/generator" />
+  <id>urn:rprimus:github:nslaughter:generator</id>
+  <published>2020-05-13T06:40:09Z</published>
+  <updated>2020-05-13T06:40:09Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>giltho: dune-repro-no-lint</title>
+  <author>
+   <name>giltho</name>
+  </author>
+  <link href="https://github.com/giltho/dune-repro-no-lint" />
+  <id>urn:rprimus:github:giltho:dune-repro-no-lint</id>
+  <published>2020-05-12T21:32:25Z</published>
+  <updated>2020-05-12T21:32:25Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>jdrprod: Oratio</title>
+  <author>
+   <name>jdrprod</name>
+  </author>
+  <link href="https://github.com/jdrprod/Oratio" />
+  <id>urn:rprimus:github:jdrprod:Oratio</id>
+  <published>2020-05-12T21:20:50Z</published>
+  <updated>2020-05-12T21:20:50Z</updated>
+  <content type="html">
+   Translate natural deduction proofs into natural language.
+  </content>
+ </entry>
+ <entry>
+  <title>jchavarri: bs-refmt</title>
+  <author>
+   <name>jchavarri</name>
+  </author>
+  <link href="https://github.com/jchavarri/bs-refmt" />
+  <id>urn:rprimus:github:jchavarri:bs-refmt</id>
+  <published>2020-05-12T20:13:02Z</published>
+  <updated>2020-05-12T20:13:02Z</updated>
+  <content type="html">
+   Refmt (Reason parser-printer) as a first class BuckleScript library
+  </content>
+ </entry>
+ <entry>
+  <title>johnwhitington: rfork</title>
+  <author>
+   <name>johnwhitington</name>
+  </author>
+  <link href="https://github.com/johnwhitington/rfork" />
+  <id>urn:rprimus:github:johnwhitington:rfork</id>
+  <published>2020-05-12T18:41:26Z</published>
+  <updated>2020-05-12T18:41:26Z</updated>
+  <content type="html">
+   Automatic decorators for OCaml types
+  </content>
+ </entry>
+ <entry>
+  <title>rileyf128: 2041</title>
+  <author>
+   <name>rileyf128</name>
+  </author>
+  <link href="https://github.com/rileyf128/2041" />
+  <id>urn:rprimus:github:rileyf128:2041</id>
+  <published>2020-05-12T17:45:05Z</published>
+  <updated>2020-05-12T17:45:05Z</updated>
   <content type="html">
    
   </content>
@@ -54,19 +119,6 @@
   <updated>2020-05-11T20:16:47Z</updated>
   <content type="html">
    Unikernel fun with MirageOS (https://mirage.io) and Solo5
-  </content>
- </entry>
- <entry>
-  <title>espang: 99problems</title>
-  <author>
-   <name>espang</name>
-  </author>
-  <link href="https://github.com/espang/99problems" />
-  <id>urn:rprimus:github:espang:99problems</id>
-  <published>2020-05-11T19:51:50Z</published>
-  <updated>2020-05-11T19:51:50Z</updated>
-  <content type="html">
-   99 problems
   </content>
  </entry>
  <entry>
@@ -161,6 +213,19 @@
   </content>
  </entry>
  <entry>
+  <title>terrynjung181: finalproject_textedit</title>
+  <author>
+   <name>terrynjung181</name>
+  </author>
+  <link href="https://github.com/terrynjung181/finalproject_textedit" />
+  <id>urn:rprimus:github:terrynjung181:finalproject_textedit</id>
+  <published>2020-05-11T09:28:27Z</published>
+  <updated>2020-05-11T09:28:27Z</updated>
+  <content type="html">
+   Used OCaml to implement a text editor like nano.
+  </content>
+ </entry>
+ <entry>
   <title>ojasmehta1: translator</title>
   <author>
    <name>ojasmehta1</name>
@@ -210,123 +275,6 @@
   <updated>2020-05-11T00:38:49Z</updated>
   <content type="html">
    Simple block-based terminal game created in OCaml
-  </content>
- </entry>
- <entry>
-  <title>gweiss27: stingray</title>
-  <author>
-   <name>gweiss27</name>
-  </author>
-  <link href="https://github.com/gweiss27/stingray" />
-  <id>urn:rprimus:github:gweiss27:stingray</id>
-  <published>2020-05-10T21:47:22Z</published>
-  <updated>2020-05-10T21:47:22Z</updated>
-  <content type="html">
-   Custom C Compiler following the Nora Sandler Tutorial Series https://norasandler.com/2017/11/29/Write-a-Compiler.html
-  </content>
- </entry>
- <entry>
-  <title>idkjs: oml</title>
-  <author>
-   <name>idkjs</name>
-  </author>
-  <link href="https://github.com/idkjs/oml" />
-  <id>urn:rprimus:github:idkjs:oml</id>
-  <published>2020-05-10T20:23:40Z</published>
-  <updated>2020-05-10T20:23:40Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>idkjs: dune-starter</title>
-  <author>
-   <name>idkjs</name>
-  </author>
-  <link href="https://github.com/idkjs/dune-starter" />
-  <id>urn:rprimus:github:idkjs:dune-starter</id>
-  <published>2020-05-10T20:17:39Z</published>
-  <updated>2020-05-10T20:17:39Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>wyatt-marshall: heads-up-poker</title>
-  <author>
-   <name>wyatt-marshall</name>
-  </author>
-  <link href="https://github.com/wyatt-marshall/heads-up-poker" />
-  <id>urn:rprimus:github:wyatt-marshall:heads-up-poker</id>
-  <published>2020-05-10T17:57:54Z</published>
-  <updated>2020-05-10T17:57:54Z</updated>
-  <content type="html">
-   We&#039;ve implemented a way to play heads up texas hold em against another person, or against an AI. Made for CS3110 with Jerry Wu and Jacob Levy
-  </content>
- </entry>
- <entry>
-  <title>Jacoblevy1999: poker</title>
-  <author>
-   <name>Jacoblevy1999</name>
-  </author>
-  <link href="https://github.com/Jacoblevy1999/poker" />
-  <id>urn:rprimus:github:Jacoblevy1999:poker</id>
-  <published>2020-05-10T17:25:19Z</published>
-  <updated>2020-05-10T17:25:19Z</updated>
-  <content type="html">
-   A heads-up Texas Hold Em bot created as a final project for CS 3110 at Cornell University. Made with my partners, Wyatt Marshall and Jerry Wu.
-  </content>
- </entry>
- <entry>
-  <title>balu: toc</title>
-  <author>
-   <name>balu</name>
-  </author>
-  <link href="https://github.com/balu/toc" />
-  <id>urn:rprimus:github:balu:toc</id>
-  <published>2020-05-10T15:56:46Z</published>
-  <updated>2020-05-10T15:56:46Z</updated>
-  <content type="html">
-   Software for &quot;Theory of Computation&quot;.
-  </content>
- </entry>
- <entry>
-  <title>dinosaure: not-so-smart</title>
-  <author>
-   <name>dinosaure</name>
-  </author>
-  <link href="https://github.com/dinosaure/not-so-smart" />
-  <id>urn:rprimus:github:dinosaure:not-so-smart</id>
-  <published>2020-05-10T15:00:50Z</published>
-  <updated>2020-05-10T15:00:50Z</updated>
-  <content type="html">
-   Implementation of the Git protocol
-  </content>
- </entry>
- <entry>
-  <title>dakk: sail-gadgets</title>
-  <author>
-   <name>dakk</name>
-  </author>
-  <link href="https://github.com/dakk/sail-gadgets" />
-  <id>urn:rprimus:github:dakk:sail-gadgets</id>
-  <published>2020-05-10T10:02:25Z</published>
-  <updated>2020-05-10T10:02:25Z</updated>
-  <content type="html">
-   Sailing Gadgets in a fancy realtime UI
-  </content>
- </entry>
- <entry>
-  <title>shreyaraman99: UCLA-CS-131</title>
-  <author>
-   <name>shreyaraman99</name>
-  </author>
-  <link href="https://github.com/shreyaraman99/UCLA-CS-131" />
-  <id>urn:rprimus:github:shreyaraman99:UCLA-CS-131</id>
-  <published>2020-05-10T02:46:51Z</published>
-  <updated>2020-05-10T02:46:51Z</updated>
-  <content type="html">
-   Projects from CS 131, Fall 2019 with Professor Eggert
   </content>
  </entry>
 </feed>
