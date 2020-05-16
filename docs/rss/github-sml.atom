@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-sml.atom"/>
 <id>urn:rprimus:github:newsmlrepos</id>
-<updated>2020-05-14T22:21:45Z</updated>
+<updated>2020-05-15T15:22:36Z</updated>
 <title type='text'>New GitHub Sml Repos</title>
+ <entry>
+  <title>kapin-k: DNA-DEMO-DEPLOY</title>
+  <author>
+   <name>kapin-k</name>
+  </author>
+  <link href="https://github.com/kapin-k/DNA-DEMO-DEPLOY" />
+  <id>urn:rprimus:github:kapin-k:DNA-DEMO-DEPLOY</id>
+  <published>2020-05-15T15:22:36Z</published>
+  <updated>2020-05-15T15:22:36Z</updated>
+  <content type="html">
+   The project is about developing an interactive Android/iOS app which takes a scribble as an input from the user and returns a list of organisms with DNA sequence that closely matches the input scribble. The app is developed as an powerful, interactive tool to demo the newly developed DNA sequencer device to the public in a fun and interesting manner.
+  </content>
+ </entry>
  <entry>
   <title>Jananni: 150-Func</title>
   <author>
@@ -41,19 +54,6 @@
   <updated>2020-05-14T00:30:46Z</updated>
   <content type="html">
    Homework projects for CSCI_421 Programming Languages
-  </content>
- </entry>
- <entry>
-  <title>ctb: 2020-charcoal-metagenome-abundance-foo</title>
-  <author>
-   <name>ctb</name>
-  </author>
-  <link href="https://github.com/ctb/2020-charcoal-metagenome-abundance-foo" />
-  <id>urn:rprimus:github:ctb:2020-charcoal-metagenome-abundance-foo</id>
-  <published>2020-05-13T13:15:16Z</published>
-  <updated>2020-05-13T13:15:16Z</updated>
-  <content type="html">
-   old code from the charcoal project
   </content>
  </entry>
 </feed>

@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-racket.atom"/>
 <id>urn:rprimus:github:newracketrepos</id>
-<updated>2020-05-15T02:28:52Z</updated>
+<updated>2020-05-16T05:25:09Z</updated>
 <title type='text'>New GitHub Racket Repos</title>
+ <entry>
+  <title>edusjor: CuboRubik</title>
+  <author>
+   <name>edusjor</name>
+  </author>
+  <link href="https://github.com/edusjor/CuboRubik" />
+  <id>urn:rprimus:github:edusjor:CuboRubik</id>
+  <published>2020-05-16T05:25:09Z</published>
+  <updated>2020-05-16T05:25:09Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>yanyingwang: smtp</title>
   <author>
@@ -14,7 +27,7 @@
   <published>2020-05-15T02:28:52Z</published>
   <updated>2020-05-15T02:28:52Z</updated>
   <content type="html">
-   send emails using smtp protocol with Racket-lang
+   A practical library to send emails using SMTP protocol.
   </content>
  </entry>
  <entry>
@@ -44,19 +57,6 @@
   </content>
  </entry>
  <entry>
-  <title>itsako10: Functional-programming-FMI</title>
-  <author>
-   <name>itsako10</name>
-  </author>
-  <link href="https://github.com/itsako10/Functional-programming-FMI" />
-  <id>urn:rprimus:github:itsako10:Functional-programming-FMI</id>
-  <published>2020-05-14T22:39:10Z</published>
-  <updated>2020-05-14T22:39:10Z</updated>
-  <content type="html">
-   Exercises for the course Functional programming in FMI
-  </content>
- </entry>
- <entry>
   <title>mbbph: cs399</title>
   <author>
    <name>mbbph</name>
@@ -67,71 +67,6 @@
   <updated>2020-05-14T20:28:18Z</updated>
   <content type="html">
    Senior thesis
-  </content>
- </entry>
- <entry>
-  <title>jbclements: portaudio-x86_64-macosx</title>
-  <author>
-   <name>jbclements</name>
-  </author>
-  <link href="https://github.com/jbclements/portaudio-x86_64-macosx" />
-  <id>urn:rprimus:github:jbclements:portaudio-x86_64-macosx</id>
-  <published>2020-05-13T22:08:21Z</published>
-  <updated>2020-05-13T22:08:21Z</updated>
-  <content type="html">
-   native libraries for portaudio on the x86_64 Mac OS X platform
-  </content>
- </entry>
- <entry>
-  <title>mcdejonge: rs-demos</title>
-  <author>
-   <name>mcdejonge</name>
-  </author>
-  <link href="https://github.com/mcdejonge/rs-demos" />
-  <id>urn:rprimus:github:mcdejonge:rs-demos</id>
-  <published>2020-05-13T20:02:52Z</published>
-  <updated>2020-05-13T20:02:52Z</updated>
-  <content type="html">
-   rs demos
-  </content>
- </entry>
- <entry>
-  <title>thoughtstem: discourse-bot</title>
-  <author>
-   <name>thoughtstem</name>
-  </author>
-  <link href="https://github.com/thoughtstem/discourse-bot" />
-  <id>urn:rprimus:github:thoughtstem:discourse-bot</id>
-  <published>2020-05-13T19:53:28Z</published>
-  <updated>2020-05-13T19:53:28Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Daniel-Walpole: RacketCodeFromClass</title>
-  <author>
-   <name>Daniel-Walpole</name>
-  </author>
-  <link href="https://github.com/Daniel-Walpole/RacketCodeFromClass" />
-  <id>urn:rprimus:github:Daniel-Walpole:RacketCodeFromClass</id>
-  <published>2020-05-13T17:09:36Z</published>
-  <updated>2020-05-13T17:09:36Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>OXFORDX: FunctionalPrograming</title>
-  <author>
-   <name>OXFORDX</name>
-  </author>
-  <link href="https://github.com/OXFORDX/FunctionalPrograming" />
-  <id>urn:rprimus:github:OXFORDX:FunctionalPrograming</id>
-  <published>2020-05-13T16:10:29Z</published>
-  <updated>2020-05-13T16:10:29Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
