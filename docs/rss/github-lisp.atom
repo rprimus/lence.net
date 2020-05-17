@@ -2,8 +2,112 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2020-05-16T06:31:41Z</updated>
+<updated>2020-05-17T00:06:52Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>yoncakaragoz: LexerInLisp</title>
+  <author>
+   <name>yoncakaragoz</name>
+  </author>
+  <link href="https://github.com/yoncakaragoz/LexerInLisp" />
+  <id>urn:rprimus:github:yoncakaragoz:LexerInLisp</id>
+  <published>2020-05-17T00:06:52Z</published>
+  <updated>2020-05-17T00:06:52Z</updated>
+  <content type="html">
+   Small version of a lexer in Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>yoncakaragoz: CipherAlphabet</title>
+  <author>
+   <name>yoncakaragoz</name>
+  </author>
+  <link href="https://github.com/yoncakaragoz/CipherAlphabet" />
+  <id>urn:rprimus:github:yoncakaragoz:CipherAlphabet</id>
+  <published>2020-05-16T23:45:45Z</published>
+  <updated>2020-05-16T23:45:45Z</updated>
+  <content type="html">
+   Cipher Alphabet implementation in Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>danieljamesross: bandcamp-fixer</title>
+  <author>
+   <name>danieljamesross</name>
+  </author>
+  <link href="https://github.com/danieljamesross/bandcamp-fixer" />
+  <id>urn:rprimus:github:danieljamesross:bandcamp-fixer</id>
+  <published>2020-05-16T23:08:53Z</published>
+  <updated>2020-05-16T23:08:53Z</updated>
+  <content type="html">
+   Rename all the tracks of all the bandcamp albums in your collection and keep track of which ones have been changed.
+  </content>
+ </entry>
+ <entry>
+  <title>BnMcGn: ps-lib-tool</title>
+  <author>
+   <name>BnMcGn</name>
+  </author>
+  <link href="https://github.com/BnMcGn/ps-lib-tool" />
+  <id>urn:rprimus:github:BnMcGn:ps-lib-tool</id>
+  <published>2020-05-16T18:24:00Z</published>
+  <updated>2020-05-16T18:24:00Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>3b: learnopengl</title>
+  <author>
+   <name>3b</name>
+  </author>
+  <link href="https://github.com/3b/learnopengl" />
+  <id>urn:rprimus:github:3b:learnopengl</id>
+  <published>2020-05-16T17:12:50Z</published>
+  <updated>2020-05-16T17:12:50Z</updated>
+  <content type="html">
+   unfinished port of https://learnopengl.com/ example code to CL
+  </content>
+ </entry>
+ <entry>
+  <title>baljeetsohal84: tictactoe</title>
+  <author>
+   <name>baljeetsohal84</name>
+  </author>
+  <link href="https://github.com/baljeetsohal84/tictactoe" />
+  <id>urn:rprimus:github:baljeetsohal84:tictactoe</id>
+  <published>2020-05-16T16:06:40Z</published>
+  <updated>2020-05-16T16:06:40Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>christophejunke: map-lines</title>
+  <author>
+   <name>christophejunke</name>
+  </author>
+  <link href="https://github.com/christophejunke/map-lines" />
+  <id>urn:rprimus:github:christophejunke:map-lines</id>
+  <published>2020-05-16T14:11:35Z</published>
+  <updated>2020-05-16T14:11:35Z</updated>
+  <content type="html">
+   Map-lines in Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>ganeza1126: ros</title>
+  <author>
+   <name>ganeza1126</name>
+  </author>
+  <link href="https://github.com/ganeza1126/ros" />
+  <id>urn:rprimus:github:ganeza1126:ros</id>
+  <published>2020-05-16T07:55:33Z</published>
+  <updated>2020-05-16T07:55:33Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>EricCJoyce: Neuron-LISP</title>
   <author>
@@ -31,12 +135,12 @@
   </content>
  </entry>
  <entry>
-  <title>agzam: stumpwm.d</title>
+  <title>agzam: .stumpwm.d</title>
   <author>
    <name>agzam</name>
   </author>
-  <link href="https://github.com/agzam/stumpwm.d" />
-  <id>urn:rprimus:github:agzam:stumpwm.d</id>
+  <link href="https://github.com/agzam/.stumpwm.d" />
+  <id>urn:rprimus:github:agzam:.stumpwm.d</id>
   <published>2020-05-16T02:52:50Z</published>
   <updated>2020-05-16T02:52:50Z</updated>
   <content type="html">
@@ -96,6 +200,19 @@
   </content>
  </entry>
  <entry>
+  <title>Shirakumo: trial-assets</title>
+  <author>
+   <name>Shirakumo</name>
+  </author>
+  <link href="https://github.com/Shirakumo/trial-assets" />
+  <id>urn:rprimus:github:Shirakumo:trial-assets</id>
+  <published>2020-05-15T14:30:15Z</published>
+  <updated>2020-05-15T14:30:15Z</updated>
+  <content type="html">
+   Assets for the Trial game engine
+  </content>
+ </entry>
+ <entry>
   <title>burringcat: l1nkz</title>
   <author>
    <name>burringcat</name>
@@ -119,136 +236,6 @@
   <updated>2020-05-15T00:23:34Z</updated>
   <content type="html">
    Collection of AI algorithms from PAIP book
-  </content>
- </entry>
- <entry>
-  <title>khafni: land-of-lisp</title>
-  <author>
-   <name>khafni</name>
-  </author>
-  <link href="https://github.com/khafni/land-of-lisp" />
-  <id>urn:rprimus:github:khafni:land-of-lisp</id>
-  <published>2020-05-14T19:26:10Z</published>
-  <updated>2020-05-14T19:26:10Z</updated>
-  <content type="html">
-   signifcant code from every chapter of the amazing book &quot;land of lisp&quot;
-  </content>
- </entry>
- <entry>
-  <title>nmunro: cl-tutorials</title>
-  <author>
-   <name>nmunro</name>
-  </author>
-  <link href="https://github.com/nmunro/cl-tutorials" />
-  <id>urn:rprimus:github:nmunro:cl-tutorials</id>
-  <published>2020-05-14T15:49:15Z</published>
-  <updated>2020-05-14T15:49:15Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ihalseide: calculator</title>
-  <author>
-   <name>ihalseide</name>
-  </author>
-  <link href="https://github.com/ihalseide/calculator" />
-  <id>urn:rprimus:github:ihalseide:calculator</id>
-  <published>2020-05-14T15:18:12Z</published>
-  <updated>2020-05-14T15:18:12Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>justin2004: cl-jena</title>
-  <author>
-   <name>justin2004</name>
-  </author>
-  <link href="https://github.com/justin2004/cl-jena" />
-  <id>urn:rprimus:github:justin2004:cl-jena</id>
-  <published>2020-05-14T11:08:21Z</published>
-  <updated>2020-05-14T11:08:21Z</updated>
-  <content type="html">
-   A Common Lisp wrapper around some Apache Jena functionality
-  </content>
- </entry>
- <entry>
-  <title>rtu-mirea: laboratornaya-rabota-1-znakomstvo-s-git-i-lisp-thwroll</title>
-  <author>
-   <name>rtu-mirea</name>
-  </author>
-  <link href="https://github.com/rtu-mirea/laboratornaya-rabota-1-znakomstvo-s-git-i-lisp-thwroll" />
-  <id>urn:rprimus:github:rtu-mirea:laboratornaya-rabota-1-znakomstvo-s-git-i-lisp-thwroll</id>
-  <published>2020-05-14T10:42:23Z</published>
-  <updated>2020-05-14T10:42:23Z</updated>
-  <content type="html">
-   laboratornaya-rabota-1-znakomstvo-s-git-i-lisp-thwroll created by GitHub Classroom
-  </content>
- </entry>
- <entry>
-  <title>j3pic: cl-async-await</title>
-  <author>
-   <name>j3pic</name>
-  </author>
-  <link href="https://github.com/j3pic/cl-async-await" />
-  <id>urn:rprimus:github:j3pic:cl-async-await</id>
-  <published>2020-05-14T10:18:29Z</published>
-  <updated>2020-05-14T10:18:29Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>notmgsk: complain</title>
-  <author>
-   <name>notmgsk</name>
-  </author>
-  <link href="https://github.com/notmgsk/complain" />
-  <id>urn:rprimus:github:notmgsk:complain</id>
-  <published>2020-05-14T02:40:09Z</published>
-  <updated>2020-05-14T02:40:09Z</updated>
-  <content type="html">
-   CompLain: complain about Common Lisp style
-  </content>
- </entry>
- <entry>
-  <title>hwa: cl-yaml-helper</title>
-  <author>
-   <name>hwa</name>
-  </author>
-  <link href="https://github.com/hwa/cl-yaml-helper" />
-  <id>urn:rprimus:github:hwa:cl-yaml-helper</id>
-  <published>2020-05-14T01:45:14Z</published>
-  <updated>2020-05-14T01:45:14Z</updated>
-  <content type="html">
-   Some helpers for cl-yaml
-  </content>
- </entry>
- <entry>
-  <title>hwa: cl-json-helper</title>
-  <author>
-   <name>hwa</name>
-  </author>
-  <link href="https://github.com/hwa/cl-json-helper" />
-  <id>urn:rprimus:github:hwa:cl-json-helper</id>
-  <published>2020-05-14T01:33:42Z</published>
-  <updated>2020-05-14T01:33:42Z</updated>
-  <content type="html">
-   Some helpers for cl-json
-  </content>
- </entry>
- <entry>
-  <title>hwa: hunchentoot-helper</title>
-  <author>
-   <name>hwa</name>
-  </author>
-  <link href="https://github.com/hwa/hunchentoot-helper" />
-  <id>urn:rprimus:github:hwa:hunchentoot-helper</id>
-  <published>2020-05-14T00:41:48Z</published>
-  <updated>2020-05-14T00:41:48Z</updated>
-  <content type="html">
-   Some helpers for Hunchentoot
   </content>
  </entry>
 </feed>
