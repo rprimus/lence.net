@@ -2,8 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2020-05-17T00:06:52Z</updated>
+<updated>2020-05-17T21:23:04Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>3b: caves</title>
+  <author>
+   <name>3b</name>
+  </author>
+  <link href="https://github.com/3b/caves" />
+  <id>urn:rprimus:github:3b:caves</id>
+  <published>2020-05-17T21:23:04Z</published>
+  <updated>2020-05-17T21:23:04Z</updated>
+  <content type="html">
+   2d cave generation test
+  </content>
+ </entry>
+ <entry>
+  <title>mmontone: generic-serializer</title>
+  <author>
+   <name>mmontone</name>
+  </author>
+  <link href="https://github.com/mmontone/generic-serializer" />
+  <id>urn:rprimus:github:mmontone:generic-serializer</id>
+  <published>2020-05-17T16:40:24Z</published>
+  <updated>2020-05-17T16:40:24Z</updated>
+  <content type="html">
+   Common api for serializing data to different formats (JSON, XML, etc)
+  </content>
+ </entry>
+ <entry>
+  <title>mmontone: schemata</title>
+  <author>
+   <name>mmontone</name>
+  </author>
+  <link href="https://github.com/mmontone/schemata" />
+  <id>urn:rprimus:github:mmontone:schemata</id>
+  <published>2020-05-17T16:37:01Z</published>
+  <updated>2020-05-17T16:37:01Z</updated>
+  <content type="html">
+   Schema serialization, validation and parsing for Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>AlekseyLeshko: practical-common-lisp</title>
+  <author>
+   <name>AlekseyLeshko</name>
+  </author>
+  <link href="https://github.com/AlekseyLeshko/practical-common-lisp" />
+  <id>urn:rprimus:github:AlekseyLeshko:practical-common-lisp</id>
+  <published>2020-05-17T15:22:02Z</published>
+  <updated>2020-05-17T15:22:02Z</updated>
+  <content type="html">
+   Practical Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>mfiano: quad-tree</title>
+  <author>
+   <name>mfiano</name>
+  </author>
+  <link href="https://github.com/mfiano/quad-tree" />
+  <id>urn:rprimus:github:mfiano:quad-tree</id>
+  <published>2020-05-17T13:43:26Z</published>
+  <updated>2020-05-17T13:43:26Z</updated>
+  <content type="html">
+   A quad tree implementation
+  </content>
+ </entry>
+ <entry>
+  <title>rodrigovp: sicp</title>
+  <author>
+   <name>rodrigovp</name>
+  </author>
+  <link href="https://github.com/rodrigovp/sicp" />
+  <id>urn:rprimus:github:rodrigovp:sicp</id>
+  <published>2020-05-17T12:34:06Z</published>
+  <updated>2020-05-17T12:34:06Z</updated>
+  <content type="html">
+   Estudos do livro Structure and Interpretation of Computer Programs
+  </content>
+ </entry>
+ <entry>
+  <title>vShroff: Intelli-Tac-Toe</title>
+  <author>
+   <name>vShroff</name>
+  </author>
+  <link href="https://github.com/vShroff/Intelli-Tac-Toe" />
+  <id>urn:rprimus:github:vShroff:Intelli-Tac-Toe</id>
+  <published>2020-05-17T07:13:07Z</published>
+  <updated>2020-05-17T07:13:07Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>yoncakaragoz: LexerInLisp</title>
   <author>
@@ -41,6 +132,19 @@
   <updated>2020-05-16T23:08:53Z</updated>
   <content type="html">
    Rename all the tracks of all the bandcamp albums in your collection and keep track of which ones have been changed.
+  </content>
+ </entry>
+ <entry>
+  <title>Kevinpgalligan: codewordsolver</title>
+  <author>
+   <name>Kevinpgalligan</name>
+  </author>
+  <link href="https://github.com/Kevinpgalligan/codewordsolver" />
+  <id>urn:rprimus:github:Kevinpgalligan:codewordsolver</id>
+  <published>2020-05-16T19:58:32Z</published>
+  <updated>2020-05-16T19:58:32Z</updated>
+  <content type="html">
+   Solver for Codeword puzzles.
   </content>
  </entry>
  <entry>
@@ -158,84 +262,6 @@
   <updated>2020-05-16T01:46:18Z</updated>
   <content type="html">
    aoc in common lisp
-  </content>
- </entry>
- <entry>
-  <title>sionescu: asdf</title>
-  <author>
-   <name>sionescu</name>
-  </author>
-  <link href="https://github.com/sionescu/asdf" />
-  <id>urn:rprimus:github:sionescu:asdf</id>
-  <published>2020-05-15T22:52:53Z</published>
-  <updated>2020-05-15T22:52:53Z</updated>
-  <content type="html">
-   Another System Definition Facility
-  </content>
- </entry>
- <entry>
-  <title>pushpankar: the-little-schemer</title>
-  <author>
-   <name>pushpankar</name>
-  </author>
-  <link href="https://github.com/pushpankar/the-little-schemer" />
-  <id>urn:rprimus:github:pushpankar:the-little-schemer</id>
-  <published>2020-05-15T17:35:05Z</published>
-  <updated>2020-05-15T17:35:05Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>qitab: cl-protobufs</title>
-  <author>
-   <name>qitab</name>
-  </author>
-  <link href="https://github.com/qitab/cl-protobufs" />
-  <id>urn:rprimus:github:qitab:cl-protobufs</id>
-  <published>2020-05-15T15:13:12Z</published>
-  <updated>2020-05-15T15:13:12Z</updated>
-  <content type="html">
-   Common Lisp protocol buffer implementation.
-  </content>
- </entry>
- <entry>
-  <title>Shirakumo: trial-assets</title>
-  <author>
-   <name>Shirakumo</name>
-  </author>
-  <link href="https://github.com/Shirakumo/trial-assets" />
-  <id>urn:rprimus:github:Shirakumo:trial-assets</id>
-  <published>2020-05-15T14:30:15Z</published>
-  <updated>2020-05-15T14:30:15Z</updated>
-  <content type="html">
-   Assets for the Trial game engine
-  </content>
- </entry>
- <entry>
-  <title>burringcat: l1nkz</title>
-  <author>
-   <name>burringcat</name>
-  </author>
-  <link href="https://github.com/burringcat/l1nkz" />
-  <id>urn:rprimus:github:burringcat:l1nkz</id>
-  <published>2020-05-15T08:26:24Z</published>
-  <updated>2020-05-15T08:26:24Z</updated>
-  <content type="html">
-   The pure lisp URL shortener
-  </content>
- </entry>
- <entry>
-  <title>nivaldogmelo: AI-algorithms</title>
-  <author>
-   <name>nivaldogmelo</name>
-  </author>
-  <link href="https://github.com/nivaldogmelo/AI-algorithms" />
-  <id>urn:rprimus:github:nivaldogmelo:AI-algorithms</id>
-  <published>2020-05-15T00:23:34Z</published>
-  <updated>2020-05-15T00:23:34Z</updated>
-  <content type="html">
-   Collection of AI algorithms from PAIP book
   </content>
  </entry>
 </feed>
