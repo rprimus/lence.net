@@ -2,8 +2,112 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-erlang.atom"/>
 <id>urn:rprimus:github:newerlangrepos</id>
-<updated>2020-05-20T06:12:49Z</updated>
+<updated>2020-05-20T20:59:05Z</updated>
 <title type='text'>New GitHub Erlang Repos</title>
+ <entry>
+  <title>batok: foobar</title>
+  <author>
+   <name>batok</name>
+  </author>
+  <link href="https://github.com/batok/foobar" />
+  <id>urn:rprimus:github:batok:foobar</id>
+  <published>2020-05-20T20:59:05Z</published>
+  <updated>2020-05-20T20:59:05Z</updated>
+  <content type="html">
+   escript ( erlang ) that uses ninenines/gun to make requests.
+  </content>
+ </entry>
+ <entry>
+  <title>joq62: master_service</title>
+  <author>
+   <name>joq62</name>
+  </author>
+  <link href="https://github.com/joq62/master_service" />
+  <id>urn:rprimus:github:joq62:master_service</id>
+  <published>2020-05-20T20:01:45Z</published>
+  <updated>2020-05-20T20:01:45Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>joq62: mail_service</title>
+  <author>
+   <name>joq62</name>
+  </author>
+  <link href="https://github.com/joq62/mail_service" />
+  <id>urn:rprimus:github:joq62:mail_service</id>
+  <published>2020-05-20T19:58:37Z</published>
+  <updated>2020-05-20T19:58:37Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Abhiroop: grisp_template</title>
+  <author>
+   <name>Abhiroop</name>
+  </author>
+  <link href="https://github.com/Abhiroop/grisp_template" />
+  <id>urn:rprimus:github:Abhiroop:grisp_template</id>
+  <published>2020-05-20T19:57:27Z</published>
+  <updated>2020-05-20T19:57:27Z</updated>
+  <content type="html">
+   Rebar template for grisp deployment
+  </content>
+ </entry>
+ <entry>
+  <title>joq62: log_service</title>
+  <author>
+   <name>joq62</name>
+  </author>
+  <link href="https://github.com/joq62/log_service" />
+  <id>urn:rprimus:github:joq62:log_service</id>
+  <published>2020-05-20T19:54:20Z</published>
+  <updated>2020-05-20T19:54:20Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>joq62: lib_service</title>
+  <author>
+   <name>joq62</name>
+  </author>
+  <link href="https://github.com/joq62/lib_service" />
+  <id>urn:rprimus:github:joq62:lib_service</id>
+  <published>2020-05-20T19:49:16Z</published>
+  <updated>2020-05-20T19:49:16Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>scripttease: gleam_contributors</title>
+  <author>
+   <name>scripttease</name>
+  </author>
+  <link href="https://github.com/scripttease/gleam_contributors" />
+  <id>urn:rprimus:github:scripttease:gleam_contributors</id>
+  <published>2020-05-20T16:26:00Z</published>
+  <updated>2020-05-20T16:26:00Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>KonradKarkos: DuelFSM</title>
+  <author>
+   <name>KonradKarkos</name>
+  </author>
+  <link href="https://github.com/KonradKarkos/DuelFSM" />
+  <id>urn:rprimus:github:KonradKarkos:DuelFSM</id>
+  <published>2020-05-20T14:16:25Z</published>
+  <updated>2020-05-20T14:16:25Z</updated>
+  <content type="html">
+   Finite State Machine that simulates duel in Erlang.
+  </content>
+ </entry>
  <entry>
   <title>hashforu: emqx_hook_don</title>
   <author>
@@ -184,71 +288,6 @@
   <updated>2020-05-19T05:41:14Z</updated>
   <content type="html">
    riak-core-lite sample implementation for google summer of code
-  </content>
- </entry>
- <entry>
-  <title>mk270: blizanci</title>
-  <author>
-   <name>mk270</name>
-  </author>
-  <link href="https://github.com/mk270/blizanci" />
-  <id>urn:rprimus:github:mk270:blizanci</id>
-  <published>2020-05-18T21:56:38Z</published>
-  <updated>2020-05-18T21:56:38Z</updated>
-  <content type="html">
-   A Gemini protocol server
-  </content>
- </entry>
- <entry>
-  <title>mikeyhc: blogit</title>
-  <author>
-   <name>mikeyhc</name>
-  </author>
-  <link href="https://github.com/mikeyhc/blogit" />
-  <id>urn:rprimus:github:mikeyhc:blogit</id>
-  <published>2020-05-18T18:54:36Z</published>
-  <updated>2020-05-18T18:54:36Z</updated>
-  <content type="html">
-   A git based blogging platform
-  </content>
- </entry>
- <entry>
-  <title>boldar99: RefErl_Measures</title>
-  <author>
-   <name>boldar99</name>
-  </author>
-  <link href="https://github.com/boldar99/RefErl_Measures" />
-  <id>urn:rprimus:github:boldar99:RefErl_Measures</id>
-  <published>2020-05-18T09:06:30Z</published>
-  <updated>2020-05-18T09:06:30Z</updated>
-  <content type="html">
-   RefErl_Measures
-  </content>
- </entry>
- <entry>
-  <title>ngqlaw: gen_data</title>
-  <author>
-   <name>ngqlaw</name>
-  </author>
-  <link href="https://github.com/ngqlaw/gen_data" />
-  <id>urn:rprimus:github:ngqlaw:gen_data</id>
-  <published>2020-05-18T04:09:43Z</published>
-  <updated>2020-05-18T04:09:43Z</updated>
-  <content type="html">
-   æ ¹æ®excelæä»¶åå®¹çæerlæä»¶
-  </content>
- </entry>
- <entry>
-  <title>davecaos: benetnasch</title>
-  <author>
-   <name>davecaos</name>
-  </author>
-  <link href="https://github.com/davecaos/benetnasch" />
-  <id>urn:rprimus:github:davecaos:benetnasch</id>
-  <published>2020-05-18T03:28:32Z</published>
-  <updated>2020-05-18T03:28:32Z</updated>
-  <content type="html">
-   ð¼Benetnasch mimetypes library for Gleam (A statically typed language for the Erlang VM)
   </content>
  </entry>
 </feed>
