@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-erlang.atom"/>
 <id>urn:rprimus:github:newerlangrepos</id>
-<updated>2020-05-21T17:23:27Z</updated>
+<updated>2020-05-22T04:07:41Z</updated>
 <title type='text'>New GitHub Erlang Repos</title>
+ <entry>
+  <title>helium: blockchain-node</title>
+  <author>
+   <name>helium</name>
+  </author>
+  <link href="https://github.com/helium/blockchain-node" />
+  <id>urn:rprimus:github:helium:blockchain-node</id>
+  <published>2020-05-22T04:07:41Z</published>
+  <updated>2020-05-22T04:07:41Z</updated>
+  <content type="html">
+   A Helum Blockchain Node
+  </content>
+ </entry>
+ <entry>
+  <title>hashforu: emqx_hook_don</title>
+  <author>
+   <name>hashforu</name>
+  </author>
+  <link href="https://github.com/hashforu/emqx_hook_don" />
+  <id>urn:rprimus:github:hashforu:emqx_hook_don</id>
+  <published>2020-05-22T01:39:07Z</published>
+  <updated>2020-05-22T01:39:07Z</updated>
+  <content type="html">
+   This is a plugin for emqx, includes auth, kafka and others.
+  </content>
+ </entry>
+ <entry>
+  <title>lucas-aragno: rpc-server</title>
+  <author>
+   <name>lucas-aragno</name>
+  </author>
+  <link href="https://github.com/lucas-aragno/rpc-server" />
+  <id>urn:rprimus:github:lucas-aragno:rpc-server</id>
+  <published>2020-05-21T23:38:29Z</published>
+  <updated>2020-05-21T23:38:29Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>mhlee304: ErlangDemo</title>
   <author>
@@ -161,19 +200,6 @@
   </content>
  </entry>
  <entry>
-  <title>hashforu: emqx_hook_don</title>
-  <author>
-   <name>hashforu</name>
-  </author>
-  <link href="https://github.com/hashforu/emqx_hook_don" />
-  <id>urn:rprimus:github:hashforu:emqx_hook_don</id>
-  <published>2020-05-20T06:12:49Z</published>
-  <updated>2020-05-20T06:12:49Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
   <title>sjanota: fp</title>
   <author>
    <name>sjanota</name>
@@ -197,149 +223,6 @@
   <updated>2020-05-20T05:41:01Z</updated>
   <content type="html">
    A simple rocksdb backed erlang queue
-  </content>
- </entry>
- <entry>
-  <title>tonyrog: x11</title>
-  <author>
-   <name>tonyrog</name>
-  </author>
-  <link href="https://github.com/tonyrog/x11" />
-  <id>urn:rprimus:github:tonyrog:x11</id>
-  <published>2020-05-19T20:41:17Z</published>
-  <updated>2020-05-19T20:41:17Z</updated>
-  <content type="html">
-   my old jungerl x11 updated with afunix connection
-  </content>
- </entry>
- <entry>
-  <title>EricRootLee: Erlang-Http-Server</title>
-  <author>
-   <name>EricRootLee</name>
-  </author>
-  <link href="https://github.com/EricRootLee/Erlang-Http-Server" />
-  <id>urn:rprimus:github:EricRootLee:Erlang-Http-Server</id>
-  <published>2020-05-19T20:03:55Z</published>
-  <updated>2020-05-19T20:03:55Z</updated>
-  <content type="html">
-   A simple http server built in erlang with 2 endpoint
-  </content>
- </entry>
- <entry>
-  <title>joq62: dns_service</title>
-  <author>
-   <name>joq62</name>
-  </author>
-  <link href="https://github.com/joq62/dns_service" />
-  <id>urn:rprimus:github:joq62:dns_service</id>
-  <published>2020-05-19T19:58:04Z</published>
-  <updated>2020-05-19T19:58:04Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>joq62: include</title>
-  <author>
-   <name>joq62</name>
-  </author>
-  <link href="https://github.com/joq62/include" />
-  <id>urn:rprimus:github:joq62:include</id>
-  <published>2020-05-19T19:55:27Z</published>
-  <updated>2020-05-19T19:55:27Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>joq62: boot_service</title>
-  <author>
-   <name>joq62</name>
-  </author>
-  <link href="https://github.com/joq62/boot_service" />
-  <id>urn:rprimus:github:joq62:boot_service</id>
-  <published>2020-05-19T19:51:45Z</published>
-  <updated>2020-05-19T19:51:45Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>joq62: boot_service_2</title>
-  <author>
-   <name>joq62</name>
-  </author>
-  <link href="https://github.com/joq62/boot_service_2" />
-  <id>urn:rprimus:github:joq62:boot_service_2</id>
-  <published>2020-05-19T19:39:49Z</published>
-  <updated>2020-05-19T19:39:49Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>erlang-connection: e</title>
-  <author>
-   <name>erlang-connection</name>
-  </author>
-  <link href="https://github.com/erlang-connection/e" />
-  <id>urn:rprimus:github:erlang-connection:e</id>
-  <published>2020-05-19T17:44:21Z</published>
-  <updated>2020-05-19T17:44:21Z</updated>
-  <content type="html">
-   Erlang Connection Official Module
-  </content>
- </entry>
- <entry>
-  <title>laczoka: data.csv</title>
-  <author>
-   <name>laczoka</name>
-  </author>
-  <link href="https://github.com/laczoka/data.csv" />
-  <id>urn:rprimus:github:laczoka:data.csv</id>
-  <published>2020-05-19T13:01:25Z</published>
-  <updated>2020-05-19T13:01:25Z</updated>
-  <content type="html">
-   A CSV reader and writer library for Clojerl
-  </content>
- </entry>
- <entry>
-  <title>mitulmlakhani: mod_offline_http_post_ext</title>
-  <author>
-   <name>mitulmlakhani</name>
-  </author>
-  <link href="https://github.com/mitulmlakhani/mod_offline_http_post_ext" />
-  <id>urn:rprimus:github:mitulmlakhani:mod_offline_http_post_ext</id>
-  <published>2020-05-19T09:21:21Z</published>
-  <updated>2020-05-19T09:21:21Z</updated>
-  <content type="html">
-   Ejabberd module for notify offline users about messages by POST request by server end-point.
-  </content>
- </entry>
- <entry>
-  <title>wallacegibbon: cowboy-mirror</title>
-  <author>
-   <name>wallacegibbon</name>
-  </author>
-  <link href="https://github.com/wallacegibbon/cowboy-mirror" />
-  <id>urn:rprimus:github:wallacegibbon:cowboy-mirror</id>
-  <published>2020-05-19T06:09:49Z</published>
-  <updated>2020-05-19T06:09:49Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>wattlebirdaz: rclref</title>
-  <author>
-   <name>wattlebirdaz</name>
-  </author>
-  <link href="https://github.com/wattlebirdaz/rclref" />
-  <id>urn:rprimus:github:wattlebirdaz:rclref</id>
-  <published>2020-05-19T05:41:14Z</published>
-  <updated>2020-05-19T05:41:14Z</updated>
-  <content type="html">
-   riak-core-lite sample implementation for google summer of code
   </content>
  </entry>
 </feed>
