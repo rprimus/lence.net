@@ -2,19 +2,227 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2020-05-22T07:34:46Z</updated>
+<updated>2020-05-23T05:42:36Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
  <entry>
-  <title>ramananayak: emacs</title>
+  <title>lambdadog: nix-config</title>
+  <author>
+   <name>lambdadog</name>
+  </author>
+  <link href="https://github.com/lambdadog/nix-config" />
+  <id>urn:rprimus:github:lambdadog:nix-config</id>
+  <published>2020-05-23T05:42:36Z</published>
+  <updated>2020-05-23T05:42:36Z</updated>
+  <content type="html">
+   My nix user-environment configuration
+  </content>
+ </entry>
+ <entry>
+  <title>ramananayak: .emacs.d</title>
   <author>
    <name>ramananayak</name>
   </author>
-  <link href="https://github.com/ramananayak/emacs" />
-  <id>urn:rprimus:github:ramananayak:emacs</id>
-  <published>2020-05-22T07:34:46Z</published>
-  <updated>2020-05-22T07:34:46Z</updated>
+  <link href="https://github.com/ramananayak/.emacs.d" />
+  <id>urn:rprimus:github:ramananayak:.emacs.d</id>
+  <published>2020-05-23T05:16:58Z</published>
+  <updated>2020-05-23T05:16:58Z</updated>
   <content type="html">
-   Personal Emacs configuration
+   clean emacs configuration
+  </content>
+ </entry>
+ <entry>
+  <title>tuh8888: chezmoi.el</title>
+  <author>
+   <name>tuh8888</name>
+  </author>
+  <link href="https://github.com/tuh8888/chezmoi.el" />
+  <id>urn:rprimus:github:tuh8888:chezmoi.el</id>
+  <published>2020-05-23T03:17:49Z</published>
+  <updated>2020-05-23T03:17:49Z</updated>
+  <content type="html">
+   An emacs package for interacting with chezmoi.
+  </content>
+ </entry>
+ <entry>
+  <title>andrewrhunt: .doom.d</title>
+  <author>
+   <name>andrewrhunt</name>
+  </author>
+  <link href="https://github.com/andrewrhunt/.doom.d" />
+  <id>urn:rprimus:github:andrewrhunt:.doom.d</id>
+  <published>2020-05-23T02:35:13Z</published>
+  <updated>2020-05-23T02:35:13Z</updated>
+  <content type="html">
+   doom emacs config files
+  </content>
+ </entry>
+ <entry>
+  <title>pranav97: pranavmacs</title>
+  <author>
+   <name>pranav97</name>
+  </author>
+  <link href="https://github.com/pranav97/pranavmacs" />
+  <id>urn:rprimus:github:pranav97:pranavmacs</id>
+  <published>2020-05-23T01:52:53Z</published>
+  <updated>2020-05-23T01:52:53Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>juan-ignacio-848: dotfiles</title>
+  <author>
+   <name>juan-ignacio-848</name>
+  </author>
+  <link href="https://github.com/juan-ignacio-848/dotfiles" />
+  <id>urn:rprimus:github:juan-ignacio-848:dotfiles</id>
+  <published>2020-05-23T01:50:43Z</published>
+  <updated>2020-05-23T01:50:43Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>scottcmarks: my-haskell-elisp</title>
+  <author>
+   <name>scottcmarks</name>
+  </author>
+  <link href="https://github.com/scottcmarks/my-haskell-elisp" />
+  <id>urn:rprimus:github:scottcmarks:my-haskell-elisp</id>
+  <published>2020-05-22T21:23:09Z</published>
+  <updated>2020-05-22T21:23:09Z</updated>
+  <content type="html">
+   Haskell emacs dev support code organized as a package loadable by straight
+  </content>
+ </entry>
+ <entry>
+  <title>swinkels: tox-pyvenv</title>
+  <author>
+   <name>swinkels</name>
+  </author>
+  <link href="https://github.com/swinkels/tox-pyvenv" />
+  <id>urn:rprimus:github:swinkels:tox-pyvenv</id>
+  <published>2020-05-22T21:10:57Z</published>
+  <updated>2020-05-22T21:10:57Z</updated>
+  <content type="html">
+   Emacs Lisp package to select and activate tox virtualenv
+  </content>
+ </entry>
+ <entry>
+  <title>jordans1882: mise_en_place-emacs</title>
+  <author>
+   <name>jordans1882</name>
+  </author>
+  <link href="https://github.com/jordans1882/mise_en_place-emacs" />
+  <id>urn:rprimus:github:jordans1882:mise_en_place-emacs</id>
+  <published>2020-05-22T17:42:05Z</published>
+  <updated>2020-05-22T17:42:05Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>icostan: emacs.d</title>
+  <author>
+   <name>icostan</name>
+  </author>
+  <link href="https://github.com/icostan/emacs.d" />
+  <id>urn:rprimus:github:icostan:emacs.d</id>
+  <published>2020-05-22T15:35:35Z</published>
+  <updated>2020-05-22T15:35:35Z</updated>
+  <content type="html">
+   Emacs configuration
+  </content>
+ </entry>
+ <entry>
+  <title>timotheosh: doomemacs</title>
+  <author>
+   <name>timotheosh</name>
+  </author>
+  <link href="https://github.com/timotheosh/doomemacs" />
+  <id>urn:rprimus:github:timotheosh:doomemacs</id>
+  <published>2020-05-22T14:29:54Z</published>
+  <updated>2020-05-22T14:29:54Z</updated>
+  <content type="html">
+   My config for Doom Emacs
+  </content>
+ </entry>
+ <entry>
+  <title>khoadng: emacs</title>
+  <author>
+   <name>khoadng</name>
+  </author>
+  <link href="https://github.com/khoadng/emacs" />
+  <id>urn:rprimus:github:khoadng:emacs</id>
+  <published>2020-05-22T14:15:04Z</published>
+  <updated>2020-05-22T14:15:04Z</updated>
+  <content type="html">
+   Emacs configuration
+  </content>
+ </entry>
+ <entry>
+  <title>CeleritasCelery: doom.d</title>
+  <author>
+   <name>CeleritasCelery</name>
+  </author>
+  <link href="https://github.com/CeleritasCelery/doom.d" />
+  <id>urn:rprimus:github:CeleritasCelery:doom.d</id>
+  <published>2020-05-22T14:06:40Z</published>
+  <updated>2020-05-22T14:06:40Z</updated>
+  <content type="html">
+   My doom emacs config
+  </content>
+ </entry>
+ <entry>
+  <title>john-skaggs: emacs-config</title>
+  <author>
+   <name>john-skaggs</name>
+  </author>
+  <link href="https://github.com/john-skaggs/emacs-config" />
+  <id>urn:rprimus:github:john-skaggs:emacs-config</id>
+  <published>2020-05-22T12:12:00Z</published>
+  <updated>2020-05-22T12:12:00Z</updated>
+  <content type="html">
+   Emacs Config files
+  </content>
+ </entry>
+ <entry>
+  <title>HaydenTheBaron: doom.d</title>
+  <author>
+   <name>HaydenTheBaron</name>
+  </author>
+  <link href="https://github.com/HaydenTheBaron/doom.d" />
+  <id>urn:rprimus:github:HaydenTheBaron:doom.d</id>
+  <published>2020-05-22T11:07:44Z</published>
+  <updated>2020-05-22T11:07:44Z</updated>
+  <content type="html">
+   My doom.d configuration.
+  </content>
+ </entry>
+ <entry>
+  <title>alex-bochkarev: my-spacemacs-dotfiles</title>
+  <author>
+   <name>alex-bochkarev</name>
+  </author>
+  <link href="https://github.com/alex-bochkarev/my-spacemacs-dotfiles" />
+  <id>urn:rprimus:github:alex-bochkarev:my-spacemacs-dotfiles</id>
+  <published>2020-05-22T10:51:24Z</published>
+  <updated>2020-05-22T10:51:24Z</updated>
+  <content type="html">
+   My .spacemacs, private layers and (maybe) something else Spacemacs-config related
+  </content>
+ </entry>
+ <entry>
+  <title>thor314: emacs</title>
+  <author>
+   <name>thor314</name>
+  </author>
+  <link href="https://github.com/thor314/emacs" />
+  <id>urn:rprimus:github:thor314:emacs</id>
+  <published>2020-05-22T09:01:12Z</published>
+  <updated>2020-05-22T09:01:12Z</updated>
+  <content type="html">
+   emacs stuff
   </content>
  </entry>
  <entry>
@@ -96,6 +304,32 @@
   </content>
  </entry>
  <entry>
+  <title>u2zv1wx: cmyk-theme</title>
+  <author>
+   <name>u2zv1wx</name>
+  </author>
+  <link href="https://github.com/u2zv1wx/cmyk-theme" />
+  <id>urn:rprimus:github:u2zv1wx:cmyk-theme</id>
+  <published>2020-05-22T01:36:48Z</published>
+  <updated>2020-05-22T01:36:48Z</updated>
+  <content type="html">
+   In pursuance of contrast
+  </content>
+ </entry>
+ <entry>
+  <title>u2zv1wx: org-note</title>
+  <author>
+   <name>u2zv1wx</name>
+  </author>
+  <link href="https://github.com/u2zv1wx/org-note" />
+  <id>urn:rprimus:github:u2zv1wx:org-note</id>
+  <published>2020-05-22T01:26:56Z</published>
+  <updated>2020-05-22T01:26:56Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
   <title>bradenrice: custom-dot-spacemacs</title>
   <author>
    <name>bradenrice</name>
@@ -174,12 +408,12 @@
   </content>
  </entry>
  <entry>
-  <title>m455: m4dark</title>
+  <title>m455: m4themes</title>
   <author>
    <name>m455</name>
   </author>
-  <link href="https://github.com/m455/m4dark" />
-  <id>urn:rprimus:github:m455:m4dark</id>
+  <link href="https://github.com/m455/m4themes" />
+  <id>urn:rprimus:github:m455:m4themes</id>
   <published>2020-05-21T19:42:58Z</published>
   <updated>2020-05-21T19:42:58Z</updated>
   <content type="html">
@@ -431,201 +665,6 @@
   <updated>2020-05-21T00:26:04Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>rclarey: deno-emacs</title>
-  <author>
-   <name>rclarey</name>
-  </author>
-  <link href="https://github.com/rclarey/deno-emacs" />
-  <id>urn:rprimus:github:rclarey:deno-emacs</id>
-  <published>2020-05-20T17:25:57Z</published>
-  <updated>2020-05-20T17:25:57Z</updated>
-  <content type="html">
-   A collection of utilities to allow for development with deno in emacs!
-  </content>
- </entry>
- <entry>
-  <title>merryndd: emacs.d</title>
-  <author>
-   <name>merryndd</name>
-  </author>
-  <link href="https://github.com/merryndd/emacs.d" />
-  <id>urn:rprimus:github:merryndd:emacs.d</id>
-  <published>2020-05-20T17:24:51Z</published>
-  <updated>2020-05-20T17:24:51Z</updated>
-  <content type="html">
-   emacs config
-  </content>
- </entry>
- <entry>
-  <title>tjodelberg: verilog-mode-quickstart</title>
-  <author>
-   <name>tjodelberg</name>
-  </author>
-  <link href="https://github.com/tjodelberg/verilog-mode-quickstart" />
-  <id>urn:rprimus:github:tjodelberg:verilog-mode-quickstart</id>
-  <published>2020-05-20T16:03:13Z</published>
-  <updated>2020-05-20T16:03:13Z</updated>
-  <content type="html">
-   All the configuration files to setup verilog mode for vim
-  </content>
- </entry>
- <entry>
-  <title>davish: .files</title>
-  <author>
-   <name>davish</name>
-  </author>
-  <link href="https://github.com/davish/.files" />
-  <id>urn:rprimus:github:davish:.files</id>
-  <published>2020-05-20T15:51:28Z</published>
-  <updated>2020-05-20T15:51:28Z</updated>
-  <content type="html">
-   My Configuration Files
-  </content>
- </entry>
- <entry>
-  <title>vhquan: vhquan.github.io</title>
-  <author>
-   <name>vhquan</name>
-  </author>
-  <link href="https://github.com/vhquan/vhquan.github.io" />
-  <id>urn:rprimus:github:vhquan:vhquan.github.io</id>
-  <published>2020-05-20T15:50:33Z</published>
-  <updated>2020-05-20T15:50:33Z</updated>
-  <content type="html">
-   blog, note and note, blog
-  </content>
- </entry>
- <entry>
-  <title>lawrsp: emacs-window-stash</title>
-  <author>
-   <name>lawrsp</name>
-  </author>
-  <link href="https://github.com/lawrsp/emacs-window-stash" />
-  <id>urn:rprimus:github:lawrsp:emacs-window-stash</id>
-  <published>2020-05-20T15:33:11Z</published>
-  <updated>2020-05-20T15:33:11Z</updated>
-  <content type="html">
-   stash windows
-  </content>
- </entry>
- <entry>
-  <title>Vynlar: doom-config</title>
-  <author>
-   <name>Vynlar</name>
-  </author>
-  <link href="https://github.com/Vynlar/doom-config" />
-  <id>urn:rprimus:github:Vynlar:doom-config</id>
-  <published>2020-05-20T14:38:45Z</published>
-  <updated>2020-05-20T14:38:45Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>redguardtoo: roblox-mode</title>
-  <author>
-   <name>redguardtoo</name>
-  </author>
-  <link href="https://github.com/redguardtoo/roblox-mode" />
-  <id>urn:rprimus:github:redguardtoo:roblox-mode</id>
-  <published>2020-05-20T12:57:11Z</published>
-  <updated>2020-05-20T12:57:11Z</updated>
-  <content type="html">
-   Emacs major mode to edit Roblox Studio rbxlx files
-  </content>
- </entry>
- <entry>
-  <title>dschapman: .dot_files</title>
-  <author>
-   <name>dschapman</name>
-  </author>
-  <link href="https://github.com/dschapman/.dot_files" />
-  <id>urn:rprimus:github:dschapman:.dot_files</id>
-  <published>2020-05-20T12:23:52Z</published>
-  <updated>2020-05-20T12:23:52Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>khoadng: emacs</title>
-  <author>
-   <name>khoadng</name>
-  </author>
-  <link href="https://github.com/khoadng/emacs" />
-  <id>urn:rprimus:github:khoadng:emacs</id>
-  <published>2020-05-20T11:08:30Z</published>
-  <updated>2020-05-20T11:08:30Z</updated>
-  <content type="html">
-   Emacs configuration
-  </content>
- </entry>
- <entry>
-  <title>joncol: cha</title>
-  <author>
-   <name>joncol</name>
-  </author>
-  <link href="https://github.com/joncol/cha" />
-  <id>urn:rprimus:github:joncol:cha</id>
-  <published>2020-05-20T08:47:45Z</published>
-  <updated>2020-05-20T08:47:45Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>sharapeco: .emacs.d</title>
-  <author>
-   <name>sharapeco</name>
-  </author>
-  <link href="https://github.com/sharapeco/.emacs.d" />
-  <id>urn:rprimus:github:sharapeco:.emacs.d</id>
-  <published>2020-05-20T06:33:24Z</published>
-  <updated>2020-05-20T06:33:24Z</updated>
-  <content type="html">
-   My Emacs Configurations
-  </content>
- </entry>
- <entry>
-  <title>iburunat: soothingBlue-theme</title>
-  <author>
-   <name>iburunat</name>
-  </author>
-  <link href="https://github.com/iburunat/soothingBlue-theme" />
-  <id>urn:rprimus:github:iburunat:soothingBlue-theme</id>
-  <published>2020-05-20T05:08:59Z</published>
-  <updated>2020-05-20T05:08:59Z</updated>
-  <content type="html">
-   A not-so-soothing-Blue theme for Emacs
-  </content>
- </entry>
- <entry>
-  <title>alenswork: dotdoom</title>
-  <author>
-   <name>alenswork</name>
-  </author>
-  <link href="https://github.com/alenswork/dotdoom" />
-  <id>urn:rprimus:github:alenswork:dotdoom</id>
-  <published>2020-05-20T02:27:10Z</published>
-  <updated>2020-05-20T02:27:10Z</updated>
-  <content type="html">
-   A doom emacs iterate config that works for me in linux and windows
-  </content>
- </entry>
- <entry>
-  <title>jpdunc23: dotspacemacs</title>
-  <author>
-   <name>jpdunc23</name>
-  </author>
-  <link href="https://github.com/jpdunc23/dotspacemacs" />
-  <id>urn:rprimus:github:jpdunc23:dotspacemacs</id>
-  <published>2020-05-20T01:02:38Z</published>
-  <updated>2020-05-20T01:02:38Z</updated>
-  <content type="html">
-   .spacemacs custom configuration
   </content>
  </entry>
 </feed>
