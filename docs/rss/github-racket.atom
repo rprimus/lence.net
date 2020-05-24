@@ -2,8 +2,125 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-racket.atom"/>
 <id>urn:rprimus:github:newracketrepos</id>
-<updated>2020-05-23T03:45:59Z</updated>
+<updated>2020-05-24T07:05:20Z</updated>
 <title type='text'>New GitHub Racket Repos</title>
+ <entry>
+  <title>bphung45: OCR-Correction-Program</title>
+  <author>
+   <name>bphung45</name>
+  </author>
+  <link href="https://github.com/bphung45/OCR-Correction-Program" />
+  <id>urn:rprimus:github:bphung45:OCR-Correction-Program</id>
+  <published>2020-05-24T07:05:20Z</published>
+  <updated>2020-05-24T07:05:20Z</updated>
+  <content type="html">
+   Racket program to fix optical character recognition errors such as random symbols, wrong capitalizations, misspellings, and spacing errors. It will preserve correct capitalization, spacing, and punctuation. 
+  </content>
+ </entry>
+ <entry>
+  <title>jzxl629: Java-Interpreter-using-Scheme</title>
+  <author>
+   <name>jzxl629</name>
+  </author>
+  <link href="https://github.com/jzxl629/Java-Interpreter-using-Scheme" />
+  <id>urn:rprimus:github:jzxl629:Java-Interpreter-using-Scheme</id>
+  <published>2020-05-24T04:54:19Z</published>
+  <updated>2020-05-24T04:54:19Z</updated>
+  <content type="html">
+   An interpreter for Java/C like languages using Scheme
+  </content>
+ </entry>
+ <entry>
+  <title>zenmerlin: sudoku-solver</title>
+  <author>
+   <name>zenmerlin</name>
+  </author>
+  <link href="https://github.com/zenmerlin/sudoku-solver" />
+  <id>urn:rprimus:github:zenmerlin:sudoku-solver</id>
+  <published>2020-05-24T04:25:33Z</published>
+  <updated>2020-05-24T04:25:33Z</updated>
+  <content type="html">
+   Final project for Systematic Program Design course
+  </content>
+ </entry>
+ <entry>
+  <title>luuketi: sicp-exercises</title>
+  <author>
+   <name>luuketi</name>
+  </author>
+  <link href="https://github.com/luuketi/sicp-exercises" />
+  <id>urn:rprimus:github:luuketi:sicp-exercises</id>
+  <published>2020-05-24T01:09:27Z</published>
+  <updated>2020-05-24T01:09:27Z</updated>
+  <content type="html">
+   Solutions for some exercises in the book &quot;Structure and Interpretation of Computer Programs&quot;
+  </content>
+ </entry>
+ <entry>
+  <title>shriram: gradescope-racket</title>
+  <author>
+   <name>shriram</name>
+  </author>
+  <link href="https://github.com/shriram/gradescope-racket" />
+  <id>urn:rprimus:github:shriram:gradescope-racket</id>
+  <published>2020-05-24T00:09:20Z</published>
+  <updated>2020-05-24T00:09:20Z</updated>
+  <content type="html">
+   Infrastructure to autograde Racket code on Gradescope
+  </content>
+ </entry>
+ <entry>
+  <title>LZNEWT00Z: htcsd</title>
+  <author>
+   <name>LZNEWT00Z</name>
+  </author>
+  <link href="https://github.com/LZNEWT00Z/htcsd" />
+  <id>urn:rprimus:github:LZNEWT00Z:htcsd</id>
+  <published>2020-05-23T21:00:49Z</published>
+  <updated>2020-05-23T21:00:49Z</updated>
+  <content type="html">
+   Learning how to code WELL
+  </content>
+ </entry>
+ <entry>
+  <title>nullptr-0x0: sicp-solutions</title>
+  <author>
+   <name>nullptr-0x0</name>
+  </author>
+  <link href="https://github.com/nullptr-0x0/sicp-solutions" />
+  <id>urn:rprimus:github:nullptr-0x0:sicp-solutions</id>
+  <published>2020-05-23T17:38:12Z</published>
+  <updated>2020-05-23T17:38:12Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>mcdejonge: rs-l</title>
+  <author>
+   <name>mcdejonge</name>
+  </author>
+  <link href="https://github.com/mcdejonge/rs-l" />
+  <id>urn:rprimus:github:mcdejonge:rs-l</id>
+  <published>2020-05-23T15:50:18Z</published>
+  <updated>2020-05-23T15:50:18Z</updated>
+  <content type="html">
+   Sequencing tools for rs - the Racket Sequencer
+  </content>
+ </entry>
+ <entry>
+  <title>FayeAlephNil: press-lang</title>
+  <author>
+   <name>FayeAlephNil</name>
+  </author>
+  <link href="https://github.com/FayeAlephNil/press-lang" />
+  <id>urn:rprimus:github:FayeAlephNil:press-lang</id>
+  <published>2020-05-23T06:44:19Z</published>
+  <updated>2020-05-23T06:44:19Z</updated>
+  <content type="html">
+   I&#039;m making a small LISP programming language!
+  </content>
+ </entry>
  <entry>
   <title>x4th: realm-of-racket</title>
   <author>
@@ -169,175 +286,6 @@
   <id>urn:rprimus:github:mkredzel:racket-space-dogde-game</id>
   <published>2020-05-22T00:05:14Z</published>
   <updated>2020-05-22T00:05:14Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>mkredzel: racket-quiz-game</title>
-  <author>
-   <name>mkredzel</name>
-  </author>
-  <link href="https://github.com/mkredzel/racket-quiz-game" />
-  <id>urn:rprimus:github:mkredzel:racket-quiz-game</id>
-  <published>2020-05-21T23:55:20Z</published>
-  <updated>2020-05-21T23:55:20Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>FayeAlephNil: racket-evolution</title>
-  <author>
-   <name>FayeAlephNil</name>
-  </author>
-  <link href="https://github.com/FayeAlephNil/racket-evolution" />
-  <id>urn:rprimus:github:FayeAlephNil:racket-evolution</id>
-  <published>2020-05-21T21:36:52Z</published>
-  <updated>2020-05-21T21:36:52Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>robert912: Puzzle-Candy-Crash</title>
-  <author>
-   <name>robert912</name>
-  </author>
-  <link href="https://github.com/robert912/Puzzle-Candy-Crash" />
-  <id>urn:rprimus:github:robert912:Puzzle-Candy-Crash</id>
-  <published>2020-05-21T18:44:38Z</published>
-  <updated>2020-05-21T18:44:38Z</updated>
-  <content type="html">
-   Puzzle Candy Crash en Programacion Funcional
-  </content>
- </entry>
- <entry>
-  <title>OlasubomiEfuniyi: obe</title>
-  <author>
-   <name>OlasubomiEfuniyi</name>
-  </author>
-  <link href="https://github.com/OlasubomiEfuniyi/obe" />
-  <id>urn:rprimus:github:OlasubomiEfuniyi:obe</id>
-  <published>2020-05-21T18:37:23Z</published>
-  <updated>2020-05-21T18:37:23Z</updated>
-  <content type="html">
-   This is a compiler for the obe language
-  </content>
- </entry>
- <entry>
-  <title>artespankov: HtC1x</title>
-  <author>
-   <name>artespankov</name>
-  </author>
-  <link href="https://github.com/artespankov/HtC1x" />
-  <id>urn:rprimus:github:artespankov:HtC1x</id>
-  <published>2020-05-21T18:34:20Z</published>
-  <updated>2020-05-21T18:34:20Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>sritchie: sicp</title>
-  <author>
-   <name>sritchie</name>
-  </author>
-  <link href="https://github.com/sritchie/sicp" />
-  <id>urn:rprimus:github:sritchie:sicp</id>
-  <published>2020-05-21T18:12:29Z</published>
-  <updated>2020-05-21T18:12:29Z</updated>
-  <content type="html">
-   Exercises and solutions for Structure and Interpretation of Computer Programs.
-  </content>
- </entry>
- <entry>
-  <title>bayborodin: sicp-racket</title>
-  <author>
-   <name>bayborodin</name>
-  </author>
-  <link href="https://github.com/bayborodin/sicp-racket" />
-  <id>urn:rprimus:github:bayborodin:sicp-racket</id>
-  <published>2020-05-21T13:00:51Z</published>
-  <updated>2020-05-21T13:00:51Z</updated>
-  <content type="html">
-   My solutions for SICP exercises
-  </content>
- </entry>
- <entry>
-  <title>mkredzel: racket-arduino-traffic-lights-simulation</title>
-  <author>
-   <name>mkredzel</name>
-  </author>
-  <link href="https://github.com/mkredzel/racket-arduino-traffic-lights-simulation" />
-  <id>urn:rprimus:github:mkredzel:racket-arduino-traffic-lights-simulation</id>
-  <published>2020-05-21T12:48:56Z</published>
-  <updated>2020-05-21T12:48:56Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>pritesh-shrivastava: HtDP_Solutions</title>
-  <author>
-   <name>pritesh-shrivastava</name>
-  </author>
-  <link href="https://github.com/pritesh-shrivastava/HtDP_Solutions" />
-  <id>urn:rprimus:github:pritesh-shrivastava:HtDP_Solutions</id>
-  <published>2020-05-21T10:52:18Z</published>
-  <updated>2020-05-21T10:52:18Z</updated>
-  <content type="html">
-   My solutions for exercises in the book How to Design Programs
-  </content>
- </entry>
- <entry>
-  <title>FayeAlephNil: scip</title>
-  <author>
-   <name>FayeAlephNil</name>
-  </author>
-  <link href="https://github.com/FayeAlephNil/scip" />
-  <id>urn:rprimus:github:FayeAlephNil:scip</id>
-  <published>2020-05-21T07:13:14Z</published>
-  <updated>2020-05-21T07:13:14Z</updated>
-  <content type="html">
-   Doing some SCIP programming. Also possibly writing a baby LISP langauge
-  </content>
- </entry>
- <entry>
-  <title>farhanbinamjad: Huey-Interpreter</title>
-  <author>
-   <name>farhanbinamjad</name>
-  </author>
-  <link href="https://github.com/farhanbinamjad/Huey-Interpreter" />
-  <id>urn:rprimus:github:farhanbinamjad:Huey-Interpreter</id>
-  <published>2020-05-21T05:04:47Z</published>
-  <updated>2020-05-21T05:04:47Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>literacy-scrbl: Japanese</title>
-  <author>
-   <name>literacy-scrbl</name>
-  </author>
-  <link href="https://github.com/literacy-scrbl/Japanese" />
-  <id>urn:rprimus:github:literacy-scrbl:Japanese</id>
-  <published>2020-05-21T03:13:23Z</published>
-  <updated>2020-05-21T03:13:23Z</updated>
-  <content type="html">
-   A Japanese Grammar book based on Linguistics
-  </content>
- </entry>
- <entry>
-  <title>Postumius: text-game</title>
-  <author>
-   <name>Postumius</name>
-  </author>
-  <link href="https://github.com/Postumius/text-game" />
-  <id>urn:rprimus:github:Postumius:text-game</id>
-  <published>2020-05-21T02:40:31Z</published>
-  <updated>2020-05-21T02:40:31Z</updated>
   <content type="html">
    
   </content>
