@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2020-05-26T17:59:06Z</updated>
+<updated>2020-05-27T21:06:39Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>yvan: lisp-algs</title>
+  <author>
+   <name>yvan</name>
+  </author>
+  <link href="https://github.com/yvan/lisp-algs" />
+  <id>urn:rprimus:github:yvan:lisp-algs</id>
+  <published>2020-05-27T21:06:39Z</published>
+  <updated>2020-05-27T21:06:39Z</updated>
+  <content type="html">
+   code/scratch work for lisp algorithms 
+  </content>
+ </entry>
+ <entry>
+  <title>theothornhill: advent</title>
+  <author>
+   <name>theothornhill</name>
+  </author>
+  <link href="https://github.com/theothornhill/advent" />
+  <id>urn:rprimus:github:theothornhill:advent</id>
+  <published>2020-05-27T20:00:59Z</published>
+  <updated>2020-05-27T20:00:59Z</updated>
+  <content type="html">
+   Advent of Code
+  </content>
+ </entry>
+ <entry>
+  <title>BeCitizenSci: betsy</title>
+  <author>
+   <name>BeCitizenSci</name>
+  </author>
+  <link href="https://github.com/BeCitizenSci/betsy" />
+  <id>urn:rprimus:github:BeCitizenSci:betsy</id>
+  <published>2020-05-27T18:17:13Z</published>
+  <updated>2020-05-27T18:17:13Z</updated>
+  <content type="html">
+   Betsy is an artificial intelligence
+  </content>
+ </entry>
  <entry>
   <title>zinkem: symbolic-leibniz</title>
   <author>
@@ -54,123 +93,6 @@
   <updated>2020-05-26T02:15:08Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>fisxoj: food-data</title>
-  <author>
-   <name>fisxoj</name>
-  </author>
-  <link href="https://github.com/fisxoj/food-data" />
-  <id>urn:rprimus:github:fisxoj:food-data</id>
-  <published>2020-05-25T22:33:25Z</published>
-  <updated>2020-05-25T22:33:25Z</updated>
-  <content type="html">
-   API client for the US Department of Agriculture Food Data service
-  </content>
- </entry>
- <entry>
-  <title>ktro4989: robot_assembler</title>
-  <author>
-   <name>ktro4989</name>
-  </author>
-  <link href="https://github.com/ktro4989/robot_assembler" />
-  <id>urn:rprimus:github:ktro4989:robot_assembler</id>
-  <published>2020-05-25T17:49:31Z</published>
-  <updated>2020-05-25T17:49:31Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>aaronhooper: slispytime</title>
-  <author>
-   <name>aaronhooper</name>
-  </author>
-  <link href="https://github.com/aaronhooper/slispytime" />
-  <id>urn:rprimus:github:aaronhooper:slispytime</id>
-  <published>2020-05-25T17:13:01Z</published>
-  <updated>2020-05-25T17:13:01Z</updated>
-  <content type="html">
-   A crap sleepytime clone
-  </content>
- </entry>
- <entry>
-  <title>C-xC-c: hunchenhelpers</title>
-  <author>
-   <name>C-xC-c</name>
-  </author>
-  <link href="https://github.com/C-xC-c/hunchenhelpers" />
-  <id>urn:rprimus:github:C-xC-c:hunchenhelpers</id>
-  <published>2020-05-25T13:02:09Z</published>
-  <updated>2020-05-25T13:02:09Z</updated>
-  <content type="html">
-   helpers for hunchentoot
-  </content>
- </entry>
- <entry>
-  <title>ryukinix: trivial-snake</title>
-  <author>
-   <name>ryukinix</name>
-  </author>
-  <link href="https://github.com/ryukinix/trivial-snake" />
-  <id>urn:rprimus:github:ryukinix:trivial-snake</id>
-  <published>2020-05-25T11:22:08Z</published>
-  <updated>2020-05-25T11:22:08Z</updated>
-  <content type="html">
-   A trivial snake game written in Common Lisp built on top of trivial-gamekit
-  </content>
- </entry>
- <entry>
-  <title>alecouteurbisson: AJBLisp</title>
-  <author>
-   <name>alecouteurbisson</name>
-  </author>
-  <link href="https://github.com/alecouteurbisson/AJBLisp" />
-  <id>urn:rprimus:github:alecouteurbisson:AJBLisp</id>
-  <published>2020-05-25T08:38:50Z</published>
-  <updated>2020-05-25T08:38:50Z</updated>
-  <content type="html">
-   A Lisp interpreter
-  </content>
- </entry>
- <entry>
-  <title>mahmudzero: lisp_learnings</title>
-  <author>
-   <name>mahmudzero</name>
-  </author>
-  <link href="https://github.com/mahmudzero/lisp_learnings" />
-  <id>urn:rprimus:github:mahmudzero:lisp_learnings</id>
-  <published>2020-05-25T04:06:32Z</published>
-  <updated>2020-05-25T04:06:32Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>mpallone: mastermind</title>
-  <author>
-   <name>mpallone</name>
-  </author>
-  <link href="https://github.com/mpallone/mastermind" />
-  <id>urn:rprimus:github:mpallone:mastermind</id>
-  <published>2020-05-25T04:02:06Z</published>
-  <updated>2020-05-25T04:02:06Z</updated>
-  <content type="html">
-   Max Spector and my Mastermind AI, winner of Dr. Marie DesJardins&#039; Fall 2011 AI Tournament
-  </content>
- </entry>
- <entry>
-  <title>swiftandquick: Functional-Programming-Project</title>
-  <author>
-   <name>swiftandquick</name>
-  </author>
-  <link href="https://github.com/swiftandquick/Functional-Programming-Project" />
-  <id>urn:rprimus:github:swiftandquick:Functional-Programming-Project</id>
-  <published>2020-05-25T01:35:14Z</published>
-  <updated>2020-05-25T01:35:14Z</updated>
-  <content type="html">
-   Intro to Programming Language class.  Coded in Lisp.  Partner:  Jamie Pham.    
   </content>
  </entry>
 </feed>
