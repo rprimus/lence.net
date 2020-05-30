@@ -2,8 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2020-05-29T00:40:51Z</updated>
+<updated>2020-05-30T00:15:56Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>swtoskon: Pattern-Matching</title>
+  <author>
+   <name>swtoskon</name>
+  </author>
+  <link href="https://github.com/swtoskon/Pattern-Matching" />
+  <id>urn:rprimus:github:swtoskon:Pattern-Matching</id>
+  <published>2020-05-30T00:15:56Z</published>
+  <updated>2020-05-30T00:15:56Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>lmontigny: LISP_test</title>
+  <author>
+   <name>lmontigny</name>
+  </author>
+  <link href="https://github.com/lmontigny/LISP_test" />
+  <id>urn:rprimus:github:lmontigny:LISP_test</id>
+  <published>2020-05-29T22:12:08Z</published>
+  <updated>2020-05-29T22:12:08Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>aartaka: stumpwm-config</title>
+  <author>
+   <name>aartaka</name>
+  </author>
+  <link href="https://github.com/aartaka/stumpwm-config" />
+  <id>urn:rprimus:github:aartaka:stumpwm-config</id>
+  <published>2020-05-29T18:39:10Z</published>
+  <updated>2020-05-29T18:39:10Z</updated>
+  <content type="html">
+   My configuration files for Stump Window Manager
+  </content>
+ </entry>
+ <entry>
+  <title>aartaka: ai-class</title>
+  <author>
+   <name>aartaka</name>
+  </author>
+  <link href="https://github.com/aartaka/ai-class" />
+  <id>urn:rprimus:github:aartaka:ai-class</id>
+  <published>2020-05-29T18:28:13Z</published>
+  <updated>2020-05-29T18:28:13Z</updated>
+  <content type="html">
+   Code snippets written during the AI class in my university
+  </content>
+ </entry>
+ <entry>
+  <title>BenjaminFerge: netcalc</title>
+  <author>
+   <name>BenjaminFerge</name>
+  </author>
+  <link href="https://github.com/BenjaminFerge/netcalc" />
+  <id>urn:rprimus:github:BenjaminFerge:netcalc</id>
+  <published>2020-05-29T13:07:42Z</published>
+  <updated>2020-05-29T13:07:42Z</updated>
+  <content type="html">
+   Netcalc is a CLI program for performing network related calculation
+  </content>
+ </entry>
+ <entry>
+  <title>MidAutumnMoon: moolbox</title>
+  <author>
+   <name>MidAutumnMoon</name>
+  </author>
+  <link href="https://github.com/MidAutumnMoon/moolbox" />
+  <id>urn:rprimus:github:MidAutumnMoon:moolbox</id>
+  <published>2020-05-29T10:59:58Z</published>
+  <updated>2020-05-29T10:59:58Z</updated>
+  <content type="html">
+   Some random tools.
+  </content>
+ </entry>
+ <entry>
+  <title>engblom: backlight</title>
+  <author>
+   <name>engblom</name>
+  </author>
+  <link href="https://github.com/engblom/backlight" />
+  <id>urn:rprimus:github:engblom:backlight</id>
+  <published>2020-05-29T10:15:33Z</published>
+  <updated>2020-05-29T10:15:33Z</updated>
+  <content type="html">
+   A command line tool for setting the backlight for some laptops.
+  </content>
+ </entry>
  <entry>
   <title>theRealZauberwuerfel: tikz-dsl</title>
   <author>
@@ -174,42 +265,16 @@
   </content>
  </entry>
  <entry>
-  <title>yvan: lisp-algs</title>
+  <title>innaky: out-spaces</title>
   <author>
-   <name>yvan</name>
+   <name>innaky</name>
   </author>
-  <link href="https://github.com/yvan/lisp-algs" />
-  <id>urn:rprimus:github:yvan:lisp-algs</id>
-  <published>2020-05-27T21:06:39Z</published>
-  <updated>2020-05-27T21:06:39Z</updated>
+  <link href="https://github.com/innaky/out-spaces" />
+  <id>urn:rprimus:github:innaky:out-spaces</id>
+  <published>2020-05-28T02:04:19Z</published>
+  <updated>2020-05-28T02:04:19Z</updated>
   <content type="html">
-   code/scratch work for lisp algorithms 
-  </content>
- </entry>
- <entry>
-  <title>theothornhill: advent</title>
-  <author>
-   <name>theothornhill</name>
-  </author>
-  <link href="https://github.com/theothornhill/advent" />
-  <id>urn:rprimus:github:theothornhill:advent</id>
-  <published>2020-05-27T20:00:59Z</published>
-  <updated>2020-05-27T20:00:59Z</updated>
-  <content type="html">
-   Advent of Code
-  </content>
- </entry>
- <entry>
-  <title>BeCitizenSci: betsy</title>
-  <author>
-   <name>BeCitizenSci</name>
-  </author>
-  <link href="https://github.com/BeCitizenSci/betsy" />
-  <id>urn:rprimus:github:BeCitizenSci:betsy</id>
-  <published>2020-05-27T18:17:13Z</published>
-  <updated>2020-05-27T18:17:13Z</updated>
-  <content type="html">
-   Betsy is an artificial intelligence
+   Rename the filenames of a directory, deleting the spaces and joinning the name and Adding prefix or sufix for the filenames of a directory.
   </content>
  </entry>
 </feed>
