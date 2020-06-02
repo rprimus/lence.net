@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-erlang.atom"/>
 <id>urn:rprimus:github:newerlangrepos</id>
-<updated>2020-06-01T00:37:24Z</updated>
+<updated>2020-06-02T02:01:43Z</updated>
 <title type='text'>New GitHub Erlang Repos</title>
+ <entry>
+  <title>d-podkorytov: otp_dnsd</title>
+  <author>
+   <name>d-podkorytov</name>
+  </author>
+  <link href="https://github.com/d-podkorytov/otp_dnsd" />
+  <id>urn:rprimus:github:d-podkorytov:otp_dnsd</id>
+  <published>2020-06-02T02:01:43Z</published>
+  <updated>2020-06-02T02:01:43Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>d-podkorytov: otp_syslogd</title>
+  <author>
+   <name>d-podkorytov</name>
+  </author>
+  <link href="https://github.com/d-podkorytov/otp_syslogd" />
+  <id>urn:rprimus:github:d-podkorytov:otp_syslogd</id>
+  <published>2020-06-02T01:26:54Z</published>
+  <updated>2020-06-02T01:26:54Z</updated>
+  <content type="html">
+   Erlang OTP syslog daemon with scalability up to erlang cluster
+  </content>
+ </entry>
+ <entry>
+  <title>rynsy: Covid-Outbreak-Tracker</title>
+  <author>
+   <name>rynsy</name>
+  </author>
+  <link href="https://github.com/rynsy/Covid-Outbreak-Tracker" />
+  <id>urn:rprimus:github:rynsy:Covid-Outbreak-Tracker</id>
+  <published>2020-06-01T18:40:40Z</published>
+  <updated>2020-06-01T18:40:40Z</updated>
+  <content type="html">
+   Database project for tracking COVID cases in the state of Kentucky. Uses a graph database to find nearest available hospitals, relational databases for tracking patient location, and a Complex Event Processor for tracking the rate of growth throughout the state. 
+  </content>
+ </entry>
+ <entry>
+  <title>mmalmsten: mailbox</title>
+  <author>
+   <name>mmalmsten</name>
+  </author>
+  <link href="https://github.com/mmalmsten/mailbox" />
+  <id>urn:rprimus:github:mmalmsten:mailbox</id>
+  <published>2020-06-01T17:59:59Z</published>
+  <updated>2020-06-01T17:59:59Z</updated>
+  <content type="html">
+   âï¸ Simple Erlang mailbox
+  </content>
+ </entry>
+ <entry>
+  <title>JStiva: erlang-python-search-pipeline</title>
+  <author>
+   <name>JStiva</name>
+  </author>
+  <link href="https://github.com/JStiva/erlang-python-search-pipeline" />
+  <id>urn:rprimus:github:JStiva:erlang-python-search-pipeline</id>
+  <published>2020-06-01T08:15:31Z</published>
+  <updated>2020-06-01T08:15:31Z</updated>
+  <content type="html">
+   This project demonstrates the connection of an erlang process with a python process through rabbitmq. 
+  </content>
+ </entry>
  <entry>
   <title>tank-bohr: reimagined-dollop</title>
   <author>
@@ -106,71 +171,6 @@
   <updated>2020-05-31T07:49:06Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>nalundgaard: yaguid</title>
-  <author>
-   <name>nalundgaard</name>
-  </author>
-  <link href="https://github.com/nalundgaard/yaguid" />
-  <id>urn:rprimus:github:nalundgaard:yaguid</id>
-  <published>2020-05-30T19:40:46Z</published>
-  <updated>2020-05-30T19:40:46Z</updated>
-  <content type="html">
-   Yet Another Globally Unique ID server (snowflake-ish, in Erlang)
-  </content>
- </entry>
- <entry>
-  <title>DescartesDisciple: FIB-SDX</title>
-  <author>
-   <name>DescartesDisciple</name>
-  </author>
-  <link href="https://github.com/DescartesDisciple/FIB-SDX" />
-  <id>urn:rprimus:github:DescartesDisciple:FIB-SDX</id>
-  <published>2020-05-30T18:57:52Z</published>
-  <updated>2020-05-30T18:57:52Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jo: erlang-lists-member-vs-maps-is-key</title>
-  <author>
-   <name>jo</name>
-  </author>
-  <link href="https://github.com/jo/erlang-lists-member-vs-maps-is-key" />
-  <id>urn:rprimus:github:jo:erlang-lists-member-vs-maps-is-key</id>
-  <published>2020-05-30T17:29:05Z</published>
-  <updated>2020-05-30T17:29:05Z</updated>
-  <content type="html">
-   Erlang performance comparison maps:is_key versus lists:member
-  </content>
- </entry>
- <entry>
-  <title>PieterjanMontens: anon_etaamb</title>
-  <author>
-   <name>PieterjanMontens</name>
-  </author>
-  <link href="https://github.com/PieterjanMontens/anon_etaamb" />
-  <id>urn:rprimus:github:PieterjanMontens:anon_etaamb</id>
-  <published>2020-05-30T14:53:12Z</published>
-  <updated>2020-05-30T14:53:12Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>HadrienMP: mobtime_erl</title>
-  <author>
-   <name>HadrienMP</name>
-  </author>
-  <link href="https://github.com/HadrienMP/mobtime_erl" />
-  <id>urn:rprimus:github:HadrienMP:mobtime_erl</id>
-  <published>2020-05-30T13:15:28Z</published>
-  <updated>2020-05-30T13:15:28Z</updated>
-  <content type="html">
-   A mobtime front console app written in erlang
   </content>
  </entry>
 </feed>
