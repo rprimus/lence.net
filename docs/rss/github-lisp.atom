@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2020-06-02T04:18:03Z</updated>
+<updated>2020-06-02T21:54:40Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>bkuehnert: actions-testing</title>
+  <author>
+   <name>bkuehnert</name>
+  </author>
+  <link href="https://github.com/bkuehnert/actions-testing" />
+  <id>urn:rprimus:github:bkuehnert:actions-testing</id>
+  <published>2020-06-02T21:54:40Z</published>
+  <updated>2020-06-02T21:54:40Z</updated>
+  <content type="html">
+   Testing Github actions CI for cl-protobufs
+  </content>
+ </entry>
+ <entry>
+  <title>ajw998: sandy</title>
+  <author>
+   <name>ajw998</name>
+  </author>
+  <link href="https://github.com/ajw998/sandy" />
+  <id>urn:rprimus:github:ajw998:sandy</id>
+  <published>2020-06-02T21:38:36Z</published>
+  <updated>2020-06-02T21:38:36Z</updated>
+  <content type="html">
+   Here be my sandcastle!
+  </content>
+ </entry>
+ <entry>
+  <title>danieljamesross: sc-rebuild</title>
+  <author>
+   <name>danieljamesross</name>
+  </author>
+  <link href="https://github.com/danieljamesross/sc-rebuild" />
+  <id>urn:rprimus:github:danieljamesross:sc-rebuild</id>
+  <published>2020-06-02T16:35:14Z</published>
+  <updated>2020-06-02T16:35:14Z</updated>
+  <content type="html">
+   Remove .fasl files and install the latest version of SBCL with homebrew, all in lisp
+  </content>
+ </entry>
  <entry>
   <title>luandelpreto: Artificial-Intelligence</title>
   <author>
@@ -119,45 +158,6 @@
   <updated>2020-06-01T00:49:23Z</updated>
   <content type="html">
    AutoLisp scripts for CAD
-  </content>
- </entry>
- <entry>
-  <title>ndantam: anthill</title>
-  <author>
-   <name>ndantam</name>
-  </author>
-  <link href="https://github.com/ndantam/anthill" />
-  <id>urn:rprimus:github:ndantam:anthill</id>
-  <published>2020-05-31T23:30:43Z</published>
-  <updated>2020-05-31T23:30:43Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>masatoi: clgp</title>
-  <author>
-   <name>masatoi</name>
-  </author>
-  <link href="https://github.com/masatoi/clgp" />
-  <id>urn:rprimus:github:masatoi:clgp</id>
-  <published>2020-05-31T18:43:27Z</published>
-  <updated>2020-05-31T18:43:27Z</updated>
-  <content type="html">
-   CLOS based Common Lisp frontend of gnuplot
-  </content>
- </entry>
- <entry>
-  <title>JadedCtrl: x-if</title>
-  <author>
-   <name>JadedCtrl</name>
-  </author>
-  <link href="https://github.com/JadedCtrl/x-if" />
-  <id>urn:rprimus:github:JadedCtrl:x-if</id>
-  <published>2020-05-31T06:54:55Z</published>
-  <updated>2020-05-31T06:54:55Z</updated>
-  <content type="html">
-   Lispy interactive fiction engine [Mirror of https://git.xwx.moe/x-if.git]
   </content>
  </entry>
 </feed>
