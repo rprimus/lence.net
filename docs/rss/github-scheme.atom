@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-scheme.atom"/>
 <id>urn:rprimus:github:newschemerepos</id>
-<updated>2020-06-05T20:41:47Z</updated>
+<updated>2020-06-06T23:44:49Z</updated>
 <title type='text'>New GitHub Scheme Repos</title>
+ <entry>
+  <title>Bryophyllum: guix-packages</title>
+  <author>
+   <name>Bryophyllum</name>
+  </author>
+  <link href="https://github.com/Bryophyllum/guix-packages" />
+  <id>urn:rprimus:github:Bryophyllum:guix-packages</id>
+  <published>2020-06-06T23:44:49Z</published>
+  <updated>2020-06-06T23:44:49Z</updated>
+  <content type="html">
+   Hosting package modules for my experimental Telegram Desktop package definition
+  </content>
+ </entry>
+ <entry>
+  <title>amory: sicp_ex</title>
+  <author>
+   <name>amory</name>
+  </author>
+  <link href="https://github.com/amory/sicp_ex" />
+  <id>urn:rprimus:github:amory:sicp_ex</id>
+  <published>2020-06-06T19:12:30Z</published>
+  <updated>2020-06-06T19:12:30Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>airdipu: Household-Survey-Analysis</title>
+  <author>
+   <name>airdipu</name>
+  </author>
+  <link href="https://github.com/airdipu/Household-Survey-Analysis" />
+  <id>urn:rprimus:github:airdipu:Household-Survey-Analysis</id>
+  <published>2020-06-06T14:37:41Z</published>
+  <updated>2020-06-06T14:37:41Z</updated>
+  <content type="html">
+   This project is a Baseline study on Household Survey of healthcare services for pregnant women and the newborn including family planning services using SPSS.
+  </content>
+ </entry>
+ <entry>
+  <title>cthulhu-irl: my-scheme-practices</title>
+  <author>
+   <name>cthulhu-irl</name>
+  </author>
+  <link href="https://github.com/cthulhu-irl/my-scheme-practices" />
+  <id>urn:rprimus:github:cthulhu-irl:my-scheme-practices</id>
+  <published>2020-06-06T14:18:49Z</published>
+  <updated>2020-06-06T14:18:49Z</updated>
+  <content type="html">
+   a bunch of scheme language practices, includes exercises from https://www.shido.info/lisp/idx_scm_e.html
+  </content>
+ </entry>
+ <entry>
+  <title>hwimahw: Programming</title>
+  <author>
+   <name>hwimahw</name>
+  </author>
+  <link href="https://github.com/hwimahw/Programming" />
+  <id>urn:rprimus:github:hwimahw:Programming</id>
+  <published>2020-06-06T12:16:29Z</published>
+  <updated>2020-06-06T12:16:29Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Hugal31: ros-guix</title>
+  <author>
+   <name>Hugal31</name>
+  </author>
+  <link href="https://github.com/Hugal31/ros-guix" />
+  <id>urn:rprimus:github:Hugal31:ros-guix</id>
+  <published>2020-06-06T10:25:55Z</published>
+  <updated>2020-06-06T10:25:55Z</updated>
+  <content type="html">
+   Attempt to port ros to guix, thanks to https://github.com/lelongg/ros_to_guix
+  </content>
+ </entry>
  <entry>
   <title>JohnnyDreamguns: sicp</title>
   <author>
@@ -54,97 +132,6 @@
   <updated>2020-06-05T04:30:30Z</updated>
   <content type="html">
    Chez Bindings for the Iup GUI library
-  </content>
- </entry>
- <entry>
-  <title>tiiraj: TEST</title>
-  <author>
-   <name>tiiraj</name>
-  </author>
-  <link href="https://github.com/tiiraj/TEST" />
-  <id>urn:rprimus:github:tiiraj:TEST</id>
-  <published>2020-06-04T20:59:22Z</published>
-  <updated>2020-06-04T20:59:22Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>allaaannnnn: ece2119</title>
-  <author>
-   <name>allaaannnnn</name>
-  </author>
-  <link href="https://github.com/allaaannnnn/ece2119" />
-  <id>urn:rprimus:github:allaaannnnn:ece2119</id>
-  <published>2020-06-04T20:15:40Z</published>
-  <updated>2020-06-04T20:15:40Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Wienche: TweetToEdgelist</title>
-  <author>
-   <name>Wienche</name>
-  </author>
-  <link href="https://github.com/Wienche/TweetToEdgelist" />
-  <id>urn:rprimus:github:Wienche:TweetToEdgelist</id>
-  <published>2020-06-04T12:50:24Z</published>
-  <updated>2020-06-04T12:50:24Z</updated>
-  <content type="html">
-   SPSS script om van een lijst van auteurs en tweets een edgelist te maken
-  </content>
- </entry>
- <entry>
-  <title>methuselah-0: my-guix-packages</title>
-  <author>
-   <name>methuselah-0</name>
-  </author>
-  <link href="https://github.com/methuselah-0/my-guix-packages" />
-  <id>urn:rprimus:github:methuselah-0:my-guix-packages</id>
-  <published>2020-06-04T11:35:28Z</published>
-  <updated>2020-06-04T11:35:28Z</updated>
-  <content type="html">
-   some additional guix packages not in guix master
-  </content>
- </entry>
- <entry>
-  <title>quirinux-so: quirinux-gimp</title>
-  <author>
-   <name>quirinux-so</name>
-  </author>
-  <link href="https://github.com/quirinux-so/quirinux-gimp" />
-  <id>urn:rprimus:github:quirinux-so:quirinux-gimp</id>
-  <published>2020-06-04T09:02:15Z</published>
-  <updated>2020-06-04T09:02:15Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>tongkiat: the-little-schemer</title>
-  <author>
-   <name>tongkiat</name>
-  </author>
-  <link href="https://github.com/tongkiat/the-little-schemer" />
-  <id>urn:rprimus:github:tongkiat:the-little-schemer</id>
-  <published>2020-06-04T08:43:28Z</published>
-  <updated>2020-06-04T08:43:28Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>zhouwentong1993: sicp</title>
-  <author>
-   <name>zhouwentong1993</name>
-  </author>
-  <link href="https://github.com/zhouwentong1993/sicp" />
-  <id>urn:rprimus:github:zhouwentong1993:sicp</id>
-  <published>2020-06-04T06:20:54Z</published>
-  <updated>2020-06-04T06:20:54Z</updated>
-  <content type="html">
-   sicp demo
   </content>
  </entry>
 </feed>
