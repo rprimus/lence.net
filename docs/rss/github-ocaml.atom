@@ -2,8 +2,112 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2020-06-07T23:14:11Z</updated>
+<updated>2020-06-08T22:09:06Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>iitalics: diagonal</title>
+  <author>
+   <name>iitalics</name>
+  </author>
+  <link href="https://github.com/iitalics/diagonal" />
+  <id>urn:rprimus:github:iitalics:diagonal</id>
+  <published>2020-06-08T22:09:06Z</published>
+  <updated>2020-06-08T22:09:06Z</updated>
+  <content type="html">
+   a game i&#039;m working on
+  </content>
+ </entry>
+ <entry>
+  <title>cedlemo: OCaml-getos</title>
+  <author>
+   <name>cedlemo</name>
+  </author>
+  <link href="https://github.com/cedlemo/OCaml-getos" />
+  <id>urn:rprimus:github:cedlemo:OCaml-getos</id>
+  <published>2020-06-08T17:21:41Z</published>
+  <updated>2020-06-08T17:21:41Z</updated>
+  <content type="html">
+   Like getos javascript library but written in OCaml
+  </content>
+ </entry>
+ <entry>
+  <title>roburio: dns-letsencrypt-secondary</title>
+  <author>
+   <name>roburio</name>
+  </author>
+  <link href="https://github.com/roburio/dns-letsencrypt-secondary" />
+  <id>urn:rprimus:github:roburio:dns-letsencrypt-secondary</id>
+  <published>2020-06-08T12:28:23Z</published>
+  <updated>2020-06-08T12:28:23Z</updated>
+  <content type="html">
+   A MirageOS unikernel acting as secondary DNS server, provisioning certificate signing requests to valid certificates using let&#039;s encrypt
+  </content>
+ </entry>
+ <entry>
+  <title>roburio: dns-secondary</title>
+  <author>
+   <name>roburio</name>
+  </author>
+  <link href="https://github.com/roburio/dns-secondary" />
+  <id>urn:rprimus:github:roburio:dns-secondary</id>
+  <published>2020-06-08T12:27:09Z</published>
+  <updated>2020-06-08T12:27:09Z</updated>
+  <content type="html">
+   A MirageOS unikernel acting as a secondary DNS server
+  </content>
+ </entry>
+ <entry>
+  <title>roburio: dns-primary-git</title>
+  <author>
+   <name>roburio</name>
+  </author>
+  <link href="https://github.com/roburio/dns-primary-git" />
+  <id>urn:rprimus:github:roburio:dns-primary-git</id>
+  <published>2020-06-08T12:26:21Z</published>
+  <updated>2020-06-08T12:26:21Z</updated>
+  <content type="html">
+   A MirageOS unikernel acting as primary DNS server, data stored in a remote git repository
+  </content>
+ </entry>
+ <entry>
+  <title>roburio: tlstunnel</title>
+  <author>
+   <name>roburio</name>
+  </author>
+  <link href="https://github.com/roburio/tlstunnel" />
+  <id>urn:rprimus:github:roburio:tlstunnel</id>
+  <published>2020-06-08T10:29:47Z</published>
+  <updated>2020-06-08T10:29:47Z</updated>
+  <content type="html">
+   A TLS reverse proxy unikernel
+  </content>
+ </entry>
+ <entry>
+  <title>gs0510: purely-functional-ds</title>
+  <author>
+   <name>gs0510</name>
+  </author>
+  <link href="https://github.com/gs0510/purely-functional-ds" />
+  <id>urn:rprimus:github:gs0510:purely-functional-ds</id>
+  <published>2020-06-08T08:00:15Z</published>
+  <updated>2020-06-08T08:00:15Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>YaoyaoM: Nano-Like-Editor</title>
+  <author>
+   <name>YaoyaoM</name>
+  </author>
+  <link href="https://github.com/YaoyaoM/Nano-Like-Editor" />
+  <id>urn:rprimus:github:YaoyaoM:Nano-Like-Editor</id>
+  <published>2020-06-08T07:14:57Z</published>
+  <updated>2020-06-08T07:14:57Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>obscurecolin: imp-compiler</title>
   <author>
@@ -91,84 +195,6 @@
   <id>urn:rprimus:github:tsubo:ocaml_programing_basic</id>
   <published>2020-06-07T07:26:26Z</published>
   <updated>2020-06-07T07:26:26Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>SHoltzen: calc-example</title>
-  <author>
-   <name>SHoltzen</name>
-  </author>
-  <link href="https://github.com/SHoltzen/calc-example" />
-  <id>urn:rprimus:github:SHoltzen:calc-example</id>
-  <published>2020-06-06T22:06:08Z</published>
-  <updated>2020-06-06T22:06:08Z</updated>
-  <content type="html">
-   An example of using generating syntax errors in OCaml and Menhir
-  </content>
- </entry>
- <entry>
-  <title>Mbodin: tujkuko</title>
-  <author>
-   <name>Mbodin</name>
-  </author>
-  <link href="https://github.com/Mbodin/tujkuko" />
-  <id>urn:rprimus:github:Mbodin:tujkuko</id>
-  <published>2020-06-06T18:20:19Z</published>
-  <updated>2020-06-06T18:20:19Z</updated>
-  <content type="html">
-   A collection of recipes presented as an adventure game
-  </content>
- </entry>
- <entry>
-  <title>m-laniakea: oserial</title>
-  <author>
-   <name>m-laniakea</name>
-  </author>
-  <link href="https://github.com/m-laniakea/oserial" />
-  <id>urn:rprimus:github:m-laniakea:oserial</id>
-  <published>2020-06-06T15:22:59Z</published>
-  <updated>2020-06-06T15:22:59Z</updated>
-  <content type="html">
-   OCaml Serial Module
-  </content>
- </entry>
- <entry>
-  <title>08A: 99-problems</title>
-  <author>
-   <name>08A</name>
-  </author>
-  <link href="https://github.com/08A/99-problems" />
-  <id>urn:rprimus:github:08A:99-problems</id>
-  <published>2020-06-06T14:29:38Z</published>
-  <updated>2020-06-06T14:29:38Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>kxcteam: tsca-tezos</title>
-  <author>
-   <name>kxcteam</name>
-  </author>
-  <link href="https://github.com/kxcteam/tsca-tezos" />
-  <id>urn:rprimus:github:kxcteam:tsca-tezos</id>
-  <published>2020-06-06T07:44:18Z</published>
-  <updated>2020-06-06T07:44:18Z</updated>
-  <content type="html">
-   tezos fork for the tsca project
-  </content>
- </entry>
- <entry>
-  <title>kxcteam: tsca-tools</title>
-  <author>
-   <name>kxcteam</name>
-  </author>
-  <link href="https://github.com/kxcteam/tsca-tools" />
-  <id>urn:rprimus:github:kxcteam:tsca-tools</id>
-  <published>2020-06-06T07:37:15Z</published>
-  <updated>2020-06-06T07:37:15Z</updated>
   <content type="html">
    
   </content>
