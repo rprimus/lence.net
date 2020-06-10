@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2020-06-09T00:23:42Z</updated>
+<updated>2020-06-09T23:27:13Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>K1D77A: cl-rate-limit</title>
+  <author>
+   <name>K1D77A</name>
+  </author>
+  <link href="https://github.com/K1D77A/cl-rate-limit" />
+  <id>urn:rprimus:github:K1D77A:cl-rate-limit</id>
+  <published>2020-06-09T23:27:13Z</published>
+  <updated>2020-06-09T23:27:13Z</updated>
+  <content type="html">
+   Rate limiter for Common Lisp. 
+  </content>
+ </entry>
+ <entry>
+  <title>Zulu-Inuoe: .common.lisp</title>
+  <author>
+   <name>Zulu-Inuoe</name>
+  </author>
+  <link href="https://github.com/Zulu-Inuoe/.common.lisp" />
+  <id>urn:rprimus:github:Zulu-Inuoe:.common.lisp</id>
+  <published>2020-06-09T11:15:32Z</published>
+  <updated>2020-06-09T11:15:32Z</updated>
+  <content type="html">
+   Common lisp init code and trivial private utils
+  </content>
+ </entry>
  <entry>
   <title>Shinoa-Fores: cl-unobtanium</title>
   <author>
@@ -119,162 +145,6 @@
   <updated>2020-06-08T00:06:31Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>julianbachiller: breakout</title>
-  <author>
-   <name>julianbachiller</name>
-  </author>
-  <link href="https://github.com/julianbachiller/breakout" />
-  <id>urn:rprimus:github:julianbachiller:breakout</id>
-  <published>2020-06-07T22:29:06Z</published>
-  <updated>2020-06-07T22:29:06Z</updated>
-  <content type="html">
-   ported from jwz&#039;s breakout for the TI-Explorer Lisp Machine
-  </content>
- </entry>
- <entry>
-  <title>julianbachiller: raycaster-untextured</title>
-  <author>
-   <name>julianbachiller</name>
-  </author>
-  <link href="https://github.com/julianbachiller/raycaster-untextured" />
-  <id>urn:rprimus:github:julianbachiller:raycaster-untextured</id>
-  <published>2020-06-07T21:44:22Z</published>
-  <updated>2020-06-07T21:44:22Z</updated>
-  <content type="html">
-   a Lisp port of the first part of Lode Vandevenne&#039;s computer graphics tutorial
-  </content>
- </entry>
- <entry>
-  <title>borodust: anki-utils</title>
-  <author>
-   <name>borodust</name>
-  </author>
-  <link href="https://github.com/borodust/anki-utils" />
-  <id>urn:rprimus:github:borodust:anki-utils</id>
-  <published>2020-06-07T20:08:25Z</published>
-  <updated>2020-06-07T20:08:25Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Software-Knife-and-Tool: llc</title>
-  <author>
-   <name>Software-Knife-and-Tool</name>
-  </author>
-  <link href="https://github.com/Software-Knife-and-Tool/llc" />
-  <id>urn:rprimus:github:Software-Knife-and-Tool:llc</id>
-  <published>2020-06-07T16:57:25Z</published>
-  <updated>2020-06-07T16:57:25Z</updated>
-  <content type="html">
-   logica lisp compiler
-  </content>
- </entry>
- <entry>
-  <title>AFilipee: Search-and-Planning</title>
-  <author>
-   <name>AFilipee</name>
-  </author>
-  <link href="https://github.com/AFilipee/Search-and-Planning" />
-  <id>urn:rprimus:github:AFilipee:Search-and-Planning</id>
-  <published>2020-06-07T14:37:38Z</published>
-  <updated>2020-06-07T14:37:38Z</updated>
-  <content type="html">
-   Project developed for Search and Planning course @ IST
-  </content>
- </entry>
- <entry>
-  <title>daliwali: parenscript-builder</title>
-  <author>
-   <name>daliwali</name>
-  </author>
-  <link href="https://github.com/daliwali/parenscript-builder" />
-  <id>urn:rprimus:github:daliwali:parenscript-builder</id>
-  <published>2020-06-07T07:02:59Z</published>
-  <updated>2020-06-07T07:02:59Z</updated>
-  <content type="html">
-   Transform ParenScript, a subset of Common Lisp, to JavaScript modules, compatible with Deno and web browsers (and Node.js too).
-  </content>
- </entry>
- <entry>
-  <title>solyd: alxcl-utils</title>
-  <author>
-   <name>solyd</name>
-  </author>
-  <link href="https://github.com/solyd/alxcl-utils" />
-  <id>urn:rprimus:github:solyd:alxcl-utils</id>
-  <published>2020-06-07T06:12:25Z</published>
-  <updated>2020-06-07T06:12:25Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>solyd: cl-torrent-finder</title>
-  <author>
-   <name>solyd</name>
-  </author>
-  <link href="https://github.com/solyd/cl-torrent-finder" />
-  <id>urn:rprimus:github:solyd:cl-torrent-finder</id>
-  <published>2020-06-07T06:12:02Z</published>
-  <updated>2020-06-07T06:12:02Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>solyd: stocks</title>
-  <author>
-   <name>solyd</name>
-  </author>
-  <link href="https://github.com/solyd/stocks" />
-  <id>urn:rprimus:github:solyd:stocks</id>
-  <published>2020-06-07T06:11:31Z</published>
-  <updated>2020-06-07T06:11:31Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>solyd: ccltest2</title>
-  <author>
-   <name>solyd</name>
-  </author>
-  <link href="https://github.com/solyd/ccltest2" />
-  <id>urn:rprimus:github:solyd:ccltest2</id>
-  <published>2020-06-07T06:10:46Z</published>
-  <updated>2020-06-07T06:10:46Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>marumaru123: ponchan</title>
-  <author>
-   <name>marumaru123</name>
-  </author>
-  <link href="https://github.com/marumaru123/ponchan" />
-  <id>urn:rprimus:github:marumaru123:ponchan</id>
-  <published>2020-06-07T04:28:39Z</published>
-  <updated>2020-06-07T04:28:39Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>epanji: lnb-distance</title>
-  <author>
-   <name>epanji</name>
-  </author>
-  <link href="https://github.com/epanji/lnb-distance" />
-  <id>urn:rprimus:github:epanji:lnb-distance</id>
-  <published>2020-06-07T04:05:54Z</published>
-  <updated>2020-06-07T04:05:54Z</updated>
-  <content type="html">
-   LNB-DISTANCE is a system that helps technicians calculate distances when building LNBs holder for PARABOLA with multiple LNBs.
   </content>
  </entry>
 </feed>
