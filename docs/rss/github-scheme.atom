@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-scheme.atom"/>
 <id>urn:rprimus:github:newschemerepos</id>
-<updated>2020-06-09T04:20:44Z</updated>
+<updated>2020-06-09T16:22:25Z</updated>
 <title type='text'>New GitHub Scheme Repos</title>
+ <entry>
+  <title>matsuyoshi30: sicp</title>
+  <author>
+   <name>matsuyoshi30</name>
+  </author>
+  <link href="https://github.com/matsuyoshi30/sicp" />
+  <id>urn:rprimus:github:matsuyoshi30:sicp</id>
+  <published>2020-06-09T16:22:25Z</published>
+  <updated>2020-06-09T16:22:25Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>darrendollery: sicp</title>
+  <author>
+   <name>darrendollery</name>
+  </author>
+  <link href="https://github.com/darrendollery/sicp" />
+  <id>urn:rprimus:github:darrendollery:sicp</id>
+  <published>2020-06-09T14:53:36Z</published>
+  <updated>2020-06-09T14:53:36Z</updated>
+  <content type="html">
+   Answers to coding questions in Structure and interpretation of computer programs
+  </content>
+ </entry>
+ <entry>
+  <title>mickey-spongebob: platynereis-genome-annotation</title>
+  <author>
+   <name>mickey-spongebob</name>
+  </author>
+  <link href="https://github.com/mickey-spongebob/platynereis-genome-annotation" />
+  <id>urn:rprimus:github:mickey-spongebob:platynereis-genome-annotation</id>
+  <published>2020-06-09T08:56:49Z</published>
+  <updated>2020-06-09T08:56:49Z</updated>
+  <content type="html">
+   Detailing the annotation of the Platynereis genome.
+  </content>
+ </entry>
+ <entry>
+  <title>sigagglocompiegne: avap</title>
+  <author>
+   <name>sigagglocompiegne</name>
+  </author>
+  <link href="https://github.com/sigagglocompiegne/avap" />
+  <id>urn:rprimus:github:sigagglocompiegne:avap</id>
+  <published>2020-06-09T08:33:00Z</published>
+  <updated>2020-06-09T08:33:00Z</updated>
+  <content type="html">
+   RÃ¨glement graphique de l&#039;AVAP/SPR
+  </content>
+ </entry>
+ <entry>
+  <title>TheRevGt: Simulaicon_proyecto_final</title>
+  <author>
+   <name>TheRevGt</name>
+  </author>
+  <link href="https://github.com/TheRevGt/Simulaicon_proyecto_final" />
+  <id>urn:rprimus:github:TheRevGt:Simulaicon_proyecto_final</id>
+  <published>2020-06-09T04:57:53Z</published>
+  <updated>2020-06-09T04:57:53Z</updated>
+  <content type="html">
+   Proyecto final de curso de modelaciÃ³n y simulaciÃ³n.
+  </content>
+ </entry>
  <entry>
   <title>shikharsubedi: cs61-a</title>
   <author>
@@ -135,42 +200,16 @@
   </content>
  </entry>
  <entry>
-  <title>ar-nelson: scheme-threading-macros</title>
+  <title>ar-nelson: srfi-197</title>
   <author>
    <name>ar-nelson</name>
   </author>
-  <link href="https://github.com/ar-nelson/scheme-threading-macros" />
-  <id>urn:rprimus:github:ar-nelson:scheme-threading-macros</id>
+  <link href="https://github.com/ar-nelson/srfi-197" />
+  <id>urn:rprimus:github:ar-nelson:srfi-197</id>
   <published>2020-06-08T03:57:26Z</published>
   <updated>2020-06-08T03:57:26Z</updated>
   <content type="html">
-   Scheme port of Clojure&#039;s threading macros
-  </content>
- </entry>
- <entry>
-  <title>nonestack: sicp_exerices_answer</title>
-  <author>
-   <name>nonestack</name>
-  </author>
-  <link href="https://github.com/nonestack/sicp_exerices_answer" />
-  <id>urn:rprimus:github:nonestack:sicp_exerices_answer</id>
-  <published>2020-06-07T15:33:01Z</published>
-  <updated>2020-06-07T15:33:01Z</updated>
-  <content type="html">
-   my answer of exerices of sicp
-  </content>
- </entry>
- <entry>
-  <title>pacoon: guix</title>
-  <author>
-   <name>pacoon</name>
-  </author>
-  <link href="https://github.com/pacoon/guix" />
-  <id>urn:rprimus:github:pacoon:guix</id>
-  <published>2020-06-07T14:40:30Z</published>
-  <updated>2020-06-07T14:40:30Z</updated>
-  <content type="html">
-   
+   Sample implementation of SRFI 197, a port of Clojure threading macros
   </content>
  </entry>
 </feed>
