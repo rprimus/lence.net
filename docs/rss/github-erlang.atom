@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-erlang.atom"/>
 <id>urn:rprimus:github:newerlangrepos</id>
-<updated>2020-06-09T23:08:49Z</updated>
+<updated>2020-06-11T06:38:24Z</updated>
 <title type='text'>New GitHub Erlang Repos</title>
+ <entry>
+  <title>lygyzs: emqx_plugin_kafka</title>
+  <author>
+   <name>lygyzs</name>
+  </author>
+  <link href="https://github.com/lygyzs/emqx_plugin_kafka" />
+  <id>urn:rprimus:github:lygyzs:emqx_plugin_kafka</id>
+  <published>2020-06-11T06:38:24Z</published>
+  <updated>2020-06-11T06:38:24Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>ilovemysillybanana: hclparser</title>
+  <author>
+   <name>ilovemysillybanana</name>
+  </author>
+  <link href="https://github.com/ilovemysillybanana/hclparser" />
+  <id>urn:rprimus:github:ilovemysillybanana:hclparser</id>
+  <published>2020-06-11T00:35:27Z</published>
+  <updated>2020-06-11T00:35:27Z</updated>
+  <content type="html">
+   A parser for HCL(HashiCorp Configuration Language) written in Erlang/Elixir. 
+  </content>
+ </entry>
+ <entry>
+  <title>erszcz: tapl-erlang</title>
+  <author>
+   <name>erszcz</name>
+  </author>
+  <link href="https://github.com/erszcz/tapl-erlang" />
+  <id>urn:rprimus:github:erszcz:tapl-erlang</id>
+  <published>2020-06-10T23:11:18Z</published>
+  <updated>2020-06-10T23:11:18Z</updated>
+  <content type="html">
+   TaPL in Erlang
+  </content>
+ </entry>
+ <entry>
+  <title>tonyrog: makeup</title>
+  <author>
+   <name>tonyrog</name>
+  </author>
+  <link href="https://github.com/tonyrog/makeup" />
+  <id>urn:rprimus:github:tonyrog:makeup</id>
+  <published>2020-06-10T16:45:58Z</published>
+  <updated>2020-06-10T16:45:58Z</updated>
+  <content type="html">
+   markup processing - resurrected
+  </content>
+ </entry>
+ <entry>
+  <title>suexcxine: erc</title>
+  <author>
+   <name>suexcxine</name>
+  </author>
+  <link href="https://github.com/suexcxine/erc" />
+  <id>urn:rprimus:github:suexcxine:erc</id>
+  <published>2020-06-10T11:24:53Z</published>
+  <updated>2020-06-10T11:24:53Z</updated>
+  <content type="html">
+   Erlang Redis Cluster Library
+  </content>
+ </entry>
  <entry>
   <title>Rob-Black-III: ERLANG-Bank-Account-Program</title>
   <author>
@@ -57,16 +122,16 @@
   </content>
  </entry>
  <entry>
-  <title>feapoi: lager_explanation</title>
+  <title>feapoi: part1code</title>
   <author>
    <name>feapoi</name>
   </author>
-  <link href="https://github.com/feapoi/lager_explanation" />
-  <id>urn:rprimus:github:feapoi:lager_explanation</id>
+  <link href="https://github.com/feapoi/part1code" />
+  <id>urn:rprimus:github:feapoi:part1code</id>
   <published>2020-06-09T03:35:08Z</published>
   <updated>2020-06-09T03:35:08Z</updated>
   <content type="html">
-   lager_explanation
+   build Erlang game server part1 code
   </content>
  </entry>
  <entry>
@@ -80,110 +145,6 @@
   <updated>2020-06-09T00:35:33Z</updated>
   <content type="html">
    Test repo for dockerization of simple websocket chat
-  </content>
- </entry>
- <entry>
-  <title>krzwid: cowboy-erlang</title>
-  <author>
-   <name>krzwid</name>
-  </author>
-  <link href="https://github.com/krzwid/cowboy-erlang" />
-  <id>urn:rprimus:github:krzwid:cowboy-erlang</id>
-  <published>2020-06-08T22:35:07Z</published>
-  <updated>2020-06-08T22:35:07Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>deemytch: erlang-week3</title>
-  <author>
-   <name>deemytch</name>
-  </author>
-  <link href="https://github.com/deemytch/erlang-week3" />
-  <id>urn:rprimus:github:deemytch:erlang-week3</id>
-  <published>2020-06-08T22:14:19Z</published>
-  <updated>2020-06-08T22:14:19Z</updated>
-  <content type="html">
-   educational
-  </content>
- </entry>
- <entry>
-  <title>midas-framework: crypto</title>
-  <author>
-   <name>midas-framework</name>
-  </author>
-  <link href="https://github.com/midas-framework/crypto" />
-  <id>urn:rprimus:github:midas-framework:crypto</id>
-  <published>2020-06-08T19:40:46Z</published>
-  <updated>2020-06-08T19:40:46Z</updated>
-  <content type="html">
-   Crypto functionality for Gleam applications
-  </content>
- </entry>
- <entry>
-  <title>bjosv: fakeredis_cluster</title>
-  <author>
-   <name>bjosv</name>
-  </author>
-  <link href="https://github.com/bjosv/fakeredis_cluster" />
-  <id>urn:rprimus:github:bjosv:fakeredis_cluster</id>
-  <published>2020-06-08T14:40:22Z</published>
-  <updated>2020-06-08T14:40:22Z</updated>
-  <content type="html">
-   A fake Redis Cluster for testing purpose
-  </content>
- </entry>
- <entry>
-  <title>sgt390: Mandelbrot</title>
-  <author>
-   <name>sgt390</name>
-  </author>
-  <link href="https://github.com/sgt390/Mandelbrot" />
-  <id>urn:rprimus:github:sgt390:Mandelbrot</id>
-  <published>2020-06-08T14:38:54Z</published>
-  <updated>2020-06-08T14:38:54Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>davidjulien: banks_fetch</title>
-  <author>
-   <name>davidjulien</name>
-  </author>
-  <link href="https://github.com/davidjulien/banks_fetch" />
-  <id>urn:rprimus:github:davidjulien:banks_fetch</id>
-  <published>2020-06-08T10:03:05Z</published>
-  <updated>2020-06-08T10:03:05Z</updated>
-  <content type="html">
-   banks_fetch is an erlang application to fetch banks accounts and transactions
-  </content>
- </entry>
- <entry>
-  <title>stsh89: etorrent</title>
-  <author>
-   <name>stsh89</name>
-  </author>
-  <link href="https://github.com/stsh89/etorrent" />
-  <id>urn:rprimus:github:stsh89:etorrent</id>
-  <published>2020-06-08T09:00:01Z</published>
-  <updated>2020-06-08T09:00:01Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>syoung: flow-ext-exchange</title>
-  <author>
-   <name>syoung</name>
-  </author>
-  <link href="https://github.com/syoung/flow-ext-exchange" />
-  <id>urn:rprimus:github:syoung:flow-ext-exchange</id>
-  <published>2020-06-08T07:58:20Z</published>
-  <updated>2020-06-08T07:58:20Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
