@@ -2,8 +2,125 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2020-06-09T21:59:56Z</updated>
+<updated>2020-06-11T07:11:20Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>kig: generic_regex</title>
+  <author>
+   <name>kig</name>
+  </author>
+  <link href="https://github.com/kig/generic_regex" />
+  <id>urn:rprimus:github:kig:generic_regex</id>
+  <published>2020-06-11T07:11:20Z</published>
+  <updated>2020-06-11T07:11:20Z</updated>
+  <content type="html">
+   OCaml library for generic regular expressions (operating on anything that folds)
+  </content>
+ </entry>
+ <entry>
+  <title>thanvietcuong: Compiler</title>
+  <author>
+   <name>thanvietcuong</name>
+  </author>
+  <link href="https://github.com/thanvietcuong/Compiler" />
+  <id>urn:rprimus:github:thanvietcuong:Compiler</id>
+  <published>2020-06-10T22:38:04Z</published>
+  <updated>2020-06-10T22:38:04Z</updated>
+  <content type="html">
+   Cool Compiler
+  </content>
+ </entry>
+ <entry>
+  <title>eohannes: orient</title>
+  <author>
+   <name>eohannes</name>
+  </author>
+  <link href="https://github.com/eohannes/orient" />
+  <id>urn:rprimus:github:eohannes:orient</id>
+  <published>2020-06-10T21:57:38Z</published>
+  <updated>2020-06-10T21:57:38Z</updated>
+  <content type="html">
+   A really, really simple lambda calculus interpreter.
+  </content>
+ </entry>
+ <entry>
+  <title>Ram-is-me: PrologInterpreter</title>
+  <author>
+   <name>Ram-is-me</name>
+  </author>
+  <link href="https://github.com/Ram-is-me/PrologInterpreter" />
+  <id>urn:rprimus:github:Ram-is-me:PrologInterpreter</id>
+  <published>2020-06-10T16:01:33Z</published>
+  <updated>2020-06-10T16:01:33Z</updated>
+  <content type="html">
+   Built a basic Prolog (Logic Programming) Interpreter using Ocaml (Objective-Caml) which is a functional programming language.
+  </content>
+ </entry>
+ <entry>
+  <title>CraigFe: irmin-tree-serialisation</title>
+  <author>
+   <name>CraigFe</name>
+  </author>
+  <link href="https://github.com/CraigFe/irmin-tree-serialisation" />
+  <id>urn:rprimus:github:CraigFe:irmin-tree-serialisation</id>
+  <published>2020-06-10T15:27:56Z</published>
+  <updated>2020-06-10T15:27:56Z</updated>
+  <content type="html">
+   Debugging memory usage in an Irmin tree dump.
+  </content>
+ </entry>
+ <entry>
+  <title>faithtwardzik: UCLA-CS-131</title>
+  <author>
+   <name>faithtwardzik</name>
+  </author>
+  <link href="https://github.com/faithtwardzik/UCLA-CS-131" />
+  <id>urn:rprimus:github:faithtwardzik:UCLA-CS-131</id>
+  <published>2020-06-10T14:00:37Z</published>
+  <updated>2020-06-10T14:00:37Z</updated>
+  <content type="html">
+   This repository contains my homework and project solutions for the UCLA Computer Science course: CS131, Programming Languages, taught by Professor Eggert in Spring 2020.
+  </content>
+ </entry>
+ <entry>
+  <title>ocurrent: opam-repo-ci</title>
+  <author>
+   <name>ocurrent</name>
+  </author>
+  <link href="https://github.com/ocurrent/opam-repo-ci" />
+  <id>urn:rprimus:github:ocurrent:opam-repo-ci</id>
+  <published>2020-06-10T10:43:22Z</published>
+  <updated>2020-06-10T10:43:22Z</updated>
+  <content type="html">
+   An OCurrent pipeline for testing submissions to opam-repository
+  </content>
+ </entry>
+ <entry>
+  <title>gautierprsn: Projet-Programmation-Fonctionnelle</title>
+  <author>
+   <name>gautierprsn</name>
+  </author>
+  <link href="https://github.com/gautierprsn/Projet-Programmation-Fonctionnelle" />
+  <id>urn:rprimus:github:gautierprsn:Projet-Programmation-Fonctionnelle</id>
+  <published>2020-06-10T10:14:14Z</published>
+  <updated>2020-06-10T10:14:14Z</updated>
+  <content type="html">
+   Projet de premiÃ¨re annÃ©e Ã  rÃ©aliser en OCaml
+  </content>
+ </entry>
+ <entry>
+  <title>longlongh4: demo_parser_combinator</title>
+  <author>
+   <name>longlongh4</name>
+  </author>
+  <link href="https://github.com/longlongh4/demo_parser_combinator" />
+  <id>urn:rprimus:github:longlongh4:demo_parser_combinator</id>
+  <published>2020-06-10T06:04:37Z</published>
+  <updated>2020-06-10T06:04:37Z</updated>
+  <content type="html">
+   A demo for how to use the parser combinator, don&#039;t use it in prod.
+  </content>
+ </entry>
  <entry>
   <title>roddyyaga: txtshooter</title>
   <author>
@@ -156,110 +273,6 @@
   <id>urn:rprimus:github:Shiyuan-Huang-23:phylo-lib-web</id>
   <published>2020-06-09T02:12:36Z</published>
   <updated>2020-06-09T02:12:36Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>iitalics: diagonal</title>
-  <author>
-   <name>iitalics</name>
-  </author>
-  <link href="https://github.com/iitalics/diagonal" />
-  <id>urn:rprimus:github:iitalics:diagonal</id>
-  <published>2020-06-08T22:09:06Z</published>
-  <updated>2020-06-08T22:09:06Z</updated>
-  <content type="html">
-   a game i&#039;m working on
-  </content>
- </entry>
- <entry>
-  <title>cedlemo: OCaml-getos</title>
-  <author>
-   <name>cedlemo</name>
-  </author>
-  <link href="https://github.com/cedlemo/OCaml-getos" />
-  <id>urn:rprimus:github:cedlemo:OCaml-getos</id>
-  <published>2020-06-08T17:21:41Z</published>
-  <updated>2020-06-08T17:21:41Z</updated>
-  <content type="html">
-   Like getos javascript library but written in OCaml
-  </content>
- </entry>
- <entry>
-  <title>roburio: dns-letsencrypt-secondary</title>
-  <author>
-   <name>roburio</name>
-  </author>
-  <link href="https://github.com/roburio/dns-letsencrypt-secondary" />
-  <id>urn:rprimus:github:roburio:dns-letsencrypt-secondary</id>
-  <published>2020-06-08T12:28:23Z</published>
-  <updated>2020-06-08T12:28:23Z</updated>
-  <content type="html">
-   A MirageOS unikernel acting as secondary DNS server, provisioning certificate signing requests to valid certificates using let&#039;s encrypt
-  </content>
- </entry>
- <entry>
-  <title>roburio: dns-secondary</title>
-  <author>
-   <name>roburio</name>
-  </author>
-  <link href="https://github.com/roburio/dns-secondary" />
-  <id>urn:rprimus:github:roburio:dns-secondary</id>
-  <published>2020-06-08T12:27:09Z</published>
-  <updated>2020-06-08T12:27:09Z</updated>
-  <content type="html">
-   A MirageOS unikernel acting as a secondary DNS server
-  </content>
- </entry>
- <entry>
-  <title>roburio: dns-primary-git</title>
-  <author>
-   <name>roburio</name>
-  </author>
-  <link href="https://github.com/roburio/dns-primary-git" />
-  <id>urn:rprimus:github:roburio:dns-primary-git</id>
-  <published>2020-06-08T12:26:21Z</published>
-  <updated>2020-06-08T12:26:21Z</updated>
-  <content type="html">
-   A MirageOS unikernel acting as primary DNS server, data stored in a remote git repository
-  </content>
- </entry>
- <entry>
-  <title>roburio: tlstunnel</title>
-  <author>
-   <name>roburio</name>
-  </author>
-  <link href="https://github.com/roburio/tlstunnel" />
-  <id>urn:rprimus:github:roburio:tlstunnel</id>
-  <published>2020-06-08T10:29:47Z</published>
-  <updated>2020-06-08T10:29:47Z</updated>
-  <content type="html">
-   A TLS reverse proxy unikernel
-  </content>
- </entry>
- <entry>
-  <title>gs0510: purely-functional-ds</title>
-  <author>
-   <name>gs0510</name>
-  </author>
-  <link href="https://github.com/gs0510/purely-functional-ds" />
-  <id>urn:rprimus:github:gs0510:purely-functional-ds</id>
-  <published>2020-06-08T08:00:15Z</published>
-  <updated>2020-06-08T08:00:15Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>YaoyaoM: Nano-Like-Editor</title>
-  <author>
-   <name>YaoyaoM</name>
-  </author>
-  <link href="https://github.com/YaoyaoM/Nano-Like-Editor" />
-  <id>urn:rprimus:github:YaoyaoM:Nano-Like-Editor</id>
-  <published>2020-06-08T07:14:57Z</published>
-  <updated>2020-06-08T07:14:57Z</updated>
   <content type="html">
    
   </content>
