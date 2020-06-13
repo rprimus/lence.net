@@ -2,17 +2,82 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-erlang.atom"/>
 <id>urn:rprimus:github:newerlangrepos</id>
-<updated>2020-06-12T06:52:26Z</updated>
+<updated>2020-06-13T02:50:00Z</updated>
 <title type='text'>New GitHub Erlang Repos</title>
  <entry>
-  <title>lovaandrian: erlntp</title>
+  <title>lygyzs: emqx_plugin_kafka</title>
   <author>
-   <name>lovaandrian</name>
+   <name>lygyzs</name>
   </author>
-  <link href="https://github.com/lovaandrian/erlntp" />
-  <id>urn:rprimus:github:lovaandrian:erlntp</id>
-  <published>2020-06-12T06:52:26Z</published>
-  <updated>2020-06-12T06:52:26Z</updated>
+  <link href="https://github.com/lygyzs/emqx_plugin_kafka" />
+  <id>urn:rprimus:github:lygyzs:emqx_plugin_kafka</id>
+  <published>2020-06-13T02:50:00Z</published>
+  <updated>2020-06-13T02:50:00Z</updated>
+  <content type="html">
+   emqx 4.1
+  </content>
+ </entry>
+ <entry>
+  <title>midas-framework: magpie</title>
+  <author>
+   <name>midas-framework</name>
+  </author>
+  <link href="https://github.com/midas-framework/magpie" />
+  <id>urn:rprimus:github:midas-framework:magpie</id>
+  <published>2020-06-12T14:39:24Z</published>
+  <updated>2020-06-12T14:39:24Z</updated>
+  <content type="html">
+   An HTTP Client for Gleam. 
+  </content>
+ </entry>
+ <entry>
+  <title>alexclooze: eight-billion-threads</title>
+  <author>
+   <name>alexclooze</name>
+  </author>
+  <link href="https://github.com/alexclooze/eight-billion-threads" />
+  <id>urn:rprimus:github:alexclooze:eight-billion-threads</id>
+  <published>2020-06-12T10:10:12Z</published>
+  <updated>2020-06-12T10:10:12Z</updated>
+  <content type="html">
+   Run 8 billion threads/processes. Green, fork, whatever. This is a PoC for a another project.
+  </content>
+ </entry>
+ <entry>
+  <title>theorix: erlmc</title>
+  <author>
+   <name>theorix</name>
+  </author>
+  <link href="https://github.com/theorix/erlmc" />
+  <id>urn:rprimus:github:theorix:erlmc</id>
+  <published>2020-06-12T09:53:12Z</published>
+  <updated>2020-06-12T09:53:12Z</updated>
+  <content type="html">
+   Erlang binary protocol memcached client
+  </content>
+ </entry>
+ <entry>
+  <title>DimaClaudiu: ES_practice</title>
+  <author>
+   <name>DimaClaudiu</name>
+  </author>
+  <link href="https://github.com/DimaClaudiu/ES_practice" />
+  <id>urn:rprimus:github:DimaClaudiu:ES_practice</id>
+  <published>2020-06-12T09:43:54Z</published>
+  <updated>2020-06-12T09:43:54Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>niamtokik: xmpp_client</title>
+  <author>
+   <name>niamtokik</name>
+  </author>
+  <link href="https://github.com/niamtokik/xmpp_client" />
+  <id>urn:rprimus:github:niamtokik:xmpp_client</id>
+  <published>2020-06-12T09:08:33Z</published>
+  <updated>2020-06-12T09:08:33Z</updated>
   <content type="html">
    
   </content>
@@ -41,45 +106,6 @@
   <updated>2020-06-12T03:25:01Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>lovaandrian: erlang-msc</title>
-  <author>
-   <name>lovaandrian</name>
-  </author>
-  <link href="https://github.com/lovaandrian/erlang-msc" />
-  <id>urn:rprimus:github:lovaandrian:erlang-msc</id>
-  <published>2020-06-11T21:31:28Z</published>
-  <updated>2020-06-11T21:31:28Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>lovaandrian: ergw</title>
-  <author>
-   <name>lovaandrian</name>
-  </author>
-  <link href="https://github.com/lovaandrian/ergw" />
-  <id>urn:rprimus:github:lovaandrian:ergw</id>
-  <published>2020-06-11T20:16:44Z</published>
-  <updated>2020-06-11T20:16:44Z</updated>
-  <content type="html">
-   Original source
-  </content>
- </entry>
- <entry>
-  <title>lovaandrian: pkt</title>
-  <author>
-   <name>lovaandrian</name>
-  </author>
-  <link href="https://github.com/lovaandrian/pkt" />
-  <id>urn:rprimus:github:lovaandrian:pkt</id>
-  <published>2020-06-11T19:51:41Z</published>
-  <updated>2020-06-11T19:51:41Z</updated>
-  <content type="html">
-   Original Source
   </content>
  </entry>
  <entry>
@@ -122,19 +148,6 @@
   </content>
  </entry>
  <entry>
-  <title>lygyzs: emqx_plugin_kafka</title>
-  <author>
-   <name>lygyzs</name>
-  </author>
-  <link href="https://github.com/lygyzs/emqx_plugin_kafka" />
-  <id>urn:rprimus:github:lygyzs:emqx_plugin_kafka</id>
-  <published>2020-06-11T06:38:24Z</published>
-  <updated>2020-06-11T06:38:24Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
   <title>ilovemysillybanana: hclparser</title>
   <author>
    <name>ilovemysillybanana</name>
@@ -145,45 +158,6 @@
   <updated>2020-06-11T00:35:27Z</updated>
   <content type="html">
    A parser for HCL(HashiCorp Configuration Language) written in Erlang/Elixir. 
-  </content>
- </entry>
- <entry>
-  <title>erszcz: tapl-erlang</title>
-  <author>
-   <name>erszcz</name>
-  </author>
-  <link href="https://github.com/erszcz/tapl-erlang" />
-  <id>urn:rprimus:github:erszcz:tapl-erlang</id>
-  <published>2020-06-10T23:11:18Z</published>
-  <updated>2020-06-10T23:11:18Z</updated>
-  <content type="html">
-   TaPL in Erlang
-  </content>
- </entry>
- <entry>
-  <title>tonyrog: makeup</title>
-  <author>
-   <name>tonyrog</name>
-  </author>
-  <link href="https://github.com/tonyrog/makeup" />
-  <id>urn:rprimus:github:tonyrog:makeup</id>
-  <published>2020-06-10T16:45:58Z</published>
-  <updated>2020-06-10T16:45:58Z</updated>
-  <content type="html">
-   markup processing - resurrected
-  </content>
- </entry>
- <entry>
-  <title>suexcxine: erc</title>
-  <author>
-   <name>suexcxine</name>
-  </author>
-  <link href="https://github.com/suexcxine/erc" />
-  <id>urn:rprimus:github:suexcxine:erc</id>
-  <published>2020-06-10T11:24:53Z</published>
-  <updated>2020-06-10T11:24:53Z</updated>
-  <content type="html">
-   Erlang Redis Cluster Library
   </content>
  </entry>
 </feed>
