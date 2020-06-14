@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2020-06-13T02:14:16Z</updated>
+<updated>2020-06-13T21:01:43Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>epsilon-phase: img-genner</title>
+  <author>
+   <name>epsilon-phase</name>
+  </author>
+  <link href="https://github.com/epsilon-phase/img-genner" />
+  <id>urn:rprimus:github:epsilon-phase:img-genner</id>
+  <published>2020-06-13T21:01:43Z</published>
+  <updated>2020-06-13T21:01:43Z</updated>
+  <content type="html">
+   common lisp image manipulation/renderer nonsense.
+  </content>
+ </entry>
+ <entry>
+  <title>K1D77A: trivial-password-store</title>
+  <author>
+   <name>K1D77A</name>
+  </author>
+  <link href="https://github.com/K1D77A/trivial-password-store" />
+  <id>urn:rprimus:github:K1D77A:trivial-password-store</id>
+  <published>2020-06-13T19:00:32Z</published>
+  <updated>2020-06-13T19:00:32Z</updated>
+  <content type="html">
+   This is just a trivial password storing facility that stores passwords using threefish1024 with a 128byte IV into a text file which is also encrypted with another pass. This was just a challenge from the WebDev2.0 Discord server.
+  </content>
+ </entry>
+ <entry>
+  <title>cmatzenbach: conway-ff</title>
+  <author>
+   <name>cmatzenbach</name>
+  </author>
+  <link href="https://github.com/cmatzenbach/conway-ff" />
+  <id>urn:rprimus:github:cmatzenbach:conway-ff</id>
+  <published>2020-06-13T09:46:59Z</published>
+  <updated>2020-06-13T09:46:59Z</updated>
+  <content type="html">
+   Fantasy Football Concept for BA/QA Class
+  </content>
+ </entry>
+ <entry>
+  <title>jorgep31415: CS-161</title>
+  <author>
+   <name>jorgep31415</name>
+  </author>
+  <link href="https://github.com/jorgep31415/CS-161" />
+  <id>urn:rprimus:github:jorgep31415:CS-161</id>
+  <published>2020-06-13T08:16:48Z</published>
+  <updated>2020-06-13T08:16:48Z</updated>
+  <content type="html">
+   My solutions for all assignments of UCLA course Computer Science 161 taken in Spring 2020 with Prof. Darwiche.
+  </content>
+ </entry>
  <entry>
   <title>auvigoo20: COMP-348</title>
   <author>
@@ -106,58 +158,6 @@
   <updated>2020-06-12T10:14:02Z</updated>
   <content type="html">
    Video downloader for Nyxt
-  </content>
- </entry>
- <entry>
-  <title>monroth: infix-mode</title>
-  <author>
-   <name>monroth</name>
-  </author>
-  <link href="https://github.com/monroth/infix-mode" />
-  <id>urn:rprimus:github:monroth:infix-mode</id>
-  <published>2020-06-11T21:07:45Z</published>
-  <updated>2020-06-11T21:07:45Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Joh11: opengl-utils</title>
-  <author>
-   <name>Joh11</name>
-  </author>
-  <link href="https://github.com/Joh11/opengl-utils" />
-  <id>urn:rprimus:github:Joh11:opengl-utils</id>
-  <published>2020-06-11T20:48:25Z</published>
-  <updated>2020-06-11T20:48:25Z</updated>
-  <content type="html">
-   Collection of helpers and utilities for using CL-OPENGL and CL-SDL2. 
-  </content>
- </entry>
- <entry>
-  <title>Shinmera: zippy</title>
-  <author>
-   <name>Shinmera</name>
-  </author>
-  <link href="https://github.com/Shinmera/zippy" />
-  <id>urn:rprimus:github:Shinmera:zippy</id>
-  <published>2020-06-11T13:59:35Z</published>
-  <updated>2020-06-11T13:59:35Z</updated>
-  <content type="html">
-   A ZIP archive format library based on 3bz
-  </content>
- </entry>
- <entry>
-  <title>commander-trashdin: double-linked-list</title>
-  <author>
-   <name>commander-trashdin</name>
-  </author>
-  <link href="https://github.com/commander-trashdin/double-linked-list" />
-  <id>urn:rprimus:github:commander-trashdin:double-linked-list</id>
-  <published>2020-06-11T10:57:48Z</published>
-  <updated>2020-06-11T10:57:48Z</updated>
-  <content type="html">
-   A decent double-linked list implementation
   </content>
  </entry>
 </feed>
