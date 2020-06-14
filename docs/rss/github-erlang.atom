@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-erlang.atom"/>
 <id>urn:rprimus:github:newerlangrepos</id>
-<updated>2020-06-13T02:50:00Z</updated>
+<updated>2020-06-13T23:08:29Z</updated>
 <title type='text'>New GitHub Erlang Repos</title>
+ <entry>
+  <title>brzozia: rebar_pollution_with_mnesia</title>
+  <author>
+   <name>brzozia</name>
+  </author>
+  <link href="https://github.com/brzozia/rebar_pollution_with_mnesia" />
+  <id>urn:rprimus:github:brzozia:rebar_pollution_with_mnesia</id>
+  <published>2020-06-13T23:08:29Z</published>
+  <updated>2020-06-13T23:08:29Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>lygyzs: emqx_plugin_kafka</title>
   <author>
@@ -109,55 +122,29 @@
   </content>
  </entry>
  <entry>
-  <title>lpil: ecoji</title>
+  <title>vasu-dasari: erlang-ovsdb</title>
   <author>
-   <name>lpil</name>
+   <name>vasu-dasari</name>
   </author>
-  <link href="https://github.com/lpil/ecoji" />
-  <id>urn:rprimus:github:lpil:ecoji</id>
-  <published>2020-06-11T17:43:56Z</published>
-  <updated>2020-06-11T17:43:56Z</updated>
+  <link href="https://github.com/vasu-dasari/erlang-ovsdb" />
+  <id>urn:rprimus:github:vasu-dasari:erlang-ovsdb</id>
+  <published>2020-06-12T02:27:40Z</published>
+  <updated>2020-06-12T02:27:40Z</updated>
   <content type="html">
-   
+   An OVSDB Library written in Erlang
   </content>
  </entry>
  <entry>
-  <title>manuelgeek: learning-elarng</title>
+  <title>aenglisc: hkdf_erlang</title>
   <author>
-   <name>manuelgeek</name>
+   <name>aenglisc</name>
   </author>
-  <link href="https://github.com/manuelgeek/learning-elarng" />
-  <id>urn:rprimus:github:manuelgeek:learning-elarng</id>
-  <published>2020-06-11T11:12:14Z</published>
-  <updated>2020-06-11T11:12:14Z</updated>
+  <link href="https://github.com/aenglisc/hkdf_erlang" />
+  <id>urn:rprimus:github:aenglisc:hkdf_erlang</id>
+  <published>2020-06-12T00:22:07Z</published>
+  <updated>2020-06-12T00:22:07Z</updated>
   <content type="html">
-   Trying to learn more about Elarng as part of my Elixir journey
-  </content>
- </entry>
- <entry>
-  <title>artofgoodenough: bouncyballsErlang</title>
-  <author>
-   <name>artofgoodenough</name>
-  </author>
-  <link href="https://github.com/artofgoodenough/bouncyballsErlang" />
-  <id>urn:rprimus:github:artofgoodenough:bouncyballsErlang</id>
-  <published>2020-06-11T07:48:12Z</published>
-  <updated>2020-06-11T07:48:12Z</updated>
-  <content type="html">
-   Simple Bouncy Ball Demo using an Erlang Balls Position Server and a C++ SDL2 GUI client.
-  </content>
- </entry>
- <entry>
-  <title>ilovemysillybanana: hclparser</title>
-  <author>
-   <name>ilovemysillybanana</name>
-  </author>
-  <link href="https://github.com/ilovemysillybanana/hclparser" />
-  <id>urn:rprimus:github:ilovemysillybanana:hclparser</id>
-  <published>2020-06-11T00:35:27Z</published>
-  <updated>2020-06-11T00:35:27Z</updated>
-  <content type="html">
-   A parser for HCL(HashiCorp Configuration Language) written in Erlang/Elixir. 
+   An implementation of HKDF in Erlang.
   </content>
  </entry>
 </feed>
