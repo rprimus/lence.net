@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2020-06-13T21:01:43Z</updated>
+<updated>2020-06-15T03:45:50Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>madosuki: bit-utility</title>
+  <author>
+   <name>madosuki</name>
+  </author>
+  <link href="https://github.com/madosuki/bit-utility" />
+  <id>urn:rprimus:github:madosuki:bit-utility</id>
+  <published>2020-06-15T03:45:50Z</published>
+  <updated>2020-06-15T03:45:50Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>zipperer: example-lisp-project-with-ci-cd</title>
+  <author>
+   <name>zipperer</name>
+  </author>
+  <link href="https://github.com/zipperer/example-lisp-project-with-ci-cd" />
+  <id>urn:rprimus:github:zipperer:example-lisp-project-with-ci-cd</id>
+  <published>2020-06-14T23:49:51Z</published>
+  <updated>2020-06-14T23:49:51Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>40ants: teddy</title>
+  <author>
+   <name>40ants</name>
+  </author>
+  <link href="https://github.com/40ants/teddy" />
+  <id>urn:rprimus:github:40ants:teddy</id>
+  <published>2020-06-14T19:31:49Z</published>
+  <updated>2020-06-14T19:31:49Z</updated>
+  <content type="html">
+   A data framework for Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>momozor: cl-abcl-hashids</title>
+  <author>
+   <name>momozor</name>
+  </author>
+  <link href="https://github.com/momozor/cl-abcl-hashids" />
+  <id>urn:rprimus:github:momozor:cl-abcl-hashids</id>
+  <published>2020-06-14T17:08:54Z</published>
+  <updated>2020-06-14T17:08:54Z</updated>
+  <content type="html">
+   A thin binding of hashids-java library to be used on ABCL Common Lisp implementation.
+  </content>
+ </entry>
+ <entry>
+  <title>muyinliu: cl-atomic</title>
+  <author>
+   <name>muyinliu</name>
+  </author>
+  <link href="https://github.com/muyinliu/cl-atomic" />
+  <id>urn:rprimus:github:muyinliu:cl-atomic</id>
+  <published>2020-06-14T07:57:26Z</published>
+  <updated>2020-06-14T07:57:26Z</updated>
+  <content type="html">
+   A portable atomic library for Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>jl2: shader-book</title>
+  <author>
+   <name>jl2</name>
+  </author>
+  <link href="https://github.com/jl2/shader-book" />
+  <id>urn:rprimus:github:jl2:shader-book</id>
+  <published>2020-06-14T07:24:45Z</published>
+  <updated>2020-06-14T07:24:45Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>epsilon-phase: img-genner</title>
   <author>
@@ -67,97 +145,6 @@
   <updated>2020-06-13T02:14:16Z</updated>
   <content type="html">
    Principles of Programming Languages
-  </content>
- </entry>
- <entry>
-  <title>avoronkov: spil-demos</title>
-  <author>
-   <name>avoronkov</name>
-  </author>
-  <link href="https://github.com/avoronkov/spil-demos" />
-  <id>urn:rprimus:github:avoronkov:spil-demos</id>
-  <published>2020-06-12T18:18:47Z</published>
-  <updated>2020-06-12T18:18:47Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>bjornmossa: actions-test</title>
-  <author>
-   <name>bjornmossa</name>
-  </author>
-  <link href="https://github.com/bjornmossa/actions-test" />
-  <id>urn:rprimus:github:bjornmossa:actions-test</id>
-  <published>2020-06-12T17:58:29Z</published>
-  <updated>2020-06-12T17:58:29Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>nicklevine: cl-log</title>
-  <author>
-   <name>nicklevine</name>
-  </author>
-  <link href="https://github.com/nicklevine/cl-log" />
-  <id>urn:rprimus:github:nicklevine:cl-log</id>
-  <published>2020-06-12T16:42:12Z</published>
-  <updated>2020-06-12T16:42:12Z</updated>
-  <content type="html">
-   Common Lisp general purpose logging utility
-  </content>
- </entry>
- <entry>
-  <title>ShixiangWang: LispNote</title>
-  <author>
-   <name>ShixiangWang</name>
-  </author>
-  <link href="https://github.com/ShixiangWang/LispNote" />
-  <id>urn:rprimus:github:ShixiangWang:LispNote</id>
-  <published>2020-06-12T16:06:39Z</published>
-  <updated>2020-06-12T16:06:39Z</updated>
-  <content type="html">
-   Lisp note to understand the computation.
-  </content>
- </entry>
- <entry>
-  <title>simkoc: cl-log-threaded</title>
-  <author>
-   <name>simkoc</name>
-  </author>
-  <link href="https://github.com/simkoc/cl-log-threaded" />
-  <id>urn:rprimus:github:simkoc:cl-log-threaded</id>
-  <published>2020-06-12T14:36:48Z</published>
-  <updated>2020-06-12T14:36:48Z</updated>
-  <content type="html">
-   A copy of cl-log by Nick Levine adjusted to be threadsafe in sbcl
-  </content>
- </entry>
- <entry>
-  <title>gabriel-barrett: Formality-CL</title>
-  <author>
-   <name>gabriel-barrett</name>
-  </author>
-  <link href="https://github.com/gabriel-barrett/Formality-CL" />
-  <id>urn:rprimus:github:gabriel-barrett:Formality-CL</id>
-  <published>2020-06-12T14:06:14Z</published>
-  <updated>2020-06-12T14:06:14Z</updated>
-  <content type="html">
-   Formality language implementation in Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>atlas-engineer: nx-video</title>
-  <author>
-   <name>atlas-engineer</name>
-  </author>
-  <link href="https://github.com/atlas-engineer/nx-video" />
-  <id>urn:rprimus:github:atlas-engineer:nx-video</id>
-  <published>2020-06-12T10:14:02Z</published>
-  <updated>2020-06-12T10:14:02Z</updated>
-  <content type="html">
-   Video downloader for Nyxt
   </content>
  </entry>
 </feed>
