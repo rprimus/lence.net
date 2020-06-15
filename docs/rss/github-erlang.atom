@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-erlang.atom"/>
 <id>urn:rprimus:github:newerlangrepos</id>
-<updated>2020-06-13T23:08:29Z</updated>
+<updated>2020-06-14T22:15:43Z</updated>
 <title type='text'>New GitHub Erlang Repos</title>
+ <entry>
+  <title>oldngreycoder: ErlangLearings</title>
+  <author>
+   <name>oldngreycoder</name>
+  </author>
+  <link href="https://github.com/oldngreycoder/ErlangLearings" />
+  <id>urn:rprimus:github:oldngreycoder:ErlangLearings</id>
+  <published>2020-06-14T22:15:43Z</published>
+  <updated>2020-06-14T22:15:43Z</updated>
+  <content type="html">
+   Erlang Exercises
+  </content>
+ </entry>
+ <entry>
+  <title>m-onz: m-crypto</title>
+  <author>
+   <name>m-onz</name>
+  </author>
+  <link href="https://github.com/m-onz/m-crypto" />
+  <id>urn:rprimus:github:m-onz:m-crypto</id>
+  <published>2020-06-14T16:56:48Z</published>
+  <updated>2020-06-14T16:56:48Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>brzozia: rebar_pollution_with_mnesia</title>
   <author>
@@ -28,123 +54,6 @@
   <updated>2020-06-13T02:50:00Z</updated>
   <content type="html">
    emqx 4.1
-  </content>
- </entry>
- <entry>
-  <title>midas-framework: magpie</title>
-  <author>
-   <name>midas-framework</name>
-  </author>
-  <link href="https://github.com/midas-framework/magpie" />
-  <id>urn:rprimus:github:midas-framework:magpie</id>
-  <published>2020-06-12T14:39:24Z</published>
-  <updated>2020-06-12T14:39:24Z</updated>
-  <content type="html">
-   An HTTP Client for Gleam. 
-  </content>
- </entry>
- <entry>
-  <title>alexclooze: eight-billion-threads</title>
-  <author>
-   <name>alexclooze</name>
-  </author>
-  <link href="https://github.com/alexclooze/eight-billion-threads" />
-  <id>urn:rprimus:github:alexclooze:eight-billion-threads</id>
-  <published>2020-06-12T10:10:12Z</published>
-  <updated>2020-06-12T10:10:12Z</updated>
-  <content type="html">
-   Run 8 billion threads/processes. Green, fork, whatever. This is a PoC for a another project.
-  </content>
- </entry>
- <entry>
-  <title>theorix: erlmc</title>
-  <author>
-   <name>theorix</name>
-  </author>
-  <link href="https://github.com/theorix/erlmc" />
-  <id>urn:rprimus:github:theorix:erlmc</id>
-  <published>2020-06-12T09:53:12Z</published>
-  <updated>2020-06-12T09:53:12Z</updated>
-  <content type="html">
-   Erlang binary protocol memcached client
-  </content>
- </entry>
- <entry>
-  <title>DimaClaudiu: ES_practice</title>
-  <author>
-   <name>DimaClaudiu</name>
-  </author>
-  <link href="https://github.com/DimaClaudiu/ES_practice" />
-  <id>urn:rprimus:github:DimaClaudiu:ES_practice</id>
-  <published>2020-06-12T09:43:54Z</published>
-  <updated>2020-06-12T09:43:54Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>niamtokik: xmpp_client</title>
-  <author>
-   <name>niamtokik</name>
-  </author>
-  <link href="https://github.com/niamtokik/xmpp_client" />
-  <id>urn:rprimus:github:niamtokik:xmpp_client</id>
-  <published>2020-06-12T09:08:33Z</published>
-  <updated>2020-06-12T09:08:33Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>vihu: erlang-vc</title>
-  <author>
-   <name>vihu</name>
-  </author>
-  <link href="https://github.com/vihu/erlang-vc" />
-  <id>urn:rprimus:github:vihu:erlang-vc</id>
-  <published>2020-06-12T04:46:13Z</published>
-  <updated>2020-06-12T04:46:13Z</updated>
-  <content type="html">
-   Erlang port of vectorclock-rs
-  </content>
- </entry>
- <entry>
-  <title>yash2696: Erlang</title>
-  <author>
-   <name>yash2696</name>
-  </author>
-  <link href="https://github.com/yash2696/Erlang" />
-  <id>urn:rprimus:github:yash2696:Erlang</id>
-  <published>2020-06-12T03:25:01Z</published>
-  <updated>2020-06-12T03:25:01Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>vasu-dasari: erlang-ovsdb</title>
-  <author>
-   <name>vasu-dasari</name>
-  </author>
-  <link href="https://github.com/vasu-dasari/erlang-ovsdb" />
-  <id>urn:rprimus:github:vasu-dasari:erlang-ovsdb</id>
-  <published>2020-06-12T02:27:40Z</published>
-  <updated>2020-06-12T02:27:40Z</updated>
-  <content type="html">
-   An OVSDB Library written in Erlang
-  </content>
- </entry>
- <entry>
-  <title>aenglisc: hkdf_erlang</title>
-  <author>
-   <name>aenglisc</name>
-  </author>
-  <link href="https://github.com/aenglisc/hkdf_erlang" />
-  <id>urn:rprimus:github:aenglisc:hkdf_erlang</id>
-  <published>2020-06-12T00:22:07Z</published>
-  <updated>2020-06-12T00:22:07Z</updated>
-  <content type="html">
-   An implementation of HKDF in Erlang.
   </content>
  </entry>
 </feed>
