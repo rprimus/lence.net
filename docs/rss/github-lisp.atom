@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2020-06-15T03:45:50Z</updated>
+<updated>2020-06-15T18:45:08Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>lonjil: incless</title>
+  <author>
+   <name>lonjil</name>
+  </author>
+  <link href="https://github.com/lonjil/incless" />
+  <id>urn:rprimus:github:lonjil:incless</id>
+  <published>2020-06-15T18:45:08Z</published>
+  <updated>2020-06-15T18:45:08Z</updated>
+  <content type="html">
+   A portable, extensible Common Lisp printer.
+  </content>
+ </entry>
+ <entry>
+  <title>cmatzenbach: conway-ff-api</title>
+  <author>
+   <name>cmatzenbach</name>
+  </author>
+  <link href="https://github.com/cmatzenbach/conway-ff-api" />
+  <id>urn:rprimus:github:cmatzenbach:conway-ff-api</id>
+  <published>2020-06-15T16:46:09Z</published>
+  <updated>2020-06-15T16:46:09Z</updated>
+  <content type="html">
+   API for conway class
+  </content>
+ </entry>
+ <entry>
+  <title>pawsen: lisp</title>
+  <author>
+   <name>pawsen</name>
+  </author>
+  <link href="https://github.com/pawsen/lisp" />
+  <id>urn:rprimus:github:pawsen:lisp</id>
+  <published>2020-06-15T13:18:51Z</published>
+  <updated>2020-06-15T13:18:51Z</updated>
+  <content type="html">
+   Trying ((())
+  </content>
+ </entry>
+ <entry>
+  <title>BenjaminFerge: yedi</title>
+  <author>
+   <name>BenjaminFerge</name>
+  </author>
+  <link href="https://github.com/BenjaminFerge/yedi" />
+  <id>urn:rprimus:github:BenjaminFerge:yedi</id>
+  <published>2020-06-15T08:53:33Z</published>
+  <updated>2020-06-15T08:53:33Z</updated>
+  <content type="html">
+   Event stream database and processor
+  </content>
+ </entry>
+ <entry>
+  <title>physcrf: bufchain</title>
+  <author>
+   <name>physcrf</name>
+  </author>
+  <link href="https://github.com/physcrf/bufchain" />
+  <id>urn:rprimus:github:physcrf:bufchain</id>
+  <published>2020-06-15T07:17:51Z</published>
+  <updated>2020-06-15T07:17:51Z</updated>
+  <content type="html">
+   buffer chain
+  </content>
+ </entry>
  <entry>
   <title>madosuki: bit-utility</title>
   <author>
@@ -80,71 +145,6 @@
   <updated>2020-06-14T07:24:45Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>epsilon-phase: img-genner</title>
-  <author>
-   <name>epsilon-phase</name>
-  </author>
-  <link href="https://github.com/epsilon-phase/img-genner" />
-  <id>urn:rprimus:github:epsilon-phase:img-genner</id>
-  <published>2020-06-13T21:01:43Z</published>
-  <updated>2020-06-13T21:01:43Z</updated>
-  <content type="html">
-   common lisp image manipulation/renderer nonsense.
-  </content>
- </entry>
- <entry>
-  <title>K1D77A: trivial-password-store</title>
-  <author>
-   <name>K1D77A</name>
-  </author>
-  <link href="https://github.com/K1D77A/trivial-password-store" />
-  <id>urn:rprimus:github:K1D77A:trivial-password-store</id>
-  <published>2020-06-13T19:00:32Z</published>
-  <updated>2020-06-13T19:00:32Z</updated>
-  <content type="html">
-   This is just a trivial password storing facility that stores passwords using threefish1024 with a 128byte IV into a text file which is also encrypted with another pass. This was just a challenge from the WebDev2.0 Discord server.
-  </content>
- </entry>
- <entry>
-  <title>cmatzenbach: conway-ff</title>
-  <author>
-   <name>cmatzenbach</name>
-  </author>
-  <link href="https://github.com/cmatzenbach/conway-ff" />
-  <id>urn:rprimus:github:cmatzenbach:conway-ff</id>
-  <published>2020-06-13T09:46:59Z</published>
-  <updated>2020-06-13T09:46:59Z</updated>
-  <content type="html">
-   Fantasy Football Concept for BA/QA Class
-  </content>
- </entry>
- <entry>
-  <title>jorgep31415: CS-161</title>
-  <author>
-   <name>jorgep31415</name>
-  </author>
-  <link href="https://github.com/jorgep31415/CS-161" />
-  <id>urn:rprimus:github:jorgep31415:CS-161</id>
-  <published>2020-06-13T08:16:48Z</published>
-  <updated>2020-06-13T08:16:48Z</updated>
-  <content type="html">
-   My solutions for all assignments of UCLA course Computer Science 161 taken in Spring 2020 with Prof. Darwiche.
-  </content>
- </entry>
- <entry>
-  <title>auvigoo20: COMP-348</title>
-  <author>
-   <name>auvigoo20</name>
-  </author>
-  <link href="https://github.com/auvigoo20/COMP-348" />
-  <id>urn:rprimus:github:auvigoo20:COMP-348</id>
-  <published>2020-06-13T02:14:16Z</published>
-  <updated>2020-06-13T02:14:16Z</updated>
-  <content type="html">
-   Principles of Programming Languages
   </content>
  </entry>
 </feed>

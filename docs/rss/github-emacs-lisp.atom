@@ -2,8 +2,125 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2020-06-15T02:15:36Z</updated>
+<updated>2020-06-16T03:29:11Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>pengwyn: julia-funcobs</title>
+  <author>
+   <name>pengwyn</name>
+  </author>
+  <link href="https://github.com/pengwyn/julia-funcobs" />
+  <id>urn:rprimus:github:pengwyn:julia-funcobs</id>
+  <published>2020-06-16T03:29:11Z</published>
+  <updated>2020-06-16T03:29:11Z</updated>
+  <content type="html">
+   Emacs package to interface with FunctionObserving.jl
+  </content>
+ </entry>
+ <entry>
+  <title>nyee32: dotfiles</title>
+  <author>
+   <name>nyee32</name>
+  </author>
+  <link href="https://github.com/nyee32/dotfiles" />
+  <id>urn:rprimus:github:nyee32:dotfiles</id>
+  <published>2020-06-16T02:29:45Z</published>
+  <updated>2020-06-16T02:29:45Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>liam-fitzgerald: doom-conf</title>
+  <author>
+   <name>liam-fitzgerald</name>
+  </author>
+  <link href="https://github.com/liam-fitzgerald/doom-conf" />
+  <id>urn:rprimus:github:liam-fitzgerald:doom-conf</id>
+  <published>2020-06-15T23:17:32Z</published>
+  <updated>2020-06-15T23:17:32Z</updated>
+  <content type="html">
+   .doom.d for doom emacs
+  </content>
+ </entry>
+ <entry>
+  <title>emacs-straight: leaf</title>
+  <author>
+   <name>emacs-straight</name>
+  </author>
+  <link href="https://github.com/emacs-straight/leaf" />
+  <id>urn:rprimus:github:emacs-straight:leaf</id>
+  <published>2020-06-15T21:06:26Z</published>
+  <updated>2020-06-15T21:06:26Z</updated>
+  <content type="html">
+   Mirror of the leaf package from GNU ELPA
+  </content>
+ </entry>
+ <entry>
+  <title>csevier: emacs</title>
+  <author>
+   <name>csevier</name>
+  </author>
+  <link href="https://github.com/csevier/emacs" />
+  <id>urn:rprimus:github:csevier:emacs</id>
+  <published>2020-06-15T20:48:39Z</published>
+  <updated>2020-06-15T20:48:39Z</updated>
+  <content type="html">
+   my emacs stuff.
+  </content>
+ </entry>
+ <entry>
+  <title>dragan-ivanovic: flycheck-swi-prolog</title>
+  <author>
+   <name>dragan-ivanovic</name>
+  </author>
+  <link href="https://github.com/dragan-ivanovic/flycheck-swi-prolog" />
+  <id>urn:rprimus:github:dragan-ivanovic:flycheck-swi-prolog</id>
+  <published>2020-06-15T19:16:25Z</published>
+  <updated>2020-06-15T19:16:25Z</updated>
+  <content type="html">
+   SWI Prolog syntax checker for Emacs
+  </content>
+ </entry>
+ <entry>
+  <title>frederic-santos: exercism-emacs-lisp</title>
+  <author>
+   <name>frederic-santos</name>
+  </author>
+  <link href="https://github.com/frederic-santos/exercism-emacs-lisp" />
+  <id>urn:rprimus:github:frederic-santos:exercism-emacs-lisp</id>
+  <published>2020-06-15T11:32:07Z</published>
+  <updated>2020-06-15T11:32:07Z</updated>
+  <content type="html">
+   My solutions to exercism exercises for the track Emacs-Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>rrthomas: gforth-mode</title>
+  <author>
+   <name>rrthomas</name>
+  </author>
+  <link href="https://github.com/rrthomas/gforth-mode" />
+  <id>urn:rprimus:github:rrthomas:gforth-mode</id>
+  <published>2020-06-15T11:08:57Z</published>
+  <updated>2020-06-15T11:08:57Z</updated>
+  <content type="html">
+   GForth&#039;s forth-mode extracted for packaging and modernisation
+  </content>
+ </entry>
+ <entry>
+  <title>TomasTorsvik-tools: spacemacs-config</title>
+  <author>
+   <name>TomasTorsvik-tools</name>
+  </author>
+  <link href="https://github.com/TomasTorsvik-tools/spacemacs-config" />
+  <id>urn:rprimus:github:TomasTorsvik-tools:spacemacs-config</id>
+  <published>2020-06-15T07:15:05Z</published>
+  <updated>2020-06-15T07:15:05Z</updated>
+  <content type="html">
+   Configuration file for spacemacs
+  </content>
+ </entry>
  <entry>
   <title>mariogt: emacs_witness_theme</title>
   <author>
@@ -27,7 +144,7 @@
   <published>2020-06-15T01:49:44Z</published>
   <updated>2020-06-15T01:49:44Z</updated>
   <content type="html">
-   My .emacs config file
+   My macOS .emacs config file
   </content>
  </entry>
  <entry>
@@ -41,19 +158,6 @@
   <updated>2020-06-15T00:52:26Z</updated>
   <content type="html">
    My Setup of Emacs using different Packages
-  </content>
- </entry>
- <entry>
-  <title>AlejandroPolanco: emacs.d</title>
-  <author>
-   <name>AlejandroPolanco</name>
-  </author>
-  <link href="https://github.com/AlejandroPolanco/emacs.d" />
-  <id>urn:rprimus:github:AlejandroPolanco:emacs.d</id>
-  <published>2020-06-14T22:52:27Z</published>
-  <updated>2020-06-14T22:52:27Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
  <entry>
@@ -157,7 +261,7 @@
   <published>2020-06-14T19:06:08Z</published>
   <updated>2020-06-14T19:06:08Z</updated>
   <content type="html">
-   An Org-babel âlanguageâ whose execution produces PNGs from LaTeX snippets; useful for shipping *arbitrary* LaTeX results in HTML
+   Inline arbitrary LaTeX snippets as PNGs in Emacs (â¢Ìá´â¢Ì)Ù
   </content>
  </entry>
  <entry>
@@ -405,175 +509,6 @@
   <updated>2020-06-14T00:39:38Z</updated>
   <content type="html">
    Elisp package to handle date
-  </content>
- </entry>
- <entry>
-  <title>flaviodemoura: doom_config</title>
-  <author>
-   <name>flaviodemoura</name>
-  </author>
-  <link href="https://github.com/flaviodemoura/doom_config" />
-  <id>urn:rprimus:github:flaviodemoura:doom_config</id>
-  <published>2020-06-13T20:38:57Z</published>
-  <updated>2020-06-13T20:38:57Z</updated>
-  <content type="html">
-   doom config
-  </content>
- </entry>
- <entry>
-  <title>ddxgz: .doom.d</title>
-  <author>
-   <name>ddxgz</name>
-  </author>
-  <link href="https://github.com/ddxgz/.doom.d" />
-  <id>urn:rprimus:github:ddxgz:.doom.d</id>
-  <published>2020-06-13T20:20:00Z</published>
-  <updated>2020-06-13T20:20:00Z</updated>
-  <content type="html">
-   My Doom Emacs configuration
-  </content>
- </entry>
- <entry>
-  <title>raksodiano: .dotfiles</title>
-  <author>
-   <name>raksodiano</name>
-  </author>
-  <link href="https://github.com/raksodiano/.dotfiles" />
-  <id>urn:rprimus:github:raksodiano:.dotfiles</id>
-  <published>2020-06-13T19:45:23Z</published>
-  <updated>2020-06-13T19:45:23Z</updated>
-  <content type="html">
-   My settings
-  </content>
- </entry>
- <entry>
-  <title>bioneuron: dotfiles</title>
-  <author>
-   <name>bioneuron</name>
-  </author>
-  <link href="https://github.com/bioneuron/dotfiles" />
-  <id>urn:rprimus:github:bioneuron:dotfiles</id>
-  <published>2020-06-13T15:54:21Z</published>
-  <updated>2020-06-13T15:54:21Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ChengchaoHU: .emacs.d</title>
-  <author>
-   <name>ChengchaoHU</name>
-  </author>
-  <link href="https://github.com/ChengchaoHU/.emacs.d" />
-  <id>urn:rprimus:github:ChengchaoHU:.emacs.d</id>
-  <published>2020-06-13T15:29:48Z</published>
-  <updated>2020-06-13T15:29:48Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>smartepsh: emacs.d-for-ipad</title>
-  <author>
-   <name>smartepsh</name>
-  </author>
-  <link href="https://github.com/smartepsh/emacs.d-for-ipad" />
-  <id>urn:rprimus:github:smartepsh:emacs.d-for-ipad</id>
-  <published>2020-06-13T14:11:49Z</published>
-  <updated>2020-06-13T14:11:49Z</updated>
-  <content type="html">
-   emacs configurations on ipad
-  </content>
- </entry>
- <entry>
-  <title>wcy123: skeleton-snippet-store</title>
-  <author>
-   <name>wcy123</name>
-  </author>
-  <link href="https://github.com/wcy123/skeleton-snippet-store" />
-  <id>urn:rprimus:github:wcy123:skeleton-snippet-store</id>
-  <published>2020-06-13T13:07:09Z</published>
-  <updated>2020-06-13T13:07:09Z</updated>
-  <content type="html">
-   some snippet files for skeleton-snippet
-  </content>
- </entry>
- <entry>
-  <title>wcy123: skeleton-snippet</title>
-  <author>
-   <name>wcy123</name>
-  </author>
-  <link href="https://github.com/wcy123/skeleton-snippet" />
-  <id>urn:rprimus:github:wcy123:skeleton-snippet</id>
-  <published>2020-06-13T10:58:08Z</published>
-  <updated>2020-06-13T10:58:08Z</updated>
-  <content type="html">
-   a template system based on skeleton.el
-  </content>
- </entry>
- <entry>
-  <title>junyi-hou: project-plus.el</title>
-  <author>
-   <name>junyi-hou</name>
-  </author>
-  <link href="https://github.com/junyi-hou/project-plus.el" />
-  <id>urn:rprimus:github:junyi-hou:project-plus.el</id>
-  <published>2020-06-13T07:17:11Z</published>
-  <updated>2020-06-13T07:17:11Z</updated>
-  <content type="html">
-   light interface for project.el
-  </content>
- </entry>
- <entry>
-  <title>kirthivaasan: slovarik</title>
-  <author>
-   <name>kirthivaasan</name>
-  </author>
-  <link href="https://github.com/kirthivaasan/slovarik" />
-  <id>urn:rprimus:github:kirthivaasan:slovarik</id>
-  <published>2020-06-13T06:50:29Z</published>
-  <updated>2020-06-13T06:50:29Z</updated>
-  <content type="html">
-   Russian dictionary in emacs
-  </content>
- </entry>
- <entry>
-  <title>J0: dots</title>
-  <author>
-   <name>J0</name>
-  </author>
-  <link href="https://github.com/J0/dots" />
-  <id>urn:rprimus:github:J0:dots</id>
-  <published>2020-06-13T06:49:26Z</published>
-  <updated>2020-06-13T06:49:26Z</updated>
-  <content type="html">
-   dotfiles
-  </content>
- </entry>
- <entry>
-  <title>conjunctive: idris-macros</title>
-  <author>
-   <name>conjunctive</name>
-  </author>
-  <link href="https://github.com/conjunctive/idris-macros" />
-  <id>urn:rprimus:github:conjunctive:idris-macros</id>
-  <published>2020-06-13T06:26:32Z</published>
-  <updated>2020-06-13T06:26:32Z</updated>
-  <content type="html">
-   Additional tools for editing Idris
-  </content>
- </entry>
- <entry>
-  <title>linyinfeng: emacs.d</title>
-  <author>
-   <name>linyinfeng</name>
-  </author>
-  <link href="https://github.com/linyinfeng/emacs.d" />
-  <id>urn:rprimus:github:linyinfeng:emacs.d</id>
-  <published>2020-06-13T05:18:40Z</published>
-  <updated>2020-06-13T05:18:40Z</updated>
-  <content type="html">
-   My emacs configuration.
   </content>
  </entry>
 </feed>
