@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2020-06-20T01:03:41Z</updated>
+<updated>2020-06-21T03:07:24Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>realark: sbcl-crash</title>
+  <author>
+   <name>realark</name>
+  </author>
+  <link href="https://github.com/realark/sbcl-crash" />
+  <id>urn:rprimus:github:realark:sbcl-crash</id>
+  <published>2020-06-21T03:07:24Z</published>
+  <updated>2020-06-21T03:07:24Z</updated>
+  <content type="html">
+   demo of a SBCL crashing bug
+  </content>
+ </entry>
+ <entry>
+  <title>mikelevins: electron-lisp-boilerplate</title>
+  <author>
+   <name>mikelevins</name>
+  </author>
+  <link href="https://github.com/mikelevins/electron-lisp-boilerplate" />
+  <id>urn:rprimus:github:mikelevins:electron-lisp-boilerplate</id>
+  <published>2020-06-20T17:40:30Z</published>
+  <updated>2020-06-20T17:40:30Z</updated>
+  <content type="html">
+   A rudimentary boilerplate for building Electron apps with embedded Lisp helper processes
+  </content>
+ </entry>
+ <entry>
+  <title>chiku-samugari: xport</title>
+  <author>
+   <name>chiku-samugari</name>
+  </author>
+  <link href="https://github.com/chiku-samugari/xport" />
+  <id>urn:rprimus:github:chiku-samugari:xport</id>
+  <published>2020-06-20T17:37:31Z</published>
+  <updated>2020-06-20T17:37:31Z</updated>
+  <content type="html">
+   Macro collection to export symbols in a cozy way.
+  </content>
+ </entry>
+ <entry>
+  <title>deathgrindfreak: loxl</title>
+  <author>
+   <name>deathgrindfreak</name>
+  </author>
+  <link href="https://github.com/deathgrindfreak/loxl" />
+  <id>urn:rprimus:github:deathgrindfreak:loxl</id>
+  <published>2020-06-20T17:12:08Z</published>
+  <updated>2020-06-20T17:12:08Z</updated>
+  <content type="html">
+   Lox language interpreter (https://craftinginterpreters.com)
+  </content>
+ </entry>
+ <entry>
+  <title>brendanrooney11: blib</title>
+  <author>
+   <name>brendanrooney11</name>
+  </author>
+  <link href="https://github.com/brendanrooney11/blib" />
+  <id>urn:rprimus:github:brendanrooney11:blib</id>
+  <published>2020-06-20T10:44:29Z</published>
+  <updated>2020-06-20T10:44:29Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>jamesliudotcc: land-of-lisp</title>
+  <author>
+   <name>jamesliudotcc</name>
+  </author>
+  <link href="https://github.com/jamesliudotcc/land-of-lisp" />
+  <id>urn:rprimus:github:jamesliudotcc:land-of-lisp</id>
+  <published>2020-06-20T05:54:53Z</published>
+  <updated>2020-06-20T05:54:53Z</updated>
+  <content type="html">
+   Land of Lisp Exercises and Code
+  </content>
+ </entry>
  <entry>
   <title>marumaru123: lqdapi-wrapper</title>
   <author>
@@ -67,71 +145,6 @@
   <updated>2020-06-19T11:33:03Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>guivmc: CalculandoAreasEmLisp</title>
-  <author>
-   <name>guivmc</name>
-  </author>
-  <link href="https://github.com/guivmc/CalculandoAreasEmLisp" />
-  <id>urn:rprimus:github:guivmc:CalculandoAreasEmLisp</id>
-  <published>2020-06-18T22:39:24Z</published>
-  <updated>2020-06-18T22:39:24Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>CamilaMaira: tu-juicio-familia</title>
-  <author>
-   <name>CamilaMaira</name>
-  </author>
-  <link href="https://github.com/CamilaMaira/tu-juicio-familia" />
-  <id>urn:rprimus:github:CamilaMaira:tu-juicio-familia</id>
-  <published>2020-06-18T18:55:00Z</published>
-  <updated>2020-06-18T18:55:00Z</updated>
-  <content type="html">
-   tujuiciofamilia.cl
-  </content>
- </entry>
- <entry>
-  <title>dnaeon: cl-covid19</title>
-  <author>
-   <name>dnaeon</name>
-  </author>
-  <link href="https://github.com/dnaeon/cl-covid19" />
-  <id>urn:rprimus:github:dnaeon:cl-covid19</id>
-  <published>2020-06-18T18:42:55Z</published>
-  <updated>2020-06-18T18:42:55Z</updated>
-  <content type="html">
-   Explore COVID-19 data in Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>repppie: repbot</title>
-  <author>
-   <name>repppie</name>
-  </author>
-  <link href="https://github.com/repppie/repbot" />
-  <id>urn:rprimus:github:repppie:repbot</id>
-  <published>2020-06-18T15:03:36Z</published>
-  <updated>2020-06-18T15:03:36Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>rtu-mirea: laboratornaya-rabota-2-lisp-kiryushinsa</title>
-  <author>
-   <name>rtu-mirea</name>
-  </author>
-  <link href="https://github.com/rtu-mirea/laboratornaya-rabota-2-lisp-kiryushinsa" />
-  <id>urn:rprimus:github:rtu-mirea:laboratornaya-rabota-2-lisp-kiryushinsa</id>
-  <published>2020-06-18T10:31:51Z</published>
-  <updated>2020-06-18T10:31:51Z</updated>
-  <content type="html">
-   laboratornaya-rabota-2-lisp-kiryushinsa created by GitHub Classroom
   </content>
  </entry>
 </feed>

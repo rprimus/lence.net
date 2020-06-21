@@ -2,71 +2,84 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-sml.atom"/>
 <id>urn:rprimus:github:newsmlrepos</id>
-<updated>2020-06-20T02:55:15Z</updated>
+<updated>2020-06-21T00:48:47Z</updated>
 <title type='text'>New GitHub Sml Repos</title>
  <entry>
-  <title>mmcqd: Higher-Kinded</title>
+  <title>david-topham: fpic</title>
+  <author>
+   <name>david-topham</name>
+  </author>
+  <link href="https://github.com/david-topham/fpic" />
+  <id>urn:rprimus:github:david-topham:fpic</id>
+  <published>2020-06-21T00:48:47Z</published>
+  <updated>2020-06-21T00:48:47Z</updated>
+  <content type="html">
+   sml api for pstricks
+  </content>
+ </entry>
+ <entry>
+  <title>eldesh: mlyacc-polyml</title>
+  <author>
+   <name>eldesh</name>
+  </author>
+  <link href="https://github.com/eldesh/mlyacc-polyml" />
+  <id>urn:rprimus:github:eldesh:mlyacc-polyml</id>
+  <published>2020-06-20T22:15:25Z</published>
+  <updated>2020-06-20T22:15:25Z</updated>
+  <content type="html">
+   MLYacc for Poly/ML
+  </content>
+ </entry>
+ <entry>
+  <title>eldesh: mllex-polyml</title>
+  <author>
+   <name>eldesh</name>
+  </author>
+  <link href="https://github.com/eldesh/mllex-polyml" />
+  <id>urn:rprimus:github:eldesh:mllex-polyml</id>
+  <published>2020-06-20T16:04:33Z</published>
+  <updated>2020-06-20T16:04:33Z</updated>
+  <content type="html">
+   MLLex for Poly/ML
+  </content>
+ </entry>
+ <entry>
+  <title>SebaUbuntu: redmi_curtana_dump</title>
+  <author>
+   <name>SebaUbuntu</name>
+  </author>
+  <link href="https://github.com/SebaUbuntu/redmi_curtana_dump" />
+  <id>urn:rprimus:github:SebaUbuntu:redmi_curtana_dump</id>
+  <published>2020-06-20T12:02:16Z</published>
+  <updated>2020-06-20T12:02:16Z</updated>
+  <content type="html">
+   Redmi Note 9S dumps
+  </content>
+ </entry>
+ <entry>
+  <title>CakeML: pure</title>
+  <author>
+   <name>CakeML</name>
+  </author>
+  <link href="https://github.com/CakeML/pure" />
+  <id>urn:rprimus:github:CakeML:pure</id>
+  <published>2020-06-20T09:42:00Z</published>
+  <updated>2020-06-20T09:42:00Z</updated>
+  <content type="html">
+   A pure call-by-name language
+  </content>
+ </entry>
+ <entry>
+  <title>mmcqd: higher-standard</title>
   <author>
    <name>mmcqd</name>
   </author>
-  <link href="https://github.com/mmcqd/Higher-Kinded" />
-  <id>urn:rprimus:github:mmcqd:Higher-Kinded</id>
+  <link href="https://github.com/mmcqd/higher-standard" />
+  <id>urn:rprimus:github:mmcqd:higher-standard</id>
   <published>2020-06-20T02:55:15Z</published>
   <updated>2020-06-20T02:55:15Z</updated>
   <content type="html">
-   Higher kinded polymorphism (kinda) in SML!
-  </content>
- </entry>
- <entry>
-  <title>insilications: bison</title>
-  <author>
-   <name>insilications</name>
-  </author>
-  <link href="https://github.com/insilications/bison" />
-  <id>urn:rprimus:github:insilications:bison</id>
-  <published>2020-06-18T22:08:10Z</published>
-  <updated>2020-06-18T22:08:10Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>DatBoiEsteban: LogicProcessor</title>
-  <author>
-   <name>DatBoiEsteban</name>
-  </author>
-  <link href="https://github.com/DatBoiEsteban/LogicProcessor" />
-  <id>urn:rprimus:github:DatBoiEsteban:LogicProcessor</id>
-  <published>2020-06-18T21:34:45Z</published>
-  <updated>2020-06-18T21:34:45Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>KaairaGupta: PoPL</title>
-  <author>
-   <name>KaairaGupta</name>
-  </author>
-  <link href="https://github.com/KaairaGupta/PoPL" />
-  <id>urn:rprimus:github:KaairaGupta:PoPL</id>
-  <published>2020-06-18T21:08:22Z</published>
-  <updated>2020-06-18T21:08:22Z</updated>
-  <content type="html">
-   Principles of Programming languages notes through code.
-  </content>
- </entry>
- <entry>
-  <title>ajmurabito: Certified-Security-By-Design</title>
-  <author>
-   <name>ajmurabito</name>
-  </author>
-  <link href="https://github.com/ajmurabito/Certified-Security-By-Design" />
-  <id>urn:rprimus:github:ajmurabito:Certified-Security-By-Design</id>
-  <published>2020-06-18T07:30:14Z</published>
-  <updated>2020-06-18T07:30:14Z</updated>
-  <content type="html">
-   Access Control Systems using the HOL Interactive Theorem presented with Latex generated reports
+   Higher kinded polymorphism in SML
   </content>
  </entry>
 </feed>
