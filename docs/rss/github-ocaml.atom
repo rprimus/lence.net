@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2020-06-22T22:14:07Z</updated>
+<updated>2020-06-23T20:42:36Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>tachukao: ocaml-arpack</title>
+  <author>
+   <name>tachukao</name>
+  </author>
+  <link href="https://github.com/tachukao/ocaml-arpack" />
+  <id>urn:rprimus:github:tachukao:ocaml-arpack</id>
+  <published>2020-06-23T20:42:36Z</published>
+  <updated>2020-06-23T20:42:36Z</updated>
+  <content type="html">
+   OCaml Bindings to ARPACK-NG
+  </content>
+ </entry>
+ <entry>
+  <title>vnmedeiros: elastic_stack_integration</title>
+  <author>
+   <name>vnmedeiros</name>
+  </author>
+  <link href="https://github.com/vnmedeiros/elastic_stack_integration" />
+  <id>urn:rprimus:github:vnmedeiros:elastic_stack_integration</id>
+  <published>2020-06-23T17:10:03Z</published>
+  <updated>2020-06-23T17:10:03Z</updated>
+  <content type="html">
+   stack of integration for tainacan using elastic 
+  </content>
+ </entry>
+ <entry>
+  <title>ArtemRozovyk: t-compr</title>
+  <author>
+   <name>ArtemRozovyk</name>
+  </author>
+  <link href="https://github.com/ArtemRozovyk/t-compr" />
+  <id>urn:rprimus:github:ArtemRozovyk:t-compr</id>
+  <published>2020-06-23T10:15:32Z</published>
+  <updated>2020-06-23T10:15:32Z</updated>
+  <content type="html">
+   Implementing structural tree compression in Ocaml  
+  </content>
+ </entry>
  <entry>
   <title>tari3x: js_of_ocaml-webidl</title>
   <author>
@@ -70,55 +109,16 @@
   </content>
  </entry>
  <entry>
-  <title>ahmedrhle: kubernates</title>
+  <title>fsouza: zd</title>
   <author>
-   <name>ahmedrhle</name>
+   <name>fsouza</name>
   </author>
-  <link href="https://github.com/ahmedrhle/kubernates" />
-  <id>urn:rprimus:github:ahmedrhle:kubernates</id>
-  <published>2020-06-21T22:54:15Z</published>
-  <updated>2020-06-21T22:54:15Z</updated>
+  <link href="https://github.com/fsouza/zd" />
+  <id>urn:rprimus:github:fsouza:zd</id>
+  <published>2020-06-22T02:04:10Z</published>
+  <updated>2020-06-22T02:04:10Z</updated>
   <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>melodychn: CS-131</title>
-  <author>
-   <name>melodychn</name>
-  </author>
-  <link href="https://github.com/melodychn/CS-131" />
-  <id>urn:rprimus:github:melodychn:CS-131</id>
-  <published>2020-06-21T19:03:25Z</published>
-  <updated>2020-06-21T19:03:25Z</updated>
-  <content type="html">
-   My work for CS 131 (Programming Languages) taken at UCLA in the Spring of 2020.
-  </content>
- </entry>
- <entry>
-  <title>adept: ocaml-canvas-test</title>
-  <author>
-   <name>adept</name>
-  </author>
-  <link href="https://github.com/adept/ocaml-canvas-test" />
-  <id>urn:rprimus:github:adept:ocaml-canvas-test</id>
-  <published>2020-06-21T14:26:34Z</published>
-  <updated>2020-06-21T14:26:34Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>yoshihiro503: ocaml-tree</title>
-  <author>
-   <name>yoshihiro503</name>
-  </author>
-  <link href="https://github.com/yoshihiro503/ocaml-tree" />
-  <id>urn:rprimus:github:yoshihiro503:ocaml-tree</id>
-  <published>2020-06-21T06:07:42Z</published>
-  <updated>2020-06-21T06:07:42Z</updated>
-  <content type="html">
-   `tree` command format
+   Like z, but as a daemon (this is a toy)
   </content>
  </entry>
 </feed>
