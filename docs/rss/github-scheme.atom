@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-scheme.atom"/>
 <id>urn:rprimus:github:newschemerepos</id>
-<updated>2020-06-24T23:35:34Z</updated>
+<updated>2020-06-26T00:08:23Z</updated>
 <title type='text'>New GitHub Scheme Repos</title>
+ <entry>
+  <title>c4dr01d: guix-config</title>
+  <author>
+   <name>c4dr01d</name>
+  </author>
+  <link href="https://github.com/c4dr01d/guix-config" />
+  <id>urn:rprimus:github:c4dr01d:guix-config</id>
+  <published>2020-06-26T00:08:23Z</published>
+  <updated>2020-06-26T00:08:23Z</updated>
+  <content type="html">
+   My GNU Guix configuration, with Guix System and development environment settings
+  </content>
+ </entry>
+ <entry>
+  <title>ryanorsinger: sicp_notes</title>
+  <author>
+   <name>ryanorsinger</name>
+  </author>
+  <link href="https://github.com/ryanorsinger/sicp_notes" />
+  <id>urn:rprimus:github:ryanorsinger:sicp_notes</id>
+  <published>2020-06-25T23:23:09Z</published>
+  <updated>2020-06-25T23:23:09Z</updated>
+  <content type="html">
+   My notes and code for working through Structure and Interpretation of Computer Programs
+  </content>
+ </entry>
+ <entry>
+  <title>tracerte: guix-systems</title>
+  <author>
+   <name>tracerte</name>
+  </author>
+  <link href="https://github.com/tracerte/guix-systems" />
+  <id>urn:rprimus:github:tracerte:guix-systems</id>
+  <published>2020-06-25T19:54:47Z</published>
+  <updated>2020-06-25T19:54:47Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>yuchanns: algobyexample</title>
+  <author>
+   <name>yuchanns</name>
+  </author>
+  <link href="https://github.com/yuchanns/algobyexample" />
+  <id>urn:rprimus:github:yuchanns:algobyexample</id>
+  <published>2020-06-25T15:11:24Z</published>
+  <updated>2020-06-25T15:11:24Z</updated>
+  <content type="html">
+   My studies of algorithmn
+  </content>
+ </entry>
+ <entry>
+  <title>corrodedlabs: prelude</title>
+  <author>
+   <name>corrodedlabs</name>
+  </author>
+  <link href="https://github.com/corrodedlabs/prelude" />
+  <id>urn:rprimus:github:corrodedlabs:prelude</id>
+  <published>2020-06-25T13:11:12Z</published>
+  <updated>2020-06-25T13:11:12Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Renatochaz: SICP</title>
+  <author>
+   <name>Renatochaz</name>
+  </author>
+  <link href="https://github.com/Renatochaz/SICP" />
+  <id>urn:rprimus:github:Renatochaz:SICP</id>
+  <published>2020-06-25T12:20:02Z</published>
+  <updated>2020-06-25T12:20:02Z</updated>
+  <content type="html">
+   Exercises and projects for Structure and Interpretation of Computer Programs in LISP
+  </content>
+ </entry>
  <entry>
   <title>lambda-music: demos</title>
   <author>
@@ -28,6 +106,19 @@
   <updated>2020-06-24T22:34:20Z</updated>
   <content type="html">
    Work related to the book Structure and Interpretation of Computer Programs (SICP)
+  </content>
+ </entry>
+ <entry>
+  <title>grahamh: kilo-scheme</title>
+  <author>
+   <name>grahamh</name>
+  </author>
+  <link href="https://github.com/grahamh/kilo-scheme" />
+  <id>urn:rprimus:github:grahamh:kilo-scheme</id>
+  <published>2020-06-24T22:22:28Z</published>
+  <updated>2020-06-24T22:22:28Z</updated>
+  <content type="html">
+   A scheme version of the C text editor kilo
   </content>
  </entry>
  <entry>
@@ -70,6 +161,19 @@
   </content>
  </entry>
  <entry>
+  <title>vincenttrannz: silverstripe-blog</title>
+  <author>
+   <name>vincenttrannz</name>
+  </author>
+  <link href="https://github.com/vincenttrannz/silverstripe-blog" />
+  <id>urn:rprimus:github:vincenttrannz:silverstripe-blog</id>
+  <published>2020-06-24T12:19:59Z</published>
+  <updated>2020-06-24T12:19:59Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
   <title>Health-SocialCare-Scotland: source-linkage-files</title>
   <author>
    <name>Health-SocialCare-Scotland</name>
@@ -78,6 +182,19 @@
   <id>urn:rprimus:github:Health-SocialCare-Scotland:source-linkage-files</id>
   <published>2020-06-24T11:26:41Z</published>
   <updated>2020-06-24T11:26:41Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>racket: old-web</title>
+  <author>
+   <name>racket</name>
+  </author>
+  <link href="https://github.com/racket/old-web" />
+  <id>urn:rprimus:github:racket:old-web</id>
+  <published>2020-06-24T03:08:05Z</published>
+  <updated>2020-06-24T03:08:05Z</updated>
   <content type="html">
    
   </content>
@@ -93,71 +210,6 @@
   <updated>2020-06-24T01:41:59Z</updated>
   <content type="html">
    a library to utilize ZynAddSubFX for Lambda Music Sequencer
-  </content>
- </entry>
- <entry>
-  <title>cthulahoops: sicp</title>
-  <author>
-   <name>cthulahoops</name>
-  </author>
-  <link href="https://github.com/cthulahoops/sicp" />
-  <id>urn:rprimus:github:cthulahoops:sicp</id>
-  <published>2020-06-23T08:11:22Z</published>
-  <updated>2020-06-23T08:11:22Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>tigo-di: gimp-configs</title>
-  <author>
-   <name>tigo-di</name>
-  </author>
-  <link href="https://github.com/tigo-di/gimp-configs" />
-  <id>urn:rprimus:github:tigo-di:gimp-configs</id>
-  <published>2020-06-23T06:50:24Z</published>
-  <updated>2020-06-23T06:50:24Z</updated>
-  <content type="html">
-   Gimp Configs
-  </content>
- </entry>
- <entry>
-  <title>lambda-music: libfluidsynth</title>
-  <author>
-   <name>lambda-music</name>
-  </author>
-  <link href="https://github.com/lambda-music/libfluidsynth" />
-  <id>urn:rprimus:github:lambda-music:libfluidsynth</id>
-  <published>2020-06-23T03:54:49Z</published>
-  <updated>2020-06-23T03:54:49Z</updated>
-  <content type="html">
-   A library to utilize fluidsynth for Lambda Music Sequencer
-  </content>
- </entry>
- <entry>
-  <title>lambda-music: libnewp</title>
-  <author>
-   <name>lambda-music</name>
-  </author>
-  <link href="https://github.com/lambda-music/libnewp" />
-  <id>urn:rprimus:github:lambda-music:libnewp</id>
-  <published>2020-06-23T00:45:54Z</published>
-  <updated>2020-06-23T00:45:54Z</updated>
-  <content type="html">
-   A library utilizes `newp` (new-process) command for Lambda Music Sequencer
-  </content>
- </entry>
- <entry>
-  <title>lambda-music: libcount</title>
-  <author>
-   <name>lambda-music</name>
-  </author>
-  <link href="https://github.com/lambda-music/libcount" />
-  <id>urn:rprimus:github:lambda-music:libcount</id>
-  <published>2020-06-23T00:39:20Z</published>
-  <updated>2020-06-23T00:39:20Z</updated>
-  <content type="html">
-   A library to count aloud for Lambda Music Sequencer
   </content>
  </entry>
 </feed>
