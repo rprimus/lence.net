@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-erlang.atom"/>
 <id>urn:rprimus:github:newerlangrepos</id>
-<updated>2020-06-25T20:06:11Z</updated>
+<updated>2020-06-26T08:02:38Z</updated>
 <title type='text'>New GitHub Erlang Repos</title>
+ <entry>
+  <title>hauleth: consulate</title>
+  <author>
+   <name>hauleth</name>
+  </author>
+  <link href="https://github.com/hauleth/consulate" />
+  <id>urn:rprimus:github:hauleth:consulate</id>
+  <published>2020-06-26T08:02:38Z</published>
+  <updated>2020-06-26T08:02:38Z</updated>
+  <content type="html">
+   Erlang port mapper module that uses Consul instead of EPMD
+  </content>
+ </entry>
+ <entry>
+  <title>DavidAlphaFox: rebar3_deps</title>
+  <author>
+   <name>DavidAlphaFox</name>
+  </author>
+  <link href="https://github.com/DavidAlphaFox/rebar3_deps" />
+  <id>urn:rprimus:github:DavidAlphaFox:rebar3_deps</id>
+  <published>2020-06-26T07:39:59Z</published>
+  <updated>2020-06-26T07:39:59Z</updated>
+  <content type="html">
+   Show erlang.mk bugs of rebar3 nif depends
+  </content>
+ </entry>
  <entry>
   <title>ruttenberg: kittychat</title>
   <author>
@@ -31,55 +57,16 @@
   </content>
  </entry>
  <entry>
-  <title>joaohf: nifi_s2s</title>
+  <title>lyaa: erlanger</title>
   <author>
-   <name>joaohf</name>
+   <name>lyaa</name>
   </author>
-  <link href="https://github.com/joaohf/nifi_s2s" />
-  <id>urn:rprimus:github:joaohf:nifi_s2s</id>
-  <published>2020-06-24T20:21:47Z</published>
-  <updated>2020-06-24T20:21:47Z</updated>
+  <link href="https://github.com/lyaa/erlanger" />
+  <id>urn:rprimus:github:lyaa:erlanger</id>
+  <published>2020-06-25T09:00:01Z</published>
+  <updated>2020-06-25T09:00:01Z</updated>
   <content type="html">
-   NiFi Site-to-Site Erlang client implementation
-  </content>
- </entry>
- <entry>
-  <title>JimSchofield: erlang</title>
-  <author>
-   <name>JimSchofield</name>
-  </author>
-  <link href="https://github.com/JimSchofield/erlang" />
-  <id>urn:rprimus:github:JimSchofield:erlang</id>
-  <published>2020-06-24T03:15:39Z</published>
-  <updated>2020-06-24T03:15:39Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>fhunleth: tty_test</title>
-  <author>
-   <name>fhunleth</name>
-  </author>
-  <link href="https://github.com/fhunleth/tty_test" />
-  <id>urn:rprimus:github:fhunleth:tty_test</id>
-  <published>2020-06-24T02:47:00Z</published>
-  <updated>2020-06-24T02:47:00Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>allansduarte: erlang-practice</title>
-  <author>
-   <name>allansduarte</name>
-  </author>
-  <link href="https://github.com/allansduarte/erlang-practice" />
-  <id>urn:rprimus:github:allansduarte:erlang-practice</id>
-  <published>2020-06-24T01:07:55Z</published>
-  <updated>2020-06-24T01:07:55Z</updated>
-  <content type="html">
-   Elixir coding exercises I practice
+   Erlang equations solving and Erlang table generation in Erlang 
   </content>
  </entry>
 </feed>
