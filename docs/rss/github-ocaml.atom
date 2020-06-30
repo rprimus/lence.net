@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2020-06-28T19:00:21Z</updated>
+<updated>2020-06-30T03:16:32Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>gchenra: Pyni-COMS4115</title>
+  <author>
+   <name>gchenra</name>
+  </author>
+  <link href="https://github.com/gchenra/Pyni-COMS4115" />
+  <id>urn:rprimus:github:gchenra:Pyni-COMS4115</id>
+  <published>2020-06-30T03:16:32Z</published>
+  <updated>2020-06-30T03:16:32Z</updated>
+  <content type="html">
+   Pyni is a simple and light programming language that inherits selected features from Python and adds strong static typing constraints. The final project of COMS4115--Programming Language and Translator. Teammates: Yitao Chen, Haoxuan Huang, Yusheng Hu.
+  </content>
+ </entry>
+ <entry>
+  <title>ojtanner: algorithms_and_datastructures</title>
+  <author>
+   <name>ojtanner</name>
+  </author>
+  <link href="https://github.com/ojtanner/algorithms_and_datastructures" />
+  <id>urn:rprimus:github:ojtanner:algorithms_and_datastructures</id>
+  <published>2020-06-29T19:00:14Z</published>
+  <updated>2020-06-29T19:00:14Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>asemio: SZXX</title>
+  <author>
+   <name>asemio</name>
+  </author>
+  <link href="https://github.com/asemio/SZXX" />
+  <id>urn:rprimus:github:asemio:SZXX</id>
+  <published>2020-06-29T17:13:56Z</published>
+  <updated>2020-06-29T17:13:56Z</updated>
+  <content type="html">
+   Streaming ZIP XML XLSX parser
+  </content>
+ </entry>
+ <entry>
+  <title>janestreet: sexp_string_quickcheck</title>
+  <author>
+   <name>janestreet</name>
+  </author>
+  <link href="https://github.com/janestreet/sexp_string_quickcheck" />
+  <id>urn:rprimus:github:janestreet:sexp_string_quickcheck</id>
+  <published>2020-06-29T08:18:03Z</published>
+  <updated>2020-06-29T08:18:03Z</updated>
+  <content type="html">
+   Quickcheck helpers for strings parsing to sexps
+  </content>
+ </entry>
+ <entry>
+  <title>gs0510: dns-server</title>
+  <author>
+   <name>gs0510</name>
+  </author>
+  <link href="https://github.com/gs0510/dns-server" />
+  <id>urn:rprimus:github:gs0510:dns-server</id>
+  <published>2020-06-29T06:47:51Z</published>
+  <updated>2020-06-29T06:47:51Z</updated>
+  <content type="html">
+   Writing a recursive dns server in Ocaml! :camel
+  </content>
+ </entry>
  <entry>
   <title>mjambon: uniformize</title>
   <author>
@@ -41,175 +106,6 @@
   <updated>2020-06-28T10:31:59Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>a12n: tcxmerge</title>
-  <author>
-   <name>a12n</name>
-  </author>
-  <link href="https://github.com/a12n/tcxmerge" />
-  <id>urn:rprimus:github:a12n:tcxmerge</id>
-  <published>2020-06-27T22:44:30Z</published>
-  <updated>2020-06-27T22:44:30Z</updated>
-  <content type="html">
-   Merge activity data from a TCX file with GPS data from GPX file.
-  </content>
- </entry>
- <entry>
-  <title>a12n: rox6read</title>
-  <author>
-   <name>a12n</name>
-  </author>
-  <link href="https://github.com/a12n/rox6read" />
-  <id>urn:rprimus:github:a12n:rox6read</id>
-  <published>2020-06-27T22:41:25Z</published>
-  <updated>2020-06-27T22:41:25Z</updated>
-  <content type="html">
-   Read data from Sigma Sport cycling computers.
-  </content>
- </entry>
- <entry>
-  <title>a12n: ocaml-tcx</title>
-  <author>
-   <name>a12n</name>
-  </author>
-  <link href="https://github.com/a12n/ocaml-tcx" />
-  <id>urn:rprimus:github:a12n:ocaml-tcx</id>
-  <published>2020-06-27T22:35:15Z</published>
-  <updated>2020-06-27T22:35:15Z</updated>
-  <content type="html">
-   OCaml library for parsing and printing Training Center XML files.
-  </content>
- </entry>
- <entry>
-  <title>a12n: ocaml-opencl</title>
-  <author>
-   <name>a12n</name>
-  </author>
-  <link href="https://github.com/a12n/ocaml-opencl" />
-  <id>urn:rprimus:github:a12n:ocaml-opencl</id>
-  <published>2020-06-27T22:34:51Z</published>
-  <updated>2020-06-27T22:34:51Z</updated>
-  <content type="html">
-   OCaml binding for OpenCL.
-  </content>
- </entry>
- <entry>
-  <title>a12n: ocaml-subtyp</title>
-  <author>
-   <name>a12n</name>
-  </author>
-  <link href="https://github.com/a12n/ocaml-subtyp" />
-  <id>urn:rprimus:github:a12n:ocaml-subtyp</id>
-  <published>2020-06-27T22:34:31Z</published>
-  <updated>2020-06-27T22:34:31Z</updated>
-  <content type="html">
-   Some basic OCaml types for stricter interfaces.
-  </content>
- </entry>
- <entry>
-  <title>a12n: evo-example</title>
-  <author>
-   <name>a12n</name>
-  </author>
-  <link href="https://github.com/a12n/evo-example" />
-  <id>urn:rprimus:github:a12n:evo-example</id>
-  <published>2020-06-27T22:20:02Z</published>
-  <updated>2020-06-27T22:20:02Z</updated>
-  <content type="html">
-   Evolutionary algorithm example.
-  </content>
- </entry>
- <entry>
-  <title>owainlewis: bridge</title>
-  <author>
-   <name>owainlewis</name>
-  </author>
-  <link href="https://github.com/owainlewis/bridge" />
-  <id>urn:rprimus:github:owainlewis:bridge</id>
-  <published>2020-06-27T19:57:18Z</published>
-  <updated>2020-06-27T19:57:18Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Sudha247: dictionary-app</title>
-  <author>
-   <name>Sudha247</name>
-  </author>
-  <link href="https://github.com/Sudha247/dictionary-app" />
-  <id>urn:rprimus:github:Sudha247:dictionary-app</id>
-  <published>2020-06-27T17:09:27Z</published>
-  <updated>2020-06-27T17:09:27Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>SGrondin: tdigest</title>
-  <author>
-   <name>SGrondin</name>
-  </author>
-  <link href="https://github.com/SGrondin/tdigest" />
-  <id>urn:rprimus:github:SGrondin:tdigest</id>
-  <published>2020-06-27T16:56:09Z</published>
-  <updated>2020-06-27T16:56:09Z</updated>
-  <content type="html">
-   OCaml implementation of the T-Digest algorithm
-  </content>
- </entry>
- <entry>
-  <title>txyyss: omega</title>
-  <author>
-   <name>txyyss</name>
-  </author>
-  <link href="https://github.com/txyyss/omega" />
-  <id>urn:rprimus:github:txyyss:omega</id>
-  <published>2020-06-27T16:14:18Z</published>
-  <updated>2020-06-27T16:14:18Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Neofine: Ocaml</title>
-  <author>
-   <name>Neofine</name>
-  </author>
-  <link href="https://github.com/Neofine/Ocaml" />
-  <id>urn:rprimus:github:Neofine:Ocaml</id>
-  <published>2020-06-27T14:47:27Z</published>
-  <updated>2020-06-27T14:47:27Z</updated>
-  <content type="html">
-   Projects made during functional programming course
-  </content>
- </entry>
- <entry>
-  <title>2taezeat: CP</title>
-  <author>
-   <name>2taezeat</name>
-  </author>
-  <link href="https://github.com/2taezeat/CP" />
-  <id>urn:rprimus:github:2taezeat:CP</id>
-  <published>2020-06-27T13:57:25Z</published>
-  <updated>2020-06-27T13:57:25Z</updated>
-  <content type="html">
-   Compiler_KU
-  </content>
- </entry>
- <entry>
-  <title>2taezeat: PL</title>
-  <author>
-   <name>2taezeat</name>
-  </author>
-  <link href="https://github.com/2taezeat/PL" />
-  <id>urn:rprimus:github:2taezeat:PL</id>
-  <published>2020-06-27T13:57:04Z</published>
-  <updated>2020-06-27T13:57:04Z</updated>
-  <content type="html">
-   Programming_Language_KU
   </content>
  </entry>
 </feed>
