@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2020-07-01T13:30:54Z</updated>
+<updated>2020-07-03T02:16:22Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>NohaMorte: AutoLISP-TurtleGraphics</title>
+  <author>
+   <name>NohaMorte</name>
+  </author>
+  <link href="https://github.com/NohaMorte/AutoLISP-TurtleGraphics" />
+  <id>urn:rprimus:github:NohaMorte:AutoLISP-TurtleGraphics</id>
+  <published>2020-07-03T02:16:22Z</published>
+  <updated>2020-07-03T02:16:22Z</updated>
+  <content type="html">
+   this is a home-made toy. work is always in progress.
+  </content>
+ </entry>
+ <entry>
+  <title>EllaChang: MicroELI</title>
+  <author>
+   <name>EllaChang</name>
+  </author>
+  <link href="https://github.com/EllaChang/MicroELI" />
+  <id>urn:rprimus:github:EllaChang:MicroELI</id>
+  <published>2020-07-02T15:22:32Z</published>
+  <updated>2020-07-02T15:22:32Z</updated>
+  <content type="html">
+   Micro English Language Interpreter
+  </content>
+ </entry>
+ <entry>
+  <title>yur3i: chess-ai</title>
+  <author>
+   <name>yur3i</name>
+  </author>
+  <link href="https://github.com/yur3i/chess-ai" />
+  <id>urn:rprimus:github:yur3i:chess-ai</id>
+  <published>2020-07-02T13:21:45Z</published>
+  <updated>2020-07-02T13:21:45Z</updated>
+  <content type="html">
+   A chess AI written in Common Lisp
+  </content>
+ </entry>
  <entry>
   <title>BnMcGn: proto</title>
   <author>
@@ -54,136 +93,6 @@
   <updated>2020-07-01T08:19:59Z</updated>
   <content type="html">
    just a bunch of clisp projects done while learning common-lisp
-  </content>
- </entry>
- <entry>
-  <title>balisteri: LoRaOxi</title>
-  <author>
-   <name>balisteri</name>
-  </author>
-  <link href="https://github.com/balisteri/LoRaOxi" />
-  <id>urn:rprimus:github:balisteri:LoRaOxi</id>
-  <published>2020-06-30T20:05:06Z</published>
-  <updated>2020-06-30T20:05:06Z</updated>
-  <content type="html">
-   Sensor de Oximetria Over LoRaWam
-  </content>
- </entry>
- <entry>
-  <title>programan: .emacs.d</title>
-  <author>
-   <name>programan</name>
-  </author>
-  <link href="https://github.com/programan/.emacs.d" />
-  <id>urn:rprimus:github:programan:.emacs.d</id>
-  <published>2020-06-30T18:21:51Z</published>
-  <updated>2020-06-30T18:21:51Z</updated>
-  <content type="html">
-   emacs settings
-  </content>
- </entry>
- <entry>
-  <title>tiagoraulp: map_transform</title>
-  <author>
-   <name>tiagoraulp</name>
-  </author>
-  <link href="https://github.com/tiagoraulp/map_transform" />
-  <id>urn:rprimus:github:tiagoraulp:map_transform</id>
-  <published>2020-06-30T15:32:51Z</published>
-  <updated>2020-06-30T15:32:51Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>duikboot: lisp-scripts</title>
-  <author>
-   <name>duikboot</name>
-  </author>
-  <link href="https://github.com/duikboot/lisp-scripts" />
-  <id>urn:rprimus:github:duikboot:lisp-scripts</id>
-  <published>2020-06-30T13:11:22Z</published>
-  <updated>2020-06-30T13:11:22Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>singy15: bulk</title>
-  <author>
-   <name>singy15</name>
-  </author>
-  <link href="https://github.com/singy15/bulk" />
-  <id>urn:rprimus:github:singy15:bulk</id>
-  <published>2020-06-30T12:11:52Z</published>
-  <updated>2020-06-30T12:11:52Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>helvm: sponge</title>
-  <author>
-   <name>helvm</name>
-  </author>
-  <link href="https://github.com/helvm/sponge" />
-  <id>urn:rprimus:github:helvm:sponge</id>
-  <published>2020-06-30T09:52:34Z</published>
-  <updated>2020-06-30T09:52:34Z</updated>
-  <content type="html">
-   Esoteric compiler Subset of Scheme to BeFunge98
-  </content>
- </entry>
- <entry>
-  <title>chidiwilliams: learning-common-lisp</title>
-  <author>
-   <name>chidiwilliams</name>
-  </author>
-  <link href="https://github.com/chidiwilliams/learning-common-lisp" />
-  <id>urn:rprimus:github:chidiwilliams:learning-common-lisp</id>
-  <published>2020-06-30T08:47:11Z</published>
-  <updated>2020-06-30T08:47:11Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>m3hransh: solve-maze</title>
-  <author>
-   <name>m3hransh</name>
-  </author>
-  <link href="https://github.com/m3hransh/solve-maze" />
-  <id>urn:rprimus:github:m3hransh:solve-maze</id>
-  <published>2020-06-30T08:40:46Z</published>
-  <updated>2020-06-30T08:40:46Z</updated>
-  <content type="html">
-   Solving maze problem with Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>ferhatsirin: parser-in-Lisp</title>
-  <author>
-   <name>ferhatsirin</name>
-  </author>
-  <link href="https://github.com/ferhatsirin/parser-in-Lisp" />
-  <id>urn:rprimus:github:ferhatsirin:parser-in-Lisp</id>
-  <published>2020-06-30T04:40:51Z</published>
-  <updated>2020-06-30T04:40:51Z</updated>
-  <content type="html">
-   G++ language parser implemented in Lisp
-  </content>
- </entry>
- <entry>
-  <title>CL-20XX: 20XX</title>
-  <author>
-   <name>CL-20XX</name>
-  </author>
-  <link href="https://github.com/CL-20XX/20XX" />
-  <id>urn:rprimus:github:CL-20XX:20XX</id>
-  <published>2020-06-30T03:57:44Z</published>
-  <updated>2020-06-30T03:57:44Z</updated>
-  <content type="html">
-   Experimental &#039;Futuristic/Future-Proofing&#039; Extensions To Common-Lisp.
   </content>
  </entry>
 </feed>
