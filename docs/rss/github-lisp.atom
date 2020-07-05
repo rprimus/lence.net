@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2020-07-03T18:48:35Z</updated>
+<updated>2020-07-04T23:08:37Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>dylanjm: scraps</title>
+  <author>
+   <name>dylanjm</name>
+  </author>
+  <link href="https://github.com/dylanjm/scraps" />
+  <id>urn:rprimus:github:dylanjm:scraps</id>
+  <published>2020-07-04T23:08:37Z</published>
+  <updated>2020-07-04T23:08:37Z</updated>
+  <content type="html">
+   Common-Lisp Command Line Scripts
+  </content>
+ </entry>
+ <entry>
+  <title>dnixty: overthewire</title>
+  <author>
+   <name>dnixty</name>
+  </author>
+  <link href="https://github.com/dnixty/overthewire" />
+  <id>urn:rprimus:github:dnixty:overthewire</id>
+  <published>2020-07-04T16:44:21Z</published>
+  <updated>2020-07-04T16:44:21Z</updated>
+  <content type="html">
+   scripts and helpers for https://overthewire.org/ puzzles
+  </content>
+ </entry>
+ <entry>
+  <title>hyotang666: cl-mnist</title>
+  <author>
+   <name>hyotang666</name>
+  </author>
+  <link href="https://github.com/hyotang666/cl-mnist" />
+  <id>urn:rprimus:github:hyotang666:cl-mnist</id>
+  <published>2020-07-04T10:45:58Z</published>
+  <updated>2020-07-04T10:45:58Z</updated>
+  <content type="html">
+   MNIST dataset preprocessor for Common Lisp.
+  </content>
+ </entry>
+ <entry>
+  <title>fusuya: mogevader</title>
+  <author>
+   <name>fusuya</name>
+  </author>
+  <link href="https://github.com/fusuya/mogevader" />
+  <id>urn:rprimus:github:fusuya:mogevader</id>
+  <published>2020-07-04T05:29:49Z</published>
+  <updated>2020-07-04T05:29:49Z</updated>
+  <content type="html">
+   ããã¹ã¼ã ã¼
+  </content>
+ </entry>
  <entry>
   <title>phoe-trash: nervous-island</title>
   <author>
@@ -67,32 +119,6 @@
   <updated>2020-07-03T02:16:22Z</updated>
   <content type="html">
    this is a home-made toy. work is always in progress.
-  </content>
- </entry>
- <entry>
-  <title>EllaChang: MicroELI</title>
-  <author>
-   <name>EllaChang</name>
-  </author>
-  <link href="https://github.com/EllaChang/MicroELI" />
-  <id>urn:rprimus:github:EllaChang:MicroELI</id>
-  <published>2020-07-02T15:22:32Z</published>
-  <updated>2020-07-02T15:22:32Z</updated>
-  <content type="html">
-   Micro English Language Interpreter
-  </content>
- </entry>
- <entry>
-  <title>yur3i: chess-ai</title>
-  <author>
-   <name>yur3i</name>
-  </author>
-  <link href="https://github.com/yur3i/chess-ai" />
-  <id>urn:rprimus:github:yur3i:chess-ai</id>
-  <published>2020-07-02T13:21:45Z</published>
-  <updated>2020-07-02T13:21:45Z</updated>
-  <content type="html">
-   A chess AI written in Common Lisp
   </content>
  </entry>
 </feed>
