@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2020-07-13T16:52:22Z</updated>
+<updated>2020-07-15T03:33:26Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>gmath: pallindrome</title>
+  <author>
+   <name>gmath</name>
+  </author>
+  <link href="https://github.com/gmath/pallindrome" />
+  <id>urn:rprimus:github:gmath:pallindrome</id>
+  <published>2020-07-15T03:33:26Z</published>
+  <updated>2020-07-15T03:33:26Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>jingtaozf: LoGS</title>
+  <author>
+   <name>jingtaozf</name>
+  </author>
+  <link href="https://github.com/jingtaozf/LoGS" />
+  <id>urn:rprimus:github:jingtaozf:LoGS</id>
+  <published>2020-07-15T02:33:45Z</published>
+  <updated>2020-07-15T02:33:45Z</updated>
+  <content type="html">
+   LoGS is a programmable log analysis engine
+  </content>
+ </entry>
+ <entry>
+  <title>ormf: cl-fourier-animation</title>
+  <author>
+   <name>ormf</name>
+  </author>
+  <link href="https://github.com/ormf/cl-fourier-animation" />
+  <id>urn:rprimus:github:ormf:cl-fourier-animation</id>
+  <published>2020-07-14T11:27:16Z</published>
+  <updated>2020-07-14T11:27:16Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>cmatzenbach: little-bits-of-lisp</title>
+  <author>
+   <name>cmatzenbach</name>
+  </author>
+  <link href="https://github.com/cmatzenbach/little-bits-of-lisp" />
+  <id>urn:rprimus:github:cmatzenbach:little-bits-of-lisp</id>
+  <published>2020-07-14T07:46:58Z</published>
+  <updated>2020-07-14T07:46:58Z</updated>
+  <content type="html">
+   Code/notes from the fantastic YouTube series &quot;Little Bits of Lisp&quot; by Baggers
+  </content>
+ </entry>
+ <entry>
+  <title>compufox: et</title>
+  <author>
+   <name>compufox</name>
+  </author>
+  <link href="https://github.com/compufox/et" />
+  <id>urn:rprimus:github:compufox:et</id>
+  <published>2020-07-14T04:11:15Z</published>
+  <updated>2020-07-14T04:11:15Z</updated>
+  <content type="html">
+   mastodon desktop client built with gtk3 and lisp
+  </content>
+ </entry>
  <entry>
   <title>kravchuk4412: Lisp</title>
   <author>
@@ -67,84 +132,6 @@
   <updated>2020-07-13T01:55:50Z</updated>
   <content type="html">
    Following Learn OpenGL tutorial in Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>sammyli0106: UCLA_CS_161_Artificial_Intelligence</title>
-  <author>
-   <name>sammyli0106</name>
-  </author>
-  <link href="https://github.com/sammyli0106/UCLA_CS_161_Artificial_Intelligence" />
-  <id>urn:rprimus:github:sammyli0106:UCLA_CS_161_Artificial_Intelligence</id>
-  <published>2020-07-12T22:36:06Z</published>
-  <updated>2020-07-12T22:36:06Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>alexandreaquiles: the-roots-of-lisp</title>
-  <author>
-   <name>alexandreaquiles</name>
-  </author>
-  <link href="https://github.com/alexandreaquiles/the-roots-of-lisp" />
-  <id>urn:rprimus:github:alexandreaquiles:the-roots-of-lisp</id>
-  <published>2020-07-12T21:55:47Z</published>
-  <updated>2020-07-12T21:55:47Z</updated>
-  <content type="html">
-   Code from Paul Graham&#039;s article: http://paulgraham.com/rootsoflisp.html
-  </content>
- </entry>
- <entry>
-  <title>zhuyanlong: Lisp</title>
-  <author>
-   <name>zhuyanlong</name>
-  </author>
-  <link href="https://github.com/zhuyanlong/Lisp" />
-  <id>urn:rprimus:github:zhuyanlong:Lisp</id>
-  <published>2020-07-12T20:55:42Z</published>
-  <updated>2020-07-12T20:55:42Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>mikelevins: stage</title>
-  <author>
-   <name>mikelevins</name>
-  </author>
-  <link href="https://github.com/mikelevins/stage" />
-  <id>urn:rprimus:github:mikelevins:stage</id>
-  <published>2020-07-12T15:26:22Z</published>
-  <updated>2020-07-12T15:26:22Z</updated>
-  <content type="html">
-   An experiment in programming by interactive construction
-  </content>
- </entry>
- <entry>
-  <title>thomashoullier: sbcl-lapack</title>
-  <author>
-   <name>thomashoullier</name>
-  </author>
-  <link href="https://github.com/thomashoullier/sbcl-lapack" />
-  <id>urn:rprimus:github:thomashoullier:sbcl-lapack</id>
-  <published>2020-07-12T14:53:06Z</published>
-  <updated>2020-07-12T14:53:06Z</updated>
-  <content type="html">
-   SBCL bindings for LAPACK/BLAS
-  </content>
- </entry>
- <entry>
-  <title>VasilisDev: simple-pacman-game</title>
-  <author>
-   <name>VasilisDev</name>
-  </author>
-  <link href="https://github.com/VasilisDev/simple-pacman-game" />
-  <id>urn:rprimus:github:VasilisDev:simple-pacman-game</id>
-  <published>2020-07-12T13:48:51Z</published>
-  <updated>2020-07-12T13:48:51Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
