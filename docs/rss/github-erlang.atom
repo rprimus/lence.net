@@ -2,15 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-erlang.atom"/>
 <id>urn:rprimus:github:newerlangrepos</id>
-<updated>2020-07-15T01:47:12Z</updated>
+<updated>2020-07-15T21:41:38Z</updated>
 <title type='text'>New GitHub Erlang Repos</title>
  <entry>
-  <title>shino: rebar3_static_deps</title>
+  <title>olagood: dbotjson</title>
   <author>
-   <name>shino</name>
+   <name>olagood</name>
   </author>
-  <link href="https://github.com/shino/rebar3_static_deps" />
-  <id>urn:rprimus:github:shino:rebar3_static_deps</id>
+  <link href="https://github.com/olagood/dbotjson" />
+  <id>urn:rprimus:github:olagood:dbotjson</id>
+  <published>2020-07-15T21:41:38Z</published>
+  <updated>2020-07-15T21:41:38Z</updated>
+  <content type="html">
+   Parse JSON text conforming to the RFC 8259 standard.
+  </content>
+ </entry>
+ <entry>
+  <title>IulianLazarina: erlnigma</title>
+  <author>
+   <name>IulianLazarina</name>
+  </author>
+  <link href="https://github.com/IulianLazarina/erlnigma" />
+  <id>urn:rprimus:github:IulianLazarina:erlnigma</id>
+  <published>2020-07-15T14:58:03Z</published>
+  <updated>2020-07-15T14:58:03Z</updated>
+  <content type="html">
+   enigma machine in erlang
+  </content>
+ </entry>
+ <entry>
+  <title>shiguredo: rebar3_static_deps</title>
+  <author>
+   <name>shiguredo</name>
+  </author>
+  <link href="https://github.com/shiguredo/rebar3_static_deps" />
+  <id>urn:rprimus:github:shiguredo:rebar3_static_deps</id>
   <published>2020-07-15T01:47:12Z</published>
   <updated>2020-07-15T01:47:12Z</updated>
   <content type="html">
@@ -106,71 +132,6 @@
   <updated>2020-07-14T02:30:09Z</updated>
   <content type="html">
    emqxæä¹åæä»¶
-  </content>
- </entry>
- <entry>
-  <title>galdor: erl-pg-pool</title>
-  <author>
-   <name>galdor</name>
-  </author>
-  <link href="https://github.com/galdor/erl-pg-pool" />
-  <id>urn:rprimus:github:galdor:erl-pg-pool</id>
-  <published>2020-07-13T18:09:47Z</published>
-  <updated>2020-07-13T18:09:47Z</updated>
-  <content type="html">
-   A PostgreSQL connection pool for Erlang.
-  </content>
- </entry>
- <entry>
-  <title>lfe-rebar3: rebar3_lfe</title>
-  <author>
-   <name>lfe-rebar3</name>
-  </author>
-  <link href="https://github.com/lfe-rebar3/rebar3_lfe" />
-  <id>urn:rprimus:github:lfe-rebar3:rebar3_lfe</id>
-  <published>2020-07-13T13:34:20Z</published>
-  <updated>2020-07-13T13:34:20Z</updated>
-  <content type="html">
-   A comprehensive LFE rebar3 plugin for all your LFE tooling needs
-  </content>
- </entry>
- <entry>
-  <title>icfpcontest2020: starterkit-erlang</title>
-  <author>
-   <name>icfpcontest2020</name>
-  </author>
-  <link href="https://github.com/icfpcontest2020/starterkit-erlang" />
-  <id>urn:rprimus:github:icfpcontest2020:starterkit-erlang</id>
-  <published>2020-07-13T10:15:23Z</published>
-  <updated>2020-07-13T10:15:23Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>moke996: emqx-auth-http</title>
-  <author>
-   <name>moke996</name>
-  </author>
-  <link href="https://github.com/moke996/emqx-auth-http" />
-  <id>urn:rprimus:github:moke996:emqx-auth-http</id>
-  <published>2020-07-13T09:21:56Z</published>
-  <updated>2020-07-13T09:21:56Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>dumendil: fan-box-test</title>
-  <author>
-   <name>dumendil</name>
-  </author>
-  <link href="https://github.com/dumendil/fan-box-test" />
-  <id>urn:rprimus:github:dumendil:fan-box-test</id>
-  <published>2020-07-13T05:22:22Z</published>
-  <updated>2020-07-13T05:22:22Z</updated>
-  <content type="html">
-   test
   </content>
  </entry>
 </feed>
