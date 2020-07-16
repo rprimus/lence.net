@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2020-07-15T03:33:26Z</updated>
+<updated>2020-07-16T04:02:37Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>xyx0no646: hamoten4krkrz</title>
+  <author>
+   <name>xyx0no646</name>
+  </author>
+  <link href="https://github.com/xyx0no646/hamoten4krkrz" />
+  <id>urn:rprimus:github:xyx0no646:hamoten4krkrz</id>
+  <published>2020-07-16T04:02:37Z</published>
+  <updated>2020-07-16T04:02:37Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>franzinc: cl-honeycomb</title>
+  <author>
+   <name>franzinc</name>
+  </author>
+  <link href="https://github.com/franzinc/cl-honeycomb" />
+  <id>urn:rprimus:github:franzinc:cl-honeycomb</id>
+  <published>2020-07-15T15:46:27Z</published>
+  <updated>2020-07-15T15:46:27Z</updated>
+  <content type="html">
+   Allegro CL Interface to Honeycomb
+  </content>
+ </entry>
+ <entry>
+  <title>moredhel0: diab</title>
+  <author>
+   <name>moredhel0</name>
+  </author>
+  <link href="https://github.com/moredhel0/diab" />
+  <id>urn:rprimus:github:moredhel0:diab</id>
+  <published>2020-07-15T10:50:54Z</published>
+  <updated>2020-07-15T10:50:54Z</updated>
+  <content type="html">
+   Blutzuckermesswerte Webservice
+  </content>
+ </entry>
+ <entry>
+  <title>Shinmera: file-attributes</title>
+  <author>
+   <name>Shinmera</name>
+  </author>
+  <link href="https://github.com/Shinmera/file-attributes" />
+  <id>urn:rprimus:github:Shinmera:file-attributes</id>
+  <published>2020-07-15T10:26:29Z</published>
+  <updated>2020-07-15T10:26:29Z</updated>
+  <content type="html">
+   Access to common file attributes (uid, gid, permissions, ctime, mtime, atime)
+  </content>
+ </entry>
+ <entry>
+  <title>ogogmad: noughts-and-crosses</title>
+  <author>
+   <name>ogogmad</name>
+  </author>
+  <link href="https://github.com/ogogmad/noughts-and-crosses" />
+  <id>urn:rprimus:github:ogogmad:noughts-and-crosses</id>
+  <published>2020-07-15T09:43:21Z</published>
+  <updated>2020-07-15T09:43:21Z</updated>
+  <content type="html">
+   Noughts and crosses using Common Lisp and LTK
+  </content>
+ </entry>
+ <entry>
+  <title>compufox: plugger</title>
+  <author>
+   <name>compufox</name>
+  </author>
+  <link href="https://github.com/compufox/plugger" />
+  <id>urn:rprimus:github:compufox:plugger</id>
+  <published>2020-07-15T06:51:07Z</published>
+  <updated>2020-07-15T06:51:07Z</updated>
+  <content type="html">
+   easily plug web apis
+  </content>
+ </entry>
  <entry>
   <title>gmath: pallindrome</title>
   <author>
@@ -28,6 +106,19 @@
   <updated>2020-07-15T02:33:45Z</updated>
   <content type="html">
    LoGS is a programmable log analysis engine
+  </content>
+ </entry>
+ <entry>
+  <title>timmyjose: cookbook</title>
+  <author>
+   <name>timmyjose</name>
+  </author>
+  <link href="https://github.com/timmyjose/cookbook" />
+  <id>urn:rprimus:github:timmyjose:cookbook</id>
+  <published>2020-07-14T14:47:24Z</published>
+  <updated>2020-07-14T14:47:24Z</updated>
+  <content type="html">
+   A collection of small snippets/recipes/formulae that I find indispensable.
   </content>
  </entry>
  <entry>
@@ -67,71 +158,6 @@
   <updated>2020-07-14T04:11:15Z</updated>
   <content type="html">
    mastodon desktop client built with gtk3 and lisp
-  </content>
- </entry>
- <entry>
-  <title>kravchuk4412: Lisp</title>
-  <author>
-   <name>kravchuk4412</name>
-  </author>
-  <link href="https://github.com/kravchuk4412/Lisp" />
-  <id>urn:rprimus:github:kravchuk4412:Lisp</id>
-  <published>2020-07-13T16:52:22Z</published>
-  <updated>2020-07-13T16:52:22Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>koto-bank: objective-cl</title>
-  <author>
-   <name>koto-bank</name>
-  </author>
-  <link href="https://github.com/koto-bank/objective-cl" />
-  <id>urn:rprimus:github:koto-bank:objective-cl</id>
-  <published>2020-07-13T16:12:29Z</published>
-  <updated>2020-07-13T16:12:29Z</updated>
-  <content type="html">
-   Objective Common Lisp 
-  </content>
- </entry>
- <entry>
-  <title>cbeo: lambda-tools</title>
-  <author>
-   <name>cbeo</name>
-  </author>
-  <link href="https://github.com/cbeo/lambda-tools" />
-  <id>urn:rprimus:github:cbeo:lambda-tools</id>
-  <published>2020-07-13T13:35:19Z</published>
-  <updated>2020-07-13T13:35:19Z</updated>
-  <content type="html">
-   My lisp utilities for making and combining functions
-  </content>
- </entry>
- <entry>
-  <title>Abzalov50: zaserve</title>
-  <author>
-   <name>Abzalov50</name>
-  </author>
-  <link href="https://github.com/Abzalov50/zaserve" />
-  <id>urn:rprimus:github:Abzalov50:zaserve</id>
-  <published>2020-07-13T10:36:38Z</published>
-  <updated>2020-07-13T10:36:38Z</updated>
-  <content type="html">
-   This is a modified version of the Common Lisp `zaserve&#039; package, itself a portable version of Allegro Serve
-  </content>
- </entry>
- <entry>
-  <title>narilth: cl-learn-opengl</title>
-  <author>
-   <name>narilth</name>
-  </author>
-  <link href="https://github.com/narilth/cl-learn-opengl" />
-  <id>urn:rprimus:github:narilth:cl-learn-opengl</id>
-  <published>2020-07-13T01:55:50Z</published>
-  <updated>2020-07-13T01:55:50Z</updated>
-  <content type="html">
-   Following Learn OpenGL tutorial in Common Lisp
   </content>
  </entry>
 </feed>
