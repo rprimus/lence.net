@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-racket.atom"/>
 <id>urn:rprimus:github:newracketrepos</id>
-<updated>2020-07-15T22:40:30Z</updated>
+<updated>2020-07-16T21:15:33Z</updated>
 <title type='text'>New GitHub Racket Repos</title>
+ <entry>
+  <title>jakub-c: exercises-the-little-schemer</title>
+  <author>
+   <name>jakub-c</name>
+  </author>
+  <link href="https://github.com/jakub-c/exercises-the-little-schemer" />
+  <id>urn:rprimus:github:jakub-c:exercises-the-little-schemer</id>
+  <published>2020-07-16T21:15:33Z</published>
+  <updated>2020-07-16T21:15:33Z</updated>
+  <content type="html">
+   Documentation of my journey through the book &quot;The Little Schemer&quot; 
+  </content>
+ </entry>
  <entry>
   <title>MatinTavakoli: Programming-Languages</title>
   <author>
@@ -31,120 +44,16 @@
   </content>
  </entry>
  <entry>
-  <title>AcostaSimon: MarioBros-Racket</title>
+  <title>icfpcontest2020: starterkit-racket</title>
   <author>
-   <name>AcostaSimon</name>
+   <name>icfpcontest2020</name>
   </author>
-  <link href="https://github.com/AcostaSimon/MarioBros-Racket" />
-  <id>urn:rprimus:github:AcostaSimon:MarioBros-Racket</id>
-  <published>2020-07-14T22:22:20Z</published>
-  <updated>2020-07-14T22:22:20Z</updated>
-  <content type="html">
-   Programa interactivo en Racket (DrRacket), el cual es un lenguaje de programaciÃ³n de amplio espectro de la familia de Lisp y Scheme. Es multiparadigma asÃ­ como de propÃ³sito general.
-  </content>
- </entry>
- <entry>
-  <title>chansey97: imperative-stack</title>
-  <author>
-   <name>chansey97</name>
-  </author>
-  <link href="https://github.com/chansey97/imperative-stack" />
-  <id>urn:rprimus:github:chansey97:imperative-stack</id>
-  <published>2020-07-14T20:32:15Z</published>
-  <updated>2020-07-14T20:32:15Z</updated>
-  <content type="html">
-   An imperative stack in Racket
-  </content>
- </entry>
- <entry>
-  <title>raihaan123: Valispace-OpenRocket-Integration</title>
-  <author>
-   <name>raihaan123</name>
-  </author>
-  <link href="https://github.com/raihaan123/Valispace-OpenRocket-Integration" />
-  <id>urn:rprimus:github:raihaan123:Valispace-OpenRocket-Integration</id>
-  <published>2020-07-14T20:10:55Z</published>
-  <updated>2020-07-14T20:10:55Z</updated>
-  <content type="html">
-   Heroku-based integration tool for syncing OpenRocket (.rkt) models with the Valispace REST-API.
-  </content>
- </entry>
- <entry>
-  <title>AnaCrisOliver: racket</title>
-  <author>
-   <name>AnaCrisOliver</name>
-  </author>
-  <link href="https://github.com/AnaCrisOliver/racket" />
-  <id>urn:rprimus:github:AnaCrisOliver:racket</id>
-  <published>2020-07-14T18:36:05Z</published>
-  <updated>2020-07-14T18:36:05Z</updated>
+  <link href="https://github.com/icfpcontest2020/starterkit-racket" />
+  <id>urn:rprimus:github:icfpcontest2020:starterkit-racket</id>
+  <published>2020-07-15T09:24:44Z</published>
+  <updated>2020-07-15T09:24:44Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>jadudm: archive</title>
-  <author>
-   <name>jadudm</name>
-  </author>
-  <link href="https://github.com/jadudm/archive" />
-  <id>urn:rprimus:github:jadudm:archive</id>
-  <published>2020-07-14T17:46:01Z</published>
-  <updated>2020-07-14T17:46:01Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jadudm: tbl</title>
-  <author>
-   <name>jadudm</name>
-  </author>
-  <link href="https://github.com/jadudm/tbl" />
-  <id>urn:rprimus:github:jadudm:tbl</id>
-  <published>2020-07-14T17:44:27Z</published>
-  <updated>2020-07-14T17:44:27Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ramprasadkillari: Chain-Reaction-Racket</title>
-  <author>
-   <name>ramprasadkillari</name>
-  </author>
-  <link href="https://github.com/ramprasadkillari/Chain-Reaction-Racket" />
-  <id>urn:rprimus:github:ramprasadkillari:Chain-Reaction-Racket</id>
-  <published>2020-07-14T13:25:57Z</published>
-  <updated>2020-07-14T13:25:57Z</updated>
-  <content type="html">
-   [Course Project, CS 152( 2017-2 ) - IIT Bombay] DR RACKET implementation of the game CHAIN REACTION. (Single/Multi-Player)
-  </content>
- </entry>
- <entry>
-  <title>ollycohen: honeycomblogo</title>
-  <author>
-   <name>ollycohen</name>
-  </author>
-  <link href="https://github.com/ollycohen/honeycomblogo" />
-  <id>urn:rprimus:github:ollycohen:honeycomblogo</id>
-  <published>2020-07-14T03:14:34Z</published>
-  <updated>2020-07-14T03:14:34Z</updated>
-  <content type="html">
-   This is the honeycomb
-  </content>
- </entry>
- <entry>
-  <title>smallyunet: a-sample-web-server</title>
-  <author>
-   <name>smallyunet</name>
-  </author>
-  <link href="https://github.com/smallyunet/a-sample-web-server" />
-  <id>urn:rprimus:github:smallyunet:a-sample-web-server</id>
-  <published>2020-07-14T01:43:10Z</published>
-  <updated>2020-07-14T01:43:10Z</updated>
-  <content type="html">
-   a sample web server
   </content>
  </entry>
 </feed>
