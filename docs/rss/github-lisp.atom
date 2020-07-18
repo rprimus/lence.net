@@ -2,8 +2,138 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2020-07-16T20:03:10Z</updated>
+<updated>2020-07-17T23:27:06Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>Plisp: uncursed</title>
+  <author>
+   <name>Plisp</name>
+  </author>
+  <link href="https://github.com/Plisp/uncursed" />
+  <id>urn:rprimus:github:Plisp:uncursed</id>
+  <published>2020-07-17T23:27:06Z</published>
+  <updated>2020-07-17T23:27:06Z</updated>
+  <content type="html">
+   A blessed fixed greased +3 terminal library
+  </content>
+ </entry>
+ <entry>
+  <title>darrenmkim: devico</title>
+  <author>
+   <name>darrenmkim</name>
+  </author>
+  <link href="https://github.com/darrenmkim/devico" />
+  <id>urn:rprimus:github:darrenmkim:devico</id>
+  <published>2020-07-17T20:32:22Z</published>
+  <updated>2020-07-17T20:32:22Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>mmontone: hunchentoot-errors</title>
+  <author>
+   <name>mmontone</name>
+  </author>
+  <link href="https://github.com/mmontone/hunchentoot-errors" />
+  <id>urn:rprimus:github:mmontone:hunchentoot-errors</id>
+  <published>2020-07-17T17:04:18Z</published>
+  <updated>2020-07-17T17:04:18Z</updated>
+  <content type="html">
+   Augments Hunchentoot error pages and logs with request and session information.
+  </content>
+ </entry>
+ <entry>
+  <title>condorsf: touretzky</title>
+  <author>
+   <name>condorsf</name>
+  </author>
+  <link href="https://github.com/condorsf/touretzky" />
+  <id>urn:rprimus:github:condorsf:touretzky</id>
+  <published>2020-07-17T16:55:41Z</published>
+  <updated>2020-07-17T16:55:41Z</updated>
+  <content type="html">
+   Common Lisp unit tests to help students of David Touretzky&#039;s book.
+  </content>
+ </entry>
+ <entry>
+  <title>shukryzablah: amherst-transcript</title>
+  <author>
+   <name>shukryzablah</name>
+  </author>
+  <link href="https://github.com/shukryzablah/amherst-transcript" />
+  <id>urn:rprimus:github:shukryzablah:amherst-transcript</id>
+  <published>2020-07-17T15:45:33Z</published>
+  <updated>2020-07-17T15:45:33Z</updated>
+  <content type="html">
+   Tool for Amherst College students to understand their transcript. This is a mirror of https://gitlab.com/shukryzablah/amherst-transcript
+  </content>
+ </entry>
+ <entry>
+  <title>ccqpein: Github-API-CL</title>
+  <author>
+   <name>ccqpein</name>
+  </author>
+  <link href="https://github.com/ccqpein/Github-API-CL" />
+  <id>urn:rprimus:github:ccqpein:Github-API-CL</id>
+  <published>2020-07-17T15:16:24Z</published>
+  <updated>2020-07-17T15:16:24Z</updated>
+  <content type="html">
+   Common Lisp Github API Client 
+  </content>
+ </entry>
+ <entry>
+  <title>guillaume-michel: play-with-blas</title>
+  <author>
+   <name>guillaume-michel</name>
+  </author>
+  <link href="https://github.com/guillaume-michel/play-with-blas" />
+  <id>urn:rprimus:github:guillaume-michel:play-with-blas</id>
+  <published>2020-07-17T14:35:26Z</published>
+  <updated>2020-07-17T14:35:26Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>TurtleWarePL: eu.turtleware.charming-clim</title>
+  <author>
+   <name>TurtleWarePL</name>
+  </author>
+  <link href="https://github.com/TurtleWarePL/eu.turtleware.charming-clim" />
+  <id>urn:rprimus:github:TurtleWarePL:eu.turtleware.charming-clim</id>
+  <published>2020-07-17T12:45:39Z</published>
+  <updated>2020-07-17T12:45:39Z</updated>
+  <content type="html">
+   Terminal manipulation library written in Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>rio-56: ucla-cs161</title>
+  <author>
+   <name>rio-56</name>
+  </author>
+  <link href="https://github.com/rio-56/ucla-cs161" />
+  <id>urn:rprimus:github:rio-56:ucla-cs161</id>
+  <published>2020-07-17T08:08:05Z</published>
+  <updated>2020-07-17T08:08:05Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>SYMINAL: reign</title>
+  <author>
+   <name>SYMINAL</name>
+  </author>
+  <link href="https://github.com/SYMINAL/reign" />
+  <id>urn:rprimus:github:SYMINAL:reign</id>
+  <published>2020-07-17T06:58:15Z</published>
+  <updated>2020-07-17T06:58:15Z</updated>
+  <content type="html">
+   Control / Stream -&gt; Rain -&gt; Reign (haha, get it? GET IT?!); Niceties For Streaming On Largely Common-Lisp &amp; Racket; Will Eventually Host Programmable Widgets &amp; A Stream Bot Framework.
+  </content>
+ </entry>
  <entry>
   <title>Reese-D: Caveman2</title>
   <author>
@@ -44,19 +174,6 @@
   </content>
  </entry>
  <entry>
-  <title>AlanPerrin: The-Nature-of-Learning-code</title>
-  <author>
-   <name>AlanPerrin</name>
-  </author>
-  <link href="https://github.com/AlanPerrin/The-Nature-of-Learning-code" />
-  <id>urn:rprimus:github:AlanPerrin:The-Nature-of-Learning-code</id>
-  <published>2020-07-16T14:26:27Z</published>
-  <updated>2020-07-16T14:26:27Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
   <title>xyx0no646: hamoten4krkrz</title>
   <author>
    <name>xyx0no646</name>
@@ -67,110 +184,6 @@
   <updated>2020-07-16T04:02:37Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>franzinc: cl-honeycomb</title>
-  <author>
-   <name>franzinc</name>
-  </author>
-  <link href="https://github.com/franzinc/cl-honeycomb" />
-  <id>urn:rprimus:github:franzinc:cl-honeycomb</id>
-  <published>2020-07-15T15:46:27Z</published>
-  <updated>2020-07-15T15:46:27Z</updated>
-  <content type="html">
-   Allegro CL Interface to Honeycomb
-  </content>
- </entry>
- <entry>
-  <title>moredhel0: diab</title>
-  <author>
-   <name>moredhel0</name>
-  </author>
-  <link href="https://github.com/moredhel0/diab" />
-  <id>urn:rprimus:github:moredhel0:diab</id>
-  <published>2020-07-15T10:50:54Z</published>
-  <updated>2020-07-15T10:50:54Z</updated>
-  <content type="html">
-   Blutzuckermesswerte Webservice
-  </content>
- </entry>
- <entry>
-  <title>Shinmera: file-attributes</title>
-  <author>
-   <name>Shinmera</name>
-  </author>
-  <link href="https://github.com/Shinmera/file-attributes" />
-  <id>urn:rprimus:github:Shinmera:file-attributes</id>
-  <published>2020-07-15T10:26:29Z</published>
-  <updated>2020-07-15T10:26:29Z</updated>
-  <content type="html">
-   Access to common file attributes (uid, gid, permissions, ctime, mtime, atime)
-  </content>
- </entry>
- <entry>
-  <title>ogogmad: noughts-and-crosses</title>
-  <author>
-   <name>ogogmad</name>
-  </author>
-  <link href="https://github.com/ogogmad/noughts-and-crosses" />
-  <id>urn:rprimus:github:ogogmad:noughts-and-crosses</id>
-  <published>2020-07-15T09:43:21Z</published>
-  <updated>2020-07-15T09:43:21Z</updated>
-  <content type="html">
-   Noughts and crosses using Common Lisp and LTK
-  </content>
- </entry>
- <entry>
-  <title>dnaeon: cl-openssh-cert</title>
-  <author>
-   <name>dnaeon</name>
-  </author>
-  <link href="https://github.com/dnaeon/cl-openssh-cert" />
-  <id>urn:rprimus:github:dnaeon:cl-openssh-cert</id>
-  <published>2020-07-15T09:39:40Z</published>
-  <updated>2020-07-15T09:39:40Z</updated>
-  <content type="html">
-   Common Lisp library for parsing OpenSSH certificates
-  </content>
- </entry>
- <entry>
-  <title>compufox: plugger</title>
-  <author>
-   <name>compufox</name>
-  </author>
-  <link href="https://github.com/compufox/plugger" />
-  <id>urn:rprimus:github:compufox:plugger</id>
-  <published>2020-07-15T06:51:07Z</published>
-  <updated>2020-07-15T06:51:07Z</updated>
-  <content type="html">
-   easily plug web apis
-  </content>
- </entry>
- <entry>
-  <title>gmath: pallindrome</title>
-  <author>
-   <name>gmath</name>
-  </author>
-  <link href="https://github.com/gmath/pallindrome" />
-  <id>urn:rprimus:github:gmath:pallindrome</id>
-  <published>2020-07-15T03:33:26Z</published>
-  <updated>2020-07-15T03:33:26Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jingtaozf: LoGS</title>
-  <author>
-   <name>jingtaozf</name>
-  </author>
-  <link href="https://github.com/jingtaozf/LoGS" />
-  <id>urn:rprimus:github:jingtaozf:LoGS</id>
-  <published>2020-07-15T02:33:45Z</published>
-  <updated>2020-07-15T02:33:45Z</updated>
-  <content type="html">
-   LoGS is a programmable log analysis engine
   </content>
  </entry>
 </feed>
