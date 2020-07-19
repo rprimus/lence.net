@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-racket.atom"/>
 <id>urn:rprimus:github:newracketrepos</id>
-<updated>2020-07-18T00:53:52Z</updated>
+<updated>2020-07-18T21:16:13Z</updated>
 <title type='text'>New GitHub Racket Repos</title>
+ <entry>
+  <title>jackfirth: miniracksis</title>
+  <author>
+   <name>jackfirth</name>
+  </author>
+  <link href="https://github.com/jackfirth/miniracksis" />
+  <id>urn:rprimus:github:jackfirth:miniracksis</id>
+  <published>2020-07-18T21:16:13Z</published>
+  <updated>2020-07-18T21:16:13Z</updated>
+  <content type="html">
+   A Racket port of the Minithesis property testing library
+  </content>
+ </entry>
  <entry>
   <title>kbilal1993: wallpaper-generator</title>
   <author>
@@ -96,6 +109,19 @@
   </content>
  </entry>
  <entry>
+  <title>macoovacany: paip-rkt</title>
+  <author>
+   <name>macoovacany</name>
+  </author>
+  <link href="https://github.com/macoovacany/paip-rkt" />
+  <id>urn:rprimus:github:macoovacany:paip-rkt</id>
+  <published>2020-07-17T14:26:55Z</published>
+  <updated>2020-07-17T14:26:55Z</updated>
+  <content type="html">
+   Paradigms of Artificial Intelligence Programs, roughly translated into Racket
+  </content>
+ </entry>
+ <entry>
   <title>alexhunsley: ringing-methods-in-racket</title>
   <author>
    <name>alexhunsley</name>
@@ -158,19 +184,6 @@
   <updated>2020-07-17T05:18:11Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>jakub-c: exercises-the-little-schemer</title>
-  <author>
-   <name>jakub-c</name>
-  </author>
-  <link href="https://github.com/jakub-c/exercises-the-little-schemer" />
-  <id>urn:rprimus:github:jakub-c:exercises-the-little-schemer</id>
-  <published>2020-07-16T21:15:33Z</published>
-  <updated>2020-07-16T21:15:33Z</updated>
-  <content type="html">
-   Documentation of my journey through the book &quot;The Little Schemer&quot; 
   </content>
  </entry>
 </feed>
