@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-racket.atom"/>
 <id>urn:rprimus:github:newracketrepos</id>
-<updated>2020-07-18T21:16:13Z</updated>
+<updated>2020-07-20T05:06:15Z</updated>
 <title type='text'>New GitHub Racket Repos</title>
+ <entry>
+  <title>robertkleffner: bubble</title>
+  <author>
+   <name>robertkleffner</name>
+  </author>
+  <link href="https://github.com/robertkleffner/bubble" />
+  <id>urn:rprimus:github:robertkleffner:bubble</id>
+  <published>2020-07-20T05:06:15Z</published>
+  <updated>2020-07-20T05:06:15Z</updated>
+  <content type="html">
+   Prototype virtual machine, mostly as backend for boba lang
+  </content>
+ </entry>
+ <entry>
+  <title>shuoding: racket-examples</title>
+  <author>
+   <name>shuoding</name>
+  </author>
+  <link href="https://github.com/shuoding/racket-examples" />
+  <id>urn:rprimus:github:shuoding:racket-examples</id>
+  <published>2020-07-19T22:09:54Z</published>
+  <updated>2020-07-19T22:09:54Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>WizardNaiJi: sicp-exs</title>
+  <author>
+   <name>WizardNaiJi</name>
+  </author>
+  <link href="https://github.com/WizardNaiJi/sicp-exs" />
+  <id>urn:rprimus:github:WizardNaiJi:sicp-exs</id>
+  <published>2020-07-19T17:37:35Z</published>
+  <updated>2020-07-19T17:37:35Z</updated>
+  <content type="html">
+   Trying out exercies from &quot;Structure and Interpretation of Computer Programs&quot; second edition
+  </content>
+ </entry>
+ <entry>
+  <title>sorawee: define-who</title>
+  <author>
+   <name>sorawee</name>
+  </author>
+  <link href="https://github.com/sorawee/define-who" />
+  <id>urn:rprimus:github:sorawee:define-who</id>
+  <published>2020-07-19T16:29:59Z</published>
+  <updated>2020-07-19T16:29:59Z</updated>
+  <content type="html">
+   An anaphoric macro that binds `who` to function name
+  </content>
+ </entry>
+ <entry>
+  <title>Uniminin: Racket-Exercises</title>
+  <author>
+   <name>Uniminin</name>
+  </author>
+  <link href="https://github.com/Uniminin/Racket-Exercises" />
+  <id>urn:rprimus:github:Uniminin:Racket-Exercises</id>
+  <published>2020-07-19T09:12:39Z</published>
+  <updated>2020-07-19T09:12:39Z</updated>
+  <content type="html">
+   My Racket exercises are here
+  </content>
+ </entry>
  <entry>
   <title>jackfirth: miniracksis</title>
   <author>
@@ -28,162 +93,6 @@
   <updated>2020-07-18T00:53:52Z</updated>
   <content type="html">
    A tool made to make a nice, distraction-free wallpaper
-  </content>
- </entry>
- <entry>
-  <title>nkatz01: pp-worksheet-five-fp-two-nkatz01</title>
-  <author>
-   <name>nkatz01</name>
-  </author>
-  <link href="https://github.com/nkatz01/pp-worksheet-five-fp-two-nkatz01" />
-  <id>urn:rprimus:github:nkatz01:pp-worksheet-five-fp-two-nkatz01</id>
-  <published>2020-07-17T19:17:27Z</published>
-  <updated>2020-07-17T19:17:27Z</updated>
-  <content type="html">
-   pp-worksheet-five-fp-two-nkatz01 created by GitHub Classroom
-  </content>
- </entry>
- <entry>
-  <title>nkatz01: pp-worksheet-six-fp-three-nkatz01</title>
-  <author>
-   <name>nkatz01</name>
-  </author>
-  <link href="https://github.com/nkatz01/pp-worksheet-six-fp-three-nkatz01" />
-  <id>urn:rprimus:github:nkatz01:pp-worksheet-six-fp-three-nkatz01</id>
-  <published>2020-07-17T19:15:28Z</published>
-  <updated>2020-07-17T19:15:28Z</updated>
-  <content type="html">
-   pp-worksheet-six-fp-three-nkatz01 created by GitHub Classroom
-  </content>
- </entry>
- <entry>
-  <title>nkatz01: worksheet-four-functional-programming-i-supplemental-nkatz01</title>
-  <author>
-   <name>nkatz01</name>
-  </author>
-  <link href="https://github.com/nkatz01/worksheet-four-functional-programming-i-supplemental-nkatz01" />
-  <id>urn:rprimus:github:nkatz01:worksheet-four-functional-programming-i-supplemental-nkatz01</id>
-  <published>2020-07-17T19:07:13Z</published>
-  <updated>2020-07-17T19:07:13Z</updated>
-  <content type="html">
-   worksheet-four-functional-programming-i-supplemental-nkatz01 created by GitHub Classroom
-  </content>
- </entry>
- <entry>
-  <title>nkatz01: pp-worksheet-four-fp-one-nkatz01</title>
-  <author>
-   <name>nkatz01</name>
-  </author>
-  <link href="https://github.com/nkatz01/pp-worksheet-four-fp-one-nkatz01" />
-  <id>urn:rprimus:github:nkatz01:pp-worksheet-four-fp-one-nkatz01</id>
-  <published>2020-07-17T19:00:17Z</published>
-  <updated>2020-07-17T19:00:17Z</updated>
-  <content type="html">
-   pp-worksheet-four-fp-one-nkatz01 created by GitHub Classroom
-  </content>
- </entry>
- <entry>
-  <title>japoorv: biohacker-medikanren</title>
-  <author>
-   <name>japoorv</name>
-  </author>
-  <link href="https://github.com/japoorv/biohacker-medikanren" />
-  <id>urn:rprimus:github:japoorv:biohacker-medikanren</id>
-  <published>2020-07-17T17:30:50Z</published>
-  <updated>2020-07-17T17:30:50Z</updated>
-  <content type="html">
-   Integration of BMS with medikanren
-  </content>
- </entry>
- <entry>
-  <title>nkatz01: functional-programming-nkatz01</title>
-  <author>
-   <name>nkatz01</name>
-  </author>
-  <link href="https://github.com/nkatz01/functional-programming-nkatz01" />
-  <id>urn:rprimus:github:nkatz01:functional-programming-nkatz01</id>
-  <published>2020-07-17T15:21:33Z</published>
-  <updated>2020-07-17T15:21:33Z</updated>
-  <content type="html">
-   Interpreter for simple C-- programming language, implemented in Racket
-  </content>
- </entry>
- <entry>
-  <title>macoovacany: paip-rkt</title>
-  <author>
-   <name>macoovacany</name>
-  </author>
-  <link href="https://github.com/macoovacany/paip-rkt" />
-  <id>urn:rprimus:github:macoovacany:paip-rkt</id>
-  <published>2020-07-17T14:26:55Z</published>
-  <updated>2020-07-17T14:26:55Z</updated>
-  <content type="html">
-   Paradigms of Artificial Intelligence Programs, roughly translated into Racket
-  </content>
- </entry>
- <entry>
-  <title>alexhunsley: ringing-methods-in-racket</title>
-  <author>
-   <name>alexhunsley</name>
-  </author>
-  <link href="https://github.com/alexhunsley/ringing-methods-in-racket" />
-  <id>urn:rprimus:github:alexhunsley:ringing-methods-in-racket</id>
-  <published>2020-07-17T11:07:36Z</published>
-  <updated>2020-07-17T11:07:36Z</updated>
-  <content type="html">
-   Trying out Racket
-  </content>
- </entry>
- <entry>
-  <title>kamathmanu: SICP-Misc</title>
-  <author>
-   <name>kamathmanu</name>
-  </author>
-  <link href="https://github.com/kamathmanu/SICP-Misc" />
-  <id>urn:rprimus:github:kamathmanu:SICP-Misc</id>
-  <published>2020-07-17T10:54:07Z</published>
-  <updated>2020-07-17T10:54:07Z</updated>
-  <content type="html">
-   Personal repository that is complementary to the SICP-2020 PLVM repo
-  </content>
- </entry>
- <entry>
-  <title>sadiuysal: Tents_Puzzle_Solver</title>
-  <author>
-   <name>sadiuysal</name>
-  </author>
-  <link href="https://github.com/sadiuysal/Tents_Puzzle_Solver" />
-  <id>urn:rprimus:github:sadiuysal:Tents_Puzzle_Solver</id>
-  <published>2020-07-17T10:36:16Z</published>
-  <updated>2020-07-17T10:36:16Z</updated>
-  <content type="html">
-   Tents Puzzle Solver written in Scheme
-  </content>
- </entry>
- <entry>
-  <title>wilbowma: scribble-bettergrammar</title>
-  <author>
-   <name>wilbowma</name>
-  </author>
-  <link href="https://github.com/wilbowma/scribble-bettergrammar" />
-  <id>urn:rprimus:github:wilbowma:scribble-bettergrammar</id>
-  <published>2020-07-17T06:54:31Z</published>
-  <updated>2020-07-17T06:54:31Z</updated>
-  <content type="html">
-   A Scribble library for typesetting grammars better
-  </content>
- </entry>
- <entry>
-  <title>farafleur: RACKET-EX-source-code</title>
-  <author>
-   <name>farafleur</name>
-  </author>
-  <link href="https://github.com/farafleur/RACKET-EX-source-code" />
-  <id>urn:rprimus:github:farafleur:RACKET-EX-source-code</id>
-  <published>2020-07-17T05:18:11Z</published>
-  <updated>2020-07-17T05:18:11Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
