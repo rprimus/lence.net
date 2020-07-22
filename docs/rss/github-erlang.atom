@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-erlang.atom"/>
 <id>urn:rprimus:github:newerlangrepos</id>
-<updated>2020-07-21T06:59:20Z</updated>
+<updated>2020-07-22T03:11:34Z</updated>
 <title type='text'>New GitHub Erlang Repos</title>
+ <entry>
+  <title>mikeyhc: rosalind-erl</title>
+  <author>
+   <name>mikeyhc</name>
+  </author>
+  <link href="https://github.com/mikeyhc/rosalind-erl" />
+  <id>urn:rprimus:github:mikeyhc:rosalind-erl</id>
+  <published>2020-07-22T03:11:34Z</published>
+  <updated>2020-07-22T03:11:34Z</updated>
+  <content type="html">
+   The rosalind challenges (http://rosalind.info) in erlang
+  </content>
+ </entry>
+ <entry>
+  <title>araditc: emqx_kafka_bridge</title>
+  <author>
+   <name>araditc</name>
+  </author>
+  <link href="https://github.com/araditc/emqx_kafka_bridge" />
+  <id>urn:rprimus:github:araditc:emqx_kafka_bridge</id>
+  <published>2020-07-21T22:38:30Z</published>
+  <updated>2020-07-21T22:38:30Z</updated>
+  <content type="html">
+   This is a plugin for the EMQX broker that sends all messages received by the broker to kafka.
+  </content>
+ </entry>
+ <entry>
+  <title>Chlorophytus: eactivitypub</title>
+  <author>
+   <name>Chlorophytus</name>
+  </author>
+  <link href="https://github.com/Chlorophytus/eactivitypub" />
+  <id>urn:rprimus:github:Chlorophytus:eactivitypub</id>
+  <published>2020-07-21T20:16:21Z</published>
+  <updated>2020-07-21T20:16:21Z</updated>
+  <content type="html">
+   Erlang-powered ActivityPub / Mastodon
+  </content>
+ </entry>
+ <entry>
+  <title>aleklisi: erl_nodes_autodiscovery</title>
+  <author>
+   <name>aleklisi</name>
+  </author>
+  <link href="https://github.com/aleklisi/erl_nodes_autodiscovery" />
+  <id>urn:rprimus:github:aleklisi:erl_nodes_autodiscovery</id>
+  <published>2020-07-21T15:03:56Z</published>
+  <updated>2020-07-21T15:03:56Z</updated>
+  <content type="html">
+   A simple application using UDP to automatically discover and connect to Erlang nodes
+  </content>
+ </entry>
  <entry>
   <title>AssoGu: dss</title>
   <author>
@@ -52,32 +104,6 @@
   <id>urn:rprimus:github:vasmosh:test_fb</id>
   <published>2020-07-20T06:02:31Z</published>
   <updated>2020-07-20T06:02:31Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jiaoyinyi: erlang_logs</title>
-  <author>
-   <name>jiaoyinyi</name>
-  </author>
-  <link href="https://github.com/jiaoyinyi/erlang_logs" />
-  <id>urn:rprimus:github:jiaoyinyi:erlang_logs</id>
-  <published>2020-07-19T14:31:48Z</published>
-  <updated>2020-07-19T14:31:48Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>joq62: config_service</title>
-  <author>
-   <name>joq62</name>
-  </author>
-  <link href="https://github.com/joq62/config_service" />
-  <id>urn:rprimus:github:joq62:config_service</id>
-  <published>2020-07-19T07:51:05Z</published>
-  <updated>2020-07-19T07:51:05Z</updated>
   <content type="html">
    
   </content>
