@@ -2,8 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2020-07-20T23:39:46Z</updated>
+<updated>2020-07-22T01:47:11Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>samielatri: initiation-ocaml</title>
+  <author>
+   <name>samielatri</name>
+  </author>
+  <link href="https://github.com/samielatri/initiation-ocaml" />
+  <id>urn:rprimus:github:samielatri:initiation-ocaml</id>
+  <published>2020-07-22T01:47:11Z</published>
+  <updated>2020-07-22T01:47:11Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>fumita: compiler</title>
+  <author>
+   <name>fumita</name>
+  </author>
+  <link href="https://github.com/fumita/compiler" />
+  <id>urn:rprimus:github:fumita:compiler</id>
+  <published>2020-07-21T14:44:48Z</published>
+  <updated>2020-07-21T14:44:48Z</updated>
+  <content type="html">
+   [WIP] The original compiler written in OCaml
+  </content>
+ </entry>
+ <entry>
+  <title>laurenharpole: Gardening-Game</title>
+  <author>
+   <name>laurenharpole</name>
+  </author>
+  <link href="https://github.com/laurenharpole/Gardening-Game" />
+  <id>urn:rprimus:github:laurenharpole:Gardening-Game</id>
+  <published>2020-07-21T14:23:15Z</published>
+  <updated>2020-07-21T14:23:15Z</updated>
+  <content type="html">
+   A game created with functional programming language, OCaml, which simulates managing a garden. The user can purchase seeds at a shop and plant those seeds after tilling some land. The user can âstepâ to the next day by sleeping. After a plant grows to full age, the player can harvest it and sell it back to the shop! Watch out though, if you donât water your plants every day, they die! Graphics done using the OCaml Graphical Interface. Created by myself and my team as a final project for CS 3110.
+  </content>
+ </entry>
+ <entry>
+  <title>bhfarb: CS51_final_project</title>
+  <author>
+   <name>bhfarb</name>
+  </author>
+  <link href="https://github.com/bhfarb/CS51_final_project" />
+  <id>urn:rprimus:github:bhfarb:CS51_final_project</id>
+  <published>2020-07-21T13:55:48Z</published>
+  <updated>2020-07-21T13:55:48Z</updated>
+  <content type="html">
+   OCaml-like language Miniml.
+  </content>
+ </entry>
+ <entry>
+  <title>Ngoguey42: io</title>
+  <author>
+   <name>Ngoguey42</name>
+  </author>
+  <link href="https://github.com/Ngoguey42/io" />
+  <id>urn:rprimus:github:Ngoguey42:io</id>
+  <published>2020-07-21T13:45:39Z</published>
+  <updated>2020-07-21T13:45:39Z</updated>
+  <content type="html">
+   ngoguey42.github.io
+  </content>
+ </entry>
+ <entry>
+  <title>bikallem: reparse</title>
+  <author>
+   <name>bikallem</name>
+  </author>
+  <link href="https://github.com/bikallem/reparse" />
+  <id>urn:rprimus:github:bikallem:reparse</id>
+  <published>2020-07-21T11:55:01Z</published>
+  <updated>2020-07-21T11:55:01Z</updated>
+  <content type="html">
+   Recursive descent, monadic parser for ocaml
+  </content>
+ </entry>
+ <entry>
+  <title>love11mishra: mpi-testing</title>
+  <author>
+   <name>love11mishra</name>
+  </author>
+  <link href="https://github.com/love11mishra/mpi-testing" />
+  <id>urn:rprimus:github:love11mishra:mpi-testing</id>
+  <published>2020-07-21T08:29:40Z</published>
+  <updated>2020-07-21T08:29:40Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>aakif-h: Ocaml-Tutorial</title>
   <author>
@@ -80,45 +171,6 @@
   <updated>2020-07-20T08:49:47Z</updated>
   <content type="html">
    Implementation of a toy logic programming language, 
-  </content>
- </entry>
- <entry>
-  <title>guillecosta: markov-chain-text-gen</title>
-  <author>
-   <name>guillecosta</name>
-  </author>
-  <link href="https://github.com/guillecosta/markov-chain-text-gen" />
-  <id>urn:rprimus:github:guillecosta:markov-chain-text-gen</id>
-  <published>2020-07-19T17:32:30Z</published>
-  <updated>2020-07-19T17:32:30Z</updated>
-  <content type="html">
-   A Markov chain model for text generation written in OCaml.
-  </content>
- </entry>
- <entry>
-  <title>AaronNGray: menhir</title>
-  <author>
-   <name>AaronNGray</name>
-  </author>
-  <link href="https://github.com/AaronNGray/menhir" />
-  <id>urn:rprimus:github:AaronNGray:menhir</id>
-  <published>2020-07-19T16:15:56Z</published>
-  <updated>2020-07-19T16:15:56Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>fccm: ocaml-shmups</title>
-  <author>
-   <name>fccm</name>
-  </author>
-  <link href="https://github.com/fccm/ocaml-shmups" />
-  <id>urn:rprimus:github:fccm:ocaml-shmups</id>
-  <published>2020-07-19T05:38:15Z</published>
-  <updated>2020-07-19T05:38:15Z</updated>
-  <content type="html">
-   humble abstract mini-shmups written in ocaml
   </content>
  </entry>
 </feed>
