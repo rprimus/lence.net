@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2020-07-23T19:20:04Z</updated>
+<updated>2020-07-25T00:10:48Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>Heasummn: ocaml_reg_alloc</title>
+  <author>
+   <name>Heasummn</name>
+  </author>
+  <link href="https://github.com/Heasummn/ocaml_reg_alloc" />
+  <id>urn:rprimus:github:Heasummn:ocaml_reg_alloc</id>
+  <published>2020-07-25T00:10:48Z</published>
+  <updated>2020-07-25T00:10:48Z</updated>
+  <content type="html">
+   Linear Scan Register Allocation written in OCaml
+  </content>
+ </entry>
+ <entry>
+  <title>m-laniakea: opomodoro</title>
+  <author>
+   <name>m-laniakea</name>
+  </author>
+  <link href="https://github.com/m-laniakea/opomodoro" />
+  <id>urn:rprimus:github:m-laniakea:opomodoro</id>
+  <published>2020-07-24T16:43:58Z</published>
+  <updated>2020-07-24T16:43:58Z</updated>
+  <content type="html">
+   A simple Pomodoro timer in OCaml
+  </content>
+ </entry>
+ <entry>
+  <title>greg1002: command-line-chess</title>
+  <author>
+   <name>greg1002</name>
+  </author>
+  <link href="https://github.com/greg1002/command-line-chess" />
+  <id>urn:rprimus:github:greg1002:command-line-chess</id>
+  <published>2020-07-24T14:49:07Z</published>
+  <updated>2020-07-24T14:49:07Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>xnoe: ocaml-mixed-num-calc</title>
+  <author>
+   <name>xnoe</name>
+  </author>
+  <link href="https://github.com/xnoe/ocaml-mixed-num-calc" />
+  <id>urn:rprimus:github:xnoe:ocaml-mixed-num-calc</id>
+  <published>2020-07-24T07:38:05Z</published>
+  <updated>2020-07-24T07:38:05Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>xnoe: ocaml-python-interpreter</title>
+  <author>
+   <name>xnoe</name>
+  </author>
+  <link href="https://github.com/xnoe/ocaml-python-interpreter" />
+  <id>urn:rprimus:github:xnoe:ocaml-python-interpreter</id>
+  <published>2020-07-24T07:24:13Z</published>
+  <updated>2020-07-24T07:24:13Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>taher439: BASIC-compiler</title>
   <author>
@@ -40,7 +105,7 @@
   <published>2020-07-23T17:56:05Z</published>
   <updated>2020-07-23T17:56:05Z</updated>
   <content type="html">
-   Parallel computation in OCaml
+   Parallel computation in OCaml - multicore for really poor people
   </content>
  </entry>
  <entry>
@@ -171,84 +236,6 @@
   <updated>2020-07-23T00:56:04Z</updated>
   <content type="html">
    Code in ocaml that calculate the NULL, First and Follow sets of a given grammar.
-  </content>
- </entry>
- <entry>
-  <title>mr-mattwb: ocamlipc</title>
-  <author>
-   <name>mr-mattwb</name>
-  </author>
-  <link href="https://github.com/mr-mattwb/ocamlipc" />
-  <id>urn:rprimus:github:mr-mattwb:ocamlipc</id>
-  <published>2020-07-22T18:12:37Z</published>
-  <updated>2020-07-22T18:12:37Z</updated>
-  <content type="html">
-   OCaml bindings for Unix/Linux IPC functions
-  </content>
- </entry>
- <entry>
-  <title>JHU-PL-Lab: sato</title>
-  <author>
-   <name>JHU-PL-Lab</name>
-  </author>
-  <link href="https://github.com/JHU-PL-Lab/sato" />
-  <id>urn:rprimus:github:JHU-PL-Lab:sato</id>
-  <published>2020-07-22T14:31:36Z</published>
-  <updated>2020-07-22T14:31:36Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Arbakkinn: maze</title>
-  <author>
-   <name>Arbakkinn</name>
-  </author>
-  <link href="https://github.com/Arbakkinn/maze" />
-  <id>urn:rprimus:github:Arbakkinn:maze</id>
-  <published>2020-07-22T13:45:56Z</published>
-  <updated>2020-07-22T13:45:56Z</updated>
-  <content type="html">
-   A simple maze generator / solver
-  </content>
- </entry>
- <entry>
-  <title>Chirag-Bansal: Excel-Calculator</title>
-  <author>
-   <name>Chirag-Bansal</name>
-  </author>
-  <link href="https://github.com/Chirag-Bansal/Excel-Calculator" />
-  <id>urn:rprimus:github:Chirag-Bansal:Excel-Calculator</id>
-  <published>2020-07-22T08:33:39Z</published>
-  <updated>2020-07-22T08:33:39Z</updated>
-  <content type="html">
-   This lets the user create a excel spreadsheet and lets the user apply various functions
-  </content>
- </entry>
- <entry>
-  <title>Chirag-Bansal: Matrix-and-Vector-Manipulation</title>
-  <author>
-   <name>Chirag-Bansal</name>
-  </author>
-  <link href="https://github.com/Chirag-Bansal/Matrix-and-Vector-Manipulation" />
-  <id>urn:rprimus:github:Chirag-Bansal:Matrix-and-Vector-Manipulation</id>
-  <published>2020-07-22T06:31:00Z</published>
-  <updated>2020-07-22T06:31:00Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>samielatri: initiation-ocaml</title>
-  <author>
-   <name>samielatri</name>
-  </author>
-  <link href="https://github.com/samielatri/initiation-ocaml" />
-  <id>urn:rprimus:github:samielatri:initiation-ocaml</id>
-  <published>2020-07-22T01:47:11Z</published>
-  <updated>2020-07-22T01:47:11Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
