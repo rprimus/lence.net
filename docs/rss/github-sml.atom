@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-sml.atom"/>
 <id>urn:rprimus:github:newsmlrepos</id>
-<updated>2020-07-24T22:52:07Z</updated>
+<updated>2020-07-25T17:38:17Z</updated>
 <title type='text'>New GitHub Sml Repos</title>
+ <entry>
+  <title>uzmasiraj: Assignment.html</title>
+  <author>
+   <name>uzmasiraj</name>
+  </author>
+  <link href="https://github.com/uzmasiraj/Assignment.html" />
+  <id>urn:rprimus:github:uzmasiraj:Assignment.html</id>
+  <published>2020-07-25T17:38:17Z</published>
+  <updated>2020-07-25T17:38:17Z</updated>
+  <content type="html">
+   This is an assignment given by instructor
+  </content>
+ </entry>
+ <entry>
+  <title>sam6134: IRCode-Compiler-SML</title>
+  <author>
+   <name>sam6134</name>
+  </author>
+  <link href="https://github.com/sam6134/IRCode-Compiler-SML" />
+  <id>urn:rprimus:github:sam6134:IRCode-Compiler-SML</id>
+  <published>2020-07-25T07:40:50Z</published>
+  <updated>2020-07-25T07:40:50Z</updated>
+  <content type="html">
+   Continuation to Repo SML-Parser-Tokenizer, Uses the generated IR codes from the Parser to compile and produce Code results
+  </content>
+ </entry>
+ <entry>
+  <title>sam6134: SML-Tokenizer-and-Parser</title>
+  <author>
+   <name>sam6134</name>
+  </author>
+  <link href="https://github.com/sam6134/SML-Tokenizer-and-Parser" />
+  <id>urn:rprimus:github:sam6134:SML-Tokenizer-and-Parser</id>
+  <published>2020-07-25T07:23:14Z</published>
+  <updated>2020-07-25T07:23:14Z</updated>
+  <content type="html">
+   Assignment for Course CSL-226. Uses DFA for tokenising and Recursive Descent Parser(RDP) for code generation
+  </content>
+ </entry>
+ <entry>
+  <title>Itus-Shield: opkgs</title>
+  <author>
+   <name>Itus-Shield</name>
+  </author>
+  <link href="https://github.com/Itus-Shield/opkgs" />
+  <id>urn:rprimus:github:Itus-Shield:opkgs</id>
+  <published>2020-07-25T05:23:38Z</published>
+  <updated>2020-07-25T05:23:38Z</updated>
+  <content type="html">
+   Opkg repository for the Itus Networks Shield
+  </content>
+ </entry>
  <entry>
   <title>15-150: grader-utils</title>
   <author>
@@ -28,32 +80,6 @@
   <updated>2020-07-24T04:07:07Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>Itus-Shield: kernel-5.4</title>
-  <author>
-   <name>Itus-Shield</name>
-  </author>
-  <link href="https://github.com/Itus-Shield/kernel-5.4" />
-  <id>urn:rprimus:github:Itus-Shield:kernel-5.4</id>
-  <published>2020-07-23T23:35:22Z</published>
-  <updated>2020-07-23T23:35:22Z</updated>
-  <content type="html">
-   Repository for the custom Itus Network&#039;s Shield OpenWrt firmware.
-  </content>
- </entry>
- <entry>
-  <title>pmarchini: BuRDataflowCpp</title>
-  <author>
-   <name>pmarchini</name>
-  </author>
-  <link href="https://github.com/pmarchini/BuRDataflowCpp" />
-  <id>urn:rprimus:github:pmarchini:BuRDataflowCpp</id>
-  <published>2020-07-23T13:39:24Z</published>
-  <updated>2020-07-23T13:39:24Z</updated>
-  <content type="html">
-   B&amp;R .cpp dataflow framework
   </content>
  </entry>
 </feed>
