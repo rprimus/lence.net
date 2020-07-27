@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2020-07-26T03:33:19Z</updated>
+<updated>2020-07-27T00:48:08Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>hawstom: cnm</title>
+  <author>
+   <name>hawstom</name>
+  </author>
+  <link href="https://github.com/hawstom/cnm" />
+  <id>urn:rprimus:github:hawstom:cnm</id>
+  <published>2020-07-27T00:48:08Z</published>
+  <updated>2020-07-27T00:48:08Z</updated>
+  <content type="html">
+   Construction Notes Manager from http://constructionnotesmanager.com/
+  </content>
+ </entry>
+ <entry>
+  <title>dsletten: paip</title>
+  <author>
+   <name>dsletten</name>
+  </author>
+  <link href="https://github.com/dsletten/paip" />
+  <id>urn:rprimus:github:dsletten:paip</id>
+  <published>2020-07-27T00:37:43Z</published>
+  <updated>2020-07-27T00:37:43Z</updated>
+  <content type="html">
+   Notes and exercises for Peter Norvig&#039;s Paradigms of Artificial Intelligence Programming
+  </content>
+ </entry>
+ <entry>
+  <title>dcouncill: HelloWorld</title>
+  <author>
+   <name>dcouncill</name>
+  </author>
+  <link href="https://github.com/dcouncill/HelloWorld" />
+  <id>urn:rprimus:github:dcouncill:HelloWorld</id>
+  <published>2020-07-26T22:31:05Z</published>
+  <updated>2020-07-26T22:31:05Z</updated>
+  <content type="html">
+   HelloWorld Code in Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>balakrishnanc: lisp-cond-restarts</title>
+  <author>
+   <name>balakrishnanc</name>
+  </author>
+  <link href="https://github.com/balakrishnanc/lisp-cond-restarts" />
+  <id>urn:rprimus:github:balakrishnanc:lisp-cond-restarts</id>
+  <published>2020-07-26T11:49:31Z</published>
+  <updated>2020-07-26T11:49:31Z</updated>
+  <content type="html">
+   An exercise to understand how conditions and restarts work in lisp
+  </content>
+ </entry>
+ <entry>
+  <title>crhg: my-util</title>
+  <author>
+   <name>crhg</name>
+  </author>
+  <link href="https://github.com/crhg/my-util" />
+  <id>urn:rprimus:github:crhg:my-util</id>
+  <published>2020-07-26T10:52:37Z</published>
+  <updated>2020-07-26T10:52:37Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>crhg: miniml-lisp</title>
+  <author>
+   <name>crhg</name>
+  </author>
+  <link href="https://github.com/crhg/miniml-lisp" />
+  <id>urn:rprimus:github:crhg:miniml-lisp</id>
+  <published>2020-07-26T10:51:19Z</published>
+  <updated>2020-07-26T10:51:19Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>JonathanHandojo: Sample-LISP-codes</title>
   <author>
@@ -18,12 +96,12 @@
   </content>
  </entry>
  <entry>
-  <title>santealtamura97: Constraint-Satisfaction-Problem-ASP-Clingo-</title>
+  <title>santealtamura97: Constraint-Satisfaction-Problem-ASP-Clingo</title>
   <author>
    <name>santealtamura97</name>
   </author>
-  <link href="https://github.com/santealtamura97/Constraint-Satisfaction-Problem-ASP-Clingo-" />
-  <id>urn:rprimus:github:santealtamura97:Constraint-Satisfaction-Problem-ASP-Clingo-</id>
+  <link href="https://github.com/santealtamura97/Constraint-Satisfaction-Problem-ASP-Clingo" />
+  <id>urn:rprimus:github:santealtamura97:Constraint-Satisfaction-Problem-ASP-Clingo</id>
   <published>2020-07-25T21:02:00Z</published>
   <updated>2020-07-25T21:02:00Z</updated>
   <content type="html">
@@ -67,71 +145,6 @@
   <updated>2020-07-25T03:02:51Z</updated>
   <content type="html">
    Turn images into ASCII art.
-  </content>
- </entry>
- <entry>
-  <title>jinjagit: lisp</title>
-  <author>
-   <name>jinjagit</name>
-  </author>
-  <link href="https://github.com/jinjagit/lisp" />
-  <id>urn:rprimus:github:jinjagit:lisp</id>
-  <published>2020-07-24T18:39:23Z</published>
-  <updated>2020-07-24T18:39:23Z</updated>
-  <content type="html">
-   Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>mparache: se-film</title>
-  <author>
-   <name>mparache</name>
-  </author>
-  <link href="https://github.com/mparache/se-film" />
-  <id>urn:rprimus:github:mparache:se-film</id>
-  <published>2020-07-24T15:29:35Z</published>
-  <updated>2020-07-24T15:29:35Z</updated>
-  <content type="html">
-   CrÃ©ation dâun systÃ¨me expert dâordre 0+ permettant la reconnaissance du genre cinÃ©matographique dâun film donnÃ©
-  </content>
- </entry>
- <entry>
-  <title>yitzchak: trivial-do</title>
-  <author>
-   <name>yitzchak</name>
-  </author>
-  <link href="https://github.com/yitzchak/trivial-do" />
-  <id>urn:rprimus:github:yitzchak:trivial-do</id>
-  <published>2020-07-24T11:28:15Z</published>
-  <updated>2020-07-24T11:28:15Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>minghu6: smart-code-modifier</title>
-  <author>
-   <name>minghu6</name>
-  </author>
-  <link href="https://github.com/minghu6/smart-code-modifier" />
-  <id>urn:rprimus:github:minghu6:smart-code-modifier</id>
-  <published>2020-07-24T10:54:45Z</published>
-  <updated>2020-07-24T10:54:45Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>wasuken: cl-git-kusa</title>
-  <author>
-   <name>wasuken</name>
-  </author>
-  <link href="https://github.com/wasuken/cl-git-kusa" />
-  <id>urn:rprimus:github:wasuken:cl-git-kusa</id>
-  <published>2020-07-24T05:33:23Z</published>
-  <updated>2020-07-24T05:33:23Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
