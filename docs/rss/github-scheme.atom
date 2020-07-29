@@ -2,15 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-scheme.atom"/>
 <id>urn:rprimus:github:newschemerepos</id>
-<updated>2020-07-27T23:21:28Z</updated>
+<updated>2020-07-28T19:36:15Z</updated>
 <title type='text'>New GitHub Scheme Repos</title>
  <entry>
-  <title>devolegua: config-debian</title>
+  <title>dynamic: silverstripe-foxy-customer-portal</title>
   <author>
-   <name>devolegua</name>
+   <name>dynamic</name>
   </author>
-  <link href="https://github.com/devolegua/config-debian" />
-  <id>urn:rprimus:github:devolegua:config-debian</id>
+  <link href="https://github.com/dynamic/silverstripe-foxy-customer-portal" />
+  <id>urn:rprimus:github:dynamic:silverstripe-foxy-customer-portal</id>
+  <published>2020-07-28T19:36:15Z</published>
+  <updated>2020-07-28T19:36:15Z</updated>
+  <content type="html">
+   Integrates the Foxy.io customer portal with your Foxy store.
+  </content>
+ </entry>
+ <entry>
+  <title>seaboyz: SICP</title>
+  <author>
+   <name>seaboyz</name>
+  </author>
+  <link href="https://github.com/seaboyz/SICP" />
+  <id>urn:rprimus:github:seaboyz:SICP</id>
+  <published>2020-07-28T15:04:58Z</published>
+  <updated>2020-07-28T15:04:58Z</updated>
+  <content type="html">
+   Exercises and notes for MIT Structure and Interpretation of Computer Programs
+  </content>
+ </entry>
+ <entry>
+  <title>TanausuFdP: Scheme</title>
+  <author>
+   <name>TanausuFdP</name>
+  </author>
+  <link href="https://github.com/TanausuFdP/Scheme" />
+  <id>urn:rprimus:github:TanausuFdP:Scheme</id>
+  <published>2020-07-28T13:07:05Z</published>
+  <updated>2020-07-28T13:07:05Z</updated>
+  <content type="html">
+   PequeÃ±as funciones en Scheme.
+  </content>
+ </entry>
+ <entry>
+  <title>cronokirby: chicken-tetris</title>
+  <author>
+   <name>cronokirby</name>
+  </author>
+  <link href="https://github.com/cronokirby/chicken-tetris" />
+  <id>urn:rprimus:github:cronokirby:chicken-tetris</id>
+  <published>2020-07-28T11:52:13Z</published>
+  <updated>2020-07-28T11:52:13Z</updated>
+  <content type="html">
+   An implementation of Tetris in (Chicken) Scheme
+  </content>
+ </entry>
+ <entry>
+  <title>kr1sp1n: hello-chicken-scheme</title>
+  <author>
+   <name>kr1sp1n</name>
+  </author>
+  <link href="https://github.com/kr1sp1n/hello-chicken-scheme" />
+  <id>urn:rprimus:github:kr1sp1n:hello-chicken-scheme</id>
+  <published>2020-07-28T08:26:26Z</published>
+  <updated>2020-07-28T08:26:26Z</updated>
+  <content type="html">
+   Say hello to chicken scheme
+  </content>
+ </entry>
+ <entry>
+  <title>Antidote1911: xfce_config</title>
+  <author>
+   <name>Antidote1911</name>
+  </author>
+  <link href="https://github.com/Antidote1911/xfce_config" />
+  <id>urn:rprimus:github:Antidote1911:xfce_config</id>
+  <published>2020-07-28T07:32:08Z</published>
+  <updated>2020-07-28T07:32:08Z</updated>
+  <content type="html">
+   personal config for my desktop
+  </content>
+ </entry>
+ <entry>
+  <title>olehdevua: config-debian</title>
+  <author>
+   <name>olehdevua</name>
+  </author>
+  <link href="https://github.com/olehdevua/config-debian" />
+  <id>urn:rprimus:github:olehdevua:config-debian</id>
   <published>2020-07-27T23:21:28Z</published>
   <updated>2020-07-27T23:21:28Z</updated>
   <content type="html">
@@ -54,71 +132,6 @@
   <updated>2020-07-27T08:37:43Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>mflatt: bootstrapped-1</title>
-  <author>
-   <name>mflatt</name>
-  </author>
-  <link href="https://github.com/mflatt/bootstrapped-1" />
-  <id>urn:rprimus:github:mflatt:bootstrapped-1</id>
-  <published>2020-07-26T19:45:31Z</published>
-  <updated>2020-07-26T19:45:31Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>mrosset: shroud</title>
-  <author>
-   <name>mrosset</name>
-  </author>
-  <link href="https://github.com/mrosset/shroud" />
-  <id>urn:rprimus:github:mrosset:shroud</id>
-  <published>2020-07-26T17:39:05Z</published>
-  <updated>2020-07-26T17:39:05Z</updated>
-  <content type="html">
-   shroud mirror
-  </content>
- </entry>
- <entry>
-  <title>c4dr01d: guix-dev</title>
-  <author>
-   <name>c4dr01d</name>
-  </author>
-  <link href="https://github.com/c4dr01d/guix-dev" />
-  <id>urn:rprimus:github:c4dr01d:guix-dev</id>
-  <published>2020-07-26T11:24:31Z</published>
-  <updated>2020-07-26T11:24:31Z</updated>
-  <content type="html">
-   My development environment configuration file, powered by Guix
-  </content>
- </entry>
- <entry>
-  <title>dinabogdan: sicp</title>
-  <author>
-   <name>dinabogdan</name>
-  </author>
-  <link href="https://github.com/dinabogdan/sicp" />
-  <id>urn:rprimus:github:dinabogdan:sicp</id>
-  <published>2020-07-26T09:40:44Z</published>
-  <updated>2020-07-26T09:40:44Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ryanprior: guadec-2020-guix-gtk</title>
-  <author>
-   <name>ryanprior</name>
-  </author>
-  <link href="https://github.com/ryanprior/guadec-2020-guix-gtk" />
-  <id>urn:rprimus:github:ryanprior:guadec-2020-guix-gtk</id>
-  <published>2020-07-26T02:20:29Z</published>
-  <updated>2020-07-26T02:20:29Z</updated>
-  <content type="html">
-   Files supporting my 2020 GUADEC talk, &quot;Packaging GTK Apps in Guix&quot;
   </content>
  </entry>
 </feed>
