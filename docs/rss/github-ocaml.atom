@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2020-07-28T07:00:26Z</updated>
+<updated>2020-07-28T13:52:08Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>dakk: caml_qiskit</title>
+  <author>
+   <name>dakk</name>
+  </author>
+  <link href="https://github.com/dakk/caml_qiskit" />
+  <id>urn:rprimus:github:dakk:caml_qiskit</id>
+  <published>2020-07-28T13:52:08Z</published>
+  <updated>2020-07-28T13:52:08Z</updated>
+  <content type="html">
+   OCaml wrapper for Qiskit quantum computing toolkit
+  </content>
+ </entry>
+ <entry>
+  <title>xguerin: netml</title>
+  <author>
+   <name>xguerin</name>
+  </author>
+  <link href="https://github.com/xguerin/netml" />
+  <id>urn:rprimus:github:xguerin:netml</id>
+  <published>2020-07-28T13:35:34Z</published>
+  <updated>2020-07-28T13:35:34Z</updated>
+  <content type="html">
+   Network packet toolkit
+  </content>
+ </entry>
+ <entry>
+  <title>MSoegtropIMC: menhir</title>
+  <author>
+   <name>MSoegtropIMC</name>
+  </author>
+  <link href="https://github.com/MSoegtropIMC/menhir" />
+  <id>urn:rprimus:github:MSoegtropIMC:menhir</id>
+  <published>2020-07-28T12:34:44Z</published>
+  <updated>2020-07-28T12:34:44Z</updated>
+  <content type="html">
+   This is a fork of https://gitlab.inria.fr/fpottier/menhir.git
+  </content>
+ </entry>
  <entry>
   <title>NavneelSinghal: LambdaSpreadsheets</title>
   <author>
@@ -158,149 +197,6 @@
   <updated>2020-07-27T04:07:39Z</updated>
   <content type="html">
    A lambda calculus with explicit phase-shifting annotations
-  </content>
- </entry>
- <entry>
-  <title>Isaac-DeFrain: Todo</title>
-  <author>
-   <name>Isaac-DeFrain</name>
-  </author>
-  <link href="https://github.com/Isaac-DeFrain/Todo" />
-  <id>urn:rprimus:github:Isaac-DeFrain:Todo</id>
-  <published>2020-07-26T22:01:29Z</published>
-  <updated>2020-07-26T22:01:29Z</updated>
-  <content type="html">
-   Todo list application built to explore different features of the OCaml language
-  </content>
- </entry>
- <entry>
-  <title>superherointj: ocaml-base-demo</title>
-  <author>
-   <name>superherointj</name>
-  </author>
-  <link href="https://github.com/superherointj/ocaml-base-demo" />
-  <id>urn:rprimus:github:superherointj:ocaml-base-demo</id>
-  <published>2020-07-26T21:36:11Z</published>
-  <updated>2020-07-26T21:36:11Z</updated>
-  <content type="html">
-   Demo for Vinicius
-  </content>
- </entry>
- <entry>
-  <title>chetmurthy: ensemble</title>
-  <author>
-   <name>chetmurthy</name>
-  </author>
-  <link href="https://github.com/chetmurthy/ensemble" />
-  <id>urn:rprimus:github:chetmurthy:ensemble</id>
-  <published>2020-07-26T21:12:00Z</published>
-  <updated>2020-07-26T21:12:00Z</updated>
-  <content type="html">
-   The Ensemble distributed communications toolkit
-  </content>
- </entry>
- <entry>
-  <title>geoffder: kinetics-ml</title>
-  <author>
-   <name>geoffder</name>
-  </author>
-  <link href="https://github.com/geoffder/kinetics-ml" />
-  <id>urn:rprimus:github:geoffder:kinetics-ml</id>
-  <published>2020-07-26T17:54:54Z</published>
-  <updated>2020-07-26T17:54:54Z</updated>
-  <content type="html">
-   Re-implementation of simple kinetic graph project in OCaml (for learning)
-  </content>
- </entry>
- <entry>
-  <title>aistun: MIXAL-OCaml</title>
-  <author>
-   <name>aistun</name>
-  </author>
-  <link href="https://github.com/aistun/MIXAL-OCaml" />
-  <id>urn:rprimus:github:aistun:MIXAL-OCaml</id>
-  <published>2020-07-26T17:49:27Z</published>
-  <updated>2020-07-26T17:49:27Z</updated>
-  <content type="html">
-   An interpreter for the MIX Assembly Language from TAOCP written in OCaml.
-  </content>
- </entry>
- <entry>
-  <title>matsud224: satypkg-viewer</title>
-  <author>
-   <name>matsud224</name>
-  </author>
-  <link href="https://github.com/matsud224/satypkg-viewer" />
-  <id>urn:rprimus:github:matsud224:satypkg-viewer</id>
-  <published>2020-07-26T16:56:16Z</published>
-  <updated>2020-07-26T16:56:16Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>joegasewicz: bn-spa</title>
-  <author>
-   <name>joegasewicz</name>
-  </author>
-  <link href="https://github.com/joegasewicz/bn-spa" />
-  <id>urn:rprimus:github:joegasewicz:bn-spa</id>
-  <published>2020-07-26T16:31:43Z</published>
-  <updated>2020-07-26T16:31:43Z</updated>
-  <content type="html">
-   React ReasonML Front end SPA for bandnotioceboard.com
-  </content>
- </entry>
- <entry>
-  <title>Daksh2108: Ocaml_Projects</title>
-  <author>
-   <name>Daksh2108</name>
-  </author>
-  <link href="https://github.com/Daksh2108/Ocaml_Projects" />
-  <id>urn:rprimus:github:Daksh2108:Ocaml_Projects</id>
-  <published>2020-07-26T15:08:15Z</published>
-  <updated>2020-07-26T15:08:15Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Armael: doggybag</title>
-  <author>
-   <name>Armael</name>
-  </author>
-  <link href="https://github.com/Armael/doggybag" />
-  <id>urn:rprimus:github:Armael:doggybag</id>
-  <published>2020-07-26T13:53:32Z</published>
-  <updated>2020-07-26T13:53:32Z</updated>
-  <content type="html">
-   take-away binaries
-  </content>
- </entry>
- <entry>
-  <title>favonia: kusariyarou</title>
-  <author>
-   <name>favonia</name>
-  </author>
-  <link href="https://github.com/favonia/kusariyarou" />
-  <id>urn:rprimus:github:favonia:kusariyarou</id>
-  <published>2020-07-26T03:38:02Z</published>
-  <updated>2020-07-26T03:38:02Z</updated>
-  <content type="html">
-   â Incremental Reachability ð
-  </content>
- </entry>
- <entry>
-  <title>fakecoinbase: CodaProtocolslashcoda</title>
-  <author>
-   <name>fakecoinbase</name>
-  </author>
-  <link href="https://github.com/fakecoinbase/CodaProtocolslashcoda" />
-  <id>urn:rprimus:github:fakecoinbase:CodaProtocolslashcoda</id>
-  <published>2020-07-26T02:29:05Z</published>
-  <updated>2020-07-26T02:29:05Z</updated>
-  <content type="html">
-   This is your first repository
   </content>
  </entry>
 </feed>
