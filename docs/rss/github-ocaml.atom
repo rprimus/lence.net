@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2020-07-28T13:52:08Z</updated>
+<updated>2020-07-30T07:49:22Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>tygrysekmg: ocalm-hello</title>
+  <author>
+   <name>tygrysekmg</name>
+  </author>
+  <link href="https://github.com/tygrysekmg/ocalm-hello" />
+  <id>urn:rprimus:github:tygrysekmg:ocalm-hello</id>
+  <published>2020-07-30T07:49:22Z</published>
+  <updated>2020-07-30T07:49:22Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>andrewpareles: Calculator</title>
+  <author>
+   <name>andrewpareles</name>
+  </author>
+  <link href="https://github.com/andrewpareles/Calculator" />
+  <id>urn:rprimus:github:andrewpareles:Calculator</id>
+  <published>2020-07-30T06:00:10Z</published>
+  <updated>2020-07-30T06:00:10Z</updated>
+  <content type="html">
+   A desmos-like calculator written in Ocaml 
+  </content>
+ </entry>
+ <entry>
+  <title>rabirabirara: OCaml-Enigma-Cipher</title>
+  <author>
+   <name>rabirabirara</name>
+  </author>
+  <link href="https://github.com/rabirabirara/OCaml-Enigma-Cipher" />
+  <id>urn:rprimus:github:rabirabirara:OCaml-Enigma-Cipher</id>
+  <published>2020-07-30T04:38:15Z</published>
+  <updated>2020-07-30T04:38:15Z</updated>
+  <content type="html">
+   An OCaml implementation of an Enigma Cipher machine, as described in Cornell&#039;s CS3110 class.
+  </content>
+ </entry>
+ <entry>
+  <title>dosaylazy: ocaml-plist-xml</title>
+  <author>
+   <name>dosaylazy</name>
+  </author>
+  <link href="https://github.com/dosaylazy/ocaml-plist-xml" />
+  <id>urn:rprimus:github:dosaylazy:ocaml-plist-xml</id>
+  <published>2020-07-30T01:03:49Z</published>
+  <updated>2020-07-30T01:03:49Z</updated>
+  <content type="html">
+   Plist parsing in pure OCaml
+  </content>
+ </entry>
+ <entry>
+  <title>jeffa5: mdfs</title>
+  <author>
+   <name>jeffa5</name>
+  </author>
+  <link href="https://github.com/jeffa5/mdfs" />
+  <id>urn:rprimus:github:jeffa5:mdfs</id>
+  <published>2020-07-29T21:29:33Z</published>
+  <updated>2020-07-29T21:29:33Z</updated>
+  <content type="html">
+   Render a tree of markdown to html
+  </content>
+ </entry>
  <entry>
   <title>dakk: caml_qiskit</title>
   <author>
@@ -67,136 +132,6 @@
   <updated>2020-07-28T02:15:51Z</updated>
   <content type="html">
    Static site generator
-  </content>
- </entry>
- <entry>
-  <title>CraigFe: ppx-import-inferred-types</title>
-  <author>
-   <name>CraigFe</name>
-  </author>
-  <link href="https://github.com/CraigFe/ppx-import-inferred-types" />
-  <id>urn:rprimus:github:CraigFe:ppx-import-inferred-types</id>
-  <published>2020-07-27T22:39:22Z</published>
-  <updated>2020-07-27T22:39:22Z</updated>
-  <content type="html">
-   Demo for https://discuss.ocaml.org/t/ppx-deriving-and-polymorphic-variants/6143/3.
-  </content>
- </entry>
- <entry>
-  <title>ezeugoanukem: ocaml</title>
-  <author>
-   <name>ezeugoanukem</name>
-  </author>
-  <link href="https://github.com/ezeugoanukem/ocaml" />
-  <id>urn:rprimus:github:ezeugoanukem:ocaml</id>
-  <published>2020-07-27T16:13:28Z</published>
-  <updated>2020-07-27T16:13:28Z</updated>
-  <content type="html">
-   Excersies from the CS 3110 Course at Cornell
-  </content>
- </entry>
- <entry>
-  <title>nickb2413: miniml.ml</title>
-  <author>
-   <name>nickb2413</name>
-  </author>
-  <link href="https://github.com/nickb2413/miniml.ml" />
-  <id>urn:rprimus:github:nickb2413:miniml.ml</id>
-  <published>2020-07-27T16:06:58Z</published>
-  <updated>2020-07-27T16:06:58Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>xguerin: graal</title>
-  <author>
-   <name>xguerin</name>
-  </author>
-  <link href="https://github.com/xguerin/graal" />
-  <id>urn:rprimus:github:xguerin:graal</id>
-  <published>2020-07-27T14:29:19Z</published>
-  <updated>2020-07-27T14:29:19Z</updated>
-  <content type="html">
-   Graph Algebra
-  </content>
- </entry>
- <entry>
-  <title>xguerin: ocaml-systemverilog</title>
-  <author>
-   <name>xguerin</name>
-  </author>
-  <link href="https://github.com/xguerin/ocaml-systemverilog" />
-  <id>urn:rprimus:github:xguerin:ocaml-systemverilog</id>
-  <published>2020-07-27T13:40:25Z</published>
-  <updated>2020-07-27T13:40:25Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ericfinster: cheshire</title>
-  <author>
-   <name>ericfinster</name>
-  </author>
-  <link href="https://github.com/ericfinster/cheshire" />
-  <id>urn:rprimus:github:ericfinster:cheshire</id>
-  <published>2020-07-27T10:30:15Z</published>
-  <updated>2020-07-27T10:30:15Z</updated>
-  <content type="html">
-   Small Monadic Library for OCaml
-  </content>
- </entry>
- <entry>
-  <title>shikantaza: fomega</title>
-  <author>
-   <name>shikantaza</name>
-  </author>
-  <link href="https://github.com/shikantaza/fomega" />
-  <id>urn:rprimus:github:shikantaza:fomega</id>
-  <published>2020-07-27T06:38:08Z</published>
-  <updated>2020-07-27T06:38:08Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>MasterNomi: libra_for_ML</title>
-  <author>
-   <name>MasterNomi</name>
-  </author>
-  <link href="https://github.com/MasterNomi/libra_for_ML" />
-  <id>urn:rprimus:github:MasterNomi:libra_for_ML</id>
-  <published>2020-07-27T05:35:13Z</published>
-  <updated>2020-07-27T05:35:13Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>scoville: bs-formidable</title>
-  <author>
-   <name>scoville</name>
-  </author>
-  <link href="https://github.com/scoville/bs-formidable" />
-  <id>urn:rprimus:github:scoville:bs-formidable</id>
-  <published>2020-07-27T04:56:43Z</published>
-  <updated>2020-07-27T04:56:43Z</updated>
-  <content type="html">
-   A BuckleScript safe and simple form library
-  </content>
- </entry>
- <entry>
-  <title>dedbox: lambda_phi</title>
-  <author>
-   <name>dedbox</name>
-  </author>
-  <link href="https://github.com/dedbox/lambda_phi" />
-  <id>urn:rprimus:github:dedbox:lambda_phi</id>
-  <published>2020-07-27T04:07:39Z</published>
-  <updated>2020-07-27T04:07:39Z</updated>
-  <content type="html">
-   A lambda calculus with explicit phase-shifting annotations
   </content>
  </entry>
 </feed>

@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-racket.atom"/>
 <id>urn:rprimus:github:newracketrepos</id>
-<updated>2020-07-29T07:28:48Z</updated>
+<updated>2020-07-29T23:41:16Z</updated>
 <title type='text'>New GitHub Racket Repos</title>
+ <entry>
+  <title>aryaghan-mutum: lisp-probs</title>
+  <author>
+   <name>aryaghan-mutum</name>
+  </author>
+  <link href="https://github.com/aryaghan-mutum/lisp-probs" />
+  <id>urn:rprimus:github:aryaghan-mutum:lisp-probs</id>
+  <published>2020-07-29T23:41:16Z</published>
+  <updated>2020-07-29T23:41:16Z</updated>
+  <content type="html">
+   Distinct problems written in Common Lisp, Scheme/Racket, ELisp and SML
+  </content>
+ </entry>
+ <entry>
+  <title>sorawee: fishy-completion</title>
+  <author>
+   <name>sorawee</name>
+  </author>
+  <link href="https://github.com/sorawee/fishy-completion" />
+  <id>urn:rprimus:github:sorawee:fishy-completion</id>
+  <published>2020-07-29T17:50:24Z</published>
+  <updated>2020-07-29T17:50:24Z</updated>
+  <content type="html">
+   A proof-of-concept completion framework for DrRacket via fishy static analysis.
+  </content>
+ </entry>
  <entry>
   <title>yjqww6: for-helpers</title>
   <author>
@@ -15,6 +41,19 @@
   <updated>2020-07-29T07:28:48Z</updated>
   <content type="html">
    
+  </content>
+ </entry>
+ <entry>
+  <title>ray1888: SICP-learning</title>
+  <author>
+   <name>ray1888</name>
+  </author>
+  <link href="https://github.com/ray1888/SICP-learning" />
+  <id>urn:rprimus:github:ray1888:SICP-learning</id>
+  <published>2020-07-29T03:27:57Z</published>
+  <updated>2020-07-29T03:27:57Z</updated>
+  <content type="html">
+   This is the record of learning sicp
   </content>
  </entry>
  <entry>
@@ -54,45 +93,6 @@
   <updated>2020-07-28T02:21:24Z</updated>
   <content type="html">
    My solutions to SICP coding tasks, that involve coding in Racket.
-  </content>
- </entry>
- <entry>
-  <title>aryaghan-mutum: anulisp</title>
-  <author>
-   <name>aryaghan-mutum</name>
-  </author>
-  <link href="https://github.com/aryaghan-mutum/anulisp" />
-  <id>urn:rprimus:github:aryaghan-mutum:anulisp</id>
-  <published>2020-07-27T21:00:42Z</published>
-  <updated>2020-07-27T21:00:42Z</updated>
-  <content type="html">
-   A DSL 
-  </content>
- </entry>
- <entry>
-  <title>darrenmkim: deroco</title>
-  <author>
-   <name>darrenmkim</name>
-  </author>
-  <link href="https://github.com/darrenmkim/deroco" />
-  <id>urn:rprimus:github:darrenmkim:deroco</id>
-  <published>2020-07-27T16:46:12Z</published>
-  <updated>2020-07-27T16:46:12Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jackfirth: glass</title>
-  <author>
-   <name>jackfirth</name>
-  </author>
-  <link href="https://github.com/jackfirth/glass" />
-  <id>urn:rprimus:github:jackfirth:glass</id>
-  <published>2020-07-27T01:48:07Z</published>
-  <updated>2020-07-27T01:48:07Z</updated>
-  <content type="html">
-   An optics (lenses, prisms, traversals, etc.) library for Racket.
   </content>
  </entry>
 </feed>
