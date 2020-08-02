@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2020-08-01T05:03:37Z</updated>
+<updated>2020-08-01T16:48:35Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>haakerman: lisp</title>
+  <author>
+   <name>haakerman</name>
+  </author>
+  <link href="https://github.com/haakerman/lisp" />
+  <id>urn:rprimus:github:haakerman:lisp</id>
+  <published>2020-08-01T16:48:35Z</published>
+  <updated>2020-08-01T16:48:35Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>takumi4162: land-of-lisp</title>
+  <author>
+   <name>takumi4162</name>
+  </author>
+  <link href="https://github.com/takumi4162/land-of-lisp" />
+  <id>urn:rprimus:github:takumi4162:land-of-lisp</id>
+  <published>2020-08-01T12:49:28Z</published>
+  <updated>2020-08-01T12:49:28Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>rsrrrrrrr: vkle</title>
+  <author>
+   <name>rsrrrrrrr</name>
+  </author>
+  <link href="https://github.com/rsrrrrrrr/vkle" />
+  <id>urn:rprimus:github:rsrrrrrrr:vkle</id>
+  <published>2020-08-01T08:39:11Z</published>
+  <updated>2020-08-01T08:39:11Z</updated>
+  <content type="html">
+   a toy with cl-vulkan and cl-glfw3
+  </content>
+ </entry>
  <entry>
   <title>compufox: cl-blaseball</title>
   <author>
@@ -70,6 +109,19 @@
   </content>
  </entry>
  <entry>
+  <title>aruscher: raw-binding-ncurses</title>
+  <author>
+   <name>aruscher</name>
+  </author>
+  <link href="https://github.com/aruscher/raw-binding-ncurses" />
+  <id>urn:rprimus:github:aruscher:raw-binding-ncurses</id>
+  <published>2020-07-31T16:30:15Z</published>
+  <updated>2020-07-31T16:30:15Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
   <title>colonny: ESTUDO-LISP</title>
   <author>
    <name>colonny</name>
@@ -93,84 +145,6 @@
   <updated>2020-07-31T03:20:56Z</updated>
   <content type="html">
    This repository aims at holding assignments of the data management course in the UoA.
-  </content>
- </entry>
- <entry>
-  <title>andreassommer: cle2e</title>
-  <author>
-   <name>andreassommer</name>
-  </author>
-  <link href="https://github.com/andreassommer/cle2e" />
-  <id>urn:rprimus:github:andreassommer:cle2e</id>
-  <published>2020-07-30T19:44:30Z</published>
-  <updated>2020-07-30T19:44:30Z</updated>
-  <content type="html">
-   Tool for reading Heidelberg OCT (optical coherence tomography) files in E2E data format and extracting the images
-  </content>
- </entry>
- <entry>
-  <title>death: bps</title>
-  <author>
-   <name>death</name>
-  </author>
-  <link href="https://github.com/death/bps" />
-  <id>urn:rprimus:github:death:bps</id>
-  <published>2020-07-30T16:22:35Z</published>
-  <updated>2020-07-30T16:22:35Z</updated>
-  <content type="html">
-   Code for the book &quot;Building Problem Solvers&quot; with touchups
-  </content>
- </entry>
- <entry>
-  <title>cbeo: samarang</title>
-  <author>
-   <name>cbeo</name>
-  </author>
-  <link href="https://github.com/cbeo/samarang" />
-  <id>urn:rprimus:github:cbeo:samarang</id>
-  <published>2020-07-30T14:10:57Z</published>
-  <updated>2020-07-30T14:10:57Z</updated>
-  <content type="html">
-   anagrms from the command line
-  </content>
- </entry>
- <entry>
-  <title>kbantounos: delftx_ros1x</title>
-  <author>
-   <name>kbantounos</name>
-  </author>
-  <link href="https://github.com/kbantounos/delftx_ros1x" />
-  <id>urn:rprimus:github:kbantounos:delftx_ros1x</id>
-  <published>2020-07-30T13:39:58Z</published>
-  <updated>2020-07-30T13:39:58Z</updated>
-  <content type="html">
-   DelftX: ROS1x Hello (Real) World with ROS â Robot Operating System
-  </content>
- </entry>
- <entry>
-  <title>kmx-io: cl-base64</title>
-  <author>
-   <name>kmx-io</name>
-  </author>
-  <link href="https://github.com/kmx-io/cl-base64" />
-  <id>urn:rprimus:github:kmx-io:cl-base64</id>
-  <published>2020-07-30T09:58:49Z</published>
-  <updated>2020-07-30T09:58:49Z</updated>
-  <content type="html">
-   Base64 encodings for Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>Haceau-Zoac: Lisp-Calculator</title>
-  <author>
-   <name>Haceau-Zoac</name>
-  </author>
-  <link href="https://github.com/Haceau-Zoac/Lisp-Calculator" />
-  <id>urn:rprimus:github:Haceau-Zoac:Lisp-Calculator</id>
-  <published>2020-07-30T08:27:53Z</published>
-  <updated>2020-07-30T08:27:53Z</updated>
-  <content type="html">
-   ä½¿ç¨Common Lispç¼åçè¾å¥æ ¼å¼ä¸ºLispçè®¡ç®å¨
   </content>
  </entry>
 </feed>
