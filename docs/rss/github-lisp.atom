@@ -2,8 +2,112 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2020-08-01T16:48:35Z</updated>
+<updated>2020-08-03T02:41:17Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>seanptmaher: cl-nock</title>
+  <author>
+   <name>seanptmaher</name>
+  </author>
+  <link href="https://github.com/seanptmaher/cl-nock" />
+  <id>urn:rprimus:github:seanptmaher:cl-nock</id>
+  <published>2020-08-03T02:41:17Z</published>
+  <updated>2020-08-03T02:41:17Z</updated>
+  <content type="html">
+   Interpreter for Nock in Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>dsletten: kessler</title>
+  <author>
+   <name>dsletten</name>
+  </author>
+  <link href="https://github.com/dsletten/kessler" />
+  <id>urn:rprimus:github:dsletten:kessler</id>
+  <published>2020-08-03T01:59:03Z</published>
+  <updated>2020-08-03T01:59:03Z</updated>
+  <content type="html">
+   Exercises for Robert Kessler&#039;s book Lisp, Objects, and Symbolic Programming
+  </content>
+ </entry>
+ <entry>
+  <title>chidiwilliams: treasure-hunt-lisp</title>
+  <author>
+   <name>chidiwilliams</name>
+  </author>
+  <link href="https://github.com/chidiwilliams/treasure-hunt-lisp" />
+  <id>urn:rprimus:github:chidiwilliams:treasure-hunt-lisp</id>
+  <published>2020-08-02T20:02:12Z</published>
+  <updated>2020-08-02T20:02:12Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>alecouteurbisson: SecdLisp</title>
+  <author>
+   <name>alecouteurbisson</name>
+  </author>
+  <link href="https://github.com/alecouteurbisson/SecdLisp" />
+  <id>urn:rprimus:github:alecouteurbisson:SecdLisp</id>
+  <published>2020-08-02T19:03:21Z</published>
+  <updated>2020-08-02T19:03:21Z</updated>
+  <content type="html">
+   A Lisp compiler
+  </content>
+ </entry>
+ <entry>
+  <title>mrexox: clpm</title>
+  <author>
+   <name>mrexox</name>
+  </author>
+  <link href="https://github.com/mrexox/clpm" />
+  <id>urn:rprimus:github:mrexox:clpm</id>
+  <published>2020-08-02T18:41:08Z</published>
+  <updated>2020-08-02T18:41:08Z</updated>
+  <content type="html">
+   Common Lisp Package Manager (WIP)
+  </content>
+ </entry>
+ <entry>
+  <title>oldnick85: TaskSolver</title>
+  <author>
+   <name>oldnick85</name>
+  </author>
+  <link href="https://github.com/oldnick85/TaskSolver" />
+  <id>urn:rprimus:github:oldnick85:TaskSolver</id>
+  <published>2020-08-02T18:33:54Z</published>
+  <updated>2020-08-02T18:33:54Z</updated>
+  <content type="html">
+   TaskSolver is a project whose task is to generate solutions to typical problems of higher and elementary mathematics
+  </content>
+ </entry>
+ <entry>
+  <title>ashok-khanna: Lisp-Web-Server</title>
+  <author>
+   <name>ashok-khanna</name>
+  </author>
+  <link href="https://github.com/ashok-khanna/Lisp-Web-Server" />
+  <id>urn:rprimus:github:ashok-khanna:Lisp-Web-Server</id>
+  <published>2020-08-02T18:01:11Z</published>
+  <updated>2020-08-02T18:01:11Z</updated>
+  <content type="html">
+   Short Tutorial on a basic Lisp Web Server
+  </content>
+ </entry>
+ <entry>
+  <title>ormf: cl-opengl-tutorial</title>
+  <author>
+   <name>ormf</name>
+  </author>
+  <link href="https://github.com/ormf/cl-opengl-tutorial" />
+  <id>urn:rprimus:github:ormf:cl-opengl-tutorial</id>
+  <published>2020-08-02T16:11:20Z</published>
+  <updated>2020-08-02T16:11:20Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>haakerman: lisp</title>
   <author>
@@ -67,84 +171,6 @@
   <updated>2020-08-01T00:38:28Z</updated>
   <content type="html">
    AutoCAD add-ons to draw building structures.
-  </content>
- </entry>
- <entry>
-  <title>exercism: common-lisp-fork-for-testing</title>
-  <author>
-   <name>exercism</name>
-  </author>
-  <link href="https://github.com/exercism/common-lisp-fork-for-testing" />
-  <id>urn:rprimus:github:exercism:common-lisp-fork-for-testing</id>
-  <published>2020-07-31T22:14:17Z</published>
-  <updated>2020-07-31T22:14:17Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>noloop: cl-minify-css</title>
-  <author>
-   <name>noloop</name>
-  </author>
-  <link href="https://github.com/noloop/cl-minify-css" />
-  <id>urn:rprimus:github:noloop:cl-minify-css</id>
-  <published>2020-07-31T20:16:38Z</published>
-  <updated>2020-07-31T20:16:38Z</updated>
-  <content type="html">
-   To minify css with common lisp.
-  </content>
- </entry>
- <entry>
-  <title>2016bgeyer: Reinforcement-Learning</title>
-  <author>
-   <name>2016bgeyer</name>
-  </author>
-  <link href="https://github.com/2016bgeyer/Reinforcement-Learning" />
-  <id>urn:rprimus:github:2016bgeyer:Reinforcement-Learning</id>
-  <published>2020-07-31T19:11:18Z</published>
-  <updated>2020-07-31T19:11:18Z</updated>
-  <content type="html">
-   Q Learning For the game Nim
-  </content>
- </entry>
- <entry>
-  <title>aruscher: raw-binding-ncurses</title>
-  <author>
-   <name>aruscher</name>
-  </author>
-  <link href="https://github.com/aruscher/raw-binding-ncurses" />
-  <id>urn:rprimus:github:aruscher:raw-binding-ncurses</id>
-  <published>2020-07-31T16:30:15Z</published>
-  <updated>2020-07-31T16:30:15Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>colonny: ESTUDO-LISP</title>
-  <author>
-   <name>colonny</name>
-  </author>
-  <link href="https://github.com/colonny/ESTUDO-LISP" />
-  <id>urn:rprimus:github:colonny:ESTUDO-LISP</id>
-  <published>2020-07-31T15:08:08Z</published>
-  <updated>2020-07-31T15:08:08Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>GoldGliders: HoT</title>
-  <author>
-   <name>GoldGliders</name>
-  </author>
-  <link href="https://github.com/GoldGliders/HoT" />
-  <id>urn:rprimus:github:GoldGliders:HoT</id>
-  <published>2020-07-31T03:20:56Z</published>
-  <updated>2020-07-31T03:20:56Z</updated>
-  <content type="html">
-   This repository aims at holding assignments of the data management course in the UoA.
   </content>
  </entry>
 </feed>
