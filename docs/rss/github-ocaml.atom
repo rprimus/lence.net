@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2020-08-03T06:20:19Z</updated>
+<updated>2020-08-04T02:22:33Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>chyyuu: cynqcc</title>
+  <author>
+   <name>chyyuu</name>
+  </author>
+  <link href="https://github.com/chyyuu/cynqcc" />
+  <id>urn:rprimus:github:chyyuu:cynqcc</id>
+  <published>2020-08-04T02:22:33Z</published>
+  <updated>2020-08-04T02:22:33Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>ehj37: Battleship</title>
+  <author>
+   <name>ehj37</name>
+  </author>
+  <link href="https://github.com/ehj37/Battleship" />
+  <id>urn:rprimus:github:ehj37:Battleship</id>
+  <published>2020-08-03T15:18:45Z</published>
+  <updated>2020-08-03T15:18:45Z</updated>
+  <content type="html">
+   An OCaml implementation of battleship.
+  </content>
+ </entry>
+ <entry>
+  <title>Shuumatsu: lambda-interp</title>
+  <author>
+   <name>Shuumatsu</name>
+  </author>
+  <link href="https://github.com/Shuumatsu/lambda-interp" />
+  <id>urn:rprimus:github:Shuumatsu:lambda-interp</id>
+  <published>2020-08-03T09:08:18Z</published>
+  <updated>2020-08-03T09:08:18Z</updated>
+  <content type="html">
+   interpreter for pure lambda calculus 
+  </content>
+ </entry>
  <entry>
   <title>mmcqd: pure</title>
   <author>
@@ -41,6 +80,19 @@
   <updated>2020-08-03T05:06:23Z</updated>
   <content type="html">
    Simple web scraper to test out real world OCaml (WIP)
+  </content>
+ </entry>
+ <entry>
+  <title>emilycjones: covidSim</title>
+  <author>
+   <name>emilycjones</name>
+  </author>
+  <link href="https://github.com/emilycjones/covidSim" />
+  <id>urn:rprimus:github:emilycjones:covidSim</id>
+  <published>2020-08-03T03:59:34Z</published>
+  <updated>2020-08-03T03:59:34Z</updated>
+  <content type="html">
+   A Graphed Simulation of Covid Spreading
   </content>
  </entry>
  <entry>
@@ -145,110 +197,6 @@
   <updated>2020-08-02T00:10:30Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>mmcqd: binding-3-ways</title>
-  <author>
-   <name>mmcqd</name>
-  </author>
-  <link href="https://github.com/mmcqd/binding-3-ways" />
-  <id>urn:rprimus:github:mmcqd:binding-3-ways</id>
-  <published>2020-08-01T22:16:39Z</published>
-  <updated>2020-08-01T22:16:39Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>OCamlPro: ezjs_timeline</title>
-  <author>
-   <name>OCamlPro</name>
-  </author>
-  <link href="https://github.com/OCamlPro/ezjs_timeline" />
-  <id>urn:rprimus:github:OCamlPro:ezjs_timeline</id>
-  <published>2020-08-01T21:12:51Z</published>
-  <updated>2020-08-01T21:12:51Z</updated>
-  <content type="html">
-   OCaml bindings for TimelineJS
-  </content>
- </entry>
- <entry>
-  <title>avandolder: miniml</title>
-  <author>
-   <name>avandolder</name>
-  </author>
-  <link href="https://github.com/avandolder/miniml" />
-  <id>urn:rprimus:github:avandolder:miniml</id>
-  <published>2020-08-01T19:21:52Z</published>
-  <updated>2020-08-01T19:21:52Z</updated>
-  <content type="html">
-    A small ML-like programming language
-  </content>
- </entry>
- <entry>
-  <title>Mbodin: alcis</title>
-  <author>
-   <name>Mbodin</name>
-  </author>
-  <link href="https://github.com/Mbodin/alcis" />
-  <id>urn:rprimus:github:Mbodin:alcis</id>
-  <published>2020-08-01T18:38:50Z</published>
-  <updated>2020-08-01T18:38:50Z</updated>
-  <content type="html">
-   An experimental programming language
-  </content>
- </entry>
- <entry>
-  <title>alicezha0: uno_game</title>
-  <author>
-   <name>alicezha0</name>
-  </author>
-  <link href="https://github.com/alicezha0/uno_game" />
-  <id>urn:rprimus:github:alicezha0:uno_game</id>
-  <published>2020-08-01T16:58:10Z</published>
-  <updated>2020-08-01T16:58:10Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>lemaetech: cookies</title>
-  <author>
-   <name>lemaetech</name>
-  </author>
-  <link href="https://github.com/lemaetech/cookies" />
-  <id>urn:rprimus:github:lemaetech:cookies</id>
-  <published>2020-08-01T14:25:17Z</published>
-  <updated>2020-08-01T14:25:17Z</updated>
-  <content type="html">
-   A comprehensive HTTP cookies library for OCaml
-  </content>
- </entry>
- <entry>
-  <title>kazkob: ocaml-refolder</title>
-  <author>
-   <name>kazkob</name>
-  </author>
-  <link href="https://github.com/kazkob/ocaml-refolder" />
-  <id>urn:rprimus:github:kazkob:ocaml-refolder</id>
-  <published>2020-08-01T04:29:43Z</published>
-  <updated>2020-08-01T04:29:43Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>thedufer: httpaf_caged</title>
-  <author>
-   <name>thedufer</name>
-  </author>
-  <link href="https://github.com/thedufer/httpaf_caged" />
-  <id>urn:rprimus:github:thedufer:httpaf_caged</id>
-  <published>2020-08-01T04:22:41Z</published>
-  <updated>2020-08-01T04:22:41Z</updated>
-  <content type="html">
-   A higher-level httpaf server interface
   </content>
  </entry>
 </feed>
