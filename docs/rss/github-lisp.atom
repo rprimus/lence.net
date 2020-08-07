@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2020-08-06T03:49:33Z</updated>
+<updated>2020-08-07T00:34:01Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>dsletten: slade</title>
+  <author>
+   <name>dsletten</name>
+  </author>
+  <link href="https://github.com/dsletten/slade" />
+  <id>urn:rprimus:github:dsletten:slade</id>
+  <published>2020-08-07T00:34:01Z</published>
+  <updated>2020-08-07T00:34:01Z</updated>
+  <content type="html">
+   Archive of Exercises for Stephen Slade&#039;s book Object-Oriented Common Lisp over the years
+  </content>
+ </entry>
+ <entry>
+  <title>Endered: class-assignment</title>
+  <author>
+   <name>Endered</name>
+  </author>
+  <link href="https://github.com/Endered/class-assignment" />
+  <id>urn:rprimus:github:Endered:class-assignment</id>
+  <published>2020-08-06T11:52:12Z</published>
+  <updated>2020-08-06T11:52:12Z</updated>
+  <content type="html">
+   This is my assignment for class
+  </content>
+ </entry>
  <entry>
   <title>cbeo: workmode-control</title>
   <author>
@@ -44,12 +70,12 @@
   </content>
  </entry>
  <entry>
-  <title>PanosBal: Water_Jug_Problem</title>
+  <title>PanosBal: WaterJugProblem</title>
   <author>
    <name>PanosBal</name>
   </author>
-  <link href="https://github.com/PanosBal/Water_Jug_Problem" />
-  <id>urn:rprimus:github:PanosBal:Water_Jug_Problem</id>
+  <link href="https://github.com/PanosBal/WaterJugProblem" />
+  <id>urn:rprimus:github:PanosBal:WaterJugProblem</id>
   <published>2020-08-05T16:11:09Z</published>
   <updated>2020-08-05T16:11:09Z</updated>
   <content type="html">
@@ -132,32 +158,6 @@
   <updated>2020-08-05T00:49:41Z</updated>
   <content type="html">
    A repository for BFO 2020 artifacts specified in ISO 21838-2:2020
-  </content>
- </entry>
- <entry>
-  <title>crockeo: bokbok</title>
-  <author>
-   <name>crockeo</name>
-  </author>
-  <link href="https://github.com/crockeo/bokbok" />
-  <id>urn:rprimus:github:crockeo:bokbok</id>
-  <published>2020-08-04T19:49:06Z</published>
-  <updated>2020-08-04T19:49:06Z</updated>
-  <content type="html">
-   bok 2.0 for a LISP 2.0
-  </content>
- </entry>
- <entry>
-  <title>singy15: siki</title>
-  <author>
-   <name>singy15</name>
-  </author>
-  <link href="https://github.com/singy15/siki" />
-  <id>urn:rprimus:github:singy15:siki</id>
-  <published>2020-08-04T15:00:39Z</published>
-  <updated>2020-08-04T15:00:39Z</updated>
-  <content type="html">
-   siki, portable web application
   </content>
  </entry>
 </feed>
