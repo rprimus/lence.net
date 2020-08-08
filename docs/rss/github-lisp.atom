@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2020-08-07T00:34:01Z</updated>
+<updated>2020-08-07T22:01:14Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>ejs-ejs: AutoLISP</title>
+  <author>
+   <name>ejs-ejs</name>
+  </author>
+  <link href="https://github.com/ejs-ejs/AutoLISP" />
+  <id>urn:rprimus:github:ejs-ejs:AutoLISP</id>
+  <published>2020-08-07T22:01:14Z</published>
+  <updated>2020-08-07T22:01:14Z</updated>
+  <content type="html">
+   My AutiLISP stuff, I use and develop randomly
+  </content>
+ </entry>
+ <entry>
+  <title>ChristopherSegale: cl-snake</title>
+  <author>
+   <name>ChristopherSegale</name>
+  </author>
+  <link href="https://github.com/ChristopherSegale/cl-snake" />
+  <id>urn:rprimus:github:ChristopherSegale:cl-snake</id>
+  <published>2020-08-07T18:14:13Z</published>
+  <updated>2020-08-07T18:14:13Z</updated>
+  <content type="html">
+   An implementation of snake written in Common Lisp using SDL2 and OpenGL
+  </content>
+ </entry>
+ <entry>
+  <title>csixteen: cl-bff</title>
+  <author>
+   <name>csixteen</name>
+  </author>
+  <link href="https://github.com/csixteen/cl-bff" />
+  <id>urn:rprimus:github:csixteen:cl-bff</id>
+  <published>2020-08-07T16:05:10Z</published>
+  <updated>2020-08-07T16:05:10Z</updated>
+  <content type="html">
+   Brainfuck interpreter written in Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>lizqwerscott: cl-baidupcs</title>
+  <author>
+   <name>lizqwerscott</name>
+  </author>
+  <link href="https://github.com/lizqwerscott/cl-baidupcs" />
+  <id>urn:rprimus:github:lizqwerscott:cl-baidupcs</id>
+  <published>2020-08-07T11:06:53Z</published>
+  <updated>2020-08-07T11:06:53Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>dsletten: slade</title>
   <author>
@@ -54,110 +106,6 @@
   <updated>2020-08-06T01:19:59Z</updated>
   <content type="html">
    The project tells your horoscope as well as rashi(Zodiac Sign) when you enter your birth date in it. This Project is designed in CLISP.
-  </content>
- </entry>
- <entry>
-  <title>dsletten: paip</title>
-  <author>
-   <name>dsletten</name>
-  </author>
-  <link href="https://github.com/dsletten/paip" />
-  <id>urn:rprimus:github:dsletten:paip</id>
-  <published>2020-08-05T21:19:16Z</published>
-  <updated>2020-08-05T21:19:16Z</updated>
-  <content type="html">
-   Notes and exercises for Peter Norvig&#039;s Paradigms of Artificial Intelligence Programming
-  </content>
- </entry>
- <entry>
-  <title>PanosBal: WaterJugProblem</title>
-  <author>
-   <name>PanosBal</name>
-  </author>
-  <link href="https://github.com/PanosBal/WaterJugProblem" />
-  <id>urn:rprimus:github:PanosBal:WaterJugProblem</id>
-  <published>2020-08-05T16:11:09Z</published>
-  <updated>2020-08-05T16:11:09Z</updated>
-  <content type="html">
-   A Lisp program for the water jug problem
-  </content>
- </entry>
- <entry>
-  <title>K1D77A: metalock</title>
-  <author>
-   <name>K1D77A</name>
-  </author>
-  <link href="https://github.com/K1D77A/metalock" />
-  <id>urn:rprimus:github:K1D77A:metalock</id>
-  <published>2020-08-05T15:39:50Z</published>
-  <updated>2020-08-05T15:39:50Z</updated>
-  <content type="html">
-   a metaclass that makes building parallel systems easier by providing each slot within a class a lock which is grabbed automatically
-  </content>
- </entry>
- <entry>
-  <title>ericlin8545: CS-161-Artificial-Intelligence</title>
-  <author>
-   <name>ericlin8545</name>
-  </author>
-  <link href="https://github.com/ericlin8545/CS-161-Artificial-Intelligence" />
-  <id>urn:rprimus:github:ericlin8545:CS-161-Artificial-Intelligence</id>
-  <published>2020-08-05T13:28:13Z</published>
-  <updated>2020-08-05T13:28:13Z</updated>
-  <content type="html">
-   UCLA CS 161: Artificial Intelligence
-  </content>
- </entry>
- <entry>
-  <title>physcrf: vectogram</title>
-  <author>
-   <name>physcrf</name>
-  </author>
-  <link href="https://github.com/physcrf/vectogram" />
-  <id>urn:rprimus:github:physcrf:vectogram</id>
-  <published>2020-08-05T12:55:42Z</published>
-  <updated>2020-08-05T12:55:42Z</updated>
-  <content type="html">
-   vector diagram for common lisp
-  </content>
- </entry>
- <entry>
-  <title>aruscher: gol-render-demos</title>
-  <author>
-   <name>aruscher</name>
-  </author>
-  <link href="https://github.com/aruscher/gol-render-demos" />
-  <id>urn:rprimus:github:aruscher:gol-render-demos</id>
-  <published>2020-08-05T11:01:41Z</published>
-  <updated>2020-08-05T11:01:41Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>compufox: bleachers</title>
-  <author>
-   <name>compufox</name>
-  </author>
-  <link href="https://github.com/compufox/bleachers" />
-  <id>urn:rprimus:github:compufox:bleachers</id>
-  <published>2020-08-05T05:21:16Z</published>
-  <updated>2020-08-05T05:21:16Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>BFO-ontology: BFO-2020</title>
-  <author>
-   <name>BFO-ontology</name>
-  </author>
-  <link href="https://github.com/BFO-ontology/BFO-2020" />
-  <id>urn:rprimus:github:BFO-ontology:BFO-2020</id>
-  <published>2020-08-05T00:49:41Z</published>
-  <updated>2020-08-05T00:49:41Z</updated>
-  <content type="html">
-   A repository for BFO 2020 artifacts specified in ISO 21838-2:2020
   </content>
  </entry>
 </feed>
