@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2020-08-08T21:35:22Z</updated>
+<updated>2020-08-09T19:59:59Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>fade: yahoo-finance</title>
+  <author>
+   <name>fade</name>
+  </author>
+  <link href="https://github.com/fade/yahoo-finance" />
+  <id>urn:rprimus:github:fade:yahoo-finance</id>
+  <published>2020-08-09T19:59:59Z</published>
+  <updated>2020-08-09T19:59:59Z</updated>
+  <content type="html">
+   A CLOSsy interface to the residual Yahoo Finance API
+  </content>
+ </entry>
+ <entry>
+  <title>rwtodd: rt-discordian</title>
+  <author>
+   <name>rwtodd</name>
+  </author>
+  <link href="https://github.com/rwtodd/rt-discordian" />
+  <id>urn:rprimus:github:rwtodd:rt-discordian</id>
+  <published>2020-08-09T17:13:55Z</published>
+  <updated>2020-08-09T17:13:55Z</updated>
+  <content type="html">
+   common-lisp discordian date library + utility
+  </content>
+ </entry>
+ <entry>
+  <title>hoangtrann: dotfiles</title>
+  <author>
+   <name>hoangtrann</name>
+  </author>
+  <link href="https://github.com/hoangtrann/dotfiles" />
+  <id>urn:rprimus:github:hoangtrann:dotfiles</id>
+  <published>2020-08-09T16:44:02Z</published>
+  <updated>2020-08-09T16:44:02Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>bohdan-sokolovskyi: simple-common-lisp-web-server</title>
+  <author>
+   <name>bohdan-sokolovskyi</name>
+  </author>
+  <link href="https://github.com/bohdan-sokolovskyi/simple-common-lisp-web-server" />
+  <id>urn:rprimus:github:bohdan-sokolovskyi:simple-common-lisp-web-server</id>
+  <published>2020-08-09T11:04:03Z</published>
+  <updated>2020-08-09T11:04:03Z</updated>
+  <content type="html">
+   Simple common lisp web server
+  </content>
+ </entry>
  <entry>
   <title>fiddlerwoaroof: utilitas</title>
   <author>
@@ -41,71 +93,6 @@
   <updated>2020-08-08T10:29:19Z</updated>
   <content type="html">
    Display a native GUI message box
-  </content>
- </entry>
- <entry>
-  <title>ejs-ejs: AutoLISP</title>
-  <author>
-   <name>ejs-ejs</name>
-  </author>
-  <link href="https://github.com/ejs-ejs/AutoLISP" />
-  <id>urn:rprimus:github:ejs-ejs:AutoLISP</id>
-  <published>2020-08-07T22:01:14Z</published>
-  <updated>2020-08-07T22:01:14Z</updated>
-  <content type="html">
-   My AutiLISP stuff, I use and develop randomly
-  </content>
- </entry>
- <entry>
-  <title>ChristopherSegale: cl-snake</title>
-  <author>
-   <name>ChristopherSegale</name>
-  </author>
-  <link href="https://github.com/ChristopherSegale/cl-snake" />
-  <id>urn:rprimus:github:ChristopherSegale:cl-snake</id>
-  <published>2020-08-07T18:14:13Z</published>
-  <updated>2020-08-07T18:14:13Z</updated>
-  <content type="html">
-   An implementation of snake written in Common Lisp using SDL2 and OpenGL
-  </content>
- </entry>
- <entry>
-  <title>csixteen: cl-bff</title>
-  <author>
-   <name>csixteen</name>
-  </author>
-  <link href="https://github.com/csixteen/cl-bff" />
-  <id>urn:rprimus:github:csixteen:cl-bff</id>
-  <published>2020-08-07T16:05:10Z</published>
-  <updated>2020-08-07T16:05:10Z</updated>
-  <content type="html">
-   Brainfuck interpreter written in Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>lizqwerscott: cl-baidupcs</title>
-  <author>
-   <name>lizqwerscott</name>
-  </author>
-  <link href="https://github.com/lizqwerscott/cl-baidupcs" />
-  <id>urn:rprimus:github:lizqwerscott:cl-baidupcs</id>
-  <published>2020-08-07T11:06:53Z</published>
-  <updated>2020-08-07T11:06:53Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>dsletten: slade</title>
-  <author>
-   <name>dsletten</name>
-  </author>
-  <link href="https://github.com/dsletten/slade" />
-  <id>urn:rprimus:github:dsletten:slade</id>
-  <published>2020-08-07T00:34:01Z</published>
-  <updated>2020-08-07T00:34:01Z</updated>
-  <content type="html">
-   Archive of Exercises for Stephen Slade&#039;s book Object-Oriented Common Lisp over the years
   </content>
  </entry>
 </feed>
