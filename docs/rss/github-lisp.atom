@@ -2,8 +2,125 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2020-08-11T01:16:37Z</updated>
+<updated>2020-08-12T05:18:59Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>shamazmazum: cl-setlocale</title>
+  <author>
+   <name>shamazmazum</name>
+  </author>
+  <link href="https://github.com/shamazmazum/cl-setlocale" />
+  <id>urn:rprimus:github:shamazmazum:cl-setlocale</id>
+  <published>2020-08-12T05:18:59Z</published>
+  <updated>2020-08-12T05:18:59Z</updated>
+  <content type="html">
+   A wrapper around setlocale(3) for Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>aneilbaboo: parenscript</title>
+  <author>
+   <name>aneilbaboo</name>
+  </author>
+  <link href="https://github.com/aneilbaboo/parenscript" />
+  <id>urn:rprimus:github:aneilbaboo:parenscript</id>
+  <published>2020-08-11T19:08:27Z</published>
+  <updated>2020-08-11T19:08:27Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>OddLingo: agador</title>
+  <author>
+   <name>OddLingo</name>
+  </author>
+  <link href="https://github.com/OddLingo/agador" />
+  <id>urn:rprimus:github:OddLingo:agador</id>
+  <published>2020-08-11T16:54:47Z</published>
+  <updated>2020-08-11T16:54:47Z</updated>
+  <content type="html">
+   Speech controlled program using toki pona
+  </content>
+ </entry>
+ <entry>
+  <title>redpencilio: app-say-solid</title>
+  <author>
+   <name>redpencilio</name>
+  </author>
+  <link href="https://github.com/redpencilio/app-say-solid" />
+  <id>urn:rprimus:github:redpencilio:app-say-solid</id>
+  <published>2020-08-11T12:45:48Z</published>
+  <updated>2020-08-11T12:45:48Z</updated>
+  <content type="html">
+   Backend to host say-solid
+  </content>
+ </entry>
+ <entry>
+  <title>yitzchak: hyperspec-lookup</title>
+  <author>
+   <name>yitzchak</name>
+  </author>
+  <link href="https://github.com/yitzchak/hyperspec-lookup" />
+  <id>urn:rprimus:github:yitzchak:hyperspec-lookup</id>
+  <published>2020-08-11T11:57:21Z</published>
+  <updated>2020-08-11T11:57:21Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>yitzchak: hyperdoc</title>
+  <author>
+   <name>yitzchak</name>
+  </author>
+  <link href="https://github.com/yitzchak/hyperdoc" />
+  <id>urn:rprimus:github:yitzchak:hyperdoc</id>
+  <published>2020-08-11T11:46:47Z</published>
+  <updated>2020-08-11T11:46:47Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>no-defun-allowed: prov</title>
+  <author>
+   <name>no-defun-allowed</name>
+  </author>
+  <link href="https://github.com/no-defun-allowed/prov" />
+  <id>urn:rprimus:github:no-defun-allowed:prov</id>
+  <published>2020-08-11T10:58:24Z</published>
+  <updated>2020-08-11T10:58:24Z</updated>
+  <content type="html">
+   Another grep clone
+  </content>
+ </entry>
+ <entry>
+  <title>O-Jun-S: CL-lazy</title>
+  <author>
+   <name>O-Jun-S</name>
+  </author>
+  <link href="https://github.com/O-Jun-S/CL-lazy" />
+  <id>urn:rprimus:github:O-Jun-S:CL-lazy</id>
+  <published>2020-08-11T08:28:14Z</published>
+  <updated>2020-08-11T08:28:14Z</updated>
+  <content type="html">
+   Lazy evalution library of Common Lisp.
+  </content>
+ </entry>
+ <entry>
+  <title>farazul: LispSampleProgs</title>
+  <author>
+   <name>farazul</name>
+  </author>
+  <link href="https://github.com/farazul/LispSampleProgs" />
+  <id>urn:rprimus:github:farazul:LispSampleProgs</id>
+  <published>2020-08-11T05:13:55Z</published>
+  <updated>2020-08-11T05:13:55Z</updated>
+  <content type="html">
+   A repo for sample Lisp (List Processing) language.
+  </content>
+ </entry>
  <entry>
   <title>rwtodd: rt-spritz</title>
   <author>
@@ -135,68 +252,16 @@
   </content>
  </entry>
  <entry>
-  <title>innaky: composite-cl</title>
+  <title>innaky: lisp-scripts</title>
   <author>
    <name>innaky</name>
   </author>
-  <link href="https://github.com/innaky/composite-cl" />
-  <id>urn:rprimus:github:innaky:composite-cl</id>
+  <link href="https://github.com/innaky/lisp-scripts" />
+  <id>urn:rprimus:github:innaky:lisp-scripts</id>
   <published>2020-08-10T01:19:33Z</published>
   <updated>2020-08-10T01:19:33Z</updated>
   <content type="html">
-   Fusion between two images, with imagemagick (composite)
-  </content>
- </entry>
- <entry>
-  <title>fade: yahoo-finance</title>
-  <author>
-   <name>fade</name>
-  </author>
-  <link href="https://github.com/fade/yahoo-finance" />
-  <id>urn:rprimus:github:fade:yahoo-finance</id>
-  <published>2020-08-09T19:59:59Z</published>
-  <updated>2020-08-09T19:59:59Z</updated>
-  <content type="html">
-   A CLOSsy interface to the residual Yahoo Finance API
-  </content>
- </entry>
- <entry>
-  <title>rwtodd: rt-discordian</title>
-  <author>
-   <name>rwtodd</name>
-  </author>
-  <link href="https://github.com/rwtodd/rt-discordian" />
-  <id>urn:rprimus:github:rwtodd:rt-discordian</id>
-  <published>2020-08-09T17:13:55Z</published>
-  <updated>2020-08-09T17:13:55Z</updated>
-  <content type="html">
-   common-lisp discordian date library + utility
-  </content>
- </entry>
- <entry>
-  <title>hoangtrann: dotfiles</title>
-  <author>
-   <name>hoangtrann</name>
-  </author>
-  <link href="https://github.com/hoangtrann/dotfiles" />
-  <id>urn:rprimus:github:hoangtrann:dotfiles</id>
-  <published>2020-08-09T16:44:02Z</published>
-  <updated>2020-08-09T16:44:02Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>bohdan-sokolovskyi: simple-common-lisp-web-server</title>
-  <author>
-   <name>bohdan-sokolovskyi</name>
-  </author>
-  <link href="https://github.com/bohdan-sokolovskyi/simple-common-lisp-web-server" />
-  <id>urn:rprimus:github:bohdan-sokolovskyi:simple-common-lisp-web-server</id>
-  <published>2020-08-09T11:04:03Z</published>
-  <updated>2020-08-09T11:04:03Z</updated>
-  <content type="html">
-   Simple common lisp web server
+   Repository for lisp scripts, replacing scripting languages.
   </content>
  </entry>
 </feed>
