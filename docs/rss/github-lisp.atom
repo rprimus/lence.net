@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2020-08-12T05:18:59Z</updated>
+<updated>2020-08-13T00:10:50Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>rigidus: quiz</title>
+  <author>
+   <name>rigidus</name>
+  </author>
+  <link href="https://github.com/rigidus/quiz" />
+  <id>urn:rprimus:github:rigidus:quiz</id>
+  <published>2020-08-13T00:10:50Z</published>
+  <updated>2020-08-13T00:10:50Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>guibaux: lispy-blog</title>
+  <author>
+   <name>guibaux</name>
+  </author>
+  <link href="https://github.com/guibaux/lispy-blog" />
+  <id>urn:rprimus:github:guibaux:lispy-blog</id>
+  <published>2020-08-12T18:55:41Z</published>
+  <updated>2020-08-12T18:55:41Z</updated>
+  <content type="html">
+   Rewriting my blog with coleslaw, I don&#039;t need hugo
+  </content>
+ </entry>
+ <entry>
+  <title>iamFIREcracker: plan-convert</title>
+  <author>
+   <name>iamFIREcracker</name>
+  </author>
+  <link href="https://github.com/iamFIREcracker/plan-convert" />
+  <id>urn:rprimus:github:iamFIREcracker:plan-convert</id>
+  <published>2020-08-12T17:01:07Z</published>
+  <updated>2020-08-12T17:01:07Z</updated>
+  <content type="html">
+   Reads a .plan file from stdin, and transform it using Djula (Django) templates
+  </content>
+ </entry>
+ <entry>
+  <title>vseloved: cl-agraph</title>
+  <author>
+   <name>vseloved</name>
+  </author>
+  <link href="https://github.com/vseloved/cl-agraph" />
+  <id>urn:rprimus:github:vseloved:cl-agraph</id>
+  <published>2020-08-12T16:11:01Z</published>
+  <updated>2020-08-12T16:11:01Z</updated>
+  <content type="html">
+   CL-AGRAPH â A minimal portable Lisp client for AllegroGraph
+  </content>
+ </entry>
+ <entry>
+  <title>jsawesome1: lizard-bot</title>
+  <author>
+   <name>jsawesome1</name>
+  </author>
+  <link href="https://github.com/jsawesome1/lizard-bot" />
+  <id>urn:rprimus:github:jsawesome1:lizard-bot</id>
+  <published>2020-08-12T16:02:04Z</published>
+  <updated>2020-08-12T16:02:04Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Hexstream: enhanced-find-class</title>
+  <author>
+   <name>Hexstream</name>
+  </author>
+  <link href="https://github.com/Hexstream/enhanced-find-class" />
+  <id>urn:rprimus:github:Hexstream:enhanced-find-class</id>
+  <published>2020-08-12T14:49:25Z</published>
+  <updated>2020-08-12T14:49:25Z</updated>
+  <content type="html">
+   Provides a canonical way of converting class designators to classes.
+  </content>
+ </entry>
  <entry>
   <title>shamazmazum: cl-setlocale</title>
   <author>
@@ -158,110 +236,6 @@
   <updated>2020-08-11T01:09:05Z</updated>
   <content type="html">
    Decode the Gemini Protocol&#039;s gemtext markup into structured data.
-  </content>
- </entry>
- <entry>
-  <title>kldtz: template-parser</title>
-  <author>
-   <name>kldtz</name>
-  </author>
-  <link href="https://github.com/kldtz/template-parser" />
-  <id>urn:rprimus:github:kldtz:template-parser</id>
-  <published>2020-08-10T15:18:28Z</published>
-  <updated>2020-08-10T15:18:28Z</updated>
-  <content type="html">
-   Parser for Wiktionary templates
-  </content>
- </entry>
- <entry>
-  <title>Gap1512: cl-superformula</title>
-  <author>
-   <name>Gap1512</name>
-  </author>
-  <link href="https://github.com/Gap1512/cl-superformula" />
-  <id>urn:rprimus:github:Gap1512:cl-superformula</id>
-  <published>2020-08-10T15:09:41Z</published>
-  <updated>2020-08-10T15:09:41Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Gap1512: on-lisp</title>
-  <author>
-   <name>Gap1512</name>
-  </author>
-  <link href="https://github.com/Gap1512/on-lisp" />
-  <id>urn:rprimus:github:Gap1512:on-lisp</id>
-  <published>2020-08-10T15:06:21Z</published>
-  <updated>2020-08-10T15:06:21Z</updated>
-  <content type="html">
-   On Lisp by Paul Graham
-  </content>
- </entry>
- <entry>
-  <title>Gap1512: lisp-for-the-web</title>
-  <author>
-   <name>Gap1512</name>
-  </author>
-  <link href="https://github.com/Gap1512/lisp-for-the-web" />
-  <id>urn:rprimus:github:Gap1512:lisp-for-the-web</id>
-  <published>2020-08-10T13:29:43Z</published>
-  <updated>2020-08-10T13:29:43Z</updated>
-  <content type="html">
-   Lisp for the Web by Adam Tornhill
-  </content>
- </entry>
- <entry>
-  <title>dnaeon: cl-ssh-keys</title>
-  <author>
-   <name>dnaeon</name>
-  </author>
-  <link href="https://github.com/dnaeon/cl-ssh-keys" />
-  <id>urn:rprimus:github:dnaeon:cl-ssh-keys</id>
-  <published>2020-08-10T13:29:18Z</published>
-  <updated>2020-08-10T13:29:18Z</updated>
-  <content type="html">
-   Common Lisp system for generating and parsing of OpenSSH keys
-  </content>
- </entry>
- <entry>
-  <title>Gap1512: genetic-programming</title>
-  <author>
-   <name>Gap1512</name>
-  </author>
-  <link href="https://github.com/Gap1512/genetic-programming" />
-  <id>urn:rprimus:github:Gap1512:genetic-programming</id>
-  <published>2020-08-10T13:07:30Z</published>
-  <updated>2020-08-10T13:07:30Z</updated>
-  <content type="html">
-   A Field Guide to Genetic Programming by William B. Langdon, Nicholas F. McPhee and Riccardo Poli
-  </content>
- </entry>
- <entry>
-  <title>carboleum: trade-with-kraken</title>
-  <author>
-   <name>carboleum</name>
-  </author>
-  <link href="https://github.com/carboleum/trade-with-kraken" />
-  <id>urn:rprimus:github:carboleum:trade-with-kraken</id>
-  <published>2020-08-10T11:28:43Z</published>
-  <updated>2020-08-10T11:28:43Z</updated>
-  <content type="html">
-   Trading with kraken
-  </content>
- </entry>
- <entry>
-  <title>innaky: lisp-scripts</title>
-  <author>
-   <name>innaky</name>
-  </author>
-  <link href="https://github.com/innaky/lisp-scripts" />
-  <id>urn:rprimus:github:innaky:lisp-scripts</id>
-  <published>2020-08-10T01:19:33Z</published>
-  <updated>2020-08-10T01:19:33Z</updated>
-  <content type="html">
-   Repository for lisp scripts, replacing scripting languages.
   </content>
  </entry>
 </feed>
