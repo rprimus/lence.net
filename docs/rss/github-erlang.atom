@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-erlang.atom"/>
 <id>urn:rprimus:github:newerlangrepos</id>
-<updated>2020-08-13T11:22:38Z</updated>
+<updated>2020-08-14T13:49:47Z</updated>
 <title type='text'>New GitHub Erlang Repos</title>
+ <entry>
+  <title>riak-core-lite: rcl_bench</title>
+  <author>
+   <name>riak-core-lite</name>
+  </author>
+  <link href="https://github.com/riak-core-lite/rcl_bench" />
+  <id>urn:rprimus:github:riak-core-lite:rcl_bench</id>
+  <published>2020-08-14T13:49:47Z</published>
+  <updated>2020-08-14T13:49:47Z</updated>
+  <content type="html">
+   Simplified version of basho_bench
+  </content>
+ </entry>
+ <entry>
+  <title>crownedgrouse: hype</title>
+  <author>
+   <name>crownedgrouse</name>
+  </author>
+  <link href="https://github.com/crownedgrouse/hype" />
+  <id>urn:rprimus:github:crownedgrouse:hype</id>
+  <published>2020-08-14T10:37:35Z</published>
+  <updated>2020-08-14T10:37:35Z</updated>
+  <content type="html">
+   Handsome YAML Processor for Erlang
+  </content>
+ </entry>
+ <entry>
+  <title>klarna-incubator: kache</title>
+  <author>
+   <name>klarna-incubator</name>
+  </author>
+  <link href="https://github.com/klarna-incubator/kache" />
+  <id>urn:rprimus:github:klarna-incubator:kache</id>
+  <published>2020-08-13T12:28:31Z</published>
+  <updated>2020-08-13T12:28:31Z</updated>
+  <content type="html">
+   A generic, in-memory caching application based on ETS.
+  </content>
+ </entry>
  <entry>
   <title>talbotp: weather-forecasting-client</title>
   <author>
@@ -15,32 +54,6 @@
   <updated>2020-08-13T11:22:38Z</updated>
   <content type="html">
    A weather forecasting client which consumes the dark sky api.
-  </content>
- </entry>
- <entry>
-  <title>matt9j: osmo_dia2gsup</title>
-  <author>
-   <name>matt9j</name>
-  </author>
-  <link href="https://github.com/matt9j/osmo_dia2gsup" />
-  <id>urn:rprimus:github:matt9j:osmo_dia2gsup</id>
-  <published>2020-08-12T19:34:19Z</published>
-  <updated>2020-08-12T19:34:19Z</updated>
-  <content type="html">
-   Private mirror of changes to the diameter 2 gsup converter
-  </content>
- </entry>
- <entry>
-  <title>AnufrievDE: cowboy_rest_example</title>
-  <author>
-   <name>AnufrievDE</name>
-  </author>
-  <link href="https://github.com/AnufrievDE/cowboy_rest_example" />
-  <id>urn:rprimus:github:AnufrievDE:cowboy_rest_example</id>
-  <published>2020-08-12T01:18:50Z</published>
-  <updated>2020-08-12T01:18:50Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
