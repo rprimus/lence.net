@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2020-08-13T22:37:00Z</updated>
+<updated>2020-08-15T02:00:53Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>ushitora-anqou: qlown</title>
+  <author>
+   <name>ushitora-anqou</name>
+  </author>
+  <link href="https://github.com/ushitora-anqou/qlown" />
+  <id>urn:rprimus:github:ushitora-anqou:qlown</id>
+  <published>2020-08-15T02:00:53Z</published>
+  <updated>2020-08-15T02:00:53Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>NikolasTzimoulis: LambekCalculusHOList</title>
+  <author>
+   <name>NikolasTzimoulis</name>
+  </author>
+  <link href="https://github.com/NikolasTzimoulis/LambekCalculusHOList" />
+  <id>urn:rprimus:github:NikolasTzimoulis:LambekCalculusHOList</id>
+  <published>2020-08-15T00:41:10Z</published>
+  <updated>2020-08-15T00:41:10Z</updated>
+  <content type="html">
+   experiments with proving sequents of a Lambek calculus with HOList/DeepHOL
+  </content>
+ </entry>
+ <entry>
+  <title>farif: simple-parser</title>
+  <author>
+   <name>farif</name>
+  </author>
+  <link href="https://github.com/farif/simple-parser" />
+  <id>urn:rprimus:github:farif:simple-parser</id>
+  <published>2020-08-14T20:36:50Z</published>
+  <updated>2020-08-14T20:36:50Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>kyle-lai-01: OMaskl</title>
+  <author>
+   <name>kyle-lai-01</name>
+  </author>
+  <link href="https://github.com/kyle-lai-01/OMaskl" />
+  <id>urn:rprimus:github:kyle-lai-01:OMaskl</id>
+  <published>2020-08-14T17:05:57Z</published>
+  <updated>2020-08-14T17:05:57Z</updated>
+  <content type="html">
+   An interpreter, translator, and evaluator written for OMaskl. Built as a final project for CS 3110.
+  </content>
+ </entry>
+ <entry>
+  <title>wassimmarrakchi: MiniML-CS51</title>
+  <author>
+   <name>wassimmarrakchi</name>
+  </author>
+  <link href="https://github.com/wassimmarrakchi/MiniML-CS51" />
+  <id>urn:rprimus:github:wassimmarrakchi:MiniML-CS51</id>
+  <published>2020-08-14T14:07:48Z</published>
+  <updated>2020-08-14T14:07:48Z</updated>
+  <content type="html">
+   The culminative final project for CS51 was the implementation of a small subset of an OCaml-like language. I implemented three models of MiniML using the substitution model, a dynamically scoped environment model and a lexically scoped environment model.
+  </content>
+ </entry>
  <entry>
   <title>jdh30: growing_a_compiler</title>
   <author>
@@ -41,6 +106,19 @@
   <updated>2020-08-13T13:29:21Z</updated>
   <content type="html">
    proof generator of a formula by tree method in Ocaml
+  </content>
+ </entry>
+ <entry>
+  <title>mr-mattwb: srcml</title>
+  <author>
+   <name>mr-mattwb</name>
+  </author>
+  <link href="https://github.com/mr-mattwb/srcml" />
+  <id>urn:rprimus:github:mr-mattwb:srcml</id>
+  <published>2020-08-13T11:27:24Z</published>
+  <updated>2020-08-13T11:27:24Z</updated>
+  <content type="html">
+   
   </content>
  </entry>
  <entry>
@@ -106,110 +184,6 @@
   <updated>2020-08-13T01:12:02Z</updated>
   <content type="html">
    A roguelike game written in Ocaml.
-  </content>
- </entry>
- <entry>
-  <title>farif: SySRex</title>
-  <author>
-   <name>farif</name>
-  </author>
-  <link href="https://github.com/farif/SySRex" />
-  <id>urn:rprimus:github:farif:SySRex</id>
-  <published>2020-08-12T18:44:06Z</published>
-  <updated>2020-08-12T18:44:06Z</updated>
-  <content type="html">
-   Regular Expression Checker
-  </content>
- </entry>
- <entry>
-  <title>guillecosta: qinap</title>
-  <author>
-   <name>guillecosta</name>
-  </author>
-  <link href="https://github.com/guillecosta/qinap" />
-  <id>urn:rprimus:github:guillecosta:qinap</id>
-  <published>2020-08-12T18:28:04Z</published>
-  <updated>2020-08-12T18:28:04Z</updated>
-  <content type="html">
-   A (very small) monadic parsing library.
-  </content>
- </entry>
- <entry>
-  <title>mtobin9299: ascii-tetris</title>
-  <author>
-   <name>mtobin9299</name>
-  </author>
-  <link href="https://github.com/mtobin9299/ascii-tetris" />
-  <id>urn:rprimus:github:mtobin9299:ascii-tetris</id>
-  <published>2020-08-12T16:08:41Z</published>
-  <updated>2020-08-12T16:08:41Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>AlistairRobinson: LearningSpace</title>
-  <author>
-   <name>AlistairRobinson</name>
-  </author>
-  <link href="https://github.com/AlistairRobinson/LearningSpace" />
-  <id>urn:rprimus:github:AlistairRobinson:LearningSpace</id>
-  <published>2020-08-12T12:43:41Z</published>
-  <updated>2020-08-12T12:43:41Z</updated>
-  <content type="html">
-   A repository for experimenting with new languages
-  </content>
- </entry>
- <entry>
-  <title>patricoferris: ppx_yaml</title>
-  <author>
-   <name>patricoferris</name>
-  </author>
-  <link href="https://github.com/patricoferris/ppx_yaml" />
-  <id>urn:rprimus:github:patricoferris:ppx_yaml</id>
-  <published>2020-08-12T11:11:47Z</published>
-  <updated>2020-08-12T11:11:47Z</updated>
-  <content type="html">
-   A ppx rewriter for ocaml-yaml
-  </content>
- </entry>
- <entry>
-  <title>Gabulhas: brainfck-ocaml</title>
-  <author>
-   <name>Gabulhas</name>
-  </author>
-  <link href="https://github.com/Gabulhas/brainfck-ocaml" />
-  <id>urn:rprimus:github:Gabulhas:brainfck-ocaml</id>
-  <published>2020-08-12T09:12:20Z</published>
-  <updated>2020-08-12T09:12:20Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>peterthenelson: ocaml-scaffolding</title>
-  <author>
-   <name>peterthenelson</name>
-  </author>
-  <link href="https://github.com/peterthenelson/ocaml-scaffolding" />
-  <id>urn:rprimus:github:peterthenelson:ocaml-scaffolding</id>
-  <published>2020-08-12T04:28:32Z</published>
-  <updated>2020-08-12T04:28:32Z</updated>
-  <content type="html">
-   Scaffolding for a basic OCaml project
-  </content>
- </entry>
- <entry>
-  <title>APLAS-20-Sub-14: SyncedEffects_ForReview</title>
-  <author>
-   <name>APLAS-20-Sub-14</name>
-  </author>
-  <link href="https://github.com/APLAS-20-Sub-14/SyncedEffects_ForReview" />
-  <id>urn:rprimus:github:APLAS-20-Sub-14:SyncedEffects_ForReview</id>
-  <published>2020-08-12T02:43:47Z</published>
-  <updated>2020-08-12T02:43:47Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>

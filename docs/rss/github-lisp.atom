@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2020-08-13T19:39:10Z</updated>
+<updated>2020-08-15T02:04:12Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>yanqirenshi: vpass</title>
+  <author>
+   <name>yanqirenshi</name>
+  </author>
+  <link href="https://github.com/yanqirenshi/vpass" />
+  <id>urn:rprimus:github:yanqirenshi:vpass</id>
+  <published>2020-08-15T02:04:12Z</published>
+  <updated>2020-08-15T02:04:12Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>woodyZootopia: sicp_clisp</title>
+  <author>
+   <name>woodyZootopia</name>
+  </author>
+  <link href="https://github.com/woodyZootopia/sicp_clisp" />
+  <id>urn:rprimus:github:woodyZootopia:sicp_clisp</id>
+  <published>2020-08-14T23:59:39Z</published>
+  <updated>2020-08-14T23:59:39Z</updated>
+  <content type="html">
+   solve some of the problems in SICP with Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>oskidan: land-of-lisp</title>
+  <author>
+   <name>oskidan</name>
+  </author>
+  <link href="https://github.com/oskidan/land-of-lisp" />
+  <id>urn:rprimus:github:oskidan:land-of-lisp</id>
+  <published>2020-08-14T07:03:33Z</published>
+  <updated>2020-08-14T07:03:33Z</updated>
+  <content type="html">
+   Following the book &quot;Land of Lisp&quot;
+  </content>
+ </entry>
+ <entry>
+  <title>kilimanjaro: approxfun</title>
+  <author>
+   <name>kilimanjaro</name>
+  </author>
+  <link href="https://github.com/kilimanjaro/approxfun" />
+  <id>urn:rprimus:github:kilimanjaro:approxfun</id>
+  <published>2020-08-14T04:03:38Z</published>
+  <updated>2020-08-14T04:03:38Z</updated>
+  <content type="html">
+   Efficient computation with numerical functions via approximation theory.
+  </content>
+ </entry>
  <entry>
   <title>Suppan: sfPlayerSC</title>
   <author>
@@ -67,84 +119,6 @@
   <updated>2020-08-13T00:10:50Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>guibaux: lispy-blog</title>
-  <author>
-   <name>guibaux</name>
-  </author>
-  <link href="https://github.com/guibaux/lispy-blog" />
-  <id>urn:rprimus:github:guibaux:lispy-blog</id>
-  <published>2020-08-12T18:55:41Z</published>
-  <updated>2020-08-12T18:55:41Z</updated>
-  <content type="html">
-   Rewriting my blog with coleslaw, I don&#039;t need hugo
-  </content>
- </entry>
- <entry>
-  <title>iamFIREcracker: plan-convert</title>
-  <author>
-   <name>iamFIREcracker</name>
-  </author>
-  <link href="https://github.com/iamFIREcracker/plan-convert" />
-  <id>urn:rprimus:github:iamFIREcracker:plan-convert</id>
-  <published>2020-08-12T17:01:07Z</published>
-  <updated>2020-08-12T17:01:07Z</updated>
-  <content type="html">
-   Reads a .plan file from stdin, and transform it using Djula (Django) templates
-  </content>
- </entry>
- <entry>
-  <title>vseloved: cl-agraph</title>
-  <author>
-   <name>vseloved</name>
-  </author>
-  <link href="https://github.com/vseloved/cl-agraph" />
-  <id>urn:rprimus:github:vseloved:cl-agraph</id>
-  <published>2020-08-12T16:11:01Z</published>
-  <updated>2020-08-12T16:11:01Z</updated>
-  <content type="html">
-   CL-AGRAPH â A minimal portable Lisp client for AllegroGraph
-  </content>
- </entry>
- <entry>
-  <title>jsawesome1: lizard-bot</title>
-  <author>
-   <name>jsawesome1</name>
-  </author>
-  <link href="https://github.com/jsawesome1/lizard-bot" />
-  <id>urn:rprimus:github:jsawesome1:lizard-bot</id>
-  <published>2020-08-12T16:02:04Z</published>
-  <updated>2020-08-12T16:02:04Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Hexstream: enhanced-find-class</title>
-  <author>
-   <name>Hexstream</name>
-  </author>
-  <link href="https://github.com/Hexstream/enhanced-find-class" />
-  <id>urn:rprimus:github:Hexstream:enhanced-find-class</id>
-  <published>2020-08-12T14:49:25Z</published>
-  <updated>2020-08-12T14:49:25Z</updated>
-  <content type="html">
-   Provides a canonical way of converting class designators to classes.
-  </content>
- </entry>
- <entry>
-  <title>shamazmazum: cl-setlocale</title>
-  <author>
-   <name>shamazmazum</name>
-  </author>
-  <link href="https://github.com/shamazmazum/cl-setlocale" />
-  <id>urn:rprimus:github:shamazmazum:cl-setlocale</id>
-  <published>2020-08-12T05:18:59Z</published>
-  <updated>2020-08-12T05:18:59Z</updated>
-  <content type="html">
-   A wrapper around setlocale(3) for Common Lisp
   </content>
  </entry>
 </feed>
