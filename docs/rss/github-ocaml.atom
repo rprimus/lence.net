@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2020-08-15T02:00:53Z</updated>
+<updated>2020-08-16T00:34:32Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>m-laniakea: OQpack</title>
+  <author>
+   <name>m-laniakea</name>
+  </author>
+  <link href="https://github.com/m-laniakea/OQpack" />
+  <id>urn:rprimus:github:m-laniakea:OQpack</id>
+  <published>2020-08-16T00:34:32Z</published>
+  <updated>2020-08-16T00:34:32Z</updated>
+  <content type="html">
+   HTTP/3 QPACK implementation
+  </content>
+ </entry>
+ <entry>
+  <title>brendanlong: blue-http</title>
+  <author>
+   <name>brendanlong</name>
+  </author>
+  <link href="https://github.com/brendanlong/blue-http" />
+  <id>urn:rprimus:github:brendanlong:blue-http</id>
+  <published>2020-08-15T18:49:04Z</published>
+  <updated>2020-08-15T18:49:04Z</updated>
+  <content type="html">
+   A high-level OCaml HTTP client
+  </content>
+ </entry>
+ <entry>
+  <title>Takashiidobe: ocaml-webapp</title>
+  <author>
+   <name>Takashiidobe</name>
+  </author>
+  <link href="https://github.com/Takashiidobe/ocaml-webapp" />
+  <id>urn:rprimus:github:Takashiidobe:ocaml-webapp</id>
+  <published>2020-08-15T16:39:26Z</published>
+  <updated>2020-08-15T16:39:26Z</updated>
+  <content type="html">
+   ocaml app
+  </content>
+ </entry>
  <entry>
   <title>ushitora-anqou: qlown</title>
   <author>
@@ -14,7 +53,7 @@
   <published>2020-08-15T02:00:53Z</published>
   <updated>2020-08-15T02:00:53Z</updated>
   <content type="html">
-   
+   Yet another toy theorem prover.
   </content>
  </entry>
  <entry>
@@ -28,6 +67,19 @@
   <updated>2020-08-15T00:41:10Z</updated>
   <content type="html">
    experiments with proving sequents of a Lambek calculus with HOList/DeepHOL
+  </content>
+ </entry>
+ <entry>
+  <title>kwshi: slick</title>
+  <author>
+   <name>kwshi</name>
+  </author>
+  <link href="https://github.com/kwshi/slick" />
+  <id>urn:rprimus:github:kwshi:slick</id>
+  <published>2020-08-15T00:37:31Z</published>
+  <updated>2020-08-15T00:37:31Z</updated>
+  <content type="html">
+   cool language thing
   </content>
  </entry>
  <entry>
@@ -67,123 +119,6 @@
   <updated>2020-08-14T14:07:48Z</updated>
   <content type="html">
    The culminative final project for CS51 was the implementation of a small subset of an OCaml-like language. I implemented three models of MiniML using the substitution model, a dynamically scoped environment model and a lexically scoped environment model.
-  </content>
- </entry>
- <entry>
-  <title>jdh30: growing_a_compiler</title>
-  <author>
-   <name>jdh30</name>
-  </author>
-  <link href="https://github.com/jdh30/growing_a_compiler" />
-  <id>urn:rprimus:github:jdh30:growing_a_compiler</id>
-  <published>2020-08-13T22:37:00Z</published>
-  <updated>2020-08-13T22:37:00Z</updated>
-  <content type="html">
-   Growing a compiler
-  </content>
- </entry>
- <entry>
-  <title>ri7nz: tinker-openapi</title>
-  <author>
-   <name>ri7nz</name>
-  </author>
-  <link href="https://github.com/ri7nz/tinker-openapi" />
-  <id>urn:rprimus:github:ri7nz:tinker-openapi</id>
-  <published>2020-08-13T19:16:48Z</published>
-  <updated>2020-08-13T19:16:48Z</updated>
-  <content type="html">
-   the goal of this project is make support for Reason (ReScript).
-  </content>
- </entry>
- <entry>
-  <title>kedesiklem: treeproof</title>
-  <author>
-   <name>kedesiklem</name>
-  </author>
-  <link href="https://github.com/kedesiklem/treeproof" />
-  <id>urn:rprimus:github:kedesiklem:treeproof</id>
-  <published>2020-08-13T13:29:21Z</published>
-  <updated>2020-08-13T13:29:21Z</updated>
-  <content type="html">
-   proof generator of a formula by tree method in Ocaml
-  </content>
- </entry>
- <entry>
-  <title>mr-mattwb: srcml</title>
-  <author>
-   <name>mr-mattwb</name>
-  </author>
-  <link href="https://github.com/mr-mattwb/srcml" />
-  <id>urn:rprimus:github:mr-mattwb:srcml</id>
-  <published>2020-08-13T11:27:24Z</published>
-  <updated>2020-08-13T11:27:24Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>yuki3738: Basic_of_programming</title>
-  <author>
-   <name>yuki3738</name>
-  </author>
-  <link href="https://github.com/yuki3738/Basic_of_programming" />
-  <id>urn:rprimus:github:yuki3738:Basic_of_programming</id>
-  <published>2020-08-13T08:32:01Z</published>
-  <updated>2020-08-13T08:32:01Z</updated>
-  <content type="html">
-   http://pllab.is.ocha.ac.jp/~asai/book/Top.html
-  </content>
- </entry>
- <entry>
-  <title>arvindavema: CMSC330-Organization-of-Programming-Languages</title>
-  <author>
-   <name>arvindavema</name>
-  </author>
-  <link href="https://github.com/arvindavema/CMSC330-Organization-of-Programming-Languages" />
-  <id>urn:rprimus:github:arvindavema:CMSC330-Organization-of-Programming-Languages</id>
-  <published>2020-08-13T03:24:16Z</published>
-  <updated>2020-08-13T03:24:16Z</updated>
-  <content type="html">
-   Projects that implement concepts such as Grammar, Rules, Logic, Lambda Operations while providing rigorous practice with Ruby and OCaml. Teaches important concepts such as functional programming, dynamic vs static languages, and breaking down languages in a way that provides insight into how virtually all programming languages work.
-  </content>
- </entry>
- <entry>
-  <title>rgmarkowitz: Paint-Application</title>
-  <author>
-   <name>rgmarkowitz</name>
-  </author>
-  <link href="https://github.com/rgmarkowitz/Paint-Application" />
-  <id>urn:rprimus:github:rgmarkowitz:Paint-Application</id>
-  <published>2020-08-13T02:58:17Z</published>
-  <updated>2020-08-13T02:58:17Z</updated>
-  <content type="html">
-   Computer application to draw and erase pictures in OCaml
-  </content>
- </entry>
- <entry>
-  <title>kitayuyoesa: study_ocaml</title>
-  <author>
-   <name>kitayuyoesa</name>
-  </author>
-  <link href="https://github.com/kitayuyoesa/study_ocaml" />
-  <id>urn:rprimus:github:kitayuyoesa:study_ocaml</id>
-  <published>2020-08-13T02:13:15Z</published>
-  <updated>2020-08-13T02:13:15Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jack-farley: roguelike</title>
-  <author>
-   <name>jack-farley</name>
-  </author>
-  <link href="https://github.com/jack-farley/roguelike" />
-  <id>urn:rprimus:github:jack-farley:roguelike</id>
-  <published>2020-08-13T01:12:02Z</published>
-  <updated>2020-08-13T01:12:02Z</updated>
-  <content type="html">
-   A roguelike game written in Ocaml.
   </content>
  </entry>
 </feed>
