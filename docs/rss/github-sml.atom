@@ -2,15 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-sml.atom"/>
 <id>urn:rprimus:github:newsmlrepos</id>
-<updated>2020-08-19T10:41:09Z</updated>
+<updated>2020-08-20T01:57:03Z</updated>
 <title type='text'>New GitHub Sml Repos</title>
  <entry>
-  <title>30f0fn: okasaki</title>
+  <title>thswanson: SMLJackCompiler</title>
   <author>
-   <name>30f0fn</name>
+   <name>thswanson</name>
   </author>
-  <link href="https://github.com/30f0fn/okasaki" />
-  <id>urn:rprimus:github:30f0fn:okasaki</id>
+  <link href="https://github.com/thswanson/SMLJackCompiler" />
+  <id>urn:rprimus:github:thswanson:SMLJackCompiler</id>
+  <published>2020-08-20T01:57:03Z</published>
+  <updated>2020-08-20T01:57:03Z</updated>
+  <content type="html">
+   An SML compiler for the Jack language. I think its similar to Nand2Tetris ch 11. 
+  </content>
+ </entry>
+ <entry>
+  <title>wm-ax: okasaki</title>
+  <author>
+   <name>wm-ax</name>
+  </author>
+  <link href="https://github.com/wm-ax/okasaki" />
+  <id>urn:rprimus:github:wm-ax:okasaki</id>
   <published>2020-08-19T10:41:09Z</published>
   <updated>2020-08-19T10:41:09Z</updated>
   <content type="html">
@@ -67,45 +80,6 @@
   <updated>2020-08-18T04:07:32Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>lassik: simile</title>
-  <author>
-   <name>lassik</name>
-  </author>
-  <link href="https://github.com/lassik/simile" />
-  <id>urn:rprimus:github:lassik:simile</id>
-  <published>2020-08-17T21:54:08Z</published>
-  <updated>2020-08-17T21:54:08Z</updated>
-  <content type="html">
-   Scheme in ML
-  </content>
- </entry>
- <entry>
-  <title>KanShuanglong: k5.0</title>
-  <author>
-   <name>KanShuanglong</name>
-  </author>
-  <link href="https://github.com/KanShuanglong/k5.0" />
-  <id>urn:rprimus:github:KanShuanglong:k5.0</id>
-  <published>2020-08-17T13:36:50Z</published>
-  <updated>2020-08-17T13:36:50Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>tkadur: prettyprinter-sml</title>
-  <author>
-   <name>tkadur</name>
-  </author>
-  <link href="https://github.com/tkadur/prettyprinter-sml" />
-  <id>urn:rprimus:github:tkadur:prettyprinter-sml</id>
-  <published>2020-08-17T01:00:03Z</published>
-  <updated>2020-08-17T01:00:03Z</updated>
-  <content type="html">
-   A Wadler/Leijen pretty-printing library
   </content>
  </entry>
 </feed>
