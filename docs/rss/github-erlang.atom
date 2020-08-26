@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-erlang.atom"/>
 <id>urn:rprimus:github:newerlangrepos</id>
-<updated>2020-08-25T02:42:43Z</updated>
+<updated>2020-08-26T06:10:44Z</updated>
 <title type='text'>New GitHub Erlang Repos</title>
+ <entry>
+  <title>DominicGame: port_compiler</title>
+  <author>
+   <name>DominicGame</name>
+  </author>
+  <link href="https://github.com/DominicGame/port_compiler" />
+  <id>urn:rprimus:github:DominicGame:port_compiler</id>
+  <published>2020-08-26T06:10:44Z</published>
+  <updated>2020-08-26T06:10:44Z</updated>
+  <content type="html">
+   fix compile with windows
+  </content>
+ </entry>
+ <entry>
+  <title>joq62: testing</title>
+  <author>
+   <name>joq62</name>
+  </author>
+  <link href="https://github.com/joq62/testing" />
+  <id>urn:rprimus:github:joq62:testing</id>
+  <published>2020-08-25T20:46:32Z</published>
+  <updated>2020-08-25T20:46:32Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>joq62: iaas_service</title>
+  <author>
+   <name>joq62</name>
+  </author>
+  <link href="https://github.com/joq62/iaas_service" />
+  <id>urn:rprimus:github:joq62:iaas_service</id>
+  <published>2020-08-25T20:44:26Z</published>
+  <updated>2020-08-25T20:44:26Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>aleklisi: eneo4j</title>
+  <author>
+   <name>aleklisi</name>
+  </author>
+  <link href="https://github.com/aleklisi/eneo4j" />
+  <id>urn:rprimus:github:aleklisi:eneo4j</id>
+  <published>2020-08-25T14:39:45Z</published>
+  <updated>2020-08-25T14:39:45Z</updated>
+  <content type="html">
+   An Erlang neo4j HTTP API implementation
+  </content>
+ </entry>
+ <entry>
+  <title>robione-nr: erlang-totp</title>
+  <author>
+   <name>robione-nr</name>
+  </author>
+  <link href="https://github.com/robione-nr/erlang-totp" />
+  <id>urn:rprimus:github:robione-nr:erlang-totp</id>
+  <published>2020-08-25T09:17:17Z</published>
+  <updated>2020-08-25T09:17:17Z</updated>
+  <content type="html">
+   Erlang implementation of RFC 6238 TOTP. Also made compatible with Google Authenticator.
+  </content>
+ </entry>
+ <entry>
+  <title>zack-bitcoin: amoveo-explorer</title>
+  <author>
+   <name>zack-bitcoin</name>
+  </author>
+  <link href="https://github.com/zack-bitcoin/amoveo-explorer" />
+  <id>urn:rprimus:github:zack-bitcoin:amoveo-explorer</id>
+  <published>2020-08-25T09:09:16Z</published>
+  <updated>2020-08-25T09:09:16Z</updated>
+  <content type="html">
+   a website for sharing info about the amoveo blockchain&#039;s consensus state and history.
+  </content>
+ </entry>
  <entry>
   <title>gugahoa: opentelemetry_trace_field</title>
   <author>
@@ -83,42 +161,16 @@
   </content>
  </entry>
  <entry>
-  <title>Luguna: elasticsearch-playground</title>
+  <title>amunibf: Erlang</title>
   <author>
-   <name>Luguna</name>
+   <name>amunibf</name>
   </author>
-  <link href="https://github.com/Luguna/elasticsearch-playground" />
-  <id>urn:rprimus:github:Luguna:elasticsearch-playground</id>
-  <published>2020-08-23T15:55:16Z</published>
-  <updated>2020-08-23T15:55:16Z</updated>
+  <link href="https://github.com/amunibf/Erlang" />
+  <id>urn:rprimus:github:amunibf:Erlang</id>
+  <published>2020-08-24T02:17:47Z</published>
+  <updated>2020-08-24T02:17:47Z</updated>
   <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Ryan-JQ: redis-ha-ms-vip</title>
-  <author>
-   <name>Ryan-JQ</name>
-  </author>
-  <link href="https://github.com/Ryan-JQ/redis-ha-ms-vip" />
-  <id>urn:rprimus:github:Ryan-JQ:redis-ha-ms-vip</id>
-  <published>2020-08-23T15:32:32Z</published>
-  <updated>2020-08-23T15:32:32Z</updated>
-  <content type="html">
-   Redis HA Master Slave Keepalived
-  </content>
- </entry>
- <entry>
-  <title>intangere: erl-irc-bot</title>
-  <author>
-   <name>intangere</name>
-  </author>
-  <link href="https://github.com/intangere/erl-irc-bot" />
-  <id>urn:rprimus:github:intangere:erl-irc-bot</id>
-  <published>2020-08-23T06:10:48Z</published>
-  <updated>2020-08-23T06:10:48Z</updated>
-  <content type="html">
-   Simple Erlang IRC Bot
+   Basics of erlang
   </content>
  </entry>
 </feed>
