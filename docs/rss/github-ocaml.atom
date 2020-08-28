@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2020-08-26T16:05:57Z</updated>
+<updated>2020-08-27T21:43:47Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>jmid: wasm-prop-tester</title>
+  <author>
+   <name>jmid</name>
+  </author>
+  <link href="https://github.com/jmid/wasm-prop-tester" />
+  <id>urn:rprimus:github:jmid:wasm-prop-tester</id>
+  <published>2020-08-27T21:43:47Z</published>
+  <updated>2020-08-27T21:43:47Z</updated>
+  <content type="html">
+   A stack-driven generator of arbitrary WebAssembly programs
+  </content>
+ </entry>
+ <entry>
+  <title>tjammer: raylib-ocaml</title>
+  <author>
+   <name>tjammer</name>
+  </author>
+  <link href="https://github.com/tjammer/raylib-ocaml" />
+  <id>urn:rprimus:github:tjammer:raylib-ocaml</id>
+  <published>2020-08-27T21:16:05Z</published>
+  <updated>2020-08-27T21:16:05Z</updated>
+  <content type="html">
+   OCaml bindings for raylib
+  </content>
+ </entry>
+ <entry>
+  <title>mghro: astroid-preprocessor</title>
+  <author>
+   <name>mghro</name>
+  </author>
+  <link href="https://github.com/mghro/astroid-preprocessor" />
+  <id>urn:rprimus:github:mghro:astroid-preprocessor</id>
+  <published>2020-08-27T17:39:44Z</published>
+  <updated>2020-08-27T17:39:44Z</updated>
+  <content type="html">
+   Astroid&#039;s C++ preprocessor
+  </content>
+ </entry>
+ <entry>
+  <title>theisgroenbech: pv2rs</title>
+  <author>
+   <name>theisgroenbech</name>
+  </author>
+  <link href="https://github.com/theisgroenbech/pv2rs" />
+  <id>urn:rprimus:github:theisgroenbech:pv2rs</id>
+  <published>2020-08-27T11:05:18Z</published>
+  <updated>2020-08-27T11:05:18Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>OCamlPro: drom</title>
+  <author>
+   <name>OCamlPro</name>
+  </author>
+  <link href="https://github.com/OCamlPro/drom" />
+  <id>urn:rprimus:github:OCamlPro:drom</id>
+  <published>2020-08-27T08:57:36Z</published>
+  <updated>2020-08-27T08:57:36Z</updated>
+  <content type="html">
+   drom is a wrapper over opam/dune in an attempt to provide a cargo-like user experience. It can be used to create full OCaml projects with sphinx and odoc documentation. It has specific knowledge of Github and will generate files for Github Actions CI and Github pages.
+  </content>
+ </entry>
+ <entry>
+  <title>mnxn: vscode_jsoo</title>
+  <author>
+   <name>mnxn</name>
+  </author>
+  <link href="https://github.com/mnxn/vscode_jsoo" />
+  <id>urn:rprimus:github:mnxn:vscode_jsoo</id>
+  <published>2020-08-27T03:50:16Z</published>
+  <updated>2020-08-27T03:50:16Z</updated>
+  <content type="html">
+   Js_of_ocaml bindings to the VSCode Extension API
+  </content>
+ </entry>
  <entry>
   <title>hvovar39: PokerCalc</title>
   <author>
@@ -54,97 +132,6 @@
   <updated>2020-08-26T00:04:59Z</updated>
   <content type="html">
    Oat Compiler written in OCaml
-  </content>
- </entry>
- <entry>
-  <title>pl-deadlines: pl-deadlines.github.io</title>
-  <author>
-   <name>pl-deadlines</name>
-  </author>
-  <link href="https://github.com/pl-deadlines/pl-deadlines.github.io" />
-  <id>urn:rprimus:github:pl-deadlines:pl-deadlines.github.io</id>
-  <published>2020-08-25T21:13:38Z</published>
-  <updated>2020-08-25T21:13:38Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>sylvia-cs: PuzzleSolver</title>
-  <author>
-   <name>sylvia-cs</name>
-  </author>
-  <link href="https://github.com/sylvia-cs/PuzzleSolver" />
-  <id>urn:rprimus:github:sylvia-cs:PuzzleSolver</id>
-  <published>2020-08-25T21:06:30Z</published>
-  <updated>2020-08-25T21:06:30Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>rey0819: BattleShip</title>
-  <author>
-   <name>rey0819</name>
-  </author>
-  <link href="https://github.com/rey0819/BattleShip" />
-  <id>urn:rprimus:github:rey0819:BattleShip</id>
-  <published>2020-08-25T20:18:46Z</published>
-  <updated>2020-08-25T20:18:46Z</updated>
-  <content type="html">
-   A BattleShip game implemented in OCaml, which can be played by two human players using the same computer or as a single user against an AI. The AI currently has two difficulties of easy and medium where the easy AI always guesses at random and the medium AI will first guess at random and in the case of a hit it will guess again on a tile adjacent to the hit.
-  </content>
- </entry>
- <entry>
-  <title>kr463: scrabble</title>
-  <author>
-   <name>kr463</name>
-  </author>
-  <link href="https://github.com/kr463/scrabble" />
-  <id>urn:rprimus:github:kr463:scrabble</id>
-  <published>2020-08-25T15:49:14Z</published>
-  <updated>2020-08-25T15:49:14Z</updated>
-  <content type="html">
-   The game Scrabble implemented in OCaml
-  </content>
- </entry>
- <entry>
-  <title>lindig: certify</title>
-  <author>
-   <name>lindig</name>
-  </author>
-  <link href="https://github.com/lindig/certify" />
-  <id>urn:rprimus:github:lindig:certify</id>
-  <published>2020-08-25T15:13:49Z</published>
-  <updated>2020-08-25T15:13:49Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Kakadu: dune-ppx-plugins-question</title>
-  <author>
-   <name>Kakadu</name>
-  </author>
-  <link href="https://github.com/Kakadu/dune-ppx-plugins-question" />
-  <id>urn:rprimus:github:Kakadu:dune-ppx-plugins-question</id>
-  <published>2020-08-25T08:51:44Z</published>
-  <updated>2020-08-25T08:51:44Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>iamsiddhant1005: COL226</title>
-  <author>
-   <name>iamsiddhant1005</name>
-  </author>
-  <link href="https://github.com/iamsiddhant1005/COL226" />
-  <id>urn:rprimus:github:iamsiddhant1005:COL226</id>
-  <published>2020-08-25T07:53:41Z</published>
-  <updated>2020-08-25T07:53:41Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>

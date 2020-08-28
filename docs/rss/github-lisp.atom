@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2020-08-27T01:48:09Z</updated>
+<updated>2020-08-28T00:22:49Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>K1D77A: Parmenides2</title>
+  <author>
+   <name>K1D77A</name>
+  </author>
+  <link href="https://github.com/K1D77A/Parmenides2" />
+  <id>urn:rprimus:github:K1D77A:Parmenides2</id>
+  <published>2020-08-28T00:22:49Z</published>
+  <updated>2020-08-28T00:22:49Z</updated>
+  <content type="html">
+   An attempt to get the old Parmenides frame representation system working
+  </content>
+ </entry>
+ <entry>
+  <title>rlt3: Bioinformatics</title>
+  <author>
+   <name>rlt3</name>
+  </author>
+  <link href="https://github.com/rlt3/Bioinformatics" />
+  <id>urn:rprimus:github:rlt3:Bioinformatics</id>
+  <published>2020-08-27T17:12:12Z</published>
+  <updated>2020-08-27T17:12:12Z</updated>
+  <content type="html">
+   Homework and labs for Bioinformatics at UTK written in Common Lisp
+  </content>
+ </entry>
  <entry>
   <title>inaimathi: tomb</title>
   <author>
@@ -67,45 +93,6 @@
   <updated>2020-08-26T01:56:42Z</updated>
   <content type="html">
    A Common Lisp library for specifying and executing builds.
-  </content>
- </entry>
- <entry>
-  <title>RenijS: CSE2AIF-LISP-assignment1</title>
-  <author>
-   <name>RenijS</name>
-  </author>
-  <link href="https://github.com/RenijS/CSE2AIF-LISP-assignment1" />
-  <id>urn:rprimus:github:RenijS:CSE2AIF-LISP-assignment1</id>
-  <published>2020-08-25T14:43:46Z</published>
-  <updated>2020-08-25T14:43:46Z</updated>
-  <content type="html">
-   The first element = number of wolves on the east bank; the second = number of cats on the east bank; the third = the number of ducks on the east bank; the fourth = the location of the farmer.So initial list = (1 2 3 east). (The wolf will start a fight with any cats it shares a side with, unless the cats outnumber the wolf. Similarly, any cats on the same side as a duck will start a fight, unless there are more ducks than cats. But if the farmer is on the same side, he will prevent any fight before it starts.)
-  </content>
- </entry>
- <entry>
-  <title>crockeo: cl-projects</title>
-  <author>
-   <name>crockeo</name>
-  </author>
-  <link href="https://github.com/crockeo/cl-projects" />
-  <id>urn:rprimus:github:crockeo:cl-projects</id>
-  <published>2020-08-25T03:24:52Z</published>
-  <updated>2020-08-25T03:24:52Z</updated>
-  <content type="html">
-   Common Lisp projects all in one place.
-  </content>
- </entry>
- <entry>
-  <title>Slids: hello-world-server</title>
-  <author>
-   <name>Slids</name>
-  </author>
-  <link href="https://github.com/Slids/hello-world-server" />
-  <id>urn:rprimus:github:Slids:hello-world-server</id>
-  <published>2020-08-25T01:35:56Z</published>
-  <updated>2020-08-25T01:35:56Z</updated>
-  <content type="html">
-   A server using proto over http
   </content>
  </entry>
 </feed>
