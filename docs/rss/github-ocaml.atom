@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2020-08-29T05:32:14Z</updated>
+<updated>2020-08-30T04:32:18Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>ghostrider77: OCaml-kata</title>
+  <author>
+   <name>ghostrider77</name>
+  </author>
+  <link href="https://github.com/ghostrider77/OCaml-kata" />
+  <id>urn:rprimus:github:ghostrider77:OCaml-kata</id>
+  <published>2020-08-30T04:32:18Z</published>
+  <updated>2020-08-30T04:32:18Z</updated>
+  <content type="html">
+   Practicing OCaml on Codewars
+  </content>
+ </entry>
+ <entry>
+  <title>ssdubey: semantics</title>
+  <author>
+   <name>ssdubey</name>
+  </author>
+  <link href="https://github.com/ssdubey/semantics" />
+  <id>urn:rprimus:github:ssdubey:semantics</id>
+  <published>2020-08-29T19:11:17Z</published>
+  <updated>2020-08-29T19:11:17Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>oxidizing: sihl-starter</title>
+  <author>
+   <name>oxidizing</name>
+  </author>
+  <link href="https://github.com/oxidizing/sihl-starter" />
+  <id>urn:rprimus:github:oxidizing:sihl-starter</id>
+  <published>2020-08-29T14:07:34Z</published>
+  <updated>2020-08-29T14:07:34Z</updated>
+  <content type="html">
+   This is a starter project that showcases a real world Sihl app.
+  </content>
+ </entry>
+ <entry>
+  <title>pitukg: supersonicalculator</title>
+  <author>
+   <name>pitukg</name>
+  </author>
+  <link href="https://github.com/pitukg/supersonicalculator" />
+  <id>urn:rprimus:github:pitukg:supersonicalculator</id>
+  <published>2020-08-29T09:32:48Z</published>
+  <updated>2020-08-29T09:32:48Z</updated>
+  <content type="html">
+   Simple arithmetics lexer parser and evaluator in OCaml.
+  </content>
+ </entry>
  <entry>
   <title>mnxn: promise_jsoo</title>
   <author>
@@ -80,84 +132,6 @@
   <updated>2020-08-28T11:01:39Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>jmid: wasm-prop-tester</title>
-  <author>
-   <name>jmid</name>
-  </author>
-  <link href="https://github.com/jmid/wasm-prop-tester" />
-  <id>urn:rprimus:github:jmid:wasm-prop-tester</id>
-  <published>2020-08-27T21:43:47Z</published>
-  <updated>2020-08-27T21:43:47Z</updated>
-  <content type="html">
-   A stack-driven generator of arbitrary WebAssembly programs
-  </content>
- </entry>
- <entry>
-  <title>tjammer: raylib-ocaml</title>
-  <author>
-   <name>tjammer</name>
-  </author>
-  <link href="https://github.com/tjammer/raylib-ocaml" />
-  <id>urn:rprimus:github:tjammer:raylib-ocaml</id>
-  <published>2020-08-27T21:16:05Z</published>
-  <updated>2020-08-27T21:16:05Z</updated>
-  <content type="html">
-   OCaml bindings for raylib
-  </content>
- </entry>
- <entry>
-  <title>mghro: astroid-preprocessor</title>
-  <author>
-   <name>mghro</name>
-  </author>
-  <link href="https://github.com/mghro/astroid-preprocessor" />
-  <id>urn:rprimus:github:mghro:astroid-preprocessor</id>
-  <published>2020-08-27T17:39:44Z</published>
-  <updated>2020-08-27T17:39:44Z</updated>
-  <content type="html">
-   Astroid&#039;s C++ preprocessor
-  </content>
- </entry>
- <entry>
-  <title>theisgroenbech: pv2rs</title>
-  <author>
-   <name>theisgroenbech</name>
-  </author>
-  <link href="https://github.com/theisgroenbech/pv2rs" />
-  <id>urn:rprimus:github:theisgroenbech:pv2rs</id>
-  <published>2020-08-27T11:05:18Z</published>
-  <updated>2020-08-27T11:05:18Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>OCamlPro: drom</title>
-  <author>
-   <name>OCamlPro</name>
-  </author>
-  <link href="https://github.com/OCamlPro/drom" />
-  <id>urn:rprimus:github:OCamlPro:drom</id>
-  <published>2020-08-27T08:57:36Z</published>
-  <updated>2020-08-27T08:57:36Z</updated>
-  <content type="html">
-   drom is a wrapper over opam/dune in an attempt to provide a cargo-like user experience. It can be used to create full OCaml projects with sphinx and odoc documentation. It has specific knowledge of Github and will generate files for Github Actions CI and Github pages.
-  </content>
- </entry>
- <entry>
-  <title>mnxn: vscode_jsoo</title>
-  <author>
-   <name>mnxn</name>
-  </author>
-  <link href="https://github.com/mnxn/vscode_jsoo" />
-  <id>urn:rprimus:github:mnxn:vscode_jsoo</id>
-  <published>2020-08-27T03:50:16Z</published>
-  <updated>2020-08-27T03:50:16Z</updated>
-  <content type="html">
-   Js_of_ocaml bindings to the VSCode Extension API
   </content>
  </entry>
 </feed>
