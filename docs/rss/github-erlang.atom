@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-erlang.atom"/>
 <id>urn:rprimus:github:newerlangrepos</id>
-<updated>2020-08-29T05:17:09Z</updated>
+<updated>2020-08-30T05:42:03Z</updated>
 <title type='text'>New GitHub Erlang Repos</title>
+ <entry>
+  <title>163140: line</title>
+  <author>
+   <name>163140</name>
+  </author>
+  <link href="https://github.com/163140/line" />
+  <id>urn:rprimus:github:163140:line</id>
+  <published>2020-08-30T05:42:03Z</published>
+  <updated>2020-08-30T05:42:03Z</updated>
+  <content type="html">
+   Library for line (not vector) manipulation in 2D
+  </content>
+ </entry>
+ <entry>
+  <title>max-au: ex3_dist</title>
+  <author>
+   <name>max-au</name>
+  </author>
+  <link href="https://github.com/max-au/ex3_dist" />
+  <id>urn:rprimus:github:max-au:ex3_dist</id>
+  <published>2020-08-29T20:39:30Z</published>
+  <updated>2020-08-29T20:39:30Z</updated>
+  <content type="html">
+   Example of distributed OTP application, capable of failover and takeover
+  </content>
+ </entry>
  <entry>
   <title>163140: image</title>
   <author>
@@ -67,45 +93,6 @@
   <updated>2020-08-28T00:36:22Z</updated>
   <content type="html">
    Examples and exercises from Programming Erlang 
-  </content>
- </entry>
- <entry>
-  <title>jaseemvv: hackerrank.com</title>
-  <author>
-   <name>jaseemvv</name>
-  </author>
-  <link href="https://github.com/jaseemvv/hackerrank.com" />
-  <id>urn:rprimus:github:jaseemvv:hackerrank.com</id>
-  <published>2020-08-27T17:17:36Z</published>
-  <updated>2020-08-27T17:17:36Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>kukin-ae: user-api</title>
-  <author>
-   <name>kukin-ae</name>
-  </author>
-  <link href="https://github.com/kukin-ae/user-api" />
-  <id>urn:rprimus:github:kukin-ae:user-api</id>
-  <published>2020-08-27T06:32:34Z</published>
-  <updated>2020-08-27T06:32:34Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jaseemvv: m_stats</title>
-  <author>
-   <name>jaseemvv</name>
-  </author>
-  <link href="https://github.com/jaseemvv/m_stats" />
-  <id>urn:rprimus:github:jaseemvv:m_stats</id>
-  <published>2020-08-27T06:09:53Z</published>
-  <updated>2020-08-27T06:09:53Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
