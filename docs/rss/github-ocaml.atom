@@ -2,15 +2,132 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2020-08-31T05:42:20Z</updated>
+<updated>2020-09-01T02:38:49Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
  <entry>
-  <title>coetry: lisp-on-sand</title>
+  <title>kwanghoon: tapl</title>
+  <author>
+   <name>kwanghoon</name>
+  </author>
+  <link href="https://github.com/kwanghoon/tapl" />
+  <id>urn:rprimus:github:kwanghoon:tapl</id>
+  <published>2020-09-01T02:38:49Z</published>
+  <updated>2020-09-01T02:38:49Z</updated>
+  <content type="html">
+   {TAPL Book] Types and programming languages: type checkers
+  </content>
+ </entry>
+ <entry>
+  <title>c-cube: bare-ocaml</title>
+  <author>
+   <name>c-cube</name>
+  </author>
+  <link href="https://github.com/c-cube/bare-ocaml" />
+  <id>urn:rprimus:github:c-cube:bare-ocaml</id>
+  <published>2020-09-01T02:09:44Z</published>
+  <updated>2020-09-01T02:09:44Z</updated>
+  <content type="html">
+   codec and code-generator for https://baremessages.org/
+  </content>
+ </entry>
+ <entry>
+  <title>BC-CSCI1103: Week01</title>
+  <author>
+   <name>BC-CSCI1103</name>
+  </author>
+  <link href="https://github.com/BC-CSCI1103/Week01" />
+  <id>urn:rprimus:github:BC-CSCI1103:Week01</id>
+  <published>2020-08-31T23:47:15Z</published>
+  <updated>2020-08-31T23:47:15Z</updated>
+  <content type="html">
+   Materials for Week 01
+  </content>
+ </entry>
+ <entry>
+  <title>skshruti: course_projects</title>
+  <author>
+   <name>skshruti</name>
+  </author>
+  <link href="https://github.com/skshruti/course_projects" />
+  <id>urn:rprimus:github:skshruti:course_projects</id>
+  <published>2020-08-31T19:15:24Z</published>
+  <updated>2020-08-31T19:15:24Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>tominated: system_f_omega</title>
+  <author>
+   <name>tominated</name>
+  </author>
+  <link href="https://github.com/tominated/system_f_omega" />
+  <id>urn:rprimus:github:tominated:system_f_omega</id>
+  <published>2020-08-31T17:46:07Z</published>
+  <updated>2020-08-31T17:46:07Z</updated>
+  <content type="html">
+   My Attempt at System FÏ with Row-Polymorphism
+  </content>
+ </entry>
+ <entry>
+  <title>amiltner: TempTestRepo</title>
+  <author>
+   <name>amiltner</name>
+  </author>
+  <link href="https://github.com/amiltner/TempTestRepo" />
+  <id>urn:rprimus:github:amiltner:TempTestRepo</id>
+  <published>2020-08-31T16:21:34Z</published>
+  <updated>2020-08-31T16:21:34Z</updated>
+  <content type="html">
+   Temporary Test Repo
+  </content>
+ </entry>
+ <entry>
+  <title>cage433: ocaml-poker</title>
+  <author>
+   <name>cage433</name>
+  </author>
+  <link href="https://github.com/cage433/ocaml-poker" />
+  <id>urn:rprimus:github:cage433:ocaml-poker</id>
+  <published>2020-08-31T14:55:24Z</published>
+  <updated>2020-08-31T14:55:24Z</updated>
+  <content type="html">
+   A poker playing program written in ocaml
+  </content>
+ </entry>
+ <entry>
+  <title>clashrover: Abstract-machines-for-Call-by-value-and-Call-by-name</title>
+  <author>
+   <name>clashrover</name>
+  </author>
+  <link href="https://github.com/clashrover/Abstract-machines-for-Call-by-value-and-Call-by-name" />
+  <id>urn:rprimus:github:clashrover:Abstract-machines-for-Call-by-value-and-Call-by-name</id>
+  <published>2020-08-31T08:23:58Z</published>
+  <updated>2020-08-31T08:23:58Z</updated>
+  <content type="html">
+   SECD and Krivine(Lazy Evaluation) machines in OCAML
+  </content>
+ </entry>
+ <entry>
+  <title>janestreet: username_kernel</title>
+  <author>
+   <name>janestreet</name>
+  </author>
+  <link href="https://github.com/janestreet/username_kernel" />
+  <id>urn:rprimus:github:janestreet:username_kernel</id>
+  <published>2020-08-31T08:15:40Z</published>
+  <updated>2020-08-31T08:15:40Z</updated>
+  <content type="html">
+   An identifier for a user
+  </content>
+ </entry>
+ <entry>
+  <title>coetry: bedouin</title>
   <author>
    <name>coetry</name>
   </author>
-  <link href="https://github.com/coetry/lisp-on-sand" />
-  <id>urn:rprimus:github:coetry:lisp-on-sand</id>
+  <link href="https://github.com/coetry/bedouin" />
+  <id>urn:rprimus:github:coetry:bedouin</id>
   <published>2020-08-31T05:42:20Z</published>
   <updated>2020-08-31T05:42:20Z</updated>
   <content type="html">
@@ -106,71 +223,6 @@
   <updated>2020-08-30T04:32:18Z</updated>
   <content type="html">
    Practicing OCaml on Codewars
-  </content>
- </entry>
- <entry>
-  <title>ssdubey: semantics</title>
-  <author>
-   <name>ssdubey</name>
-  </author>
-  <link href="https://github.com/ssdubey/semantics" />
-  <id>urn:rprimus:github:ssdubey:semantics</id>
-  <published>2020-08-29T19:11:17Z</published>
-  <updated>2020-08-29T19:11:17Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>oxidizing: sihl-starter</title>
-  <author>
-   <name>oxidizing</name>
-  </author>
-  <link href="https://github.com/oxidizing/sihl-starter" />
-  <id>urn:rprimus:github:oxidizing:sihl-starter</id>
-  <published>2020-08-29T14:07:34Z</published>
-  <updated>2020-08-29T14:07:34Z</updated>
-  <content type="html">
-   This is a starter project that showcases a real world Sihl app.
-  </content>
- </entry>
- <entry>
-  <title>pitukg: supersonicalculator</title>
-  <author>
-   <name>pitukg</name>
-  </author>
-  <link href="https://github.com/pitukg/supersonicalculator" />
-  <id>urn:rprimus:github:pitukg:supersonicalculator</id>
-  <published>2020-08-29T09:32:48Z</published>
-  <updated>2020-08-29T09:32:48Z</updated>
-  <content type="html">
-   Simple arithmetics lexer parser and evaluator in OCaml.
-  </content>
- </entry>
- <entry>
-  <title>mnxn: promise_jsoo</title>
-  <author>
-   <name>mnxn</name>
-  </author>
-  <link href="https://github.com/mnxn/promise_jsoo" />
-  <id>urn:rprimus:github:mnxn:promise_jsoo</id>
-  <published>2020-08-29T05:32:14Z</published>
-  <updated>2020-08-29T05:32:14Z</updated>
-  <content type="html">
-   Js_of_ocaml bindings to JS Promises with supplemental functions
-  </content>
- </entry>
- <entry>
-  <title>hcnelson99: bittorrent</title>
-  <author>
-   <name>hcnelson99</name>
-  </author>
-  <link href="https://github.com/hcnelson99/bittorrent" />
-  <id>urn:rprimus:github:hcnelson99:bittorrent</id>
-  <published>2020-08-29T04:25:08Z</published>
-  <updated>2020-08-29T04:25:08Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>

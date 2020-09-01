@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2020-08-31T04:07:20Z</updated>
+<updated>2020-09-01T04:07:38Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>antipodite: pomo-elver</title>
+  <author>
+   <name>antipodite</name>
+  </author>
+  <link href="https://github.com/antipodite/pomo-elver" />
+  <id>urn:rprimus:github:antipodite:pomo-elver</id>
+  <published>2020-09-01T04:07:38Z</published>
+  <updated>2020-09-01T04:07:38Z</updated>
+  <content type="html">
+   A basic migrations library for https://github.com/marijnh/Postmodern
+  </content>
+ </entry>
+ <entry>
+  <title>BartekLew: jslang</title>
+  <author>
+   <name>BartekLew</name>
+  </author>
+  <link href="https://github.com/BartekLew/jslang" />
+  <id>urn:rprimus:github:BartekLew:jslang</id>
+  <published>2020-08-31T10:05:44Z</published>
+  <updated>2020-08-31T10:05:44Z</updated>
+  <content type="html">
+   pure javascript interpreter generator
+  </content>
+ </entry>
  <entry>
   <title>jackcenter: ROS_tutorials</title>
   <author>
@@ -67,58 +93,6 @@
   <updated>2020-08-30T02:30:15Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>lewis-weinberger: psa</title>
-  <author>
-   <name>lewis-weinberger</name>
-  </author>
-  <link href="https://github.com/lewis-weinberger/psa" />
-  <id>urn:rprimus:github:lewis-weinberger:psa</id>
-  <published>2020-08-29T19:47:16Z</published>
-  <updated>2020-08-29T19:47:16Z</updated>
-  <content type="html">
-   a simple scheduled alerts program using the Discord WEB API
-  </content>
- </entry>
- <entry>
-  <title>cellux: sbcl-rb</title>
-  <author>
-   <name>cellux</name>
-  </author>
-  <link href="https://github.com/cellux/sbcl-rb" />
-  <id>urn:rprimus:github:cellux:sbcl-rb</id>
-  <published>2020-08-29T08:09:46Z</published>
-  <updated>2020-08-29T08:09:46Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>elxbarbosa: gota</title>
-  <author>
-   <name>elxbarbosa</name>
-  </author>
-  <link href="https://github.com/elxbarbosa/gota" />
-  <id>urn:rprimus:github:elxbarbosa:gota</id>
-  <published>2020-08-29T06:46:33Z</published>
-  <updated>2020-08-29T06:46:33Z</updated>
-  <content type="html">
-   A collection of system automation solutions and software interfaces. 
-  </content>
- </entry>
- <entry>
-  <title>JesseAbeyta: SICP-SOLUTIONS-COMMONLISP</title>
-  <author>
-   <name>JesseAbeyta</name>
-  </author>
-  <link href="https://github.com/JesseAbeyta/SICP-SOLUTIONS-COMMONLISP" />
-  <id>urn:rprimus:github:JesseAbeyta:SICP-SOLUTIONS-COMMONLISP</id>
-  <published>2020-08-29T04:22:24Z</published>
-  <updated>2020-08-29T04:22:24Z</updated>
-  <content type="html">
-   Working through SICP excercises in common lisp
   </content>
  </entry>
 </feed>
