@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-erlang.atom"/>
 <id>urn:rprimus:github:newerlangrepos</id>
-<updated>2020-08-31T06:51:36Z</updated>
+<updated>2020-08-31T19:59:16Z</updated>
 <title type='text'>New GitHub Erlang Repos</title>
+ <entry>
+  <title>loguntsov: mod_http_gateway</title>
+  <author>
+   <name>loguntsov</name>
+  </author>
+  <link href="https://github.com/loguntsov/mod_http_gateway" />
+  <id>urn:rprimus:github:loguntsov:mod_http_gateway</id>
+  <published>2020-08-31T19:59:16Z</published>
+  <updated>2020-08-31T19:59:16Z</updated>
+  <content type="html">
+   Ejabberd: xmpp gateway for predefined http domains
+  </content>
+ </entry>
+ <entry>
+  <title>arnfred: kind-rest</title>
+  <author>
+   <name>arnfred</name>
+  </author>
+  <link href="https://github.com/arnfred/kind-rest" />
+  <id>urn:rprimus:github:arnfred:kind-rest</id>
+  <published>2020-08-31T19:44:17Z</published>
+  <updated>2020-08-31T19:44:17Z</updated>
+  <content type="html">
+   Rest client to talk with kind compiler
+  </content>
+ </entry>
+ <entry>
+  <title>rojanDinc: erlang_puzzle</title>
+  <author>
+   <name>rojanDinc</name>
+  </author>
+  <link href="https://github.com/rojanDinc/erlang_puzzle" />
+  <id>urn:rprimus:github:rojanDinc:erlang_puzzle</id>
+  <published>2020-08-31T17:53:29Z</published>
+  <updated>2020-08-31T17:53:29Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>KmMahanthi: addbook</title>
+  <author>
+   <name>KmMahanthi</name>
+  </author>
+  <link href="https://github.com/KmMahanthi/addbook" />
+  <id>urn:rprimus:github:KmMahanthi:addbook</id>
+  <published>2020-08-31T17:35:03Z</published>
+  <updated>2020-08-31T17:35:03Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>leonwly: erlang-astar</title>
+  <author>
+   <name>leonwly</name>
+  </author>
+  <link href="https://github.com/leonwly/erlang-astar" />
+  <id>urn:rprimus:github:leonwly:erlang-astar</id>
+  <published>2020-08-31T12:52:51Z</published>
+  <updated>2020-08-31T12:52:51Z</updated>
+  <content type="html">
+   Erlang A* search algorithm library based on mwri, which implement by gb_trees and process isolation
+  </content>
+ </entry>
+ <entry>
+  <title>ezebrotsky: sytetask</title>
+  <author>
+   <name>ezebrotsky</name>
+  </author>
+  <link href="https://github.com/ezebrotsky/sytetask" />
+  <id>urn:rprimus:github:ezebrotsky:sytetask</id>
+  <published>2020-08-31T09:17:08Z</published>
+  <updated>2020-08-31T09:17:08Z</updated>
+  <content type="html">
+   Home task for Syte.ai
+  </content>
+ </entry>
  <entry>
   <title>QCute: cove</title>
   <author>
@@ -54,45 +132,6 @@
   <updated>2020-08-30T05:42:03Z</updated>
   <content type="html">
    Library for line (not vector) manipulation in 2D
-  </content>
- </entry>
- <entry>
-  <title>max-au: ex3_dist</title>
-  <author>
-   <name>max-au</name>
-  </author>
-  <link href="https://github.com/max-au/ex3_dist" />
-  <id>urn:rprimus:github:max-au:ex3_dist</id>
-  <published>2020-08-29T20:39:30Z</published>
-  <updated>2020-08-29T20:39:30Z</updated>
-  <content type="html">
-   Example of distributed OTP application, capable of failover and takeover
-  </content>
- </entry>
- <entry>
-  <title>163140: image</title>
-  <author>
-   <name>163140</name>
-  </author>
-  <link href="https://github.com/163140/image" />
-  <id>urn:rprimus:github:163140:image</id>
-  <published>2020-08-29T05:17:09Z</published>
-  <updated>2020-08-29T05:17:09Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>163140: point</title>
-  <author>
-   <name>163140</name>
-  </author>
-  <link href="https://github.com/163140/point" />
-  <id>urn:rprimus:github:163140:point</id>
-  <published>2020-08-29T04:56:45Z</published>
-  <updated>2020-08-29T04:56:45Z</updated>
-  <content type="html">
-   Erlang library for 2D point manipulations
   </content>
  </entry>
 </feed>
