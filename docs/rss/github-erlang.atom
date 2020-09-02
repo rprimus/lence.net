@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-erlang.atom"/>
 <id>urn:rprimus:github:newerlangrepos</id>
-<updated>2020-08-31T19:59:16Z</updated>
+<updated>2020-09-01T14:13:42Z</updated>
 <title type='text'>New GitHub Erlang Repos</title>
+ <entry>
+  <title>longlene: stage</title>
+  <author>
+   <name>longlene</name>
+  </author>
+  <link href="https://github.com/longlene/stage" />
+  <id>urn:rprimus:github:longlene:stage</id>
+  <published>2020-09-01T14:13:42Z</published>
+  <updated>2020-09-01T14:13:42Z</updated>
+  <content type="html">
+   gen_stage for Erlang
+  </content>
+ </entry>
  <entry>
   <title>loguntsov: mod_http_gateway</title>
   <author>
@@ -93,45 +106,6 @@
   <updated>2020-08-31T06:51:36Z</updated>
   <content type="html">
    an erlang early return operator
-  </content>
- </entry>
- <entry>
-  <title>joq62: adder_service</title>
-  <author>
-   <name>joq62</name>
-  </author>
-  <link href="https://github.com/joq62/adder_service" />
-  <id>urn:rprimus:github:joq62:adder_service</id>
-  <published>2020-08-30T19:26:09Z</published>
-  <updated>2020-08-30T19:26:09Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>DzenoBa: chat-erl</title>
-  <author>
-   <name>DzenoBa</name>
-  </author>
-  <link href="https://github.com/DzenoBa/chat-erl" />
-  <id>urn:rprimus:github:DzenoBa:chat-erl</id>
-  <published>2020-08-30T12:46:34Z</published>
-  <updated>2020-08-30T12:46:34Z</updated>
-  <content type="html">
-   A chat application written in Erlang.
-  </content>
- </entry>
- <entry>
-  <title>163140: line</title>
-  <author>
-   <name>163140</name>
-  </author>
-  <link href="https://github.com/163140/line" />
-  <id>urn:rprimus:github:163140:line</id>
-  <published>2020-08-30T05:42:03Z</published>
-  <updated>2020-08-30T05:42:03Z</updated>
-  <content type="html">
-   Library for line (not vector) manipulation in 2D
   </content>
  </entry>
 </feed>
