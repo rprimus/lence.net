@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2020-09-02T00:37:34Z</updated>
+<updated>2020-09-03T07:03:28Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>janicejung: 2048</title>
+  <author>
+   <name>janicejung</name>
+  </author>
+  <link href="https://github.com/janicejung/2048" />
+  <id>urn:rprimus:github:janicejung:2048</id>
+  <published>2020-09-03T07:03:28Z</published>
+  <updated>2020-09-03T07:03:28Z</updated>
+  <content type="html">
+   An extended version of 2048!
+  </content>
+ </entry>
+ <entry>
+  <title>mdbergmann: ocaml_gol</title>
+  <author>
+   <name>mdbergmann</name>
+  </author>
+  <link href="https://github.com/mdbergmann/ocaml_gol" />
+  <id>urn:rprimus:github:mdbergmann:ocaml_gol</id>
+  <published>2020-09-02T18:52:00Z</published>
+  <updated>2020-09-02T18:52:00Z</updated>
+  <content type="html">
+   Game of Life in OCaml
+  </content>
+ </entry>
+ <entry>
+  <title>dannywillems: web-ocaml-rust-tuto</title>
+  <author>
+   <name>dannywillems</name>
+  </author>
+  <link href="https://github.com/dannywillems/web-ocaml-rust-tuto" />
+  <id>urn:rprimus:github:dannywillems:web-ocaml-rust-tuto</id>
+  <published>2020-09-02T16:52:51Z</published>
+  <updated>2020-09-02T16:52:51Z</updated>
+  <content type="html">
+   List of tutorials/projects experiencing OCaml and Rust mixed code running together in the browser.
+  </content>
+ </entry>
+ <entry>
+  <title>dannywillems: ocaml-bls12-381</title>
+  <author>
+   <name>dannywillems</name>
+  </author>
+  <link href="https://github.com/dannywillems/ocaml-bls12-381" />
+  <id>urn:rprimus:github:dannywillems:ocaml-bls12-381</id>
+  <published>2020-09-02T16:44:09Z</published>
+  <updated>2020-09-02T16:44:09Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>esinx: CIS-120-OCaml-Template</title>
+  <author>
+   <name>esinx</name>
+  </author>
+  <link href="https://github.com/esinx/CIS-120-OCaml-Template" />
+  <id>urn:rprimus:github:esinx:CIS-120-OCaml-Template</id>
+  <published>2020-09-02T16:42:57Z</published>
+  <updated>2020-09-02T16:42:57Z</updated>
+  <content type="html">
+   The OCaml template I use for CIS120 homework
+  </content>
+ </entry>
  <entry>
   <title>shonfeder: kwdcmd</title>
   <author>
@@ -93,136 +158,6 @@
   <updated>2020-09-01T02:09:44Z</updated>
   <content type="html">
    codec and code-generator for https://baremessages.org/
-  </content>
- </entry>
- <entry>
-  <title>BC-CSCI1103: Week01</title>
-  <author>
-   <name>BC-CSCI1103</name>
-  </author>
-  <link href="https://github.com/BC-CSCI1103/Week01" />
-  <id>urn:rprimus:github:BC-CSCI1103:Week01</id>
-  <published>2020-08-31T23:47:15Z</published>
-  <updated>2020-08-31T23:47:15Z</updated>
-  <content type="html">
-   Materials for Week 01
-  </content>
- </entry>
- <entry>
-  <title>skshruti: course_projects</title>
-  <author>
-   <name>skshruti</name>
-  </author>
-  <link href="https://github.com/skshruti/course_projects" />
-  <id>urn:rprimus:github:skshruti:course_projects</id>
-  <published>2020-08-31T19:15:24Z</published>
-  <updated>2020-08-31T19:15:24Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>tominated: system_f_omega</title>
-  <author>
-   <name>tominated</name>
-  </author>
-  <link href="https://github.com/tominated/system_f_omega" />
-  <id>urn:rprimus:github:tominated:system_f_omega</id>
-  <published>2020-08-31T17:46:07Z</published>
-  <updated>2020-08-31T17:46:07Z</updated>
-  <content type="html">
-   My Attempt at System FÏ with Row-Polymorphism
-  </content>
- </entry>
- <entry>
-  <title>amiltner: TempTestRepo</title>
-  <author>
-   <name>amiltner</name>
-  </author>
-  <link href="https://github.com/amiltner/TempTestRepo" />
-  <id>urn:rprimus:github:amiltner:TempTestRepo</id>
-  <published>2020-08-31T16:21:34Z</published>
-  <updated>2020-08-31T16:21:34Z</updated>
-  <content type="html">
-   Temporary Test Repo
-  </content>
- </entry>
- <entry>
-  <title>cage433: ocaml-poker</title>
-  <author>
-   <name>cage433</name>
-  </author>
-  <link href="https://github.com/cage433/ocaml-poker" />
-  <id>urn:rprimus:github:cage433:ocaml-poker</id>
-  <published>2020-08-31T14:55:24Z</published>
-  <updated>2020-08-31T14:55:24Z</updated>
-  <content type="html">
-   A poker playing program written in ocaml
-  </content>
- </entry>
- <entry>
-  <title>clashrover: Abstract-machines-for-Call-by-value-and-Call-by-name</title>
-  <author>
-   <name>clashrover</name>
-  </author>
-  <link href="https://github.com/clashrover/Abstract-machines-for-Call-by-value-and-Call-by-name" />
-  <id>urn:rprimus:github:clashrover:Abstract-machines-for-Call-by-value-and-Call-by-name</id>
-  <published>2020-08-31T08:23:58Z</published>
-  <updated>2020-08-31T08:23:58Z</updated>
-  <content type="html">
-   SECD and Krivine(Lazy Evaluation) machines in OCAML
-  </content>
- </entry>
- <entry>
-  <title>janestreet: username_kernel</title>
-  <author>
-   <name>janestreet</name>
-  </author>
-  <link href="https://github.com/janestreet/username_kernel" />
-  <id>urn:rprimus:github:janestreet:username_kernel</id>
-  <published>2020-08-31T08:15:40Z</published>
-  <updated>2020-08-31T08:15:40Z</updated>
-  <content type="html">
-   An identifier for a user
-  </content>
- </entry>
- <entry>
-  <title>coetry: bedouin</title>
-  <author>
-   <name>coetry</name>
-  </author>
-  <link href="https://github.com/coetry/bedouin" />
-  <id>urn:rprimus:github:coetry:bedouin</id>
-  <published>2020-08-31T05:42:20Z</published>
-  <updated>2020-08-31T05:42:20Z</updated>
-  <content type="html">
-   Experimental Lisp interpreter written in OCaml
-  </content>
- </entry>
- <entry>
-  <title>transistorfet: acamlslife</title>
-  <author>
-   <name>transistorfet</name>
-  </author>
-  <link href="https://github.com/transistorfet/acamlslife" />
-  <id>urn:rprimus:github:transistorfet:acamlslife</id>
-  <published>2020-08-31T04:42:06Z</published>
-  <updated>2020-08-31T04:42:06Z</updated>
-  <content type="html">
-   An artificial life simulator written in Ocaml as a clone of A Bug&#039;s Life (transistorfet/abugslife)
-  </content>
- </entry>
- <entry>
-  <title>bobzhang: test-error</title>
-  <author>
-   <name>bobzhang</name>
-  </author>
-  <link href="https://github.com/bobzhang/test-error" />
-  <id>urn:rprimus:github:bobzhang:test-error</id>
-  <published>2020-08-31T03:19:11Z</published>
-  <updated>2020-08-31T03:19:11Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
