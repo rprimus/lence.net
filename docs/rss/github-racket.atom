@@ -2,19 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-racket.atom"/>
 <id>urn:rprimus:github:newracketrepos</id>
-<updated>2020-09-03T04:27:03Z</updated>
+<updated>2020-09-04T01:05:52Z</updated>
 <title type='text'>New GitHub Racket Repos</title>
  <entry>
-  <title>cgbarreto: racket-space-invaders</title>
+  <title>eqlz: mit-sicp</title>
   <author>
-   <name>cgbarreto</name>
+   <name>eqlz</name>
   </author>
-  <link href="https://github.com/cgbarreto/racket-space-invaders" />
-  <id>urn:rprimus:github:cgbarreto:racket-space-invaders</id>
-  <published>2020-09-03T04:27:03Z</published>
-  <updated>2020-09-03T04:27:03Z</updated>
+  <link href="https://github.com/eqlz/mit-sicp" />
+  <id>urn:rprimus:github:eqlz:mit-sicp</id>
+  <published>2020-09-04T01:05:52Z</published>
+  <updated>2020-09-04T01:05:52Z</updated>
   <content type="html">
-   Final project for the course How to Code:Simple Data
+   Exercises from SICP book
+  </content>
+ </entry>
+ <entry>
+  <title>sgdiosdado: racket-recursion</title>
+  <author>
+   <name>sgdiosdado</name>
+  </author>
+  <link href="https://github.com/sgdiosdado/racket-recursion" />
+  <id>urn:rprimus:github:sgdiosdado:racket-recursion</id>
+  <published>2020-09-04T01:05:20Z</published>
+  <updated>2020-09-04T01:05:20Z</updated>
+  <content type="html">
+   Racket basics: Recursion and tail recursion
+  </content>
+ </entry>
+ <entry>
+  <title>codyvi: Programming-Languages</title>
+  <author>
+   <name>codyvi</name>
+  </author>
+  <link href="https://github.com/codyvi/Programming-Languages" />
+  <id>urn:rprimus:github:codyvi:Programming-Languages</id>
+  <published>2020-09-03T23:55:44Z</published>
+  <updated>2020-09-03T23:55:44Z</updated>
+  <content type="html">
+   This is where I will store my hw&#039;s and projects of the Programming Languages class
+  </content>
+ </entry>
+ <entry>
+  <title>AdamDiMaggio: CSC470_Assignment2</title>
+  <author>
+   <name>AdamDiMaggio</name>
+  </author>
+  <link href="https://github.com/AdamDiMaggio/CSC470_Assignment2" />
+  <id>urn:rprimus:github:AdamDiMaggio:CSC470_Assignment2</id>
+  <published>2020-09-03T16:20:57Z</published>
+  <updated>2020-09-03T16:20:57Z</updated>
+  <content type="html">
+   
   </content>
  </entry>
  <entry>
@@ -44,16 +83,16 @@
   </content>
  </entry>
  <entry>
-  <title>rosereiner: cs230-scheme-programming-languages</title>
+  <title>rosereiner: scheme-programming-languages</title>
   <author>
    <name>rosereiner</name>
   </author>
-  <link href="https://github.com/rosereiner/cs230-scheme-programming-languages" />
-  <id>urn:rprimus:github:rosereiner:cs230-scheme-programming-languages</id>
+  <link href="https://github.com/rosereiner/scheme-programming-languages" />
+  <id>urn:rprimus:github:rosereiner:scheme-programming-languages</id>
   <published>2020-09-02T22:11:55Z</published>
   <updated>2020-09-02T22:11:55Z</updated>
   <content type="html">
-   Scheme Projects from CS230
+   Scheme Projects
   </content>
  </entry>
  <entry>
@@ -130,110 +169,6 @@
   <id>urn:rprimus:github:jthodge:the-book-is-a-program</id>
   <published>2020-09-02T00:25:21Z</published>
   <updated>2020-09-02T00:25:21Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>dweissma: IUCompilers-group-e</title>
-  <author>
-   <name>dweissma</name>
-  </author>
-  <link href="https://github.com/dweissma/IUCompilers-group-e" />
-  <id>urn:rprimus:github:dweissma:IUCompilers-group-e</id>
-  <published>2020-09-01T23:41:34Z</published>
-  <updated>2020-09-01T23:41:34Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Joel-Hudson: csci423-homework</title>
-  <author>
-   <name>Joel-Hudson</name>
-  </author>
-  <link href="https://github.com/Joel-Hudson/csci423-homework" />
-  <id>urn:rprimus:github:Joel-Hudson:csci423-homework</id>
-  <published>2020-09-01T21:56:34Z</published>
-  <updated>2020-09-01T21:56:34Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>sgdiosdado: racket-basics</title>
-  <author>
-   <name>sgdiosdado</name>
-  </author>
-  <link href="https://github.com/sgdiosdado/racket-basics" />
-  <id>urn:rprimus:github:sgdiosdado:racket-basics</id>
-  <published>2020-09-01T21:25:06Z</published>
-  <updated>2020-09-01T21:25:06Z</updated>
-  <content type="html">
-   First exercise with racket at Programming Languages class
-  </content>
- </entry>
- <entry>
-  <title>harj: ProjectEuler</title>
-  <author>
-   <name>harj</name>
-  </author>
-  <link href="https://github.com/harj/ProjectEuler" />
-  <id>urn:rprimus:github:harj:ProjectEuler</id>
-  <published>2020-09-01T19:36:08Z</published>
-  <updated>2020-09-01T19:36:08Z</updated>
-  <content type="html">
-   Project Euler Solutions in Scheme
-  </content>
- </entry>
- <entry>
-  <title>sidneyschwartz: Connect4</title>
-  <author>
-   <name>sidneyschwartz</name>
-  </author>
-  <link href="https://github.com/sidneyschwartz/Connect4" />
-  <id>urn:rprimus:github:sidneyschwartz:Connect4</id>
-  <published>2020-09-01T16:29:49Z</published>
-  <updated>2020-09-01T16:29:49Z</updated>
-  <content type="html">
-   Final Project for CS1950Y: &quot;Logic for Systems&quot;
-  </content>
- </entry>
- <entry>
-  <title>radupatrascoiu: Flappy-Bird</title>
-  <author>
-   <name>radupatrascoiu</name>
-  </author>
-  <link href="https://github.com/radupatrascoiu/Flappy-Bird" />
-  <id>urn:rprimus:github:radupatrascoiu:Flappy-Bird</id>
-  <published>2020-09-01T15:25:21Z</published>
-  <updated>2020-09-01T15:25:21Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>hnj2: rust-serval-example</title>
-  <author>
-   <name>hnj2</name>
-  </author>
-  <link href="https://github.com/hnj2/rust-serval-example" />
-  <id>urn:rprimus:github:hnj2:rust-serval-example</id>
-  <published>2020-09-01T08:22:04Z</published>
-  <updated>2020-09-01T08:22:04Z</updated>
-  <content type="html">
-   A minimal example of how to use the serval llvm verifier on a rust project.
-  </content>
- </entry>
- <entry>
-  <title>AdamDiMaggio: CSC470_Assignment1</title>
-  <author>
-   <name>AdamDiMaggio</name>
-  </author>
-  <link href="https://github.com/AdamDiMaggio/CSC470_Assignment1" />
-  <id>urn:rprimus:github:AdamDiMaggio:CSC470_Assignment1</id>
-  <published>2020-09-01T03:58:03Z</published>
-  <updated>2020-09-01T03:58:03Z</updated>
   <content type="html">
    
   </content>
