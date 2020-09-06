@@ -2,8 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2020-09-04T20:49:06Z</updated>
+<updated>2020-09-06T04:35:19Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>danyulkoo: Sokoban-Solver</title>
+  <author>
+   <name>danyulkoo</name>
+  </author>
+  <link href="https://github.com/danyulkoo/Sokoban-Solver" />
+  <id>urn:rprimus:github:danyulkoo:Sokoban-Solver</id>
+  <published>2020-09-06T04:35:19Z</published>
+  <updated>2020-09-06T04:35:19Z</updated>
+  <content type="html">
+   Lisp program to solve Sokoban puzzle with A* star search algorithm.
+  </content>
+ </entry>
+ <entry>
+  <title>kamysheblid: convertify</title>
+  <author>
+   <name>kamysheblid</name>
+  </author>
+  <link href="https://github.com/kamysheblid/convertify" />
+  <id>urn:rprimus:github:kamysheblid:convertify</id>
+  <published>2020-09-05T23:14:10Z</published>
+  <updated>2020-09-05T23:14:10Z</updated>
+  <content type="html">
+   convert lisp types into each other
+  </content>
+ </entry>
+ <entry>
+  <title>csixteen: fp-random</title>
+  <author>
+   <name>csixteen</name>
+  </author>
+  <link href="https://github.com/csixteen/fp-random" />
+  <id>urn:rprimus:github:csixteen:fp-random</id>
+  <published>2020-09-05T16:05:04Z</published>
+  <updated>2020-09-05T16:05:04Z</updated>
+  <content type="html">
+   Random snippets of code
+  </content>
+ </entry>
+ <entry>
+  <title>s-expressionists: Cleavir</title>
+  <author>
+   <name>s-expressionists</name>
+  </author>
+  <link href="https://github.com/s-expressionists/Cleavir" />
+  <id>urn:rprimus:github:s-expressionists:Cleavir</id>
+  <published>2020-09-05T15:58:12Z</published>
+  <updated>2020-09-05T15:58:12Z</updated>
+  <content type="html">
+   an implementation-independent framework for creating Common Lisp compilers
+  </content>
+ </entry>
+ <entry>
+  <title>hyotang666: markup-functions</title>
+  <author>
+   <name>hyotang666</name>
+  </author>
+  <link href="https://github.com/hyotang666/markup-functions" />
+  <id>urn:rprimus:github:hyotang666:markup-functions</id>
+  <published>2020-09-05T11:48:26Z</published>
+  <updated>2020-09-05T11:48:26Z</updated>
+  <content type="html">
+   html5 generator.
+  </content>
+ </entry>
+ <entry>
+  <title>csixteen: 99Problems</title>
+  <author>
+   <name>csixteen</name>
+  </author>
+  <link href="https://github.com/csixteen/99Problems" />
+  <id>urn:rprimus:github:csixteen:99Problems</id>
+  <published>2020-09-05T09:05:25Z</published>
+  <updated>2020-09-05T09:05:25Z</updated>
+  <content type="html">
+   99 Problems (Lisp and Scala)
+  </content>
+ </entry>
+ <entry>
+  <title>mihirk2309: Four_wheel_omni-basedrive</title>
+  <author>
+   <name>mihirk2309</name>
+  </author>
+  <link href="https://github.com/mihirk2309/Four_wheel_omni-basedrive" />
+  <id>urn:rprimus:github:mihirk2309:Four_wheel_omni-basedrive</id>
+  <published>2020-09-05T06:09:03Z</published>
+  <updated>2020-09-05T06:09:03Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>Hexstream: simple-guess</title>
   <author>
@@ -93,71 +184,6 @@
   <updated>2020-09-04T00:52:51Z</updated>
   <content type="html">
    Following some common lisp lessons
-  </content>
- </entry>
- <entry>
-  <title>majuvi: ventti</title>
-  <author>
-   <name>majuvi</name>
-  </author>
-  <link href="https://github.com/majuvi/ventti" />
-  <id>urn:rprimus:github:majuvi:ventti</id>
-  <published>2020-09-03T16:54:24Z</published>
-  <updated>2020-09-03T16:54:24Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>vindarel: fuzzy-match</title>
-  <author>
-   <name>vindarel</name>
-  </author>
-  <link href="https://github.com/vindarel/fuzzy-match" />
-  <id>urn:rprimus:github:vindarel:fuzzy-match</id>
-  <published>2020-09-03T15:54:06Z</published>
-  <updated>2020-09-03T15:54:06Z</updated>
-  <content type="html">
-   Fuzzy match candidates from an input string.
-  </content>
- </entry>
- <entry>
-  <title>abeforgit: redti-backend</title>
-  <author>
-   <name>abeforgit</name>
-  </author>
-  <link href="https://github.com/abeforgit/redti-backend" />
-  <id>urn:rprimus:github:abeforgit:redti-backend</id>
-  <published>2020-09-03T15:50:29Z</published>
-  <updated>2020-09-03T15:50:29Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>dnaeon: cl-bcrypt</title>
-  <author>
-   <name>dnaeon</name>
-  </author>
-  <link href="https://github.com/dnaeon/cl-bcrypt" />
-  <id>urn:rprimus:github:dnaeon:cl-bcrypt</id>
-  <published>2020-09-03T13:26:24Z</published>
-  <updated>2020-09-03T13:26:24Z</updated>
-  <content type="html">
-   Common Lisp system for parsing and generating bcrypt password hashes
-  </content>
- </entry>
- <entry>
-  <title>jkapl: lisp-learning</title>
-  <author>
-   <name>jkapl</name>
-  </author>
-  <link href="https://github.com/jkapl/lisp-learning" />
-  <id>urn:rprimus:github:jkapl:lisp-learning</id>
-  <published>2020-09-03T03:48:07Z</published>
-  <updated>2020-09-03T03:48:07Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
