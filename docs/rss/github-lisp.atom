@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2020-09-07T04:56:52Z</updated>
+<updated>2020-09-08T01:45:25Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>huan-holmes: roswrok</title>
+  <author>
+   <name>huan-holmes</name>
+  </author>
+  <link href="https://github.com/huan-holmes/roswrok" />
+  <id>urn:rprimus:github:huan-holmes:roswrok</id>
+  <published>2020-09-08T01:45:25Z</published>
+  <updated>2020-09-08T01:45:25Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>thezultimate: daft-lisp-test</title>
+  <author>
+   <name>thezultimate</name>
+  </author>
+  <link href="https://github.com/thezultimate/daft-lisp-test" />
+  <id>urn:rprimus:github:thezultimate:daft-lisp-test</id>
+  <published>2020-09-07T12:36:22Z</published>
+  <updated>2020-09-07T12:36:22Z</updated>
+  <content type="html">
+   Testing Lisp on Radix
+  </content>
+ </entry>
+ <entry>
+  <title>iamgreaser: orionsfurnace-cl</title>
+  <author>
+   <name>iamgreaser</name>
+  </author>
+  <link href="https://github.com/iamgreaser/orionsfurnace-cl" />
+  <id>urn:rprimus:github:iamgreaser:orionsfurnace-cl</id>
+  <published>2020-09-07T07:46:04Z</published>
+  <updated>2020-09-07T07:46:04Z</updated>
+  <content type="html">
+   Common Lisp rewrite of Orion&#039;s Furnace
+  </content>
+ </entry>
  <entry>
   <title>brockajones: ThresholdMapLisp</title>
   <author>
@@ -15,6 +54,19 @@
   <updated>2020-09-07T04:56:52Z</updated>
   <content type="html">
    A lisp program to create a Threshold Map
+  </content>
+ </entry>
+ <entry>
+  <title>DayneSorvisto: Common-Lisp-Embeddable-Database</title>
+  <author>
+   <name>DayneSorvisto</name>
+  </author>
+  <link href="https://github.com/DayneSorvisto/Common-Lisp-Embeddable-Database" />
+  <id>urn:rprimus:github:DayneSorvisto:Common-Lisp-Embeddable-Database</id>
+  <published>2020-09-07T02:38:29Z</published>
+  <updated>2020-09-07T02:38:29Z</updated>
+  <content type="html">
+   Database in common lisp
   </content>
  </entry>
  <entry>
@@ -132,84 +184,6 @@
   <updated>2020-09-06T04:35:19Z</updated>
   <content type="html">
    Lisp program to solve Sokoban puzzle with A* star search algorithm.
-  </content>
- </entry>
- <entry>
-  <title>kamysheblid: convertify</title>
-  <author>
-   <name>kamysheblid</name>
-  </author>
-  <link href="https://github.com/kamysheblid/convertify" />
-  <id>urn:rprimus:github:kamysheblid:convertify</id>
-  <published>2020-09-05T23:14:10Z</published>
-  <updated>2020-09-05T23:14:10Z</updated>
-  <content type="html">
-   convert lisp types into each other
-  </content>
- </entry>
- <entry>
-  <title>csixteen: fp-random</title>
-  <author>
-   <name>csixteen</name>
-  </author>
-  <link href="https://github.com/csixteen/fp-random" />
-  <id>urn:rprimus:github:csixteen:fp-random</id>
-  <published>2020-09-05T16:05:04Z</published>
-  <updated>2020-09-05T16:05:04Z</updated>
-  <content type="html">
-   Random snippets of code
-  </content>
- </entry>
- <entry>
-  <title>s-expressionists: Cleavir</title>
-  <author>
-   <name>s-expressionists</name>
-  </author>
-  <link href="https://github.com/s-expressionists/Cleavir" />
-  <id>urn:rprimus:github:s-expressionists:Cleavir</id>
-  <published>2020-09-05T15:58:12Z</published>
-  <updated>2020-09-05T15:58:12Z</updated>
-  <content type="html">
-   an implementation-independent framework for creating Common Lisp compilers
-  </content>
- </entry>
- <entry>
-  <title>hyotang666: markup-functions</title>
-  <author>
-   <name>hyotang666</name>
-  </author>
-  <link href="https://github.com/hyotang666/markup-functions" />
-  <id>urn:rprimus:github:hyotang666:markup-functions</id>
-  <published>2020-09-05T11:48:26Z</published>
-  <updated>2020-09-05T11:48:26Z</updated>
-  <content type="html">
-   html5 generator.
-  </content>
- </entry>
- <entry>
-  <title>csixteen: 99Problems</title>
-  <author>
-   <name>csixteen</name>
-  </author>
-  <link href="https://github.com/csixteen/99Problems" />
-  <id>urn:rprimus:github:csixteen:99Problems</id>
-  <published>2020-09-05T09:05:25Z</published>
-  <updated>2020-09-05T09:05:25Z</updated>
-  <content type="html">
-   99 Problems (Lisp and Scala)
-  </content>
- </entry>
- <entry>
-  <title>mihirk2309: Four_wheel_omni-basedrive</title>
-  <author>
-   <name>mihirk2309</name>
-  </author>
-  <link href="https://github.com/mihirk2309/Four_wheel_omni-basedrive" />
-  <id>urn:rprimus:github:mihirk2309:Four_wheel_omni-basedrive</id>
-  <published>2020-09-05T06:09:03Z</published>
-  <updated>2020-09-05T06:09:03Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
