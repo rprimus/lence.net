@@ -2,8 +2,112 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-scheme.atom"/>
 <id>urn:rprimus:github:newschemerepos</id>
-<updated>2020-09-08T06:36:31Z</updated>
+<updated>2020-09-09T02:59:05Z</updated>
 <title type='text'>New GitHub Scheme Repos</title>
+ <entry>
+  <title>cyclone-scheme: srfi-41</title>
+  <author>
+   <name>cyclone-scheme</name>
+  </author>
+  <link href="https://github.com/cyclone-scheme/srfi-41" />
+  <id>urn:rprimus:github:cyclone-scheme:srfi-41</id>
+  <published>2020-09-09T02:59:05Z</published>
+  <updated>2020-09-09T02:59:05Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>eraserhd: gerbil-bencode</title>
+  <author>
+   <name>eraserhd</name>
+  </author>
+  <link href="https://github.com/eraserhd/gerbil-bencode" />
+  <id>urn:rprimus:github:eraserhd:gerbil-bencode</id>
+  <published>2020-09-08T19:17:21Z</published>
+  <updated>2020-09-08T19:17:21Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>SecondarySkyler: Racket</title>
+  <author>
+   <name>SecondarySkyler</name>
+  </author>
+  <link href="https://github.com/SecondarySkyler/Racket" />
+  <id>urn:rprimus:github:SecondarySkyler:Racket</id>
+  <published>2020-09-08T18:38:04Z</published>
+  <updated>2020-09-08T18:38:04Z</updated>
+  <content type="html">
+   first repository
+  </content>
+ </entry>
+ <entry>
+  <title>acs14007: ECE4225</title>
+  <author>
+   <name>acs14007</name>
+  </author>
+  <link href="https://github.com/acs14007/ECE4225" />
+  <id>urn:rprimus:github:acs14007:ECE4225</id>
+  <published>2020-09-08T16:34:58Z</published>
+  <updated>2020-09-08T16:34:58Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>kilka-rav: avl-tree</title>
+  <author>
+   <name>kilka-rav</name>
+  </author>
+  <link href="https://github.com/kilka-rav/avl-tree" />
+  <id>urn:rprimus:github:kilka-rav:avl-tree</id>
+  <published>2020-09-08T08:53:17Z</published>
+  <updated>2020-09-08T08:53:17Z</updated>
+  <content type="html">
+   avl-tree sheme, insert, search, balance(rotate-left, rotate-right and composition), print
+  </content>
+ </entry>
+ <entry>
+  <title>kilka-rav: insert-sort</title>
+  <author>
+   <name>kilka-rav</name>
+  </author>
+  <link href="https://github.com/kilka-rav/insert-sort" />
+  <id>urn:rprimus:github:kilka-rav:insert-sort</id>
+  <published>2020-09-08T08:50:07Z</published>
+  <updated>2020-09-08T08:50:07Z</updated>
+  <content type="html">
+   insert-sort scheme
+  </content>
+ </entry>
+ <entry>
+  <title>kilka-rav: pattern</title>
+  <author>
+   <name>kilka-rav</name>
+  </author>
+  <link href="https://github.com/kilka-rav/pattern" />
+  <id>urn:rprimus:github:kilka-rav:pattern</id>
+  <published>2020-09-08T08:47:22Z</published>
+  <updated>2020-09-08T08:47:22Z</updated>
+  <content type="html">
+   my-cond, my-map
+  </content>
+ </entry>
+ <entry>
+  <title>kilka-rav: binary-search-tree</title>
+  <author>
+   <name>kilka-rav</name>
+  </author>
+  <link href="https://github.com/kilka-rav/binary-search-tree" />
+  <id>urn:rprimus:github:kilka-rav:binary-search-tree</id>
+  <published>2020-09-08T08:41:45Z</published>
+  <updated>2020-09-08T08:41:45Z</updated>
+  <content type="html">
+   functional search-tree
+  </content>
+ </entry>
  <entry>
   <title>CyberShikei: dotfiles</title>
   <author>
@@ -93,58 +197,6 @@
   <updated>2020-09-07T03:27:25Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>PROCENTX123: Fundamentals-of-computer-science</title>
-  <author>
-   <name>PROCENTX123</name>
-  </author>
-  <link href="https://github.com/PROCENTX123/Fundamentals-of-computer-science" />
-  <id>urn:rprimus:github:PROCENTX123:Fundamentals-of-computer-science</id>
-  <published>2020-09-06T19:14:26Z</published>
-  <updated>2020-09-06T19:14:26Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>donaldsonjw: bigloo-concurrent</title>
-  <author>
-   <name>donaldsonjw</name>
-  </author>
-  <link href="https://github.com/donaldsonjw/bigloo-concurrent" />
-  <id>urn:rprimus:github:donaldsonjw:bigloo-concurrent</id>
-  <published>2020-09-06T16:55:07Z</published>
-  <updated>2020-09-06T16:55:07Z</updated>
-  <content type="html">
-   A library of concurrency abstractions for Bigloo
-  </content>
- </entry>
- <entry>
-  <title>o-nly: guix-template</title>
-  <author>
-   <name>o-nly</name>
-  </author>
-  <link href="https://github.com/o-nly/guix-template" />
-  <id>urn:rprimus:github:o-nly:guix-template</id>
-  <published>2020-09-06T13:41:03Z</published>
-  <updated>2020-09-06T13:41:03Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>elijahsawyers: ProgLangs</title>
-  <author>
-   <name>elijahsawyers</name>
-  </author>
-  <link href="https://github.com/elijahsawyers/ProgLangs" />
-  <id>urn:rprimus:github:elijahsawyers:ProgLangs</id>
-  <published>2020-09-06T01:11:34Z</published>
-  <updated>2020-09-06T01:11:34Z</updated>
-  <content type="html">
-   CS 403 - practice exercises.
   </content>
  </entry>
 </feed>
