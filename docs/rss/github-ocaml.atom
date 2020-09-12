@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2020-09-11T09:50:55Z</updated>
+<updated>2020-09-12T07:44:48Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>kagan019: lisp-in-ocaml</title>
+  <author>
+   <name>kagan019</name>
+  </author>
+  <link href="https://github.com/kagan019/lisp-in-ocaml" />
+  <id>urn:rprimus:github:kagan019:lisp-in-ocaml</id>
+  <published>2020-09-12T07:44:48Z</published>
+  <updated>2020-09-12T07:44:48Z</updated>
+  <content type="html">
+   an ocaml interpreter for lisp-style prefix notation syntax
+  </content>
+ </entry>
+ <entry>
+  <title>mattjianglinghua: MiniML</title>
+  <author>
+   <name>mattjianglinghua</name>
+  </author>
+  <link href="https://github.com/mattjianglinghua/MiniML" />
+  <id>urn:rprimus:github:mattjianglinghua:MiniML</id>
+  <published>2020-09-12T00:18:22Z</published>
+  <updated>2020-09-12T00:18:22Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>dkutin: csi3120</title>
+  <author>
+   <name>dkutin</name>
+  </author>
+  <link href="https://github.com/dkutin/csi3120" />
+  <id>urn:rprimus:github:dkutin:csi3120</id>
+  <published>2020-09-11T17:51:49Z</published>
+  <updated>2020-09-11T17:51:49Z</updated>
+  <content type="html">
+   Course work done for CSI3120 Programming Language Concepts. 
+  </content>
+ </entry>
+ <entry>
+  <title>monangee: ocamltests</title>
+  <author>
+   <name>monangee</name>
+  </author>
+  <link href="https://github.com/monangee/ocamltests" />
+  <id>urn:rprimus:github:monangee:ocamltests</id>
+  <published>2020-09-11T16:24:32Z</published>
+  <updated>2020-09-11T16:24:32Z</updated>
+  <content type="html">
+   Scanner create to learn about ocaml
+  </content>
+ </entry>
+ <entry>
+  <title>newhar: ProgrammingLanguage</title>
+  <author>
+   <name>newhar</name>
+  </author>
+  <link href="https://github.com/newhar/ProgrammingLanguage" />
+  <id>urn:rprimus:github:newhar:ProgrammingLanguage</id>
+  <published>2020-09-11T15:11:41Z</published>
+  <updated>2020-09-11T15:11:41Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>aryx: codecheck</title>
   <author>
@@ -145,84 +210,6 @@
   <updated>2020-09-10T06:46:39Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>ojtanner: talking_camel</title>
-  <author>
-   <name>ojtanner</name>
-  </author>
-  <link href="https://github.com/ojtanner/talking_camel" />
-  <id>urn:rprimus:github:ojtanner:talking_camel</id>
-  <published>2020-09-09T23:11:20Z</published>
-  <updated>2020-09-09T23:11:20Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>serpent7776: js13k-2020-theme-not-found</title>
-  <author>
-   <name>serpent7776</name>
-  </author>
-  <link href="https://github.com/serpent7776/js13k-2020-theme-not-found" />
-  <id>urn:rprimus:github:serpent7776:js13k-2020-theme-not-found</id>
-  <published>2020-09-09T18:21:16Z</published>
-  <updated>2020-09-09T18:21:16Z</updated>
-  <content type="html">
-   Theme not found: My submission to js13k 2020
-  </content>
- </entry>
- <entry>
-  <title>orphos: diktor</title>
-  <author>
-   <name>orphos</name>
-  </author>
-  <link href="https://github.com/orphos/diktor" />
-  <id>urn:rprimus:github:orphos:diktor</id>
-  <published>2020-09-09T15:04:11Z</published>
-  <updated>2020-09-09T15:04:11Z</updated>
-  <content type="html">
-   [EarlyDevelopment] Diktor is an implementation of Orphos Programming Language frontend and IR interpreter, written in OCaml. The primary goal of Diktor is to facilitate the bootstrapping of self-hosted implementation(s) of Orphos.
-  </content>
- </entry>
- <entry>
-  <title>emillon: ppxlib-parsing</title>
-  <author>
-   <name>emillon</name>
-  </author>
-  <link href="https://github.com/emillon/ppxlib-parsing" />
-  <id>urn:rprimus:github:emillon:ppxlib-parsing</id>
-  <published>2020-09-09T09:20:41Z</published>
-  <updated>2020-09-09T09:20:41Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>genisysram: ocaml-camlp4</title>
-  <author>
-   <name>genisysram</name>
-  </author>
-  <link href="https://github.com/genisysram/ocaml-camlp4" />
-  <id>urn:rprimus:github:genisysram:ocaml-camlp4</id>
-  <published>2020-09-09T04:40:32Z</published>
-  <updated>2020-09-09T04:40:32Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>swordJJ: SafetyProtocol</title>
-  <author>
-   <name>swordJJ</name>
-  </author>
-  <link href="https://github.com/swordJJ/SafetyProtocol" />
-  <id>urn:rprimus:github:swordJJ:SafetyProtocol</id>
-  <published>2020-09-09T00:46:52Z</published>
-  <updated>2020-09-09T00:46:52Z</updated>
-  <content type="html">
-   Protocol described in A&amp;B language transforms into another theory prover
   </content>
  </entry>
 </feed>
