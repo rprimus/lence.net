@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2020-09-13T20:51:45Z</updated>
+<updated>2020-09-15T04:07:46Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>goki0607: cs6120-hws</title>
+  <author>
+   <name>goki0607</name>
+  </author>
+  <link href="https://github.com/goki0607/cs6120-hws" />
+  <id>urn:rprimus:github:goki0607:cs6120-hws</id>
+  <published>2020-09-15T04:07:46Z</published>
+  <updated>2020-09-15T04:07:46Z</updated>
+  <content type="html">
+   My solutions to the cs6120 homework assignments.
+  </content>
+ </entry>
+ <entry>
+  <title>Calsign: cs6120_work</title>
+  <author>
+   <name>Calsign</name>
+  </author>
+  <link href="https://github.com/Calsign/cs6120_work" />
+  <id>urn:rprimus:github:Calsign:cs6120_work</id>
+  <published>2020-09-15T00:23:09Z</published>
+  <updated>2020-09-15T00:23:09Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>ayang4114: omm-csv-parser</title>
+  <author>
+   <name>ayang4114</name>
+  </author>
+  <link href="https://github.com/ayang4114/omm-csv-parser" />
+  <id>urn:rprimus:github:ayang4114:omm-csv-parser</id>
+  <published>2020-09-14T22:22:07Z</published>
+  <updated>2020-09-14T22:22:07Z</updated>
+  <content type="html">
+   A csv filter tool for the OMM CSV downloaded from Canvas for Cornell University&#039;s CS 3110 TAs and discussion sections: Fall 2020.
+  </content>
+ </entry>
+ <entry>
+  <title>BC-CSCI1103: Week03</title>
+  <author>
+   <name>BC-CSCI1103</name>
+  </author>
+  <link href="https://github.com/BC-CSCI1103/Week03" />
+  <id>urn:rprimus:github:BC-CSCI1103:Week03</id>
+  <published>2020-09-14T18:44:24Z</published>
+  <updated>2020-09-14T18:44:24Z</updated>
+  <content type="html">
+   Lecture Notes for Week 3
+  </content>
+ </entry>
+ <entry>
+  <title>stp59: adv-compilers</title>
+  <author>
+   <name>stp59</name>
+  </author>
+  <link href="https://github.com/stp59/adv-compilers" />
+  <id>urn:rprimus:github:stp59:adv-compilers</id>
+  <published>2020-09-14T17:01:54Z</published>
+  <updated>2020-09-14T17:01:54Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Et7f3: dose3</title>
+  <author>
+   <name>Et7f3</name>
+  </author>
+  <link href="https://github.com/Et7f3/dose3" />
+  <id>urn:rprimus:github:Et7f3:dose3</id>
+  <published>2020-09-14T07:24:05Z</published>
+  <updated>2020-09-14T07:24:05Z</updated>
+  <content type="html">
+   forked version of https://scm.gforge.inria.fr/anonscm/git/dose/dose.git to add dune support
+  </content>
+ </entry>
  <entry>
   <title>SGrondin: ppx_units</title>
   <author>
@@ -31,12 +109,12 @@
   </content>
  </entry>
  <entry>
-  <title>JoaoBrito1998: Arith</title>
+  <title>ojoaobrito: Arith</title>
   <author>
-   <name>JoaoBrito1998</name>
+   <name>ojoaobrito</name>
   </author>
-  <link href="https://github.com/JoaoBrito1998/Arith" />
-  <id>urn:rprimus:github:JoaoBrito1998:Arith</id>
+  <link href="https://github.com/ojoaobrito/Arith" />
+  <id>urn:rprimus:github:ojoaobrito:Arith</id>
   <published>2020-09-13T18:46:53Z</published>
   <updated>2020-09-13T18:46:53Z</updated>
   <content type="html">
@@ -67,6 +145,19 @@
   <updated>2020-09-13T12:16:24Z</updated>
   <content type="html">
    An online ascii diagram editor
+  </content>
+ </entry>
+ <entry>
+  <title>MiyamonY: aoj-icpc</title>
+  <author>
+   <name>MiyamonY</name>
+  </author>
+  <link href="https://github.com/MiyamonY/aoj-icpc" />
+  <id>urn:rprimus:github:MiyamonY:aoj-icpc</id>
+  <published>2020-09-13T12:07:47Z</published>
+  <updated>2020-09-13T12:07:47Z</updated>
+  <content type="html">
+   
   </content>
  </entry>
  <entry>
@@ -132,110 +223,6 @@
   <updated>2020-09-13T00:16:46Z</updated>
   <content type="html">
    PPX Rewriter to help write AST migrations for Ocaml (using Camlp5 and pa_ppx)
-  </content>
- </entry>
- <entry>
-  <title>Denommus: monadic</title>
-  <author>
-   <name>Denommus</name>
-  </author>
-  <link href="https://github.com/Denommus/monadic" />
-  <id>urn:rprimus:github:Denommus:monadic</id>
-  <published>2020-09-12T23:43:35Z</published>
-  <updated>2020-09-12T23:43:35Z</updated>
-  <content type="html">
-   A monad transformers library for OCaml, based on transformers and mtl
-  </content>
- </entry>
- <entry>
-  <title>SavDont: OLoml</title>
-  <author>
-   <name>SavDont</name>
-  </author>
-  <link href="https://github.com/SavDont/OLoml" />
-  <id>urn:rprimus:github:SavDont:OLoml</id>
-  <published>2020-09-12T22:30:13Z</published>
-  <updated>2020-09-12T22:30:13Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>acastronuovo5: cs320</title>
-  <author>
-   <name>acastronuovo5</name>
-  </author>
-  <link href="https://github.com/acastronuovo5/cs320" />
-  <id>urn:rprimus:github:acastronuovo5:cs320</id>
-  <published>2020-09-12T21:48:08Z</published>
-  <updated>2020-09-12T21:48:08Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>myyrakle: ocaml_bolierplates</title>
-  <author>
-   <name>myyrakle</name>
-  </author>
-  <link href="https://github.com/myyrakle/ocaml_bolierplates" />
-  <id>urn:rprimus:github:myyrakle:ocaml_bolierplates</id>
-  <published>2020-09-12T16:07:04Z</published>
-  <updated>2020-09-12T16:07:04Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>hakuch: Fang</title>
-  <author>
-   <name>hakuch</name>
-  </author>
-  <link href="https://github.com/hakuch/Fang" />
-  <id>urn:rprimus:github:hakuch:Fang</id>
-  <published>2020-09-12T15:21:17Z</published>
-  <updated>2020-09-12T15:21:17Z</updated>
-  <content type="html">
-   Educational compiler for the Tiger language
-  </content>
- </entry>
- <entry>
-  <title>Ellen217: Ellen217.github.io</title>
-  <author>
-   <name>Ellen217</name>
-  </author>
-  <link href="https://github.com/Ellen217/Ellen217.github.io" />
-  <id>urn:rprimus:github:Ellen217:Ellen217.github.io</id>
-  <published>2020-09-12T09:04:03Z</published>
-  <updated>2020-09-12T09:04:03Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>kagan019: lisp-in-ocaml</title>
-  <author>
-   <name>kagan019</name>
-  </author>
-  <link href="https://github.com/kagan019/lisp-in-ocaml" />
-  <id>urn:rprimus:github:kagan019:lisp-in-ocaml</id>
-  <published>2020-09-12T07:44:48Z</published>
-  <updated>2020-09-12T07:44:48Z</updated>
-  <content type="html">
-   an ocaml interpreter for lisp-style prefix notation syntax
-  </content>
- </entry>
- <entry>
-  <title>mattjianglinghua: MiniML</title>
-  <author>
-   <name>mattjianglinghua</name>
-  </author>
-  <link href="https://github.com/mattjianglinghua/MiniML" />
-  <id>urn:rprimus:github:mattjianglinghua:MiniML</id>
-  <published>2020-09-12T00:18:22Z</published>
-  <updated>2020-09-12T00:18:22Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
