@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-sml.atom"/>
 <id>urn:rprimus:github:newsmlrepos</id>
-<updated>2020-09-18T14:41:22Z</updated>
+<updated>2020-09-20T00:56:48Z</updated>
 <title type='text'>New GitHub Sml Repos</title>
+ <entry>
+  <title>elpinal: focused-modules</title>
+  <author>
+   <name>elpinal</name>
+  </author>
+  <link href="https://github.com/elpinal/focused-modules" />
+  <id>urn:rprimus:github:elpinal:focused-modules</id>
+  <published>2020-09-20T00:56:48Z</published>
+  <updated>2020-09-20T00:56:48Z</updated>
+  <content type="html">
+   A type system for ML-style modules, solving the avoidance problem by focusing [Crary 2020]
+  </content>
+ </entry>
  <entry>
   <title>MPLLang: mpl-tutorial</title>
   <author>
@@ -28,32 +41,6 @@
   <updated>2020-09-18T07:35:09Z</updated>
   <content type="html">
    Part A of Programming Languages by University of Washington
-  </content>
- </entry>
- <entry>
-  <title>pangiann: ntua-pl1</title>
-  <author>
-   <name>pangiann</name>
-  </author>
-  <link href="https://github.com/pangiann/ntua-pl1" />
-  <id>urn:rprimus:github:pangiann:ntua-pl1</id>
-  <published>2020-09-17T18:43:17Z</published>
-  <updated>2020-09-17T18:43:17Z</updated>
-  <content type="html">
-   This is my trip to Programming Languages I course at ECE NTUA
-  </content>
- </entry>
- <entry>
-  <title>luccasmmg: programming_languages</title>
-  <author>
-   <name>luccasmmg</name>
-  </author>
-  <link href="https://github.com/luccasmmg/programming_languages" />
-  <id>urn:rprimus:github:luccasmmg:programming_languages</id>
-  <published>2020-09-17T02:46:23Z</published>
-  <updated>2020-09-17T02:46:23Z</updated>
-  <content type="html">
-   Repository for programming languages A code on coursera
   </content>
  </entry>
 </feed>
