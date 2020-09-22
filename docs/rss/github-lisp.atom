@@ -2,8 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2020-09-20T14:47:46Z</updated>
+<updated>2020-09-22T00:31:28Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>wasuken: cl-spam-detector</title>
+  <author>
+   <name>wasuken</name>
+  </author>
+  <link href="https://github.com/wasuken/cl-spam-detector" />
+  <id>urn:rprimus:github:wasuken:cl-spam-detector</id>
+  <published>2020-09-22T00:31:28Z</published>
+  <updated>2020-09-22T00:31:28Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>RichJames: gauss-jordan</title>
+  <author>
+   <name>RichJames</name>
+  </author>
+  <link href="https://github.com/RichJames/gauss-jordan" />
+  <id>urn:rprimus:github:RichJames:gauss-jordan</id>
+  <published>2020-09-21T22:12:17Z</published>
+  <updated>2020-09-21T22:12:17Z</updated>
+  <content type="html">
+   An implementation of Gauss-Jordan equation solving in common lisp.
+  </content>
+ </entry>
+ <entry>
+  <title>andrefnb: search_algorithms_lisp</title>
+  <author>
+   <name>andrefnb</name>
+  </author>
+  <link href="https://github.com/andrefnb/search_algorithms_lisp" />
+  <id>urn:rprimus:github:andrefnb:search_algorithms_lisp</id>
+  <published>2020-09-21T18:25:40Z</published>
+  <updated>2020-09-21T18:25:40Z</updated>
+  <content type="html">
+   [2016] Lisp implemented uninformed algorithms breadth first and deep first, and informed ones such as A* and RBFS.
+  </content>
+ </entry>
+ <entry>
+  <title>FilipeAz: IST-IA</title>
+  <author>
+   <name>FilipeAz</name>
+  </author>
+  <link href="https://github.com/FilipeAz/IST-IA" />
+  <id>urn:rprimus:github:FilipeAz:IST-IA</id>
+  <published>2020-09-21T17:38:46Z</published>
+  <updated>2020-09-21T17:38:46Z</updated>
+  <content type="html">
+   IST - Artificial Intelligence 2016/2017
+  </content>
+ </entry>
+ <entry>
+  <title>drnmk: jane</title>
+  <author>
+   <name>drnmk</name>
+  </author>
+  <link href="https://github.com/drnmk/jane" />
+  <id>urn:rprimus:github:drnmk:jane</id>
+  <published>2020-09-21T15:19:23Z</published>
+  <updated>2020-09-21T15:19:23Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>ebzzry: sbcl</title>
+  <author>
+   <name>ebzzry</name>
+  </author>
+  <link href="https://github.com/ebzzry/sbcl" />
+  <id>urn:rprimus:github:ebzzry:sbcl</id>
+  <published>2020-09-21T15:16:21Z</published>
+  <updated>2020-09-21T15:16:21Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>j-morita-shizuoka: line-following-tak</title>
+  <author>
+   <name>j-morita-shizuoka</name>
+  </author>
+  <link href="https://github.com/j-morita-shizuoka/line-following-tak" />
+  <id>urn:rprimus:github:j-morita-shizuoka:line-following-tak</id>
+  <published>2020-09-21T09:11:11Z</published>
+  <updated>2020-09-21T09:11:11Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>Polarzz: random-common-lisp-stuff</title>
   <author>
@@ -31,6 +122,19 @@
   </content>
  </entry>
  <entry>
+  <title>reanz59: TextDefrag</title>
+  <author>
+   <name>reanz59</name>
+  </author>
+  <link href="https://github.com/reanz59/TextDefrag" />
+  <id>urn:rprimus:github:reanz59:TextDefrag</id>
+  <published>2020-09-20T07:38:06Z</published>
+  <updated>2020-09-20T07:38:06Z</updated>
+  <content type="html">
+   Text extracted from documents sometimes consists of word fragments
+  </content>
+ </entry>
+ <entry>
   <title>wty-andrew: clownbot</title>
   <author>
    <name>wty-andrew</name>
@@ -54,71 +158,6 @@
   <updated>2020-09-20T01:54:36Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>inaimathi: the-prisoners</title>
-  <author>
-   <name>inaimathi</name>
-  </author>
-  <link href="https://github.com/inaimathi/the-prisoners" />
-  <id>urn:rprimus:github:inaimathi:the-prisoners</id>
-  <published>2020-09-19T22:55:52Z</published>
-  <updated>2020-09-19T22:55:52Z</updated>
-  <content type="html">
-   A game-theory based Roguelikelike 
-  </content>
- </entry>
- <entry>
-  <title>starseeker: garnet</title>
-  <author>
-   <name>starseeker</name>
-  </author>
-  <link href="https://github.com/starseeker/garnet" />
-  <id>urn:rprimus:github:starseeker:garnet</id>
-  <published>2020-09-19T19:51:35Z</published>
-  <updated>2020-09-19T19:51:35Z</updated>
-  <content type="html">
-   Copy of https://sourceforge.net/projects/garnetlisp/
-  </content>
- </entry>
- <entry>
-  <title>wasuken: cl-db-index</title>
-  <author>
-   <name>wasuken</name>
-  </author>
-  <link href="https://github.com/wasuken/cl-db-index" />
-  <id>urn:rprimus:github:wasuken:cl-db-index</id>
-  <published>2020-09-19T04:46:32Z</published>
-  <updated>2020-09-19T04:46:32Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>PaolaGiraldo: codeabbey_solutions</title>
-  <author>
-   <name>PaolaGiraldo</name>
-  </author>
-  <link href="https://github.com/PaolaGiraldo/codeabbey_solutions" />
-  <id>urn:rprimus:github:PaolaGiraldo:codeabbey_solutions</id>
-  <published>2020-09-19T01:37:48Z</published>
-  <updated>2020-09-19T01:37:48Z</updated>
-  <content type="html">
-   Solutions to Codeabbey problems
-  </content>
- </entry>
- <entry>
-  <title>Hexstream: compatible-metaclasses</title>
-  <author>
-   <name>Hexstream</name>
-  </author>
-  <link href="https://github.com/Hexstream/compatible-metaclasses" />
-  <id>urn:rprimus:github:Hexstream:compatible-metaclasses</id>
-  <published>2020-09-19T00:38:37Z</published>
-  <updated>2020-09-19T00:38:37Z</updated>
-  <content type="html">
-   Validates superclasses according to a simple substitution model, thereby greatly simplifying the definition of class mixins.
   </content>
  </entry>
 </feed>
