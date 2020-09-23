@@ -2,8 +2,138 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2020-09-22T00:31:28Z</updated>
+<updated>2020-09-23T01:28:27Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>GeneTinderholm: screwing-around-with-lisp</title>
+  <author>
+   <name>GeneTinderholm</name>
+  </author>
+  <link href="https://github.com/GeneTinderholm/screwing-around-with-lisp" />
+  <id>urn:rprimus:github:GeneTinderholm:screwing-around-with-lisp</id>
+  <published>2020-09-23T01:28:27Z</published>
+  <updated>2020-09-23T01:28:27Z</updated>
+  <content type="html">
+   Screwing around with lisp. Some exercises from books I&#039;ve bought.
+  </content>
+ </entry>
+ <entry>
+  <title>Hexstream: object-class</title>
+  <author>
+   <name>Hexstream</name>
+  </author>
+  <link href="https://github.com/Hexstream/object-class" />
+  <id>urn:rprimus:github:Hexstream:object-class</id>
+  <published>2020-09-23T00:49:46Z</published>
+  <updated>2020-09-23T00:49:46Z</updated>
+  <content type="html">
+   Ensures that special subclasses of standard-object cluster right in front of standard-object in the class precedence list.
+  </content>
+ </entry>
+ <entry>
+  <title>dagobah123: emacs</title>
+  <author>
+   <name>dagobah123</name>
+  </author>
+  <link href="https://github.com/dagobah123/emacs" />
+  <id>urn:rprimus:github:dagobah123:emacs</id>
+  <published>2020-09-22T18:29:01Z</published>
+  <updated>2020-09-22T18:29:01Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>jfrancis42: js8call-lisp</title>
+  <author>
+   <name>jfrancis42</name>
+  </author>
+  <link href="https://github.com/jfrancis42/js8call-lisp" />
+  <id>urn:rprimus:github:jfrancis42:js8call-lisp</id>
+  <published>2020-09-22T14:01:39Z</published>
+  <updated>2020-09-22T14:01:39Z</updated>
+  <content type="html">
+   This is a Common Lisp library to talk to JS8Call (the ham radio communications package)
+  </content>
+ </entry>
+ <entry>
+  <title>Chimik-IT: practical-common-lisp</title>
+  <author>
+   <name>Chimik-IT</name>
+  </author>
+  <link href="https://github.com/Chimik-IT/practical-common-lisp" />
+  <id>urn:rprimus:github:Chimik-IT:practical-common-lisp</id>
+  <published>2020-09-22T13:46:13Z</published>
+  <updated>2020-09-22T13:46:13Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>gxuhcj: opencl_kernel</title>
+  <author>
+   <name>gxuhcj</name>
+  </author>
+  <link href="https://github.com/gxuhcj/opencl_kernel" />
+  <id>urn:rprimus:github:gxuhcj:opencl_kernel</id>
+  <published>2020-09-22T12:16:08Z</published>
+  <updated>2020-09-22T12:16:08Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>redpencilio: app-food-forest</title>
+  <author>
+   <name>redpencilio</name>
+  </author>
+  <link href="https://github.com/redpencilio/app-food-forest" />
+  <id>urn:rprimus:github:redpencilio:app-food-forest</id>
+  <published>2020-09-22T10:00:11Z</published>
+  <updated>2020-09-22T10:00:11Z</updated>
+  <content type="html">
+   Application to store some metadata about a food forest
+  </content>
+ </entry>
+ <entry>
+  <title>Ruixxxx: CS161-Introduction-to-Artificial-Intelligence</title>
+  <author>
+   <name>Ruixxxx</name>
+  </author>
+  <link href="https://github.com/Ruixxxx/CS161-Introduction-to-Artificial-Intelligence" />
+  <id>urn:rprimus:github:Ruixxxx:CS161-Introduction-to-Artificial-Intelligence</id>
+  <published>2020-09-22T07:43:41Z</published>
+  <updated>2020-09-22T07:43:41Z</updated>
+  <content type="html">
+   UCLA, 2020winter
+  </content>
+ </entry>
+ <entry>
+  <title>jg20019: calc-evaluator</title>
+  <author>
+   <name>jg20019</name>
+  </author>
+  <link href="https://github.com/jg20019/calc-evaluator" />
+  <id>urn:rprimus:github:jg20019:calc-evaluator</id>
+  <published>2020-09-22T07:24:22Z</published>
+  <updated>2020-09-22T07:24:22Z</updated>
+  <content type="html">
+   A simple example of an interpreter based on a lecture from UC-Berkeley&#039;s 61A course taught by Brian Harvey
+  </content>
+ </entry>
+ <entry>
+  <title>fireflower0: RPiDigitalWriteTester</title>
+  <author>
+   <name>fireflower0</name>
+  </author>
+  <link href="https://github.com/fireflower0/RPiDigitalWriteTester" />
+  <id>urn:rprimus:github:fireflower0:RPiDigitalWriteTester</id>
+  <published>2020-09-22T07:21:46Z</published>
+  <updated>2020-09-22T07:21:46Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>wasuken: cl-spam-detector</title>
   <author>
@@ -70,19 +200,6 @@
   </content>
  </entry>
  <entry>
-  <title>ebzzry: sbcl</title>
-  <author>
-   <name>ebzzry</name>
-  </author>
-  <link href="https://github.com/ebzzry/sbcl" />
-  <id>urn:rprimus:github:ebzzry:sbcl</id>
-  <published>2020-09-21T15:16:21Z</published>
-  <updated>2020-09-21T15:16:21Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
   <title>j-morita-shizuoka: line-following-tak</title>
   <author>
    <name>j-morita-shizuoka</name>
@@ -91,71 +208,6 @@
   <id>urn:rprimus:github:j-morita-shizuoka:line-following-tak</id>
   <published>2020-09-21T09:11:11Z</published>
   <updated>2020-09-21T09:11:11Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Polarzz: random-common-lisp-stuff</title>
-  <author>
-   <name>Polarzz</name>
-  </author>
-  <link href="https://github.com/Polarzz/random-common-lisp-stuff" />
-  <id>urn:rprimus:github:Polarzz:random-common-lisp-stuff</id>
-  <published>2020-09-20T14:47:46Z</published>
-  <updated>2020-09-20T14:47:46Z</updated>
-  <content type="html">
-   random stuff i do with common lisp whilst learning it, probably a bunch of shit.
-  </content>
- </entry>
- <entry>
-  <title>madhu-surisetti: meSuite</title>
-  <author>
-   <name>madhu-surisetti</name>
-  </author>
-  <link href="https://github.com/madhu-surisetti/meSuite" />
-  <id>urn:rprimus:github:madhu-surisetti:meSuite</id>
-  <published>2020-09-20T12:25:28Z</published>
-  <updated>2020-09-20T12:25:28Z</updated>
-  <content type="html">
-   personal server software
-  </content>
- </entry>
- <entry>
-  <title>reanz59: TextDefrag</title>
-  <author>
-   <name>reanz59</name>
-  </author>
-  <link href="https://github.com/reanz59/TextDefrag" />
-  <id>urn:rprimus:github:reanz59:TextDefrag</id>
-  <published>2020-09-20T07:38:06Z</published>
-  <updated>2020-09-20T07:38:06Z</updated>
-  <content type="html">
-   Text extracted from documents sometimes consists of word fragments
-  </content>
- </entry>
- <entry>
-  <title>wty-andrew: clownbot</title>
-  <author>
-   <name>wty-andrew</name>
-  </author>
-  <link href="https://github.com/wty-andrew/clownbot" />
-  <id>urn:rprimus:github:wty-andrew:clownbot</id>
-  <published>2020-09-20T06:42:43Z</published>
-  <updated>2020-09-20T06:42:43Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>TrojanVulgar: LISPPARK</title>
-  <author>
-   <name>TrojanVulgar</name>
-  </author>
-  <link href="https://github.com/TrojanVulgar/LISPPARK" />
-  <id>urn:rprimus:github:TrojanVulgar:LISPPARK</id>
-  <published>2020-09-20T01:54:36Z</published>
-  <updated>2020-09-20T01:54:36Z</updated>
   <content type="html">
    
   </content>
