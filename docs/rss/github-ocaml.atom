@@ -2,19 +2,84 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2020-09-28T02:30:08Z</updated>
+<updated>2020-09-28T22:58:13Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
  <entry>
-  <title>camlp5: pa_ppx_q_ast</title>
+  <title>camlp5: pa_ppx_simplify</title>
   <author>
    <name>camlp5</name>
   </author>
-  <link href="https://github.com/camlp5/pa_ppx_q_ast" />
-  <id>urn:rprimus:github:camlp5:pa_ppx_q_ast</id>
-  <published>2020-09-28T02:30:08Z</published>
-  <updated>2020-09-28T02:30:08Z</updated>
+  <link href="https://github.com/camlp5/pa_ppx_simplify" />
+  <id>urn:rprimus:github:camlp5:pa_ppx_simplify</id>
+  <published>2020-09-28T22:58:13Z</published>
+  <updated>2020-09-28T22:58:13Z</updated>
   <content type="html">
-   PPX Rewriter to automate code of Q_ast-related datatype conversion
+   A PPX Rewriter to simplify (typically generated) code
+  </content>
+ </entry>
+ <entry>
+  <title>iwilare: compiler-course-unipi</title>
+  <author>
+   <name>iwilare</name>
+  </author>
+  <link href="https://github.com/iwilare/compiler-course-unipi" />
+  <id>urn:rprimus:github:iwilare:compiler-course-unipi</id>
+  <published>2020-09-28T17:48:23Z</published>
+  <updated>2020-09-28T17:48:23Z</updated>
+  <content type="html">
+   Project and assignments for &quot;Languages, Interpreters and Compilers&quot; 2020/2021 course at UniPi
+  </content>
+ </entry>
+ <entry>
+  <title>acharya2021: CSC254Project3</title>
+  <author>
+   <name>acharya2021</name>
+  </author>
+  <link href="https://github.com/acharya2021/CSC254Project3" />
+  <id>urn:rprimus:github:acharya2021:CSC254Project3</id>
+  <published>2020-09-28T16:37:33Z</published>
+  <updated>2020-09-28T16:37:33Z</updated>
+  <content type="html">
+   Translation
+  </content>
+ </entry>
+ <entry>
+  <title>Hilda-chan: Perso</title>
+  <author>
+   <name>Hilda-chan</name>
+  </author>
+  <link href="https://github.com/Hilda-chan/Perso" />
+  <id>urn:rprimus:github:Hilda-chan:Perso</id>
+  <published>2020-09-28T15:42:41Z</published>
+  <updated>2020-09-28T15:42:41Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>CaptainFluffier: Chess</title>
+  <author>
+   <name>CaptainFluffier</name>
+  </author>
+  <link href="https://github.com/CaptainFluffier/Chess" />
+  <id>urn:rprimus:github:CaptainFluffier:Chess</id>
+  <published>2020-09-28T15:35:12Z</published>
+  <updated>2020-09-28T15:35:12Z</updated>
+  <content type="html">
+   in OCaml
+  </content>
+ </entry>
+ <entry>
+  <title>jdrprod: Algos</title>
+  <author>
+   <name>jdrprod</name>
+  </author>
+  <link href="https://github.com/jdrprod/Algos" />
+  <id>urn:rprimus:github:jdrprod:Algos</id>
+  <published>2020-09-28T14:44:22Z</published>
+  <updated>2020-09-28T14:44:22Z</updated>
+  <content type="html">
+   Some usefull algorithms implemented as a robust collection of modules for OCaml, C, Python and more
   </content>
  </entry>
  <entry>
@@ -119,97 +184,6 @@
   <updated>2020-09-27T03:04:33Z</updated>
   <content type="html">
    Library for writing language servers in OCaml
-  </content>
- </entry>
- <entry>
-  <title>gshag: httpaf_webserver</title>
-  <author>
-   <name>gshag</name>
-  </author>
-  <link href="https://github.com/gshag/httpaf_webserver" />
-  <id>urn:rprimus:github:gshag:httpaf_webserver</id>
-  <published>2020-09-26T23:21:20Z</published>
-  <updated>2020-09-26T23:21:20Z</updated>
-  <content type="html">
-   A simple OCaml webserver using the httpaf library
-  </content>
- </entry>
- <entry>
-  <title>kkeundotnet: php-frontend</title>
-  <author>
-   <name>kkeundotnet</name>
-  </author>
-  <link href="https://github.com/kkeundotnet/php-frontend" />
-  <id>urn:rprimus:github:kkeundotnet:php-frontend</id>
-  <published>2020-09-26T16:58:21Z</published>
-  <updated>2020-09-26T16:58:21Z</updated>
-  <content type="html">
-   WIP Generates PHP AST in OCaml from the one parsed by PHP-Parser (https://github.com/nikic/PHP-Parser)
-  </content>
- </entry>
- <entry>
-  <title>navaneethp123: clrs-in-ocaml</title>
-  <author>
-   <name>navaneethp123</name>
-  </author>
-  <link href="https://github.com/navaneethp123/clrs-in-ocaml" />
-  <id>urn:rprimus:github:navaneethp123:clrs-in-ocaml</id>
-  <published>2020-09-26T13:40:26Z</published>
-  <updated>2020-09-26T13:40:26Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>nsbt: metro</title>
-  <author>
-   <name>nsbt</name>
-  </author>
-  <link href="https://github.com/nsbt/metro" />
-  <id>urn:rprimus:github:nsbt:metro</id>
-  <published>2020-09-26T12:06:06Z</published>
-  <updated>2020-09-26T12:06:06Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>nyuichi: holzero</title>
-  <author>
-   <name>nyuichi</name>
-  </author>
-  <link href="https://github.com/nyuichi/holzero" />
-  <id>urn:rprimus:github:nyuichi:holzero</id>
-  <published>2020-09-26T06:08:17Z</published>
-  <updated>2020-09-26T06:08:17Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>sano-jin: pi-on-closure</title>
-  <author>
-   <name>sano-jin</name>
-  </author>
-  <link href="https://github.com/sano-jin/pi-on-closure" />
-  <id>urn:rprimus:github:sano-jin:pi-on-closure</id>
-  <published>2020-09-26T05:26:27Z</published>
-  <updated>2020-09-26T05:26:27Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>den-taku: OCamlLecture</title>
-  <author>
-   <name>den-taku</name>
-  </author>
-  <link href="https://github.com/den-taku/OCamlLecture" />
-  <id>urn:rprimus:github:den-taku:OCamlLecture</id>
-  <published>2020-09-26T02:42:45Z</published>
-  <updated>2020-09-26T02:42:45Z</updated>
-  <content type="html">
-   Learn OCaml with (http://www.fos.kuis.kyoto-u.ac.jp/~igarashi/class/pl/03-ocaml.html)
   </content>
  </entry>
 </feed>
