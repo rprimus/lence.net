@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2020-09-29T21:09:36Z</updated>
+<updated>2020-09-30T16:42:28Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>weavery: clarity.ml</title>
+  <author>
+   <name>weavery</name>
+  </author>
+  <link href="https://github.com/weavery/clarity.ml" />
+  <id>urn:rprimus:github:weavery:clarity.ml</id>
+  <published>2020-09-30T16:42:28Z</published>
+  <updated>2020-09-30T16:42:28Z</updated>
+  <content type="html">
+   Clarity smart contract parser and AST for OCaml.
+  </content>
+ </entry>
+ <entry>
+  <title>TENX-S: Real_World_Ocaml</title>
+  <author>
+   <name>TENX-S</name>
+  </author>
+  <link href="https://github.com/TENX-S/Real_World_Ocaml" />
+  <id>urn:rprimus:github:TENX-S:Real_World_Ocaml</id>
+  <published>2020-09-30T14:57:59Z</published>
+  <updated>2020-09-30T14:57:59Z</updated>
+  <content type="html">
+   Learning Ocaml
+  </content>
+ </entry>
+ <entry>
+  <title>gabted: CompilerLab2021</title>
+  <author>
+   <name>gabted</name>
+  </author>
+  <link href="https://github.com/gabted/CompilerLab2021" />
+  <id>urn:rprimus:github:gabted:CompilerLab2021</id>
+  <published>2020-09-30T13:59:37Z</published>
+  <updated>2020-09-30T13:59:37Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>StevenMcDonald97: MAFIA</title>
+  <author>
+   <name>StevenMcDonald97</name>
+  </author>
+  <link href="https://github.com/StevenMcDonald97/MAFIA" />
+  <id>urn:rprimus:github:StevenMcDonald97:MAFIA</id>
+  <published>2020-09-30T06:36:55Z</published>
+  <updated>2020-09-30T06:36:55Z</updated>
+  <content type="html">
+   A text based single player mafia game written in oCaml
+  </content>
+ </entry>
  <entry>
   <title>ocaml: forge-dump-tools</title>
   <author>
@@ -40,7 +92,7 @@
   <published>2020-09-29T13:03:15Z</published>
   <updated>2020-09-29T13:03:15Z</updated>
   <content type="html">
-   Try using asp (a parser combinator, PLDI2019)
+   Try using asp (a parser combinator, https://github.com/yallop/ocaml-asp, PLDI 2019)
   </content>
  </entry>
  <entry>
@@ -65,97 +117,6 @@
   <id>urn:rprimus:github:mineplexio:Plexus-Pool</id>
   <published>2020-09-29T06:56:51Z</published>
   <updated>2020-09-29T06:56:51Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>camlp5: pa_ppx_simplify</title>
-  <author>
-   <name>camlp5</name>
-  </author>
-  <link href="https://github.com/camlp5/pa_ppx_simplify" />
-  <id>urn:rprimus:github:camlp5:pa_ppx_simplify</id>
-  <published>2020-09-28T22:58:13Z</published>
-  <updated>2020-09-28T22:58:13Z</updated>
-  <content type="html">
-   A PPX Rewriter to simplify (typically generated) code
-  </content>
- </entry>
- <entry>
-  <title>iwilare: compiler-course-unipi</title>
-  <author>
-   <name>iwilare</name>
-  </author>
-  <link href="https://github.com/iwilare/compiler-course-unipi" />
-  <id>urn:rprimus:github:iwilare:compiler-course-unipi</id>
-  <published>2020-09-28T17:48:23Z</published>
-  <updated>2020-09-28T17:48:23Z</updated>
-  <content type="html">
-   Project and assignments for &quot;Languages, Interpreters and Compilers&quot; 2020/2021 course at UniPi
-  </content>
- </entry>
- <entry>
-  <title>acharya2021: CSC254Project3</title>
-  <author>
-   <name>acharya2021</name>
-  </author>
-  <link href="https://github.com/acharya2021/CSC254Project3" />
-  <id>urn:rprimus:github:acharya2021:CSC254Project3</id>
-  <published>2020-09-28T16:37:33Z</published>
-  <updated>2020-09-28T16:37:33Z</updated>
-  <content type="html">
-   Translation
-  </content>
- </entry>
- <entry>
-  <title>Hilda-chan: Perso</title>
-  <author>
-   <name>Hilda-chan</name>
-  </author>
-  <link href="https://github.com/Hilda-chan/Perso" />
-  <id>urn:rprimus:github:Hilda-chan:Perso</id>
-  <published>2020-09-28T15:42:41Z</published>
-  <updated>2020-09-28T15:42:41Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>CaptainFluffier: Chess</title>
-  <author>
-   <name>CaptainFluffier</name>
-  </author>
-  <link href="https://github.com/CaptainFluffier/Chess" />
-  <id>urn:rprimus:github:CaptainFluffier:Chess</id>
-  <published>2020-09-28T15:35:12Z</published>
-  <updated>2020-09-28T15:35:12Z</updated>
-  <content type="html">
-   in OCaml
-  </content>
- </entry>
- <entry>
-  <title>jdrprod: Algos</title>
-  <author>
-   <name>jdrprod</name>
-  </author>
-  <link href="https://github.com/jdrprod/Algos" />
-  <id>urn:rprimus:github:jdrprod:Algos</id>
-  <published>2020-09-28T14:44:22Z</published>
-  <updated>2020-09-28T14:44:22Z</updated>
-  <content type="html">
-   Some usefull algorithms implemented as a robust collection of modules for OCaml, C, Python and more
-  </content>
- </entry>
- <entry>
-  <title>Ninjapouet: sioc</title>
-  <author>
-   <name>Ninjapouet</name>
-  </author>
-  <link href="https://github.com/Ninjapouet/sioc" />
-  <id>urn:rprimus:github:Ninjapouet:sioc</id>
-  <published>2020-09-28T08:04:47Z</published>
-  <updated>2020-09-28T08:04:47Z</updated>
   <content type="html">
    
   </content>
