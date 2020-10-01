@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-scheme.atom"/>
 <id>urn:rprimus:github:newschemerepos</id>
-<updated>2020-09-29T20:08:04Z</updated>
+<updated>2020-09-30T07:27:40Z</updated>
 <title type='text'>New GitHub Scheme Repos</title>
+ <entry>
+  <title>JSSSILVY: Scheme-demo</title>
+  <author>
+   <name>JSSSILVY</name>
+  </author>
+  <link href="https://github.com/JSSSILVY/Scheme-demo" />
+  <id>urn:rprimus:github:JSSSILVY:Scheme-demo</id>
+  <published>2020-09-30T07:27:40Z</published>
+  <updated>2020-09-30T07:27:40Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>creachadair: schemetools</title>
   <author>
@@ -31,6 +44,19 @@
   </content>
  </entry>
  <entry>
+  <title>hayahayao: learning-sicp</title>
+  <author>
+   <name>hayahayao</name>
+  </author>
+  <link href="https://github.com/hayahayao/learning-sicp" />
+  <id>urn:rprimus:github:hayahayao:learning-sicp</id>
+  <published>2020-09-29T09:10:46Z</published>
+  <updated>2020-09-29T09:10:46Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
   <title>pre-srfi: number-string-unicode</title>
   <author>
    <name>pre-srfi</name>
@@ -41,32 +67,6 @@
   <updated>2020-09-29T05:48:56Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>arvyy: kawa-ssl-socket-example</title>
-  <author>
-   <name>arvyy</name>
-  </author>
-  <link href="https://github.com/arvyy/kawa-ssl-socket-example" />
-  <id>urn:rprimus:github:arvyy:kawa-ssl-socket-example</id>
-  <published>2020-09-28T21:31:02Z</published>
-  <updated>2020-09-28T21:31:02Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ramajd: guix-manifest</title>
-  <author>
-   <name>ramajd</name>
-  </author>
-  <link href="https://github.com/ramajd/guix-manifest" />
-  <id>urn:rprimus:github:ramajd:guix-manifest</id>
-  <published>2020-09-28T15:55:45Z</published>
-  <updated>2020-09-28T15:55:45Z</updated>
-  <content type="html">
-   test repository for guix build manifest
   </content>
  </entry>
 </feed>
