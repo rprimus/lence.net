@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2020-10-01T05:21:07Z</updated>
+<updated>2020-10-01T20:11:08Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>genelkim: lenulf</title>
+  <author>
+   <name>genelkim</name>
+  </author>
+  <link href="https://github.com/genelkim/lenulf" />
+  <id>urn:rprimus:github:genelkim:lenulf</id>
+  <published>2020-10-01T20:11:08Z</published>
+  <updated>2020-10-01T20:11:08Z</updated>
+  <content type="html">
+   Len&#039;s ULF parser that works via transduction from Treebank parses (esp. Brown corpus)
+  </content>
+ </entry>
  <entry>
   <title>antipodite: ps-utils</title>
   <author>
@@ -41,136 +54,6 @@
   <updated>2020-09-30T04:01:29Z</updated>
   <content type="html">
    Decision Trees
-  </content>
- </entry>
- <entry>
-  <title>creamy-seas: autolisp-toolkit</title>
-  <author>
-   <name>creamy-seas</name>
-  </author>
-  <link href="https://github.com/creamy-seas/autolisp-toolkit" />
-  <id>urn:rprimus:github:creamy-seas:autolisp-toolkit</id>
-  <published>2020-09-29T22:00:14Z</published>
-  <updated>2020-09-29T22:00:14Z</updated>
-  <content type="html">
-   Functions to ease pain of autocad
-  </content>
- </entry>
- <entry>
-  <title>clarissalittler: PoetryForms</title>
-  <author>
-   <name>clarissalittler</name>
-  </author>
-  <link href="https://github.com/clarissalittler/PoetryForms" />
-  <id>urn:rprimus:github:clarissalittler:PoetryForms</id>
-  <published>2020-09-29T21:15:42Z</published>
-  <updated>2020-09-29T21:15:42Z</updated>
-  <content type="html">
-   poetry shape procgen project
-  </content>
- </entry>
- <entry>
-  <title>MagicalRubberCrabOvaries: list-accumulator</title>
-  <author>
-   <name>MagicalRubberCrabOvaries</name>
-  </author>
-  <link href="https://github.com/MagicalRubberCrabOvaries/list-accumulator" />
-  <id>urn:rprimus:github:MagicalRubberCrabOvaries:list-accumulator</id>
-  <published>2020-09-29T19:58:36Z</published>
-  <updated>2020-09-29T19:58:36Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>dashukvita: Lisp_labs</title>
-  <author>
-   <name>dashukvita</name>
-  </author>
-  <link href="https://github.com/dashukvita/Lisp_labs" />
-  <id>urn:rprimus:github:dashukvita:Lisp_labs</id>
-  <published>2020-09-29T17:19:02Z</published>
-  <updated>2020-09-29T17:19:02Z</updated>
-  <content type="html">
-   Lisp labs
-  </content>
- </entry>
- <entry>
-  <title>return-anyway: dumps</title>
-  <author>
-   <name>return-anyway</name>
-  </author>
-  <link href="https://github.com/return-anyway/dumps" />
-  <id>urn:rprimus:github:return-anyway:dumps</id>
-  <published>2020-09-29T14:48:22Z</published>
-  <updated>2020-09-29T14:48:22Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>drlbs: startinglisp</title>
-  <author>
-   <name>drlbs</name>
-  </author>
-  <link href="https://github.com/drlbs/startinglisp" />
-  <id>urn:rprimus:github:drlbs:startinglisp</id>
-  <published>2020-09-29T13:06:37Z</published>
-  <updated>2020-09-29T13:06:37Z</updated>
-  <content type="html">
-   This is the First Example for LISP in CSC 330
-  </content>
- </entry>
- <entry>
-  <title>abeforgit: redti-reservations</title>
-  <author>
-   <name>abeforgit</name>
-  </author>
-  <link href="https://github.com/abeforgit/redti-reservations" />
-  <id>urn:rprimus:github:abeforgit:redti-reservations</id>
-  <published>2020-09-29T11:03:41Z</published>
-  <updated>2020-09-29T11:03:41Z</updated>
-  <content type="html">
-   Reservations microservice for REDTI material manager
-  </content>
- </entry>
- <entry>
-  <title>TilakChad: Patten_Matching</title>
-  <author>
-   <name>TilakChad</name>
-  </author>
-  <link href="https://github.com/TilakChad/Patten_Matching" />
-  <id>urn:rprimus:github:TilakChad:Patten_Matching</id>
-  <published>2020-09-29T10:28:04Z</published>
-  <updated>2020-09-29T10:28:04Z</updated>
-  <content type="html">
-   Pattern matching using Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>christophejunke: tilde-slash</title>
-  <author>
-   <name>christophejunke</name>
-  </author>
-  <link href="https://github.com/christophejunke/tilde-slash" />
-  <id>urn:rprimus:github:christophejunke:tilde-slash</id>
-  <published>2020-09-29T08:57:39Z</published>
-  <updated>2020-09-29T08:57:39Z</updated>
-  <content type="html">
-   Custom Common Lisp formatting functions
-  </content>
- </entry>
- <entry>
-  <title>hyotang666: trophy</title>
-  <author>
-   <name>hyotang666</name>
-  </author>
-  <link href="https://github.com/hyotang666/trophy" />
-  <id>urn:rprimus:github:hyotang666:trophy</id>
-  <published>2020-09-29T01:06:32Z</published>
-  <updated>2020-09-29T01:06:32Z</updated>
-  <content type="html">
-   Gamificated common lisp environment.
   </content>
  </entry>
 </feed>
