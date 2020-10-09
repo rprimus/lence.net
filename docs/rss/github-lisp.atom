@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2020-10-08T14:24:42Z</updated>
+<updated>2020-10-09T01:08:37Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>codewars: rove-codewars</title>
+  <author>
+   <name>codewars</name>
+  </author>
+  <link href="https://github.com/codewars/rove-codewars" />
+  <id>urn:rprimus:github:codewars:rove-codewars</id>
+  <published>2020-10-09T01:08:37Z</published>
+  <updated>2020-10-09T01:08:37Z</updated>
+  <content type="html">
+   Codewars reporter for rove
+  </content>
+ </entry>
+ <entry>
+  <title>Hexstream: enhanced-typep</title>
+  <author>
+   <name>Hexstream</name>
+  </author>
+  <link href="https://github.com/Hexstream/enhanced-typep" />
+  <id>urn:rprimus:github:Hexstream:enhanced-typep</id>
+  <published>2020-10-09T00:24:38Z</published>
+  <updated>2020-10-09T00:24:38Z</updated>
+  <content type="html">
+   Obsoletes all TYPEP thin wrappers.
+  </content>
+ </entry>
+ <entry>
+  <title>Luis97Lopez: Missioners-and-Cannibals-Search-Problem</title>
+  <author>
+   <name>Luis97Lopez</name>
+  </author>
+  <link href="https://github.com/Luis97Lopez/Missioners-and-Cannibals-Search-Problem" />
+  <id>urn:rprimus:github:Luis97Lopez:Missioners-and-Cannibals-Search-Problem</id>
+  <published>2020-10-08T23:38:38Z</published>
+  <updated>2020-10-08T23:38:38Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>IamGroooooot: for-code-space</title>
   <author>
@@ -67,32 +106,6 @@
   <updated>2020-10-08T00:14:00Z</updated>
   <content type="html">
    Algorithm that recives an array and from a initial state search the final state
-  </content>
- </entry>
- <entry>
-  <title>dwclark: profile-service</title>
-  <author>
-   <name>dwclark</name>
-  </author>
-  <link href="https://github.com/dwclark/profile-service" />
-  <id>urn:rprimus:github:dwclark:profile-service</id>
-  <published>2020-10-06T23:00:21Z</published>
-  <updated>2020-10-06T23:00:21Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Lucretia: learning_lisp</title>
-  <author>
-   <name>Lucretia</name>
-  </author>
-  <link href="https://github.com/Lucretia/learning_lisp" />
-  <id>urn:rprimus:github:Lucretia:learning_lisp</id>
-  <published>2020-10-06T14:38:08Z</published>
-  <updated>2020-10-06T14:38:08Z</updated>
-  <content type="html">
-   My attempt at learning Lisp
   </content>
  </entry>
 </feed>
