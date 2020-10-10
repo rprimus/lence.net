@@ -2,8 +2,112 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-erlang.atom"/>
 <id>urn:rprimus:github:newerlangrepos</id>
-<updated>2020-10-09T07:20:08Z</updated>
+<updated>2020-10-09T22:28:01Z</updated>
 <title type='text'>New GitHub Erlang Repos</title>
+ <entry>
+  <title>lrascao: rebar3_scuttler</title>
+  <author>
+   <name>lrascao</name>
+  </author>
+  <link href="https://github.com/lrascao/rebar3_scuttler" />
+  <id>urn:rprimus:github:lrascao:rebar3_scuttler</id>
+  <published>2020-10-09T22:28:01Z</published>
+  <updated>2020-10-09T22:28:01Z</updated>
+  <content type="html">
+   A cuttlefish rebar3 plugin
+  </content>
+ </entry>
+ <entry>
+  <title>paulo-ferraz-oliveira: otp_richcarl</title>
+  <author>
+   <name>paulo-ferraz-oliveira</name>
+  </author>
+  <link href="https://github.com/paulo-ferraz-oliveira/otp_richcarl" />
+  <id>urn:rprimus:github:paulo-ferraz-oliveira:otp_richcarl</id>
+  <published>2020-10-09T20:53:10Z</published>
+  <updated>2020-10-09T20:53:10Z</updated>
+  <content type="html">
+   Temporary fork of otp, from richcarl&#039;s fork of otp
+  </content>
+ </entry>
+ <entry>
+  <title>maurits-out: advent-of-code-2017</title>
+  <author>
+   <name>maurits-out</name>
+  </author>
+  <link href="https://github.com/maurits-out/advent-of-code-2017" />
+  <id>urn:rprimus:github:maurits-out:advent-of-code-2017</id>
+  <published>2020-10-09T19:16:22Z</published>
+  <updated>2020-10-09T19:16:22Z</updated>
+  <content type="html">
+   My solutions for Advent of Code 2017 written Erlang
+  </content>
+ </entry>
+ <entry>
+  <title>starbelly: feedhack</title>
+  <author>
+   <name>starbelly</name>
+  </author>
+  <link href="https://github.com/starbelly/feedhack" />
+  <id>urn:rprimus:github:starbelly:feedhack</id>
+  <published>2020-10-09T16:05:17Z</published>
+  <updated>2020-10-09T16:05:17Z</updated>
+  <content type="html">
+   An example OTP application
+  </content>
+ </entry>
+ <entry>
+  <title>kenetic-capital: rabbitmq-last-value-per-topic-queue</title>
+  <author>
+   <name>kenetic-capital</name>
+  </author>
+  <link href="https://github.com/kenetic-capital/rabbitmq-last-value-per-topic-queue" />
+  <id>urn:rprimus:github:kenetic-capital:rabbitmq-last-value-per-topic-queue</id>
+  <published>2020-10-09T13:21:05Z</published>
+  <updated>2020-10-09T13:21:05Z</updated>
+  <content type="html">
+   A plugin for RabbitMQ that enables creation of queues that only store and send the last received value per topic
+  </content>
+ </entry>
+ <entry>
+  <title>Hexopay: etest_http</title>
+  <author>
+   <name>Hexopay</name>
+  </author>
+  <link href="https://github.com/Hexopay/etest_http" />
+  <id>urn:rprimus:github:Hexopay:etest_http</id>
+  <published>2020-10-09T11:57:48Z</published>
+  <updated>2020-10-09T11:57:48Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Hexopay: unistring</title>
+  <author>
+   <name>Hexopay</name>
+  </author>
+  <link href="https://github.com/Hexopay/unistring" />
+  <id>urn:rprimus:github:Hexopay:unistring</id>
+  <published>2020-10-09T11:55:53Z</published>
+  <updated>2020-10-09T11:55:53Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>MaximCastornyi: Erlang-Elixir-Phoenix-OTPApp-with-Supervisor</title>
+  <author>
+   <name>MaximCastornyi</name>
+  </author>
+  <link href="https://github.com/MaximCastornyi/Erlang-Elixir-Phoenix-OTPApp-with-Supervisor" />
+  <id>urn:rprimus:github:MaximCastornyi:Erlang-Elixir-Phoenix-OTPApp-with-Supervisor</id>
+  <published>2020-10-09T10:43:54Z</published>
+  <updated>2020-10-09T10:43:54Z</updated>
+  <content type="html">
+   Pure Erlang OTP application with supervisor. 
+  </content>
+ </entry>
  <entry>
   <title>vinczedani: kaves_erl</title>
   <author>
@@ -28,19 +132,6 @@
   <updated>2020-10-09T06:48:59Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>msrdjan: mod_webhook</title>
-  <author>
-   <name>msrdjan</name>
-  </author>
-  <link href="https://github.com/msrdjan/mod_webhook" />
-  <id>urn:rprimus:github:msrdjan:mod_webhook</id>
-  <published>2020-10-09T05:40:46Z</published>
-  <updated>2020-10-09T05:40:46Z</updated>
-  <content type="html">
-   mod_webhook
   </content>
  </entry>
  <entry>
@@ -130,32 +221,6 @@
   <id>urn:rprimus:github:leonidas97:im-backend</id>
   <published>2020-10-08T00:45:23Z</published>
   <updated>2020-10-08T00:45:23Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>NeuroticCoyote: distributed-external</title>
-  <author>
-   <name>NeuroticCoyote</name>
-  </author>
-  <link href="https://github.com/NeuroticCoyote/distributed-external" />
-  <id>urn:rprimus:github:NeuroticCoyote:distributed-external</id>
-  <published>2020-10-07T13:53:51Z</published>
-  <updated>2020-10-07T13:53:51Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>NeuroticCoyote: distributed-core</title>
-  <author>
-   <name>NeuroticCoyote</name>
-  </author>
-  <link href="https://github.com/NeuroticCoyote/distributed-core" />
-  <id>urn:rprimus:github:NeuroticCoyote:distributed-core</id>
-  <published>2020-10-07T13:51:17Z</published>
-  <updated>2020-10-07T13:51:17Z</updated>
   <content type="html">
    
   </content>
