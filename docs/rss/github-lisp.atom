@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2020-10-11T04:27:04Z</updated>
+<updated>2020-10-12T01:36:57Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>gregors: lisp_tut</title>
+  <author>
+   <name>gregors</name>
+  </author>
+  <link href="https://github.com/gregors/lisp_tut" />
+  <id>urn:rprimus:github:gregors:lisp_tut</id>
+  <published>2020-10-12T01:36:57Z</published>
+  <updated>2020-10-12T01:36:57Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>szos: CIViCL</title>
+  <author>
+   <name>szos</name>
+  </author>
+  <link href="https://github.com/szos/CIViCL" />
+  <id>urn:rprimus:github:szos:CIViCL</id>
+  <published>2020-10-11T19:16:14Z</published>
+  <updated>2020-10-11T19:16:14Z</updated>
+  <content type="html">
+   CIV in CL
+  </content>
+ </entry>
+ <entry>
+  <title>Interlisp: envos</title>
+  <author>
+   <name>Interlisp</name>
+  </author>
+  <link href="https://github.com/Interlisp/envos" />
+  <id>urn:rprimus:github:Interlisp:envos</id>
+  <published>2020-10-11T18:59:53Z</published>
+  <updated>2020-10-11T18:59:53Z</updated>
+  <content type="html">
+   Repository for holding files migrated from 1993 Envos 
+  </content>
+ </entry>
+ <entry>
+  <title>Hobby4life: OpenTX-Soundpacks-EN---NL</title>
+  <author>
+   <name>Hobby4life</name>
+  </author>
+  <link href="https://github.com/Hobby4life/OpenTX-Soundpacks-EN---NL" />
+  <id>urn:rprimus:github:Hobby4life:OpenTX-Soundpacks-EN---NL</id>
+  <published>2020-10-11T13:02:00Z</published>
+  <updated>2020-10-11T13:02:00Z</updated>
+  <content type="html">
+   OpenTX TTS Automate EN &amp; NL Soundpacks
+  </content>
+ </entry>
+ <entry>
+  <title>tre-flip: game</title>
+  <author>
+   <name>tre-flip</name>
+  </author>
+  <link href="https://github.com/tre-flip/game" />
+  <id>urn:rprimus:github:tre-flip:game</id>
+  <published>2020-10-11T12:05:26Z</published>
+  <updated>2020-10-11T12:05:26Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>pbing: fibonacci</title>
+  <author>
+   <name>pbing</name>
+  </author>
+  <link href="https://github.com/pbing/fibonacci" />
+  <id>urn:rprimus:github:pbing:fibonacci</id>
+  <published>2020-10-11T09:19:19Z</published>
+  <updated>2020-10-11T09:19:19Z</updated>
+  <content type="html">
+    Compare algorithms for computing Fibonacci numbers in Common Lisp
+  </content>
+ </entry>
  <entry>
   <title>jg20019: genetic-algorithms</title>
   <author>
@@ -54,71 +132,6 @@
   <updated>2020-10-10T02:33:11Z</updated>
   <content type="html">
    A simple lisp compiler written in SBCL
-  </content>
- </entry>
- <entry>
-  <title>atgreen: stack2shift</title>
-  <author>
-   <name>atgreen</name>
-  </author>
-  <link href="https://github.com/atgreen/stack2shift" />
-  <id>urn:rprimus:github:atgreen:stack2shift</id>
-  <published>2020-10-09T19:31:16Z</published>
-  <updated>2020-10-09T19:31:16Z</updated>
-  <content type="html">
-   Proof-of-concept OpenStack to OpenShift migration tool
-  </content>
- </entry>
- <entry>
-  <title>equetzal: artificialIntelligence</title>
-  <author>
-   <name>equetzal</name>
-  </author>
-  <link href="https://github.com/equetzal/artificialIntelligence" />
-  <id>urn:rprimus:github:equetzal:artificialIntelligence</id>
-  <published>2020-10-09T19:01:31Z</published>
-  <updated>2020-10-09T19:01:31Z</updated>
-  <content type="html">
-   CIC-IPN course of Introduction to the Artificial Intellinge
-  </content>
- </entry>
- <entry>
-  <title>ciel-lang: CIEL</title>
-  <author>
-   <name>ciel-lang</name>
-  </author>
-  <link href="https://github.com/ciel-lang/CIEL" />
-  <id>urn:rprimus:github:ciel-lang:CIEL</id>
-  <published>2020-10-09T12:41:32Z</published>
-  <updated>2020-10-09T12:41:32Z</updated>
-  <content type="html">
-   CIEL Is an Extended Lisp
-  </content>
- </entry>
- <entry>
-  <title>codewars: rove-codewars</title>
-  <author>
-   <name>codewars</name>
-  </author>
-  <link href="https://github.com/codewars/rove-codewars" />
-  <id>urn:rprimus:github:codewars:rove-codewars</id>
-  <published>2020-10-09T01:08:37Z</published>
-  <updated>2020-10-09T01:08:37Z</updated>
-  <content type="html">
-   Codewars reporter for rove
-  </content>
- </entry>
- <entry>
-  <title>Hexstream: enhanced-typep</title>
-  <author>
-   <name>Hexstream</name>
-  </author>
-  <link href="https://github.com/Hexstream/enhanced-typep" />
-  <id>urn:rprimus:github:Hexstream:enhanced-typep</id>
-  <published>2020-10-09T00:24:38Z</published>
-  <updated>2020-10-09T00:24:38Z</updated>
-  <content type="html">
-   Obsoletes all TYPEP thin wrappers.
   </content>
  </entry>
 </feed>
