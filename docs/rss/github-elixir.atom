@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-elixir.atom"/>
 <id>urn:rprimus:github:newelixirrepos</id>
-<updated>2020-10-21T06:14:02Z</updated>
+<updated>2020-10-21T11:24:11Z</updated>
 <title type='text'>New GitHub Elixir Repos</title>
+ <entry>
+  <title>BazingaZeta: elixir-react</title>
+  <author>
+   <name>BazingaZeta</name>
+  </author>
+  <link href="https://github.com/BazingaZeta/elixir-react" />
+  <id>urn:rprimus:github:BazingaZeta:elixir-react</id>
+  <published>2020-10-21T11:24:11Z</published>
+  <updated>2020-10-21T11:24:11Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>leductam: live_layout</title>
+  <author>
+   <name>leductam</name>
+  </author>
+  <link href="https://github.com/leductam/live_layout" />
+  <id>urn:rprimus:github:leductam:live_layout</id>
+  <published>2020-10-21T10:28:49Z</published>
+  <updated>2020-10-21T10:28:49Z</updated>
+  <content type="html">
+   Phoenix LiveView Layout
+  </content>
+ </entry>
+ <entry>
+  <title>gutschilla: elixir-genserver-demo</title>
+  <author>
+   <name>gutschilla</name>
+  </author>
+  <link href="https://github.com/gutschilla/elixir-genserver-demo" />
+  <id>urn:rprimus:github:gutschilla:elixir-genserver-demo</id>
+  <published>2020-10-21T10:09:01Z</published>
+  <updated>2020-10-21T10:09:01Z</updated>
+  <content type="html">
+   A demo of some basic Elixir GenServer implementation. Used to demo :observer for process inspection and tracing
+  </content>
+ </entry>
+ <entry>
+  <title>KouroshAlinaghi: naeem</title>
+  <author>
+   <name>KouroshAlinaghi</name>
+  </author>
+  <link href="https://github.com/KouroshAlinaghi/naeem" />
+  <id>urn:rprimus:github:KouroshAlinaghi:naeem</id>
+  <published>2020-10-21T09:13:44Z</published>
+  <updated>2020-10-21T09:13:44Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>hieuphq: dbmodel-ex</title>
+  <author>
+   <name>hieuphq</name>
+  </author>
+  <link href="https://github.com/hieuphq/dbmodel-ex" />
+  <id>urn:rprimus:github:hieuphq:dbmodel-ex</id>
+  <published>2020-10-21T08:58:14Z</published>
+  <updated>2020-10-21T08:58:14Z</updated>
+  <content type="html">
+   generate ecto schema from db structure
+  </content>
+ </entry>
+ <entry>
+  <title>kuunamaka: PhoenixLiveview</title>
+  <author>
+   <name>kuunamaka</name>
+  </author>
+  <link href="https://github.com/kuunamaka/PhoenixLiveview" />
+  <id>urn:rprimus:github:kuunamaka:PhoenixLiveview</id>
+  <published>2020-10-21T07:27:01Z</published>
+  <updated>2020-10-21T07:27:01Z</updated>
+  <content type="html">
+   https://www.youtube.com/watch?v=MZvmYaFkNJI
+  </content>
+ </entry>
  <entry>
   <title>cjfreeze: filey</title>
   <author>
@@ -522,396 +600,6 @@
   <updated>2020-10-20T00:12:12Z</updated>
   <content type="html">
    (WIP) Interval-bucketizing map for Elixir
-  </content>
- </entry>
- <entry>
-  <title>chassisframework: two_phase_commit</title>
-  <author>
-   <name>chassisframework</name>
-  </author>
-  <link href="https://github.com/chassisframework/two_phase_commit" />
-  <id>urn:rprimus:github:chassisframework:two_phase_commit</id>
-  <published>2020-10-19T23:39:46Z</published>
-  <updated>2020-10-19T23:39:46Z</updated>
-  <content type="html">
-   (WIP) Two Phase Commit state machine for Elixir
-  </content>
- </entry>
- <entry>
-  <title>hackvan: servy</title>
-  <author>
-   <name>hackvan</name>
-  </author>
-  <link href="https://github.com/hackvan/servy" />
-  <id>urn:rprimus:github:hackvan:servy</id>
-  <published>2020-10-19T23:38:36Z</published>
-  <updated>2020-10-19T23:38:36Z</updated>
-  <content type="html">
-   A simple web server build with Elixir.
-  </content>
- </entry>
- <entry>
-  <title>wangfaureli: API_pool_1</title>
-  <author>
-   <name>wangfaureli</name>
-  </author>
-  <link href="https://github.com/wangfaureli/API_pool_1" />
-  <id>urn:rprimus:github:wangfaureli:API_pool_1</id>
-  <published>2020-10-19T22:01:20Z</published>
-  <updated>2020-10-19T22:01:20Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>sax: issue-cases</title>
-  <author>
-   <name>sax</name>
-  </author>
-  <link href="https://github.com/sax/issue-cases" />
-  <id>urn:rprimus:github:sax:issue-cases</id>
-  <published>2020-10-19T21:36:23Z</published>
-  <updated>2020-10-19T21:36:23Z</updated>
-  <content type="html">
-   Example cases demonstrating issues
-  </content>
- </entry>
- <entry>
-  <title>Vinny1892: gestao-alunos-api</title>
-  <author>
-   <name>Vinny1892</name>
-  </author>
-  <link href="https://github.com/Vinny1892/gestao-alunos-api" />
-  <id>urn:rprimus:github:Vinny1892:gestao-alunos-api</id>
-  <published>2020-10-19T21:31:58Z</published>
-  <updated>2020-10-19T21:31:58Z</updated>
-  <content type="html">
-   atividade  de tecnicas avanÃ§adas de desenvolvimento de software  aonde a  serÃ¡ feita uma API de gestÃ£o de alunos de uma disciplina
-  </content>
- </entry>
- <entry>
-  <title>cuococarlos: phoenix-chat</title>
-  <author>
-   <name>cuococarlos</name>
-  </author>
-  <link href="https://github.com/cuococarlos/phoenix-chat" />
-  <id>urn:rprimus:github:cuococarlos:phoenix-chat</id>
-  <published>2020-10-19T20:27:14Z</published>
-  <updated>2020-10-19T20:27:14Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Euen: poeticoins</title>
-  <author>
-   <name>Euen</name>
-  </author>
-  <link href="https://github.com/Euen/poeticoins" />
-  <id>urn:rprimus:github:Euen:poeticoins</id>
-  <published>2020-10-19T20:17:41Z</published>
-  <updated>2020-10-19T20:17:41Z</updated>
-  <content type="html">
-   Cryptocurrency Dashboard
-  </content>
- </entry>
- <entry>
-  <title>lastobelus: elixir-guide-kv</title>
-  <author>
-   <name>lastobelus</name>
-  </author>
-  <link href="https://github.com/lastobelus/elixir-guide-kv" />
-  <id>urn:rprimus:github:lastobelus:elixir-guide-kv</id>
-  <published>2020-10-19T17:46:34Z</published>
-  <updated>2020-10-19T17:46:34Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Pivil: elixirProject</title>
-  <author>
-   <name>Pivil</name>
-  </author>
-  <link href="https://github.com/Pivil/elixirProject" />
-  <id>urn:rprimus:github:Pivil:elixirProject</id>
-  <published>2020-10-19T17:12:04Z</published>
-  <updated>2020-10-19T17:12:04Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>philippe-nougaillon: auction_web</title>
-  <author>
-   <name>philippe-nougaillon</name>
-  </author>
-  <link href="https://github.com/philippe-nougaillon/auction_web" />
-  <id>urn:rprimus:github:philippe-nougaillon:auction_web</id>
-  <published>2020-10-19T16:37:12Z</published>
-  <updated>2020-10-19T16:37:12Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>theguuholi: doctor_schedule</title>
-  <author>
-   <name>theguuholi</name>
-  </author>
-  <link href="https://github.com/theguuholi/doctor_schedule" />
-  <id>urn:rprimus:github:theguuholi:doctor_schedule</id>
-  <published>2020-10-19T16:32:30Z</published>
-  <updated>2020-10-19T16:32:30Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>css13c: exercism</title>
-  <author>
-   <name>css13c</name>
-  </author>
-  <link href="https://github.com/css13c/exercism" />
-  <id>urn:rprimus:github:css13c:exercism</id>
-  <published>2020-10-19T16:22:49Z</published>
-  <updated>2020-10-19T16:22:49Z</updated>
-  <content type="html">
-   Exercism track solutions
-  </content>
- </entry>
- <entry>
-  <title>dachshu: FunctionalProgrammingTest</title>
-  <author>
-   <name>dachshu</name>
-  </author>
-  <link href="https://github.com/dachshu/FunctionalProgrammingTest" />
-  <id>urn:rprimus:github:dachshu:FunctionalProgrammingTest</id>
-  <published>2020-10-19T15:36:42Z</published>
-  <updated>2020-10-19T15:36:42Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jk-gan: absinthe-dataloader-demo</title>
-  <author>
-   <name>jk-gan</name>
-  </author>
-  <link href="https://github.com/jk-gan/absinthe-dataloader-demo" />
-  <id>urn:rprimus:github:jk-gan:absinthe-dataloader-demo</id>
-  <published>2020-10-19T15:10:42Z</published>
-  <updated>2020-10-19T15:10:42Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>omnifroodle: cascos</title>
-  <author>
-   <name>omnifroodle</name>
-  </author>
-  <link href="https://github.com/omnifroodle/cascos" />
-  <id>urn:rprimus:github:omnifroodle:cascos</id>
-  <published>2020-10-19T14:50:02Z</published>
-  <updated>2020-10-19T14:50:02Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>caiaffa: project_management</title>
-  <author>
-   <name>caiaffa</name>
-  </author>
-  <link href="https://github.com/caiaffa/project_management" />
-  <id>urn:rprimus:github:caiaffa:project_management</id>
-  <published>2020-10-19T14:21:42Z</published>
-  <updated>2020-10-19T14:21:42Z</updated>
-  <content type="html">
-   Build a JSON API with Elixir / Phoenix
-  </content>
- </entry>
- <entry>
-  <title>leolanger: elixir-playground</title>
-  <author>
-   <name>leolanger</name>
-  </author>
-  <link href="https://github.com/leolanger/elixir-playground" />
-  <id>urn:rprimus:github:leolanger:elixir-playground</id>
-  <published>2020-10-19T12:17:41Z</published>
-  <updated>2020-10-19T12:17:41Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>danutchindris: romanian_airports</title>
-  <author>
-   <name>danutchindris</name>
-  </author>
-  <link href="https://github.com/danutchindris/romanian_airports" />
-  <id>urn:rprimus:github:danutchindris:romanian_airports</id>
-  <published>2020-10-19T09:38:04Z</published>
-  <updated>2020-10-19T09:38:04Z</updated>
-  <content type="html">
-   Demo project for my workshop at PeakIT 003 (Real-time user experiences with Elixir and Phoenix LiveView)
-  </content>
- </entry>
- <entry>
-  <title>danfilip: elixir_job_service</title>
-  <author>
-   <name>danfilip</name>
-  </author>
-  <link href="https://github.com/danfilip/elixir_job_service" />
-  <id>urn:rprimus:github:danfilip:elixir_job_service</id>
-  <published>2020-10-19T09:25:34Z</published>
-  <updated>2020-10-19T09:25:34Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>zerlas: epitech-TimeManager-api</title>
-  <author>
-   <name>zerlas</name>
-  </author>
-  <link href="https://github.com/zerlas/epitech-TimeManager-api" />
-  <id>urn:rprimus:github:zerlas:epitech-TimeManager-api</id>
-  <published>2020-10-19T09:21:17Z</published>
-  <updated>2020-10-19T09:21:17Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Tifainel: TimeManager-project1</title>
-  <author>
-   <name>Tifainel</name>
-  </author>
-  <link href="https://github.com/Tifainel/TimeManager-project1" />
-  <id>urn:rprimus:github:Tifainel:TimeManager-project1</id>
-  <published>2020-10-19T09:14:43Z</published>
-  <updated>2020-10-19T09:14:43Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>andrei-serguienko: TimeManager</title>
-  <author>
-   <name>andrei-serguienko</name>
-  </author>
-  <link href="https://github.com/andrei-serguienko/TimeManager" />
-  <id>urn:rprimus:github:andrei-serguienko:TimeManager</id>
-  <published>2020-10-19T09:12:45Z</published>
-  <updated>2020-10-19T09:12:45Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>sanposhiho: nippol-server</title>
-  <author>
-   <name>sanposhiho</name>
-  </author>
-  <link href="https://github.com/sanposhiho/nippol-server" />
-  <id>urn:rprimus:github:sanposhiho:nippol-server</id>
-  <published>2020-10-19T09:00:34Z</published>
-  <updated>2020-10-19T09:00:34Z</updated>
-  <content type="html">
-   æ¥å ±ãçæããã¢ããªãNIPPOLããµã¼ãã¼ãµã¤ã
-  </content>
- </entry>
- <entry>
-  <title>lawik: supervisor_sample</title>
-  <author>
-   <name>lawik</name>
-  </author>
-  <link href="https://github.com/lawik/supervisor_sample" />
-  <id>urn:rprimus:github:lawik:supervisor_sample</id>
-  <published>2020-10-19T08:55:09Z</published>
-  <updated>2020-10-19T08:55:09Z</updated>
-  <content type="html">
-   Supervision tree example in Elixir
-  </content>
- </entry>
- <entry>
-  <title>cocoaway: udp_elix_server</title>
-  <author>
-   <name>cocoaway</name>
-  </author>
-  <link href="https://github.com/cocoaway/udp_elix_server" />
-  <id>urn:rprimus:github:cocoaway:udp_elix_server</id>
-  <published>2020-10-19T07:14:37Z</published>
-  <updated>2020-10-19T07:14:37Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>metaretro: metaboard</title>
-  <author>
-   <name>metaretro</name>
-  </author>
-  <link href="https://github.com/metaretro/metaboard" />
-  <id>urn:rprimus:github:metaretro:metaboard</id>
-  <published>2020-10-19T06:59:12Z</published>
-  <updated>2020-10-19T06:59:12Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ex-aws: ex_aws_timestream</title>
-  <author>
-   <name>ex-aws</name>
-  </author>
-  <link href="https://github.com/ex-aws/ex_aws_timestream" />
-  <id>urn:rprimus:github:ex-aws:ex_aws_timestream</id>
-  <published>2020-10-19T06:37:20Z</published>
-  <updated>2020-10-19T06:37:20Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>henriqueberlesi: elixir_json_to_csv</title>
-  <author>
-   <name>henriqueberlesi</name>
-  </author>
-  <link href="https://github.com/henriqueberlesi/elixir_json_to_csv" />
-  <id>urn:rprimus:github:henriqueberlesi:elixir_json_to_csv</id>
-  <published>2020-10-19T04:24:23Z</published>
-  <updated>2020-10-19T04:24:23Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>tristanperalta: warpgate</title>
-  <author>
-   <name>tristanperalta</name>
-  </author>
-  <link href="https://github.com/tristanperalta/warpgate" />
-  <id>urn:rprimus:github:tristanperalta:warpgate</id>
-  <published>2020-10-19T03:59:31Z</published>
-  <updated>2020-10-19T03:59:31Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ZeeShuaybi: shuaybi</title>
-  <author>
-   <name>ZeeShuaybi</name>
-  </author>
-  <link href="https://github.com/ZeeShuaybi/shuaybi" />
-  <id>urn:rprimus:github:ZeeShuaybi:shuaybi</id>
-  <published>2020-10-19T03:17:44Z</published>
-  <updated>2020-10-19T03:17:44Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
