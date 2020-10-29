@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2020-10-29T02:27:11Z</updated>
+<updated>2020-10-29T09:25:47Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>pankajgodbole: emacs-configs</title>
+  <author>
+   <name>pankajgodbole</name>
+  </author>
+  <link href="https://github.com/pankajgodbole/emacs-configs" />
+  <id>urn:rprimus:github:pankajgodbole:emacs-configs</id>
+  <published>2020-10-29T09:25:47Z</published>
+  <updated>2020-10-29T09:25:47Z</updated>
+  <content type="html">
+   Configuration files for my local Emacs installation
+  </content>
+ </entry>
  <entry>
   <title>gianmh: emacs</title>
   <author>
@@ -132,6 +145,19 @@
   <updated>2020-10-28T19:04:44Z</updated>
   <content type="html">
    This is a repo hosting my personnal configuration for Emacs. 
+  </content>
+ </entry>
+ <entry>
+  <title>xuchunyang: elisp-docstring-server.el</title>
+  <author>
+   <name>xuchunyang</name>
+  </author>
+  <link href="https://github.com/xuchunyang/elisp-docstring-server.el" />
+  <id>urn:rprimus:github:xuchunyang:elisp-docstring-server.el</id>
+  <published>2020-10-28T17:03:53Z</published>
+  <updated>2020-10-28T17:03:53Z</updated>
+  <content type="html">
+   An HTTP server for Emacs Lisp Docstring
   </content>
  </entry>
  <entry>
