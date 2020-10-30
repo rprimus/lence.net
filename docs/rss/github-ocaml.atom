@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2020-10-29T04:11:55Z</updated>
+<updated>2020-10-29T20:20:40Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>sammerat: lolkitty</title>
+  <author>
+   <name>sammerat</name>
+  </author>
+  <link href="https://github.com/sammerat/lolkitty" />
+  <id>urn:rprimus:github:sammerat:lolkitty</id>
+  <published>2020-10-29T20:20:40Z</published>
+  <updated>2020-10-29T20:20:40Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>jonsterling: effectful-typesetting</title>
+  <author>
+   <name>jonsterling</name>
+  </author>
+  <link href="https://github.com/jonsterling/effectful-typesetting" />
+  <id>urn:rprimus:github:jonsterling:effectful-typesetting</id>
+  <published>2020-10-29T18:03:16Z</published>
+  <updated>2020-10-29T18:03:16Z</updated>
+  <content type="html">
+   A case-study in effects-and-handlers for bubbling out configurations from the interior of programs that typeset text.
+  </content>
+ </entry>
+ <entry>
+  <title>hyphenrf: pythagoras</title>
+  <author>
+   <name>hyphenrf</name>
+  </author>
+  <link href="https://github.com/hyphenrf/pythagoras" />
+  <id>urn:rprimus:github:hyphenrf:pythagoras</id>
+  <published>2020-10-29T12:41:05Z</published>
+  <updated>2020-10-29T12:41:05Z</updated>
+  <content type="html">
+   exploring different approaches and datastructures for solving the pythagorian triples with list comprehension
+  </content>
+ </entry>
+ <entry>
+  <title>hannesm: memtrace-mirage</title>
+  <author>
+   <name>hannesm</name>
+  </author>
+  <link href="https://github.com/hannesm/memtrace-mirage" />
+  <id>urn:rprimus:github:hannesm:memtrace-mirage</id>
+  <published>2020-10-29T10:53:32Z</published>
+  <updated>2020-10-29T10:53:32Z</updated>
+  <content type="html">
+   Memtrace library for MirageOS
+  </content>
+ </entry>
+ <entry>
+  <title>patricoferris: jsoo-p5</title>
+  <author>
+   <name>patricoferris</name>
+  </author>
+  <link href="https://github.com/patricoferris/jsoo-p5" />
+  <id>urn:rprimus:github:patricoferris:jsoo-p5</id>
+  <published>2020-10-29T08:52:04Z</published>
+  <updated>2020-10-29T08:52:04Z</updated>
+  <content type="html">
+   Js_of_ocaml bindings for the p5.js library
+  </content>
+ </entry>
  <entry>
   <title>aarunishsinha: Pre-terms</title>
   <author>
@@ -18,19 +83,6 @@
   </content>
  </entry>
  <entry>
-  <title>blaquez: merge-fmt</title>
-  <author>
-   <name>blaquez</name>
-  </author>
-  <link href="https://github.com/blaquez/merge-fmt" />
-  <id>urn:rprimus:github:blaquez:merge-fmt</id>
-  <published>2020-10-29T02:14:30Z</published>
-  <updated>2020-10-29T02:14:30Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
   <title>sebferre: sparklis</title>
   <author>
    <name>sebferre</name>
@@ -41,19 +93,6 @@
   <updated>2020-10-28T14:05:30Z</updated>
   <content type="html">
    Sparklis is a query builder in natural language that allows people to explore and query SPARQL endpoints with all the power of SPARQL and without any knowledge of SPARQL.
-  </content>
- </entry>
- <entry>
-  <title>blaquez: bitmasks</title>
-  <author>
-   <name>blaquez</name>
-  </author>
-  <link href="https://github.com/blaquez/bitmasks" />
-  <id>urn:rprimus:github:blaquez:bitmasks</id>
-  <published>2020-10-28T13:45:56Z</published>
-  <updated>2020-10-28T13:45:56Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
  <entry>
@@ -93,149 +132,6 @@
   <updated>2020-10-28T01:06:00Z</updated>
   <content type="html">
    A command line chess in ocaml
-  </content>
- </entry>
- <entry>
-  <title>camlp5: pa_ppx_ag</title>
-  <author>
-   <name>camlp5</name>
-  </author>
-  <link href="https://github.com/camlp5/pa_ppx_ag" />
-  <id>urn:rprimus:github:camlp5:pa_ppx_ag</id>
-  <published>2020-10-27T23:18:05Z</published>
-  <updated>2020-10-27T23:18:05Z</updated>
-  <content type="html">
-   A PPX Rewriter to Generate Attribute Grammar Evaulators
-  </content>
- </entry>
- <entry>
-  <title>ItacosI: M1-Compilation</title>
-  <author>
-   <name>ItacosI</name>
-  </author>
-  <link href="https://github.com/ItacosI/M1-Compilation" />
-  <id>urn:rprimus:github:ItacosI:M1-Compilation</id>
-  <published>2020-10-27T22:55:43Z</published>
-  <updated>2020-10-27T22:55:43Z</updated>
-  <content type="html">
-   Paris-Saclay University M1 Computer Science Work for the course &quot;Compilation&quot; provided by Professor Thibaut Balabonski
-  </content>
- </entry>
- <entry>
-  <title>blaquez: tlapm</title>
-  <author>
-   <name>blaquez</name>
-  </author>
-  <link href="https://github.com/blaquez/tlapm" />
-  <id>urn:rprimus:github:blaquez:tlapm</id>
-  <published>2020-10-27T17:29:33Z</published>
-  <updated>2020-10-27T17:29:33Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>samoht: vendors-test</title>
-  <author>
-   <name>samoht</name>
-  </author>
-  <link href="https://github.com/samoht/vendors-test" />
-  <id>urn:rprimus:github:samoht:vendors-test</id>
-  <published>2020-10-27T15:37:54Z</published>
-  <updated>2020-10-27T15:37:54Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>bpmf24: Compiler-Principles-2020-Fall</title>
-  <author>
-   <name>bpmf24</name>
-  </author>
-  <link href="https://github.com/bpmf24/Compiler-Principles-2020-Fall" />
-  <id>urn:rprimus:github:bpmf24:Compiler-Principles-2020-Fall</id>
-  <published>2020-10-27T11:51:47Z</published>
-  <updated>2020-10-27T11:51:47Z</updated>
-  <content type="html">
-   Implementation of a Chez Scheme using Ocaml and xv86 assembly compiler, and all of the stages required to build it.
-  </content>
- </entry>
- <entry>
-  <title>CraigFe: semaphore-compat</title>
-  <author>
-   <name>CraigFe</name>
-  </author>
-  <link href="https://github.com/CraigFe/semaphore-compat" />
-  <id>urn:rprimus:github:CraigFe:semaphore-compat</id>
-  <published>2020-10-27T11:00:41Z</published>
-  <updated>2020-10-27T11:00:41Z</updated>
-  <content type="html">
-   Compatibility Semaphore module for OCaml.
-  </content>
- </entry>
- <entry>
-  <title>saharvaya: ChezScheme-Compiler</title>
-  <author>
-   <name>saharvaya</name>
-  </author>
-  <link href="https://github.com/saharvaya/ChezScheme-Compiler" />
-  <id>urn:rprimus:github:saharvaya:ChezScheme-Compiler</id>
-  <published>2020-10-27T10:46:24Z</published>
-  <updated>2020-10-27T10:46:24Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ryanluk4: todolist</title>
-  <author>
-   <name>ryanluk4</name>
-  </author>
-  <link href="https://github.com/ryanluk4/todolist" />
-  <id>urn:rprimus:github:ryanluk4:todolist</id>
-  <published>2020-10-27T08:37:49Z</published>
-  <updated>2020-10-27T08:37:49Z</updated>
-  <content type="html">
-   To-do list in OCaml connecting to PostgreSQL.
-  </content>
- </entry>
- <entry>
-  <title>JonathanDLTran: Lambda-Calculus-Interpreter</title>
-  <author>
-   <name>JonathanDLTran</name>
-  </author>
-  <link href="https://github.com/JonathanDLTran/Lambda-Calculus-Interpreter" />
-  <id>urn:rprimus:github:JonathanDLTran:Lambda-Calculus-Interpreter</id>
-  <published>2020-10-27T05:43:40Z</published>
-  <updated>2020-10-27T05:43:40Z</updated>
-  <content type="html">
-   Lambda Calculus Intepreter, an application of CS 4110 studies
-  </content>
- </entry>
- <entry>
-  <title>Cutii: ocaml-frogger</title>
-  <author>
-   <name>Cutii</name>
-  </author>
-  <link href="https://github.com/Cutii/ocaml-frogger" />
-  <id>urn:rprimus:github:Cutii:ocaml-frogger</id>
-  <published>2020-10-27T01:42:09Z</published>
-  <updated>2020-10-27T01:42:09Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>zajer: trs-policy-demo</title>
-  <author>
-   <name>zajer</name>
-  </author>
-  <link href="https://github.com/zajer/trs-policy-demo" />
-  <id>urn:rprimus:github:zajer:trs-policy-demo</id>
-  <published>2020-10-27T01:15:17Z</published>
-  <updated>2020-10-27T01:15:17Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>

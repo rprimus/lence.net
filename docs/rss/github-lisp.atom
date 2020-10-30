@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2020-10-29T08:50:36Z</updated>
+<updated>2020-10-29T23:52:53Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>wjbeshore: lisp_practice</title>
+  <author>
+   <name>wjbeshore</name>
+  </author>
+  <link href="https://github.com/wjbeshore/lisp_practice" />
+  <id>urn:rprimus:github:wjbeshore:lisp_practice</id>
+  <published>2020-10-29T23:52:53Z</published>
+  <updated>2020-10-29T23:52:53Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>dbmcclain: Lisp-Actors</title>
+  <author>
+   <name>dbmcclain</name>
+  </author>
+  <link href="https://github.com/dbmcclain/Lisp-Actors" />
+  <id>urn:rprimus:github:dbmcclain:Lisp-Actors</id>
+  <published>2020-10-29T16:51:27Z</published>
+  <updated>2020-10-29T16:51:27Z</updated>
+  <content type="html">
+   Thread-agnostic Actors in Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>armontoubman: btc-price-tracker</title>
+  <author>
+   <name>armontoubman</name>
+  </author>
+  <link href="https://github.com/armontoubman/btc-price-tracker" />
+  <id>urn:rprimus:github:armontoubman:btc-price-tracker</id>
+  <published>2020-10-29T15:37:36Z</published>
+  <updated>2020-10-29T15:37:36Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>ebzzry: vee</title>
+  <author>
+   <name>ebzzry</name>
+  </author>
+  <link href="https://github.com/ebzzry/vee" />
+  <id>urn:rprimus:github:ebzzry:vee</id>
+  <published>2020-10-29T11:51:54Z</published>
+  <updated>2020-10-29T11:51:54Z</updated>
+  <content type="html">
+   An experimental platform for analysis and discovery.
+  </content>
+ </entry>
  <entry>
   <title>serraalec: Tree</title>
   <author>
@@ -158,84 +210,6 @@
   <updated>2020-10-28T06:15:45Z</updated>
   <content type="html">
    Heuristics-based machine learning algorithm that plays the board game Marrakesh
-  </content>
- </entry>
- <entry>
-  <title>Dz0526: bf-lisp</title>
-  <author>
-   <name>Dz0526</name>
-  </author>
-  <link href="https://github.com/Dz0526/bf-lisp" />
-  <id>urn:rprimus:github:Dz0526:bf-lisp</id>
-  <published>2020-10-27T15:41:52Z</published>
-  <updated>2020-10-27T15:41:52Z</updated>
-  <content type="html">
-   Brainf**ck interpreter with Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>philip-h: tic-tac-toe</title>
-  <author>
-   <name>philip-h</name>
-  </author>
-  <link href="https://github.com/philip-h/tic-tac-toe" />
-  <id>urn:rprimus:github:philip-h:tic-tac-toe</id>
-  <published>2020-10-27T14:43:40Z</published>
-  <updated>2020-10-27T14:43:40Z</updated>
-  <content type="html">
-   A tic tac toe console game written in Common Lisp (SBCL) in a mostly-functional style.
-  </content>
- </entry>
- <entry>
-  <title>xdvom03: klaus</title>
-  <author>
-   <name>xdvom03</name>
-  </author>
-  <link href="https://github.com/xdvom03/klaus" />
-  <id>urn:rprimus:github:xdvom03:klaus</id>
-  <published>2020-10-27T10:40:56Z</published>
-  <updated>2020-10-27T10:40:56Z</updated>
-  <content type="html">
-   Bayesian text classification of websites in a nested class system
-  </content>
- </entry>
- <entry>
-  <title>yannics: MDS</title>
-  <author>
-   <name>yannics</name>
-  </author>
-  <link href="https://github.com/yannics/MDS" />
-  <id>urn:rprimus:github:yannics:MDS</id>
-  <published>2020-10-27T04:29:59Z</published>
-  <updated>2020-10-27T04:29:59Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>serraalec: life</title>
-  <author>
-   <name>serraalec</name>
-  </author>
-  <link href="https://github.com/serraalec/life" />
-  <id>urn:rprimus:github:serraalec:life</id>
-  <published>2020-10-27T04:12:22Z</published>
-  <updated>2020-10-27T04:12:22Z</updated>
-  <content type="html">
-   life in c-lisp (not hash-life... yet)
-  </content>
- </entry>
- <entry>
-  <title>serraalec: Euler-s-Totient-function</title>
-  <author>
-   <name>serraalec</name>
-  </author>
-  <link href="https://github.com/serraalec/Euler-s-Totient-function" />
-  <id>urn:rprimus:github:serraalec:Euler-s-Totient-function</id>
-  <published>2020-10-27T03:05:07Z</published>
-  <updated>2020-10-27T03:05:07Z</updated>
-  <content type="html">
-   My first lisp program.  It calculates Euler&#039;s Totient function.
   </content>
  </entry>
 </feed>
