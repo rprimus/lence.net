@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2020-11-03T05:20:09Z</updated>
+<updated>2020-11-03T05:51:08Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>MissTailz: minimax-tic-tac-toe</title>
+  <author>
+   <name>MissTailz</name>
+  </author>
+  <link href="https://github.com/MissTailz/minimax-tic-tac-toe" />
+  <id>urn:rprimus:github:MissTailz:minimax-tic-tac-toe</id>
+  <published>2020-11-03T05:51:08Z</published>
+  <updated>2020-11-03T05:51:08Z</updated>
+  <content type="html">
+   Basic minimax algorithm for the classic tic tac toe game using lisp.
+  </content>
+ </entry>
  <entry>
   <title>awallace689: PracticalCommonLisp</title>
   <author>
