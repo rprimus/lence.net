@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2020-11-05T10:41:02Z</updated>
+<updated>2020-11-05T22:32:01Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>arafel: land-of-lisp</title>
+  <author>
+   <name>arafel</name>
+  </author>
+  <link href="https://github.com/arafel/land-of-lisp" />
+  <id>urn:rprimus:github:arafel:land-of-lisp</id>
+  <published>2020-11-05T22:32:01Z</published>
+  <updated>2020-11-05T22:32:01Z</updated>
+  <content type="html">
+   Exercises and stuff from the Land of Lisp book.
+  </content>
+ </entry>
+ <entry>
+  <title>dentonyoder: LISP</title>
+  <author>
+   <name>dentonyoder</name>
+  </author>
+  <link href="https://github.com/dentonyoder/LISP" />
+  <id>urn:rprimus:github:dentonyoder:LISP</id>
+  <published>2020-11-05T20:48:20Z</published>
+  <updated>2020-11-05T20:48:20Z</updated>
+  <content type="html">
+   Autolisp routines for AutoCAD automation
+  </content>
+ </entry>
+ <entry>
+  <title>cl-doc-systems: coo</title>
+  <author>
+   <name>cl-doc-systems</name>
+  </author>
+  <link href="https://github.com/cl-doc-systems/coo" />
+  <id>urn:rprimus:github:cl-doc-systems:coo</id>
+  <published>2020-11-05T19:59:01Z</published>
+  <updated>2020-11-05T19:59:01Z</updated>
+  <content type="html">
+   This is an example project of Coo Common Lisp documentation system.
+  </content>
+ </entry>
+ <entry>
+  <title>LittleLisper: Minimax-Tic-Tac-Toe</title>
+  <author>
+   <name>LittleLisper</name>
+  </author>
+  <link href="https://github.com/LittleLisper/Minimax-Tic-Tac-Toe" />
+  <id>urn:rprimus:github:LittleLisper:Minimax-Tic-Tac-Toe</id>
+  <published>2020-11-05T18:17:11Z</published>
+  <updated>2020-11-05T18:17:11Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>cyber-end-d: PPIV</title>
+  <author>
+   <name>cyber-end-d</name>
+  </author>
+  <link href="https://github.com/cyber-end-d/PPIV" />
+  <id>urn:rprimus:github:cyber-end-d:PPIV</id>
+  <published>2020-11-05T15:11:46Z</published>
+  <updated>2020-11-05T15:11:46Z</updated>
+  <content type="html">
+   Ejercicios PPIV 2020
+  </content>
+ </entry>
  <entry>
   <title>larsbrinkhoff: MinskyForth</title>
   <author>
@@ -14,7 +79,20 @@
   <published>2020-11-05T10:41:02Z</published>
   <updated>2020-11-05T10:41:02Z</updated>
   <content type="html">
-   Forth for TT2500
+   Forth for the TT2500.
+  </content>
+ </entry>
+ <entry>
+  <title>Huzefa-Kagalwala: OpenCAV-Metamoto</title>
+  <author>
+   <name>Huzefa-Kagalwala</name>
+  </author>
+  <link href="https://github.com/Huzefa-Kagalwala/OpenCAV-Metamoto" />
+  <id>urn:rprimus:github:Huzefa-Kagalwala:OpenCAV-Metamoto</id>
+  <published>2020-11-04T21:51:57Z</published>
+  <updated>2020-11-04T21:51:57Z</updated>
+  <content type="html">
+   This repository contains the SUTs for the different Metamoto API&#039;s developed for OpenCAV simulation
   </content>
  </entry>
  <entry>
@@ -39,123 +117,6 @@
   <id>urn:rprimus:github:lancal:Tutotial_Lisp_SBCL</id>
   <published>2020-11-04T06:48:08Z</published>
   <updated>2020-11-04T06:48:08Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>cicattzo: ml-project-mit</title>
-  <author>
-   <name>cicattzo</name>
-  </author>
-  <link href="https://github.com/cicattzo/ml-project-mit" />
-  <id>urn:rprimus:github:cicattzo:ml-project-mit</id>
-  <published>2020-11-04T02:49:51Z</published>
-  <updated>2020-11-04T02:49:51Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>eko234: clender</title>
-  <author>
-   <name>eko234</name>
-  </author>
-  <link href="https://github.com/eko234/clender" />
-  <id>urn:rprimus:github:eko234:clender</id>
-  <published>2020-11-03T22:07:14Z</published>
-  <updated>2020-11-03T22:07:14Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>topikettunen: cadence</title>
-  <author>
-   <name>topikettunen</name>
-  </author>
-  <link href="https://github.com/topikettunen/cadence" />
-  <id>urn:rprimus:github:topikettunen:cadence</id>
-  <published>2020-11-03T21:19:28Z</published>
-  <updated>2020-11-03T21:19:28Z</updated>
-  <content type="html">
-   Music Theory Toolkit
-  </content>
- </entry>
- <entry>
-  <title>foggynight: land-of-lisp</title>
-  <author>
-   <name>foggynight</name>
-  </author>
-  <link href="https://github.com/foggynight/land-of-lisp" />
-  <id>urn:rprimus:github:foggynight:land-of-lisp</id>
-  <published>2020-11-03T20:48:17Z</published>
-  <updated>2020-11-03T20:48:17Z</updated>
-  <content type="html">
-   Land of Lisp by Conrad Barski
-  </content>
- </entry>
- <entry>
-  <title>nparajul: Pinochle--LISP</title>
-  <author>
-   <name>nparajul</name>
-  </author>
-  <link href="https://github.com/nparajul/Pinochle--LISP" />
-  <id>urn:rprimus:github:nparajul:Pinochle--LISP</id>
-  <published>2020-11-03T17:56:48Z</published>
-  <updated>2020-11-03T17:56:48Z</updated>
-  <content type="html">
-   Pinochle is a card game played by 2 players. 
-  </content>
- </entry>
- <entry>
-  <title>duikboot: conditioning-system</title>
-  <author>
-   <name>duikboot</name>
-  </author>
-  <link href="https://github.com/duikboot/conditioning-system" />
-  <id>urn:rprimus:github:duikboot:conditioning-system</id>
-  <published>2020-11-03T07:09:42Z</published>
-  <updated>2020-11-03T07:09:42Z</updated>
-  <content type="html">
-   Coding along with &quot;The Common Lisp Conditioning System&quot; by Michal Phoe Herda
-  </content>
- </entry>
- <entry>
-  <title>MissTailz: Minimax-TicTacToe</title>
-  <author>
-   <name>MissTailz</name>
-  </author>
-  <link href="https://github.com/MissTailz/Minimax-TicTacToe" />
-  <id>urn:rprimus:github:MissTailz:Minimax-TicTacToe</id>
-  <published>2020-11-03T05:51:08Z</published>
-  <updated>2020-11-03T05:51:08Z</updated>
-  <content type="html">
-   Basic minimax algorithm for the classic tic tac toe game using lisp.
-  </content>
- </entry>
- <entry>
-  <title>awallace689: PracticalCommonLisp</title>
-  <author>
-   <name>awallace689</name>
-  </author>
-  <link href="https://github.com/awallace689/PracticalCommonLisp" />
-  <id>urn:rprimus:github:awallace689:PracticalCommonLisp</id>
-  <published>2020-11-03T05:20:09Z</published>
-  <updated>2020-11-03T05:20:09Z</updated>
-  <content type="html">
-   Practical Common Lisp textbook projects and exercises
-  </content>
- </entry>
- <entry>
-  <title>rednexela1941: itttreebar</title>
-  <author>
-   <name>rednexela1941</name>
-  </author>
-  <link href="https://github.com/rednexela1941/itttreebar" />
-  <id>urn:rprimus:github:rednexela1941:itttreebar</id>
-  <published>2020-11-03T01:16:30Z</published>
-  <updated>2020-11-03T01:16:30Z</updated>
   <content type="html">
    
   </content>
