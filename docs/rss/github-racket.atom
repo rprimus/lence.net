@@ -2,19 +2,97 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-racket.atom"/>
 <id>urn:rprimus:github:newracketrepos</id>
-<updated>2020-11-08T08:24:08Z</updated>
+<updated>2020-11-09T01:50:07Z</updated>
 <title type='text'>New GitHub Racket Repos</title>
  <entry>
-  <title>jordankmiller: CS3520</title>
+  <title>RafaelBortolozo: Racket_Bhaskara</title>
+  <author>
+   <name>RafaelBortolozo</name>
+  </author>
+  <link href="https://github.com/RafaelBortolozo/Racket_Bhaskara" />
+  <id>urn:rprimus:github:RafaelBortolozo:Racket_Bhaskara</id>
+  <published>2020-11-09T01:50:07Z</published>
+  <updated>2020-11-09T01:50:07Z</updated>
+  <content type="html">
+   CÃ¡lculo de Bhaskara para a matÃ©ria de Paradigmas da ComputaÃ§Ã£o, desenvolvido na linguagem Racket. AlÃ©m de exibir o resultado no interpretador, todos os dados sÃ£o salvos em um arquivo bhaskara.txt e no banco de dados SQLite
+  </content>
+ </entry>
+ <entry>
+  <title>gmartinezramirez: racketdoku</title>
+  <author>
+   <name>gmartinezramirez</name>
+  </author>
+  <link href="https://github.com/gmartinezramirez/racketdoku" />
+  <id>urn:rprimus:github:gmartinezramirez:racketdoku</id>
+  <published>2020-11-08T23:02:35Z</published>
+  <updated>2020-11-08T23:02:35Z</updated>
+  <content type="html">
+   Sudoku game implemented on Racket/Scheme
+  </content>
+ </entry>
+ <entry>
+  <title>TheSameerAli: block1-project</title>
+  <author>
+   <name>TheSameerAli</name>
+  </author>
+  <link href="https://github.com/TheSameerAli/block1-project" />
+  <id>urn:rprimus:github:TheSameerAli:block1-project</id>
+  <published>2020-11-08T19:09:34Z</published>
+  <updated>2020-11-08T19:09:34Z</updated>
+  <content type="html">
+   Traffic light simulation project
+  </content>
+ </entry>
+ <entry>
+  <title>merlionfire: sicp_solution</title>
+  <author>
+   <name>merlionfire</name>
+  </author>
+  <link href="https://github.com/merlionfire/sicp_solution" />
+  <id>urn:rprimus:github:merlionfire:sicp_solution</id>
+  <published>2020-11-08T16:11:14Z</published>
+  <updated>2020-11-08T16:11:14Z</updated>
+  <content type="html">
+   Contain all the solutions to SICP exercises
+  </content>
+ </entry>
+ <entry>
+  <title>Metaxal: qs-compile-issue</title>
+  <author>
+   <name>Metaxal</name>
+  </author>
+  <link href="https://github.com/Metaxal/qs-compile-issue" />
+  <id>urn:rprimus:github:Metaxal:qs-compile-issue</id>
+  <published>2020-11-08T13:22:54Z</published>
+  <updated>2020-11-08T13:22:54Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>ShaneKilkelly: cute-id</title>
+  <author>
+   <name>ShaneKilkelly</name>
+  </author>
+  <link href="https://github.com/ShaneKilkelly/cute-id" />
+  <id>urn:rprimus:github:ShaneKilkelly:cute-id</id>
+  <published>2020-11-08T11:22:12Z</published>
+  <updated>2020-11-08T11:22:12Z</updated>
+  <content type="html">
+   Cute, random IDs in Racket, in adjective-adjective-animal form.
+  </content>
+ </entry>
+ <entry>
+  <title>jordankmiller: CS3520-2020-Programming-Languages</title>
   <author>
    <name>jordankmiller</name>
   </author>
-  <link href="https://github.com/jordankmiller/CS3520" />
-  <id>urn:rprimus:github:jordankmiller:CS3520</id>
+  <link href="https://github.com/jordankmiller/CS3520-2020-Programming-Languages" />
+  <id>urn:rprimus:github:jordankmiller:CS3520-2020-Programming-Languages</id>
   <published>2020-11-08T08:24:08Z</published>
   <updated>2020-11-08T08:24:08Z</updated>
   <content type="html">
-   
+   Fall 2020 Programming Languages
   </content>
  </entry>
  <entry>
@@ -93,58 +171,6 @@
   <updated>2020-11-07T07:45:26Z</updated>
   <content type="html">
    apply EEA to gcd(a, b).
-  </content>
- </entry>
- <entry>
-  <title>ldhandley: ice-particles</title>
-  <author>
-   <name>ldhandley</name>
-  </author>
-  <link href="https://github.com/ldhandley/ice-particles" />
-  <id>urn:rprimus:github:ldhandley:ice-particles</id>
-  <published>2020-11-06T23:16:57Z</published>
-  <updated>2020-11-06T23:16:57Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>stefanoclss: fase-1</title>
-  <author>
-   <name>stefanoclss</name>
-  </author>
-  <link href="https://github.com/stefanoclss/fase-1" />
-  <id>urn:rprimus:github:stefanoclss:fase-1</id>
-  <published>2020-11-06T21:48:59Z</published>
-  <updated>2020-11-06T21:48:59Z</updated>
-  <content type="html">
-   programmeerproject 2
-  </content>
- </entry>
- <entry>
-  <title>souravdatta: aplkb</title>
-  <author>
-   <name>souravdatta</name>
-  </author>
-  <link href="https://github.com/souravdatta/aplkb" />
-  <id>urn:rprimus:github:souravdatta:aplkb</id>
-  <published>2020-11-06T16:26:55Z</published>
-  <updated>2020-11-06T16:26:55Z</updated>
-  <content type="html">
-   A simple UI to input APL special characters along with ASCII ones
-  </content>
- </entry>
- <entry>
-  <title>lives-group: racket-dsl-tutorial</title>
-  <author>
-   <name>lives-group</name>
-  </author>
-  <link href="https://github.com/lives-group/racket-dsl-tutorial" />
-  <id>urn:rprimus:github:lives-group:racket-dsl-tutorial</id>
-  <published>2020-11-06T12:07:17Z</published>
-  <updated>2020-11-06T12:07:17Z</updated>
-  <content type="html">
-   Code for a tutorial on building DSLs with Racket
   </content>
  </entry>
 </feed>

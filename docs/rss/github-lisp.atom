@@ -2,8 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2020-11-08T10:20:49Z</updated>
+<updated>2020-11-09T01:41:40Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>Common-Lisp-Statistics: LIBM.CL</title>
+  <author>
+   <name>Common-Lisp-Statistics</name>
+  </author>
+  <link href="https://github.com/Common-Lisp-Statistics/LIBM.CL" />
+  <id>urn:rprimus:github:Common-Lisp-Statistics:LIBM.CL</id>
+  <published>2020-11-09T01:41:40Z</published>
+  <updated>2020-11-09T01:41:40Z</updated>
+  <content type="html">
+   Bindings for openlibm
+  </content>
+ </entry>
+ <entry>
+  <title>svetlyak40wt: test-cl-lib</title>
+  <author>
+   <name>svetlyak40wt</name>
+  </author>
+  <link href="https://github.com/svetlyak40wt/test-cl-lib" />
+  <id>urn:rprimus:github:svetlyak40wt:test-cl-lib</id>
+  <published>2020-11-08T20:12:48Z</published>
+  <updated>2020-11-08T20:12:48Z</updated>
+  <content type="html">
+   Test repository for the Ultralisp testing.
+  </content>
+ </entry>
+ <entry>
+  <title>Cybeertt: lispprojectgame</title>
+  <author>
+   <name>Cybeertt</name>
+  </author>
+  <link href="https://github.com/Cybeertt/lispprojectgame" />
+  <id>urn:rprimus:github:Cybeertt:lispprojectgame</id>
+  <published>2020-11-08T19:57:42Z</published>
+  <updated>2020-11-08T19:57:42Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>annatelegina: logic_formulas</title>
+  <author>
+   <name>annatelegina</name>
+  </author>
+  <link href="https://github.com/annatelegina/logic_formulas" />
+  <id>urn:rprimus:github:annatelegina:logic_formulas</id>
+  <published>2020-11-08T14:48:07Z</published>
+  <updated>2020-11-08T14:48:07Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>topikettunen: cl-wordnik</title>
+  <author>
+   <name>topikettunen</name>
+  </author>
+  <link href="https://github.com/topikettunen/cl-wordnik" />
+  <id>urn:rprimus:github:topikettunen:cl-wordnik</id>
+  <published>2020-11-08T14:21:22Z</published>
+  <updated>2020-11-08T14:21:22Z</updated>
+  <content type="html">
+   Common Lisp Wordnik API Client
+  </content>
+ </entry>
+ <entry>
+  <title>aardsoft: mitsuko</title>
+  <author>
+   <name>aardsoft</name>
+  </author>
+  <link href="https://github.com/aardsoft/mitsuko" />
+  <id>urn:rprimus:github:aardsoft:mitsuko</id>
+  <published>2020-11-08T12:10:40Z</published>
+  <updated>2020-11-08T12:10:40Z</updated>
+  <content type="html">
+   A Wayland compositor using QML and LISP (ECL)
+  </content>
+ </entry>
+ <entry>
+  <title>harunalbayrak: CSE341-ProgrammingLanguagesAssignments</title>
+  <author>
+   <name>harunalbayrak</name>
+  </author>
+  <link href="https://github.com/harunalbayrak/CSE341-ProgrammingLanguagesAssignments" />
+  <id>urn:rprimus:github:harunalbayrak:CSE341-ProgrammingLanguagesAssignments</id>
+  <published>2020-11-08T11:47:20Z</published>
+  <updated>2020-11-08T11:47:20Z</updated>
+  <content type="html">
+   My Programming Languages Assignments 2020 - Written in lisp and c.
+  </content>
+ </entry>
  <entry>
   <title>nishidate-yuki: raytracing_with_lisp</title>
   <author>
@@ -93,45 +184,6 @@
   <updated>2020-11-07T01:03:22Z</updated>
   <content type="html">
    Example of a Ping Pong game. Uses LispWorks and it&#039;s CAPI framework.
-  </content>
- </entry>
- <entry>
-  <title>ksaj: rock-paper-scissors</title>
-  <author>
-   <name>ksaj</name>
-  </author>
-  <link href="https://github.com/ksaj/rock-paper-scissors" />
-  <id>urn:rprimus:github:ksaj:rock-paper-scissors</id>
-  <published>2020-11-06T23:07:35Z</published>
-  <updated>2020-11-06T23:07:35Z</updated>
-  <content type="html">
-   Rock Paper Scissors in Common Lisp. Code Golf edition.
-  </content>
- </entry>
- <entry>
-  <title>mjgordon: cl-ifc</title>
-  <author>
-   <name>mjgordon</name>
-  </author>
-  <link href="https://github.com/mjgordon/cl-ifc" />
-  <id>urn:rprimus:github:mjgordon:cl-ifc</id>
-  <published>2020-11-06T21:18:59Z</published>
-  <updated>2020-11-06T21:18:59Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>serraalec: string--list</title>
-  <author>
-   <name>serraalec</name>
-  </author>
-  <link href="https://github.com/serraalec/string--list" />
-  <id>urn:rprimus:github:serraalec:string--list</id>
-  <published>2020-11-06T20:23:49Z</published>
-  <updated>2020-11-06T20:23:49Z</updated>
-  <content type="html">
-   a small program to convert a string to a list &amp; remove the following characters { , &#039; ( ) }
   </content>
  </entry>
 </feed>
