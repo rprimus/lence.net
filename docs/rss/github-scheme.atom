@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-scheme.atom"/>
 <id>urn:rprimus:github:newschemerepos</id>
-<updated>2020-11-08T07:29:19Z</updated>
+<updated>2020-11-08T11:43:21Z</updated>
 <title type='text'>New GitHub Scheme Repos</title>
+ <entry>
+  <title>qqprosperodd: sicp</title>
+  <author>
+   <name>qqprosperodd</name>
+  </author>
+  <link href="https://github.com/qqprosperodd/sicp" />
+  <id>urn:rprimus:github:qqprosperodd:sicp</id>
+  <published>2020-11-08T11:43:21Z</published>
+  <updated>2020-11-08T11:43:21Z</updated>
+  <content type="html">
+   sicp learning
+  </content>
+ </entry>
  <entry>
   <title>Looplinux: loop-xfce</title>
   <author>
@@ -119,71 +132,6 @@
   <updated>2020-11-07T01:36:18Z</updated>
   <content type="html">
    SRFI-130 ported to Chicken 5
-  </content>
- </entry>
- <entry>
-  <title>diamond-lizard: srfi-152</title>
-  <author>
-   <name>diamond-lizard</name>
-  </author>
-  <link href="https://github.com/diamond-lizard/srfi-152" />
-  <id>urn:rprimus:github:diamond-lizard:srfi-152</id>
-  <published>2020-11-06T20:16:48Z</published>
-  <updated>2020-11-06T20:16:48Z</updated>
-  <content type="html">
-   Chicken Scheme port of SRFI-152
-  </content>
- </entry>
- <entry>
-  <title>pre-srfi: r6rs-r7rs-compat</title>
-  <author>
-   <name>pre-srfi</name>
-  </author>
-  <link href="https://github.com/pre-srfi/r6rs-r7rs-compat" />
-  <id>urn:rprimus:github:pre-srfi:r6rs-r7rs-compat</id>
-  <published>2020-11-06T13:52:56Z</published>
-  <updated>2020-11-06T13:52:56Z</updated>
-  <content type="html">
-   R6RS&lt;-&gt;R7RS bridge library
-  </content>
- </entry>
- <entry>
-  <title>mennovanderspank: proefpracticum</title>
-  <author>
-   <name>mennovanderspank</name>
-  </author>
-  <link href="https://github.com/mennovanderspank/proefpracticum" />
-  <id>urn:rprimus:github:mennovanderspank:proefpracticum</id>
-  <published>2020-11-06T13:19:02Z</published>
-  <updated>2020-11-06T13:19:02Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>diamond-lizard: srfi-38</title>
-  <author>
-   <name>diamond-lizard</name>
-  </author>
-  <link href="https://github.com/diamond-lizard/srfi-38" />
-  <id>urn:rprimus:github:diamond-lizard:srfi-38</id>
-  <published>2020-11-06T09:26:56Z</published>
-  <updated>2020-11-06T09:26:56Z</updated>
-  <content type="html">
-   SRFI-38 port to Chicken Scheme 5
-  </content>
- </entry>
- <entry>
-  <title>diamond-lizard: srfi-35</title>
-  <author>
-   <name>diamond-lizard</name>
-  </author>
-  <link href="https://github.com/diamond-lizard/srfi-35" />
-  <id>urn:rprimus:github:diamond-lizard:srfi-35</id>
-  <published>2020-11-06T06:50:11Z</published>
-  <updated>2020-11-06T06:50:11Z</updated>
-  <content type="html">
-   SRFI-35 ported to Chicken Scheme
   </content>
  </entry>
 </feed>
