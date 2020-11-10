@@ -2,15 +2,119 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2020-11-09T01:41:40Z</updated>
+<updated>2020-11-10T07:42:26Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
  <entry>
-  <title>Common-Lisp-Statistics: LIBM.CL</title>
+  <title>mthom: cl-psoatransrun</title>
+  <author>
+   <name>mthom</name>
+  </author>
+  <link href="https://github.com/mthom/cl-psoatransrun" />
+  <id>urn:rprimus:github:mthom:cl-psoatransrun</id>
+  <published>2020-11-10T07:42:26Z</published>
+  <updated>2020-11-10T07:42:26Z</updated>
+  <content type="html">
+   A CL implementation of PSOATransRun, an implementation of the PSOA RuleML data and rule language.
+  </content>
+ </entry>
+ <entry>
+  <title>phoe-trash: geco</title>
+  <author>
+   <name>phoe-trash</name>
+  </author>
+  <link href="https://github.com/phoe-trash/geco" />
+  <id>urn:rprimus:github:phoe-trash:geco</id>
+  <published>2020-11-09T23:26:54Z</published>
+  <updated>2020-11-09T23:26:54Z</updated>
+  <content type="html">
+   Git repository containing Genetic Evolution through Combination of Objects by George P. Williams.
+  </content>
+ </entry>
+ <entry>
+  <title>cl-doc-systems: staple</title>
+  <author>
+   <name>cl-doc-systems</name>
+  </author>
+  <link href="https://github.com/cl-doc-systems/staple" />
+  <id>urn:rprimus:github:cl-doc-systems:staple</id>
+  <published>2020-11-09T21:37:37Z</published>
+  <updated>2020-11-09T21:37:37Z</updated>
+  <content type="html">
+   An example for project which uses Staple Common Lisp documentation system
+  </content>
+ </entry>
+ <entry>
+  <title>nattakit-h: slime</title>
+  <author>
+   <name>nattakit-h</name>
+  </author>
+  <link href="https://github.com/nattakit-h/slime" />
+  <id>urn:rprimus:github:nattakit-h:slime</id>
+  <published>2020-11-09T17:13:32Z</published>
+  <updated>2020-11-09T17:13:32Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>omar-polo: phos</title>
+  <author>
+   <name>omar-polo</name>
+  </author>
+  <link href="https://github.com/omar-polo/phos" />
+  <id>urn:rprimus:github:omar-polo:phos</id>
+  <published>2020-11-09T15:26:51Z</published>
+  <updated>2020-11-09T15:26:51Z</updated>
+  <content type="html">
+   WIP Gemini Client
+  </content>
+ </entry>
+ <entry>
+  <title>mhkoji: DCI-example</title>
+  <author>
+   <name>mhkoji</name>
+  </author>
+  <link href="https://github.com/mhkoji/DCI-example" />
+  <id>urn:rprimus:github:mhkoji:DCI-example</id>
+  <published>2020-11-09T12:25:06Z</published>
+  <updated>2020-11-09T12:25:06Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>mhkoji: cl-kytea</title>
+  <author>
+   <name>mhkoji</name>
+  </author>
+  <link href="https://github.com/mhkoji/cl-kytea" />
+  <id>urn:rprimus:github:mhkoji:cl-kytea</id>
+  <published>2020-11-09T12:22:34Z</published>
+  <updated>2020-11-09T12:22:34Z</updated>
+  <content type="html">
+   Common Lisp interface to KyTea
+  </content>
+ </entry>
+ <entry>
+  <title>rexos: testgit</title>
+  <author>
+   <name>rexos</name>
+  </author>
+  <link href="https://github.com/rexos/testgit" />
+  <id>urn:rprimus:github:rexos:testgit</id>
+  <published>2020-11-09T10:43:29Z</published>
+  <updated>2020-11-09T10:43:29Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Common-Lisp-Statistics: libm.cl</title>
   <author>
    <name>Common-Lisp-Statistics</name>
   </author>
-  <link href="https://github.com/Common-Lisp-Statistics/LIBM.CL" />
-  <id>urn:rprimus:github:Common-Lisp-Statistics:LIBM.CL</id>
+  <link href="https://github.com/Common-Lisp-Statistics/libm.cl" />
+  <id>urn:rprimus:github:Common-Lisp-Statistics:libm.cl</id>
   <published>2020-11-09T01:41:40Z</published>
   <updated>2020-11-09T01:41:40Z</updated>
   <content type="html">
@@ -119,71 +223,6 @@
   <updated>2020-11-08T07:21:35Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>fstamour: simpbin</title>
-  <author>
-   <name>fstamour</name>
-  </author>
-  <link href="https://github.com/fstamour/simpbin" />
-  <id>urn:rprimus:github:fstamour:simpbin</id>
-  <published>2020-11-07T19:35:08Z</published>
-  <updated>2020-11-07T19:35:08Z</updated>
-  <content type="html">
-   A common lisp library to store data in a simple binary format
-  </content>
- </entry>
- <entry>
-  <title>evdogg123: 481-proj2</title>
-  <author>
-   <name>evdogg123</name>
-  </author>
-  <link href="https://github.com/evdogg123/481-proj2" />
-  <id>urn:rprimus:github:evdogg123:481-proj2</id>
-  <published>2020-11-07T18:53:43Z</published>
-  <updated>2020-11-07T18:53:43Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>egao1980: cl-idna</title>
-  <author>
-   <name>egao1980</name>
-  </author>
-  <link href="https://github.com/egao1980/cl-idna" />
-  <id>urn:rprimus:github:egao1980:cl-idna</id>
-  <published>2020-11-07T12:48:17Z</published>
-  <updated>2020-11-07T12:48:17Z</updated>
-  <content type="html">
-   Portable IDNA library for Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>Masoud-Nasiri: AutoCAD</title>
-  <author>
-   <name>Masoud-Nasiri</name>
-  </author>
-  <link href="https://github.com/Masoud-Nasiri/AutoCAD" />
-  <id>urn:rprimus:github:Masoud-Nasiri:AutoCAD</id>
-  <published>2020-11-07T11:05:18Z</published>
-  <updated>2020-11-07T11:05:18Z</updated>
-  <content type="html">
-   LISP fot Autodesk AutoCAD
-  </content>
- </entry>
- <entry>
-  <title>svetlyak40wt: ping-pong</title>
-  <author>
-   <name>svetlyak40wt</name>
-  </author>
-  <link href="https://github.com/svetlyak40wt/ping-pong" />
-  <id>urn:rprimus:github:svetlyak40wt:ping-pong</id>
-  <published>2020-11-07T01:03:22Z</published>
-  <updated>2020-11-07T01:03:22Z</updated>
-  <content type="html">
-   Example of a Ping Pong game. Uses LispWorks and it&#039;s CAPI framework.
   </content>
  </entry>
 </feed>
