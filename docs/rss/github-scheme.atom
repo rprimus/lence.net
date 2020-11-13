@@ -2,19 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-scheme.atom"/>
 <id>urn:rprimus:github:newschemerepos</id>
-<updated>2020-11-12T08:17:29Z</updated>
+<updated>2020-11-13T02:48:36Z</updated>
 <title type='text'>New GitHub Scheme Repos</title>
  <entry>
-  <title>Osaroki: .dotfiles</title>
+  <title>Zipheir: srfi-189-chicken</title>
   <author>
-   <name>Osaroki</name>
+   <name>Zipheir</name>
   </author>
-  <link href="https://github.com/Osaroki/.dotfiles" />
-  <id>urn:rprimus:github:Osaroki:.dotfiles</id>
-  <published>2020-11-12T08:17:29Z</published>
-  <updated>2020-11-12T08:17:29Z</updated>
+  <link href="https://github.com/Zipheir/srfi-189-chicken" />
+  <id>urn:rprimus:github:Zipheir:srfi-189-chicken</id>
+  <published>2020-11-13T02:48:36Z</published>
+  <updated>2020-11-13T02:48:36Z</updated>
+  <content type="html">
+   SRFI 189 egg for CHICKEN
+  </content>
+ </entry>
+ <entry>
+  <title>mbcladwell: artanisfix3</title>
+  <author>
+   <name>mbcladwell</name>
+  </author>
+  <link href="https://github.com/mbcladwell/artanisfix3" />
+  <id>urn:rprimus:github:mbcladwell:artanisfix3</id>
+  <published>2020-11-12T15:53:41Z</published>
+  <updated>2020-11-12T15:53:41Z</updated>
   <content type="html">
    
+  </content>
+ </entry>
+ <entry>
+  <title>cyclone-scheme: syslog</title>
+  <author>
+   <name>cyclone-scheme</name>
+  </author>
+  <link href="https://github.com/cyclone-scheme/syslog" />
+  <id>urn:rprimus:github:cyclone-scheme:syslog</id>
+  <published>2020-11-12T15:39:46Z</published>
+  <updated>2020-11-12T15:39:46Z</updated>
+  <content type="html">
+   Interface to POSIX syslog: definitions for system error logging
+  </content>
+ </entry>
+ <entry>
+  <title>spdegabrielle: Algorithms-for-Functional-Programming</title>
+  <author>
+   <name>spdegabrielle</name>
+  </author>
+  <link href="https://github.com/spdegabrielle/Algorithms-for-Functional-Programming" />
+  <id>urn:rprimus:github:spdegabrielle:Algorithms-for-Functional-Programming</id>
+  <published>2020-11-12T14:01:58Z</published>
+  <updated>2020-11-12T14:01:58Z</updated>
+  <content type="html">
+   Algorithms for Functional Programming  Source code libraries from https://unity.homelinux.net/afp/
   </content>
  </entry>
  <entry>
@@ -132,162 +171,6 @@
   <updated>2020-11-11T06:41:15Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>0x2b3bfa0: guix-go-modules</title>
-  <author>
-   <name>0x2b3bfa0</name>
-  </author>
-  <link href="https://github.com/0x2b3bfa0/guix-go-modules" />
-  <id>urn:rprimus:github:0x2b3bfa0:guix-go-modules</id>
-  <published>2020-11-10T23:30:17Z</published>
-  <updated>2020-11-10T23:30:17Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>diamond-lizard: srfi-48</title>
-  <author>
-   <name>diamond-lizard</name>
-  </author>
-  <link href="https://github.com/diamond-lizard/srfi-48" />
-  <id>urn:rprimus:github:diamond-lizard:srfi-48</id>
-  <published>2020-11-10T21:09:01Z</published>
-  <updated>2020-11-10T21:09:01Z</updated>
-  <content type="html">
-   SRFI-48 port to Chicken Scheme 5
-  </content>
- </entry>
- <entry>
-  <title>kosdevops: dotfiles</title>
-  <author>
-   <name>kosdevops</name>
-  </author>
-  <link href="https://github.com/kosdevops/dotfiles" />
-  <id>urn:rprimus:github:kosdevops:dotfiles</id>
-  <published>2020-11-10T21:00:53Z</published>
-  <updated>2020-11-10T21:00:53Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>diamond-lizard: srfi-66</title>
-  <author>
-   <name>diamond-lizard</name>
-  </author>
-  <link href="https://github.com/diamond-lizard/srfi-66" />
-  <id>urn:rprimus:github:diamond-lizard:srfi-66</id>
-  <published>2020-11-10T19:41:11Z</published>
-  <updated>2020-11-10T19:41:11Z</updated>
-  <content type="html">
-   SRFI-66 port to Chicken Scheme 5
-  </content>
- </entry>
- <entry>
-  <title>diamond-lizard: srfi-160</title>
-  <author>
-   <name>diamond-lizard</name>
-  </author>
-  <link href="https://github.com/diamond-lizard/srfi-160" />
-  <id>urn:rprimus:github:diamond-lizard:srfi-160</id>
-  <published>2020-11-10T16:41:12Z</published>
-  <updated>2020-11-10T16:41:12Z</updated>
-  <content type="html">
-   SRFI-160 ported to Chicken Scheme 5
-  </content>
- </entry>
- <entry>
-  <title>moueza: isbn-2-212-11666-7-Gimp-2-efficace</title>
-  <author>
-   <name>moueza</name>
-  </author>
-  <link href="https://github.com/moueza/isbn-2-212-11666-7-Gimp-2-efficace" />
-  <id>urn:rprimus:github:moueza:isbn-2-212-11666-7-Gimp-2-efficace</id>
-  <published>2020-11-10T12:02:39Z</published>
-  <updated>2020-11-10T12:02:39Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>qiforan: sicp_proj</title>
-  <author>
-   <name>qiforan</name>
-  </author>
-  <link href="https://github.com/qiforan/sicp_proj" />
-  <id>urn:rprimus:github:qiforan:sicp_proj</id>
-  <published>2020-11-10T11:06:14Z</published>
-  <updated>2020-11-10T11:06:14Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>c4dr01d: guix-package</title>
-  <author>
-   <name>c4dr01d</name>
-  </author>
-  <link href="https://github.com/c4dr01d/guix-package" />
-  <id>urn:rprimus:github:c4dr01d:guix-package</id>
-  <published>2020-11-10T03:49:42Z</published>
-  <updated>2020-11-10T03:49:42Z</updated>
-  <content type="html">
-   Self packed package using GNU Guix
-  </content>
- </entry>
- <entry>
-  <title>c4dr01d: guix-config</title>
-  <author>
-   <name>c4dr01d</name>
-  </author>
-  <link href="https://github.com/c4dr01d/guix-config" />
-  <id>urn:rprimus:github:c4dr01d:guix-config</id>
-  <published>2020-11-10T03:47:22Z</published>
-  <updated>2020-11-10T03:47:22Z</updated>
-  <content type="html">
-   My guix system config
-  </content>
- </entry>
- <entry>
-  <title>diamond-lizard: srfi-197</title>
-  <author>
-   <name>diamond-lizard</name>
-  </author>
-  <link href="https://github.com/diamond-lizard/srfi-197" />
-  <id>urn:rprimus:github:diamond-lizard:srfi-197</id>
-  <published>2020-11-10T02:58:58Z</published>
-  <updated>2020-11-10T02:58:58Z</updated>
-  <content type="html">
-   SRFI-197 port to Chicken Scheme 5
-  </content>
- </entry>
- <entry>
-  <title>JesusMAC0047: bookAPi</title>
-  <author>
-   <name>JesusMAC0047</name>
-  </author>
-  <link href="https://github.com/JesusMAC0047/bookAPi" />
-  <id>urn:rprimus:github:JesusMAC0047:bookAPi</id>
-  <published>2020-11-10T02:50:35Z</published>
-  <updated>2020-11-10T02:50:35Z</updated>
-  <content type="html">
-   practicar laravel con una api de libros
-  </content>
- </entry>
- <entry>
-  <title>ronnaksaxena: meta.scm</title>
-  <author>
-   <name>ronnaksaxena</name>
-  </author>
-  <link href="https://github.com/ronnaksaxena/meta.scm" />
-  <id>urn:rprimus:github:ronnaksaxena:meta.scm</id>
-  <published>2020-11-10T00:12:39Z</published>
-  <updated>2020-11-10T00:12:39Z</updated>
-  <content type="html">
-   Scheme interpreter written in scheme
   </content>
  </entry>
 </feed>
