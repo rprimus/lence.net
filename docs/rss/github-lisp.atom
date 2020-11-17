@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2020-11-16T08:45:36Z</updated>
+<updated>2020-11-17T02:08:52Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>anlsh: pacman-cl</title>
+  <author>
+   <name>anlsh</name>
+  </author>
+  <link href="https://github.com/anlsh/pacman-cl" />
+  <id>urn:rprimus:github:anlsh:pacman-cl</id>
+  <published>2020-11-17T02:08:52Z</published>
+  <updated>2020-11-17T02:08:52Z</updated>
+  <content type="html">
+   Pacman written in Common Lisp for, um, reasons
+  </content>
+ </entry>
+ <entry>
+  <title>kjinho: file-rename</title>
+  <author>
+   <name>kjinho</name>
+  </author>
+  <link href="https://github.com/kjinho/file-rename" />
+  <id>urn:rprimus:github:kjinho:file-rename</id>
+  <published>2020-11-16T20:24:21Z</published>
+  <updated>2020-11-16T20:24:21Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>zellerin: web-tools</title>
+  <author>
+   <name>zellerin</name>
+  </author>
+  <link href="https://github.com/zellerin/web-tools" />
+  <id>urn:rprimus:github:zellerin:web-tools</id>
+  <published>2020-11-16T16:11:02Z</published>
+  <updated>2020-11-16T16:11:02Z</updated>
+  <content type="html">
+   Web parsing utilities in Common Lisp (not cleaned up)
+  </content>
+ </entry>
+ <entry>
+  <title>phoe: damn-fast-priority-queue</title>
+  <author>
+   <name>phoe</name>
+  </author>
+  <link href="https://github.com/phoe/damn-fast-priority-queue" />
+  <id>urn:rprimus:github:phoe:damn-fast-priority-queue</id>
+  <published>2020-11-16T11:49:33Z</published>
+  <updated>2020-11-16T11:49:33Z</updated>
+  <content type="html">
+   A heap-based priority queue whose first and foremost priority is speed.
+  </content>
+ </entry>
  <entry>
   <title>bpanthi977: random-code-collection</title>
   <author>
@@ -106,110 +158,6 @@
   <updated>2020-11-15T00:09:50Z</updated>
   <content type="html">
    Common Lisp style macros for PicoLisp
-  </content>
- </entry>
- <entry>
-  <title>40ants: lw-multiplication</title>
-  <author>
-   <name>40ants</name>
-  </author>
-  <link href="https://github.com/40ants/lw-multiplication" />
-  <id>urn:rprimus:github:40ants:lw-multiplication</id>
-  <published>2020-11-14T20:24:49Z</published>
-  <updated>2020-11-14T20:24:49Z</updated>
-  <content type="html">
-   A math game for children to help them learning multiplication
-  </content>
- </entry>
- <entry>
-  <title>nmunro: clncurses-learning</title>
-  <author>
-   <name>nmunro</name>
-  </author>
-  <link href="https://github.com/nmunro/clncurses-learning" />
-  <id>urn:rprimus:github:nmunro:clncurses-learning</id>
-  <published>2020-11-14T19:23:34Z</published>
-  <updated>2020-11-14T19:23:34Z</updated>
-  <content type="html">
-   Just learning to use ncurses in common lisp
-  </content>
- </entry>
- <entry>
-  <title>shawwn: bell</title>
-  <author>
-   <name>shawwn</name>
-  </author>
-  <link href="https://github.com/shawwn/bell" />
-  <id>urn:rprimus:github:shawwn:bell</id>
-  <published>2020-11-14T10:28:32Z</published>
-  <updated>2020-11-14T10:28:32Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>adilzaidi: LISP_Shopping_cart</title>
-  <author>
-   <name>adilzaidi</name>
-  </author>
-  <link href="https://github.com/adilzaidi/LISP_Shopping_cart" />
-  <id>urn:rprimus:github:adilzaidi:LISP_Shopping_cart</id>
-  <published>2020-11-14T09:45:00Z</published>
-  <updated>2020-11-14T09:45:00Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>fyvonnet: AdventOfCode-2019-lisp</title>
-  <author>
-   <name>fyvonnet</name>
-  </author>
-  <link href="https://github.com/fyvonnet/AdventOfCode-2019-lisp" />
-  <id>urn:rprimus:github:fyvonnet:AdventOfCode-2019-lisp</id>
-  <published>2020-11-14T06:43:27Z</published>
-  <updated>2020-11-14T06:43:27Z</updated>
-  <content type="html">
-   Advent of Code 2019 (LISP)
-  </content>
- </entry>
- <entry>
-  <title>dwclark: paip</title>
-  <author>
-   <name>dwclark</name>
-  </author>
-  <link href="https://github.com/dwclark/paip" />
-  <id>urn:rprimus:github:dwclark:paip</id>
-  <published>2020-11-14T06:02:21Z</published>
-  <updated>2020-11-14T06:02:21Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>adeesha-savinda: home-automation-stm32-rtos</title>
-  <author>
-   <name>adeesha-savinda</name>
-  </author>
-  <link href="https://github.com/adeesha-savinda/home-automation-stm32-rtos" />
-  <id>urn:rprimus:github:adeesha-savinda:home-automation-stm32-rtos</id>
-  <published>2020-11-14T03:14:37Z</published>
-  <updated>2020-11-14T03:14:37Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>nklein: badger</title>
-  <author>
-   <name>nklein</name>
-  </author>
-  <link href="https://github.com/nklein/badger" />
-  <id>urn:rprimus:github:nklein:badger</id>
-  <published>2020-11-14T00:10:56Z</published>
-  <updated>2020-11-14T00:10:56Z</updated>
-  <content type="html">
-   Rough and dirty Lisp/HTML/Javascript badge creator
   </content>
  </entry>
 </feed>
