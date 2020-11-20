@@ -2,8 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2020-11-18T17:01:41Z</updated>
+<updated>2020-11-20T06:05:21Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>lalzy: Lazyfoo-CL-Opengl</title>
+  <author>
+   <name>lalzy</name>
+  </author>
+  <link href="https://github.com/lalzy/Lazyfoo-CL-Opengl" />
+  <id>urn:rprimus:github:lalzy:Lazyfoo-CL-Opengl</id>
+  <published>2020-11-20T06:05:21Z</published>
+  <updated>2020-11-20T06:05:21Z</updated>
+  <content type="html">
+   Common Lisp adaption of Lazy Foo&#039;s Opengl tutorials
+  </content>
+ </entry>
+ <entry>
+  <title>motersen: deadwood</title>
+  <author>
+   <name>motersen</name>
+  </author>
+  <link href="https://github.com/motersen/deadwood" />
+  <id>urn:rprimus:github:motersen:deadwood</id>
+  <published>2020-11-19T19:23:07Z</published>
+  <updated>2020-11-19T19:23:07Z</updated>
+  <content type="html">
+   find &amp; remove stale files and directories
+  </content>
+ </entry>
+ <entry>
+  <title>motersen: skelet</title>
+  <author>
+   <name>motersen</name>
+  </author>
+  <link href="https://github.com/motersen/skelet" />
+  <id>urn:rprimus:github:motersen:skelet</id>
+  <published>2020-11-19T19:18:46Z</published>
+  <updated>2020-11-19T19:18:46Z</updated>
+  <content type="html">
+   Duplicate bare directory trees
+  </content>
+ </entry>
+ <entry>
+  <title>cl-doc-systems: geneva</title>
+  <author>
+   <name>cl-doc-systems</name>
+  </author>
+  <link href="https://github.com/cl-doc-systems/geneva" />
+  <id>urn:rprimus:github:cl-doc-systems:geneva</id>
+  <published>2020-11-19T17:46:22Z</published>
+  <updated>2020-11-19T17:46:22Z</updated>
+  <content type="html">
+   An example of the Common Lisp documentation system Geneva.
+  </content>
+ </entry>
+ <entry>
+  <title>mengcool: AispTools_program_LandInformationTool</title>
+  <author>
+   <name>mengcool</name>
+  </author>
+  <link href="https://github.com/mengcool/AispTools_program_LandInformationTool" />
+  <id>urn:rprimus:github:mengcool:AispTools_program_LandInformationTool</id>
+  <published>2020-11-19T15:20:09Z</published>
+  <updated>2020-11-19T15:20:09Z</updated>
+  <content type="html">
+   CADæ¿å°ä¸ä½æä»¶
+  </content>
+ </entry>
+ <entry>
+  <title>deterministic-arts: DartsCLMediaTypes</title>
+  <author>
+   <name>deterministic-arts</name>
+  </author>
+  <link href="https://github.com/deterministic-arts/DartsCLMediaTypes" />
+  <id>urn:rprimus:github:deterministic-arts:DartsCLMediaTypes</id>
+  <published>2020-11-19T12:25:24Z</published>
+  <updated>2020-11-19T12:25:24Z</updated>
+  <content type="html">
+   Library to parse and handle MIME media type descriptors
+  </content>
+ </entry>
+ <entry>
+  <title>patachobo: common-lisp-note</title>
+  <author>
+   <name>patachobo</name>
+  </author>
+  <link href="https://github.com/patachobo/common-lisp-note" />
+  <id>urn:rprimus:github:patachobo:common-lisp-note</id>
+  <published>2020-11-19T12:00:45Z</published>
+  <updated>2020-11-19T12:00:45Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>arlechann: blog-cms</title>
   <author>
@@ -67,71 +158,6 @@
   <updated>2020-11-18T06:04:37Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>vdikan: papergraph</title>
-  <author>
-   <name>vdikan</name>
-  </author>
-  <link href="https://github.com/vdikan/papergraph" />
-  <id>urn:rprimus:github:vdikan:papergraph</id>
-  <published>2020-11-17T22:43:24Z</published>
-  <updated>2020-11-17T22:43:24Z</updated>
-  <content type="html">
-   Bibtex -&gt; Graphviz-Dot converter. Using CrossRef to grab references.
-  </content>
- </entry>
- <entry>
-  <title>compufox: cl-ini</title>
-  <author>
-   <name>compufox</name>
-  </author>
-  <link href="https://github.com/compufox/cl-ini" />
-  <id>urn:rprimus:github:compufox:cl-ini</id>
-  <published>2020-11-17T15:39:03Z</published>
-  <updated>2020-11-17T15:39:03Z</updated>
-  <content type="html">
-   lisp ini parser
-  </content>
- </entry>
- <entry>
-  <title>K1D77A: cl-bloggy</title>
-  <author>
-   <name>K1D77A</name>
-  </author>
-  <link href="https://github.com/K1D77A/cl-bloggy" />
-  <id>urn:rprimus:github:K1D77A:cl-bloggy</id>
-  <published>2020-11-17T14:45:54Z</published>
-  <updated>2020-11-17T14:45:54Z</updated>
-  <content type="html">
-   A simple extendable blogging system to use with Hunchentoot
-  </content>
- </entry>
- <entry>
-  <title>janr57: morse</title>
-  <author>
-   <name>janr57</name>
-  </author>
-  <link href="https://github.com/janr57/morse" />
-  <id>urn:rprimus:github:janr57:morse</id>
-  <published>2020-11-17T12:26:03Z</published>
-  <updated>2020-11-17T12:26:03Z</updated>
-  <content type="html">
-   My homework while learning Marco Baringer&#039;s SLIME tutorial video
-  </content>
- </entry>
- <entry>
-  <title>anlsh: pacman-cl</title>
-  <author>
-   <name>anlsh</name>
-  </author>
-  <link href="https://github.com/anlsh/pacman-cl" />
-  <id>urn:rprimus:github:anlsh:pacman-cl</id>
-  <published>2020-11-17T02:08:52Z</published>
-  <updated>2020-11-17T02:08:52Z</updated>
-  <content type="html">
-   Pacman written in Common Lisp for, um, reasons
   </content>
  </entry>
 </feed>
