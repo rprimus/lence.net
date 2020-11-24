@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-scheme.atom"/>
 <id>urn:rprimus:github:newschemerepos</id>
-<updated>2020-11-23T13:42:45Z</updated>
+<updated>2020-11-23T20:54:25Z</updated>
 <title type='text'>New GitHub Scheme Repos</title>
+ <entry>
+  <title>turbodami: SICP</title>
+  <author>
+   <name>turbodami</name>
+  </author>
+  <link href="https://github.com/turbodami/SICP" />
+  <id>urn:rprimus:github:turbodami:SICP</id>
+  <published>2020-11-23T20:54:25Z</published>
+  <updated>2020-11-23T20:54:25Z</updated>
+  <content type="html">
+   Exercises and projects written by me to code along with the Brian Harveyâs SICP lectures (for the 61A course at Berkeley )
+  </content>
+ </entry>
+ <entry>
+  <title>ZinderAsh: Scheme-Pong</title>
+  <author>
+   <name>ZinderAsh</name>
+  </author>
+  <link href="https://github.com/ZinderAsh/Scheme-Pong" />
+  <id>urn:rprimus:github:ZinderAsh:Scheme-Pong</id>
+  <published>2020-11-23T17:33:50Z</published>
+  <updated>2020-11-23T17:33:50Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>KIM-HAENGWOO: CODING</title>
   <author>
@@ -132,110 +158,6 @@
   <updated>2020-11-22T00:41:36Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>isaacanil: Mask-Capas</title>
-  <author>
-   <name>isaacanil</name>
-  </author>
-  <link href="https://github.com/isaacanil/Mask-Capas" />
-  <id>urn:rprimus:github:isaacanil:Mask-Capas</id>
-  <published>2020-11-21T22:57:51Z</published>
-  <updated>2020-11-21T22:57:51Z</updated>
-  <content type="html">
-   Capa de mascara para borde y region de Haiti
-  </content>
- </entry>
- <entry>
-  <title>ethantrott: Scheme-Binary-Tree-Traversal</title>
-  <author>
-   <name>ethantrott</name>
-  </author>
-  <link href="https://github.com/ethantrott/Scheme-Binary-Tree-Traversal" />
-  <id>urn:rprimus:github:ethantrott:Scheme-Binary-Tree-Traversal</id>
-  <published>2020-11-21T17:05:15Z</published>
-  <updated>2020-11-21T17:05:15Z</updated>
-  <content type="html">
-   implementations of preorder and postorder binary tree traversal in scheme
-  </content>
- </entry>
- <entry>
-  <title>edigonzales: ipw-darstellung</title>
-  <author>
-   <name>edigonzales</name>
-  </author>
-  <link href="https://github.com/edigonzales/ipw-darstellung" />
-  <id>urn:rprimus:github:edigonzales:ipw-darstellung</id>
-  <published>2020-11-21T17:02:14Z</published>
-  <updated>2020-11-21T17:02:14Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>elsoleiro: functions</title>
-  <author>
-   <name>elsoleiro</name>
-  </author>
-  <link href="https://github.com/elsoleiro/functions" />
-  <id>urn:rprimus:github:elsoleiro:functions</id>
-  <published>2020-11-21T16:59:24Z</published>
-  <updated>2020-11-21T16:59:24Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>duncanmak: kawa-javafx-graalvm</title>
-  <author>
-   <name>duncanmak</name>
-  </author>
-  <link href="https://github.com/duncanmak/kawa-javafx-graalvm" />
-  <id>urn:rprimus:github:duncanmak:kawa-javafx-graalvm</id>
-  <published>2020-11-21T03:31:19Z</published>
-  <updated>2020-11-21T03:31:19Z</updated>
-  <content type="html">
-   Let&#039;s build a JavaFX app with Kawa Scheme
-  </content>
- </entry>
- <entry>
-  <title>diamond-lizard: srfi-89</title>
-  <author>
-   <name>diamond-lizard</name>
-  </author>
-  <link href="https://github.com/diamond-lizard/srfi-89" />
-  <id>urn:rprimus:github:diamond-lizard:srfi-89</id>
-  <published>2020-11-21T03:31:18Z</published>
-  <updated>2020-11-21T03:31:18Z</updated>
-  <content type="html">
-   SRFI-89 port to Chicken Scheme 5
-  </content>
- </entry>
- <entry>
-  <title>jgibbons94: shepherd-scripts</title>
-  <author>
-   <name>jgibbons94</name>
-  </author>
-  <link href="https://github.com/jgibbons94/shepherd-scripts" />
-  <id>urn:rprimus:github:jgibbons94:shepherd-scripts</id>
-  <published>2020-11-21T02:37:12Z</published>
-  <updated>2020-11-21T02:37:12Z</updated>
-  <content type="html">
-   A collection of shepherd (local daemon) scripts.
-  </content>
- </entry>
- <entry>
-  <title>diamond-lizard: srfi-87</title>
-  <author>
-   <name>diamond-lizard</name>
-  </author>
-  <link href="https://github.com/diamond-lizard/srfi-87" />
-  <id>urn:rprimus:github:diamond-lizard:srfi-87</id>
-  <published>2020-11-21T02:23:30Z</published>
-  <updated>2020-11-21T02:23:30Z</updated>
-  <content type="html">
-   SRFI-87 port to Chicken Scheme 5
   </content>
  </entry>
 </feed>
