@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2020-11-24T01:07:33Z</updated>
+<updated>2020-11-24T08:22:52Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>bipsen: .emacs</title>
+  <author>
+   <name>bipsen</name>
+  </author>
+  <link href="https://github.com/bipsen/.emacs" />
+  <id>urn:rprimus:github:bipsen:.emacs</id>
+  <published>2020-11-24T08:22:52Z</published>
+  <updated>2020-11-24T08:22:52Z</updated>
+  <content type="html">
+   My personal emacs config
+  </content>
+ </entry>
+ <entry>
+  <title>maanukuttan: emacs</title>
+  <author>
+   <name>maanukuttan</name>
+  </author>
+  <link href="https://github.com/maanukuttan/emacs" />
+  <id>urn:rprimus:github:maanukuttan:emacs</id>
+  <published>2020-11-24T05:29:24Z</published>
+  <updated>2020-11-24T05:29:24Z</updated>
+  <content type="html">
+   emacs init file
+  </content>
+ </entry>
  <entry>
   <title>lbeibao: emacs.d</title>
   <author>
@@ -382,16 +408,16 @@
   </content>
  </entry>
  <entry>
-  <title>xFA25E: tempo-mode</title>
+  <title>xFA25E: skempo-mode</title>
   <author>
    <name>xFA25E</name>
   </author>
-  <link href="https://github.com/xFA25E/tempo-mode" />
-  <id>urn:rprimus:github:xFA25E:tempo-mode</id>
+  <link href="https://github.com/xFA25E/skempo-mode" />
+  <id>urn:rprimus:github:xFA25E:skempo-mode</id>
   <published>2020-11-22T17:09:31Z</published>
   <updated>2020-11-22T17:09:31Z</updated>
   <content type="html">
-   Easier emacs tempo definition and usage
+   A futile attempt to fuse skeleton and tempo emacs templates.
   </content>
  </entry>
  <entry>
