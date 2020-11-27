@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-scheme.atom"/>
 <id>urn:rprimus:github:newschemerepos</id>
-<updated>2020-11-26T07:50:00Z</updated>
+<updated>2020-11-27T00:39:26Z</updated>
 <title type='text'>New GitHub Scheme Repos</title>
+ <entry>
+  <title>diamond-lizard: chicken-midi</title>
+  <author>
+   <name>diamond-lizard</name>
+  </author>
+  <link href="https://github.com/diamond-lizard/chicken-midi" />
+  <id>urn:rprimus:github:diamond-lizard:chicken-midi</id>
+  <published>2020-11-27T00:39:26Z</published>
+  <updated>2020-11-27T00:39:26Z</updated>
+  <content type="html">
+   MIDI-related functions for Chicken Scheme
+  </content>
+ </entry>
+ <entry>
+  <title>ayoub-khodar: Platforme-de-suivi-de-cas-COVID-19-au-Maroc-par-r-gion</title>
+  <author>
+   <name>ayoub-khodar</name>
+  </author>
+  <link href="https://github.com/ayoub-khodar/Platforme-de-suivi-de-cas-COVID-19-au-Maroc-par-r-gion" />
+  <id>urn:rprimus:github:ayoub-khodar:Platforme-de-suivi-de-cas-COVID-19-au-Maroc-par-r-gion</id>
+  <published>2020-11-26T14:21:16Z</published>
+  <updated>2020-11-26T14:21:16Z</updated>
+  <content type="html">
+   Platforme de suivi de cas COVID-19 au Maroc par rÃ©gion Ã©laborÃ©e par moi et mon camarade  KHALIL ZAKARIA dans le cadre du projet SIG WEB
+  </content>
+ </entry>
  <entry>
   <title>lncknight: pb-web-dev</title>
   <author>
@@ -31,107 +57,16 @@
   </content>
  </entry>
  <entry>
-  <title>mthl: shepherd</title>
+  <title>motersen: jazzchords</title>
   <author>
-   <name>mthl</name>
+   <name>motersen</name>
   </author>
-  <link href="https://github.com/mthl/shepherd" />
-  <id>urn:rprimus:github:mthl:shepherd</id>
-  <published>2020-11-24T22:36:42Z</published>
-  <updated>2020-11-24T22:36:42Z</updated>
+  <link href="https://github.com/motersen/jazzchords" />
+  <id>urn:rprimus:github:motersen:jazzchords</id>
+  <published>2020-11-25T20:14:34Z</published>
+  <updated>2020-11-25T20:14:34Z</updated>
   <content type="html">
-   The GNU Daemon Shepherd, formerly known as GNU dmd, is a service manager that provides a replacement for the service-managing capabilities of SysV-init (or any other init) with a both powerful and beautiful dependency-based system with a convenient interface.  It is intended for use on GNU/Hurd, but it is supposed to work on every POSIX-like system where Guile is available.  In particular, it has been tested on GNU/Linux.
-  </content>
- </entry>
- <entry>
-  <title>mthl: cuirass</title>
-  <author>
-   <name>mthl</name>
-  </author>
-  <link href="https://github.com/mthl/cuirass" />
-  <id>urn:rprimus:github:mthl:cuirass</id>
-  <published>2020-11-24T22:33:52Z</published>
-  <updated>2020-11-24T22:33:52Z</updated>
-  <content type="html">
-   Build automation server using GNU Guix package manager
-  </content>
- </entry>
- <entry>
-  <title>mthl: guix</title>
-  <author>
-   <name>mthl</name>
-  </author>
-  <link href="https://github.com/mthl/guix" />
-  <id>urn:rprimus:github:mthl:guix</id>
-  <published>2020-11-24T22:28:14Z</published>
-  <updated>2020-11-24T22:28:14Z</updated>
-  <content type="html">
-   GNU Guix is a purely functional package manager, and associated free software distribution, for the GNU system. In addition to standard package management features, Guix supports transactional upgrades and roll-backs, unprivileged package management, per-user profiles, and garbage collection.
-  </content>
- </entry>
- <entry>
-  <title>mthl: mcron</title>
-  <author>
-   <name>mthl</name>
-  </author>
-  <link href="https://github.com/mthl/mcron" />
-  <id>urn:rprimus:github:mthl:mcron</id>
-  <published>2020-11-24T22:23:42Z</published>
-  <updated>2020-11-24T22:23:42Z</updated>
-  <content type="html">
-   The GNU package mcron (Mellor&#039;s cron) is a 100% compatible replacement for Vixie cron. It is written in pure Guile, and allows configuration files to be written in scheme (as well as Vixie&#039;s original format) for infinite flexibility in specifying when jobs should be run.
-  </content>
- </entry>
- <entry>
-  <title>metiscus: AdventOfCode2019</title>
-  <author>
-   <name>metiscus</name>
-  </author>
-  <link href="https://github.com/metiscus/AdventOfCode2019" />
-  <id>urn:rprimus:github:metiscus:AdventOfCode2019</id>
-  <published>2020-11-24T19:04:39Z</published>
-  <updated>2020-11-24T19:04:39Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>boralben: simply_scheme</title>
-  <author>
-   <name>boralben</name>
-  </author>
-  <link href="https://github.com/boralben/simply_scheme" />
-  <id>urn:rprimus:github:boralben:simply_scheme</id>
-  <published>2020-11-24T14:48:08Z</published>
-  <updated>2020-11-24T14:48:08Z</updated>
-  <content type="html">
-   Solutions to Textbook Exercises
-  </content>
- </entry>
- <entry>
-  <title>ss13ms110: CFS_Calculation</title>
-  <author>
-   <name>ss13ms110</name>
-  </author>
-  <link href="https://github.com/ss13ms110/CFS_Calculation" />
-  <id>urn:rprimus:github:ss13ms110:CFS_Calculation</id>
-  <published>2020-11-24T11:24:48Z</published>
-  <updated>2020-11-24T11:24:48Z</updated>
-  <content type="html">
-   This Repo contains package for CFS calculation and ROC analysis as published in  https://doi.org/10.1029/2020JB019553
-  </content>
- </entry>
- <entry>
-  <title>her01n: guilemail</title>
-  <author>
-   <name>her01n</name>
-  </author>
-  <link href="https://github.com/her01n/guilemail" />
-  <id>urn:rprimus:github:her01n:guilemail</id>
-  <published>2020-11-24T09:47:09Z</published>
-  <updated>2020-11-24T09:47:09Z</updated>
-  <content type="html">
-   smtp and imap client for guile
+   Jazz chord symbol parser and markup generator for Lilypond
   </content>
  </entry>
 </feed>
