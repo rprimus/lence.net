@@ -2,8 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2020-11-26T09:38:34Z</updated>
+<updated>2020-11-26T19:20:54Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>scott-dlai: comp-3958-project</title>
+  <author>
+   <name>scott-dlai</name>
+  </author>
+  <link href="https://github.com/scott-dlai/comp-3958-project" />
+  <id>urn:rprimus:github:scott-dlai:comp-3958-project</id>
+  <published>2020-11-26T19:20:54Z</published>
+  <updated>2020-11-26T19:20:54Z</updated>
+  <content type="html">
+   End-of-term project for COMP 3958 (Functional programming).
+  </content>
+ </entry>
+ <entry>
+  <title>xvw: my-dmlenu</title>
+  <author>
+   <name>xvw</name>
+  </author>
+  <link href="https://github.com/xvw/my-dmlenu" />
+  <id>urn:rprimus:github:xvw:my-dmlenu</id>
+  <published>2020-11-26T18:29:21Z</published>
+  <updated>2020-11-26T18:29:21Z</updated>
+  <content type="html">
+   Replacement for DMenu using DMLenu
+  </content>
+ </entry>
+ <entry>
+  <title>lemaetech: pp_html</title>
+  <author>
+   <name>lemaetech</name>
+  </author>
+  <link href="https://github.com/lemaetech/pp_html" />
+  <id>urn:rprimus:github:lemaetech:pp_html</id>
+  <published>2020-11-26T18:04:22Z</published>
+  <updated>2020-11-26T18:04:22Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>matejbolta: advent-of-code-2020</title>
+  <author>
+   <name>matejbolta</name>
+  </author>
+  <link href="https://github.com/matejbolta/advent-of-code-2020" />
+  <id>urn:rprimus:github:matejbolta:advent-of-code-2020</id>
+  <published>2020-11-26T17:39:47Z</published>
+  <updated>2020-11-26T17:39:47Z</updated>
+  <content type="html">
+   Collection of Advent of Code 2020 solutions. Written in OCaml.
+  </content>
+ </entry>
+ <entry>
+  <title>Ropi777: Mini-compiler</title>
+  <author>
+   <name>Ropi777</name>
+  </author>
+  <link href="https://github.com/Ropi777/Mini-compiler" />
+  <id>urn:rprimus:github:Ropi777:Mini-compiler</id>
+  <published>2020-11-26T17:23:50Z</published>
+  <updated>2020-11-26T17:23:50Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>purtroppo: StupidOcaml</title>
+  <author>
+   <name>purtroppo</name>
+  </author>
+  <link href="https://github.com/purtroppo/StupidOcaml" />
+  <id>urn:rprimus:github:purtroppo:StupidOcaml</id>
+  <published>2020-11-26T15:46:55Z</published>
+  <updated>2020-11-26T15:46:55Z</updated>
+  <content type="html">
+   Some (stupid) code I wrote years ago
+  </content>
+ </entry>
+ <entry>
+  <title>yairmol: scheme_compiler_tests</title>
+  <author>
+   <name>yairmol</name>
+  </author>
+  <link href="https://github.com/yairmol/scheme_compiler_tests" />
+  <id>urn:rprimus:github:yairmol:scheme_compiler_tests</id>
+  <published>2020-11-26T15:17:54Z</published>
+  <updated>2020-11-26T15:17:54Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>igarnier: sparse</title>
   <author>
@@ -15,6 +106,19 @@
   <updated>2020-11-26T09:38:34Z</updated>
   <content type="html">
    Map-based implementation of sparse vectors and matrices over arbitrary rings.
+  </content>
+ </entry>
+ <entry>
+  <title>barteksad: Modyfikacja-drzew</title>
+  <author>
+   <name>barteksad</name>
+  </author>
+  <link href="https://github.com/barteksad/Modyfikacja-drzew" />
+  <id>urn:rprimus:github:barteksad:Modyfikacja-drzew</id>
+  <published>2020-11-26T08:16:10Z</published>
+  <updated>2020-11-26T08:16:10Z</updated>
+  <content type="html">
+   Drzewa przedziaÅowe, projekt na labolatorium
   </content>
  </entry>
  <entry>
@@ -44,16 +148,16 @@
   </content>
  </entry>
  <entry>
-  <title>argent-smith: amqping</title>
+  <title>argent-smith: ocamqping</title>
   <author>
    <name>argent-smith</name>
   </author>
-  <link href="https://github.com/argent-smith/amqping" />
-  <id>urn:rprimus:github:argent-smith:amqping</id>
+  <link href="https://github.com/argent-smith/ocamqping" />
+  <id>urn:rprimus:github:argent-smith:ocamqping</id>
   <published>2020-11-25T14:53:53Z</published>
   <updated>2020-11-25T14:53:53Z</updated>
   <content type="html">
-   
+   Minimalistic AMQP pinger written in OCaml
   </content>
  </entry>
  <entry>
@@ -132,136 +236,6 @@
   <updated>2020-11-25T00:06:15Z</updated>
   <content type="html">
    Lecture Notes for Week 13
-  </content>
- </entry>
- <entry>
-  <title>xnoe: ocaml-brainfuck-interpreter</title>
-  <author>
-   <name>xnoe</name>
-  </author>
-  <link href="https://github.com/xnoe/ocaml-brainfuck-interpreter" />
-  <id>urn:rprimus:github:xnoe:ocaml-brainfuck-interpreter</id>
-  <published>2020-11-24T21:41:45Z</published>
-  <updated>2020-11-24T21:41:45Z</updated>
-  <content type="html">
-   Fun OCaml thing.
-  </content>
- </entry>
- <entry>
-  <title>BC-CSCI1103: Week12</title>
-  <author>
-   <name>BC-CSCI1103</name>
-  </author>
-  <link href="https://github.com/BC-CSCI1103/Week12" />
-  <id>urn:rprimus:github:BC-CSCI1103:Week12</id>
-  <published>2020-11-24T18:11:29Z</published>
-  <updated>2020-11-24T18:11:29Z</updated>
-  <content type="html">
-   Lecture Notes for Week 12
-  </content>
- </entry>
- <entry>
-  <title>smimram: afind</title>
-  <author>
-   <name>smimram</name>
-  </author>
-  <link href="https://github.com/smimram/afind" />
-  <id>urn:rprimus:github:smimram:afind</id>
-  <published>2020-11-24T15:20:25Z</published>
-  <updated>2020-11-24T15:20:25Z</updated>
-  <content type="html">
-   Find pairs of similar files.
-  </content>
- </entry>
- <entry>
-  <title>BC-CSCI1103: Week11</title>
-  <author>
-   <name>BC-CSCI1103</name>
-  </author>
-  <link href="https://github.com/BC-CSCI1103/Week11" />
-  <id>urn:rprimus:github:BC-CSCI1103:Week11</id>
-  <published>2020-11-24T14:49:44Z</published>
-  <updated>2020-11-24T14:49:44Z</updated>
-  <content type="html">
-   Lecture Notes for Week 11
-  </content>
- </entry>
- <entry>
-  <title>fangyi-zhou: dune-optional-repro</title>
-  <author>
-   <name>fangyi-zhou</name>
-  </author>
-  <link href="https://github.com/fangyi-zhou/dune-optional-repro" />
-  <id>urn:rprimus:github:fangyi-zhou:dune-optional-repro</id>
-  <published>2020-11-24T13:37:07Z</published>
-  <updated>2020-11-24T13:37:07Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>smimram: snippetor</title>
-  <author>
-   <name>smimram</name>
-  </author>
-  <link href="https://github.com/smimram/snippetor" />
-  <id>urn:rprimus:github:smimram:snippetor</id>
-  <published>2020-11-24T07:10:12Z</published>
-  <updated>2020-11-24T07:10:12Z</updated>
-  <content type="html">
-   Extract snippets from code specified by comments.
-  </content>
- </entry>
- <entry>
-  <title>sadnessOjisan: wasm-backend-calculator</title>
-  <author>
-   <name>sadnessOjisan</name>
-  </author>
-  <link href="https://github.com/sadnessOjisan/wasm-backend-calculator" />
-  <id>urn:rprimus:github:sadnessOjisan:wasm-backend-calculator</id>
-  <published>2020-11-24T05:36:02Z</published>
-  <updated>2020-11-24T05:36:02Z</updated>
-  <content type="html">
-   wasmããã¯ã¨ã³ãã®é»å
-  </content>
- </entry>
- <entry>
-  <title>Techser: SimplyTypedButMessy</title>
-  <author>
-   <name>Techser</name>
-  </author>
-  <link href="https://github.com/Techser/SimplyTypedButMessy" />
-  <id>urn:rprimus:github:Techser:SimplyTypedButMessy</id>
-  <published>2020-11-24T03:06:19Z</published>
-  <updated>2020-11-24T03:06:19Z</updated>
-  <content type="html">
-   An implementation of the simply typed lambda calculus
-  </content>
- </entry>
- <entry>
-  <title>kowhongzhang: word_cookies</title>
-  <author>
-   <name>kowhongzhang</name>
-  </author>
-  <link href="https://github.com/kowhongzhang/word_cookies" />
-  <id>urn:rprimus:github:kowhongzhang:word_cookies</id>
-  <published>2020-11-24T02:39:40Z</published>
-  <updated>2020-11-24T02:39:40Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>haohangxu: transitive-dice</title>
-  <author>
-   <name>haohangxu</name>
-  </author>
-  <link href="https://github.com/haohangxu/transitive-dice" />
-  <id>urn:rprimus:github:haohangxu:transitive-dice</id>
-  <published>2020-11-24T00:08:31Z</published>
-  <updated>2020-11-24T00:08:31Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
