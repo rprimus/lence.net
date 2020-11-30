@@ -2,8 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2020-11-29T09:08:14Z</updated>
+<updated>2020-11-30T07:00:32Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>arshad01: ocaml-book</title>
+  <author>
+   <name>arshad01</name>
+  </author>
+  <link href="https://github.com/arshad01/ocaml-book" />
+  <id>urn:rprimus:github:arshad01:ocaml-book</id>
+  <published>2020-11-30T07:00:32Z</published>
+  <updated>2020-11-30T07:00:32Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>zhelih: wombet</title>
+  <author>
+   <name>zhelih</name>
+  </author>
+  <link href="https://github.com/zhelih/wombet" />
+  <id>urn:rprimus:github:zhelih:wombet</id>
+  <published>2020-11-29T22:44:08Z</published>
+  <updated>2020-11-29T22:44:08Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>erhangundogan: ocaml-chess</title>
+  <author>
+   <name>erhangundogan</name>
+  </author>
+  <link href="https://github.com/erhangundogan/ocaml-chess" />
+  <id>urn:rprimus:github:erhangundogan:ocaml-chess</id>
+  <published>2020-11-29T20:26:20Z</published>
+  <updated>2020-11-29T20:26:20Z</updated>
+  <content type="html">
+   OCaml chess game library. Currently featuring algebraic notations read/write
+  </content>
+ </entry>
+ <entry>
+  <title>mplamann: ocaml-semicolon-dwim</title>
+  <author>
+   <name>mplamann</name>
+  </author>
+  <link href="https://github.com/mplamann/ocaml-semicolon-dwim" />
+  <id>urn:rprimus:github:mplamann:ocaml-semicolon-dwim</id>
+  <published>2020-11-29T19:15:15Z</published>
+  <updated>2020-11-29T19:15:15Z</updated>
+  <content type="html">
+   Emacs plugin to make it easier to write Async code in Ocaml
+  </content>
+ </entry>
+ <entry>
+  <title>amelieled: SemantiK</title>
+  <author>
+   <name>amelieled</name>
+  </author>
+  <link href="https://github.com/amelieled/SemantiK" />
+  <id>urn:rprimus:github:amelieled:SemantiK</id>
+  <published>2020-11-29T18:58:54Z</published>
+  <updated>2020-11-29T18:58:54Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>TimotheeChauvin: mini-c-compilation</title>
+  <author>
+   <name>TimotheeChauvin</name>
+  </author>
+  <link href="https://github.com/TimotheeChauvin/mini-c-compilation" />
+  <id>urn:rprimus:github:TimotheeChauvin:mini-c-compilation</id>
+  <published>2020-11-29T16:02:18Z</published>
+  <updated>2020-11-29T16:02:18Z</updated>
+  <content type="html">
+   A compiler of a subset of C written in OCaml
+  </content>
+ </entry>
+ <entry>
+  <title>f-yoshihara: OCaml-Asai</title>
+  <author>
+   <name>f-yoshihara</name>
+  </author>
+  <link href="https://github.com/f-yoshihara/OCaml-Asai" />
+  <id>urn:rprimus:github:f-yoshihara:OCaml-Asai</id>
+  <published>2020-11-29T14:25:39Z</published>
+  <updated>2020-11-29T14:25:39Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>dmiotti: messenger</title>
   <author>
@@ -80,45 +171,6 @@
   <updated>2020-11-28T06:40:20Z</updated>
   <content type="html">
    OCaml&#039;s native toplevel as a standalone package
-  </content>
- </entry>
- <entry>
-  <title>JeremyBouchard220: Ocaml-Website-Code</title>
-  <author>
-   <name>JeremyBouchard220</name>
-  </author>
-  <link href="https://github.com/JeremyBouchard220/Ocaml-Website-Code" />
-  <id>urn:rprimus:github:JeremyBouchard220:Ocaml-Website-Code</id>
-  <published>2020-11-27T16:36:18Z</published>
-  <updated>2020-11-27T16:36:18Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>lynn: tapl</title>
-  <author>
-   <name>lynn</name>
-  </author>
-  <link href="https://github.com/lynn/tapl" />
-  <id>urn:rprimus:github:lynn:tapl</id>
-  <published>2020-11-27T16:12:57Z</published>
-  <updated>2020-11-27T16:12:57Z</updated>
-  <content type="html">
-   exercises from &quot;types and programming languages&quot; (pierce)
-  </content>
- </entry>
- <entry>
-  <title>Kevin-Grgd: TP_Prog_Fonctionnelle</title>
-  <author>
-   <name>Kevin-Grgd</name>
-  </author>
-  <link href="https://github.com/Kevin-Grgd/TP_Prog_Fonctionnelle" />
-  <id>urn:rprimus:github:Kevin-Grgd:TP_Prog_Fonctionnelle</id>
-  <published>2020-11-27T10:46:12Z</published>
-  <updated>2020-11-27T10:46:12Z</updated>
-  <content type="html">
-   TPs de OCaml du S2 - UE Programmation Fontionnelle FST UJM
   </content>
  </entry>
 </feed>
