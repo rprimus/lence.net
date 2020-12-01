@@ -2,15 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-erlang.atom"/>
 <id>urn:rprimus:github:newerlangrepos</id>
-<updated>2020-11-30T06:54:51Z</updated>
+<updated>2020-12-01T07:45:34Z</updated>
 <title type='text'>New GitHub Erlang Repos</title>
  <entry>
-  <title>arthasyou: erl_example</title>
+  <title>dmsnell: aoc2020</title>
+  <author>
+   <name>dmsnell</name>
+  </author>
+  <link href="https://github.com/dmsnell/aoc2020" />
+  <id>urn:rprimus:github:dmsnell:aoc2020</id>
+  <published>2020-12-01T07:45:34Z</published>
+  <updated>2020-12-01T07:45:34Z</updated>
+  <content type="html">
+   Advent of Code 2020 Solutions
+  </content>
+ </entry>
+ <entry>
+  <title>galdor: aoc2020</title>
+  <author>
+   <name>galdor</name>
+  </author>
+  <link href="https://github.com/galdor/aoc2020" />
+  <id>urn:rprimus:github:galdor:aoc2020</id>
+  <published>2020-12-01T07:00:40Z</published>
+  <updated>2020-12-01T07:00:40Z</updated>
+  <content type="html">
+   My solutions for the Advent of Code 2020.
+  </content>
+ </entry>
+ <entry>
+  <title>gavendanoc-learning: simple-messenger</title>
+  <author>
+   <name>gavendanoc-learning</name>
+  </author>
+  <link href="https://github.com/gavendanoc-learning/simple-messenger" />
+  <id>urn:rprimus:github:gavendanoc-learning:simple-messenger</id>
+  <published>2020-12-01T00:39:44Z</published>
+  <updated>2020-12-01T00:39:44Z</updated>
+  <content type="html">
+   Repo for a simple erlang messenger with concurrency
+  </content>
+ </entry>
+ <entry>
+  <title>leonardb: mfdb</title>
+  <author>
+   <name>leonardb</name>
+  </author>
+  <link href="https://github.com/leonardb/mfdb" />
+  <id>urn:rprimus:github:leonardb:mfdb</id>
+  <published>2020-11-30T22:49:40Z</published>
+  <updated>2020-11-30T22:49:40Z</updated>
+  <content type="html">
+   Erlang specific Table/Record layer for Foundation DB
+  </content>
+ </entry>
+ <entry>
+  <title>jakobht: aoc_2020</title>
+  <author>
+   <name>jakobht</name>
+  </author>
+  <link href="https://github.com/jakobht/aoc_2020" />
+  <id>urn:rprimus:github:jakobht:aoc_2020</id>
+  <published>2020-11-30T18:54:33Z</published>
+  <updated>2020-11-30T18:54:33Z</updated>
+  <content type="html">
+   Gleam solutions for advent of code 2020
+  </content>
+ </entry>
+ <entry>
+  <title>Subbaram1993: Fibonacci_series</title>
+  <author>
+   <name>Subbaram1993</name>
+  </author>
+  <link href="https://github.com/Subbaram1993/Fibonacci_series" />
+  <id>urn:rprimus:github:Subbaram1993:Fibonacci_series</id>
+  <published>2020-11-30T11:42:50Z</published>
+  <updated>2020-11-30T11:42:50Z</updated>
+  <content type="html">
+   Fibonacci series upto N numbers and Nth Fibonacci Number
+  </content>
+ </entry>
+ <entry>
+  <title>arthasyou: erl-example</title>
   <author>
    <name>arthasyou</name>
   </author>
-  <link href="https://github.com/arthasyou/erl_example" />
-  <id>urn:rprimus:github:arthasyou:erl_example</id>
+  <link href="https://github.com/arthasyou/erl-example" />
+  <id>urn:rprimus:github:arthasyou:erl-example</id>
   <published>2020-11-30T06:54:51Z</published>
   <updated>2020-11-30T06:54:51Z</updated>
   <content type="html">
@@ -18,12 +96,12 @@
   </content>
  </entry>
  <entry>
-  <title>arthasyou: erl_db</title>
+  <title>arthasyou: erl-db</title>
   <author>
    <name>arthasyou</name>
   </author>
-  <link href="https://github.com/arthasyou/erl_db" />
-  <id>urn:rprimus:github:arthasyou:erl_db</id>
+  <link href="https://github.com/arthasyou/erl-db" />
+  <id>urn:rprimus:github:arthasyou:erl-db</id>
   <published>2020-11-30T06:54:13Z</published>
   <updated>2020-11-30T06:54:13Z</updated>
   <content type="html">
@@ -31,12 +109,12 @@
   </content>
  </entry>
  <entry>
-  <title>arthasyou: erl_tcp</title>
+  <title>arthasyou: erl-tcp</title>
   <author>
    <name>arthasyou</name>
   </author>
-  <link href="https://github.com/arthasyou/erl_tcp" />
-  <id>urn:rprimus:github:arthasyou:erl_tcp</id>
+  <link href="https://github.com/arthasyou/erl-tcp" />
+  <id>urn:rprimus:github:arthasyou:erl-tcp</id>
   <published>2020-11-30T06:53:40Z</published>
   <updated>2020-11-30T06:53:40Z</updated>
   <content type="html">
@@ -44,12 +122,12 @@
   </content>
  </entry>
  <entry>
-  <title>arthasyou: erl_frame</title>
+  <title>arthasyou: erl-frame</title>
   <author>
    <name>arthasyou</name>
   </author>
-  <link href="https://github.com/arthasyou/erl_frame" />
-  <id>urn:rprimus:github:arthasyou:erl_frame</id>
+  <link href="https://github.com/arthasyou/erl-frame" />
+  <id>urn:rprimus:github:arthasyou:erl-frame</id>
   <published>2020-11-30T06:52:52Z</published>
   <updated>2020-11-30T06:52:52Z</updated>
   <content type="html">
@@ -57,14 +135,27 @@
   </content>
  </entry>
  <entry>
-  <title>arthasyou: erl_utility</title>
+  <title>arthasyou: erl-utility</title>
   <author>
    <name>arthasyou</name>
   </author>
-  <link href="https://github.com/arthasyou/erl_utility" />
-  <id>urn:rprimus:github:arthasyou:erl_utility</id>
+  <link href="https://github.com/arthasyou/erl-utility" />
+  <id>urn:rprimus:github:arthasyou:erl-utility</id>
   <published>2020-11-30T05:54:24Z</published>
   <updated>2020-11-30T05:54:24Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>arthasyou: water_pool</title>
+  <author>
+   <name>arthasyou</name>
+  </author>
+  <link href="https://github.com/arthasyou/water_pool" />
+  <id>urn:rprimus:github:arthasyou:water_pool</id>
+  <published>2020-11-30T05:23:08Z</published>
+  <updated>2020-11-30T05:23:08Z</updated>
   <content type="html">
    
   </content>
@@ -119,84 +210,6 @@
   <updated>2020-11-29T08:05:28Z</updated>
   <content type="html">
    Logic programming with ÂµKanren
-  </content>
- </entry>
- <entry>
-  <title>galdor: rebar3-mustache</title>
-  <author>
-   <name>galdor</name>
-  </author>
-  <link href="https://github.com/galdor/rebar3-mustache" />
-  <id>urn:rprimus:github:galdor:rebar3-mustache</id>
-  <published>2020-11-28T07:58:12Z</published>
-  <updated>2020-11-28T07:58:12Z</updated>
-  <content type="html">
-   File generation based on mustache templates for Rebar3.
-  </content>
- </entry>
- <entry>
-  <title>IgorKoshnarov: bi_lec5_hw5</title>
-  <author>
-   <name>IgorKoshnarov</name>
-  </author>
-  <link href="https://github.com/IgorKoshnarov/bi_lec5_hw5" />
-  <id>urn:rprimus:github:IgorKoshnarov:bi_lec5_hw5</id>
-  <published>2020-11-28T07:28:42Z</published>
-  <updated>2020-11-28T07:28:42Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>IgorKoshnarov: bi_lec4_hw3</title>
-  <author>
-   <name>IgorKoshnarov</name>
-  </author>
-  <link href="https://github.com/IgorKoshnarov/bi_lec4_hw3" />
-  <id>urn:rprimus:github:IgorKoshnarov:bi_lec4_hw3</id>
-  <published>2020-11-28T07:28:03Z</published>
-  <updated>2020-11-28T07:28:03Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>IgorKoshnarov: bi_lec4_hw2</title>
-  <author>
-   <name>IgorKoshnarov</name>
-  </author>
-  <link href="https://github.com/IgorKoshnarov/bi_lec4_hw2" />
-  <id>urn:rprimus:github:IgorKoshnarov:bi_lec4_hw2</id>
-  <published>2020-11-28T07:27:28Z</published>
-  <updated>2020-11-28T07:27:28Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>OsazuwaOyegun: exercism_erlang</title>
-  <author>
-   <name>OsazuwaOyegun</name>
-  </author>
-  <link href="https://github.com/OsazuwaOyegun/exercism_erlang" />
-  <id>urn:rprimus:github:OsazuwaOyegun:exercism_erlang</id>
-  <published>2020-11-28T07:25:38Z</published>
-  <updated>2020-11-28T07:25:38Z</updated>
-  <content type="html">
-   Solutions to Exercism Erlang exercises.
-  </content>
- </entry>
- <entry>
-  <title>SisMaker: erlVPack</title>
-  <author>
-   <name>SisMaker</name>
-  </author>
-  <link href="https://github.com/SisMaker/erlVPack" />
-  <id>urn:rprimus:github:SisMaker:erlVPack</id>
-  <published>2020-11-28T04:42:59Z</published>
-  <updated>2020-11-28T04:42:59Z</updated>
-  <content type="html">
-   erlAarango é©±å¨äºè¿å¶åºåååº
   </content>
  </entry>
 </feed>
