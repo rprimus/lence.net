@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-racket.atom"/>
 <id>urn:rprimus:github:newracketrepos</id>
-<updated>2020-12-02T09:09:10Z</updated>
+<updated>2020-12-03T04:40:45Z</updated>
 <title type='text'>New GitHub Racket Repos</title>
+ <entry>
+  <title>McTano: lisp-diff</title>
+  <author>
+   <name>McTano</name>
+  </author>
+  <link href="https://github.com/McTano/lisp-diff" />
+  <id>urn:rprimus:github:McTano:lisp-diff</id>
+  <published>2020-12-03T04:40:45Z</published>
+  <updated>2020-12-03T04:40:45Z</updated>
+  <content type="html">
+   Tool to visually differentiate s-expressions
+  </content>
+ </entry>
+ <entry>
+  <title>ionathanch: adventofcode-2020</title>
+  <author>
+   <name>ionathanch</name>
+  </author>
+  <link href="https://github.com/ionathanch/adventofcode-2020" />
+  <id>urn:rprimus:github:ionathanch:adventofcode-2020</id>
+  <published>2020-12-03T02:23:05Z</published>
+  <updated>2020-12-03T02:23:05Z</updated>
+  <content type="html">
+   Solutions for https://adventofcode.com/2020/.
+  </content>
+ </entry>
+ <entry>
+  <title>jthodge: advent-of-code</title>
+  <author>
+   <name>jthodge</name>
+  </author>
+  <link href="https://github.com/jthodge/advent-of-code" />
+  <id>urn:rprimus:github:jthodge:advent-of-code</id>
+  <published>2020-12-02T23:00:56Z</published>
+  <updated>2020-12-02T23:00:56Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>trholdridge: project-euler</title>
+  <author>
+   <name>trholdridge</name>
+  </author>
+  <link href="https://github.com/trholdridge/project-euler" />
+  <id>urn:rprimus:github:trholdridge:project-euler</id>
+  <published>2020-12-02T21:16:16Z</published>
+  <updated>2020-12-02T21:16:16Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>johnstonskj: advent_of_code_2020</title>
+  <author>
+   <name>johnstonskj</name>
+  </author>
+  <link href="https://github.com/johnstonskj/advent_of_code_2020" />
+  <id>urn:rprimus:github:johnstonskj:advent_of_code_2020</id>
+  <published>2020-12-02T19:02:26Z</published>
+  <updated>2020-12-02T19:02:26Z</updated>
+  <content type="html">
+   Advent of code for 2020, or some of it at least
+  </content>
+ </entry>
+ <entry>
+  <title>callummole: AoC_2020</title>
+  <author>
+   <name>callummole</name>
+  </author>
+  <link href="https://github.com/callummole/AoC_2020" />
+  <id>urn:rprimus:github:callummole:AoC_2020</id>
+  <published>2020-12-02T11:00:16Z</published>
+  <updated>2020-12-02T11:00:16Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>chenyulue: sicp-answer</title>
   <author>
@@ -83,16 +161,16 @@
   </content>
  </entry>
  <entry>
-  <title>RioWeil: aoc-2020</title>
+  <title>SolarBear: AoC2020</title>
   <author>
-   <name>RioWeil</name>
+   <name>SolarBear</name>
   </author>
-  <link href="https://github.com/RioWeil/aoc-2020" />
-  <id>urn:rprimus:github:RioWeil:aoc-2020</id>
-  <published>2020-12-01T19:41:41Z</published>
-  <updated>2020-12-01T19:41:41Z</updated>
+  <link href="https://github.com/SolarBear/AoC2020" />
+  <id>urn:rprimus:github:SolarBear:AoC2020</id>
+  <published>2020-12-01T22:45:27Z</published>
+  <updated>2020-12-01T22:45:27Z</updated>
   <content type="html">
-   My solutions for the Advent of Code 2020 Challenge. A mix of python and Racket solutions.
+   Advent of Code 2020
   </content>
  </entry>
  <entry>
@@ -109,16 +187,16 @@
   </content>
  </entry>
  <entry>
-  <title>JordanFist: scheme_exercises</title>
+  <title>ckuhl: advent-of-code-2020</title>
   <author>
-   <name>JordanFist</name>
+   <name>ckuhl</name>
   </author>
-  <link href="https://github.com/JordanFist/scheme_exercises" />
-  <id>urn:rprimus:github:JordanFist:scheme_exercises</id>
-  <published>2020-12-01T18:47:35Z</published>
-  <updated>2020-12-01T18:47:35Z</updated>
+  <link href="https://github.com/ckuhl/advent-of-code-2020" />
+  <id>urn:rprimus:github:ckuhl:advent-of-code-2020</id>
+  <published>2020-12-01T18:56:47Z</published>
+  <updated>2020-12-01T18:56:47Z</updated>
   <content type="html">
-   
+   My solutions to the Advent of Code 2020 challenges
   </content>
  </entry>
  <entry>
@@ -223,58 +301,6 @@
   <updated>2020-12-01T01:56:05Z</updated>
   <content type="html">
    Solutions to Advent of Code 2020, written in Racket
-  </content>
- </entry>
- <entry>
-  <title>dlozeve: aoc2020</title>
-  <author>
-   <name>dlozeve</name>
-  </author>
-  <link href="https://github.com/dlozeve/aoc2020" />
-  <id>urn:rprimus:github:dlozeve:aoc2020</id>
-  <published>2020-11-30T17:09:28Z</published>
-  <updated>2020-11-30T17:09:28Z</updated>
-  <content type="html">
-   Advent of Code 2020
-  </content>
- </entry>
- <entry>
-  <title>isabelmartinezg: Inteligencia-Artificial</title>
-  <author>
-   <name>isabelmartinezg</name>
-  </author>
-  <link href="https://github.com/isabelmartinezg/Inteligencia-Artificial" />
-  <id>urn:rprimus:github:isabelmartinezg:Inteligencia-Artificial</id>
-  <published>2020-11-30T12:49:25Z</published>
-  <updated>2020-11-30T12:49:25Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>isaacedwin: cstroupe</title>
-  <author>
-   <name>isaacedwin</name>
-  </author>
-  <link href="https://github.com/isaacedwin/cstroupe" />
-  <id>urn:rprimus:github:isaacedwin:cstroupe</id>
-  <published>2020-11-30T10:36:13Z</published>
-  <updated>2020-11-30T10:36:13Z</updated>
-  <content type="html">
-   Fall 2020 Final Project
-  </content>
- </entry>
- <entry>
-  <title>goderich: sxml-select</title>
-  <author>
-   <name>goderich</name>
-  </author>
-  <link href="https://github.com/goderich/sxml-select" />
-  <id>urn:rprimus:github:goderich:sxml-select</id>
-  <published>2020-11-30T05:04:15Z</published>
-  <updated>2020-11-30T05:04:15Z</updated>
-  <content type="html">
-   High-level Racket library for SXML selection
   </content>
  </entry>
 </feed>
