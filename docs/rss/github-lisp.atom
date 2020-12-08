@@ -2,8 +2,125 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2020-12-07T10:05:36Z</updated>
+<updated>2020-12-08T05:45:35Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>AaronChen0: maxima-playground</title>
+  <author>
+   <name>AaronChen0</name>
+  </author>
+  <link href="https://github.com/AaronChen0/maxima-playground" />
+  <id>urn:rprimus:github:AaronChen0:maxima-playground</id>
+  <published>2020-12-08T05:45:35Z</published>
+  <updated>2020-12-08T05:45:35Z</updated>
+  <content type="html">
+   Personal configuration of the Maxima CAS
+  </content>
+ </entry>
+ <entry>
+  <title>muyinliu: cl-ssdb</title>
+  <author>
+   <name>muyinliu</name>
+  </author>
+  <link href="https://github.com/muyinliu/cl-ssdb" />
+  <id>urn:rprimus:github:muyinliu:cl-ssdb</id>
+  <published>2020-12-08T03:31:05Z</published>
+  <updated>2020-12-08T03:31:05Z</updated>
+  <content type="html">
+   CL-SSDB - A fast and robus Common Lisp client for SSDB
+  </content>
+ </entry>
+ <entry>
+  <title>davd33: opti-shopylist</title>
+  <author>
+   <name>davd33</name>
+  </author>
+  <link href="https://github.com/davd33/opti-shopylist" />
+  <id>urn:rprimus:github:davd33:opti-shopylist</id>
+  <published>2020-12-07T22:57:34Z</published>
+  <updated>2020-12-07T22:57:34Z</updated>
+  <content type="html">
+   Opti list for shopping.
+  </content>
+ </entry>
+ <entry>
+  <title>epw: exlisp</title>
+  <author>
+   <name>epw</name>
+  </author>
+  <link href="https://github.com/epw/exlisp" />
+  <id>urn:rprimus:github:epw:exlisp</id>
+  <published>2020-12-07T21:32:25Z</published>
+  <updated>2020-12-07T21:32:25Z</updated>
+  <content type="html">
+   This makes it easy to use SBCL for shell scripts with a #! line
+  </content>
+ </entry>
+ <entry>
+  <title>jonprairie: isthmus</title>
+  <author>
+   <name>jonprairie</name>
+  </author>
+  <link href="https://github.com/jonprairie/isthmus" />
+  <id>urn:rprimus:github:jonprairie:isthmus</id>
+  <published>2020-12-07T20:31:15Z</published>
+  <updated>2020-12-07T20:31:15Z</updated>
+  <content type="html">
+   Simple sqlite convenience wrapper for Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>jonprairie: cl-uci</title>
+  <author>
+   <name>jonprairie</name>
+  </author>
+  <link href="https://github.com/jonprairie/cl-uci" />
+  <id>urn:rprimus:github:jonprairie:cl-uci</id>
+  <published>2020-12-07T20:14:04Z</published>
+  <updated>2020-12-07T20:14:04Z</updated>
+  <content type="html">
+   UCI interface for Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>nolandonley14: collatz</title>
+  <author>
+   <name>nolandonley14</name>
+  </author>
+  <link href="https://github.com/nolandonley14/collatz" />
+  <id>urn:rprimus:github:nolandonley14:collatz</id>
+  <published>2020-12-07T18:21:09Z</published>
+  <updated>2020-12-07T18:21:09Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>erumachi: col-advent-of-code-2020</title>
+  <author>
+   <name>erumachi</name>
+  </author>
+  <link href="https://github.com/erumachi/col-advent-of-code-2020" />
+  <id>urn:rprimus:github:erumachi:col-advent-of-code-2020</id>
+  <published>2020-12-07T15:38:01Z</published>
+  <updated>2020-12-07T15:38:01Z</updated>
+  <content type="html">
+   Submissions for the CoL Advent of Code event 2020
+  </content>
+ </entry>
+ <entry>
+  <title>digikar99: dense-arrays</title>
+  <author>
+   <name>digikar99</name>
+  </author>
+  <link href="https://github.com/digikar99/dense-arrays" />
+  <id>urn:rprimus:github:digikar99:dense-arrays</id>
+  <published>2020-12-07T12:22:35Z</published>
+  <updated>2020-12-07T12:22:35Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>AdrianKlei: fremen_ws</title>
   <author>
@@ -171,110 +288,6 @@
   <updated>2020-12-06T05:03:52Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>dunefox: adventofcode20</title>
-  <author>
-   <name>dunefox</name>
-  </author>
-  <link href="https://github.com/dunefox/adventofcode20" />
-  <id>urn:rprimus:github:dunefox:adventofcode20</id>
-  <published>2020-12-05T23:11:45Z</published>
-  <updated>2020-12-05T23:11:45Z</updated>
-  <content type="html">
-   Solutions to the puzzles for advent of code 2020 (https://adventofcode.com)
-  </content>
- </entry>
- <entry>
-  <title>tdrhq: cl-unix-sockets</title>
-  <author>
-   <name>tdrhq</name>
-  </author>
-  <link href="https://github.com/tdrhq/cl-unix-sockets" />
-  <id>urn:rprimus:github:tdrhq:cl-unix-sockets</id>
-  <published>2020-12-05T22:23:42Z</published>
-  <updated>2020-12-05T22:23:42Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>compufox: et</title>
-  <author>
-   <name>compufox</name>
-  </author>
-  <link href="https://github.com/compufox/et" />
-  <id>urn:rprimus:github:compufox:et</id>
-  <published>2020-12-05T21:46:25Z</published>
-  <updated>2020-12-05T21:46:25Z</updated>
-  <content type="html">
-   desktop mastodon client built with Qt5 and lisp
-  </content>
- </entry>
- <entry>
-  <title>bluejay77: ChangLeeTPU</title>
-  <author>
-   <name>bluejay77</name>
-  </author>
-  <link href="https://github.com/bluejay77/ChangLeeTPU" />
-  <id>urn:rprimus:github:bluejay77:ChangLeeTPU</id>
-  <published>2020-12-05T16:39:15Z</published>
-  <updated>2020-12-05T16:39:15Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>tliikala: advent-of-code</title>
-  <author>
-   <name>tliikala</name>
-  </author>
-  <link href="https://github.com/tliikala/advent-of-code" />
-  <id>urn:rprimus:github:tliikala:advent-of-code</id>
-  <published>2020-12-05T09:52:39Z</published>
-  <updated>2020-12-05T09:52:39Z</updated>
-  <content type="html">
-   Here are some of my &quot;Advent of Code&quot; related files. We shall see how far I can get this year.
-  </content>
- </entry>
- <entry>
-  <title>sebasmonia: ftp-client</title>
-  <author>
-   <name>sebasmonia</name>
-  </author>
-  <link href="https://github.com/sebasmonia/ftp-client" />
-  <id>urn:rprimus:github:sebasmonia:ftp-client</id>
-  <published>2020-12-05T05:05:11Z</published>
-  <updated>2020-12-05T05:05:11Z</updated>
-  <content type="html">
-   An FTP client built with the purpose to learn/practice Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>goroda: advent_of_code_2020</title>
-  <author>
-   <name>goroda</name>
-  </author>
-  <link href="https://github.com/goroda/advent_of_code_2020" />
-  <id>urn:rprimus:github:goroda:advent_of_code_2020</id>
-  <published>2020-12-05T01:32:20Z</published>
-  <updated>2020-12-05T01:32:20Z</updated>
-  <content type="html">
-   Advent of Code 2020 (in lisp)
-  </content>
- </entry>
- <entry>
-  <title>eXodiquas: monarch</title>
-  <author>
-   <name>eXodiquas</name>
-  </author>
-  <link href="https://github.com/eXodiquas/monarch" />
-  <id>urn:rprimus:github:eXodiquas:monarch</id>
-  <published>2020-12-05T00:31:08Z</published>
-  <updated>2020-12-05T00:31:08Z</updated>
-  <content type="html">
-   A common lisp utility library that contains functions and macros often needed for coding puzzles.
   </content>
  </entry>
 </feed>
