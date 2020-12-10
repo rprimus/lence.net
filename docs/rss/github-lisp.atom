@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2020-12-09T05:38:41Z</updated>
+<updated>2020-12-10T07:42:34Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>fukamachi: github-webhook</title>
+  <author>
+   <name>fukamachi</name>
+  </author>
+  <link href="https://github.com/fukamachi/github-webhook" />
+  <id>urn:rprimus:github:fukamachi:github-webhook</id>
+  <published>2020-12-10T07:42:34Z</published>
+  <updated>2020-12-10T07:42:34Z</updated>
+  <content type="html">
+   Docker container to listen for GitHub webhook events
+  </content>
+ </entry>
+ <entry>
+  <title>cl-aip: frame-master</title>
+  <author>
+   <name>cl-aip</name>
+  </author>
+  <link href="https://github.com/cl-aip/frame-master" />
+  <id>urn:rprimus:github:cl-aip:frame-master</id>
+  <published>2020-12-10T05:42:09Z</published>
+  <updated>2020-12-10T05:42:09Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>shamazmazum: zero-dns</title>
+  <author>
+   <name>shamazmazum</name>
+  </author>
+  <link href="https://github.com/shamazmazum/zero-dns" />
+  <id>urn:rprimus:github:shamazmazum:zero-dns</id>
+  <published>2020-12-09T15:15:05Z</published>
+  <updated>2020-12-09T15:15:05Z</updated>
+  <content type="html">
+   ZeroDNS daemon
+  </content>
+ </entry>
  <entry>
   <title>Ashay15: assignment-9</title>
   <author>
@@ -171,149 +210,6 @@
   <updated>2020-12-08T03:31:05Z</updated>
   <content type="html">
    CL-SSDB - A fast and robus Common Lisp client for SSDB
-  </content>
- </entry>
- <entry>
-  <title>davd33: opti-shopylist</title>
-  <author>
-   <name>davd33</name>
-  </author>
-  <link href="https://github.com/davd33/opti-shopylist" />
-  <id>urn:rprimus:github:davd33:opti-shopylist</id>
-  <published>2020-12-07T22:57:34Z</published>
-  <updated>2020-12-07T22:57:34Z</updated>
-  <content type="html">
-   Opti list for shopping.
-  </content>
- </entry>
- <entry>
-  <title>epw: exlisp</title>
-  <author>
-   <name>epw</name>
-  </author>
-  <link href="https://github.com/epw/exlisp" />
-  <id>urn:rprimus:github:epw:exlisp</id>
-  <published>2020-12-07T21:32:25Z</published>
-  <updated>2020-12-07T21:32:25Z</updated>
-  <content type="html">
-   This makes it easy to use SBCL for shell scripts with a #! line
-  </content>
- </entry>
- <entry>
-  <title>jonprairie: isthmus</title>
-  <author>
-   <name>jonprairie</name>
-  </author>
-  <link href="https://github.com/jonprairie/isthmus" />
-  <id>urn:rprimus:github:jonprairie:isthmus</id>
-  <published>2020-12-07T20:31:15Z</published>
-  <updated>2020-12-07T20:31:15Z</updated>
-  <content type="html">
-   Simple sqlite convenience wrapper for Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>jonprairie: cl-uci</title>
-  <author>
-   <name>jonprairie</name>
-  </author>
-  <link href="https://github.com/jonprairie/cl-uci" />
-  <id>urn:rprimus:github:jonprairie:cl-uci</id>
-  <published>2020-12-07T20:14:04Z</published>
-  <updated>2020-12-07T20:14:04Z</updated>
-  <content type="html">
-   UCI interface for Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>nolandonley14: collatz</title>
-  <author>
-   <name>nolandonley14</name>
-  </author>
-  <link href="https://github.com/nolandonley14/collatz" />
-  <id>urn:rprimus:github:nolandonley14:collatz</id>
-  <published>2020-12-07T18:21:09Z</published>
-  <updated>2020-12-07T18:21:09Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>erumachi: col-advent-of-code-2020</title>
-  <author>
-   <name>erumachi</name>
-  </author>
-  <link href="https://github.com/erumachi/col-advent-of-code-2020" />
-  <id>urn:rprimus:github:erumachi:col-advent-of-code-2020</id>
-  <published>2020-12-07T15:38:01Z</published>
-  <updated>2020-12-07T15:38:01Z</updated>
-  <content type="html">
-   Submissions for the CoL Advent of Code event 2020
-  </content>
- </entry>
- <entry>
-  <title>digikar99: dense-arrays</title>
-  <author>
-   <name>digikar99</name>
-  </author>
-  <link href="https://github.com/digikar99/dense-arrays" />
-  <id>urn:rprimus:github:digikar99:dense-arrays</id>
-  <published>2020-12-07T12:22:35Z</published>
-  <updated>2020-12-07T12:22:35Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>AdrianKlei: fremen_ws</title>
-  <author>
-   <name>AdrianKlei</name>
-  </author>
-  <link href="https://github.com/AdrianKlei/fremen_ws" />
-  <id>urn:rprimus:github:AdrianKlei:fremen_ws</id>
-  <published>2020-12-07T10:05:36Z</published>
-  <updated>2020-12-07T10:05:36Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>marcus-phi: practical-common-lisp</title>
-  <author>
-   <name>marcus-phi</name>
-  </author>
-  <link href="https://github.com/marcus-phi/practical-common-lisp" />
-  <id>urn:rprimus:github:marcus-phi:practical-common-lisp</id>
-  <published>2020-12-07T04:57:46Z</published>
-  <updated>2020-12-07T04:57:46Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>lebai-robotics: lebai-ros-sdk</title>
-  <author>
-   <name>lebai-robotics</name>
-  </author>
-  <link href="https://github.com/lebai-robotics/lebai-ros-sdk" />
-  <id>urn:rprimus:github:lebai-robotics:lebai-ros-sdk</id>
-  <published>2020-12-07T04:54:00Z</published>
-  <updated>2020-12-07T04:54:00Z</updated>
-  <content type="html">
-   Lebai ros sdk for controlling the robot via ROS
-  </content>
- </entry>
- <entry>
-  <title>gptix: adventofcode2020</title>
-  <author>
-   <name>gptix</name>
-  </author>
-  <link href="https://github.com/gptix/adventofcode2020" />
-  <id>urn:rprimus:github:gptix:adventofcode2020</id>
-  <published>2020-12-07T01:33:38Z</published>
-  <updated>2020-12-07T01:33:38Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
