@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-scheme.atom"/>
 <id>urn:rprimus:github:newschemerepos</id>
-<updated>2020-12-10T06:51:24Z</updated>
+<updated>2020-12-10T22:29:18Z</updated>
 <title type='text'>New GitHub Scheme Repos</title>
+ <entry>
+  <title>benthepoet: gambit-sdl2</title>
+  <author>
+   <name>benthepoet</name>
+  </author>
+  <link href="https://github.com/benthepoet/gambit-sdl2" />
+  <id>urn:rprimus:github:benthepoet:gambit-sdl2</id>
+  <published>2020-12-10T22:29:18Z</published>
+  <updated>2020-12-10T22:29:18Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>PaulBatchelor: codex</title>
+  <author>
+   <name>PaulBatchelor</name>
+  </author>
+  <link href="https://github.com/PaulBatchelor/codex" />
+  <id>urn:rprimus:github:PaulBatchelor:codex</id>
+  <published>2020-12-10T22:16:57Z</published>
+  <updated>2020-12-10T22:16:57Z</updated>
+  <content type="html">
+   the candy crystal rainbow codex
+  </content>
+ </entry>
+ <entry>
+  <title>LilianHiault: prog_fonc</title>
+  <author>
+   <name>LilianHiault</name>
+  </author>
+  <link href="https://github.com/LilianHiault/prog_fonc" />
+  <id>urn:rprimus:github:LilianHiault:prog_fonc</id>
+  <published>2020-12-10T22:11:46Z</published>
+  <updated>2020-12-10T22:11:46Z</updated>
+  <content type="html">
+   TPs de programmation fonctionnelle
+  </content>
+ </entry>
+ <entry>
+  <title>TheLons: diploma</title>
+  <author>
+   <name>TheLons</name>
+  </author>
+  <link href="https://github.com/TheLons/diploma" />
+  <id>urn:rprimus:github:TheLons:diploma</id>
+  <published>2020-12-10T11:03:59Z</published>
+  <updated>2020-12-10T11:03:59Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>Jhon3: vack-ihc</title>
   <author>
@@ -67,110 +119,6 @@
   <updated>2020-12-09T05:21:12Z</updated>
   <content type="html">
    ADA, Scheme, ML, JAVA, Scala
-  </content>
- </entry>
- <entry>
-  <title>AleseWooditch: Weisburd_et_al_Basic_Stats</title>
-  <author>
-   <name>AleseWooditch</name>
-  </author>
-  <link href="https://github.com/AleseWooditch/Weisburd_et_al_Basic_Stats" />
-  <id>urn:rprimus:github:AleseWooditch:Weisburd_et_al_Basic_Stats</id>
-  <published>2020-12-08T18:28:38Z</published>
-  <updated>2020-12-08T18:28:38Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>soldernerd: SensorInterface</title>
-  <author>
-   <name>soldernerd</name>
-  </author>
-  <link href="https://github.com/soldernerd/SensorInterface" />
-  <id>urn:rprimus:github:soldernerd:SensorInterface</id>
-  <published>2020-12-08T17:06:25Z</published>
-  <updated>2020-12-08T17:06:25Z</updated>
-  <content type="html">
-   Interface between the CNC controller of my mill, a tool lenght probe and a 3D probe
-  </content>
- </entry>
- <entry>
-  <title>soldernerd: YaskawaSpeedControl</title>
-  <author>
-   <name>soldernerd</name>
-  </author>
-  <link href="https://github.com/soldernerd/YaskawaSpeedControl" />
-  <id>urn:rprimus:github:soldernerd:YaskawaSpeedControl</id>
-  <published>2020-12-08T17:01:41Z</published>
-  <updated>2020-12-08T17:01:41Z</updated>
-  <content type="html">
-   A fully-featured interface between a CNC controller and a Yaskawa Sigma7 servo drive
-  </content>
- </entry>
- <entry>
-  <title>soldernerd: ToolChanger</title>
-  <author>
-   <name>soldernerd</name>
-  </author>
-  <link href="https://github.com/soldernerd/ToolChanger" />
-  <id>urn:rprimus:github:soldernerd:ToolChanger</id>
-  <published>2020-12-08T16:58:24Z</published>
-  <updated>2020-12-08T16:58:24Z</updated>
-  <content type="html">
-   Some hardware logic for the tool changer of my milling machine. No tool change while spindle is turning etc...
-  </content>
- </entry>
- <entry>
-  <title>soldernerd: RelayController</title>
-  <author>
-   <name>soldernerd</name>
-  </author>
-  <link href="https://github.com/soldernerd/RelayController" />
-  <id>urn:rprimus:github:soldernerd:RelayController</id>
-  <published>2020-12-08T16:52:56Z</published>
-  <updated>2020-12-08T16:52:56Z</updated>
-  <content type="html">
-   Properly hardware debounces up to 6 inputs and provides corresponding open-collector outputs with free-wheeling diodes included able to drive 500mA each
-  </content>
- </entry>
- <entry>
-  <title>VictorAlbertsson: battleship-game</title>
-  <author>
-   <name>VictorAlbertsson</name>
-  </author>
-  <link href="https://github.com/VictorAlbertsson/battleship-game" />
-  <id>urn:rprimus:github:VictorAlbertsson:battleship-game</id>
-  <published>2020-12-08T16:35:00Z</published>
-  <updated>2020-12-08T16:35:00Z</updated>
-  <content type="html">
-   School project, autum 2020
-  </content>
- </entry>
- <entry>
-  <title>pablocarracci: SICP</title>
-  <author>
-   <name>pablocarracci</name>
-  </author>
-  <link href="https://github.com/pablocarracci/SICP" />
-  <id>urn:rprimus:github:pablocarracci:SICP</id>
-  <published>2020-12-08T13:35:28Z</published>
-  <updated>2020-12-08T13:35:28Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>c4dr01d: Carbon</title>
-  <author>
-   <name>c4dr01d</name>
-  </author>
-  <link href="https://github.com/c4dr01d/Carbon" />
-  <id>urn:rprimus:github:c4dr01d:Carbon</id>
-  <published>2020-12-08T00:08:38Z</published>
-  <updated>2020-12-08T00:08:38Z</updated>
-  <content type="html">
-   Home made operating system kernel, design like unix and GNU/Linux
   </content>
  </entry>
 </feed>
