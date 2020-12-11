@@ -2,8 +2,138 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2020-12-10T10:04:19Z</updated>
+<updated>2020-12-11T05:46:20Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>NivenT: emacs_config</title>
+  <author>
+   <name>NivenT</name>
+  </author>
+  <link href="https://github.com/NivenT/emacs_config" />
+  <id>urn:rprimus:github:NivenT:emacs_config</id>
+  <published>2020-12-11T05:46:20Z</published>
+  <updated>2020-12-11T05:46:20Z</updated>
+  <content type="html">
+   My .emacs.d folder
+  </content>
+ </entry>
+ <entry>
+  <title>aloussase: dmenu.el</title>
+  <author>
+   <name>aloussase</name>
+  </author>
+  <link href="https://github.com/aloussase/dmenu.el" />
+  <id>urn:rprimus:github:aloussase:dmenu.el</id>
+  <published>2020-12-11T04:11:37Z</published>
+  <updated>2020-12-11T04:11:37Z</updated>
+  <content type="html">
+   Fuzzy finder for emacs using dmenu
+  </content>
+ </entry>
+ <entry>
+  <title>jblais493: Doom-Config</title>
+  <author>
+   <name>jblais493</name>
+  </author>
+  <link href="https://github.com/jblais493/Doom-Config" />
+  <id>urn:rprimus:github:jblais493:Doom-Config</id>
+  <published>2020-12-10T23:34:42Z</published>
+  <updated>2020-12-10T23:34:42Z</updated>
+  <content type="html">
+   My doom emacs configuration
+  </content>
+ </entry>
+ <entry>
+  <title>yangzhou95: emacs_config</title>
+  <author>
+   <name>yangzhou95</name>
+  </author>
+  <link href="https://github.com/yangzhou95/emacs_config" />
+  <id>urn:rprimus:github:yangzhou95:emacs_config</id>
+  <published>2020-12-10T22:39:34Z</published>
+  <updated>2020-12-10T22:39:34Z</updated>
+  <content type="html">
+   back up my emacs config
+  </content>
+ </entry>
+ <entry>
+  <title>OrangeDrangon: dotfiles</title>
+  <author>
+   <name>OrangeDrangon</name>
+  </author>
+  <link href="https://github.com/OrangeDrangon/dotfiles" />
+  <id>urn:rprimus:github:OrangeDrangon:dotfiles</id>
+  <published>2020-12-10T18:58:00Z</published>
+  <updated>2020-12-10T18:58:00Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>bigmuncha: emacsoptions</title>
+  <author>
+   <name>bigmuncha</name>
+  </author>
+  <link href="https://github.com/bigmuncha/emacsoptions" />
+  <id>urn:rprimus:github:bigmuncha:emacsoptions</id>
+  <published>2020-12-10T18:43:37Z</published>
+  <updated>2020-12-10T18:43:37Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Shyrx: my_emacs_config</title>
+  <author>
+   <name>Shyrx</name>
+  </author>
+  <link href="https://github.com/Shyrx/my_emacs_config" />
+  <id>urn:rprimus:github:Shyrx:my_emacs_config</id>
+  <published>2020-12-10T17:56:11Z</published>
+  <updated>2020-12-10T17:56:11Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Sl4nn: myDots</title>
+  <author>
+   <name>Sl4nn</name>
+  </author>
+  <link href="https://github.com/Sl4nn/myDots" />
+  <id>urn:rprimus:github:Sl4nn:myDots</id>
+  <published>2020-12-10T17:15:01Z</published>
+  <updated>2020-12-10T17:15:01Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>thornjad: emacs</title>
+  <author>
+   <name>thornjad</name>
+  </author>
+  <link href="https://github.com/thornjad/emacs" />
+  <id>urn:rprimus:github:thornjad:emacs</id>
+  <published>2020-12-10T16:45:41Z</published>
+  <updated>2020-12-10T16:45:41Z</updated>
+  <content type="html">
+   Mirror of Emacs, used to build Aero Emacs
+  </content>
+ </entry>
+ <entry>
+  <title>vherrmann: twilight</title>
+  <author>
+   <name>vherrmann</name>
+  </author>
+  <link href="https://github.com/vherrmann/twilight" />
+  <id>urn:rprimus:github:vherrmann:twilight</id>
+  <published>2020-12-10T12:46:08Z</published>
+  <updated>2020-12-10T12:46:08Z</updated>
+  <content type="html">
+   Twilight provides automated calling of functions, based on the daytime. It&#039;s a fork of circadian.el
+  </content>
+ </entry>
  <entry>
   <title>slippycheeze: asciidoctor-mode.el</title>
   <author>
@@ -301,344 +431,6 @@
   <updated>2020-12-09T01:00:12Z</updated>
   <content type="html">
    An elegant Emacs setup optimized for non-technical writers
-  </content>
- </entry>
- <entry>
-  <title>ketansrivastav: init.el</title>
-  <author>
-   <name>ketansrivastav</name>
-  </author>
-  <link href="https://github.com/ketansrivastav/init.el" />
-  <id>urn:rprimus:github:ketansrivastav:init.el</id>
-  <published>2020-12-08T23:39:22Z</published>
-  <updated>2020-12-08T23:39:22Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>tompurl: doom-dot-d</title>
-  <author>
-   <name>tompurl</name>
-  </author>
-  <link href="https://github.com/tompurl/doom-dot-d" />
-  <id>urn:rprimus:github:tompurl:doom-dot-d</id>
-  <published>2020-12-08T23:03:27Z</published>
-  <updated>2020-12-08T23:03:27Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Ulver56: my-doom-emacs-config</title>
-  <author>
-   <name>Ulver56</name>
-  </author>
-  <link href="https://github.com/Ulver56/my-doom-emacs-config" />
-  <id>urn:rprimus:github:Ulver56:my-doom-emacs-config</id>
-  <published>2020-12-08T22:11:25Z</published>
-  <updated>2020-12-08T22:11:25Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>wkf: .emacs.d</title>
-  <author>
-   <name>wkf</name>
-  </author>
-  <link href="https://github.com/wkf/.emacs.d" />
-  <id>urn:rprimus:github:wkf:.emacs.d</id>
-  <published>2020-12-08T20:02:57Z</published>
-  <updated>2020-12-08T20:02:57Z</updated>
-  <content type="html">
-   Emacs config
-  </content>
- </entry>
- <entry>
-  <title>Sergey-sirius: my-emacs</title>
-  <author>
-   <name>Sergey-sirius</name>
-  </author>
-  <link href="https://github.com/Sergey-sirius/my-emacs" />
-  <id>urn:rprimus:github:Sergey-sirius:my-emacs</id>
-  <published>2020-12-08T19:32:20Z</published>
-  <updated>2020-12-08T19:32:20Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>tomascabrerizo: _emacs</title>
-  <author>
-   <name>tomascabrerizo</name>
-  </author>
-  <link href="https://github.com/tomascabrerizo/_emacs" />
-  <id>urn:rprimus:github:tomascabrerizo:_emacs</id>
-  <published>2020-12-08T18:06:17Z</published>
-  <updated>2020-12-08T18:06:17Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>channyeintun: .doom.d</title>
-  <author>
-   <name>channyeintun</name>
-  </author>
-  <link href="https://github.com/channyeintun/.doom.d" />
-  <id>urn:rprimus:github:channyeintun:.doom.d</id>
-  <published>2020-12-08T17:49:59Z</published>
-  <updated>2020-12-08T17:49:59Z</updated>
-  <content type="html">
-   My own configuration for doom emacs
-  </content>
- </entry>
- <entry>
-  <title>lvwvm: .config-emacs.d</title>
-  <author>
-   <name>lvwvm</name>
-  </author>
-  <link href="https://github.com/lvwvm/.config-emacs.d" />
-  <id>urn:rprimus:github:lvwvm:.config-emacs.d</id>
-  <published>2020-12-08T17:28:34Z</published>
-  <updated>2020-12-08T17:28:34Z</updated>
-  <content type="html">
-   An emacs package for personal configuration
-  </content>
- </entry>
- <entry>
-  <title>Kinneyzhang: roam-block</title>
-  <author>
-   <name>Kinneyzhang</name>
-  </author>
-  <link href="https://github.com/Kinneyzhang/roam-block" />
-  <id>urn:rprimus:github:Kinneyzhang:roam-block</id>
-  <published>2020-12-08T16:34:54Z</published>
-  <updated>2020-12-08T16:34:54Z</updated>
-  <content type="html">
-   An all-purpose block ref and block embed implement in emacs.
-  </content>
- </entry>
- <entry>
-  <title>jeremyhaberman: .doom.d</title>
-  <author>
-   <name>jeremyhaberman</name>
-  </author>
-  <link href="https://github.com/jeremyhaberman/.doom.d" />
-  <id>urn:rprimus:github:jeremyhaberman:.doom.d</id>
-  <published>2020-12-08T15:16:55Z</published>
-  <updated>2020-12-08T15:16:55Z</updated>
-  <content type="html">
-   My Doom Emacs Config
-  </content>
- </entry>
- <entry>
-  <title>NaurizAitbai: emacs-dotfiles</title>
-  <author>
-   <name>NaurizAitbai</name>
-  </author>
-  <link href="https://github.com/NaurizAitbai/emacs-dotfiles" />
-  <id>urn:rprimus:github:NaurizAitbai:emacs-dotfiles</id>
-  <published>2020-12-08T15:14:51Z</published>
-  <updated>2020-12-08T15:14:51Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>w-lianfu: .emacs.d.win</title>
-  <author>
-   <name>w-lianfu</name>
-  </author>
-  <link href="https://github.com/w-lianfu/.emacs.d.win" />
-  <id>urn:rprimus:github:w-lianfu:.emacs.d.win</id>
-  <published>2020-12-08T15:14:40Z</published>
-  <updated>2020-12-08T15:14:40Z</updated>
-  <content type="html">
-   .emacs.d for windows
-  </content>
- </entry>
- <entry>
-  <title>babaY4ga: .doom.d</title>
-  <author>
-   <name>babaY4ga</name>
-  </author>
-  <link href="https://github.com/babaY4ga/.doom.d" />
-  <id>urn:rprimus:github:babaY4ga:.doom.d</id>
-  <published>2020-12-08T15:13:34Z</published>
-  <updated>2020-12-08T15:13:34Z</updated>
-  <content type="html">
-   personal configs with emacs-doom
-  </content>
- </entry>
- <entry>
-  <title>twlz0ne: extmap-on-mac</title>
-  <author>
-   <name>twlz0ne</name>
-  </author>
-  <link href="https://github.com/twlz0ne/extmap-on-mac" />
-  <id>urn:rprimus:github:twlz0ne:extmap-on-mac</id>
-  <published>2020-12-08T14:04:09Z</published>
-  <updated>2020-12-08T14:04:09Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>sunzhe96: .emacs.d</title>
-  <author>
-   <name>sunzhe96</name>
-  </author>
-  <link href="https://github.com/sunzhe96/.emacs.d" />
-  <id>urn:rprimus:github:sunzhe96:.emacs.d</id>
-  <published>2020-12-08T11:15:59Z</published>
-  <updated>2020-12-08T11:15:59Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>marchersimon: typemacs</title>
-  <author>
-   <name>marchersimon</name>
-  </author>
-  <link href="https://github.com/marchersimon/typemacs" />
-  <id>urn:rprimus:github:marchersimon:typemacs</id>
-  <published>2020-12-08T10:56:35Z</published>
-  <updated>2020-12-08T10:56:35Z</updated>
-  <content type="html">
-   My emacs configuration
-  </content>
- </entry>
- <entry>
-  <title>MarkoB-hub: dotfiles</title>
-  <author>
-   <name>MarkoB-hub</name>
-  </author>
-  <link href="https://github.com/MarkoB-hub/dotfiles" />
-  <id>urn:rprimus:github:MarkoB-hub:dotfiles</id>
-  <published>2020-12-08T10:26:06Z</published>
-  <updated>2020-12-08T10:26:06Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>CodeBizarre: awoo-emacs</title>
-  <author>
-   <name>CodeBizarre</name>
-  </author>
-  <link href="https://github.com/CodeBizarre/awoo-emacs" />
-  <id>urn:rprimus:github:CodeBizarre:awoo-emacs</id>
-  <published>2020-12-08T09:56:38Z</published>
-  <updated>2020-12-08T09:56:38Z</updated>
-  <content type="html">
-   An Emacs config to howl about!
-  </content>
- </entry>
- <entry>
-  <title>fgadaleta: emacs.doom</title>
-  <author>
-   <name>fgadaleta</name>
-  </author>
-  <link href="https://github.com/fgadaleta/emacs.doom" />
-  <id>urn:rprimus:github:fgadaleta:emacs.doom</id>
-  <published>2020-12-08T09:32:33Z</published>
-  <updated>2020-12-08T09:32:33Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>juliaogris: emacs.t</title>
-  <author>
-   <name>juliaogris</name>
-  </author>
-  <link href="https://github.com/juliaogris/emacs.t" />
-  <id>urn:rprimus:github:juliaogris:emacs.t</id>
-  <published>2020-12-08T08:55:06Z</published>
-  <updated>2020-12-08T08:55:06Z</updated>
-  <content type="html">
-   emacs setup
-  </content>
- </entry>
- <entry>
-  <title>Munksgaard: ispc-mode</title>
-  <author>
-   <name>Munksgaard</name>
-  </author>
-  <link href="https://github.com/Munksgaard/ispc-mode" />
-  <id>urn:rprimus:github:Munksgaard:ispc-mode</id>
-  <published>2020-12-08T08:48:17Z</published>
-  <updated>2020-12-08T08:48:17Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>MalmisBton: emconf</title>
-  <author>
-   <name>MalmisBton</name>
-  </author>
-  <link href="https://github.com/MalmisBton/emconf" />
-  <id>urn:rprimus:github:MalmisBton:emconf</id>
-  <published>2020-12-08T08:35:43Z</published>
-  <updated>2020-12-08T08:35:43Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Ziener: .emacs.d</title>
-  <author>
-   <name>Ziener</name>
-  </author>
-  <link href="https://github.com/Ziener/.emacs.d" />
-  <id>urn:rprimus:github:Ziener:.emacs.d</id>
-  <published>2020-12-08T07:45:50Z</published>
-  <updated>2020-12-08T07:45:50Z</updated>
-  <content type="html">
-   My Emacs configuration (WIP)
-  </content>
- </entry>
- <entry>
-  <title>GuillermoGAndres: initFileEmacs</title>
-  <author>
-   <name>GuillermoGAndres</name>
-  </author>
-  <link href="https://github.com/GuillermoGAndres/initFileEmacs" />
-  <id>urn:rprimus:github:GuillermoGAndres:initFileEmacs</id>
-  <published>2020-12-08T06:01:21Z</published>
-  <updated>2020-12-08T06:01:21Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Sbozzolo: emacs-browser-tab-switcher</title>
-  <author>
-   <name>Sbozzolo</name>
-  </author>
-  <link href="https://github.com/Sbozzolo/emacs-browser-tab-switcher" />
-  <id>urn:rprimus:github:Sbozzolo:emacs-browser-tab-switcher</id>
-  <published>2020-12-08T01:23:11Z</published>
-  <updated>2020-12-08T01:23:11Z</updated>
-  <content type="html">
-   Switch to a new browser tab or create a new one
-  </content>
- </entry>
- <entry>
-  <title>paultopia: broken-emacs-config</title>
-  <author>
-   <name>paultopia</name>
-  </author>
-  <link href="https://github.com/paultopia/broken-emacs-config" />
-  <id>urn:rprimus:github:paultopia:broken-emacs-config</id>
-  <published>2020-12-08T00:38:39Z</published>
-  <updated>2020-12-08T00:38:39Z</updated>
-  <content type="html">
-   temporary repo to hold a broken config for debugging
   </content>
  </entry>
 </feed>

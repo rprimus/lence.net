@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2020-12-10T07:46:21Z</updated>
+<updated>2020-12-11T06:48:09Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>suop-money: chess</title>
+  <author>
+   <name>suop-money</name>
+  </author>
+  <link href="https://github.com/suop-money/chess" />
+  <id>urn:rprimus:github:suop-money:chess</id>
+  <published>2020-12-11T06:48:09Z</published>
+  <updated>2020-12-11T06:48:09Z</updated>
+  <content type="html">
+   A Chess Engine written in OCaml
+  </content>
+ </entry>
+ <entry>
+  <title>helq: pict-4.1</title>
+  <author>
+   <name>helq</name>
+  </author>
+  <link href="https://github.com/helq/pict-4.1" />
+  <id>urn:rprimus:github:helq:pict-4.1</id>
+  <published>2020-12-10T20:21:04Z</published>
+  <updated>2020-12-10T20:21:04Z</updated>
+  <content type="html">
+   A concurrent programming language based on the pi-calculus (mirrored and updated from https://www.cis.upenn.edu/~bcpierce/papers/pict/Html/Pict.html)
+  </content>
+ </entry>
+ <entry>
+  <title>suihandong: My-Ocmal</title>
+  <author>
+   <name>suihandong</name>
+  </author>
+  <link href="https://github.com/suihandong/My-Ocmal" />
+  <id>urn:rprimus:github:suihandong:My-Ocmal</id>
+  <published>2020-12-10T17:33:18Z</published>
+  <updated>2020-12-10T17:33:18Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Gbury: inlining-report</title>
+  <author>
+   <name>Gbury</name>
+  </author>
+  <link href="https://github.com/Gbury/inlining-report" />
+  <id>urn:rprimus:github:Gbury:inlining-report</id>
+  <published>2020-12-10T11:12:16Z</published>
+  <updated>2020-12-10T11:12:16Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>barteksad: Origami</title>
+  <author>
+   <name>barteksad</name>
+  </author>
+  <link href="https://github.com/barteksad/Origami" />
+  <id>urn:rprimus:github:barteksad:Origami</id>
+  <published>2020-12-10T10:58:49Z</published>
+  <updated>2020-12-10T10:58:49Z</updated>
+  <content type="html">
+   projek na laby
+  </content>
+ </entry>
  <entry>
   <title>CompilerDesignHS2020: HW6</title>
   <author>
@@ -171,123 +236,6 @@
   <updated>2020-12-09T03:17:32Z</updated>
   <content type="html">
    CCCS Fall 2020 - Compiler Construction
-  </content>
- </entry>
- <entry>
-  <title>ArtemRozovyk: ppx-encoding</title>
-  <author>
-   <name>ArtemRozovyk</name>
-  </author>
-  <link href="https://github.com/ArtemRozovyk/ppx-encoding" />
-  <id>urn:rprimus:github:ArtemRozovyk:ppx-encoding</id>
-  <published>2020-12-08T18:34:31Z</published>
-  <updated>2020-12-08T18:34:31Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>pierreGarciaRaf: miniCCompiler</title>
-  <author>
-   <name>pierreGarciaRaf</name>
-  </author>
-  <link href="https://github.com/pierreGarciaRaf/miniCCompiler" />
-  <id>urn:rprimus:github:pierreGarciaRaf:miniCCompiler</id>
-  <published>2020-12-08T15:45:45Z</published>
-  <updated>2020-12-08T15:45:45Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>talex5: dune-opam-lint</title>
-  <author>
-   <name>talex5</name>
-  </author>
-  <link href="https://github.com/talex5/dune-opam-lint" />
-  <id>urn:rprimus:github:talex5:dune-opam-lint</id>
-  <published>2020-12-08T14:42:09Z</published>
-  <updated>2020-12-08T14:42:09Z</updated>
-  <content type="html">
-   Ensure dune and opam dependencies are consistent
-  </content>
- </entry>
- <entry>
-  <title>Ninjapouet: np</title>
-  <author>
-   <name>Ninjapouet</name>
-  </author>
-  <link href="https://github.com/Ninjapouet/np" />
-  <id>urn:rprimus:github:Ninjapouet:np</id>
-  <published>2020-12-08T13:53:32Z</published>
-  <updated>2020-12-08T13:53:32Z</updated>
-  <content type="html">
-   General libraries overs standard ones for my own needs.
-  </content>
- </entry>
- <entry>
-  <title>dwarfmaster: inferno</title>
-  <author>
-   <name>dwarfmaster</name>
-  </author>
-  <link href="https://github.com/dwarfmaster/inferno" />
-  <id>urn:rprimus:github:dwarfmaster:inferno</id>
-  <published>2020-12-08T13:15:55Z</published>
-  <updated>2020-12-08T13:15:55Z</updated>
-  <content type="html">
-   Mirror of https://gitlab.inria.fr/fpottier/inferno adding nix flakes
-  </content>
- </entry>
- <entry>
-  <title>QuentinBeauchet: ProjetOcamlS5</title>
-  <author>
-   <name>QuentinBeauchet</name>
-  </author>
-  <link href="https://github.com/QuentinBeauchet/ProjetOcamlS5" />
-  <id>urn:rprimus:github:QuentinBeauchet:ProjetOcamlS5</id>
-  <published>2020-12-08T11:20:48Z</published>
-  <updated>2020-12-08T11:20:48Z</updated>
-  <content type="html">
-   Mini jeu pacman fait avec Sourour Gazzeh
-  </content>
- </entry>
- <entry>
-  <title>MathisBD: pjuliac</title>
-  <author>
-   <name>MathisBD</name>
-  </author>
-  <link href="https://github.com/MathisBD/pjuliac" />
-  <id>urn:rprimus:github:MathisBD:pjuliac</id>
-  <published>2020-12-08T10:18:50Z</published>
-  <updated>2020-12-08T10:18:50Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>trishtzy: CS3110</title>
-  <author>
-   <name>trishtzy</name>
-  </author>
-  <link href="https://github.com/trishtzy/CS3110" />
-  <id>urn:rprimus:github:trishtzy:CS3110</id>
-  <published>2020-12-08T03:08:11Z</published>
-  <updated>2020-12-08T03:08:11Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>danielprue: Learning-OCaml</title>
-  <author>
-   <name>danielprue</name>
-  </author>
-  <link href="https://github.com/danielprue/Learning-OCaml" />
-  <id>urn:rprimus:github:danielprue:Learning-OCaml</id>
-  <published>2020-12-08T01:38:54Z</published>
-  <updated>2020-12-08T01:38:54Z</updated>
-  <content type="html">
-   Repository for organizing code challenges solved in OCaml as I learn some functional programming
   </content>
  </entry>
 </feed>
