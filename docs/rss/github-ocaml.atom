@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2020-12-14T21:47:44Z</updated>
+<updated>2020-12-16T05:11:42Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>sagivnet: Compiler-Construction-Course</title>
+  <author>
+   <name>sagivnet</name>
+  </author>
+  <link href="https://github.com/sagivnet/Compiler-Construction-Course" />
+  <id>urn:rprimus:github:sagivnet:Compiler-Construction-Course</id>
+  <published>2020-12-16T05:11:42Z</published>
+  <updated>2020-12-16T05:11:42Z</updated>
+  <content type="html">
+   A Compiler from Scheme to x86/64 Assembly language. The compiler is mainly written in the Ocaml language.
+  </content>
+ </entry>
+ <entry>
+  <title>c-cube: zulip-log-viewer</title>
+  <author>
+   <name>c-cube</name>
+  </author>
+  <link href="https://github.com/c-cube/zulip-log-viewer" />
+  <id>urn:rprimus:github:c-cube:zulip-log-viewer</id>
+  <published>2020-12-15T22:03:17Z</published>
+  <updated>2020-12-15T22:03:17Z</updated>
+  <content type="html">
+   Small website to serve zulip logs obtained from [zulip archive](https://github.com/zulip/zulip-archive)
+  </content>
+ </entry>
+ <entry>
+  <title>oliviapolos: functionalProgramming</title>
+  <author>
+   <name>oliviapolos</name>
+  </author>
+  <link href="https://github.com/oliviapolos/functionalProgramming" />
+  <id>urn:rprimus:github:oliviapolos:functionalProgramming</id>
+  <published>2020-12-15T19:27:43Z</published>
+  <updated>2020-12-15T19:27:43Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>EduardoRFS: dune-flambda-nostdlib-no-cmx</title>
+  <author>
+   <name>EduardoRFS</name>
+  </author>
+  <link href="https://github.com/EduardoRFS/dune-flambda-nostdlib-no-cmx" />
+  <id>urn:rprimus:github:EduardoRFS:dune-flambda-nostdlib-no-cmx</id>
+  <published>2020-12-15T14:36:50Z</published>
+  <updated>2020-12-15T14:36:50Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>oteku: oryx</title>
   <author>
@@ -197,58 +249,6 @@
   <updated>2020-12-14T01:07:11Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>tanishiking: tiger</title>
-  <author>
-   <name>tanishiking</name>
-  </author>
-  <link href="https://github.com/tanishiking/tiger" />
-  <id>urn:rprimus:github:tanishiking:tiger</id>
-  <published>2020-12-13T12:30:56Z</published>
-  <updated>2020-12-13T12:30:56Z</updated>
-  <content type="html">
-   Tiger language implementation in OCaml (Work in Progress).
-  </content>
- </entry>
- <entry>
-  <title>jayesh-bhoot: ff-webext-jsoo</title>
-  <author>
-   <name>jayesh-bhoot</name>
-  </author>
-  <link href="https://github.com/jayesh-bhoot/ff-webext-jsoo" />
-  <id>urn:rprimus:github:jayesh-bhoot:ff-webext-jsoo</id>
-  <published>2020-12-13T10:44:56Z</published>
-  <updated>2020-12-13T10:44:56Z</updated>
-  <content type="html">
-   Sample Firefox webextension in js_of_ocaml
-  </content>
- </entry>
- <entry>
-  <title>Nymphium: lambda-c</title>
-  <author>
-   <name>Nymphium</name>
-  </author>
-  <link href="https://github.com/Nymphium/lambda-c" />
-  <id>urn:rprimus:github:Nymphium:lambda-c</id>
-  <published>2020-12-13T06:01:38Z</published>
-  <updated>2020-12-13T06:01:38Z</updated>
-  <content type="html">
-   lambda calculus + coroutines
-  </content>
- </entry>
- <entry>
-  <title>EduardoRFS: ocaml-jit-example</title>
-  <author>
-   <name>EduardoRFS</name>
-  </author>
-  <link href="https://github.com/EduardoRFS/ocaml-jit-example" />
-  <id>urn:rprimus:github:EduardoRFS:ocaml-jit-example</id>
-  <published>2020-12-13T05:54:20Z</published>
-  <updated>2020-12-13T05:54:20Z</updated>
-  <content type="html">
-   unloading modules with ocaml native
   </content>
  </entry>
 </feed>
