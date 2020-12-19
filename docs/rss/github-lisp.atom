@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2020-12-18T08:23:03Z</updated>
+<updated>2020-12-18T23:44:37Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>interactive-ssr: core</title>
+  <author>
+   <name>interactive-ssr</name>
+  </author>
+  <link href="https://github.com/interactive-ssr/core" />
+  <id>urn:rprimus:github:interactive-ssr:core</id>
+  <published>2020-12-18T23:44:37Z</published>
+  <updated>2020-12-18T23:44:37Z</updated>
+  <content type="html">
+   The core functionality for server modules
+  </content>
+ </entry>
+ <entry>
+  <title>Natan-Gabriel: Functional-And-Logic-Programming</title>
+  <author>
+   <name>Natan-Gabriel</name>
+  </author>
+  <link href="https://github.com/Natan-Gabriel/Functional-And-Logic-Programming" />
+  <id>urn:rprimus:github:Natan-Gabriel:Functional-And-Logic-Programming</id>
+  <published>2020-12-18T18:42:12Z</published>
+  <updated>2020-12-18T18:42:12Z</updated>
+  <content type="html">
+   I used Prolog (logic programming) and Lisp (functional programming) in my projects. I also have some projects written in Haskell (functional programming) here: https://github.com/Natan-Gabriel/Public-Key-Cryptography .
+  </content>
+ </entry>
+ <entry>
+  <title>marcopereira5: jogodoquatro</title>
+  <author>
+   <name>marcopereira5</name>
+  </author>
+  <link href="https://github.com/marcopereira5/jogodoquatro" />
+  <id>urn:rprimus:github:marcopereira5:jogodoquatro</id>
+  <published>2020-12-18T18:14:26Z</published>
+  <updated>2020-12-18T18:14:26Z</updated>
+  <content type="html">
+   SoluÃ§Ã£o de vÃ¡rios problemas do Jogo do Quatro atravÃ©s de Algoritmos de Procura em EspaÃ§o de Estados
+  </content>
+ </entry>
  <entry>
   <title>gizmon: gz_msgbox</title>
   <author>
@@ -14,7 +53,7 @@
   <published>2020-12-18T08:23:03Z</published>
   <updated>2020-12-18T08:23:03Z</updated>
   <content type="html">
-   
+   AutoLISP ç¨ã¡ãã»ã¼ã¸ããã¯ã¹é¢æ°ç¾¤
   </content>
  </entry>
  <entry>
@@ -39,136 +78,6 @@
   <id>urn:rprimus:github:nmunro:cl-tutorial-methods</id>
   <published>2020-12-17T12:57:43Z</published>
   <updated>2020-12-17T12:57:43Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>leo60228: fennel-iter</title>
-  <author>
-   <name>leo60228</name>
-  </author>
-  <link href="https://github.com/leo60228/fennel-iter" />
-  <id>urn:rprimus:github:leo60228:fennel-iter</id>
-  <published>2020-12-16T22:55:21Z</published>
-  <updated>2020-12-16T22:55:21Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>pankajgodbole: sudoku</title>
-  <author>
-   <name>pankajgodbole</name>
-  </author>
-  <link href="https://github.com/pankajgodbole/sudoku" />
-  <id>urn:rprimus:github:pankajgodbole:sudoku</id>
-  <published>2020-12-16T18:23:10Z</published>
-  <updated>2020-12-16T18:23:10Z</updated>
-  <content type="html">
-   An implementation of the popular game in Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>PsychicJack: VI</title>
-  <author>
-   <name>PsychicJack</name>
-  </author>
-  <link href="https://github.com/PsychicJack/VI" />
-  <id>urn:rprimus:github:PsychicJack:VI</id>
-  <published>2020-12-16T17:57:39Z</published>
-  <updated>2020-12-16T17:57:39Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>gmcglathery: LISP</title>
-  <author>
-   <name>gmcglathery</name>
-  </author>
-  <link href="https://github.com/gmcglathery/LISP" />
-  <id>urn:rprimus:github:gmcglathery:LISP</id>
-  <published>2020-12-16T16:47:24Z</published>
-  <updated>2020-12-16T16:47:24Z</updated>
-  <content type="html">
-   Programs written in CLISP.
-  </content>
- </entry>
- <entry>
-  <title>s-expressionists: Incless</title>
-  <author>
-   <name>s-expressionists</name>
-  </author>
-  <link href="https://github.com/s-expressionists/Incless" />
-  <id>urn:rprimus:github:s-expressionists:Incless</id>
-  <published>2020-12-16T15:47:49Z</published>
-  <updated>2020-12-16T15:47:49Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>kametoku: json-helper</title>
-  <author>
-   <name>kametoku</name>
-  </author>
-  <link href="https://github.com/kametoku/json-helper" />
-  <id>urn:rprimus:github:kametoku:json-helper</id>
-  <published>2020-12-16T15:22:47Z</published>
-  <updated>2020-12-16T15:22:47Z</updated>
-  <content type="html">
-   Common Lisp helper functions to handle JSON.
-  </content>
- </entry>
- <entry>
-  <title>matason: adventures-in-lisp</title>
-  <author>
-   <name>matason</name>
-  </author>
-  <link href="https://github.com/matason/adventures-in-lisp" />
-  <id>urn:rprimus:github:matason:adventures-in-lisp</id>
-  <published>2020-12-16T12:45:29Z</published>
-  <updated>2020-12-16T12:45:29Z</updated>
-  <content type="html">
-   Adventures in LISP.
-  </content>
- </entry>
- <entry>
-  <title>aerique: pusfofefe</title>
-  <author>
-   <name>aerique</name>
-  </author>
-  <link href="https://github.com/aerique/pusfofefe" />
-  <id>urn:rprimus:github:aerique:pusfofefe</id>
-  <published>2020-12-16T12:11:14Z</published>
-  <updated>2020-12-16T12:11:14Z</updated>
-  <content type="html">
-   A Pushover client for Sailfish OS written in Common Lisp.
-  </content>
- </entry>
- <entry>
-  <title>adrikherbert: Lisp-Shenanigans</title>
-  <author>
-   <name>adrikherbert</name>
-  </author>
-  <link href="https://github.com/adrikherbert/Lisp-Shenanigans" />
-  <id>urn:rprimus:github:adrikherbert:Lisp-Shenanigans</id>
-  <published>2020-12-16T07:01:03Z</published>
-  <updated>2020-12-16T07:01:03Z</updated>
-  <content type="html">
-   You don&#039;t wanna look at me--I&#039;m very boring. I&#039;ll bore you to death. I&#039;ll bore your eyes out. You&#039;ll die of boredom if you take a peek at me. I&#039;m just a sad little repository with no future because my creator is a silly little dumb fart of a programmer who just wants to feel a little smart by following a YouTube tutorial for no more than 40 minutes.
-  </content>
- </entry>
- <entry>
-  <title>dwclark: advent-of-code-2020</title>
-  <author>
-   <name>dwclark</name>
-  </author>
-  <link href="https://github.com/dwclark/advent-of-code-2020" />
-  <id>urn:rprimus:github:dwclark:advent-of-code-2020</id>
-  <published>2020-12-16T02:44:22Z</published>
-  <updated>2020-12-16T02:44:22Z</updated>
   <content type="html">
    
   </content>
