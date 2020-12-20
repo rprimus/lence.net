@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2020-12-19T08:30:41Z</updated>
+<updated>2020-12-19T23:19:11Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>cbeo: compost</title>
+  <author>
+   <name>cbeo</name>
+  </author>
+  <link href="https://github.com/cbeo/compost" />
+  <id>urn:rprimus:github:cbeo:compost</id>
+  <published>2020-12-19T23:19:11Z</published>
+  <updated>2020-12-19T23:19:11Z</updated>
+  <content type="html">
+   Small group message board
+  </content>
+ </entry>
+ <entry>
+  <title>mikelevins: electron-sbcl-sqlite</title>
+  <author>
+   <name>mikelevins</name>
+  </author>
+  <link href="https://github.com/mikelevins/electron-sbcl-sqlite" />
+  <id>urn:rprimus:github:mikelevins:electron-sbcl-sqlite</id>
+  <published>2020-12-19T17:28:45Z</published>
+  <updated>2020-12-19T17:28:45Z</updated>
+  <content type="html">
+   A simple boilerplate that builds an Electron app with SBCL and SQLite3 embedded
+  </content>
+ </entry>
+ <entry>
+  <title>rudolfochrist: jasql</title>
+  <author>
+   <name>rudolfochrist</name>
+  </author>
+  <link href="https://github.com/rudolfochrist/jasql" />
+  <id>urn:rprimus:github:rudolfochrist:jasql</id>
+  <published>2020-12-19T10:53:05Z</published>
+  <updated>2020-12-19T10:53:05Z</updated>
+  <content type="html">
+   Simple SQL in Common Lisp
+  </content>
+ </entry>
  <entry>
   <title>ryanmarion: paster</title>
   <author>
@@ -44,6 +83,19 @@
   </content>
  </entry>
  <entry>
+  <title>cl-doc-systems: eazy-documentation</title>
+  <author>
+   <name>cl-doc-systems</name>
+  </author>
+  <link href="https://github.com/cl-doc-systems/eazy-documentation" />
+  <id>urn:rprimus:github:cl-doc-systems:eazy-documentation</id>
+  <published>2020-12-18T22:53:11Z</published>
+  <updated>2020-12-18T22:53:11Z</updated>
+  <content type="html">
+   An example project which uses Eazy Documentation Common Lisp doc builder
+  </content>
+ </entry>
+ <entry>
   <title>Natan-Gabriel: Functional-And-Logic-Programming</title>
   <author>
    <name>Natan-Gabriel</name>
@@ -80,32 +132,6 @@
   <updated>2020-12-18T08:23:03Z</updated>
   <content type="html">
    AutoLISP ç¨ã¡ãã»ã¼ã¸ããã¯ã¹é¢æ°ç¾¤
-  </content>
- </entry>
- <entry>
-  <title>kametoku: restapi</title>
-  <author>
-   <name>kametoku</name>
-  </author>
-  <link href="https://github.com/kametoku/restapi" />
-  <id>urn:rprimus:github:kametoku:restapi</id>
-  <published>2020-12-17T15:17:02Z</published>
-  <updated>2020-12-17T15:17:02Z</updated>
-  <content type="html">
-   A RESTful API Client for Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>nmunro: cl-tutorial-methods</title>
-  <author>
-   <name>nmunro</name>
-  </author>
-  <link href="https://github.com/nmunro/cl-tutorial-methods" />
-  <id>urn:rprimus:github:nmunro:cl-tutorial-methods</id>
-  <published>2020-12-17T12:57:43Z</published>
-  <updated>2020-12-17T12:57:43Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
