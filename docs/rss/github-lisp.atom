@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2020-12-21T10:01:51Z</updated>
+<updated>2020-12-22T06:04:28Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>obsfx: common-lisp-sketches</title>
+  <author>
+   <name>obsfx</name>
+  </author>
+  <link href="https://github.com/obsfx/common-lisp-sketches" />
+  <id>urn:rprimus:github:obsfx:common-lisp-sketches</id>
+  <published>2020-12-22T06:04:28Z</published>
+  <updated>2020-12-22T06:04:28Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>mccordnate: advent-of-code-2020</title>
+  <author>
+   <name>mccordnate</name>
+  </author>
+  <link href="https://github.com/mccordnate/advent-of-code-2020" />
+  <id>urn:rprimus:github:mccordnate:advent-of-code-2020</id>
+  <published>2020-12-21T17:56:07Z</published>
+  <updated>2020-12-21T17:56:07Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>cmdimov: take_the_best</title>
+  <author>
+   <name>cmdimov</name>
+  </author>
+  <link href="https://github.com/cmdimov/take_the_best" />
+  <id>urn:rprimus:github:cmdimov:take_the_best</id>
+  <published>2020-12-21T17:22:20Z</published>
+  <updated>2020-12-21T17:22:20Z</updated>
+  <content type="html">
+   A collection of ACT-R models of the heuristic Take the best
+  </content>
+ </entry>
+ <entry>
+  <title>ajberkley: vector-objects</title>
+  <author>
+   <name>ajberkley</name>
+  </author>
+  <link href="https://github.com/ajberkley/vector-objects" />
+  <id>urn:rprimus:github:ajberkley:vector-objects</id>
+  <published>2020-12-21T15:46:16Z</published>
+  <updated>2020-12-21T15:46:16Z</updated>
+  <content type="html">
+   line drawing
+  </content>
+ </entry>
+ <entry>
+  <title>glv2: cl-zstd</title>
+  <author>
+   <name>glv2</name>
+  </author>
+  <link href="https://github.com/glv2/cl-zstd" />
+  <id>urn:rprimus:github:glv2:cl-zstd</id>
+  <published>2020-12-21T15:43:36Z</published>
+  <updated>2020-12-21T15:43:36Z</updated>
+  <content type="html">
+   Common Lisp library for Zstandard (de)compression using bindings to the libzstd C library
+  </content>
+ </entry>
  <entry>
   <title>ulrivo: ltk-tablelist</title>
   <author>
@@ -67,84 +132,6 @@
   <updated>2020-12-20T15:25:29Z</updated>
   <content type="html">
    Fetches and operates on Quicklisp download statistics.
-  </content>
- </entry>
- <entry>
-  <title>jtskiba: lisp</title>
-  <author>
-   <name>jtskiba</name>
-  </author>
-  <link href="https://github.com/jtskiba/lisp" />
-  <id>urn:rprimus:github:jtskiba:lisp</id>
-  <published>2020-12-20T10:44:18Z</published>
-  <updated>2020-12-20T10:44:18Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>cbeo: compost</title>
-  <author>
-   <name>cbeo</name>
-  </author>
-  <link href="https://github.com/cbeo/compost" />
-  <id>urn:rprimus:github:cbeo:compost</id>
-  <published>2020-12-19T23:19:11Z</published>
-  <updated>2020-12-19T23:19:11Z</updated>
-  <content type="html">
-   Small group message board
-  </content>
- </entry>
- <entry>
-  <title>mikelevins: electron-sbcl-sqlite</title>
-  <author>
-   <name>mikelevins</name>
-  </author>
-  <link href="https://github.com/mikelevins/electron-sbcl-sqlite" />
-  <id>urn:rprimus:github:mikelevins:electron-sbcl-sqlite</id>
-  <published>2020-12-19T17:28:45Z</published>
-  <updated>2020-12-19T17:28:45Z</updated>
-  <content type="html">
-   A simple boilerplate that builds an Electron app with SBCL and SQLite3 embedded
-  </content>
- </entry>
- <entry>
-  <title>rudolfochrist: jasql</title>
-  <author>
-   <name>rudolfochrist</name>
-  </author>
-  <link href="https://github.com/rudolfochrist/jasql" />
-  <id>urn:rprimus:github:rudolfochrist:jasql</id>
-  <published>2020-12-19T10:53:05Z</published>
-  <updated>2020-12-19T10:53:05Z</updated>
-  <content type="html">
-   Simple SQL in Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>ryanmarion: paster</title>
-  <author>
-   <name>ryanmarion</name>
-  </author>
-  <link href="https://github.com/ryanmarion/paster" />
-  <id>urn:rprimus:github:ryanmarion:paster</id>
-  <published>2020-12-19T08:30:41Z</published>
-  <updated>2020-12-19T08:30:41Z</updated>
-  <content type="html">
-   A place to store code, snippets, useful commands, and other useful text on the internet.
-  </content>
- </entry>
- <entry>
-  <title>al00453955: lisp-english-spanish-translator</title>
-  <author>
-   <name>al00453955</name>
-  </author>
-  <link href="https://github.com/al00453955/lisp-english-spanish-translator" />
-  <id>urn:rprimus:github:al00453955:lisp-english-spanish-translator</id>
-  <published>2020-12-19T06:21:14Z</published>
-  <updated>2020-12-19T06:21:14Z</updated>
-  <content type="html">
-   October 2003 @ Auckland University of Technology, NZ
   </content>
  </entry>
 </feed>
