@@ -2,8 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2020-12-23T03:22:00Z</updated>
+<updated>2020-12-24T01:12:50Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>UM-Li: land-of-lisp</title>
+  <author>
+   <name>UM-Li</name>
+  </author>
+  <link href="https://github.com/UM-Li/land-of-lisp" />
+  <id>urn:rprimus:github:UM-Li:land-of-lisp</id>
+  <published>2020-12-24T01:12:50Z</published>
+  <updated>2020-12-24T01:12:50Z</updated>
+  <content type="html">
+   Working through the book &quot;Land of Lisp&quot;.
+  </content>
+ </entry>
+ <entry>
+  <title>vindarel: pipelines-viewer</title>
+  <author>
+   <name>vindarel</name>
+  </author>
+  <link href="https://github.com/vindarel/pipelines-viewer" />
+  <id>urn:rprimus:github:vindarel:pipelines-viewer</id>
+  <published>2020-12-23T22:29:44Z</published>
+  <updated>2020-12-23T22:29:44Z</updated>
+  <content type="html">
+   View the last Gitlab pipelines and their status from the command line (or the REPL). (not much to see, it&#039;s a 20 min script)
+  </content>
+ </entry>
+ <entry>
+  <title>mdbergmann: adventofcode2020</title>
+  <author>
+   <name>mdbergmann</name>
+  </author>
+  <link href="https://github.com/mdbergmann/adventofcode2020" />
+  <id>urn:rprimus:github:mdbergmann:adventofcode2020</id>
+  <published>2020-12-23T18:46:34Z</published>
+  <updated>2020-12-23T18:46:34Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>scymtym: sbcl-ir-visualizer</title>
+  <author>
+   <name>scymtym</name>
+  </author>
+  <link href="https://github.com/scymtym/sbcl-ir-visualizer" />
+  <id>urn:rprimus:github:scymtym:sbcl-ir-visualizer</id>
+  <published>2020-12-23T15:11:29Z</published>
+  <updated>2020-12-23T15:11:29Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>sabu36: land-of-lisp-racket-ergolib</title>
+  <author>
+   <name>sabu36</name>
+  </author>
+  <link href="https://github.com/sabu36/land-of-lisp-racket-ergolib" />
+  <id>urn:rprimus:github:sabu36:land-of-lisp-racket-ergolib</id>
+  <published>2020-12-23T14:27:56Z</published>
+  <updated>2020-12-23T14:27:56Z</updated>
+  <content type="html">
+   For the book Land of Lisp: major code examples and equivalents table for Racket and Common Lisp + ergolib (incomplete)
+  </content>
+ </entry>
+ <entry>
+  <title>DigitalTriplet: xmlreader</title>
+  <author>
+   <name>DigitalTriplet</name>
+  </author>
+  <link href="https://github.com/DigitalTriplet/xmlreader" />
+  <id>urn:rprimus:github:DigitalTriplet:xmlreader</id>
+  <published>2020-12-23T13:14:08Z</published>
+  <updated>2020-12-23T13:14:08Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>DigitalTriplet: line-reader</title>
+  <author>
+   <name>DigitalTriplet</name>
+  </author>
+  <link href="https://github.com/DigitalTriplet/line-reader" />
+  <id>urn:rprimus:github:DigitalTriplet:line-reader</id>
+  <published>2020-12-23T13:08:45Z</published>
+  <updated>2020-12-23T13:08:45Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>totorowechat: cl-scm</title>
   <author>
@@ -78,97 +169,6 @@
   <id>urn:rprimus:github:obsfx:common-lisp-sketches</id>
   <published>2020-12-22T06:04:28Z</published>
   <updated>2020-12-22T06:04:28Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>mccordnate: advent-of-code-2020</title>
-  <author>
-   <name>mccordnate</name>
-  </author>
-  <link href="https://github.com/mccordnate/advent-of-code-2020" />
-  <id>urn:rprimus:github:mccordnate:advent-of-code-2020</id>
-  <published>2020-12-21T17:56:07Z</published>
-  <updated>2020-12-21T17:56:07Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>cmdimov: take_the_best</title>
-  <author>
-   <name>cmdimov</name>
-  </author>
-  <link href="https://github.com/cmdimov/take_the_best" />
-  <id>urn:rprimus:github:cmdimov:take_the_best</id>
-  <published>2020-12-21T17:22:20Z</published>
-  <updated>2020-12-21T17:22:20Z</updated>
-  <content type="html">
-   A collection of ACT-R models of the heuristic Take the best
-  </content>
- </entry>
- <entry>
-  <title>ajberkley: vector-objects</title>
-  <author>
-   <name>ajberkley</name>
-  </author>
-  <link href="https://github.com/ajberkley/vector-objects" />
-  <id>urn:rprimus:github:ajberkley:vector-objects</id>
-  <published>2020-12-21T15:46:16Z</published>
-  <updated>2020-12-21T15:46:16Z</updated>
-  <content type="html">
-   line drawing
-  </content>
- </entry>
- <entry>
-  <title>glv2: cl-zstd</title>
-  <author>
-   <name>glv2</name>
-  </author>
-  <link href="https://github.com/glv2/cl-zstd" />
-  <id>urn:rprimus:github:glv2:cl-zstd</id>
-  <published>2020-12-21T15:43:36Z</published>
-  <updated>2020-12-21T15:43:36Z</updated>
-  <content type="html">
-   Common Lisp library for Zstandard (de)compression using bindings to the libzstd C library
-  </content>
- </entry>
- <entry>
-  <title>ulrivo: ltk-tablelist</title>
-  <author>
-   <name>ulrivo</name>
-  </author>
-  <link href="https://github.com/ulrivo/ltk-tablelist" />
-  <id>urn:rprimus:github:ulrivo:ltk-tablelist</id>
-  <published>2020-12-21T10:01:51Z</published>
-  <updated>2020-12-21T10:01:51Z</updated>
-  <content type="html">
-   LTK extension for the TK-widget tablelist by Csaba Nemethi
-  </content>
- </entry>
- <entry>
-  <title>mveety: xvm</title>
-  <author>
-   <name>mveety</name>
-  </author>
-  <link href="https://github.com/mveety/xvm" />
-  <id>urn:rprimus:github:mveety:xvm</id>
-  <published>2020-12-21T01:44:41Z</published>
-  <updated>2020-12-21T01:44:41Z</updated>
-  <content type="html">
-   Little project to play around with architectures
-  </content>
- </entry>
- <entry>
-  <title>hunnybear: aoc2020</title>
-  <author>
-   <name>hunnybear</name>
-  </author>
-  <link href="https://github.com/hunnybear/aoc2020" />
-  <id>urn:rprimus:github:hunnybear:aoc2020</id>
-  <published>2020-12-21T01:35:23Z</published>
-  <updated>2020-12-21T01:35:23Z</updated>
   <content type="html">
    
   </content>
