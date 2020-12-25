@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2020-12-24T06:59:26Z</updated>
+<updated>2020-12-24T22:36:40Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>rchrdch: ocaml-interpreter</title>
+  <author>
+   <name>rchrdch</name>
+  </author>
+  <link href="https://github.com/rchrdch/ocaml-interpreter" />
+  <id>urn:rprimus:github:rchrdch:ocaml-interpreter</id>
+  <published>2020-12-24T22:36:40Z</published>
+  <updated>2020-12-24T22:36:40Z</updated>
+  <content type="html">
+   I coded an interpreter in OCaml for a small stack-based bytecode language. It has its own grammar definitions, parsers, and is able to run numerous commands, such as push, pop, basic arithmetic calculations, Boolean operations, support for scoping, variable binding, function declarations/calls, if/else statements, etc.
+  </content>
+ </entry>
  <entry>
   <title>janiceji218: CornellCSLife</title>
   <author>
@@ -122,12 +135,12 @@
   </content>
  </entry>
  <entry>
-  <title>GauBen: bcotp</title>
+  <title>GauBen: BCoTP</title>
   <author>
    <name>GauBen</name>
   </author>
-  <link href="https://github.com/GauBen/bcotp" />
-  <id>urn:rprimus:github:GauBen:bcotp</id>
+  <link href="https://github.com/GauBen/BCoTP" />
+  <id>urn:rprimus:github:GauBen:BCoTP</id>
   <published>2020-12-23T07:39:32Z</published>
   <updated>2020-12-23T07:39:32Z</updated>
   <content type="html">
@@ -197,188 +210,6 @@
   <updated>2020-12-23T00:29:05Z</updated>
   <content type="html">
    My toy language
-  </content>
- </entry>
- <entry>
-  <title>matt-kukla: tofn</title>
-  <author>
-   <name>matt-kukla</name>
-  </author>
-  <link href="https://github.com/matt-kukla/tofn" />
-  <id>urn:rprimus:github:matt-kukla:tofn</id>
-  <published>2020-12-22T21:19:36Z</published>
-  <updated>2020-12-22T21:19:36Z</updated>
-  <content type="html">
-   Typed ordered fuzzy numbers in OCaml.
-  </content>
- </entry>
- <entry>
-  <title>bkrmendy: 99_ocaml_problems</title>
-  <author>
-   <name>bkrmendy</name>
-  </author>
-  <link href="https://github.com/bkrmendy/99_ocaml_problems" />
-  <id>urn:rprimus:github:bkrmendy:99_ocaml_problems</id>
-  <published>2020-12-22T17:15:53Z</published>
-  <updated>2020-12-22T17:15:53Z</updated>
-  <content type="html">
-   99 Ocaml Problems https://ocaml.org/learn/tutorials/99problems.html
-  </content>
- </entry>
- <entry>
-  <title>y2k: watchcat-bot</title>
-  <author>
-   <name>y2k</name>
-  </author>
-  <link href="https://github.com/y2k/watchcat-bot" />
-  <id>urn:rprimus:github:y2k:watchcat-bot</id>
-  <published>2020-12-22T15:20:46Z</published>
-  <updated>2020-12-22T15:20:46Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Abhyuday99: Toy-Logic-Programming-language</title>
-  <author>
-   <name>Abhyuday99</name>
-  </author>
-  <link href="https://github.com/Abhyuday99/Toy-Logic-Programming-language" />
-  <id>urn:rprimus:github:Abhyuday99:Toy-Logic-Programming-language</id>
-  <published>2020-12-22T14:55:30Z</published>
-  <updated>2020-12-22T14:55:30Z</updated>
-  <content type="html">
-   System capable of answering queries given a set of facts similar to proLog
-  </content>
- </entry>
- <entry>
-  <title>rohitkg98: aoc2020</title>
-  <author>
-   <name>rohitkg98</name>
-  </author>
-  <link href="https://github.com/rohitkg98/aoc2020" />
-  <id>urn:rprimus:github:rohitkg98:aoc2020</id>
-  <published>2020-12-22T14:55:27Z</published>
-  <updated>2020-12-22T14:55:27Z</updated>
-  <content type="html">
-   Solutions for Advent of Code 2020
-  </content>
- </entry>
- <entry>
-  <title>tvaisanen: nlp-project-13</title>
-  <author>
-   <name>tvaisanen</name>
-  </author>
-  <link href="https://github.com/tvaisanen/nlp-project-13" />
-  <id>urn:rprimus:github:tvaisanen:nlp-project-13</id>
-  <published>2020-12-22T12:22:30Z</published>
-  <updated>2020-12-22T12:22:30Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Sup3Legacy: V-RISC-Assembler-Minecraft</title>
-  <author>
-   <name>Sup3Legacy</name>
-  </author>
-  <link href="https://github.com/Sup3Legacy/V-RISC-Assembler-Minecraft" />
-  <id>urn:rprimus:github:Sup3Legacy:V-RISC-Assembler-Minecraft</id>
-  <published>2020-12-22T10:11:16Z</published>
-  <updated>2020-12-22T10:11:16Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Phinease: Mini-C</title>
-  <author>
-   <name>Phinease</name>
-  </author>
-  <link href="https://github.com/Phinease/Mini-C" />
-  <id>urn:rprimus:github:Phinease:Mini-C</id>
-  <published>2020-12-22T09:12:56Z</published>
-  <updated>2020-12-22T09:12:56Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>barteksad: sortowanie-topologiczne</title>
-  <author>
-   <name>barteksad</name>
-  </author>
-  <link href="https://github.com/barteksad/sortowanie-topologiczne" />
-  <id>urn:rprimus:github:barteksad:sortowanie-topologiczne</id>
-  <published>2020-12-22T08:50:13Z</published>
-  <updated>2020-12-22T08:50:13Z</updated>
-  <content type="html">
-   projekt na labolatorium
-  </content>
- </entry>
- <entry>
-  <title>AbdallahS: dlpag</title>
-  <author>
-   <name>AbdallahS</name>
-  </author>
-  <link href="https://github.com/AbdallahS/dlpag" />
-  <id>urn:rprimus:github:AbdallahS:dlpag</id>
-  <published>2020-12-22T04:41:52Z</published>
-  <updated>2020-12-22T04:41:52Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>pja66: CS-3110-Final-Project</title>
-  <author>
-   <name>pja66</name>
-  </author>
-  <link href="https://github.com/pja66/CS-3110-Final-Project" />
-  <id>urn:rprimus:github:pja66:CS-3110-Final-Project</id>
-  <published>2020-12-22T03:57:56Z</published>
-  <updated>2020-12-22T03:57:56Z</updated>
-  <content type="html">
-   Cornell CS 3110 (Final Project)
-  </content>
- </entry>
- <entry>
-  <title>tsoguri: ocaml-chess</title>
-  <author>
-   <name>tsoguri</name>
-  </author>
-  <link href="https://github.com/tsoguri/ocaml-chess" />
-  <id>urn:rprimus:github:tsoguri:ocaml-chess</id>
-  <published>2020-12-22T01:34:09Z</published>
-  <updated>2020-12-22T01:34:09Z</updated>
-  <content type="html">
-   CS3110 Final Project Chess Game
-  </content>
- </entry>
- <entry>
-  <title>nsunderland1: advent_of_code_2019</title>
-  <author>
-   <name>nsunderland1</name>
-  </author>
-  <link href="https://github.com/nsunderland1/advent_of_code_2019" />
-  <id>urn:rprimus:github:nsunderland1:advent_of_code_2019</id>
-  <published>2020-12-22T00:55:04Z</published>
-  <updated>2020-12-22T00:55:04Z</updated>
-  <content type="html">
-   Solutions for 2019 Advent of Code
-  </content>
- </entry>
- <entry>
-  <title>rigoleto: apt-hold-and-roll</title>
-  <author>
-   <name>rigoleto</name>
-  </author>
-  <link href="https://github.com/rigoleto/apt-hold-and-roll" />
-  <id>urn:rprimus:github:rigoleto:apt-hold-and-roll</id>
-  <published>2020-12-22T00:07:47Z</published>
-  <updated>2020-12-22T00:07:47Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
