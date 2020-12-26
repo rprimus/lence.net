@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2020-12-25T10:05:25Z</updated>
+<updated>2020-12-26T07:17:24Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>hakancangunerli: lisp-practice</title>
+  <author>
+   <name>hakancangunerli</name>
+  </author>
+  <link href="https://github.com/hakancangunerli/lisp-practice" />
+  <id>urn:rprimus:github:hakancangunerli:lisp-practice</id>
+  <published>2020-12-26T07:17:24Z</published>
+  <updated>2020-12-26T07:17:24Z</updated>
+  <content type="html">
+   thith ith my random lithp projectth
+  </content>
+ </entry>
+ <entry>
+  <title>andrewsoutar: advent-of-code</title>
+  <author>
+   <name>andrewsoutar</name>
+  </author>
+  <link href="https://github.com/andrewsoutar/advent-of-code" />
+  <id>urn:rprimus:github:andrewsoutar:advent-of-code</id>
+  <published>2020-12-26T02:43:50Z</published>
+  <updated>2020-12-26T02:43:50Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Joursoir: lisp-examples</title>
+  <author>
+   <name>Joursoir</name>
+  </author>
+  <link href="https://github.com/Joursoir/lisp-examples" />
+  <id>urn:rprimus:github:Joursoir:lisp-examples</id>
+  <published>2020-12-25T19:30:50Z</published>
+  <updated>2020-12-25T19:30:50Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>mirkobi89: lisp</title>
+  <author>
+   <name>mirkobi89</name>
+  </author>
+  <link href="https://github.com/mirkobi89/lisp" />
+  <id>urn:rprimus:github:mirkobi89:lisp</id>
+  <published>2020-12-25T17:51:51Z</published>
+  <updated>2020-12-25T17:51:51Z</updated>
+  <content type="html">
+   Some Lisp Projects
+  </content>
+ </entry>
  <entry>
   <title>ogmobot: aoc2020</title>
   <author>
@@ -119,123 +171,6 @@
   <updated>2020-12-24T01:12:50Z</updated>
   <content type="html">
    Working through the book &quot;Land of Lisp&quot;.
-  </content>
- </entry>
- <entry>
-  <title>vindarel: pipelines-viewer</title>
-  <author>
-   <name>vindarel</name>
-  </author>
-  <link href="https://github.com/vindarel/pipelines-viewer" />
-  <id>urn:rprimus:github:vindarel:pipelines-viewer</id>
-  <published>2020-12-23T22:29:44Z</published>
-  <updated>2020-12-23T22:29:44Z</updated>
-  <content type="html">
-   View the last Gitlab pipelines and their status from the command line (or the REPL). (not much to see, it&#039;s a 20 min script)
-  </content>
- </entry>
- <entry>
-  <title>mdbergmann: adventofcode2020</title>
-  <author>
-   <name>mdbergmann</name>
-  </author>
-  <link href="https://github.com/mdbergmann/adventofcode2020" />
-  <id>urn:rprimus:github:mdbergmann:adventofcode2020</id>
-  <published>2020-12-23T18:46:34Z</published>
-  <updated>2020-12-23T18:46:34Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>scymtym: sbcl-ir-visualizer</title>
-  <author>
-   <name>scymtym</name>
-  </author>
-  <link href="https://github.com/scymtym/sbcl-ir-visualizer" />
-  <id>urn:rprimus:github:scymtym:sbcl-ir-visualizer</id>
-  <published>2020-12-23T15:11:29Z</published>
-  <updated>2020-12-23T15:11:29Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>sabu36: land-of-lisp-racket-ergolib</title>
-  <author>
-   <name>sabu36</name>
-  </author>
-  <link href="https://github.com/sabu36/land-of-lisp-racket-ergolib" />
-  <id>urn:rprimus:github:sabu36:land-of-lisp-racket-ergolib</id>
-  <published>2020-12-23T14:27:56Z</published>
-  <updated>2020-12-23T14:27:56Z</updated>
-  <content type="html">
-   Studying Land of Lisp with Racket and then Common Lisp + ergolib
-  </content>
- </entry>
- <entry>
-  <title>DigitalTriplet: xmlreader</title>
-  <author>
-   <name>DigitalTriplet</name>
-  </author>
-  <link href="https://github.com/DigitalTriplet/xmlreader" />
-  <id>urn:rprimus:github:DigitalTriplet:xmlreader</id>
-  <published>2020-12-23T13:14:08Z</published>
-  <updated>2020-12-23T13:14:08Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>DigitalTriplet: line-reader</title>
-  <author>
-   <name>DigitalTriplet</name>
-  </author>
-  <link href="https://github.com/DigitalTriplet/line-reader" />
-  <id>urn:rprimus:github:DigitalTriplet:line-reader</id>
-  <published>2020-12-23T13:08:45Z</published>
-  <updated>2020-12-23T13:08:45Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>totorowechat: cl-scm</title>
-  <author>
-   <name>totorowechat</name>
-  </author>
-  <link href="https://github.com/totorowechat/cl-scm" />
-  <id>urn:rprimus:github:totorowechat:cl-scm</id>
-  <published>2020-12-23T03:22:00Z</published>
-  <updated>2020-12-23T03:22:00Z</updated>
-  <content type="html">
-   simple content manager
-  </content>
- </entry>
- <entry>
-  <title>JunSuzukiJapan: cl-reex</title>
-  <author>
-   <name>JunSuzukiJapan</name>
-  </author>
-  <link href="https://github.com/JunSuzukiJapan/cl-reex" />
-  <id>urn:rprimus:github:JunSuzukiJapan:cl-reex</id>
-  <published>2020-12-23T01:54:16Z</published>
-  <updated>2020-12-23T01:54:16Z</updated>
-  <content type="html">
-   Reactive extensions for common lisp
-  </content>
- </entry>
- <entry>
-  <title>mdever: lsm-tree</title>
-  <author>
-   <name>mdever</name>
-  </author>
-  <link href="https://github.com/mdever/lsm-tree" />
-  <id>urn:rprimus:github:mdever:lsm-tree</id>
-  <published>2020-12-23T01:30:16Z</published>
-  <updated>2020-12-23T01:30:16Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
