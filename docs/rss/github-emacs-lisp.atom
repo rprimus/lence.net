@@ -2,17 +2,173 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2020-12-27T06:49:16Z</updated>
+<updated>2020-12-27T23:39:19Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
  <entry>
-  <title>obaranek: dotfiles</title>
+  <title>emacsmirror: default-font-presets</title>
   <author>
-   <name>obaranek</name>
+   <name>emacsmirror</name>
   </author>
-  <link href="https://github.com/obaranek/dotfiles" />
-  <id>urn:rprimus:github:obaranek:dotfiles</id>
-  <published>2020-12-27T06:49:16Z</published>
-  <updated>2020-12-27T06:49:16Z</updated>
+  <link href="https://github.com/emacsmirror/default-font-presets" />
+  <id>urn:rprimus:github:emacsmirror:default-font-presets</id>
+  <published>2020-12-27T23:39:19Z</published>
+  <updated>2020-12-27T23:39:19Z</updated>
+  <content type="html">
+   Support selecting fonts from a list of presets
+  </content>
+ </entry>
+ <entry>
+  <title>francesco-cadei: .emacs.d</title>
+  <author>
+   <name>francesco-cadei</name>
+  </author>
+  <link href="https://github.com/francesco-cadei/.emacs.d" />
+  <id>urn:rprimus:github:francesco-cadei:.emacs.d</id>
+  <published>2020-12-27T23:18:06Z</published>
+  <updated>2020-12-27T23:18:06Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>erickgnavar: burn.el</title>
+  <author>
+   <name>erickgnavar</name>
+  </author>
+  <link href="https://github.com/erickgnavar/burn.el" />
+  <id>urn:rprimus:github:erickgnavar:burn.el</id>
+  <published>2020-12-27T23:03:34Z</published>
+  <updated>2020-12-27T23:03:34Z</updated>
+  <content type="html">
+   Burn code by replacing all the text with ð¥
+  </content>
+ </entry>
+ <entry>
+  <title>otavioschwanck: rails-routes</title>
+  <author>
+   <name>otavioschwanck</name>
+  </author>
+  <link href="https://github.com/otavioschwanck/rails-routes" />
+  <id>urn:rprimus:github:otavioschwanck:rails-routes</id>
+  <published>2020-12-27T22:35:09Z</published>
+  <updated>2020-12-27T22:35:09Z</updated>
+  <content type="html">
+   A package to search and insert routes into your code
+  </content>
+ </entry>
+ <entry>
+  <title>sazam0: dotfiles</title>
+  <author>
+   <name>sazam0</name>
+  </author>
+  <link href="https://github.com/sazam0/dotfiles" />
+  <id>urn:rprimus:github:sazam0:dotfiles</id>
+  <published>2020-12-27T21:37:04Z</published>
+  <updated>2020-12-27T21:37:04Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>blueballs-theme: blueballs.el</title>
+  <author>
+   <name>blueballs-theme</name>
+  </author>
+  <link href="https://github.com/blueballs-theme/blueballs.el" />
+  <id>urn:rprimus:github:blueballs-theme:blueballs.el</id>
+  <published>2020-12-27T19:39:34Z</published>
+  <updated>2020-12-27T19:39:34Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>px86: emacs-config</title>
+  <author>
+   <name>px86</name>
+  </author>
+  <link href="https://github.com/px86/emacs-config" />
+  <id>urn:rprimus:github:px86:emacs-config</id>
+  <published>2020-12-27T16:41:21Z</published>
+  <updated>2020-12-27T16:41:21Z</updated>
+  <content type="html">
+   My GNU Emacs configuration files.
+  </content>
+ </entry>
+ <entry>
+  <title>anuraq: doom-emacs-config</title>
+  <author>
+   <name>anuraq</name>
+  </author>
+  <link href="https://github.com/anuraq/doom-emacs-config" />
+  <id>urn:rprimus:github:anuraq:doom-emacs-config</id>
+  <published>2020-12-27T16:23:43Z</published>
+  <updated>2020-12-27T16:23:43Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Douidik: EmacsDotFiles</title>
+  <author>
+   <name>Douidik</name>
+  </author>
+  <link href="https://github.com/Douidik/EmacsDotFiles" />
+  <id>urn:rprimus:github:Douidik:EmacsDotFiles</id>
+  <published>2020-12-27T15:09:45Z</published>
+  <updated>2020-12-27T15:09:45Z</updated>
+  <content type="html">
+   My personal emacs configuration
+  </content>
+ </entry>
+ <entry>
+  <title>leuven65: use-package-ensure-git-repo</title>
+  <author>
+   <name>leuven65</name>
+  </author>
+  <link href="https://github.com/leuven65/use-package-ensure-git-repo" />
+  <id>urn:rprimus:github:leuven65:use-package-ensure-git-repo</id>
+  <published>2020-12-27T12:50:08Z</published>
+  <updated>2020-12-27T12:50:08Z</updated>
+  <content type="html">
+   Add keyword &quot;:ensure-git-repo&quot; to Emacs &quot;use-package&quot; to support install ELisp package from GitHub
+  </content>
+ </entry>
+ <entry>
+  <title>xdavidel: .doom.d</title>
+  <author>
+   <name>xdavidel</name>
+  </author>
+  <link href="https://github.com/xdavidel/.doom.d" />
+  <id>urn:rprimus:github:xdavidel:.doom.d</id>
+  <published>2020-12-27T11:06:12Z</published>
+  <updated>2020-12-27T11:06:12Z</updated>
+  <content type="html">
+   Doom Emacs config
+  </content>
+ </entry>
+ <entry>
+  <title>caw: init_files</title>
+  <author>
+   <name>caw</name>
+  </author>
+  <link href="https://github.com/caw/init_files" />
+  <id>urn:rprimus:github:caw:init_files</id>
+  <published>2020-12-27T10:44:42Z</published>
+  <updated>2020-12-27T10:44:42Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>andpap: dot-files</title>
+  <author>
+   <name>andpap</name>
+  </author>
+  <link href="https://github.com/andpap/dot-files" />
+  <id>urn:rprimus:github:andpap:dot-files</id>
+  <published>2020-12-27T10:29:16Z</published>
+  <updated>2020-12-27T10:29:16Z</updated>
   <content type="html">
    
   </content>
@@ -299,279 +455,6 @@
   <id>urn:rprimus:github:sjinno:dotfiles</id>
   <published>2020-12-26T00:02:40Z</published>
   <updated>2020-12-26T00:02:40Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>pkazmier: doom-nebula-theme</title>
-  <author>
-   <name>pkazmier</name>
-  </author>
-  <link href="https://github.com/pkazmier/doom-nebula-theme" />
-  <id>urn:rprimus:github:pkazmier:doom-nebula-theme</id>
-  <published>2020-12-25T22:14:09Z</published>
-  <updated>2020-12-25T22:14:09Z</updated>
-  <content type="html">
-   Doom Emacs theme based on the doom-vibrant theme with influence from the Modus themes.
-  </content>
- </entry>
- <entry>
-  <title>mathpunk: dotfiles</title>
-  <author>
-   <name>mathpunk</name>
-  </author>
-  <link href="https://github.com/mathpunk/dotfiles" />
-  <id>urn:rprimus:github:mathpunk:dotfiles</id>
-  <published>2020-12-25T22:13:07Z</published>
-  <updated>2020-12-25T22:13:07Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>tsutton: .emacs.d</title>
-  <author>
-   <name>tsutton</name>
-  </author>
-  <link href="https://github.com/tsutton/.emacs.d" />
-  <id>urn:rprimus:github:tsutton:.emacs.d</id>
-  <published>2020-12-25T21:34:40Z</published>
-  <updated>2020-12-25T21:34:40Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>melissaboiko: show-font-mode</title>
-  <author>
-   <name>melissaboiko</name>
-  </author>
-  <link href="https://github.com/melissaboiko/show-font-mode" />
-  <id>urn:rprimus:github:melissaboiko:show-font-mode</id>
-  <published>2020-12-25T21:34:27Z</published>
-  <updated>2020-12-25T21:34:27Z</updated>
-  <content type="html">
-   Show font at point on mode line
-  </content>
- </entry>
- <entry>
-  <title>vinid: .emacs.d</title>
-  <author>
-   <name>vinid</name>
-  </author>
-  <link href="https://github.com/vinid/.emacs.d" />
-  <id>urn:rprimus:github:vinid:.emacs.d</id>
-  <published>2020-12-25T20:01:35Z</published>
-  <updated>2020-12-25T20:01:35Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>vakili: config</title>
-  <author>
-   <name>vakili</name>
-  </author>
-  <link href="https://github.com/vakili/config" />
-  <id>urn:rprimus:github:vakili:config</id>
-  <published>2020-12-25T19:50:59Z</published>
-  <updated>2020-12-25T19:50:59Z</updated>
-  <content type="html">
-   My NixOS configuration.
-  </content>
- </entry>
- <entry>
-  <title>VictorAlbertsson: .emacs.d</title>
-  <author>
-   <name>VictorAlbertsson</name>
-  </author>
-  <link href="https://github.com/VictorAlbertsson/.emacs.d" />
-  <id>urn:rprimus:github:VictorAlbertsson:.emacs.d</id>
-  <published>2020-12-25T19:23:20Z</published>
-  <updated>2020-12-25T19:23:20Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>KrutNA: dotfiles</title>
-  <author>
-   <name>KrutNA</name>
-  </author>
-  <link href="https://github.com/KrutNA/dotfiles" />
-  <id>urn:rprimus:github:KrutNA:dotfiles</id>
-  <published>2020-12-25T18:15:08Z</published>
-  <updated>2020-12-25T18:15:08Z</updated>
-  <content type="html">
-   My dotfiles from XDG_CONFIG_HOME
-  </content>
- </entry>
- <entry>
-  <title>markrepedersen: emacs-liveshare</title>
-  <author>
-   <name>markrepedersen</name>
-  </author>
-  <link href="https://github.com/markrepedersen/emacs-liveshare" />
-  <id>urn:rprimus:github:markrepedersen:emacs-liveshare</id>
-  <published>2020-12-25T15:49:31Z</published>
-  <updated>2020-12-25T15:49:31Z</updated>
-  <content type="html">
-   An Emacs frontend for the Liveshare code editor backend.
-  </content>
- </entry>
- <entry>
-  <title>defpis: icemacs</title>
-  <author>
-   <name>defpis</name>
-  </author>
-  <link href="https://github.com/defpis/icemacs" />
-  <id>urn:rprimus:github:defpis:icemacs</id>
-  <published>2020-12-25T15:49:22Z</published>
-  <updated>2020-12-25T15:49:22Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>wutchy: emacs-init</title>
-  <author>
-   <name>wutchy</name>
-  </author>
-  <link href="https://github.com/wutchy/emacs-init" />
-  <id>urn:rprimus:github:wutchy:emacs-init</id>
-  <published>2020-12-25T15:13:49Z</published>
-  <updated>2020-12-25T15:13:49Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>asek-ll: emacsd</title>
-  <author>
-   <name>asek-ll</name>
-  </author>
-  <link href="https://github.com/asek-ll/emacsd" />
-  <id>urn:rprimus:github:asek-ll:emacsd</id>
-  <published>2020-12-25T15:08:55Z</published>
-  <updated>2020-12-25T15:08:55Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jinder1s: .doom.d</title>
-  <author>
-   <name>jinder1s</name>
-  </author>
-  <link href="https://github.com/jinder1s/.doom.d" />
-  <id>urn:rprimus:github:jinder1s:.doom.d</id>
-  <published>2020-12-25T15:02:09Z</published>
-  <updated>2020-12-25T15:02:09Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>PlanetsFuture: .emacs.d</title>
-  <author>
-   <name>PlanetsFuture</name>
-  </author>
-  <link href="https://github.com/PlanetsFuture/.emacs.d" />
-  <id>urn:rprimus:github:PlanetsFuture:.emacs.d</id>
-  <published>2020-12-25T13:07:01Z</published>
-  <updated>2020-12-25T13:07:01Z</updated>
-  <content type="html">
-   My personal Emacs config
-  </content>
- </entry>
- <entry>
-  <title>artemkovalyov: algs-lisp</title>
-  <author>
-   <name>artemkovalyov</name>
-  </author>
-  <link href="https://github.com/artemkovalyov/algs-lisp" />
-  <id>urn:rprimus:github:artemkovalyov:algs-lisp</id>
-  <published>2020-12-25T12:02:03Z</published>
-  <updated>2020-12-25T12:02:03Z</updated>
-  <content type="html">
-   Understanding is reinforced by practice. Joking, I just want to learn counting braces.
-  </content>
- </entry>
- <entry>
-  <title>cemkeylan: doom.d</title>
-  <author>
-   <name>cemkeylan</name>
-  </author>
-  <link href="https://github.com/cemkeylan/doom.d" />
-  <id>urn:rprimus:github:cemkeylan:doom.d</id>
-  <published>2020-12-25T06:58:54Z</published>
-  <updated>2020-12-25T06:58:54Z</updated>
-  <content type="html">
-   Private Doom Emacs configuration
-  </content>
- </entry>
- <entry>
-  <title>jogo3000: emacs-scrape-flow</title>
-  <author>
-   <name>jogo3000</name>
-  </author>
-  <link href="https://github.com/jogo3000/emacs-scrape-flow" />
-  <id>urn:rprimus:github:jogo3000:emacs-scrape-flow</id>
-  <published>2020-12-25T06:28:07Z</published>
-  <updated>2020-12-25T06:28:07Z</updated>
-  <content type="html">
-   Library for scraping data from flow.polar.com
-  </content>
- </entry>
- <entry>
-  <title>cnngimenez: anniversaries-el</title>
-  <author>
-   <name>cnngimenez</name>
-  </author>
-  <link href="https://github.com/cnngimenez/anniversaries-el" />
-  <id>urn:rprimus:github:cnngimenez:anniversaries-el</id>
-  <published>2020-12-25T04:16:05Z</published>
-  <updated>2020-12-25T04:16:05Z</updated>
-  <content type="html">
-   A list of anniversaries for emacs.
-  </content>
- </entry>
- <entry>
-  <title>macdavid313: wiki</title>
-  <author>
-   <name>macdavid313</name>
-  </author>
-  <link href="https://github.com/macdavid313/wiki" />
-  <id>urn:rprimus:github:macdavid313:wiki</id>
-  <published>2020-12-25T03:39:49Z</published>
-  <updated>2020-12-25T03:39:49Z</updated>
-  <content type="html">
-   Personal Wiki page
-  </content>
- </entry>
- <entry>
-  <title>shintaro4: .doom.d</title>
-  <author>
-   <name>shintaro4</name>
-  </author>
-  <link href="https://github.com/shintaro4/.doom.d" />
-  <id>urn:rprimus:github:shintaro4:.doom.d</id>
-  <published>2020-12-25T03:32:03Z</published>
-  <updated>2020-12-25T03:32:03Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>4wph: emacs</title>
-  <author>
-   <name>4wph</name>
-  </author>
-  <link href="https://github.com/4wph/emacs" />
-  <id>urn:rprimus:github:4wph:emacs</id>
-  <published>2020-12-25T02:33:36Z</published>
-  <updated>2020-12-25T02:33:36Z</updated>
   <content type="html">
    
   </content>
