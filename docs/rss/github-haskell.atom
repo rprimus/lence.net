@@ -2,19 +2,357 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-haskell.atom"/>
 <id>urn:rprimus:github:newhaskellrepos</id>
-<updated>2020-12-28T10:36:43Z</updated>
+<updated>2020-12-29T07:31:43Z</updated>
 <title type='text'>New GitHub Haskell Repos</title>
  <entry>
-  <title>OleksandrZhabenko: mmsyn5</title>
+  <title>hmarat1403: Echobot_v2</title>
+  <author>
+   <name>hmarat1403</name>
+  </author>
+  <link href="https://github.com/hmarat1403/Echobot_v2" />
+  <id>urn:rprimus:github:hmarat1403:Echobot_v2</id>
+  <published>2020-12-29T07:31:43Z</published>
+  <updated>2020-12-29T07:31:43Z</updated>
+  <content type="html">
+   Telegram-VK bot
+  </content>
+ </entry>
+ <entry>
+  <title>gelisam: magic-typelevel-elem</title>
+  <author>
+   <name>gelisam</name>
+  </author>
+  <link href="https://github.com/gelisam/magic-typelevel-elem" />
+  <id>urn:rprimus:github:gelisam:magic-typelevel-elem</id>
+  <published>2020-12-29T04:33:50Z</published>
+  <updated>2020-12-29T04:33:50Z</updated>
+  <content type="html">
+   Demonstrating how to make type families faster using typechecker plugins
+  </content>
+ </entry>
+ <entry>
+  <title>thesammarks: Lambda-Calculus-Interpreter</title>
+  <author>
+   <name>thesammarks</name>
+  </author>
+  <link href="https://github.com/thesammarks/Lambda-Calculus-Interpreter" />
+  <id>urn:rprimus:github:thesammarks:Lambda-Calculus-Interpreter</id>
+  <published>2020-12-29T02:30:21Z</published>
+  <updated>2020-12-29T02:30:21Z</updated>
+  <content type="html">
+   Lambda Calculus Interpreter from Prog Lang @ RPI
+  </content>
+ </entry>
+ <entry>
+  <title>mitchellvitez: haskell-cpython</title>
+  <author>
+   <name>mitchellvitez</name>
+  </author>
+  <link href="https://github.com/mitchellvitez/haskell-cpython" />
+  <id>urn:rprimus:github:mitchellvitez:haskell-cpython</id>
+  <published>2020-12-29T01:27:07Z</published>
+  <updated>2020-12-29T01:27:07Z</updated>
+  <content type="html">
+   Fork of https://github.com/jmillikin/haskell-cpython
+  </content>
+ </entry>
+ <entry>
+  <title>mitchellvitez: hsautogui</title>
+  <author>
+   <name>mitchellvitez</name>
+  </author>
+  <link href="https://github.com/mitchellvitez/hsautogui" />
+  <id>urn:rprimus:github:mitchellvitez:hsautogui</id>
+  <published>2020-12-29T01:09:05Z</published>
+  <updated>2020-12-29T01:09:05Z</updated>
+  <content type="html">
+   Haskell bindings for PyAutoGUI
+  </content>
+ </entry>
+ <entry>
+  <title>dotKuro: angemalt</title>
+  <author>
+   <name>dotKuro</name>
+  </author>
+  <link href="https://github.com/dotKuro/angemalt" />
+  <id>urn:rprimus:github:dotKuro:angemalt</id>
+  <published>2020-12-29T00:58:37Z</published>
+  <updated>2020-12-29T00:58:37Z</updated>
+  <content type="html">
+   a tool to inject the same color scheme into all of your configs
+  </content>
+ </entry>
+ <entry>
+  <title>junjihashimoto: hasktorch-yolo</title>
+  <author>
+   <name>junjihashimoto</name>
+  </author>
+  <link href="https://github.com/junjihashimoto/hasktorch-yolo" />
+  <id>urn:rprimus:github:junjihashimoto:hasktorch-yolo</id>
+  <published>2020-12-28T12:11:47Z</published>
+  <updated>2020-12-28T12:11:47Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>OleksandrZhabenko: uniqueness-periods-vector-properties</title>
   <author>
    <name>OleksandrZhabenko</name>
   </author>
-  <link href="https://github.com/OleksandrZhabenko/mmsyn5" />
-  <id>urn:rprimus:github:OleksandrZhabenko:mmsyn5</id>
-  <published>2020-12-28T10:36:43Z</published>
-  <updated>2020-12-28T10:36:43Z</updated>
+  <link href="https://github.com/OleksandrZhabenko/uniqueness-periods-vector-properties" />
+  <id>urn:rprimus:github:OleksandrZhabenko:uniqueness-periods-vector-properties</id>
+  <published>2020-12-28T11:29:39Z</published>
+  <updated>2020-12-28T11:29:39Z</updated>
   <content type="html">
-   
+   Properties for the maximum element for the uniqueness-periods-vector packages family. Generalization of the DobutokO.Poetry.Norms and DobutokO.Poetry.Norms.Extended modules from dobutokO-poetry package.
+  </content>
+ </entry>
+ <entry>
+  <title>OleksandrZhabenko: uniqueness-periods-vector</title>
+  <author>
+   <name>OleksandrZhabenko</name>
+  </author>
+  <link href="https://github.com/OleksandrZhabenko/uniqueness-periods-vector" />
+  <id>urn:rprimus:github:OleksandrZhabenko:uniqueness-periods-vector</id>
+  <published>2020-12-28T11:25:06Z</published>
+  <updated>2020-12-28T11:25:06Z</updated>
+  <content type="html">
+   Generalization of the uniqueness-periods and uniqueness-periods-general packages functionality.
+  </content>
+ </entry>
+ <entry>
+  <title>OleksandrZhabenko: uniqueness-periods-general</title>
+  <author>
+   <name>OleksandrZhabenko</name>
+  </author>
+  <link href="https://github.com/OleksandrZhabenko/uniqueness-periods-general" />
+  <id>urn:rprimus:github:OleksandrZhabenko:uniqueness-periods-general</id>
+  <published>2020-12-28T11:24:08Z</published>
+  <updated>2020-12-28T11:24:08Z</updated>
+  <content type="html">
+   Can be used to produce the similar to &#039;String.Ukrainian.UniquenessPeriods&#039; from uniqueness-periods package functions. Provides the generalization of them.
+  </content>
+ </entry>
+ <entry>
+  <title>OleksandrZhabenko: subG-instances</title>
+  <author>
+   <name>OleksandrZhabenko</name>
+  </author>
+  <link href="https://github.com/OleksandrZhabenko/subG-instances" />
+  <id>urn:rprimus:github:OleksandrZhabenko:subG-instances</id>
+  <published>2020-12-28T11:21:45Z</published>
+  <updated>2020-12-28T11:21:45Z</updated>
+  <content type="html">
+   Additional instances for the InsertLeft class from subG package. Use additional dependencies comparing to the package subG.
+  </content>
+ </entry>
+ <entry>
+  <title>OleksandrZhabenko: r-glpk-phonetic-languages-ukrainian-durations</title>
+  <author>
+   <name>OleksandrZhabenko</name>
+  </author>
+  <link href="https://github.com/OleksandrZhabenko/r-glpk-phonetic-languages-ukrainian-durations" />
+  <id>urn:rprimus:github:OleksandrZhabenko:r-glpk-phonetic-languages-ukrainian-durations</id>
+  <published>2020-12-28T11:19:43Z</published>
+  <updated>2020-12-28T11:19:43Z</updated>
+  <content type="html">
+   Can be used to calculate the durations of the approximations of the Ukrainian phonemes using some prepared text with its correct (at least mostly) pronunciation. The prepared text is located in the same directory and contains lines --- the Ukrainian word and its duration in seconds separated with whitespace.
+  </content>
+ </entry>
+ <entry>
+  <title>OleksandrZhabenko: print-info</title>
+  <author>
+   <name>OleksandrZhabenko</name>
+  </author>
+  <link href="https://github.com/OleksandrZhabenko/print-info" />
+  <id>urn:rprimus:github:OleksandrZhabenko:print-info</id>
+  <published>2020-12-28T11:18:24Z</published>
+  <updated>2020-12-28T11:18:24Z</updated>
+  <content type="html">
+   Can be used to coordinate the printing output.
+  </content>
+ </entry>
+ <entry>
+  <title>OleksandrZhabenko: phonetic-languages-simplified-properties-lists</title>
+  <author>
+   <name>OleksandrZhabenko</name>
+  </author>
+  <link href="https://github.com/OleksandrZhabenko/phonetic-languages-simplified-properties-lists" />
+  <id>urn:rprimus:github:OleksandrZhabenko:phonetic-languages-simplified-properties-lists</id>
+  <published>2020-12-28T11:13:13Z</published>
+  <updated>2020-12-28T11:13:13Z</updated>
+  <content type="html">
+   Is a simplified version of the functionality of the uniqueness-periods-vector-properties package. Uses lists as main processment data.
+  </content>
+ </entry>
+ <entry>
+  <title>OleksandrZhabenko: phonetic-languages-vector</title>
+  <author>
+   <name>OleksandrZhabenko</name>
+  </author>
+  <link href="https://github.com/OleksandrZhabenko/phonetic-languages-vector" />
+  <id>urn:rprimus:github:OleksandrZhabenko:phonetic-languages-vector</id>
+  <published>2020-12-28T11:06:37Z</published>
+  <updated>2020-12-28T11:06:37Z</updated>
+  <content type="html">
+   A generalization of the functionality of the uniqueness-periods-vector package. Is intended to use more Data.Vector functionality.
+  </content>
+ </entry>
+ <entry>
+  <title>OleksandrZhabenko: phonetic-languages-ukrainian</title>
+  <author>
+   <name>OleksandrZhabenko</name>
+  </author>
+  <link href="https://github.com/OleksandrZhabenko/phonetic-languages-ukrainian" />
+  <id>urn:rprimus:github:OleksandrZhabenko:phonetic-languages-ukrainian</id>
+  <published>2020-12-28T11:05:50Z</published>
+  <updated>2020-12-28T11:05:50Z</updated>
+  <content type="html">
+   Prepares Ukrainian text to be used as a phonetic language text. Applies needed minimal grammar connections so that the text afterwards can be processed by dobutokO-poetry related programs
+  </content>
+ </entry>
+ <entry>
+  <title>OleksandrZhabenko: phonetic-languages-properties</title>
+  <author>
+   <name>OleksandrZhabenko</name>
+  </author>
+  <link href="https://github.com/OleksandrZhabenko/phonetic-languages-properties" />
+  <id>urn:rprimus:github:OleksandrZhabenko:phonetic-languages-properties</id>
+  <published>2020-12-28T11:04:27Z</published>
+  <updated>2020-12-28T11:04:27Z</updated>
+  <content type="html">
+   A generalization of the uniqueness-periods-vector-properties package.
+  </content>
+ </entry>
+ <entry>
+  <title>OleksandrZhabenko: phonetic-languages-rhythmicity</title>
+  <author>
+   <name>OleksandrZhabenko</name>
+  </author>
+  <link href="https://github.com/OleksandrZhabenko/phonetic-languages-rhythmicity" />
+  <id>urn:rprimus:github:OleksandrZhabenko:phonetic-languages-rhythmicity</id>
+  <published>2020-12-28T11:02:44Z</published>
+  <updated>2020-12-28T11:02:44Z</updated>
+  <content type="html">
+   Allows to estimate (somewhat to say, evaluate) the rhythmicity metrices for the text (usually, the Ukrainian poetic one, but it can be extrapolated to other ones). Inspired by the ancient Greek and Latin poetry.
+  </content>
+ </entry>
+ <entry>
+  <title>OleksandrZhabenko: phonetic-languages-plus</title>
+  <author>
+   <name>OleksandrZhabenko</name>
+  </author>
+  <link href="https://github.com/OleksandrZhabenko/phonetic-languages-plus" />
+  <id>urn:rprimus:github:OleksandrZhabenko:phonetic-languages-plus</id>
+  <published>2020-12-28T11:01:53Z</published>
+  <updated>2020-12-28T11:01:53Z</updated>
+  <content type="html">
+   Some common shared between different packages functions. Among them are the uniqueness-periods-vector series.
+  </content>
+ </entry>
+ <entry>
+  <title>OleksandrZhabenko: phonetic-languages-permutations</title>
+  <author>
+   <name>OleksandrZhabenko</name>
+  </author>
+  <link href="https://github.com/OleksandrZhabenko/phonetic-languages-permutations" />
+  <id>urn:rprimus:github:OleksandrZhabenko:phonetic-languages-permutations</id>
+  <published>2020-12-28T11:00:50Z</published>
+  <updated>2020-12-28T11:00:50Z</updated>
+  <content type="html">
+   Commonly used versions of the phonetic-languages-common package. Permutations-related to produce universal set of the task.
+  </content>
+ </entry>
+ <entry>
+  <title>OleksandrZhabenko: phonetic-languages-general</title>
+  <author>
+   <name>OleksandrZhabenko</name>
+  </author>
+  <link href="https://github.com/OleksandrZhabenko/phonetic-languages-general" />
+  <id>urn:rprimus:github:OleksandrZhabenko:phonetic-languages-general</id>
+  <published>2020-12-28T10:58:32Z</published>
+  <updated>2020-12-28T10:58:32Z</updated>
+  <content type="html">
+   A generalization of the uniqueness-periods-vector-general functionality. Is intended to use more functionality of the Data.Foldable, Data.SubG, Data.Monoid and Data.Vector modules.
+  </content>
+ </entry>
+ <entry>
+  <title>OleksandrZhabenko: phonetic-languages-constraints</title>
+  <author>
+   <name>OleksandrZhabenko</name>
+  </author>
+  <link href="https://github.com/OleksandrZhabenko/phonetic-languages-constraints" />
+  <id>urn:rprimus:github:OleksandrZhabenko:phonetic-languages-constraints</id>
+  <published>2020-12-28T10:56:29Z</published>
+  <updated>2020-12-28T10:56:29Z</updated>
+  <content type="html">
+   Constraints to filter the needed permutations. Provides several the most important variants of constraints. Can be used with the phonetic-languages-common series of package.
+  </content>
+ </entry>
+ <entry>
+  <title>OleksandrZhabenko: periodic-polynomials</title>
+  <author>
+   <name>OleksandrZhabenko</name>
+  </author>
+  <link href="https://github.com/OleksandrZhabenko/periodic-polynomials" />
+  <id>urn:rprimus:github:OleksandrZhabenko:periodic-polynomials</id>
+  <published>2020-12-28T10:53:57Z</published>
+  <updated>2020-12-28T10:53:57Z</updated>
+  <content type="html">
+   A library for working with periodic polynomials (very basic functionality). Provides also simple tools to make a numerical function a periodic (or somewhat similar) one
+  </content>
+ </entry>
+ <entry>
+  <title>OleksandrZhabenko: mmsyn7l</title>
+  <author>
+   <name>OleksandrZhabenko</name>
+  </author>
+  <link href="https://github.com/OleksandrZhabenko/mmsyn7l" />
+  <id>urn:rprimus:github:OleksandrZhabenko:mmsyn7l</id>
+  <published>2020-12-28T10:51:57Z</published>
+  <updated>2020-12-28T10:51:57Z</updated>
+  <content type="html">
+   Modifies the amplitudes of the Ukrainian sounds representations created by mmsyn7ukr package. A program and a library to modify the amplitudes of the Ukrainian sounds representations created by mmsyn7ukr package or somehow otherwise.
+  </content>
+ </entry>
+ <entry>
+  <title>OleksandrZhabenko: ukrainian-phonetics-basic-array</title>
+  <author>
+   <name>OleksandrZhabenko</name>
+  </author>
+  <link href="https://github.com/OleksandrZhabenko/ukrainian-phonetics-basic-array" />
+  <id>urn:rprimus:github:OleksandrZhabenko:ukrainian-phonetics-basic-array</id>
+  <published>2020-12-28T10:40:51Z</published>
+  <updated>2020-12-28T10:40:51Z</updated>
+  <content type="html">
+   A library to work with the basic Ukrainian phonetics and syllable segmentation. Rewritten from the mmsyn6ukr and mmsyn7s packages. Comparing to the ukrainian-phonetics-basic package, all the vector-related functionality removed, it also removed from the dependencies and the mmsyn2 is changed to mmsyn2-array.
+  </content>
+ </entry>
+ <entry>
+  <title>OleksandrZhabenko: ukrainian-phonetics-basic</title>
+  <author>
+   <name>OleksandrZhabenko</name>
+  </author>
+  <link href="https://github.com/OleksandrZhabenko/ukrainian-phonetics-basic" />
+  <id>urn:rprimus:github:OleksandrZhabenko:ukrainian-phonetics-basic</id>
+  <published>2020-12-28T10:40:03Z</published>
+  <updated>2020-12-28T10:40:03Z</updated>
+  <content type="html">
+   A library to work with the basic Ukrainian phonetics and syllable segmentation. Rewritten from the mmsyn6ukr and mmsyn7s packages.
+  </content>
+ </entry>
+ <entry>
+  <title>OleksandrZhabenko: mmsyn6ukr</title>
+  <author>
+   <name>OleksandrZhabenko</name>
+  </author>
+  <link href="https://github.com/OleksandrZhabenko/mmsyn6ukr" />
+  <id>urn:rprimus:github:OleksandrZhabenko:mmsyn6ukr</id>
+  <published>2020-12-28T10:37:52Z</published>
+  <updated>2020-12-28T10:37:52Z</updated>
+  <content type="html">
+   A program can be used as a musical instrument synthesizer or for Ukrainian speech synthesis especially for poets and writers
   </content>
  </entry>
  <entry>
@@ -27,7 +365,7 @@
   <published>2020-12-28T10:34:00Z</published>
   <updated>2020-12-28T10:34:00Z</updated>
   <content type="html">
-   
+   The &quot;glue&quot; between electronic tables and GraphViz. The program mmsyn4 converts a specially formatted .csv file with a colon as a field separator obtained from the electronic table into a visualized by GraphViz graph.
   </content>
  </entry>
  <entry>
@@ -40,33 +378,7 @@
   <published>2020-12-28T10:28:30Z</published>
   <updated>2020-12-28T10:28:30Z</updated>
   <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>OleksandrZhabenko: lists-flines</title>
-  <author>
-   <name>OleksandrZhabenko</name>
-  </author>
-  <link href="https://github.com/OleksandrZhabenko/lists-flines" />
-  <id>urn:rprimus:github:OleksandrZhabenko:lists-flines</id>
-  <published>2020-12-28T10:26:25Z</published>
-  <updated>2020-12-28T10:26:25Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>OleksandrZhabenko: dobutokO-poetry-general-languages</title>
-  <author>
-   <name>OleksandrZhabenko</name>
-  </author>
-  <link href="https://github.com/OleksandrZhabenko/dobutokO-poetry-general-languages" />
-  <id>urn:rprimus:github:OleksandrZhabenko:dobutokO-poetry-general-languages</id>
-  <published>2020-12-28T10:24:57Z</published>
-  <updated>2020-12-28T10:24:57Z</updated>
-  <content type="html">
-   
+   A library with less dependencies that can be used for multiple Ord a =&gt; a -&gt; b transformations. A library that can be used as a &#039;case ... of&#039; construction analogue for the multiple Ord a =&gt; a -&gt; b transformations and data representation. Uses &quot;GHC.Arr&quot; internally. If you use the module in GHCi, then, please, run the interpreter with the flag -fobject-code.
   </content>
  </entry>
  <entry>
@@ -79,7 +391,7 @@
   <published>2020-12-28T10:23:29Z</published>
   <updated>2020-12-28T10:23:29Z</updated>
   <content type="html">
-   
+   Helps to order the 7 or less words (or their concatenations) to obtain somewhat suitable for poetry or music text. Can be also used as a research instrument with generalized functions.
   </content>
  </entry>
  <entry>
@@ -92,33 +404,7 @@
   <published>2020-12-28T10:21:35Z</published>
   <updated>2020-12-28T10:21:35Z</updated>
   <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>OleksandrZhabenko: dobutokO-frequency</title>
-  <author>
-   <name>OleksandrZhabenko</name>
-  </author>
-  <link href="https://github.com/OleksandrZhabenko/dobutokO-frequency" />
-  <id>urn:rprimus:github:OleksandrZhabenko:dobutokO-frequency</id>
-  <published>2020-12-28T10:18:36Z</published>
-  <updated>2020-12-28T10:18:36Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>OleksandrZhabenko: dobutokO-effects</title>
-  <author>
-   <name>OleksandrZhabenko</name>
-  </author>
-  <link href="https://github.com/OleksandrZhabenko/dobutokO-effects" />
-  <id>urn:rprimus:github:OleksandrZhabenko:dobutokO-effects</id>
-  <published>2020-12-28T10:15:14Z</published>
-  <updated>2020-12-28T10:15:14Z</updated>
-  <content type="html">
-   
+   Helps to order the 7 or less Ukrainian words (or their concatenations) to obtain somewhat suitable for poetry or music text. Can be also used as a research instrument with generalized functions.
   </content>
  </entry>
  <entry>
@@ -131,20 +417,7 @@
   <published>2020-12-28T10:13:00Z</published>
   <updated>2020-12-28T10:13:00Z</updated>
   <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>OleksandrZhabenko: dobutokO3</title>
-  <author>
-   <name>OleksandrZhabenko</name>
-  </author>
-  <link href="https://github.com/OleksandrZhabenko/dobutokO3" />
-  <id>urn:rprimus:github:OleksandrZhabenko:dobutokO3</id>
-  <published>2020-12-28T10:11:16Z</published>
-  <updated>2020-12-28T10:11:16Z</updated>
-  <content type="html">
-   
+   Helps to create experimental music. Uses SoX inside. Uses SoX fade (in a special 2D way) and frequency modulation. Provides a special representation for the composition.
   </content>
  </entry>
  <entry>
@@ -157,33 +430,7 @@
   <published>2020-12-28T10:07:15Z</published>
   <updated>2020-12-28T10:07:15Z</updated>
   <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>OleksandrZhabenko: dobutokO</title>
-  <author>
-   <name>OleksandrZhabenko</name>
-  </author>
-  <link href="https://github.com/OleksandrZhabenko/dobutokO" />
-  <id>urn:rprimus:github:OleksandrZhabenko:dobutokO</id>
-  <published>2020-12-28T09:56:38Z</published>
-  <updated>2020-12-28T09:56:38Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>AugustoPeres: Tic-Tac-Toe-AI-using-temporal-logic</title>
-  <author>
-   <name>AugustoPeres</name>
-  </author>
-  <link href="https://github.com/AugustoPeres/Tic-Tac-Toe-AI-using-temporal-logic" />
-  <id>urn:rprimus:github:AugustoPeres:Tic-Tac-Toe-AI-using-temporal-logic</id>
-  <published>2020-12-28T09:42:55Z</published>
-  <updated>2020-12-28T09:42:55Z</updated>
-  <content type="html">
-   A simple Tic-Tac-Toe artificial intelligence using temporal logic formulas
+   Helps to create experimental music from a file (or its part) and a Ukrainian text. It can also generate a timbre for the notes. Uses SoX inside.
   </content>
  </entry>
  <entry>
@@ -196,20 +443,7 @@
   <published>2020-12-28T09:27:07Z</published>
   <updated>2020-12-28T09:27:07Z</updated>
   <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>chowells79: roll</title>
-  <author>
-   <name>chowells79</name>
-  </author>
-  <link href="https://github.com/chowells79/roll" />
-  <id>urn:rprimus:github:chowells79:roll</id>
-  <published>2020-12-28T06:39:44Z</published>
-  <updated>2020-12-28T06:39:44Z</updated>
-  <content type="html">
-   Rolls dice
+   FFT and IFFT for `vector`, with minimal dependencies
   </content>
  </entry>
  <entry>
@@ -226,45 +460,6 @@
   </content>
  </entry>
  <entry>
-  <title>hyperrealgopher: burrow</title>
-  <author>
-   <name>hyperrealgopher</name>
-  </author>
-  <link href="https://github.com/hyperrealgopher/burrow" />
-  <id>urn:rprimus:github:hyperrealgopher:burrow</id>
-  <published>2020-12-28T05:19:50Z</published>
-  <updated>2020-12-28T05:19:50Z</updated>
-  <content type="html">
-   Static gopherhole generator.
-  </content>
- </entry>
- <entry>
-  <title>helmetroo: aoc2020-haskell</title>
-  <author>
-   <name>helmetroo</name>
-  </author>
-  <link href="https://github.com/helmetroo/aoc2020-haskell" />
-  <id>urn:rprimus:github:helmetroo:aoc2020-haskell</id>
-  <published>2020-12-28T03:12:27Z</published>
-  <updated>2020-12-28T03:12:27Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>BrickFrog: bassbull</title>
-  <author>
-   <name>BrickFrog</name>
-  </author>
-  <link href="https://github.com/BrickFrog/bassbull" />
-  <id>urn:rprimus:github:BrickFrog:bassbull</id>
-  <published>2020-12-28T02:49:53Z</published>
-  <updated>2020-12-28T02:49:53Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
   <title>chessai: rose</title>
   <author>
    <name>chessai</name>
@@ -275,19 +470,6 @@
   <updated>2020-12-28T01:53:06Z</updated>
   <content type="html">
    rose trees
-  </content>
- </entry>
- <entry>
-  <title>pieterinjapan: HaskellProjects</title>
-  <author>
-   <name>pieterinjapan</name>
-  </author>
-  <link href="https://github.com/pieterinjapan/HaskellProjects" />
-  <id>urn:rprimus:github:pieterinjapan:HaskellProjects</id>
-  <published>2020-12-28T01:30:21Z</published>
-  <updated>2020-12-28T01:30:21Z</updated>
-  <content type="html">
-   Various small projects implemented in Haskell
   </content>
  </entry>
  <entry>
@@ -626,383 +808,6 @@
   <updated>2020-12-27T01:09:13Z</updated>
   <content type="html">
    The Programming Languages Zoo
-  </content>
- </entry>
- <entry>
-  <title>kotovalexarian: tuntap-simple</title>
-  <author>
-   <name>kotovalexarian</name>
-  </author>
-  <link href="https://github.com/kotovalexarian/tuntap-simple" />
-  <id>urn:rprimus:github:kotovalexarian:tuntap-simple</id>
-  <published>2020-12-26T23:58:00Z</published>
-  <updated>2020-12-26T23:58:00Z</updated>
-  <content type="html">
-   Extracted from Hackage tarball
-  </content>
- </entry>
- <entry>
-  <title>autotaker: housekeeping-api-haskell</title>
-  <author>
-   <name>autotaker</name>
-  </author>
-  <link href="https://github.com/autotaker/housekeeping-api-haskell" />
-  <id>urn:rprimus:github:autotaker:housekeeping-api-haskell</id>
-  <published>2020-12-26T23:08:17Z</published>
-  <updated>2020-12-26T23:08:17Z</updated>
-  <content type="html">
-   Haskell implementation of my webapp
-  </content>
- </entry>
- <entry>
-  <title>epoberezkin: db-migrations</title>
-  <author>
-   <name>epoberezkin</name>
-  </author>
-  <link href="https://github.com/epoberezkin/db-migrations" />
-  <id>urn:rprimus:github:epoberezkin:db-migrations</id>
-  <published>2020-12-26T21:13:03Z</published>
-  <updated>2020-12-26T21:13:03Z</updated>
-  <content type="html">
-   [WIP] Library to manage database migrations
-  </content>
- </entry>
- <entry>
-  <title>risingBirdSong: hangman</title>
-  <author>
-   <name>risingBirdSong</name>
-  </author>
-  <link href="https://github.com/risingBirdSong/hangman" />
-  <id>urn:rprimus:github:risingBirdSong:hangman</id>
-  <published>2020-12-26T20:59:57Z</published>
-  <updated>2020-12-26T20:59:57Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>victorrequia: Analisador-Texto-Haskell</title>
-  <author>
-   <name>victorrequia</name>
-  </author>
-  <link href="https://github.com/victorrequia/Analisador-Texto-Haskell" />
-  <id>urn:rprimus:github:victorrequia:Analisador-Texto-Haskell</id>
-  <published>2020-12-26T20:46:48Z</published>
-  <updated>2020-12-26T20:46:48Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>R0nd: adventofcode2020</title>
-  <author>
-   <name>R0nd</name>
-  </author>
-  <link href="https://github.com/R0nd/adventofcode2020" />
-  <id>urn:rprimus:github:R0nd:adventofcode2020</id>
-  <published>2020-12-26T20:45:42Z</published>
-  <updated>2020-12-26T20:45:42Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>tcw321: aventofcode2020</title>
-  <author>
-   <name>tcw321</name>
-  </author>
-  <link href="https://github.com/tcw321/aventofcode2020" />
-  <id>urn:rprimus:github:tcw321:aventofcode2020</id>
-  <published>2020-12-26T19:45:08Z</published>
-  <updated>2020-12-26T19:45:08Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>malwaredllc: semantic-viz</title>
-  <author>
-   <name>malwaredllc</name>
-  </author>
-  <link href="https://github.com/malwaredllc/semantic-viz" />
-  <id>urn:rprimus:github:malwaredllc:semantic-viz</id>
-  <published>2020-12-26T17:54:30Z</published>
-  <updated>2020-12-26T17:54:30Z</updated>
-  <content type="html">
-   Semantic Distance Visualizer written in Haskell.
-  </content>
- </entry>
- <entry>
-  <title>VladiMarinov: dotfiles</title>
-  <author>
-   <name>VladiMarinov</name>
-  </author>
-  <link href="https://github.com/VladiMarinov/dotfiles" />
-  <id>urn:rprimus:github:VladiMarinov:dotfiles</id>
-  <published>2020-12-26T17:33:17Z</published>
-  <updated>2020-12-26T17:33:17Z</updated>
-  <content type="html">
-   Back up of my importan linux config files
-  </content>
- </entry>
- <entry>
-  <title>LeoLeLion: dotfiles</title>
-  <author>
-   <name>LeoLeLion</name>
-  </author>
-  <link href="https://github.com/LeoLeLion/dotfiles" />
-  <id>urn:rprimus:github:LeoLeLion:dotfiles</id>
-  <published>2020-12-26T15:15:21Z</published>
-  <updated>2020-12-26T15:15:21Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ivanbakel: haskell-mu</title>
-  <author>
-   <name>ivanbakel</name>
-  </author>
-  <link href="https://github.com/ivanbakel/haskell-mu" />
-  <id>urn:rprimus:github:ivanbakel:haskell-mu</id>
-  <published>2020-12-26T15:07:39Z</published>
-  <updated>2020-12-26T15:07:39Z</updated>
-  <content type="html">
-   Attempts to embed lambda-mu semantics in Haskell
-  </content>
- </entry>
- <entry>
-  <title>davidcraig: NetSalaryCalculator</title>
-  <author>
-   <name>davidcraig</name>
-  </author>
-  <link href="https://github.com/davidcraig/NetSalaryCalculator" />
-  <id>urn:rprimus:github:davidcraig:NetSalaryCalculator</id>
-  <published>2020-12-26T14:26:25Z</published>
-  <updated>2020-12-26T14:26:25Z</updated>
-  <content type="html">
-   A test project for learning to develop an application using functional programming in haskell
-  </content>
- </entry>
- <entry>
-  <title>Nenivar: advent-of-code-2020</title>
-  <author>
-   <name>Nenivar</name>
-  </author>
-  <link href="https://github.com/Nenivar/advent-of-code-2020" />
-  <id>urn:rprimus:github:Nenivar:advent-of-code-2020</id>
-  <published>2020-12-26T14:10:57Z</published>
-  <updated>2020-12-26T14:10:57Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>min-nguyen: continuations</title>
-  <author>
-   <name>min-nguyen</name>
-  </author>
-  <link href="https://github.com/min-nguyen/continuations" />
-  <id>urn:rprimus:github:min-nguyen:continuations</id>
-  <published>2020-12-26T12:16:48Z</published>
-  <updated>2020-12-26T12:16:48Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>pdepviernestm: 2020-funcional-recuperatorio-2</title>
-  <author>
-   <name>pdepviernestm</name>
-  </author>
-  <link href="https://github.com/pdepviernestm/2020-funcional-recuperatorio-2" />
-  <id>urn:rprimus:github:pdepviernestm:2020-funcional-recuperatorio-2</id>
-  <published>2020-12-26T11:55:26Z</published>
-  <updated>2020-12-26T11:55:26Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>balajirrao: algorithms</title>
-  <author>
-   <name>balajirrao</name>
-  </author>
-  <link href="https://github.com/balajirrao/algorithms" />
-  <id>urn:rprimus:github:balajirrao:algorithms</id>
-  <published>2020-12-26T11:24:53Z</published>
-  <updated>2020-12-26T11:24:53Z</updated>
-  <content type="html">
-   Learning Algorithms
-  </content>
- </entry>
- <entry>
-  <title>pkaterski: notes</title>
-  <author>
-   <name>pkaterski</name>
-  </author>
-  <link href="https://github.com/pkaterski/notes" />
-  <id>urn:rprimus:github:pkaterski:notes</id>
-  <published>2020-12-26T10:01:38Z</published>
-  <updated>2020-12-26T10:01:38Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>fang0jun: haskell-Notes</title>
-  <author>
-   <name>fang0jun</name>
-  </author>
-  <link href="https://github.com/fang0jun/haskell-Notes" />
-  <id>urn:rprimus:github:fang0jun:haskell-Notes</id>
-  <published>2020-12-26T09:04:55Z</published>
-  <updated>2020-12-26T09:04:55Z</updated>
-  <content type="html">
-   Rewrite of some Haskell functions and realization of some functions
-  </content>
- </entry>
- <entry>
-  <title>C-alcium: HinfoBot</title>
-  <author>
-   <name>C-alcium</name>
-  </author>
-  <link href="https://github.com/C-alcium/HinfoBot" />
-  <id>urn:rprimus:github:C-alcium:HinfoBot</id>
-  <published>2020-12-26T08:48:04Z</published>
-  <updated>2020-12-26T08:48:04Z</updated>
-  <content type="html">
-   A bot that uses NewsAPI.org to present the occasional daily message, purely an educational project.
-  </content>
- </entry>
- <entry>
-  <title>gabin22: m3u8dl</title>
-  <author>
-   <name>gabin22</name>
-  </author>
-  <link href="https://github.com/gabin22/m3u8dl" />
-  <id>urn:rprimus:github:gabin22:m3u8dl</id>
-  <published>2020-12-26T08:47:27Z</published>
-  <updated>2020-12-26T08:47:27Z</updated>
-  <content type="html">
-   m3u8 downloader 
-  </content>
- </entry>
- <entry>
-  <title>jonascarpay: tasty-focus</title>
-  <author>
-   <name>jonascarpay</name>
-  </author>
-  <link href="https://github.com/jonascarpay/tasty-focus" />
-  <id>urn:rprimus:github:jonascarpay:tasty-focus</id>
-  <published>2020-12-26T08:37:34Z</published>
-  <updated>2020-12-26T08:37:34Z</updated>
-  <content type="html">
-   Simple focus mechanism for tasty
-  </content>
- </entry>
- <entry>
-  <title>calledtoconstruct: advent-of-code-2020</title>
-  <author>
-   <name>calledtoconstruct</name>
-  </author>
-  <link href="https://github.com/calledtoconstruct/advent-of-code-2020" />
-  <id>urn:rprimus:github:calledtoconstruct:advent-of-code-2020</id>
-  <published>2020-12-26T08:35:07Z</published>
-  <updated>2020-12-26T08:35:07Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>kskkido: hetris</title>
-  <author>
-   <name>kskkido</name>
-  </author>
-  <link href="https://github.com/kskkido/hetris" />
-  <id>urn:rprimus:github:kskkido:hetris</id>
-  <published>2020-12-26T05:26:24Z</published>
-  <updated>2020-12-26T05:26:24Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>avigael: liskell</title>
-  <author>
-   <name>avigael</name>
-  </author>
-  <link href="https://github.com/avigael/liskell" />
-  <id>urn:rprimus:github:avigael:liskell</id>
-  <published>2020-12-26T04:11:10Z</published>
-  <updated>2020-12-26T04:11:10Z</updated>
-  <content type="html">
-   Toy untyped lambda calculus language written in Haskell
-  </content>
- </entry>
- <entry>
-  <title>avigael: functional-data-structures</title>
-  <author>
-   <name>avigael</name>
-  </author>
-  <link href="https://github.com/avigael/functional-data-structures" />
-  <id>urn:rprimus:github:avigael:functional-data-structures</id>
-  <published>2020-12-26T02:47:59Z</published>
-  <updated>2020-12-26T02:47:59Z</updated>
-  <content type="html">
-   Functional programming data structures using pure operations.
-  </content>
- </entry>
- <entry>
-  <title>avigael: duodoku</title>
-  <author>
-   <name>avigael</name>
-  </author>
-  <link href="https://github.com/avigael/duodoku" />
-  <id>urn:rprimus:github:avigael:duodoku</id>
-  <published>2020-12-26T02:42:06Z</published>
-  <updated>2020-12-26T02:42:06Z</updated>
-  <content type="html">
-   Haskell project for solving Sudoku alternative &quot;Duodoku&quot;
-  </content>
- </entry>
- <entry>
-  <title>nonlinear-chaos-order-etc-etal: language-go</title>
-  <author>
-   <name>nonlinear-chaos-order-etc-etal</name>
-  </author>
-  <link href="https://github.com/nonlinear-chaos-order-etc-etal/language-go" />
-  <id>urn:rprimus:github:nonlinear-chaos-order-etc-etal:language-go</id>
-  <published>2020-12-26T01:23:37Z</published>
-  <updated>2020-12-26T01:23:37Z</updated>
-  <content type="html">
-   A clone of https://hackage.haskell.org/package/language-go-0.8/language-go-0.8.tar.gz
-  </content>
- </entry>
- <entry>
-  <title>amesgen: hellsmack</title>
-  <author>
-   <name>amesgen</name>
-  </author>
-  <link href="https://github.com/amesgen/hellsmack" />
-  <id>urn:rprimus:github:amesgen:hellsmack</id>
-  <published>2020-12-26T00:46:26Z</published>
-  <updated>2020-12-26T00:46:26Z</updated>
-  <content type="html">
-   Minecraft stuff
-  </content>
- </entry>
- <entry>
-  <title>georgefst: haskell-logo</title>
-  <author>
-   <name>georgefst</name>
-  </author>
-  <link href="https://github.com/georgefst/haskell-logo" />
-  <id>urn:rprimus:github:georgefst:haskell-logo</id>
-  <published>2020-12-26T00:12:27Z</published>
-  <updated>2020-12-26T00:12:27Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
