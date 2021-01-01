@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2020-12-31T10:51:16Z</updated>
+<updated>2020-12-31T20:31:42Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>bbeegs: bills-api</title>
+  <author>
+   <name>bbeegs</name>
+  </author>
+  <link href="https://github.com/bbeegs/bills-api" />
+  <id>urn:rprimus:github:bbeegs:bills-api</id>
+  <published>2020-12-31T20:31:42Z</published>
+  <updated>2020-12-31T20:31:42Z</updated>
+  <content type="html">
+   A basic bills-tracking RESTful API
+  </content>
+ </entry>
+ <entry>
+  <title>momozor: algorithm-playground</title>
+  <author>
+   <name>momozor</name>
+  </author>
+  <link href="https://github.com/momozor/algorithm-playground" />
+  <id>urn:rprimus:github:momozor:algorithm-playground</id>
+  <published>2020-12-31T19:46:35Z</published>
+  <updated>2020-12-31T19:46:35Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Lisible: advent-of-code-2015</title>
+  <author>
+   <name>Lisible</name>
+  </author>
+  <link href="https://github.com/Lisible/advent-of-code-2015" />
+  <id>urn:rprimus:github:Lisible:advent-of-code-2015</id>
+  <published>2020-12-31T19:07:06Z</published>
+  <updated>2020-12-31T19:07:06Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>cl-doc-systems: atdoc</title>
+  <author>
+   <name>cl-doc-systems</name>
+  </author>
+  <link href="https://github.com/cl-doc-systems/atdoc" />
+  <id>urn:rprimus:github:cl-doc-systems:atdoc</id>
+  <published>2020-12-31T18:36:00Z</published>
+  <updated>2020-12-31T18:36:00Z</updated>
+  <content type="html">
+   Example project showing ATDOC Common Lisp documentation builder
+  </content>
+ </entry>
+ <entry>
+  <title>TheLostLambda: astonish</title>
+  <author>
+   <name>TheLostLambda</name>
+  </author>
+  <link href="https://github.com/TheLostLambda/astonish" />
+  <id>urn:rprimus:github:TheLostLambda:astonish</id>
+  <published>2020-12-31T16:01:15Z</published>
+  <updated>2020-12-31T16:01:15Z</updated>
+  <content type="html">
+     A Common Lisp library for querying and manipulating Lisp ASTs
+  </content>
+ </entry>
+ <entry>
+  <title>akovalenko: advent-of-code</title>
+  <author>
+   <name>akovalenko</name>
+  </author>
+  <link href="https://github.com/akovalenko/advent-of-code" />
+  <id>urn:rprimus:github:akovalenko:advent-of-code</id>
+  <published>2020-12-31T14:50:42Z</published>
+  <updated>2020-12-31T14:50:42Z</updated>
+  <content type="html">
+   Some solutions to https://adventofcode.com puzzles
+  </content>
+ </entry>
  <entry>
   <title>mnasoft: mnas-package</title>
   <author>
@@ -15,6 +93,19 @@
   <updated>2020-12-31T10:51:16Z</updated>
   <content type="html">
    
+  </content>
+ </entry>
+ <entry>
+  <title>eshamster: watson</title>
+  <author>
+   <name>eshamster</name>
+  </author>
+  <link href="https://github.com/eshamster/watson" />
+  <id>urn:rprimus:github:eshamster:watson</id>
+  <published>2020-12-31T05:19:56Z</published>
+  <updated>2020-12-31T05:19:56Z</updated>
+  <content type="html">
+   watson: WAT (WebAssembly Text format) Structured ON Lisp
   </content>
  </entry>
  <entry>
@@ -79,7 +170,7 @@
   <published>2020-12-30T22:27:25Z</published>
   <updated>2020-12-30T22:27:25Z</updated>
   <content type="html">
-   
+   SCORE TRANSCRIBER
   </content>
  </entry>
  <entry>
@@ -184,84 +275,6 @@
   <updated>2020-12-30T02:17:52Z</updated>
   <content type="html">
    gitgraph is a CLIM-based tool to display and editor graphical representation of the commit history in s-expression.
-  </content>
- </entry>
- <entry>
-  <title>mahirvaluj: cl-elf</title>
-  <author>
-   <name>mahirvaluj</name>
-  </author>
-  <link href="https://github.com/mahirvaluj/cl-elf" />
-  <id>urn:rprimus:github:mahirvaluj:cl-elf</id>
-  <published>2020-12-29T22:51:55Z</published>
-  <updated>2020-12-29T22:51:55Z</updated>
-  <content type="html">
-   Incomplete elf parser
-  </content>
- </entry>
- <entry>
-  <title>rcstanciu: land-of-lisp</title>
-  <author>
-   <name>rcstanciu</name>
-  </author>
-  <link href="https://github.com/rcstanciu/land-of-lisp" />
-  <id>urn:rprimus:github:rcstanciu:land-of-lisp</id>
-  <published>2020-12-29T18:23:00Z</published>
-  <updated>2020-12-29T18:23:00Z</updated>
-  <content type="html">
-   Land of Lisp study notes
-  </content>
- </entry>
- <entry>
-  <title>violeine: practical-commonlisp</title>
-  <author>
-   <name>violeine</name>
-  </author>
-  <link href="https://github.com/violeine/practical-commonlisp" />
-  <id>urn:rprimus:github:violeine:practical-commonlisp</id>
-  <published>2020-12-29T14:51:06Z</published>
-  <updated>2020-12-29T14:51:06Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>harumaxy: common-lisp-tutorial</title>
-  <author>
-   <name>harumaxy</name>
-  </author>
-  <link href="https://github.com/harumaxy/common-lisp-tutorial" />
-  <id>urn:rprimus:github:harumaxy:common-lisp-tutorial</id>
-  <published>2020-12-29T11:44:16Z</published>
-  <updated>2020-12-29T11:44:16Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>cooleynal: COMP-456</title>
-  <author>
-   <name>cooleynal</name>
-  </author>
-  <link href="https://github.com/cooleynal/COMP-456" />
-  <id>urn:rprimus:github:cooleynal:COMP-456</id>
-  <published>2020-12-29T02:44:24Z</published>
-  <updated>2020-12-29T02:44:24Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>johnhilts: tagger</title>
-  <author>
-   <name>johnhilts</name>
-  </author>
-  <link href="https://github.com/johnhilts/tagger" />
-  <id>urn:rprimus:github:johnhilts:tagger</id>
-  <published>2020-12-29T02:23:26Z</published>
-  <updated>2020-12-29T02:23:26Z</updated>
-  <content type="html">
-   tagged notes
   </content>
  </entry>
 </feed>

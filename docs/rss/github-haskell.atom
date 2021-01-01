@@ -2,19 +2,175 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-haskell.atom"/>
 <id>urn:rprimus:github:newhaskellrepos</id>
-<updated>2020-12-31T11:54:13Z</updated>
+<updated>2020-12-31T23:28:00Z</updated>
 <title type='text'>New GitHub Haskell Repos</title>
  <entry>
-  <title>the-dr-lazy: zyme</title>
+  <title>apoelstra: xmonad-config</title>
+  <author>
+   <name>apoelstra</name>
+  </author>
+  <link href="https://github.com/apoelstra/xmonad-config" />
+  <id>urn:rprimus:github:apoelstra:xmonad-config</id>
+  <published>2020-12-31T23:28:00Z</published>
+  <updated>2020-12-31T23:28:00Z</updated>
+  <content type="html">
+   my xmonad config
+  </content>
+ </entry>
+ <entry>
+  <title>1ndy: thesaurus-graph</title>
+  <author>
+   <name>1ndy</name>
+  </author>
+  <link href="https://github.com/1ndy/thesaurus-graph" />
+  <id>urn:rprimus:github:1ndy:thesaurus-graph</id>
+  <published>2020-12-31T20:46:55Z</published>
+  <updated>2020-12-31T20:46:55Z</updated>
+  <content type="html">
+   Find distant synonyms
+  </content>
+ </entry>
+ <entry>
+  <title>danhlutz: life</title>
+  <author>
+   <name>danhlutz</name>
+  </author>
+  <link href="https://github.com/danhlutz/life" />
+  <id>urn:rprimus:github:danhlutz:life</id>
+  <published>2020-12-31T19:33:26Z</published>
+  <updated>2020-12-31T19:33:26Z</updated>
+  <content type="html">
+   The Game of Life
+  </content>
+ </entry>
+ <entry>
+  <title>snood1205: haskell-programming</title>
+  <author>
+   <name>snood1205</name>
+  </author>
+  <link href="https://github.com/snood1205/haskell-programming" />
+  <id>urn:rprimus:github:snood1205:haskell-programming</id>
+  <published>2020-12-31T17:40:46Z</published>
+  <updated>2020-12-31T17:40:46Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>LeMarwin: tirakatar</title>
+  <author>
+   <name>LeMarwin</name>
+  </author>
+  <link href="https://github.com/LeMarwin/tirakatar" />
+  <id>urn:rprimus:github:LeMarwin:tirakatar</id>
+  <published>2020-12-31T16:51:24Z</published>
+  <updated>2020-12-31T16:51:24Z</updated>
+  <content type="html">
+   Private messenger with e2e encrypted group chats
+  </content>
+ </entry>
+ <entry>
+  <title>umiralles: conquer_planets_game_2</title>
+  <author>
+   <name>umiralles</name>
+  </author>
+  <link href="https://github.com/umiralles/conquer_planets_game_2" />
+  <id>urn:rprimus:github:umiralles:conquer_planets_game_2</id>
+  <published>2020-12-31T16:18:45Z</published>
+  <updated>2020-12-31T16:18:45Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>CrumbsTrace: AoC2018</title>
+  <author>
+   <name>CrumbsTrace</name>
+  </author>
+  <link href="https://github.com/CrumbsTrace/AoC2018" />
+  <id>urn:rprimus:github:CrumbsTrace:AoC2018</id>
+  <published>2020-12-31T15:54:38Z</published>
+  <updated>2020-12-31T15:54:38Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>koenongena: aoc-2019-haskell</title>
+  <author>
+   <name>koenongena</name>
+  </author>
+  <link href="https://github.com/koenongena/aoc-2019-haskell" />
+  <id>urn:rprimus:github:koenongena:aoc-2019-haskell</id>
+  <published>2020-12-31T15:51:08Z</published>
+  <updated>2020-12-31T15:51:08Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>zarak: test-ihp</title>
+  <author>
+   <name>zarak</name>
+  </author>
+  <link href="https://github.com/zarak/test-ihp" />
+  <id>urn:rprimus:github:zarak:test-ihp</id>
+  <published>2020-12-31T13:30:07Z</published>
+  <updated>2020-12-31T13:30:07Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>benclifford: soatick</title>
+  <author>
+   <name>benclifford</name>
+  </author>
+  <link href="https://github.com/benclifford/soatick" />
+  <id>urn:rprimus:github:benclifford:soatick</id>
+  <published>2020-12-31T13:25:21Z</published>
+  <updated>2020-12-31T13:25:21Z</updated>
+  <content type="html">
+   Generate DNS zone file SOA SERIAL numbers
+  </content>
+ </entry>
+ <entry>
+  <title>portnov: x11-xtest</title>
+  <author>
+   <name>portnov</name>
+  </author>
+  <link href="https://github.com/portnov/x11-xtest" />
+  <id>urn:rprimus:github:portnov:x11-xtest</id>
+  <published>2020-12-31T12:56:23Z</published>
+  <updated>2020-12-31T12:56:23Z</updated>
+  <content type="html">
+   Thin FFI bindings to X11 XTest library
+  </content>
+ </entry>
+ <entry>
+  <title>the-dr-lazy: cascade</title>
   <author>
    <name>the-dr-lazy</name>
   </author>
-  <link href="https://github.com/the-dr-lazy/zyme" />
-  <id>urn:rprimus:github:the-dr-lazy:zyme</id>
+  <link href="https://github.com/the-dr-lazy/cascade" />
+  <id>urn:rprimus:github:the-dr-lazy:cascade</id>
   <published>2020-12-31T11:54:13Z</published>
   <updated>2020-12-31T11:54:13Z</updated>
   <content type="html">
-   A self-hosted Git service just to show that real-world Haskell is awesome.
+   A project management service just to show that real-world Haskell is awesome.
+  </content>
+ </entry>
+ <entry>
+  <title>RationalAsh: CodeJam</title>
+  <author>
+   <name>RationalAsh</name>
+  </author>
+  <link href="https://github.com/RationalAsh/CodeJam" />
+  <id>urn:rprimus:github:RationalAsh:CodeJam</id>
+  <published>2020-12-31T11:40:21Z</published>
+  <updated>2020-12-31T11:40:21Z</updated>
+  <content type="html">
+   
   </content>
  </entry>
  <entry>
@@ -31,19 +187,6 @@
   </content>
  </entry>
  <entry>
-  <title>hapytex: hutt</title>
-  <author>
-   <name>hapytex</name>
-  </author>
-  <link href="https://github.com/hapytex/hutt" />
-  <id>urn:rprimus:github:hapytex:hutt</id>
-  <published>2020-12-31T10:57:44Z</published>
-  <updated>2020-12-31T10:57:44Z</updated>
-  <content type="html">
-   (Yet another) Haskell utility library.
-  </content>
- </entry>
- <entry>
   <title>poscat0x04: nixpkgs-index</title>
   <author>
    <name>poscat0x04</name>
@@ -57,19 +200,6 @@
   </content>
  </entry>
  <entry>
-  <title>convcha: kagla-hs</title>
-  <author>
-   <name>convcha</name>
-  </author>
-  <link href="https://github.com/convcha/kagla-hs" />
-  <id>urn:rprimus:github:convcha:kagla-hs</id>
-  <published>2020-12-31T09:46:11Z</published>
-  <updated>2020-12-31T09:46:11Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
   <title>AustinZhu: sat-solver</title>
   <author>
    <name>AustinZhu</name>
@@ -78,19 +208,6 @@
   <id>urn:rprimus:github:AustinZhu:sat-solver</id>
   <published>2020-12-31T08:58:41Z</published>
   <updated>2020-12-31T08:58:41Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ardeleanasm: rest-server</title>
-  <author>
-   <name>ardeleanasm</name>
-  </author>
-  <link href="https://github.com/ardeleanasm/rest-server" />
-  <id>urn:rprimus:github:ardeleanasm:rest-server</id>
-  <published>2020-12-31T08:56:52Z</published>
-  <updated>2020-12-31T08:56:52Z</updated>
   <content type="html">
    
   </content>
@@ -148,19 +265,6 @@
   </content>
  </entry>
  <entry>
-  <title>yguan1: cs161-grading</title>
-  <author>
-   <name>yguan1</name>
-  </author>
-  <link href="https://github.com/yguan1/cs161-grading" />
-  <id>urn:rprimus:github:yguan1:cs161-grading</id>
-  <published>2020-12-31T07:07:32Z</published>
-  <updated>2020-12-31T07:07:32Z</updated>
-  <content type="html">
-   Grading script for Honors Intro to CS
-  </content>
- </entry>
- <entry>
   <title>cwd-k2: templates</title>
   <author>
    <name>cwd-k2</name>
@@ -182,19 +286,6 @@
   <id>urn:rprimus:github:travv0:nix-updateall</id>
   <published>2020-12-31T06:05:01Z</published>
   <updated>2020-12-31T06:05:01Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>aloussase: exercism</title>
-  <author>
-   <name>aloussase</name>
-  </author>
-  <link href="https://github.com/aloussase/exercism" />
-  <id>urn:rprimus:github:aloussase:exercism</id>
-  <published>2020-12-31T05:09:29Z</published>
-  <updated>2020-12-31T05:09:29Z</updated>
   <content type="html">
    
   </content>
@@ -260,19 +351,6 @@
   <id>urn:rprimus:github:siramp:Xmonad-Dotfiles</id>
   <published>2020-12-31T01:10:32Z</published>
   <updated>2020-12-31T01:10:32Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>MomokaYamada: Haskell</title>
-  <author>
-   <name>MomokaYamada</name>
-  </author>
-  <link href="https://github.com/MomokaYamada/Haskell" />
-  <id>urn:rprimus:github:MomokaYamada:Haskell</id>
-  <published>2020-12-31T00:58:39Z</published>
-  <updated>2020-12-31T00:58:39Z</updated>
   <content type="html">
    
   </content>
@@ -626,396 +704,6 @@
   <updated>2020-12-30T01:21:27Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>agentultra: postgresql-replicant</title>
-  <author>
-   <name>agentultra</name>
-  </author>
-  <link href="https://github.com/agentultra/postgresql-replicant" />
-  <id>urn:rprimus:github:agentultra:postgresql-replicant</id>
-  <published>2020-12-29T23:21:11Z</published>
-  <updated>2020-12-29T23:21:11Z</updated>
-  <content type="html">
-   A streaming PostgreSQL logical replication client library for Haskell
-  </content>
- </entry>
- <entry>
-  <title>Elise-Merritt: prinprog-class-projects</title>
-  <author>
-   <name>Elise-Merritt</name>
-  </author>
-  <link href="https://github.com/Elise-Merritt/prinprog-class-projects" />
-  <id>urn:rprimus:github:Elise-Merritt:prinprog-class-projects</id>
-  <published>2020-12-29T22:58:50Z</published>
-  <updated>2020-12-29T22:58:50Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>bkrmendy: AdventOfCode2016</title>
-  <author>
-   <name>bkrmendy</name>
-  </author>
-  <link href="https://github.com/bkrmendy/AdventOfCode2016" />
-  <id>urn:rprimus:github:bkrmendy:AdventOfCode2016</id>
-  <published>2020-12-29T22:17:43Z</published>
-  <updated>2020-12-29T22:17:43Z</updated>
-  <content type="html">
-   Advent of Code 2016 - Functional Boogaloo
-  </content>
- </entry>
- <entry>
-  <title>risingBirdSong: haskellrandom</title>
-  <author>
-   <name>risingBirdSong</name>
-  </author>
-  <link href="https://github.com/risingBirdSong/haskellrandom" />
-  <id>urn:rprimus:github:risingBirdSong:haskellrandom</id>
-  <published>2020-12-29T19:42:00Z</published>
-  <updated>2020-12-29T19:42:00Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>TheMC47: aoc</title>
-  <author>
-   <name>TheMC47</name>
-  </author>
-  <link href="https://github.com/TheMC47/aoc" />
-  <id>urn:rprimus:github:TheMC47:aoc</id>
-  <published>2020-12-29T19:10:59Z</published>
-  <updated>2020-12-29T19:10:59Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>wstrinz: ihp-tutorial</title>
-  <author>
-   <name>wstrinz</name>
-  </author>
-  <link href="https://github.com/wstrinz/ihp-tutorial" />
-  <id>urn:rprimus:github:wstrinz:ihp-tutorial</id>
-  <published>2020-12-29T17:32:23Z</published>
-  <updated>2020-12-29T17:32:23Z</updated>
-  <content type="html">
-   https://ihp.digitallyinduced.com/Guide/your-first-project.html
-  </content>
- </entry>
- <entry>
-  <title>errolwxx: functional_programming_2020f</title>
-  <author>
-   <name>errolwxx</name>
-  </author>
-  <link href="https://github.com/errolwxx/functional_programming_2020f" />
-  <id>urn:rprimus:github:errolwxx:functional_programming_2020f</id>
-  <published>2020-12-29T16:27:50Z</published>
-  <updated>2020-12-29T16:27:50Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>RaniAgus: pdep-2020-f-parcial-vacaciones</title>
-  <author>
-   <name>RaniAgus</name>
-  </author>
-  <link href="https://github.com/RaniAgus/pdep-2020-f-parcial-vacaciones" />
-  <id>urn:rprimus:github:RaniAgus:pdep-2020-f-parcial-vacaciones</id>
-  <published>2020-12-29T16:21:16Z</published>
-  <updated>2020-12-29T16:21:16Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>RaniAgus: pdep-2020-f-tpi-taller-mecanico</title>
-  <author>
-   <name>RaniAgus</name>
-  </author>
-  <link href="https://github.com/RaniAgus/pdep-2020-f-tpi-taller-mecanico" />
-  <id>urn:rprimus:github:RaniAgus:pdep-2020-f-tpi-taller-mecanico</id>
-  <published>2020-12-29T16:20:39Z</published>
-  <updated>2020-12-29T16:20:39Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>N0FreeLunch: haskel-practice</title>
-  <author>
-   <name>N0FreeLunch</name>
-  </author>
-  <link href="https://github.com/N0FreeLunch/haskel-practice" />
-  <id>urn:rprimus:github:N0FreeLunch:haskel-practice</id>
-  <published>2020-12-29T16:01:06Z</published>
-  <updated>2020-12-29T16:01:06Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>pcoloigner: ihp-tournoivolley</title>
-  <author>
-   <name>pcoloigner</name>
-  </author>
-  <link href="https://github.com/pcoloigner/ihp-tournoivolley" />
-  <id>urn:rprimus:github:pcoloigner:ihp-tournoivolley</id>
-  <published>2020-12-29T15:41:01Z</published>
-  <updated>2020-12-29T15:41:01Z</updated>
-  <content type="html">
-   Application Tournoi de volley - implÃ©mentÃ©e par IHP
-  </content>
- </entry>
- <entry>
-  <title>stefanvonderkrone: pr-servant-api</title>
-  <author>
-   <name>stefanvonderkrone</name>
-  </author>
-  <link href="https://github.com/stefanvonderkrone/pr-servant-api" />
-  <id>urn:rprimus:github:stefanvonderkrone:pr-servant-api</id>
-  <published>2020-12-29T15:10:41Z</published>
-  <updated>2020-12-29T15:10:41Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>cronokirby: springer-cryptography</title>
-  <author>
-   <name>cronokirby</name>
-  </author>
-  <link href="https://github.com/cronokirby/springer-cryptography" />
-  <id>urn:rprimus:github:cronokirby:springer-cryptography</id>
-  <published>2020-12-29T14:20:20Z</published>
-  <updated>2020-12-29T14:20:20Z</updated>
-  <content type="html">
-   Some bits of code while reading &quot;Cryptography (2018)&quot;
-  </content>
- </entry>
- <entry>
-  <title>sym-cereal: ralc</title>
-  <author>
-   <name>sym-cereal</name>
-  </author>
-  <link href="https://github.com/sym-cereal/ralc" />
-  <id>urn:rprimus:github:sym-cereal:ralc</id>
-  <published>2020-12-29T14:14:06Z</published>
-  <updated>2020-12-29T14:14:06Z</updated>
-  <content type="html">
-   Refinement type a la carte
-  </content>
- </entry>
- <entry>
-  <title>picussecurity: mime-mail</title>
-  <author>
-   <name>picussecurity</name>
-  </author>
-  <link href="https://github.com/picussecurity/mime-mail" />
-  <id>urn:rprimus:github:picussecurity:mime-mail</id>
-  <published>2020-12-29T13:47:27Z</published>
-  <updated>2020-12-29T13:47:27Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>picussecurity: hweblib</title>
-  <author>
-   <name>picussecurity</name>
-  </author>
-  <link href="https://github.com/picussecurity/hweblib" />
-  <id>urn:rprimus:github:picussecurity:hweblib</id>
-  <published>2020-12-29T13:38:24Z</published>
-  <updated>2020-12-29T13:38:24Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>hgoody88: HaskellPratice</title>
-  <author>
-   <name>hgoody88</name>
-  </author>
-  <link href="https://github.com/hgoody88/HaskellPratice" />
-  <id>urn:rprimus:github:hgoody88:HaskellPratice</id>
-  <published>2020-12-29T12:58:26Z</published>
-  <updated>2020-12-29T12:58:26Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>molamphd: SWENG-VISUALISATION-PROJECT</title>
-  <author>
-   <name>molamphd</name>
-  </author>
-  <link href="https://github.com/molamphd/SWENG-VISUALISATION-PROJECT" />
-  <id>urn:rprimus:github:molamphd:SWENG-VISUALISATION-PROJECT</id>
-  <published>2020-12-29T12:16:48Z</published>
-  <updated>2020-12-29T12:16:48Z</updated>
-  <content type="html">
-   SWENG Visualisation Project
-  </content>
- </entry>
- <entry>
-  <title>dramforever: playgraphics</title>
-  <author>
-   <name>dramforever</name>
-  </author>
-  <link href="https://github.com/dramforever/playgraphics" />
-  <id>urn:rprimus:github:dramforever:playgraphics</id>
-  <published>2020-12-29T11:46:55Z</published>
-  <updated>2020-12-29T11:46:55Z</updated>
-  <content type="html">
-   Graphics playground
-  </content>
- </entry>
- <entry>
-  <title>dommeudec: github-visualisation</title>
-  <author>
-   <name>dommeudec</name>
-  </author>
-  <link href="https://github.com/dommeudec/github-visualisation" />
-  <id>urn:rprimus:github:dommeudec:github-visualisation</id>
-  <published>2020-12-29T11:27:00Z</published>
-  <updated>2020-12-29T11:27:00Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Morendil: synacor-challenge</title>
-  <author>
-   <name>Morendil</name>
-  </author>
-  <link href="https://github.com/Morendil/synacor-challenge" />
-  <id>urn:rprimus:github:Morendil:synacor-challenge</id>
-  <published>2020-12-29T11:01:21Z</published>
-  <updated>2020-12-29T11:01:21Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>itsfrank98: sIMP</title>
-  <author>
-   <name>itsfrank98</name>
-  </author>
-  <link href="https://github.com/itsfrank98/sIMP" />
-  <id>urn:rprimus:github:itsfrank98:sIMP</id>
-  <published>2020-12-29T10:08:32Z</published>
-  <updated>2020-12-29T10:08:32Z</updated>
-  <content type="html">
-   Implementation of a parser and an interpreter for an extended version of the IMP language
-  </content>
- </entry>
- <entry>
-  <title>poscat0x04: bpath</title>
-  <author>
-   <name>poscat0x04</name>
-  </author>
-  <link href="https://github.com/poscat0x04/bpath" />
-  <id>urn:rprimus:github:poscat0x04:bpath</id>
-  <published>2020-12-29T09:54:08Z</published>
-  <updated>2020-12-29T09:54:08Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>EMQ-YangM: hstream-pubsub</title>
-  <author>
-   <name>EMQ-YangM</name>
-  </author>
-  <link href="https://github.com/EMQ-YangM/hstream-pubsub" />
-  <id>urn:rprimus:github:EMQ-YangM:hstream-pubsub</id>
-  <published>2020-12-29T09:26:32Z</published>
-  <updated>2020-12-29T09:26:32Z</updated>
-  <content type="html">
-   hstream-pubsub
-  </content>
- </entry>
- <entry>
-  <title>BrevinS: HaskellPA2</title>
-  <author>
-   <name>BrevinS</name>
-  </author>
-  <link href="https://github.com/BrevinS/HaskellPA2" />
-  <id>urn:rprimus:github:BrevinS:HaskellPA2</id>
-  <published>2020-12-29T07:52:50Z</published>
-  <updated>2020-12-29T07:52:50Z</updated>
-  <content type="html">
-   various haskell functions
-  </content>
- </entry>
- <entry>
-  <title>hmarat1403: Echobot_v2</title>
-  <author>
-   <name>hmarat1403</name>
-  </author>
-  <link href="https://github.com/hmarat1403/Echobot_v2" />
-  <id>urn:rprimus:github:hmarat1403:Echobot_v2</id>
-  <published>2020-12-29T07:31:43Z</published>
-  <updated>2020-12-29T07:31:43Z</updated>
-  <content type="html">
-   Telegram-VK bot
-  </content>
- </entry>
- <entry>
-  <title>gelisam: magic-typelevel-elem</title>
-  <author>
-   <name>gelisam</name>
-  </author>
-  <link href="https://github.com/gelisam/magic-typelevel-elem" />
-  <id>urn:rprimus:github:gelisam:magic-typelevel-elem</id>
-  <published>2020-12-29T04:33:50Z</published>
-  <updated>2020-12-29T04:33:50Z</updated>
-  <content type="html">
-   Demonstrating how to make type families faster using typechecker plugins
-  </content>
- </entry>
- <entry>
-  <title>thesammarks: Lambda-Calculus-Interpreter</title>
-  <author>
-   <name>thesammarks</name>
-  </author>
-  <link href="https://github.com/thesammarks/Lambda-Calculus-Interpreter" />
-  <id>urn:rprimus:github:thesammarks:Lambda-Calculus-Interpreter</id>
-  <published>2020-12-29T02:30:21Z</published>
-  <updated>2020-12-29T02:30:21Z</updated>
-  <content type="html">
-   Lambda Calculus Interpreter from Prog Lang @ RPI
-  </content>
- </entry>
- <entry>
-  <title>mitchellvitez: hsautogui</title>
-  <author>
-   <name>mitchellvitez</name>
-  </author>
-  <link href="https://github.com/mitchellvitez/hsautogui" />
-  <id>urn:rprimus:github:mitchellvitez:hsautogui</id>
-  <published>2020-12-29T01:09:05Z</published>
-  <updated>2020-12-29T01:09:05Z</updated>
-  <content type="html">
-   Haskell bindings for PyAutoGUI
-  </content>
- </entry>
- <entry>
-  <title>dotKuro: angemalt</title>
-  <author>
-   <name>dotKuro</name>
-  </author>
-  <link href="https://github.com/dotKuro/angemalt" />
-  <id>urn:rprimus:github:dotKuro:angemalt</id>
-  <published>2020-12-29T00:58:37Z</published>
-  <updated>2020-12-29T00:58:37Z</updated>
-  <content type="html">
-   a tool to inject the same color scheme into all of your configs
   </content>
  </entry>
 </feed>
