@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-01-07T16:51:39Z</updated>
+<updated>2021-01-08T05:45:55Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>fukamachi: docker-cl-example</title>
+  <author>
+   <name>fukamachi</name>
+  </author>
+  <link href="https://github.com/fukamachi/docker-cl-example" />
+  <id>urn:rprimus:github:fukamachi:docker-cl-example</id>
+  <published>2021-01-08T05:45:55Z</published>
+  <updated>2021-01-08T05:45:55Z</updated>
+  <content type="html">
+   Example projects to run/develop Common Lisp web application on Docker container
+  </content>
+ </entry>
+ <entry>
+  <title>randirer: ftp</title>
+  <author>
+   <name>randirer</name>
+  </author>
+  <link href="https://github.com/randirer/ftp" />
+  <id>urn:rprimus:github:randirer:ftp</id>
+  <published>2021-01-08T05:07:49Z</published>
+  <updated>2021-01-08T05:07:49Z</updated>
+  <content type="html">
+   Basic implementation of RFC 959
+  </content>
+ </entry>
  <entry>
   <title>mdbergmann: cl-sicp</title>
   <author>
@@ -109,12 +135,12 @@
   </content>
  </entry>
  <entry>
-  <title>hai-nc: clel</title>
+  <title>hai-nc: elcl</title>
   <author>
    <name>hai-nc</name>
   </author>
-  <link href="https://github.com/hai-nc/clel" />
-  <id>urn:rprimus:github:hai-nc:clel</id>
+  <link href="https://github.com/hai-nc/elcl" />
+  <id>urn:rprimus:github:hai-nc:elcl</id>
   <published>2021-01-06T15:15:35Z</published>
   <updated>2021-01-06T15:15:35Z</updated>
   <content type="html">
