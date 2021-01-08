@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-01-07T15:06:50Z</updated>
+<updated>2021-01-07T16:51:39Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>mdbergmann: cl-sicp</title>
+  <author>
+   <name>mdbergmann</name>
+  </author>
+  <link href="https://github.com/mdbergmann/cl-sicp" />
+  <id>urn:rprimus:github:mdbergmann:cl-sicp</id>
+  <published>2021-01-07T16:51:39Z</published>
+  <updated>2021-01-07T16:51:39Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>hadrien-delattr: nyquist-scripts</title>
   <author>
@@ -96,12 +109,12 @@
   </content>
  </entry>
  <entry>
-  <title>hai-nc: elshim</title>
+  <title>hai-nc: clel</title>
   <author>
    <name>hai-nc</name>
   </author>
-  <link href="https://github.com/hai-nc/elshim" />
-  <id>urn:rprimus:github:hai-nc:elshim</id>
+  <link href="https://github.com/hai-nc/clel" />
+  <id>urn:rprimus:github:hai-nc:clel</id>
   <published>2021-01-06T15:15:35Z</published>
   <updated>2021-01-06T15:15:35Z</updated>
   <content type="html">
@@ -210,71 +223,6 @@
   <updated>2021-01-06T00:51:16Z</updated>
   <content type="html">
    Just trying some basic algorithms in lisp
-  </content>
- </entry>
- <entry>
-  <title>technoblogy: ulisp-builder</title>
-  <author>
-   <name>technoblogy</name>
-  </author>
-  <link href="https://github.com/technoblogy/ulisp-builder" />
-  <id>urn:rprimus:github:technoblogy:ulisp-builder</id>
-  <published>2021-01-05T12:33:50Z</published>
-  <updated>2021-01-05T12:33:50Z</updated>
-  <content type="html">
-   Builds a version of uLisp for a particular platform from a common repository of source files
-  </content>
- </entry>
- <entry>
-  <title>albycrescini: cl-iterators</title>
-  <author>
-   <name>albycrescini</name>
-  </author>
-  <link href="https://github.com/albycrescini/cl-iterators" />
-  <id>urn:rprimus:github:albycrescini:cl-iterators</id>
-  <published>2021-01-05T11:12:53Z</published>
-  <updated>2021-01-05T11:12:53Z</updated>
-  <content type="html">
-   Implementing iterators onto cl-enumeration project hosted on gitlab: https://gitlab.common-lisp.net/cl-enumeration/enumerations
-  </content>
- </entry>
- <entry>
-  <title>skyedeving: aoclient</title>
-  <author>
-   <name>skyedeving</name>
-  </author>
-  <link href="https://github.com/skyedeving/aoclient" />
-  <id>urn:rprimus:github:skyedeving:aoclient</id>
-  <published>2021-01-05T10:19:24Z</published>
-  <updated>2021-01-05T10:19:24Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>doissegundos: Inteligencia_Artificial_Eliza</title>
-  <author>
-   <name>doissegundos</name>
-  </author>
-  <link href="https://github.com/doissegundos/Inteligencia_Artificial_Eliza" />
-  <id>urn:rprimus:github:doissegundos:Inteligencia_Artificial_Eliza</id>
-  <published>2021-01-05T01:31:18Z</published>
-  <updated>2021-01-05T01:31:18Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>CMasami: CMPublic</title>
-  <author>
-   <name>CMasami</name>
-  </author>
-  <link href="https://github.com/CMasami/CMPublic" />
-  <id>urn:rprimus:github:CMasami:CMPublic</id>
-  <published>2021-01-05T01:13:52Z</published>
-  <updated>2021-01-05T01:13:52Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
