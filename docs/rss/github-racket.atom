@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-racket.atom"/>
 <id>urn:rprimus:github:newracketrepos</id>
-<updated>2021-01-08T07:42:17Z</updated>
+<updated>2021-01-09T01:19:13Z</updated>
 <title type='text'>New GitHub Racket Repos</title>
+ <entry>
+  <title>jackfirth: resyntax</title>
+  <author>
+   <name>jackfirth</name>
+  </author>
+  <link href="https://github.com/jackfirth/resyntax" />
+  <id>urn:rprimus:github:jackfirth:resyntax</id>
+  <published>2021-01-09T01:19:13Z</published>
+  <updated>2021-01-09T01:19:13Z</updated>
+  <content type="html">
+   A Racket refactoring engine
+  </content>
+ </entry>
+ <entry>
+  <title>ldhandley: towers</title>
+  <author>
+   <name>ldhandley</name>
+  </author>
+  <link href="https://github.com/ldhandley/towers" />
+  <id>urn:rprimus:github:ldhandley:towers</id>
+  <published>2021-01-08T22:07:43Z</published>
+  <updated>2021-01-08T22:07:43Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>ldhandley: crystals</title>
+  <author>
+   <name>ldhandley</name>
+  </author>
+  <link href="https://github.com/ldhandley/crystals" />
+  <id>urn:rprimus:github:ldhandley:crystals</id>
+  <published>2021-01-08T22:05:38Z</published>
+  <updated>2021-01-08T22:05:38Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>u-mulder: hexlet-sicp-exercises</title>
+  <author>
+   <name>u-mulder</name>
+  </author>
+  <link href="https://github.com/u-mulder/hexlet-sicp-exercises" />
+  <id>urn:rprimus:github:u-mulder:hexlet-sicp-exercises</id>
+  <published>2021-01-08T17:56:17Z</published>
+  <updated>2021-01-08T17:56:17Z</updated>
+  <content type="html">
+   Solutions for SICP course on hexlet.io
+  </content>
+ </entry>
+ <entry>
+  <title>anmolray: decision-tree</title>
+  <author>
+   <name>anmolray</name>
+  </author>
+  <link href="https://github.com/anmolray/decision-tree" />
+  <id>urn:rprimus:github:anmolray:decision-tree</id>
+  <published>2021-01-08T12:14:29Z</published>
+  <updated>2021-01-08T12:14:29Z</updated>
+  <content type="html">
+   Creating a decision tree in Dr.Racket/ Scheme using the machine learning algorithm ID3.
+  </content>
+ </entry>
  <entry>
   <title>alxqiu: tetris</title>
   <author>
@@ -145,123 +210,6 @@
   <updated>2021-01-07T00:00:40Z</updated>
   <content type="html">
    Programs and solutions implemented going through the SICP
-  </content>
- </entry>
- <entry>
-  <title>alexanderlwkuhn: Metacircular-evaluator</title>
-  <author>
-   <name>alexanderlwkuhn</name>
-  </author>
-  <link href="https://github.com/alexanderlwkuhn/Metacircular-evaluator" />
-  <id>urn:rprimus:github:alexanderlwkuhn:Metacircular-evaluator</id>
-  <published>2021-01-06T20:59:32Z</published>
-  <updated>2021-01-06T20:59:32Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>alexanderlwkuhn: Lists-trees-streams</title>
-  <author>
-   <name>alexanderlwkuhn</name>
-  </author>
-  <link href="https://github.com/alexanderlwkuhn/Lists-trees-streams" />
-  <id>urn:rprimus:github:alexanderlwkuhn:Lists-trees-streams</id>
-  <published>2021-01-06T20:57:58Z</published>
-  <updated>2021-01-06T20:57:58Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>alexanderlwkuhn: Implementations-of-base-functionalities</title>
-  <author>
-   <name>alexanderlwkuhn</name>
-  </author>
-  <link href="https://github.com/alexanderlwkuhn/Implementations-of-base-functionalities" />
-  <id>urn:rprimus:github:alexanderlwkuhn:Implementations-of-base-functionalities</id>
-  <published>2021-01-06T20:52:38Z</published>
-  <updated>2021-01-06T20:52:38Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>alexanderlwkuhn: Procedure-evaluations</title>
-  <author>
-   <name>alexanderlwkuhn</name>
-  </author>
-  <link href="https://github.com/alexanderlwkuhn/Procedure-evaluations" />
-  <id>urn:rprimus:github:alexanderlwkuhn:Procedure-evaluations</id>
-  <published>2021-01-06T20:50:30Z</published>
-  <updated>2021-01-06T20:50:30Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>johnli5555: Guess-Animals</title>
-  <author>
-   <name>johnli5555</name>
-  </author>
-  <link href="https://github.com/johnli5555/Guess-Animals" />
-  <id>urn:rprimus:github:johnli5555:Guess-Animals</id>
-  <published>2021-01-06T11:17:59Z</published>
-  <updated>2021-01-06T11:17:59Z</updated>
-  <content type="html">
-   Guess-Animals is a Racket program that uses the ID3 machine learning algorithm to classify animals
-  </content>
- </entry>
- <entry>
-  <title>Nivispluma: Racket-Learing</title>
-  <author>
-   <name>Nivispluma</name>
-  </author>
-  <link href="https://github.com/Nivispluma/Racket-Learing" />
-  <id>urn:rprimus:github:Nivispluma:Racket-Learing</id>
-  <published>2021-01-06T10:59:56Z</published>
-  <updated>2021-01-06T10:59:56Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>frankyu02: Letter-Identifier</title>
-  <author>
-   <name>frankyu02</name>
-  </author>
-  <link href="https://github.com/frankyu02/Letter-Identifier" />
-  <id>urn:rprimus:github:frankyu02:Letter-Identifier</id>
-  <published>2021-01-06T06:14:30Z</published>
-  <updated>2021-01-06T06:14:30Z</updated>
-  <content type="html">
-   Given a list of points that make up a visual representation of a letter in the alphabet, the program will output what letter best matches the points provided. 
-  </content>
- </entry>
- <entry>
-  <title>wilbowma: test-setup-racket</title>
-  <author>
-   <name>wilbowma</name>
-  </author>
-  <link href="https://github.com/wilbowma/test-setup-racket" />
-  <id>urn:rprimus:github:wilbowma:test-setup-racket</id>
-  <published>2021-01-06T03:55:59Z</published>
-  <updated>2021-01-06T03:55:59Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Zackyzz: Predictors</title>
-  <author>
-   <name>Zackyzz</name>
-  </author>
-  <link href="https://github.com/Zackyzz/Predictors" />
-  <id>urn:rprimus:github:Zackyzz:Predictors</id>
-  <published>2021-01-06T03:16:07Z</published>
-  <updated>2021-01-06T03:16:07Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
