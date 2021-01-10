@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-01-09T07:19:03Z</updated>
+<updated>2021-01-09T22:21:33Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>muguira-james: c-lisp-v1</title>
+  <author>
+   <name>muguira-james</name>
+  </author>
+  <link href="https://github.com/muguira-james/c-lisp-v1" />
+  <id>urn:rprimus:github:muguira-james:c-lisp-v1</id>
+  <published>2021-01-09T22:21:33Z</published>
+  <updated>2021-01-09T22:21:33Z</updated>
+  <content type="html">
+   db code and other experiments
+  </content>
+ </entry>
+ <entry>
+  <title>davd33: kaisse</title>
+  <author>
+   <name>davd33</name>
+  </author>
+  <link href="https://github.com/davd33/kaisse" />
+  <id>urn:rprimus:github:davd33:kaisse</id>
+  <published>2021-01-09T15:47:02Z</published>
+  <updated>2021-01-09T15:47:02Z</updated>
+  <content type="html">
+   L&#039;encaisseur.
+  </content>
+ </entry>
+ <entry>
+  <title>anhvuk13: pl</title>
+  <author>
+   <name>anhvuk13</name>
+  </author>
+  <link href="https://github.com/anhvuk13/pl" />
+  <id>urn:rprimus:github:anhvuk13:pl</id>
+  <published>2021-01-09T12:09:37Z</published>
+  <updated>2021-01-09T12:09:37Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>technoblogy: ulisp-i2c-detective</title>
+  <author>
+   <name>technoblogy</name>
+  </author>
+  <link href="https://github.com/technoblogy/ulisp-i2c-detective" />
+  <id>urn:rprimus:github:technoblogy:ulisp-i2c-detective</id>
+  <published>2021-01-09T11:26:59Z</published>
+  <updated>2021-01-09T11:26:59Z</updated>
+  <content type="html">
+   A Lisp program for identifying I2C devices on the bus
+  </content>
+ </entry>
  <entry>
   <title>fusuya: mogetical</title>
   <author>
@@ -28,6 +80,19 @@
   <updated>2021-01-09T04:16:58Z</updated>
   <content type="html">
    
+  </content>
+ </entry>
+ <entry>
+  <title>timmyjose-compilers: cl-prattler</title>
+  <author>
+   <name>timmyjose-compilers</name>
+  </author>
+  <link href="https://github.com/timmyjose-compilers/cl-prattler" />
+  <id>urn:rprimus:github:timmyjose-compilers:cl-prattler</id>
+  <published>2021-01-09T04:01:55Z</published>
+  <updated>2021-01-09T04:01:55Z</updated>
+  <content type="html">
+   A Pratt parser for arithmetic expressions written in Common Lisp.
   </content>
  </entry>
  <entry>
@@ -132,84 +197,6 @@
   <updated>2021-01-08T05:07:49Z</updated>
   <content type="html">
    Basic implementation of RFC 959
-  </content>
- </entry>
- <entry>
-  <title>mdbergmann: cl-sicp</title>
-  <author>
-   <name>mdbergmann</name>
-  </author>
-  <link href="https://github.com/mdbergmann/cl-sicp" />
-  <id>urn:rprimus:github:mdbergmann:cl-sicp</id>
-  <published>2021-01-07T16:51:39Z</published>
-  <updated>2021-01-07T16:51:39Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>hadrien-delattr: nyquist-scripts</title>
-  <author>
-   <name>hadrien-delattr</name>
-  </author>
-  <link href="https://github.com/hadrien-delattr/nyquist-scripts" />
-  <id>urn:rprimus:github:hadrien-delattr:nyquist-scripts</id>
-  <published>2021-01-07T15:06:50Z</published>
-  <updated>2021-01-07T15:06:50Z</updated>
-  <content type="html">
-   nyquist scripts for Audacity
-  </content>
- </entry>
- <entry>
-  <title>sirherrbatka: vellum-plot</title>
-  <author>
-   <name>sirherrbatka</name>
-  </author>
-  <link href="https://github.com/sirherrbatka/vellum-plot" />
-  <id>urn:rprimus:github:sirherrbatka:vellum-plot</id>
-  <published>2021-01-07T12:51:22Z</published>
-  <updated>2021-01-07T12:51:22Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Warfenix122: IA-pt-2</title>
-  <author>
-   <name>Warfenix122</name>
-  </author>
-  <link href="https://github.com/Warfenix122/IA-pt-2" />
-  <id>urn:rprimus:github:Warfenix122:IA-pt-2</id>
-  <published>2021-01-07T10:58:57Z</published>
-  <updated>2021-01-07T10:58:57Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Jobhdez: deepmath</title>
-  <author>
-   <name>Jobhdez</name>
-  </author>
-  <link href="https://github.com/Jobhdez/deepmath" />
-  <id>urn:rprimus:github:Jobhdez:deepmath</id>
-  <published>2021-01-07T05:10:11Z</published>
-  <updated>2021-01-07T05:10:11Z</updated>
-  <content type="html">
-   an implementation of the math in the book &quot;Mathematics for Machine Learning&quot; ie https://mml-book.github.io/book/mml-book.pdf
-  </content>
- </entry>
- <entry>
-  <title>seanpm2001: SNU_2D_ProgrammingTools_IDE_CommonLisp</title>
-  <author>
-   <name>seanpm2001</name>
-  </author>
-  <link href="https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_CommonLisp" />
-  <id>urn:rprimus:github:seanpm2001:SNU_2D_ProgrammingTools_IDE_CommonLisp</id>
-  <published>2021-01-07T04:14:36Z</published>
-  <updated>2021-01-07T04:14:36Z</updated>
-  <content type="html">
-   The Common Lisp Programming language IDE submodule for SNU Programming Tools (2D Mode) 
   </content>
  </entry>
 </feed>
