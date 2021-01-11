@@ -2,8 +2,112 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-01-09T22:21:33Z</updated>
+<updated>2021-01-11T06:16:57Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>babychoujr: Lisp_interpreter</title>
+  <author>
+   <name>babychoujr</name>
+  </author>
+  <link href="https://github.com/babychoujr/Lisp_interpreter" />
+  <id>urn:rprimus:github:babychoujr:Lisp_interpreter</id>
+  <published>2021-01-11T06:16:57Z</published>
+  <updated>2021-01-11T06:16:57Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Slids: proto-cache</title>
+  <author>
+   <name>Slids</name>
+  </author>
+  <link href="https://github.com/Slids/proto-cache" />
+  <id>urn:rprimus:github:Slids:proto-cache</id>
+  <published>2021-01-11T04:01:59Z</published>
+  <updated>2021-01-11T04:01:59Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>no-defun-allowed: Sketchpad</title>
+  <author>
+   <name>no-defun-allowed</name>
+  </author>
+  <link href="https://github.com/no-defun-allowed/Sketchpad" />
+  <id>urn:rprimus:github:no-defun-allowed:Sketchpad</id>
+  <published>2021-01-11T02:52:16Z</published>
+  <updated>2021-01-11T02:52:16Z</updated>
+  <content type="html">
+   A wannabe Sketchpad clone
+  </content>
+ </entry>
+ <entry>
+  <title>alejandrozf: abcl-gearman</title>
+  <author>
+   <name>alejandrozf</name>
+  </author>
+  <link href="https://github.com/alejandrozf/abcl-gearman" />
+  <id>urn:rprimus:github:alejandrozf:abcl-gearman</id>
+  <published>2021-01-10T22:40:00Z</published>
+  <updated>2021-01-10T22:40:00Z</updated>
+  <content type="html">
+   Simple Gearman implementation in ABCL Common lisp using FFI Java Calls 
+  </content>
+ </entry>
+ <entry>
+  <title>trankhainam97: LHD-Build</title>
+  <author>
+   <name>trankhainam97</name>
+  </author>
+  <link href="https://github.com/trankhainam97/LHD-Build" />
+  <id>urn:rprimus:github:trankhainam97:LHD-Build</id>
+  <published>2021-01-10T22:02:18Z</published>
+  <updated>2021-01-10T22:02:18Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Phireh: map-generator</title>
+  <author>
+   <name>Phireh</name>
+  </author>
+  <link href="https://github.com/Phireh/map-generator" />
+  <id>urn:rprimus:github:Phireh:map-generator</id>
+  <published>2021-01-10T19:04:27Z</published>
+  <updated>2021-01-10T19:04:27Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>teu5us: cl-simple-blog</title>
+  <author>
+   <name>teu5us</name>
+  </author>
+  <link href="https://github.com/teu5us/cl-simple-blog" />
+  <id>urn:rprimus:github:teu5us:cl-simple-blog</id>
+  <published>2021-01-10T17:08:48Z</published>
+  <updated>2021-01-10T17:08:48Z</updated>
+  <content type="html">
+   A simple blog to practice CL
+  </content>
+ </entry>
+ <entry>
+  <title>Aleksandar98: connect4Lisp</title>
+  <author>
+   <name>Aleksandar98</name>
+  </author>
+  <link href="https://github.com/Aleksandar98/connect4Lisp" />
+  <id>urn:rprimus:github:Aleksandar98:connect4Lisp</id>
+  <published>2021-01-10T10:54:34Z</published>
+  <updated>2021-01-10T10:54:34Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>muguira-james: c-lisp-v1</title>
   <author>
@@ -28,6 +132,19 @@
   <updated>2021-01-09T15:47:02Z</updated>
   <content type="html">
    L&#039;encaisseur.
+  </content>
+ </entry>
+ <entry>
+  <title>justin2004: image-filtering</title>
+  <author>
+   <name>justin2004</name>
+  </author>
+  <link href="https://github.com/justin2004/image-filtering" />
+  <id>urn:rprimus:github:justin2004:image-filtering</id>
+  <published>2021-01-09T13:38:35Z</published>
+  <updated>2021-01-09T13:38:35Z</updated>
+  <content type="html">
+   
   </content>
  </entry>
  <entry>
@@ -93,110 +210,6 @@
   <updated>2021-01-09T04:01:55Z</updated>
   <content type="html">
    A Pratt parser for arithmetic expressions written in Common Lisp.
-  </content>
- </entry>
- <entry>
-  <title>x61A8: x61A8-scheme</title>
-  <author>
-   <name>x61A8</name>
-  </author>
-  <link href="https://github.com/x61A8/x61A8-scheme" />
-  <id>urn:rprimus:github:x61A8:x61A8-scheme</id>
-  <published>2021-01-08T23:14:21Z</published>
-  <updated>2021-01-08T23:14:21Z</updated>
-  <content type="html">
-   An approximate implementation of R3RS scheme using the Common Lisp reader.
-  </content>
- </entry>
- <entry>
-  <title>CirrusClouds: Cloudboy</title>
-  <author>
-   <name>CirrusClouds</name>
-  </author>
-  <link href="https://github.com/CirrusClouds/Cloudboy" />
-  <id>urn:rprimus:github:CirrusClouds:Cloudboy</id>
-  <published>2021-01-08T21:35:19Z</published>
-  <updated>2021-01-08T21:35:19Z</updated>
-  <content type="html">
-   IRC bot for connecting to lainchan using CL-IRC and CL+SSL. Currently a skeleton. Maybe I&#039;ll turn it into a blindfold chess playing bot
-  </content>
- </entry>
- <entry>
-  <title>louisepght: Intelligence_artificielle_IA01</title>
-  <author>
-   <name>louisepght</name>
-  </author>
-  <link href="https://github.com/louisepght/Intelligence_artificielle_IA01" />
-  <id>urn:rprimus:github:louisepght:Intelligence_artificielle_IA01</id>
-  <published>2021-01-08T18:10:51Z</published>
-  <updated>2021-01-08T18:10:51Z</updated>
-  <content type="html">
-   :books: TD et TPs rÃ©alisÃ©s dans le cadre du cours Introduction Ã  l&#039;IA Ã  l&#039;UniversitÃ© de Technologie de CompiÃ¨gne.  
-  </content>
- </entry>
- <entry>
-  <title>dinoallo: cl-fun</title>
-  <author>
-   <name>dinoallo</name>
-  </author>
-  <link href="https://github.com/dinoallo/cl-fun" />
-  <id>urn:rprimus:github:dinoallo:cl-fun</id>
-  <published>2021-01-08T16:39:34Z</published>
-  <updated>2021-01-08T16:39:34Z</updated>
-  <content type="html">
-   Have fun with Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>Z80-dreams: Land-of-Lisp-Wizard-game</title>
-  <author>
-   <name>Z80-dreams</name>
-  </author>
-  <link href="https://github.com/Z80-dreams/Land-of-Lisp-Wizard-game" />
-  <id>urn:rprimus:github:Z80-dreams:Land-of-Lisp-Wizard-game</id>
-  <published>2021-01-08T14:26:41Z</published>
-  <updated>2021-01-08T14:26:41Z</updated>
-  <content type="html">
-   Doing this text based game in order to learn common lisp. 
-  </content>
- </entry>
- <entry>
-  <title>szos: advisor</title>
-  <author>
-   <name>szos</name>
-  </author>
-  <link href="https://github.com/szos/advisor" />
-  <id>urn:rprimus:github:szos:advisor</id>
-  <published>2021-01-08T08:55:13Z</published>
-  <updated>2021-01-08T08:55:13Z</updated>
-  <content type="html">
-   A defun replacement that allows for advising functions. 
-  </content>
- </entry>
- <entry>
-  <title>fukamachi: docker-cl-example</title>
-  <author>
-   <name>fukamachi</name>
-  </author>
-  <link href="https://github.com/fukamachi/docker-cl-example" />
-  <id>urn:rprimus:github:fukamachi:docker-cl-example</id>
-  <published>2021-01-08T05:45:55Z</published>
-  <updated>2021-01-08T05:45:55Z</updated>
-  <content type="html">
-   Example projects to run/develop Common Lisp web application on Docker container
-  </content>
- </entry>
- <entry>
-  <title>randirer: ftp</title>
-  <author>
-   <name>randirer</name>
-  </author>
-  <link href="https://github.com/randirer/ftp" />
-  <id>urn:rprimus:github:randirer:ftp</id>
-  <published>2021-01-08T05:07:49Z</published>
-  <updated>2021-01-08T05:07:49Z</updated>
-  <content type="html">
-   Basic implementation of RFC 959
   </content>
  </entry>
 </feed>
