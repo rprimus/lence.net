@@ -2,15 +2,106 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-01-11T09:46:24Z</updated>
+<updated>2021-01-12T01:38:19Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
  <entry>
-  <title>YasuakiHonda: modular-j</title>
+  <title>dwclark: advent-of-code-2020</title>
+  <author>
+   <name>dwclark</name>
+  </author>
+  <link href="https://github.com/dwclark/advent-of-code-2020" />
+  <id>urn:rprimus:github:dwclark:advent-of-code-2020</id>
+  <published>2021-01-12T01:38:19Z</published>
+  <updated>2021-01-12T01:38:19Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>cacharle: temper</title>
+  <author>
+   <name>cacharle</name>
+  </author>
+  <link href="https://github.com/cacharle/temper" />
+  <id>urn:rprimus:github:cacharle:temper</id>
+  <published>2021-01-11T21:15:11Z</published>
+  <updated>2021-01-11T21:15:11Z</updated>
+  <content type="html">
+   Common Lisp templating engine
+  </content>
+ </entry>
+ <entry>
+  <title>furkanozev: Monoalphabetic-Cipher-Decoder</title>
+  <author>
+   <name>furkanozev</name>
+  </author>
+  <link href="https://github.com/furkanozev/Monoalphabetic-Cipher-Decoder" />
+  <id>urn:rprimus:github:furkanozev:Monoalphabetic-Cipher-Decoder</id>
+  <published>2021-01-11T20:56:13Z</published>
+  <updated>2021-01-11T20:56:13Z</updated>
+  <content type="html">
+   Monoalphabetic Cipher and Decoder in Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>MehiRobert: Functional-and-Logic-Programming</title>
+  <author>
+   <name>MehiRobert</name>
+  </author>
+  <link href="https://github.com/MehiRobert/Functional-and-Logic-Programming" />
+  <id>urn:rprimus:github:MehiRobert:Functional-and-Logic-Programming</id>
+  <published>2021-01-11T18:53:49Z</published>
+  <updated>2021-01-11T18:53:49Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>havocgasi: test</title>
+  <author>
+   <name>havocgasi</name>
+  </author>
+  <link href="https://github.com/havocgasi/test" />
+  <id>urn:rprimus:github:havocgasi:test</id>
+  <published>2021-01-11T18:38:14Z</published>
+  <updated>2021-01-11T18:38:14Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>dkochmanski: cl-dejavu</title>
+  <author>
+   <name>dkochmanski</name>
+  </author>
+  <link href="https://github.com/dkochmanski/cl-dejavu" />
+  <id>urn:rprimus:github:dkochmanski:cl-dejavu</id>
+  <published>2021-01-11T16:07:33Z</published>
+  <updated>2021-01-11T16:07:33Z</updated>
+  <content type="html">
+   DejaVu fonts repackage for Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>masatoi: simple-nn</title>
+  <author>
+   <name>masatoi</name>
+  </author>
+  <link href="https://github.com/masatoi/simple-nn" />
+  <id>urn:rprimus:github:masatoi:simple-nn</id>
+  <published>2021-01-11T16:02:28Z</published>
+  <updated>2021-01-11T16:02:28Z</updated>
+  <content type="html">
+   simple multi-layer neural network
+  </content>
+ </entry>
+ <entry>
+  <title>YasuakiHonda: modular_j</title>
   <author>
    <name>YasuakiHonda</name>
   </author>
-  <link href="https://github.com/YasuakiHonda/modular-j" />
-  <id>urn:rprimus:github:YasuakiHonda:modular-j</id>
+  <link href="https://github.com/YasuakiHonda/modular_j" />
+  <id>urn:rprimus:github:YasuakiHonda:modular_j</id>
   <published>2021-01-11T09:46:24Z</published>
   <updated>2021-01-11T09:46:24Z</updated>
   <content type="html">
@@ -119,110 +210,6 @@
   <updated>2021-01-10T10:54:34Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>muguira-james: c-lisp-v1</title>
-  <author>
-   <name>muguira-james</name>
-  </author>
-  <link href="https://github.com/muguira-james/c-lisp-v1" />
-  <id>urn:rprimus:github:muguira-james:c-lisp-v1</id>
-  <published>2021-01-09T22:21:33Z</published>
-  <updated>2021-01-09T22:21:33Z</updated>
-  <content type="html">
-   db code and other experiments
-  </content>
- </entry>
- <entry>
-  <title>davd33: kaisse</title>
-  <author>
-   <name>davd33</name>
-  </author>
-  <link href="https://github.com/davd33/kaisse" />
-  <id>urn:rprimus:github:davd33:kaisse</id>
-  <published>2021-01-09T15:47:02Z</published>
-  <updated>2021-01-09T15:47:02Z</updated>
-  <content type="html">
-   L&#039;encaisseur.
-  </content>
- </entry>
- <entry>
-  <title>justin2004: image-filtering</title>
-  <author>
-   <name>justin2004</name>
-  </author>
-  <link href="https://github.com/justin2004/image-filtering" />
-  <id>urn:rprimus:github:justin2004:image-filtering</id>
-  <published>2021-01-09T13:38:35Z</published>
-  <updated>2021-01-09T13:38:35Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>anhvuk13: pl</title>
-  <author>
-   <name>anhvuk13</name>
-  </author>
-  <link href="https://github.com/anhvuk13/pl" />
-  <id>urn:rprimus:github:anhvuk13:pl</id>
-  <published>2021-01-09T12:09:37Z</published>
-  <updated>2021-01-09T12:09:37Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>technoblogy: ulisp-i2c-detective</title>
-  <author>
-   <name>technoblogy</name>
-  </author>
-  <link href="https://github.com/technoblogy/ulisp-i2c-detective" />
-  <id>urn:rprimus:github:technoblogy:ulisp-i2c-detective</id>
-  <published>2021-01-09T11:26:59Z</published>
-  <updated>2021-01-09T11:26:59Z</updated>
-  <content type="html">
-   A Lisp program for identifying I2C devices on the bus
-  </content>
- </entry>
- <entry>
-  <title>fusuya: mogetical</title>
-  <author>
-   <name>fusuya</name>
-  </author>
-  <link href="https://github.com/fusuya/mogetical" />
-  <id>urn:rprimus:github:fusuya:mogetical</id>
-  <published>2021-01-09T07:19:03Z</published>
-  <updated>2021-01-09T07:19:03Z</updated>
-  <content type="html">
-   ç°¡åæ¦ç¥ã²ã¼ã 
-  </content>
- </entry>
- <entry>
-  <title>johnhilts: browser-automation</title>
-  <author>
-   <name>johnhilts</name>
-  </author>
-  <link href="https://github.com/johnhilts/browser-automation" />
-  <id>urn:rprimus:github:johnhilts:browser-automation</id>
-  <published>2021-01-09T04:16:58Z</published>
-  <updated>2021-01-09T04:16:58Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>timmyjose-compilers: cl-prattler</title>
-  <author>
-   <name>timmyjose-compilers</name>
-  </author>
-  <link href="https://github.com/timmyjose-compilers/cl-prattler" />
-  <id>urn:rprimus:github:timmyjose-compilers:cl-prattler</id>
-  <published>2021-01-09T04:01:55Z</published>
-  <updated>2021-01-09T04:01:55Z</updated>
-  <content type="html">
-   A Pratt parser for arithmetic expressions written in Common Lisp.
   </content>
  </entry>
 </feed>
