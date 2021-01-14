@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2021-01-13T03:41:00Z</updated>
+<updated>2021-01-13T19:44:12Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>nickdidio: CustomLanguage</title>
+  <author>
+   <name>nickdidio</name>
+  </author>
+  <link href="https://github.com/nickdidio/CustomLanguage" />
+  <id>urn:rprimus:github:nickdidio:CustomLanguage</id>
+  <published>2021-01-13T19:44:12Z</published>
+  <updated>2021-01-13T19:44:12Z</updated>
+  <content type="html">
+   Created a custom programming language through the use of the functional language OCaml. The language can be run through an ubuntu terminal with either in line programming or through a file read.
+  </content>
+ </entry>
+ <entry>
+  <title>fyquah95: ocaml-hardware-edsl</title>
+  <author>
+   <name>fyquah95</name>
+  </author>
+  <link href="https://github.com/fyquah95/ocaml-hardware-edsl" />
+  <id>urn:rprimus:github:fyquah95:ocaml-hardware-edsl</id>
+  <published>2021-01-13T18:00:25Z</published>
+  <updated>2021-01-13T18:00:25Z</updated>
+  <content type="html">
+   OCaml-based embedded DSL based on https://research.chalmers.se/publication/505007/file/505007_Fulltext.pdf
+  </content>
+ </entry>
+ <entry>
+  <title>idkjs: bs-binding-template</title>
+  <author>
+   <name>idkjs</name>
+  </author>
+  <link href="https://github.com/idkjs/bs-binding-template" />
+  <id>urn:rprimus:github:idkjs:bs-binding-template</id>
+  <published>2021-01-13T13:38:19Z</published>
+  <updated>2021-01-13T13:38:19Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>acamanes: ocaml-public</title>
+  <author>
+   <name>acamanes</name>
+  </author>
+  <link href="https://github.com/acamanes/ocaml-public" />
+  <id>urn:rprimus:github:acamanes:ocaml-public</id>
+  <published>2021-01-13T13:30:48Z</published>
+  <updated>2021-01-13T13:30:48Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>artjomPlaunov: bril-ocaml</title>
   <author>
@@ -145,110 +197,6 @@
   <updated>2021-01-12T01:04:25Z</updated>
   <content type="html">
    The goal of this project is to understand and build an interpreter for a small, OCaml-like, stackbased bytecode language. 
-  </content>
- </entry>
- <entry>
-  <title>cvicki: Gocaml</title>
-  <author>
-   <name>cvicki</name>
-  </author>
-  <link href="https://github.com/cvicki/Gocaml" />
-  <id>urn:rprimus:github:cvicki:Gocaml</id>
-  <published>2021-01-11T20:35:50Z</published>
-  <updated>2021-01-11T20:35:50Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>rabidsquirrel4: cs-4-functional-programming</title>
-  <author>
-   <name>rabidsquirrel4</name>
-  </author>
-  <link href="https://github.com/rabidsquirrel4/cs-4-functional-programming" />
-  <id>urn:rprimus:github:rabidsquirrel4:cs-4-functional-programming</id>
-  <published>2021-01-11T19:54:26Z</published>
-  <updated>2021-01-11T19:54:26Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>nilern: mellified</title>
-  <author>
-   <name>nilern</name>
-  </author>
-  <link href="https://github.com/nilern/mellified" />
-  <id>urn:rprimus:github:nilern:mellified</id>
-  <published>2021-01-11T19:14:14Z</published>
-  <updated>2021-01-11T19:14:14Z</updated>
-  <content type="html">
-   Trying to grok MLF by doing
-  </content>
- </entry>
- <entry>
-  <title>esope: fzip</title>
-  <author>
-   <name>esope</name>
-  </author>
-  <link href="https://github.com/esope/fzip" />
-  <id>urn:rprimus:github:esope:fzip</id>
-  <published>2021-01-11T17:11:54Z</published>
-  <updated>2021-01-11T17:11:54Z</updated>
-  <content type="html">
-   Implementation of a type checker for the Fzip language
-  </content>
- </entry>
- <entry>
-  <title>lyrm: cohttp_headers</title>
-  <author>
-   <name>lyrm</name>
-  </author>
-  <link href="https://github.com/lyrm/cohttp_headers" />
-  <id>urn:rprimus:github:lyrm:cohttp_headers</id>
-  <published>2021-01-11T14:07:22Z</published>
-  <updated>2021-01-11T14:07:22Z</updated>
-  <content type="html">
-   Test new headers implementations for cohttp with tests and benchmarks (done outside of cohttp for simplicity).
-  </content>
- </entry>
- <entry>
-  <title>jtpaasch: bap-toy-bil</title>
-  <author>
-   <name>jtpaasch</name>
-  </author>
-  <link href="https://github.com/jtpaasch/bap-toy-bil" />
-  <id>urn:rprimus:github:jtpaasch:bap-toy-bil</id>
-  <published>2021-01-11T13:08:58Z</published>
-  <updated>2021-01-11T13:08:58Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jtpaasch: wp-lib</title>
-  <author>
-   <name>jtpaasch</name>
-  </author>
-  <link href="https://github.com/jtpaasch/wp-lib" />
-  <id>urn:rprimus:github:jtpaasch:wp-lib</id>
-  <published>2021-01-11T13:06:43Z</published>
-  <updated>2021-01-11T13:06:43Z</updated>
-  <content type="html">
-   Experimenting with the CBAT WP library
-  </content>
- </entry>
- <entry>
-  <title>magurotuna: aoc2020</title>
-  <author>
-   <name>magurotuna</name>
-  </author>
-  <link href="https://github.com/magurotuna/aoc2020" />
-  <id>urn:rprimus:github:magurotuna:aoc2020</id>
-  <published>2021-01-11T08:29:28Z</published>
-  <updated>2021-01-11T08:29:28Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
