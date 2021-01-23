@@ -2,8 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-01-22T01:17:40Z</updated>
+<updated>2021-01-23T04:05:29Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>3b: 3b-walker</title>
+  <author>
+   <name>3b</name>
+  </author>
+  <link href="https://github.com/3b/3b-walker" />
+  <id>urn:rprimus:github:3b:3b-walker</id>
+  <published>2021-01-23T04:05:29Z</published>
+  <updated>2021-01-23T04:05:29Z</updated>
+  <content type="html">
+   yet another CL code walker, not particularly done or documented, you probably want cl-walker or clast or something instead for now
+  </content>
+ </entry>
+ <entry>
+  <title>cetintasalieren: cogs-502-symbols-and-programming</title>
+  <author>
+   <name>cetintasalieren</name>
+  </author>
+  <link href="https://github.com/cetintasalieren/cogs-502-symbols-and-programming" />
+  <id>urn:rprimus:github:cetintasalieren:cogs-502-symbols-and-programming</id>
+  <published>2021-01-22T22:01:34Z</published>
+  <updated>2021-01-22T22:01:34Z</updated>
+  <content type="html">
+   some codes written by me for the course cogs 502
+  </content>
+ </entry>
+ <entry>
+  <title>Virtual-Insurance-Products: fare-utils</title>
+  <author>
+   <name>Virtual-Insurance-Products</name>
+  </author>
+  <link href="https://github.com/Virtual-Insurance-Products/fare-utils" />
+  <id>urn:rprimus:github:Virtual-Insurance-Products:fare-utils</id>
+  <published>2021-01-22T12:53:14Z</published>
+  <updated>2021-01-22T12:53:14Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Virtual-Insurance-Products: parenscript</title>
+  <author>
+   <name>Virtual-Insurance-Products</name>
+  </author>
+  <link href="https://github.com/Virtual-Insurance-Products/parenscript" />
+  <id>urn:rprimus:github:Virtual-Insurance-Products:parenscript</id>
+  <published>2021-01-22T12:46:09Z</published>
+  <updated>2021-01-22T12:46:09Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Virtual-Insurance-Products: fare-matcher-20111203-git</title>
+  <author>
+   <name>Virtual-Insurance-Products</name>
+  </author>
+  <link href="https://github.com/Virtual-Insurance-Products/fare-matcher-20111203-git" />
+  <id>urn:rprimus:github:Virtual-Insurance-Products:fare-matcher-20111203-git</id>
+  <published>2021-01-22T12:28:37Z</published>
+  <updated>2021-01-22T12:28:37Z</updated>
+  <content type="html">
+   snapshot of old Fare Matcher package, which has been superseded in quicklisp - replace this!
+  </content>
+ </entry>
+ <entry>
+  <title>Virtual-Insurance-Products: Chapter08</title>
+  <author>
+   <name>Virtual-Insurance-Products</name>
+  </author>
+  <link href="https://github.com/Virtual-Insurance-Products/Chapter08" />
+  <id>urn:rprimus:github:Virtual-Insurance-Products:Chapter08</id>
+  <published>2021-01-22T12:22:20Z</published>
+  <updated>2021-01-22T12:22:20Z</updated>
+  <content type="html">
+   Code from Chapter 8 of Practical Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>physcrf: eikonal</title>
+  <author>
+   <name>physcrf</name>
+  </author>
+  <link href="https://github.com/physcrf/eikonal" />
+  <id>urn:rprimus:github:physcrf:eikonal</id>
+  <published>2021-01-22T10:54:58Z</published>
+  <updated>2021-01-22T10:54:58Z</updated>
+  <content type="html">
+   vectogram utility for common lisp
+  </content>
+ </entry>
  <entry>
   <title>abishek: adventure-of-code-2020</title>
   <author>
@@ -106,84 +197,6 @@
   <updated>2021-01-21T02:52:21Z</updated>
   <content type="html">
    Simple temperature converter
-  </content>
- </entry>
- <entry>
-  <title>tilacog: btc-price</title>
-  <author>
-   <name>tilacog</name>
-  </author>
-  <link href="https://github.com/tilacog/btc-price" />
-  <id>urn:rprimus:github:tilacog:btc-price</id>
-  <published>2021-01-20T19:39:25Z</published>
-  <updated>2021-01-20T19:39:25Z</updated>
-  <content type="html">
-   Fetches Binance API for BTCUSDT price
-  </content>
- </entry>
- <entry>
-  <title>kernow-ged: MYquist</title>
-  <author>
-   <name>kernow-ged</name>
-  </author>
-  <link href="https://github.com/kernow-ged/MYquist" />
-  <id>urn:rprimus:github:kernow-ged:MYquist</id>
-  <published>2021-01-20T12:25:43Z</published>
-  <updated>2021-01-20T12:25:43Z</updated>
-  <content type="html">
-   A place for Nyquist / Audacity scripts
-  </content>
- </entry>
- <entry>
-  <title>Yeranosyan: CREATESHORTPATH_LISP</title>
-  <author>
-   <name>Yeranosyan</name>
-  </author>
-  <link href="https://github.com/Yeranosyan/CREATESHORTPATH_LISP" />
-  <id>urn:rprimus:github:Yeranosyan:CREATESHORTPATH_LISP</id>
-  <published>2021-01-20T09:41:06Z</published>
-  <updated>2021-01-20T09:41:06Z</updated>
-  <content type="html">
-    Lier des points avec des polylignes par la plus proche position in Autocad
-  </content>
- </entry>
- <entry>
-  <title>Listray: ForkTest</title>
-  <author>
-   <name>Listray</name>
-  </author>
-  <link href="https://github.com/Listray/ForkTest" />
-  <id>urn:rprimus:github:Listray:ForkTest</id>
-  <published>2021-01-20T07:47:19Z</published>
-  <updated>2021-01-20T07:47:19Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>nimel-uw: Ling_567</title>
-  <author>
-   <name>nimel-uw</name>
-  </author>
-  <link href="https://github.com/nimel-uw/Ling_567" />
-  <id>urn:rprimus:github:nimel-uw:Ling_567</id>
-  <published>2021-01-20T04:46:42Z</published>
-  <updated>2021-01-20T04:46:42Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>DiegoHuesos: LISP_AI</title>
-  <author>
-   <name>DiegoHuesos</name>
-  </author>
-  <link href="https://github.com/DiegoHuesos/LISP_AI" />
-  <id>urn:rprimus:github:DiegoHuesos:LISP_AI</id>
-  <published>2021-01-20T03:17:52Z</published>
-  <updated>2021-01-20T03:17:52Z</updated>
-  <content type="html">
-   Repository with LISP and AI scripts.
   </content>
  </entry>
 </feed>
