@@ -2,8 +2,216 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-01-27T10:00:36Z</updated>
+<updated>2021-01-28T00:29:46Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>gefjon: generator</title>
+  <author>
+   <name>gefjon</name>
+  </author>
+  <link href="https://github.com/gefjon/generator" />
+  <id>urn:rprimus:github:gefjon:generator</id>
+  <published>2021-01-28T00:29:46Z</published>
+  <updated>2021-01-28T00:29:46Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>m0rrism0rris: treevis</title>
+  <author>
+   <name>m0rrism0rris</name>
+  </author>
+  <link href="https://github.com/m0rrism0rris/treevis" />
+  <id>urn:rprimus:github:m0rrism0rris:treevis</id>
+  <published>2021-01-27T22:52:50Z</published>
+  <updated>2021-01-27T22:52:50Z</updated>
+  <content type="html">
+   Tree visualizer written in Common Lisp.
+  </content>
+ </entry>
+ <entry>
+  <title>Siddysimon: FactorialProof</title>
+  <author>
+   <name>Siddysimon</name>
+  </author>
+  <link href="https://github.com/Siddysimon/FactorialProof" />
+  <id>urn:rprimus:github:Siddysimon:FactorialProof</id>
+  <published>2021-01-27T18:19:33Z</published>
+  <updated>2021-01-27T18:19:33Z</updated>
+  <content type="html">
+   This was an automated proof for a CS2800 assignment using the ACL2 Sedan. It proves that the non-accumulator and accumulator functions are equivalent for factorials.
+  </content>
+ </entry>
+ <entry>
+  <title>Virtual-Insurance-Products: cl-sysop</title>
+  <author>
+   <name>Virtual-Insurance-Products</name>
+  </author>
+  <link href="https://github.com/Virtual-Insurance-Products/cl-sysop" />
+  <id>urn:rprimus:github:Virtual-Insurance-Products:cl-sysop</id>
+  <published>2021-01-27T17:45:52Z</published>
+  <updated>2021-01-27T17:45:52Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>surniki: c-unit-check</title>
+  <author>
+   <name>surniki</name>
+  </author>
+  <link href="https://github.com/surniki/c-unit-check" />
+  <id>urn:rprimus:github:surniki:c-unit-check</id>
+  <published>2021-01-27T17:15:03Z</published>
+  <updated>2021-01-27T17:15:03Z</updated>
+  <content type="html">
+   A preprocessor for C programs that performs static physical unit checking.
+  </content>
+ </entry>
+ <entry>
+  <title>hu-dwim: hu.dwim.debug</title>
+  <author>
+   <name>hu-dwim</name>
+  </author>
+  <link href="https://github.com/hu-dwim/hu.dwim.debug" />
+  <id>urn:rprimus:github:hu-dwim:hu.dwim.debug</id>
+  <published>2021-01-27T15:53:27Z</published>
+  <updated>2021-01-27T15:53:27Z</updated>
+  <content type="html">
+   Common Lisp debug helpers
+  </content>
+ </entry>
+ <entry>
+  <title>hu-dwim: hu.dwim.uri</title>
+  <author>
+   <name>hu-dwim</name>
+  </author>
+  <link href="https://github.com/hu-dwim/hu.dwim.uri" />
+  <id>urn:rprimus:github:hu-dwim:hu.dwim.uri</id>
+  <published>2021-01-27T15:44:09Z</published>
+  <updated>2021-01-27T15:44:09Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>hu-dwim: hu.dwim.walker</title>
+  <author>
+   <name>hu-dwim</name>
+  </author>
+  <link href="https://github.com/hu-dwim/hu.dwim.walker" />
+  <id>urn:rprimus:github:hu-dwim:hu.dwim.walker</id>
+  <published>2021-01-27T15:18:05Z</published>
+  <updated>2021-01-27T15:18:05Z</updated>
+  <content type="html">
+   Customizable code walker for Common Lisp. Uses CLOS and ContextL.
+  </content>
+ </entry>
+ <entry>
+  <title>hu-dwim: hu.dwim.util</title>
+  <author>
+   <name>hu-dwim</name>
+  </author>
+  <link href="https://github.com/hu-dwim/hu.dwim.util" />
+  <id>urn:rprimus:github:hu-dwim:hu.dwim.util</id>
+  <published>2021-01-27T15:11:10Z</published>
+  <updated>2021-01-27T15:11:10Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>hu-dwim: hu.dwim.syntax-sugar</title>
+  <author>
+   <name>hu-dwim</name>
+  </author>
+  <link href="https://github.com/hu-dwim/hu.dwim.syntax-sugar" />
+  <id>urn:rprimus:github:hu-dwim:hu.dwim.syntax-sugar</id>
+  <published>2021-01-27T14:37:22Z</published>
+  <updated>2021-01-27T14:37:22Z</updated>
+  <content type="html">
+   Framework to introduce and work with syntax sugars in Common Lisp.
+  </content>
+ </entry>
+ <entry>
+  <title>hu-dwim: hu.dwim.stefil</title>
+  <author>
+   <name>hu-dwim</name>
+  </author>
+  <link href="https://github.com/hu-dwim/hu.dwim.stefil" />
+  <id>urn:rprimus:github:hu-dwim:hu.dwim.stefil</id>
+  <published>2021-01-27T14:30:38Z</published>
+  <updated>2021-01-27T14:30:38Z</updated>
+  <content type="html">
+   Common Lisp testing framework blending into normal Slime development.
+  </content>
+ </entry>
+ <entry>
+  <title>hu-dwim: hu.dwim.logger</title>
+  <author>
+   <name>hu-dwim</name>
+  </author>
+  <link href="https://github.com/hu-dwim/hu.dwim.logger" />
+  <id>urn:rprimus:github:hu-dwim:hu.dwim.logger</id>
+  <published>2021-01-27T14:23:40Z</published>
+  <updated>2021-01-27T14:23:40Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>hu-dwim: hu.dwim.computed-class</title>
+  <author>
+   <name>hu-dwim</name>
+  </author>
+  <link href="https://github.com/hu-dwim/hu.dwim.computed-class" />
+  <id>urn:rprimus:github:hu-dwim:hu.dwim.computed-class</id>
+  <published>2021-01-27T14:13:03Z</published>
+  <updated>2021-01-27T14:13:03Z</updated>
+  <content type="html">
+   Constraint based change propagation with CLOS integration.
+  </content>
+ </entry>
+ <entry>
+  <title>hu-dwim: hu.dwim.delico</title>
+  <author>
+   <name>hu-dwim</name>
+  </author>
+  <link href="https://github.com/hu-dwim/hu.dwim.delico" />
+  <id>urn:rprimus:github:hu-dwim:hu.dwim.delico</id>
+  <published>2021-01-27T14:10:22Z</published>
+  <updated>2021-01-27T14:10:22Z</updated>
+  <content type="html">
+   delimited continuations for Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>hu-dwim: hu.dwim.common-lisp</title>
+  <author>
+   <name>hu-dwim</name>
+  </author>
+  <link href="https://github.com/hu-dwim/hu.dwim.common-lisp" />
+  <id>urn:rprimus:github:hu-dwim:hu.dwim.common-lisp</id>
+  <published>2021-01-27T14:05:18Z</published>
+  <updated>2021-01-27T14:05:18Z</updated>
+  <content type="html">
+   probably a mistake
+  </content>
+ </entry>
+ <entry>
+  <title>hu-dwim: hu.dwim.common</title>
+  <author>
+   <name>hu-dwim</name>
+  </author>
+  <link href="https://github.com/hu-dwim/hu.dwim.common" />
+  <id>urn:rprimus:github:hu-dwim:hu.dwim.common</id>
+  <published>2021-01-27T13:33:26Z</published>
+  <updated>2021-01-27T13:33:26Z</updated>
+  <content type="html">
+   the code shared by all our hu.dwim.* projects
+  </content>
+ </entry>
  <entry>
   <title>hu-dwim: hu.dwim.asdf</title>
   <author>
@@ -171,84 +379,6 @@
   <updated>2021-01-26T00:37:52Z</updated>
   <content type="html">
    Provides a truly extensible version of DEFCLASS that can accurately control the expansion according to the metaclass and automatically detect the suitable metaclass by analyzing the DEFCLASS form.
-  </content>
- </entry>
- <entry>
-  <title>plops: cl-csharp-generator</title>
-  <author>
-   <name>plops</name>
-  </author>
-  <link href="https://github.com/plops/cl-csharp-generator" />
-  <id>urn:rprimus:github:plops:cl-csharp-generator</id>
-  <published>2021-01-25T21:29:46Z</published>
-  <updated>2021-01-25T21:29:46Z</updated>
-  <content type="html">
-   S-expression to C# converter
-  </content>
- </entry>
- <entry>
-  <title>zhoujiagen: learning-lisp</title>
-  <author>
-   <name>zhoujiagen</name>
-  </author>
-  <link href="https://github.com/zhoujiagen/learning-lisp" />
-  <id>urn:rprimus:github:zhoujiagen:learning-lisp</id>
-  <published>2021-01-25T16:05:44Z</published>
-  <updated>2021-01-25T16:05:44Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>maryragheb: Eulers-Totient-ACL2-Proof</title>
-  <author>
-   <name>maryragheb</name>
-  </author>
-  <link href="https://github.com/maryragheb/Eulers-Totient-ACL2-Proof" />
-  <id>urn:rprimus:github:maryragheb:Eulers-Totient-ACL2-Proof</id>
-  <published>2021-01-25T16:04:30Z</published>
-  <updated>2021-01-25T16:04:30Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>death: formgrep</title>
-  <author>
-   <name>death</name>
-  </author>
-  <link href="https://github.com/death/formgrep" />
-  <id>urn:rprimus:github:death:formgrep</id>
-  <published>2021-01-25T15:31:42Z</published>
-  <updated>2021-01-25T15:31:42Z</updated>
-  <content type="html">
-   Try to find top-level Lisp forms matching an operator regex
-  </content>
- </entry>
- <entry>
-  <title>veer66: cl-zstd-read-line</title>
-  <author>
-   <name>veer66</name>
-  </author>
-  <link href="https://github.com/veer66/cl-zstd-read-line" />
-  <id>urn:rprimus:github:veer66:cl-zstd-read-line</id>
-  <published>2021-01-25T14:56:07Z</published>
-  <updated>2021-01-25T14:56:07Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>topikettunen: sundry</title>
-  <author>
-   <name>topikettunen</name>
-  </author>
-  <link href="https://github.com/topikettunen/sundry" />
-  <id>urn:rprimus:github:topikettunen:sundry</id>
-  <published>2021-01-25T13:12:25Z</published>
-  <updated>2021-01-25T13:12:25Z</updated>
-  <content type="html">
-   Home for various code pieces and WIP projects
   </content>
  </entry>
 </feed>
