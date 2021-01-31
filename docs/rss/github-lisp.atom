@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-01-30T10:08:44Z</updated>
+<updated>2021-01-31T01:34:53Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>mahirvaluj: sfile</title>
+  <author>
+   <name>mahirvaluj</name>
+  </author>
+  <link href="https://github.com/mahirvaluj/sfile" />
+  <id>urn:rprimus:github:mahirvaluj:sfile</id>
+  <published>2021-01-31T01:34:53Z</published>
+  <updated>2021-01-31T01:34:53Z</updated>
+  <content type="html">
+   handrolled filedump
+  </content>
+ </entry>
+ <entry>
+  <title>40ants: github-matrix</title>
+  <author>
+   <name>40ants</name>
+  </author>
+  <link href="https://github.com/40ants/github-matrix" />
+  <id>urn:rprimus:github:40ants:github-matrix</id>
+  <published>2021-01-30T19:39:59Z</published>
+  <updated>2021-01-30T19:39:59Z</updated>
+  <content type="html">
+   A web app to render SVG badges with results of GitHub action run.
+  </content>
+ </entry>
+ <entry>
+  <title>40ants: cl-anafanafo</title>
+  <author>
+   <name>40ants</name>
+  </author>
+  <link href="https://github.com/40ants/cl-anafanafo" />
+  <id>urn:rprimus:github:40ants:cl-anafanafo</id>
+  <published>2021-01-30T10:37:27Z</published>
+  <updated>2021-01-30T10:37:27Z</updated>
+  <content type="html">
+   Calculates text width as if it be rendered by a web browser.
+  </content>
+ </entry>
  <entry>
   <title>mnasoft: mnas-graph</title>
   <author>
@@ -57,6 +96,19 @@
   </content>
  </entry>
  <entry>
+  <title>gpwwjr: LISA</title>
+  <author>
+   <name>gpwwjr</name>
+  </author>
+  <link href="https://github.com/gpwwjr/LISA" />
+  <id>urn:rprimus:github:gpwwjr:LISA</id>
+  <published>2021-01-29T17:25:08Z</published>
+  <updated>2021-01-29T17:25:08Z</updated>
+  <content type="html">
+   This is a fork of Lisp-based Intelligent Software Agents (Lisa) from http://lisa.sourceforge.net/
+  </content>
+ </entry>
+ <entry>
   <title>caiohcs: dimgp</title>
   <author>
    <name>caiohcs</name>
@@ -106,84 +158,6 @@
   <updated>2021-01-29T02:44:48Z</updated>
   <content type="html">
    Text (Zork-like) Game Engine (From Land of Lisp)
-  </content>
- </entry>
- <entry>
-  <title>aerique: coinfest</title>
-  <author>
-   <name>aerique</name>
-  </author>
-  <link href="https://github.com/aerique/coinfest" />
-  <id>urn:rprimus:github:aerique:coinfest</id>
-  <published>2021-01-28T21:00:37Z</published>
-  <updated>2021-01-28T21:00:37Z</updated>
-  <content type="html">
-   A cryptocurrency ticker app for Sailfish OS written in Common Lisp.
-  </content>
- </entry>
- <entry>
-  <title>szos: clim-defconfig</title>
-  <author>
-   <name>szos</name>
-  </author>
-  <link href="https://github.com/szos/clim-defconfig" />
-  <id>urn:rprimus:github:szos:clim-defconfig</id>
-  <published>2021-01-28T20:04:12Z</published>
-  <updated>2021-01-28T20:04:12Z</updated>
-  <content type="html">
-   A CLIM based GUI for defconfig
-  </content>
- </entry>
- <entry>
-  <title>mattcoding4days: csci330</title>
-  <author>
-   <name>mattcoding4days</name>
-  </author>
-  <link href="https://github.com/mattcoding4days/csci330" />
-  <id>urn:rprimus:github:mattcoding4days:csci330</id>
-  <published>2021-01-28T19:55:55Z</published>
-  <updated>2021-01-28T19:55:55Z</updated>
-  <content type="html">
-   Place to hold my lisp code for Computer science 330
-  </content>
- </entry>
- <entry>
-  <title>Chehlarov: Lisp</title>
-  <author>
-   <name>Chehlarov</name>
-  </author>
-  <link href="https://github.com/Chehlarov/Lisp" />
-  <id>urn:rprimus:github:Chehlarov:Lisp</id>
-  <published>2021-01-28T19:38:34Z</published>
-  <updated>2021-01-28T19:38:34Z</updated>
-  <content type="html">
-   Lisps for Autocad
-  </content>
- </entry>
- <entry>
-  <title>pietroepis: regexp-to-nfa-compiler</title>
-  <author>
-   <name>pietroepis</name>
-  </author>
-  <link href="https://github.com/pietroepis/regexp-to-nfa-compiler" />
-  <id>urn:rprimus:github:pietroepis:regexp-to-nfa-compiler</id>
-  <published>2021-01-28T16:06:20Z</published>
-  <updated>2021-01-28T16:06:20Z</updated>
-  <content type="html">
-   Programming Languages Project - UniMiB
-  </content>
- </entry>
- <entry>
-  <title>gefjon: generator</title>
-  <author>
-   <name>gefjon</name>
-  </author>
-  <link href="https://github.com/gefjon/generator" />
-  <id>urn:rprimus:github:gefjon:generator</id>
-  <published>2021-01-28T00:29:46Z</published>
-  <updated>2021-01-28T00:29:46Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
