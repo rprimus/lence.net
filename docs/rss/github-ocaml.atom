@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2021-01-30T21:57:32Z</updated>
+<updated>2021-01-31T21:57:54Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>pedroabelleira: olisp</title>
+  <author>
+   <name>pedroabelleira</name>
+  </author>
+  <link href="https://github.com/pedroabelleira/olisp" />
+  <id>urn:rprimus:github:pedroabelleira:olisp</id>
+  <published>2021-01-31T21:57:54Z</published>
+  <updated>2021-01-31T21:57:54Z</updated>
+  <content type="html">
+   Tests with OCaml
+  </content>
+ </entry>
+ <entry>
+  <title>elhusseiniali: prop-solver</title>
+  <author>
+   <name>elhusseiniali</name>
+  </author>
+  <link href="https://github.com/elhusseiniali/prop-solver" />
+  <id>urn:rprimus:github:elhusseiniali:prop-solver</id>
+  <published>2021-01-31T21:35:24Z</published>
+  <updated>2021-01-31T21:35:24Z</updated>
+  <content type="html">
+   A propositional solver built with OCaml.
+  </content>
+ </entry>
+ <entry>
+  <title>garfr: bcc</title>
+  <author>
+   <name>garfr</name>
+  </author>
+  <link href="https://github.com/garfr/bcc" />
+  <id>urn:rprimus:github:garfr:bcc</id>
+  <published>2021-01-31T21:34:49Z</published>
+  <updated>2021-01-31T21:34:49Z</updated>
+  <content type="html">
+   The Beans Compiler Collection
+  </content>
+ </entry>
+ <entry>
+  <title>dkayabe: CS440</title>
+  <author>
+   <name>dkayabe</name>
+  </author>
+  <link href="https://github.com/dkayabe/CS440" />
+  <id>urn:rprimus:github:dkayabe:CS440</id>
+  <published>2021-01-31T21:25:51Z</published>
+  <updated>2021-01-31T21:25:51Z</updated>
+  <content type="html">
+   Programming Languages and Translators, Spring 2021
+  </content>
+ </entry>
+ <entry>
+  <title>quernd: SushiBot</title>
+  <author>
+   <name>quernd</name>
+  </author>
+  <link href="https://github.com/quernd/SushiBot" />
+  <id>urn:rprimus:github:quernd:SushiBot</id>
+  <published>2021-01-31T13:00:49Z</published>
+  <updated>2021-01-31T13:00:49Z</updated>
+  <content type="html">
+   A simple Telegram bot that receives and sends cat photos
+  </content>
+ </entry>
  <entry>
   <title>mjambon: cmdliner-cheatsheet</title>
   <author>
@@ -54,97 +119,6 @@
   <updated>2021-01-30T08:01:29Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>rohanmirch: functional-programming-ocaml</title>
-  <author>
-   <name>rohanmirch</name>
-  </author>
-  <link href="https://github.com/rohanmirch/functional-programming-ocaml" />
-  <id>urn:rprimus:github:rohanmirch:functional-programming-ocaml</id>
-  <published>2021-01-29T20:29:48Z</published>
-  <updated>2021-01-29T20:29:48Z</updated>
-  <content type="html">
-   Work for Caltech course CS4  - Functional Programming (Winter 2019)
-  </content>
- </entry>
- <entry>
-  <title>rgreenblatt: lab-temp</title>
-  <author>
-   <name>rgreenblatt</name>
-  </author>
-  <link href="https://github.com/rgreenblatt/lab-temp" />
-  <id>urn:rprimus:github:rgreenblatt:lab-temp</id>
-  <published>2021-01-29T20:00:14Z</published>
-  <updated>2021-01-29T20:00:14Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>gravicappa: pluk-tar</title>
-  <author>
-   <name>gravicappa</name>
-  </author>
-  <link href="https://github.com/gravicappa/pluk-tar" />
-  <id>urn:rprimus:github:gravicappa:pluk-tar</id>
-  <published>2021-01-29T17:24:02Z</published>
-  <updated>2021-01-29T17:24:02Z</updated>
-  <content type="html">
-   OCaml library for creating/extracting TAR archives.
-  </content>
- </entry>
- <entry>
-  <title>jonludlam: mdx-blog</title>
-  <author>
-   <name>jonludlam</name>
-  </author>
-  <link href="https://github.com/jonludlam/mdx-blog" />
-  <id>urn:rprimus:github:jonludlam:mdx-blog</id>
-  <published>2021-01-29T15:22:47Z</published>
-  <updated>2021-01-29T15:22:47Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>urcunvalen: googlecodejam</title>
-  <author>
-   <name>urcunvalen</name>
-  </author>
-  <link href="https://github.com/urcunvalen/googlecodejam" />
-  <id>urn:rprimus:github:urcunvalen:googlecodejam</id>
-  <published>2021-01-29T12:22:47Z</published>
-  <updated>2021-01-29T12:22:47Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ai4reason: aimleap</title>
-  <author>
-   <name>ai4reason</name>
-  </author>
-  <link href="https://github.com/ai4reason/aimleap" />
-  <id>urn:rprimus:github:ai4reason:aimleap</id>
-  <published>2021-01-29T10:46:24Z</published>
-  <updated>2021-01-29T10:46:24Z</updated>
-  <content type="html">
-   AIMLEAP is an environment designed for proving equational theorems by interacting with a (typically learning-based) advisors. 
-  </content>
- </entry>
- <entry>
-  <title>humberto-ortiz: compilers-s2021</title>
-  <author>
-   <name>humberto-ortiz</name>
-  </author>
-  <link href="https://github.com/humberto-ortiz/compilers-s2021" />
-  <id>urn:rprimus:github:humberto-ortiz:compilers-s2021</id>
-  <published>2021-01-29T01:22:52Z</published>
-  <updated>2021-01-29T01:22:52Z</updated>
-  <content type="html">
-   Sample code for Compiler Design course.
   </content>
  </entry>
 </feed>

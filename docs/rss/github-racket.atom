@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-racket.atom"/>
 <id>urn:rprimus:github:newracketrepos</id>
-<updated>2021-01-30T20:19:22Z</updated>
+<updated>2021-01-31T22:42:19Z</updated>
 <title type='text'>New GitHub Racket Repos</title>
+ <entry>
+  <title>srcreigh: shift-remapper</title>
+  <author>
+   <name>srcreigh</name>
+  </author>
+  <link href="https://github.com/srcreigh/shift-remapper" />
+  <id>urn:rprimus:github:srcreigh:shift-remapper</id>
+  <published>2021-01-31T22:42:19Z</published>
+  <updated>2021-01-31T22:42:19Z</updated>
+  <content type="html">
+   Remap shift layer with Karabiner Elements
+  </content>
+ </entry>
+ <entry>
+  <title>pylinet: DrRacketTutorials</title>
+  <author>
+   <name>pylinet</name>
+  </author>
+  <link href="https://github.com/pylinet/DrRacketTutorials" />
+  <id>urn:rprimus:github:pylinet:DrRacketTutorials</id>
+  <published>2021-01-31T21:20:29Z</published>
+  <updated>2021-01-31T21:20:29Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>ichisemasashi: SICP2</title>
+  <author>
+   <name>ichisemasashi</name>
+  </author>
+  <link href="https://github.com/ichisemasashi/SICP2" />
+  <id>urn:rprimus:github:ichisemasashi:SICP2</id>
+  <published>2021-01-31T15:18:40Z</published>
+  <updated>2021-01-31T15:18:40Z</updated>
+  <content type="html">
+   Read SICP ver2
+  </content>
+ </entry>
+ <entry>
+  <title>HeladoDeBrownie: Thoughtful-Question-Generator</title>
+  <author>
+   <name>HeladoDeBrownie</name>
+  </author>
+  <link href="https://github.com/HeladoDeBrownie/Thoughtful-Question-Generator" />
+  <id>urn:rprimus:github:HeladoDeBrownie:Thoughtful-Question-Generator</id>
+  <published>2021-01-31T12:22:05Z</published>
+  <updated>2021-01-31T12:22:05Z</updated>
+  <content type="html">
+   prompts that make you go hmm
+  </content>
+ </entry>
  <entry>
   <title>samdphillips: racket-dht11</title>
   <author>
@@ -54,97 +106,6 @@
   <updated>2021-01-30T04:24:53Z</updated>
   <content type="html">
    A fake package for testing package refactoring tools
-  </content>
- </entry>
- <entry>
-  <title>Cheng0Xin: sicp-algo</title>
-  <author>
-   <name>Cheng0Xin</name>
-  </author>
-  <link href="https://github.com/Cheng0Xin/sicp-algo" />
-  <id>urn:rprimus:github:Cheng0Xin:sicp-algo</id>
-  <published>2021-01-29T23:33:43Z</published>
-  <updated>2021-01-29T23:33:43Z</updated>
-  <content type="html">
-   sicp-exercise
-  </content>
- </entry>
- <entry>
-  <title>lainbash: scheme-stuff</title>
-  <author>
-   <name>lainbash</name>
-  </author>
-  <link href="https://github.com/lainbash/scheme-stuff" />
-  <id>urn:rprimus:github:lainbash:scheme-stuff</id>
-  <published>2021-01-29T19:35:17Z</published>
-  <updated>2021-01-29T19:35:17Z</updated>
-  <content type="html">
-   a bunch of scheme exercices I did while following the SICP book (https://opendocs.github.io/sicp/sicp.pdf)
-  </content>
- </entry>
- <entry>
-  <title>basilw: Connect4</title>
-  <author>
-   <name>basilw</name>
-  </author>
-  <link href="https://github.com/basilw/Connect4" />
-  <id>urn:rprimus:github:basilw:Connect4</id>
-  <published>2021-01-29T18:00:55Z</published>
-  <updated>2021-01-29T18:00:55Z</updated>
-  <content type="html">
-   Connect Four interface and AI written for CS151 using the Mini Max Algorithm
-  </content>
- </entry>
- <entry>
-  <title>rafael-din152: tiny-stack</title>
-  <author>
-   <name>rafael-din152</name>
-  </author>
-  <link href="https://github.com/rafael-din152/tiny-stack" />
-  <id>urn:rprimus:github:rafael-din152:tiny-stack</id>
-  <published>2021-01-29T14:36:09Z</published>
-  <updated>2021-01-29T14:36:09Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>AndrewMagerman: WizardBookStudy</title>
-  <author>
-   <name>AndrewMagerman</name>
-  </author>
-  <link href="https://github.com/AndrewMagerman/WizardBookStudy" />
-  <id>urn:rprimus:github:AndrewMagerman:WizardBookStudy</id>
-  <published>2021-01-29T11:25:57Z</published>
-  <updated>2021-01-29T11:25:57Z</updated>
-  <content type="html">
-   Let&#039;s study the Wizard book together
-  </content>
- </entry>
- <entry>
-  <title>URAmiRBin: numex</title>
-  <author>
-   <name>URAmiRBin</name>
-  </author>
-  <link href="https://github.com/URAmiRBin/numex" />
-  <id>urn:rprimus:github:URAmiRBin:numex</id>
-  <published>2021-01-29T08:42:15Z</published>
-  <updated>2021-01-29T08:42:15Z</updated>
-  <content type="html">
-   A functional interpreter written in Racket
-  </content>
- </entry>
- <entry>
-  <title>harshitsk21: CS2500</title>
-  <author>
-   <name>harshitsk21</name>
-  </author>
-  <link href="https://github.com/harshitsk21/CS2500" />
-  <id>urn:rprimus:github:harshitsk21:CS2500</id>
-  <published>2021-01-29T01:10:54Z</published>
-  <updated>2021-01-29T01:10:54Z</updated>
-  <content type="html">
-    Fundamentals of Computer Science 1
   </content>
  </entry>
 </feed>
