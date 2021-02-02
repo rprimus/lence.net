@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-02-01T02:35:16Z</updated>
+<updated>2021-02-02T00:46:28Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>qudrnr: OpenDCL</title>
+  <author>
+   <name>qudrnr</name>
+  </author>
+  <link href="https://github.com/qudrnr/OpenDCL" />
+  <id>urn:rprimus:github:qudrnr:OpenDCL</id>
+  <published>2021-02-02T00:46:28Z</published>
+  <updated>2021-02-02T00:46:28Z</updated>
+  <content type="html">
+   OpenDCL (Autoad)
+  </content>
+ </entry>
+ <entry>
+  <title>syawin: text-adventure</title>
+  <author>
+   <name>syawin</name>
+  </author>
+  <link href="https://github.com/syawin/text-adventure" />
+  <id>urn:rprimus:github:syawin:text-adventure</id>
+  <published>2021-02-01T23:33:09Z</published>
+  <updated>2021-02-01T23:33:09Z</updated>
+  <content type="html">
+   Basic text adventure game based on the &quot;Land of Lisp&quot; book.
+  </content>
+ </entry>
+ <entry>
+  <title>anthonysteel: lisp</title>
+  <author>
+   <name>anthonysteel</name>
+  </author>
+  <link href="https://github.com/anthonysteel/lisp" />
+  <id>urn:rprimus:github:anthonysteel:lisp</id>
+  <published>2021-02-01T21:29:32Z</published>
+  <updated>2021-02-01T21:29:32Z</updated>
+  <content type="html">
+   Practising Common Lisp 
+  </content>
+ </entry>
  <entry>
   <title>MaterialFuture: example-lisp-databases</title>
   <author>
@@ -15,6 +54,19 @@
   <updated>2021-02-01T02:35:16Z</updated>
   <content type="html">
    Example CL and Mito usage for creating orders in a databases
+  </content>
+ </entry>
+ <entry>
+  <title>joshuakarp: bool-algebra-calc</title>
+  <author>
+   <name>joshuakarp</name>
+  </author>
+  <link href="https://github.com/joshuakarp/bool-algebra-calc" />
+  <id>urn:rprimus:github:joshuakarp:bool-algebra-calc</id>
+  <published>2021-01-31T23:57:31Z</published>
+  <updated>2021-01-31T23:57:31Z</updated>
+  <content type="html">
+   A boolean algebra calculator that performs operations and simplifications on elements of a matrix according to boolean algebra laws.
   </content>
  </entry>
  <entry>
@@ -67,71 +119,6 @@
   <updated>2021-01-31T01:34:53Z</updated>
   <content type="html">
    handrolled filedump
-  </content>
- </entry>
- <entry>
-  <title>40ants: github-matrix</title>
-  <author>
-   <name>40ants</name>
-  </author>
-  <link href="https://github.com/40ants/github-matrix" />
-  <id>urn:rprimus:github:40ants:github-matrix</id>
-  <published>2021-01-30T19:39:59Z</published>
-  <updated>2021-01-30T19:39:59Z</updated>
-  <content type="html">
-   A web app to render SVG badges with results of GitHub action run.
-  </content>
- </entry>
- <entry>
-  <title>40ants: cl-anafanafo</title>
-  <author>
-   <name>40ants</name>
-  </author>
-  <link href="https://github.com/40ants/cl-anafanafo" />
-  <id>urn:rprimus:github:40ants:cl-anafanafo</id>
-  <published>2021-01-30T10:37:27Z</published>
-  <updated>2021-01-30T10:37:27Z</updated>
-  <content type="html">
-   Calculates text width as if it be rendered by a web browser.
-  </content>
- </entry>
- <entry>
-  <title>mnasoft: mnas-graph</title>
-  <author>
-   <name>mnasoft</name>
-  </author>
-  <link href="https://github.com/mnasoft/mnas-graph" />
-  <id>urn:rprimus:github:mnasoft:mnas-graph</id>
-  <published>2021-01-30T10:08:44Z</published>
-  <updated>2021-01-30T10:08:44Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>kongotania: myproject</title>
-  <author>
-   <name>kongotania</name>
-  </author>
-  <link href="https://github.com/kongotania/myproject" />
-  <id>urn:rprimus:github:kongotania:myproject</id>
-  <published>2021-01-30T03:09:59Z</published>
-  <updated>2021-01-30T03:09:59Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Lisp-Stat: ucla-xls-archive</title>
-  <author>
-   <name>Lisp-Stat</name>
-  </author>
-  <link href="https://github.com/Lisp-Stat/ucla-xls-archive" />
-  <id>urn:rprimus:github:Lisp-Stat:ucla-xls-archive</id>
-  <published>2021-01-30T02:29:05Z</published>
-  <updated>2021-01-30T02:29:05Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
