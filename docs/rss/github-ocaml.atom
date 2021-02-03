@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2021-02-02T10:07:34Z</updated>
+<updated>2021-02-03T07:13:31Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>ebresafegaga: numerical</title>
+  <author>
+   <name>ebresafegaga</name>
+  </author>
+  <link href="https://github.com/ebresafegaga/numerical" />
+  <id>urn:rprimus:github:ebresafegaga:numerical</id>
+  <published>2021-02-03T07:13:31Z</published>
+  <updated>2021-02-03T07:13:31Z</updated>
+  <content type="html">
+   Solving numerical methods problems (step by step) using a simple algebraic language â CSC 431
+  </content>
+ </entry>
+ <entry>
+  <title>shonfeder: emojitsu</title>
+  <author>
+   <name>shonfeder</name>
+  </author>
+  <link href="https://github.com/shonfeder/emojitsu" />
+  <id>urn:rprimus:github:shonfeder:emojitsu</id>
+  <published>2021-02-03T02:40:46Z</published>
+  <updated>2021-02-03T02:40:46Z</updated>
+  <content type="html">
+   An (OCaml) library and binary executable of techniques for dealing with unicode emoji.
+  </content>
+ </entry>
+ <entry>
+  <title>mcimini: TypeSoundnessCertifier</title>
+  <author>
+   <name>mcimini</name>
+  </author>
+  <link href="https://github.com/mcimini/TypeSoundnessCertifier" />
+  <id>urn:rprimus:github:mcimini:TypeSoundnessCertifier</id>
+  <published>2021-02-03T00:56:47Z</published>
+  <updated>2021-02-03T00:56:47Z</updated>
+  <content type="html">
+   Certified Type Soundness for Free!
+  </content>
+ </entry>
+ <entry>
+  <title>ryanmao725: AST</title>
+  <author>
+   <name>ryanmao725</name>
+  </author>
+  <link href="https://github.com/ryanmao725/AST" />
+  <id>urn:rprimus:github:ryanmao725:AST</id>
+  <published>2021-02-02T22:24:30Z</published>
+  <updated>2021-02-02T22:24:30Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>pedagand: MPRI-2.4-goto-teacher</title>
+  <author>
+   <name>pedagand</name>
+  </author>
+  <link href="https://github.com/pedagand/MPRI-2.4-goto-teacher" />
+  <id>urn:rprimus:github:pedagand:MPRI-2.4-goto-teacher</id>
+  <published>2021-02-02T20:44:54Z</published>
+  <updated>2021-02-02T20:44:54Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>j-c-w: DSPAcceleratorSupport</title>
+  <author>
+   <name>j-c-w</name>
+  </author>
+  <link href="https://github.com/j-c-w/DSPAcceleratorSupport" />
+  <id>urn:rprimus:github:j-c-w:DSPAcceleratorSupport</id>
+  <published>2021-02-02T12:23:39Z</published>
+  <updated>2021-02-02T12:23:39Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>lefessan: ocamldev</title>
   <author>
@@ -15,6 +93,19 @@
   <updated>2021-02-02T10:07:34Z</updated>
   <content type="html">
    
+  </content>
+ </entry>
+ <entry>
+  <title>mlangd6: lsystems</title>
+  <author>
+   <name>mlangd6</name>
+  </author>
+  <link href="https://github.com/mlangd6/lsystems" />
+  <id>urn:rprimus:github:mlangd6:lsystems</id>
+  <published>2021-02-02T09:53:50Z</published>
+  <updated>2021-02-02T09:53:50Z</updated>
+  <content type="html">
+   Visualize fractal
   </content>
  </entry>
  <entry>
@@ -210,71 +301,6 @@
   <updated>2021-02-01T01:43:20Z</updated>
   <content type="html">
    After getting a crash such that rbx was mangled... I spent the weekend adjusting and tweaking the malicious inputs to get it to work. It was honestly just trial n error so nothing clever on my part. I hope someone smarter makes an environment scanner to be able to automatically adjust the configurable parameters in a deterministic way. 
-  </content>
- </entry>
- <entry>
-  <title>pedroabelleira: olisp</title>
-  <author>
-   <name>pedroabelleira</name>
-  </author>
-  <link href="https://github.com/pedroabelleira/olisp" />
-  <id>urn:rprimus:github:pedroabelleira:olisp</id>
-  <published>2021-01-31T21:57:54Z</published>
-  <updated>2021-01-31T21:57:54Z</updated>
-  <content type="html">
-   Tests with OCaml
-  </content>
- </entry>
- <entry>
-  <title>elhusseiniali: prop-solver</title>
-  <author>
-   <name>elhusseiniali</name>
-  </author>
-  <link href="https://github.com/elhusseiniali/prop-solver" />
-  <id>urn:rprimus:github:elhusseiniali:prop-solver</id>
-  <published>2021-01-31T21:35:24Z</published>
-  <updated>2021-01-31T21:35:24Z</updated>
-  <content type="html">
-   A propositional solver built with OCaml.
-  </content>
- </entry>
- <entry>
-  <title>garfr: bcc</title>
-  <author>
-   <name>garfr</name>
-  </author>
-  <link href="https://github.com/garfr/bcc" />
-  <id>urn:rprimus:github:garfr:bcc</id>
-  <published>2021-01-31T21:34:49Z</published>
-  <updated>2021-01-31T21:34:49Z</updated>
-  <content type="html">
-   The Beans Compiler Collection
-  </content>
- </entry>
- <entry>
-  <title>dkayabe: CS440</title>
-  <author>
-   <name>dkayabe</name>
-  </author>
-  <link href="https://github.com/dkayabe/CS440" />
-  <id>urn:rprimus:github:dkayabe:CS440</id>
-  <published>2021-01-31T21:25:51Z</published>
-  <updated>2021-01-31T21:25:51Z</updated>
-  <content type="html">
-   Programming Languages and Translators, Spring 2021
-  </content>
- </entry>
- <entry>
-  <title>quernd: SushiBot</title>
-  <author>
-   <name>quernd</name>
-  </author>
-  <link href="https://github.com/quernd/SushiBot" />
-  <id>urn:rprimus:github:quernd:SushiBot</id>
-  <published>2021-01-31T13:00:49Z</published>
-  <updated>2021-01-31T13:00:49Z</updated>
-  <content type="html">
-   A simple Telegram bot that receives and sends cat photos
   </content>
  </entry>
 </feed>
