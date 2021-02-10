@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-racket.atom"/>
 <id>urn:rprimus:github:newracketrepos</id>
-<updated>2021-02-08T10:43:46Z</updated>
+<updated>2021-02-10T00:38:11Z</updated>
 <title type='text'>New GitHub Racket Repos</title>
+ <entry>
+  <title>mikereil80: cs135</title>
+  <author>
+   <name>mikereil80</name>
+  </author>
+  <link href="https://github.com/mikereil80/cs135" />
+  <id>urn:rprimus:github:mikereil80:cs135</id>
+  <published>2021-02-10T00:38:11Z</published>
+  <updated>2021-02-10T00:38:11Z</updated>
+  <content type="html">
+   Stevens Institute of Technology - Discrete Structures
+  </content>
+ </entry>
+ <entry>
+  <title>tsuasian: metacircular-eval</title>
+  <author>
+   <name>tsuasian</name>
+  </author>
+  <link href="https://github.com/tsuasian/metacircular-eval" />
+  <id>urn:rprimus:github:tsuasian:metacircular-eval</id>
+  <published>2021-02-09T17:19:36Z</published>
+  <updated>2021-02-09T17:19:36Z</updated>
+  <content type="html">
+   Racket Metacircular Evaluator
+  </content>
+ </entry>
+ <entry>
+  <title>CiviledCode: OSCSD</title>
+  <author>
+   <name>CiviledCode</name>
+  </author>
+  <link href="https://github.com/CiviledCode/OSCSD" />
+  <id>urn:rprimus:github:CiviledCode:OSCSD</id>
+  <published>2021-02-09T11:13:36Z</published>
+  <updated>2021-02-09T11:13:36Z</updated>
+  <content type="html">
+   My attempt and take on the Open source computer science degree
+  </content>
+ </entry>
+ <entry>
+  <title>abhi-baireddy: CS6963</title>
+  <author>
+   <name>abhi-baireddy</name>
+  </author>
+  <link href="https://github.com/abhi-baireddy/CS6963" />
+  <id>urn:rprimus:github:abhi-baireddy:CS6963</id>
+  <published>2021-02-09T11:05:38Z</published>
+  <updated>2021-02-09T11:05:38Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>CodingCellist: idris2-racket-sleep-debug</title>
   <author>
@@ -80,97 +132,6 @@
   <updated>2021-02-08T00:31:26Z</updated>
   <content type="html">
    Dynamically bound contracts.
-  </content>
- </entry>
- <entry>
-  <title>otherjoel: beeswax</title>
-  <author>
-   <name>otherjoel</name>
-  </author>
-  <link href="https://github.com/otherjoel/beeswax" />
-  <id>urn:rprimus:github:otherjoel:beeswax</id>
-  <published>2021-02-07T18:47:16Z</published>
-  <updated>2021-02-07T18:47:16Z</updated>
-  <content type="html">
-   Prototype template #lang for Pollen
-  </content>
- </entry>
- <entry>
-  <title>mboullit: Acting-Shooting-Star</title>
-  <author>
-   <name>mboullit</name>
-  </author>
-  <link href="https://github.com/mboullit/Acting-Shooting-Star" />
-  <id>urn:rprimus:github:mboullit:Acting-Shooting-Star</id>
-  <published>2021-02-07T17:59:00Z</published>
-  <updated>2021-02-07T17:59:00Z</updated>
-  <content type="html">
-   This project consisted in setting up a library of actors in order to allow the construction of a game resembling a shoot&#039;em up, while using functional programming using the Racket language.
-  </content>
- </entry>
- <entry>
-  <title>bigshans: racket-note</title>
-  <author>
-   <name>bigshans</name>
-  </author>
-  <link href="https://github.com/bigshans/racket-note" />
-  <id>urn:rprimus:github:bigshans:racket-note</id>
-  <published>2021-02-07T13:47:35Z</published>
-  <updated>2021-02-07T13:47:35Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>branneman: zork-racket</title>
-  <author>
-   <name>branneman</name>
-  </author>
-  <link href="https://github.com/branneman/zork-racket" />
-  <id>urn:rprimus:github:branneman:zork-racket</id>
-  <published>2021-02-07T12:49:49Z</published>
-  <updated>2021-02-07T12:49:49Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Yixing-Chen-Shawn: Miscellaneous-exercises-in-PLT</title>
-  <author>
-   <name>Yixing-Chen-Shawn</name>
-  </author>
-  <link href="https://github.com/Yixing-Chen-Shawn/Miscellaneous-exercises-in-PLT" />
-  <id>urn:rprimus:github:Yixing-Chen-Shawn:Miscellaneous-exercises-in-PLT</id>
-  <published>2021-02-07T06:23:53Z</published>
-  <updated>2021-02-07T06:23:53Z</updated>
-  <content type="html">
-   Exercises appear mostly in EOPL&amp;&amp;SICP, written in Racket.
-  </content>
- </entry>
- <entry>
-  <title>BraedenDiaz: CS6963-Functional-Programming-Studio</title>
-  <author>
-   <name>BraedenDiaz</name>
-  </author>
-  <link href="https://github.com/BraedenDiaz/CS6963-Functional-Programming-Studio" />
-  <id>urn:rprimus:github:BraedenDiaz:CS6963-Functional-Programming-Studio</id>
-  <published>2021-02-07T06:20:13Z</published>
-  <updated>2021-02-07T06:20:13Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>srfoster: editing</title>
-  <author>
-   <name>srfoster</name>
-  </author>
-  <link href="https://github.com/srfoster/editing" />
-  <id>urn:rprimus:github:srfoster:editing</id>
-  <published>2021-02-07T00:05:26Z</published>
-  <updated>2021-02-07T00:05:26Z</updated>
-  <content type="html">
-   Personal ffmpeg tools
   </content>
  </entry>
 </feed>
