@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-02-09T20:30:37Z</updated>
+<updated>2021-02-11T03:07:03Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>joshuahoeflich: replwm</title>
+  <author>
+   <name>joshuahoeflich</name>
+  </author>
+  <link href="https://github.com/joshuahoeflich/replwm" />
+  <id>urn:rprimus:github:joshuahoeflich:replwm</id>
+  <published>2021-02-11T03:07:03Z</published>
+  <updated>2021-02-11T03:07:03Z</updated>
+  <content type="html">
+   A hackable window manager implemented with Common LISP.
+  </content>
+ </entry>
+ <entry>
+  <title>SirojiddinSaidmurodov: FLP</title>
+  <author>
+   <name>SirojiddinSaidmurodov</name>
+  </author>
+  <link href="https://github.com/SirojiddinSaidmurodov/FLP" />
+  <id>urn:rprimus:github:SirojiddinSaidmurodov:FLP</id>
+  <published>2021-02-10T23:22:24Z</published>
+  <updated>2021-02-10T23:22:24Z</updated>
+  <content type="html">
+   Functional and logical programming
+  </content>
+ </entry>
+ <entry>
+  <title>deril: idcode</title>
+  <author>
+   <name>deril</name>
+  </author>
+  <link href="https://github.com/deril/idcode" />
+  <id>urn:rprimus:github:deril:idcode</id>
+  <published>2021-02-10T20:19:15Z</published>
+  <updated>2021-02-10T20:19:15Z</updated>
+  <content type="html">
+   Generates random id code of baltic countries (Estonia, Latvia, Lithuania)
+  </content>
+ </entry>
+ <entry>
+  <title>108ZH: CADLISPDEVLOG</title>
+  <author>
+   <name>108ZH</name>
+  </author>
+  <link href="https://github.com/108ZH/CADLISPDEVLOG" />
+  <id>urn:rprimus:github:108ZH:CADLISPDEVLOG</id>
+  <published>2021-02-10T13:40:08Z</published>
+  <updated>2021-02-10T13:40:08Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>FranciscoBuru: Inteligencia_Artificial</title>
   <author>
@@ -288,110 +340,6 @@
   <updated>2021-02-09T00:24:36Z</updated>
   <content type="html">
    A Tree Walker interpreter for the lox language
-  </content>
- </entry>
- <entry>
-  <title>lsr1006: ultimate_tic_tac_toe</title>
-  <author>
-   <name>lsr1006</name>
-  </author>
-  <link href="https://github.com/lsr1006/ultimate_tic_tac_toe" />
-  <id>urn:rprimus:github:lsr1006:ultimate_tic_tac_toe</id>
-  <published>2021-02-08T19:52:29Z</published>
-  <updated>2021-02-08T19:52:29Z</updated>
-  <content type="html">
-   Our version of Ultimate Tic-Tac-Toe, created with Common LISP
-  </content>
- </entry>
- <entry>
-  <title>elifgoral: CSE341-Programming-Languages</title>
-  <author>
-   <name>elifgoral</name>
-  </author>
-  <link href="https://github.com/elifgoral/CSE341-Programming-Languages" />
-  <id>urn:rprimus:github:elifgoral:CSE341-Programming-Languages</id>
-  <published>2021-02-08T19:45:40Z</published>
-  <updated>2021-02-08T19:45:40Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>coder5678-web: initcad</title>
-  <author>
-   <name>coder5678-web</name>
-  </author>
-  <link href="https://github.com/coder5678-web/initcad" />
-  <id>urn:rprimus:github:coder5678-web:initcad</id>
-  <published>2021-02-08T17:04:06Z</published>
-  <updated>2021-02-08T17:04:06Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>coder5678-web: scaleset</title>
-  <author>
-   <name>coder5678-web</name>
-  </author>
-  <link href="https://github.com/coder5678-web/scaleset" />
-  <id>urn:rprimus:github:coder5678-web:scaleset</id>
-  <published>2021-02-08T15:59:21Z</published>
-  <updated>2021-02-08T15:59:21Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>bosse-engineering: lisp-tools</title>
-  <author>
-   <name>bosse-engineering</name>
-  </author>
-  <link href="https://github.com/bosse-engineering/lisp-tools" />
-  <id>urn:rprimus:github:bosse-engineering:lisp-tools</id>
-  <published>2021-02-08T11:01:49Z</published>
-  <updated>2021-02-08T11:01:49Z</updated>
-  <content type="html">
-   Tools developed in LISP for BricsCAD and AutoCAD
-  </content>
- </entry>
- <entry>
-  <title>wmealing: automata</title>
-  <author>
-   <name>wmealing</name>
-  </author>
-  <link href="https://github.com/wmealing/automata" />
-  <id>urn:rprimus:github:wmealing:automata</id>
-  <published>2021-02-08T06:40:18Z</published>
-  <updated>2021-02-08T06:40:18Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>agentlans: cloak</title>
-  <author>
-   <name>agentlans</name>
-  </author>
-  <link href="https://github.com/agentlans/cloak" />
-  <id>urn:rprimus:github:agentlans:cloak</id>
-  <published>2021-02-08T05:08:42Z</published>
-  <updated>2021-02-08T05:08:42Z</updated>
-  <content type="html">
-   Creates C pointers for Lisp values
-  </content>
- </entry>
- <entry>
-  <title>kuberlog: notes.let-over-lambda</title>
-  <author>
-   <name>kuberlog</name>
-  </author>
-  <link href="https://github.com/kuberlog/notes.let-over-lambda" />
-  <id>urn:rprimus:github:kuberlog:notes.let-over-lambda</id>
-  <published>2021-02-08T01:19:37Z</published>
-  <updated>2021-02-08T01:19:37Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
