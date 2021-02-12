@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-racket.atom"/>
 <id>urn:rprimus:github:newracketrepos</id>
-<updated>2021-02-11T00:27:38Z</updated>
+<updated>2021-02-12T02:14:40Z</updated>
 <title type='text'>New GitHub Racket Repos</title>
+ <entry>
+  <title>GregDavidson: lisp-systems</title>
+  <author>
+   <name>GregDavidson</name>
+  </author>
+  <link href="https://github.com/GregDavidson/lisp-systems" />
+  <id>urn:rprimus:github:GregDavidson:lisp-systems</id>
+  <published>2021-02-12T02:14:40Z</published>
+  <updated>2021-02-12T02:14:40Z</updated>
+  <content type="html">
+   Reports from my exploration of Lisp systems
+  </content>
+ </entry>
+ <entry>
+  <title>spdegabrielle: racket-discord-bot-r16</title>
+  <author>
+   <name>spdegabrielle</name>
+  </author>
+  <link href="https://github.com/spdegabrielle/racket-discord-bot-r16" />
+  <id>urn:rprimus:github:spdegabrielle:racket-discord-bot-r16</id>
+  <published>2021-02-11T23:29:09Z</published>
+  <updated>2021-02-11T23:29:09Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>maueroats: wy-posn-util</title>
+  <author>
+   <name>maueroats</name>
+  </author>
+  <link href="https://github.com/maueroats/wy-posn-util" />
+  <id>urn:rprimus:github:maueroats:wy-posn-util</id>
+  <published>2021-02-11T23:07:05Z</published>
+  <updated>2021-02-11T23:07:05Z</updated>
+  <content type="html">
+   Utilities for working with 2d vectors (posn) in htdp.
+  </content>
+ </entry>
+ <entry>
+  <title>itaifish: racket-parser</title>
+  <author>
+   <name>itaifish</name>
+  </author>
+  <link href="https://github.com/itaifish/racket-parser" />
+  <id>urn:rprimus:github:itaifish:racket-parser</id>
+  <published>2021-02-11T22:47:46Z</published>
+  <updated>2021-02-11T22:47:46Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>vladi7: parsers-interpreters-implementation</title>
+  <author>
+   <name>vladi7</name>
+  </author>
+  <link href="https://github.com/vladi7/parsers-interpreters-implementation" />
+  <id>urn:rprimus:github:vladi7:parsers-interpreters-implementation</id>
+  <published>2021-02-11T19:30:19Z</published>
+  <updated>2021-02-11T19:30:19Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>ldhandley: sevarog</title>
+  <author>
+   <name>ldhandley</name>
+  </author>
+  <link href="https://github.com/ldhandley/sevarog" />
+  <id>urn:rprimus:github:ldhandley:sevarog</id>
+  <published>2021-02-11T19:02:32Z</published>
+  <updated>2021-02-11T19:02:32Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>geezee: racket-keyboard</title>
   <author>
@@ -70,19 +148,6 @@
   </content>
  </entry>
  <entry>
-  <title>spdegabrielle: r16</title>
-  <author>
-   <name>spdegabrielle</name>
-  </author>
-  <link href="https://github.com/spdegabrielle/r16" />
-  <id>urn:rprimus:github:spdegabrielle:r16</id>
-  <published>2021-02-10T17:15:46Z</published>
-  <updated>2021-02-10T17:15:46Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
   <title>ericrobolson: LittleSchemer</title>
   <author>
    <name>ericrobolson</name>
@@ -109,6 +174,19 @@
   </content>
  </entry>
  <entry>
+  <title>juniorxxue: learn-u-typedracket</title>
+  <author>
+   <name>juniorxxue</name>
+  </author>
+  <link href="https://github.com/juniorxxue/learn-u-typedracket" />
+  <id>urn:rprimus:github:juniorxxue:learn-u-typedracket</id>
+  <published>2021-02-10T02:49:08Z</published>
+  <updated>2021-02-10T02:49:08Z</updated>
+  <content type="html">
+   A taste of Typed Racket from classical Haskell textbook
+  </content>
+ </entry>
+ <entry>
   <title>mikereil80: cs135</title>
   <author>
    <name>mikereil80</name>
@@ -119,58 +197,6 @@
   <updated>2021-02-10T00:38:11Z</updated>
   <content type="html">
    Stevens Institute of Technology - Discrete Structures
-  </content>
- </entry>
- <entry>
-  <title>MrSucik: IVT-Tetris</title>
-  <author>
-   <name>MrSucik</name>
-  </author>
-  <link href="https://github.com/MrSucik/IVT-Tetris" />
-  <id>urn:rprimus:github:MrSucik:IVT-Tetris</id>
-  <published>2021-02-09T21:32:46Z</published>
-  <updated>2021-02-09T21:32:46Z</updated>
-  <content type="html">
-   A Tetris game intended as a maturita project
-  </content>
- </entry>
- <entry>
-  <title>tsuasian: metacircular-eval</title>
-  <author>
-   <name>tsuasian</name>
-  </author>
-  <link href="https://github.com/tsuasian/metacircular-eval" />
-  <id>urn:rprimus:github:tsuasian:metacircular-eval</id>
-  <published>2021-02-09T17:19:36Z</published>
-  <updated>2021-02-09T17:19:36Z</updated>
-  <content type="html">
-   Racket Metacircular Evaluator
-  </content>
- </entry>
- <entry>
-  <title>CiviledCode: OSCSD</title>
-  <author>
-   <name>CiviledCode</name>
-  </author>
-  <link href="https://github.com/CiviledCode/OSCSD" />
-  <id>urn:rprimus:github:CiviledCode:OSCSD</id>
-  <published>2021-02-09T11:13:36Z</published>
-  <updated>2021-02-09T11:13:36Z</updated>
-  <content type="html">
-   My attempt and take on the Open source computer science degree
-  </content>
- </entry>
- <entry>
-  <title>abhi-baireddy: CS6963</title>
-  <author>
-   <name>abhi-baireddy</name>
-  </author>
-  <link href="https://github.com/abhi-baireddy/CS6963" />
-  <id>urn:rprimus:github:abhi-baireddy:CS6963</id>
-  <published>2021-02-09T11:05:38Z</published>
-  <updated>2021-02-09T11:05:38Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
