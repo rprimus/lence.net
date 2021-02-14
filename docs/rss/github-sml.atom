@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-sml.atom"/>
 <id>urn:rprimus:github:newsmlrepos</id>
-<updated>2021-02-12T12:09:11Z</updated>
+<updated>2021-02-13T18:45:58Z</updated>
 <title type='text'>New GitHub Sml Repos</title>
+ <entry>
+  <title>shwestrick: mpl-tinykaboom</title>
+  <author>
+   <name>shwestrick</name>
+  </author>
+  <link href="https://github.com/shwestrick/mpl-tinykaboom" />
+  <id>urn:rprimus:github:shwestrick:mpl-tinykaboom</id>
+  <published>2021-02-13T18:45:58Z</published>
+  <updated>2021-02-13T18:45:58Z</updated>
+  <content type="html">
+   A port (MPL) of a port (Futhark) of the KABOOM (C++) tiny graphics program.
+  </content>
+ </entry>
  <entry>
   <title>diku-dk: sml-sobol</title>
   <author>
@@ -28,32 +41,6 @@
   <updated>2021-02-12T03:18:23Z</updated>
   <content type="html">
    Completed this class independently to learn how to do functional programming. Has almost all coding problems answered, sometimes there would be one very hard one that I just did not finish. Skipped anything asking to compute/prove the time complexity of as I already have experience proving time complexity of most of the algorithms shown. On very small occasions I had to look online at someone else&#039;s code to completely understand what issue I was having which has resulted in a few changes in coding styles towards the end of some assignments.
-  </content>
- </entry>
- <entry>
-  <title>nearmax: pgp_signatures</title>
-  <author>
-   <name>nearmax</name>
-  </author>
-  <link href="https://github.com/nearmax/pgp_signatures" />
-  <id>urn:rprimus:github:nearmax:pgp_signatures</id>
-  <published>2021-02-11T19:28:13Z</published>
-  <updated>2021-02-11T19:28:13Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>telnet23: sml-stuff</title>
-  <author>
-   <name>telnet23</name>
-  </author>
-  <link href="https://github.com/telnet23/sml-stuff" />
-  <id>urn:rprimus:github:telnet23:sml-stuff</id>
-  <published>2021-02-11T02:26:05Z</published>
-  <updated>2021-02-11T02:26:05Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>

@@ -2,8 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-02-13T05:28:56Z</updated>
+<updated>2021-02-14T00:19:35Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>teddywing: cl-sysexits</title>
+  <author>
+   <name>teddywing</name>
+  </author>
+  <link href="https://github.com/teddywing/cl-sysexits" />
+  <id>urn:rprimus:github:teddywing:cl-sysexits</id>
+  <published>2021-02-14T00:19:35Z</published>
+  <updated>2021-02-14T00:19:35Z</updated>
+  <content type="html">
+   Exit codes defined in sysexits.h for Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>eXodiquas: cl-chaos-game</title>
+  <author>
+   <name>eXodiquas</name>
+  </author>
+  <link href="https://github.com/eXodiquas/cl-chaos-game" />
+  <id>urn:rprimus:github:eXodiquas:cl-chaos-game</id>
+  <published>2021-02-13T23:59:05Z</published>
+  <updated>2021-02-13T23:59:05Z</updated>
+  <content type="html">
+   An simple implementation of the chaos game. https://en.wikipedia.org/wiki/Chaos_game
+  </content>
+ </entry>
+ <entry>
+  <title>ebrasca: cl-filenames</title>
+  <author>
+   <name>ebrasca</name>
+  </author>
+  <link href="https://github.com/ebrasca/cl-filenames" />
+  <id>urn:rprimus:github:ebrasca:cl-filenames</id>
+  <published>2021-02-13T18:38:34Z</published>
+  <updated>2021-02-13T18:38:34Z</updated>
+  <content type="html">
+   cl-filenames: An implementation of Common Lisp filenames
+  </content>
+ </entry>
+ <entry>
+  <title>gefjon: ploy</title>
+  <author>
+   <name>gefjon</name>
+  </author>
+  <link href="https://github.com/gefjon/ploy" />
+  <id>urn:rprimus:github:gefjon:ploy</id>
+  <published>2021-02-13T18:23:40Z</published>
+  <updated>2021-02-13T18:23:40Z</updated>
+  <content type="html">
+   some syntax transformations which may one day grow into a scheme
+  </content>
+ </entry>
+ <entry>
+  <title>jcguu95: cl-jin</title>
+  <author>
+   <name>jcguu95</name>
+  </author>
+  <link href="https://github.com/jcguu95/cl-jin" />
+  <id>urn:rprimus:github:jcguu95:cl-jin</id>
+  <published>2021-02-13T17:06:24Z</published>
+  <updated>2021-02-13T17:06:24Z</updated>
+  <content type="html">
+   jin&#039;s cl personal scripts
+  </content>
+ </entry>
+ <entry>
+  <title>sirherrbatka: clusters</title>
+  <author>
+   <name>sirherrbatka</name>
+  </author>
+  <link href="https://github.com/sirherrbatka/clusters" />
+  <id>urn:rprimus:github:sirherrbatka:clusters</id>
+  <published>2021-02-13T16:41:07Z</published>
+  <updated>2021-02-13T16:41:07Z</updated>
+  <content type="html">
+   Variety of clustering tools for the Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>Antoine-B-EQ: jungle-evolution</title>
+  <author>
+   <name>Antoine-B-EQ</name>
+  </author>
+  <link href="https://github.com/Antoine-B-EQ/jungle-evolution" />
+  <id>urn:rprimus:github:Antoine-B-EQ:jungle-evolution</id>
+  <published>2021-02-13T13:50:02Z</published>
+  <updated>2021-02-13T13:50:02Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>zwucd166: ecs140a-hw3</title>
   <author>
@@ -132,58 +223,6 @@
   <updated>2021-02-12T00:17:23Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>chip2n: cl-chiputils</title>
-  <author>
-   <name>chip2n</name>
-  </author>
-  <link href="https://github.com/chip2n/cl-chiputils" />
-  <id>urn:rprimus:github:chip2n:cl-chiputils</id>
-  <published>2021-02-11T14:24:10Z</published>
-  <updated>2021-02-11T14:24:10Z</updated>
-  <content type="html">
-   My own Common Lisp utility functions to make life bearabl
-  </content>
- </entry>
- <entry>
-  <title>Antoine-B-EQ: knight-battle</title>
-  <author>
-   <name>Antoine-B-EQ</name>
-  </author>
-  <link href="https://github.com/Antoine-B-EQ/knight-battle" />
-  <id>urn:rprimus:github:Antoine-B-EQ:knight-battle</id>
-  <published>2021-02-11T10:45:39Z</published>
-  <updated>2021-02-11T10:45:39Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>hyotang666: quaspar</title>
-  <author>
-   <name>hyotang666</name>
-  </author>
-  <link href="https://github.com/hyotang666/quaspar" />
-  <id>urn:rprimus:github:hyotang666:quaspar</id>
-  <published>2021-02-11T06:04:30Z</published>
-  <updated>2021-02-11T06:04:30Z</updated>
-  <content type="html">
-   QUAternary Spatial PARtitioning tree especially for game engine.
-  </content>
- </entry>
- <entry>
-  <title>joshuahoeflich: replwm</title>
-  <author>
-   <name>joshuahoeflich</name>
-  </author>
-  <link href="https://github.com/joshuahoeflich/replwm" />
-  <id>urn:rprimus:github:joshuahoeflich:replwm</id>
-  <published>2021-02-11T03:07:03Z</published>
-  <updated>2021-02-11T03:07:03Z</updated>
-  <content type="html">
-   A hackable window manager implemented with Common LISP.
   </content>
  </entry>
 </feed>
