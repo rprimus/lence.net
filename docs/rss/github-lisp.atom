@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-02-14T00:19:35Z</updated>
+<updated>2021-02-14T21:32:35Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>patrickbucher: practical-common-lisp</title>
+  <author>
+   <name>patrickbucher</name>
+  </author>
+  <link href="https://github.com/patrickbucher/practical-common-lisp" />
+  <id>urn:rprimus:github:patrickbucher:practical-common-lisp</id>
+  <published>2021-02-14T21:32:35Z</published>
+  <updated>2021-02-14T21:32:35Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Hexstream: canonicalized-initargs</title>
+  <author>
+   <name>Hexstream</name>
+  </author>
+  <link href="https://github.com/Hexstream/canonicalized-initargs" />
+  <id>urn:rprimus:github:Hexstream:canonicalized-initargs</id>
+  <published>2021-02-14T19:59:12Z</published>
+  <updated>2021-02-14T19:59:12Z</updated>
+  <content type="html">
+   Provides a :canonicalize slot option accepting an initarg canonicalization function.
+  </content>
+ </entry>
+ <entry>
+  <title>teddywing: cl-wait-group</title>
+  <author>
+   <name>teddywing</name>
+  </author>
+  <link href="https://github.com/teddywing/cl-wait-group" />
+  <id>urn:rprimus:github:teddywing:cl-wait-group</id>
+  <published>2021-02-14T15:42:24Z</published>
+  <updated>2021-02-14T15:42:24Z</updated>
+  <content type="html">
+   Block waiting for jobs to finish
+  </content>
+ </entry>
+ <entry>
+  <title>skitana: 3DConnect4-AI</title>
+  <author>
+   <name>skitana</name>
+  </author>
+  <link href="https://github.com/skitana/3DConnect4-AI" />
+  <id>urn:rprimus:github:skitana:3DConnect4-AI</id>
+  <published>2021-02-14T11:29:58Z</published>
+  <updated>2021-02-14T11:29:58Z</updated>
+  <content type="html">
+   AI in Lisp 
+  </content>
+ </entry>
+ <entry>
+  <title>Plisp: libpt</title>
+  <author>
+   <name>Plisp</name>
+  </author>
+  <link href="https://github.com/Plisp/libpt" />
+  <id>urn:rprimus:github:Plisp:libpt</id>
+  <published>2021-02-14T10:55:01Z</published>
+  <updated>2021-02-14T10:55:01Z</updated>
+  <content type="html">
+   piece table experiments
+  </content>
+ </entry>
  <entry>
   <title>teddywing: cl-sysexits</title>
   <author>
@@ -96,19 +161,6 @@
   </content>
  </entry>
  <entry>
-  <title>zwucd166: ecs140a-hw3</title>
-  <author>
-   <name>zwucd166</name>
-  </author>
-  <link href="https://github.com/zwucd166/ecs140a-hw3" />
-  <id>urn:rprimus:github:zwucd166:ecs140a-hw3</id>
-  <published>2021-02-13T05:28:56Z</published>
-  <updated>2021-02-13T05:28:56Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
   <title>eXodiquas: cl-snowflake</title>
   <author>
    <name>eXodiquas</name>
@@ -119,110 +171,6 @@
   <updated>2021-02-13T00:10:28Z</updated>
   <content type="html">
    Generates a snowflake based on random walk. It is also coding challenge #127 from The Coding Train.
-  </content>
- </entry>
- <entry>
-  <title>jesse-daniel-wyatt: DBX</title>
-  <author>
-   <name>jesse-daniel-wyatt</name>
-  </author>
-  <link href="https://github.com/jesse-daniel-wyatt/DBX" />
-  <id>urn:rprimus:github:jesse-daniel-wyatt:DBX</id>
-  <published>2021-02-12T20:49:12Z</published>
-  <updated>2021-02-12T20:49:12Z</updated>
-  <content type="html">
-   A Predicate Engine for a simple &quot;Expert System&quot; using LISP and an all-recursive design
-  </content>
- </entry>
- <entry>
-  <title>ionwhite: GeneticAlgTSP</title>
-  <author>
-   <name>ionwhite</name>
-  </author>
-  <link href="https://github.com/ionwhite/GeneticAlgTSP" />
-  <id>urn:rprimus:github:ionwhite:GeneticAlgTSP</id>
-  <published>2021-02-12T18:31:28Z</published>
-  <updated>2021-02-12T18:31:28Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ionwhite: GeneticAlgTwelveTone</title>
-  <author>
-   <name>ionwhite</name>
-  </author>
-  <link href="https://github.com/ionwhite/GeneticAlgTwelveTone" />
-  <id>urn:rprimus:github:ionwhite:GeneticAlgTwelveTone</id>
-  <published>2021-02-12T18:03:28Z</published>
-  <updated>2021-02-12T18:03:28Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>realdea8: linear-programming-play</title>
-  <author>
-   <name>realdea8</name>
-  </author>
-  <link href="https://github.com/realdea8/linear-programming-play" />
-  <id>urn:rprimus:github:realdea8:linear-programming-play</id>
-  <published>2021-02-12T16:55:48Z</published>
-  <updated>2021-02-12T16:55:48Z</updated>
-  <content type="html">
-   Play with the library &quot;linear-programming&quot; (https://github.com/neil-lindquist/linear-programming)
-  </content>
- </entry>
- <entry>
-  <title>rvpto: tac-lisp</title>
-  <author>
-   <name>rvpto</name>
-  </author>
-  <link href="https://github.com/rvpto/tac-lisp" />
-  <id>urn:rprimus:github:rvpto:tac-lisp</id>
-  <published>2021-02-12T04:32:44Z</published>
-  <updated>2021-02-12T04:32:44Z</updated>
-  <content type="html">
-   cat reverso em common lisp
-  </content>
- </entry>
- <entry>
-  <title>Triagle: flatbot-cl</title>
-  <author>
-   <name>Triagle</name>
-  </author>
-  <link href="https://github.com/Triagle/flatbot-cl" />
-  <id>urn:rprimus:github:Triagle:flatbot-cl</id>
-  <published>2021-02-12T03:10:07Z</published>
-  <updated>2021-02-12T03:10:07Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>eXodiquas: water-ripples</title>
-  <author>
-   <name>eXodiquas</name>
-  </author>
-  <link href="https://github.com/eXodiquas/water-ripples" />
-  <id>urn:rprimus:github:eXodiquas:water-ripples</id>
-  <published>2021-02-12T02:04:12Z</published>
-  <updated>2021-02-12T02:04:12Z</updated>
-  <content type="html">
-   Coding challenge #102 from The Coding Train in LISP.
-  </content>
- </entry>
- <entry>
-  <title>yanqirenshi: adapter.XD</title>
-  <author>
-   <name>yanqirenshi</name>
-  </author>
-  <link href="https://github.com/yanqirenshi/adapter.XD" />
-  <id>urn:rprimus:github:yanqirenshi:adapter.XD</id>
-  <published>2021-02-12T00:17:23Z</published>
-  <updated>2021-02-12T00:17:23Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>

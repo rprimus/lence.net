@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-sml.atom"/>
 <id>urn:rprimus:github:newsmlrepos</id>
-<updated>2021-02-13T18:45:58Z</updated>
+<updated>2021-02-15T02:22:04Z</updated>
 <title type='text'>New GitHub Sml Repos</title>
+ <entry>
+  <title>jlaboll: SMLNJ</title>
+  <author>
+   <name>jlaboll</name>
+  </author>
+  <link href="https://github.com/jlaboll/SMLNJ" />
+  <id>urn:rprimus:github:jlaboll:SMLNJ</id>
+  <published>2021-02-15T02:22:04Z</published>
+  <updated>2021-02-15T02:22:04Z</updated>
+  <content type="html">
+   Standard ML of New Jersey
+  </content>
+ </entry>
  <entry>
   <title>shwestrick: mpl-tinykaboom</title>
   <author>
@@ -15,32 +28,6 @@
   <updated>2021-02-13T18:45:58Z</updated>
   <content type="html">
    A port (MPL) of a port (Futhark) of the KABOOM (C++) tiny graphics program.
-  </content>
- </entry>
- <entry>
-  <title>diku-dk: sml-sobol</title>
-  <author>
-   <name>diku-dk</name>
-  </author>
-  <link href="https://github.com/diku-dk/sml-sobol" />
-  <id>urn:rprimus:github:diku-dk:sml-sobol</id>
-  <published>2021-02-12T12:09:11Z</published>
-  <updated>2021-02-12T12:09:11Z</updated>
-  <content type="html">
-   Standard ML library for Sobol sequences
-  </content>
- </entry>
- <entry>
-  <title>anmelus: SML-COMP-212-Functional-Programming-Answers</title>
-  <author>
-   <name>anmelus</name>
-  </author>
-  <link href="https://github.com/anmelus/SML-COMP-212-Functional-Programming-Answers" />
-  <id>urn:rprimus:github:anmelus:SML-COMP-212-Functional-Programming-Answers</id>
-  <published>2021-02-12T03:18:23Z</published>
-  <updated>2021-02-12T03:18:23Z</updated>
-  <content type="html">
-   Completed this class independently to learn how to do functional programming. Has almost all coding problems answered, sometimes there would be one very hard one that I just did not finish. Skipped anything asking to compute/prove the time complexity of as I already have experience proving time complexity of most of the algorithms shown. On very small occasions I had to look online at someone else&#039;s code to completely understand what issue I was having which has resulted in a few changes in coding styles towards the end of some assignments.
   </content>
  </entry>
 </feed>
