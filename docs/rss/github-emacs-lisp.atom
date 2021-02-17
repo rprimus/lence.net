@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2021-02-17T06:29:37Z</updated>
+<updated>2021-02-17T09:08:33Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>CrownCrafter: Doom-Emacs-Config</title>
+  <author>
+   <name>CrownCrafter</name>
+  </author>
+  <link href="https://github.com/CrownCrafter/Doom-Emacs-Config" />
+  <id>urn:rprimus:github:CrownCrafter:Doom-Emacs-Config</id>
+  <published>2021-02-17T09:08:33Z</published>
+  <updated>2021-02-17T09:08:33Z</updated>
+  <content type="html">
+   My Doom Emacs config
+  </content>
+ </entry>
+ <entry>
+  <title>elfforest: emacs.d</title>
+  <author>
+   <name>elfforest</name>
+  </author>
+  <link href="https://github.com/elfforest/emacs.d" />
+  <id>urn:rprimus:github:elfforest:emacs.d</id>
+  <published>2021-02-17T08:08:55Z</published>
+  <updated>2021-02-17T08:08:55Z</updated>
+  <content type="html">
+   emacs -config
+  </content>
+ </entry>
  <entry>
   <title>tysyak: .doom.d</title>
   <author>
@@ -57,12 +83,12 @@
   </content>
  </entry>
  <entry>
-  <title>miikargh: .emacs_d</title>
+  <title>miikargh: .emacs.d</title>
   <author>
    <name>miikargh</name>
   </author>
-  <link href="https://github.com/miikargh/.emacs_d" />
-  <id>urn:rprimus:github:miikargh:.emacs_d</id>
+  <link href="https://github.com/miikargh/.emacs.d" />
+  <id>urn:rprimus:github:miikargh:.emacs.d</id>
   <published>2021-02-17T02:21:35Z</published>
   <updated>2021-02-17T02:21:35Z</updated>
   <content type="html">
@@ -252,6 +278,19 @@
   </content>
  </entry>
  <entry>
+  <title>LgenHogns: my.emacs.d</title>
+  <author>
+   <name>LgenHogns</name>
+  </author>
+  <link href="https://github.com/LgenHogns/my.emacs.d" />
+  <id>urn:rprimus:github:LgenHogns:my.emacs.d</id>
+  <published>2021-02-16T08:30:49Z</published>
+  <updated>2021-02-16T08:30:49Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
   <title>mattgalles: .doom.d</title>
   <author>
    <name>mattgalles</name>
@@ -314,19 +353,6 @@
   <updated>2021-02-16T01:04:32Z</updated>
   <content type="html">
    My emacs configuration files
-  </content>
- </entry>
- <entry>
-  <title>elfforest: emacs-elf</title>
-  <author>
-   <name>elfforest</name>
-  </author>
-  <link href="https://github.com/elfforest/emacs-elf" />
-  <id>urn:rprimus:github:elfforest:emacs-elf</id>
-  <published>2021-02-15T22:43:36Z</published>
-  <updated>2021-02-15T22:43:36Z</updated>
-  <content type="html">
-   emacs-elf
   </content>
  </entry>
  <entry>
