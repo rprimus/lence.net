@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-sml.atom"/>
 <id>urn:rprimus:github:newsmlrepos</id>
-<updated>2021-02-17T00:31:17Z</updated>
+<updated>2021-02-17T15:00:45Z</updated>
 <title type='text'>New GitHub Sml Repos</title>
+ <entry>
+  <title>eldesh: sha3_sml</title>
+  <author>
+   <name>eldesh</name>
+  </author>
+  <link href="https://github.com/eldesh/sha3_sml" />
+  <id>urn:rprimus:github:eldesh:sha3_sml</id>
+  <published>2021-02-17T15:00:45Z</published>
+  <updated>2021-02-17T15:00:45Z</updated>
+  <content type="html">
+   a SHA3 algorithm implementation with pure StandardML
+  </content>
+ </entry>
  <entry>
   <title>troy-csc: csc-330</title>
   <author>
@@ -15,32 +28,6 @@
   <updated>2021-02-17T00:31:17Z</updated>
   <content type="html">
    A repository for storing my work and assignments for the Programming Languages course at UVic.
-  </content>
- </entry>
- <entry>
-  <title>KaioAlex2018: LP-Project</title>
-  <author>
-   <name>KaioAlex2018</name>
-  </author>
-  <link href="https://github.com/KaioAlex2018/LP-Project" />
-  <id>urn:rprimus:github:KaioAlex2018:LP-Project</id>
-  <published>2021-02-15T17:53:22Z</published>
-  <updated>2021-02-15T17:53:22Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jlaboll: SMLNJ</title>
-  <author>
-   <name>jlaboll</name>
-  </author>
-  <link href="https://github.com/jlaboll/SMLNJ" />
-  <id>urn:rprimus:github:jlaboll:SMLNJ</id>
-  <published>2021-02-15T02:22:04Z</published>
-  <updated>2021-02-15T02:22:04Z</updated>
-  <content type="html">
-   Standard ML of New Jersey
   </content>
  </entry>
 </feed>
