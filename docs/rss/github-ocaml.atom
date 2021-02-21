@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2021-02-20T00:30:18Z</updated>
+<updated>2021-02-21T07:23:56Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>cdutton80: ocaml-list-group-utils</title>
+  <author>
+   <name>cdutton80</name>
+  </author>
+  <link href="https://github.com/cdutton80/ocaml-list-group-utils" />
+  <id>urn:rprimus:github:cdutton80:ocaml-list-group-utils</id>
+  <published>2021-02-21T07:23:56Z</published>
+  <updated>2021-02-21T07:23:56Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>jensbrak: tracer</title>
+  <author>
+   <name>jensbrak</name>
+  </author>
+  <link href="https://github.com/jensbrak/tracer" />
+  <id>urn:rprimus:github:jensbrak:tracer</id>
+  <published>2021-02-20T10:21:12Z</published>
+  <updated>2021-02-20T10:21:12Z</updated>
+  <content type="html">
+   Simple raytracer using Ocaml to render 3D scenes based on simplified PovRay description files. 
+  </content>
+ </entry>
  <entry>
   <title>omnisci3nce: snap</title>
   <author>
@@ -132,136 +158,6 @@
   <updated>2021-02-19T01:56:34Z</updated>
   <content type="html">
    NanoGUI-esque thing in OCaml
-  </content>
- </entry>
- <entry>
-  <title>KevinWilliams68: Functional-Programming</title>
-  <author>
-   <name>KevinWilliams68</name>
-  </author>
-  <link href="https://github.com/KevinWilliams68/Functional-Programming" />
-  <id>urn:rprimus:github:KevinWilliams68:Functional-Programming</id>
-  <published>2021-02-18T20:58:32Z</published>
-  <updated>2021-02-18T20:58:32Z</updated>
-  <content type="html">
-   CS5035
-  </content>
- </entry>
- <entry>
-  <title>rrtoledo: multi-sig</title>
-  <author>
-   <name>rrtoledo</name>
-  </author>
-  <link href="https://github.com/rrtoledo/multi-sig" />
-  <id>urn:rprimus:github:rrtoledo:multi-sig</id>
-  <published>2021-02-18T18:35:55Z</published>
-  <updated>2021-02-18T18:35:55Z</updated>
-  <content type="html">
-   OCaml implementation of Compact Multi-Signatures for Smaller Blockchains with BLS12-381
-  </content>
- </entry>
- <entry>
-  <title>lsylvestre: mini-ML</title>
-  <author>
-   <name>lsylvestre</name>
-  </author>
-  <link href="https://github.com/lsylvestre/mini-ML" />
-  <id>urn:rprimus:github:lsylvestre:mini-ML</id>
-  <published>2021-02-18T15:16:55Z</published>
-  <updated>2021-02-18T15:16:55Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>yattinda: ocaml</title>
-  <author>
-   <name>yattinda</name>
-  </author>
-  <link href="https://github.com/yattinda/ocaml" />
-  <id>urn:rprimus:github:yattinda:ocaml</id>
-  <published>2021-02-18T14:55:40Z</published>
-  <updated>2021-02-18T14:55:40Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Lozov-Petr: microKanren</title>
-  <author>
-   <name>Lozov-Petr</name>
-  </author>
-  <link href="https://github.com/Lozov-Petr/microKanren" />
-  <id>urn:rprimus:github:Lozov-Petr:microKanren</id>
-  <published>2021-02-18T13:28:10Z</published>
-  <updated>2021-02-18T13:28:10Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>talex5: ocaml-wayland</title>
-  <author>
-   <name>talex5</name>
-  </author>
-  <link href="https://github.com/talex5/ocaml-wayland" />
-  <id>urn:rprimus:github:talex5:ocaml-wayland</id>
-  <published>2021-02-18T12:01:14Z</published>
-  <updated>2021-02-18T12:01:14Z</updated>
-  <content type="html">
-   Pure OCaml Wayland protocol implementation
-  </content>
- </entry>
- <entry>
-  <title>GabrieleMasciotti: Simple-Language-interpreter-in-OCaml</title>
-  <author>
-   <name>GabrieleMasciotti</name>
-  </author>
-  <link href="https://github.com/GabrieleMasciotti/Simple-Language-interpreter-in-OCaml" />
-  <id>urn:rprimus:github:GabrieleMasciotti:Simple-Language-interpreter-in-OCaml</id>
-  <published>2021-02-18T11:52:26Z</published>
-  <updated>2021-02-18T11:52:26Z</updated>
-  <content type="html">
-   Design and development of an interpreter in OCaml
-  </content>
- </entry>
- <entry>
-  <title>septlog: learn-ocamllex</title>
-  <author>
-   <name>septlog</name>
-  </author>
-  <link href="https://github.com/septlog/learn-ocamllex" />
-  <id>urn:rprimus:github:septlog:learn-ocamllex</id>
-  <published>2021-02-18T10:28:28Z</published>
-  <updated>2021-02-18T10:28:28Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>tzach420: Scheme-Compiler</title>
-  <author>
-   <name>tzach420</name>
-  </author>
-  <link href="https://github.com/tzach420/Scheme-Compiler" />
-  <id>urn:rprimus:github:tzach420:Scheme-Compiler</id>
-  <published>2021-02-18T09:02:42Z</published>
-  <updated>2021-02-18T09:02:42Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>HiddenDragon01: COMP302</title>
-  <author>
-   <name>HiddenDragon01</name>
-  </author>
-  <link href="https://github.com/HiddenDragon01/COMP302" />
-  <id>urn:rprimus:github:HiddenDragon01:COMP302</id>
-  <published>2021-02-18T02:57:08Z</published>
-  <updated>2021-02-18T02:57:08Z</updated>
-  <content type="html">
-   Programming language design issues and programming paradigms. Binding and scoping, parameter passing, lambda abstraction, data abstraction, type checking. Functional and logic programming.
   </content>
  </entry>
 </feed>
