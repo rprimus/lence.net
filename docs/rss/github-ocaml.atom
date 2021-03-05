@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2021-03-04T08:09:57Z</updated>
+<updated>2021-03-05T05:48:22Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>Karfroth: esy-ocaml-napi</title>
+  <author>
+   <name>Karfroth</name>
+  </author>
+  <link href="https://github.com/Karfroth/esy-ocaml-napi" />
+  <id>urn:rprimus:github:Karfroth:esy-ocaml-napi</id>
+  <published>2021-03-05T05:48:22Z</published>
+  <updated>2021-03-05T05:48:22Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>soremoT: ocaml-scheme-compiler</title>
+  <author>
+   <name>soremoT</name>
+  </author>
+  <link href="https://github.com/soremoT/ocaml-scheme-compiler" />
+  <id>urn:rprimus:github:soremoT:ocaml-scheme-compiler</id>
+  <published>2021-03-04T22:21:22Z</published>
+  <updated>2021-03-04T22:21:22Z</updated>
+  <content type="html">
+   compilation course project
+  </content>
+ </entry>
+ <entry>
+  <title>Chaimaa-Louahabi: miniMl-Interpreter</title>
+  <author>
+   <name>Chaimaa-Louahabi</name>
+  </author>
+  <link href="https://github.com/Chaimaa-Louahabi/miniMl-Interpreter" />
+  <id>urn:rprimus:github:Chaimaa-Louahabi:miniMl-Interpreter</id>
+  <published>2021-03-04T17:41:00Z</published>
+  <updated>2021-03-04T17:41:00Z</updated>
+  <content type="html">
+   I have written this tiny ML interpreter as an exercise in a course about semantics and languages translation at ENSEEIHT. Parser, Lexer and AST (abstract syntax tree) were given by the professor.
+  </content>
+ </entry>
+ <entry>
+  <title>ocaml-ppx: ppx_universe</title>
+  <author>
+   <name>ocaml-ppx</name>
+  </author>
+  <link href="https://github.com/ocaml-ppx/ppx_universe" />
+  <id>urn:rprimus:github:ocaml-ppx:ppx_universe</id>
+  <published>2021-03-04T12:32:34Z</published>
+  <updated>2021-03-04T12:32:34Z</updated>
+  <content type="html">
+   Work space of ppxlib and its reverse dependencies
+  </content>
+ </entry>
+ <entry>
+  <title>idkjs: rescript-frp</title>
+  <author>
+   <name>idkjs</name>
+  </author>
+  <link href="https://github.com/idkjs/rescript-frp" />
+  <id>urn:rprimus:github:idkjs:rescript-frp</id>
+  <published>2021-03-04T11:34:05Z</published>
+  <updated>2021-03-04T11:34:05Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>maxymilianz: Extended-typed-lambda-calculus-evaluator</title>
   <author>
@@ -109,19 +174,6 @@
   </content>
  </entry>
  <entry>
-  <title>timyriku: cs51</title>
-  <author>
-   <name>timyriku</name>
-  </author>
-  <link href="https://github.com/timyriku/cs51" />
-  <id>urn:rprimus:github:timyriku:cs51</id>
-  <published>2021-03-03T05:34:06Z</published>
-  <updated>2021-03-03T05:34:06Z</updated>
-  <content type="html">
-   CS51 code files
-  </content>
- </entry>
- <entry>
   <title>Creedowl: heap</title>
   <author>
    <name>Creedowl</name>
@@ -132,97 +184,6 @@
   <updated>2021-03-03T03:19:41Z</updated>
   <content type="html">
    heap implement in Ocaml
-  </content>
- </entry>
- <entry>
-  <title>bgdrmic: ocaml-notes</title>
-  <author>
-   <name>bgdrmic</name>
-  </author>
-  <link href="https://github.com/bgdrmic/ocaml-notes" />
-  <id>urn:rprimus:github:bgdrmic:ocaml-notes</id>
-  <published>2021-03-02T23:07:46Z</published>
-  <updated>2021-03-02T23:07:46Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>aakby: Compilateur-RAT-vers-TAM</title>
-  <author>
-   <name>aakby</name>
-  </author>
-  <link href="https://github.com/aakby/Compilateur-RAT-vers-TAM" />
-  <id>urn:rprimus:github:aakby:Compilateur-RAT-vers-TAM</id>
-  <published>2021-03-02T17:22:38Z</published>
-  <updated>2021-03-02T17:22:38Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>OCamlPro: grid</title>
-  <author>
-   <name>OCamlPro</name>
-  </author>
-  <link href="https://github.com/OCamlPro/grid" />
-  <id>urn:rprimus:github:OCamlPro:grid</id>
-  <published>2021-03-02T17:03:58Z</published>
-  <updated>2021-03-02T17:03:58Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ocaml-multicore: eioio</title>
-  <author>
-   <name>ocaml-multicore</name>
-  </author>
-  <link href="https://github.com/ocaml-multicore/eioio" />
-  <id>urn:rprimus:github:ocaml-multicore:eioio</id>
-  <published>2021-03-02T14:20:04Z</published>
-  <updated>2021-03-02T14:20:04Z</updated>
-  <content type="html">
-   Effects-based direct-style IO for multicore OCaml
-  </content>
- </entry>
- <entry>
-  <title>pitag-ha: Testing-ofronds-watch-structure</title>
-  <author>
-   <name>pitag-ha</name>
-  </author>
-  <link href="https://github.com/pitag-ha/Testing-ofronds-watch-structure" />
-  <id>urn:rprimus:github:pitag-ha:Testing-ofronds-watch-structure</id>
-  <published>2021-03-02T10:14:17Z</published>
-  <updated>2021-03-02T10:14:17Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>topazus: ocaml-learn</title>
-  <author>
-   <name>topazus</name>
-  </author>
-  <link href="https://github.com/topazus/ocaml-learn" />
-  <id>urn:rprimus:github:topazus:ocaml-learn</id>
-  <published>2021-03-02T09:53:53Z</published>
-  <updated>2021-03-02T09:53:53Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jschneiderhan15: CS_496</title>
-  <author>
-   <name>jschneiderhan15</name>
-  </author>
-  <link href="https://github.com/jschneiderhan15/CS_496" />
-  <id>urn:rprimus:github:jschneiderhan15:CS_496</id>
-  <published>2021-03-02T04:58:20Z</published>
-  <updated>2021-03-02T04:58:20Z</updated>
-  <content type="html">
-   Coding assignments from the class CS 496 - Programming Languages. Spring 2021
   </content>
  </entry>
 </feed>
