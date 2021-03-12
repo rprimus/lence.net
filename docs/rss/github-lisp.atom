@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-03-11T04:01:17Z</updated>
+<updated>2021-03-12T07:12:02Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>PhantoNa: lisp-mst</title>
+  <author>
+   <name>PhantoNa</name>
+  </author>
+  <link href="https://github.com/PhantoNa/lisp-mst" />
+  <id>urn:rprimus:github:PhantoNa:lisp-mst</id>
+  <published>2021-03-12T07:12:02Z</published>
+  <updated>2021-03-12T07:12:02Z</updated>
+  <content type="html">
+   Minimum Spanning Tree in Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>hackeryarn: chat</title>
+  <author>
+   <name>hackeryarn</name>
+  </author>
+  <link href="https://github.com/hackeryarn/chat" />
+  <id>urn:rprimus:github:hackeryarn:chat</id>
+  <published>2021-03-12T02:28:17Z</published>
+  <updated>2021-03-12T02:28:17Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>compufox: tworp</title>
+  <author>
+   <name>compufox</name>
+  </author>
+  <link href="https://github.com/compufox/tworp" />
+  <id>urn:rprimus:github:compufox:tworp</id>
+  <published>2021-03-11T13:37:19Z</published>
+  <updated>2021-03-11T13:37:19Z</updated>
+  <content type="html">
+   mastodon bot for mirroring a twitter account
+  </content>
+ </entry>
  <entry>
   <title>walpurgisnatch: practical-cl</title>
   <author>
@@ -67,123 +106,6 @@
   <updated>2021-03-10T04:24:52Z</updated>
   <content type="html">
    QuestÃµes da disciplina de Paradigmas utilizando a linguagem de programaÃ§Ã£o LISP
-  </content>
- </entry>
- <entry>
-  <title>AlexanderVieira: simulation_turtlebot3</title>
-  <author>
-   <name>AlexanderVieira</name>
-  </author>
-  <link href="https://github.com/AlexanderVieira/simulation_turtlebot3" />
-  <id>urn:rprimus:github:AlexanderVieira:simulation_turtlebot3</id>
-  <published>2021-03-09T22:16:29Z</published>
-  <updated>2021-03-09T22:16:29Z</updated>
-  <content type="html">
-   Projeto demo para simulaÃ§Ã£o com robÃ´ mÃ³vel usando projeto comercial Turtlebot3
-  </content>
- </entry>
- <entry>
-  <title>yitzchak: trivial-hash-table</title>
-  <author>
-   <name>yitzchak</name>
-  </author>
-  <link href="https://github.com/yitzchak/trivial-hash-table" />
-  <id>urn:rprimus:github:yitzchak:trivial-hash-table</id>
-  <published>2021-03-09T21:58:08Z</published>
-  <updated>2021-03-09T21:58:08Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Uthar: cl-util</title>
-  <author>
-   <name>Uthar</name>
-  </author>
-  <link href="https://github.com/Uthar/cl-util" />
-  <id>urn:rprimus:github:Uthar:cl-util</id>
-  <published>2021-03-09T20:20:05Z</published>
-  <updated>2021-03-09T20:20:05Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>teu5us: cl-fill-string</title>
-  <author>
-   <name>teu5us</name>
-  </author>
-  <link href="https://github.com/teu5us/cl-fill-string" />
-  <id>urn:rprimus:github:teu5us:cl-fill-string</id>
-  <published>2021-03-09T18:41:28Z</published>
-  <updated>2021-03-09T18:41:28Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Ambrevar: fof</title>
-  <author>
-   <name>Ambrevar</name>
-  </author>
-  <link href="https://github.com/Ambrevar/fof" />
-  <id>urn:rprimus:github:Ambrevar:fof</id>
-  <published>2021-03-09T16:17:43Z</published>
-  <updated>2021-03-09T16:17:43Z</updated>
-  <content type="html">
-   File object finder Common Lisp library
-  </content>
- </entry>
- <entry>
-  <title>OanaIndrecan: Lab2-PLF</title>
-  <author>
-   <name>OanaIndrecan</name>
-  </author>
-  <link href="https://github.com/OanaIndrecan/Lab2-PLF" />
-  <id>urn:rprimus:github:OanaIndrecan:Lab2-PLF</id>
-  <published>2021-03-09T09:09:21Z</published>
-  <updated>2021-03-09T09:09:21Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>lambdamikel: OntoLisp</title>
-  <author>
-   <name>lambdamikel</name>
-  </author>
-  <link href="https://github.com/lambdamikel/OntoLisp" />
-  <id>urn:rprimus:github:lambdamikel:OntoLisp</id>
-  <published>2021-03-09T07:31:10Z</published>
-  <updated>2021-03-09T07:31:10Z</updated>
-  <content type="html">
-   A Common Lisp Framework for the Semantic Web
-  </content>
- </entry>
- <entry>
-  <title>lambdamikel: GenEd</title>
-  <author>
-   <name>lambdamikel</name>
-  </author>
-  <link href="https://github.com/lambdamikel/GenEd" />
-  <id>urn:rprimus:github:lambdamikel:GenEd</id>
-  <published>2021-03-09T07:26:25Z</published>
-  <updated>2021-03-09T07:26:25Z</updated>
-  <content type="html">
-   An Editor with Generic Semantics for Formal Reasoning About Visual Notations
-  </content>
- </entry>
- <entry>
-  <title>lambdamikel: Common-Lisp-Persistency-Manager</title>
-  <author>
-   <name>lambdamikel</name>
-  </author>
-  <link href="https://github.com/lambdamikel/Common-Lisp-Persistency-Manager" />
-  <id>urn:rprimus:github:lambdamikel:Common-Lisp-Persistency-Manager</id>
-  <published>2021-03-09T03:05:04Z</published>
-  <updated>2021-03-09T03:05:04Z</updated>
-  <content type="html">
-   A File-Based Fully Automatic Lisp Datastructure Serializer / Persistency Manager, Similar to &quot;Pickle&quot; for Python
   </content>
  </entry>
 </feed>
