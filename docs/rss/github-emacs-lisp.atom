@@ -2,8 +2,125 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2021-03-14T17:23:04Z</updated>
+<updated>2021-03-15T10:10:48Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>phikal: setup.el</title>
+  <author>
+   <name>phikal</name>
+  </author>
+  <link href="https://github.com/phikal/setup.el" />
+  <id>urn:rprimus:github:phikal:setup.el</id>
+  <published>2021-03-15T10:10:48Z</published>
+  <updated>2021-03-15T10:10:48Z</updated>
+  <content type="html">
+   [mirror] Helpful configuration macro
+  </content>
+ </entry>
+ <entry>
+  <title>JasonSKK: emacs-prelude-personal</title>
+  <author>
+   <name>JasonSKK</name>
+  </author>
+  <link href="https://github.com/JasonSKK/emacs-prelude-personal" />
+  <id>urn:rprimus:github:JasonSKK:emacs-prelude-personal</id>
+  <published>2021-03-15T09:28:36Z</published>
+  <updated>2021-03-15T09:28:36Z</updated>
+  <content type="html">
+   Emacs prelude personal configuration
+  </content>
+ </entry>
+ <entry>
+  <title>emacs-helm: helm-all-the-icons</title>
+  <author>
+   <name>emacs-helm</name>
+  </author>
+  <link href="https://github.com/emacs-helm/helm-all-the-icons" />
+  <id>urn:rprimus:github:emacs-helm:helm-all-the-icons</id>
+  <published>2021-03-15T09:06:49Z</published>
+  <updated>2021-03-15T09:06:49Z</updated>
+  <content type="html">
+   Browse icons from all-the-icons package
+  </content>
+ </entry>
+ <entry>
+  <title>onlywade: .doom.d</title>
+  <author>
+   <name>onlywade</name>
+  </author>
+  <link href="https://github.com/onlywade/.doom.d" />
+  <id>urn:rprimus:github:onlywade:.doom.d</id>
+  <published>2021-03-15T02:42:32Z</published>
+  <updated>2021-03-15T02:42:32Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>jcguu95: ts-attach</title>
+  <author>
+   <name>jcguu95</name>
+  </author>
+  <link href="https://github.com/jcguu95/ts-attach" />
+  <id>urn:rprimus:github:jcguu95:ts-attach</id>
+  <published>2021-03-15T01:49:34Z</published>
+  <updated>2021-03-15T01:49:34Z</updated>
+  <content type="html">
+   Attachment for timestamps
+  </content>
+ </entry>
+ <entry>
+  <title>lagoevia: doom-config</title>
+  <author>
+   <name>lagoevia</name>
+  </author>
+  <link href="https://github.com/lagoevia/doom-config" />
+  <id>urn:rprimus:github:lagoevia:doom-config</id>
+  <published>2021-03-14T23:57:17Z</published>
+  <updated>2021-03-14T23:57:17Z</updated>
+  <content type="html">
+   Emacs Doom configuration
+  </content>
+ </entry>
+ <entry>
+  <title>sahellebusch: .doom.d</title>
+  <author>
+   <name>sahellebusch</name>
+  </author>
+  <link href="https://github.com/sahellebusch/.doom.d" />
+  <id>urn:rprimus:github:sahellebusch:.doom.d</id>
+  <published>2021-03-14T21:00:11Z</published>
+  <updated>2021-03-14T21:00:11Z</updated>
+  <content type="html">
+   My doom emacs config.
+  </content>
+ </entry>
+ <entry>
+  <title>Luctins: luctins.cfg</title>
+  <author>
+   <name>Luctins</name>
+  </author>
+  <link href="https://github.com/Luctins/luctins.cfg" />
+  <id>urn:rprimus:github:Luctins:luctins.cfg</id>
+  <published>2021-03-14T18:46:01Z</published>
+  <updated>2021-03-14T18:46:01Z</updated>
+  <content type="html">
+   Curated Config Files for everything that I use
+  </content>
+ </entry>
+ <entry>
+  <title>danieljamesross: kintaro-mode</title>
+  <author>
+   <name>danieljamesross</name>
+  </author>
+  <link href="https://github.com/danieljamesross/kintaro-mode" />
+  <id>urn:rprimus:github:danieljamesross:kintaro-mode</id>
+  <published>2021-03-14T18:24:31Z</published>
+  <updated>2021-03-14T18:24:31Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>WouterSpekkink: dotfiles</title>
   <author>
@@ -135,6 +252,19 @@
   </content>
  </entry>
  <entry>
+  <title>jeremy-moore: dotfiles</title>
+  <author>
+   <name>jeremy-moore</name>
+  </author>
+  <link href="https://github.com/jeremy-moore/dotfiles" />
+  <id>urn:rprimus:github:jeremy-moore:dotfiles</id>
+  <published>2021-03-14T03:50:53Z</published>
+  <updated>2021-03-14T03:50:53Z</updated>
+  <content type="html">
+   My configuration files.
+  </content>
+ </entry>
+ <entry>
   <title>emacs-straight: setup</title>
   <author>
    <name>emacs-straight</name>
@@ -158,19 +288,6 @@
   <updated>2021-03-14T01:56:26Z</updated>
   <content type="html">
    Build my emacs configuration step by step
-  </content>
- </entry>
- <entry>
-  <title>jeremy-moore: .emacs.d</title>
-  <author>
-   <name>jeremy-moore</name>
-  </author>
-  <link href="https://github.com/jeremy-moore/.emacs.d" />
-  <id>urn:rprimus:github:jeremy-moore:.emacs.d</id>
-  <published>2021-03-14T00:20:10Z</published>
-  <updated>2021-03-14T00:20:10Z</updated>
-  <content type="html">
-   My Emacs configuration.
   </content>
  </entry>
  <entry>
@@ -392,292 +509,6 @@
   <updated>2021-03-13T00:36:22Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>michaelherold: ox-zola</title>
-  <author>
-   <name>michaelherold</name>
-  </author>
-  <link href="https://github.com/michaelherold/ox-zola" />
-  <id>urn:rprimus:github:michaelherold:ox-zola</id>
-  <published>2021-03-12T19:14:49Z</published>
-  <updated>2021-03-12T19:14:49Z</updated>
-  <content type="html">
-   An Org mode exporter for the Zola static site generator
-  </content>
- </entry>
- <entry>
-  <title>casouri: zeft</title>
-  <author>
-   <name>casouri</name>
-  </author>
-  <link href="https://github.com/casouri/zeft" />
-  <id>urn:rprimus:github:casouri:zeft</id>
-  <published>2021-03-12T19:05:05Z</published>
-  <updated>2021-03-12T19:05:05Z</updated>
-  <content type="html">
-   Yet another Deft
-  </content>
- </entry>
- <entry>
-  <title>boshane: dotfiles</title>
-  <author>
-   <name>boshane</name>
-  </author>
-  <link href="https://github.com/boshane/dotfiles" />
-  <id>urn:rprimus:github:boshane:dotfiles</id>
-  <published>2021-03-12T18:38:47Z</published>
-  <updated>2021-03-12T18:38:47Z</updated>
-  <content type="html">
-   My dotfiles
-  </content>
- </entry>
- <entry>
-  <title>chicken-contrib: svnwiki-mode</title>
-  <author>
-   <name>chicken-contrib</name>
-  </author>
-  <link href="https://github.com/chicken-contrib/svnwiki-mode" />
-  <id>urn:rprimus:github:chicken-contrib:svnwiki-mode</id>
-  <published>2021-03-12T18:34:55Z</published>
-  <updated>2021-03-12T18:34:55Z</updated>
-  <content type="html">
-   Emacs mode for svnwiki markup
-  </content>
- </entry>
- <entry>
-  <title>Jawabiscuit: .doom.d</title>
-  <author>
-   <name>Jawabiscuit</name>
-  </author>
-  <link href="https://github.com/Jawabiscuit/.doom.d" />
-  <id>urn:rprimus:github:Jawabiscuit:.doom.d</id>
-  <published>2021-03-12T18:13:52Z</published>
-  <updated>2021-03-12T18:13:52Z</updated>
-  <content type="html">
-   Doom emacs configuration
-  </content>
- </entry>
- <entry>
-  <title>arnfaldur: doom-config</title>
-  <author>
-   <name>arnfaldur</name>
-  </author>
-  <link href="https://github.com/arnfaldur/doom-config" />
-  <id>urn:rprimus:github:arnfaldur:doom-config</id>
-  <published>2021-03-12T17:54:58Z</published>
-  <updated>2021-03-12T17:54:58Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>vadingg: dotfil</title>
-  <author>
-   <name>vadingg</name>
-  </author>
-  <link href="https://github.com/vadingg/dotfil" />
-  <id>urn:rprimus:github:vadingg:dotfil</id>
-  <published>2021-03-12T17:01:52Z</published>
-  <updated>2021-03-12T17:01:52Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>488Ques: taomacs</title>
-  <author>
-   <name>488Ques</name>
-  </author>
-  <link href="https://github.com/488Ques/taomacs" />
-  <id>urn:rprimus:github:488Ques:taomacs</id>
-  <published>2021-03-12T16:35:36Z</published>
-  <updated>2021-03-12T16:35:36Z</updated>
-  <content type="html">
-   A personal Emacs configuration.
-  </content>
- </entry>
- <entry>
-  <title>cyertai: Doom-Config</title>
-  <author>
-   <name>cyertai</name>
-  </author>
-  <link href="https://github.com/cyertai/Doom-Config" />
-  <id>urn:rprimus:github:cyertai:Doom-Config</id>
-  <published>2021-03-12T16:19:41Z</published>
-  <updated>2021-03-12T16:19:41Z</updated>
-  <content type="html">
-   Doom emacs config on Asimov
-  </content>
- </entry>
- <entry>
-  <title>cyertai: Emacs-Config</title>
-  <author>
-   <name>cyertai</name>
-  </author>
-  <link href="https://github.com/cyertai/Emacs-Config" />
-  <id>urn:rprimus:github:cyertai:Emacs-Config</id>
-  <published>2021-03-12T16:17:54Z</published>
-  <updated>2021-03-12T16:17:54Z</updated>
-  <content type="html">
-   Emacs config on Asimov
-  </content>
- </entry>
- <entry>
-  <title>PJ-Finlay: pjmacs</title>
-  <author>
-   <name>PJ-Finlay</name>
-  </author>
-  <link href="https://github.com/PJ-Finlay/pjmacs" />
-  <id>urn:rprimus:github:PJ-Finlay:pjmacs</id>
-  <published>2021-03-12T13:23:50Z</published>
-  <updated>2021-03-12T13:23:50Z</updated>
-  <content type="html">
-   P.J.&#039;s Emacs config
-  </content>
- </entry>
- <entry>
-  <title>TuSouth: learn_emacs</title>
-  <author>
-   <name>TuSouth</name>
-  </author>
-  <link href="https://github.com/TuSouth/learn_emacs" />
-  <id>urn:rprimus:github:TuSouth:learn_emacs</id>
-  <published>2021-03-12T10:30:06Z</published>
-  <updated>2021-03-12T10:30:06Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>lmissou: emacs</title>
-  <author>
-   <name>lmissou</name>
-  </author>
-  <link href="https://github.com/lmissou/emacs" />
-  <id>urn:rprimus:github:lmissou:emacs</id>
-  <published>2021-03-12T09:39:40Z</published>
-  <updated>2021-03-12T09:39:40Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ksladowski: dotfiles</title>
-  <author>
-   <name>ksladowski</name>
-  </author>
-  <link href="https://github.com/ksladowski/dotfiles" />
-  <id>urn:rprimus:github:ksladowski:dotfiles</id>
-  <published>2021-03-12T05:41:15Z</published>
-  <updated>2021-03-12T05:41:15Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>beacoder: org-searcher</title>
-  <author>
-   <name>beacoder</name>
-  </author>
-  <link href="https://github.com/beacoder/org-searcher" />
-  <id>urn:rprimus:github:beacoder:org-searcher</id>
-  <published>2021-03-12T04:49:24Z</published>
-  <updated>2021-03-12T04:49:24Z</updated>
-  <content type="html">
-   Incremental org-search-view
-  </content>
- </entry>
- <entry>
-  <title>GongYiLiao: anchor-theme-buffer-local</title>
-  <author>
-   <name>GongYiLiao</name>
-  </author>
-  <link href="https://github.com/GongYiLiao/anchor-theme-buffer-local" />
-  <id>urn:rprimus:github:GongYiLiao:anchor-theme-buffer-local</id>
-  <published>2021-03-12T04:40:53Z</published>
-  <updated>2021-03-12T04:40:53Z</updated>
-  <content type="html">
-   Apply a custom theme to current Emacs buffer only
-  </content>
- </entry>
- <entry>
-  <title>dgaur: dot-config-files</title>
-  <author>
-   <name>dgaur</name>
-  </author>
-  <link href="https://github.com/dgaur/dot-config-files" />
-  <id>urn:rprimus:github:dgaur:dot-config-files</id>
-  <published>2021-03-12T04:17:01Z</published>
-  <updated>2021-03-12T04:17:01Z</updated>
-  <content type="html">
-   Personal dot-config files
-  </content>
- </entry>
- <entry>
-  <title>rjpower4: emacs</title>
-  <author>
-   <name>rjpower4</name>
-  </author>
-  <link href="https://github.com/rjpower4/emacs" />
-  <id>urn:rprimus:github:rjpower4:emacs</id>
-  <published>2021-03-12T04:06:10Z</published>
-  <updated>2021-03-12T04:06:10Z</updated>
-  <content type="html">
-   emacs configuration
-  </content>
- </entry>
- <entry>
-  <title>benlandrum: emacs-configuration</title>
-  <author>
-   <name>benlandrum</name>
-  </author>
-  <link href="https://github.com/benlandrum/emacs-configuration" />
-  <id>urn:rprimus:github:benlandrum:emacs-configuration</id>
-  <published>2021-03-12T03:57:53Z</published>
-  <updated>2021-03-12T03:57:53Z</updated>
-  <content type="html">
-   Personal Emacs configuration
-  </content>
- </entry>
- <entry>
-  <title>foresight0246: dot-emacs</title>
-  <author>
-   <name>foresight0246</name>
-  </author>
-  <link href="https://github.com/foresight0246/dot-emacs" />
-  <id>urn:rprimus:github:foresight0246:dot-emacs</id>
-  <published>2021-03-12T03:33:07Z</published>
-  <updated>2021-03-12T03:33:07Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>frap: clj-bash-emacs-config</title>
-  <author>
-   <name>frap</name>
-  </author>
-  <link href="https://github.com/frap/clj-bash-emacs-config" />
-  <id>urn:rprimus:github:frap:clj-bash-emacs-config</id>
-  <published>2021-03-12T02:18:03Z</published>
-  <updated>2021-03-12T02:18:03Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Diphia: emacs-yaml-tools</title>
-  <author>
-   <name>Diphia</name>
-  </author>
-  <link href="https://github.com/Diphia/emacs-yaml-tools" />
-  <id>urn:rprimus:github:Diphia:emacs-yaml-tools</id>
-  <published>2021-03-12T01:59:28Z</published>
-  <updated>2021-03-12T01:59:28Z</updated>
-  <content type="html">
-   Tools for editing YAML in Emacs
   </content>
  </entry>
 </feed>
