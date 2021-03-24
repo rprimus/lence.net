@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-go.atom"/>
 <id>urn:rprimus:github:newgorepos</id>
-<updated>2021-03-24T08:53:19Z</updated>
+<updated>2021-03-24T11:57:35Z</updated>
 <title type='text'>New GitHub Go Repos</title>
+ <entry>
+  <title>YOUNIZAI: kubernetes</title>
+  <author>
+   <name>YOUNIZAI</name>
+  </author>
+  <link href="https://github.com/YOUNIZAI/kubernetes" />
+  <id>urn:rprimus:github:YOUNIZAI:kubernetes</id>
+  <published>2021-03-24T11:57:35Z</published>
+  <updated>2021-03-24T11:57:35Z</updated>
+  <content type="html">
+   docker &amp; kubernetes
+  </content>
+ </entry>
+ <entry>
+  <title>Ebaneck: introduction_to_go</title>
+  <author>
+   <name>Ebaneck</name>
+  </author>
+  <link href="https://github.com/Ebaneck/introduction_to_go" />
+  <id>urn:rprimus:github:Ebaneck:introduction_to_go</id>
+  <published>2021-03-24T10:49:39Z</published>
+  <updated>2021-03-24T10:49:39Z</updated>
+  <content type="html">
+   Learning golang from scratch
+  </content>
+ </entry>
+ <entry>
+  <title>ananyap: myname</title>
+  <author>
+   <name>ananyap</name>
+  </author>
+  <link href="https://github.com/ananyap/myname" />
+  <id>urn:rprimus:github:ananyap:myname</id>
+  <published>2021-03-24T10:47:32Z</published>
+  <updated>2021-03-24T10:47:32Z</updated>
+  <content type="html">
+   oracle of name
+  </content>
+ </entry>
  <entry>
   <title>hr3685930: apiclient</title>
   <author>
@@ -200,19 +239,6 @@
   </content>
  </entry>
  <entry>
-  <title>gamingbeast36: uniqsucks</title>
-  <author>
-   <name>gamingbeast36</name>
-  </author>
-  <link href="https://github.com/gamingbeast36/uniqsucks" />
-  <id>urn:rprimus:github:gamingbeast36:uniqsucks</id>
-  <published>2021-03-24T04:29:38Z</published>
-  <updated>2021-03-24T04:29:38Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
   <title>reetasingh: wasm-go-filter-header-check</title>
   <author>
    <name>reetasingh</name>
@@ -239,14 +265,14 @@
   </content>
  </entry>
  <entry>
-  <title>lichuan0620: playground</title>
+  <title>duancaz: golang-learning</title>
   <author>
-   <name>lichuan0620</name>
+   <name>duancaz</name>
   </author>
-  <link href="https://github.com/lichuan0620/playground" />
-  <id>urn:rprimus:github:lichuan0620:playground</id>
-  <published>2021-03-24T02:41:03Z</published>
-  <updated>2021-03-24T02:41:03Z</updated>
+  <link href="https://github.com/duancaz/golang-learning" />
+  <id>urn:rprimus:github:duancaz:golang-learning</id>
+  <published>2021-03-24T03:15:34Z</published>
+  <updated>2021-03-24T03:15:34Z</updated>
   <content type="html">
    
   </content>
@@ -317,19 +343,6 @@
   </content>
  </entry>
  <entry>
-  <title>tiero: zion</title>
-  <author>
-   <name>tiero</name>
-  </author>
-  <link href="https://github.com/tiero/zion" />
-  <id>urn:rprimus:github:tiero:zion</id>
-  <published>2021-03-24T01:02:35Z</published>
-  <updated>2021-03-24T01:02:35Z</updated>
-  <content type="html">
-   Escape the matrix
-  </content>
- </entry>
- <entry>
   <title>BigFishC: gfm</title>
   <author>
    <name>BigFishC</name>
@@ -366,19 +379,6 @@
   <updated>2021-03-24T00:37:02Z</updated>
   <content type="html">
    code snippets to understand Go syntax and concepts
-  </content>
- </entry>
- <entry>
-  <title>sno6: gate-god</title>
-  <author>
-   <name>sno6</name>
-  </author>
-  <link href="https://github.com/sno6/gate-god" />
-  <id>urn:rprimus:github:sno6:gate-god</id>
-  <published>2021-03-24T00:29:37Z</published>
-  <updated>2021-03-24T00:29:37Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
  <entry>
@@ -421,6 +421,19 @@
   </content>
  </entry>
  <entry>
+  <title>st3fan: bcrypt_pbkdf</title>
+  <author>
+   <name>st3fan</name>
+  </author>
+  <link href="https://github.com/st3fan/bcrypt_pbkdf" />
+  <id>urn:rprimus:github:st3fan:bcrypt_pbkdf</id>
+  <published>2021-03-23T20:21:19Z</published>
+  <updated>2021-03-23T20:21:19Z</updated>
+  <content type="html">
+   Package bcrypt_pbkdf implements bcrypt_pbkdf(3) from OpenBSD.
+  </content>
+ </entry>
+ <entry>
   <title>dokku: omakase</title>
   <author>
    <name>dokku</name>
@@ -455,19 +468,6 @@
   <id>urn:rprimus:github:ercJuL:goblog</id>
   <published>2021-03-23T15:02:31Z</published>
   <updated>2021-03-23T15:02:31Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>manfontan: forTheLoveOfGoData</title>
-  <author>
-   <name>manfontan</name>
-  </author>
-  <link href="https://github.com/manfontan/forTheLoveOfGoData" />
-  <id>urn:rprimus:github:manfontan:forTheLoveOfGoData</id>
-  <published>2021-03-23T14:15:08Z</published>
-  <updated>2021-03-23T14:15:08Z</updated>
   <content type="html">
    
   </content>
