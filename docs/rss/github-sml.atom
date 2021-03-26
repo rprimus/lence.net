@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-sml.atom"/>
 <id>urn:rprimus:github:newsmlrepos</id>
-<updated>2021-03-24T17:52:15Z</updated>
+<updated>2021-03-25T22:56:06Z</updated>
 <title type='text'>New GitHub Sml Repos</title>
+ <entry>
+  <title>marcolucc: linguaggi</title>
+  <author>
+   <name>marcolucc</name>
+  </author>
+  <link href="https://github.com/marcolucc/linguaggi" />
+  <id>urn:rprimus:github:marcolucc:linguaggi</id>
+  <published>2021-03-25T22:56:06Z</published>
+  <updated>2021-03-25T22:56:06Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>betelgeuse-7: recursions-lists-standard-ml</title>
+  <author>
+   <name>betelgeuse-7</name>
+  </author>
+  <link href="https://github.com/betelgeuse-7/recursions-lists-standard-ml" />
+  <id>urn:rprimus:github:betelgeuse-7:recursions-lists-standard-ml</id>
+  <published>2021-03-25T15:18:44Z</published>
+  <updated>2021-03-25T15:18:44Z</updated>
+  <content type="html">
+   a few recursive functions in standard ml
+  </content>
+ </entry>
  <entry>
   <title>jimk0099: ProgrammingLanguages1</title>
   <author>
@@ -41,84 +67,6 @@
   <updated>2021-03-24T14:42:17Z</updated>
   <content type="html">
    Homework from Programming Languages Courses
-  </content>
- </entry>
- <entry>
-  <title>bitcoinil: signatures</title>
-  <author>
-   <name>bitcoinil</name>
-  </author>
-  <link href="https://github.com/bitcoinil/signatures" />
-  <id>urn:rprimus:github:bitcoinil:signatures</id>
-  <published>2021-03-23T21:03:08Z</published>
-  <updated>2021-03-23T21:03:08Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Khanzadeh-AH: sorting_algorithms_SML</title>
-  <author>
-   <name>Khanzadeh-AH</name>
-  </author>
-  <link href="https://github.com/Khanzadeh-AH/sorting_algorithms_SML" />
-  <id>urn:rprimus:github:Khanzadeh-AH:sorting_algorithms_SML</id>
-  <published>2021-03-23T15:29:23Z</published>
-  <updated>2021-03-23T15:29:23Z</updated>
-  <content type="html">
-   sorting algorithms written in standard ML (smlnj)
-  </content>
- </entry>
- <entry>
-  <title>EVLS-Practices: course-code-pl-a</title>
-  <author>
-   <name>EVLS-Practices</name>
-  </author>
-  <link href="https://github.com/EVLS-Practices/course-code-pl-a" />
-  <id>urn:rprimus:github:EVLS-Practices:course-code-pl-a</id>
-  <published>2021-03-23T06:08:08Z</published>
-  <updated>2021-03-23T06:08:08Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>gnoori: sml3</title>
-  <author>
-   <name>gnoori</name>
-  </author>
-  <link href="https://github.com/gnoori/sml3" />
-  <id>urn:rprimus:github:gnoori:sml3</id>
-  <published>2021-03-23T04:35:09Z</published>
-  <updated>2021-03-23T04:35:09Z</updated>
-  <content type="html">
-   ProblemThe goal of this lab is to implement a binary search tree and operations on it in ML. We define abinary search tree as empty, or as node of two binary search trees (representing the left and rightsubtree, respectively) and two integers (representing the stored key-value pair). In ML, we implementthis as follows.(* left subtree, right subtree, key, value *)datatype BST = Empty | Node of BST * BST * int * int;You are given a filebst.sml(which you can download on canvas). It contains the definition of the typeBSTshown above, a functionparsePostparsing a tree, and some example trees (given as postorder).The functionparsePostexpects a list of tuples representing the postorder of a tree. Each tuplerepresents a single node and contains of three integers. The first indicates the children of the node:0means no children,1means a left child,2means a right child, and3means a left and right child.The other two integers are respectively the key and values of the node.Part 1Implement the following basic operations for a binary search tree.âinsert(bst, key, value)of typeBST * int * int -&gt; BST. Inserts a key-value pair into agiven tree and returns the resulting tree. Note that each key is unique. Thus, inserting an existingkey results in overwriting of the existing value in the corresponding node.âfind(bst, key)of typeBST * int -&gt; int list. Searches for a node with the given key.Returns a list containing the corresponding value if such a node exists, or returns an empty listotherwise.âdelete(bst, key)of typeBST * int -&gt; BST. Deletes the node with the given key from thegiven tree and returns the resulting tree. If no such node exists, it returns the unchanged tree.âpostorder(bst)of typeBST -&gt; (int * int * int) list. Returns a postorder of the giventree in the format described above.Part 2Implement a functionsubtree(bst, minKey, maxKey)of typeBST * int * int -&gt; BSTThefunction trims the given tree such that all the keys in the new tree are betweenminKeyandmaxKey(inclusive), i. e., remove all other nodes. The resulting tree still has to be a valid binary search tree.
-  </content>
- </entry>
- <entry>
-  <title>gnoori: sml2</title>
-  <author>
-   <name>gnoori</name>
-  </author>
-  <link href="https://github.com/gnoori/sml2" />
-  <id>urn:rprimus:github:gnoori:sml2</id>
-  <published>2021-03-23T04:34:16Z</published>
-  <updated>2021-03-23T04:34:16Z</updated>
-  <content type="html">
-   ProblemThe goal of this lab is to implement quicksort in SML. The idea of quicksort was to pick a pivotelementp, partition the input in elements smaller thanpand elements larger thanp, and thenrecursively sort both parts.As pivot element, we will pick the median of the first, the middle, and the last element in a given list.To implement quicksort, implement the following functions.âA functionlast(lst)of type&#039;a list -&gt;&#039;awhich returns the last element of a given list.âA functionmiddle(lst)of type&#039;a list -&gt;&#039;awhich returns the middle element of a givenlist. Hint: One way implement this functions is to create a helper function which recursively callitself with one list reduced by one item and the other reduced by two item until the smaller list isempty.âA functionmedian(a, b, c)of typeint * int * int -&gt; intwhich returns the medianof the given three elements.âA functionpartition(lst, p)of typeint list * int -&gt; int list * int listwhichpartitions the given list into a list containing all elements smaller than or equal topand a listcontaining all elements larger thanp.âA functionquicksort(lst)of typeint list -&gt; int listwhich sorts a given list usingquicksort and a pivot element as defined above.Do not use any pre-implemented functions of the formList.xyz(...).
-  </content>
- </entry>
- <entry>
-  <title>gnoori: sml1</title>
-  <author>
-   <name>gnoori</name>
-  </author>
-  <link href="https://github.com/gnoori/sml1" />
-  <id>urn:rprimus:github:gnoori:sml1</id>
-  <published>2021-03-23T04:33:12Z</published>
-  <updated>2021-03-23T04:33:12Z</updated>
-  <content type="html">
-   ProblemsâWrite a functionmakeLstof typeint -&gt; int listthat takes as input a positive integernandreturns the list[1, 2, ..., n]. Your function does not need to work with non-positive integer.âWrite a functionremoveMultof typeint list * int -&gt; int listthat removes all multiplesof a given integer from a list.âWrite a functionprimesof typeint -&gt; int listthat outputs a list of all prime numbers whichare smaller than or equal to a given integern &gt;2. You should use the sieve of Eratosthenes1andpreviously defined functions to calculate these numbers.Do not use any pre-implemented functions of the formList.xyz(...).
   </content>
  </entry>
 </feed>

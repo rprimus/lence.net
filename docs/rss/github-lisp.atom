@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-03-25T06:47:52Z</updated>
+<updated>2021-03-26T09:32:14Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>FlorSanders: app-dinnerplan</title>
+  <author>
+   <name>FlorSanders</name>
+  </author>
+  <link href="https://github.com/FlorSanders/app-dinnerplan" />
+  <id>urn:rprimus:github:FlorSanders:app-dinnerplan</id>
+  <published>2021-03-26T09:32:14Z</published>
+  <updated>2021-03-26T09:32:14Z</updated>
+  <content type="html">
+    Semantic.works based backend for recipe collection (example) application
+  </content>
+ </entry>
+ <entry>
+  <title>cl-doc-systems: litterae</title>
+  <author>
+   <name>cl-doc-systems</name>
+  </author>
+  <link href="https://github.com/cl-doc-systems/litterae" />
+  <id>urn:rprimus:github:cl-doc-systems:litterae</id>
+  <published>2021-03-25T21:36:13Z</published>
+  <updated>2021-03-25T21:36:13Z</updated>
+  <content type="html">
+   An example of use Litterae Common Lisp documentation builder.
+  </content>
+ </entry>
+ <entry>
+  <title>informatimago: test-client-server</title>
+  <author>
+   <name>informatimago</name>
+  </author>
+  <link href="https://github.com/informatimago/test-client-server" />
+  <id>urn:rprimus:github:informatimago:test-client-server</id>
+  <published>2021-03-25T17:55:26Z</published>
+  <updated>2021-03-25T17:55:26Z</updated>
+  <content type="html">
+   A little client-server test using usockets.
+  </content>
+ </entry>
+ <entry>
+  <title>wli75: sexp</title>
+  <author>
+   <name>wli75</name>
+  </author>
+  <link href="https://github.com/wli75/sexp" />
+  <id>urn:rprimus:github:wli75:sexp</id>
+  <published>2021-03-25T14:42:51Z</published>
+  <updated>2021-03-25T14:42:51Z</updated>
+  <content type="html">
+   Ocaml sexp language extension for vscode
+  </content>
+ </entry>
+ <entry>
+  <title>fitzsim: cl-starter-script</title>
+  <author>
+   <name>fitzsim</name>
+  </author>
+  <link href="https://github.com/fitzsim/cl-starter-script" />
+  <id>urn:rprimus:github:fitzsim:cl-starter-script</id>
+  <published>2021-03-25T13:59:43Z</published>
+  <updated>2021-03-25T13:59:43Z</updated>
+  <content type="html">
+   Mirror of sourcehut repo https://git.sr.ht/~fitzsim/cl-starter-script
+  </content>
+ </entry>
+ <entry>
+  <title>atlas-engineer: nx-ace</title>
+  <author>
+   <name>atlas-engineer</name>
+  </author>
+  <link href="https://github.com/atlas-engineer/nx-ace" />
+  <id>urn:rprimus:github:atlas-engineer:nx-ace</id>
+  <published>2021-03-25T12:12:54Z</published>
+  <updated>2021-03-25T12:12:54Z</updated>
+  <content type="html">
+   nx-ace is an editor for Nyxt.
+  </content>
+ </entry>
  <entry>
   <title>ralph-schleicher: codata-recommended-values</title>
   <author>
@@ -314,84 +392,6 @@
   <updated>2021-03-24T01:51:40Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>JulienVincenot: PWGL-community-library</title>
-  <author>
-   <name>JulienVincenot</name>
-  </author>
-  <link href="https://github.com/JulienVincenot/PWGL-community-library" />
-  <id>urn:rprimus:github:JulienVincenot:PWGL-community-library</id>
-  <published>2021-03-23T19:28:21Z</published>
-  <updated>2021-03-23T19:28:21Z</updated>
-  <content type="html">
-   This is dedicated to salvage all of known user-libraries created for the late PWGL environment. See discussions on the PWGL Community group on Facebook : https://www.facebook.com/groups/1483562488547186
-  </content>
- </entry>
- <entry>
-  <title>mak08: makros</title>
-  <author>
-   <name>mak08</name>
-  </author>
-  <link href="https://github.com/mak08/makros" />
-  <id>urn:rprimus:github:mak08:makros</id>
-  <published>2021-03-23T17:06:48Z</published>
-  <updated>2021-03-23T17:06:48Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>lu-make: hello-world</title>
-  <author>
-   <name>lu-make</name>
-  </author>
-  <link href="https://github.com/lu-make/hello-world" />
-  <id>urn:rprimus:github:lu-make:hello-world</id>
-  <published>2021-03-23T13:39:24Z</published>
-  <updated>2021-03-23T13:39:24Z</updated>
-  <content type="html">
-   CLISP Zeug
-  </content>
- </entry>
- <entry>
-  <title>eXodiquas: chatpond</title>
-  <author>
-   <name>eXodiquas</name>
-  </author>
-  <link href="https://github.com/eXodiquas/chatpond" />
-  <id>urn:rprimus:github:eXodiquas:chatpond</id>
-  <published>2021-03-23T11:40:25Z</published>
-  <updated>2021-03-23T11:40:25Z</updated>
-  <content type="html">
-   An evolution game with connection to Twitch chat. 
-  </content>
- </entry>
- <entry>
-  <title>ilovecherries: imageboard-2</title>
-  <author>
-   <name>ilovecherries</name>
-  </author>
-  <link href="https://github.com/ilovecherries/imageboard-2" />
-  <id>urn:rprimus:github:ilovecherries:imageboard-2</id>
-  <published>2021-03-23T00:48:46Z</published>
-  <updated>2021-03-23T00:48:46Z</updated>
-  <content type="html">
-   imageboard made in common lisp
-  </content>
- </entry>
- <entry>
-  <title>vitordutra: lisp-studies</title>
-  <author>
-   <name>vitordutra</name>
-  </author>
-  <link href="https://github.com/vitordutra/lisp-studies" />
-  <id>urn:rprimus:github:vitordutra:lisp-studies</id>
-  <published>2021-03-23T00:07:47Z</published>
-  <updated>2021-03-23T00:07:47Z</updated>
-  <content type="html">
-   A repository for my Common Lisp studies. It contains some problem solving exercises involving this functional language
   </content>
  </entry>
 </feed>
