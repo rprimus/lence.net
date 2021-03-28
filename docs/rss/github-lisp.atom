@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-03-26T22:19:34Z</updated>
+<updated>2021-03-28T03:12:29Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>soulwa: mtg-tm</title>
+  <author>
+   <name>soulwa</name>
+  </author>
+  <link href="https://github.com/soulwa/mtg-tm" />
+  <id>urn:rprimus:github:soulwa:mtg-tm</id>
+  <published>2021-03-28T03:12:29Z</published>
+  <updated>2021-03-28T03:12:29Z</updated>
+  <content type="html">
+   proof of magic the gathering turing completeness
+  </content>
+ </entry>
+ <entry>
+  <title>s-clerc: slyblime-test-repo-do-not-use</title>
+  <author>
+   <name>s-clerc</name>
+  </author>
+  <link href="https://github.com/s-clerc/slyblime-test-repo-do-not-use" />
+  <id>urn:rprimus:github:s-clerc:slyblime-test-repo-do-not-use</id>
+  <published>2021-03-27T18:54:31Z</published>
+  <updated>2021-03-27T18:54:31Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>TheSingingFox: corona-oberberg</title>
+  <author>
+   <name>TheSingingFox</name>
+  </author>
+  <link href="https://github.com/TheSingingFox/corona-oberberg" />
+  <id>urn:rprimus:github:TheSingingFox:corona-oberberg</id>
+  <published>2021-03-27T17:32:44Z</published>
+  <updated>2021-03-27T17:32:44Z</updated>
+  <content type="html">
+   RKI Statistiken fÃ¼r den Oberbergischen Kreis, aufbereitet.
+  </content>
+ </entry>
  <entry>
   <title>eihli: acclaim</title>
   <author>
@@ -41,240 +80,6 @@
   <updated>2021-03-26T09:32:14Z</updated>
   <content type="html">
     Semantic.works based backend for recipe collection (example) application
-  </content>
- </entry>
- <entry>
-  <title>cl-doc-systems: litterae</title>
-  <author>
-   <name>cl-doc-systems</name>
-  </author>
-  <link href="https://github.com/cl-doc-systems/litterae" />
-  <id>urn:rprimus:github:cl-doc-systems:litterae</id>
-  <published>2021-03-25T21:36:13Z</published>
-  <updated>2021-03-25T21:36:13Z</updated>
-  <content type="html">
-   An example of use Litterae Common Lisp documentation builder.
-  </content>
- </entry>
- <entry>
-  <title>informatimago: test-client-server</title>
-  <author>
-   <name>informatimago</name>
-  </author>
-  <link href="https://github.com/informatimago/test-client-server" />
-  <id>urn:rprimus:github:informatimago:test-client-server</id>
-  <published>2021-03-25T17:55:26Z</published>
-  <updated>2021-03-25T17:55:26Z</updated>
-  <content type="html">
-   A little client-server test using usockets.
-  </content>
- </entry>
- <entry>
-  <title>wli75: sexp</title>
-  <author>
-   <name>wli75</name>
-  </author>
-  <link href="https://github.com/wli75/sexp" />
-  <id>urn:rprimus:github:wli75:sexp</id>
-  <published>2021-03-25T14:42:51Z</published>
-  <updated>2021-03-25T14:42:51Z</updated>
-  <content type="html">
-   Ocaml sexp language extension for vscode
-  </content>
- </entry>
- <entry>
-  <title>fitzsim: cl-starter-script</title>
-  <author>
-   <name>fitzsim</name>
-  </author>
-  <link href="https://github.com/fitzsim/cl-starter-script" />
-  <id>urn:rprimus:github:fitzsim:cl-starter-script</id>
-  <published>2021-03-25T13:59:43Z</published>
-  <updated>2021-03-25T13:59:43Z</updated>
-  <content type="html">
-   Mirror of sourcehut repo https://git.sr.ht/~fitzsim/cl-starter-script
-  </content>
- </entry>
- <entry>
-  <title>atlas-engineer: nx-ace</title>
-  <author>
-   <name>atlas-engineer</name>
-  </author>
-  <link href="https://github.com/atlas-engineer/nx-ace" />
-  <id>urn:rprimus:github:atlas-engineer:nx-ace</id>
-  <published>2021-03-25T12:12:54Z</published>
-  <updated>2021-03-25T12:12:54Z</updated>
-  <content type="html">
-   nx-ace is an editor for Nyxt.
-  </content>
- </entry>
- <entry>
-  <title>ralph-schleicher: codata-recommended-values</title>
-  <author>
-   <name>ralph-schleicher</name>
-  </author>
-  <link href="https://github.com/ralph-schleicher/codata-recommended-values" />
-  <id>urn:rprimus:github:ralph-schleicher:codata-recommended-values</id>
-  <published>2021-03-25T06:47:52Z</published>
-  <updated>2021-03-25T06:47:52Z</updated>
-  <content type="html">
-   CODATA recommended values of physical constants for Common Lisp.
-  </content>
- </entry>
- <entry>
-  <title>ralph-schleicher: closer-float</title>
-  <author>
-   <name>ralph-schleicher</name>
-  </author>
-  <link href="https://github.com/ralph-schleicher/closer-float" />
-  <id>urn:rprimus:github:ralph-schleicher:closer-float</id>
-  <published>2021-03-25T06:45:34Z</published>
-  <updated>2021-03-25T06:45:34Z</updated>
-  <content type="html">
-   Closer to floating-point arithmetic.
-  </content>
- </entry>
- <entry>
-  <title>ralph-schleicher: atmosphere-calculator</title>
-  <author>
-   <name>ralph-schleicher</name>
-  </author>
-  <link href="https://github.com/ralph-schleicher/atmosphere-calculator" />
-  <id>urn:rprimus:github:ralph-schleicher:atmosphere-calculator</id>
-  <published>2021-03-25T06:42:58Z</published>
-  <updated>2021-03-25T06:42:58Z</updated>
-  <content type="html">
-   Calculate ambient conditions and air speeds.
-  </content>
- </entry>
- <entry>
-  <title>landakram: stumpwm-prescient</title>
-  <author>
-   <name>landakram</name>
-  </author>
-  <link href="https://github.com/landakram/stumpwm-prescient" />
-  <id>urn:rprimus:github:landakram:stumpwm-prescient</id>
-  <published>2021-03-25T06:08:27Z</published>
-  <updated>2021-03-25T06:08:27Z</updated>
-  <content type="html">
-   Prescient for stumpwm. Simple but effective sorting and filtering for stumpwm inputs.
-  </content>
- </entry>
- <entry>
-  <title>mvttchan: cs161</title>
-  <author>
-   <name>mvttchan</name>
-  </author>
-  <link href="https://github.com/mvttchan/cs161" />
-  <id>urn:rprimus:github:mvttchan:cs161</id>
-  <published>2021-03-25T05:55:18Z</published>
-  <updated>2021-03-25T05:55:18Z</updated>
-  <content type="html">
-   UCLA CS161 Winter 2021 Quanquan Gu
-  </content>
- </entry>
- <entry>
-  <title>ZM22: SLP</title>
-  <author>
-   <name>ZM22</name>
-  </author>
-  <link href="https://github.com/ZM22/SLP" />
-  <id>urn:rprimus:github:ZM22:SLP</id>
-  <published>2021-03-25T05:48:20Z</published>
-  <updated>2021-03-25T05:48:20Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>kristinaovc: SLP</title>
-  <author>
-   <name>kristinaovc</name>
-  </author>
-  <link href="https://github.com/kristinaovc/SLP" />
-  <id>urn:rprimus:github:kristinaovc:SLP</id>
-  <published>2021-03-25T05:33:57Z</published>
-  <updated>2021-03-25T05:33:57Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jelupre: LISP</title>
-  <author>
-   <name>jelupre</name>
-  </author>
-  <link href="https://github.com/jelupre/LISP" />
-  <id>urn:rprimus:github:jelupre:LISP</id>
-  <published>2021-03-25T05:31:53Z</published>
-  <updated>2021-03-25T05:31:53Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>KlochkovVLAD: Lisp</title>
-  <author>
-   <name>KlochkovVLAD</name>
-  </author>
-  <link href="https://github.com/KlochkovVLAD/Lisp" />
-  <id>urn:rprimus:github:KlochkovVLAD:Lisp</id>
-  <published>2021-03-25T05:27:40Z</published>
-  <updated>2021-03-25T05:27:40Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>NiyazovEnver: SLP</title>
-  <author>
-   <name>NiyazovEnver</name>
-  </author>
-  <link href="https://github.com/NiyazovEnver/SLP" />
-  <id>urn:rprimus:github:NiyazovEnver:SLP</id>
-  <published>2021-03-25T05:22:37Z</published>
-  <updated>2021-03-25T05:22:37Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>KingVova07: LISP</title>
-  <author>
-   <name>KingVova07</name>
-  </author>
-  <link href="https://github.com/KingVova07/LISP" />
-  <id>urn:rprimus:github:KingVova07:LISP</id>
-  <published>2021-03-25T05:18:17Z</published>
-  <updated>2021-03-25T05:18:17Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>prometheus56: shikhtasi-arki</title>
-  <author>
-   <name>prometheus56</name>
-  </author>
-  <link href="https://github.com/prometheus56/shikhtasi-arki" />
-  <id>urn:rprimus:github:prometheus56:shikhtasi-arki</id>
-  <published>2021-03-25T02:00:58Z</published>
-  <updated>2021-03-25T02:00:58Z</updated>
-  <content type="html">
-   ayejage ami github ar git use kora shikhtase
-  </content>
- </entry>
- <entry>
-  <title>Unuseptiy: lispoWOW</title>
-  <author>
-   <name>Unuseptiy</name>
-  </author>
-  <link href="https://github.com/Unuseptiy/lispoWOW" />
-  <id>urn:rprimus:github:Unuseptiy:lispoWOW</id>
-  <published>2021-03-25T00:57:28Z</published>
-  <updated>2021-03-25T00:57:28Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
