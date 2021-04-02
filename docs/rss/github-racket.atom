@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-racket.atom"/>
 <id>urn:rprimus:github:newracketrepos</id>
-<updated>2021-03-31T23:45:15Z</updated>
+<updated>2021-04-02T07:30:12Z</updated>
 <title type='text'>New GitHub Racket Repos</title>
+ <entry>
+  <title>faradawn: cs151-racket-programming</title>
+  <author>
+   <name>faradawn</name>
+  </author>
+  <link href="https://github.com/faradawn/cs151-racket-programming" />
+  <id>urn:rprimus:github:faradawn:cs151-racket-programming</id>
+  <published>2021-04-02T07:30:12Z</published>
+  <updated>2021-04-02T07:30:12Z</updated>
+  <content type="html">
+   Notes on functional programming with Racket.
+  </content>
+ </entry>
+ <entry>
+  <title>Karinahrens: Hang_man_game_Scheme</title>
+  <author>
+   <name>Karinahrens</name>
+  </author>
+  <link href="https://github.com/Karinahrens/Hang_man_game_Scheme" />
+  <id>urn:rprimus:github:Karinahrens:Hang_man_game_Scheme</id>
+  <published>2021-04-01T18:04:14Z</published>
+  <updated>2021-04-01T18:04:14Z</updated>
+  <content type="html">
+   Simple Hangman game to use on Dr. Racket
+  </content>
+ </entry>
+ <entry>
+  <title>kit-wang: WhatIsAllTheRacketAbout</title>
+  <author>
+   <name>kit-wang</name>
+  </author>
+  <link href="https://github.com/kit-wang/WhatIsAllTheRacketAbout" />
+  <id>urn:rprimus:github:kit-wang:WhatIsAllTheRacketAbout</id>
+  <published>2021-04-01T16:39:35Z</published>
+  <updated>2021-04-01T16:39:35Z</updated>
+  <content type="html">
+   Short Racket problems designed as an engaging exam
+  </content>
+ </entry>
+ <entry>
+  <title>dstorrs: value-evt</title>
+  <author>
+   <name>dstorrs</name>
+  </author>
+  <link href="https://github.com/dstorrs/value-evt" />
+  <id>urn:rprimus:github:dstorrs:value-evt</id>
+  <published>2021-04-01T15:39:53Z</published>
+  <updated>2021-04-01T15:39:53Z</updated>
+  <content type="html">
+   A Racket library that lets you turn any value into a synchronizable event
+  </content>
+ </entry>
  <entry>
   <title>RadLidia: Higher-Order-Functions</title>
   <author>
@@ -80,71 +132,6 @@
   <updated>2021-03-31T00:23:19Z</updated>
   <content type="html">
    Software Design for Flexibility book work
-  </content>
- </entry>
- <entry>
-  <title>n-young: dpll-forge</title>
-  <author>
-   <name>n-young</name>
-  </author>
-  <link href="https://github.com/n-young/dpll-forge" />
-  <id>urn:rprimus:github:n-young:dpll-forge</id>
-  <published>2021-03-30T23:05:51Z</published>
-  <updated>2021-03-30T23:05:51Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>JustinPrivitera: ATP2</title>
-  <author>
-   <name>JustinPrivitera</name>
-  </author>
-  <link href="https://github.com/JustinPrivitera/ATP2" />
-  <id>urn:rprimus:github:JustinPrivitera:ATP2</id>
-  <published>2021-03-30T21:34:03Z</published>
-  <updated>2021-03-30T21:34:03Z</updated>
-  <content type="html">
-   My 2nd attempt at a basic Automated Theorem Prover, this time in Racket
-  </content>
- </entry>
- <entry>
-  <title>toblux: racket-clamav-client</title>
-  <author>
-   <name>toblux</name>
-  </author>
-  <link href="https://github.com/toblux/racket-clamav-client" />
-  <id>urn:rprimus:github:toblux:racket-clamav-client</id>
-  <published>2021-03-30T18:33:27Z</published>
-  <updated>2021-03-30T18:33:27Z</updated>
-  <content type="html">
-   Racket ClamAV Client
-  </content>
- </entry>
- <entry>
-  <title>xy-happyme: HTDP</title>
-  <author>
-   <name>xy-happyme</name>
-  </author>
-  <link href="https://github.com/xy-happyme/HTDP" />
-  <id>urn:rprimus:github:xy-happyme:HTDP</id>
-  <published>2021-03-30T03:33:05Z</published>
-  <updated>2021-03-30T03:33:05Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>emacsmirror: geiser-racket</title>
-  <author>
-   <name>emacsmirror</name>
-  </author>
-  <link href="https://github.com/emacsmirror/geiser-racket" />
-  <id>urn:rprimus:github:emacsmirror:geiser-racket</id>
-  <published>2021-03-30T00:41:10Z</published>
-  <updated>2021-03-30T00:41:10Z</updated>
-  <content type="html">
-   Support for Racket in Geiser
   </content>
  </entry>
 </feed>
