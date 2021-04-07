@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-scheme.atom"/>
 <id>urn:rprimus:github:newschemerepos</id>
-<updated>2021-04-06T08:07:12Z</updated>
+<updated>2021-04-07T03:53:41Z</updated>
 <title type='text'>New GitHub Scheme Repos</title>
+ <entry>
+  <title>gleydiston: cifra-decesar</title>
+  <author>
+   <name>gleydiston</name>
+  </author>
+  <link href="https://github.com/gleydiston/cifra-decesar" />
+  <id>urn:rprimus:github:gleydiston:cifra-decesar</id>
+  <published>2021-04-07T03:53:41Z</published>
+  <updated>2021-04-07T03:53:41Z</updated>
+  <content type="html">
+   CodificaÃ§Ã£o de uma cadeia de string utilizando a tecnica cifra de Cesar
+  </content>
+ </entry>
+ <entry>
+  <title>antoniosilvavp: dotfiles</title>
+  <author>
+   <name>antoniosilvavp</name>
+  </author>
+  <link href="https://github.com/antoniosilvavp/dotfiles" />
+  <id>urn:rprimus:github:antoniosilvavp:dotfiles</id>
+  <published>2021-04-07T03:01:37Z</published>
+  <updated>2021-04-07T03:01:37Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>SteveFdemo: LISPish</title>
+  <author>
+   <name>SteveFdemo</name>
+  </author>
+  <link href="https://github.com/SteveFdemo/LISPish" />
+  <id>urn:rprimus:github:SteveFdemo:LISPish</id>
+  <published>2021-04-06T21:41:17Z</published>
+  <updated>2021-04-06T21:41:17Z</updated>
+  <content type="html">
+   Samples in LISP-ish languages
+  </content>
+ </entry>
  <entry>
   <title>ahmzan: backupdotfiles</title>
   <author>
@@ -132,149 +171,6 @@
   <updated>2021-04-05T00:01:00Z</updated>
   <content type="html">
    Lab 07
-  </content>
- </entry>
- <entry>
-  <title>LWaien: Grid-Search-Hill-Climbing</title>
-  <author>
-   <name>LWaien</name>
-  </author>
-  <link href="https://github.com/LWaien/Grid-Search-Hill-Climbing" />
-  <id>urn:rprimus:github:LWaien:Grid-Search-Hill-Climbing</id>
-  <published>2021-04-04T19:37:28Z</published>
-  <updated>2021-04-04T19:37:28Z</updated>
-  <content type="html">
-   Implementation of hill climb heuristic search
-  </content>
- </entry>
- <entry>
-  <title>iCodeCoolStuff: sicp-exercises</title>
-  <author>
-   <name>iCodeCoolStuff</name>
-  </author>
-  <link href="https://github.com/iCodeCoolStuff/sicp-exercises" />
-  <id>urn:rprimus:github:iCodeCoolStuff:sicp-exercises</id>
-  <published>2021-04-04T16:43:32Z</published>
-  <updated>2021-04-04T16:43:32Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Cwong2255: CISC3140_Lab7</title>
-  <author>
-   <name>Cwong2255</name>
-  </author>
-  <link href="https://github.com/Cwong2255/CISC3140_Lab7" />
-  <id>urn:rprimus:github:Cwong2255:CISC3140_Lab7</id>
-  <published>2021-04-04T15:45:50Z</published>
-  <updated>2021-04-04T15:45:50Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>iriya-ufo: sicp-answers</title>
-  <author>
-   <name>iriya-ufo</name>
-  </author>
-  <link href="https://github.com/iriya-ufo/sicp-answers" />
-  <id>urn:rprimus:github:iriya-ufo:sicp-answers</id>
-  <published>2021-04-04T13:51:11Z</published>
-  <updated>2021-04-04T13:51:11Z</updated>
-  <content type="html">
-   sicp answers
-  </content>
- </entry>
- <entry>
-  <title>emacsmirror: wisp-mode</title>
-  <author>
-   <name>emacsmirror</name>
-  </author>
-  <link href="https://github.com/emacsmirror/wisp-mode" />
-  <id>urn:rprimus:github:emacsmirror:wisp-mode</id>
-  <published>2021-04-04T13:33:26Z</published>
-  <updated>2021-04-04T13:33:26Z</updated>
-  <content type="html">
-   Tools for wisp: the Whitespace-to-Lisp preprocessor
-  </content>
- </entry>
- <entry>
-  <title>emacsmirror: geiser-guile</title>
-  <author>
-   <name>emacsmirror</name>
-  </author>
-  <link href="https://github.com/emacsmirror/geiser-guile" />
-  <id>urn:rprimus:github:emacsmirror:geiser-guile</id>
-  <published>2021-04-04T13:25:15Z</published>
-  <updated>2021-04-04T13:25:15Z</updated>
-  <content type="html">
-   Guile&#039;s implementation of the geiser protocols
-  </content>
- </entry>
- <entry>
-  <title>emacsmirror: geiser-gambit</title>
-  <author>
-   <name>emacsmirror</name>
-  </author>
-  <link href="https://github.com/emacsmirror/geiser-gambit" />
-  <id>urn:rprimus:github:emacsmirror:geiser-gambit</id>
-  <published>2021-04-04T13:24:55Z</published>
-  <updated>2021-04-04T13:24:55Z</updated>
-  <content type="html">
-   Gambit&#039;s implementation of the geiser protocols
-  </content>
- </entry>
- <entry>
-  <title>emacsmirror: geiser-chicken</title>
-  <author>
-   <name>emacsmirror</name>
-  </author>
-  <link href="https://github.com/emacsmirror/geiser-chicken" />
-  <id>urn:rprimus:github:emacsmirror:geiser-chicken</id>
-  <published>2021-04-04T13:24:35Z</published>
-  <updated>2021-04-04T13:24:35Z</updated>
-  <content type="html">
-   Chicken&#039;s implementation of the geiser protocols
-  </content>
- </entry>
- <entry>
-  <title>emacsmirror: geiser-chibi</title>
-  <author>
-   <name>emacsmirror</name>
-  </author>
-  <link href="https://github.com/emacsmirror/geiser-chibi" />
-  <id>urn:rprimus:github:emacsmirror:geiser-chibi</id>
-  <published>2021-04-04T13:24:16Z</published>
-  <updated>2021-04-04T13:24:16Z</updated>
-  <content type="html">
-   Chibi Scheme&#039;s implementation of the geiser protocols
-  </content>
- </entry>
- <entry>
-  <title>emacsmirror: geiser-chez</title>
-  <author>
-   <name>emacsmirror</name>
-  </author>
-  <link href="https://github.com/emacsmirror/geiser-chez" />
-  <id>urn:rprimus:github:emacsmirror:geiser-chez</id>
-  <published>2021-04-04T13:23:57Z</published>
-  <updated>2021-04-04T13:23:57Z</updated>
-  <content type="html">
-   Chez Scheme&#039;s implementation of the geiser protocols
-  </content>
- </entry>
- <entry>
-  <title>alien-agent: BMSTU</title>
-  <author>
-   <name>alien-agent</name>
-  </author>
-  <link href="https://github.com/alien-agent/BMSTU" />
-  <id>urn:rprimus:github:alien-agent:BMSTU</id>
-  <published>2021-04-04T09:42:50Z</published>
-  <updated>2021-04-04T09:42:50Z</updated>
-  <content type="html">
-   My solutions for Bauman Moscow State Technical University coding problems.
   </content>
  </entry>
 </feed>

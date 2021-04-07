@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-04-06T08:33:49Z</updated>
+<updated>2021-04-07T00:09:05Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>spicy-lime: lisp-practice</title>
+  <author>
+   <name>spicy-lime</name>
+  </author>
+  <link href="https://github.com/spicy-lime/lisp-practice" />
+  <id>urn:rprimus:github:spicy-lime:lisp-practice</id>
+  <published>2021-04-07T00:09:05Z</published>
+  <updated>2021-04-07T00:09:05Z</updated>
+  <content type="html">
+   dumping ground for lisp exercises
+  </content>
+ </entry>
+ <entry>
+  <title>prasxanth: sxablono</title>
+  <author>
+   <name>prasxanth</name>
+  </author>
+  <link href="https://github.com/prasxanth/sxablono" />
+  <id>urn:rprimus:github:prasxanth:sxablono</id>
+  <published>2021-04-06T23:38:54Z</published>
+  <updated>2021-04-06T23:38:54Z</updated>
+  <content type="html">
+   Skeleton template for a Lisp project.
+  </content>
+ </entry>
+ <entry>
+  <title>40ants: linter</title>
+  <author>
+   <name>40ants</name>
+  </author>
+  <link href="https://github.com/40ants/linter" />
+  <id>urn:rprimus:github:40ants:linter</id>
+  <published>2021-04-06T20:20:49Z</published>
+  <updated>2021-04-06T20:20:49Z</updated>
+  <content type="html">
+   A wrapper around SBLINT, which uses defmain for command line parsing
+  </content>
+ </entry>
+ <entry>
+  <title>alepertea: functional-programming-year2</title>
+  <author>
+   <name>alepertea</name>
+  </author>
+  <link href="https://github.com/alepertea/functional-programming-year2" />
+  <id>urn:rprimus:github:alepertea:functional-programming-year2</id>
+  <published>2021-04-06T19:40:13Z</published>
+  <updated>2021-04-06T19:40:13Z</updated>
+  <content type="html">
+   Lab tasks written in Common Lisp I&#039;ve done during my 3rd Uni semester.
+  </content>
+ </entry>
+ <entry>
+  <title>sriramb2000: CS161-S21</title>
+  <author>
+   <name>sriramb2000</name>
+  </author>
+  <link href="https://github.com/sriramb2000/CS161-S21" />
+  <id>urn:rprimus:github:sriramb2000:CS161-S21</id>
+  <published>2021-04-06T18:14:03Z</published>
+  <updated>2021-04-06T18:14:03Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>talenbartlett: musicsets</title>
   <author>
@@ -83,79 +148,14 @@
   </content>
  </entry>
  <entry>
-  <title>kirosaima: marx3mao-lisp</title>
+  <title>kharus: cl-gisc</title>
   <author>
-   <name>kirosaima</name>
+   <name>kharus</name>
   </author>
-  <link href="https://github.com/kirosaima/marx3mao-lisp" />
-  <id>urn:rprimus:github:kirosaima:marx3mao-lisp</id>
-  <published>2021-04-04T21:03:01Z</published>
-  <updated>2021-04-04T21:03:01Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>splittist: printfcl</title>
-  <author>
-   <name>splittist</name>
-  </author>
-  <link href="https://github.com/splittist/printfcl" />
-  <id>urn:rprimus:github:splittist:printfcl</id>
-  <published>2021-04-04T12:43:05Z</published>
-  <updated>2021-04-04T12:43:05Z</updated>
-  <content type="html">
-   A configurable printf implementation for Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>springmelody: clisp-learn</title>
-  <author>
-   <name>springmelody</name>
-  </author>
-  <link href="https://github.com/springmelody/clisp-learn" />
-  <id>urn:rprimus:github:springmelody:clisp-learn</id>
-  <published>2021-04-04T09:20:26Z</published>
-  <updated>2021-04-04T09:20:26Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>larsen: advent2015</title>
-  <author>
-   <name>larsen</name>
-  </author>
-  <link href="https://github.com/larsen/advent2015" />
-  <id>urn:rprimus:github:larsen:advent2015</id>
-  <published>2021-04-04T05:33:39Z</published>
-  <updated>2021-04-04T05:33:39Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>mveety: cl-cons-dlist</title>
-  <author>
-   <name>mveety</name>
-  </author>
-  <link href="https://github.com/mveety/cl-cons-dlist" />
-  <id>urn:rprimus:github:mveety:cl-cons-dlist</id>
-  <published>2021-04-04T04:34:45Z</published>
-  <updated>2021-04-04T04:34:45Z</updated>
-  <content type="html">
-   Doubly linked list implementation using cons cells.
-  </content>
- </entry>
- <entry>
-  <title>tfeb: reeder</title>
-  <author>
-   <name>tfeb</name>
-  </author>
-  <link href="https://github.com/tfeb/reeder" />
-  <id>urn:rprimus:github:tfeb:reeder</id>
-  <published>2021-04-04T00:24:00Z</published>
-  <updated>2021-04-04T00:24:00Z</updated>
+  <link href="https://github.com/kharus/cl-gisc" />
+  <id>urn:rprimus:github:kharus:cl-gisc</id>
+  <published>2021-04-05T10:40:59Z</published>
+  <updated>2021-04-05T10:40:59Z</updated>
   <content type="html">
    
   </content>
