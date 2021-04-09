@@ -2,19 +2,110 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-04-08T08:27:07Z</updated>
+<updated>2021-04-09T04:25:29Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
  <entry>
-  <title>drwadu: stunning-octo-spoon</title>
+  <title>ShovelCode: cl</title>
   <author>
-   <name>drwadu</name>
+   <name>ShovelCode</name>
   </author>
-  <link href="https://github.com/drwadu/stunning-octo-spoon" />
-  <id>urn:rprimus:github:drwadu:stunning-octo-spoon</id>
-  <published>2021-04-08T08:27:07Z</published>
-  <updated>2021-04-08T08:27:07Z</updated>
+  <link href="https://github.com/ShovelCode/cl" />
+  <id>urn:rprimus:github:ShovelCode:cl</id>
+  <published>2021-04-09T04:25:29Z</published>
+  <updated>2021-04-09T04:25:29Z</updated>
   <content type="html">
-   code snippets
+   Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>walpurgisnatch: crow</title>
+  <author>
+   <name>walpurgisnatch</name>
+  </author>
+  <link href="https://github.com/walpurgisnatch/crow" />
+  <id>urn:rprimus:github:walpurgisnatch:crow</id>
+  <published>2021-04-09T01:20:47Z</published>
+  <updated>2021-04-09T01:20:47Z</updated>
+  <content type="html">
+   Create unique wordlists from urls
+  </content>
+ </entry>
+ <entry>
+  <title>complexitycollapse: common-lisp-template-test</title>
+  <author>
+   <name>complexitycollapse</name>
+  </author>
+  <link href="https://github.com/complexitycollapse/common-lisp-template-test" />
+  <id>urn:rprimus:github:complexitycollapse:common-lisp-template-test</id>
+  <published>2021-04-08T22:52:23Z</published>
+  <updated>2021-04-08T22:52:23Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>complexitycollapse: common-lisp-project-template</title>
+  <author>
+   <name>complexitycollapse</name>
+  </author>
+  <link href="https://github.com/complexitycollapse/common-lisp-project-template" />
+  <id>urn:rprimus:github:complexitycollapse:common-lisp-project-template</id>
+  <published>2021-04-08T22:06:58Z</published>
+  <updated>2021-04-08T22:06:58Z</updated>
+  <content type="html">
+   A template repo for Common Lisp projects.
+  </content>
+ </entry>
+ <entry>
+  <title>mhkoji: teno</title>
+  <author>
+   <name>mhkoji</name>
+  </author>
+  <link href="https://github.com/mhkoji/teno" />
+  <id>urn:rprimus:github:mhkoji:teno</id>
+  <published>2021-04-08T20:06:32Z</published>
+  <updated>2021-04-08T20:06:32Z</updated>
+  <content type="html">
+   A web application in Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>nilqed: GSLL</title>
+  <author>
+   <name>nilqed</name>
+  </author>
+  <link href="https://github.com/nilqed/GSLL" />
+  <id>urn:rprimus:github:nilqed:GSLL</id>
+  <published>2021-04-08T18:03:42Z</published>
+  <updated>2021-04-08T18:03:42Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>AlgoCompSynth: when-harry-met-iannis</title>
+  <author>
+   <name>AlgoCompSynth</name>
+  </author>
+  <link href="https://github.com/AlgoCompSynth/when-harry-met-iannis" />
+  <id>urn:rprimus:github:AlgoCompSynth:when-harry-met-iannis</id>
+  <published>2021-04-08T14:26:56Z</published>
+  <updated>2021-04-08T14:26:56Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>atlas-engineer: nx-vcs</title>
+  <author>
+   <name>atlas-engineer</name>
+  </author>
+  <link href="https://github.com/atlas-engineer/nx-vcs" />
+  <id>urn:rprimus:github:atlas-engineer:nx-vcs</id>
+  <published>2021-04-08T14:03:29Z</published>
+  <updated>2021-04-08T14:03:29Z</updated>
+  <content type="html">
+   VCS interface for Nyxt.
   </content>
  </entry>
  <entry>
@@ -27,7 +118,7 @@
   <published>2021-04-08T04:45:11Z</published>
   <updated>2021-04-08T04:45:11Z</updated>
   <content type="html">
-   Skeleton project for Lisp projects
+   Skeleton template for Lisp projects
   </content>
  </entry>
  <entry>
@@ -135,19 +226,6 @@
   </content>
  </entry>
  <entry>
-  <title>walpurgisnatch: crow</title>
-  <author>
-   <name>walpurgisnatch</name>
-  </author>
-  <link href="https://github.com/walpurgisnatch/crow" />
-  <id>urn:rprimus:github:walpurgisnatch:crow</id>
-  <published>2021-04-07T06:04:26Z</published>
-  <updated>2021-04-07T06:04:26Z</updated>
-  <content type="html">
-   Create unique wordlist from urls
-  </content>
- </entry>
- <entry>
   <title>spicy-lime: lisp-practice</title>
   <author>
    <name>spicy-lime</name>
@@ -158,71 +236,6 @@
   <updated>2021-04-07T00:09:05Z</updated>
   <content type="html">
    dumping ground for lisp exercises
-  </content>
- </entry>
- <entry>
-  <title>40ants: linter</title>
-  <author>
-   <name>40ants</name>
-  </author>
-  <link href="https://github.com/40ants/linter" />
-  <id>urn:rprimus:github:40ants:linter</id>
-  <published>2021-04-06T20:20:49Z</published>
-  <updated>2021-04-06T20:20:49Z</updated>
-  <content type="html">
-   A wrapper around SBLINT, which uses defmain for command line parsing
-  </content>
- </entry>
- <entry>
-  <title>alepertea: functional-programming-year2</title>
-  <author>
-   <name>alepertea</name>
-  </author>
-  <link href="https://github.com/alepertea/functional-programming-year2" />
-  <id>urn:rprimus:github:alepertea:functional-programming-year2</id>
-  <published>2021-04-06T19:40:13Z</published>
-  <updated>2021-04-06T19:40:13Z</updated>
-  <content type="html">
-   Lab tasks written in Common Lisp I&#039;ve done during my 3rd Uni semester.
-  </content>
- </entry>
- <entry>
-  <title>sriramb2000: CS161-S21</title>
-  <author>
-   <name>sriramb2000</name>
-  </author>
-  <link href="https://github.com/sriramb2000/CS161-S21" />
-  <id>urn:rprimus:github:sriramb2000:CS161-S21</id>
-  <published>2021-04-06T18:14:03Z</published>
-  <updated>2021-04-06T18:14:03Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>midzishi: MSU</title>
-  <author>
-   <name>midzishi</name>
-  </author>
-  <link href="https://github.com/midzishi/MSU" />
-  <id>urn:rprimus:github:midzishi:MSU</id>
-  <published>2021-04-06T10:47:14Z</published>
-  <updated>2021-04-06T10:47:14Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>talenbartlett: musicsets</title>
-  <author>
-   <name>talenbartlett</name>
-  </author>
-  <link href="https://github.com/talenbartlett/musicsets" />
-  <id>urn:rprimus:github:talenbartlett:musicsets</id>
-  <published>2021-04-06T08:33:49Z</published>
-  <updated>2021-04-06T08:33:49Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
