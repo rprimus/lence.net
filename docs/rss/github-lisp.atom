@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-04-10T07:50:03Z</updated>
+<updated>2021-04-11T03:00:39Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>igoralmeida: nx-notmuch</title>
+  <author>
+   <name>igoralmeida</name>
+  </author>
+  <link href="https://github.com/igoralmeida/nx-notmuch" />
+  <id>urn:rprimus:github:igoralmeida:nx-notmuch</id>
+  <published>2021-04-11T03:00:39Z</published>
+  <updated>2021-04-11T03:00:39Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>interactive-ssr: hunchenissr-routes</title>
+  <author>
+   <name>interactive-ssr</name>
+  </author>
+  <link href="https://github.com/interactive-ssr/hunchenissr-routes" />
+  <id>urn:rprimus:github:interactive-ssr:hunchenissr-routes</id>
+  <published>2021-04-10T20:17:17Z</published>
+  <updated>2021-04-10T20:17:17Z</updated>
+  <content type="html">
+   Allow various route customization like path arguments and required queries.
+  </content>
+ </entry>
+ <entry>
+  <title>g000001: lw-paredit</title>
+  <author>
+   <name>g000001</name>
+  </author>
+  <link href="https://github.com/g000001/lw-paredit" />
+  <id>urn:rprimus:github:g000001:lw-paredit</id>
+  <published>2021-04-10T17:49:34Z</published>
+  <updated>2021-04-10T17:49:34Z</updated>
+  <content type="html">
+   Paredit version 1 for LispWorks
+  </content>
+ </entry>
+ <entry>
+  <title>digikar99: abstract-arrays</title>
+  <author>
+   <name>digikar99</name>
+  </author>
+  <link href="https://github.com/digikar99/abstract-arrays" />
+  <id>urn:rprimus:github:digikar99:abstract-arrays</id>
+  <published>2021-04-10T13:05:27Z</published>
+  <updated>2021-04-10T13:05:27Z</updated>
+  <content type="html">
+   A structure and some facilities for an abstract-array structure in common lisp
+  </content>
+ </entry>
+ <entry>
+  <title>walpurgisnatch: stepster</title>
+  <author>
+   <name>walpurgisnatch</name>
+  </author>
+  <link href="https://github.com/walpurgisnatch/stepster" />
+  <id>urn:rprimus:github:walpurgisnatch:stepster</id>
+  <published>2021-04-10T09:38:59Z</published>
+  <updated>2021-04-10T09:38:59Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>biyori-sh: cliarith</title>
+  <author>
+   <name>biyori-sh</name>
+  </author>
+  <link href="https://github.com/biyori-sh/cliarith" />
+  <id>urn:rprimus:github:biyori-sh:cliarith</id>
+  <published>2021-04-10T09:31:14Z</published>
+  <updated>2021-04-10T09:31:14Z</updated>
+  <content type="html">
+   A simple trial implementation of interval arithmetic in Common Lisp.
+  </content>
+ </entry>
  <entry>
   <title>SyedT1: Common-Lisp</title>
   <author>
@@ -67,97 +145,6 @@
   <updated>2021-04-09T01:20:47Z</updated>
   <content type="html">
    Create unique wordlists from urls
-  </content>
- </entry>
- <entry>
-  <title>complexitycollapse: common-lisp-template-test</title>
-  <author>
-   <name>complexitycollapse</name>
-  </author>
-  <link href="https://github.com/complexitycollapse/common-lisp-template-test" />
-  <id>urn:rprimus:github:complexitycollapse:common-lisp-template-test</id>
-  <published>2021-04-08T22:52:23Z</published>
-  <updated>2021-04-08T22:52:23Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>complexitycollapse: common-lisp-project-template</title>
-  <author>
-   <name>complexitycollapse</name>
-  </author>
-  <link href="https://github.com/complexitycollapse/common-lisp-project-template" />
-  <id>urn:rprimus:github:complexitycollapse:common-lisp-project-template</id>
-  <published>2021-04-08T22:06:58Z</published>
-  <updated>2021-04-08T22:06:58Z</updated>
-  <content type="html">
-   A template repo for Common Lisp projects.
-  </content>
- </entry>
- <entry>
-  <title>mhkoji: teno</title>
-  <author>
-   <name>mhkoji</name>
-  </author>
-  <link href="https://github.com/mhkoji/teno" />
-  <id>urn:rprimus:github:mhkoji:teno</id>
-  <published>2021-04-08T20:06:32Z</published>
-  <updated>2021-04-08T20:06:32Z</updated>
-  <content type="html">
-   A web application in Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>nilqed: GSLL</title>
-  <author>
-   <name>nilqed</name>
-  </author>
-  <link href="https://github.com/nilqed/GSLL" />
-  <id>urn:rprimus:github:nilqed:GSLL</id>
-  <published>2021-04-08T18:03:42Z</published>
-  <updated>2021-04-08T18:03:42Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>AlgoCompSynth: when-harry-met-iannis</title>
-  <author>
-   <name>AlgoCompSynth</name>
-  </author>
-  <link href="https://github.com/AlgoCompSynth/when-harry-met-iannis" />
-  <id>urn:rprimus:github:AlgoCompSynth:when-harry-met-iannis</id>
-  <published>2021-04-08T14:26:56Z</published>
-  <updated>2021-04-08T14:26:56Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>atlas-engineer: nx-vcs</title>
-  <author>
-   <name>atlas-engineer</name>
-  </author>
-  <link href="https://github.com/atlas-engineer/nx-vcs" />
-  <id>urn:rprimus:github:atlas-engineer:nx-vcs</id>
-  <published>2021-04-08T14:03:29Z</published>
-  <updated>2021-04-08T14:03:29Z</updated>
-  <content type="html">
-   VCS interface for Nyxt.
-  </content>
- </entry>
- <entry>
-  <title>prasxanth: sxablono</title>
-  <author>
-   <name>prasxanth</name>
-  </author>
-  <link href="https://github.com/prasxanth/sxablono" />
-  <id>urn:rprimus:github:prasxanth:sxablono</id>
-  <published>2021-04-08T04:45:11Z</published>
-  <updated>2021-04-08T04:45:11Z</updated>
-  <content type="html">
-   Skeleton template for Lisp projects
   </content>
  </entry>
 </feed>
