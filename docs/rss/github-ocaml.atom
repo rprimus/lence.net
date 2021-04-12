@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2021-04-12T06:20:36Z</updated>
+<updated>2021-04-12T15:12:43Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>Sylfrena: wit</title>
+  <author>
+   <name>Sylfrena</name>
+  </author>
+  <link href="https://github.com/Sylfrena/wit" />
+  <id>urn:rprimus:github:Sylfrena:wit</id>
+  <published>2021-04-12T15:12:43Z</published>
+  <updated>2021-04-12T15:12:43Z</updated>
+  <content type="html">
+   Git implementation in Ocaml
+  </content>
+ </entry>
+ <entry>
+  <title>wesmuehlhausen: ocaml</title>
+  <author>
+   <name>wesmuehlhausen</name>
+  </author>
+  <link href="https://github.com/wesmuehlhausen/ocaml" />
+  <id>urn:rprimus:github:wesmuehlhausen:ocaml</id>
+  <published>2021-04-12T10:42:39Z</published>
+  <updated>2021-04-12T10:42:39Z</updated>
+  <content type="html">
+   Short Programs written in OCaml
+  </content>
+ </entry>
  <entry>
   <title>9lung: PL</title>
   <author>
@@ -67,6 +93,19 @@
   <updated>2021-04-11T13:14:19Z</updated>
   <content type="html">
    
+  </content>
+ </entry>
+ <entry>
+  <title>Monicamico: OCamlStackInspection</title>
+  <author>
+   <name>Monicamico</name>
+  </author>
+  <link href="https://github.com/Monicamico/OCamlStackInspection" />
+  <id>urn:rprimus:github:Monicamico:OCamlStackInspection</id>
+  <published>2021-04-11T12:33:19Z</published>
+  <updated>2021-04-11T12:33:19Z</updated>
+  <content type="html">
+   It is an OCaml interpreter of a simple functional language which includes a dynamic mechanism for enforcing access control checks, along the line of the so-called stack inspection algorithm.
   </content>
  </entry>
  <entry>

@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-04-12T08:33:29Z</updated>
+<updated>2021-04-12T14:01:45Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>darabi: cl-dcmtk</title>
+  <author>
+   <name>darabi</name>
+  </author>
+  <link href="https://github.com/darabi/cl-dcmtk" />
+  <id>urn:rprimus:github:darabi:cl-dcmtk</id>
+  <published>2021-04-12T14:01:45Z</published>
+  <updated>2021-04-12T14:01:45Z</updated>
+  <content type="html">
+   CFFI wrapper for DCMTK
+  </content>
+ </entry>
+ <entry>
+  <title>lisp-mirror: ltk-plotchart</title>
+  <author>
+   <name>lisp-mirror</name>
+  </author>
+  <link href="https://github.com/lisp-mirror/ltk-plotchart" />
+  <id>urn:rprimus:github:lisp-mirror:ltk-plotchart</id>
+  <published>2021-04-12T13:56:11Z</published>
+  <updated>2021-04-12T13:56:11Z</updated>
+  <content type="html">
+   https://notabug.org/peterlane/ltk-plotchart
+  </content>
+ </entry>
  <entry>
   <title>lisp-polymorph: polymorph.type-protocol</title>
   <author>
@@ -15,6 +41,19 @@
   <updated>2021-04-12T08:33:29Z</updated>
   <content type="html">
    
+  </content>
+ </entry>
+ <entry>
+  <title>lisp-polymorph: polymorph.copy-cast</title>
+  <author>
+   <name>lisp-polymorph</name>
+  </author>
+  <link href="https://github.com/lisp-polymorph/polymorph.copy-cast" />
+  <id>urn:rprimus:github:lisp-polymorph:polymorph.copy-cast</id>
+  <published>2021-04-12T08:24:26Z</published>
+  <updated>2021-04-12T08:24:26Z</updated>
+  <content type="html">
+   Copy and cast for polymorph.stl
   </content>
  </entry>
  <entry>
@@ -144,7 +183,7 @@
   <published>2021-04-10T09:38:59Z</published>
   <updated>2021-04-10T09:38:59Z</updated>
   <content type="html">
-   
+   Web tools library
   </content>
  </entry>
  <entry>
