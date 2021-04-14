@@ -2,8 +2,125 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2021-04-13T08:03:07Z</updated>
+<updated>2021-04-14T01:50:25Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>josephmr: doom</title>
+  <author>
+   <name>josephmr</name>
+  </author>
+  <link href="https://github.com/josephmr/doom" />
+  <id>urn:rprimus:github:josephmr:doom</id>
+  <published>2021-04-14T01:50:25Z</published>
+  <updated>2021-04-14T01:50:25Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>padawanphysicist: pathogen-emacs</title>
+  <author>
+   <name>padawanphysicist</name>
+  </author>
+  <link href="https://github.com/padawanphysicist/pathogen-emacs" />
+  <id>urn:rprimus:github:padawanphysicist:pathogen-emacs</id>
+  <published>2021-04-13T22:21:06Z</published>
+  <updated>2021-04-13T22:21:06Z</updated>
+  <content type="html">
+   Because I&#039;m sick of Emacs defaults most of the time. Mirror of https://gitlab.com/padawanphysicist/pathogen-emacs
+  </content>
+ </entry>
+ <entry>
+  <title>mlibby: emacs.d</title>
+  <author>
+   <name>mlibby</name>
+  </author>
+  <link href="https://github.com/mlibby/emacs.d" />
+  <id>urn:rprimus:github:mlibby:emacs.d</id>
+  <published>2021-04-13T18:14:53Z</published>
+  <updated>2021-04-13T18:14:53Z</updated>
+  <content type="html">
+   my emacs.d
+  </content>
+ </entry>
+ <entry>
+  <title>lb1wh: c64-theme</title>
+  <author>
+   <name>lb1wh</name>
+  </author>
+  <link href="https://github.com/lb1wh/c64-theme" />
+  <id>urn:rprimus:github:lb1wh:c64-theme</id>
+  <published>2021-04-13T15:56:38Z</published>
+  <updated>2021-04-13T15:56:38Z</updated>
+  <content type="html">
+   A C64-style custom theme for Emacs.
+  </content>
+ </entry>
+ <entry>
+  <title>zhipeng33: .emacs.d</title>
+  <author>
+   <name>zhipeng33</name>
+  </author>
+  <link href="https://github.com/zhipeng33/.emacs.d" />
+  <id>urn:rprimus:github:zhipeng33:.emacs.d</id>
+  <published>2021-04-13T14:45:47Z</published>
+  <updated>2021-04-13T14:45:47Z</updated>
+  <content type="html">
+   emacséç½®
+  </content>
+ </entry>
+ <entry>
+  <title>JordanAnthonyKing: .doom.d</title>
+  <author>
+   <name>JordanAnthonyKing</name>
+  </author>
+  <link href="https://github.com/JordanAnthonyKing/.doom.d" />
+  <id>urn:rprimus:github:JordanAnthonyKing:.doom.d</id>
+  <published>2021-04-13T13:16:19Z</published>
+  <updated>2021-04-13T13:16:19Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>torjush: Dotfiles</title>
+  <author>
+   <name>torjush</name>
+  </author>
+  <link href="https://github.com/torjush/Dotfiles" />
+  <id>urn:rprimus:github:torjush:Dotfiles</id>
+  <published>2021-04-13T13:02:31Z</published>
+  <updated>2021-04-13T13:02:31Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>todoniko: .emacs.d</title>
+  <author>
+   <name>todoniko</name>
+  </author>
+  <link href="https://github.com/todoniko/.emacs.d" />
+  <id>urn:rprimus:github:todoniko:.emacs.d</id>
+  <published>2021-04-13T12:33:57Z</published>
+  <updated>2021-04-13T12:33:57Z</updated>
+  <content type="html">
+   Sensible IDE configuration
+  </content>
+ </entry>
+ <entry>
+  <title>mkettn: dotfiles</title>
+  <author>
+   <name>mkettn</name>
+  </author>
+  <link href="https://github.com/mkettn/dotfiles" />
+  <id>urn:rprimus:github:mkettn:dotfiles</id>
+  <published>2021-04-13T09:29:05Z</published>
+  <updated>2021-04-13T09:29:05Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>emacs-helm: helm-skitour</title>
   <author>
@@ -351,227 +468,6 @@
   <id>urn:rprimus:github:torreyl87:.spacemacs</id>
   <published>2021-04-12T01:50:58Z</published>
   <updated>2021-04-12T01:50:58Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>purcell: dune-format-el</title>
-  <author>
-   <name>purcell</name>
-  </author>
-  <link href="https://github.com/purcell/dune-format-el" />
-  <id>urn:rprimus:github:purcell:dune-format-el</id>
-  <published>2021-04-11T23:38:40Z</published>
-  <updated>2021-04-11T23:38:40Z</updated>
-  <content type="html">
-   Reformat dune files from within Emacs
-  </content>
- </entry>
- <entry>
-  <title>TobiasZawada: org-src-emph</title>
-  <author>
-   <name>TobiasZawada</name>
-  </author>
-  <link href="https://github.com/TobiasZawada/org-src-emph" />
-  <id>urn:rprimus:github:TobiasZawada:org-src-emph</id>
-  <published>2021-04-11T23:25:49Z</published>
-  <updated>2021-04-11T23:25:49Z</updated>
-  <content type="html">
-   Custom emphasis of substrings of Org source blocks
-  </content>
- </entry>
- <entry>
-  <title>mrrph: .dotfiles</title>
-  <author>
-   <name>mrrph</name>
-  </author>
-  <link href="https://github.com/mrrph/.dotfiles" />
-  <id>urn:rprimus:github:mrrph:.dotfiles</id>
-  <published>2021-04-11T22:29:31Z</published>
-  <updated>2021-04-11T22:29:31Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>adamglw: .emacs.d</title>
-  <author>
-   <name>adamglw</name>
-  </author>
-  <link href="https://github.com/adamglw/.emacs.d" />
-  <id>urn:rprimus:github:adamglw:.emacs.d</id>
-  <published>2021-04-11T22:08:06Z</published>
-  <updated>2021-04-11T22:08:06Z</updated>
-  <content type="html">
-   emacs config
-  </content>
- </entry>
- <entry>
-  <title>Farteen: .spacemacs</title>
-  <author>
-   <name>Farteen</name>
-  </author>
-  <link href="https://github.com/Farteen/.spacemacs" />
-  <id>urn:rprimus:github:Farteen:.spacemacs</id>
-  <published>2021-04-11T22:01:33Z</published>
-  <updated>2021-04-11T22:01:33Z</updated>
-  <content type="html">
-   .spacemacs
-  </content>
- </entry>
- <entry>
-  <title>Hrothgar32: dotfiles</title>
-  <author>
-   <name>Hrothgar32</name>
-  </author>
-  <link href="https://github.com/Hrothgar32/dotfiles" />
-  <id>urn:rprimus:github:Hrothgar32:dotfiles</id>
-  <published>2021-04-11T21:27:49Z</published>
-  <updated>2021-04-11T21:27:49Z</updated>
-  <content type="html">
-   My personal Arch Linux dotfiles
-  </content>
- </entry>
- <entry>
-  <title>DarkBuffalo: easy-blog</title>
-  <author>
-   <name>DarkBuffalo</name>
-  </author>
-  <link href="https://github.com/DarkBuffalo/easy-blog" />
-  <id>urn:rprimus:github:DarkBuffalo:easy-blog</id>
-  <published>2021-04-11T20:14:37Z</published>
-  <updated>2021-04-11T20:14:37Z</updated>
-  <content type="html">
-   easy blogging with emacs
-  </content>
- </entry>
- <entry>
-  <title>rtfupi: double-keystroke</title>
-  <author>
-   <name>rtfupi</name>
-  </author>
-  <link href="https://github.com/rtfupi/double-keystroke" />
-  <id>urn:rprimus:github:rtfupi:double-keystroke</id>
-  <published>2021-04-11T19:07:51Z</published>
-  <updated>2021-04-11T19:07:51Z</updated>
-  <content type="html">
-   Bind the command to a double-keystroke
-  </content>
- </entry>
- <entry>
-  <title>neias: .emacs.d</title>
-  <author>
-   <name>neias</name>
-  </author>
-  <link href="https://github.com/neias/.emacs.d" />
-  <id>urn:rprimus:github:neias:.emacs.d</id>
-  <published>2021-04-11T15:45:36Z</published>
-  <updated>2021-04-11T15:45:36Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>lmissou: emacs</title>
-  <author>
-   <name>lmissou</name>
-  </author>
-  <link href="https://github.com/lmissou/emacs" />
-  <id>urn:rprimus:github:lmissou:emacs</id>
-  <published>2021-04-11T15:10:01Z</published>
-  <updated>2021-04-11T15:10:01Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Snake266: my-doom-rc</title>
-  <author>
-   <name>Snake266</name>
-  </author>
-  <link href="https://github.com/Snake266/my-doom-rc" />
-  <id>urn:rprimus:github:Snake266:my-doom-rc</id>
-  <published>2021-04-11T11:32:55Z</published>
-  <updated>2021-04-11T11:32:55Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>dcunited001: dotfiles_doom</title>
-  <author>
-   <name>dcunited001</name>
-  </author>
-  <link href="https://github.com/dcunited001/dotfiles_doom" />
-  <id>urn:rprimus:github:dcunited001:dotfiles_doom</id>
-  <published>2021-04-11T09:23:41Z</published>
-  <updated>2021-04-11T09:23:41Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>badlirashid: dot-emacs</title>
-  <author>
-   <name>badlirashid</name>
-  </author>
-  <link href="https://github.com/badlirashid/dot-emacs" />
-  <id>urn:rprimus:github:badlirashid:dot-emacs</id>
-  <published>2021-04-11T08:29:27Z</published>
-  <updated>2021-04-11T08:29:27Z</updated>
-  <content type="html">
-   Emacs Configuration
-  </content>
- </entry>
- <entry>
-  <title>macobuzi: dotfile</title>
-  <author>
-   <name>macobuzi</name>
-  </author>
-  <link href="https://github.com/macobuzi/dotfile" />
-  <id>urn:rprimus:github:macobuzi:dotfile</id>
-  <published>2021-04-11T04:45:54Z</published>
-  <updated>2021-04-11T04:45:54Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>twlz0ne: helm-symbol-hint</title>
-  <author>
-   <name>twlz0ne</name>
-  </author>
-  <link href="https://github.com/twlz0ne/helm-symbol-hint" />
-  <id>urn:rprimus:github:twlz0ne:helm-symbol-hint</id>
-  <published>2021-04-11T04:15:49Z</published>
-  <updated>2021-04-11T04:15:49Z</updated>
-  <content type="html">
-   Show symbol hint for Helm
-  </content>
- </entry>
- <entry>
-  <title>markcornick: doom-d</title>
-  <author>
-   <name>markcornick</name>
-  </author>
-  <link href="https://github.com/markcornick/doom-d" />
-  <id>urn:rprimus:github:markcornick:doom-d</id>
-  <published>2021-04-11T04:13:11Z</published>
-  <updated>2021-04-11T04:13:11Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jsycdut: languages</title>
-  <author>
-   <name>jsycdut</name>
-  </author>
-  <link href="https://github.com/jsycdut/languages" />
-  <id>urn:rprimus:github:jsycdut:languages</id>
-  <published>2021-04-11T00:39:36Z</published>
-  <updated>2021-04-11T00:39:36Z</updated>
   <content type="html">
    
   </content>
