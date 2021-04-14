@@ -2,8 +2,112 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-go.atom"/>
 <id>urn:rprimus:github:newgorepos</id>
-<updated>2021-04-14T09:27:20Z</updated>
+<updated>2021-04-14T15:15:55Z</updated>
 <title type='text'>New GitHub Go Repos</title>
+ <entry>
+  <title>EachinChung: oauth2</title>
+  <author>
+   <name>EachinChung</name>
+  </author>
+  <link href="https://github.com/EachinChung/oauth2" />
+  <id>urn:rprimus:github:EachinChung:oauth2</id>
+  <published>2021-04-14T15:15:55Z</published>
+  <updated>2021-04-14T15:15:55Z</updated>
+  <content type="html">
+   ä¸ä¸ªåºäºginçoauth2é¡¹ç®ï¼ç®åæ¯æå¾®ä¿¡ç»å½
+  </content>
+ </entry>
+ <entry>
+  <title>sirinibin: go-postgresql-rest</title>
+  <author>
+   <name>sirinibin</name>
+  </author>
+  <link href="https://github.com/sirinibin/go-postgresql-rest" />
+  <id>urn:rprimus:github:sirinibin:go-postgresql-rest</id>
+  <published>2021-04-14T14:56:31Z</published>
+  <updated>2021-04-14T14:56:31Z</updated>
+  <content type="html">
+   This is a Ready to deploy GoLang / Go Micro service with OAuth2 authentication which uses JWT &amp; Redis.You can use this if you want to quick start developing your own custom Micro service by skipping 95% of your scratch works. Hopefully this will save lot of your time as this API includes all the basic stuffs you need to get started.
+  </content>
+ </entry>
+ <entry>
+  <title>abhir98: ransomware</title>
+  <author>
+   <name>abhir98</name>
+  </author>
+  <link href="https://github.com/abhir98/ransomware" />
+  <id>urn:rprimus:github:abhir98:ransomware</id>
+  <published>2021-04-14T14:09:31Z</published>
+  <updated>2021-04-14T14:09:31Z</updated>
+  <content type="html">
+   Project Summary This project was developed for the Computer Security course at my academic degree. Basically, it will encrypt your files in background using AES-256-CTR, a strong encryption algorithm, using RSA-4096 to secure the exchange with the server, optionally using the Tor SOCKS5 Proxy. The base functionality is what you see in the famous ransomware Cryptolocker.  The project is composed by three parts, the server, the malware and the unlocker.  The server store the victim&#039;s identification key along with the encryption key used by the malware.  The malware encrypt with a RSA-4096 (RSA-OAEP-4096 + SHA256) public key any payload before send then to the server. This approach with the optional Tor Proxy and a .onion domain allow you to hide almost completely your server.  Features Run in Background (or not) Encrypt files using AES-256-CTR(Counter Mode) with random IV for each file. Multithreaded. RSA-4096 to secure the client/server communication. Includes an Unlocker. Optional TOR Proxy support. Use an AES CTR Cypher with stream encryption to avoid load an entire file into memory. Walk all drives by default. Docker image for compilation. Building the binaries DON&#039;T RUN ransomware.exe IN YOUR PERSONAL MACHINE, EXECUTE ONLY IN A TEST ENVIRONMENT! I&#039;m not resposible if you acidentally encrypt all of your disks!  First of all download the project outside your $GOPATH:  git clone github.com/mauri870/ransomware cd ransomware If you have Docker skip to the next section.  You need Go at least 1.11.2 with the $GOPATH/bin in your $PATH and $GOROOT pointing to your Go installation folder. For me:  export GOPATH=~/gopath export PATH=$PATH:$GOPATH/bin export GOROOT=/usr/local/go Build the project require a lot of steps, like the RSA key generation, build three binaries, embed manifest files, so, let&#039;s leave make do your job:  make deps make You can build the server for windows with make -e GOOS=windows.  Docker ./build-docker.sh make Config Parameters You can change some of the configs during compilation. Instead of run only make, you can use the following variables:  HIDDEN=&#039;-H windowsgui&#039; # optional. If present the malware will run in background  USE_TOR=true # optional. If present the malware will download the Tor proxy and use it to contact the server  SERVER_HOST=mydomain.com # the domain used to connect to your server. localhost, 0.0.0.0, 127.0.0.1 works too if you run the server on the same machine as the malware  SERVER_PORT=8080 # the server port, if using a domain you can set this to 80  GOOS=linux # the target os to compile the server. Eg: darwin, linux, windows Example:  make -e USE_TOR=true SERVER_HOST=mydomain.com SERVER_PORT=80 GOOS=darwin  The SERVER_ variables above only apply to the malware. The server has a flag --port that you can use to change the port that it will listen on.  DON&#039;T RUN ransomware.exe IN YOUR PERSONAL MACHINE, EXECUTE ONLY IN A TEST ENVIRONMENT! I&#039;m not resposible if you acidentally encrypt all of your disks!  Step by Step Demo and How it Works For this demo I&#039;ll use two machines, my personal linux machine and a windows 10 VM.  For the sake of simplicity, I have a folder mapped to the VM, so I can compile from my linux and copy to the vm.  In this demo we will use the Ngrok tool, this will allow us to expose our server using a domain, but you can use your own domain or ip address if you want. We are also going to enable the Tor transport, so .onion domains will work without problems.  First of all lets start our external domain:  ngrok http 8080 This command will give us a url like http://2af7161c.ngrok.io. Keep this command running otherwise the malware won&#039;t reach our server.  Let&#039;s compile the binaries (remember to replace the domain):  make -e SERVER_HOST=2af7161c.ngrok.io SERVER_PORT=80 USE_TOR=true The SERVER_PORT needs to be 80 in this case, since ngrok redirects 2af7161c.ngrok.io:80 to your local server port 8080.  After build, a binary called ransomware.exe, and unlocker.exe along with a folder called server will be generated in the bin folder. The execution of ransomware.exe and unlocker.exe (even if you use a diferent GOOS variable during compilation) is locked to windows machines only.  Enter the server directory from another terminal and start it:  cd bin/server &amp;&amp; ./server --port 8080 To make sure that all is working correctly, make a http request to http://2af7161c.ngrok.io:  curl http://2af7161c.ngrok.io If you see a OK and some logs in the server output you are ready to go.  Now move the ransomware.exe and unlocker.exe to the VM along with some dummy files to test the malware. You can take a look at cmd/common.go to see some configuration options like file extensions to match, directories to scan, skipped folders, max size to match a file among others.  Then simply run the ransomware.exe and see the magic happens ð.  The window that you see can be hidden using the HIDDEN option described in the compilation section.  After download, extract and start the Tor proxy, the malware waits until the tor bootstrapping is done and then proceed with the key exchange with the server. The client/server handshake takes place and the client payload, encrypted with an RSA-4096 public key must be correctly decrypted on the server. The victim identification and encryption keys are stored in a Golang embedded database called BoltDB (it also persists on disk). When completed we get into the find, match and encrypt phase, up to N-cores workers start to encrypt files matched by the patterns defined. This proccess is really quick and in seconds all of your files will be gone.  The encryption key exchanged with the server was used to encrypt all of your files. Each file has a random primitive called IV, generated individually and saved as the first 16 bytes of the encrypted content. The algorithm used is AES-256-CTR, a good AES cypher with streaming mode of operation such that the file size is left intact.  The only two sources of information available about what just happen are the READ_TO_DECRYPT.html and FILES_ENCRYPTED.html in the Desktop.  In theory, to decrypt your files you need to send an amount of BTC to the attacker&#039;s wallet, followed by a contact sending your ID(located on the file created on desktop). If the attacker can confirm your payment it will possibly(or maybe not) return your encryption key and the unlocker.exe and you can use then to recover your files. This exchange can be accomplished in several ways and WILL NOT be implemented in this project for obvious reasons.  Let&#039;s suppose you get your encryption key back. To recover the correct key point to the following url:  curl -k http://2af7161c.ngrok.io/api/keys/:id Where :id is your identification stored in the file on desktop. After, run the unlocker.exe by double click and follow the instructions.  That&#039;s it, got your files back ð  The server has only two endpoints:  POST api/keys/add - Used by the malware to persist new keys. Some verifications are made, like the verification of the RSA autenticity. Returns 204 (empty content) in case of success or a json error.  GET api/keys/:id - Id is a 32 characters parameter, representing an Id already persisted. Returns a json containing the encryption key or a json error  The end As you can see, building a functional ransomware, with some of the best existing algorithms is not difficult, anyone with some programming skills can build that in any programming language.
+  </content>
+ </entry>
+ <entry>
+  <title>chenjia404: p2ptunnel</title>
+  <author>
+   <name>chenjia404</name>
+  </author>
+  <link href="https://github.com/chenjia404/p2ptunnel" />
+  <id>urn:rprimus:github:chenjia404:p2ptunnel</id>
+  <published>2021-04-14T13:24:37Z</published>
+  <updated>2021-04-14T13:24:37Z</updated>
+  <content type="html">
+   ä¸ä¸ªåºäºp2pçtcpãudpåç½ç©¿éé§éå·¥å·
+  </content>
+ </entry>
+ <entry>
+  <title>riyadlusholihin: mcpayment</title>
+  <author>
+   <name>riyadlusholihin</name>
+  </author>
+  <link href="https://github.com/riyadlusholihin/mcpayment" />
+  <id>urn:rprimus:github:riyadlusholihin:mcpayment</id>
+  <published>2021-04-14T11:45:44Z</published>
+  <updated>2021-04-14T11:45:44Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>datreeio: datree</title>
+  <author>
+   <name>datreeio</name>
+  </author>
+  <link href="https://github.com/datreeio/datree" />
+  <id>urn:rprimus:github:datreeio:datree</id>
+  <published>2021-04-14T11:44:56Z</published>
+  <updated>2021-04-14T11:44:56Z</updated>
+  <content type="html">
+   Prevent Kubernetes misconfigurations from ever making it  (again ð¤) to production! The CLI integration provides policy enforcement solution to run automatic checks for rule violations.  Docs: https://hub.datree.io
+  </content>
+ </entry>
+ <entry>
+  <title>c9s: my-lucky-draw-telegram-bot</title>
+  <author>
+   <name>c9s</name>
+  </author>
+  <link href="https://github.com/c9s/my-lucky-draw-telegram-bot" />
+  <id>urn:rprimus:github:c9s:my-lucky-draw-telegram-bot</id>
+  <published>2021-04-14T11:04:57Z</published>
+  <updated>2021-04-14T11:04:57Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>singhrohit487: golang-pinger-program</title>
+  <author>
+   <name>singhrohit487</name>
+  </author>
+  <link href="https://github.com/singhrohit487/golang-pinger-program" />
+  <id>urn:rprimus:github:singhrohit487:golang-pinger-program</id>
+  <published>2021-04-14T10:36:50Z</published>
+  <updated>2021-04-14T10:36:50Z</updated>
+  <content type="html">
+   This repository contains a simple program written in Golang named pinger.
+  </content>
+ </entry>
  <entry>
   <title>ypapax: 3dots</title>
   <author>
@@ -13,6 +117,32 @@
   <id>urn:rprimus:github:ypapax:3dots</id>
   <published>2021-04-14T09:27:20Z</published>
   <updated>2021-04-14T09:27:20Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>rvolosatovs: rund</title>
+  <author>
+   <name>rvolosatovs</name>
+  </author>
+  <link href="https://github.com/rvolosatovs/rund" />
+  <id>urn:rprimus:github:rvolosatovs:rund</id>
+  <published>2021-04-14T08:54:09Z</published>
+  <updated>2021-04-14T08:54:09Z</updated>
+  <content type="html">
+   Run arbitrary containerized Linux processes over gRPC with mTLS auth
+  </content>
+ </entry>
+ <entry>
+  <title>bn0901: jiangziyaCICD</title>
+  <author>
+   <name>bn0901</name>
+  </author>
+  <link href="https://github.com/bn0901/jiangziyaCICD" />
+  <id>urn:rprimus:github:bn0901:jiangziyaCICD</id>
+  <published>2021-04-14T08:53:09Z</published>
+  <updated>2021-04-14T08:53:09Z</updated>
   <content type="html">
    
   </content>
@@ -40,33 +170,20 @@
   <published>2021-04-14T07:54:31Z</published>
   <updated>2021-04-14T07:54:31Z</updated>
   <content type="html">
-   Simple cli tool to generate OTP tokens
+   Simple CLI tool to generate OTP tokens
   </content>
  </entry>
  <entry>
-  <title>grz-gajda: onboarding-gg</title>
+  <title>uvulpos: goMailPrint</title>
   <author>
-   <name>grz-gajda</name>
+   <name>uvulpos</name>
   </author>
-  <link href="https://github.com/grz-gajda/onboarding-gg" />
-  <id>urn:rprimus:github:grz-gajda:onboarding-gg</id>
-  <published>2021-04-14T07:18:00Z</published>
-  <updated>2021-04-14T07:18:00Z</updated>
+  <link href="https://github.com/uvulpos/goMailPrint" />
+  <id>urn:rprimus:github:uvulpos:goMailPrint</id>
+  <published>2021-04-14T07:23:49Z</published>
+  <updated>2021-04-14T07:23:49Z</updated>
   <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>starlightromero: go-iteration</title>
-  <author>
-   <name>starlightromero</name>
-  </author>
-  <link href="https://github.com/starlightromero/go-iteration" />
-  <id>urn:rprimus:github:starlightromero:go-iteration</id>
-  <published>2021-04-14T06:44:21Z</published>
-  <updated>2021-04-14T06:44:21Z</updated>
-  <content type="html">
-   
+   A simple tool to print your emails &amp; attachments
   </content>
  </entry>
  <entry>
@@ -83,42 +200,16 @@
   </content>
  </entry>
  <entry>
-  <title>cshyun7015: DevSecOps</title>
+  <title>sk1122: Kanban-Board</title>
   <author>
-   <name>cshyun7015</name>
+   <name>sk1122</name>
   </author>
-  <link href="https://github.com/cshyun7015/DevSecOps" />
-  <id>urn:rprimus:github:cshyun7015:DevSecOps</id>
-  <published>2021-04-14T06:20:07Z</published>
-  <updated>2021-04-14T06:20:07Z</updated>
+  <link href="https://github.com/sk1122/Kanban-Board" />
+  <id>urn:rprimus:github:sk1122:Kanban-Board</id>
+  <published>2021-04-14T05:14:59Z</published>
+  <updated>2021-04-14T05:14:59Z</updated>
   <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>mmotiy: mev-gth</title>
-  <author>
-   <name>mmotiy</name>
-  </author>
-  <link href="https://github.com/mmotiy/mev-gth" />
-  <id>urn:rprimus:github:mmotiy:mev-gth</id>
-  <published>2021-04-14T05:25:22Z</published>
-  <updated>2021-04-14T05:25:22Z</updated>
-  <content type="html">
-   mev-gth
-  </content>
- </entry>
- <entry>
-  <title>evo-cloud: logs</title>
-  <author>
-   <name>evo-cloud</name>
-  </author>
-  <link href="https://github.com/evo-cloud/logs" />
-  <id>urn:rprimus:github:evo-cloud:logs</id>
-  <published>2021-04-14T05:16:04Z</published>
-  <updated>2021-04-14T05:16:04Z</updated>
-  <content type="html">
-   Structured Logging And Tracing
+   Kanban Board - You can create Boards, Manage you Day
   </content>
  </entry>
  <entry>
@@ -130,32 +221,6 @@
   <id>urn:rprimus:github:wijaysali:pencarian-user</id>
   <published>2021-04-14T04:23:50Z</published>
   <updated>2021-04-14T04:23:50Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>shuheishintani: simple-bank</title>
-  <author>
-   <name>shuheishintani</name>
-  </author>
-  <link href="https://github.com/shuheishintani/simple-bank" />
-  <id>urn:rprimus:github:shuheishintani:simple-bank</id>
-  <published>2021-04-14T04:11:31Z</published>
-  <updated>2021-04-14T04:11:31Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jbrough: leucine</title>
-  <author>
-   <name>jbrough</name>
-  </author>
-  <link href="https://github.com/jbrough/leucine" />
-  <id>urn:rprimus:github:jbrough:leucine</id>
-  <published>2021-04-14T04:02:37Z</published>
-  <updated>2021-04-14T04:02:37Z</updated>
   <content type="html">
    
   </content>
@@ -184,19 +249,6 @@
   <updated>2021-04-14T03:15:08Z</updated>
   <content type="html">
    å¾®ååï¼æç´¢æå¡ï¼go-gprcå¾®æå¡
-  </content>
- </entry>
- <entry>
-  <title>jebo87: microservices-grpc</title>
-  <author>
-   <name>jebo87</name>
-  </author>
-  <link href="https://github.com/jebo87/microservices-grpc" />
-  <id>urn:rprimus:github:jebo87:microservices-grpc</id>
-  <published>2021-04-14T03:04:37Z</published>
-  <updated>2021-04-14T03:04:37Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
  <entry>
@@ -265,14 +317,14 @@
   </content>
  </entry>
  <entry>
-  <title>3490654586: GIN-WEB</title>
+  <title>lrweck: go-video-stream</title>
   <author>
-   <name>3490654586</name>
+   <name>lrweck</name>
   </author>
-  <link href="https://github.com/3490654586/GIN-WEB" />
-  <id>urn:rprimus:github:3490654586:GIN-WEB</id>
-  <published>2021-04-14T02:35:06Z</published>
-  <updated>2021-04-14T02:35:06Z</updated>
+  <link href="https://github.com/lrweck/go-video-stream" />
+  <id>urn:rprimus:github:lrweck:go-video-stream</id>
+  <published>2021-04-14T02:10:13Z</published>
+  <updated>2021-04-14T02:10:13Z</updated>
   <content type="html">
    
   </content>
@@ -330,45 +382,6 @@
   </content>
  </entry>
  <entry>
-  <title>caddier: logistic_project</title>
-  <author>
-   <name>caddier</name>
-  </author>
-  <link href="https://github.com/caddier/logistic_project" />
-  <id>urn:rprimus:github:caddier:logistic_project</id>
-  <published>2021-04-14T00:59:33Z</published>
-  <updated>2021-04-14T00:59:33Z</updated>
-  <content type="html">
-   logistic_project
-  </content>
- </entry>
- <entry>
-  <title>zhangzhaoxiang: go_blog_service</title>
-  <author>
-   <name>zhangzhaoxiang</name>
-  </author>
-  <link href="https://github.com/zhangzhaoxiang/go_blog_service" />
-  <id>urn:rprimus:github:zhangzhaoxiang:go_blog_service</id>
-  <published>2021-04-14T00:54:15Z</published>
-  <updated>2021-04-14T00:54:15Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>sgash708: chatroom-go</title>
-  <author>
-   <name>sgash708</name>
-  </author>
-  <link href="https://github.com/sgash708/chatroom-go" />
-  <id>urn:rprimus:github:sgash708:chatroom-go</id>
-  <published>2021-04-14T00:47:23Z</published>
-  <updated>2021-04-14T00:47:23Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
   <title>engelsjk: geojson2svg</title>
   <author>
    <name>engelsjk</name>
@@ -377,19 +390,6 @@
   <id>urn:rprimus:github:engelsjk:geojson2svg</id>
   <published>2021-04-14T00:36:40Z</published>
   <updated>2021-04-14T00:36:40Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>adityamahesa: nats-publish-example</title>
-  <author>
-   <name>adityamahesa</name>
-  </author>
-  <link href="https://github.com/adityamahesa/nats-publish-example" />
-  <id>urn:rprimus:github:adityamahesa:nats-publish-example</id>
-  <published>2021-04-14T00:11:08Z</published>
-  <updated>2021-04-14T00:11:08Z</updated>
   <content type="html">
    
   </content>
@@ -457,6 +457,19 @@
   <updated>2021-04-13T17:56:37Z</updated>
   <content type="html">
    
+  </content>
+ </entry>
+ <entry>
+  <title>ofeefo: snip</title>
+  <author>
+   <name>ofeefo</name>
+  </author>
+  <link href="https://github.com/ofeefo/snip" />
+  <id>urn:rprimus:github:ofeefo:snip</id>
+  <published>2021-04-13T16:56:33Z</published>
+  <updated>2021-04-13T16:56:33Z</updated>
+  <content type="html">
+   A local snippet manager in Go
   </content>
  </entry>
  <entry>
@@ -535,6 +548,19 @@
   <updated>2021-04-13T13:56:22Z</updated>
   <content type="html">
    Parsing ini configuration files to structs
+  </content>
+ </entry>
+ <entry>
+  <title>kha7iq: pingme</title>
+  <author>
+   <name>kha7iq</name>
+  </author>
+  <link href="https://github.com/kha7iq/pingme" />
+  <id>urn:rprimus:github:kha7iq:pingme</id>
+  <published>2021-04-13T13:49:32Z</published>
+  <updated>2021-04-13T13:49:32Z</updated>
+  <content type="html">
+   PingMe is a CLI tool which provides the ability to send messages or alerts to multiple messaging platforms &amp; email.
   </content>
  </entry>
  <entry>
@@ -655,19 +681,6 @@
   </content>
  </entry>
  <entry>
-  <title>datreeio: datree</title>
-  <author>
-   <name>datreeio</name>
-  </author>
-  <link href="https://github.com/datreeio/datree" />
-  <id>urn:rprimus:github:datreeio:datree</id>
-  <published>2021-04-13T07:01:19Z</published>
-  <updated>2021-04-13T07:01:19Z</updated>
-  <content type="html">
-   Prevent Kubernetes misconfigurations from ever making it to production. https://hub.datree.io
-  </content>
- </entry>
- <entry>
   <title>hetiansu5: migration</title>
   <author>
    <name>hetiansu5</name>
@@ -730,19 +743,6 @@
   <updated>2021-04-13T04:14:45Z</updated>
   <content type="html">
    A lightweight and customizable Golang logger
-  </content>
- </entry>
- <entry>
-  <title>faddat: gaiadump</title>
-  <author>
-   <name>faddat</name>
-  </author>
-  <link href="https://github.com/faddat/gaiadump" />
-  <id>urn:rprimus:github:faddat:gaiadump</id>
-  <published>2021-04-13T04:05:09Z</published>
-  <updated>2021-04-13T04:05:09Z</updated>
-  <content type="html">
-   Dumps gaia no matter which modules are loaded.  JSON accessed via redis.
   </content>
  </entry>
  <entry>
@@ -837,6 +837,19 @@
   </content>
  </entry>
  <entry>
+  <title>reactive-tech: kubegres</title>
+  <author>
+   <name>reactive-tech</name>
+  </author>
+  <link href="https://github.com/reactive-tech/kubegres" />
+  <id>urn:rprimus:github:reactive-tech:kubegres</id>
+  <published>2021-04-12T20:51:59Z</published>
+  <updated>2021-04-12T20:51:59Z</updated>
+  <content type="html">
+   Kubegres is a Kubernetes operator allowing to create a cluster of PostgreSql instances and manage databases replication, failover and backup.
+  </content>
+ </entry>
+ <entry>
   <title>miyoyo: FlutterDoc</title>
   <author>
    <name>miyoyo</name>
@@ -902,16 +915,16 @@
   </content>
  </entry>
  <entry>
-  <title>xinyidev: dockerdev</title>
+  <title>polarsignals: pprof-labels-example</title>
   <author>
-   <name>xinyidev</name>
+   <name>polarsignals</name>
   </author>
-  <link href="https://github.com/xinyidev/dockerdev" />
-  <id>urn:rprimus:github:xinyidev:dockerdev</id>
-  <published>2021-04-12T17:26:14Z</published>
-  <updated>2021-04-12T17:26:14Z</updated>
+  <link href="https://github.com/polarsignals/pprof-labels-example" />
+  <id>urn:rprimus:github:polarsignals:pprof-labels-example</id>
+  <published>2021-04-12T17:48:38Z</published>
+  <updated>2021-04-12T17:48:38Z</updated>
   <content type="html">
-   
+   Example go code demonstrating pprof labels
   </content>
  </entry>
  <entry>
@@ -954,16 +967,16 @@
   </content>
  </entry>
  <entry>
-  <title>fupenglin: redisLock</title>
+  <title>pgollangi: go-portfinder</title>
   <author>
-   <name>fupenglin</name>
+   <name>pgollangi</name>
   </author>
-  <link href="https://github.com/fupenglin/redisLock" />
-  <id>urn:rprimus:github:fupenglin:redisLock</id>
-  <published>2021-04-12T15:23:07Z</published>
-  <updated>2021-04-12T15:23:07Z</updated>
+  <link href="https://github.com/pgollangi/go-portfinder" />
+  <id>urn:rprimus:github:pgollangi:go-portfinder</id>
+  <published>2021-04-12T14:29:55Z</published>
+  <updated>2021-04-12T14:29:55Z</updated>
   <content type="html">
-   åå®ä¾Redisåå¸å¼é
+   Go implementation of node-portfinder
   </content>
  </entry>
  <entry>
@@ -1055,19 +1068,6 @@
   <updated>2021-04-12T09:12:36Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>qq603350683: micro_service</title>
-  <author>
-   <name>qq603350683</name>
-  </author>
-  <link href="https://github.com/qq603350683/micro_service" />
-  <id>urn:rprimus:github:qq603350683:micro_service</id>
-  <published>2021-04-12T08:52:40Z</published>
-  <updated>2021-04-12T08:52:40Z</updated>
-  <content type="html">
-   Golang micro
   </content>
  </entry>
  <entry>
