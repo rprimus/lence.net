@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-racket.atom"/>
 <id>urn:rprimus:github:newracketrepos</id>
-<updated>2021-04-16T00:12:59Z</updated>
+<updated>2021-04-17T00:14:18Z</updated>
 <title type='text'>New GitHub Racket Repos</title>
+ <entry>
+  <title>trash-town: folks</title>
+  <author>
+   <name>trash-town</name>
+  </author>
+  <link href="https://github.com/trash-town/folks" />
+  <id>urn:rprimus:github:trash-town:folks</id>
+  <published>2021-04-17T00:14:18Z</published>
+  <updated>2021-04-17T00:14:18Z</updated>
+  <content type="html">
+   a program to generate an html page of folks on the server
+  </content>
+ </entry>
+ <entry>
+  <title>HoodyH: Scheme-Uni</title>
+  <author>
+   <name>HoodyH</name>
+  </author>
+  <link href="https://github.com/HoodyH/Scheme-Uni" />
+  <id>urn:rprimus:github:HoodyH:Scheme-Uni</id>
+  <published>2021-04-16T22:13:54Z</published>
+  <updated>2021-04-16T22:13:54Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>sorawee: readtable-extra</title>
+  <author>
+   <name>sorawee</name>
+  </author>
+  <link href="https://github.com/sorawee/readtable-extra" />
+  <id>urn:rprimus:github:sorawee:readtable-extra</id>
+  <published>2021-04-16T10:08:23Z</published>
+  <updated>2021-04-16T10:08:23Z</updated>
+  <content type="html">
+   A make-readtable drop-in replacement with an ability to yield to other tables
+  </content>
+ </entry>
+ <entry>
+  <title>henry40408: leetcode.rkt</title>
+  <author>
+   <name>henry40408</name>
+  </author>
+  <link href="https://github.com/henry40408/leetcode.rkt" />
+  <id>urn:rprimus:github:henry40408:leetcode.rkt</id>
+  <published>2021-04-16T07:24:07Z</published>
+  <updated>2021-04-16T07:24:07Z</updated>
+  <content type="html">
+   Solve Leetcode problems with racket-lang.org
+  </content>
+ </entry>
  <entry>
   <title>srfoster: unreal</title>
   <author>
@@ -93,19 +145,6 @@
   <updated>2021-04-15T01:23:07Z</updated>
   <content type="html">
    interpreter and assembler that interprets the SIMP programming language and converts it into PRIMPL instructions
-  </content>
- </entry>
- <entry>
-  <title>JuanCamilo-R: ProyectoFLP</title>
-  <author>
-   <name>JuanCamilo-R</name>
-  </author>
-  <link href="https://github.com/JuanCamilo-R/ProyectoFLP" />
-  <id>urn:rprimus:github:JuanCamilo-R:ProyectoFLP</id>
-  <published>2021-04-14T13:31:53Z</published>
-  <updated>2021-04-14T13:31:53Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
