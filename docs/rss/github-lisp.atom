@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-04-17T10:06:02Z</updated>
+<updated>2021-04-18T02:18:49Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>bernyag: tictactoe</title>
+  <author>
+   <name>bernyag</name>
+  </author>
+  <link href="https://github.com/bernyag/tictactoe" />
+  <id>urn:rprimus:github:bernyag:tictactoe</id>
+  <published>2021-04-18T02:18:49Z</published>
+  <updated>2021-04-18T02:18:49Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>OliverLeitner: hellolisp</title>
+  <author>
+   <name>OliverLeitner</name>
+  </author>
+  <link href="https://github.com/OliverLeitner/hellolisp" />
+  <id>urn:rprimus:github:OliverLeitner:hellolisp</id>
+  <published>2021-04-18T00:00:30Z</published>
+  <updated>2021-04-18T00:00:30Z</updated>
+  <content type="html">
+   adventures in lisp
+  </content>
+ </entry>
+ <entry>
+  <title>ryusuke-okuno: wired</title>
+  <author>
+   <name>ryusuke-okuno</name>
+  </author>
+  <link href="https://github.com/ryusuke-okuno/wired" />
+  <id>urn:rprimus:github:ryusuke-okuno:wired</id>
+  <published>2021-04-17T20:32:16Z</published>
+  <updated>2021-04-17T20:32:16Z</updated>
+  <content type="html">
+   Decentralized imageboard software over a blockchain
+  </content>
+ </entry>
  <entry>
   <title>ACMCMC: lisp-tests</title>
   <author>
@@ -27,7 +66,7 @@
   <published>2021-04-17T08:06:07Z</published>
   <updated>2021-04-17T08:06:07Z</updated>
   <content type="html">
-   
+   Mirror of GraphQL compiler in common lisp
   </content>
  </entry>
  <entry>
@@ -41,6 +80,19 @@
   <updated>2021-04-17T05:46:18Z</updated>
   <content type="html">
    A simple tutorial project on the Lisp Interface Library
+  </content>
+ </entry>
+ <entry>
+  <title>faithtwardzik: UCLA-CS-161</title>
+  <author>
+   <name>faithtwardzik</name>
+  </author>
+  <link href="https://github.com/faithtwardzik/UCLA-CS-161" />
+  <id>urn:rprimus:github:faithtwardzik:UCLA-CS-161</id>
+  <published>2021-04-17T02:49:41Z</published>
+  <updated>2021-04-17T02:49:41Z</updated>
+  <content type="html">
+   This repository contains my lab and homework solutions for the UCLA Computer Science course CS161: Introduction to Artificial Intelligence, taught by Professor Gu in Winter 2021. Grade received in course: P
   </content>
  </entry>
  <entry>
@@ -130,136 +182,6 @@
   <id>urn:rprimus:github:KatarinaDeletic:ByteLisp</id>
   <published>2021-04-16T11:07:25Z</published>
   <updated>2021-04-16T11:07:25Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>val314159: r2</title>
-  <author>
-   <name>val314159</name>
-  </author>
-  <link href="https://github.com/val314159/r2" />
-  <id>urn:rprimus:github:val314159:r2</id>
-  <published>2021-04-15T21:33:51Z</published>
-  <updated>2021-04-15T21:33:51Z</updated>
-  <content type="html">
-   r2
-  </content>
- </entry>
- <entry>
-  <title>tripslab: propolis</title>
-  <author>
-   <name>tripslab</name>
-  </author>
-  <link href="https://github.com/tripslab/propolis" />
-  <id>urn:rprimus:github:tripslab:propolis</id>
-  <published>2021-04-15T19:43:26Z</published>
-  <updated>2021-04-15T19:43:26Z</updated>
-  <content type="html">
-   for parsing paragraphs from the ProPara dataset
-  </content>
- </entry>
- <entry>
-  <title>GarettMorrison: AutoLISP_Tools</title>
-  <author>
-   <name>GarettMorrison</name>
-  </author>
-  <link href="https://github.com/GarettMorrison/AutoLISP_Tools" />
-  <id>urn:rprimus:github:GarettMorrison:AutoLISP_Tools</id>
-  <published>2021-04-15T17:06:02Z</published>
-  <updated>2021-04-15T17:06:02Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>UCLM-ARCO: scone-server</title>
-  <author>
-   <name>UCLM-ARCO</name>
-  </author>
-  <link href="https://github.com/UCLM-ARCO/scone-server" />
-  <id>urn:rprimus:github:UCLM-ARCO:scone-server</id>
-  <published>2021-04-15T16:48:15Z</published>
-  <updated>2021-04-15T16:48:15Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>DD-1111: cs375-compiler</title>
-  <author>
-   <name>DD-1111</name>
-  </author>
-  <link href="https://github.com/DD-1111/cs375-compiler" />
-  <id>urn:rprimus:github:DD-1111:cs375-compiler</id>
-  <published>2021-04-15T13:22:43Z</published>
-  <updated>2021-04-15T13:22:43Z</updated>
-  <content type="html">
-   A pascal compiler written in c and lisp, class work for cs375 with Dr. Novak at UT Austin
-  </content>
- </entry>
- <entry>
-  <title>hyotang666: etba</title>
-  <author>
-   <name>hyotang666</name>
-  </author>
-  <link href="https://github.com/hyotang666/etba" />
-  <id>urn:rprimus:github:hyotang666:etba</id>
-  <published>2021-04-15T07:04:28Z</published>
-  <updated>2021-04-15T07:04:28Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>hyotang666: tovia</title>
-  <author>
-   <name>hyotang666</name>
-  </author>
-  <link href="https://github.com/hyotang666/tovia" />
-  <id>urn:rprimus:github:hyotang666:tovia</id>
-  <published>2021-04-15T07:01:57Z</published>
-  <updated>2021-04-15T07:01:57Z</updated>
-  <content type="html">
-   TOp VIew Action game framework for common lisp.
-  </content>
- </entry>
- <entry>
-  <title>attila-lendvai: bluetooth-mqtt-gateway</title>
-  <author>
-   <name>attila-lendvai</name>
-  </author>
-  <link href="https://github.com/attila-lendvai/bluetooth-mqtt-gateway" />
-  <id>urn:rprimus:github:attila-lendvai:bluetooth-mqtt-gateway</id>
-  <published>2021-04-15T01:10:10Z</published>
-  <updated>2021-04-15T01:10:10Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>elanaelman: Gridworld</title>
-  <author>
-   <name>elanaelman</name>
-  </author>
-  <link href="https://github.com/elanaelman/Gridworld" />
-  <id>urn:rprimus:github:elanaelman:Gridworld</id>
-  <published>2021-04-15T00:27:07Z</published>
-  <updated>2021-04-15T00:27:07Z</updated>
-  <content type="html">
-   Gridworld project for CSC291.
-  </content>
- </entry>
- <entry>
-  <title>walpurgisnatch: watch-dog</title>
-  <author>
-   <name>walpurgisnatch</name>
-  </author>
-  <link href="https://github.com/walpurgisnatch/watch-dog" />
-  <id>urn:rprimus:github:walpurgisnatch:watch-dog</id>
-  <published>2021-04-15T00:03:14Z</published>
-  <updated>2021-04-15T00:03:14Z</updated>
   <content type="html">
    
   </content>
