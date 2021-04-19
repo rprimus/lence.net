@@ -2,19 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-racket.atom"/>
 <id>urn:rprimus:github:newracketrepos</id>
-<updated>2021-04-18T08:34:28Z</updated>
+<updated>2021-04-19T06:04:13Z</updated>
 <title type='text'>New GitHub Racket Repos</title>
  <entry>
-  <title>DexterLagan: cobalt2-theme</title>
+  <title>kazeichev: SICP</title>
   <author>
-   <name>DexterLagan</name>
+   <name>kazeichev</name>
   </author>
-  <link href="https://github.com/DexterLagan/cobalt2-theme" />
-  <id>urn:rprimus:github:DexterLagan:cobalt2-theme</id>
-  <published>2021-04-18T08:34:28Z</published>
-  <updated>2021-04-18T08:34:28Z</updated>
+  <link href="https://github.com/kazeichev/SICP" />
+  <id>urn:rprimus:github:kazeichev:SICP</id>
+  <published>2021-04-19T06:04:13Z</published>
+  <updated>2021-04-19T06:04:13Z</updated>
   <content type="html">
-   The Cobalt 2 color scheme for DrRacket, Racket&#039;s IDE.
+   Ð£Ð¿ÑÐ°Ð¶Ð½ÐµÐ½Ð¸Ñ ÐºÑÑÑÐ° &quot;Ð¡ÑÑÑÐºÑÑÑÐ° Ð¸ Ð¸Ð½ÑÐµÑÐ¿ÑÐµÑÐ°ÑÐ¸Ñ ÐºÐ¾Ð¼Ð¿ÑÑÑÐµÑÐ½ÑÑ Ð¿ÑÐ¾Ð³ÑÐ°Ð¼Ð¼&quot;
+  </content>
+ </entry>
+ <entry>
+  <title>EmmanuelCruz: Lenguajes_de_Programacion</title>
+  <author>
+   <name>EmmanuelCruz</name>
+  </author>
+  <link href="https://github.com/EmmanuelCruz/Lenguajes_de_Programacion" />
+  <id>urn:rprimus:github:EmmanuelCruz:Lenguajes_de_Programacion</id>
+  <published>2021-04-19T04:38:30Z</published>
+  <updated>2021-04-19T04:38:30Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>gavlegoat: repertoire</title>
+  <author>
+   <name>gavlegoat</name>
+  </author>
+  <link href="https://github.com/gavlegoat/repertoire" />
+  <id>urn:rprimus:github:gavlegoat:repertoire</id>
+  <published>2021-04-19T02:04:01Z</published>
+  <updated>2021-04-19T02:04:01Z</updated>
+  <content type="html">
+   A tool for building and keeping opening repertoire.
+  </content>
+ </entry>
+ <entry>
+  <title>zhra2zaid: ProgrammingLanguageCourse</title>
+  <author>
+   <name>zhra2zaid</name>
+  </author>
+  <link href="https://github.com/zhra2zaid/ProgrammingLanguageCourse" />
+  <id>urn:rprimus:github:zhra2zaid:ProgrammingLanguageCourse</id>
+  <published>2021-04-18T11:46:15Z</published>
+  <updated>2021-04-18T11:46:15Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>ShuangyiTong: InterestingCodeSnippet</title>
+  <author>
+   <name>ShuangyiTong</name>
+  </author>
+  <link href="https://github.com/ShuangyiTong/InterestingCodeSnippet" />
+  <id>urn:rprimus:github:ShuangyiTong:InterestingCodeSnippet</id>
+  <published>2021-04-18T11:08:47Z</published>
+  <updated>2021-04-18T11:08:47Z</updated>
+  <content type="html">
+   Collects some interesting code I&#039;ve written in the past
   </content>
  </entry>
  <entry>
@@ -54,58 +106,6 @@
   <updated>2021-04-17T00:14:18Z</updated>
   <content type="html">
    a program to generate an html page of folks on the server
-  </content>
- </entry>
- <entry>
-  <title>HoodyH: Scheme-Uni</title>
-  <author>
-   <name>HoodyH</name>
-  </author>
-  <link href="https://github.com/HoodyH/Scheme-Uni" />
-  <id>urn:rprimus:github:HoodyH:Scheme-Uni</id>
-  <published>2021-04-16T22:13:54Z</published>
-  <updated>2021-04-16T22:13:54Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>sorawee: readtable-extra</title>
-  <author>
-   <name>sorawee</name>
-  </author>
-  <link href="https://github.com/sorawee/readtable-extra" />
-  <id>urn:rprimus:github:sorawee:readtable-extra</id>
-  <published>2021-04-16T10:08:23Z</published>
-  <updated>2021-04-16T10:08:23Z</updated>
-  <content type="html">
-   A make-readtable drop-in replacement with an ability to yield to other tables
-  </content>
- </entry>
- <entry>
-  <title>henry40408: leetcode.rkt</title>
-  <author>
-   <name>henry40408</name>
-  </author>
-  <link href="https://github.com/henry40408/leetcode.rkt" />
-  <id>urn:rprimus:github:henry40408:leetcode.rkt</id>
-  <published>2021-04-16T07:24:07Z</published>
-  <updated>2021-04-16T07:24:07Z</updated>
-  <content type="html">
-   Solve Leetcode problems with racket-lang.org
-  </content>
- </entry>
- <entry>
-  <title>srfoster: unreal</title>
-  <author>
-   <name>srfoster</name>
-  </author>
-  <link href="https://github.com/srfoster/unreal" />
-  <id>urn:rprimus:github:srfoster:unreal</id>
-  <published>2021-04-16T00:12:59Z</published>
-  <updated>2021-04-16T00:12:59Z</updated>
-  <content type="html">
-   Racket wrapper for talking to Unreal runtimes that support Unreal.js
   </content>
  </entry>
 </feed>
