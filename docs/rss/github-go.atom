@@ -2,19 +2,110 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-go.atom"/>
 <id>urn:rprimus:github:newgorepos</id>
-<updated>2021-04-21T07:39:32Z</updated>
+<updated>2021-04-21T09:16:08Z</updated>
 <title type='text'>New GitHub Go Repos</title>
  <entry>
-  <title>gobiny: excelize</title>
+  <title>jowenshaw: gethscan</title>
   <author>
-   <name>gobiny</name>
+   <name>jowenshaw</name>
   </author>
-  <link href="https://github.com/gobiny/excelize" />
-  <id>urn:rprimus:github:gobiny:excelize</id>
-  <published>2021-04-21T07:39:32Z</published>
-  <updated>2021-04-21T07:39:32Z</updated>
+  <link href="https://github.com/jowenshaw/gethscan" />
+  <id>urn:rprimus:github:jowenshaw:gethscan</id>
+  <published>2021-04-21T09:16:08Z</published>
+  <updated>2021-04-21T09:16:08Z</updated>
+  <content type="html">
+   scan eth blockchain
+  </content>
+ </entry>
+ <entry>
+  <title>matthausen: web-crawler</title>
+  <author>
+   <name>matthausen</name>
+  </author>
+  <link href="https://github.com/matthausen/web-crawler" />
+  <id>urn:rprimus:github:matthausen:web-crawler</id>
+  <published>2021-04-21T09:09:34Z</published>
+  <updated>2021-04-21T09:09:34Z</updated>
   <content type="html">
    
+  </content>
+ </entry>
+ <entry>
+  <title>citizenfx: buildcachemeta-go</title>
+  <author>
+   <name>citizenfx</name>
+  </author>
+  <link href="https://github.com/citizenfx/buildcachemeta-go" />
+  <id>urn:rprimus:github:citizenfx:buildcachemeta-go</id>
+  <published>2021-04-21T08:58:46Z</published>
+  <updated>2021-04-21T08:58:46Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>jimmyw86878: kubemonitor</title>
+  <author>
+   <name>jimmyw86878</name>
+  </author>
+  <link href="https://github.com/jimmyw86878/kubemonitor" />
+  <id>urn:rprimus:github:jimmyw86878:kubemonitor</id>
+  <published>2021-04-21T08:36:11Z</published>
+  <updated>2021-04-21T08:36:11Z</updated>
+  <content type="html">
+   Monitor status of pod and restart other pods for synchronization
+  </content>
+ </entry>
+ <entry>
+  <title>goarchitecture: lesson-2</title>
+  <author>
+   <name>goarchitecture</name>
+  </author>
+  <link href="https://github.com/goarchitecture/lesson-2" />
+  <id>urn:rprimus:github:goarchitecture:lesson-2</id>
+  <published>2021-04-21T08:32:13Z</published>
+  <updated>2021-04-21T08:32:13Z</updated>
+  <content type="html">
+   Lesson 2 code
+  </content>
+ </entry>
+ <entry>
+  <title>misbahulard: jenkins-tracer</title>
+  <author>
+   <name>misbahulard</name>
+  </author>
+  <link href="https://github.com/misbahulard/jenkins-tracer" />
+  <id>urn:rprimus:github:misbahulard:jenkins-tracer</id>
+  <published>2021-04-21T08:26:41Z</published>
+  <updated>2021-04-21T08:26:41Z</updated>
+  <content type="html">
+   Jenkins tracer is used to record all the Jenkins job environment variables and metrics, and send them to Elasticsearch
+  </content>
+ </entry>
+ <entry>
+  <title>paradise98425: gin-go</title>
+  <author>
+   <name>paradise98425</name>
+  </author>
+  <link href="https://github.com/paradise98425/gin-go" />
+  <id>urn:rprimus:github:paradise98425:gin-go</id>
+  <published>2021-04-21T08:07:39Z</published>
+  <updated>2021-04-21T08:07:39Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>xuyang404: GoTasksQueue</title>
+  <author>
+   <name>xuyang404</name>
+  </author>
+  <link href="https://github.com/xuyang404/GoTasksQueue" />
+  <id>urn:rprimus:github:xuyang404:GoTasksQueue</id>
+  <published>2021-04-21T07:48:03Z</published>
+  <updated>2021-04-21T07:48:03Z</updated>
+  <content type="html">
+   ä»»å¡éå
   </content>
  </entry>
  <entry>
@@ -31,6 +122,19 @@
   </content>
  </entry>
  <entry>
+  <title>OT-CONTAINER-KIT: k8s-secret-injector</title>
+  <author>
+   <name>OT-CONTAINER-KIT</name>
+  </author>
+  <link href="https://github.com/OT-CONTAINER-KIT/k8s-secret-injector" />
+  <id>urn:rprimus:github:OT-CONTAINER-KIT:k8s-secret-injector</id>
+  <published>2021-04-21T07:33:01Z</published>
+  <updated>2021-04-21T07:33:01Z</updated>
+  <content type="html">
+   k8s-secret-injector is a tool that can connect with multiple secret managers to fetch the secrets
+  </content>
+ </entry>
+ <entry>
   <title>the-maldridge: dtn</title>
   <author>
    <name>the-maldridge</name>
@@ -41,32 +145,6 @@
   <updated>2021-04-21T07:20:21Z</updated>
   <content type="html">
    Deploy to Nomad, a simple way to keep bumping versions in Nomad from CI
-  </content>
- </entry>
- <entry>
-  <title>ctlaltdieliet: friendly-tribble</title>
-  <author>
-   <name>ctlaltdieliet</name>
-  </author>
-  <link href="https://github.com/ctlaltdieliet/friendly-tribble" />
-  <id>urn:rprimus:github:ctlaltdieliet:friendly-tribble</id>
-  <published>2021-04-21T07:19:57Z</published>
-  <updated>2021-04-21T07:19:57Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>cdle: httpc</title>
-  <author>
-   <name>cdle</name>
-  </author>
-  <link href="https://github.com/cdle/httpc" />
-  <id>urn:rprimus:github:cdle:httpc</id>
-  <published>2021-04-21T06:58:46Z</published>
-  <updated>2021-04-21T06:58:46Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
  <entry>
@@ -96,42 +174,16 @@
   </content>
  </entry>
  <entry>
-  <title>Mukhenzo: go-concurrency</title>
+  <title>anonymousliem: Go-Learn</title>
   <author>
-   <name>Mukhenzo</name>
+   <name>anonymousliem</name>
   </author>
-  <link href="https://github.com/Mukhenzo/go-concurrency" />
-  <id>urn:rprimus:github:Mukhenzo:go-concurrency</id>
-  <published>2021-04-21T06:47:11Z</published>
-  <updated>2021-04-21T06:47:11Z</updated>
+  <link href="https://github.com/anonymousliem/Go-Learn" />
+  <id>urn:rprimus:github:anonymousliem:Go-Learn</id>
+  <published>2021-04-21T06:41:20Z</published>
+  <updated>2021-04-21T06:41:20Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>duong755: schedule-crawler</title>
-  <author>
-   <name>duong755</name>
-  </author>
-  <link href="https://github.com/duong755/schedule-crawler" />
-  <id>urn:rprimus:github:duong755:schedule-crawler</id>
-  <published>2021-04-21T06:26:58Z</published>
-  <updated>2021-04-21T06:26:58Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>krizza72: labs</title>
-  <author>
-   <name>krizza72</name>
-  </author>
-  <link href="https://github.com/krizza72/labs" />
-  <id>urn:rprimus:github:krizza72:labs</id>
-  <published>2021-04-21T06:24:32Z</published>
-  <updated>2021-04-21T06:24:32Z</updated>
-  <content type="html">
-   labs
   </content>
  </entry>
  <entry>
@@ -143,6 +195,19 @@
   <id>urn:rprimus:github:adhocore:gronx</id>
   <published>2021-04-21T06:14:03Z</published>
   <updated>2021-04-21T06:14:03Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>brumhard: graceful-shutdown-slides</title>
+  <author>
+   <name>brumhard</name>
+  </author>
+  <link href="https://github.com/brumhard/graceful-shutdown-slides" />
+  <id>urn:rprimus:github:brumhard:graceful-shutdown-slides</id>
+  <published>2021-04-21T06:09:05Z</published>
+  <updated>2021-04-21T06:09:05Z</updated>
   <content type="html">
    
   </content>
@@ -187,19 +252,6 @@
   </content>
  </entry>
  <entry>
-  <title>allanpk716: ChinaGEO</title>
-  <author>
-   <name>allanpk716</name>
-  </author>
-  <link href="https://github.com/allanpk716/ChinaGEO" />
-  <id>urn:rprimus:github:allanpk716:ChinaGEO</id>
-  <published>2021-04-21T05:19:02Z</published>
-  <updated>2021-04-21T05:19:02Z</updated>
-  <content type="html">
-   ä¸­å½çãå¸ãå¿çº§ç»çº¬åº¦åè¡¨
-  </content>
- </entry>
- <entry>
   <title>rmdhfz: go-microservice</title>
   <author>
    <name>rmdhfz</name>
@@ -213,19 +265,6 @@
   </content>
  </entry>
  <entry>
-  <title>xiaoxfan: split-pdf</title>
-  <author>
-   <name>xiaoxfan</name>
-  </author>
-  <link href="https://github.com/xiaoxfan/split-pdf" />
-  <id>urn:rprimus:github:xiaoxfan:split-pdf</id>
-  <published>2021-04-21T04:38:01Z</published>
-  <updated>2021-04-21T04:38:01Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
   <title>i-asgor: gmail</title>
   <author>
    <name>i-asgor</name>
@@ -234,19 +273,6 @@
   <id>urn:rprimus:github:i-asgor:gmail</id>
   <published>2021-04-21T04:28:18Z</published>
   <updated>2021-04-21T04:28:18Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>okh8609: gin_blog</title>
-  <author>
-   <name>okh8609</name>
-  </author>
-  <link href="https://github.com/okh8609/gin_blog" />
-  <id>urn:rprimus:github:okh8609:gin_blog</id>
-  <published>2021-04-21T04:13:36Z</published>
-  <updated>2021-04-21T04:13:36Z</updated>
   <content type="html">
    
   </content>
@@ -369,32 +395,6 @@
   </content>
  </entry>
  <entry>
-  <title>Micro-cosm: micro-server-go-session</title>
-  <author>
-   <name>Micro-cosm</name>
-  </author>
-  <link href="https://github.com/Micro-cosm/micro-server-go-session" />
-  <id>urn:rprimus:github:Micro-cosm:micro-server-go-session</id>
-  <published>2021-04-21T00:05:22Z</published>
-  <updated>2021-04-21T00:05:22Z</updated>
-  <content type="html">
-   A quickstart Go backend that spreads your session throughout your sprawling Mifedom.
-  </content>
- </entry>
- <entry>
-  <title>gobackpack: gomigrate</title>
-  <author>
-   <name>gobackpack</name>
-  </author>
-  <link href="https://github.com/gobackpack/gomigrate" />
-  <id>urn:rprimus:github:gobackpack:gomigrate</id>
-  <published>2021-04-21T00:01:25Z</published>
-  <updated>2021-04-21T00:01:25Z</updated>
-  <content type="html">
-   Go migration tool with GORM
-  </content>
- </entry>
- <entry>
   <title>Jvillegasd: LeetCode</title>
   <author>
    <name>Jvillegasd</name>
@@ -431,19 +431,6 @@
   <updated>2021-04-20T21:32:09Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>robsliwi: invalid-http-headers-response</title>
-  <author>
-   <name>robsliwi</name>
-  </author>
-  <link href="https://github.com/robsliwi/invalid-http-headers-response" />
-  <id>urn:rprimus:github:robsliwi:invalid-http-headers-response</id>
-  <published>2021-04-20T19:35:36Z</published>
-  <updated>2021-04-20T19:35:36Z</updated>
-  <content type="html">
-   This is a little toy http server that responses with an invalid http header.
   </content>
  </entry>
  <entry>
@@ -538,19 +525,6 @@
   </content>
  </entry>
  <entry>
-  <title>alifma: GoMicro1</title>
-  <author>
-   <name>alifma</name>
-  </author>
-  <link href="https://github.com/alifma/GoMicro1" />
-  <id>urn:rprimus:github:alifma:GoMicro1</id>
-  <published>2021-04-20T12:41:43Z</published>
-  <updated>2021-04-20T12:41:43Z</updated>
-  <content type="html">
-   test
-  </content>
- </entry>
- <entry>
   <title>go-lark: lark</title>
   <author>
    <name>go-lark</name>
@@ -564,12 +538,12 @@
   </content>
  </entry>
  <entry>
-  <title>FahdJamy: standard-structure-layout</title>
+  <title>FahdJamy: standard-go-app-structure-layout</title>
   <author>
    <name>FahdJamy</name>
   </author>
-  <link href="https://github.com/FahdJamy/standard-structure-layout" />
-  <id>urn:rprimus:github:FahdJamy:standard-structure-layout</id>
+  <link href="https://github.com/FahdJamy/standard-go-app-structure-layout" />
+  <id>urn:rprimus:github:FahdJamy:standard-go-app-structure-layout</id>
   <published>2021-04-20T11:48:57Z</published>
   <updated>2021-04-20T11:48:57Z</updated>
   <content type="html">
@@ -587,6 +561,19 @@
   <updated>2021-04-20T11:34:01Z</updated>
   <content type="html">
    
+  </content>
+ </entry>
+ <entry>
+  <title>minghsu0107: S3-Go</title>
+  <author>
+   <name>minghsu0107</name>
+  </author>
+  <link href="https://github.com/minghsu0107/S3-Go" />
+  <id>urn:rprimus:github:minghsu0107:S3-Go</id>
+  <published>2021-04-20T11:28:18Z</published>
+  <updated>2021-04-20T11:28:18Z</updated>
+  <content type="html">
+   AWS S3 Golang client sdk example (MinIO compatible).
   </content>
  </entry>
  <entry>
@@ -624,6 +611,19 @@
   <id>urn:rprimus:github:pulumi:pulumi-yandex</id>
   <published>2021-04-20T09:05:24Z</published>
   <updated>2021-04-20T09:05:24Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>bhaktiyudha: webrtc-rtsp</title>
+  <author>
+   <name>bhaktiyudha</name>
+  </author>
+  <link href="https://github.com/bhaktiyudha/webrtc-rtsp" />
+  <id>urn:rprimus:github:bhaktiyudha:webrtc-rtsp</id>
+  <published>2021-04-20T08:53:24Z</published>
+  <updated>2021-04-20T08:53:24Z</updated>
   <content type="html">
    
   </content>
@@ -915,6 +915,19 @@
   </content>
  </entry>
  <entry>
+  <title>FZambia: hashzip</title>
+  <author>
+   <name>FZambia</name>
+  </author>
+  <link href="https://github.com/FZambia/hashzip" />
+  <id>urn:rprimus:github:FZambia:hashzip</id>
+  <published>2021-04-19T14:55:57Z</published>
+  <updated>2021-04-19T14:55:57Z</updated>
+  <content type="html">
+   Calculate and display Go module zip file hash (used it to debug problems with module checksum mismatch)
+  </content>
+ </entry>
+ <entry>
   <title>201R: pagination</title>
   <author>
    <name>201R</name>
@@ -964,19 +977,6 @@
   <updated>2021-04-19T12:58:12Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>guileen: c10m-test</title>
-  <author>
-   <name>guileen</name>
-  </author>
-  <link href="https://github.com/guileen/c10m-test" />
-  <id>urn:rprimus:github:guileen:c10m-test</id>
-  <published>2021-04-19T12:42:45Z</published>
-  <updated>2021-04-19T12:42:45Z</updated>
-  <content type="html">
-   C10m test demo
   </content>
  </entry>
  <entry>
