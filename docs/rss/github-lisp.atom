@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-04-20T01:23:42Z</updated>
+<updated>2021-04-21T01:08:01Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>mahirvaluj: osaml</title>
+  <author>
+   <name>mahirvaluj</name>
+  </author>
+  <link href="https://github.com/mahirvaluj/osaml" />
+  <id>urn:rprimus:github:mahirvaluj:osaml</id>
+  <published>2021-04-21T01:08:01Z</published>
+  <updated>2021-04-21T01:08:01Z</updated>
+  <content type="html">
+   SamLang
+  </content>
+ </entry>
+ <entry>
+  <title>chang-ye-tu: lie</title>
+  <author>
+   <name>chang-ye-tu</name>
+  </author>
+  <link href="https://github.com/chang-ye-tu/lie" />
+  <id>urn:rprimus:github:chang-ye-tu:lie</id>
+  <published>2021-04-21T00:21:44Z</published>
+  <updated>2021-04-21T00:21:44Z</updated>
+  <content type="html">
+   Maxima code accompanying the paper &quot;Note on Merton&#039;s Optimal Consumption-Investment Problem&quot;.
+  </content>
+ </entry>
+ <entry>
+  <title>val314159: weblisp</title>
+  <author>
+   <name>val314159</name>
+  </author>
+  <link href="https://github.com/val314159/weblisp" />
+  <id>urn:rprimus:github:val314159:weblisp</id>
+  <published>2021-04-20T20:20:10Z</published>
+  <updated>2021-04-20T20:20:10Z</updated>
+  <content type="html">
+   weblisp.  yup, not the greatest name but it&#039;s accurate for now
+  </content>
+ </entry>
+ <entry>
+  <title>gsou: cl-rtlgen</title>
+  <author>
+   <name>gsou</name>
+  </author>
+  <link href="https://github.com/gsou/cl-rtlgen" />
+  <id>urn:rprimus:github:gsou:cl-rtlgen</id>
+  <published>2021-04-20T19:40:36Z</published>
+  <updated>2021-04-20T19:40:36Z</updated>
+  <content type="html">
+   Functions to automate some parts of HDL writing
+  </content>
+ </entry>
+ <entry>
+  <title>rkawala: touretzky-gentle</title>
+  <author>
+   <name>rkawala</name>
+  </author>
+  <link href="https://github.com/rkawala/touretzky-gentle" />
+  <id>urn:rprimus:github:rkawala:touretzky-gentle</id>
+  <published>2021-04-20T17:47:06Z</published>
+  <updated>2021-04-20T17:47:06Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>jcguu95: stumpwm--dynamic-floating-group</title>
+  <author>
+   <name>jcguu95</name>
+  </author>
+  <link href="https://github.com/jcguu95/stumpwm--dynamic-floating-group" />
+  <id>urn:rprimus:github:jcguu95:stumpwm--dynamic-floating-group</id>
+  <published>2021-04-20T15:17:13Z</published>
+  <updated>2021-04-20T15:17:13Z</updated>
+  <content type="html">
+   A dynamic-group for StumpWM in the floating setting.
+  </content>
+ </entry>
  <entry>
   <title>mmontone: cl-mimeparse</title>
   <author>
@@ -54,6 +132,19 @@
   <updated>2021-04-19T20:23:34Z</updated>
   <content type="html">
    Thin bindings to libusb for Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>splittist: scanfcl</title>
+  <author>
+   <name>splittist</name>
+  </author>
+  <link href="https://github.com/splittist/scanfcl" />
+  <id>urn:rprimus:github:splittist:scanfcl</id>
+  <published>2021-04-19T20:06:58Z</published>
+  <updated>2021-04-19T20:06:58Z</updated>
+  <content type="html">
+   An implementation of sscanf in Common Lisp
   </content>
  </entry>
  <entry>
@@ -171,175 +262,6 @@
   <updated>2021-04-19T02:46:29Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>ml-tech-ltd: hermes-perception</title>
-  <author>
-   <name>ml-tech-ltd</name>
-  </author>
-  <link href="https://github.com/ml-tech-ltd/hermes-perception" />
-  <id>urn:rprimus:github:ml-tech-ltd:hermes-perception</id>
-  <published>2021-04-18T23:45:39Z</published>
-  <updated>2021-04-18T23:45:39Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ml-tech-ltd: hermes-research</title>
-  <author>
-   <name>ml-tech-ltd</name>
-  </author>
-  <link href="https://github.com/ml-tech-ltd/hermes-research" />
-  <id>urn:rprimus:github:ml-tech-ltd:hermes-research</id>
-  <published>2021-04-18T23:39:15Z</published>
-  <updated>2021-04-18T23:39:15Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jwhiteman: cryptopals-set-1-cl</title>
-  <author>
-   <name>jwhiteman</name>
-  </author>
-  <link href="https://github.com/jwhiteman/cryptopals-set-1-cl" />
-  <id>urn:rprimus:github:jwhiteman:cryptopals-set-1-cl</id>
-  <published>2021-04-18T23:33:59Z</published>
-  <updated>2021-04-18T23:33:59Z</updated>
-  <content type="html">
-   Cryptopals Set 1 (Common Lisp)
-  </content>
- </entry>
- <entry>
-  <title>ml-tech-ltd: hermes-intuition</title>
-  <author>
-   <name>ml-tech-ltd</name>
-  </author>
-  <link href="https://github.com/ml-tech-ltd/hermes-intuition" />
-  <id>urn:rprimus:github:ml-tech-ltd:hermes-intuition</id>
-  <published>2021-04-18T23:31:02Z</published>
-  <updated>2021-04-18T23:31:02Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ml-tech-ltd: hermes-evolution</title>
-  <author>
-   <name>ml-tech-ltd</name>
-  </author>
-  <link href="https://github.com/ml-tech-ltd/hermes-evolution" />
-  <id>urn:rprimus:github:ml-tech-ltd:hermes-evolution</id>
-  <published>2021-04-18T23:27:14Z</published>
-  <updated>2021-04-18T23:27:14Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ml-tech-ltd: hermes-agents</title>
-  <author>
-   <name>ml-tech-ltd</name>
-  </author>
-  <link href="https://github.com/ml-tech-ltd/hermes-agents" />
-  <id>urn:rprimus:github:ml-tech-ltd:hermes-agents</id>
-  <published>2021-04-18T23:09:04Z</published>
-  <updated>2021-04-18T23:09:04Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ml-tech-ltd: hermes-input</title>
-  <author>
-   <name>ml-tech-ltd</name>
-  </author>
-  <link href="https://github.com/ml-tech-ltd/hermes-input" />
-  <id>urn:rprimus:github:ml-tech-ltd:hermes-input</id>
-  <published>2021-04-18T23:03:53Z</published>
-  <updated>2021-04-18T23:03:53Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>mikegirkin: cl-snake</title>
-  <author>
-   <name>mikegirkin</name>
-  </author>
-  <link href="https://github.com/mikegirkin/cl-snake" />
-  <id>urn:rprimus:github:mikegirkin:cl-snake</id>
-  <published>2021-04-18T22:52:02Z</published>
-  <updated>2021-04-18T22:52:02Z</updated>
-  <content type="html">
-   Simple snake game written in common lisp
-  </content>
- </entry>
- <entry>
-  <title>toma63: random-words</title>
-  <author>
-   <name>toma63</name>
-  </author>
-  <link href="https://github.com/toma63/random-words" />
-  <id>urn:rprimus:github:toma63:random-words</id>
-  <published>2021-04-18T18:34:41Z</published>
-  <updated>2021-04-18T18:34:41Z</updated>
-  <content type="html">
-   Look up random lists of words to word-association.
-  </content>
- </entry>
- <entry>
-  <title>jwhiteman: cl-hamming-distance</title>
-  <author>
-   <name>jwhiteman</name>
-  </author>
-  <link href="https://github.com/jwhiteman/cl-hamming-distance" />
-  <id>urn:rprimus:github:jwhiteman:cl-hamming-distance</id>
-  <published>2021-04-18T16:58:09Z</published>
-  <updated>2021-04-18T16:58:09Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>leovante: AutoCAD</title>
-  <author>
-   <name>leovante</name>
-  </author>
-  <link href="https://github.com/leovante/AutoCAD" />
-  <id>urn:rprimus:github:leovante:AutoCAD</id>
-  <published>2021-04-18T11:00:59Z</published>
-  <updated>2021-04-18T11:00:59Z</updated>
-  <content type="html">
-   Ð¡Ð¾Ð·Ð´Ð°Ð½Ð¸Ðµ Ð¿ÑÐ¾ÑÐ¸Ð»Ñ Ð² AutoCAD Ð¿Ð¾ Ð´Ð°Ð½Ð½ÑÐ¼ Ð¸Ð· Bentley WaterCAD
-  </content>
- </entry>
- <entry>
-  <title>bernyag: tictactoe</title>
-  <author>
-   <name>bernyag</name>
-  </author>
-  <link href="https://github.com/bernyag/tictactoe" />
-  <id>urn:rprimus:github:bernyag:tictactoe</id>
-  <published>2021-04-18T02:18:49Z</published>
-  <updated>2021-04-18T02:18:49Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>OliverLeitner: hellolisp</title>
-  <author>
-   <name>OliverLeitner</name>
-  </author>
-  <link href="https://github.com/OliverLeitner/hellolisp" />
-  <id>urn:rprimus:github:OliverLeitner:hellolisp</id>
-  <published>2021-04-18T00:00:30Z</published>
-  <updated>2021-04-18T00:00:30Z</updated>
-  <content type="html">
-   adventures in lisp
   </content>
  </entry>
 </feed>
