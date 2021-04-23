@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2021-04-22T09:45:21Z</updated>
+<updated>2021-04-22T21:51:00Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>kaiarchuleta: Morse_Code</title>
+  <author>
+   <name>kaiarchuleta</name>
+  </author>
+  <link href="https://github.com/kaiarchuleta/Morse_Code" />
+  <id>urn:rprimus:github:kaiarchuleta:Morse_Code</id>
+  <published>2021-04-22T21:51:00Z</published>
+  <updated>2021-04-22T21:51:00Z</updated>
+  <content type="html">
+   Encrypter/Decrypter For Morse Code in Ocaml
+  </content>
+ </entry>
+ <entry>
+  <title>igarnier: prbnmcn-ucb1</title>
+  <author>
+   <name>igarnier</name>
+  </author>
+  <link href="https://github.com/igarnier/prbnmcn-ucb1" />
+  <id>urn:rprimus:github:igarnier:prbnmcn-ucb1</id>
+  <published>2021-04-22T20:03:02Z</published>
+  <updated>2021-04-22T20:03:02Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>anuragsoni: h1_parse</title>
+  <author>
+   <name>anuragsoni</name>
+  </author>
+  <link href="https://github.com/anuragsoni/h1_parse" />
+  <id>urn:rprimus:github:anuragsoni:h1_parse</id>
+  <published>2021-04-22T13:10:44Z</published>
+  <updated>2021-04-22T13:10:44Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>deeplang-org: per-region-gc</title>
+  <author>
+   <name>deeplang-org</name>
+  </author>
+  <link href="https://github.com/deeplang-org/per-region-gc" />
+  <id>urn:rprimus:github:deeplang-org:per-region-gc</id>
+  <published>2021-04-22T11:45:03Z</published>
+  <updated>2021-04-22T11:45:03Z</updated>
+  <content type="html">
+   deeplang memory manage
+  </content>
+ </entry>
  <entry>
   <title>AlexandreDAUSSIN: Exo-OcamL</title>
   <author>
@@ -171,162 +223,6 @@
   <updated>2021-04-21T01:39:26Z</updated>
   <content type="html">
    Code and exercises based on Lawrence C. Paulson&#039;s /ML for the Working Programmer/
-  </content>
- </entry>
- <entry>
-  <title>hss-mateus: lips</title>
-  <author>
-   <name>hss-mateus</name>
-  </author>
-  <link href="https://github.com/hss-mateus/lips" />
-  <id>urn:rprimus:github:hss-mateus:lips</id>
-  <published>2021-04-20T23:41:49Z</published>
-  <updated>2021-04-20T23:41:49Z</updated>
-  <content type="html">
-   Interpreter for a minimal subset of lisp
-  </content>
- </entry>
- <entry>
-  <title>InfiniteSwerve: basic_stats</title>
-  <author>
-   <name>InfiniteSwerve</name>
-  </author>
-  <link href="https://github.com/InfiniteSwerve/basic_stats" />
-  <id>urn:rprimus:github:InfiniteSwerve:basic_stats</id>
-  <published>2021-04-20T20:36:15Z</published>
-  <updated>2021-04-20T20:36:15Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>nick-brinkmann: chess-kings-fp</title>
-  <author>
-   <name>nick-brinkmann</name>
-  </author>
-  <link href="https://github.com/nick-brinkmann/chess-kings-fp" />
-  <id>urn:rprimus:github:nick-brinkmann:chess-kings-fp</id>
-  <published>2021-04-20T20:06:37Z</published>
-  <updated>2021-04-20T20:06:37Z</updated>
-  <content type="html">
-   CS51 Final Project.
-  </content>
- </entry>
- <entry>
-  <title>lyndaaa: compil</title>
-  <author>
-   <name>lyndaaa</name>
-  </author>
-  <link href="https://github.com/lyndaaa/compil" />
-  <id>urn:rprimus:github:lyndaaa:compil</id>
-  <published>2021-04-20T16:09:57Z</published>
-  <updated>2021-04-20T16:09:57Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>AntonPing: Norem</title>
-  <author>
-   <name>AntonPing</name>
-  </author>
-  <link href="https://github.com/AntonPing/Norem" />
-  <id>urn:rprimus:github:AntonPing:Norem</id>
-  <published>2021-04-20T13:19:47Z</published>
-  <updated>2021-04-20T13:19:47Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>functori: ocamldot-tool</title>
-  <author>
-   <name>functori</name>
-  </author>
-  <link href="https://github.com/functori/ocamldot-tool" />
-  <id>urn:rprimus:github:functori:ocamldot-tool</id>
-  <published>2021-04-20T12:14:24Z</published>
-  <updated>2021-04-20T12:14:24Z</updated>
-  <content type="html">
-   Based on Jim Trevor&#039;s work, includes modifications made in/for Infer by Josh Berdine
-  </content>
- </entry>
- <entry>
-  <title>idkjs: melange-basic-ppx</title>
-  <author>
-   <name>idkjs</name>
-  </author>
-  <link href="https://github.com/idkjs/melange-basic-ppx" />
-  <id>urn:rprimus:github:idkjs:melange-basic-ppx</id>
-  <published>2021-04-20T12:12:51Z</published>
-  <updated>2021-04-20T12:12:51Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>UlysseDurand: CalculFormel</title>
-  <author>
-   <name>UlysseDurand</name>
-  </author>
-  <link href="https://github.com/UlysseDurand/CalculFormel" />
-  <id>urn:rprimus:github:UlysseDurand:CalculFormel</id>
-  <published>2021-04-20T12:07:59Z</published>
-  <updated>2021-04-20T12:07:59Z</updated>
-  <content type="html">
-   Petit logiciel de calcul formel en ocaml.
-  </content>
- </entry>
- <entry>
-  <title>dinosaure: mimic</title>
-  <author>
-   <name>dinosaure</name>
-  </author>
-  <link href="https://github.com/dinosaure/mimic" />
-  <id>urn:rprimus:github:dinosaure:mimic</id>
-  <published>2021-04-20T11:47:57Z</published>
-  <updated>2021-04-20T11:47:57Z</updated>
-  <content type="html">
-   A dynamic way to instantiate an OCaml flow
-  </content>
- </entry>
- <entry>
-  <title>khabiirk: Comp302-FinalProject</title>
-  <author>
-   <name>khabiirk</name>
-  </author>
-  <link href="https://github.com/khabiirk/Comp302-FinalProject" />
-  <id>urn:rprimus:github:khabiirk:Comp302-FinalProject</id>
-  <published>2021-04-20T11:08:38Z</published>
-  <updated>2021-04-20T11:08:38Z</updated>
-  <content type="html">
-   Final project for my Comp 302 class of Winter 2021 in OCaml
-  </content>
- </entry>
- <entry>
-  <title>koryhurd: OPL</title>
-  <author>
-   <name>koryhurd</name>
-  </author>
-  <link href="https://github.com/koryhurd/OPL" />
-  <id>urn:rprimus:github:koryhurd:OPL</id>
-  <published>2021-04-20T10:40:36Z</published>
-  <updated>2021-04-20T10:40:36Z</updated>
-  <content type="html">
-   Organization of Programming Languages 
-  </content>
- </entry>
- <entry>
-  <title>gaspardousson: braid</title>
-  <author>
-   <name>gaspardousson</name>
-  </author>
-  <link href="https://github.com/gaspardousson/braid" />
-  <id>urn:rprimus:github:gaspardousson:braid</id>
-  <published>2021-04-20T09:38:54Z</published>
-  <updated>2021-04-20T09:38:54Z</updated>
-  <content type="html">
-   OCaml module implementing an algorithm to solve word problem in the braid group attached to a complexity analysis.
   </content>
  </entry>
 </feed>
