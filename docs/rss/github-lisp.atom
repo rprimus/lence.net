@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-04-23T07:41:44Z</updated>
+<updated>2021-04-24T04:56:59Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>huxianyin: Common-Lisp-Practice</title>
+  <author>
+   <name>huxianyin</name>
+  </author>
+  <link href="https://github.com/huxianyin/Common-Lisp-Practice" />
+  <id>urn:rprimus:github:huxianyin:Common-Lisp-Practice</id>
+  <published>2021-04-24T04:56:59Z</published>
+  <updated>2021-04-24T04:56:59Z</updated>
+  <content type="html">
+   Practice code for learning common lisp
+  </content>
+ </entry>
+ <entry>
+  <title>llbarbosas: l-99</title>
+  <author>
+   <name>llbarbosas</name>
+  </author>
+  <link href="https://github.com/llbarbosas/l-99" />
+  <id>urn:rprimus:github:llbarbosas:l-99</id>
+  <published>2021-04-23T18:40:29Z</published>
+  <updated>2021-04-23T18:40:29Z</updated>
+  <content type="html">
+   Ninety-Nine Lisp Problems
+  </content>
+ </entry>
+ <entry>
+  <title>fagg: stumpwm-sndioctl</title>
+  <author>
+   <name>fagg</name>
+  </author>
+  <link href="https://github.com/fagg/stumpwm-sndioctl" />
+  <id>urn:rprimus:github:fagg:stumpwm-sndioctl</id>
+  <published>2021-04-23T18:16:31Z</published>
+  <updated>2021-04-23T18:16:31Z</updated>
+  <content type="html">
+   Control sndioctl from StumpWM.
+  </content>
+ </entry>
+ <entry>
+  <title>complexitycollapse: yamnaya</title>
+  <author>
+   <name>complexitycollapse</name>
+  </author>
+  <link href="https://github.com/complexitycollapse/yamnaya" />
+  <id>urn:rprimus:github:complexitycollapse:yamnaya</id>
+  <published>2021-04-23T18:06:58Z</published>
+  <updated>2021-04-23T18:06:58Z</updated>
+  <content type="html">
+   A Common Lisp library for writing YAML
+  </content>
+ </entry>
+ <entry>
+  <title>mmontone: slime-doc-contribs</title>
+  <author>
+   <name>mmontone</name>
+  </author>
+  <link href="https://github.com/mmontone/slime-doc-contribs" />
+  <id>urn:rprimus:github:mmontone:slime-doc-contribs</id>
+  <published>2021-04-23T17:52:31Z</published>
+  <updated>2021-04-23T17:52:31Z</updated>
+  <content type="html">
+   Documentation contribs for SLIME
+  </content>
+ </entry>
+ <entry>
+  <title>TheSingingFox: editor</title>
+  <author>
+   <name>TheSingingFox</name>
+  </author>
+  <link href="https://github.com/TheSingingFox/editor" />
+  <id>urn:rprimus:github:TheSingingFox:editor</id>
+  <published>2021-04-23T16:55:11Z</published>
+  <updated>2021-04-23T16:55:11Z</updated>
+  <content type="html">
+   A simple text editor in Common Lisp, using McClim
+  </content>
+ </entry>
  <entry>
   <title>40ants: humanize-duration</title>
   <author>
@@ -44,12 +122,12 @@
   </content>
  </entry>
  <entry>
-  <title>Shinmera: cl-vorbis</title>
+  <title>Shirakumo: cl-vorbis</title>
   <author>
-   <name>Shinmera</name>
+   <name>Shirakumo</name>
   </author>
-  <link href="https://github.com/Shinmera/cl-vorbis" />
-  <id>urn:rprimus:github:Shinmera:cl-vorbis</id>
+  <link href="https://github.com/Shirakumo/cl-vorbis" />
+  <id>urn:rprimus:github:Shirakumo:cl-vorbis</id>
   <published>2021-04-22T22:17:16Z</published>
   <updated>2021-04-22T22:17:16Z</updated>
   <content type="html">
@@ -197,136 +275,6 @@
   <updated>2021-04-22T00:59:37Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>xescnova: Tanks-Lisp</title>
-  <author>
-   <name>xescnova</name>
-  </author>
-  <link href="https://github.com/xescnova/Tanks-Lisp" />
-  <id>urn:rprimus:github:xescnova:Tanks-Lisp</id>
-  <published>2021-04-21T20:31:02Z</published>
-  <updated>2021-04-21T20:31:02Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>borodust: claw-pipewire</title>
-  <author>
-   <name>borodust</name>
-  </author>
-  <link href="https://github.com/borodust/claw-pipewire" />
-  <id>urn:rprimus:github:borodust:claw-pipewire</id>
-  <published>2021-04-21T19:47:20Z</published>
-  <updated>2021-04-21T19:47:20Z</updated>
-  <content type="html">
-   Thin Common Lisp bindings to PipeWire
-  </content>
- </entry>
- <entry>
-  <title>thomashoullier: histogram</title>
-  <author>
-   <name>thomashoullier</name>
-  </author>
-  <link href="https://github.com/thomashoullier/histogram" />
-  <id>urn:rprimus:github:thomashoullier:histogram</id>
-  <published>2021-04-21T18:41:00Z</published>
-  <updated>2021-04-21T18:41:00Z</updated>
-  <content type="html">
-   Common Lisp histogram utility
-  </content>
- </entry>
- <entry>
-  <title>digikar99: trivial-form-type</title>
-  <author>
-   <name>digikar99</name>
-  </author>
-  <link href="https://github.com/digikar99/trivial-form-type" />
-  <id>urn:rprimus:github:digikar99:trivial-form-type</id>
-  <published>2021-04-21T14:45:00Z</published>
-  <updated>2021-04-21T14:45:00Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>markusaschl: cl-libsys</title>
-  <author>
-   <name>markusaschl</name>
-  </author>
-  <link href="https://github.com/markusaschl/cl-libsys" />
-  <id>urn:rprimus:github:markusaschl:cl-libsys</id>
-  <published>2021-04-21T14:04:25Z</published>
-  <updated>2021-04-21T14:04:25Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>markusaschl: cl-libutils</title>
-  <author>
-   <name>markusaschl</name>
-  </author>
-  <link href="https://github.com/markusaschl/cl-libutils" />
-  <id>urn:rprimus:github:markusaschl:cl-libutils</id>
-  <published>2021-04-21T13:35:53Z</published>
-  <updated>2021-04-21T13:35:53Z</updated>
-  <content type="html">
-   Utils library for developing in common lisp
-  </content>
- </entry>
- <entry>
-  <title>schmalz: simulated-evolution</title>
-  <author>
-   <name>schmalz</name>
-  </author>
-  <link href="https://github.com/schmalz/simulated-evolution" />
-  <id>urn:rprimus:github:schmalz:simulated-evolution</id>
-  <published>2021-04-21T12:29:18Z</published>
-  <updated>2021-04-21T12:29:18Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>mavis-risetti: evird</title>
-  <author>
-   <name>mavis-risetti</name>
-  </author>
-  <link href="https://github.com/mavis-risetti/evird" />
-  <id>urn:rprimus:github:mavis-risetti:evird</id>
-  <published>2021-04-21T04:53:38Z</published>
-  <updated>2021-04-21T04:53:38Z</updated>
-  <content type="html">
-   The Premium Solution for File hosting.
-  </content>
- </entry>
- <entry>
-  <title>mahirvaluj: osaml</title>
-  <author>
-   <name>mahirvaluj</name>
-  </author>
-  <link href="https://github.com/mahirvaluj/osaml" />
-  <id>urn:rprimus:github:mahirvaluj:osaml</id>
-  <published>2021-04-21T01:08:01Z</published>
-  <updated>2021-04-21T01:08:01Z</updated>
-  <content type="html">
-   SamLang
-  </content>
- </entry>
- <entry>
-  <title>chang-ye-tu: lie</title>
-  <author>
-   <name>chang-ye-tu</name>
-  </author>
-  <link href="https://github.com/chang-ye-tu/lie" />
-  <id>urn:rprimus:github:chang-ye-tu:lie</id>
-  <published>2021-04-21T00:21:44Z</published>
-  <updated>2021-04-21T00:21:44Z</updated>
-  <content type="html">
-   Maxima code accompanying the paper &quot;Note on Merton&#039;s Optimal Consumption-Investment Problem&quot;.
   </content>
  </entry>
 </feed>
