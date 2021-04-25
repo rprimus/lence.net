@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-04-24T16:05:00Z</updated>
+<updated>2021-04-25T02:02:14Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>screenshotbot: screenshotbot-oss</title>
+  <author>
+   <name>screenshotbot</name>
+  </author>
+  <link href="https://github.com/screenshotbot/screenshotbot-oss" />
+  <id>urn:rprimus:github:screenshotbot:screenshotbot-oss</id>
+  <published>2021-04-25T02:02:14Z</published>
+  <updated>2021-04-25T02:02:14Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>walpurgisnatch: konta</title>
   <author>
@@ -92,7 +105,7 @@
   <published>2021-04-24T11:36:07Z</published>
   <updated>2021-04-24T11:36:07Z</updated>
   <content type="html">
-   Wayback machine
+   Fetch urls from Wayback Machine
   </content>
  </entry>
  <entry>
@@ -184,19 +197,6 @@
   <updated>2021-04-23T18:06:58Z</updated>
   <content type="html">
    A Common Lisp library for writing YAML
-  </content>
- </entry>
- <entry>
-  <title>mmontone: slime-doc-contribs</title>
-  <author>
-   <name>mmontone</name>
-  </author>
-  <link href="https://github.com/mmontone/slime-doc-contribs" />
-  <id>urn:rprimus:github:mmontone:slime-doc-contribs</id>
-  <published>2021-04-23T17:52:31Z</published>
-  <updated>2021-04-23T17:52:31Z</updated>
-  <content type="html">
-   Documentation contribs for SLIME (the Superior Lisp Interaction Mode for Emacs)
   </content>
  </entry>
  <entry>
