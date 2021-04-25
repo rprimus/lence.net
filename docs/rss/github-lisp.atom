@@ -2,8 +2,112 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-04-24T07:38:06Z</updated>
+<updated>2021-04-24T16:05:00Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>walpurgisnatch: konta</title>
+  <author>
+   <name>walpurgisnatch</name>
+  </author>
+  <link href="https://github.com/walpurgisnatch/konta" />
+  <id>urn:rprimus:github:walpurgisnatch:konta</id>
+  <published>2021-04-24T16:05:00Z</published>
+  <updated>2021-04-24T16:05:00Z</updated>
+  <content type="html">
+   Konta the fox
+  </content>
+ </entry>
+ <entry>
+  <title>frognix: cl-snake</title>
+  <author>
+   <name>frognix</name>
+  </author>
+  <link href="https://github.com/frognix/cl-snake" />
+  <id>urn:rprimus:github:frognix:cl-snake</id>
+  <published>2021-04-24T15:28:49Z</published>
+  <updated>2021-04-24T15:28:49Z</updated>
+  <content type="html">
+   A simple Snake game implemented in Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>ade-sede: aoc2020-common-lisp</title>
+  <author>
+   <name>ade-sede</name>
+  </author>
+  <link href="https://github.com/ade-sede/aoc2020-common-lisp" />
+  <id>urn:rprimus:github:ade-sede:aoc2020-common-lisp</id>
+  <published>2021-04-24T15:23:38Z</published>
+  <updated>2021-04-24T15:23:38Z</updated>
+  <content type="html">
+   Just trying to learn a little bit more lisp
+  </content>
+ </entry>
+ <entry>
+  <title>death: zonquerer</title>
+  <author>
+   <name>death</name>
+  </author>
+  <link href="https://github.com/death/zonquerer" />
+  <id>urn:rprimus:github:death:zonquerer</id>
+  <published>2021-04-24T12:47:44Z</published>
+  <updated>2021-04-24T12:47:44Z</updated>
+  <content type="html">
+   RTS-like game in 7 days
+  </content>
+ </entry>
+ <entry>
+  <title>jsgrant: noodle</title>
+  <author>
+   <name>jsgrant</name>
+  </author>
+  <link href="https://github.com/jsgrant/noodle" />
+  <id>urn:rprimus:github:jsgrant:noodle</id>
+  <published>2021-04-24T12:42:06Z</published>
+  <updated>2021-04-24T12:42:06Z</updated>
+  <content type="html">
+   The Nood Lisp-Engine; A Bare-Bones / Bare-Back 3D Game-Engine For Common-Lisp.
+  </content>
+ </entry>
+ <entry>
+  <title>digikar99: compiler-macro-notes</title>
+  <author>
+   <name>digikar99</name>
+  </author>
+  <link href="https://github.com/digikar99/compiler-macro-notes" />
+  <id>urn:rprimus:github:digikar99:compiler-macro-notes</id>
+  <published>2021-04-24T12:22:36Z</published>
+  <updated>2021-04-24T12:22:36Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>walpurgisnatch: switchback</title>
+  <author>
+   <name>walpurgisnatch</name>
+  </author>
+  <link href="https://github.com/walpurgisnatch/switchback" />
+  <id>urn:rprimus:github:walpurgisnatch:switchback</id>
+  <published>2021-04-24T11:36:07Z</published>
+  <updated>2021-04-24T11:36:07Z</updated>
+  <content type="html">
+   Wayback machine
+  </content>
+ </entry>
+ <entry>
+  <title>dvarkin: course_taks</title>
+  <author>
+   <name>dvarkin</name>
+  </author>
+  <link href="https://github.com/dvarkin/course_taks" />
+  <id>urn:rprimus:github:dvarkin:course_taks</id>
+  <published>2021-04-24T11:02:13Z</published>
+  <updated>2021-04-24T11:02:13Z</updated>
+  <content type="html">
+   Data Structures and Algorithms course tasks
+  </content>
+ </entry>
  <entry>
   <title>no-defun-allowed: atomichron</title>
   <author>
@@ -28,6 +132,19 @@
   <updated>2021-04-24T04:56:59Z</updated>
   <content type="html">
    Practice code for learning common lisp
+  </content>
+ </entry>
+ <entry>
+  <title>Simponic: speedrun-timer</title>
+  <author>
+   <name>Simponic</name>
+  </author>
+  <link href="https://github.com/Simponic/speedrun-timer" />
+  <id>urn:rprimus:github:Simponic:speedrun-timer</id>
+  <published>2021-04-24T02:09:41Z</published>
+  <updated>2021-04-24T02:09:41Z</updated>
+  <content type="html">
+   My first &quot;actual&quot; project in Common Lisp. It is a simple speedrun timer.
   </content>
  </entry>
  <entry>
@@ -79,7 +196,7 @@
   <published>2021-04-23T17:52:31Z</published>
   <updated>2021-04-23T17:52:31Z</updated>
   <content type="html">
-   Documentation contribs for SLIME
+   Documentation contribs for SLIME (the Superior Lisp Interaction Mode for Emacs)
   </content>
  </entry>
  <entry>
@@ -130,162 +247,6 @@
   <id>urn:rprimus:github:tkmtnt7000:tsukamoto_spot</id>
   <published>2021-04-23T02:48:42Z</published>
   <updated>2021-04-23T02:48:42Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Shirakumo: cl-vorbis</title>
-  <author>
-   <name>Shirakumo</name>
-  </author>
-  <link href="https://github.com/Shirakumo/cl-vorbis" />
-  <id>urn:rprimus:github:Shirakumo:cl-vorbis</id>
-  <published>2021-04-22T22:17:16Z</published>
-  <updated>2021-04-22T22:17:16Z</updated>
-  <content type="html">
-   OGG/Vorbis decoding using stb_vorbis.
-  </content>
- </entry>
- <entry>
-  <title>lisp-mirror: linux-packaging</title>
-  <author>
-   <name>lisp-mirror</name>
-  </author>
-  <link href="https://github.com/lisp-mirror/linux-packaging" />
-  <id>urn:rprimus:github:lisp-mirror:linux-packaging</id>
-  <published>2021-04-22T20:02:13Z</published>
-  <updated>2021-04-22T20:02:13Z</updated>
-  <content type="html">
-   https://gitlab.com/ralt/linux-packaging/
-  </content>
- </entry>
- <entry>
-  <title>lisp-mirror: adopt-subcommands</title>
-  <author>
-   <name>lisp-mirror</name>
-  </author>
-  <link href="https://github.com/lisp-mirror/adopt-subcommands" />
-  <id>urn:rprimus:github:lisp-mirror:adopt-subcommands</id>
-  <published>2021-04-22T19:56:38Z</published>
-  <updated>2021-04-22T19:56:38Z</updated>
-  <content type="html">
-   https://gitlab.com/daewok/adopt-subcommands
-  </content>
- </entry>
- <entry>
-  <title>yzerlaut: music-prod</title>
-  <author>
-   <name>yzerlaut</name>
-  </author>
-  <link href="https://github.com/yzerlaut/music-prod" />
-  <id>urn:rprimus:github:yzerlaut:music-prod</id>
-  <published>2021-04-22T19:55:51Z</published>
-  <updated>2021-04-22T19:55:51Z</updated>
-  <content type="html">
-   tools for music production
-  </content>
- </entry>
- <entry>
-  <title>mixy98e: Connet4D-AI-Lisp</title>
-  <author>
-   <name>mixy98e</name>
-  </author>
-  <link href="https://github.com/mixy98e/Connet4D-AI-Lisp" />
-  <id>urn:rprimus:github:mixy98e:Connet4D-AI-Lisp</id>
-  <published>2021-04-22T19:00:36Z</published>
-  <updated>2021-04-22T19:00:36Z</updated>
-  <content type="html">
-   Artificial intelligence project - Game Connect4D  
-  </content>
- </entry>
- <entry>
-  <title>liamm91: lisp-trace</title>
-  <author>
-   <name>liamm91</name>
-  </author>
-  <link href="https://github.com/liamm91/lisp-trace" />
-  <id>urn:rprimus:github:liamm91:lisp-trace</id>
-  <published>2021-04-22T17:49:49Z</published>
-  <updated>2021-04-22T17:49:49Z</updated>
-  <content type="html">
-   Lisp library built upon ptrace. Meant for usage on linux since the usage of the /proc/id/maps file
-  </content>
- </entry>
- <entry>
-  <title>ade-sede: lisp-test-framework</title>
-  <author>
-   <name>ade-sede</name>
-  </author>
-  <link href="https://github.com/ade-sede/lisp-test-framework" />
-  <id>urn:rprimus:github:ade-sede:lisp-test-framework</id>
-  <published>2021-04-22T16:44:04Z</published>
-  <updated>2021-04-22T16:44:04Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>SuilandCoder: ADPTC_LIB</title>
-  <author>
-   <name>SuilandCoder</name>
-  </author>
-  <link href="https://github.com/SuilandCoder/ADPTC_LIB" />
-  <id>urn:rprimus:github:SuilandCoder:ADPTC_LIB</id>
-  <published>2021-04-22T09:20:25Z</published>
-  <updated>2021-04-22T09:20:25Z</updated>
-  <content type="html">
-   An Adaptive Density Peak Tree Clustering algorithm considering spatiotemporal coupling
-  </content>
- </entry>
- <entry>
-  <title>cytab: projet3_voiture_autonome</title>
-  <author>
-   <name>cytab</name>
-  </author>
-  <link href="https://github.com/cytab/projet3_voiture_autonome" />
-  <id>urn:rprimus:github:cytab:projet3_voiture_autonome</id>
-  <published>2021-04-22T07:17:11Z</published>
-  <updated>2021-04-22T07:17:11Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jetmonk: cl-libserialport</title>
-  <author>
-   <name>jetmonk</name>
-  </author>
-  <link href="https://github.com/jetmonk/cl-libserialport" />
-  <id>urn:rprimus:github:jetmonk:cl-libserialport</id>
-  <published>2021-04-22T06:51:53Z</published>
-  <updated>2021-04-22T06:51:53Z</updated>
-  <content type="html">
-   A Common Lisp interface to the libserialport serial port library from sigrok
-  </content>
- </entry>
- <entry>
-  <title>jay3ss: practical-common-lisp</title>
-  <author>
-   <name>jay3ss</name>
-  </author>
-  <link href="https://github.com/jay3ss/practical-common-lisp" />
-  <id>urn:rprimus:github:jay3ss:practical-common-lisp</id>
-  <published>2021-04-22T06:02:36Z</published>
-  <updated>2021-04-22T06:02:36Z</updated>
-  <content type="html">
-   Code for the book &quot;Practical Common Lisp&quot;
-  </content>
- </entry>
- <entry>
-  <title>greatboxS: autoCAD_LGenTool</title>
-  <author>
-   <name>greatboxS</name>
-  </author>
-  <link href="https://github.com/greatboxS/autoCAD_LGenTool" />
-  <id>urn:rprimus:github:greatboxS:autoCAD_LGenTool</id>
-  <published>2021-04-22T00:59:37Z</published>
-  <updated>2021-04-22T00:59:37Z</updated>
   <content type="html">
    
   </content>
