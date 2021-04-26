@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-erlang.atom"/>
 <id>urn:rprimus:github:newerlangrepos</id>
-<updated>2021-04-24T23:08:24Z</updated>
+<updated>2021-04-26T02:24:17Z</updated>
 <title type='text'>New GitHub Erlang Repos</title>
+ <entry>
+  <title>tanwen321: ss5_proxy</title>
+  <author>
+   <name>tanwen321</name>
+  </author>
+  <link href="https://github.com/tanwen321/ss5_proxy" />
+  <id>urn:rprimus:github:tanwen321:ss5_proxy</id>
+  <published>2021-04-26T02:24:17Z</published>
+  <updated>2021-04-26T02:24:17Z</updated>
+  <content type="html">
+   socket proxy server by erlang
+  </content>
+ </entry>
  <entry>
   <title>doxtop: ideal-umbrella</title>
   <author>
@@ -15,6 +28,19 @@
   <updated>2021-04-24T23:08:24Z</updated>
   <content type="html">
    nitro playground
+  </content>
+ </entry>
+ <entry>
+  <title>ErlGameWorld: eAcs</title>
+  <author>
+   <name>ErlGameWorld</name>
+  </author>
+  <link href="https://github.com/ErlGameWorld/eAcs" />
+  <id>urn:rprimus:github:ErlGameWorld:eAcs</id>
+  <published>2021-04-24T15:49:49Z</published>
+  <updated>2021-04-24T15:49:49Z</updated>
+  <content type="html">
+   Fast and efficient sensitive word matching, checking and filtering functions based on the Aho-Corasick algorithm
   </content>
  </entry>
  <entry>
@@ -54,45 +80,6 @@
   <updated>2021-04-24T01:12:06Z</updated>
   <content type="html">
    æ°èäºç»æéé
-  </content>
- </entry>
- <entry>
-  <title>hellmean: corgiplan_executors</title>
-  <author>
-   <name>hellmean</name>
-  </author>
-  <link href="https://github.com/hellmean/corgiplan_executors" />
-  <id>urn:rprimus:github:hellmean:corgiplan_executors</id>
-  <published>2021-04-23T08:46:18Z</published>
-  <updated>2021-04-23T08:46:18Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>dgiot: dgiot_opc</title>
-  <author>
-   <name>dgiot</name>
-  </author>
-  <link href="https://github.com/dgiot/dgiot_opc" />
-  <id>urn:rprimus:github:dgiot:dgiot_opc</id>
-  <published>2021-04-23T06:22:21Z</published>
-  <updated>2021-04-23T06:22:21Z</updated>
-  <content type="html">
-   dgiot_opcéé,
-  </content>
- </entry>
- <entry>
-  <title>tlchun: emqx_modules</title>
-  <author>
-   <name>tlchun</name>
-  </author>
-  <link href="https://github.com/tlchun/emqx_modules" />
-  <id>urn:rprimus:github:tlchun:emqx_modules</id>
-  <published>2021-04-23T05:40:21Z</published>
-  <updated>2021-04-23T05:40:21Z</updated>
-  <content type="html">
-   emqx modules
   </content>
  </entry>
 </feed>
