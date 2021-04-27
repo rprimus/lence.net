@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-scheme.atom"/>
 <id>urn:rprimus:github:newschemerepos</id>
-<updated>2021-04-26T06:50:30Z</updated>
+<updated>2021-04-26T11:10:21Z</updated>
 <title type='text'>New GitHub Scheme Repos</title>
+ <entry>
+  <title>lassik: scratch</title>
+  <author>
+   <name>lassik</name>
+  </author>
+  <link href="https://github.com/lassik/scratch" />
+  <id>urn:rprimus:github:lassik:scratch</id>
+  <published>2021-04-26T11:10:21Z</published>
+  <updated>2021-04-26T11:10:21Z</updated>
+  <content type="html">
+   Hacky first attempt to turn Edwin Emacs into portable R7RS code
+  </content>
+ </entry>
  <entry>
   <title>UnnatShaneshwar: dotfiles</title>
   <author>
@@ -31,25 +44,12 @@
   </content>
  </entry>
  <entry>
-  <title>testerimo: sandbox</title>
-  <author>
-   <name>testerimo</name>
-  </author>
-  <link href="https://github.com/testerimo/sandbox" />
-  <id>urn:rprimus:github:testerimo:sandbox</id>
-  <published>2021-04-25T16:24:19Z</published>
-  <updated>2021-04-25T16:24:19Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>shixiongfei: s48</title>
+  <title>shixiongfei: scheme48</title>
   <author>
    <name>shixiongfei</name>
   </author>
-  <link href="https://github.com/shixiongfei/s48" />
-  <id>urn:rprimus:github:shixiongfei:s48</id>
+  <link href="https://github.com/shixiongfei/scheme48" />
+  <id>urn:rprimus:github:shixiongfei:scheme48</id>
   <published>2021-04-25T16:22:13Z</published>
   <updated>2021-04-25T16:22:13Z</updated>
   <content type="html">
@@ -93,110 +93,6 @@
   <updated>2021-04-25T07:16:23Z</updated>
   <content type="html">
    Implement a small part of Joy using Guile Scheme --- a practice for Scheme programming
-  </content>
- </entry>
- <entry>
-  <title>david542542: sicp</title>
-  <author>
-   <name>david542542</name>
-  </author>
-  <link href="https://github.com/david542542/sicp" />
-  <id>urn:rprimus:github:david542542:sicp</id>
-  <published>2021-04-24T19:57:59Z</published>
-  <updated>2021-04-24T19:57:59Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>mygoalistokillbill: SICP</title>
-  <author>
-   <name>mygoalistokillbill</name>
-  </author>
-  <link href="https://github.com/mygoalistokillbill/SICP" />
-  <id>urn:rprimus:github:mygoalistokillbill:SICP</id>
-  <published>2021-04-24T19:32:57Z</published>
-  <updated>2021-04-24T19:32:57Z</updated>
-  <content type="html">
-   Solutions to SICP
-  </content>
- </entry>
- <entry>
-  <title>rduivenvoorde: QGIS_top10nl_style</title>
-  <author>
-   <name>rduivenvoorde</name>
-  </author>
-  <link href="https://github.com/rduivenvoorde/QGIS_top10nl_style" />
-  <id>urn:rprimus:github:rduivenvoorde:QGIS_top10nl_style</id>
-  <published>2021-04-24T13:28:52Z</published>
-  <updated>2021-04-24T13:28:52Z</updated>
-  <content type="html">
-   A QGIS project to style top10nl PDOK geopackage data matching the official top10nlv2 styling
-  </content>
- </entry>
- <entry>
-  <title>ShrihariMohan: DesignOfUWBVivaldiAntenna</title>
-  <author>
-   <name>ShrihariMohan</name>
-  </author>
-  <link href="https://github.com/ShrihariMohan/DesignOfUWBVivaldiAntenna" />
-  <id>urn:rprimus:github:ShrihariMohan:DesignOfUWBVivaldiAntenna</id>
-  <published>2021-04-24T11:57:46Z</published>
-  <updated>2021-04-24T11:57:46Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>commosense: sicp-exercises</title>
-  <author>
-   <name>commosense</name>
-  </author>
-  <link href="https://github.com/commosense/sicp-exercises" />
-  <id>urn:rprimus:github:commosense:sicp-exercises</id>
-  <published>2021-04-24T08:44:06Z</published>
-  <updated>2021-04-24T08:44:06Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>thedvd98: sicp</title>
-  <author>
-   <name>thedvd98</name>
-  </author>
-  <link href="https://github.com/thedvd98/sicp" />
-  <id>urn:rprimus:github:thedvd98:sicp</id>
-  <published>2021-04-24T07:29:13Z</published>
-  <updated>2021-04-24T07:29:13Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>luhuins: os</title>
-  <author>
-   <name>luhuins</name>
-  </author>
-  <link href="https://github.com/luhuins/os" />
-  <id>urn:rprimus:github:luhuins:os</id>
-  <published>2021-04-24T07:09:35Z</published>
-  <updated>2021-04-24T07:09:35Z</updated>
-  <content type="html">
-   æçæä½ç³»ç»éç½®æä»¶
-  </content>
- </entry>
- <entry>
-  <title>bguimond: ec2</title>
-  <author>
-   <name>bguimond</name>
-  </author>
-  <link href="https://github.com/bguimond/ec2" />
-  <id>urn:rprimus:github:bguimond:ec2</id>
-  <published>2021-04-24T03:11:40Z</published>
-  <updated>2021-04-24T03:11:40Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>

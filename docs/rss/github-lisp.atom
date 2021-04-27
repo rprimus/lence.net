@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-04-26T09:23:52Z</updated>
+<updated>2021-04-27T04:18:58Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>asjad99: lisp-practice</title>
+  <author>
+   <name>asjad99</name>
+  </author>
+  <link href="https://github.com/asjad99/lisp-practice" />
+  <id>urn:rprimus:github:asjad99:lisp-practice</id>
+  <published>2021-04-27T04:18:58Z</published>
+  <updated>2021-04-27T04:18:58Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>sabracrolleton: tf-parachute</title>
+  <author>
+   <name>sabracrolleton</name>
+  </author>
+  <link href="https://github.com/sabracrolleton/tf-parachute" />
+  <id>urn:rprimus:github:sabracrolleton:tf-parachute</id>
+  <published>2021-04-26T23:41:06Z</published>
+  <updated>2021-04-26T23:41:06Z</updated>
+  <content type="html">
+   testing parachute
+  </content>
+ </entry>
+ <entry>
+  <title>walpurgisnatch: pero</title>
+  <author>
+   <name>walpurgisnatch</name>
+  </author>
+  <link href="https://github.com/walpurgisnatch/pero" />
+  <id>urn:rprimus:github:walpurgisnatch:pero</id>
+  <published>2021-04-26T22:04:15Z</published>
+  <updated>2021-04-26T22:04:15Z</updated>
+  <content type="html">
+   Logging library
+  </content>
+ </entry>
+ <entry>
+  <title>thomashoullier: normal-dev</title>
+  <author>
+   <name>thomashoullier</name>
+  </author>
+  <link href="https://github.com/thomashoullier/normal-dev" />
+  <id>urn:rprimus:github:thomashoullier:normal-dev</id>
+  <published>2021-04-26T20:03:08Z</published>
+  <updated>2021-04-26T20:03:08Z</updated>
+  <content type="html">
+   Gaussian/normal deviates in Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>Harsh-adhikari22: ros_devel</title>
+  <author>
+   <name>Harsh-adhikari22</name>
+  </author>
+  <link href="https://github.com/Harsh-adhikari22/ros_devel" />
+  <id>urn:rprimus:github:Harsh-adhikari22:ros_devel</id>
+  <published>2021-04-26T11:27:41Z</published>
+  <updated>2021-04-26T11:27:41Z</updated>
+  <content type="html">
+   ros_devel for ros
+  </content>
+ </entry>
  <entry>
   <title>markusaschl: cl-libsys</title>
   <author>
@@ -93,149 +158,6 @@
   <updated>2021-04-25T02:02:14Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>walpurgisnatch: konta</title>
-  <author>
-   <name>walpurgisnatch</name>
-  </author>
-  <link href="https://github.com/walpurgisnatch/konta" />
-  <id>urn:rprimus:github:walpurgisnatch:konta</id>
-  <published>2021-04-24T16:05:00Z</published>
-  <updated>2021-04-24T16:05:00Z</updated>
-  <content type="html">
-   Konta the fox
-  </content>
- </entry>
- <entry>
-  <title>frognix: cl-snake</title>
-  <author>
-   <name>frognix</name>
-  </author>
-  <link href="https://github.com/frognix/cl-snake" />
-  <id>urn:rprimus:github:frognix:cl-snake</id>
-  <published>2021-04-24T15:28:49Z</published>
-  <updated>2021-04-24T15:28:49Z</updated>
-  <content type="html">
-   A simple Snake game implemented in Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>ade-sede: aoc2020-common-lisp</title>
-  <author>
-   <name>ade-sede</name>
-  </author>
-  <link href="https://github.com/ade-sede/aoc2020-common-lisp" />
-  <id>urn:rprimus:github:ade-sede:aoc2020-common-lisp</id>
-  <published>2021-04-24T15:23:38Z</published>
-  <updated>2021-04-24T15:23:38Z</updated>
-  <content type="html">
-   Just trying to learn a little bit more lisp
-  </content>
- </entry>
- <entry>
-  <title>death: zonquerer</title>
-  <author>
-   <name>death</name>
-  </author>
-  <link href="https://github.com/death/zonquerer" />
-  <id>urn:rprimus:github:death:zonquerer</id>
-  <published>2021-04-24T12:47:44Z</published>
-  <updated>2021-04-24T12:47:44Z</updated>
-  <content type="html">
-   RTS-like game in 7 days
-  </content>
- </entry>
- <entry>
-  <title>jsgrant: noodle</title>
-  <author>
-   <name>jsgrant</name>
-  </author>
-  <link href="https://github.com/jsgrant/noodle" />
-  <id>urn:rprimus:github:jsgrant:noodle</id>
-  <published>2021-04-24T12:42:06Z</published>
-  <updated>2021-04-24T12:42:06Z</updated>
-  <content type="html">
-   The Nood Lisp-Engine; A Bare-Bones / Bare-Back 3D Game-Engine For Common-Lisp.
-  </content>
- </entry>
- <entry>
-  <title>digikar99: compiler-macro-notes</title>
-  <author>
-   <name>digikar99</name>
-  </author>
-  <link href="https://github.com/digikar99/compiler-macro-notes" />
-  <id>urn:rprimus:github:digikar99:compiler-macro-notes</id>
-  <published>2021-04-24T12:22:36Z</published>
-  <updated>2021-04-24T12:22:36Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>walpurgisnatch: switchback</title>
-  <author>
-   <name>walpurgisnatch</name>
-  </author>
-  <link href="https://github.com/walpurgisnatch/switchback" />
-  <id>urn:rprimus:github:walpurgisnatch:switchback</id>
-  <published>2021-04-24T11:36:07Z</published>
-  <updated>2021-04-24T11:36:07Z</updated>
-  <content type="html">
-   Fetch urls from Wayback Machine
-  </content>
- </entry>
- <entry>
-  <title>dvarkin: course_taks</title>
-  <author>
-   <name>dvarkin</name>
-  </author>
-  <link href="https://github.com/dvarkin/course_taks" />
-  <id>urn:rprimus:github:dvarkin:course_taks</id>
-  <published>2021-04-24T11:02:13Z</published>
-  <updated>2021-04-24T11:02:13Z</updated>
-  <content type="html">
-   Data Structures and Algorithms course tasks
-  </content>
- </entry>
- <entry>
-  <title>no-defun-allowed: atomichron</title>
-  <author>
-   <name>no-defun-allowed</name>
-  </author>
-  <link href="https://github.com/no-defun-allowed/atomichron" />
-  <id>urn:rprimus:github:no-defun-allowed:atomichron</id>
-  <published>2021-04-24T07:38:06Z</published>
-  <updated>2021-04-24T07:38:06Z</updated>
-  <content type="html">
-   An atomic metering library
-  </content>
- </entry>
- <entry>
-  <title>huxianyin: Common-Lisp-Practice</title>
-  <author>
-   <name>huxianyin</name>
-  </author>
-  <link href="https://github.com/huxianyin/Common-Lisp-Practice" />
-  <id>urn:rprimus:github:huxianyin:Common-Lisp-Practice</id>
-  <published>2021-04-24T04:56:59Z</published>
-  <updated>2021-04-24T04:56:59Z</updated>
-  <content type="html">
-   Practice code for learning common lisp
-  </content>
- </entry>
- <entry>
-  <title>Simponic: speedrun-timer</title>
-  <author>
-   <name>Simponic</name>
-  </author>
-  <link href="https://github.com/Simponic/speedrun-timer" />
-  <id>urn:rprimus:github:Simponic:speedrun-timer</id>
-  <published>2021-04-24T02:09:41Z</published>
-  <updated>2021-04-24T02:09:41Z</updated>
-  <content type="html">
-   My first &quot;actual&quot; project in Common Lisp. It is a simple speedrun timer.
   </content>
  </entry>
 </feed>
