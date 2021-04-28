@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2021-04-27T04:53:40Z</updated>
+<updated>2021-04-28T06:25:52Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>smimram: ocaml-pandoc</title>
+  <author>
+   <name>smimram</name>
+  </author>
+  <link href="https://github.com/smimram/ocaml-pandoc" />
+  <id>urn:rprimus:github:smimram:ocaml-pandoc</id>
+  <published>2021-04-28T06:25:52Z</published>
+  <updated>2021-04-28T06:25:52Z</updated>
+  <content type="html">
+   An OCaml library for creating pandoc filters.
+  </content>
+ </entry>
+ <entry>
+  <title>gimme1dollar: lambda-calculus</title>
+  <author>
+   <name>gimme1dollar</name>
+  </author>
+  <link href="https://github.com/gimme1dollar/lambda-calculus" />
+  <id>urn:rprimus:github:gimme1dollar:lambda-calculus</id>
+  <published>2021-04-28T01:34:09Z</published>
+  <updated>2021-04-28T01:34:09Z</updated>
+  <content type="html">
+   Lambda-calculus based on OCaml
+  </content>
+ </entry>
+ <entry>
+  <title>Pfeinerman311: cs3110-poker</title>
+  <author>
+   <name>Pfeinerman311</name>
+  </author>
+  <link href="https://github.com/Pfeinerman311/cs3110-poker" />
+  <id>urn:rprimus:github:Pfeinerman311:cs3110-poker</id>
+  <published>2021-04-27T21:52:47Z</published>
+  <updated>2021-04-27T21:52:47Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>flaviasoares: LearningOCaml</title>
+  <author>
+   <name>flaviasoares</name>
+  </author>
+  <link href="https://github.com/flaviasoares/LearningOCaml" />
+  <id>urn:rprimus:github:flaviasoares:LearningOCaml</id>
+  <published>2021-04-27T21:46:13Z</published>
+  <updated>2021-04-27T21:46:13Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Butanium: volcanoes</title>
+  <author>
+   <name>Butanium</name>
+  </author>
+  <link href="https://github.com/Butanium/volcanoes" />
+  <id>urn:rprimus:github:Butanium:volcanoes</id>
+  <published>2021-04-27T12:13:20Z</published>
+  <updated>2021-04-27T12:13:20Z</updated>
+  <content type="html">
+   An implementation for the WIP volcanoes contribution on Codingame
+  </content>
+ </entry>
+ <entry>
+  <title>diaozheng999: ppx-reanimated-worklet</title>
+  <author>
+   <name>diaozheng999</name>
+  </author>
+  <link href="https://github.com/diaozheng999/ppx-reanimated-worklet" />
+  <id>urn:rprimus:github:diaozheng999:ppx-reanimated-worklet</id>
+  <published>2021-04-27T09:45:11Z</published>
+  <updated>2021-04-27T09:45:11Z</updated>
+  <content type="html">
+   PPX rewriter for React Native Reanimated
+  </content>
+ </entry>
  <entry>
   <title>diaozheng999: ppx-remove-deriving</title>
   <author>
@@ -15,19 +93,6 @@
   <updated>2021-04-27T04:53:40Z</updated>
   <content type="html">
    Remove Ppx_deriving extensions that are incompatible with ReScript
-  </content>
- </entry>
- <entry>
-  <title>justinoboyle: CS496-04</title>
-  <author>
-   <name>justinoboyle</name>
-  </author>
-  <link href="https://github.com/justinoboyle/CS496-04" />
-  <id>urn:rprimus:github:justinoboyle:CS496-04</id>
-  <published>2021-04-27T03:29:34Z</published>
-  <updated>2021-04-27T03:29:34Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
  <entry>
@@ -93,97 +158,6 @@
   <updated>2021-04-26T10:58:36Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>davidmkwon: random-ocaml-stuff</title>
-  <author>
-   <name>davidmkwon</name>
-  </author>
-  <link href="https://github.com/davidmkwon/random-ocaml-stuff" />
-  <id>urn:rprimus:github:davidmkwon:random-ocaml-stuff</id>
-  <published>2021-04-25T21:21:22Z</published>
-  <updated>2021-04-25T21:21:22Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>CraigFe: low_level_debug</title>
-  <author>
-   <name>CraigFe</name>
-  </author>
-  <link href="https://github.com/CraigFe/low_level_debug" />
-  <id>urn:rprimus:github:CraigFe:low_level_debug</id>
-  <published>2021-04-25T17:40:56Z</published>
-  <updated>2021-04-25T17:40:56Z</updated>
-  <content type="html">
-   Repackaged debugging utils from Jane Street&#039;s Core library. Not intended for production use.
-  </content>
- </entry>
- <entry>
-  <title>patricoferris: irmin-socket</title>
-  <author>
-   <name>patricoferris</name>
-  </author>
-  <link href="https://github.com/patricoferris/irmin-socket" />
-  <id>urn:rprimus:github:patricoferris:irmin-socket</id>
-  <published>2021-04-25T14:58:40Z</published>
-  <updated>2021-04-25T14:58:40Z</updated>
-  <content type="html">
-   Some fun with creating little collaborative browser things...
-  </content>
- </entry>
- <entry>
-  <title>LaifsV1: Hobbit</title>
-  <author>
-   <name>LaifsV1</name>
-  </author>
-  <link href="https://github.com/LaifsV1/Hobbit" />
-  <id>urn:rprimus:github:LaifsV1:Hobbit</id>
-  <published>2021-04-25T11:12:00Z</published>
-  <updated>2021-04-25T11:12:00Z</updated>
-  <content type="html">
-   Higher-Order Bounded Bisimulation Tool
-  </content>
- </entry>
- <entry>
-  <title>minerva1129: TaPL_implementations</title>
-  <author>
-   <name>minerva1129</name>
-  </author>
-  <link href="https://github.com/minerva1129/TaPL_implementations" />
-  <id>urn:rprimus:github:minerva1129:TaPL_implementations</id>
-  <published>2021-04-25T07:51:04Z</published>
-  <updated>2021-04-25T07:51:04Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>diaozheng999: ppx-react-native</title>
-  <author>
-   <name>diaozheng999</name>
-  </author>
-  <link href="https://github.com/diaozheng999/ppx-react-native" />
-  <id>urn:rprimus:github:diaozheng999:ppx-react-native</id>
-  <published>2021-04-25T04:49:40Z</published>
-  <updated>2021-04-25T04:49:40Z</updated>
-  <content type="html">
-   PPX rewriters for ReScript React Native
-  </content>
- </entry>
- <entry>
-  <title>emilienlemaire: ocamly-lsp</title>
-  <author>
-   <name>emilienlemaire</name>
-  </author>
-  <link href="https://github.com/emilienlemaire/ocamly-lsp" />
-  <id>urn:rprimus:github:emilienlemaire:ocamly-lsp</id>
-  <published>2021-04-25T02:52:45Z</published>
-  <updated>2021-04-25T02:52:45Z</updated>
-  <content type="html">
-   An ocamllex and ocamlyacc lsp server
   </content>
  </entry>
 </feed>
