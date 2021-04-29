@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-04-28T09:06:58Z</updated>
+<updated>2021-04-29T00:19:31Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>abspetersen: tic-tac-toe-lisp</title>
+  <author>
+   <name>abspetersen</name>
+  </author>
+  <link href="https://github.com/abspetersen/tic-tac-toe-lisp" />
+  <id>urn:rprimus:github:abspetersen:tic-tac-toe-lisp</id>
+  <published>2021-04-29T00:19:31Z</published>
+  <updated>2021-04-29T00:19:31Z</updated>
+  <content type="html">
+   lisp program that allows user to play Tic Tac Toe on a 3x3 board
+  </content>
+ </entry>
+ <entry>
+  <title>alex-gutev: cl-form-types</title>
+  <author>
+   <name>alex-gutev</name>
+  </author>
+  <link href="https://github.com/alex-gutev/cl-form-types" />
+  <id>urn:rprimus:github:alex-gutev:cl-form-types</id>
+  <published>2021-04-28T17:54:00Z</published>
+  <updated>2021-04-28T17:54:00Z</updated>
+  <content type="html">
+   Library for determining the types of Common Lisp forms based on information stored in the environment.
+  </content>
+ </entry>
  <entry>
   <title>xdvom03: lisp-halstead-metrics</title>
   <author>
@@ -57,12 +83,12 @@
   </content>
  </entry>
  <entry>
-  <title>mattlow67: Genetic-Programming</title>
+  <title>mattlow67: genetic-programming</title>
   <author>
    <name>mattlow67</name>
   </author>
-  <link href="https://github.com/mattlow67/Genetic-Programming" />
-  <id>urn:rprimus:github:mattlow67:Genetic-Programming</id>
+  <link href="https://github.com/mattlow67/genetic-programming" />
+  <id>urn:rprimus:github:mattlow67:genetic-programming</id>
   <published>2021-04-27T22:01:59Z</published>
   <updated>2021-04-27T22:01:59Z</updated>
   <content type="html">
@@ -223,110 +249,6 @@
   <updated>2021-04-27T04:18:58Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>sabracrolleton: tf-parachute</title>
-  <author>
-   <name>sabracrolleton</name>
-  </author>
-  <link href="https://github.com/sabracrolleton/tf-parachute" />
-  <id>urn:rprimus:github:sabracrolleton:tf-parachute</id>
-  <published>2021-04-26T23:41:06Z</published>
-  <updated>2021-04-26T23:41:06Z</updated>
-  <content type="html">
-   testing parachute
-  </content>
- </entry>
- <entry>
-  <title>walpurgisnatch: pero</title>
-  <author>
-   <name>walpurgisnatch</name>
-  </author>
-  <link href="https://github.com/walpurgisnatch/pero" />
-  <id>urn:rprimus:github:walpurgisnatch:pero</id>
-  <published>2021-04-26T22:04:15Z</published>
-  <updated>2021-04-26T22:04:15Z</updated>
-  <content type="html">
-   Logging library
-  </content>
- </entry>
- <entry>
-  <title>thomashoullier: normal-dev</title>
-  <author>
-   <name>thomashoullier</name>
-  </author>
-  <link href="https://github.com/thomashoullier/normal-dev" />
-  <id>urn:rprimus:github:thomashoullier:normal-dev</id>
-  <published>2021-04-26T20:03:08Z</published>
-  <updated>2021-04-26T20:03:08Z</updated>
-  <content type="html">
-   Gaussian/normal deviates in Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>Harsh-adhikari22: ros_devel</title>
-  <author>
-   <name>Harsh-adhikari22</name>
-  </author>
-  <link href="https://github.com/Harsh-adhikari22/ros_devel" />
-  <id>urn:rprimus:github:Harsh-adhikari22:ros_devel</id>
-  <published>2021-04-26T11:27:41Z</published>
-  <updated>2021-04-26T11:27:41Z</updated>
-  <content type="html">
-   ros_devel for ros
-  </content>
- </entry>
- <entry>
-  <title>markusaschl: cl-libsys</title>
-  <author>
-   <name>markusaschl</name>
-  </author>
-  <link href="https://github.com/markusaschl/cl-libsys" />
-  <id>urn:rprimus:github:markusaschl:cl-libsys</id>
-  <published>2021-04-26T09:23:52Z</published>
-  <updated>2021-04-26T09:23:52Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>informatimago: check-pathname</title>
-  <author>
-   <name>informatimago</name>
-  </author>
-  <link href="https://github.com/informatimago/check-pathname" />
-  <id>urn:rprimus:github:informatimago:check-pathname</id>
-  <published>2021-04-26T07:05:55Z</published>
-  <updated>2021-04-26T07:05:55Z</updated>
-  <content type="html">
-   A little tools to check how CL implementations differ in processing pathnames.
-  </content>
- </entry>
- <entry>
-  <title>benonivainqueur: Japanese-Multiplication</title>
-  <author>
-   <name>benonivainqueur</name>
-  </author>
-  <link href="https://github.com/benonivainqueur/Japanese-Multiplication" />
-  <id>urn:rprimus:github:benonivainqueur:Japanese-Multiplication</id>
-  <published>2021-04-26T03:56:55Z</published>
-  <updated>2021-04-26T03:56:55Z</updated>
-  <content type="html">
-   An in depth proof and explanation of Japanese Multiplication. Done by Karim Semaan, Dominik Ritzenhoff, Shai Mann-Robinson, Ben-oni Vainqueur 
-  </content>
- </entry>
- <entry>
-  <title>dbmcclain: LispRPL</title>
-  <author>
-   <name>dbmcclain</name>
-  </author>
-  <link href="https://github.com/dbmcclain/LispRPL" />
-  <id>urn:rprimus:github:dbmcclain:LispRPL</id>
-  <published>2021-04-26T01:35:25Z</published>
-  <updated>2021-04-26T01:35:25Z</updated>
-  <content type="html">
-   Forth/RPL in Lisp with MetaCompiler
   </content>
  </entry>
 </feed>

@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-racket.atom"/>
 <id>urn:rprimus:github:newracketrepos</id>
-<updated>2021-04-28T08:23:39Z</updated>
+<updated>2021-04-29T01:20:34Z</updated>
 <title type='text'>New GitHub Racket Repos</title>
+ <entry>
+  <title>SethHowwie: Boom-Language</title>
+  <author>
+   <name>SethHowwie</name>
+  </author>
+  <link href="https://github.com/SethHowwie/Boom-Language" />
+  <id>urn:rprimus:github:SethHowwie:Boom-Language</id>
+  <published>2021-04-29T01:20:34Z</published>
+  <updated>2021-04-29T01:20:34Z</updated>
+  <content type="html">
+   An implementation in Racket of a created language named Boom.
+  </content>
+ </entry>
+ <entry>
+  <title>DiegoFLM: Racket--SimpleInterpreter</title>
+  <author>
+   <name>DiegoFLM</name>
+  </author>
+  <link href="https://github.com/DiegoFLM/Racket--SimpleInterpreter" />
+  <id>urn:rprimus:github:DiegoFLM:Racket--SimpleInterpreter</id>
+  <published>2021-04-28T22:41:18Z</published>
+  <updated>2021-04-28T22:41:18Z</updated>
+  <content type="html">
+   This is a basic interpreter with basic lexic and gramatic specifications.
+  </content>
+ </entry>
+ <entry>
+  <title>Hectarea1996: Unification</title>
+  <author>
+   <name>Hectarea1996</name>
+  </author>
+  <link href="https://github.com/Hectarea1996/Unification" />
+  <id>urn:rprimus:github:Hectarea1996:Unification</id>
+  <published>2021-04-28T17:55:05Z</published>
+  <updated>2021-04-28T17:55:05Z</updated>
+  <content type="html">
+   Unification algorithm in the Racket language.
+  </content>
+ </entry>
+ <entry>
+  <title>cizeskiedson: racket-checker</title>
+  <author>
+   <name>cizeskiedson</name>
+  </author>
+  <link href="https://github.com/cizeskiedson/racket-checker" />
+  <id>urn:rprimus:github:cizeskiedson:racket-checker</id>
+  <published>2021-04-28T16:56:49Z</published>
+  <updated>2021-04-28T16:56:49Z</updated>
+  <content type="html">
+   A program made in racket that checks if a racket code is good or bad based on some metrics.
+  </content>
+ </entry>
+ <entry>
+  <title>srfoster: fish-tank</title>
+  <author>
+   <name>srfoster</name>
+  </author>
+  <link href="https://github.com/srfoster/fish-tank" />
+  <id>urn:rprimus:github:srfoster:fish-tank</id>
+  <published>2021-04-28T16:05:08Z</published>
+  <updated>2021-04-28T16:05:08Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>sqrta: Synthesis-838e-project</title>
+  <author>
+   <name>sqrta</name>
+  </author>
+  <link href="https://github.com/sqrta/Synthesis-838e-project" />
+  <id>urn:rprimus:github:sqrta:Synthesis-838e-project</id>
+  <published>2021-04-28T13:26:04Z</published>
+  <updated>2021-04-28T13:26:04Z</updated>
+  <content type="html">
+   Course project for 838e
+  </content>
+ </entry>
  <entry>
   <title>burakcbdn: CENG212_ASSIGNMENT_2</title>
   <author>
@@ -67,84 +145,6 @@
   <updated>2021-04-27T00:41:19Z</updated>
   <content type="html">
    Learning racket yo
-  </content>
- </entry>
- <entry>
-  <title>Camilunchis: Practica-0</title>
-  <author>
-   <name>Camilunchis</name>
-  </author>
-  <link href="https://github.com/Camilunchis/Practica-0" />
-  <id>urn:rprimus:github:Camilunchis:Practica-0</id>
-  <published>2021-04-26T22:10:14Z</published>
-  <updated>2021-04-26T22:10:14Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>samdphillips: racket-minecraft</title>
-  <author>
-   <name>samdphillips</name>
-  </author>
-  <link href="https://github.com/samdphillips/racket-minecraft" />
-  <id>urn:rprimus:github:samdphillips:racket-minecraft</id>
-  <published>2021-04-26T22:08:38Z</published>
-  <updated>2021-04-26T22:08:38Z</updated>
-  <content type="html">
-   Some tools to script Minecraft
-  </content>
- </entry>
- <entry>
-  <title>wllsena: lambcalc2</title>
-  <author>
-   <name>wllsena</name>
-  </author>
-  <link href="https://github.com/wllsena/lambcalc2" />
-  <id>urn:rprimus:github:wllsena:lambcalc2</id>
-  <published>2021-04-26T17:49:18Z</published>
-  <updated>2021-04-26T17:49:18Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>DexterLagan: tax-helper</title>
-  <author>
-   <name>DexterLagan</name>
-  </author>
-  <link href="https://github.com/DexterLagan/tax-helper" />
-  <id>urn:rprimus:github:DexterLagan:tax-helper</id>
-  <published>2021-04-26T16:13:53Z</published>
-  <updated>2021-04-26T16:13:53Z</updated>
-  <content type="html">
-   A simple accounting tool to compute totals for tax returns.
-  </content>
- </entry>
- <entry>
-  <title>ifft: racket-vim</title>
-  <author>
-   <name>ifft</name>
-  </author>
-  <link href="https://github.com/ifft/racket-vim" />
-  <id>urn:rprimus:github:ifft:racket-vim</id>
-  <published>2021-04-26T12:45:47Z</published>
-  <updated>2021-04-26T12:45:47Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>EmmanuelCruz: Compiladores</title>
-  <author>
-   <name>EmmanuelCruz</name>
-  </author>
-  <link href="https://github.com/EmmanuelCruz/Compiladores" />
-  <id>urn:rprimus:github:EmmanuelCruz:Compiladores</id>
-  <published>2021-04-26T03:44:26Z</published>
-  <updated>2021-04-26T03:44:26Z</updated>
-  <content type="html">
-   PrÃ¡cticas y proyecto de compiladores
   </content>
  </entry>
 </feed>

@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-scheme.atom"/>
 <id>urn:rprimus:github:newschemerepos</id>
-<updated>2021-04-28T07:56:42Z</updated>
+<updated>2021-04-29T03:49:18Z</updated>
 <title type='text'>New GitHub Scheme Repos</title>
+ <entry>
+  <title>a8t: .config</title>
+  <author>
+   <name>a8t</name>
+  </author>
+  <link href="https://github.com/a8t/.config" />
+  <id>urn:rprimus:github:a8t:.config</id>
+  <published>2021-04-29T03:49:18Z</published>
+  <updated>2021-04-29T03:49:18Z</updated>
+  <content type="html">
+   please don&#039;t make me set this junk of from scratch again
+  </content>
+ </entry>
  <entry>
   <title>raschild6: blocksworld_problem</title>
   <author>
@@ -119,32 +132,6 @@
   <updated>2021-04-27T05:50:11Z</updated>
   <content type="html">
    sicp stuff
-  </content>
- </entry>
- <entry>
-  <title>lassik: scratch</title>
-  <author>
-   <name>lassik</name>
-  </author>
-  <link href="https://github.com/lassik/scratch" />
-  <id>urn:rprimus:github:lassik:scratch</id>
-  <published>2021-04-26T11:10:21Z</published>
-  <updated>2021-04-26T11:10:21Z</updated>
-  <content type="html">
-   Hacky first attempt to turn Edwin Emacs into portable R7RS code
-  </content>
- </entry>
- <entry>
-  <title>UnnatShaneshwar: dotfiles</title>
-  <author>
-   <name>UnnatShaneshwar</name>
-  </author>
-  <link href="https://github.com/UnnatShaneshwar/dotfiles" />
-  <id>urn:rprimus:github:UnnatShaneshwar:dotfiles</id>
-  <published>2021-04-26T06:50:30Z</published>
-  <updated>2021-04-26T06:50:30Z</updated>
-  <content type="html">
-   All my important configuration
   </content>
  </entry>
 </feed>

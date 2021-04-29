@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-erlang.atom"/>
 <id>urn:rprimus:github:newerlangrepos</id>
-<updated>2021-04-28T09:04:36Z</updated>
+<updated>2021-04-29T03:05:09Z</updated>
 <title type='text'>New GitHub Erlang Repos</title>
+ <entry>
+  <title>myErlangProjects: incremental_rebalance</title>
+  <author>
+   <name>myErlangProjects</name>
+  </author>
+  <link href="https://github.com/myErlangProjects/incremental_rebalance" />
+  <id>urn:rprimus:github:myErlangProjects:incremental_rebalance</id>
+  <published>2021-04-29T03:05:09Z</published>
+  <updated>2021-04-29T03:05:09Z</updated>
+  <content type="html">
+   Automatic resource rebalance(incremental) among erlang applications in k8s
+  </content>
+ </entry>
+ <entry>
+  <title>tonyrog: tty</title>
+  <author>
+   <name>tonyrog</name>
+  </author>
+  <link href="https://github.com/tonyrog/tty" />
+  <id>urn:rprimus:github:tonyrog:tty</id>
+  <published>2021-04-29T00:15:58Z</published>
+  <updated>2021-04-29T00:15:58Z</updated>
+  <content type="html">
+   user_drv API (ttsl_drv)
+  </content>
+ </entry>
+ <entry>
+  <title>mixmesh: pgp</title>
+  <author>
+   <name>mixmesh</name>
+  </author>
+  <link href="https://github.com/mixmesh/pgp" />
+  <id>urn:rprimus:github:mixmesh:pgp</id>
+  <published>2021-04-28T22:09:12Z</published>
+  <updated>2021-04-28T22:09:12Z</updated>
+  <content type="html">
+   PGP - rfc 4880 api
+  </content>
+ </entry>
+ <entry>
+  <title>aaronlelevier: erlang-practice</title>
+  <author>
+   <name>aaronlelevier</name>
+  </author>
+  <link href="https://github.com/aaronlelevier/erlang-practice" />
+  <id>urn:rprimus:github:aaronlelevier:erlang-practice</id>
+  <published>2021-04-28T14:00:35Z</published>
+  <updated>2021-04-28T14:00:35Z</updated>
+  <content type="html">
+   Still trying to start V3 of my Erlang journey :)
+  </content>
+ </entry>
  <entry>
   <title>TrickIt: emqx-auth-demo</title>
   <author>
@@ -109,12 +161,12 @@
   </content>
  </entry>
  <entry>
-  <title>myErlangProjects: erlang_cluster_k8s</title>
+  <title>myErlangProjects: erlang_k8s_cluster</title>
   <author>
    <name>myErlangProjects</name>
   </author>
-  <link href="https://github.com/myErlangProjects/erlang_cluster_k8s" />
-  <id>urn:rprimus:github:myErlangProjects:erlang_cluster_k8s</id>
+  <link href="https://github.com/myErlangProjects/erlang_k8s_cluster" />
+  <id>urn:rprimus:github:myErlangProjects:erlang_k8s_cluster</id>
   <published>2021-04-27T04:15:14Z</published>
   <updated>2021-04-27T04:15:14Z</updated>
   <content type="html">
@@ -132,97 +184,6 @@
   <updated>2021-04-27T02:48:28Z</updated>
   <content type="html">
    This repository is the storage for the collection of any PoC and/or implementation example
-  </content>
- </entry>
- <entry>
-  <title>joq62: iaas_test2</title>
-  <author>
-   <name>joq62</name>
-  </author>
-  <link href="https://github.com/joq62/iaas_test2" />
-  <id>urn:rprimus:github:joq62:iaas_test2</id>
-  <published>2021-04-26T20:14:34Z</published>
-  <updated>2021-04-26T20:14:34Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>cyvattes: bert_convert</title>
-  <author>
-   <name>cyvattes</name>
-  </author>
-  <link href="https://github.com/cyvattes/bert_convert" />
-  <id>urn:rprimus:github:cyvattes:bert_convert</id>
-  <published>2021-04-26T17:23:26Z</published>
-  <updated>2021-04-26T17:23:26Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>bdt-group: hapi</title>
-  <author>
-   <name>bdt-group</name>
-  </author>
-  <link href="https://github.com/bdt-group/hapi" />
-  <id>urn:rprimus:github:bdt-group:hapi</id>
-  <published>2021-04-26T15:44:52Z</published>
-  <updated>2021-04-26T15:44:52Z</updated>
-  <content type="html">
-   An HTTP client designed for REST API
-  </content>
- </entry>
- <entry>
-  <title>TI-Tokyo: riak_cs_multibag</title>
-  <author>
-   <name>TI-Tokyo</name>
-  </author>
-  <link href="https://github.com/TI-Tokyo/riak_cs_multibag" />
-  <id>urn:rprimus:github:TI-Tokyo:riak_cs_multibag</id>
-  <published>2021-04-26T09:46:16Z</published>
-  <updated>2021-04-26T09:46:16Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>TI-Tokyo: riak_repl_pb_api</title>
-  <author>
-   <name>TI-Tokyo</name>
-  </author>
-  <link href="https://github.com/TI-Tokyo/riak_repl_pb_api" />
-  <id>urn:rprimus:github:TI-Tokyo:riak_repl_pb_api</id>
-  <published>2021-04-26T09:41:24Z</published>
-  <updated>2021-04-26T09:41:24Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>tlchun: mq_license</title>
-  <author>
-   <name>tlchun</name>
-  </author>
-  <link href="https://github.com/tlchun/mq_license" />
-  <id>urn:rprimus:github:tlchun:mq_license</id>
-  <published>2021-04-26T06:02:45Z</published>
-  <updated>2021-04-26T06:02:45Z</updated>
-  <content type="html">
-   mq license mod
-  </content>
- </entry>
- <entry>
-  <title>tanwen321: ss5_proxy</title>
-  <author>
-   <name>tanwen321</name>
-  </author>
-  <link href="https://github.com/tanwen321/ss5_proxy" />
-  <id>urn:rprimus:github:tanwen321:ss5_proxy</id>
-  <published>2021-04-26T02:24:17Z</published>
-  <updated>2021-04-26T02:24:17Z</updated>
-  <content type="html">
-   socket proxy server by erlang
   </content>
  </entry>
 </feed>
