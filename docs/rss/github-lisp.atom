@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-04-30T08:05:12Z</updated>
+<updated>2021-05-01T02:21:15Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>stylewarning: cadrlogue</title>
+  <author>
+   <name>stylewarning</name>
+  </author>
+  <link href="https://github.com/stylewarning/cadrlogue" />
+  <id>urn:rprimus:github:stylewarning:cadrlogue</id>
+  <published>2021-05-01T02:21:15Z</published>
+  <updated>2021-05-01T02:21:15Z</updated>
+  <content type="html">
+   A book and media cataloguing system.
+  </content>
+ </entry>
+ <entry>
+  <title>Liutos: naming</title>
+  <author>
+   <name>Liutos</name>
+  </author>
+  <link href="https://github.com/Liutos/naming" />
+  <id>urn:rprimus:github:Liutos:naming</id>
+  <published>2021-04-30T16:06:55Z</published>
+  <updated>2021-04-30T16:06:55Z</updated>
+  <content type="html">
+   ç¹åæé
+  </content>
+ </entry>
  <entry>
   <title>mhkoji: myqlo</title>
   <author>
@@ -83,19 +109,6 @@
   </content>
  </entry>
  <entry>
-  <title>tkmtnt7000: tsukamoto_fetch</title>
-  <author>
-   <name>tkmtnt7000</name>
-  </author>
-  <link href="https://github.com/tkmtnt7000/tsukamoto_fetch" />
-  <id>urn:rprimus:github:tkmtnt7000:tsukamoto_fetch</id>
-  <published>2021-04-29T09:56:24Z</published>
-  <updated>2021-04-29T09:56:24Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
   <title>abspetersen: tic-tac-toe-lisp</title>
   <author>
    <name>abspetersen</name>
@@ -106,32 +119,6 @@
   <updated>2021-04-29T00:19:31Z</updated>
   <content type="html">
    lisp program that allows user to play Tic Tac Toe on a 3x3 board
-  </content>
- </entry>
- <entry>
-  <title>alex-gutev: cl-form-types</title>
-  <author>
-   <name>alex-gutev</name>
-  </author>
-  <link href="https://github.com/alex-gutev/cl-form-types" />
-  <id>urn:rprimus:github:alex-gutev:cl-form-types</id>
-  <published>2021-04-28T17:54:00Z</published>
-  <updated>2021-04-28T17:54:00Z</updated>
-  <content type="html">
-   Library for determining the types of Common Lisp forms based on information stored in the environment.
-  </content>
- </entry>
- <entry>
-  <title>xdvom03: lisp-halstead-metrics</title>
-  <author>
-   <name>xdvom03</name>
-  </author>
-  <link href="https://github.com/xdvom03/lisp-halstead-metrics" />
-  <id>urn:rprimus:github:xdvom03:lisp-halstead-metrics</id>
-  <published>2021-04-28T09:06:58Z</published>
-  <updated>2021-04-28T09:06:58Z</updated>
-  <content type="html">
-   Measuring Halstead metrics for Lisp source code.
   </content>
  </entry>
 </feed>
