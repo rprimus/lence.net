@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-erlang.atom"/>
 <id>urn:rprimus:github:newerlangrepos</id>
-<updated>2021-05-01T08:15:03Z</updated>
+<updated>2021-05-02T04:37:41Z</updated>
 <title type='text'>New GitHub Erlang Repos</title>
+ <entry>
+  <title>joq62: support</title>
+  <author>
+   <name>joq62</name>
+  </author>
+  <link href="https://github.com/joq62/support" />
+  <id>urn:rprimus:github:joq62:support</id>
+  <published>2021-05-02T04:37:41Z</published>
+  <updated>2021-05-02T04:37:41Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>gfngfn: sesterl_cowboy</title>
+  <author>
+   <name>gfngfn</name>
+  </author>
+  <link href="https://github.com/gfngfn/sesterl_cowboy" />
+  <id>urn:rprimus:github:gfngfn:sesterl_cowboy</id>
+  <published>2021-05-02T02:35:13Z</published>
+  <updated>2021-05-02T02:35:13Z</updated>
+  <content type="html">
+   A Cowboy (https://github.com/ninenines/cowboy) wrapper for Sesterl (https://github.com/gfngfn/Sesterl)
+  </content>
+ </entry>
+ <entry>
+  <title>pstap: erlang-futures</title>
+  <author>
+   <name>pstap</name>
+  </author>
+  <link href="https://github.com/pstap/erlang-futures" />
+  <id>urn:rprimus:github:pstap:erlang-futures</id>
+  <published>2021-05-01T23:07:16Z</published>
+  <updated>2021-05-01T23:07:16Z</updated>
+  <content type="html">
+   messing around
+  </content>
+ </entry>
+ <entry>
+  <title>zeek0x: atcoder</title>
+  <author>
+   <name>zeek0x</name>
+  </author>
+  <link href="https://github.com/zeek0x/atcoder" />
+  <id>urn:rprimus:github:zeek0x:atcoder</id>
+  <published>2021-05-01T10:26:05Z</published>
+  <updated>2021-05-01T10:26:05Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>daniel-jodlos: gmm-indexer-erlang</title>
   <author>
@@ -15,6 +67,32 @@
   <updated>2021-05-01T08:15:03Z</updated>
   <content type="html">
    
+  </content>
+ </entry>
+ <entry>
+  <title>gfngfn: sesterl_stdlib</title>
+  <author>
+   <name>gfngfn</name>
+  </author>
+  <link href="https://github.com/gfngfn/sesterl_stdlib" />
+  <id>urn:rprimus:github:gfngfn:sesterl_stdlib</id>
+  <published>2021-04-30T16:15:24Z</published>
+  <updated>2021-04-30T16:15:24Z</updated>
+  <content type="html">
+   The standard library for Sesterl (https://github.com/gfngfn/Sesterl)
+  </content>
+ </entry>
+ <entry>
+  <title>tonyrog: ceder</title>
+  <author>
+   <name>tonyrog</name>
+  </author>
+  <link href="https://github.com/tonyrog/ceder" />
+  <id>urn:rprimus:github:tonyrog:ceder</id>
+  <published>2021-04-30T13:46:41Z</published>
+  <updated>2021-04-30T13:46:41Z</updated>
+  <content type="html">
+   CEDER is a syntax driven structure editor
   </content>
  </entry>
  <entry>
@@ -80,58 +158,6 @@
   <updated>2021-04-30T07:30:41Z</updated>
   <content type="html">
    Repository for testing a possible bug in rebar3 provider hooks
-  </content>
- </entry>
- <entry>
-  <title>danielyamamoto: SyntaxHighlighter</title>
-  <author>
-   <name>danielyamamoto</name>
-  </author>
-  <link href="https://github.com/danielyamamoto/SyntaxHighlighter" />
-  <id>urn:rprimus:github:danielyamamoto:SyntaxHighlighter</id>
-  <published>2021-04-29T23:01:26Z</published>
-  <updated>2021-04-29T23:01:26Z</updated>
-  <content type="html">
-   Syntax Highlighter in Erlang
-  </content>
- </entry>
- <entry>
-  <title>harshrpg: erlang-learnings</title>
-  <author>
-   <name>harshrpg</name>
-  </author>
-  <link href="https://github.com/harshrpg/erlang-learnings" />
-  <id>urn:rprimus:github:harshrpg:erlang-learnings</id>
-  <published>2021-04-29T14:17:02Z</published>
-  <updated>2021-04-29T14:17:02Z</updated>
-  <content type="html">
-   Multiple erlang based application tutorials
-  </content>
- </entry>
- <entry>
-  <title>myErlangProjects: incremental_rebalance</title>
-  <author>
-   <name>myErlangProjects</name>
-  </author>
-  <link href="https://github.com/myErlangProjects/incremental_rebalance" />
-  <id>urn:rprimus:github:myErlangProjects:incremental_rebalance</id>
-  <published>2021-04-29T03:05:09Z</published>
-  <updated>2021-04-29T03:05:09Z</updated>
-  <content type="html">
-   Automatic resource rebalance(incremental) among erlang applications in k8s
-  </content>
- </entry>
- <entry>
-  <title>tonyrog: tty</title>
-  <author>
-   <name>tonyrog</name>
-  </author>
-  <link href="https://github.com/tonyrog/tty" />
-  <id>urn:rprimus:github:tonyrog:tty</id>
-  <published>2021-04-29T00:15:58Z</published>
-  <updated>2021-04-29T00:15:58Z</updated>
-  <content type="html">
-   user_drv API (ttsl_drv)
   </content>
  </entry>
 </feed>
