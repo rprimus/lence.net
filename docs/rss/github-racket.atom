@@ -2,8 +2,112 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-racket.atom"/>
 <id>urn:rprimus:github:newracketrepos</id>
-<updated>2021-05-02T09:07:39Z</updated>
+<updated>2021-05-03T02:30:53Z</updated>
 <title type='text'>New GitHub Racket Repos</title>
+ <entry>
+  <title>simmone: racket-simple-xml</title>
+  <author>
+   <name>simmone</name>
+  </author>
+  <link href="https://github.com/simmone/racket-simple-xml" />
+  <id>urn:rprimus:github:simmone:racket-simple-xml</id>
+  <published>2021-05-03T02:30:53Z</published>
+  <updated>2021-05-03T02:30:53Z</updated>
+  <content type="html">
+   Simplify xml&#039;s read and write.
+  </content>
+ </entry>
+ <entry>
+  <title>samdphillips: sensor-scrape</title>
+  <author>
+   <name>samdphillips</name>
+  </author>
+  <link href="https://github.com/samdphillips/sensor-scrape" />
+  <id>urn:rprimus:github:samdphillips:sensor-scrape</id>
+  <published>2021-05-02T22:40:28Z</published>
+  <updated>2021-05-02T22:40:28Z</updated>
+  <content type="html">
+   some prometheus glue
+  </content>
+ </entry>
+ <entry>
+  <title>mtreca: beautiful-racket</title>
+  <author>
+   <name>mtreca</name>
+  </author>
+  <link href="https://github.com/mtreca/beautiful-racket" />
+  <id>urn:rprimus:github:mtreca:beautiful-racket</id>
+  <published>2021-05-02T20:28:00Z</published>
+  <updated>2021-05-02T20:28:00Z</updated>
+  <content type="html">
+   Code examples from &#039;Beautiful Racket&#039; by M. Butterick
+  </content>
+ </entry>
+ <entry>
+  <title>dannypsnl: circuit</title>
+  <author>
+   <name>dannypsnl</name>
+  </author>
+  <link href="https://github.com/dannypsnl/circuit" />
+  <id>urn:rprimus:github:dannypsnl:circuit</id>
+  <published>2021-05-02T20:21:44Z</published>
+  <updated>2021-05-02T20:21:44Z</updated>
+  <content type="html">
+   circuit simulator
+  </content>
+ </entry>
+ <entry>
+  <title>smgbx: Functional-Programming-Project---Racket</title>
+  <author>
+   <name>smgbx</name>
+  </author>
+  <link href="https://github.com/smgbx/Functional-Programming-Project---Racket" />
+  <id>urn:rprimus:github:smgbx:Functional-Programming-Project---Racket</id>
+  <published>2021-05-02T19:29:48Z</published>
+  <updated>2021-05-02T19:29:48Z</updated>
+  <content type="html">
+   A project to practice functional programming with Racket.
+  </content>
+ </entry>
+ <entry>
+  <title>jramaswami: Advent-Of-Code-2016</title>
+  <author>
+   <name>jramaswami</name>
+  </author>
+  <link href="https://github.com/jramaswami/Advent-Of-Code-2016" />
+  <id>urn:rprimus:github:jramaswami:Advent-Of-Code-2016</id>
+  <published>2021-05-02T18:40:24Z</published>
+  <updated>2021-05-02T18:40:24Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>joewestersund: SICP</title>
+  <author>
+   <name>joewestersund</name>
+  </author>
+  <link href="https://github.com/joewestersund/SICP" />
+  <id>urn:rprimus:github:joewestersund:SICP</id>
+  <published>2021-05-02T17:23:39Z</published>
+  <updated>2021-05-02T17:23:39Z</updated>
+  <content type="html">
+   working through exercises from the book Structure and Implementation of Computer Programs
+  </content>
+ </entry>
+ <entry>
+  <title>runyasak: how-to-code-simple-data</title>
+  <author>
+   <name>runyasak</name>
+  </author>
+  <link href="https://github.com/runyasak/how-to-code-simple-data" />
+  <id>urn:rprimus:github:runyasak:how-to-code-simple-data</id>
+  <published>2021-05-02T16:37:16Z</published>
+  <updated>2021-05-02T16:37:16Z</updated>
+  <content type="html">
+   How To Code with Racket Lang course from ODDS
+  </content>
+ </entry>
  <entry>
   <title>t826: jzkd</title>
   <author>
@@ -28,6 +132,19 @@
   <updated>2021-05-02T05:47:55Z</updated>
   <content type="html">
    
+  </content>
+ </entry>
+ <entry>
+  <title>cal-poly-csc530-2214: program-analysis-using-constraints-nstapp2</title>
+  <author>
+   <name>cal-poly-csc530-2214</name>
+  </author>
+  <link href="https://github.com/cal-poly-csc530-2214/program-analysis-using-constraints-nstapp2" />
+  <id>urn:rprimus:github:cal-poly-csc530-2214:program-analysis-using-constraints-nstapp2</id>
+  <published>2021-05-02T04:37:56Z</published>
+  <updated>2021-05-02T04:37:56Z</updated>
+  <content type="html">
+   program-analysis-using-constraints-nstapp2 created by GitHub Classroom
   </content>
  </entry>
  <entry>
@@ -119,45 +236,6 @@
   <updated>2021-05-01T01:40:29Z</updated>
   <content type="html">
    A library for generating json-encoded mel types in typed racket
-  </content>
- </entry>
- <entry>
-  <title>bjlf12: Pacman-Minimax</title>
-  <author>
-   <name>bjlf12</name>
-  </author>
-  <link href="https://github.com/bjlf12/Pacman-Minimax" />
-  <id>urn:rprimus:github:bjlf12:Pacman-Minimax</id>
-  <published>2021-04-30T22:52:07Z</published>
-  <updated>2021-04-30T22:52:07Z</updated>
-  <content type="html">
-   Primer Proyecto del Curso: Inteligencia Artificial 
-  </content>
- </entry>
- <entry>
-  <title>mmoussaguim: Actor_Racket</title>
-  <author>
-   <name>mmoussaguim</name>
-  </author>
-  <link href="https://github.com/mmoussaguim/Actor_Racket" />
-  <id>urn:rprimus:github:mmoussaguim:Actor_Racket</id>
-  <published>2021-04-30T22:31:25Z</published>
-  <updated>2021-04-30T22:31:25Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>SimonLaub: Scheme_Introduction</title>
-  <author>
-   <name>SimonLaub</name>
-  </author>
-  <link href="https://github.com/SimonLaub/Scheme_Introduction" />
-  <id>urn:rprimus:github:SimonLaub:Scheme_Introduction</id>
-  <published>2021-04-30T19:03:41Z</published>
-  <updated>2021-04-30T19:03:41Z</updated>
-  <content type="html">
-   Introduction to Scheme programming
   </content>
  </entry>
 </feed>

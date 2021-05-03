@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-scheme.atom"/>
 <id>urn:rprimus:github:newschemerepos</id>
-<updated>2021-05-02T09:29:29Z</updated>
+<updated>2021-05-02T20:29:51Z</updated>
 <title type='text'>New GitHub Scheme Repos</title>
+ <entry>
+  <title>eliaslajimi: pushing-lambdas</title>
+  <author>
+   <name>eliaslajimi</name>
+  </author>
+  <link href="https://github.com/eliaslajimi/pushing-lambdas" />
+  <id>urn:rprimus:github:eliaslajimi:pushing-lambdas</id>
+  <published>2021-05-02T20:29:51Z</published>
+  <updated>2021-05-02T20:29:51Z</updated>
+  <content type="html">
+   This is a playground for me to learn FP with Racket
+  </content>
+ </entry>
  <entry>
   <title>candywal: CS61</title>
   <author>
@@ -119,32 +132,6 @@
   <updated>2021-05-01T11:36:46Z</updated>
   <content type="html">
    A simple space shooter
-  </content>
- </entry>
- <entry>
-  <title>aNavalesi: lisp-projects</title>
-  <author>
-   <name>aNavalesi</name>
-  </author>
-  <link href="https://github.com/aNavalesi/lisp-projects" />
-  <id>urn:rprimus:github:aNavalesi:lisp-projects</id>
-  <published>2021-04-30T21:32:37Z</published>
-  <updated>2021-04-30T21:32:37Z</updated>
-  <content type="html">
-   Progetti con lisp
-  </content>
- </entry>
- <entry>
-  <title>dglickman: sicp21</title>
-  <author>
-   <name>dglickman</name>
-  </author>
-  <link href="https://github.com/dglickman/sicp21" />
-  <id>urn:rprimus:github:dglickman:sicp21</id>
-  <published>2021-04-30T16:11:12Z</published>
-  <updated>2021-04-30T16:11:12Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
