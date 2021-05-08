@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-05-07T09:13:45Z</updated>
+<updated>2021-05-08T04:16:27Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>doorteeth: test</title>
+  <author>
+   <name>doorteeth</name>
+  </author>
+  <link href="https://github.com/doorteeth/test" />
+  <id>urn:rprimus:github:doorteeth:test</id>
+  <published>2021-05-08T04:16:27Z</published>
+  <updated>2021-05-08T04:16:27Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>rheaplex: draw-something</title>
+  <author>
+   <name>rheaplex</name>
+  </author>
+  <link href="https://github.com/rheaplex/draw-something" />
+  <id>urn:rprimus:github:rheaplex:draw-something</id>
+  <published>2021-05-08T04:14:39Z</published>
+  <updated>2021-05-08T04:14:39Z</updated>
+  <content type="html">
+   Classic computer drawing style. 
+  </content>
+ </entry>
+ <entry>
+  <title>mmontone: cl-docweaver</title>
+  <author>
+   <name>mmontone</name>
+  </author>
+  <link href="https://github.com/mmontone/cl-docweaver" />
+  <id>urn:rprimus:github:mmontone:cl-docweaver</id>
+  <published>2021-05-08T00:14:15Z</published>
+  <updated>2021-05-08T00:14:15Z</updated>
+  <content type="html">
+   Common Lisp Documentation Weaver
+  </content>
+ </entry>
+ <entry>
+  <title>joshroybal: sieve-CL</title>
+  <author>
+   <name>joshroybal</name>
+  </author>
+  <link href="https://github.com/joshroybal/sieve-CL" />
+  <id>urn:rprimus:github:joshroybal:sieve-CL</id>
+  <published>2021-05-07T23:03:22Z</published>
+  <updated>2021-05-07T23:03:22Z</updated>
+  <content type="html">
+   Common Lisp sieve of Eratosthenes.
+  </content>
+ </entry>
+ <entry>
+  <title>joshroybal: mergesort-CL</title>
+  <author>
+   <name>joshroybal</name>
+  </author>
+  <link href="https://github.com/joshroybal/mergesort-CL" />
+  <id>urn:rprimus:github:joshroybal:mergesort-CL</id>
+  <published>2021-05-07T22:39:35Z</published>
+  <updated>2021-05-07T22:39:35Z</updated>
+  <content type="html">
+   mergesort functions and tests in Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>biyori-sh: const-matrices</title>
+  <author>
+   <name>biyori-sh</name>
+  </author>
+  <link href="https://github.com/biyori-sh/const-matrices" />
+  <id>urn:rprimus:github:biyori-sh:const-matrices</id>
+  <published>2021-05-07T16:32:34Z</published>
+  <updated>2021-05-07T16:32:34Z</updated>
+  <content type="html">
+   Constant matrices in Common Lisp.
+  </content>
+ </entry>
  <entry>
   <title>ianchang01: LISP02</title>
   <author>
@@ -15,6 +93,19 @@
   <updated>2021-05-07T09:13:45Z</updated>
   <content type="html">
    
+  </content>
+ </entry>
+ <entry>
+  <title>Rn7s2: CEPA</title>
+  <author>
+   <name>Rn7s2</name>
+  </author>
+  <link href="https://github.com/Rn7s2/CEPA" />
+  <id>urn:rprimus:github:Rn7s2:CEPA</id>
+  <published>2021-05-07T08:43:49Z</published>
+  <updated>2021-05-07T08:43:49Z</updated>
+  <content type="html">
+   Comprehensive Experimental Projects Archive
   </content>
  </entry>
  <entry>
@@ -106,84 +197,6 @@
   <updated>2021-05-06T05:36:55Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>emersondtsci: CommonLisp</title>
-  <author>
-   <name>emersondtsci</name>
-  </author>
-  <link href="https://github.com/emersondtsci/CommonLisp" />
-  <id>urn:rprimus:github:emersondtsci:CommonLisp</id>
-  <published>2021-05-05T21:53:09Z</published>
-  <updated>2021-05-05T21:53:09Z</updated>
-  <content type="html">
-   Some questions about Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>a1dv: FP</title>
-  <author>
-   <name>a1dv</name>
-  </author>
-  <link href="https://github.com/a1dv/FP" />
-  <id>urn:rprimus:github:a1dv:FP</id>
-  <published>2021-05-05T20:21:52Z</published>
-  <updated>2021-05-05T20:21:52Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>lvvz: ulet</title>
-  <author>
-   <name>lvvz</name>
-  </author>
-  <link href="https://github.com/lvvz/ulet" />
-  <id>urn:rprimus:github:lvvz:ulet</id>
-  <published>2021-05-05T08:20:04Z</published>
-  <updated>2021-05-05T08:20:04Z</updated>
-  <content type="html">
-   Unified LET macro
-  </content>
- </entry>
- <entry>
-  <title>lisp-polymorph: polymorph.data-structures</title>
-  <author>
-   <name>lisp-polymorph</name>
-  </author>
-  <link href="https://github.com/lisp-polymorph/polymorph.data-structures" />
-  <id>urn:rprimus:github:lisp-polymorph:polymorph.data-structures</id>
-  <published>2021-05-05T08:03:49Z</published>
-  <updated>2021-05-05T08:03:49Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>foo7print: common-lisp_sandbox</title>
-  <author>
-   <name>foo7print</name>
-  </author>
-  <link href="https://github.com/foo7print/common-lisp_sandbox" />
-  <id>urn:rprimus:github:foo7print:common-lisp_sandbox</id>
-  <published>2021-05-05T01:37:38Z</published>
-  <updated>2021-05-05T01:37:38Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>andreoss: .stumpwm.d</title>
-  <author>
-   <name>andreoss</name>
-  </author>
-  <link href="https://github.com/andreoss/.stumpwm.d" />
-  <id>urn:rprimus:github:andreoss:.stumpwm.d</id>
-  <published>2021-05-05T01:24:53Z</published>
-  <updated>2021-05-05T01:24:53Z</updated>
-  <content type="html">
-   stumpwm configuration
   </content>
  </entry>
 </feed>
