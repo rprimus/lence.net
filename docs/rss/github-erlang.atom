@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-erlang.atom"/>
 <id>urn:rprimus:github:newerlangrepos</id>
-<updated>2021-05-09T11:08:42Z</updated>
+<updated>2021-05-10T01:12:34Z</updated>
 <title type='text'>New GitHub Erlang Repos</title>
+ <entry>
+  <title>fadushin: atomvm_mqtt</title>
+  <author>
+   <name>fadushin</name>
+  </author>
+  <link href="https://github.com/fadushin/atomvm_mqtt" />
+  <id>urn:rprimus:github:fadushin:atomvm_mqtt</id>
+  <published>2021-05-10T01:12:34Z</published>
+  <updated>2021-05-10T01:12:34Z</updated>
+  <content type="html">
+   An MQTT client library for AtomVM
+  </content>
+ </entry>
+ <entry>
+  <title>JanuszJakubiec: Erlang_pollution_server</title>
+  <author>
+   <name>JanuszJakubiec</name>
+  </author>
+  <link href="https://github.com/JanuszJakubiec/Erlang_pollution_server" />
+  <id>urn:rprimus:github:JanuszJakubiec:Erlang_pollution_server</id>
+  <published>2021-05-09T16:39:59Z</published>
+  <updated>2021-05-09T16:39:59Z</updated>
+  <content type="html">
+   simple project created in Erlang
+  </content>
+ </entry>
  <entry>
   <title>tgargula: erlang-pollution</title>
   <author>
@@ -41,45 +67,6 @@
   <updated>2021-05-08T23:22:11Z</updated>
   <content type="html">
    Arweave Interface
-  </content>
- </entry>
- <entry>
-  <title>andrewj12763: automation</title>
-  <author>
-   <name>andrewj12763</name>
-  </author>
-  <link href="https://github.com/andrewj12763/automation" />
-  <id>urn:rprimus:github:andrewj12763:automation</id>
-  <published>2021-05-07T13:37:40Z</published>
-  <updated>2021-05-07T13:37:40Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>rustaem: aestaking_contract</title>
-  <author>
-   <name>rustaem</name>
-  </author>
-  <link href="https://github.com/rustaem/aestaking_contract" />
-  <id>urn:rprimus:github:rustaem:aestaking_contract</id>
-  <published>2021-05-07T13:33:55Z</published>
-  <updated>2021-05-07T13:33:55Z</updated>
-  <content type="html">
-   AEStakingContract proxy lib
-  </content>
- </entry>
- <entry>
-  <title>hamler-lang: Erlang</title>
-  <author>
-   <name>hamler-lang</name>
-  </author>
-  <link href="https://github.com/hamler-lang/Erlang" />
-  <id>urn:rprimus:github:hamler-lang:Erlang</id>
-  <published>2021-05-07T07:54:50Z</published>
-  <updated>2021-05-07T07:54:50Z</updated>
-  <content type="html">
-   Erlang and CoreErlang syntax parser , pretty print
   </content>
  </entry>
 </feed>

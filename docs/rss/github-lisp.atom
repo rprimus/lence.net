@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-05-09T09:21:37Z</updated>
+<updated>2021-05-10T01:50:41Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>BlacAmDK: lisp-helloworld</title>
+  <author>
+   <name>BlacAmDK</name>
+  </author>
+  <link href="https://github.com/BlacAmDK/lisp-helloworld" />
+  <id>urn:rprimus:github:BlacAmDK:lisp-helloworld</id>
+  <published>2021-05-10T01:50:41Z</published>
+  <updated>2021-05-10T01:50:41Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Janfel: sbcl-xrepl</title>
+  <author>
+   <name>Janfel</name>
+  </author>
+  <link href="https://github.com/Janfel/sbcl-xrepl" />
+  <id>urn:rprimus:github:Janfel:sbcl-xrepl</id>
+  <published>2021-05-09T16:20:34Z</published>
+  <updated>2021-05-09T16:20:34Z</updated>
+  <content type="html">
+   Improved REPL for SBCL
+  </content>
+ </entry>
+ <entry>
+  <title>fibrelisp: kokolisp</title>
+  <author>
+   <name>fibrelisp</name>
+  </author>
+  <link href="https://github.com/fibrelisp/kokolisp" />
+  <id>urn:rprimus:github:fibrelisp:kokolisp</id>
+  <published>2021-05-09T11:56:44Z</published>
+  <updated>2021-05-09T11:56:44Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>sernamar: continuous-integration-play</title>
   <author>
@@ -145,110 +184,6 @@
   <updated>2021-05-08T00:14:15Z</updated>
   <content type="html">
    Common Lisp Documentation Weaver
-  </content>
- </entry>
- <entry>
-  <title>joshroybal: sieve-CL</title>
-  <author>
-   <name>joshroybal</name>
-  </author>
-  <link href="https://github.com/joshroybal/sieve-CL" />
-  <id>urn:rprimus:github:joshroybal:sieve-CL</id>
-  <published>2021-05-07T23:03:22Z</published>
-  <updated>2021-05-07T23:03:22Z</updated>
-  <content type="html">
-   Common Lisp sieve of Eratosthenes.
-  </content>
- </entry>
- <entry>
-  <title>joshroybal: mergesort-CL</title>
-  <author>
-   <name>joshroybal</name>
-  </author>
-  <link href="https://github.com/joshroybal/mergesort-CL" />
-  <id>urn:rprimus:github:joshroybal:mergesort-CL</id>
-  <published>2021-05-07T22:39:35Z</published>
-  <updated>2021-05-07T22:39:35Z</updated>
-  <content type="html">
-   mergesort functions and tests in Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>biyori-sh: const-matrices</title>
-  <author>
-   <name>biyori-sh</name>
-  </author>
-  <link href="https://github.com/biyori-sh/const-matrices" />
-  <id>urn:rprimus:github:biyori-sh:const-matrices</id>
-  <published>2021-05-07T16:32:34Z</published>
-  <updated>2021-05-07T16:32:34Z</updated>
-  <content type="html">
-   Constant matrices in Common Lisp.
-  </content>
- </entry>
- <entry>
-  <title>ianchang01: LISP02</title>
-  <author>
-   <name>ianchang01</name>
-  </author>
-  <link href="https://github.com/ianchang01/LISP02" />
-  <id>urn:rprimus:github:ianchang01:LISP02</id>
-  <published>2021-05-07T09:13:45Z</published>
-  <updated>2021-05-07T09:13:45Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Rn7s2: CEPA</title>
-  <author>
-   <name>Rn7s2</name>
-  </author>
-  <link href="https://github.com/Rn7s2/CEPA" />
-  <id>urn:rprimus:github:Rn7s2:CEPA</id>
-  <published>2021-05-07T08:43:49Z</published>
-  <updated>2021-05-07T08:43:49Z</updated>
-  <content type="html">
-   Comprehensive Experimental Projects Archive
-  </content>
- </entry>
- <entry>
-  <title>lisp-polymorph: polymorph.traversable</title>
-  <author>
-   <name>lisp-polymorph</name>
-  </author>
-  <link href="https://github.com/lisp-polymorph/polymorph.traversable" />
-  <id>urn:rprimus:github:lisp-polymorph:polymorph.traversable</id>
-  <published>2021-05-07T08:16:34Z</published>
-  <updated>2021-05-07T08:16:34Z</updated>
-  <content type="html">
-   Traversable interface for polymorph.stl
-  </content>
- </entry>
- <entry>
-  <title>chaitanyagupta: cowin</title>
-  <author>
-   <name>chaitanyagupta</name>
-  </author>
-  <link href="https://github.com/chaitanyagupta/cowin" />
-  <id>urn:rprimus:github:chaitanyagupta:cowin</id>
-  <published>2021-05-07T07:37:15Z</published>
-  <updated>2021-05-07T07:37:15Z</updated>
-  <content type="html">
-   Vaccine availability and appointment booking for Co-WIN
-  </content>
- </entry>
- <entry>
-  <title>ianchang01: LISP01</title>
-  <author>
-   <name>ianchang01</name>
-  </author>
-  <link href="https://github.com/ianchang01/LISP01" />
-  <id>urn:rprimus:github:ianchang01:LISP01</id>
-  <published>2021-05-07T06:01:09Z</published>
-  <updated>2021-05-07T06:01:09Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
