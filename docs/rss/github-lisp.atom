@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-05-10T01:50:41Z</updated>
+<updated>2021-05-11T03:54:40Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>Jobhdez: blockchain</title>
+  <author>
+   <name>Jobhdez</name>
+  </author>
+  <link href="https://github.com/Jobhdez/blockchain" />
+  <id>urn:rprimus:github:Jobhdez:blockchain</id>
+  <published>2021-05-11T03:54:40Z</published>
+  <updated>2021-05-11T03:54:40Z</updated>
+  <content type="html">
+   a simple basic blockchain
+  </content>
+ </entry>
+ <entry>
+  <title>adammohammed: cl-weather-lib</title>
+  <author>
+   <name>adammohammed</name>
+  </author>
+  <link href="https://github.com/adammohammed/cl-weather-lib" />
+  <id>urn:rprimus:github:adammohammed:cl-weather-lib</id>
+  <published>2021-05-11T02:46:34Z</published>
+  <updated>2021-05-11T02:46:34Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>J-AugustoManzano: livro_LISP</title>
+  <author>
+   <name>J-AugustoManzano</name>
+  </author>
+  <link href="https://github.com/J-AugustoManzano/livro_LISP" />
+  <id>urn:rprimus:github:J-AugustoManzano:livro_LISP</id>
+  <published>2021-05-11T01:13:03Z</published>
+  <updated>2021-05-11T01:13:03Z</updated>
+  <content type="html">
+   Arquivos com fontes de alguns programas do livro.
+  </content>
+ </entry>
+ <entry>
+  <title>codr7: fipl</title>
+  <author>
+   <name>codr7</name>
+  </author>
+  <link href="https://github.com/codr7/fipl" />
+  <id>urn:rprimus:github:codr7:fipl</id>
+  <published>2021-05-10T21:04:17Z</published>
+  <updated>2021-05-10T21:04:17Z</updated>
+  <content type="html">
+   a minimal Forth in Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>joshroybal: CL-words</title>
+  <author>
+   <name>joshroybal</name>
+  </author>
+  <link href="https://github.com/joshroybal/CL-words" />
+  <id>urn:rprimus:github:joshroybal:CL-words</id>
+  <published>2021-05-10T20:41:27Z</published>
+  <updated>2021-05-10T20:41:27Z</updated>
+  <content type="html">
+   Common Lisp text and direct access file I/O tests using unix words file.
+  </content>
+ </entry>
+ <entry>
+  <title>thomashoullier: exp-dev</title>
+  <author>
+   <name>thomashoullier</name>
+  </author>
+  <link href="https://github.com/thomashoullier/exp-dev" />
+  <id>urn:rprimus:github:thomashoullier:exp-dev</id>
+  <published>2021-05-10T18:50:26Z</published>
+  <updated>2021-05-10T18:50:26Z</updated>
+  <content type="html">
+   Exponential deviates
+  </content>
+ </entry>
  <entry>
   <title>BlacAmDK: lisp-helloworld</title>
   <author>
@@ -31,12 +109,12 @@
   </content>
  </entry>
  <entry>
-  <title>fibrelisp: kokolisp</title>
+  <title>fibrelisp: kokonut</title>
   <author>
    <name>fibrelisp</name>
   </author>
-  <link href="https://github.com/fibrelisp/kokolisp" />
-  <id>urn:rprimus:github:fibrelisp:kokolisp</id>
+  <link href="https://github.com/fibrelisp/kokonut" />
+  <id>urn:rprimus:github:fibrelisp:kokonut</id>
   <published>2021-05-09T11:56:44Z</published>
   <updated>2021-05-09T11:56:44Z</updated>
   <content type="html">
@@ -67,123 +145,6 @@
   <updated>2021-05-09T07:07:12Z</updated>
   <content type="html">
    Personal Stump-WM config
-  </content>
- </entry>
- <entry>
-  <title>sakolkar: lisp-sample-crumbs</title>
-  <author>
-   <name>sakolkar</name>
-  </author>
-  <link href="https://github.com/sakolkar/lisp-sample-crumbs" />
-  <id>urn:rprimus:github:sakolkar:lisp-sample-crumbs</id>
-  <published>2021-05-08T23:28:29Z</published>
-  <updated>2021-05-08T23:28:29Z</updated>
-  <content type="html">
-   A sample project using Crumbs in Common Lisp (Caveman + Djula)
-  </content>
- </entry>
- <entry>
-  <title>gefjon: define-language</title>
-  <author>
-   <name>gefjon</name>
-  </author>
-  <link href="https://github.com/gefjon/define-language" />
-  <id>urn:rprimus:github:gefjon:define-language</id>
-  <published>2021-05-08T19:01:38Z</published>
-  <updated>2021-05-08T19:01:38Z</updated>
-  <content type="html">
-   Macro for processing s-expression based languages
-  </content>
- </entry>
- <entry>
-  <title>timo-cmd2: Lispbox</title>
-  <author>
-   <name>timo-cmd2</name>
-  </author>
-  <link href="https://github.com/timo-cmd2/Lispbox" />
-  <id>urn:rprimus:github:timo-cmd2:Lispbox</id>
-  <published>2021-05-08T17:41:56Z</published>
-  <updated>2021-05-08T17:41:56Z</updated>
-  <content type="html">
-   This repository is a sandbox for enhancing my skills in the Lisp Land
-  </content>
- </entry>
- <entry>
-  <title>scymtym: parser.packrat</title>
-  <author>
-   <name>scymtym</name>
-  </author>
-  <link href="https://github.com/scymtym/parser.packrat" />
-  <id>urn:rprimus:github:scymtym:parser.packrat</id>
-  <published>2021-05-08T13:05:58Z</published>
-  <updated>2021-05-08T13:05:58Z</updated>
-  <content type="html">
-   UNFINISHED Flexible parser generator
-  </content>
- </entry>
- <entry>
-  <title>ianchang01: LISP-SYM</title>
-  <author>
-   <name>ianchang01</name>
-  </author>
-  <link href="https://github.com/ianchang01/LISP-SYM" />
-  <id>urn:rprimus:github:ianchang01:LISP-SYM</id>
-  <published>2021-05-08T09:36:50Z</published>
-  <updated>2021-05-08T09:36:50Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>genelkim: ulf-fracas</title>
-  <author>
-   <name>genelkim</name>
-  </author>
-  <link href="https://github.com/genelkim/ulf-fracas" />
-  <id>urn:rprimus:github:genelkim:ulf-fracas</id>
-  <published>2021-05-08T05:01:50Z</published>
-  <updated>2021-05-08T05:01:50Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>doorteeth: test</title>
-  <author>
-   <name>doorteeth</name>
-  </author>
-  <link href="https://github.com/doorteeth/test" />
-  <id>urn:rprimus:github:doorteeth:test</id>
-  <published>2021-05-08T04:16:27Z</published>
-  <updated>2021-05-08T04:16:27Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>rheaplex: draw-something</title>
-  <author>
-   <name>rheaplex</name>
-  </author>
-  <link href="https://github.com/rheaplex/draw-something" />
-  <id>urn:rprimus:github:rheaplex:draw-something</id>
-  <published>2021-05-08T04:14:39Z</published>
-  <updated>2021-05-08T04:14:39Z</updated>
-  <content type="html">
-   Classic computer drawing style. 
-  </content>
- </entry>
- <entry>
-  <title>mmontone: cl-docweaver</title>
-  <author>
-   <name>mmontone</name>
-  </author>
-  <link href="https://github.com/mmontone/cl-docweaver" />
-  <id>urn:rprimus:github:mmontone:cl-docweaver</id>
-  <published>2021-05-08T00:14:15Z</published>
-  <updated>2021-05-08T00:14:15Z</updated>
-  <content type="html">
-   Common Lisp Documentation Weaver
   </content>
  </entry>
 </feed>
