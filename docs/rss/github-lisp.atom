@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-05-11T03:54:40Z</updated>
+<updated>2021-05-12T07:33:53Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>the-emmon: lsp-reverse-shell</title>
+  <author>
+   <name>the-emmon</name>
+  </author>
+  <link href="https://github.com/the-emmon/lsp-reverse-shell" />
+  <id>urn:rprimus:github:the-emmon:lsp-reverse-shell</id>
+  <published>2021-05-12T07:33:53Z</published>
+  <updated>2021-05-12T07:33:53Z</updated>
+  <content type="html">
+   A Lua Server Pages reverse webshell for Windows.
+  </content>
+ </entry>
+ <entry>
+  <title>sernamar: blackjack</title>
+  <author>
+   <name>sernamar</name>
+  </author>
+  <link href="https://github.com/sernamar/blackjack" />
+  <id>urn:rprimus:github:sernamar:blackjack</id>
+  <published>2021-05-12T06:16:13Z</published>
+  <updated>2021-05-12T06:16:13Z</updated>
+  <content type="html">
+   Blackjack card game, or &quot;veintiuno&quot; (&quot;veintiuna&quot;, as first mentioned in &quot;Rinconete y Cortadillo&quot;, from Miguel de Cervantes Saavedra)
+  </content>
+ </entry>
+ <entry>
+  <title>darabi: hu.dwim.rdbms</title>
+  <author>
+   <name>darabi</name>
+  </author>
+  <link href="https://github.com/darabi/hu.dwim.rdbms" />
+  <id>urn:rprimus:github:darabi:hu.dwim.rdbms</id>
+  <published>2021-05-11T13:51:43Z</published>
+  <updated>2021-05-11T13:51:43Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>MrGrimmBoi: Vindictus</title>
+  <author>
+   <name>MrGrimmBoi</name>
+  </author>
+  <link href="https://github.com/MrGrimmBoi/Vindictus" />
+  <id>urn:rprimus:github:MrGrimmBoi:Vindictus</id>
+  <published>2021-05-11T11:49:20Z</published>
+  <updated>2021-05-11T11:49:20Z</updated>
+  <content type="html">
+   My first project while trying to learn Common Lisp
+  </content>
+ </entry>
  <entry>
   <title>Jobhdez: blockchain</title>
   <author>
@@ -14,7 +66,7 @@
   <published>2021-05-11T03:54:40Z</published>
   <updated>2021-05-11T03:54:40Z</updated>
   <content type="html">
-   a simple basic blockchain
+   the start of a simple basic blockchain
   </content>
  </entry>
  <entry>
@@ -53,7 +105,7 @@
   <published>2021-05-10T21:04:17Z</published>
   <updated>2021-05-10T21:04:17Z</updated>
   <content type="html">
-   a minimal Forth in Lisp
+   a Forth in Lisp
   </content>
  </entry>
  <entry>
@@ -83,6 +135,19 @@
   </content>
  </entry>
  <entry>
+  <title>Frechmatz: cl-synthesizer-java-sound-client</title>
+  <author>
+   <name>Frechmatz</name>
+  </author>
+  <link href="https://github.com/Frechmatz/cl-synthesizer-java-sound-client" />
+  <id>urn:rprimus:github:Frechmatz:cl-synthesizer-java-sound-client</id>
+  <published>2021-05-10T17:55:08Z</published>
+  <updated>2021-05-10T17:55:08Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
   <title>BlacAmDK: lisp-helloworld</title>
   <author>
    <name>BlacAmDK</name>
@@ -93,58 +158,6 @@
   <updated>2021-05-10T01:50:41Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>Janfel: sbcl-xrepl</title>
-  <author>
-   <name>Janfel</name>
-  </author>
-  <link href="https://github.com/Janfel/sbcl-xrepl" />
-  <id>urn:rprimus:github:Janfel:sbcl-xrepl</id>
-  <published>2021-05-09T16:20:34Z</published>
-  <updated>2021-05-09T16:20:34Z</updated>
-  <content type="html">
-   Improved REPL for SBCL
-  </content>
- </entry>
- <entry>
-  <title>fibrelisp: kokonut</title>
-  <author>
-   <name>fibrelisp</name>
-  </author>
-  <link href="https://github.com/fibrelisp/kokonut" />
-  <id>urn:rprimus:github:fibrelisp:kokonut</id>
-  <published>2021-05-09T11:56:44Z</published>
-  <updated>2021-05-09T11:56:44Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>sernamar: continuous-integration-play</title>
-  <author>
-   <name>sernamar</name>
-  </author>
-  <link href="https://github.com/sernamar/continuous-integration-play" />
-  <id>urn:rprimus:github:sernamar:continuous-integration-play</id>
-  <published>2021-05-09T09:21:37Z</published>
-  <updated>2021-05-09T09:21:37Z</updated>
-  <content type="html">
-   Explore how to do continuous integration in Common Lisp projects
-  </content>
- </entry>
- <entry>
-  <title>mariari: Stumpwm-config</title>
-  <author>
-   <name>mariari</name>
-  </author>
-  <link href="https://github.com/mariari/Stumpwm-config" />
-  <id>urn:rprimus:github:mariari:Stumpwm-config</id>
-  <published>2021-05-09T07:07:12Z</published>
-  <updated>2021-05-09T07:07:12Z</updated>
-  <content type="html">
-   Personal Stump-WM config
   </content>
  </entry>
 </feed>
