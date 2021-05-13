@@ -2,8 +2,125 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-racket.atom"/>
 <id>urn:rprimus:github:newracketrepos</id>
-<updated>2021-05-12T08:45:11Z</updated>
+<updated>2021-05-13T05:00:09Z</updated>
 <title type='text'>New GitHub Racket Repos</title>
+ <entry>
+  <title>zhouxiongh: htdp</title>
+  <author>
+   <name>zhouxiongh</name>
+  </author>
+  <link href="https://github.com/zhouxiongh/htdp" />
+  <id>urn:rprimus:github:zhouxiongh:htdp</id>
+  <published>2021-05-13T05:00:09Z</published>
+  <updated>2021-05-13T05:00:09Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>ShaoHuaLo: MUPL-Interpreter</title>
+  <author>
+   <name>ShaoHuaLo</name>
+  </author>
+  <link href="https://github.com/ShaoHuaLo/MUPL-Interpreter" />
+  <id>urn:rprimus:github:ShaoHuaLo:MUPL-Interpreter</id>
+  <published>2021-05-13T03:44:13Z</published>
+  <updated>2021-05-13T03:44:13Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>andreyskoskin: examples</title>
+  <author>
+   <name>andreyskoskin</name>
+  </author>
+  <link href="https://github.com/andreyskoskin/examples" />
+  <id>urn:rprimus:github:andreyskoskin:examples</id>
+  <published>2021-05-12T23:17:54Z</published>
+  <updated>2021-05-12T23:17:54Z</updated>
+  <content type="html">
+   Various examples
+  </content>
+ </entry>
+ <entry>
+  <title>celsobonutti: sicp</title>
+  <author>
+   <name>celsobonutti</name>
+  </author>
+  <link href="https://github.com/celsobonutti/sicp" />
+  <id>urn:rprimus:github:celsobonutti:sicp</id>
+  <published>2021-05-12T21:30:32Z</published>
+  <updated>2021-05-12T21:30:32Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>juliemariecsmith: animatedFractal</title>
+  <author>
+   <name>juliemariecsmith</name>
+  </author>
+  <link href="https://github.com/juliemariecsmith/animatedFractal" />
+  <id>urn:rprimus:github:juliemariecsmith:animatedFractal</id>
+  <published>2021-05-12T20:48:40Z</published>
+  <updated>2021-05-12T20:48:40Z</updated>
+  <content type="html">
+   Racket program generates images that can be animated with FFmpeg; see the animation: https://youtu.be/onl3slXNl-Q
+  </content>
+ </entry>
+ <entry>
+  <title>Leonardoalv201: Proyects_Peter</title>
+  <author>
+   <name>Leonardoalv201</name>
+  </author>
+  <link href="https://github.com/Leonardoalv201/Proyects_Peter" />
+  <id>urn:rprimus:github:Leonardoalv201:Proyects_Peter</id>
+  <published>2021-05-12T20:01:45Z</published>
+  <updated>2021-05-12T20:01:45Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>PrimeBIue: Computational_Methods</title>
+  <author>
+   <name>PrimeBIue</name>
+  </author>
+  <link href="https://github.com/PrimeBIue/Computational_Methods" />
+  <id>urn:rprimus:github:PrimeBIue:Computational_Methods</id>
+  <published>2021-05-12T17:03:12Z</published>
+  <updated>2021-05-12T17:03:12Z</updated>
+  <content type="html">
+   Repository containing my work of class TC2037.100 Implementacion de Metodos Computacionales. Most of the work is made on the functional gramming language Racket (.rkt)
+  </content>
+ </entry>
+ <entry>
+  <title>AndersCarter: ProjectEuler</title>
+  <author>
+   <name>AndersCarter</name>
+  </author>
+  <link href="https://github.com/AndersCarter/ProjectEuler" />
+  <id>urn:rprimus:github:AndersCarter:ProjectEuler</id>
+  <published>2021-05-12T15:08:55Z</published>
+  <updated>2021-05-12T15:08:55Z</updated>
+  <content type="html">
+   Solutions to Project Euler problems
+  </content>
+ </entry>
+ <entry>
+  <title>parnikkapore: rkt-boincrpc</title>
+  <author>
+   <name>parnikkapore</name>
+  </author>
+  <link href="https://github.com/parnikkapore/rkt-boincrpc" />
+  <id>urn:rprimus:github:parnikkapore:rkt-boincrpc</id>
+  <published>2021-05-12T09:18:38Z</published>
+  <updated>2021-05-12T09:18:38Z</updated>
+  <content type="html">
+   Thin (but maybe soon to be thicker) abstraction layer for using BOINCâs RPC on Racket
+  </content>
+ </entry>
  <entry>
   <title>parnikkapore: rkt-pnkp</title>
   <author>
@@ -106,71 +223,6 @@
   <updated>2021-05-11T04:42:59Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>jml312: Java-interpreter</title>
-  <author>
-   <name>jml312</name>
-  </author>
-  <link href="https://github.com/jml312/Java-interpreter" />
-  <id>urn:rprimus:github:jml312:Java-interpreter</id>
-  <published>2021-05-10T21:57:39Z</published>
-  <updated>2021-05-10T21:57:39Z</updated>
-  <content type="html">
-   Java-like code interpreter in scheme
-  </content>
- </entry>
- <entry>
-  <title>tracehelms: sicp-exercises</title>
-  <author>
-   <name>tracehelms</name>
-  </author>
-  <link href="https://github.com/tracehelms/sicp-exercises" />
-  <id>urn:rprimus:github:tracehelms:sicp-exercises</id>
-  <published>2021-05-10T16:05:36Z</published>
-  <updated>2021-05-10T16:05:36Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>cal-poly-csc530-2214: autograder-grifh_asgn5</title>
-  <author>
-   <name>cal-poly-csc530-2214</name>
-  </author>
-  <link href="https://github.com/cal-poly-csc530-2214/autograder-grifh_asgn5" />
-  <id>urn:rprimus:github:cal-poly-csc530-2214:autograder-grifh_asgn5</id>
-  <published>2021-05-10T15:53:45Z</published>
-  <updated>2021-05-10T15:53:45Z</updated>
-  <content type="html">
-   autograder-grifh_asgn5 created by GitHub Classroom
-  </content>
- </entry>
- <entry>
-  <title>m3xan1k: translate-bot</title>
-  <author>
-   <name>m3xan1k</name>
-  </author>
-  <link href="https://github.com/m3xan1k/translate-bot" />
-  <id>urn:rprimus:github:m3xan1k:translate-bot</id>
-  <published>2021-05-10T14:13:51Z</published>
-  <updated>2021-05-10T14:13:51Z</updated>
-  <content type="html">
-   Small telegram bot to translate foreign words
-  </content>
- </entry>
- <entry>
-  <title>aowens-21: drracket-custom-keybindings</title>
-  <author>
-   <name>aowens-21</name>
-  </author>
-  <link href="https://github.com/aowens-21/drracket-custom-keybindings" />
-  <id>urn:rprimus:github:aowens-21:drracket-custom-keybindings</id>
-  <published>2021-05-10T03:20:34Z</published>
-  <updated>2021-05-10T03:20:34Z</updated>
-  <content type="html">
-   A DrRacket plugin for custom macro-specific keybindings
   </content>
  </entry>
 </feed>
