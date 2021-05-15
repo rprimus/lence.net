@@ -2,8 +2,112 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-erlang.atom"/>
 <id>urn:rprimus:github:newerlangrepos</id>
-<updated>2021-05-14T09:26:12Z</updated>
+<updated>2021-05-15T03:44:56Z</updated>
 <title type='text'>New GitHub Erlang Repos</title>
+ <entry>
+  <title>pstap: opcua_client</title>
+  <author>
+   <name>pstap</name>
+  </author>
+  <link href="https://github.com/pstap/opcua_client" />
+  <id>urn:rprimus:github:pstap:opcua_client</id>
+  <published>2021-05-15T03:44:56Z</published>
+  <updated>2021-05-15T03:44:56Z</updated>
+  <content type="html">
+   Erlang OPCUA Client
+  </content>
+ </entry>
+ <entry>
+  <title>vvksh: erlang-rpc-server</title>
+  <author>
+   <name>vvksh</name>
+  </author>
+  <link href="https://github.com/vvksh/erlang-rpc-server" />
+  <id>urn:rprimus:github:vvksh:erlang-rpc-server</id>
+  <published>2021-05-14T18:47:31Z</published>
+  <updated>2021-05-14T18:47:31Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>sanzor: EPC</title>
+  <author>
+   <name>sanzor</name>
+  </author>
+  <link href="https://github.com/sanzor/EPC" />
+  <id>urn:rprimus:github:sanzor:EPC</id>
+  <published>2021-05-14T18:45:19Z</published>
+  <updated>2021-05-14T18:45:19Z</updated>
+  <content type="html">
+   Evolved Package Core implementation abstracting away radio towers 
+  </content>
+ </entry>
+ <entry>
+  <title>hizel: erljitnif</title>
+  <author>
+   <name>hizel</name>
+  </author>
+  <link href="https://github.com/hizel/erljitnif" />
+  <id>urn:rprimus:github:hizel:erljitnif</id>
+  <published>2021-05-14T14:42:04Z</published>
+  <updated>2021-05-14T14:42:04Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>sixty-four-bit: emqx-timescale</title>
+  <author>
+   <name>sixty-four-bit</name>
+  </author>
+  <link href="https://github.com/sixty-four-bit/emqx-timescale" />
+  <id>urn:rprimus:github:sixty-four-bit:emqx-timescale</id>
+  <published>2021-05-14T13:08:47Z</published>
+  <updated>2021-05-14T13:08:47Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>NEOIIOT: emqx_kafka_bridge</title>
+  <author>
+   <name>NEOIIOT</name>
+  </author>
+  <link href="https://github.com/NEOIIOT/emqx_kafka_bridge" />
+  <id>urn:rprimus:github:NEOIIOT:emqx_kafka_bridge</id>
+  <published>2021-05-14T10:54:51Z</published>
+  <updated>2021-05-14T10:54:51Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>RadekKpc: eredis_demo</title>
+  <author>
+   <name>RadekKpc</name>
+  </author>
+  <link href="https://github.com/RadekKpc/eredis_demo" />
+  <id>urn:rprimus:github:RadekKpc:eredis_demo</id>
+  <published>2021-05-14T09:55:31Z</published>
+  <updated>2021-05-14T09:55:31Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Wolokin: xprof-demo</title>
+  <author>
+   <name>Wolokin</name>
+  </author>
+  <link href="https://github.com/Wolokin/xprof-demo" />
+  <id>urn:rprimus:github:Wolokin:xprof-demo</id>
+  <published>2021-05-14T09:47:50Z</published>
+  <updated>2021-05-14T09:47:50Z</updated>
+  <content type="html">
+   Code used in my xprof demo created as a part of &#039;Programming in Erlang&amp;Elixir&#039; university course
+  </content>
+ </entry>
  <entry>
   <title>jostar-y: rank</title>
   <author>
@@ -104,136 +208,6 @@
   <id>urn:rprimus:github:guillaume-lin:erlang_world</id>
   <published>2021-05-13T06:49:55Z</published>
   <updated>2021-05-13T06:49:55Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>cyvattes: bert_convert</title>
-  <author>
-   <name>cyvattes</name>
-  </author>
-  <link href="https://github.com/cyvattes/bert_convert" />
-  <id>urn:rprimus:github:cyvattes:bert_convert</id>
-  <published>2021-05-12T21:38:42Z</published>
-  <updated>2021-05-12T21:38:42Z</updated>
-  <content type="html">
-   Bert to Bert2 Conversion
-  </content>
- </entry>
- <entry>
-  <title>KelvinCrank22: erlang_bogo</title>
-  <author>
-   <name>KelvinCrank22</name>
-  </author>
-  <link href="https://github.com/KelvinCrank22/erlang_bogo" />
-  <id>urn:rprimus:github:KelvinCrank22:erlang_bogo</id>
-  <published>2021-05-12T15:09:21Z</published>
-  <updated>2021-05-12T15:09:21Z</updated>
-  <content type="html">
-   little code to do bogosort in erlang
-  </content>
- </entry>
- <entry>
-  <title>zwilias: dj-decoded</title>
-  <author>
-   <name>zwilias</name>
-  </author>
-  <link href="https://github.com/zwilias/dj-decoded" />
-  <id>urn:rprimus:github:zwilias:dj-decoded</id>
-  <published>2021-05-12T14:53:14Z</published>
-  <updated>2021-05-12T14:53:14Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>potorochin: eredis</title>
-  <author>
-   <name>potorochin</name>
-  </author>
-  <link href="https://github.com/potorochin/eredis" />
-  <id>urn:rprimus:github:potorochin:eredis</id>
-  <published>2021-05-12T14:00:34Z</published>
-  <updated>2021-05-12T14:00:34Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Crypto-APIs: Crypto_APIs_2.0_SDK_Erlang</title>
-  <author>
-   <name>Crypto-APIs</name>
-  </author>
-  <link href="https://github.com/Crypto-APIs/Crypto_APIs_2.0_SDK_Erlang" />
-  <id>urn:rprimus:github:Crypto-APIs:Crypto_APIs_2.0_SDK_Erlang</id>
-  <published>2021-05-12T12:21:33Z</published>
-  <updated>2021-05-12T12:21:33Z</updated>
-  <content type="html">
-   Erlang library/SDK for Crypto APIs 2.0
-  </content>
- </entry>
- <entry>
-  <title>aamarnathkp: bookstore-backend</title>
-  <author>
-   <name>aamarnathkp</name>
-  </author>
-  <link href="https://github.com/aamarnathkp/bookstore-backend" />
-  <id>urn:rprimus:github:aamarnathkp:bookstore-backend</id>
-  <published>2021-05-12T08:39:01Z</published>
-  <updated>2021-05-12T08:39:01Z</updated>
-  <content type="html">
-   Basic book store application to rent or buy books. User can also leave reviews for the books.
-  </content>
- </entry>
- <entry>
-  <title>zhouchangbao: emqx_proxy_subscribe</title>
-  <author>
-   <name>zhouchangbao</name>
-  </author>
-  <link href="https://github.com/zhouchangbao/emqx_proxy_subscribe" />
-  <id>urn:rprimus:github:zhouchangbao:emqx_proxy_subscribe</id>
-  <published>2021-05-12T06:22:44Z</published>
-  <updated>2021-05-12T06:22:44Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>AntonioHernandez28: ErlangProject2</title>
-  <author>
-   <name>AntonioHernandez28</name>
-  </author>
-  <link href="https://github.com/AntonioHernandez28/ErlangProject2" />
-  <id>urn:rprimus:github:AntonioHernandez28:ErlangProject2</id>
-  <published>2021-05-12T05:56:31Z</published>
-  <updated>2021-05-12T05:56:31Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jerry-chao: tiny_demo</title>
-  <author>
-   <name>jerry-chao</name>
-  </author>
-  <link href="https://github.com/jerry-chao/tiny_demo" />
-  <id>urn:rprimus:github:jerry-chao:tiny_demo</id>
-  <published>2021-05-12T03:09:19Z</published>
-  <updated>2021-05-12T03:09:19Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>terry-xiaoyu: emqx_widget</title>
-  <author>
-   <name>terry-xiaoyu</name>
-  </author>
-  <link href="https://github.com/terry-xiaoyu/emqx_widget" />
-  <id>urn:rprimus:github:terry-xiaoyu:emqx_widget</id>
-  <published>2021-05-12T02:04:21Z</published>
-  <updated>2021-05-12T02:04:21Z</updated>
   <content type="html">
    
   </content>
