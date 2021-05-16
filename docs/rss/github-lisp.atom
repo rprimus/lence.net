@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-05-15T08:57:07Z</updated>
+<updated>2021-05-16T04:00:03Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>elmklod: gitsc</title>
+  <author>
+   <name>elmklod</name>
+  </author>
+  <link href="https://github.com/elmklod/gitsc" />
+  <id>urn:rprimus:github:elmklod:gitsc</id>
+  <published>2021-05-16T04:00:03Z</published>
+  <updated>2021-05-16T04:00:03Z</updated>
+  <content type="html">
+   solutions for Gentle Introduction to Symbolic Computation
+  </content>
+ </entry>
+ <entry>
+  <title>d-s-k: superparen</title>
+  <author>
+   <name>d-s-k</name>
+  </author>
+  <link href="https://github.com/d-s-k/superparen" />
+  <id>urn:rprimus:github:d-s-k:superparen</id>
+  <published>2021-05-15T22:37:03Z</published>
+  <updated>2021-05-15T22:37:03Z</updated>
+  <content type="html">
+   Interlisp-style superparentheses
+  </content>
+ </entry>
+ <entry>
+  <title>bpecsek: spectralnorm</title>
+  <author>
+   <name>bpecsek</name>
+  </author>
+  <link href="https://github.com/bpecsek/spectralnorm" />
+  <id>urn:rprimus:github:bpecsek:spectralnorm</id>
+  <published>2021-05-15T21:15:31Z</published>
+  <updated>2021-05-15T21:15:31Z</updated>
+  <content type="html">
+   The Computer Language Bnchmark Game
+  </content>
+ </entry>
  <entry>
   <title>madosuki: sample-decalim-type</title>
   <author>
@@ -158,58 +197,6 @@
   <updated>2021-05-14T06:14:29Z</updated>
   <content type="html">
    Common Lisp package for analysis of sequence using sliding windows
-  </content>
- </entry>
- <entry>
-  <title>KY-ARVR: Esoteric-programming-languages</title>
-  <author>
-   <name>KY-ARVR</name>
-  </author>
-  <link href="https://github.com/KY-ARVR/Esoteric-programming-languages" />
-  <id>urn:rprimus:github:KY-ARVR:Esoteric-programming-languages</id>
-  <published>2021-05-13T18:26:32Z</published>
-  <updated>2021-05-13T18:26:32Z</updated>
-  <content type="html">
-   Contains implementations of esoteric programming languages.
-  </content>
- </entry>
- <entry>
-  <title>L0ren2: lisp_tut</title>
-  <author>
-   <name>L0ren2</name>
-  </author>
-  <link href="https://github.com/L0ren2/lisp_tut" />
-  <id>urn:rprimus:github:L0ren2:lisp_tut</id>
-  <published>2021-05-13T16:42:35Z</published>
-  <updated>2021-05-13T16:42:35Z</updated>
-  <content type="html">
-   just a tutorial to common lisp
-  </content>
- </entry>
- <entry>
-  <title>smvamse: enoes</title>
-  <author>
-   <name>smvamse</name>
-  </author>
-  <link href="https://github.com/smvamse/enoes" />
-  <id>urn:rprimus:github:smvamse:enoes</id>
-  <published>2021-05-13T09:14:11Z</published>
-  <updated>2021-05-13T09:14:11Z</updated>
-  <content type="html">
-   The CommonLisp Editor
-  </content>
- </entry>
- <entry>
-  <title>gamoutatsumi: SATySFi-fonts-noto-sans-mono</title>
-  <author>
-   <name>gamoutatsumi</name>
-  </author>
-  <link href="https://github.com/gamoutatsumi/SATySFi-fonts-noto-sans-mono" />
-  <id>urn:rprimus:github:gamoutatsumi:SATySFi-fonts-noto-sans-mono</id>
-  <published>2021-05-13T03:31:59Z</published>
-  <updated>2021-05-13T03:31:59Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
