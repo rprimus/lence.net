@@ -2,8 +2,138 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-erlang.atom"/>
 <id>urn:rprimus:github:newerlangrepos</id>
-<updated>2021-05-20T08:57:43Z</updated>
+<updated>2021-05-21T02:31:04Z</updated>
 <title type='text'>New GitHub Erlang Repos</title>
+ <entry>
+  <title>fastdgiot: emqx</title>
+  <author>
+   <name>fastdgiot</name>
+  </author>
+  <link href="https://github.com/fastdgiot/emqx" />
+  <id>urn:rprimus:github:fastdgiot:emqx</id>
+  <published>2021-05-21T02:31:04Z</published>
+  <updated>2021-05-21T02:31:04Z</updated>
+  <content type="html">
+   emqx
+  </content>
+ </entry>
+ <entry>
+  <title>Nihm: link-state-routing-protocol</title>
+  <author>
+   <name>Nihm</name>
+  </author>
+  <link href="https://github.com/Nihm/link-state-routing-protocol" />
+  <id>urn:rprimus:github:Nihm:link-state-routing-protocol</id>
+  <published>2021-05-21T02:16:36Z</published>
+  <updated>2021-05-21T02:16:36Z</updated>
+  <content type="html">
+   Implementation of a link-state routing protocol as part of an assignment in the KTH ID2201 course.
+  </content>
+ </entry>
+ <entry>
+  <title>Nihm: group-membership-service</title>
+  <author>
+   <name>Nihm</name>
+  </author>
+  <link href="https://github.com/Nihm/group-membership-service" />
+  <id>urn:rprimus:github:Nihm:group-membership-service</id>
+  <published>2021-05-21T01:36:34Z</published>
+  <updated>2021-05-21T01:36:34Z</updated>
+  <content type="html">
+   Implementation of synchronous multicast with failure detection
+  </content>
+ </entry>
+ <entry>
+  <title>atimid: relup_test</title>
+  <author>
+   <name>atimid</name>
+  </author>
+  <link href="https://github.com/atimid/relup_test" />
+  <id>urn:rprimus:github:atimid:relup_test</id>
+  <published>2021-05-20T12:38:43Z</published>
+  <updated>2021-05-20T12:38:43Z</updated>
+  <content type="html">
+   appliction hot upgrade test
+  </content>
+ </entry>
+ <entry>
+  <title>fastdgiot: recon</title>
+  <author>
+   <name>fastdgiot</name>
+  </author>
+  <link href="https://github.com/fastdgiot/recon" />
+  <id>urn:rprimus:github:fastdgiot:recon</id>
+  <published>2021-05-20T11:19:21Z</published>
+  <updated>2021-05-20T11:19:21Z</updated>
+  <content type="html">
+   recon
+  </content>
+ </entry>
+ <entry>
+  <title>fastdgiot: gpb</title>
+  <author>
+   <name>fastdgiot</name>
+  </author>
+  <link href="https://github.com/fastdgiot/gpb" />
+  <id>urn:rprimus:github:fastdgiot:gpb</id>
+  <published>2021-05-20T11:09:28Z</published>
+  <updated>2021-05-20T11:09:28Z</updated>
+  <content type="html">
+   gpb
+  </content>
+ </entry>
+ <entry>
+  <title>fastdgiot: eredis_cluster</title>
+  <author>
+   <name>fastdgiot</name>
+  </author>
+  <link href="https://github.com/fastdgiot/eredis_cluster" />
+  <id>urn:rprimus:github:fastdgiot:eredis_cluster</id>
+  <published>2021-05-20T11:02:39Z</published>
+  <updated>2021-05-20T11:02:39Z</updated>
+  <content type="html">
+   eredis_cluster
+  </content>
+ </entry>
+ <entry>
+  <title>bsnote: erlang-decimal</title>
+  <author>
+   <name>bsnote</name>
+  </author>
+  <link href="https://github.com/bsnote/erlang-decimal" />
+  <id>urn:rprimus:github:bsnote:erlang-decimal</id>
+  <published>2021-05-20T11:00:09Z</published>
+  <updated>2021-05-20T11:00:09Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>fastdgiot: gen_coap</title>
+  <author>
+   <name>fastdgiot</name>
+  </author>
+  <link href="https://github.com/fastdgiot/gen_coap" />
+  <id>urn:rprimus:github:fastdgiot:gen_coap</id>
+  <published>2021-05-20T10:57:53Z</published>
+  <updated>2021-05-20T10:57:53Z</updated>
+  <content type="html">
+   gen_coap
+  </content>
+ </entry>
+ <entry>
+  <title>exograd: erl-log-handler</title>
+  <author>
+   <name>exograd</name>
+  </author>
+  <link href="https://github.com/exograd/erl-log-handler" />
+  <id>urn:rprimus:github:exograd:erl-log-handler</id>
+  <published>2021-05-20T10:10:10Z</published>
+  <updated>2021-05-20T10:10:10Z</updated>
+  <content type="html">
+   A minimal handler for the Erlang standard logger.
+  </content>
+ </entry>
  <entry>
   <title>fastdgiot: port_compiler</title>
   <author>
@@ -70,16 +200,16 @@
   </content>
  </entry>
  <entry>
-  <title>EdmondFrank: tr_server</title>
+  <title>EdmondFrank: erlang_example</title>
   <author>
    <name>EdmondFrank</name>
   </author>
-  <link href="https://github.com/EdmondFrank/tr_server" />
-  <id>urn:rprimus:github:EdmondFrank:tr_server</id>
+  <link href="https://github.com/EdmondFrank/erlang_example" />
+  <id>urn:rprimus:github:EdmondFrank:erlang_example</id>
   <published>2021-05-19T15:03:10Z</published>
   <updated>2021-05-19T15:03:10Z</updated>
   <content type="html">
-   erlang rpc example
+   some erlang example applications
   </content>
  </entry>
  <entry>
@@ -171,97 +301,6 @@
   <updated>2021-05-19T02:12:51Z</updated>
   <content type="html">
    A query string parser for Gleam
-  </content>
- </entry>
- <entry>
-  <title>ankhers: amf.erl</title>
-  <author>
-   <name>ankhers</name>
-  </author>
-  <link href="https://github.com/ankhers/amf.erl" />
-  <id>urn:rprimus:github:ankhers:amf.erl</id>
-  <published>2021-05-18T18:54:51Z</published>
-  <updated>2021-05-18T18:54:51Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>hareen-kancharla: workbench</title>
-  <author>
-   <name>hareen-kancharla</name>
-  </author>
-  <link href="https://github.com/hareen-kancharla/workbench" />
-  <id>urn:rprimus:github:hareen-kancharla:workbench</id>
-  <published>2021-05-18T17:03:17Z</published>
-  <updated>2021-05-18T17:03:17Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>MIO1100: multithreading_erlang</title>
-  <author>
-   <name>MIO1100</name>
-  </author>
-  <link href="https://github.com/MIO1100/multithreading_erlang" />
-  <id>urn:rprimus:github:MIO1100:multithreading_erlang</id>
-  <published>2021-05-18T16:52:47Z</published>
-  <updated>2021-05-18T16:52:47Z</updated>
-  <content type="html">
-   Erlang ÑÐ°ÑÐ¿ÑÐµÐ´ÐµÐ»ÑÐ½Ð½Ð°Ñ Ð¼Ð½Ð¾Ð³Ð¾Ð¿Ð¾ÑÐ¾ÑÐºÐ°
-  </content>
- </entry>
- <entry>
-  <title>DOBRO: erlang-imap-utf7</title>
-  <author>
-   <name>DOBRO</name>
-  </author>
-  <link href="https://github.com/DOBRO/erlang-imap-utf7" />
-  <id>urn:rprimus:github:DOBRO:erlang-imap-utf7</id>
-  <published>2021-05-18T14:20:54Z</published>
-  <updated>2021-05-18T14:20:54Z</updated>
-  <content type="html">
-   IMAP UTF-7 encoding/decoding library for Erlang
-  </content>
- </entry>
- <entry>
-  <title>dong50252409: aho_corasick</title>
-  <author>
-   <name>dong50252409</name>
-  </author>
-  <link href="https://github.com/dong50252409/aho_corasick" />
-  <id>urn:rprimus:github:dong50252409:aho_corasick</id>
-  <published>2021-05-18T14:03:19Z</published>
-  <updated>2021-05-18T14:03:19Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>mikeyhc: yshtola</title>
-  <author>
-   <name>mikeyhc</name>
-  </author>
-  <link href="https://github.com/mikeyhc/yshtola" />
-  <id>urn:rprimus:github:mikeyhc:yshtola</id>
-  <published>2021-05-18T13:55:29Z</published>
-  <updated>2021-05-18T13:55:29Z</updated>
-  <content type="html">
-   A discord bot for generating FFXIV static groups
-  </content>
- </entry>
- <entry>
-  <title>AleKai-bot: Domino</title>
-  <author>
-   <name>AleKai-bot</name>
-  </author>
-  <link href="https://github.com/AleKai-bot/Domino" />
-  <id>urn:rprimus:github:AleKai-bot:Domino</id>
-  <published>2021-05-18T03:31:31Z</published>
-  <updated>2021-05-18T03:31:31Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>

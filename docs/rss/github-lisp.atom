@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-05-20T06:44:28Z</updated>
+<updated>2021-05-21T04:24:28Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>mmhansen137: LeStat</title>
+  <author>
+   <name>mmhansen137</name>
+  </author>
+  <link href="https://github.com/mmhansen137/LeStat" />
+  <id>urn:rprimus:github:mmhansen137:LeStat</id>
+  <published>2021-05-21T04:24:28Z</published>
+  <updated>2021-05-21T04:24:28Z</updated>
+  <content type="html">
+   Extremely basic statistics in Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>icepic1984: mqtt-to-sql</title>
+  <author>
+   <name>icepic1984</name>
+  </author>
+  <link href="https://github.com/icepic1984/mqtt-to-sql" />
+  <id>urn:rprimus:github:icepic1984:mqtt-to-sql</id>
+  <published>2021-05-20T16:22:33Z</published>
+  <updated>2021-05-20T16:22:33Z</updated>
+  <content type="html">
+   Publish sensor data into postgres
+  </content>
+ </entry>
  <entry>
   <title>psiayn: stumpwm</title>
   <author>
@@ -91,149 +117,6 @@
   <id>urn:rprimus:github:ekatsym:fcl</id>
   <published>2021-05-19T05:19:55Z</published>
   <updated>2021-05-19T05:19:55Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Moinahmed7777: Basic_Lisps</title>
-  <author>
-   <name>Moinahmed7777</name>
-  </author>
-  <link href="https://github.com/Moinahmed7777/Basic_Lisps" />
-  <id>urn:rprimus:github:Moinahmed7777:Basic_Lisps</id>
-  <published>2021-05-18T21:29:35Z</published>
-  <updated>2021-05-18T21:29:35Z</updated>
-  <content type="html">
-   Some basic functions implemented using lisp programming language
-  </content>
- </entry>
- <entry>
-  <title>vindarel: ISSR-productlist</title>
-  <author>
-   <name>vindarel</name>
-  </author>
-  <link href="https://github.com/vindarel/ISSR-productlist" />
-  <id>urn:rprimus:github:vindarel:ISSR-productlist</id>
-  <published>2021-05-18T20:57:49Z</published>
-  <updated>2021-05-18T20:57:49Z</updated>
-  <content type="html">
-   Interactive web app with ISSR and without JavaScript (WIP)
-  </content>
- </entry>
- <entry>
-  <title>mmontone: cl-livedocs</title>
-  <author>
-   <name>mmontone</name>
-  </author>
-  <link href="https://github.com/mmontone/cl-livedocs" />
-  <id>urn:rprimus:github:mmontone:cl-livedocs</id>
-  <published>2021-05-18T20:37:55Z</published>
-  <updated>2021-05-18T20:37:55Z</updated>
-  <content type="html">
-   Live web documentation browser for Common Lisp. Based on Webinfo project.
-  </content>
- </entry>
- <entry>
-  <title>cbeo: hyperthings.garden</title>
-  <author>
-   <name>cbeo</name>
-  </author>
-  <link href="https://github.com/cbeo/hyperthings.garden" />
-  <id>urn:rprimus:github:cbeo:hyperthings.garden</id>
-  <published>2021-05-18T20:35:54Z</published>
-  <updated>2021-05-18T20:35:54Z</updated>
-  <content type="html">
-   source for my site
-  </content>
- </entry>
- <entry>
-  <title>gogins: csound-extended-nudruz</title>
-  <author>
-   <name>gogins</name>
-  </author>
-  <link href="https://github.com/gogins/csound-extended-nudruz" />
-  <id>urn:rprimus:github:gogins:csound-extended-nudruz</id>
-  <published>2021-05-18T20:19:00Z</published>
-  <updated>2021-05-18T20:19:00Z</updated>
-  <content type="html">
-   A system for algorithmic music composition that extends Common Music (the Common Lisp implementation), by Drew Krause and myself.
-  </content>
- </entry>
- <entry>
-  <title>icepic1984: mcutiet</title>
-  <author>
-   <name>icepic1984</name>
-  </author>
-  <link href="https://github.com/icepic1984/mcutiet" />
-  <id>urn:rprimus:github:icepic1984:mcutiet</id>
-  <published>2021-05-18T16:52:02Z</published>
-  <updated>2021-05-18T16:52:02Z</updated>
-  <content type="html">
-   Mqtt client library for common lisp
-  </content>
- </entry>
- <entry>
-  <title>psteeve: st-utils</title>
-  <author>
-   <name>psteeve</name>
-  </author>
-  <link href="https://github.com/psteeve/st-utils" />
-  <id>urn:rprimus:github:psteeve:st-utils</id>
-  <published>2021-05-18T15:39:44Z</published>
-  <updated>2021-05-18T15:39:44Z</updated>
-  <content type="html">
-   Simple utility library
-  </content>
- </entry>
- <entry>
-  <title>psteeve: st-test</title>
-  <author>
-   <name>psteeve</name>
-  </author>
-  <link href="https://github.com/psteeve/st-test" />
-  <id>urn:rprimus:github:psteeve:st-test</id>
-  <published>2021-05-18T15:36:49Z</published>
-  <updated>2021-05-18T15:36:49Z</updated>
-  <content type="html">
-   Implement a simple test framework in common lisp
-  </content>
- </entry>
- <entry>
-  <title>psteeve: flot</title>
-  <author>
-   <name>psteeve</name>
-  </author>
-  <link href="https://github.com/psteeve/flot" />
-  <id>urn:rprimus:github:psteeve:flot</id>
-  <published>2021-05-18T15:32:42Z</published>
-  <updated>2021-05-18T15:32:42Z</updated>
-  <content type="html">
-   Port of smalltalk stream api to common lisp
-  </content>
- </entry>
- <entry>
-  <title>BaekJae: Lisp_project</title>
-  <author>
-   <name>BaekJae</name>
-  </author>
-  <link href="https://github.com/BaekJae/Lisp_project" />
-  <id>urn:rprimus:github:BaekJae:Lisp_project</id>
-  <published>2021-05-18T14:07:54Z</published>
-  <updated>2021-05-18T14:07:54Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>fyvonnet: AdventOfCode-2016-Lisp</title>
-  <author>
-   <name>fyvonnet</name>
-  </author>
-  <link href="https://github.com/fyvonnet/AdventOfCode-2016-Lisp" />
-  <id>urn:rprimus:github:fyvonnet:AdventOfCode-2016-Lisp</id>
-  <published>2021-05-18T07:10:15Z</published>
-  <updated>2021-05-18T07:10:15Z</updated>
   <content type="html">
    
   </content>
