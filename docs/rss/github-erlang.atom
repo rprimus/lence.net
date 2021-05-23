@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-erlang.atom"/>
 <id>urn:rprimus:github:newerlangrepos</id>
-<updated>2021-05-22T11:50:00Z</updated>
+<updated>2021-05-22T20:18:58Z</updated>
 <title type='text'>New GitHub Erlang Repos</title>
+ <entry>
+  <title>tlack: atomvm-solar-server-test</title>
+  <author>
+   <name>tlack</name>
+  </author>
+  <link href="https://github.com/tlack/atomvm-solar-server-test" />
+  <id>urn:rprimus:github:tlack:atomvm-solar-server-test</id>
+  <published>2021-05-22T20:18:58Z</published>
+  <updated>2021-05-22T20:18:58Z</updated>
+  <content type="html">
+   Example code in AtomVM (Erlang) testing Fadushin&#039;s solar battery charge controller with an ESP32
+  </content>
+ </entry>
  <entry>
   <title>danwt: gleam-vscode-dev-container-hello-world-app</title>
   <author>
@@ -132,110 +145,6 @@
   <updated>2021-05-21T01:36:34Z</updated>
   <content type="html">
    Implementation of synchronous multicast with failure detection
-  </content>
- </entry>
- <entry>
-  <title>atimid: relup_test</title>
-  <author>
-   <name>atimid</name>
-  </author>
-  <link href="https://github.com/atimid/relup_test" />
-  <id>urn:rprimus:github:atimid:relup_test</id>
-  <published>2021-05-20T12:38:43Z</published>
-  <updated>2021-05-20T12:38:43Z</updated>
-  <content type="html">
-   appliction hot upgrade test
-  </content>
- </entry>
- <entry>
-  <title>fastdgiot: gpb</title>
-  <author>
-   <name>fastdgiot</name>
-  </author>
-  <link href="https://github.com/fastdgiot/gpb" />
-  <id>urn:rprimus:github:fastdgiot:gpb</id>
-  <published>2021-05-20T11:09:28Z</published>
-  <updated>2021-05-20T11:09:28Z</updated>
-  <content type="html">
-   gpb
-  </content>
- </entry>
- <entry>
-  <title>fastdgiot: eredis_cluster</title>
-  <author>
-   <name>fastdgiot</name>
-  </author>
-  <link href="https://github.com/fastdgiot/eredis_cluster" />
-  <id>urn:rprimus:github:fastdgiot:eredis_cluster</id>
-  <published>2021-05-20T11:02:39Z</published>
-  <updated>2021-05-20T11:02:39Z</updated>
-  <content type="html">
-   eredis_cluster
-  </content>
- </entry>
- <entry>
-  <title>bsnote: erlang-decimal</title>
-  <author>
-   <name>bsnote</name>
-  </author>
-  <link href="https://github.com/bsnote/erlang-decimal" />
-  <id>urn:rprimus:github:bsnote:erlang-decimal</id>
-  <published>2021-05-20T11:00:09Z</published>
-  <updated>2021-05-20T11:00:09Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>exograd: erl-log-handler</title>
-  <author>
-   <name>exograd</name>
-  </author>
-  <link href="https://github.com/exograd/erl-log-handler" />
-  <id>urn:rprimus:github:exograd:erl-log-handler</id>
-  <published>2021-05-20T10:10:10Z</published>
-  <updated>2021-05-20T10:10:10Z</updated>
-  <content type="html">
-   A minimal handler for the Erlang standard logger.
-  </content>
- </entry>
- <entry>
-  <title>fastdgiot: port_compiler</title>
-  <author>
-   <name>fastdgiot</name>
-  </author>
-  <link href="https://github.com/fastdgiot/port_compiler" />
-  <id>urn:rprimus:github:fastdgiot:port_compiler</id>
-  <published>2021-05-20T08:57:43Z</published>
-  <updated>2021-05-20T08:57:43Z</updated>
-  <content type="html">
-   port_compiler
-  </content>
- </entry>
- <entry>
-  <title>zmstone: emqx_psk_pgsql</title>
-  <author>
-   <name>zmstone</name>
-  </author>
-  <link href="https://github.com/zmstone/emqx_psk_pgsql" />
-  <id>urn:rprimus:github:zmstone:emqx_psk_pgsql</id>
-  <published>2021-05-20T08:54:17Z</published>
-  <updated>2021-05-20T08:54:17Z</updated>
-  <content type="html">
-   a fork of https://gitlab.endian.se/endian/score/emqx-psk-pgsql
-  </content>
- </entry>
- <entry>
-  <title>Lipranu: erlang-programming</title>
-  <author>
-   <name>Lipranu</name>
-  </author>
-  <link href="https://github.com/Lipranu/erlang-programming" />
-  <id>urn:rprimus:github:Lipranu:erlang-programming</id>
-  <published>2021-05-20T08:01:32Z</published>
-  <updated>2021-05-20T08:01:32Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
