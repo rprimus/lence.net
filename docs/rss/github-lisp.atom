@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-05-23T05:10:16Z</updated>
+<updated>2021-05-24T03:49:40Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>sugayaa: intro-to-lisp</title>
+  <author>
+   <name>sugayaa</name>
+  </author>
+  <link href="https://github.com/sugayaa/intro-to-lisp" />
+  <id>urn:rprimus:github:sugayaa:intro-to-lisp</id>
+  <published>2021-05-24T03:49:40Z</published>
+  <updated>2021-05-24T03:49:40Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>michaelbecker: common-lisp-labs-touretzky</title>
+  <author>
+   <name>michaelbecker</name>
+  </author>
+  <link href="https://github.com/michaelbecker/common-lisp-labs-touretzky" />
+  <id>urn:rprimus:github:michaelbecker:common-lisp-labs-touretzky</id>
+  <published>2021-05-24T00:16:49Z</published>
+  <updated>2021-05-24T00:16:49Z</updated>
+  <content type="html">
+   Labs and practice from &quot;Common Lisp&quot; by David S. Touretzky
+  </content>
+ </entry>
+ <entry>
+  <title>thomashoullier: taylor-series</title>
+  <author>
+   <name>thomashoullier</name>
+  </author>
+  <link href="https://github.com/thomashoullier/taylor-series" />
+  <id>urn:rprimus:github:thomashoullier:taylor-series</id>
+  <published>2021-05-23T11:20:08Z</published>
+  <updated>2021-05-23T11:20:08Z</updated>
+  <content type="html">
+   Taylor series expansions for arbitrary precision computations.
+  </content>
+ </entry>
  <entry>
   <title>3b: 3b-voronoi</title>
   <author>
@@ -93,71 +132,6 @@
   <updated>2021-05-22T02:16:17Z</updated>
   <content type="html">
    simple lisp -&gt; md. 
-  </content>
- </entry>
- <entry>
-  <title>gpwclark: so-lush</title>
-  <author>
-   <name>gpwclark</name>
-  </author>
-  <link href="https://github.com/gpwclark/so-lush" />
-  <id>urn:rprimus:github:gpwclark:so-lush</id>
-  <published>2021-05-21T23:18:36Z</published>
-  <updated>2021-05-21T23:18:36Z</updated>
-  <content type="html">
-   sl-sh scripts
-  </content>
- </entry>
- <entry>
-  <title>sernamar: blackjack</title>
-  <author>
-   <name>sernamar</name>
-  </author>
-  <link href="https://github.com/sernamar/blackjack" />
-  <id>urn:rprimus:github:sernamar:blackjack</id>
-  <published>2021-05-21T15:05:24Z</published>
-  <updated>2021-05-21T15:05:24Z</updated>
-  <content type="html">
-   Blackjack, also known as &quot;veintiuno&quot;
-  </content>
- </entry>
- <entry>
-  <title>smvamse: euler</title>
-  <author>
-   <name>smvamse</name>
-  </author>
-  <link href="https://github.com/smvamse/euler" />
-  <id>urn:rprimus:github:smvamse:euler</id>
-  <published>2021-05-21T14:24:25Z</published>
-  <updated>2021-05-21T14:24:25Z</updated>
-  <content type="html">
-   Solutions for Project Euler in CommonLisp
-  </content>
- </entry>
- <entry>
-  <title>sb-truefalse: university</title>
-  <author>
-   <name>sb-truefalse</name>
-  </author>
-  <link href="https://github.com/sb-truefalse/university" />
-  <id>urn:rprimus:github:sb-truefalse:university</id>
-  <published>2021-05-21T13:05:18Z</published>
-  <updated>2021-05-21T13:05:18Z</updated>
-  <content type="html">
-   Student works
-  </content>
- </entry>
- <entry>
-  <title>mmhansen137: LeStat</title>
-  <author>
-   <name>mmhansen137</name>
-  </author>
-  <link href="https://github.com/mmhansen137/LeStat" />
-  <id>urn:rprimus:github:mmhansen137:LeStat</id>
-  <published>2021-05-21T04:24:28Z</published>
-  <updated>2021-05-21T04:24:28Z</updated>
-  <content type="html">
-   Extremely basic statistics in Common Lisp
   </content>
  </entry>
 </feed>
