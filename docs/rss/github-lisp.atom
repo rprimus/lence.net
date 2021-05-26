@@ -2,21 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-05-26T02:03:49Z</updated>
+<updated>2021-05-26T04:58:15Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
- <entry>
-  <title>aytonb: dag-search</title>
-  <author>
-   <name>aytonb</name>
-  </author>
-  <link href="https://github.com/aytonb/dag-search" />
-  <id>urn:rprimus:github:aytonb:dag-search</id>
-  <published>2021-05-26T02:03:49Z</published>
-  <updated>2021-05-26T02:03:49Z</updated>
-  <content type="html">
-   Optimal DAG search using A*BC.
-  </content>
- </entry>
  <entry>
   <title>jnjcc: cl-nlp</title>
   <author>
@@ -24,8 +11,8 @@
   </author>
   <link href="https://github.com/jnjcc/cl-nlp" />
   <id>urn:rprimus:github:jnjcc:cl-nlp</id>
-  <published>2021-05-25T16:34:47Z</published>
-  <updated>2021-05-25T16:34:47Z</updated>
+  <published>2021-05-26T04:58:15Z</published>
+  <updated>2021-05-26T04:58:15Z</updated>
   <content type="html">
    Natural Language Processing in Common Lisp
   </content>
@@ -37,10 +24,23 @@
   </author>
   <link href="https://github.com/jnjcc/cl-ml" />
   <id>urn:rprimus:github:jnjcc:cl-ml</id>
-  <published>2021-05-25T16:08:28Z</published>
-  <updated>2021-05-25T16:08:28Z</updated>
+  <published>2021-05-26T04:57:52Z</published>
+  <updated>2021-05-26T04:57:52Z</updated>
   <content type="html">
    Machine Learning in Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>aytonb: dag-search</title>
+  <author>
+   <name>aytonb</name>
+  </author>
+  <link href="https://github.com/aytonb/dag-search" />
+  <id>urn:rprimus:github:aytonb:dag-search</id>
+  <published>2021-05-26T02:03:49Z</published>
+  <updated>2021-05-26T02:03:49Z</updated>
+  <content type="html">
+   Optimal DAG search using A*BC.
   </content>
  </entry>
  <entry>
