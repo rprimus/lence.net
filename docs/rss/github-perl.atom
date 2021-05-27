@@ -2,8 +2,372 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-perl.atom"/>
 <id>urn:rprimus:github:newperlrepos</id>
-<updated>2021-05-26T09:09:21Z</updated>
+<updated>2021-05-27T05:09:01Z</updated>
 <title type='text'>New GitHub Perl Repos</title>
+ <entry>
+  <title>nickjeffrey: check_aix_disk_space</title>
+  <author>
+   <name>nickjeffrey</name>
+  </author>
+  <link href="https://github.com/nickjeffrey/check_aix_disk_space" />
+  <id>urn:rprimus:github:nickjeffrey:check_aix_disk_space</id>
+  <published>2021-05-27T05:09:01Z</published>
+  <updated>2021-05-27T05:09:01Z</updated>
+  <content type="html">
+   nagios check for AIX disk space
+  </content>
+ </entry>
+ <entry>
+  <title>nickjeffrey: check_aix_disk_paths</title>
+  <author>
+   <name>nickjeffrey</name>
+  </author>
+  <link href="https://github.com/nickjeffrey/check_aix_disk_paths" />
+  <id>urn:rprimus:github:nickjeffrey:check_aix_disk_paths</id>
+  <published>2021-05-27T05:08:14Z</published>
+  <updated>2021-05-27T05:08:14Z</updated>
+  <content type="html">
+   nagios check to verify AIX disk paths (vscsi, fibre channel)
+  </content>
+ </entry>
+ <entry>
+  <title>nickjeffrey: check_aix_daemons</title>
+  <author>
+   <name>nickjeffrey</name>
+  </author>
+  <link href="https://github.com/nickjeffrey/check_aix_daemons" />
+  <id>urn:rprimus:github:nickjeffrey:check_aix_daemons</id>
+  <published>2021-05-27T05:07:18Z</published>
+  <updated>2021-05-27T05:07:18Z</updated>
+  <content type="html">
+   nagios check to confirm AIX daemons are running appropriately
+  </content>
+ </entry>
+ <entry>
+  <title>nickjeffrey: check_aix_cpu</title>
+  <author>
+   <name>nickjeffrey</name>
+  </author>
+  <link href="https://github.com/nickjeffrey/check_aix_cpu" />
+  <id>urn:rprimus:github:nickjeffrey:check_aix_cpu</id>
+  <published>2021-05-27T05:06:29Z</published>
+  <updated>2021-05-27T05:06:29Z</updated>
+  <content type="html">
+   nagios check for AIX CPU
+  </content>
+ </entry>
+ <entry>
+  <title>nickjeffrey: check_unix_proc</title>
+  <author>
+   <name>nickjeffrey</name>
+  </author>
+  <link href="https://github.com/nickjeffrey/check_unix_proc" />
+  <id>urn:rprimus:github:nickjeffrey:check_unix_proc</id>
+  <published>2021-05-27T05:05:29Z</published>
+  <updated>2021-05-27T05:05:29Z</updated>
+  <content type="html">
+   nagios check for running processes on UNIX-like operating systems (good for processor architectures that cannot run the built-in nagios check_procs binary)
+  </content>
+ </entry>
+ <entry>
+  <title>nickjeffrey: check_oracle_instances</title>
+  <author>
+   <name>nickjeffrey</name>
+  </author>
+  <link href="https://github.com/nickjeffrey/check_oracle_instances" />
+  <id>urn:rprimus:github:nickjeffrey:check_oracle_instances</id>
+  <published>2021-05-27T05:03:48Z</published>
+  <updated>2021-05-27T05:03:48Z</updated>
+  <content type="html">
+   nagios check to confirm Oracle databases in /etc/oratab are running
+  </content>
+ </entry>
+ <entry>
+  <title>nickjeffrey: check_oracle_db_uptime</title>
+  <author>
+   <name>nickjeffrey</name>
+  </author>
+  <link href="https://github.com/nickjeffrey/check_oracle_db_uptime" />
+  <id>urn:rprimus:github:nickjeffrey:check_oracle_db_uptime</id>
+  <published>2021-05-27T05:03:01Z</published>
+  <updated>2021-05-27T05:03:01Z</updated>
+  <content type="html">
+   nagios check to confirm Oracle database uptime (alerts on database restarts)
+  </content>
+ </entry>
+ <entry>
+  <title>nickjeffrey: check_dell_idrac9</title>
+  <author>
+   <name>nickjeffrey</name>
+  </author>
+  <link href="https://github.com/nickjeffrey/check_dell_idrac9" />
+  <id>urn:rprimus:github:nickjeffrey:check_dell_idrac9</id>
+  <published>2021-05-27T05:00:36Z</published>
+  <updated>2021-05-27T05:00:36Z</updated>
+  <content type="html">
+   nagios check for Dell iDRAC 9 service processors
+  </content>
+ </entry>
+ <entry>
+  <title>nickjeffrey: check_brocade_health</title>
+  <author>
+   <name>nickjeffrey</name>
+  </author>
+  <link href="https://github.com/nickjeffrey/check_brocade_health" />
+  <id>urn:rprimus:github:nickjeffrey:check_brocade_health</id>
+  <published>2021-05-27T04:59:14Z</published>
+  <updated>2021-05-27T04:59:14Z</updated>
+  <content type="html">
+   nagios check for Brocade fibre channel switches
+  </content>
+ </entry>
+ <entry>
+  <title>nickjeffrey: check_apcpdu</title>
+  <author>
+   <name>nickjeffrey</name>
+  </author>
+  <link href="https://github.com/nickjeffrey/check_apcpdu" />
+  <id>urn:rprimus:github:nickjeffrey:check_apcpdu</id>
+  <published>2021-05-27T03:19:36Z</published>
+  <updated>2021-05-27T03:19:36Z</updated>
+  <content type="html">
+   nagios check for APC Power Distribution Units
+  </content>
+ </entry>
+ <entry>
+  <title>yangsibai: bugzilla-zh-CN</title>
+  <author>
+   <name>yangsibai</name>
+  </author>
+  <link href="https://github.com/yangsibai/bugzilla-zh-CN" />
+  <id>urn:rprimus:github:yangsibai:bugzilla-zh-CN</id>
+  <published>2021-05-27T03:11:40Z</published>
+  <updated>2021-05-27T03:11:40Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>nickjeffrey: check_lenovo_xclarity</title>
+  <author>
+   <name>nickjeffrey</name>
+  </author>
+  <link href="https://github.com/nickjeffrey/check_lenovo_xclarity" />
+  <id>urn:rprimus:github:nickjeffrey:check_lenovo_xclarity</id>
+  <published>2021-05-27T03:07:28Z</published>
+  <updated>2021-05-27T03:07:28Z</updated>
+  <content type="html">
+   nagios check for Lenovo xClarity service processors
+  </content>
+ </entry>
+ <entry>
+  <title>jotingen: perl-gravity</title>
+  <author>
+   <name>jotingen</name>
+  </author>
+  <link href="https://github.com/jotingen/perl-gravity" />
+  <id>urn:rprimus:github:jotingen:perl-gravity</id>
+  <published>2021-05-27T00:51:24Z</published>
+  <updated>2021-05-27T00:51:24Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>jotingen: perl-genetic-salesman</title>
+  <author>
+   <name>jotingen</name>
+  </author>
+  <link href="https://github.com/jotingen/perl-genetic-salesman" />
+  <id>urn:rprimus:github:jotingen:perl-genetic-salesman</id>
+  <published>2021-05-27T00:49:59Z</published>
+  <updated>2021-05-27T00:49:59Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>salmonberry7: Perl-Crypto-Key-Utils</title>
+  <author>
+   <name>salmonberry7</name>
+  </author>
+  <link href="https://github.com/salmonberry7/Perl-Crypto-Key-Utils" />
+  <id>urn:rprimus:github:salmonberry7:Perl-Crypto-Key-Utils</id>
+  <published>2021-05-26T22:55:07Z</published>
+  <updated>2021-05-26T22:55:07Z</updated>
+  <content type="html">
+   Perl Scripts For Private Key/Public Key/Hex Key Conversions &amp; BIP38 Encryption For BTC/LTC/ETH
+  </content>
+ </entry>
+ <entry>
+  <title>robotet: nixos-channel-scripts</title>
+  <author>
+   <name>robotet</name>
+  </author>
+  <link href="https://github.com/robotet/nixos-channel-scripts" />
+  <id>urn:rprimus:github:robotet:nixos-channel-scripts</id>
+  <published>2021-05-26T21:52:30Z</published>
+  <updated>2021-05-26T21:52:30Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>perlancar: perl-Acme-CPANModules-RandomData</title>
+  <author>
+   <name>perlancar</name>
+  </author>
+  <link href="https://github.com/perlancar/perl-Acme-CPANModules-RandomData" />
+  <id>urn:rprimus:github:perlancar:perl-Acme-CPANModules-RandomData</id>
+  <published>2021-05-26T16:49:56Z</published>
+  <updated>2021-05-26T16:49:56Z</updated>
+  <content type="html">
+   (No description)
+  </content>
+ </entry>
+ <entry>
+  <title>perlancar: perl-Acme-CPANModules-RandomPassword</title>
+  <author>
+   <name>perlancar</name>
+  </author>
+  <link href="https://github.com/perlancar/perl-Acme-CPANModules-RandomPassword" />
+  <id>urn:rprimus:github:perlancar:perl-Acme-CPANModules-RandomPassword</id>
+  <published>2021-05-26T16:32:53Z</published>
+  <updated>2021-05-26T16:32:53Z</updated>
+  <content type="html">
+   (No description)
+  </content>
+ </entry>
+ <entry>
+  <title>jpsco5890: AHA</title>
+  <author>
+   <name>jpsco5890</name>
+  </author>
+  <link href="https://github.com/jpsco5890/AHA" />
+  <id>urn:rprimus:github:jpsco5890:AHA</id>
+  <published>2021-05-26T16:07:47Z</published>
+  <updated>2021-05-26T16:07:47Z</updated>
+  <content type="html">
+   Generates primers for end-homology-mediated plasmid construction. Automatic Homology-Appender (AHA) [MIT License]
+  </content>
+ </entry>
+ <entry>
+  <title>Michael0x18: freepkg2</title>
+  <author>
+   <name>Michael0x18</name>
+  </author>
+  <link href="https://github.com/Michael0x18/freepkg2" />
+  <id>urn:rprimus:github:Michael0x18:freepkg2</id>
+  <published>2021-05-26T15:20:42Z</published>
+  <updated>2021-05-26T15:20:42Z</updated>
+  <content type="html">
+   second version of freepkg
+  </content>
+ </entry>
+ <entry>
+  <title>vaporyorg: libunistring</title>
+  <author>
+   <name>vaporyorg</name>
+  </author>
+  <link href="https://github.com/vaporyorg/libunistring" />
+  <id>urn:rprimus:github:vaporyorg:libunistring</id>
+  <published>2021-05-26T15:16:57Z</published>
+  <updated>2021-05-26T15:16:57Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>rubysash: firewall-log-investigator</title>
+  <author>
+   <name>rubysash</name>
+  </author>
+  <link href="https://github.com/rubysash/firewall-log-investigator" />
+  <id>urn:rprimus:github:rubysash:firewall-log-investigator</id>
+  <published>2021-05-26T14:40:56Z</published>
+  <updated>2021-05-26T14:40:56Z</updated>
+  <content type="html">
+   Perl Script that Looks at my firewall log junk
+  </content>
+ </entry>
+ <entry>
+  <title>erickcastelli: KIR_genotyping</title>
+  <author>
+   <name>erickcastelli</name>
+  </author>
+  <link href="https://github.com/erickcastelli/KIR_genotyping" />
+  <id>urn:rprimus:github:erickcastelli:KIR_genotyping</id>
+  <published>2021-05-26T14:23:07Z</published>
+  <updated>2021-05-26T14:23:07Z</updated>
+  <content type="html">
+   Tutorial for genotyping, haplotyping, copy number estimation, and allele calls for KIR genes
+  </content>
+ </entry>
+ <entry>
+  <title>tulamili: Bin-TSV-Conv</title>
+  <author>
+   <name>tulamili</name>
+  </author>
+  <link href="https://github.com/tulamili/Bin-TSV-Conv" />
+  <id>urn:rprimus:github:tulamili:Bin-TSV-Conv</id>
+  <published>2021-05-26T14:12:48Z</published>
+  <updated>2021-05-26T14:12:48Z</updated>
+  <content type="html">
+   Data Conversion Utilities for TSV format data files. 
+  </content>
+ </entry>
+ <entry>
+  <title>Mhlov: kana-helper</title>
+  <author>
+   <name>Mhlov</name>
+  </author>
+  <link href="https://github.com/Mhlov/kana-helper" />
+  <id>urn:rprimus:github:Mhlov:kana-helper</id>
+  <published>2021-05-26T14:11:54Z</published>
+  <updated>2021-05-26T14:11:54Z</updated>
+  <content type="html">
+   Helper for practising in writing kana.
+  </content>
+ </entry>
+ <entry>
+  <title>perlancar: perl-Acme-CPANModules-RandomPerson</title>
+  <author>
+   <name>perlancar</name>
+  </author>
+  <link href="https://github.com/perlancar/perl-Acme-CPANModules-RandomPerson" />
+  <id>urn:rprimus:github:perlancar:perl-Acme-CPANModules-RandomPerson</id>
+  <published>2021-05-26T13:31:34Z</published>
+  <updated>2021-05-26T13:31:34Z</updated>
+  <content type="html">
+   (No description)
+  </content>
+ </entry>
+ <entry>
+  <title>pseudogene: vibrio-tnseq</title>
+  <author>
+   <name>pseudogene</name>
+  </author>
+  <link href="https://github.com/pseudogene/vibrio-tnseq" />
+  <id>urn:rprimus:github:pseudogene:vibrio-tnseq</id>
+  <published>2021-05-26T13:26:18Z</published>
+  <updated>2021-05-26T13:26:18Z</updated>
+  <content type="html">
+   Tn-seq pipeline for Vibrio sp.
+  </content>
+ </entry>
+ <entry>
+  <title>kkooman: practice_perl</title>
+  <author>
+   <name>kkooman</name>
+  </author>
+  <link href="https://github.com/kkooman/practice_perl" />
+  <id>urn:rprimus:github:kkooman:practice_perl</id>
+  <published>2021-05-26T09:36:25Z</published>
+  <updated>2021-05-26T09:36:25Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>adokoy001: simple_monitoring_script</title>
   <author>
@@ -15,32 +379,6 @@
   <updated>2021-05-26T09:09:21Z</updated>
   <content type="html">
    Simple website monitoring script
-  </content>
- </entry>
- <entry>
-  <title>wongsyrone: self-PKGBUILDs</title>
-  <author>
-   <name>wongsyrone</name>
-  </author>
-  <link href="https://github.com/wongsyrone/self-PKGBUILDs" />
-  <id>urn:rprimus:github:wongsyrone:self-PKGBUILDs</id>
-  <published>2021-05-26T08:38:22Z</published>
-  <updated>2021-05-26T08:38:22Z</updated>
-  <content type="html">
-   Archlinux PKGBUILDS for myself
-  </content>
- </entry>
- <entry>
-  <title>goldfishwjy: Survival-Associated-Alternative-Splicing-Events</title>
-  <author>
-   <name>goldfishwjy</name>
-  </author>
-  <link href="https://github.com/goldfishwjy/Survival-Associated-Alternative-Splicing-Events" />
-  <id>urn:rprimus:github:goldfishwjy:Survival-Associated-Alternative-Splicing-Events</id>
-  <published>2021-05-26T08:36:50Z</published>
-  <updated>2021-05-26T08:36:50Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
  <entry>
@@ -148,12 +486,12 @@
   </content>
  </entry>
  <entry>
-  <title>larry199701: Certificate_renew_for_5000_QMs_201806012018</title>
+  <title>larry199702: Certificate_renew_for_5000_QMs_201806012018</title>
   <author>
-   <name>larry199701</name>
+   <name>larry199702</name>
   </author>
-  <link href="https://github.com/larry199701/Certificate_renew_for_5000_QMs_201806012018" />
-  <id>urn:rprimus:github:larry199701:Certificate_renew_for_5000_QMs_201806012018</id>
+  <link href="https://github.com/larry199702/Certificate_renew_for_5000_QMs_201806012018" />
+  <id>urn:rprimus:github:larry199702:Certificate_renew_for_5000_QMs_201806012018</id>
   <published>2021-05-25T20:02:05Z</published>
   <updated>2021-05-25T20:02:05Z</updated>
   <content type="html">
@@ -171,6 +509,19 @@
   <updated>2021-05-25T19:37:30Z</updated>
   <content type="html">
    NMD prediction command-line.
+  </content>
+ </entry>
+ <entry>
+  <title>erickcastelli: HLA_genotyping</title>
+  <author>
+   <name>erickcastelli</name>
+  </author>
+  <link href="https://github.com/erickcastelli/HLA_genotyping" />
+  <id>urn:rprimus:github:erickcastelli:HLA_genotyping</id>
+  <published>2021-05-25T19:31:22Z</published>
+  <updated>2021-05-25T19:31:22Z</updated>
+  <content type="html">
+   Tutorial for genotyping, haplotyping, and allele calls for HLA genes
   </content>
  </entry>
  <entry>
@@ -405,331 +756,6 @@
   <updated>2021-05-25T02:51:36Z</updated>
   <content type="html">
    Code and dataset for the ACL 2021 paper &quot;TWAG: A Topic-guided Wikipedia Abstract Generator&quot;
-  </content>
- </entry>
- <entry>
-  <title>zubeax: swaggercodegen</title>
-  <author>
-   <name>zubeax</name>
-  </author>
-  <link href="https://github.com/zubeax/swaggercodegen" />
-  <id>urn:rprimus:github:zubeax:swaggercodegen</id>
-  <published>2021-05-24T21:02:22Z</published>
-  <updated>2021-05-24T21:02:22Z</updated>
-  <content type="html">
-   Swagger Code Generator for OpenAPI 3.0 implemented in Perl
-  </content>
- </entry>
- <entry>
-  <title>junikimm717: Latexp</title>
-  <author>
-   <name>junikimm717</name>
-  </author>
-  <link href="https://github.com/junikimm717/Latexp" />
-  <id>urn:rprimus:github:junikimm717:Latexp</id>
-  <published>2021-05-24T20:16:38Z</published>
-  <updated>2021-05-24T20:16:38Z</updated>
-  <content type="html">
-   Latex Preprocessor (for when you can&#039;t use pythontex)
-  </content>
- </entry>
- <entry>
-  <title>inetum-peru: cheatsheet</title>
-  <author>
-   <name>inetum-peru</name>
-  </author>
-  <link href="https://github.com/inetum-peru/cheatsheet" />
-  <id>urn:rprimus:github:inetum-peru:cheatsheet</id>
-  <published>2021-05-24T20:15:31Z</published>
-  <updated>2021-05-24T20:15:31Z</updated>
-  <content type="html">
-   cheatsheet for inetum
-  </content>
- </entry>
- <entry>
-  <title>AAHAZRED: perl-Text-Table-Read-RelationOn-Tiny</title>
-  <author>
-   <name>AAHAZRED</name>
-  </author>
-  <link href="https://github.com/AAHAZRED/perl-Text-Table-Read-RelationOn-Tiny" />
-  <id>urn:rprimus:github:AAHAZRED:perl-Text-Table-Read-RelationOn-Tiny</id>
-  <published>2021-05-24T18:26:11Z</published>
-  <updated>2021-05-24T18:26:11Z</updated>
-  <content type="html">
-   Repository for perl module Text::Table::Read::RelationOn::Tiny
-  </content>
- </entry>
- <entry>
-  <title>PaulGWebster: MoveInfo</title>
-  <author>
-   <name>PaulGWebster</name>
-  </author>
-  <link href="https://github.com/PaulGWebster/MoveInfo" />
-  <id>urn:rprimus:github:PaulGWebster:MoveInfo</id>
-  <published>2021-05-24T17:43:17Z</published>
-  <updated>2021-05-24T17:43:17Z</updated>
-  <content type="html">
-   A simply bot for announcing a channel has moved location
-  </content>
- </entry>
- <entry>
-  <title>dj1yfk: dxcc</title>
-  <author>
-   <name>dj1yfk</name>
-  </author>
-  <link href="https://github.com/dj1yfk/dxcc" />
-  <id>urn:rprimus:github:dj1yfk:dxcc</id>
-  <published>2021-05-24T17:29:46Z</published>
-  <updated>2021-05-24T17:29:46Z</updated>
-  <content type="html">
-   Amateur radio DXCC lookup tool - mirror of https://git.fkurz.net/dj1yfk/dxcc
-  </content>
- </entry>
- <entry>
-  <title>dj1yfk: yfklog</title>
-  <author>
-   <name>dj1yfk</name>
-  </author>
-  <link href="https://github.com/dj1yfk/yfklog" />
-  <id>urn:rprimus:github:dj1yfk:yfklog</id>
-  <published>2021-05-24T17:28:35Z</published>
-  <updated>2021-05-24T17:28:35Z</updated>
-  <content type="html">
-   Perl ham radio console logging program - mirror of https://git.fkurz.net/dj1yfk/yfklog
-  </content>
- </entry>
- <entry>
-  <title>huda-desai: Perl</title>
-  <author>
-   <name>huda-desai</name>
-  </author>
-  <link href="https://github.com/huda-desai/Perl" />
-  <id>urn:rprimus:github:huda-desai:Perl</id>
-  <published>2021-05-24T17:25:53Z</published>
-  <updated>2021-05-24T17:25:53Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>dj1yfk: cwclubspotter</title>
-  <author>
-   <name>dj1yfk</name>
-  </author>
-  <link href="https://github.com/dj1yfk/cwclubspotter" />
-  <id>urn:rprimus:github:dj1yfk:cwclubspotter</id>
-  <published>2021-05-24T17:19:03Z</published>
-  <updated>2021-05-24T17:19:03Z</updated>
-  <content type="html">
-   RBN CW Club Spotter - mirror of https://git.fkurz.net/dj1yfk/cwclubspotter
-  </content>
- </entry>
- <entry>
-  <title>Henrybk: RODamagePreview</title>
-  <author>
-   <name>Henrybk</name>
-  </author>
-  <link href="https://github.com/Henrybk/RODamagePreview" />
-  <id>urn:rprimus:github:Henrybk:RODamagePreview</id>
-  <published>2021-05-24T16:17:28Z</published>
-  <updated>2021-05-24T16:17:28Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Armantos: TP2_Perl_Efrei_2021</title>
-  <author>
-   <name>Armantos</name>
-  </author>
-  <link href="https://github.com/Armantos/TP2_Perl_Efrei_2021" />
-  <id>urn:rprimus:github:Armantos:TP2_Perl_Efrei_2021</id>
-  <published>2021-05-24T16:06:42Z</published>
-  <updated>2021-05-24T16:06:42Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>pinghu: scripts</title>
-  <author>
-   <name>pinghu</name>
-  </author>
-  <link href="https://github.com/pinghu/scripts" />
-  <id>urn:rprimus:github:pinghu:scripts</id>
-  <published>2021-05-24T15:57:35Z</published>
-  <updated>2021-05-24T15:57:35Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>speljamr: Import-Export-Perl-Scripts</title>
-  <author>
-   <name>speljamr</name>
-  </author>
-  <link href="https://github.com/speljamr/Import-Export-Perl-Scripts" />
-  <id>urn:rprimus:github:speljamr:Import-Export-Perl-Scripts</id>
-  <published>2021-05-24T15:30:21Z</published>
-  <updated>2021-05-24T15:30:21Z</updated>
-  <content type="html">
-   Sample Perl scripts I did for importing and exporting user data for a newspaper labeling system
-  </content>
- </entry>
- <entry>
-  <title>jzubcic: FER-Scripting-Languages</title>
-  <author>
-   <name>jzubcic</name>
-  </author>
-  <link href="https://github.com/jzubcic/FER-Scripting-Languages" />
-  <id>urn:rprimus:github:jzubcic:FER-Scripting-Languages</id>
-  <published>2021-05-24T13:30:14Z</published>
-  <updated>2021-05-24T13:30:14Z</updated>
-  <content type="html">
-   Laboratory exercises written for the &quot;Scripting Languages&quot; university course at FER. 
-  </content>
- </entry>
- <entry>
-  <title>Vikash-Guptaji: Git-Trial</title>
-  <author>
-   <name>Vikash-Guptaji</name>
-  </author>
-  <link href="https://github.com/Vikash-Guptaji/Git-Trial" />
-  <id>urn:rprimus:github:Vikash-Guptaji:Git-Trial</id>
-  <published>2021-05-24T11:20:59Z</published>
-  <updated>2021-05-24T11:20:59Z</updated>
-  <content type="html">
-   Learning GitHub
-  </content>
- </entry>
- <entry>
-  <title>k-orolevsk-y: ubuntu-load-detector</title>
-  <author>
-   <name>k-orolevsk-y</name>
-  </author>
-  <link href="https://github.com/k-orolevsk-y/ubuntu-load-detector" />
-  <id>urn:rprimus:github:k-orolevsk-y:ubuntu-load-detector</id>
-  <published>2021-05-24T10:07:15Z</published>
-  <updated>2021-05-24T10:07:15Z</updated>
-  <content type="html">
-   A script that determines the load on the server above a certain threshold and sends a message about it to VK
-  </content>
- </entry>
- <entry>
-  <title>tobiasfey: revoi</title>
-  <author>
-   <name>tobiasfey</name>
-  </author>
-  <link href="https://github.com/tobiasfey/revoi" />
-  <id>urn:rprimus:github:tobiasfey:revoi</id>
-  <published>2021-05-24T09:02:32Z</published>
-  <updated>2021-05-24T09:02:32Z</updated>
-  <content type="html">
-   Representative Volume-of-Interest of porous materials
-  </content>
- </entry>
- <entry>
-  <title>gustafe: btcticker_cmc</title>
-  <author>
-   <name>gustafe</name>
-  </author>
-  <link href="https://github.com/gustafe/btcticker_cmc" />
-  <id>urn:rprimus:github:gustafe:btcticker_cmc</id>
-  <published>2021-05-24T08:52:48Z</published>
-  <updated>2021-05-24T08:52:48Z</updated>
-  <content type="html">
-   Extremely slow BTC price ticker 
-  </content>
- </entry>
- <entry>
-  <title>marruffohomero: theos</title>
-  <author>
-   <name>marruffohomero</name>
-  </author>
-  <link href="https://github.com/marruffohomero/theos" />
-  <id>urn:rprimus:github:marruffohomero:theos</id>
-  <published>2021-05-24T07:05:06Z</published>
-  <updated>2021-05-24T07:05:06Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>osulib: ALEPH---online-registration-for-libraries-with-PLIF-and-blocks</title>
-  <author>
-   <name>osulib</name>
-  </author>
-  <link href="https://github.com/osulib/ALEPH---online-registration-for-libraries-with-PLIF-and-blocks" />
-  <id>urn:rprimus:github:osulib:ALEPH---online-registration-for-libraries-with-PLIF-and-blocks</id>
-  <published>2021-05-24T06:22:54Z</published>
-  <updated>2021-05-24T06:22:54Z</updated>
-  <content type="html">
-   Extension to OPAC that allow online registration for libraries that use global blocks for determining not-registrated users and using PLIF (procedure, api) to import users
-  </content>
- </entry>
- <entry>
-  <title>shubhi704: VerilogAutomation_UsingPerl</title>
-  <author>
-   <name>shubhi704</name>
-  </author>
-  <link href="https://github.com/shubhi704/VerilogAutomation_UsingPerl" />
-  <id>urn:rprimus:github:shubhi704:VerilogAutomation_UsingPerl</id>
-  <published>2021-05-24T06:03:42Z</published>
-  <updated>2021-05-24T06:03:42Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>giovannilopez9808: .instalation</title>
-  <author>
-   <name>giovannilopez9808</name>
-  </author>
-  <link href="https://github.com/giovannilopez9808/.instalation" />
-  <id>urn:rprimus:github:giovannilopez9808:.instalation</id>
-  <published>2021-05-24T05:22:41Z</published>
-  <updated>2021-05-24T05:22:41Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>nickjeffrey: check_disk_io</title>
-  <author>
-   <name>nickjeffrey</name>
-  </author>
-  <link href="https://github.com/nickjeffrey/check_disk_io" />
-  <id>urn:rprimus:github:nickjeffrey:check_disk_io</id>
-  <published>2021-05-24T02:25:40Z</published>
-  <updated>2021-05-24T02:25:40Z</updated>
-  <content type="html">
-   nagios check for disk IO on UNIX-like systems
-  </content>
- </entry>
- <entry>
-  <title>westmj: Directory</title>
-  <author>
-   <name>westmj</name>
-  </author>
-  <link href="https://github.com/westmj/Directory" />
-  <id>urn:rprimus:github:westmj:Directory</id>
-  <published>2021-05-24T01:35:23Z</published>
-  <updated>2021-05-24T01:35:23Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>SaintLawrenceIslandYupik: language_map</title>
-  <author>
-   <name>SaintLawrenceIslandYupik</name>
-  </author>
-  <link href="https://github.com/SaintLawrenceIslandYupik/language_map" />
-  <id>urn:rprimus:github:SaintLawrenceIslandYupik:language_map</id>
-  <published>2021-05-24T01:31:22Z</published>
-  <updated>2021-05-24T01:31:22Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>

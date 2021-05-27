@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-05-26T04:58:15Z</updated>
+<updated>2021-05-27T02:22:38Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>aytonb: dag-gp</title>
+  <author>
+   <name>aytonb</name>
+  </author>
+  <link href="https://github.com/aytonb/dag-gp" />
+  <id>urn:rprimus:github:aytonb:dag-gp</id>
+  <published>2021-05-27T02:22:38Z</published>
+  <updated>2021-05-27T02:22:38Z</updated>
+  <content type="html">
+   A DAG-GP enforces a DAG model between the output dimensions of a multi-output Gaussian process, to control which outputs are correlated.
+  </content>
+ </entry>
+ <entry>
+  <title>Simponic: crypto-presentation</title>
+  <author>
+   <name>Simponic</name>
+  </author>
+  <link href="https://github.com/Simponic/crypto-presentation" />
+  <id>urn:rprimus:github:Simponic:crypto-presentation</id>
+  <published>2021-05-27T01:02:03Z</published>
+  <updated>2021-05-27T01:02:03Z</updated>
+  <content type="html">
+   Presentation on the technical workings of the mysterious blockchain
+  </content>
+ </entry>
+ <entry>
+  <title>marekmaskarinec: cl-ksp</title>
+  <author>
+   <name>marekmaskarinec</name>
+  </author>
+  <link href="https://github.com/marekmaskarinec/cl-ksp" />
+  <id>urn:rprimus:github:marekmaskarinec:cl-ksp</id>
+  <published>2021-05-26T13:31:40Z</published>
+  <updated>2021-05-26T13:31:40Z</updated>
+  <content type="html">
+   Simple ksp input helper library for common lisp
+  </content>
+ </entry>
+ <entry>
+  <title>hanlinAumonde: system_expert_ia01</title>
+  <author>
+   <name>hanlinAumonde</name>
+  </author>
+  <link href="https://github.com/hanlinAumonde/system_expert_ia01" />
+  <id>urn:rprimus:github:hanlinAumonde:system_expert_ia01</id>
+  <published>2021-05-26T12:54:35Z</published>
+  <updated>2021-05-26T12:54:35Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>jnjcc: cl-nlp</title>
   <author>
@@ -119,58 +171,6 @@
   <updated>2021-05-25T00:15:22Z</updated>
   <content type="html">
    Common Lisp Exercises from The Little Lisper (and later The Little Schemer/The Seasoned Schemer) by Friedman and Felleisen
-  </content>
- </entry>
- <entry>
-  <title>opfez: lisp-koans-solutions</title>
-  <author>
-   <name>opfez</name>
-  </author>
-  <link href="https://github.com/opfez/lisp-koans-solutions" />
-  <id>urn:rprimus:github:opfez:lisp-koans-solutions</id>
-  <published>2021-05-24T10:27:36Z</published>
-  <updated>2021-05-24T10:27:36Z</updated>
-  <content type="html">
-   Solutions to Google&#039;s &quot;Lisp Koans&quot; (https://github.com/google/lisp-koans)
-  </content>
- </entry>
- <entry>
-  <title>robertforbes: paip</title>
-  <author>
-   <name>robertforbes</name>
-  </author>
-  <link href="https://github.com/robertforbes/paip" />
-  <id>urn:rprimus:github:robertforbes:paip</id>
-  <published>2021-05-24T08:58:05Z</published>
-  <updated>2021-05-24T08:58:05Z</updated>
-  <content type="html">
-   Working through examples from &quot;Paradigms of Artificial Intelligence Programming&quot; by Peter Norvig
-  </content>
- </entry>
- <entry>
-  <title>sugayaa: intro-to-lisp</title>
-  <author>
-   <name>sugayaa</name>
-  </author>
-  <link href="https://github.com/sugayaa/intro-to-lisp" />
-  <id>urn:rprimus:github:sugayaa:intro-to-lisp</id>
-  <published>2021-05-24T03:49:40Z</published>
-  <updated>2021-05-24T03:49:40Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>michaelbecker: common-lisp-labs-touretzky</title>
-  <author>
-   <name>michaelbecker</name>
-  </author>
-  <link href="https://github.com/michaelbecker/common-lisp-labs-touretzky" />
-  <id>urn:rprimus:github:michaelbecker:common-lisp-labs-touretzky</id>
-  <published>2021-05-24T00:16:49Z</published>
-  <updated>2021-05-24T00:16:49Z</updated>
-  <content type="html">
-   Labs and practice from &quot;Common Lisp&quot; by David S. Touretzky
   </content>
  </entry>
 </feed>
