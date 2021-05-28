@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-05-27T02:22:38Z</updated>
+<updated>2021-05-28T02:39:40Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>mwsx100: portfolio</title>
+  <author>
+   <name>mwsx100</name>
+  </author>
+  <link href="https://github.com/mwsx100/portfolio" />
+  <id>urn:rprimus:github:mwsx100:portfolio</id>
+  <published>2021-05-28T02:39:40Z</published>
+  <updated>2021-05-28T02:39:40Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>val314159: bcl</title>
+  <author>
+   <name>val314159</name>
+  </author>
+  <link href="https://github.com/val314159/bcl" />
+  <id>urn:rprimus:github:val314159:bcl</id>
+  <published>2021-05-27T20:08:27Z</published>
+  <updated>2021-05-27T20:08:27Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>cbeo: zhsh</title>
+  <author>
+   <name>cbeo</name>
+  </author>
+  <link href="https://github.com/cbeo/zhsh" />
+  <id>urn:rprimus:github:cbeo:zhsh</id>
+  <published>2021-05-27T18:39:23Z</published>
+  <updated>2021-05-27T18:39:23Z</updated>
+  <content type="html">
+   Common Lisp implementation of the Zhang-Shasha tree edit distance algorithm.
+  </content>
+ </entry>
+ <entry>
+  <title>ruibrazm: r-c-lisp</title>
+  <author>
+   <name>ruibrazm</name>
+  </author>
+  <link href="https://github.com/ruibrazm/r-c-lisp" />
+  <id>urn:rprimus:github:ruibrazm:r-c-lisp</id>
+  <published>2021-05-27T13:04:11Z</published>
+  <updated>2021-05-27T13:04:11Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>aytonb: dag-gp</title>
   <author>
@@ -39,6 +91,19 @@
   <id>urn:rprimus:github:vindarel:cl-cookieweb</id>
   <published>2021-05-26T23:54:50Z</published>
   <updated>2021-05-26T23:54:50Z</updated>
+  <content type="html">
+   Cookiecutter template to start a web project.
+  </content>
+ </entry>
+ <entry>
+  <title>jlouiss: land-of-lisp</title>
+  <author>
+   <name>jlouiss</name>
+  </author>
+  <link href="https://github.com/jlouiss/land-of-lisp" />
+  <id>urn:rprimus:github:jlouiss:land-of-lisp</id>
+  <published>2021-05-26T20:33:07Z</published>
+  <updated>2021-05-26T20:33:07Z</updated>
   <content type="html">
    
   </content>
@@ -106,84 +171,6 @@
   <updated>2021-05-26T02:03:49Z</updated>
   <content type="html">
    Optimal DAG search using A*BC.
-  </content>
- </entry>
- <entry>
-  <title>thomashoullier: pi-approx</title>
-  <author>
-   <name>thomashoullier</name>
-  </author>
-  <link href="https://github.com/thomashoullier/pi-approx" />
-  <id>urn:rprimus:github:thomashoullier:pi-approx</id>
-  <published>2021-05-25T13:12:59Z</published>
-  <updated>2021-05-25T13:12:59Z</updated>
-  <content type="html">
-   Pi arbitrary precision approximations.
-  </content>
- </entry>
- <entry>
-  <title>vindarel: cl-cookieproject</title>
-  <author>
-   <name>vindarel</name>
-  </author>
-  <link href="https://github.com/vindarel/cl-cookieproject" />
-  <id>urn:rprimus:github:vindarel:cl-cookieproject</id>
-  <published>2021-05-25T07:46:43Z</published>
-  <updated>2021-05-25T07:46:43Z</updated>
-  <content type="html">
-   Generate a ready-to-use Common Lisp project
-  </content>
- </entry>
- <entry>
-  <title>qudrnr: AutoLISP_Drawing</title>
-  <author>
-   <name>qudrnr</name>
-  </author>
-  <link href="https://github.com/qudrnr/AutoLISP_Drawing" />
-  <id>urn:rprimus:github:qudrnr:AutoLISP_Drawing</id>
-  <published>2021-05-25T04:53:24Z</published>
-  <updated>2021-05-25T04:53:24Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ohmree: resettable-class</title>
-  <author>
-   <name>ohmree</name>
-  </author>
-  <link href="https://github.com/ohmree/resettable-class" />
-  <id>urn:rprimus:github:ohmree:resettable-class</id>
-  <published>2021-05-25T02:26:15Z</published>
-  <updated>2021-05-25T02:26:15Z</updated>
-  <content type="html">
-   A metaclass for classes whose instances can be reset using `reinitialize-instance`.
-  </content>
- </entry>
- <entry>
-  <title>aytonb: lbfgs-wrapper</title>
-  <author>
-   <name>aytonb</name>
-  </author>
-  <link href="https://github.com/aytonb/lbfgs-wrapper" />
-  <id>urn:rprimus:github:aytonb:lbfgs-wrapper</id>
-  <published>2021-05-25T01:53:12Z</published>
-  <updated>2021-05-25T01:53:12Z</updated>
-  <content type="html">
-   This package provides an interface that allows the limited memory Broyden-Fletcher-Goldfarb-Shanno (L-BFGS) algorithm to be called in Common Lisp. It is a very thin wrapper around the MIT-licensed C implementation written by Naoaki Okazaki. 
-  </content>
- </entry>
- <entry>
-  <title>dsletten: little-lisper</title>
-  <author>
-   <name>dsletten</name>
-  </author>
-  <link href="https://github.com/dsletten/little-lisper" />
-  <id>urn:rprimus:github:dsletten:little-lisper</id>
-  <published>2021-05-25T00:15:22Z</published>
-  <updated>2021-05-25T00:15:22Z</updated>
-  <content type="html">
-   Common Lisp Exercises from The Little Lisper (and later The Little Schemer/The Seasoned Schemer) by Friedman and Felleisen
   </content>
  </entry>
 </feed>
