@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-05-28T07:53:49Z</updated>
+<updated>2021-05-28T10:47:46Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>scymtym: language.graphviz</title>
+  <author>
+   <name>scymtym</name>
+  </author>
+  <link href="https://github.com/scymtym/language.graphviz" />
+  <id>urn:rprimus:github:scymtym:language.graphviz</id>
+  <published>2021-05-28T10:47:46Z</published>
+  <updated>2021-05-28T10:47:46Z</updated>
+  <content type="html">
+   Parser and unparser for the GraphViz dot language
+  </content>
+ </entry>
+ <entry>
+  <title>harupiyo: asdf3-sample</title>
+  <author>
+   <name>harupiyo</name>
+  </author>
+  <link href="https://github.com/harupiyo/asdf3-sample" />
+  <id>urn:rprimus:github:harupiyo:asdf3-sample</id>
+  <published>2021-05-28T08:22:25Z</published>
+  <updated>2021-05-28T08:22:25Z</updated>
+  <content type="html">
+   asdf3 ãä½¿ã£ã¦å®ç¾©ããã·ã¹ãã (åå©ç¨å¯è½ãªã©ã¤ãã©ãªã¼)ã®ãµã³ãã«
+  </content>
+ </entry>
  <entry>
   <title>DevonKS: lisp-chess</title>
   <author>
@@ -13,19 +39,6 @@
   <id>urn:rprimus:github:DevonKS:lisp-chess</id>
   <published>2021-05-28T07:53:49Z</published>
   <updated>2021-05-28T07:53:49Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>mwsx100: portfolio</title>
-  <author>
-   <name>mwsx100</name>
-  </author>
-  <link href="https://github.com/mwsx100/portfolio" />
-  <id>urn:rprimus:github:mwsx100:portfolio</id>
-  <published>2021-05-28T02:39:40Z</published>
-  <updated>2021-05-28T02:39:40Z</updated>
   <content type="html">
    
   </content>
@@ -57,12 +70,12 @@
   </content>
  </entry>
  <entry>
-  <title>ruibrazm: r-c-lisp</title>
+  <title>ruibrazm: rLisp</title>
   <author>
    <name>ruibrazm</name>
   </author>
-  <link href="https://github.com/ruibrazm/r-c-lisp" />
-  <id>urn:rprimus:github:ruibrazm:r-c-lisp</id>
+  <link href="https://github.com/ruibrazm/rLisp" />
+  <id>urn:rprimus:github:ruibrazm:rLisp</id>
   <published>2021-05-27T13:04:11Z</published>
   <updated>2021-05-27T13:04:11Z</updated>
   <content type="html">
@@ -93,97 +106,6 @@
   <updated>2021-05-27T01:02:03Z</updated>
   <content type="html">
    Presentation on the technical workings of the mysterious blockchain
-  </content>
- </entry>
- <entry>
-  <title>vindarel: cl-cookieweb</title>
-  <author>
-   <name>vindarel</name>
-  </author>
-  <link href="https://github.com/vindarel/cl-cookieweb" />
-  <id>urn:rprimus:github:vindarel:cl-cookieweb</id>
-  <published>2021-05-26T23:54:50Z</published>
-  <updated>2021-05-26T23:54:50Z</updated>
-  <content type="html">
-   Cookiecutter template to start a web project.
-  </content>
- </entry>
- <entry>
-  <title>jlouiss: land-of-lisp</title>
-  <author>
-   <name>jlouiss</name>
-  </author>
-  <link href="https://github.com/jlouiss/land-of-lisp" />
-  <id>urn:rprimus:github:jlouiss:land-of-lisp</id>
-  <published>2021-05-26T20:33:07Z</published>
-  <updated>2021-05-26T20:33:07Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>marekmaskarinec: cl-ksp</title>
-  <author>
-   <name>marekmaskarinec</name>
-  </author>
-  <link href="https://github.com/marekmaskarinec/cl-ksp" />
-  <id>urn:rprimus:github:marekmaskarinec:cl-ksp</id>
-  <published>2021-05-26T13:31:40Z</published>
-  <updated>2021-05-26T13:31:40Z</updated>
-  <content type="html">
-   Simple ksp input helper library for common lisp
-  </content>
- </entry>
- <entry>
-  <title>hanlinAumonde: system_expert_ia01</title>
-  <author>
-   <name>hanlinAumonde</name>
-  </author>
-  <link href="https://github.com/hanlinAumonde/system_expert_ia01" />
-  <id>urn:rprimus:github:hanlinAumonde:system_expert_ia01</id>
-  <published>2021-05-26T12:54:35Z</published>
-  <updated>2021-05-26T12:54:35Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jnjcc: cl-nlp</title>
-  <author>
-   <name>jnjcc</name>
-  </author>
-  <link href="https://github.com/jnjcc/cl-nlp" />
-  <id>urn:rprimus:github:jnjcc:cl-nlp</id>
-  <published>2021-05-26T04:58:15Z</published>
-  <updated>2021-05-26T04:58:15Z</updated>
-  <content type="html">
-   Natural Language Processing in Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>jnjcc: cl-ml</title>
-  <author>
-   <name>jnjcc</name>
-  </author>
-  <link href="https://github.com/jnjcc/cl-ml" />
-  <id>urn:rprimus:github:jnjcc:cl-ml</id>
-  <published>2021-05-26T04:57:52Z</published>
-  <updated>2021-05-26T04:57:52Z</updated>
-  <content type="html">
-   Machine Learning in Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>aytonb: dag-search</title>
-  <author>
-   <name>aytonb</name>
-  </author>
-  <link href="https://github.com/aytonb/dag-search" />
-  <id>urn:rprimus:github:aytonb:dag-search</id>
-  <published>2021-05-26T02:03:49Z</published>
-  <updated>2021-05-26T02:03:49Z</updated>
-  <content type="html">
-   Optimal DAG search using A*BC.
   </content>
  </entry>
 </feed>
