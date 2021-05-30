@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-go.atom"/>
 <id>urn:rprimus:github:newgorepos</id>
-<updated>2021-05-30T15:01:07Z</updated>
+<updated>2021-05-30T15:14:01Z</updated>
 <title type='text'>New GitHub Go Repos</title>
+ <entry>
+  <title>alexey-agafonov: stepik-golang-course</title>
+  <author>
+   <name>alexey-agafonov</name>
+  </author>
+  <link href="https://github.com/alexey-agafonov/stepik-golang-course" />
+  <id>urn:rprimus:github:alexey-agafonov:stepik-golang-course</id>
+  <published>2021-05-30T15:14:01Z</published>
+  <updated>2021-05-30T15:14:01Z</updated>
+  <content type="html">
+   My solutions of the course: https://stepik.org/course/54403/syllabus
+  </content>
+ </entry>
  <entry>
   <title>andrerfcsantos: go-plausible</title>
   <author>
@@ -44,16 +57,42 @@
   </content>
  </entry>
  <entry>
-  <title>cat2koban: learn-go-with-tests</title>
+  <title>benbjohnson: myapp</title>
   <author>
-   <name>cat2koban</name>
+   <name>benbjohnson</name>
   </author>
-  <link href="https://github.com/cat2koban/learn-go-with-tests" />
-  <id>urn:rprimus:github:cat2koban:learn-go-with-tests</id>
-  <published>2021-05-30T14:07:46Z</published>
-  <updated>2021-05-30T14:07:46Z</updated>
+  <link href="https://github.com/benbjohnson/myapp" />
+  <id>urn:rprimus:github:benbjohnson:myapp</id>
+  <published>2021-05-30T14:25:33Z</published>
+  <updated>2021-05-30T14:25:33Z</updated>
+  <content type="html">
+   An simple application with an HTTP server &amp; SQLite database.
+  </content>
+ </entry>
+ <entry>
+  <title>JonelRadenkovic: learning-git</title>
+  <author>
+   <name>JonelRadenkovic</name>
+  </author>
+  <link href="https://github.com/JonelRadenkovic/learning-git" />
+  <id>urn:rprimus:github:JonelRadenkovic:learning-git</id>
+  <published>2021-05-30T14:14:57Z</published>
+  <updated>2021-05-30T14:14:57Z</updated>
   <content type="html">
    
+  </content>
+ </entry>
+ <entry>
+  <title>xavier268: doubles</title>
+  <author>
+   <name>xavier268</name>
+  </author>
+  <link href="https://github.com/xavier268/doubles" />
+  <id>urn:rprimus:github:xavier268:doubles</id>
+  <published>2021-05-30T14:10:41Z</published>
+  <updated>2021-05-30T14:10:41Z</updated>
+  <content type="html">
+   Recursively identify files with same content in a directory.
   </content>
  </entry>
  <entry>
@@ -70,32 +109,6 @@
   </content>
  </entry>
  <entry>
-  <title>LeonidKim: newsfeeder</title>
-  <author>
-   <name>LeonidKim</name>
-  </author>
-  <link href="https://github.com/LeonidKim/newsfeeder" />
-  <id>urn:rprimus:github:LeonidKim:newsfeeder</id>
-  <published>2021-05-30T12:42:12Z</published>
-  <updated>2021-05-30T12:42:12Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>kalaGN: gincron</title>
-  <author>
-   <name>kalaGN</name>
-  </author>
-  <link href="https://github.com/kalaGN/gincron" />
-  <id>urn:rprimus:github:kalaGN:gincron</id>
-  <published>2021-05-30T12:32:21Z</published>
-  <updated>2021-05-30T12:32:21Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
   <title>viveksinghggits: ekspose</title>
   <author>
    <name>viveksinghggits</name>
@@ -106,32 +119,6 @@
   <updated>2021-05-30T12:19:15Z</updated>
   <content type="html">
    A simple controller that exposes your #kubernetes deployment automatically to external world.
-  </content>
- </entry>
- <entry>
-  <title>donutloop: leetcode.com</title>
-  <author>
-   <name>donutloop</name>
-  </author>
-  <link href="https://github.com/donutloop/leetcode.com" />
-  <id>urn:rprimus:github:donutloop:leetcode.com</id>
-  <published>2021-05-30T11:18:27Z</published>
-  <updated>2021-05-30T11:18:27Z</updated>
-  <content type="html">
-   Leetcode solutions
-  </content>
- </entry>
- <entry>
-  <title>big-meel: golang-tutorial</title>
-  <author>
-   <name>big-meel</name>
-  </author>
-  <link href="https://github.com/big-meel/golang-tutorial" />
-  <id>urn:rprimus:github:big-meel:golang-tutorial</id>
-  <published>2021-05-30T10:47:08Z</published>
-  <updated>2021-05-30T10:47:08Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
  <entry>
@@ -223,6 +210,19 @@
   <updated>2021-05-30T07:05:06Z</updated>
   <content type="html">
    A simple web API capable of providing basic information and statistics about a system.
+  </content>
+ </entry>
+ <entry>
+  <title>yeejiac: WebAPI_layout</title>
+  <author>
+   <name>yeejiac</name>
+  </author>
+  <link href="https://github.com/yeejiac/WebAPI_layout" />
+  <id>urn:rprimus:github:yeejiac:WebAPI_layout</id>
+  <published>2021-05-30T06:44:10Z</published>
+  <updated>2021-05-30T06:44:10Z</updated>
+  <content type="html">
+   
   </content>
  </entry>
  <entry>
@@ -694,6 +694,19 @@
   </content>
  </entry>
  <entry>
+  <title>KongchengPro: GoBuilder</title>
+  <author>
+   <name>KongchengPro</name>
+  </author>
+  <link href="https://github.com/KongchengPro/GoBuilder" />
+  <id>urn:rprimus:github:KongchengPro:GoBuilder</id>
+  <published>2021-05-29T06:34:11Z</published>
+  <updated>2021-05-29T06:34:11Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
   <title>KongchengPro: HappyOPQ</title>
   <author>
    <name>KongchengPro</name>
@@ -743,19 +756,6 @@
   <updated>2021-05-29T05:45:47Z</updated>
   <content type="html">
    Generates gitignore easilyð
-  </content>
- </entry>
- <entry>
-  <title>lukekrikorian: photos</title>
-  <author>
-   <name>lukekrikorian</name>
-  </author>
-  <link href="https://github.com/lukekrikorian/photos" />
-  <id>urn:rprimus:github:lukekrikorian:photos</id>
-  <published>2021-05-29T03:27:54Z</published>
-  <updated>2021-05-29T03:27:54Z</updated>
-  <content type="html">
-   minimalist instagram clone
   </content>
  </entry>
  <entry>
@@ -873,19 +873,6 @@
   <updated>2021-05-28T18:14:52Z</updated>
   <content type="html">
    Repository to hold all the common packages imported by MinIO projects
-  </content>
- </entry>
- <entry>
-  <title>SernexOrg: Apt-Labs</title>
-  <author>
-   <name>SernexOrg</name>
-  </author>
-  <link href="https://github.com/SernexOrg/Apt-Labs" />
-  <id>urn:rprimus:github:SernexOrg:Apt-Labs</id>
-  <published>2021-05-28T15:30:54Z</published>
-  <updated>2021-05-28T15:30:54Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
  <entry>
@@ -1079,6 +1066,19 @@
   <id>urn:rprimus:github:orisano:blurhash</id>
   <published>2021-05-28T03:30:01Z</published>
   <updated>2021-05-28T03:30:01Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>marimo713: hackathon-graphql</title>
+  <author>
+   <name>marimo713</name>
+  </author>
+  <link href="https://github.com/marimo713/hackathon-graphql" />
+  <id>urn:rprimus:github:marimo713:hackathon-graphql</id>
+  <published>2021-05-28T03:04:53Z</published>
+  <updated>2021-05-28T03:04:53Z</updated>
   <content type="html">
    
   </content>
