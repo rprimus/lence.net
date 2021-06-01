@@ -2,8 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2021-05-31T09:09:20Z</updated>
+<updated>2021-06-01T02:42:30Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>tylergrinn: reel</title>
+  <author>
+   <name>tylergrinn</name>
+  </author>
+  <link href="https://github.com/tylergrinn/reel" />
+  <id>urn:rprimus:github:tylergrinn:reel</id>
+  <published>2021-06-01T02:42:30Z</published>
+  <updated>2021-06-01T02:42:30Z</updated>
+  <content type="html">
+   Remarkable utilities for emacs
+  </content>
+ </entry>
+ <entry>
+  <title>x5lcfd: .emacs.d</title>
+  <author>
+   <name>x5lcfd</name>
+  </author>
+  <link href="https://github.com/x5lcfd/.emacs.d" />
+  <id>urn:rprimus:github:x5lcfd:.emacs.d</id>
+  <published>2021-06-01T01:29:42Z</published>
+  <updated>2021-06-01T01:29:42Z</updated>
+  <content type="html">
+   emacs configuration.
+  </content>
+ </entry>
+ <entry>
+  <title>joshburnsxyz: config-hacker.el</title>
+  <author>
+   <name>joshburnsxyz</name>
+  </author>
+  <link href="https://github.com/joshburnsxyz/config-hacker.el" />
+  <id>urn:rprimus:github:joshburnsxyz:config-hacker.el</id>
+  <published>2021-06-01T00:16:57Z</published>
+  <updated>2021-06-01T00:16:57Z</updated>
+  <content type="html">
+   Emacs helper library for those who can&#039;t stay away from their init.el file
+  </content>
+ </entry>
+ <entry>
+  <title>xinhaoyuan: nlinum</title>
+  <author>
+   <name>xinhaoyuan</name>
+  </author>
+  <link href="https://github.com/xinhaoyuan/nlinum" />
+  <id>urn:rprimus:github:xinhaoyuan:nlinum</id>
+  <published>2021-05-31T15:13:46Z</published>
+  <updated>2021-05-31T15:13:46Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>md-arif-shaikh: emacs-minimal</title>
+  <author>
+   <name>md-arif-shaikh</name>
+  </author>
+  <link href="https://github.com/md-arif-shaikh/emacs-minimal" />
+  <id>urn:rprimus:github:md-arif-shaikh:emacs-minimal</id>
+  <published>2021-05-31T14:55:32Z</published>
+  <updated>2021-05-31T14:55:32Z</updated>
+  <content type="html">
+   minimal emacs setup
+  </content>
+ </entry>
+ <entry>
+  <title>a-berg: spacemacs-private</title>
+  <author>
+   <name>a-berg</name>
+  </author>
+  <link href="https://github.com/a-berg/spacemacs-private" />
+  <id>urn:rprimus:github:a-berg:spacemacs-private</id>
+  <published>2021-05-31T14:27:29Z</published>
+  <updated>2021-05-31T14:27:29Z</updated>
+  <content type="html">
+   My spacemacs &quot;private&quot; configuration.
+  </content>
+ </entry>
+ <entry>
+  <title>deannellis: doom-emacs</title>
+  <author>
+   <name>deannellis</name>
+  </author>
+  <link href="https://github.com/deannellis/doom-emacs" />
+  <id>urn:rprimus:github:deannellis:doom-emacs</id>
+  <published>2021-05-31T14:12:21Z</published>
+  <updated>2021-05-31T14:12:21Z</updated>
+  <content type="html">
+   My Doom Emacs config files
+  </content>
+ </entry>
  <entry>
   <title>Suzamax: .emacs.d</title>
   <author>
@@ -314,266 +405,6 @@
   <updated>2021-05-30T01:07:49Z</updated>
   <content type="html">
    My precious dotfiles
-  </content>
- </entry>
- <entry>
-  <title>ryuslash: vc-p4</title>
-  <author>
-   <name>ryuslash</name>
-  </author>
-  <link href="https://github.com/ryuslash/vc-p4" />
-  <id>urn:rprimus:github:ryuslash:vc-p4</id>
-  <published>2021-05-29T23:43:06Z</published>
-  <updated>2021-05-29T23:43:06Z</updated>
-  <content type="html">
-   Integrate Perforce support into VC mode in Emacs
-  </content>
- </entry>
- <entry>
-  <title>witty-pigeon: holidays-ireland</title>
-  <author>
-   <name>witty-pigeon</name>
-  </author>
-  <link href="https://github.com/witty-pigeon/holidays-ireland" />
-  <id>urn:rprimus:github:witty-pigeon:holidays-ireland</id>
-  <published>2021-05-29T22:51:20Z</published>
-  <updated>2021-05-29T22:51:20Z</updated>
-  <content type="html">
-   Emacs calendar Irish holidays
-  </content>
- </entry>
- <entry>
-  <title>dalanicolai: mediator</title>
-  <author>
-   <name>dalanicolai</name>
-  </author>
-  <link href="https://github.com/dalanicolai/mediator" />
-  <id>urn:rprimus:github:dalanicolai:mediator</id>
-  <published>2021-05-29T21:59:53Z</published>
-  <updated>2021-05-29T21:59:53Z</updated>
-  <content type="html">
-   Emacs open-with dialog for opening files in mime-type fitting application.
-  </content>
- </entry>
- <entry>
-  <title>emacs-straight: devdocs</title>
-  <author>
-   <name>emacs-straight</name>
-  </author>
-  <link href="https://github.com/emacs-straight/devdocs" />
-  <id>urn:rprimus:github:emacs-straight:devdocs</id>
-  <published>2021-05-29T21:09:17Z</published>
-  <updated>2021-05-29T21:09:17Z</updated>
-  <content type="html">
-   Mirror of the devdocs package from GNU ELPA
-  </content>
- </entry>
- <entry>
-  <title>oatberry: .emacs.d</title>
-  <author>
-   <name>oatberry</name>
-  </author>
-  <link href="https://github.com/oatberry/.emacs.d" />
-  <id>urn:rprimus:github:oatberry:.emacs.d</id>
-  <published>2021-05-29T18:59:37Z</published>
-  <updated>2021-05-29T18:59:37Z</updated>
-  <content type="html">
-   My emacs config
-  </content>
- </entry>
- <entry>
-  <title>KarlJoad: transient-bib</title>
-  <author>
-   <name>KarlJoad</name>
-  </author>
-  <link href="https://github.com/KarlJoad/transient-bib" />
-  <id>urn:rprimus:github:KarlJoad:transient-bib</id>
-  <published>2021-05-29T15:24:29Z</published>
-  <updated>2021-05-29T15:24:29Z</updated>
-  <content type="html">
-   An addition to Emacs&#039; bibtex-mode, for providing transient keybindings
-  </content>
- </entry>
- <entry>
-  <title>kornev: kornev-aspirin-app</title>
-  <author>
-   <name>kornev</name>
-  </author>
-  <link href="https://github.com/kornev/kornev-aspirin-app" />
-  <id>urn:rprimus:github:kornev:kornev-aspirin-app</id>
-  <published>2021-05-29T14:43:47Z</published>
-  <updated>2021-05-29T14:43:47Z</updated>
-  <content type="html">
-   Aspirin is an Emacs distribution that aims to enhance the default Emacs experience.
-  </content>
- </entry>
- <entry>
-  <title>simonecig: .config</title>
-  <author>
-   <name>simonecig</name>
-  </author>
-  <link href="https://github.com/simonecig/.config" />
-  <id>urn:rprimus:github:simonecig:.config</id>
-  <published>2021-05-29T14:38:43Z</published>
-  <updated>2021-05-29T14:38:43Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>DirePeacock: cool_cli_stuff</title>
-  <author>
-   <name>DirePeacock</name>
-  </author>
-  <link href="https://github.com/DirePeacock/cool_cli_stuff" />
-  <id>urn:rprimus:github:DirePeacock:cool_cli_stuff</id>
-  <published>2021-05-29T14:14:36Z</published>
-  <updated>2021-05-29T14:14:36Z</updated>
-  <content type="html">
-   a set of scripts and configuration stuff to be shared between my win10 and SUSE machines so i can code with similar workflows on both
-  </content>
- </entry>
- <entry>
-  <title>johannes-qvarford: home-env</title>
-  <author>
-   <name>johannes-qvarford</name>
-  </author>
-  <link href="https://github.com/johannes-qvarford/home-env" />
-  <id>urn:rprimus:github:johannes-qvarford:home-env</id>
-  <published>2021-05-29T13:08:48Z</published>
-  <updated>2021-05-29T13:08:48Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>xenodium: company-org-block</title>
-  <author>
-   <name>xenodium</name>
-  </author>
-  <link href="https://github.com/xenodium/company-org-block" />
-  <id>urn:rprimus:github:xenodium:company-org-block</id>
-  <published>2021-05-29T13:01:50Z</published>
-  <updated>2021-05-29T13:01:50Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>KRE02: dotfiles</title>
-  <author>
-   <name>KRE02</name>
-  </author>
-  <link href="https://github.com/KRE02/dotfiles" />
-  <id>urn:rprimus:github:KRE02:dotfiles</id>
-  <published>2021-05-29T12:12:36Z</published>
-  <updated>2021-05-29T12:12:36Z</updated>
-  <content type="html">
-   My personal dotfiles
-  </content>
- </entry>
- <entry>
-  <title>HAL22: Doom-emacs-config-file</title>
-  <author>
-   <name>HAL22</name>
-  </author>
-  <link href="https://github.com/HAL22/Doom-emacs-config-file" />
-  <id>urn:rprimus:github:HAL22:Doom-emacs-config-file</id>
-  <published>2021-05-29T12:10:39Z</published>
-  <updated>2021-05-29T12:10:39Z</updated>
-  <content type="html">
-   storing my .doom.d file
-  </content>
- </entry>
- <entry>
-  <title>mzyd: .spacemacs.d</title>
-  <author>
-   <name>mzyd</name>
-  </author>
-  <link href="https://github.com/mzyd/.spacemacs.d" />
-  <id>urn:rprimus:github:mzyd:.spacemacs.d</id>
-  <published>2021-05-29T08:41:43Z</published>
-  <updated>2021-05-29T08:41:43Z</updated>
-  <content type="html">
-   2021
-  </content>
- </entry>
- <entry>
-  <title>maisiliym: mentci</title>
-  <author>
-   <name>maisiliym</name>
-  </author>
-  <link href="https://github.com/maisiliym/mentci" />
-  <id>urn:rprimus:github:maisiliym:mentci</id>
-  <published>2021-05-29T08:00:40Z</published>
-  <updated>2021-05-29T08:00:40Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>guidao: emacro</title>
-  <author>
-   <name>guidao</name>
-  </author>
-  <link href="https://github.com/guidao/emacro" />
-  <id>urn:rprimus:github:guidao:emacro</id>
-  <published>2021-05-29T06:36:53Z</published>
-  <updated>2021-05-29T06:36:53Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>emacs-straight: marginalia</title>
-  <author>
-   <name>emacs-straight</name>
-  </author>
-  <link href="https://github.com/emacs-straight/marginalia" />
-  <id>urn:rprimus:github:emacs-straight:marginalia</id>
-  <published>2021-05-29T03:09:32Z</published>
-  <updated>2021-05-29T03:09:32Z</updated>
-  <content type="html">
-   Mirror of the marginalia package from GNU ELPA
-  </content>
- </entry>
- <entry>
-  <title>emacs-straight: consult</title>
-  <author>
-   <name>emacs-straight</name>
-  </author>
-  <link href="https://github.com/emacs-straight/consult" />
-  <id>urn:rprimus:github:emacs-straight:consult</id>
-  <published>2021-05-29T03:08:57Z</published>
-  <updated>2021-05-29T03:08:57Z</updated>
-  <content type="html">
-   Mirror of the consult package from GNU ELPA
-  </content>
- </entry>
- <entry>
-  <title>johncoder: cantrip</title>
-  <author>
-   <name>johncoder</name>
-  </author>
-  <link href="https://github.com/johncoder/cantrip" />
-  <id>urn:rprimus:github:johncoder:cantrip</id>
-  <published>2021-05-29T01:20:32Z</published>
-  <updated>2021-05-29T01:20:32Z</updated>
-  <content type="html">
-   An emacs package for building transient prefixes from JSON files.
-  </content>
- </entry>
- <entry>
-  <title>mullikine: gnus</title>
-  <author>
-   <name>mullikine</name>
-  </author>
-  <link href="https://github.com/mullikine/gnus" />
-  <id>urn:rprimus:github:mullikine:gnus</id>
-  <published>2021-05-29T00:01:11Z</published>
-  <updated>2021-05-29T00:01:11Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>

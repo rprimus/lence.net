@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-racket.atom"/>
 <id>urn:rprimus:github:newracketrepos</id>
-<updated>2021-05-31T05:18:00Z</updated>
+<updated>2021-05-31T22:19:41Z</updated>
 <title type='text'>New GitHub Racket Repos</title>
+ <entry>
+  <title>rodrigogribeiro: peg-racket</title>
+  <author>
+   <name>rodrigogribeiro</name>
+  </author>
+  <link href="https://github.com/rodrigogribeiro/peg-racket" />
+  <id>urn:rprimus:github:rodrigogribeiro:peg-racket</id>
+  <published>2021-05-31T22:19:41Z</published>
+  <updated>2021-05-31T22:19:41Z</updated>
+  <content type="html">
+   A simple implementation of PEGs in Racket
+  </content>
+ </entry>
+ <entry>
+  <title>jbclements: racket-gedcom</title>
+  <author>
+   <name>jbclements</name>
+  </author>
+  <link href="https://github.com/jbclements/racket-gedcom" />
+  <id>urn:rprimus:github:jbclements:racket-gedcom</id>
+  <published>2021-05-31T19:09:43Z</published>
+  <updated>2021-05-31T19:09:43Z</updated>
+  <content type="html">
+   A sandbox for now ...
+  </content>
+ </entry>
+ <entry>
+  <title>soegaard: cairo</title>
+  <author>
+   <name>soegaard</name>
+  </author>
+  <link href="https://github.com/soegaard/cairo" />
+  <id>urn:rprimus:github:soegaard:cairo</id>
+  <published>2021-05-31T18:36:25Z</published>
+  <updated>2021-05-31T18:36:25Z</updated>
+  <content type="html">
+   Racket bindings for Cairo (a 2d graphics library implemented in C)
+  </content>
+ </entry>
+ <entry>
+  <title>Dhivas-Sugumar: text_editor_drRacket</title>
+  <author>
+   <name>Dhivas-Sugumar</name>
+  </author>
+  <link href="https://github.com/Dhivas-Sugumar/text_editor_drRacket" />
+  <id>urn:rprimus:github:Dhivas-Sugumar:text_editor_drRacket</id>
+  <published>2021-05-31T12:37:03Z</published>
+  <updated>2021-05-31T12:37:03Z</updated>
+  <content type="html">
+   A text editor made using the Dr.Racket Language. It has basic functionality such as typing, editing, and a search function. 
+  </content>
+ </entry>
  <entry>
   <title>dannypsnl: code-analyzer</title>
   <author>
@@ -78,97 +130,6 @@
   <id>urn:rprimus:github:Superb17C:ObjektSpeak</id>
   <published>2021-05-30T03:30:00Z</published>
   <updated>2021-05-30T03:30:00Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>dolphingarlic: racket-geometry</title>
-  <author>
-   <name>dolphingarlic</name>
-  </author>
-  <link href="https://github.com/dolphingarlic/racket-geometry" />
-  <id>urn:rprimus:github:dolphingarlic:racket-geometry</id>
-  <published>2021-05-29T19:41:18Z</published>
-  <updated>2021-05-29T19:41:18Z</updated>
-  <content type="html">
-   Geometry stuff written in the Racket programming language
-  </content>
- </entry>
- <entry>
-  <title>itmuckel: wisim</title>
-  <author>
-   <name>itmuckel</name>
-  </author>
-  <link href="https://github.com/itmuckel/wisim" />
-  <id>urn:rprimus:github:itmuckel:wisim</id>
-  <published>2021-05-29T19:09:22Z</published>
-  <updated>2021-05-29T19:09:22Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>rokobo: Made-up-language-interpreter</title>
-  <author>
-   <name>rokobo</name>
-  </author>
-  <link href="https://github.com/rokobo/Made-up-language-interpreter" />
-  <id>urn:rprimus:github:rokobo:Made-up-language-interpreter</id>
-  <published>2021-05-29T13:36:17Z</published>
-  <updated>2021-05-29T13:36:17Z</updated>
-  <content type="html">
-   Racket implementation of an interpreter for a made up language (MUPL)
-  </content>
- </entry>
- <entry>
-  <title>DamionGans: sicp-exercises</title>
-  <author>
-   <name>DamionGans</name>
-  </author>
-  <link href="https://github.com/DamionGans/sicp-exercises" />
-  <id>urn:rprimus:github:DamionGans:sicp-exercises</id>
-  <published>2021-05-29T11:22:30Z</published>
-  <updated>2021-05-29T11:22:30Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jsgrant: toad</title>
-  <author>
-   <name>jsgrant</name>
-  </author>
-  <link href="https://github.com/jsgrant/toad" />
-  <id>urn:rprimus:github:jsgrant:toad</id>
-  <published>2021-05-29T10:45:25Z</published>
-  <updated>2021-05-29T10:45:25Z</updated>
-  <content type="html">
-   A Fork Of GregH&#039;s Excellent But Effectively Dead &quot;Frog&quot; Static-Site Generator.
-  </content>
- </entry>
- <entry>
-  <title>plane: with-struct</title>
-  <author>
-   <name>plane</name>
-  </author>
-  <link href="https://github.com/plane/with-struct" />
-  <id>urn:rprimus:github:plane:with-struct</id>
-  <published>2021-05-29T08:28:58Z</published>
-  <updated>2021-05-29T08:28:58Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>LIENGITS: DR-RACKET-CODE</title>
-  <author>
-   <name>LIENGITS</name>
-  </author>
-  <link href="https://github.com/LIENGITS/DR-RACKET-CODE" />
-  <id>urn:rprimus:github:LIENGITS:DR-RACKET-CODE</id>
-  <published>2021-05-29T02:33:11Z</published>
-  <updated>2021-05-29T02:33:11Z</updated>
   <content type="html">
    
   </content>
