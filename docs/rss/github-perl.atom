@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-perl.atom"/>
 <id>urn:rprimus:github:newperlrepos</id>
-<updated>2021-06-02T05:34:22Z</updated>
+<updated>2021-06-02T07:06:52Z</updated>
 <title type='text'>New GitHub Perl Repos</title>
+ <entry>
+  <title>rahra: nav6parse</title>
+  <author>
+   <name>rahra</name>
+  </author>
+  <link href="https://github.com/rahra/nav6parse" />
+  <id>urn:rprimus:github:rahra:nav6parse</id>
+  <published>2021-06-02T07:06:52Z</published>
+  <updated>2021-06-02T07:06:52Z</updated>
+  <content type="html">
+   A parser for the user data of the Seatec NAV6 chart plotter.
+  </content>
+ </entry>
  <entry>
   <title>Kafka-In-Action-Book: kafka_tools_completion</title>
   <author>
@@ -483,6 +496,19 @@
   <updated>2021-05-31T12:15:30Z</updated>
   <content type="html">
    A set of scripts and miscellaneous one-offs useful for managing a large collection of photos &amp; videos.
+  </content>
+ </entry>
+ <entry>
+  <title>kberov: Mojolicious-Plugin-Obrazi</title>
+  <author>
+   <name>kberov</name>
+  </author>
+  <link href="https://github.com/kberov/Mojolicious-Plugin-Obrazi" />
+  <id>urn:rprimus:github:kberov:Mojolicious-Plugin-Obrazi</id>
+  <published>2021-05-31T10:36:07Z</published>
+  <updated>2021-05-31T10:36:07Z</updated>
+  <content type="html">
+   A gallery generation command, plugin and eventually a controller for any (potentially Mojolicious based) site
   </content>
  </entry>
  <entry>
