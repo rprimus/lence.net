@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-erlang.atom"/>
 <id>urn:rprimus:github:newerlangrepos</id>
-<updated>2021-06-02T05:48:45Z</updated>
+<updated>2021-06-03T02:16:46Z</updated>
 <title type='text'>New GitHub Erlang Repos</title>
+ <entry>
+  <title>hmmr: riak_kv</title>
+  <author>
+   <name>hmmr</name>
+  </author>
+  <link href="https://github.com/hmmr/riak_kv" />
+  <id>urn:rprimus:github:hmmr:riak_kv</id>
+  <published>2021-06-03T02:16:46Z</published>
+  <updated>2021-06-03T02:16:46Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>hmmr: riak_api</title>
+  <author>
+   <name>hmmr</name>
+  </author>
+  <link href="https://github.com/hmmr/riak_api" />
+  <id>urn:rprimus:github:hmmr:riak_api</id>
+  <published>2021-06-03T02:10:45Z</published>
+  <updated>2021-06-03T02:10:45Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>michallepicki: test_sesterl_proj</title>
+  <author>
+   <name>michallepicki</name>
+  </author>
+  <link href="https://github.com/michallepicki/test_sesterl_proj" />
+  <id>urn:rprimus:github:michallepicki:test_sesterl_proj</id>
+  <published>2021-06-02T19:23:34Z</published>
+  <updated>2021-06-02T19:23:34Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>sergofun: http_data_getter</title>
+  <author>
+   <name>sergofun</name>
+  </author>
+  <link href="https://github.com/sergofun/http_data_getter" />
+  <id>urn:rprimus:github:sergofun:http_data_getter</id>
+  <published>2021-06-02T15:09:25Z</published>
+  <updated>2021-06-02T15:09:25Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>data-pata: k-case</title>
+  <author>
+   <name>data-pata</name>
+  </author>
+  <link href="https://github.com/data-pata/k-case" />
+  <id>urn:rprimus:github:data-pata:k-case</id>
+  <published>2021-06-02T13:26:34Z</published>
+  <updated>2021-06-02T13:26:34Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>Calandrinon: Playing-With-Erlang</title>
   <author>
@@ -39,6 +104,19 @@
   <id>urn:rprimus:github:hmmr:riak_repl</id>
   <published>2021-06-02T01:39:59Z</published>
   <updated>2021-06-02T01:39:59Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>erldb: rebar3_erldb_plugin</title>
+  <author>
+   <name>erldb</name>
+  </author>
+  <link href="https://github.com/erldb/rebar3_erldb_plugin" />
+  <id>urn:rprimus:github:erldb:rebar3_erldb_plugin</id>
+  <published>2021-06-01T15:04:47Z</published>
+  <updated>2021-06-01T15:04:47Z</updated>
   <content type="html">
    
   </content>
@@ -80,84 +158,6 @@
   <updated>2021-06-01T12:46:49Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>joq62: system_test</title>
-  <author>
-   <name>joq62</name>
-  </author>
-  <link href="https://github.com/joq62/system_test" />
-  <id>urn:rprimus:github:joq62:system_test</id>
-  <published>2021-05-31T20:31:45Z</published>
-  <updated>2021-05-31T20:31:45Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>massemanet: me2</title>
-  <author>
-   <name>massemanet</name>
-  </author>
-  <link href="https://github.com/massemanet/me2" />
-  <id>urn:rprimus:github:massemanet:me2</id>
-  <published>2021-05-31T16:25:21Z</published>
-  <updated>2021-05-31T16:25:21Z</updated>
-  <content type="html">
-   A language for the erlang VM. Not a real project.
-  </content>
- </entry>
- <entry>
-  <title>EmmanuelMess: ErlangServerCClient</title>
-  <author>
-   <name>EmmanuelMess</name>
-  </author>
-  <link href="https://github.com/EmmanuelMess/ErlangServerCClient" />
-  <id>urn:rprimus:github:EmmanuelMess:ErlangServerCClient</id>
-  <published>2021-05-31T15:49:23Z</published>
-  <updated>2021-05-31T15:49:23Z</updated>
-  <content type="html">
-   An erlang server for the NativeConsoleChat
-  </content>
- </entry>
- <entry>
-  <title>robertfagaras: http_server</title>
-  <author>
-   <name>robertfagaras</name>
-  </author>
-  <link href="https://github.com/robertfagaras/http_server" />
-  <id>urn:rprimus:github:robertfagaras:http_server</id>
-  <published>2021-05-31T12:27:40Z</published>
-  <updated>2021-05-31T12:27:40Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>tonyrog: em2w</title>
-  <author>
-   <name>tonyrog</name>
-  </author>
-  <link href="https://github.com/tonyrog/em2w" />
-  <id>urn:rprimus:github:tonyrog:em2w</id>
-  <published>2021-05-31T08:28:17Z</published>
-  <updated>2021-05-31T08:28:17Z</updated>
-  <content type="html">
-   Email to web, update web pages by sending email
-  </content>
- </entry>
- <entry>
-  <title>dgiot: dgiot_topo</title>
-  <author>
-   <name>dgiot</name>
-  </author>
-  <link href="https://github.com/dgiot/dgiot_topo" />
-  <id>urn:rprimus:github:dgiot:dgiot_topo</id>
-  <published>2021-05-31T03:18:56Z</published>
-  <updated>2021-05-31T03:18:56Z</updated>
-  <content type="html">
-   dgiot_topo
   </content>
  </entry>
 </feed>

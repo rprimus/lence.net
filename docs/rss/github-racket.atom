@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-racket.atom"/>
 <id>urn:rprimus:github:newracketrepos</id>
-<updated>2021-06-02T02:21:16Z</updated>
+<updated>2021-06-02T22:49:57Z</updated>
 <title type='text'>New GitHub Racket Repos</title>
+ <entry>
+  <title>The-Hacker-Mike: primeNumbersWithFutures</title>
+  <author>
+   <name>The-Hacker-Mike</name>
+  </author>
+  <link href="https://github.com/The-Hacker-Mike/primeNumbersWithFutures" />
+  <id>urn:rprimus:github:The-Hacker-Mike:primeNumbersWithFutures</id>
+  <published>2021-06-02T22:49:57Z</published>
+  <updated>2021-06-02T22:49:57Z</updated>
+  <content type="html">
+   Process using Racket to take advantage of all the available cores of a computer to create Futures, divide tasks and sum all the prime numbers from a given range. The file has both the iterative and parallel program.
+  </content>
+ </entry>
+ <entry>
+  <title>Saber-Kurama: sicp-learn</title>
+  <author>
+   <name>Saber-Kurama</name>
+  </author>
+  <link href="https://github.com/Saber-Kurama/sicp-learn" />
+  <id>urn:rprimus:github:Saber-Kurama:sicp-learn</id>
+  <published>2021-06-02T13:18:39Z</published>
+  <updated>2021-06-02T13:18:39Z</updated>
+  <content type="html">
+   å­¦ä¹  sicp
+  </content>
+ </entry>
+ <entry>
+  <title>RebeccaMartinho: racket-login</title>
+  <author>
+   <name>RebeccaMartinho</name>
+  </author>
+  <link href="https://github.com/RebeccaMartinho/racket-login" />
+  <id>urn:rprimus:github:RebeccaMartinho:racket-login</id>
+  <published>2021-06-02T13:07:48Z</published>
+  <updated>2021-06-02T13:07:48Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>myernazar: sicp</title>
+  <author>
+   <name>myernazar</name>
+  </author>
+  <link href="https://github.com/myernazar/sicp" />
+  <id>urn:rprimus:github:myernazar:sicp</id>
+  <published>2021-06-02T10:34:49Z</published>
+  <updated>2021-06-02T10:34:49Z</updated>
+  <content type="html">
+   My Journey to SICP book
+  </content>
+ </entry>
+ <entry>
+  <title>octplane: github-gitlab-racket</title>
+  <author>
+   <name>octplane</name>
+  </author>
+  <link href="https://github.com/octplane/github-gitlab-racket" />
+  <id>urn:rprimus:github:octplane:github-gitlab-racket</id>
+  <published>2021-06-02T09:52:23Z</published>
+  <updated>2021-06-02T09:52:23Z</updated>
+  <content type="html">
+   Set of tools to discuss with github/gitlab
+  </content>
+ </entry>
  <entry>
   <title>s-cerevisiae: leetcode-racket</title>
   <author>
@@ -93,71 +158,6 @@
   <updated>2021-06-01T04:22:18Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>rodrigogribeiro: peg-racket</title>
-  <author>
-   <name>rodrigogribeiro</name>
-  </author>
-  <link href="https://github.com/rodrigogribeiro/peg-racket" />
-  <id>urn:rprimus:github:rodrigogribeiro:peg-racket</id>
-  <published>2021-05-31T22:19:41Z</published>
-  <updated>2021-05-31T22:19:41Z</updated>
-  <content type="html">
-   A simple implementation of PEGs in Racket
-  </content>
- </entry>
- <entry>
-  <title>jbclements: racket-gedcom</title>
-  <author>
-   <name>jbclements</name>
-  </author>
-  <link href="https://github.com/jbclements/racket-gedcom" />
-  <id>urn:rprimus:github:jbclements:racket-gedcom</id>
-  <published>2021-05-31T19:09:43Z</published>
-  <updated>2021-05-31T19:09:43Z</updated>
-  <content type="html">
-   A sandbox for now ...
-  </content>
- </entry>
- <entry>
-  <title>soegaard: cairo</title>
-  <author>
-   <name>soegaard</name>
-  </author>
-  <link href="https://github.com/soegaard/cairo" />
-  <id>urn:rprimus:github:soegaard:cairo</id>
-  <published>2021-05-31T18:36:25Z</published>
-  <updated>2021-05-31T18:36:25Z</updated>
-  <content type="html">
-   Racket bindings for Cairo (a 2d graphics library implemented in C)
-  </content>
- </entry>
- <entry>
-  <title>Dhivas-Sugumar: text_editor_drRacket</title>
-  <author>
-   <name>Dhivas-Sugumar</name>
-  </author>
-  <link href="https://github.com/Dhivas-Sugumar/text_editor_drRacket" />
-  <id>urn:rprimus:github:Dhivas-Sugumar:text_editor_drRacket</id>
-  <published>2021-05-31T12:37:03Z</published>
-  <updated>2021-05-31T12:37:03Z</updated>
-  <content type="html">
-   A text editor made using the Dr.Racket Language. It has basic functionality such as typing, editing, and a search function. 
-  </content>
- </entry>
- <entry>
-  <title>dannypsnl: code-analyzer</title>
-  <author>
-   <name>dannypsnl</name>
-  </author>
-  <link href="https://github.com/dannypsnl/code-analyzer" />
-  <id>urn:rprimus:github:dannypsnl:code-analyzer</id>
-  <published>2021-05-31T05:18:00Z</published>
-  <updated>2021-05-31T05:18:00Z</updated>
-  <content type="html">
-   Racket code analysis
   </content>
  </entry>
 </feed>
