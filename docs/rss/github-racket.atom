@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-racket.atom"/>
 <id>urn:rprimus:github:newracketrepos</id>
-<updated>2021-06-02T22:49:57Z</updated>
+<updated>2021-06-04T03:50:15Z</updated>
 <title type='text'>New GitHub Racket Repos</title>
+ <entry>
+  <title>cowboyd: delimited-continuations-tutorial</title>
+  <author>
+   <name>cowboyd</name>
+  </author>
+  <link href="https://github.com/cowboyd/delimited-continuations-tutorial" />
+  <id>urn:rprimus:github:cowboyd:delimited-continuations-tutorial</id>
+  <published>2021-06-04T03:50:15Z</published>
+  <updated>2021-06-04T03:50:15Z</updated>
+  <content type="html">
+   Notes and Solutions for Delimited Continuations tutorial in scheme http://pllab.is.ocha.ac.jp/~asai/cw2011tutorial/
+  </content>
+ </entry>
+ <entry>
+  <title>FEM-Tech: parallel-token</title>
+  <author>
+   <name>FEM-Tech</name>
+  </author>
+  <link href="https://github.com/FEM-Tech/parallel-token" />
+  <id>urn:rprimus:github:FEM-Tech:parallel-token</id>
+  <published>2021-06-04T02:05:54Z</published>
+  <updated>2021-06-04T02:05:54Z</updated>
+  <content type="html">
+   ProgramaciÃ³n de token highlighter haciendo uso de futures.
+  </content>
+ </entry>
+ <entry>
+  <title>aullenverch130: little-schemer</title>
+  <author>
+   <name>aullenverch130</name>
+  </author>
+  <link href="https://github.com/aullenverch130/little-schemer" />
+  <id>urn:rprimus:github:aullenverch130:little-schemer</id>
+  <published>2021-06-03T20:40:46Z</published>
+  <updated>2021-06-03T20:40:46Z</updated>
+  <content type="html">
+   Going through the book &quot;The Little Schemer&quot; by Daniel P. Friedman and these are my notes as I work through the questions.. 
+  </content>
+ </entry>
+ <entry>
+  <title>kreachure: htdp</title>
+  <author>
+   <name>kreachure</name>
+  </author>
+  <link href="https://github.com/kreachure/htdp" />
+  <id>urn:rprimus:github:kreachure:htdp</id>
+  <published>2021-06-03T19:43:59Z</published>
+  <updated>2021-06-03T19:43:59Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>branneman: status-page</title>
+  <author>
+   <name>branneman</name>
+  </author>
+  <link href="https://github.com/branneman/status-page" />
+  <id>urn:rprimus:github:branneman:status-page</id>
+  <published>2021-06-03T12:19:00Z</published>
+  <updated>2021-06-03T12:19:00Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>talgoldberg: SOL-Racket</title>
+  <author>
+   <name>talgoldberg</name>
+  </author>
+  <link href="https://github.com/talgoldberg/SOL-Racket" />
+  <id>urn:rprimus:github:talgoldberg:SOL-Racket</id>
+  <published>2021-06-03T10:15:36Z</published>
+  <updated>2021-06-03T10:15:36Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>The-Hacker-Mike: primeNumbersWithFutures</title>
   <author>
@@ -93,84 +171,6 @@
   <updated>2021-06-02T02:21:16Z</updated>
   <content type="html">
    Leetcode solutions in racket.
-  </content>
- </entry>
- <entry>
-  <title>kirusha123: Fractal</title>
-  <author>
-   <name>kirusha123</name>
-  </author>
-  <link href="https://github.com/kirusha123/Fractal" />
-  <id>urn:rprimus:github:kirusha123:Fractal</id>
-  <published>2021-06-01T23:42:58Z</published>
-  <updated>2021-06-01T23:42:58Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>plane: infix-parse</title>
-  <author>
-   <name>plane</name>
-  </author>
-  <link href="https://github.com/plane/infix-parse" />
-  <id>urn:rprimus:github:plane:infix-parse</id>
-  <published>2021-06-01T23:01:47Z</published>
-  <updated>2021-06-01T23:01:47Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>themeliolabs: melodeon</title>
-  <author>
-   <name>themeliolabs</name>
-  </author>
-  <link href="https://github.com/themeliolabs/melodeon" />
-  <id>urn:rprimus:github:themeliolabs:melodeon</id>
-  <published>2021-06-01T22:34:19Z</published>
-  <updated>2021-06-01T22:34:19Z</updated>
-  <content type="html">
-   A strongly-typed, functional covenant language that compiles to MelVM
-  </content>
- </entry>
- <entry>
-  <title>Tohr01: a-star</title>
-  <author>
-   <name>Tohr01</name>
-  </author>
-  <link href="https://github.com/Tohr01/a-star" />
-  <id>urn:rprimus:github:Tohr01:a-star</id>
-  <published>2021-06-01T17:57:41Z</published>
-  <updated>2021-06-01T17:57:41Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>xgqt: collector2</title>
-  <author>
-   <name>xgqt</name>
-  </author>
-  <link href="https://github.com/xgqt/collector2" />
-  <id>urn:rprimus:github:xgqt:collector2</id>
-  <published>2021-06-01T06:52:08Z</published>
-  <updated>2021-06-01T06:52:08Z</updated>
-  <content type="html">
-   almost official mirror of https://gitlab.com/src_prepare/collector2
-  </content>
- </entry>
- <entry>
-  <title>thanhnguyen2187: sicp-notes</title>
-  <author>
-   <name>thanhnguyen2187</name>
-  </author>
-  <link href="https://github.com/thanhnguyen2187/sicp-notes" />
-  <id>urn:rprimus:github:thanhnguyen2187:sicp-notes</id>
-  <published>2021-06-01T04:22:18Z</published>
-  <updated>2021-06-01T04:22:18Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>

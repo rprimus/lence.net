@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-06-02T21:14:59Z</updated>
+<updated>2021-06-04T02:48:04Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>Jack-Ji: dotfiles</title>
+  <author>
+   <name>Jack-Ji</name>
+  </author>
+  <link href="https://github.com/Jack-Ji/dotfiles" />
+  <id>urn:rprimus:github:Jack-Ji:dotfiles</id>
+  <published>2021-06-04T02:48:04Z</published>
+  <updated>2021-06-04T02:48:04Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>markasoftware: cl-keyframes</title>
+  <author>
+   <name>markasoftware</name>
+  </author>
+  <link href="https://github.com/markasoftware/cl-keyframes" />
+  <id>urn:rprimus:github:markasoftware:cl-keyframes</id>
+  <published>2021-06-03T22:25:27Z</published>
+  <updated>2021-06-03T22:25:27Z</updated>
+  <content type="html">
+   Keyframe interpolation for common lisp.
+  </content>
+ </entry>
+ <entry>
+  <title>thomashoullier: bigint</title>
+  <author>
+   <name>thomashoullier</name>
+  </author>
+  <link href="https://github.com/thomashoullier/bigint" />
+  <id>urn:rprimus:github:thomashoullier:bigint</id>
+  <published>2021-06-03T16:25:38Z</published>
+  <updated>2021-06-03T16:25:38Z</updated>
+  <content type="html">
+   Arbitrary precision integers and arithmetic in Common Lisp.
+  </content>
+ </entry>
  <entry>
   <title>eko234: zender-sockets</title>
   <author>
@@ -66,7 +105,7 @@
   <published>2021-06-02T13:59:52Z</published>
   <updated>2021-06-02T13:59:52Z</updated>
   <content type="html">
-   A test repo
+   This system originally was written by Edi Weitz.
   </content>
  </entry>
  <entry>
@@ -93,97 +132,6 @@
   <updated>2021-06-02T07:13:18Z</updated>
   <content type="html">
    ç°å¢è¨­å®ãã¡ã¤ã«ãmdã¡ã¢ãä¿å­ãããªãã¸ããªã
-  </content>
- </entry>
- <entry>
-  <title>jakub-stastny: org-tools</title>
-  <author>
-   <name>jakub-stastny</name>
-  </author>
-  <link href="https://github.com/jakub-stastny/org-tools" />
-  <id>urn:rprimus:github:jakub-stastny:org-tools</id>
-  <published>2021-06-01T15:30:36Z</published>
-  <updated>2021-06-01T15:30:36Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>paulalcardoso: arquivosROSandadorDevel</title>
-  <author>
-   <name>paulalcardoso</name>
-  </author>
-  <link href="https://github.com/paulalcardoso/arquivosROSandadorDevel" />
-  <id>urn:rprimus:github:paulalcardoso:arquivosROSandadorDevel</id>
-  <published>2021-06-01T13:04:14Z</published>
-  <updated>2021-06-01T13:04:14Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jcguu95: cl-jin</title>
-  <author>
-   <name>jcguu95</name>
-  </author>
-  <link href="https://github.com/jcguu95/cl-jin" />
-  <id>urn:rprimus:github:jcguu95:cl-jin</id>
-  <published>2021-06-01T12:37:32Z</published>
-  <updated>2021-06-01T12:37:32Z</updated>
-  <content type="html">
-   Jin&#039;s script in common lisp.
-  </content>
- </entry>
- <entry>
-  <title>lisp-mirror: fruktorama</title>
-  <author>
-   <name>lisp-mirror</name>
-  </author>
-  <link href="https://github.com/lisp-mirror/fruktorama" />
-  <id>urn:rprimus:github:lisp-mirror:fruktorama</id>
-  <published>2021-06-01T12:34:30Z</published>
-  <updated>2021-06-01T12:34:30Z</updated>
-  <content type="html">
-   A retro game - https://bitbucket.org/ParasiteNetwork/fruktorama3-lisp-edition/
-  </content>
- </entry>
- <entry>
-  <title>smvamse: ocean</title>
-  <author>
-   <name>smvamse</name>
-  </author>
-  <link href="https://github.com/smvamse/ocean" />
-  <id>urn:rprimus:github:smvamse:ocean</id>
-  <published>2021-06-01T08:16:14Z</published>
-  <updated>2021-06-01T08:16:14Z</updated>
-  <content type="html">
-   Quickly whip up interfaces for your CommonLisp tools
-  </content>
- </entry>
- <entry>
-  <title>actuday6418: TicTacToe-in-lisp</title>
-  <author>
-   <name>actuday6418</name>
-  </author>
-  <link href="https://github.com/actuday6418/TicTacToe-in-lisp" />
-  <id>urn:rprimus:github:actuday6418:TicTacToe-in-lisp</id>
-  <published>2021-06-01T04:49:27Z</published>
-  <updated>2021-06-01T04:49:27Z</updated>
-  <content type="html">
-   Love it or hate it.
-  </content>
- </entry>
- <entry>
-  <title>allissonrey: mtable-lisp</title>
-  <author>
-   <name>allissonrey</name>
-  </author>
-  <link href="https://github.com/allissonrey/mtable-lisp" />
-  <id>urn:rprimus:github:allissonrey:mtable-lisp</id>
-  <published>2021-06-01T03:41:42Z</published>
-  <updated>2021-06-01T03:41:42Z</updated>
-  <content type="html">
-   two ways to do multiplication table&#039;s in Common Lisp  
   </content>
  </entry>
 </feed>
