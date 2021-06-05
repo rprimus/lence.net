@@ -2,8 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-racket.atom"/>
 <id>urn:rprimus:github:newracketrepos</id>
-<updated>2021-06-04T03:50:15Z</updated>
+<updated>2021-06-05T03:39:57Z</updated>
 <title type='text'>New GitHub Racket Repos</title>
+ <entry>
+  <title>didimelor: Syntax_highlighter_parallel</title>
+  <author>
+   <name>didimelor</name>
+  </author>
+  <link href="https://github.com/didimelor/Syntax_highlighter_parallel" />
+  <id>urn:rprimus:github:didimelor:Syntax_highlighter_parallel</id>
+  <published>2021-06-05T03:39:57Z</published>
+  <updated>2021-06-05T03:39:57Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>noellecrump2023: Magnemite-Amie</title>
+  <author>
+   <name>noellecrump2023</name>
+  </author>
+  <link href="https://github.com/noellecrump2023/Magnemite-Amie" />
+  <id>urn:rprimus:github:noellecrump2023:Magnemite-Amie</id>
+  <published>2021-06-04T20:43:49Z</published>
+  <updated>2021-06-04T20:43:49Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>romaness: cs61a</title>
+  <author>
+   <name>romaness</name>
+  </author>
+  <link href="https://github.com/romaness/cs61a" />
+  <id>urn:rprimus:github:romaness:cs61a</id>
+  <published>2021-06-04T19:54:00Z</published>
+  <updated>2021-06-04T19:54:00Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>bryanlikescode: Mastermind</title>
+  <author>
+   <name>bryanlikescode</name>
+  </author>
+  <link href="https://github.com/bryanlikescode/Mastermind" />
+  <id>urn:rprimus:github:bryanlikescode:Mastermind</id>
+  <published>2021-06-04T18:19:37Z</published>
+  <updated>2021-06-04T18:19:37Z</updated>
+  <content type="html">
+   Mastermind is a board game where one must guess the secret code. This application was developed in order to get a depeer understanding of the programming language Racket (AKA Scheme, Scala).
+  </content>
+ </entry>
+ <entry>
+  <title>Sepehr1812: NUMEX</title>
+  <author>
+   <name>Sepehr1812</name>
+  </author>
+  <link href="https://github.com/Sepehr1812/NUMEX" />
+  <id>urn:rprimus:github:Sepehr1812:NUMEX</id>
+  <published>2021-06-04T14:48:21Z</published>
+  <updated>2021-06-04T14:48:21Z</updated>
+  <content type="html">
+   Final project of Programming Languages course in CE department of Amirkabir University of Technology (Tehran Polytechnic) - Winter 2021.
+  </content>
+ </entry>
+ <entry>
+  <title>Hectarea1996: macro-help</title>
+  <author>
+   <name>Hectarea1996</name>
+  </author>
+  <link href="https://github.com/Hectarea1996/macro-help" />
+  <id>urn:rprimus:github:Hectarea1996:macro-help</id>
+  <published>2021-06-04T13:38:44Z</published>
+  <updated>2021-06-04T13:38:44Z</updated>
+  <content type="html">
+   Una baterÃ­a de macros que te facilitarÃ¡n la vida en Racket
+  </content>
+ </entry>
+ <entry>
+  <title>debdeb18: racket-simple-example</title>
+  <author>
+   <name>debdeb18</name>
+  </author>
+  <link href="https://github.com/debdeb18/racket-simple-example" />
+  <id>urn:rprimus:github:debdeb18:racket-simple-example</id>
+  <published>2021-06-04T12:08:41Z</published>
+  <updated>2021-06-04T12:08:41Z</updated>
+  <content type="html">
+   racket programming of a few simple programs
+  </content>
+ </entry>
  <entry>
   <title>cowboyd: delimited-continuations-tutorial</title>
   <author>
@@ -28,6 +119,19 @@
   <updated>2021-06-04T02:05:54Z</updated>
   <content type="html">
    ProgramaciÃ³n de token highlighter haciendo uso de futures.
+  </content>
+ </entry>
+ <entry>
+  <title>chrt: SICP-solution</title>
+  <author>
+   <name>chrt</name>
+  </author>
+  <link href="https://github.com/chrt/SICP-solution" />
+  <id>urn:rprimus:github:chrt:SICP-solution</id>
+  <published>2021-06-04T00:09:50Z</published>
+  <updated>2021-06-04T00:09:50Z</updated>
+  <content type="html">
+   My solution to the exercises in the book Structure and Interpretation of Computer Programs
   </content>
  </entry>
  <entry>
@@ -80,97 +184,6 @@
   <updated>2021-06-03T10:15:36Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>The-Hacker-Mike: primeNumbersWithFutures</title>
-  <author>
-   <name>The-Hacker-Mike</name>
-  </author>
-  <link href="https://github.com/The-Hacker-Mike/primeNumbersWithFutures" />
-  <id>urn:rprimus:github:The-Hacker-Mike:primeNumbersWithFutures</id>
-  <published>2021-06-02T22:49:57Z</published>
-  <updated>2021-06-02T22:49:57Z</updated>
-  <content type="html">
-   Process using Racket to take advantage of all the available cores of a computer to create Futures, divide tasks and sum all the prime numbers from a given range. The file has both the iterative and parallel program.
-  </content>
- </entry>
- <entry>
-  <title>Saber-Kurama: sicp-learn</title>
-  <author>
-   <name>Saber-Kurama</name>
-  </author>
-  <link href="https://github.com/Saber-Kurama/sicp-learn" />
-  <id>urn:rprimus:github:Saber-Kurama:sicp-learn</id>
-  <published>2021-06-02T13:18:39Z</published>
-  <updated>2021-06-02T13:18:39Z</updated>
-  <content type="html">
-   å­¦ä¹  sicp
-  </content>
- </entry>
- <entry>
-  <title>RebeccaMartinho: racket-login</title>
-  <author>
-   <name>RebeccaMartinho</name>
-  </author>
-  <link href="https://github.com/RebeccaMartinho/racket-login" />
-  <id>urn:rprimus:github:RebeccaMartinho:racket-login</id>
-  <published>2021-06-02T13:07:48Z</published>
-  <updated>2021-06-02T13:07:48Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>myernazar: sicp</title>
-  <author>
-   <name>myernazar</name>
-  </author>
-  <link href="https://github.com/myernazar/sicp" />
-  <id>urn:rprimus:github:myernazar:sicp</id>
-  <published>2021-06-02T10:34:49Z</published>
-  <updated>2021-06-02T10:34:49Z</updated>
-  <content type="html">
-   My Journey to SICP book
-  </content>
- </entry>
- <entry>
-  <title>octplane: github-gitlab-racket</title>
-  <author>
-   <name>octplane</name>
-  </author>
-  <link href="https://github.com/octplane/github-gitlab-racket" />
-  <id>urn:rprimus:github:octplane:github-gitlab-racket</id>
-  <published>2021-06-02T09:52:23Z</published>
-  <updated>2021-06-02T09:52:23Z</updated>
-  <content type="html">
-   Set of tools to discuss with github/gitlab
-  </content>
- </entry>
- <entry>
-  <title>nakujaproject: airframeN2_openrocket</title>
-  <author>
-   <name>nakujaproject</name>
-  </author>
-  <link href="https://github.com/nakujaproject/airframeN2_openrocket" />
-  <id>urn:rprimus:github:nakujaproject:airframeN2_openrocket</id>
-  <published>2021-06-02T08:07:53Z</published>
-  <updated>2021-06-02T08:07:53Z</updated>
-  <content type="html">
-   This is airframe N2 openrocket design and simulation.
-  </content>
- </entry>
- <entry>
-  <title>s-cerevisiae: leetcode-racket</title>
-  <author>
-   <name>s-cerevisiae</name>
-  </author>
-  <link href="https://github.com/s-cerevisiae/leetcode-racket" />
-  <id>urn:rprimus:github:s-cerevisiae:leetcode-racket</id>
-  <published>2021-06-02T02:21:16Z</published>
-  <updated>2021-06-02T02:21:16Z</updated>
-  <content type="html">
-   Leetcode solutions in racket.
   </content>
  </entry>
 </feed>
