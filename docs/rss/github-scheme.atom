@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-scheme.atom"/>
 <id>urn:rprimus:github:newschemerepos</id>
-<updated>2021-06-07T01:55:38Z</updated>
+<updated>2021-06-07T21:30:21Z</updated>
 <title type='text'>New GitHub Scheme Repos</title>
+ <entry>
+  <title>ddhh83: guix-configs</title>
+  <author>
+   <name>ddhh83</name>
+  </author>
+  <link href="https://github.com/ddhh83/guix-configs" />
+  <id>urn:rprimus:github:ddhh83:guix-configs</id>
+  <published>2021-06-07T21:30:21Z</published>
+  <updated>2021-06-07T21:30:21Z</updated>
+  <content type="html">
+   some experimental GNU Guix configurations
+  </content>
+ </entry>
+ <entry>
+  <title>lassik: nada</title>
+  <author>
+   <name>lassik</name>
+  </author>
+  <link href="https://github.com/lassik/nada" />
+  <id>urn:rprimus:github:lassik:nada</id>
+  <published>2021-06-07T14:40:35Z</published>
+  <updated>2021-06-07T14:40:35Z</updated>
+  <content type="html">
+   Toy Nix in Scheme
+  </content>
+ </entry>
+ <entry>
+  <title>epeec: JACC</title>
+  <author>
+   <name>epeec</name>
+  </author>
+  <link href="https://github.com/epeec/JACC" />
+  <id>urn:rprimus:github:epeec:JACC</id>
+  <published>2021-06-07T11:41:28Z</published>
+  <updated>2021-06-07T11:41:28Z</updated>
+  <content type="html">
+   JACC is a Just In Time (JIT) OpenACC framework in which pragma directives are replaced with runtime routines, allowing further analysis and optimization possibilities at runtime compared to at compile time for the OpenACC programming model.  
+  </content>
+ </entry>
  <entry>
   <title>Latedog: UCLA-CS-131</title>
   <author>
@@ -93,58 +132,6 @@
   <updated>2021-06-06T01:14:03Z</updated>
   <content type="html">
    A local salt environment
-  </content>
- </entry>
- <entry>
-  <title>mbcladwell: dncoder</title>
-  <author>
-   <name>mbcladwell</name>
-  </author>
-  <link href="https://github.com/mbcladwell/dncoder" />
-  <id>urn:rprimus:github:mbcladwell:dncoder</id>
-  <published>2021-06-05T12:02:10Z</published>
-  <updated>2021-06-05T12:02:10Z</updated>
-  <content type="html">
-   Convert data to DNA
-  </content>
- </entry>
- <entry>
-  <title>nagaavinashguntur: Emerald-API</title>
-  <author>
-   <name>nagaavinashguntur</name>
-  </author>
-  <link href="https://github.com/nagaavinashguntur/Emerald-API" />
-  <id>urn:rprimus:github:nagaavinashguntur:Emerald-API</id>
-  <published>2021-06-05T11:31:29Z</published>
-  <updated>2021-06-05T11:31:29Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>8stapler: InterpreterProject</title>
-  <author>
-   <name>8stapler</name>
-  </author>
-  <link href="https://github.com/8stapler/InterpreterProject" />
-  <id>urn:rprimus:github:8stapler:InterpreterProject</id>
-  <published>2021-06-05T04:30:52Z</published>
-  <updated>2021-06-05T04:30:52Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>danpmch: guix-packages</title>
-  <author>
-   <name>danpmch</name>
-  </author>
-  <link href="https://github.com/danpmch/guix-packages" />
-  <id>urn:rprimus:github:danpmch:guix-packages</id>
-  <published>2021-06-05T00:49:49Z</published>
-  <updated>2021-06-05T00:49:49Z</updated>
-  <content type="html">
-   Custom package definitions for the GNU Guix package manager
   </content>
  </entry>
 </feed>
