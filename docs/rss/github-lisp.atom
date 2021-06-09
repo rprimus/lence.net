@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-06-07T20:33:55Z</updated>
+<updated>2021-06-08T20:43:29Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>thomashoullier: biguint</title>
+  <author>
+   <name>thomashoullier</name>
+  </author>
+  <link href="https://github.com/thomashoullier/biguint" />
+  <id>urn:rprimus:github:thomashoullier:biguint</id>
+  <published>2021-06-08T20:43:29Z</published>
+  <updated>2021-06-08T20:43:29Z</updated>
+  <content type="html">
+   Arbitrary precision unsigned integer class.
+  </content>
+ </entry>
+ <entry>
+  <title>thomashoullier: arbprec</title>
+  <author>
+   <name>thomashoullier</name>
+  </author>
+  <link href="https://github.com/thomashoullier/arbprec" />
+  <id>urn:rprimus:github:thomashoullier:arbprec</id>
+  <published>2021-06-08T20:29:34Z</published>
+  <updated>2021-06-08T20:29:34Z</updated>
+  <content type="html">
+   Arbitrary precision arithmetic core objects and operations.
+  </content>
+ </entry>
+ <entry>
+  <title>yitzchak: tree-clj</title>
+  <author>
+   <name>yitzchak</name>
+  </author>
+  <link href="https://github.com/yitzchak/tree-clj" />
+  <id>urn:rprimus:github:yitzchak:tree-clj</id>
+  <published>2021-06-08T20:16:51Z</published>
+  <updated>2021-06-08T20:16:51Z</updated>
+  <content type="html">
+   common-lisp-jupyter binding for ipytree
+  </content>
+ </entry>
+ <entry>
+  <title>K1D77A: cl-coinpayments</title>
+  <author>
+   <name>K1D77A</name>
+  </author>
+  <link href="https://github.com/K1D77A/cl-coinpayments" />
+  <id>urn:rprimus:github:K1D77A:cl-coinpayments</id>
+  <published>2021-06-08T15:14:30Z</published>
+  <updated>2021-06-08T15:14:30Z</updated>
+  <content type="html">
+   Helpers for Coinpayments.net
+  </content>
+ </entry>
+ <entry>
+  <title>atlas-engineer: ospm</title>
+  <author>
+   <name>atlas-engineer</name>
+  </author>
+  <link href="https://github.com/atlas-engineer/ospm" />
+  <id>urn:rprimus:github:atlas-engineer:ospm</id>
+  <published>2021-06-08T10:16:48Z</published>
+  <updated>2021-06-08T10:16:48Z</updated>
+  <content type="html">
+   OS package manager interface
+  </content>
+ </entry>
  <entry>
   <title>sebasmonia: boto3-wrapper</title>
   <author>
@@ -54,136 +119,6 @@
   <updated>2021-06-07T05:53:30Z</updated>
   <content type="html">
    Me exploring SICP with the examples rewritten on common lisp.
-  </content>
- </entry>
- <entry>
-  <title>cooperbaird: lisp-compound-interest</title>
-  <author>
-   <name>cooperbaird</name>
-  </author>
-  <link href="https://github.com/cooperbaird/lisp-compound-interest" />
-  <id>urn:rprimus:github:cooperbaird:lisp-compound-interest</id>
-  <published>2021-06-06T18:38:13Z</published>
-  <updated>2021-06-06T18:38:13Z</updated>
-  <content type="html">
-   Common Lisp compound interest calculator
-  </content>
- </entry>
- <entry>
-  <title>val314159: vfbc</title>
-  <author>
-   <name>val314159</name>
-  </author>
-  <link href="https://github.com/val314159/vfbc" />
-  <id>urn:rprimus:github:val314159:vfbc</id>
-  <published>2021-06-06T18:24:48Z</published>
-  <updated>2021-06-06T18:24:48Z</updated>
-  <content type="html">
-   val&#039;s fun blockchain
-  </content>
- </entry>
- <entry>
-  <title>weiliang1503: lay</title>
-  <author>
-   <name>weiliang1503</name>
-  </author>
-  <link href="https://github.com/weiliang1503/lay" />
-  <id>urn:rprimus:github:weiliang1503:lay</id>
-  <published>2021-06-06T17:59:31Z</published>
-  <updated>2021-06-06T17:59:31Z</updated>
-  <content type="html">
-   Lisp another yogurt
-  </content>
- </entry>
- <entry>
-  <title>bstruthers: practical-common-lisp</title>
-  <author>
-   <name>bstruthers</name>
-  </author>
-  <link href="https://github.com/bstruthers/practical-common-lisp" />
-  <id>urn:rprimus:github:bstruthers:practical-common-lisp</id>
-  <published>2021-06-06T17:02:28Z</published>
-  <updated>2021-06-06T17:02:28Z</updated>
-  <content type="html">
-   Reading / working through &quot;Practical Common Lisp&quot; by Peter Seibel
-  </content>
- </entry>
- <entry>
-  <title>VigilBushido: CLISP</title>
-  <author>
-   <name>VigilBushido</name>
-  </author>
-  <link href="https://github.com/VigilBushido/CLISP" />
-  <id>urn:rprimus:github:VigilBushido:CLISP</id>
-  <published>2021-06-06T15:46:57Z</published>
-  <updated>2021-06-06T15:46:57Z</updated>
-  <content type="html">
-   schedule
-  </content>
- </entry>
- <entry>
-  <title>lsd-mirror: cl-base64</title>
-  <author>
-   <name>lsd-mirror</name>
-  </author>
-  <link href="https://github.com/lsd-mirror/cl-base64" />
-  <id>urn:rprimus:github:lsd-mirror:cl-base64</id>
-  <published>2021-06-06T15:12:48Z</published>
-  <updated>2021-06-06T15:12:48Z</updated>
-  <content type="html">
-   Mirror of http://git.kpe.io/?p=cl-base64.git;a=summary
-  </content>
- </entry>
- <entry>
-  <title>zhuohongwei: cl-json-path</title>
-  <author>
-   <name>zhuohongwei</name>
-  </author>
-  <link href="https://github.com/zhuohongwei/cl-json-path" />
-  <id>urn:rprimus:github:zhuohongwei:cl-json-path</id>
-  <published>2021-06-06T12:52:48Z</published>
-  <updated>2021-06-06T12:52:48Z</updated>
-  <content type="html">
-   A small utility to make extracting values from nested JSON easier.
-  </content>
- </entry>
- <entry>
-  <title>em7: cl-morse</title>
-  <author>
-   <name>em7</name>
-  </author>
-  <link href="https://github.com/em7/cl-morse" />
-  <id>urn:rprimus:github:em7:cl-morse</id>
-  <published>2021-06-06T12:33:29Z</published>
-  <updated>2021-06-06T12:33:29Z</updated>
-  <content type="html">
-   Morse code translation app/lib written in Common Lisp.
-  </content>
- </entry>
- <entry>
-  <title>alpha-abc: cl-kits</title>
-  <author>
-   <name>alpha-abc</name>
-  </author>
-  <link href="https://github.com/alpha-abc/cl-kits" />
-  <id>urn:rprimus:github:alpha-abc:cl-kits</id>
-  <published>2021-06-06T07:53:02Z</published>
-  <updated>2021-06-06T07:53:02Z</updated>
-  <content type="html">
-   common lisp kits
-  </content>
- </entry>
- <entry>
-  <title>ChristopherSegale: paren-matcher</title>
-  <author>
-   <name>ChristopherSegale</name>
-  </author>
-  <link href="https://github.com/ChristopherSegale/paren-matcher" />
-  <id>urn:rprimus:github:ChristopherSegale:paren-matcher</id>
-  <published>2021-06-06T04:08:23Z</published>
-  <updated>2021-06-06T04:08:23Z</updated>
-  <content type="html">
-   A tool for Acme users to balance their parentheses when writing programs
   </content>
  </entry>
 </feed>
