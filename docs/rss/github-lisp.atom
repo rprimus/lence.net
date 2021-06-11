@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-06-09T20:58:39Z</updated>
+<updated>2021-06-11T03:58:31Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>charJe: cache-while</title>
+  <author>
+   <name>charJe</name>
+  </author>
+  <link href="https://github.com/charJe/cache-while" />
+  <id>urn:rprimus:github:charJe:cache-while</id>
+  <published>2021-06-11T03:58:31Z</published>
+  <updated>2021-06-11T03:58:31Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>marcus3santos: orgmode-slides-filter</title>
+  <author>
+   <name>marcus3santos</name>
+  </author>
+  <link href="https://github.com/marcus3santos/orgmode-slides-filter" />
+  <id>urn:rprimus:github:marcus3santos:orgmode-slides-filter</id>
+  <published>2021-06-11T02:25:41Z</published>
+  <updated>2021-06-11T02:25:41Z</updated>
+  <content type="html">
+   Filters slides containing in-class exercises solutions and quizzes
+  </content>
+ </entry>
+ <entry>
+  <title>RyanBurnside: segments</title>
+  <author>
+   <name>RyanBurnside</name>
+  </author>
+  <link href="https://github.com/RyanBurnside/segments" />
+  <id>urn:rprimus:github:RyanBurnside:segments</id>
+  <published>2021-06-10T22:43:33Z</published>
+  <updated>2021-06-10T22:43:33Z</updated>
+  <content type="html">
+   Exploration of segmented battle ships 
+  </content>
+ </entry>
+ <entry>
+  <title>borodust: alien-works-pc-runtime</title>
+  <author>
+   <name>borodust</name>
+  </author>
+  <link href="https://github.com/borodust/alien-works-pc-runtime" />
+  <id>urn:rprimus:github:borodust:alien-works-pc-runtime</id>
+  <published>2021-06-10T20:07:19Z</published>
+  <updated>2021-06-10T20:07:19Z</updated>
+  <content type="html">
+   Blobs for alien-works on PC platforms 
+  </content>
+ </entry>
+ <entry>
+  <title>DurhamSmith: dorg</title>
+  <author>
+   <name>DurhamSmith</name>
+  </author>
+  <link href="https://github.com/DurhamSmith/dorg" />
+  <id>urn:rprimus:github:DurhamSmith:dorg</id>
+  <published>2021-06-10T19:43:31Z</published>
+  <updated>2021-06-10T19:43:31Z</updated>
+  <content type="html">
+   Documentation generator for Common Lisp -&gt; .org files
+  </content>
+ </entry>
+ <entry>
+  <title>g000001: zrbacklog</title>
+  <author>
+   <name>g000001</name>
+  </author>
+  <link href="https://github.com/g000001/zrbacklog" />
+  <id>urn:rprimus:github:g000001:zrbacklog</id>
+  <published>2021-06-10T15:42:19Z</published>
+  <updated>2021-06-10T15:42:19Z</updated>
+  <content type="html">
+   Zillion Random Common Lisp Backlog API Client
+  </content>
+ </entry>
  <entry>
   <title>Anirudh1149: Content_theory</title>
   <author>
@@ -57,68 +135,16 @@
   </content>
  </entry>
  <entry>
-  <title>thomashoullier: biguint</title>
+  <title>chip2n: cl-lox</title>
   <author>
-   <name>thomashoullier</name>
+   <name>chip2n</name>
   </author>
-  <link href="https://github.com/thomashoullier/biguint" />
-  <id>urn:rprimus:github:thomashoullier:biguint</id>
-  <published>2021-06-08T20:43:29Z</published>
-  <updated>2021-06-08T20:43:29Z</updated>
+  <link href="https://github.com/chip2n/cl-lox" />
+  <id>urn:rprimus:github:chip2n:cl-lox</id>
+  <published>2021-06-09T05:44:08Z</published>
+  <updated>2021-06-09T05:44:08Z</updated>
   <content type="html">
-   Arbitrary precision unsigned integer class.
-  </content>
- </entry>
- <entry>
-  <title>thomashoullier: arbprec</title>
-  <author>
-   <name>thomashoullier</name>
-  </author>
-  <link href="https://github.com/thomashoullier/arbprec" />
-  <id>urn:rprimus:github:thomashoullier:arbprec</id>
-  <published>2021-06-08T20:29:34Z</published>
-  <updated>2021-06-08T20:29:34Z</updated>
-  <content type="html">
-   Arbitrary precision arithmetic core objects and operations.
-  </content>
- </entry>
- <entry>
-  <title>yitzchak: tree-clj</title>
-  <author>
-   <name>yitzchak</name>
-  </author>
-  <link href="https://github.com/yitzchak/tree-clj" />
-  <id>urn:rprimus:github:yitzchak:tree-clj</id>
-  <published>2021-06-08T20:16:51Z</published>
-  <updated>2021-06-08T20:16:51Z</updated>
-  <content type="html">
-   common-lisp-jupyter binding for ipytree
-  </content>
- </entry>
- <entry>
-  <title>K1D77A: cl-coinpayments</title>
-  <author>
-   <name>K1D77A</name>
-  </author>
-  <link href="https://github.com/K1D77A/cl-coinpayments" />
-  <id>urn:rprimus:github:K1D77A:cl-coinpayments</id>
-  <published>2021-06-08T15:14:30Z</published>
-  <updated>2021-06-08T15:14:30Z</updated>
-  <content type="html">
-   Helpers for Coinpayments.net
-  </content>
- </entry>
- <entry>
-  <title>atlas-engineer: ospm</title>
-  <author>
-   <name>atlas-engineer</name>
-  </author>
-  <link href="https://github.com/atlas-engineer/ospm" />
-  <id>urn:rprimus:github:atlas-engineer:ospm</id>
-  <published>2021-06-08T10:16:48Z</published>
-  <updated>2021-06-08T10:16:48Z</updated>
-  <content type="html">
-   OS package manager interface
+   Common Lisp implementation of the Lox language
   </content>
  </entry>
 </feed>
