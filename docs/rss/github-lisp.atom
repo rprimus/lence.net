@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-06-12T07:38:19Z</updated>
+<updated>2021-06-12T20:33:31Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>rtkpuri321: LISP-Practice</title>
+  <author>
+   <name>rtkpuri321</name>
+  </author>
+  <link href="https://github.com/rtkpuri321/LISP-Practice" />
+  <id>urn:rprimus:github:rtkpuri321:LISP-Practice</id>
+  <published>2021-06-12T20:33:31Z</published>
+  <updated>2021-06-12T20:33:31Z</updated>
+  <content type="html">
+   Practice of LISP programming.
+  </content>
+ </entry>
+ <entry>
+  <title>Andriy0: dotfiles</title>
+  <author>
+   <name>Andriy0</name>
+  </author>
+  <link href="https://github.com/Andriy0/dotfiles" />
+  <id>urn:rprimus:github:Andriy0:dotfiles</id>
+  <published>2021-06-12T19:51:30Z</published>
+  <updated>2021-06-12T19:51:30Z</updated>
+  <content type="html">
+   This is my another attempt of creating dotfiles repo. Managed by GNU Stow.
+  </content>
+ </entry>
+ <entry>
+  <title>CirrusClouds: cl_roguelike</title>
+  <author>
+   <name>CirrusClouds</name>
+  </author>
+  <link href="https://github.com/CirrusClouds/cl_roguelike" />
+  <id>urn:rprimus:github:CirrusClouds:cl_roguelike</id>
+  <published>2021-06-12T19:04:00Z</published>
+  <updated>2021-06-12T19:04:00Z</updated>
+  <content type="html">
+   Common lisp roguelike based on cl-blt and cl-rltut
+  </content>
+ </entry>
+ <entry>
+  <title>tfeb: tfeb-lisp-toys</title>
+  <author>
+   <name>tfeb</name>
+  </author>
+  <link href="https://github.com/tfeb/tfeb-lisp-toys" />
+  <id>urn:rprimus:github:tfeb:tfeb-lisp-toys</id>
+  <published>2021-06-12T15:52:23Z</published>
+  <updated>2021-06-12T15:52:23Z</updated>
+  <content type="html">
+   TFEB.ORG Lisp toys
+  </content>
+ </entry>
+ <entry>
+  <title>sabracrolleton: clunit2-uax-15</title>
+  <author>
+   <name>sabracrolleton</name>
+  </author>
+  <link href="https://github.com/sabracrolleton/clunit2-uax-15" />
+  <id>urn:rprimus:github:sabracrolleton:clunit2-uax-15</id>
+  <published>2021-06-12T15:46:44Z</published>
+  <updated>2021-06-12T15:46:44Z</updated>
+  <content type="html">
+   Trying to find the slow spots in how clunit2 runs the uax-15 tests
+  </content>
+ </entry>
+ <entry>
+  <title>borodust: claw</title>
+  <author>
+   <name>borodust</name>
+  </author>
+  <link href="https://github.com/borodust/claw" />
+  <id>urn:rprimus:github:borodust:claw</id>
+  <published>2021-06-12T14:27:02Z</published>
+  <updated>2021-06-12T14:27:02Z</updated>
+  <content type="html">
+   Common Lisp autowrapping facility for C and C++ libraries
+  </content>
+ </entry>
  <entry>
   <title>xayon40-12: someLispCodes</title>
   <author>
@@ -93,71 +171,6 @@
   <updated>2021-06-11T02:25:41Z</updated>
   <content type="html">
    Filters slides containing in-class exercises solutions and quizzes
-  </content>
- </entry>
- <entry>
-  <title>RyanBurnside: segments</title>
-  <author>
-   <name>RyanBurnside</name>
-  </author>
-  <link href="https://github.com/RyanBurnside/segments" />
-  <id>urn:rprimus:github:RyanBurnside:segments</id>
-  <published>2021-06-10T22:43:33Z</published>
-  <updated>2021-06-10T22:43:33Z</updated>
-  <content type="html">
-   Exploration of segmented battle ships 
-  </content>
- </entry>
- <entry>
-  <title>borodust: alien-works-pc-runtime</title>
-  <author>
-   <name>borodust</name>
-  </author>
-  <link href="https://github.com/borodust/alien-works-pc-runtime" />
-  <id>urn:rprimus:github:borodust:alien-works-pc-runtime</id>
-  <published>2021-06-10T20:07:19Z</published>
-  <updated>2021-06-10T20:07:19Z</updated>
-  <content type="html">
-   Blobs for alien-works on PC platforms 
-  </content>
- </entry>
- <entry>
-  <title>DurhamSmith: dorg</title>
-  <author>
-   <name>DurhamSmith</name>
-  </author>
-  <link href="https://github.com/DurhamSmith/dorg" />
-  <id>urn:rprimus:github:DurhamSmith:dorg</id>
-  <published>2021-06-10T19:43:31Z</published>
-  <updated>2021-06-10T19:43:31Z</updated>
-  <content type="html">
-   Documentation generator for Common Lisp -&gt; .org files
-  </content>
- </entry>
- <entry>
-  <title>g000001: zrbacklog</title>
-  <author>
-   <name>g000001</name>
-  </author>
-  <link href="https://github.com/g000001/zrbacklog" />
-  <id>urn:rprimus:github:g000001:zrbacklog</id>
-  <published>2021-06-10T15:42:19Z</published>
-  <updated>2021-06-10T15:42:19Z</updated>
-  <content type="html">
-   Zillion Random Common Lisp Backlog API Client
-  </content>
- </entry>
- <entry>
-  <title>tkmtnt7000: tsukamoto_kinova</title>
-  <author>
-   <name>tkmtnt7000</name>
-  </author>
-  <link href="https://github.com/tkmtnt7000/tsukamoto_kinova" />
-  <id>urn:rprimus:github:tkmtnt7000:tsukamoto_kinova</id>
-  <published>2021-06-10T01:57:56Z</published>
-  <updated>2021-06-10T01:57:56Z</updated>
-  <content type="html">
-   This repository is used to test kinova robot
   </content>
  </entry>
 </feed>

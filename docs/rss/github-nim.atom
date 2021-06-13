@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2021-06-12T06:15:27Z</updated>
+<updated>2021-06-13T03:40:36Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>Glasses-Neo: CoffeeCounter</title>
+  <author>
+   <name>Glasses-Neo</name>
+  </author>
+  <link href="https://github.com/Glasses-Neo/CoffeeCounter" />
+  <id>urn:rprimus:github:Glasses-Neo:CoffeeCounter</id>
+  <published>2021-06-13T03:40:36Z</published>
+  <updated>2021-06-13T03:40:36Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>canelhasmateus: nimbleMonkey</title>
+  <author>
+   <name>canelhasmateus</name>
+  </author>
+  <link href="https://github.com/canelhasmateus/nimbleMonkey" />
+  <id>urn:rprimus:github:canelhasmateus:nimbleMonkey</id>
+  <published>2021-06-13T02:48:13Z</published>
+  <updated>2021-06-13T02:48:13Z</updated>
+  <content type="html">
+   from the book &quot;Write your compiler in go&quot;, but its actually nim.
+  </content>
+ </entry>
+ <entry>
+  <title>floscr: rofi_org_bookmarks</title>
+  <author>
+   <name>floscr</name>
+  </author>
+  <link href="https://github.com/floscr/rofi_org_bookmarks" />
+  <id>urn:rprimus:github:floscr:rofi_org_bookmarks</id>
+  <published>2021-06-12T19:53:00Z</published>
+  <updated>2021-06-12T19:53:00Z</updated>
+  <content type="html">
+   Search bookmarks in org mode files with rofi
+  </content>
+ </entry>
+ <entry>
+  <title>elmjag: cnda</title>
+  <author>
+   <name>elmjag</name>
+  </author>
+  <link href="https://github.com/elmjag/cnda" />
+  <id>urn:rprimus:github:elmjag:cnda</id>
+  <published>2021-06-12T10:49:26Z</published>
+  <updated>2021-06-12T10:49:26Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>Dot32IsCool: nim-finding-factors</title>
   <author>
@@ -14,7 +66,7 @@
   <published>2021-06-12T06:15:27Z</published>
   <updated>2021-06-12T06:15:27Z</updated>
   <content type="html">
-   This project is something i like to create in every new language that i learn, the latest of which is nim!
+   brute force finding every factor for a given number, written in Nim.
   </content>
  </entry>
  <entry>
@@ -79,7 +131,7 @@
   <published>2021-06-11T19:03:39Z</published>
   <updated>2021-06-11T19:03:39Z</updated>
   <content type="html">
-   
+   nimble fork, handle requires in task
   </content>
  </entry>
  <entry>
@@ -96,66 +148,14 @@
   </content>
  </entry>
  <entry>
-  <title>ayman-albaz: statistical-tests</title>
+  <title>bbo51dog: BboLang</title>
   <author>
-   <name>ayman-albaz</name>
+   <name>bbo51dog</name>
   </author>
-  <link href="https://github.com/ayman-albaz/statistical-tests" />
-  <id>urn:rprimus:github:ayman-albaz:statistical-tests</id>
-  <published>2021-06-10T21:22:33Z</published>
-  <updated>2021-06-10T21:22:33Z</updated>
-  <content type="html">
-   Statistical tests in Nim.
-  </content>
- </entry>
- <entry>
-  <title>disruptek: supervisors</title>
-  <author>
-   <name>disruptek</name>
-  </author>
-  <link href="https://github.com/disruptek/supervisors" />
-  <id>urn:rprimus:github:disruptek:supervisors</id>
-  <published>2021-06-10T19:30:50Z</published>
-  <updated>2021-06-10T19:30:50Z</updated>
-  <content type="html">
-   hot dispatcher-on-dispatcher action ð¦¸
-  </content>
- </entry>
- <entry>
-  <title>bunkford: advent_of_code_2016</title>
-  <author>
-   <name>bunkford</name>
-  </author>
-  <link href="https://github.com/bunkford/advent_of_code_2016" />
-  <id>urn:rprimus:github:bunkford:advent_of_code_2016</id>
-  <published>2021-06-10T11:42:44Z</published>
-  <updated>2021-06-10T11:42:44Z</updated>
-  <content type="html">
-   Advent of Code 2016
-  </content>
- </entry>
- <entry>
-  <title>ThePyProgrammer: TheNimProgrammer</title>
-  <author>
-   <name>ThePyProgrammer</name>
-  </author>
-  <link href="https://github.com/ThePyProgrammer/TheNimProgrammer" />
-  <id>urn:rprimus:github:ThePyProgrammer:TheNimProgrammer</id>
-  <published>2021-06-10T05:29:12Z</published>
-  <updated>2021-06-10T05:29:12Z</updated>
-  <content type="html">
-   Learn Nim too. Similar to C#, Java or C++.
-  </content>
- </entry>
- <entry>
-  <title>rinfz: guirg</title>
-  <author>
-   <name>rinfz</name>
-  </author>
-  <link href="https://github.com/rinfz/guirg" />
-  <id>urn:rprimus:github:rinfz:guirg</id>
-  <published>2021-06-10T01:09:27Z</published>
-  <updated>2021-06-10T01:09:27Z</updated>
+  <link href="https://github.com/bbo51dog/BboLang" />
+  <id>urn:rprimus:github:bbo51dog:BboLang</id>
+  <published>2021-06-11T15:12:04Z</published>
+  <updated>2021-06-11T15:12:04Z</updated>
   <content type="html">
    
   </content>
