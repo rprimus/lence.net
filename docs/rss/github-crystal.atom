@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2021-06-13T16:04:29Z</updated>
+<updated>2021-06-14T15:20:44Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>henrikac: sudoku-solver</title>
+  <author>
+   <name>henrikac</name>
+  </author>
+  <link href="https://github.com/henrikac/sudoku-solver" />
+  <id>urn:rprimus:github:henrikac:sudoku-solver</id>
+  <published>2021-06-14T15:20:44Z</published>
+  <updated>2021-06-14T15:20:44Z</updated>
+  <content type="html">
+   An easy-to-use sudoku solver
+  </content>
+ </entry>
  <entry>
   <title>LouiviS: Cat</title>
   <author>
@@ -41,71 +54,6 @@
   <updated>2021-06-13T02:17:21Z</updated>
   <content type="html">
    some code to transmit 24fps video over telnet, using ANSI escape codes and unicode trickery
-  </content>
- </entry>
- <entry>
-  <title>didactic-drunk: crypto-secret.cr</title>
-  <author>
-   <name>didactic-drunk</name>
-  </author>
-  <link href="https://github.com/didactic-drunk/crypto-secret.cr" />
-  <id>urn:rprimus:github:didactic-drunk:crypto-secret.cr</id>
-  <published>2021-06-12T23:20:57Z</published>
-  <updated>2021-06-12T23:20:57Z</updated>
-  <content type="html">
-   WIP Interface for holding sensitive information
-  </content>
- </entry>
- <entry>
-  <title>drhuffman12: smcr</title>
-  <author>
-   <name>drhuffman12</name>
-  </author>
-  <link href="https://github.com/drhuffman12/smcr" />
-  <id>urn:rprimus:github:drhuffman12:smcr</id>
-  <published>2021-06-12T23:08:39Z</published>
-  <updated>2021-06-12T23:08:39Z</updated>
-  <content type="html">
-   State Machine for Crystal
-  </content>
- </entry>
- <entry>
-  <title>astellon: portaudio-cr</title>
-  <author>
-   <name>astellon</name>
-  </author>
-  <link href="https://github.com/astellon/portaudio-cr" />
-  <id>urn:rprimus:github:astellon:portaudio-cr</id>
-  <published>2021-06-12T04:19:48Z</published>
-  <updated>2021-06-12T04:19:48Z</updated>
-  <content type="html">
-   PortAudio bindings for Crystal.
-  </content>
- </entry>
- <entry>
-  <title>alisww: blases-over-telnet</title>
-  <author>
-   <name>alisww</name>
-  </author>
-  <link href="https://github.com/alisww/blases-over-telnet" />
-  <id>urn:rprimus:github:alisww:blases-over-telnet</id>
-  <published>2021-06-12T04:00:25Z</published>
-  <updated>2021-06-12T04:00:25Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>crystal-posix: mmap.cr</title>
-  <author>
-   <name>crystal-posix</name>
-  </author>
-  <link href="https://github.com/crystal-posix/mmap.cr" />
-  <id>urn:rprimus:github:crystal-posix:mmap.cr</id>
-  <published>2021-06-12T00:18:31Z</published>
-  <updated>2021-06-12T00:18:31Z</updated>
-  <content type="html">
-   mmap() madvise() mlock() msync() bindings for Crystal
   </content>
  </entry>
 </feed>
