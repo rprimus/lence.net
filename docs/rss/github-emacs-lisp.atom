@@ -2,8 +2,125 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2021-06-16T08:24:30Z</updated>
+<updated>2021-06-16T20:10:36Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>ArtemSmaznov: Doom-emacs</title>
+  <author>
+   <name>ArtemSmaznov</name>
+  </author>
+  <link href="https://github.com/ArtemSmaznov/Doom-emacs" />
+  <id>urn:rprimus:github:ArtemSmaznov:Doom-emacs</id>
+  <published>2021-06-16T20:10:36Z</published>
+  <updated>2021-06-16T20:10:36Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>arumoy-shome: aocp.el</title>
+  <author>
+   <name>arumoy-shome</name>
+  </author>
+  <link href="https://github.com/arumoy-shome/aocp.el" />
+  <id>urn:rprimus:github:arumoy-shome:aocp.el</id>
+  <published>2021-06-16T17:05:34Z</published>
+  <updated>2021-06-16T17:05:34Z</updated>
+  <content type="html">
+   An Emacs package to manage bibliographic information in org-mode.
+  </content>
+ </entry>
+ <entry>
+  <title>ZhengWG: emacs-configuration</title>
+  <author>
+   <name>ZhengWG</name>
+  </author>
+  <link href="https://github.com/ZhengWG/emacs-configuration" />
+  <id>urn:rprimus:github:ZhengWG:emacs-configuration</id>
+  <published>2021-06-16T15:18:50Z</published>
+  <updated>2021-06-16T15:18:50Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>sayzbrdg: nsdlib-mode</title>
+  <author>
+   <name>sayzbrdg</name>
+  </author>
+  <link href="https://github.com/sayzbrdg/nsdlib-mode" />
+  <id>urn:rprimus:github:sayzbrdg:nsdlib-mode</id>
+  <published>2021-06-16T14:53:09Z</published>
+  <updated>2021-06-16T14:53:09Z</updated>
+  <content type="html">
+   A major mode for editing nsd.lib MML files in Emacs
+  </content>
+ </entry>
+ <entry>
+  <title>kindaro: dotfiles</title>
+  <author>
+   <name>kindaro</name>
+  </author>
+  <link href="https://github.com/kindaro/dotfiles" />
+  <id>urn:rprimus:github:kindaro:dotfiles</id>
+  <published>2021-06-16T14:44:59Z</published>
+  <updated>2021-06-16T14:44:59Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>bvnierop: eglot-elixir</title>
+  <author>
+   <name>bvnierop</name>
+  </author>
+  <link href="https://github.com/bvnierop/eglot-elixir" />
+  <id>urn:rprimus:github:bvnierop:eglot-elixir</id>
+  <published>2021-06-16T14:36:34Z</published>
+  <updated>2021-06-16T14:36:34Z</updated>
+  <content type="html">
+   Eglot and elixir-lsp integration.
+  </content>
+ </entry>
+ <entry>
+  <title>davemq: drm-cscope</title>
+  <author>
+   <name>davemq</name>
+  </author>
+  <link href="https://github.com/davemq/drm-cscope" />
+  <id>urn:rprimus:github:davemq:drm-cscope</id>
+  <published>2021-06-16T14:21:42Z</published>
+  <updated>2021-06-16T14:21:42Z</updated>
+  <content type="html">
+   Find cscope databases within a set of directories
+  </content>
+ </entry>
+ <entry>
+  <title>sirikid: emacs-1s</title>
+  <author>
+   <name>sirikid</name>
+  </author>
+  <link href="https://github.com/sirikid/emacs-1s" />
+  <id>urn:rprimus:github:sirikid:emacs-1s</id>
+  <published>2021-06-16T10:17:07Z</published>
+  <updated>2021-06-16T10:17:07Z</updated>
+  <content type="html">
+   Major mode for OneScript, LSP integration
+  </content>
+ </entry>
+ <entry>
+  <title>Hrothgar32: reddit-post.el</title>
+  <author>
+   <name>Hrothgar32</name>
+  </author>
+  <link href="https://github.com/Hrothgar32/reddit-post.el" />
+  <id>urn:rprimus:github:Hrothgar32:reddit-post.el</id>
+  <published>2021-06-16T09:54:08Z</published>
+  <updated>2021-06-16T09:54:08Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>ahnafalrafi: dotfiles</title>
   <author>
@@ -200,19 +317,6 @@
   </content>
  </entry>
  <entry>
-  <title>ashincoder: dotfiles</title>
-  <author>
-   <name>ashincoder</name>
-  </author>
-  <link href="https://github.com/ashincoder/dotfiles" />
-  <id>urn:rprimus:github:ashincoder:dotfiles</id>
-  <published>2021-06-15T13:28:02Z</published>
-  <updated>2021-06-15T13:28:02Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
   <title>mohkale: flymake-rest</title>
   <author>
    <name>mohkale</name>
@@ -249,6 +353,19 @@
   <updated>2021-06-15T01:50:41Z</updated>
   <content type="html">
    All the files used for configuring emacs
+  </content>
+ </entry>
+ <entry>
+  <title>ayatakesi: emacs-mirror</title>
+  <author>
+   <name>ayatakesi</name>
+  </author>
+  <link href="https://github.com/ayatakesi/emacs-mirror" />
+  <id>urn:rprimus:github:ayatakesi:emacs-mirror</id>
+  <published>2021-06-14T22:42:59Z</published>
+  <updated>2021-06-14T22:42:59Z</updated>
+  <content type="html">
+   mirror of git://git.savannah.gnu.org/emacs.git
   </content>
  </entry>
  <entry>
