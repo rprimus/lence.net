@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2021-06-14T23:24:26Z</updated>
+<updated>2021-06-15T10:23:57Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>hamidb80: ncss</title>
+  <author>
+   <name>hamidb80</name>
+  </author>
+  <link href="https://github.com/hamidb80/ncss" />
+  <id>urn:rprimus:github:hamidb80:ncss</id>
+  <published>2021-06-15T10:23:57Z</published>
+  <updated>2021-06-15T10:23:57Z</updated>
+  <content type="html">
+   nimplementation of sass like styling in nim
+  </content>
+ </entry>
  <entry>
   <title>Dot32IsCool: what-do-i-have-for-school-today</title>
   <author>
@@ -41,58 +54,6 @@
   <updated>2021-06-14T02:01:25Z</updated>
   <content type="html">
     Solutions to the 2020 edition of Advent of Code. 
-  </content>
- </entry>
- <entry>
-  <title>glyh: mal-nim</title>
-  <author>
-   <name>glyh</name>
-  </author>
-  <link href="https://github.com/glyh/mal-nim" />
-  <id>urn:rprimus:github:glyh:mal-nim</id>
-  <published>2021-06-13T08:06:26Z</published>
-  <updated>2021-06-13T08:06:26Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ponyatov: nisp</title>
-  <author>
-   <name>ponyatov</name>
-  </author>
-  <link href="https://github.com/ponyatov/nisp" />
-  <id>urn:rprimus:github:ponyatov:nisp</id>
-  <published>2021-06-13T08:03:35Z</published>
-  <updated>2021-06-13T08:03:35Z</updated>
-  <content type="html">
-   Lisp-like homoiconic language in Nim
-  </content>
- </entry>
- <entry>
-  <title>Glasses-Neo: CoffeeCounter</title>
-  <author>
-   <name>Glasses-Neo</name>
-  </author>
-  <link href="https://github.com/Glasses-Neo/CoffeeCounter" />
-  <id>urn:rprimus:github:Glasses-Neo:CoffeeCounter</id>
-  <published>2021-06-13T03:40:36Z</published>
-  <updated>2021-06-13T03:40:36Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>canelhasmateus: nimbleMonkey</title>
-  <author>
-   <name>canelhasmateus</name>
-  </author>
-  <link href="https://github.com/canelhasmateus/nimbleMonkey" />
-  <id>urn:rprimus:github:canelhasmateus:nimbleMonkey</id>
-  <published>2021-06-13T02:48:13Z</published>
-  <updated>2021-06-13T02:48:13Z</updated>
-  <content type="html">
-   from the book &quot;Write your compiler in go&quot;, but its actually nim.
   </content>
  </entry>
 </feed>
