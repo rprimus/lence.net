@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-racket.atom"/>
 <id>urn:rprimus:github:newracketrepos</id>
-<updated>2021-06-16T05:18:03Z</updated>
+<updated>2021-06-17T00:16:41Z</updated>
 <title type='text'>New GitHub Racket Repos</title>
+ <entry>
+  <title>max6cn: redex</title>
+  <author>
+   <name>max6cn</name>
+  </author>
+  <link href="https://github.com/max6cn/redex" />
+  <id>urn:rprimus:github:max6cn:redex</id>
+  <published>2021-06-17T00:16:41Z</published>
+  <updated>2021-06-17T00:16:41Z</updated>
+  <content type="html">
+   excise of semantics engineering with plt redex
+  </content>
+ </entry>
  <entry>
   <title>rumbks: sicp</title>
   <author>
@@ -67,19 +80,6 @@
   <updated>2021-06-15T04:57:23Z</updated>
   <content type="html">
    Old is Gold
-  </content>
- </entry>
- <entry>
-  <title>M0R4D: ifp212-Functional-Programming-course</title>
-  <author>
-   <name>M0R4D</name>
-  </author>
-  <link href="https://github.com/M0R4D/ifp212-Functional-Programming-course" />
-  <id>urn:rprimus:github:M0R4D:ifp212-Functional-Programming-course</id>
-  <published>2021-06-14T22:30:28Z</published>
-  <updated>2021-06-14T22:30:28Z</updated>
-  <content type="html">
-   Introduction to Functional Programming course assignments
   </content>
  </entry>
 </feed>
