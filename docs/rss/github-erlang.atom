@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-erlang.atom"/>
 <id>urn:rprimus:github:newerlangrepos</id>
-<updated>2021-06-16T14:35:34Z</updated>
+<updated>2021-06-18T00:28:39Z</updated>
 <title type='text'>New GitHub Erlang Repos</title>
+ <entry>
+  <title>davebryson: sgl</title>
+  <author>
+   <name>davebryson</name>
+  </author>
+  <link href="https://github.com/davebryson/sgl" />
+  <id>urn:rprimus:github:davebryson:sgl</id>
+  <published>2021-06-18T00:28:39Z</published>
+  <updated>2021-06-18T00:28:39Z</updated>
+  <content type="html">
+   An Erlang implementation of the Simple Grant Language
+  </content>
+ </entry>
+ <entry>
+  <title>jacksonbenete: software-tools-erlang</title>
+  <author>
+   <name>jacksonbenete</name>
+  </author>
+  <link href="https://github.com/jacksonbenete/software-tools-erlang" />
+  <id>urn:rprimus:github:jacksonbenete:software-tools-erlang</id>
+  <published>2021-06-17T22:12:30Z</published>
+  <updated>2021-06-17T22:12:30Z</updated>
+  <content type="html">
+   This is an implementation of various Unix common tools, as taught on `Software Tools in Pascal` by Kernighan and Plauger. This is my interpretation of a Erlang implementation.
+  </content>
+ </entry>
+ <entry>
+  <title>Technion-Projects: Distributed-Function-Server</title>
+  <author>
+   <name>Technion-Projects</name>
+  </author>
+  <link href="https://github.com/Technion-Projects/Distributed-Function-Server" />
+  <id>urn:rprimus:github:Technion-Projects:Distributed-Function-Server</id>
+  <published>2021-06-17T16:52:16Z</published>
+  <updated>2021-06-17T16:52:16Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>rustkas: Property-Based-Testing-with-PropEr-Erlang-and-Elixir-conding-experience</title>
+  <author>
+   <name>rustkas</name>
+  </author>
+  <link href="https://github.com/rustkas/Property-Based-Testing-with-PropEr-Erlang-and-Elixir-conding-experience" />
+  <id>urn:rprimus:github:rustkas:Property-Based-Testing-with-PropEr-Erlang-and-Elixir-conding-experience</id>
+  <published>2021-06-17T07:29:57Z</published>
+  <updated>2021-06-17T07:29:57Z</updated>
+  <content type="html">
+   My attempts to understand the material of the book using the recommendations given by the author of the book via reabar3 projects. I applied them to reading this technical literature. https://pragprog.com/titles/fhproper/property-based-testing-with-proper-erlang-and-elixir/
+  </content>
+ </entry>
  <entry>
   <title>AlecioP: Schifo-haskell</title>
   <author>
@@ -67,45 +119,6 @@
   <updated>2021-06-16T02:28:15Z</updated>
   <content type="html">
    A JSON-handling library for Sesterl equipped with APIs similar to those of elm/json
-  </content>
- </entry>
- <entry>
-  <title>kacperwleklak: simple_mq_service</title>
-  <author>
-   <name>kacperwleklak</name>
-  </author>
-  <link href="https://github.com/kacperwleklak/simple_mq_service" />
-  <id>urn:rprimus:github:kacperwleklak:simple_mq_service</id>
-  <published>2021-06-15T22:51:45Z</published>
-  <updated>2021-06-15T22:51:45Z</updated>
-  <content type="html">
-   Simple message queue service written in Erlang, featuring pub/sub and req/rep sockets.
-  </content>
- </entry>
- <entry>
-  <title>cristi-iacob: stud-money-tasks</title>
-  <author>
-   <name>cristi-iacob</name>
-  </author>
-  <link href="https://github.com/cristi-iacob/stud-money-tasks" />
-  <id>urn:rprimus:github:cristi-iacob:stud-money-tasks</id>
-  <published>2021-06-15T19:32:17Z</published>
-  <updated>2021-06-15T19:32:17Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>valup: Atomic-Broadcast</title>
-  <author>
-   <name>valup</name>
-  </author>
-  <link href="https://github.com/valup/Atomic-Broadcast" />
-  <id>urn:rprimus:github:valup:Atomic-Broadcast</id>
-  <published>2021-06-15T18:42:09Z</published>
-  <updated>2021-06-15T18:42:09Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
