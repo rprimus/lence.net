@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2021-06-18T18:16:15Z</updated>
+<updated>2021-06-19T21:02:32Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>henrikac: user-dirs</title>
+  <author>
+   <name>henrikac</name>
+  </author>
+  <link href="https://github.com/henrikac/user-dirs" />
+  <id>urn:rprimus:github:henrikac:user-dirs</id>
+  <published>2021-06-19T21:02:32Z</published>
+  <updated>2021-06-19T21:02:32Z</updated>
+  <content type="html">
+   A small shard that provides a few useful macros to look up user-specific directories.
+  </content>
+ </entry>
+ <entry>
+  <title>foxxx0: bar.cr</title>
+  <author>
+   <name>foxxx0</name>
+  </author>
+  <link href="https://github.com/foxxx0/bar.cr" />
+  <id>urn:rprimus:github:foxxx0:bar.cr</id>
+  <published>2021-06-19T14:34:29Z</published>
+  <updated>2021-06-19T14:34:29Z</updated>
+  <content type="html">
+   i3bar-compatible json output generator
+  </content>
+ </entry>
  <entry>
   <title>erardlucien: crystalex</title>
   <author>
@@ -67,110 +93,6 @@
   <updated>2021-06-18T06:11:54Z</updated>
   <content type="html">
    An implementation of the `lox` interpreter in `crystal`. 
-  </content>
- </entry>
- <entry>
-  <title>l3gacyb3ta: monis</title>
-  <author>
-   <name>l3gacyb3ta</name>
-  </author>
-  <link href="https://github.com/l3gacyb3ta/monis" />
-  <id>urn:rprimus:github:l3gacyb3ta:monis</id>
-  <published>2021-06-17T21:19:06Z</published>
-  <updated>2021-06-17T21:19:06Z</updated>
-  <content type="html">
-   Monis is a hyper-fast light-weight SSG written in Crystal.
-  </content>
- </entry>
- <entry>
-  <title>AmanoTeam: Unalix.cr</title>
-  <author>
-   <name>AmanoTeam</name>
-  </author>
-  <link href="https://github.com/AmanoTeam/Unalix.cr" />
-  <id>urn:rprimus:github:AmanoTeam:Unalix.cr</id>
-  <published>2021-06-17T18:43:42Z</published>
-  <updated>2021-06-17T18:43:42Z</updated>
-  <content type="html">
-   Small, dependency-free, fast Crystal package for removing tracking fields from URLs.
-  </content>
- </entry>
- <entry>
-  <title>wyhaines: defined.cr</title>
-  <author>
-   <name>wyhaines</name>
-  </author>
-  <link href="https://github.com/wyhaines/defined.cr" />
-  <id>urn:rprimus:github:wyhaines:defined.cr</id>
-  <published>2021-06-17T13:47:18Z</published>
-  <updated>2021-06-17T13:47:18Z</updated>
-  <content type="html">
-   This is a very small shard that  just provides a macro that can be used to see if a given type/constant is defined. The main use case would be for a library that might choose to do different things depending on whether another, optional library has been required or not.
-  </content>
- </entry>
- <entry>
-  <title>r3id: ip2country</title>
-  <author>
-   <name>r3id</name>
-  </author>
-  <link href="https://github.com/r3id/ip2country" />
-  <id>urn:rprimus:github:r3id:ip2country</id>
-  <published>2021-06-17T11:02:28Z</published>
-  <updated>2021-06-17T11:02:28Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>r3id: jq</title>
-  <author>
-   <name>r3id</name>
-  </author>
-  <link href="https://github.com/r3id/jq" />
-  <id>urn:rprimus:github:r3id:jq</id>
-  <published>2021-06-17T10:02:02Z</published>
-  <updated>2021-06-17T10:02:02Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>r3id: hashids</title>
-  <author>
-   <name>r3id</name>
-  </author>
-  <link href="https://github.com/r3id/hashids" />
-  <id>urn:rprimus:github:r3id:hashids</id>
-  <published>2021-06-17T09:35:45Z</published>
-  <updated>2021-06-17T09:35:45Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>r3id: var</title>
-  <author>
-   <name>r3id</name>
-  </author>
-  <link href="https://github.com/r3id/var" />
-  <id>urn:rprimus:github:r3id:var</id>
-  <published>2021-06-17T09:22:10Z</published>
-  <updated>2021-06-17T09:22:10Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>baseballlover723: chess_accuracy</title>
-  <author>
-   <name>baseballlover723</name>
-  </author>
-  <link href="https://github.com/baseballlover723/chess_accuracy" />
-  <id>urn:rprimus:github:baseballlover723:chess_accuracy</id>
-  <published>2021-06-17T01:28:53Z</published>
-  <updated>2021-06-17T01:28:53Z</updated>
-  <content type="html">
-   A Website to find out what are your highest accuracy games on chess.com
   </content>
  </entry>
 </feed>
