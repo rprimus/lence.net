@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-haskell.atom"/>
 <id>urn:rprimus:github:newhaskellrepos</id>
-<updated>2021-06-21T05:05:32Z</updated>
+<updated>2021-06-21T05:55:13Z</updated>
 <title type='text'>New GitHub Haskell Repos</title>
+ <entry>
+  <title>rictsa: haskell-collection</title>
+  <author>
+   <name>rictsa</name>
+  </author>
+  <link href="https://github.com/rictsa/haskell-collection" />
+  <id>urn:rprimus:github:rictsa:haskell-collection</id>
+  <published>2021-06-21T05:55:13Z</published>
+  <updated>2021-06-21T05:55:13Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>jpe90: jpe90.github.io</title>
+  <author>
+   <name>jpe90</name>
+  </author>
+  <link href="https://github.com/jpe90/jpe90.github.io" />
+  <id>urn:rprimus:github:jpe90:jpe90.github.io</id>
+  <published>2021-06-21T05:49:17Z</published>
+  <updated>2021-06-21T05:49:17Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>FloralnFading: VaporWave</title>
+  <author>
+   <name>FloralnFading</name>
+  </author>
+  <link href="https://github.com/FloralnFading/VaporWave" />
+  <id>urn:rprimus:github:FloralnFading:VaporWave</id>
+  <published>2021-06-21T05:41:51Z</published>
+  <updated>2021-06-21T05:41:51Z</updated>
+  <content type="html">
+   dual monitor, vaporwave style rice
+  </content>
+ </entry>
  <entry>
   <title>Volence: MovieMonad</title>
   <author>
@@ -304,19 +343,6 @@
   </content>
  </entry>
  <entry>
-  <title>LittleJianCH: HaskellBook</title>
-  <author>
-   <name>LittleJianCH</name>
-  </author>
-  <link href="https://github.com/LittleJianCH/HaskellBook" />
-  <id>urn:rprimus:github:LittleJianCH:HaskellBook</id>
-  <published>2021-06-20T14:07:21Z</published>
-  <updated>2021-06-20T14:07:21Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
   <title>fencl: Haskell-VM</title>
   <author>
    <name>fencl</name>
@@ -327,6 +353,19 @@
   <updated>2021-06-20T13:41:16Z</updated>
   <content type="html">
    Small virtual machine in Haskell
+  </content>
+ </entry>
+ <entry>
+  <title>ocramz: ad-plugin</title>
+  <author>
+   <name>ocramz</name>
+  </author>
+  <link href="https://github.com/ocramz/ad-plugin" />
+  <id>urn:rprimus:github:ocramz:ad-plugin</id>
+  <published>2021-06-20T13:11:06Z</published>
+  <updated>2021-06-20T13:11:06Z</updated>
+  <content type="html">
+   AD as a GHC core plugin
   </content>
  </entry>
  <entry>
@@ -560,7 +599,7 @@
   <published>2021-06-19T16:22:37Z</published>
   <updated>2021-06-19T16:22:37Z</updated>
   <content type="html">
-   Bindings to monad-time for the effectful library
+   A `Time` effect for the effectful library ecosystem
   </content>
  </entry>
  <entry>
