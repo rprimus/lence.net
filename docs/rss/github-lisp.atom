@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-06-20T08:17:17Z</updated>
+<updated>2021-06-21T01:39:45Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>dlanesmith: Test</title>
+  <author>
+   <name>dlanesmith</name>
+  </author>
+  <link href="https://github.com/dlanesmith/Test" />
+  <id>urn:rprimus:github:dlanesmith:Test</id>
+  <published>2021-06-21T01:39:45Z</published>
+  <updated>2021-06-21T01:39:45Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>HenryS1: colour-colonies</title>
   <author>
@@ -80,84 +93,6 @@
   <updated>2021-06-19T09:22:14Z</updated>
   <content type="html">
    A Common Lisp library to deal with date and time
-  </content>
- </entry>
- <entry>
-  <title>Angel-Cortez: cl-objc</title>
-  <author>
-   <name>Angel-Cortez</name>
-  </author>
-  <link href="https://github.com/Angel-Cortez/cl-objc" />
-  <id>urn:rprimus:github:Angel-Cortez:cl-objc</id>
-  <published>2021-06-18T22:31:48Z</published>
-  <updated>2021-06-18T22:31:48Z</updated>
-  <content type="html">
-   CL-OBJC is a portable common-lisp/objective-c bridge written using CFFI.  The aim is to be able to build Cocoa applications on Mac OS X by using InterfaceBuilder to design the GUI and then implement the code in common-lisp. (My attempt to revive this project)
-  </content>
- </entry>
- <entry>
-  <title>Spowmtom: goat</title>
-  <author>
-   <name>Spowmtom</name>
-  </author>
-  <link href="https://github.com/Spowmtom/goat" />
-  <id>urn:rprimus:github:Spowmtom:goat</id>
-  <published>2021-06-18T19:38:01Z</published>
-  <updated>2021-06-18T19:38:01Z</updated>
-  <content type="html">
-   Game Object Appliance Toolkit
-  </content>
- </entry>
- <entry>
-  <title>djeis97: dumb-mcclim-statusbar</title>
-  <author>
-   <name>djeis97</name>
-  </author>
-  <link href="https://github.com/djeis97/dumb-mcclim-statusbar" />
-  <id>urn:rprimus:github:djeis97:dumb-mcclim-statusbar</id>
-  <published>2021-06-18T17:26:45Z</published>
-  <updated>2021-06-18T17:26:45Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Kevinpgalligan: mooncrash</title>
-  <author>
-   <name>Kevinpgalligan</name>
-  </author>
-  <link href="https://github.com/Kevinpgalligan/mooncrash" />
-  <id>urn:rprimus:github:Kevinpgalligan:mooncrash</id>
-  <published>2021-06-18T17:18:42Z</published>
-  <updated>2021-06-18T17:18:42Z</updated>
-  <content type="html">
-   Physics simulation to show why the Moon doesn&#039;t crash into Earth.
-  </content>
- </entry>
- <entry>
-  <title>ilya-uzun: Lisp</title>
-  <author>
-   <name>ilya-uzun</name>
-  </author>
-  <link href="https://github.com/ilya-uzun/Lisp" />
-  <id>urn:rprimus:github:ilya-uzun:Lisp</id>
-  <published>2021-06-18T16:03:56Z</published>
-  <updated>2021-06-18T16:03:56Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>glhrmfrts: carbonc</title>
-  <author>
-   <name>glhrmfrts</name>
-  </author>
-  <link href="https://github.com/glhrmfrts/carbonc" />
-  <id>urn:rprimus:github:glhrmfrts:carbonc</id>
-  <published>2021-06-18T01:39:39Z</published>
-  <updated>2021-06-18T01:39:39Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
