@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2021-06-20T19:05:16Z</updated>
+<updated>2021-06-22T00:42:46Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>lincolnjpg: ufop_functional_programming</title>
+  <author>
+   <name>lincolnjpg</name>
+  </author>
+  <link href="https://github.com/lincolnjpg/ufop_functional_programming" />
+  <id>urn:rprimus:github:lincolnjpg:ufop_functional_programming</id>
+  <published>2021-06-22T00:42:46Z</published>
+  <updated>2021-06-22T00:42:46Z</updated>
+  <content type="html">
+   ExercÃ­cios de ProgramaÃ§Ã£o Funcional
+  </content>
+ </entry>
+ <entry>
+  <title>n-arms: lambda-plus</title>
+  <author>
+   <name>n-arms</name>
+  </author>
+  <link href="https://github.com/n-arms/lambda-plus" />
+  <id>urn:rprimus:github:n-arms:lambda-plus</id>
+  <published>2021-06-21T20:47:38Z</published>
+  <updated>2021-06-21T20:47:38Z</updated>
+  <content type="html">
+   Lambda calculus with some added features
+  </content>
+ </entry>
+ <entry>
+  <title>dhil: fx</title>
+  <author>
+   <name>dhil</name>
+  </author>
+  <link href="https://github.com/dhil/fx" />
+  <id>urn:rprimus:github:dhil:fx</id>
+  <published>2021-06-21T12:43:11Z</published>
+  <updated>2021-06-21T12:43:11Z</updated>
+  <content type="html">
+   an effect handler-oriented programming language
+  </content>
+ </entry>
  <entry>
   <title>jordanrmerrick: exchange</title>
   <author>
@@ -80,58 +119,6 @@
   <updated>2021-06-20T02:59:36Z</updated>
   <content type="html">
    A small LISP-like programming language with a JIT engine backed by LLVM
-  </content>
- </entry>
- <entry>
-  <title>ifazk: mula</title>
-  <author>
-   <name>ifazk</name>
-  </author>
-  <link href="https://github.com/ifazk/mula" />
-  <id>urn:rprimus:github:ifazk:mula</id>
-  <published>2021-06-19T19:14:00Z</published>
-  <updated>2021-06-19T19:14:00Z</updated>
-  <content type="html">
-   ML&#039;s radishal library for matching with Universal Levenshtein Automata.
-  </content>
- </entry>
- <entry>
-  <title>bnslmn: bst-compression</title>
-  <author>
-   <name>bnslmn</name>
-  </author>
-  <link href="https://github.com/bnslmn/bst-compression" />
-  <id>urn:rprimus:github:bnslmn:bst-compression</id>
-  <published>2021-06-19T12:34:07Z</published>
-  <updated>2021-06-19T12:34:07Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>IsmaVerde: Practicas-PP</title>
-  <author>
-   <name>IsmaVerde</name>
-  </author>
-  <link href="https://github.com/IsmaVerde/Practicas-PP" />
-  <id>urn:rprimus:github:IsmaVerde:Practicas-PP</id>
-  <published>2021-06-19T12:07:43Z</published>
-  <updated>2021-06-19T12:07:43Z</updated>
-  <content type="html">
-   PrÃ¡cticas de Paradigmas de la ProgramaciÃ³n de 2Âº de carrera
-  </content>
- </entry>
- <entry>
-  <title>tianrui98: Memory-Allocator</title>
-  <author>
-   <name>tianrui98</name>
-  </author>
-  <link href="https://github.com/tianrui98/Memory-Allocator" />
-  <id>urn:rprimus:github:tianrui98:Memory-Allocator</id>
-  <published>2021-06-19T07:17:18Z</published>
-  <updated>2021-06-19T07:17:18Z</updated>
-  <content type="html">
-   A memory allocator that allows for storing and retrieving integers, strings, and pointers in the memory without using OCaml reference.  Linked data structures are built based on the allocator.
   </content>
  </entry>
 </feed>

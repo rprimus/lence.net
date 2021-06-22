@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-06-21T08:58:36Z</updated>
+<updated>2021-06-22T01:00:58Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>dtenny: clj-con</title>
+  <author>
+   <name>dtenny</name>
+  </author>
+  <link href="https://github.com/dtenny/clj-con" />
+  <id>urn:rprimus:github:dtenny:clj-con</id>
+  <published>2021-06-22T01:00:58Z</published>
+  <updated>2021-06-22T01:00:58Z</updated>
+  <content type="html">
+   Clojure-style concurrency operations in Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>wombathead: valleys-of-neptune</title>
+  <author>
+   <name>wombathead</name>
+  </author>
+  <link href="https://github.com/wombathead/valleys-of-neptune" />
+  <id>urn:rprimus:github:wombathead:valleys-of-neptune</id>
+  <published>2021-06-21T21:43:07Z</published>
+  <updated>2021-06-21T21:43:07Z</updated>
+  <content type="html">
+   A game in space using SDL and Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>gefjon: format-string-reader</title>
+  <author>
+   <name>gefjon</name>
+  </author>
+  <link href="https://github.com/gefjon/format-string-reader" />
+  <id>urn:rprimus:github:gefjon:format-string-reader</id>
+  <published>2021-06-21T17:26:29Z</published>
+  <updated>2021-06-21T17:26:29Z</updated>
+  <content type="html">
+   A Common Lisp reader macro which reads strings using FORMAT syntax, and a readtable for it.
+  </content>
+ </entry>
+ <entry>
+  <title>psteeve: steevenson.fr</title>
+  <author>
+   <name>psteeve</name>
+  </author>
+  <link href="https://github.com/psteeve/steevenson.fr" />
+  <id>urn:rprimus:github:psteeve:steevenson.fr</id>
+  <published>2021-06-21T16:25:15Z</published>
+  <updated>2021-06-21T16:25:15Z</updated>
+  <content type="html">
+   Personal Website 
+  </content>
+ </entry>
+ <entry>
+  <title>dlanesmith: Ecoland-Code</title>
+  <author>
+   <name>dlanesmith</name>
+  </author>
+  <link href="https://github.com/dlanesmith/Ecoland-Code" />
+  <id>urn:rprimus:github:dlanesmith:Ecoland-Code</id>
+  <published>2021-06-21T12:40:18Z</published>
+  <updated>2021-06-21T12:40:18Z</updated>
+  <content type="html">
+   Code to optimize the use of AutoCAD at Ecoland Inc.
+  </content>
+ </entry>
  <entry>
   <title>opfez: lisp-hacks</title>
   <author>
@@ -18,6 +83,19 @@
   </content>
  </entry>
  <entry>
+  <title>texdraft: web-to-html</title>
+  <author>
+   <name>texdraft</name>
+  </author>
+  <link href="https://github.com/texdraft/web-to-html" />
+  <id>urn:rprimus:github:texdraft:web-to-html</id>
+  <published>2021-06-21T08:32:47Z</published>
+  <updated>2021-06-21T08:32:47Z</updated>
+  <content type="html">
+   Conversion of Knuth&#039;s WEB to HTML
+  </content>
+ </entry>
+ <entry>
   <title>0xasim: Algorithms</title>
   <author>
    <name>0xasim</name>
@@ -28,6 +106,19 @@
   <updated>2021-06-21T07:51:45Z</updated>
   <content type="html">
    Multiple implementations of common algorithms with varying time complexities
+  </content>
+ </entry>
+ <entry>
+  <title>ilyes-bch: 8-queens</title>
+  <author>
+   <name>ilyes-bch</name>
+  </author>
+  <link href="https://github.com/ilyes-bch/8-queens" />
+  <id>urn:rprimus:github:ilyes-bch:8-queens</id>
+  <published>2021-06-21T07:12:09Z</published>
+  <updated>2021-06-21T07:12:09Z</updated>
+  <content type="html">
+   Solution of 8 queens problem in lisp
   </content>
  </entry>
  <entry>
@@ -67,58 +158,6 @@
   <updated>2021-06-20T00:08:03Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>lethebe: Lisp-Search</title>
-  <author>
-   <name>lethebe</name>
-  </author>
-  <link href="https://github.com/lethebe/Lisp-Search" />
-  <id>urn:rprimus:github:lethebe:Lisp-Search</id>
-  <published>2021-06-19T23:19:05Z</published>
-  <updated>2021-06-19T23:19:05Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>arte921: lisp-bs</title>
-  <author>
-   <name>arte921</name>
-  </author>
-  <link href="https://github.com/arte921/lisp-bs" />
-  <id>urn:rprimus:github:arte921:lisp-bs</id>
-  <published>2021-06-19T18:30:55Z</published>
-  <updated>2021-06-19T18:30:55Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>vgmz95: CIC-Symbolic-AI-Fundamentals</title>
-  <author>
-   <name>vgmz95</name>
-  </author>
-  <link href="https://github.com/vgmz95/CIC-Symbolic-AI-Fundamentals" />
-  <id>urn:rprimus:github:vgmz95:CIC-Symbolic-AI-Fundamentals</id>
-  <published>2021-06-19T18:04:26Z</published>
-  <updated>2021-06-19T18:04:26Z</updated>
-  <content type="html">
-   Curso de Fundamentos de Inteligencia Artificial en el IPN-CIC
-  </content>
- </entry>
- <entry>
-  <title>muyinliu: cl-datetime</title>
-  <author>
-   <name>muyinliu</name>
-  </author>
-  <link href="https://github.com/muyinliu/cl-datetime" />
-  <id>urn:rprimus:github:muyinliu:cl-datetime</id>
-  <published>2021-06-19T09:22:14Z</published>
-  <updated>2021-06-19T09:22:14Z</updated>
-  <content type="html">
-   A Common Lisp library to deal with date and time
   </content>
  </entry>
 </feed>

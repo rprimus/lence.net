@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2021-06-21T06:25:43Z</updated>
+<updated>2021-06-21T14:38:28Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>spinscale: git-log-to-elasticsearch</title>
+  <author>
+   <name>spinscale</name>
+  </author>
+  <link href="https://github.com/spinscale/git-log-to-elasticsearch" />
+  <id>urn:rprimus:github:spinscale:git-log-to-elasticsearch</id>
+  <published>2021-06-21T14:38:28Z</published>
+  <updated>2021-06-21T14:38:28Z</updated>
+  <content type="html">
+   A CLI tool to index git repository metadata into Elasticsearch
+  </content>
+ </entry>
  <entry>
   <title>jaeming: crystal_crud_app</title>
   <author>
@@ -41,32 +54,6 @@
   <updated>2021-06-20T10:46:50Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>henrikac: user-dirs</title>
-  <author>
-   <name>henrikac</name>
-  </author>
-  <link href="https://github.com/henrikac/user-dirs" />
-  <id>urn:rprimus:github:henrikac:user-dirs</id>
-  <published>2021-06-19T21:02:32Z</published>
-  <updated>2021-06-19T21:02:32Z</updated>
-  <content type="html">
-   A small shard that provides a few useful macros to look up user-specific directories.
-  </content>
- </entry>
- <entry>
-  <title>foxxx0: bar.cr</title>
-  <author>
-   <name>foxxx0</name>
-  </author>
-  <link href="https://github.com/foxxx0/bar.cr" />
-  <id>urn:rprimus:github:foxxx0:bar.cr</id>
-  <published>2021-06-19T14:34:29Z</published>
-  <updated>2021-06-19T14:34:29Z</updated>
-  <content type="html">
-   i3bar-compatible json output generator
   </content>
  </entry>
 </feed>
