@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2021-06-22T00:42:46Z</updated>
+<updated>2021-06-22T14:19:56Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>jserot: efsm</title>
+  <author>
+   <name>jserot</name>
+  </author>
+  <link href="https://github.com/jserot/efsm" />
+  <id>urn:rprimus:github:jserot:efsm</id>
+  <published>2021-06-22T14:19:56Z</published>
+  <updated>2021-06-22T14:19:56Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>meluchoMZ: pp_assignments</title>
+  <author>
+   <name>meluchoMZ</name>
+  </author>
+  <link href="https://github.com/meluchoMZ/pp_assignments" />
+  <id>urn:rprimus:github:meluchoMZ:pp_assignments</id>
+  <published>2021-06-22T10:01:39Z</published>
+  <updated>2021-06-22T10:01:39Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>lincolnjpg: ufop_functional_programming</title>
   <author>
@@ -44,6 +70,19 @@
   </content>
  </entry>
  <entry>
+  <title>soren-n: cps-toolbox</title>
+  <author>
+   <name>soren-n</name>
+  </author>
+  <link href="https://github.com/soren-n/cps-toolbox" />
+  <id>urn:rprimus:github:soren-n:cps-toolbox</id>
+  <published>2021-06-21T17:17:47Z</published>
+  <updated>2021-06-21T17:17:47Z</updated>
+  <content type="html">
+   A partial OCaml standard library replacement written with continuation passing style in mind
+  </content>
+ </entry>
+ <entry>
   <title>dhil: fx</title>
   <author>
    <name>dhil</name>
@@ -54,84 +93,6 @@
   <updated>2021-06-21T12:43:11Z</updated>
   <content type="html">
    an effect handler-oriented programming language
-  </content>
- </entry>
- <entry>
-  <title>jordanrmerrick: exchange</title>
-  <author>
-   <name>jordanrmerrick</name>
-  </author>
-  <link href="https://github.com/jordanrmerrick/exchange" />
-  <id>urn:rprimus:github:jordanrmerrick:exchange</id>
-  <published>2021-06-20T19:05:16Z</published>
-  <updated>2021-06-20T19:05:16Z</updated>
-  <content type="html">
-   A mock equity exchange built entirely in OCaml
-  </content>
- </entry>
- <entry>
-  <title>deepmarker: xxh</title>
-  <author>
-   <name>deepmarker</name>
-  </author>
-  <link href="https://github.com/deepmarker/xxh" />
-  <id>urn:rprimus:github:deepmarker:xxh</id>
-  <published>2021-06-20T10:26:04Z</published>
-  <updated>2021-06-20T10:26:04Z</updated>
-  <content type="html">
-   OCaml bindings to xxHash
-  </content>
- </entry>
- <entry>
-  <title>jfkonecn: settlersOfOcaml</title>
-  <author>
-   <name>jfkonecn</name>
-  </author>
-  <link href="https://github.com/jfkonecn/settlersOfOcaml" />
-  <id>urn:rprimus:github:jfkonecn:settlersOfOcaml</id>
-  <published>2021-06-20T10:08:41Z</published>
-  <updated>2021-06-20T10:08:41Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>yingyuhang123: compile</title>
-  <author>
-   <name>yingyuhang123</name>
-  </author>
-  <link href="https://github.com/yingyuhang123/compile" />
-  <id>urn:rprimus:github:yingyuhang123:compile</id>
-  <published>2021-06-20T10:02:26Z</published>
-  <updated>2021-06-20T10:02:26Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>murphywarner: tautologyChecker</title>
-  <author>
-   <name>murphywarner</name>
-  </author>
-  <link href="https://github.com/murphywarner/tautologyChecker" />
-  <id>urn:rprimus:github:murphywarner:tautologyChecker</id>
-  <published>2021-06-20T03:05:53Z</published>
-  <updated>2021-06-20T03:05:53Z</updated>
-  <content type="html">
-   OCaml solution to finding if proposition is a tautology.
-  </content>
- </entry>
- <entry>
-  <title>jawline: ocamlLlvmLispJit</title>
-  <author>
-   <name>jawline</name>
-  </author>
-  <link href="https://github.com/jawline/ocamlLlvmLispJit" />
-  <id>urn:rprimus:github:jawline:ocamlLlvmLispJit</id>
-  <published>2021-06-20T02:59:36Z</published>
-  <updated>2021-06-20T02:59:36Z</updated>
-  <content type="html">
-   A small LISP-like programming language with a JIT engine backed by LLVM
   </content>
  </entry>
 </feed>
