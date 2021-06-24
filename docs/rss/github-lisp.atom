@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-06-22T21:51:58Z</updated>
+<updated>2021-06-24T00:37:18Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>PedroMQP: IntroIA</title>
+  <author>
+   <name>PedroMQP</name>
+  </author>
+  <link href="https://github.com/PedroMQP/IntroIA" />
+  <id>urn:rprimus:github:PedroMQP:IntroIA</id>
+  <published>2021-06-24T00:37:18Z</published>
+  <updated>2021-06-24T00:37:18Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>dsinghan: sokoban-solver</title>
+  <author>
+   <name>dsinghan</name>
+  </author>
+  <link href="https://github.com/dsinghan/sokoban-solver" />
+  <id>urn:rprimus:github:dsinghan:sokoban-solver</id>
+  <published>2021-06-23T23:01:55Z</published>
+  <updated>2021-06-23T23:01:55Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>psteeve: fake-cl</title>
+  <author>
+   <name>psteeve</name>
+  </author>
+  <link href="https://github.com/psteeve/fake-cl" />
+  <id>urn:rprimus:github:psteeve:fake-cl</id>
+  <published>2021-06-23T08:37:29Z</published>
+  <updated>2021-06-23T08:37:29Z</updated>
+  <content type="html">
+   Fake data generation for Common Lisp
+  </content>
+ </entry>
  <entry>
   <title>lisp-mirror: cl-date-calc</title>
   <author>
@@ -41,6 +80,19 @@
   <updated>2021-06-22T18:56:05Z</updated>
   <content type="html">
    Converts lisp files formatted using standard comments to emacs org files.
+  </content>
+ </entry>
+ <entry>
+  <title>X01XX: Alternate-representation-for-a-bit-pattern</title>
+  <author>
+   <name>X01XX</name>
+  </author>
+  <link href="https://github.com/X01XX/Alternate-representation-for-a-bit-pattern" />
+  <id>urn:rprimus:github:X01XX:Alternate-representation-for-a-bit-pattern</id>
+  <published>2021-06-22T12:04:54Z</published>
+  <updated>2021-06-22T12:04:54Z</updated>
+  <content type="html">
+   An alternate way of representing a bit pattern, with some interesting consequences.
   </content>
  </entry>
  <entry>
@@ -93,110 +145,6 @@
   <updated>2021-06-22T01:00:58Z</updated>
   <content type="html">
    Clojure-style concurrency operations in Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>wombathead: valleys-of-neptune</title>
-  <author>
-   <name>wombathead</name>
-  </author>
-  <link href="https://github.com/wombathead/valleys-of-neptune" />
-  <id>urn:rprimus:github:wombathead:valleys-of-neptune</id>
-  <published>2021-06-21T21:43:07Z</published>
-  <updated>2021-06-21T21:43:07Z</updated>
-  <content type="html">
-   A game in space using SDL and Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>gefjon: format-string-reader</title>
-  <author>
-   <name>gefjon</name>
-  </author>
-  <link href="https://github.com/gefjon/format-string-reader" />
-  <id>urn:rprimus:github:gefjon:format-string-reader</id>
-  <published>2021-06-21T17:26:29Z</published>
-  <updated>2021-06-21T17:26:29Z</updated>
-  <content type="html">
-   A Common Lisp reader macro which reads strings using FORMAT syntax, and a readtable for it.
-  </content>
- </entry>
- <entry>
-  <title>psteeve: steevenson.fr</title>
-  <author>
-   <name>psteeve</name>
-  </author>
-  <link href="https://github.com/psteeve/steevenson.fr" />
-  <id>urn:rprimus:github:psteeve:steevenson.fr</id>
-  <published>2021-06-21T16:25:15Z</published>
-  <updated>2021-06-21T16:25:15Z</updated>
-  <content type="html">
-   Personal Website 
-  </content>
- </entry>
- <entry>
-  <title>dlanesmith: Ecoland-Code</title>
-  <author>
-   <name>dlanesmith</name>
-  </author>
-  <link href="https://github.com/dlanesmith/Ecoland-Code" />
-  <id>urn:rprimus:github:dlanesmith:Ecoland-Code</id>
-  <published>2021-06-21T12:40:18Z</published>
-  <updated>2021-06-21T12:40:18Z</updated>
-  <content type="html">
-   Code to optimize the use of AutoCAD at Ecoland Inc.
-  </content>
- </entry>
- <entry>
-  <title>opfez: lisp-hacks</title>
-  <author>
-   <name>opfez</name>
-  </author>
-  <link href="https://github.com/opfez/lisp-hacks" />
-  <id>urn:rprimus:github:opfez:lisp-hacks</id>
-  <published>2021-06-21T08:58:36Z</published>
-  <updated>2021-06-21T08:58:36Z</updated>
-  <content type="html">
-   Various Lisp utilities I&#039;ve created for myself.
-  </content>
- </entry>
- <entry>
-  <title>texdraft: web-to-html</title>
-  <author>
-   <name>texdraft</name>
-  </author>
-  <link href="https://github.com/texdraft/web-to-html" />
-  <id>urn:rprimus:github:texdraft:web-to-html</id>
-  <published>2021-06-21T08:32:47Z</published>
-  <updated>2021-06-21T08:32:47Z</updated>
-  <content type="html">
-   Conversion of Knuth&#039;s WEB to HTML
-  </content>
- </entry>
- <entry>
-  <title>ilyes-bch: 8-queens</title>
-  <author>
-   <name>ilyes-bch</name>
-  </author>
-  <link href="https://github.com/ilyes-bch/8-queens" />
-  <id>urn:rprimus:github:ilyes-bch:8-queens</id>
-  <published>2021-06-21T07:12:09Z</published>
-  <updated>2021-06-21T07:12:09Z</updated>
-  <content type="html">
-   Solution of 8 queens problem in lisp
-  </content>
- </entry>
- <entry>
-  <title>dlanesmith: Test</title>
-  <author>
-   <name>dlanesmith</name>
-  </author>
-  <link href="https://github.com/dlanesmith/Test" />
-  <id>urn:rprimus:github:dlanesmith:Test</id>
-  <published>2021-06-21T01:39:45Z</published>
-  <updated>2021-06-21T01:39:45Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>

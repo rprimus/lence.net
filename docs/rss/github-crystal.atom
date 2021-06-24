@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2021-06-22T19:01:13Z</updated>
+<updated>2021-06-23T13:46:35Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>lrutten: abc2html</title>
+  <author>
+   <name>lrutten</name>
+  </author>
+  <link href="https://github.com/lrutten/abc2html" />
+  <id>urn:rprimus:github:lrutten:abc2html</id>
+  <published>2021-06-23T13:46:35Z</published>
+  <updated>2021-06-23T13:46:35Z</updated>
+  <content type="html">
+   A abc to HTML convertor
+  </content>
+ </entry>
  <entry>
   <title>Arkko002: CrAcker</title>
   <author>
@@ -41,45 +54,6 @@
   <updated>2021-06-22T05:12:06Z</updated>
   <content type="html">
    Just tests I do
-  </content>
- </entry>
- <entry>
-  <title>bit4bit: freeswitch-esl.cr</title>
-  <author>
-   <name>bit4bit</name>
-  </author>
-  <link href="https://github.com/bit4bit/freeswitch-esl.cr" />
-  <id>urn:rprimus:github:bit4bit:freeswitch-esl.cr</id>
-  <published>2021-06-21T22:30:10Z</published>
-  <updated>2021-06-21T22:30:10Z</updated>
-  <content type="html">
-    FreeSWITCH&#039;s ESL  wrapper for Crystal Lang
-  </content>
- </entry>
- <entry>
-  <title>spinscale: git-log-to-elasticsearch</title>
-  <author>
-   <name>spinscale</name>
-  </author>
-  <link href="https://github.com/spinscale/git-log-to-elasticsearch" />
-  <id>urn:rprimus:github:spinscale:git-log-to-elasticsearch</id>
-  <published>2021-06-21T14:38:28Z</published>
-  <updated>2021-06-21T14:38:28Z</updated>
-  <content type="html">
-   A CLI tool to index git repository metadata into Elasticsearch
-  </content>
- </entry>
- <entry>
-  <title>jaeming: crystal_crud_app</title>
-  <author>
-   <name>jaeming</name>
-  </author>
-  <link href="https://github.com/jaeming/crystal_crud_app" />
-  <id>urn:rprimus:github:jaeming:crystal_crud_app</id>
-  <published>2021-06-21T06:25:43Z</published>
-  <updated>2021-06-21T06:25:43Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
