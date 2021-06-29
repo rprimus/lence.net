@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2021-06-27T15:44:06Z</updated>
+<updated>2021-06-28T11:23:18Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>lemaetech: summer</title>
+  <author>
+   <name>lemaetech</name>
+  </author>
+  <link href="https://github.com/lemaetech/summer" />
+  <id>urn:rprimus:github:lemaetech:summer</id>
+  <published>2021-06-28T11:23:18Z</published>
+  <updated>2021-06-28T11:23:18Z</updated>
+  <content type="html">
+   Possibly OCaml libraries, tools and (framework?) that can be used for building web applications.
+  </content>
+ </entry>
  <entry>
   <title>twistedduck: bcp</title>
   <author>
@@ -67,71 +80,6 @@
   <updated>2021-06-27T12:32:11Z</updated>
   <content type="html">
    Web browsers remote control
-  </content>
- </entry>
- <entry>
-  <title>returntocorp: ocaml-tree-sitter-core</title>
-  <author>
-   <name>returntocorp</name>
-  </author>
-  <link href="https://github.com/returntocorp/ocaml-tree-sitter-core" />
-  <id>urn:rprimus:github:returntocorp:ocaml-tree-sitter-core</id>
-  <published>2021-06-26T22:44:24Z</published>
-  <updated>2021-06-26T22:44:24Z</updated>
-  <content type="html">
-   OCaml code generator and runtime library for handling typed tree-sitter CSTs
-  </content>
- </entry>
- <entry>
-  <title>kkd26: finite-automata-compiler</title>
-  <author>
-   <name>kkd26</name>
-  </author>
-  <link href="https://github.com/kkd26/finite-automata-compiler" />
-  <id>urn:rprimus:github:kkd26:finite-automata-compiler</id>
-  <published>2021-06-26T19:09:54Z</published>
-  <updated>2021-06-26T19:09:54Z</updated>
-  <content type="html">
-   Basic implementation of Finite Automaton (DFA, NFA) with for basic compiler written in OCaml.
-  </content>
- </entry>
- <entry>
-  <title>gndl: regexredux_ocaml</title>
-  <author>
-   <name>gndl</name>
-  </author>
-  <link href="https://github.com/gndl/regexredux_ocaml" />
-  <id>urn:rprimus:github:gndl:regexredux_ocaml</id>
-  <published>2021-06-26T10:58:04Z</published>
-  <updated>2021-06-26T10:58:04Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>zhenhuaa: cs3110</title>
-  <author>
-   <name>zhenhuaa</name>
-  </author>
-  <link href="https://github.com/zhenhuaa/cs3110" />
-  <id>urn:rprimus:github:zhenhuaa:cs3110</id>
-  <published>2021-06-26T09:02:20Z</published>
-  <updated>2021-06-26T09:02:20Z</updated>
-  <content type="html">
-   cs3110 
-  </content>
- </entry>
- <entry>
-  <title>songyahui: AlgebraicEffect</title>
-  <author>
-   <name>songyahui</name>
-  </author>
-  <link href="https://github.com/songyahui/AlgebraicEffect" />
-  <id>urn:rprimus:github:songyahui:AlgebraicEffect</id>
-  <published>2021-06-26T06:51:36Z</published>
-  <updated>2021-06-26T06:51:36Z</updated>
-  <content type="html">
-   effects system for continuation
   </content>
  </entry>
 </feed>

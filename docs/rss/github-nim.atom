@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2021-06-28T03:35:49Z</updated>
+<updated>2021-06-28T22:06:42Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>peko: nim_sdl</title>
+  <author>
+   <name>peko</name>
+  </author>
+  <link href="https://github.com/peko/nim_sdl" />
+  <id>urn:rprimus:github:peko:nim_sdl</id>
+  <published>2021-06-28T22:06:42Z</published>
+  <updated>2021-06-28T22:06:42Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>status-im: nim-taskpools</title>
+  <author>
+   <name>status-im</name>
+  </author>
+  <link href="https://github.com/status-im/nim-taskpools" />
+  <id>urn:rprimus:github:status-im:nim-taskpools</id>
+  <published>2021-06-28T14:49:27Z</published>
+  <updated>2021-06-28T14:49:27Z</updated>
+  <content type="html">
+   Lightweight, energy-efficient, easily auditable multithreaded threadpool
+  </content>
+ </entry>
  <entry>
   <title>pyautogui: tinyVM</title>
   <author>
@@ -57,6 +83,19 @@
   </content>
  </entry>
  <entry>
+  <title>pyxgun: xtal</title>
+  <author>
+   <name>pyxgun</name>
+  </author>
+  <link href="https://github.com/pyxgun/xtal" />
+  <id>urn:rprimus:github:pyxgun:xtal</id>
+  <published>2021-06-27T14:25:57Z</published>
+  <updated>2021-06-27T14:25:57Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
   <title>flatleon: NimClassMacro</title>
   <author>
    <name>flatleon</name>
@@ -93,97 +132,6 @@
   <updated>2021-06-27T04:24:23Z</updated>
   <content type="html">
    Cowsay implemented in Nim.
-  </content>
- </entry>
- <entry>
-  <title>Timofffee: tinyecs</title>
-  <author>
-   <name>Timofffee</name>
-  </author>
-  <link href="https://github.com/Timofffee/tinyecs" />
-  <id>urn:rprimus:github:Timofffee:tinyecs</id>
-  <published>2021-06-26T21:13:46Z</published>
-  <updated>2021-06-26T21:13:46Z</updated>
-  <content type="html">
-   Simple ECS implementation on Nim
-  </content>
- </entry>
- <entry>
-  <title>Alkamist: NimLuaWriter</title>
-  <author>
-   <name>Alkamist</name>
-  </author>
-  <link href="https://github.com/Alkamist/NimLuaWriter" />
-  <id>urn:rprimus:github:Alkamist:NimLuaWriter</id>
-  <published>2021-06-26T20:30:01Z</published>
-  <updated>2021-06-26T20:30:01Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ruivieira: nim-todoist</title>
-  <author>
-   <name>ruivieira</name>
-  </author>
-  <link href="https://github.com/ruivieira/nim-todoist" />
-  <id>urn:rprimus:github:ruivieira:nim-todoist</id>
-  <published>2021-06-26T16:44:48Z</published>
-  <updated>2021-06-26T16:44:48Z</updated>
-  <content type="html">
-   A Nim client to the Todoist REST API
-  </content>
- </entry>
- <entry>
-  <title>EataPanini: nimstatus</title>
-  <author>
-   <name>EataPanini</name>
-  </author>
-  <link href="https://github.com/EataPanini/nimstatus" />
-  <id>urn:rprimus:github:EataPanini:nimstatus</id>
-  <published>2021-06-26T16:16:33Z</published>
-  <updated>2021-06-26T16:16:33Z</updated>
-  <content type="html">
-   A cool status display made in min
-  </content>
- </entry>
- <entry>
-  <title>litel-project: litel-hub-nim</title>
-  <author>
-   <name>litel-project</name>
-  </author>
-  <link href="https://github.com/litel-project/litel-hub-nim" />
-  <id>urn:rprimus:github:litel-project:litel-hub-nim</id>
-  <published>2021-06-26T15:08:04Z</published>
-  <updated>2021-06-26T15:08:04Z</updated>
-  <content type="html">
-   Temporary Mixup of Litel Things, Written in Nim
-  </content>
- </entry>
- <entry>
-  <title>ThomasTJdev: nim_awsS3</title>
-  <author>
-   <name>ThomasTJdev</name>
-  </author>
-  <link href="https://github.com/ThomasTJdev/nim_awsS3" />
-  <id>urn:rprimus:github:ThomasTJdev:nim_awsS3</id>
-  <published>2021-06-26T04:50:09Z</published>
-  <updated>2021-06-26T04:50:09Z</updated>
-  <content type="html">
-   Amazon Simple Storage Service (AWS S3) basic API support
-  </content>
- </entry>
- <entry>
-  <title>ThomasTJdev: nim_awsSTS</title>
-  <author>
-   <name>ThomasTJdev</name>
-  </author>
-  <link href="https://github.com/ThomasTJdev/nim_awsSTS" />
-  <id>urn:rprimus:github:ThomasTJdev:nim_awsSTS</id>
-  <published>2021-06-26T03:58:48Z</published>
-  <updated>2021-06-26T03:58:48Z</updated>
-  <content type="html">
-   AWS Security Token Service API in Nim
   </content>
  </entry>
 </feed>

@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-racket.atom"/>
 <id>urn:rprimus:github:newracketrepos</id>
-<updated>2021-06-27T22:30:58Z</updated>
+<updated>2021-06-29T01:32:32Z</updated>
 <title type='text'>New GitHub Racket Repos</title>
+ <entry>
+  <title>shhyou: lamnbea</title>
+  <author>
+   <name>shhyou</name>
+  </author>
+  <link href="https://github.com/shhyou/lamnbea" />
+  <id>urn:rprimus:github:shhyou:lamnbea</id>
+  <published>2021-06-29T01:32:32Z</published>
+  <updated>2021-06-29T01:32:32Z</updated>
+  <content type="html">
+   Lamnbea
+  </content>
+ </entry>
+ <entry>
+  <title>paveltodorov: Game-of-Life</title>
+  <author>
+   <name>paveltodorov</name>
+  </author>
+  <link href="https://github.com/paveltodorov/Game-of-Life" />
+  <id>urn:rprimus:github:paveltodorov:Game-of-Life</id>
+  <published>2021-06-28T22:00:57Z</published>
+  <updated>2021-06-28T22:00:57Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Ralitsa-Vuntsova: fp</title>
+  <author>
+   <name>Ralitsa-Vuntsova</name>
+  </author>
+  <link href="https://github.com/Ralitsa-Vuntsova/fp" />
+  <id>urn:rprimus:github:Ralitsa-Vuntsova:fp</id>
+  <published>2021-06-28T15:51:26Z</published>
+  <updated>2021-06-28T15:51:26Z</updated>
+  <content type="html">
+   Materials for the course Functional Programming at FMI 2020-2021
+  </content>
+ </entry>
+ <entry>
+  <title>rackt-org: rackt-org.github.io</title>
+  <author>
+   <name>rackt-org</name>
+  </author>
+  <link href="https://github.com/rackt-org/rackt-org.github.io" />
+  <id>urn:rprimus:github:rackt-org:rackt-org.github.io</id>
+  <published>2021-06-28T11:37:48Z</published>
+  <updated>2021-06-28T11:37:48Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>rackt-org: rackt</title>
+  <author>
+   <name>rackt-org</name>
+  </author>
+  <link href="https://github.com/rackt-org/rackt" />
+  <id>urn:rprimus:github:rackt-org:rackt</id>
+  <published>2021-06-28T11:19:39Z</published>
+  <updated>2021-06-28T11:19:39Z</updated>
+  <content type="html">
+   An ultrasmall (~70 loc) React wrapper written in RacketScript
+  </content>
+ </entry>
  <entry>
   <title>erichaney: fitch</title>
   <author>
@@ -15,6 +80,19 @@
   <updated>2021-06-27T22:30:58Z</updated>
   <content type="html">
    A library for formatting fitch diagrams for proofs in logic.
+  </content>
+ </entry>
+ <entry>
+  <title>Thom2503: htdp</title>
+  <author>
+   <name>Thom2503</name>
+  </author>
+  <link href="https://github.com/Thom2503/htdp" />
+  <id>urn:rprimus:github:Thom2503:htdp</id>
+  <published>2021-06-27T19:46:27Z</published>
+  <updated>2021-06-27T19:46:27Z</updated>
+  <content type="html">
+   These are some of my solutions and notes for How to Design Programs by Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi. I will hopefully cover all the exercises.
   </content>
  </entry>
  <entry>
@@ -54,71 +132,6 @@
   <updated>2021-06-27T05:22:30Z</updated>
   <content type="html">
    example
-  </content>
- </entry>
- <entry>
-  <title>otherjoel: racket-rss</title>
-  <author>
-   <name>otherjoel</name>
-  </author>
-  <link href="https://github.com/otherjoel/racket-rss" />
-  <id>urn:rprimus:github:otherjoel:racket-rss</id>
-  <published>2021-06-26T20:34:24Z</published>
-  <updated>2021-06-26T20:34:24Z</updated>
-  <content type="html">
-    ðâï¸ RSS / Atom feed generation library for Racket
-  </content>
- </entry>
- <entry>
-  <title>RamneekSingh24: MUPL-in-Racket</title>
-  <author>
-   <name>RamneekSingh24</name>
-  </author>
-  <link href="https://github.com/RamneekSingh24/MUPL-in-Racket" />
-  <id>urn:rprimus:github:RamneekSingh24:MUPL-in-Racket</id>
-  <published>2021-06-26T17:49:45Z</published>
-  <updated>2021-06-26T17:49:45Z</updated>
-  <content type="html">
-   A small made up programming language built on top of racket, supporting variables, expressions, basic data types and lists, functions, function closures and basic functional programming features like list.map 
-  </content>
- </entry>
- <entry>
-  <title>Metaxal: text-block</title>
-  <author>
-   <name>Metaxal</name>
-  </author>
-  <link href="https://github.com/Metaxal/text-block" />
-  <id>urn:rprimus:github:Metaxal:text-block</id>
-  <published>2021-06-26T14:09:57Z</published>
-  <updated>2021-06-26T14:09:57Z</updated>
-  <content type="html">
-   Display math equations as 2D unicode and more
-  </content>
- </entry>
- <entry>
-  <title>kawakami-o3: luacket</title>
-  <author>
-   <name>kawakami-o3</name>
-  </author>
-  <link href="https://github.com/kawakami-o3/luacket" />
-  <id>urn:rprimus:github:kawakami-o3:luacket</id>
-  <published>2021-06-26T10:29:24Z</published>
-  <updated>2021-06-26T10:29:24Z</updated>
-  <content type="html">
-   Lua Interpreter in Racket
-  </content>
- </entry>
- <entry>
-  <title>AngieCooper: adivina-quien</title>
-  <author>
-   <name>AngieCooper</name>
-  </author>
-  <link href="https://github.com/AngieCooper/adivina-quien" />
-  <id>urn:rprimus:github:AngieCooper:adivina-quien</id>
-  <published>2021-06-26T04:40:45Z</published>
-  <updated>2021-06-26T04:40:45Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
