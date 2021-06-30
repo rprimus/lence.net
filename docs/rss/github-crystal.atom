@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2021-06-29T09:37:07Z</updated>
+<updated>2021-06-30T00:15:27Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>robertsimoes: genuser</title>
+  <author>
+   <name>robertsimoes</name>
+  </author>
+  <link href="https://github.com/robertsimoes/genuser" />
+  <id>urn:rprimus:github:robertsimoes:genuser</id>
+  <published>2021-06-30T00:15:27Z</published>
+  <updated>2021-06-30T00:15:27Z</updated>
+  <content type="html">
+   CLI to generate fun usernames 
+  </content>
+ </entry>
  <entry>
   <title>speg: uuid</title>
   <author>
@@ -41,19 +54,6 @@
   <updated>2021-06-28T21:15:51Z</updated>
   <content type="html">
    A shard that makes it easy to make specific routes in a Kemal application only accessible to either anonymous, authenticated or authorized users.
-  </content>
- </entry>
- <entry>
-  <title>henrikac: github-repos</title>
-  <author>
-   <name>henrikac</name>
-  </author>
-  <link href="https://github.com/henrikac/github-repos" />
-  <id>urn:rprimus:github:henrikac:github-repos</id>
-  <published>2021-06-27T21:33:40Z</published>
-  <updated>2021-06-27T21:33:40Z</updated>
-  <content type="html">
-   A shard that makes it easy to fetch data about specific repositories.
   </content>
  </entry>
 </feed>
