@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-07-01T02:10:32Z</updated>
+<updated>2021-07-01T04:40:04Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>ericdrgn: drgn.nyxt</title>
+  <author>
+   <name>ericdrgn</name>
+  </author>
+  <link href="https://github.com/ericdrgn/drgn.nyxt" />
+  <id>urn:rprimus:github:ericdrgn:drgn.nyxt</id>
+  <published>2021-07-01T04:40:04Z</published>
+  <updated>2021-07-01T04:40:04Z</updated>
+  <content type="html">
+   Base configuration for nyxt with opinionated theme(s) and organization.
+  </content>
+ </entry>
  <entry>
   <title>no-defun-allowed: wasm2ps</title>
   <author>
