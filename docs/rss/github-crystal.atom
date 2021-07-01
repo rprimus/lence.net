@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2021-06-30T00:15:27Z</updated>
+<updated>2021-06-30T14:32:46Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>abstraq: izanami</title>
+  <author>
+   <name>abstraq</name>
+  </author>
+  <link href="https://github.com/abstraq/izanami" />
+  <id>urn:rprimus:github:abstraq:izanami</id>
+  <published>2021-06-30T14:32:46Z</published>
+  <updated>2021-06-30T14:32:46Z</updated>
+  <content type="html">
+   Untrusted code execution sandbox.
+  </content>
+ </entry>
  <entry>
   <title>robertsimoes: genuser</title>
   <author>
@@ -41,19 +54,6 @@
   <updated>2021-06-29T09:25:37Z</updated>
   <content type="html">
    Crystal and Kemal as a super fast API backend
-  </content>
- </entry>
- <entry>
-  <title>henrikac: kemal-authorizer</title>
-  <author>
-   <name>henrikac</name>
-  </author>
-  <link href="https://github.com/henrikac/kemal-authorizer" />
-  <id>urn:rprimus:github:henrikac:kemal-authorizer</id>
-  <published>2021-06-28T21:15:51Z</published>
-  <updated>2021-06-28T21:15:51Z</updated>
-  <content type="html">
-   A shard that makes it easy to make specific routes in a Kemal application only accessible to either anonymous, authenticated or authorized users.
   </content>
  </entry>
 </feed>
