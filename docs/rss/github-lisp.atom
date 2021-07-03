@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-07-01T21:28:34Z</updated>
+<updated>2021-07-03T03:22:02Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>rajasegar: cl-super-rentals</title>
+  <author>
+   <name>rajasegar</name>
+  </author>
+  <link href="https://github.com/rajasegar/cl-super-rentals" />
+  <id>urn:rprimus:github:rajasegar:cl-super-rentals</id>
+  <published>2021-07-03T03:22:02Z</published>
+  <updated>2021-07-03T03:22:02Z</updated>
+  <content type="html">
+   Super rentals in Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>ankitku: gradescope-acl2s</title>
+  <author>
+   <name>ankitku</name>
+  </author>
+  <link href="https://github.com/ankitku/gradescope-acl2s" />
+  <id>urn:rprimus:github:ankitku:gradescope-acl2s</id>
+  <published>2021-07-03T02:55:11Z</published>
+  <updated>2021-07-03T02:55:11Z</updated>
+  <content type="html">
+   Library to automate grading of ACL2s forms on Gradescope
+  </content>
+ </entry>
+ <entry>
+  <title>SourceReviver: nodgui</title>
+  <author>
+   <name>SourceReviver</name>
+  </author>
+  <link href="https://github.com/SourceReviver/nodgui" />
+  <id>urn:rprimus:github:SourceReviver:nodgui</id>
+  <published>2021-07-02T21:40:11Z</published>
+  <updated>2021-07-02T21:40:11Z</updated>
+  <content type="html">
+   Mirror of nodgui https://notabug.org/cage/nodgui or https://www.autistici.org/interzona/nodgui.html
+  </content>
+ </entry>
+ <entry>
+  <title>Aksej: poslin</title>
+  <author>
+   <name>Aksej</name>
+  </author>
+  <link href="https://github.com/Aksej/poslin" />
+  <id>urn:rprimus:github:Aksej:poslin</id>
+  <published>2021-07-02T13:04:33Z</published>
+  <updated>2021-07-02T13:04:33Z</updated>
+  <content type="html">
+   A concatenative programming language with strict postfix syntax and a focus on metaprogramming
+  </content>
+ </entry>
+ <entry>
+  <title>teopalmer: falp</title>
+  <author>
+   <name>teopalmer</name>
+  </author>
+  <link href="https://github.com/teopalmer/falp" />
+  <id>urn:rprimus:github:teopalmer:falp</id>
+  <published>2021-07-02T12:28:36Z</published>
+  <updated>2021-07-02T12:28:36Z</updated>
+  <content type="html">
+   Functional and Logical Programming
+  </content>
+ </entry>
  <entry>
   <title>hemml: OMGlib</title>
   <author>
@@ -66,7 +131,7 @@
   <published>2021-07-01T04:40:04Z</published>
   <updated>2021-07-01T04:40:04Z</updated>
   <content type="html">
-   Base configuration for nyxt with opinionated theme(s) and organization.
+   Base configuration for nyxt browser with opinionated theme(s) and organization.
   </content>
  </entry>
  <entry>
@@ -80,58 +145,6 @@
   <updated>2021-07-01T02:10:32Z</updated>
   <content type="html">
    ruin the sanctity of your printer with ONE WEIRD TRICK
-  </content>
- </entry>
- <entry>
-  <title>WarrenWilkinson: asdf-sbcl-compile-bug</title>
-  <author>
-   <name>WarrenWilkinson</name>
-  </author>
-  <link href="https://github.com/WarrenWilkinson/asdf-sbcl-compile-bug" />
-  <id>urn:rprimus:github:WarrenWilkinson:asdf-sbcl-compile-bug</id>
-  <published>2021-06-30T17:46:23Z</published>
-  <updated>2021-06-30T17:46:23Z</updated>
-  <content type="html">
-   This repository demonstrates what I think is a bug between ASDF and SBCL 2.0.9
-  </content>
- </entry>
- <entry>
-  <title>death: cheetos</title>
-  <author>
-   <name>death</name>
-  </author>
-  <link href="https://github.com/death/cheetos" />
-  <id>urn:rprimus:github:death:cheetos</id>
-  <published>2021-06-30T14:31:05Z</published>
-  <updated>2021-06-30T14:31:05Z</updated>
-  <content type="html">
-   Experimental benchmarking library
-  </content>
- </entry>
- <entry>
-  <title>Quandong-Zhang: Tricolour-Lovestory-code</title>
-  <author>
-   <name>Quandong-Zhang</name>
-  </author>
-  <link href="https://github.com/Quandong-Zhang/Tricolour-Lovestory-code" />
-  <id>urn:rprimus:github:Quandong-Zhang:Tricolour-Lovestory-code</id>
-  <published>2021-06-30T14:00:10Z</published>
-  <updated>2021-06-30T14:00:10Z</updated>
-  <content type="html">
-   åç¼è¯ä¸è²ç»ææ¸¸ææä»¶å¾å°çæºç 
-  </content>
- </entry>
- <entry>
-  <title>sharapeco: .xyzzy</title>
-  <author>
-   <name>sharapeco</name>
-  </author>
-  <link href="https://github.com/sharapeco/.xyzzy" />
-  <id>urn:rprimus:github:sharapeco:.xyzzy</id>
-  <published>2021-06-30T08:51:56Z</published>
-  <updated>2021-06-30T08:51:56Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>

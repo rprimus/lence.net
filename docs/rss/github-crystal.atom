@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2021-07-01T05:10:57Z</updated>
+<updated>2021-07-02T17:55:53Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>Vici37: cr-config</title>
+  <author>
+   <name>Vici37</name>
+  </author>
+  <link href="https://github.com/Vici37/cr-config" />
+  <id>urn:rprimus:github:Vici37:cr-config</id>
+  <published>2021-07-02T17:55:53Z</published>
+  <updated>2021-07-02T17:55:53Z</updated>
+  <content type="html">
+   An all-in-one configuration library to handle any possible configuration need
+  </content>
+ </entry>
+ <entry>
+  <title>chriscz: interval_tree</title>
+  <author>
+   <name>chriscz</name>
+  </author>
+  <link href="https://github.com/chriscz/interval_tree" />
+  <id>urn:rprimus:github:chriscz:interval_tree</id>
+  <published>2021-07-02T15:54:32Z</published>
+  <updated>2021-07-02T15:54:32Z</updated>
+  <content type="html">
+   Crystal implementation of an interval tree
+  </content>
+ </entry>
  <entry>
   <title>grsahil20: luckytter</title>
   <author>
@@ -18,42 +44,16 @@
   </content>
  </entry>
  <entry>
-  <title>lirossarvet: asdfler</title>
+  <title>tedious-tools: asdfler</title>
   <author>
-   <name>lirossarvet</name>
+   <name>tedious-tools</name>
   </author>
-  <link href="https://github.com/lirossarvet/asdfler" />
-  <id>urn:rprimus:github:lirossarvet:asdfler</id>
+  <link href="https://github.com/tedious-tools/asdfler" />
+  <id>urn:rprimus:github:tedious-tools:asdfler</id>
   <published>2021-07-01T04:16:00Z</published>
   <updated>2021-07-01T04:16:00Z</updated>
   <content type="html">
    Tool for installing asdf plugins and helping bootstrap a new machine
-  </content>
- </entry>
- <entry>
-  <title>abstraq: izanami</title>
-  <author>
-   <name>abstraq</name>
-  </author>
-  <link href="https://github.com/abstraq/izanami" />
-  <id>urn:rprimus:github:abstraq:izanami</id>
-  <published>2021-06-30T14:32:46Z</published>
-  <updated>2021-06-30T14:32:46Z</updated>
-  <content type="html">
-   Untrusted code execution sandbox.
-  </content>
- </entry>
- <entry>
-  <title>robertsimoes: genuser</title>
-  <author>
-   <name>robertsimoes</name>
-  </author>
-  <link href="https://github.com/robertsimoes/genuser" />
-  <id>urn:rprimus:github:robertsimoes:genuser</id>
-  <published>2021-06-30T00:15:27Z</published>
-  <updated>2021-06-30T00:15:27Z</updated>
-  <content type="html">
-   CLI to generate fun usernames 
   </content>
  </entry>
 </feed>
