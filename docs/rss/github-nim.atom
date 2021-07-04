@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2021-07-03T01:57:33Z</updated>
+<updated>2021-07-03T17:31:19Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>sivchari: nimockery</title>
+  <author>
+   <name>sivchari</name>
+  </author>
+  <link href="https://github.com/sivchari/nimockery" />
+  <id>urn:rprimus:github:sivchari:nimockery</id>
+  <published>2021-07-03T17:31:19Z</published>
+  <updated>2021-07-03T17:31:19Z</updated>
+  <content type="html">
+   nimockery provides mock for all tests
+  </content>
+ </entry>
+ <entry>
+  <title>pyxgun: xtal</title>
+  <author>
+   <name>pyxgun</name>
+  </author>
+  <link href="https://github.com/pyxgun/xtal" />
+  <id>urn:rprimus:github:pyxgun:xtal</id>
+  <published>2021-07-03T14:14:52Z</published>
+  <updated>2021-07-03T14:14:52Z</updated>
+  <content type="html">
+   Xtal is lightweight container runtime in Nim
+  </content>
+ </entry>
+ <entry>
+  <title>wiremoons: namt</title>
+  <author>
+   <name>wiremoons</name>
+  </author>
+  <link href="https://github.com/wiremoons/namt" />
+  <id>urn:rprimus:github:wiremoons:namt</id>
+  <published>2021-07-03T09:01:10Z</published>
+  <updated>2021-07-03T09:01:10Z</updated>
+  <content type="html">
+   Nim Acronym Management Tool (NAMT) manages acronyms stored in a SQLite database.
+  </content>
+ </entry>
  <entry>
   <title>song10: nimutils</title>
   <author>
@@ -79,7 +118,7 @@
   <published>2021-07-02T10:39:58Z</published>
   <updated>2021-07-02T10:39:58Z</updated>
   <content type="html">
-   trying out NimGL 
+   trying out NimGL, which is primarily a port of GLFW into Nim
   </content>
  </entry>
  <entry>
@@ -106,110 +145,6 @@
   <updated>2021-07-02T01:26:33Z</updated>
   <content type="html">
    ð Create HyperText with Nim.
-  </content>
- </entry>
- <entry>
-  <title>rdpopov: KillingGround</title>
-  <author>
-   <name>rdpopov</name>
-  </author>
-  <link href="https://github.com/rdpopov/KillingGround" />
-  <id>urn:rprimus:github:rdpopov:KillingGround</id>
-  <published>2021-07-01T22:47:49Z</published>
-  <updated>2021-07-01T22:47:49Z</updated>
-  <content type="html">
-   A
-  </content>
- </entry>
- <entry>
-  <title>zevv: cpstut</title>
-  <author>
-   <name>zevv</name>
-  </author>
-  <link href="https://github.com/zevv/cpstut" />
-  <id>urn:rprimus:github:zevv:cpstut</id>
-  <published>2021-07-01T18:22:57Z</published>
-  <updated>2021-07-01T18:22:57Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>mildred: resolv.nim</title>
-  <author>
-   <name>mildred</name>
-  </author>
-  <link href="https://github.com/mildred/resolv.nim" />
-  <id>urn:rprimus:github:mildred:resolv.nim</id>
-  <published>2021-07-01T16:21:09Z</published>
-  <updated>2021-07-01T16:21:09Z</updated>
-  <content type="html">
-   DNS resolution library using the glibc system resolver
-  </content>
- </entry>
- <entry>
-  <title>ranedk: nimhello</title>
-  <author>
-   <name>ranedk</name>
-  </author>
-  <link href="https://github.com/ranedk/nimhello" />
-  <id>urn:rprimus:github:ranedk:nimhello</id>
-  <published>2021-07-01T14:34:27Z</published>
-  <updated>2021-07-01T14:34:27Z</updated>
-  <content type="html">
-   Visual code setup for Nim and Nimble Projects
-  </content>
- </entry>
- <entry>
-  <title>momeemt: next</title>
-  <author>
-   <name>momeemt</name>
-  </author>
-  <link href="https://github.com/momeemt/next" />
-  <id>urn:rprimus:github:momeemt:next</id>
-  <published>2021-07-01T14:09:09Z</published>
-  <updated>2021-07-01T14:09:09Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>KJ002: Muon</title>
-  <author>
-   <name>KJ002</name>
-  </author>
-  <link href="https://github.com/KJ002/Muon" />
-  <id>urn:rprimus:github:KJ002:Muon</id>
-  <published>2021-07-01T13:12:53Z</published>
-  <updated>2021-07-01T13:12:53Z</updated>
-  <content type="html">
-   A void linux package queary tool
-  </content>
- </entry>
- <entry>
-  <title>ajusa: vnds-player</title>
-  <author>
-   <name>ajusa</name>
-  </author>
-  <link href="https://github.com/ajusa/vnds-player" />
-  <id>urn:rprimus:github:ajusa:vnds-player</id>
-  <published>2021-07-01T03:02:45Z</published>
-  <updated>2021-07-01T03:02:45Z</updated>
-  <content type="html">
-   A VNDS engine, rewritten from the ground up to be compatible with the 3DS
-  </content>
- </entry>
- <entry>
-  <title>bung87: rehighlite</title>
-  <author>
-   <name>bung87</name>
-  </author>
-  <link href="https://github.com/bung87/rehighlite" />
-  <id>urn:rprimus:github:bung87:rehighlite</id>
-  <published>2021-07-01T02:39:38Z</published>
-  <updated>2021-07-01T02:39:38Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
