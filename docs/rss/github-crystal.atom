@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2021-07-04T08:36:18Z</updated>
+<updated>2021-07-04T22:07:03Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>mdevoe12: kemal_test</title>
+  <author>
+   <name>mdevoe12</name>
+  </author>
+  <link href="https://github.com/mdevoe12/kemal_test" />
+  <id>urn:rprimus:github:mdevoe12:kemal_test</id>
+  <published>2021-07-04T22:07:03Z</published>
+  <updated>2021-07-04T22:07:03Z</updated>
+  <content type="html">
+   Sample app for making 3rd party API calls and parsing response
+  </content>
+ </entry>
+ <entry>
+  <title>richardboehme: jennifer-drop-reference-bug</title>
+  <author>
+   <name>richardboehme</name>
+  </author>
+  <link href="https://github.com/richardboehme/jennifer-drop-reference-bug" />
+  <id>urn:rprimus:github:richardboehme:jennifer-drop-reference-bug</id>
+  <published>2021-07-04T13:40:41Z</published>
+  <updated>2021-07-04T13:40:41Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>spider-gazelle: crunits</title>
   <author>
@@ -41,32 +67,6 @@
   <updated>2021-07-03T14:36:30Z</updated>
   <content type="html">
    A shard that adds an extra layer of protection to Kemal apps by setting various HTTP headers.
-  </content>
- </entry>
- <entry>
-  <title>Vici37: cr-config</title>
-  <author>
-   <name>Vici37</name>
-  </author>
-  <link href="https://github.com/Vici37/cr-config" />
-  <id>urn:rprimus:github:Vici37:cr-config</id>
-  <published>2021-07-02T17:55:53Z</published>
-  <updated>2021-07-02T17:55:53Z</updated>
-  <content type="html">
-   An all-in-one configuration library to handle any possible configuration need
-  </content>
- </entry>
- <entry>
-  <title>chriscz: interval_tree</title>
-  <author>
-   <name>chriscz</name>
-  </author>
-  <link href="https://github.com/chriscz/interval_tree" />
-  <id>urn:rprimus:github:chriscz:interval_tree</id>
-  <published>2021-07-02T15:54:32Z</published>
-  <updated>2021-07-02T15:54:32Z</updated>
-  <content type="html">
-   Crystal implementation of an interval tree
   </content>
  </entry>
 </feed>

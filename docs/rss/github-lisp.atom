@@ -2,8 +2,138 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-07-04T08:35:10Z</updated>
+<updated>2021-07-05T04:56:05Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>wiwao: LSP-B</title>
+  <author>
+   <name>wiwao</name>
+  </author>
+  <link href="https://github.com/wiwao/LSP-B" />
+  <id>urn:rprimus:github:wiwao:LSP-B</id>
+  <published>2021-07-05T04:56:05Z</published>
+  <updated>2021-07-05T04:56:05Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>FloatingLion: Cabin-Life</title>
+  <author>
+   <name>FloatingLion</name>
+  </author>
+  <link href="https://github.com/FloatingLion/Cabin-Life" />
+  <id>urn:rprimus:github:FloatingLion:Cabin-Life</id>
+  <published>2021-07-05T03:56:31Z</published>
+  <updated>2021-07-05T03:56:31Z</updated>
+  <content type="html">
+   Some Common Lisp works.
+  </content>
+ </entry>
+ <entry>
+  <title>canbeyaznar: prolog-implementation-with-CL</title>
+  <author>
+   <name>canbeyaznar</name>
+  </author>
+  <link href="https://github.com/canbeyaznar/prolog-implementation-with-CL" />
+  <id>urn:rprimus:github:canbeyaznar:prolog-implementation-with-CL</id>
+  <published>2021-07-04T22:49:52Z</published>
+  <updated>2021-07-04T22:49:52Z</updated>
+  <content type="html">
+   simple prolog implementation with using common lips
+  </content>
+ </entry>
+ <entry>
+  <title>canbeyaznar: lisp-brute-force-decoder</title>
+  <author>
+   <name>canbeyaznar</name>
+  </author>
+  <link href="https://github.com/canbeyaznar/lisp-brute-force-decoder" />
+  <id>urn:rprimus:github:canbeyaznar:lisp-brute-force-decoder</id>
+  <published>2021-07-04T22:36:30Z</published>
+  <updated>2021-07-04T22:36:30Z</updated>
+  <content type="html">
+   A lisp project that decrypts the ciphertext from the user with the brute force method.
+  </content>
+ </entry>
+ <entry>
+  <title>lctr: webdo</title>
+  <author>
+   <name>lctr</name>
+  </author>
+  <link href="https://github.com/lctr/webdo" />
+  <id>urn:rprimus:github:lctr:webdo</id>
+  <published>2021-07-04T21:23:22Z</published>
+  <updated>2021-07-04T21:23:22Z</updated>
+  <content type="html">
+   A simple todo list web app powered by Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>Kehvarl: cl-roguelight</title>
+  <author>
+   <name>Kehvarl</name>
+  </author>
+  <link href="https://github.com/Kehvarl/cl-roguelight" />
+  <id>urn:rprimus:github:Kehvarl:cl-roguelight</id>
+  <published>2021-07-04T20:38:54Z</published>
+  <updated>2021-07-04T20:38:54Z</updated>
+  <content type="html">
+   Playing with lighting in common-lisp roguelike.
+  </content>
+ </entry>
+ <entry>
+  <title>K1D77A: cl-read-writer-lock</title>
+  <author>
+   <name>K1D77A</name>
+  </author>
+  <link href="https://github.com/K1D77A/cl-read-writer-lock" />
+  <id>urn:rprimus:github:K1D77A:cl-read-writer-lock</id>
+  <published>2021-07-04T17:53:35Z</published>
+  <updated>2021-07-04T17:53:35Z</updated>
+  <content type="html">
+   read writer lock
+  </content>
+ </entry>
+ <entry>
+  <title>drfg0119: Obstacle-Avoidance-on-Labmade-Robot</title>
+  <author>
+   <name>drfg0119</name>
+  </author>
+  <link href="https://github.com/drfg0119/Obstacle-Avoidance-on-Labmade-Robot" />
+  <id>urn:rprimus:github:drfg0119:Obstacle-Avoidance-on-Labmade-Robot</id>
+  <published>2021-07-04T17:13:34Z</published>
+  <updated>2021-07-04T17:13:34Z</updated>
+  <content type="html">
+   Path Following and Obstacle Avoidance by Deep Deterministic Policy Gradient
+  </content>
+ </entry>
+ <entry>
+  <title>smvamse: utilz</title>
+  <author>
+   <name>smvamse</name>
+  </author>
+  <link href="https://github.com/smvamse/utilz" />
+  <id>urn:rprimus:github:smvamse:utilz</id>
+  <published>2021-07-04T14:09:28Z</published>
+  <updated>2021-07-04T14:09:28Z</updated>
+  <content type="html">
+   My extensions to CommonLisp
+  </content>
+ </entry>
+ <entry>
+  <title>Aksej: Mang</title>
+  <author>
+   <name>Aksej</name>
+  </author>
+  <link href="https://github.com/Aksej/Mang" />
+  <id>urn:rprimus:github:Aksej:Mang</id>
+  <published>2021-07-04T09:49:41Z</published>
+  <updated>2021-07-04T09:49:41Z</updated>
+  <content type="html">
+   A conlanging program
+  </content>
+ </entry>
  <entry>
   <title>marekmaskarinec: grapher</title>
   <author>
@@ -119,45 +249,6 @@
   <updated>2021-07-03T02:55:11Z</updated>
   <content type="html">
    Library to automate grading of ACL2s forms on Gradescope
-  </content>
- </entry>
- <entry>
-  <title>SourceReviver: nodgui</title>
-  <author>
-   <name>SourceReviver</name>
-  </author>
-  <link href="https://github.com/SourceReviver/nodgui" />
-  <id>urn:rprimus:github:SourceReviver:nodgui</id>
-  <published>2021-07-02T21:40:11Z</published>
-  <updated>2021-07-02T21:40:11Z</updated>
-  <content type="html">
-   Mirror of nodgui https://notabug.org/cage/nodgui or https://www.autistici.org/interzona/nodgui.html
-  </content>
- </entry>
- <entry>
-  <title>Aksej: poslin</title>
-  <author>
-   <name>Aksej</name>
-  </author>
-  <link href="https://github.com/Aksej/poslin" />
-  <id>urn:rprimus:github:Aksej:poslin</id>
-  <published>2021-07-02T13:04:33Z</published>
-  <updated>2021-07-02T13:04:33Z</updated>
-  <content type="html">
-   A concatenative programming language with strict postfix syntax and a focus on metaprogramming
-  </content>
- </entry>
- <entry>
-  <title>teopalmer: falp</title>
-  <author>
-   <name>teopalmer</name>
-  </author>
-  <link href="https://github.com/teopalmer/falp" />
-  <id>urn:rprimus:github:teopalmer:falp</id>
-  <published>2021-07-02T12:28:36Z</published>
-  <updated>2021-07-02T12:28:36Z</updated>
-  <content type="html">
-   Functional and Logical Programming
   </content>
  </entry>
 </feed>
