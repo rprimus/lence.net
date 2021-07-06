@@ -2,8 +2,125 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2021-07-04T18:52:39Z</updated>
+<updated>2021-07-06T01:32:56Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>prozacchiwawa: ochialisp</title>
+  <author>
+   <name>prozacchiwawa</name>
+  </author>
+  <link href="https://github.com/prozacchiwawa/ochialisp" />
+  <id>urn:rprimus:github:prozacchiwawa:ochialisp</id>
+  <published>2021-07-06T01:32:56Z</published>
+  <updated>2021-07-06T01:32:56Z</updated>
+  <content type="html">
+   A somewhat authentic implementation of chialisp from the ground up using a different approach
+  </content>
+ </entry>
+ <entry>
+  <title>bradcampbel1: OCamlCompiler</title>
+  <author>
+   <name>bradcampbel1</name>
+  </author>
+  <link href="https://github.com/bradcampbel1/OCamlCompiler" />
+  <id>urn:rprimus:github:bradcampbel1:OCamlCompiler</id>
+  <published>2021-07-05T23:38:21Z</published>
+  <updated>2021-07-05T23:38:21Z</updated>
+  <content type="html">
+   OCaml compiler project written, oddly enough, in OCaml. This was meant as an exploration of parsing input strings and creating real system output that is parallel to compiler output.
+  </content>
+ </entry>
+ <entry>
+  <title>ygaitonde: ocaml-notes</title>
+  <author>
+   <name>ygaitonde</name>
+  </author>
+  <link href="https://github.com/ygaitonde/ocaml-notes" />
+  <id>urn:rprimus:github:ygaitonde:ocaml-notes</id>
+  <published>2021-07-05T23:13:06Z</published>
+  <updated>2021-07-05T23:13:06Z</updated>
+  <content type="html">
+   OCaml exercizes from Cornell CS3110
+  </content>
+ </entry>
+ <entry>
+  <title>MikeSkoe: ocaml_graphs</title>
+  <author>
+   <name>MikeSkoe</name>
+  </author>
+  <link href="https://github.com/MikeSkoe/ocaml_graphs" />
+  <id>urn:rprimus:github:MikeSkoe:ocaml_graphs</id>
+  <published>2021-07-05T17:32:54Z</published>
+  <updated>2021-07-05T17:32:54Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>solanav: ezreq</title>
+  <author>
+   <name>solanav</name>
+  </author>
+  <link href="https://github.com/solanav/ezreq" />
+  <id>urn:rprimus:github:solanav:ezreq</id>
+  <published>2021-07-05T16:49:05Z</published>
+  <updated>2021-07-05T16:49:05Z</updated>
+  <content type="html">
+   External DSL to learn about OCaml and compilers
+  </content>
+ </entry>
+ <entry>
+  <title>NathanReb: opttopfind</title>
+  <author>
+   <name>NathanReb</name>
+  </author>
+  <link href="https://github.com/NathanReb/opttopfind" />
+  <id>urn:rprimus:github:NathanReb:opttopfind</id>
+  <published>2021-07-05T16:48:48Z</published>
+  <updated>2021-07-05T16:48:48Z</updated>
+  <content type="html">
+   Topfind port to native toplevel
+  </content>
+ </entry>
+ <entry>
+  <title>pkel: cpr</title>
+  <author>
+   <name>pkel</name>
+  </author>
+  <link href="https://github.com/pkel/cpr" />
+  <id>urn:rprimus:github:pkel:cpr</id>
+  <published>2021-07-05T16:00:54Z</published>
+  <updated>2021-07-05T16:00:54Z</updated>
+  <content type="html">
+   consensus protocol research
+  </content>
+ </entry>
+ <entry>
+  <title>tars0x9752: 99-problems-in-ocaml</title>
+  <author>
+   <name>tars0x9752</name>
+  </author>
+  <link href="https://github.com/tars0x9752/99-problems-in-ocaml" />
+  <id>urn:rprimus:github:tars0x9752:99-problems-in-ocaml</id>
+  <published>2021-07-05T15:41:53Z</published>
+  <updated>2021-07-05T15:41:53Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>GuilhermeTeixeira13: ExchangedChangesProblem</title>
+  <author>
+   <name>GuilhermeTeixeira13</name>
+  </author>
+  <link href="https://github.com/GuilhermeTeixeira13/ExchangedChangesProblem" />
+  <id>urn:rprimus:github:GuilhermeTeixeira13:ExchangedChangesProblem</id>
+  <published>2021-07-05T12:10:39Z</published>
+  <updated>2021-07-05T12:10:39Z</updated>
+  <content type="html">
+   In this Ocaml exercise, we will exemplify the differences between dynamic programming and greedy algorithms.
+  </content>
+ </entry>
  <entry>
   <title>SGrondin: time2burn</title>
   <author>
@@ -27,7 +144,7 @@
   <published>2021-07-04T16:34:41Z</published>
   <updated>2021-07-04T16:34:41Z</updated>
   <content type="html">
-   Recursive resolution of a problem that envolves money -&gt; More details in readme.txt
+   Ocaml Recursive resolution of a problem that envolves money -&gt; More details in readme.txt
   </content>
  </entry>
  <entry>
@@ -78,84 +195,6 @@
   <id>urn:rprimus:github:derui:ocaml-c-compiler</id>
   <published>2021-07-04T00:59:31Z</published>
   <updated>2021-07-04T00:59:31Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Brendita1: OCAML--proyect</title>
-  <author>
-   <name>Brendita1</name>
-  </author>
-  <link href="https://github.com/Brendita1/OCAML--proyect" />
-  <id>urn:rprimus:github:Brendita1:OCAML--proyect</id>
-  <published>2021-07-03T17:09:44Z</published>
-  <updated>2021-07-03T17:09:44Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jordanrmerrick: trainual-code-fix</title>
-  <author>
-   <name>jordanrmerrick</name>
-  </author>
-  <link href="https://github.com/jordanrmerrick/trainual-code-fix" />
-  <id>urn:rprimus:github:jordanrmerrick:trainual-code-fix</id>
-  <published>2021-07-03T15:12:15Z</published>
-  <updated>2021-07-03T15:12:15Z</updated>
-  <content type="html">
-   A parser that will find and replace instances of ` with inline code
-  </content>
- </entry>
- <entry>
-  <title>Plagiat01: ocaml-llvm-compiler</title>
-  <author>
-   <name>Plagiat01</name>
-  </author>
-  <link href="https://github.com/Plagiat01/ocaml-llvm-compiler" />
-  <id>urn:rprimus:github:Plagiat01:ocaml-llvm-compiler</id>
-  <published>2021-07-03T13:52:03Z</published>
-  <updated>2021-07-03T13:52:03Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>tmoka: learning_OCaml</title>
-  <author>
-   <name>tmoka</name>
-  </author>
-  <link href="https://github.com/tmoka/learning_OCaml" />
-  <id>urn:rprimus:github:tmoka:learning_OCaml</id>
-  <published>2021-07-03T10:00:51Z</published>
-  <updated>2021-07-03T10:00:51Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jayesh-bhoot: spiced-tea</title>
-  <author>
-   <name>jayesh-bhoot</name>
-  </author>
-  <link href="https://github.com/jayesh-bhoot/spiced-tea" />
-  <id>urn:rprimus:github:jayesh-bhoot:spiced-tea</id>
-  <published>2021-07-03T08:22:44Z</published>
-  <updated>2021-07-03T08:22:44Z</updated>
-  <content type="html">
-   bucklescript-tea with Melange
-  </content>
- </entry>
- <entry>
-  <title>gregberns: ocaml-poc-ast</title>
-  <author>
-   <name>gregberns</name>
-  </author>
-  <link href="https://github.com/gregberns/ocaml-poc-ast" />
-  <id>urn:rprimus:github:gregberns:ocaml-poc-ast</id>
-  <published>2021-07-03T06:41:52Z</published>
-  <updated>2021-07-03T06:41:52Z</updated>
   <content type="html">
    
   </content>
