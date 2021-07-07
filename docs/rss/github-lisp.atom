@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-07-06T07:56:43Z</updated>
+<updated>2021-07-07T04:28:42Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>Liszt21: Clish</title>
+  <author>
+   <name>Liszt21</name>
+  </author>
+  <link href="https://github.com/Liszt21/Clish" />
+  <id>urn:rprimus:github:Liszt21:Clish</id>
+  <published>2021-07-07T04:28:42Z</published>
+  <updated>2021-07-07T04:28:42Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>ilya89099: LispLabs</title>
+  <author>
+   <name>ilya89099</name>
+  </author>
+  <link href="https://github.com/ilya89099/LispLabs" />
+  <id>urn:rprimus:github:ilya89099:LispLabs</id>
+  <published>2021-07-06T23:20:20Z</published>
+  <updated>2021-07-06T23:20:20Z</updated>
+  <content type="html">
+   Functiolal programming LISP labs
+  </content>
+ </entry>
+ <entry>
+  <title>aakropotkin: cl-compdb</title>
+  <author>
+   <name>aakropotkin</name>
+  </author>
+  <link href="https://github.com/aakropotkin/cl-compdb" />
+  <id>urn:rprimus:github:aakropotkin:cl-compdb</id>
+  <published>2021-07-06T23:16:22Z</published>
+  <updated>2021-07-06T23:16:22Z</updated>
+  <content type="html">
+   A Common Lisp parser for `compilation_commands.json` files for generating `automake` equivalents.
+  </content>
+ </entry>
+ <entry>
+  <title>tre-flip: lwm</title>
+  <author>
+   <name>tre-flip</name>
+  </author>
+  <link href="https://github.com/tre-flip/lwm" />
+  <id>urn:rprimus:github:tre-flip:lwm</id>
+  <published>2021-07-06T17:22:01Z</published>
+  <updated>2021-07-06T17:22:01Z</updated>
+  <content type="html">
+   Lisp window manager
+  </content>
+ </entry>
+ <entry>
+  <title>linnforsman: lisp-code-script</title>
+  <author>
+   <name>linnforsman</name>
+  </author>
+  <link href="https://github.com/linnforsman/lisp-code-script" />
+  <id>urn:rprimus:github:linnforsman:lisp-code-script</id>
+  <published>2021-07-06T12:24:59Z</published>
+  <updated>2021-07-06T12:24:59Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>radiobenzene: LinearEquations</title>
   <author>
@@ -119,149 +184,6 @@
   <updated>2021-07-05T03:56:31Z</updated>
   <content type="html">
    Some Common Lisp works.
-  </content>
- </entry>
- <entry>
-  <title>canbeyaznar: prolog-implementation-with-CL</title>
-  <author>
-   <name>canbeyaznar</name>
-  </author>
-  <link href="https://github.com/canbeyaznar/prolog-implementation-with-CL" />
-  <id>urn:rprimus:github:canbeyaznar:prolog-implementation-with-CL</id>
-  <published>2021-07-04T22:49:52Z</published>
-  <updated>2021-07-04T22:49:52Z</updated>
-  <content type="html">
-   simple prolog implementation with using common lips
-  </content>
- </entry>
- <entry>
-  <title>canbeyaznar: lisp-brute-force-decoder</title>
-  <author>
-   <name>canbeyaznar</name>
-  </author>
-  <link href="https://github.com/canbeyaznar/lisp-brute-force-decoder" />
-  <id>urn:rprimus:github:canbeyaznar:lisp-brute-force-decoder</id>
-  <published>2021-07-04T22:36:30Z</published>
-  <updated>2021-07-04T22:36:30Z</updated>
-  <content type="html">
-   A lisp project that decrypts the ciphertext from the user with the brute force method.
-  </content>
- </entry>
- <entry>
-  <title>lctr: webdo</title>
-  <author>
-   <name>lctr</name>
-  </author>
-  <link href="https://github.com/lctr/webdo" />
-  <id>urn:rprimus:github:lctr:webdo</id>
-  <published>2021-07-04T21:23:22Z</published>
-  <updated>2021-07-04T21:23:22Z</updated>
-  <content type="html">
-   A simple todo list web app powered by Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>Kehvarl: cl-roguelight</title>
-  <author>
-   <name>Kehvarl</name>
-  </author>
-  <link href="https://github.com/Kehvarl/cl-roguelight" />
-  <id>urn:rprimus:github:Kehvarl:cl-roguelight</id>
-  <published>2021-07-04T20:38:54Z</published>
-  <updated>2021-07-04T20:38:54Z</updated>
-  <content type="html">
-   Playing with lighting in common-lisp roguelike.
-  </content>
- </entry>
- <entry>
-  <title>K1D77A: cl-read-writer-lock</title>
-  <author>
-   <name>K1D77A</name>
-  </author>
-  <link href="https://github.com/K1D77A/cl-read-writer-lock" />
-  <id>urn:rprimus:github:K1D77A:cl-read-writer-lock</id>
-  <published>2021-07-04T17:53:35Z</published>
-  <updated>2021-07-04T17:53:35Z</updated>
-  <content type="html">
-   read writer lock
-  </content>
- </entry>
- <entry>
-  <title>smvamse: utilz</title>
-  <author>
-   <name>smvamse</name>
-  </author>
-  <link href="https://github.com/smvamse/utilz" />
-  <id>urn:rprimus:github:smvamse:utilz</id>
-  <published>2021-07-04T14:09:28Z</published>
-  <updated>2021-07-04T14:09:28Z</updated>
-  <content type="html">
-   My extensions to CommonLisp
-  </content>
- </entry>
- <entry>
-  <title>Aksej: Mang</title>
-  <author>
-   <name>Aksej</name>
-  </author>
-  <link href="https://github.com/Aksej/Mang" />
-  <id>urn:rprimus:github:Aksej:Mang</id>
-  <published>2021-07-04T09:49:41Z</published>
-  <updated>2021-07-04T09:49:41Z</updated>
-  <content type="html">
-   A conlanging program
-  </content>
- </entry>
- <entry>
-  <title>marekmaskarinec: grapher</title>
-  <author>
-   <name>marekmaskarinec</name>
-  </author>
-  <link href="https://github.com/marekmaskarinec/grapher" />
-  <id>urn:rprimus:github:marekmaskarinec:grapher</id>
-  <published>2021-07-04T08:35:10Z</published>
-  <updated>2021-07-04T08:35:10Z</updated>
-  <content type="html">
-   Function drawer in common lisp
-  </content>
- </entry>
- <entry>
-  <title>yurrriq: paip</title>
-  <author>
-   <name>yurrriq</name>
-  </author>
-  <link href="https://github.com/yurrriq/paip" />
-  <id>urn:rprimus:github:yurrriq:paip</id>
-  <published>2021-07-04T05:22:56Z</published>
-  <updated>2021-07-04T05:22:56Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>rajasegar: cl-tvmaze</title>
-  <author>
-   <name>rajasegar</name>
-  </author>
-  <link href="https://github.com/rajasegar/cl-tvmaze" />
-  <id>urn:rprimus:github:rajasegar:cl-tvmaze</id>
-  <published>2021-07-04T05:14:51Z</published>
-  <updated>2021-07-04T05:14:51Z</updated>
-  <content type="html">
-   TV Maze api demo in Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>callsamu: lispychip-8</title>
-  <author>
-   <name>callsamu</name>
-  </author>
-  <link href="https://github.com/callsamu/lispychip-8" />
-  <id>urn:rprimus:github:callsamu:lispychip-8</id>
-  <published>2021-07-04T04:15:56Z</published>
-  <updated>2021-07-04T04:15:56Z</updated>
-  <content type="html">
-   A CHIP-8 emulator written in Common Lisp.
   </content>
  </entry>
 </feed>
