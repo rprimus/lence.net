@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2021-07-07T20:32:52Z</updated>
+<updated>2021-07-09T06:17:28Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>weirdbricks: static_album_generator</title>
+  <author>
+   <name>weirdbricks</name>
+  </author>
+  <link href="https://github.com/weirdbricks/static_album_generator" />
+  <id>urn:rprimus:github:weirdbricks:static_album_generator</id>
+  <published>2021-07-09T06:17:28Z</published>
+  <updated>2021-07-09T06:17:28Z</updated>
+  <content type="html">
+   A CLI tool written in Crystal Lang that takes subdirectories with photos and creates an album with thumbnails out of them
+  </content>
+ </entry>
+ <entry>
+  <title>elorest: can_example</title>
+  <author>
+   <name>elorest</name>
+  </author>
+  <link href="https://github.com/elorest/can_example" />
+  <id>urn:rprimus:github:elorest:can_example</id>
+  <published>2021-07-08T17:04:01Z</published>
+  <updated>2021-07-08T17:04:01Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>ZhdanovP: url-checker</title>
   <author>
@@ -54,45 +80,6 @@
   <updated>2021-07-07T04:51:28Z</updated>
   <content type="html">
    A Crystal library for working with various character sets, recognizing text and generating random text from specific character sets.
-  </content>
- </entry>
- <entry>
-  <title>didactic-drunk: fiber_stats.cr</title>
-  <author>
-   <name>didactic-drunk</name>
-  </author>
-  <link href="https://github.com/didactic-drunk/fiber_stats.cr" />
-  <id>urn:rprimus:github:didactic-drunk:fiber_stats.cr</id>
-  <published>2021-07-06T20:41:16Z</published>
-  <updated>2021-07-06T20:41:16Z</updated>
-  <content type="html">
-   WIP Fiber Stats
-  </content>
- </entry>
- <entry>
-  <title>dorianmariefr: project-euler-crystal</title>
-  <author>
-   <name>dorianmariefr</name>
-  </author>
-  <link href="https://github.com/dorianmariefr/project-euler-crystal" />
-  <id>urn:rprimus:github:dorianmariefr:project-euler-crystal</id>
-  <published>2021-07-06T16:29:46Z</published>
-  <updated>2021-07-06T16:29:46Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>gummybears: LibGL</title>
-  <author>
-   <name>gummybears</name>
-  </author>
-  <link href="https://github.com/gummybears/LibGL" />
-  <id>urn:rprimus:github:gummybears:LibGL</id>
-  <published>2021-07-06T08:16:17Z</published>
-  <updated>2021-07-06T08:16:17Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
