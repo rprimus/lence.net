@@ -2,19 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-racket.atom"/>
 <id>urn:rprimus:github:newracketrepos</id>
-<updated>2021-07-09T22:26:00Z</updated>
+<updated>2021-07-10T15:34:08Z</updated>
 <title type='text'>New GitHub Racket Repos</title>
  <entry>
-  <title>toastrlord: nand2tetris</title>
+  <title>literacy-scrbl: STEM</title>
   <author>
-   <name>toastrlord</name>
+   <name>literacy-scrbl</name>
   </author>
-  <link href="https://github.com/toastrlord/nand2tetris" />
-  <id>urn:rprimus:github:toastrlord:nand2tetris</id>
-  <published>2021-07-09T22:26:00Z</published>
-  <updated>2021-07-09T22:26:00Z</updated>
+  <link href="https://github.com/literacy-scrbl/STEM" />
+  <id>urn:rprimus:github:literacy-scrbl:STEM</id>
+  <published>2021-07-10T15:34:08Z</published>
+  <updated>2021-07-10T15:34:08Z</updated>
   <content type="html">
-   
+   Various scientific topics
+  </content>
+ </entry>
+ <entry>
+  <title>mtndaghyani: raithon</title>
+  <author>
+   <name>mtndaghyani</name>
+  </author>
+  <link href="https://github.com/mtndaghyani/raithon" />
+  <id>urn:rprimus:github:mtndaghyani:raithon</id>
+  <published>2021-07-10T11:10:31Z</published>
+  <updated>2021-07-10T11:10:31Z</updated>
+  <content type="html">
+   A simplified Python interpreter with Racket
+  </content>
+ </entry>
+ <entry>
+  <title>raz-mon: PPL-HW5</title>
+  <author>
+   <name>raz-mon</name>
+  </author>
+  <link href="https://github.com/raz-mon/PPL-HW5" />
+  <id>urn:rprimus:github:raz-mon:PPL-HW5</id>
+  <published>2021-07-10T11:08:24Z</published>
+  <updated>2021-07-10T11:08:24Z</updated>
+  <content type="html">
+   Home-work 5 of PPL course
   </content>
  </entry>
  <entry>
@@ -79,7 +105,7 @@
   <published>2021-07-09T07:10:15Z</published>
   <updated>2021-07-09T07:10:15Z</updated>
   <content type="html">
-   
+   Programming Languages Final Project, Fall 2020
   </content>
  </entry>
  <entry>
@@ -132,32 +158,6 @@
   <updated>2021-07-09T02:47:08Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>euokyun: SICP-Practice</title>
-  <author>
-   <name>euokyun</name>
-  </author>
-  <link href="https://github.com/euokyun/SICP-Practice" />
-  <id>urn:rprimus:github:euokyun:SICP-Practice</id>
-  <published>2021-07-08T23:40:12Z</published>
-  <updated>2021-07-08T23:40:12Z</updated>
-  <content type="html">
-   personal SCIP practice
-  </content>
- </entry>
- <entry>
-  <title>Vulcan19rl: racket-tic-tac-toe</title>
-  <author>
-   <name>Vulcan19rl</name>
-  </author>
-  <link href="https://github.com/Vulcan19rl/racket-tic-tac-toe" />
-  <id>urn:rprimus:github:Vulcan19rl:racket-tic-tac-toe</id>
-  <published>2021-07-08T22:04:48Z</published>
-  <updated>2021-07-08T22:04:48Z</updated>
-  <content type="html">
-   Tic Tac Toe built in racket. Very minimal but works. No winning screen or score.
   </content>
  </entry>
 </feed>
