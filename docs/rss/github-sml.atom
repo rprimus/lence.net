@@ -2,19 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-sml.atom"/>
 <id>urn:rprimus:github:newsmlrepos</id>
-<updated>2021-07-09T14:06:40Z</updated>
+<updated>2021-07-11T20:10:26Z</updated>
 <title type='text'>New GitHub Sml Repos</title>
  <entry>
-  <title>JanKse: basicMotionControl</title>
+  <title>Ramneet-Singh: boolf-parser-typeChecker-evaluator</title>
   <author>
-   <name>JanKse</name>
+   <name>Ramneet-Singh</name>
   </author>
-  <link href="https://github.com/JanKse/basicMotionControl" />
-  <id>urn:rprimus:github:JanKse:basicMotionControl</id>
-  <published>2021-07-09T14:06:40Z</published>
-  <updated>2021-07-09T14:06:40Z</updated>
+  <link href="https://github.com/Ramneet-Singh/boolf-parser-typeChecker-evaluator" />
+  <id>urn:rprimus:github:Ramneet-Singh:boolf-parser-typeChecker-evaluator</id>
+  <published>2021-07-11T20:10:26Z</published>
+  <updated>2021-07-11T20:10:26Z</updated>
   <content type="html">
-   motion control with map motion library
+   A parser and evaluator written for a custom defined, strongly typed functional language of integer and boolean expressions. Built on top of Standard ML, using the tools mllex and mlyacc.
+  </content>
+ </entry>
+ <entry>
+  <title>pegross: sml</title>
+  <author>
+   <name>pegross</name>
+  </author>
+  <link href="https://github.com/pegross/sml" />
+  <id>urn:rprimus:github:pegross:sml</id>
+  <published>2021-07-11T17:42:44Z</published>
+  <updated>2021-07-11T17:42:44Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Gunjaniitd: File-Convertor-between-different-Data-Formats</title>
+  <author>
+   <name>Gunjaniitd</name>
+  </author>
+  <link href="https://github.com/Gunjaniitd/File-Convertor-between-different-Data-Formats" />
+  <id>urn:rprimus:github:Gunjaniitd:File-Convertor-between-different-Data-Formats</id>
+  <published>2021-07-11T10:08:30Z</published>
+  <updated>2021-07-11T10:08:30Z</updated>
+  <content type="html">
+   This program converts files from one data format to the other data format eg. from csv to tsv
+  </content>
+ </entry>
+ <entry>
+  <title>Gunjaniitd: Compiler-of-SML-like-language</title>
+  <author>
+   <name>Gunjaniitd</name>
+  </author>
+  <link href="https://github.com/Gunjaniitd/Compiler-of-SML-like-language" />
+  <id>urn:rprimus:github:Gunjaniitd:Compiler-of-SML-like-language</id>
+  <published>2021-07-11T09:15:18Z</published>
+  <updated>2021-07-11T09:15:18Z</updated>
+  <content type="html">
+   lexer, parser, evaluator, and type checker for a SML-like language
   </content>
  </entry>
 </feed>
