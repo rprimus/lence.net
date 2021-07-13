@@ -2,17 +2,134 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2021-07-12T08:55:58Z</updated>
+<updated>2021-07-13T00:19:39Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
  <entry>
-  <title>shubham-cpp: dotmacs</title>
+  <title>LilithLovelace: emacs.d</title>
   <author>
-   <name>shubham-cpp</name>
+   <name>LilithLovelace</name>
   </author>
-  <link href="https://github.com/shubham-cpp/dotmacs" />
-  <id>urn:rprimus:github:shubham-cpp:dotmacs</id>
-  <published>2021-07-12T08:55:58Z</published>
-  <updated>2021-07-12T08:55:58Z</updated>
+  <link href="https://github.com/LilithLovelace/emacs.d" />
+  <id>urn:rprimus:github:LilithLovelace:emacs.d</id>
+  <published>2021-07-13T00:19:39Z</published>
+  <updated>2021-07-13T00:19:39Z</updated>
+  <content type="html">
+   Emacs configuration for texlive and programming
+  </content>
+ </entry>
+ <entry>
+  <title>jacksonspc: dotfiles</title>
+  <author>
+   <name>jacksonspc</name>
+  </author>
+  <link href="https://github.com/jacksonspc/dotfiles" />
+  <id>urn:rprimus:github:jacksonspc:dotfiles</id>
+  <published>2021-07-12T23:45:41Z</published>
+  <updated>2021-07-12T23:45:41Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>krdzo: web-selectors</title>
+  <author>
+   <name>krdzo</name>
+  </author>
+  <link href="https://github.com/krdzo/web-selectors" />
+  <id>urn:rprimus:github:krdzo:web-selectors</id>
+  <published>2021-07-12T23:44:35Z</published>
+  <updated>2021-07-12T23:44:35Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>EstebanMarin: emacs-doom-config</title>
+  <author>
+   <name>EstebanMarin</name>
+  </author>
+  <link href="https://github.com/EstebanMarin/emacs-doom-config" />
+  <id>urn:rprimus:github:EstebanMarin:emacs-doom-config</id>
+  <published>2021-07-12T19:56:48Z</published>
+  <updated>2021-07-12T19:56:48Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Keshav25: Emacs-Config</title>
+  <author>
+   <name>Keshav25</name>
+  </author>
+  <link href="https://github.com/Keshav25/Emacs-Config" />
+  <id>urn:rprimus:github:Keshav25:Emacs-Config</id>
+  <published>2021-07-12T19:54:03Z</published>
+  <updated>2021-07-12T19:54:03Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>schwanberger: dotfiles</title>
+  <author>
+   <name>schwanberger</name>
+  </author>
+  <link href="https://github.com/schwanberger/dotfiles" />
+  <id>urn:rprimus:github:schwanberger:dotfiles</id>
+  <published>2021-07-12T19:11:58Z</published>
+  <updated>2021-07-12T19:11:58Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>dboitnot: dans-doom.d</title>
+  <author>
+   <name>dboitnot</name>
+  </author>
+  <link href="https://github.com/dboitnot/dans-doom.d" />
+  <id>urn:rprimus:github:dboitnot:dans-doom.d</id>
+  <published>2021-07-12T18:21:24Z</published>
+  <updated>2021-07-12T18:21:24Z</updated>
+  <content type="html">
+   Dan&#039;s Doom Emacs settings and extensions
+  </content>
+ </entry>
+ <entry>
+  <title>emacs-vs: eldoc-meta-net</title>
+  <author>
+   <name>emacs-vs</name>
+  </author>
+  <link href="https://github.com/emacs-vs/eldoc-meta-net" />
+  <id>urn:rprimus:github:emacs-vs:eldoc-meta-net</id>
+  <published>2021-07-12T15:28:06Z</published>
+  <updated>2021-07-12T15:28:06Z</updated>
+  <content type="html">
+   Eldoc support for meta-net
+  </content>
+ </entry>
+ <entry>
+  <title>Eason0210: im-cursor-chg</title>
+  <author>
+   <name>Eason0210</name>
+  </author>
+  <link href="https://github.com/Eason0210/im-cursor-chg" />
+  <id>urn:rprimus:github:Eason0210:im-cursor-chg</id>
+  <published>2021-07-12T13:58:05Z</published>
+  <updated>2021-07-12T13:58:05Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>matthew-brett: myemacs</title>
+  <author>
+   <name>matthew-brett</name>
+  </author>
+  <link href="https://github.com/matthew-brett/myemacs" />
+  <id>urn:rprimus:github:matthew-brett:myemacs</id>
+  <published>2021-07-12T09:57:07Z</published>
+  <updated>2021-07-12T09:57:07Z</updated>
   <content type="html">
    
   </content>
@@ -83,19 +200,6 @@
   </content>
  </entry>
  <entry>
-  <title>scalemaildev: emacs</title>
-  <author>
-   <name>scalemaildev</name>
-  </author>
-  <link href="https://github.com/scalemaildev/emacs" />
-  <id>urn:rprimus:github:scalemaildev:emacs</id>
-  <published>2021-07-11T21:37:51Z</published>
-  <updated>2021-07-11T21:37:51Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
   <title>sigexp: apostil</title>
   <author>
    <name>sigexp</name>
@@ -158,149 +262,6 @@
   <updated>2021-07-11T04:00:18Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>ThatsAMorais: dotfiles</title>
-  <author>
-   <name>ThatsAMorais</name>
-  </author>
-  <link href="https://github.com/ThatsAMorais/dotfiles" />
-  <id>urn:rprimus:github:ThatsAMorais:dotfiles</id>
-  <published>2021-07-10T23:42:46Z</published>
-  <updated>2021-07-10T23:42:46Z</updated>
-  <content type="html">
-   my dotfiles, yw
-  </content>
- </entry>
- <entry>
-  <title>alecStewart1: dotemacs</title>
-  <author>
-   <name>alecStewart1</name>
-  </author>
-  <link href="https://github.com/alecStewart1/dotemacs" />
-  <id>urn:rprimus:github:alecStewart1:dotemacs</id>
-  <published>2021-07-10T22:30:26Z</published>
-  <updated>2021-07-10T22:30:26Z</updated>
-  <content type="html">
-   My Personal Emacs Configuration
-  </content>
- </entry>
- <entry>
-  <title>ninodemeterko: dotfiles</title>
-  <author>
-   <name>ninodemeterko</name>
-  </author>
-  <link href="https://github.com/ninodemeterko/dotfiles" />
-  <id>urn:rprimus:github:ninodemeterko:dotfiles</id>
-  <published>2021-07-10T20:26:55Z</published>
-  <updated>2021-07-10T20:26:55Z</updated>
-  <content type="html">
-   my linux configs
-  </content>
- </entry>
- <entry>
-  <title>kaoru777: emacs.d</title>
-  <author>
-   <name>kaoru777</name>
-  </author>
-  <link href="https://github.com/kaoru777/emacs.d" />
-  <id>urn:rprimus:github:kaoru777:emacs.d</id>
-  <published>2021-07-10T18:39:55Z</published>
-  <updated>2021-07-10T18:39:55Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>juniorxxue: CoqIDE</title>
-  <author>
-   <name>juniorxxue</name>
-  </author>
-  <link href="https://github.com/juniorxxue/CoqIDE" />
-  <id>urn:rprimus:github:juniorxxue:CoqIDE</id>
-  <published>2021-07-10T18:02:06Z</published>
-  <updated>2021-07-10T18:02:06Z</updated>
-  <content type="html">
-   Proof General, YES!
-  </content>
- </entry>
- <entry>
-  <title>BeneathCloud: org-devonthink</title>
-  <author>
-   <name>BeneathCloud</name>
-  </author>
-  <link href="https://github.com/BeneathCloud/org-devonthink" />
-  <id>urn:rprimus:github:BeneathCloud:org-devonthink</id>
-  <published>2021-07-10T13:44:01Z</published>
-  <updated>2021-07-10T13:44:01Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>BeneathCloud: progress-bar</title>
-  <author>
-   <name>BeneathCloud</name>
-  </author>
-  <link href="https://github.com/BeneathCloud/progress-bar" />
-  <id>urn:rprimus:github:BeneathCloud:progress-bar</id>
-  <published>2021-07-10T12:34:19Z</published>
-  <updated>2021-07-10T12:34:19Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>drocha87: emacs</title>
-  <author>
-   <name>drocha87</name>
-  </author>
-  <link href="https://github.com/drocha87/emacs" />
-  <id>urn:rprimus:github:drocha87:emacs</id>
-  <published>2021-07-10T11:35:23Z</published>
-  <updated>2021-07-10T11:35:23Z</updated>
-  <content type="html">
-   Emacs configuration
-  </content>
- </entry>
- <entry>
-  <title>vohv: vohv-emacs</title>
-  <author>
-   <name>vohv</name>
-  </author>
-  <link href="https://github.com/vohv/vohv-emacs" />
-  <id>urn:rprimus:github:vohv:vohv-emacs</id>
-  <published>2021-07-10T08:39:31Z</published>
-  <updated>2021-07-10T08:39:31Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>delonnewman: prelude</title>
-  <author>
-   <name>delonnewman</name>
-  </author>
-  <link href="https://github.com/delonnewman/prelude" />
-  <id>urn:rprimus:github:delonnewman:prelude</id>
-  <published>2021-07-10T00:06:55Z</published>
-  <updated>2021-07-10T00:06:55Z</updated>
-  <content type="html">
-   Emacs Prelude customized for my use (see /personal)
-  </content>
- </entry>
- <entry>
-  <title>WheatleyTheCore: doom-dir</title>
-  <author>
-   <name>WheatleyTheCore</name>
-  </author>
-  <link href="https://github.com/WheatleyTheCore/doom-dir" />
-  <id>urn:rprimus:github:WheatleyTheCore:doom-dir</id>
-  <published>2021-07-10T00:02:04Z</published>
-  <updated>2021-07-10T00:02:04Z</updated>
-  <content type="html">
-   The doomdir for my Doom Emacs intallation. (In case I ever need to install it elsewhere.)
   </content>
  </entry>
 </feed>

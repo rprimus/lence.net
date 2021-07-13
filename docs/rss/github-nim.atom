@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2021-07-11T19:22:49Z</updated>
+<updated>2021-07-12T23:59:03Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>chrisaddy: spaced</title>
+  <author>
+   <name>chrisaddy</name>
+  </author>
+  <link href="https://github.com/chrisaddy/spaced" />
+  <id>urn:rprimus:github:chrisaddy:spaced</id>
+  <published>2021-07-12T23:59:03Z</published>
+  <updated>2021-07-12T23:59:03Z</updated>
+  <content type="html">
+   spaced repitition cli
+  </content>
+ </entry>
+ <entry>
+  <title>vekrt: animml</title>
+  <author>
+   <name>vekrt</name>
+  </author>
+  <link href="https://github.com/vekrt/animml" />
+  <id>urn:rprimus:github:vekrt:animml</id>
+  <published>2021-07-12T13:28:02Z</published>
+  <updated>2021-07-12T13:28:02Z</updated>
+  <content type="html">
+   A small nim implementation of various statistics/ML concepts.
+  </content>
+ </entry>
  <entry>
   <title>bung87: tmp_repo</title>
   <author>
@@ -52,123 +78,6 @@
   <id>urn:rprimus:github:assi-dangomushi:amaiir</id>
   <published>2021-07-11T11:08:22Z</published>
   <updated>2021-07-11T11:08:22Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>blackmius: nesper-captive-portal</title>
-  <author>
-   <name>blackmius</name>
-  </author>
-  <link href="https://github.com/blackmius/nesper-captive-portal" />
-  <id>urn:rprimus:github:blackmius:nesper-captive-portal</id>
-  <published>2021-07-10T20:36:04Z</published>
-  <updated>2021-07-10T20:36:04Z</updated>
-  <content type="html">
-   esp32 captive portal built with nesper
-  </content>
- </entry>
- <entry>
-  <title>0x454d505459: reverse-shell-nim</title>
-  <author>
-   <name>0x454d505459</name>
-  </author>
-  <link href="https://github.com/0x454d505459/reverse-shell-nim" />
-  <id>urn:rprimus:github:0x454d505459:reverse-shell-nim</id>
-  <published>2021-07-10T20:06:27Z</published>
-  <updated>2021-07-10T20:06:27Z</updated>
-  <content type="html">
-   A simple reverse shell written in Nim
-  </content>
- </entry>
- <entry>
-  <title>kennymalac: Jambone</title>
-  <author>
-   <name>kennymalac</name>
-  </author>
-  <link href="https://github.com/kennymalac/Jambone" />
-  <id>urn:rprimus:github:kennymalac:Jambone</id>
-  <published>2021-07-10T18:58:35Z</published>
-  <updated>2021-07-10T18:58:35Z</updated>
-  <content type="html">
-   Template language for static site generation
-  </content>
- </entry>
- <entry>
-  <title>z-------------: minestat.nim</title>
-  <author>
-   <name>z-------------</name>
-  </author>
-  <link href="https://github.com/z-------------/minestat.nim" />
-  <id>urn:rprimus:github:z-------------:minestat.nim</id>
-  <published>2021-07-10T11:47:36Z</published>
-  <updated>2021-07-10T11:47:36Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>PsychoClay: aberrant</title>
-  <author>
-   <name>PsychoClay</name>
-  </author>
-  <link href="https://github.com/PsychoClay/aberrant" />
-  <id>urn:rprimus:github:PsychoClay:aberrant</id>
-  <published>2021-07-10T10:58:59Z</published>
-  <updated>2021-07-10T10:58:59Z</updated>
-  <content type="html">
-   some webscraper in nim
-  </content>
- </entry>
- <entry>
-  <title>georgelemon: enimsql</title>
-  <author>
-   <name>georgelemon</name>
-  </author>
-  <link href="https://github.com/georgelemon/enimsql" />
-  <id>urn:rprimus:github:georgelemon:enimsql</id>
-  <published>2021-07-10T10:22:32Z</published>
-  <updated>2021-07-10T10:22:32Z</updated>
-  <content type="html">
-   Lightweight PostgreSQL ORM for poets ð Written in Nim. Inspired by Illuminate Eloquent and the romanian poet, Mihai Eminescu.
-  </content>
- </entry>
- <entry>
-  <title>nim-lang: threading</title>
-  <author>
-   <name>nim-lang</name>
-  </author>
-  <link href="https://github.com/nim-lang/threading" />
-  <id>urn:rprimus:github:nim-lang:threading</id>
-  <published>2021-07-10T06:59:11Z</published>
-  <updated>2021-07-10T06:59:11Z</updated>
-  <content type="html">
-   New atomics, thread primitives, atomic refcounting for --gc:arc/orc.
-  </content>
- </entry>
- <entry>
-  <title>zrma: 1d1nim</title>
-  <author>
-   <name>zrma</name>
-  </author>
-  <link href="https://github.com/zrma/1d1nim" />
-  <id>urn:rprimus:github:zrma:1d1nim</id>
-  <published>2021-07-10T04:27:59Z</published>
-  <updated>2021-07-10T04:27:59Z</updated>
-  <content type="html">
-   1 day 1 nim-lang
-  </content>
- </entry>
- <entry>
-  <title>Badtz13: finance</title>
-  <author>
-   <name>Badtz13</name>
-  </author>
-  <link href="https://github.com/Badtz13/finance" />
-  <id>urn:rprimus:github:Badtz13:finance</id>
-  <published>2021-07-10T00:21:56Z</published>
-  <updated>2021-07-10T00:21:56Z</updated>
   <content type="html">
    
   </content>

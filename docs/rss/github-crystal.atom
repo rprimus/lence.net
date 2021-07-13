@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2021-07-11T18:03:27Z</updated>
+<updated>2021-07-13T03:47:20Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>robertsimoes: ipfs_swarm_key_generator</title>
+  <author>
+   <name>robertsimoes</name>
+  </author>
+  <link href="https://github.com/robertsimoes/ipfs_swarm_key_generator" />
+  <id>urn:rprimus:github:robertsimoes:ipfs_swarm_key_generator</id>
+  <published>2021-07-13T03:47:20Z</published>
+  <updated>2021-07-13T03:47:20Z</updated>
+  <content type="html">
+   Generate an IPFS swarm.key for your pirvate ipfs network
+  </content>
+ </entry>
+ <entry>
+  <title>drcalvo90: MyLibraryManagerFinal</title>
+  <author>
+   <name>drcalvo90</name>
+  </author>
+  <link href="https://github.com/drcalvo90/MyLibraryManagerFinal" />
+  <id>urn:rprimus:github:drcalvo90:MyLibraryManagerFinal</id>
+  <published>2021-07-13T03:27:12Z</published>
+  <updated>2021-07-13T03:27:12Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>anapsix: klaxon.cr</title>
+  <author>
+   <name>anapsix</name>
+  </author>
+  <link href="https://github.com/anapsix/klaxon.cr" />
+  <id>urn:rprimus:github:anapsix:klaxon.cr</id>
+  <published>2021-07-12T20:51:43Z</published>
+  <updated>2021-07-12T20:51:43Z</updated>
+  <content type="html">
+   POC Alerting on ES queries
+  </content>
+ </entry>
+ <entry>
+  <title>TheEEs: repl.cr</title>
+  <author>
+   <name>TheEEs</name>
+  </author>
+  <link href="https://github.com/TheEEs/repl.cr" />
+  <id>urn:rprimus:github:TheEEs:repl.cr</id>
+  <published>2021-07-12T16:08:30Z</published>
+  <updated>2021-07-12T16:08:30Z</updated>
+  <content type="html">
+   A project that demonstrates how to create a tree-walker interpreter
+  </content>
+ </entry>
+ <entry>
+  <title>nishio-dens: musesql</title>
+  <author>
+   <name>nishio-dens</name>
+  </author>
+  <link href="https://github.com/nishio-dens/musesql" />
+  <id>urn:rprimus:github:nishio-dens:musesql</id>
+  <published>2021-07-12T16:02:38Z</published>
+  <updated>2021-07-12T16:02:38Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>aeldemery: gir_parser</title>
+  <author>
+   <name>aeldemery</name>
+  </author>
+  <link href="https://github.com/aeldemery/gir_parser" />
+  <id>urn:rprimus:github:aeldemery:gir_parser</id>
+  <published>2021-07-12T11:20:40Z</published>
+  <updated>2021-07-12T11:20:40Z</updated>
+  <content type="html">
+   WIP GObject Introspection Repository Parser
+  </content>
+ </entry>
  <entry>
   <title>l3gacyb3ta: dots</title>
   <author>
@@ -28,58 +106,6 @@
   <updated>2021-07-11T11:28:12Z</updated>
   <content type="html">
    A sparkpost adapter implementation for lucky carbon
-  </content>
- </entry>
- <entry>
-  <title>WhoAteDaCake: sciter-tests</title>
-  <author>
-   <name>WhoAteDaCake</name>
-  </author>
-  <link href="https://github.com/WhoAteDaCake/sciter-tests" />
-  <id>urn:rprimus:github:WhoAteDaCake:sciter-tests</id>
-  <published>2021-07-10T09:59:44Z</published>
-  <updated>2021-07-10T09:59:44Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>HCLarsen: dta_client</title>
-  <author>
-   <name>HCLarsen</name>
-  </author>
-  <link href="https://github.com/HCLarsen/dta_client" />
-  <id>urn:rprimus:github:HCLarsen:dta_client</id>
-  <published>2021-07-10T05:29:53Z</published>
-  <updated>2021-07-10T05:29:53Z</updated>
-  <content type="html">
-   A Crystal client for Rails apps using devise_token_auth
-  </content>
- </entry>
- <entry>
-  <title>collidedscope: nxnttt</title>
-  <author>
-   <name>collidedscope</name>
-  </author>
-  <link href="https://github.com/collidedscope/nxnttt" />
-  <id>urn:rprimus:github:collidedscope:nxnttt</id>
-  <published>2021-07-10T01:25:24Z</published>
-  <updated>2021-07-10T01:25:24Z</updated>
-  <content type="html">
-   Unreasonably fast tic-tac-toe implementation using NxN bitboards
-  </content>
- </entry>
- <entry>
-  <title>l3gacyb3ta: zephyr_contacts</title>
-  <author>
-   <name>l3gacyb3ta</name>
-  </author>
-  <link href="https://github.com/l3gacyb3ta/zephyr_contacts" />
-  <id>urn:rprimus:github:l3gacyb3ta:zephyr_contacts</id>
-  <published>2021-07-10T00:28:40Z</published>
-  <updated>2021-07-10T00:28:40Z</updated>
-  <content type="html">
-   A script to auto generate a contacts file for the Zephyr trip
   </content>
  </entry>
 </feed>
