@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2021-07-13T03:47:20Z</updated>
+<updated>2021-07-13T13:15:23Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>GrottoPress: hapi</title>
+  <author>
+   <name>GrottoPress</name>
+  </author>
+  <link href="https://github.com/GrottoPress/hapi" />
+  <id>urn:rprimus:github:GrottoPress:hapi</id>
+  <published>2021-07-13T13:15:23Z</published>
+  <updated>2021-07-13T13:15:23Z</updated>
+  <content type="html">
+   A low-level API client architecture for Crystal
+  </content>
+ </entry>
+ <entry>
+  <title>toddsundsted: openssl_ext</title>
+  <author>
+   <name>toddsundsted</name>
+  </author>
+  <link href="https://github.com/toddsundsted/openssl_ext" />
+  <id>urn:rprimus:github:toddsundsted:openssl_ext</id>
+  <published>2021-07-13T12:03:20Z</published>
+  <updated>2021-07-13T12:03:20Z</updated>
+  <content type="html">
+   Crystal bindings for OpenSSL RSA
+  </content>
+ </entry>
+ <entry>
+  <title>shijimasoft: weather-cli</title>
+  <author>
+   <name>shijimasoft</name>
+  </author>
+  <link href="https://github.com/shijimasoft/weather-cli" />
+  <id>urn:rprimus:github:shijimasoft:weather-cli</id>
+  <published>2021-07-13T10:15:27Z</published>
+  <updated>2021-07-13T10:15:27Z</updated>
+  <content type="html">
+   Simple weather forecast on terminal
+  </content>
+ </entry>
  <entry>
   <title>robertsimoes: ipfs_swarm_key_generator</title>
   <author>
@@ -80,32 +119,6 @@
   <updated>2021-07-12T11:20:40Z</updated>
   <content type="html">
    WIP GObject Introspection Repository Parser
-  </content>
- </entry>
- <entry>
-  <title>l3gacyb3ta: dots</title>
-  <author>
-   <name>l3gacyb3ta</name>
-  </author>
-  <link href="https://github.com/l3gacyb3ta/dots" />
-  <id>urn:rprimus:github:l3gacyb3ta:dots</id>
-  <published>2021-07-11T18:03:27Z</published>
-  <updated>2021-07-11T18:03:27Z</updated>
-  <content type="html">
-   A manager for my dotfiles, using JSON
-  </content>
- </entry>
- <entry>
-  <title>Swiss-Crystal: carbon_sparkpost_adapter</title>
-  <author>
-   <name>Swiss-Crystal</name>
-  </author>
-  <link href="https://github.com/Swiss-Crystal/carbon_sparkpost_adapter" />
-  <id>urn:rprimus:github:Swiss-Crystal:carbon_sparkpost_adapter</id>
-  <published>2021-07-11T11:28:12Z</published>
-  <updated>2021-07-11T11:28:12Z</updated>
-  <content type="html">
-   A sparkpost adapter implementation for lucky carbon
   </content>
  </entry>
 </feed>
