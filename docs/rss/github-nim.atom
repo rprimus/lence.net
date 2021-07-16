@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2021-07-15T06:07:52Z</updated>
+<updated>2021-07-15T20:15:51Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>AmanoTeam: Latinize</title>
+  <author>
+   <name>AmanoTeam</name>
+  </author>
+  <link href="https://github.com/AmanoTeam/Latinize" />
+  <id>urn:rprimus:github:AmanoTeam:Latinize</id>
+  <published>2021-07-15T20:15:51Z</published>
+  <updated>2021-07-15T20:15:51Z</updated>
+  <content type="html">
+   Latinize is a library and CLI tool written in Nim, it&#039;s indeed to convert accents (diacritics) from strings to latin characters.
+  </content>
+ </entry>
  <entry>
   <title>myazakky: prolog.nim</title>
   <author>
@@ -54,58 +67,6 @@
   <updated>2021-07-14T04:35:51Z</updated>
   <content type="html">
    (opinionated) task manager
-  </content>
- </entry>
- <entry>
-  <title>treeform: globby</title>
-  <author>
-   <name>treeform</name>
-  </author>
-  <link href="https://github.com/treeform/globby" />
-  <id>urn:rprimus:github:treeform:globby</id>
-  <published>2021-07-13T21:09:00Z</published>
-  <updated>2021-07-13T21:09:00Z</updated>
-  <content type="html">
-   Glob pattern matching for Nim.
-  </content>
- </entry>
- <entry>
-  <title>RattleyCooper: PerlinNoiseVisualized</title>
-  <author>
-   <name>RattleyCooper</name>
-  </author>
-  <link href="https://github.com/RattleyCooper/PerlinNoiseVisualized" />
-  <id>urn:rprimus:github:RattleyCooper:PerlinNoiseVisualized</id>
-  <published>2021-07-13T18:14:18Z</published>
-  <updated>2021-07-13T18:14:18Z</updated>
-  <content type="html">
-   Labeled images of 12 different octaves of Perlin noise at 20 different persistence values.  Visual aid for game development
-  </content>
- </entry>
- <entry>
-  <title>izawey479: ba_spine</title>
-  <author>
-   <name>izawey479</name>
-  </author>
-  <link href="https://github.com/izawey479/ba_spine" />
-  <id>urn:rprimus:github:izawey479:ba_spine</id>
-  <published>2021-07-13T13:58:17Z</published>
-  <updated>2021-07-13T13:58:17Z</updated>
-  <content type="html">
-   Blue Archive character&#039;s spines exporter
-  </content>
- </entry>
- <entry>
-  <title>schneiderfelipe: xom</title>
-  <author>
-   <name>schneiderfelipe</name>
-  </author>
-  <link href="https://github.com/schneiderfelipe/xom" />
-  <id>urn:rprimus:github:schneiderfelipe:xom</id>
-  <published>2021-07-13T11:13:13Z</published>
-  <updated>2021-07-13T11:13:13Z</updated>
-  <content type="html">
-   Transform XML trees into JavaScript DOM calls at compile-time using Nim.
   </content>
  </entry>
 </feed>

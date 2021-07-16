@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-07-15T07:49:04Z</updated>
+<updated>2021-07-16T01:48:25Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>Wukix: wu-decimal</title>
+  <author>
+   <name>Wukix</name>
+  </author>
+  <link href="https://github.com/Wukix/wu-decimal" />
+  <id>urn:rprimus:github:Wukix:wu-decimal</id>
+  <published>2021-07-16T01:48:25Z</published>
+  <updated>2021-07-16T01:48:25Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>NoorKhan: table-to-java</title>
+  <author>
+   <name>NoorKhan</name>
+  </author>
+  <link href="https://github.com/NoorKhan/table-to-java" />
+  <id>urn:rprimus:github:NoorKhan:table-to-java</id>
+  <published>2021-07-15T19:22:08Z</published>
+  <updated>2021-07-15T19:22:08Z</updated>
+  <content type="html">
+   Given a mysql database connection and a table name, it will output a java class for you based on the column types
+  </content>
+ </entry>
+ <entry>
+  <title>Bike: clhs-extension</title>
+  <author>
+   <name>Bike</name>
+  </author>
+  <link href="https://github.com/Bike/clhs-extension" />
+  <id>urn:rprimus:github:Bike:clhs-extension</id>
+  <published>2021-07-15T17:51:49Z</published>
+  <updated>2021-07-15T17:51:49Z</updated>
+  <content type="html">
+   Braindump of ideas for Common Lisp extensions
+  </content>
+ </entry>
+ <entry>
+  <title>rajasegar: cl-twitter-clone</title>
+  <author>
+   <name>rajasegar</name>
+  </author>
+  <link href="https://github.com/rajasegar/cl-twitter-clone" />
+  <id>urn:rprimus:github:rajasegar:cl-twitter-clone</id>
+  <published>2021-07-15T12:20:29Z</published>
+  <updated>2021-07-15T12:20:29Z</updated>
+  <content type="html">
+   A Twitter clone in Common Lisp
+  </content>
+ </entry>
  <entry>
   <title>asarch: agenda</title>
   <author>
@@ -67,97 +119,6 @@
   <updated>2021-07-14T16:17:35Z</updated>
   <content type="html">
    Projekt w C#, ktÃ³ry odczytuje, normalizuje i zapisuje pliki danych
-  </content>
- </entry>
- <entry>
-  <title>tcf0005: racer_ws2</title>
-  <author>
-   <name>tcf0005</name>
-  </author>
-  <link href="https://github.com/tcf0005/racer_ws2" />
-  <id>urn:rprimus:github:tcf0005:racer_ws2</id>
-  <published>2021-07-13T21:39:23Z</published>
-  <updated>2021-07-13T21:39:23Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>AndrijSkeptyk: nyxt</title>
-  <author>
-   <name>AndrijSkeptyk</name>
-  </author>
-  <link href="https://github.com/AndrijSkeptyk/nyxt" />
-  <id>urn:rprimus:github:AndrijSkeptyk:nyxt</id>
-  <published>2021-07-13T18:57:54Z</published>
-  <updated>2021-07-13T18:57:54Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>moamedterzo: ASP_Calendar</title>
-  <author>
-   <name>moamedterzo</name>
-  </author>
-  <link href="https://github.com/moamedterzo/ASP_Calendar" />
-  <id>urn:rprimus:github:moamedterzo:ASP_Calendar</id>
-  <published>2021-07-13T18:25:19Z</published>
-  <updated>2021-07-13T18:25:19Z</updated>
-  <content type="html">
-   A program written in CLINGO for scheduling 
-  </content>
- </entry>
- <entry>
-  <title>helmutkian: cl-wasm-runtime</title>
-  <author>
-   <name>helmutkian</name>
-  </author>
-  <link href="https://github.com/helmutkian/cl-wasm-runtime" />
-  <id>urn:rprimus:github:helmutkian:cl-wasm-runtime</id>
-  <published>2021-07-13T16:44:54Z</published>
-  <updated>2021-07-13T16:44:54Z</updated>
-  <content type="html">
-   Embedded WebAssembly runtime for Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>srengifo79: FInal-IA</title>
-  <author>
-   <name>srengifo79</name>
-  </author>
-  <link href="https://github.com/srengifo79/FInal-IA" />
-  <id>urn:rprimus:github:srengifo79:FInal-IA</id>
-  <published>2021-07-13T15:42:11Z</published>
-  <updated>2021-07-13T15:42:11Z</updated>
-  <content type="html">
-   Algoritmo Genetico con haberman data
-  </content>
- </entry>
- <entry>
-  <title>srolisp: poker</title>
-  <author>
-   <name>srolisp</name>
-  </author>
-  <link href="https://github.com/srolisp/poker" />
-  <id>urn:rprimus:github:srolisp:poker</id>
-  <published>2021-07-13T06:35:39Z</published>
-  <updated>2021-07-13T06:35:39Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jeosol: cl-dnn</title>
-  <author>
-   <name>jeosol</name>
-  </author>
-  <link href="https://github.com/jeosol/cl-dnn" />
-  <id>urn:rprimus:github:jeosol:cl-dnn</id>
-  <published>2021-07-13T03:29:54Z</published>
-  <updated>2021-07-13T03:29:54Z</updated>
-  <content type="html">
-   Implementation of Deep Neural Networks in Common Lisp
   </content>
  </entry>
 </feed>
