@@ -2,19 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2021-07-16T07:18:22Z</updated>
+<updated>2021-07-16T15:55:58Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
  <entry>
-  <title>cottonbuds: secGear</title>
+  <title>jmid: sm2-tes21</title>
   <author>
-   <name>cottonbuds</name>
+   <name>jmid</name>
   </author>
-  <link href="https://github.com/cottonbuds/secGear" />
-  <id>urn:rprimus:github:cottonbuds:secGear</id>
-  <published>2021-07-16T07:18:22Z</published>
-  <updated>2021-07-16T07:18:22Z</updated>
+  <link href="https://github.com/jmid/sm2-tes21" />
+  <id>urn:rprimus:github:jmid:sm2-tes21</id>
+  <published>2021-07-16T15:55:58Z</published>
+  <updated>2021-07-16T15:55:58Z</updated>
   <content type="html">
-   
+   &#039;Functional Programming and Property-Based Testing&#039; at SDU, Spring 2021
+  </content>
+ </entry>
+ <entry>
+  <title>akhaten: BinarySearchTree-ocaml</title>
+  <author>
+   <name>akhaten</name>
+  </author>
+  <link href="https://github.com/akhaten/BinarySearchTree-ocaml" />
+  <id>urn:rprimus:github:akhaten:BinarySearchTree-ocaml</id>
+  <published>2021-07-16T11:50:02Z</published>
+  <updated>2021-07-16T11:50:02Z</updated>
+  <content type="html">
+   BinarySearchTree (BST) implementation in ocaml
   </content>
  </entry>
  <entry>
@@ -93,110 +106,6 @@
   <updated>2021-07-15T00:39:42Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>abeln: crdts</title>
-  <author>
-   <name>abeln</name>
-  </author>
-  <link href="https://github.com/abeln/crdts" />
-  <id>urn:rprimus:github:abeln:crdts</id>
-  <published>2021-07-14T21:11:19Z</published>
-  <updated>2021-07-14T21:11:19Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>samueldurantes: ayu</title>
-  <author>
-   <name>samueldurantes</name>
-  </author>
-  <link href="https://github.com/samueldurantes/ayu" />
-  <id>urn:rprimus:github:samueldurantes:ayu</id>
-  <published>2021-07-14T20:14:44Z</published>
-  <updated>2021-07-14T20:14:44Z</updated>
-  <content type="html">
-   Simple arithmetic interpreter
-  </content>
- </entry>
- <entry>
-  <title>naokikob: neugus</title>
-  <author>
-   <name>naokikob</name>
-  </author>
-  <link href="https://github.com/naokikob/neugus" />
-  <id>urn:rprimus:github:naokikob:neugus</id>
-  <published>2021-07-14T13:13:49Z</published>
-  <updated>2021-07-14T13:13:49Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>johnyob: ppx-open</title>
-  <author>
-   <name>johnyob</name>
-  </author>
-  <link href="https://github.com/johnyob/ppx-open" />
-  <id>urn:rprimus:github:johnyob:ppx-open</id>
-  <published>2021-07-14T12:23:02Z</published>
-  <updated>2021-07-14T12:23:02Z</updated>
-  <content type="html">
-   A ppx that is used to provide idiomatic selective `open`s in OCaml using aliases.  
-  </content>
- </entry>
- <entry>
-  <title>tars0x9752: ocamlformat-auto-completion</title>
-  <author>
-   <name>tars0x9752</name>
-  </author>
-  <link href="https://github.com/tars0x9752/ocamlformat-auto-completion" />
-  <id>urn:rprimus:github:tars0x9752:ocamlformat-auto-completion</id>
-  <published>2021-07-14T11:36:57Z</published>
-  <updated>2021-07-14T11:36:57Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>lixulun: RealString</title>
-  <author>
-   <name>lixulun</name>
-  </author>
-  <link href="https://github.com/lixulun/RealString" />
-  <id>urn:rprimus:github:lixulun:RealString</id>
-  <published>2021-07-14T10:53:22Z</published>
-  <updated>2021-07-14T10:53:22Z</updated>
-  <content type="html">
-   Enhancing Ocaml unicode string manipulation.
-  </content>
- </entry>
- <entry>
-  <title>Opsian: opsian-ocaml-opam-test</title>
-  <author>
-   <name>Opsian</name>
-  </author>
-  <link href="https://github.com/Opsian/opsian-ocaml-opam-test" />
-  <id>urn:rprimus:github:Opsian:opsian-ocaml-opam-test</id>
-  <published>2021-07-14T10:10:06Z</published>
-  <updated>2021-07-14T10:10:06Z</updated>
-  <content type="html">
-   Test project for opam configuration
-  </content>
- </entry>
- <entry>
-  <title>sangwoo-joh: tapl</title>
-  <author>
-   <name>sangwoo-joh</name>
-  </author>
-  <link href="https://github.com/sangwoo-joh/tapl" />
-  <id>urn:rprimus:github:sangwoo-joh:tapl</id>
-  <published>2021-07-14T08:03:05Z</published>
-  <updated>2021-07-14T08:03:05Z</updated>
-  <content type="html">
-   :hammer: Personal Implementations of &quot;Types and Programming Languages&quot; Book
   </content>
  </entry>
 </feed>

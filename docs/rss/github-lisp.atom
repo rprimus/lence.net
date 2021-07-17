@@ -2,8 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-07-16T01:48:25Z</updated>
+<updated>2021-07-17T06:41:52Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>rajasegar: cl-computer-store</title>
+  <author>
+   <name>rajasegar</name>
+  </author>
+  <link href="https://github.com/rajasegar/cl-computer-store" />
+  <id>urn:rprimus:github:rajasegar:cl-computer-store</id>
+  <published>2021-07-17T06:41:52Z</published>
+  <updated>2021-07-17T06:41:52Z</updated>
+  <content type="html">
+   The Computer Store in Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>renderedSafe: cl-tic-tac-toe</title>
+  <author>
+   <name>renderedSafe</name>
+  </author>
+  <link href="https://github.com/renderedSafe/cl-tic-tac-toe" />
+  <id>urn:rprimus:github:renderedSafe:cl-tic-tac-toe</id>
+  <published>2021-07-16T21:51:44Z</published>
+  <updated>2021-07-16T21:51:44Z</updated>
+  <content type="html">
+   Common Lisp implementation of Tic-Tac-Toe by Andrew Levenson, edited a bit to allow the integration of addtional included naive AI functionality.
+  </content>
+ </entry>
+ <entry>
+  <title>40ants: commondoc-markdown</title>
+  <author>
+   <name>40ants</name>
+  </author>
+  <link href="https://github.com/40ants/commondoc-markdown" />
+  <id>urn:rprimus:github:40ants:commondoc-markdown</id>
+  <published>2021-07-16T21:49:53Z</published>
+  <updated>2021-07-16T21:49:53Z</updated>
+  <content type="html">
+   Converts Markdown text into CommonDoc nodes and vice versa.
+  </content>
+ </entry>
+ <entry>
+  <title>sentot: ZK</title>
+  <author>
+   <name>sentot</name>
+  </author>
+  <link href="https://github.com/sentot/ZK" />
+  <id>urn:rprimus:github:sentot:ZK</id>
+  <published>2021-07-16T17:16:14Z</published>
+  <updated>2021-07-16T17:16:14Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>meguminloli: sneedacity-aarch64-arch</title>
+  <author>
+   <name>meguminloli</name>
+  </author>
+  <link href="https://github.com/meguminloli/sneedacity-aarch64-arch" />
+  <id>urn:rprimus:github:meguminloli:sneedacity-aarch64-arch</id>
+  <published>2021-07-16T15:03:02Z</published>
+  <updated>2021-07-16T15:03:02Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Jaso-N7: test-bed</title>
+  <author>
+   <name>Jaso-N7</name>
+  </author>
+  <link href="https://github.com/Jaso-N7/test-bed" />
+  <id>urn:rprimus:github:Jaso-N7:test-bed</id>
+  <published>2021-07-16T13:19:09Z</published>
+  <updated>2021-07-16T13:19:09Z</updated>
+  <content type="html">
+   Practicing Property-Based Testing and other ideas
+  </content>
+ </entry>
+ <entry>
+  <title>rcullito: dr-breath</title>
+  <author>
+   <name>rcullito</name>
+  </author>
+  <link href="https://github.com/rcullito/dr-breath" />
+  <id>urn:rprimus:github:rcullito:dr-breath</id>
+  <published>2021-07-16T12:15:36Z</published>
+  <updated>2021-07-16T12:15:36Z</updated>
+  <content type="html">
+   cleaning up the text of an old classic
+  </content>
+ </entry>
  <entry>
   <title>Wukix: wu-decimal</title>
   <author>
@@ -53,7 +144,7 @@
   <published>2021-07-15T12:20:29Z</published>
   <updated>2021-07-15T12:20:29Z</updated>
   <content type="html">
-   A Twitter clone in Common Lisp
+   A Twitter clone demo app in Common Lisp
   </content>
  </entry>
  <entry>
@@ -93,32 +184,6 @@
   <updated>2021-07-15T01:23:38Z</updated>
   <content type="html">
    Common Lisp Web socket demo
-  </content>
- </entry>
- <entry>
-  <title>Shinmera: synthy</title>
-  <author>
-   <name>Shinmera</name>
-  </author>
-  <link href="https://github.com/Shinmera/synthy" />
-  <id>urn:rprimus:github:Shinmera:synthy</id>
-  <published>2021-07-14T18:24:13Z</published>
-  <updated>2021-07-14T18:24:13Z</updated>
-  <content type="html">
-   Simple graphical synthesizer
-  </content>
- </entry>
- <entry>
-  <title>Defler: NormalizacjaDanych</title>
-  <author>
-   <name>Defler</name>
-  </author>
-  <link href="https://github.com/Defler/NormalizacjaDanych" />
-  <id>urn:rprimus:github:Defler:NormalizacjaDanych</id>
-  <published>2021-07-14T16:17:35Z</published>
-  <updated>2021-07-14T16:17:35Z</updated>
-  <content type="html">
-   Projekt w C#, ktÃ³ry odczytuje, normalizuje i zapisuje pliki danych
   </content>
  </entry>
 </feed>
