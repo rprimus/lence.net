@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-go.atom"/>
 <id>urn:rprimus:github:newgorepos</id>
-<updated>2021-07-17T08:06:06Z</updated>
+<updated>2021-07-17T09:27:58Z</updated>
 <title type='text'>New GitHub Go Repos</title>
+ <entry>
+  <title>bassbeaver: eventhouse</title>
+  <author>
+   <name>bassbeaver</name>
+  </author>
+  <link href="https://github.com/bassbeaver/eventhouse" />
+  <id>urn:rprimus:github:bassbeaver:eventhouse</id>
+  <published>2021-07-17T09:27:58Z</published>
+  <updated>2021-07-17T09:27:58Z</updated>
+  <content type="html">
+   Test bench project to test event store application concept for event based systems.
+  </content>
+ </entry>
+ <entry>
+  <title>wael2000: dc-operator</title>
+  <author>
+   <name>wael2000</name>
+  </author>
+  <link href="https://github.com/wael2000/dc-operator" />
+  <id>urn:rprimus:github:wael2000:dc-operator</id>
+  <published>2021-07-17T08:56:28Z</published>
+  <updated>2021-07-17T08:56:28Z</updated>
+  <content type="html">
+   K8s deployment config operator
+  </content>
+ </entry>
  <entry>
   <title>abdennour: go-httpserver-hello</title>
   <author>
@@ -28,19 +54,6 @@
   <updated>2021-07-17T07:41:28Z</updated>
   <content type="html">
    http mux
-  </content>
- </entry>
- <entry>
-  <title>liberix: csv2json</title>
-  <author>
-   <name>liberix</name>
-  </author>
-  <link href="https://github.com/liberix/csv2json" />
-  <id>urn:rprimus:github:liberix:csv2json</id>
-  <published>2021-07-17T07:35:40Z</published>
-  <updated>2021-07-17T07:35:40Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
  <entry>
@@ -122,6 +135,19 @@
   </content>
  </entry>
  <entry>
+  <title>luohua13: Bluefairy</title>
+  <author>
+   <name>luohua13</name>
+  </author>
+  <link href="https://github.com/luohua13/Bluefairy" />
+  <id>urn:rprimus:github:luohua13:Bluefairy</id>
+  <published>2021-07-17T05:54:36Z</published>
+  <updated>2021-07-17T05:54:36Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
   <title>mhope-2: learning_some_more_go</title>
   <author>
    <name>mhope-2</name>
@@ -132,19 +158,6 @@
   <updated>2021-07-17T05:35:00Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>aslikr42069: go-snake</title>
-  <author>
-   <name>aslikr42069</name>
-  </author>
-  <link href="https://github.com/aslikr42069/go-snake" />
-  <id>urn:rprimus:github:aslikr42069:go-snake</id>
-  <published>2021-07-17T05:34:04Z</published>
-  <updated>2021-07-17T05:34:04Z</updated>
-  <content type="html">
-   Snake written in Go
   </content>
  </entry>
  <entry>
@@ -213,6 +226,19 @@
   </content>
  </entry>
  <entry>
+  <title>oslijw: pc_wechat_miniapp_des</title>
+  <author>
+   <name>oslijw</name>
+  </author>
+  <link href="https://github.com/oslijw/pc_wechat_miniapp_des" />
+  <id>urn:rprimus:github:oslijw:pc_wechat_miniapp_des</id>
+  <published>2021-07-17T03:25:44Z</published>
+  <updated>2021-07-17T03:25:44Z</updated>
+  <content type="html">
+   å¾®ä¿¡pcå°ç¨åºåè§£å¯
+  </content>
+ </entry>
+ <entry>
   <title>LorenaAraujo: cypher</title>
   <author>
    <name>LorenaAraujo</name>
@@ -247,19 +273,6 @@
   <id>urn:rprimus:github:spl0i7:pipeline</id>
   <published>2021-07-17T02:34:52Z</published>
   <updated>2021-07-17T02:34:52Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>gusti-andika: movie.go</title>
-  <author>
-   <name>gusti-andika</name>
-  </author>
-  <link href="https://github.com/gusti-andika/movie.go" />
-  <id>urn:rprimus:github:gusti-andika:movie.go</id>
-  <published>2021-07-17T02:17:11Z</published>
-  <updated>2021-07-17T02:17:11Z</updated>
   <content type="html">
    
   </content>
@@ -314,19 +327,6 @@
   <updated>2021-07-17T01:07:28Z</updated>
   <content type="html">
    Blink OpenApi integration SDK
-  </content>
- </entry>
- <entry>
-  <title>coopstools-homebrew: users_api</title>
-  <author>
-   <name>coopstools-homebrew</name>
-  </author>
-  <link href="https://github.com/coopstools-homebrew/users_api" />
-  <id>urn:rprimus:github:coopstools-homebrew:users_api</id>
-  <published>2021-07-17T00:45:36Z</published>
-  <updated>2021-07-17T00:45:36Z</updated>
-  <content type="html">
-   A simple api, written in golang, for testing a CI/CD pipeline
   </content>
  </entry>
  <entry>
@@ -499,16 +499,42 @@
   </content>
  </entry>
  <entry>
-  <title>NekruzRakhimov: go_pocket_sdk</title>
+  <title>youngercloud: deco3801-2021</title>
   <author>
-   <name>NekruzRakhimov</name>
+   <name>youngercloud</name>
   </author>
-  <link href="https://github.com/NekruzRakhimov/go_pocket_sdk" />
-  <id>urn:rprimus:github:NekruzRakhimov:go_pocket_sdk</id>
-  <published>2021-07-16T09:11:41Z</published>
-  <updated>2021-07-16T09:11:41Z</updated>
+  <link href="https://github.com/youngercloud/deco3801-2021" />
+  <id>urn:rprimus:github:youngercloud:deco3801-2021</id>
+  <published>2021-07-16T10:29:54Z</published>
+  <updated>2021-07-16T10:29:54Z</updated>
   <content type="html">
-   SDK for working with pocket API
+   Repository for members in DECO3801 team members, University of Queensland.
+  </content>
+ </entry>
+ <entry>
+  <title>yh777: goland</title>
+  <author>
+   <name>yh777</name>
+  </author>
+  <link href="https://github.com/yh777/goland" />
+  <id>urn:rprimus:github:yh777:goland</id>
+  <published>2021-07-16T10:02:45Z</published>
+  <updated>2021-07-16T10:02:45Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>lskf2333: gologgerTest</title>
+  <author>
+   <name>lskf2333</name>
+  </author>
+  <link href="https://github.com/lskf2333/gologgerTest" />
+  <id>urn:rprimus:github:lskf2333:gologgerTest</id>
+  <published>2021-07-16T09:57:57Z</published>
+  <updated>2021-07-16T09:57:57Z</updated>
+  <content type="html">
+   
   </content>
  </entry>
  <entry>
@@ -577,19 +603,6 @@
   </content>
  </entry>
  <entry>
-  <title>rahulnagaraju: e-commerce3</title>
-  <author>
-   <name>rahulnagaraju</name>
-  </author>
-  <link href="https://github.com/rahulnagaraju/e-commerce3" />
-  <id>urn:rprimus:github:rahulnagaraju:e-commerce3</id>
-  <published>2021-07-16T07:20:47Z</published>
-  <updated>2021-07-16T07:20:47Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
   <title>xabi93: dependabot-syncher</title>
   <author>
    <name>xabi93</name>
@@ -642,19 +655,6 @@
   </content>
  </entry>
  <entry>
-  <title>erolhira: golang</title>
-  <author>
-   <name>erolhira</name>
-  </author>
-  <link href="https://github.com/erolhira/golang" />
-  <id>urn:rprimus:github:erolhira:golang</id>
-  <published>2021-07-16T05:43:05Z</published>
-  <updated>2021-07-16T05:43:05Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
   <title>sjy-dv: AWS_GO_SES_S3</title>
   <author>
    <name>sjy-dv</name>
@@ -681,16 +681,16 @@
   </content>
  </entry>
  <entry>
-  <title>zyfmix: go_tools</title>
+  <title>weilyuwang: go-movies-backend</title>
   <author>
-   <name>zyfmix</name>
+   <name>weilyuwang</name>
   </author>
-  <link href="https://github.com/zyfmix/go_tools" />
-  <id>urn:rprimus:github:zyfmix:go_tools</id>
-  <published>2021-07-16T03:45:03Z</published>
-  <updated>2021-07-16T03:45:03Z</updated>
+  <link href="https://github.com/weilyuwang/go-movies-backend" />
+  <id>urn:rprimus:github:weilyuwang:go-movies-backend</id>
+  <published>2021-07-16T03:35:51Z</published>
+  <updated>2021-07-16T03:35:51Z</updated>
   <content type="html">
-   go modules
+   Golang RESTful backend services for go-movies app
   </content>
  </entry>
  <entry>
