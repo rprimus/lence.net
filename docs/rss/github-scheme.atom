@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-scheme.atom"/>
 <id>urn:rprimus:github:newschemerepos</id>
-<updated>2021-07-17T02:07:38Z</updated>
+<updated>2021-07-18T03:42:29Z</updated>
 <title type='text'>New GitHub Scheme Repos</title>
+ <entry>
+  <title>b1tg: oaq</title>
+  <author>
+   <name>b1tg</name>
+  </author>
+  <link href="https://github.com/b1tg/oaq" />
+  <id>urn:rprimus:github:b1tg:oaq</id>
+  <published>2021-07-18T03:42:29Z</published>
+  <updated>2021-07-18T03:42:29Z</updated>
+  <content type="html">
+   plain text parser
+  </content>
+ </entry>
  <entry>
   <title>constfun: guix</title>
   <author>
@@ -41,71 +54,6 @@
   <updated>2021-07-16T13:47:42Z</updated>
   <content type="html">
    General OS config files
-  </content>
- </entry>
- <entry>
-  <title>ytaki0801: mcescheme</title>
-  <author>
-   <name>ytaki0801</name>
-  </author>
-  <link href="https://github.com/ytaki0801/mcescheme" />
-  <id>urn:rprimus:github:ytaki0801:mcescheme</id>
-  <published>2021-07-15T11:39:35Z</published>
-  <updated>2021-07-15T11:39:35Z</updated>
-  <content type="html">
-   Meta-Circular Evaluator in Scheme by using lambda with lexical scope, without define special form
-  </content>
- </entry>
- <entry>
-  <title>simpleliangsl: hello-scheme</title>
-  <author>
-   <name>simpleliangsl</name>
-  </author>
-  <link href="https://github.com/simpleliangsl/hello-scheme" />
-  <id>urn:rprimus:github:simpleliangsl:hello-scheme</id>
-  <published>2021-07-15T07:05:23Z</published>
-  <updated>2021-07-15T07:05:23Z</updated>
-  <content type="html">
-   Happy to learn &quot;Structure and Interpretation of Computer Programs&quot; (SICP) with Scheme
-  </content>
- </entry>
- <entry>
-  <title>kishore5242: system-model-repo</title>
-  <author>
-   <name>kishore5242</name>
-  </author>
-  <link href="https://github.com/kishore5242/system-model-repo" />
-  <id>urn:rprimus:github:kishore5242:system-model-repo</id>
-  <published>2021-07-15T06:01:14Z</published>
-  <updated>2021-07-15T06:01:14Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>open-AIMS: ereefs-ncanimate2</title>
-  <author>
-   <name>open-AIMS</name>
-  </author>
-  <link href="https://github.com/open-AIMS/ereefs-ncanimate2" />
-  <id>urn:rprimus:github:open-AIMS:ereefs-ncanimate2</id>
-  <published>2021-07-15T00:55:09Z</published>
-  <updated>2021-07-15T00:55:09Z</updated>
-  <content type="html">
-   Generate visualisation materiel for NetCDF files. It can produce static maps or videos.
-  </content>
- </entry>
- <entry>
-  <title>open-AIMS: ereefs-ncanimate2-frame</title>
-  <author>
-   <name>open-AIMS</name>
-  </author>
-  <link href="https://github.com/open-AIMS/ereefs-ncanimate2-frame" />
-  <id>urn:rprimus:github:open-AIMS:ereefs-ncanimate2-frame</id>
-  <published>2021-07-15T00:43:21Z</published>
-  <updated>2021-07-15T00:43:21Z</updated>
-  <content type="html">
-   Project used by ereefs-ncanimate2 to generate video frames
   </content>
  </entry>
 </feed>
