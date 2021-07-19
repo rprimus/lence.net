@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2021-07-17T20:32:42Z</updated>
+<updated>2021-07-19T09:00:40Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>Octachron: ffmt</title>
+  <author>
+   <name>Octachron</name>
+  </author>
+  <link href="https://github.com/Octachron/ffmt" />
+  <id>urn:rprimus:github:Octachron:ffmt</id>
+  <published>2021-07-19T09:00:40Z</published>
+  <updated>2021-07-19T09:00:40Z</updated>
+  <content type="html">
+   Format string experimentations
+  </content>
+ </entry>
+ <entry>
+  <title>gudmunduro: json_parser</title>
+  <author>
+   <name>gudmunduro</name>
+  </author>
+  <link href="https://github.com/gudmunduro/json_parser" />
+  <id>urn:rprimus:github:gudmunduro:json_parser</id>
+  <published>2021-07-18T20:16:39Z</published>
+  <updated>2021-07-18T20:16:39Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>jamespwilliams: coreutils</title>
+  <author>
+   <name>jamespwilliams</name>
+  </author>
+  <link href="https://github.com/jamespwilliams/coreutils" />
+  <id>urn:rprimus:github:jamespwilliams:coreutils</id>
+  <published>2021-07-18T19:56:42Z</published>
+  <updated>2021-07-18T19:56:42Z</updated>
+  <content type="html">
+   GNU coreutils implementations in OCaml
+  </content>
+ </entry>
+ <entry>
+  <title>renantatsuo: syndi</title>
+  <author>
+   <name>renantatsuo</name>
+  </author>
+  <link href="https://github.com/renantatsuo/syndi" />
+  <id>urn:rprimus:github:renantatsuo:syndi</id>
+  <published>2021-07-18T18:40:44Z</published>
+  <updated>2021-07-18T18:40:44Z</updated>
+  <content type="html">
+   Syndi is a quick CLI to decode your JWT tokens.
+  </content>
+ </entry>
+ <entry>
+  <title>misstaggart: lib</title>
+  <author>
+   <name>misstaggart</name>
+  </author>
+  <link href="https://github.com/misstaggart/lib" />
+  <id>urn:rprimus:github:misstaggart:lib</id>
+  <published>2021-07-18T18:06:55Z</published>
+  <updated>2021-07-18T18:06:55Z</updated>
+  <content type="html">
+   adhoc library; useful ocaml functions that i needed but couldn&#039;t find already done
+  </content>
+ </entry>
+ <entry>
+  <title>jdan: combinatorial-games</title>
+  <author>
+   <name>jdan</name>
+  </author>
+  <link href="https://github.com/jdan/combinatorial-games" />
+  <id>urn:rprimus:github:jdan:combinatorial-games</id>
+  <published>2021-07-18T17:45:39Z</published>
+  <updated>2021-07-18T17:45:39Z</updated>
+  <content type="html">
+   An exploration of evaluating the results of games without chance (Nim, Tic-Tac-Toe) under perfect play.
+  </content>
+ </entry>
  <entry>
   <title>braibant: icfp-2021</title>
   <author>
@@ -28,58 +106,6 @@
   <updated>2021-07-17T13:15:02Z</updated>
   <content type="html">
    learning financial contracts
-  </content>
- </entry>
- <entry>
-  <title>rafaelbreno: the-caml</title>
-  <author>
-   <name>rafaelbreno</name>
-  </author>
-  <link href="https://github.com/rafaelbreno/the-caml" />
-  <id>urn:rprimus:github:rafaelbreno:the-caml</id>
-  <published>2021-07-16T23:02:37Z</published>
-  <updated>2021-07-16T23:02:37Z</updated>
-  <content type="html">
-   Just THE Caml Guide
-  </content>
- </entry>
- <entry>
-  <title>jmid: sm2-tes21</title>
-  <author>
-   <name>jmid</name>
-  </author>
-  <link href="https://github.com/jmid/sm2-tes21" />
-  <id>urn:rprimus:github:jmid:sm2-tes21</id>
-  <published>2021-07-16T15:55:58Z</published>
-  <updated>2021-07-16T15:55:58Z</updated>
-  <content type="html">
-   &#039;Functional Programming and Property-Based Testing&#039; at SDU, Spring 2021
-  </content>
- </entry>
- <entry>
-  <title>akhaten: BinarySearchTree-ocaml</title>
-  <author>
-   <name>akhaten</name>
-  </author>
-  <link href="https://github.com/akhaten/BinarySearchTree-ocaml" />
-  <id>urn:rprimus:github:akhaten:BinarySearchTree-ocaml</id>
-  <published>2021-07-16T11:50:02Z</published>
-  <updated>2021-07-16T11:50:02Z</updated>
-  <content type="html">
-   BinarySearchTree (BST) implementation in ocaml
-  </content>
- </entry>
- <entry>
-  <title>UnixJunkie: menhir</title>
-  <author>
-   <name>UnixJunkie</name>
-  </author>
-  <link href="https://github.com/UnixJunkie/menhir" />
-  <id>urn:rprimus:github:UnixJunkie:menhir</id>
-  <published>2021-07-16T03:26:07Z</published>
-  <updated>2021-07-16T03:26:07Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>

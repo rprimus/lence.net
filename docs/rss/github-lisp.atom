@@ -2,19 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-07-18T04:52:08Z</updated>
+<updated>2021-07-19T09:09:34Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
  <entry>
-  <title>rajasegar: cl-employee-db</title>
+  <title>SonyCSLParis: fcg-libraries</title>
   <author>
-   <name>rajasegar</name>
+   <name>SonyCSLParis</name>
   </author>
-  <link href="https://github.com/rajasegar/cl-employee-db" />
-  <id>urn:rprimus:github:rajasegar:cl-employee-db</id>
-  <published>2021-07-18T04:52:08Z</published>
-  <updated>2021-07-18T04:52:08Z</updated>
+  <link href="https://github.com/SonyCSLParis/fcg-libraries" />
+  <id>urn:rprimus:github:SonyCSLParis:fcg-libraries</id>
+  <published>2021-07-19T09:09:34Z</published>
+  <updated>2021-07-19T09:09:34Z</updated>
   <content type="html">
-   Sample Employee database app with Common Lisp
+   Open Source Libraries for Fluid Construction Grammar
+  </content>
+ </entry>
+ <entry>
+  <title>fusuya: MazeOfMogezou</title>
+  <author>
+   <name>fusuya</name>
+  </author>
+  <link href="https://github.com/fusuya/MazeOfMogezou" />
+  <id>urn:rprimus:github:fusuya:MazeOfMogezou</id>
+  <published>2021-07-19T08:31:03Z</published>
+  <updated>2021-07-19T08:31:03Z</updated>
+  <content type="html">
+   simple rogue like game
+  </content>
+ </entry>
+ <entry>
+  <title>soulauh: my_ros_pkg</title>
+  <author>
+   <name>soulauh</name>
+  </author>
+  <link href="https://github.com/soulauh/my_ros_pkg" />
+  <id>urn:rprimus:github:soulauh:my_ros_pkg</id>
+  <published>2021-07-19T00:44:36Z</published>
+  <updated>2021-07-19T00:44:36Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>drogonframework: drogon-homebrew-formula-update</title>
+  <author>
+   <name>drogonframework</name>
+  </author>
+  <link href="https://github.com/drogonframework/drogon-homebrew-formula-update" />
+  <id>urn:rprimus:github:drogonframework:drogon-homebrew-formula-update</id>
+  <published>2021-07-18T18:16:56Z</published>
+  <updated>2021-07-18T18:16:56Z</updated>
+  <content type="html">
+   Drogon Homebrew Formula Updater updates the Drogon Homebrew formula with just one simple call.
+  </content>
+ </entry>
+ <entry>
+  <title>mikelevins: net.bardcode.uri</title>
+  <author>
+   <name>mikelevins</name>
+  </author>
+  <link href="https://github.com/mikelevins/net.bardcode.uri" />
+  <id>urn:rprimus:github:mikelevins:net.bardcode.uri</id>
+  <published>2021-07-18T12:54:29Z</published>
+  <updated>2021-07-18T12:54:29Z</updated>
+  <content type="html">
+   Simple utilities for working with URIs
   </content>
  </entry>
  <entry>
@@ -67,97 +119,6 @@
   <updated>2021-07-17T06:41:52Z</updated>
   <content type="html">
    The Computer Store in Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>renderedSafe: cl-tic-tac-toe</title>
-  <author>
-   <name>renderedSafe</name>
-  </author>
-  <link href="https://github.com/renderedSafe/cl-tic-tac-toe" />
-  <id>urn:rprimus:github:renderedSafe:cl-tic-tac-toe</id>
-  <published>2021-07-16T21:51:44Z</published>
-  <updated>2021-07-16T21:51:44Z</updated>
-  <content type="html">
-   Common Lisp implementation of Tic-Tac-Toe by Andrew Levenson, edited a bit to allow the integration of addtional included naive AI functionality.
-  </content>
- </entry>
- <entry>
-  <title>40ants: commondoc-markdown</title>
-  <author>
-   <name>40ants</name>
-  </author>
-  <link href="https://github.com/40ants/commondoc-markdown" />
-  <id>urn:rprimus:github:40ants:commondoc-markdown</id>
-  <published>2021-07-16T21:49:53Z</published>
-  <updated>2021-07-16T21:49:53Z</updated>
-  <content type="html">
-   Converts Markdown text into CommonDoc nodes and vice versa.
-  </content>
- </entry>
- <entry>
-  <title>sentot: ZK</title>
-  <author>
-   <name>sentot</name>
-  </author>
-  <link href="https://github.com/sentot/ZK" />
-  <id>urn:rprimus:github:sentot:ZK</id>
-  <published>2021-07-16T17:16:14Z</published>
-  <updated>2021-07-16T17:16:14Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>meguminloli: sneedacity-aarch64-arch</title>
-  <author>
-   <name>meguminloli</name>
-  </author>
-  <link href="https://github.com/meguminloli/sneedacity-aarch64-arch" />
-  <id>urn:rprimus:github:meguminloli:sneedacity-aarch64-arch</id>
-  <published>2021-07-16T15:03:02Z</published>
-  <updated>2021-07-16T15:03:02Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Jaso-N7: test-bed</title>
-  <author>
-   <name>Jaso-N7</name>
-  </author>
-  <link href="https://github.com/Jaso-N7/test-bed" />
-  <id>urn:rprimus:github:Jaso-N7:test-bed</id>
-  <published>2021-07-16T13:19:09Z</published>
-  <updated>2021-07-16T13:19:09Z</updated>
-  <content type="html">
-   Practicing Property-Based Testing and other ideas
-  </content>
- </entry>
- <entry>
-  <title>rcullito: dr-breath</title>
-  <author>
-   <name>rcullito</name>
-  </author>
-  <link href="https://github.com/rcullito/dr-breath" />
-  <id>urn:rprimus:github:rcullito:dr-breath</id>
-  <published>2021-07-16T12:15:36Z</published>
-  <updated>2021-07-16T12:15:36Z</updated>
-  <content type="html">
-   cleaning up the text of an old classic
-  </content>
- </entry>
- <entry>
-  <title>Wukix: wu-decimal</title>
-  <author>
-   <name>Wukix</name>
-  </author>
-  <link href="https://github.com/Wukix/wu-decimal" />
-  <id>urn:rprimus:github:Wukix:wu-decimal</id>
-  <published>2021-07-16T01:48:25Z</published>
-  <updated>2021-07-16T01:48:25Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
