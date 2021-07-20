@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-07-19T09:09:34Z</updated>
+<updated>2021-07-19T18:06:01Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>JMC-design: ewmh</title>
+  <author>
+   <name>JMC-design</name>
+  </author>
+  <link href="https://github.com/JMC-design/ewmh" />
+  <id>urn:rprimus:github:JMC-design:ewmh</id>
+  <published>2021-07-19T18:06:01Z</published>
+  <updated>2021-07-19T18:06:01Z</updated>
+  <content type="html">
+   CL implementation of Extended Window Manager Hints
+  </content>
+ </entry>
+ <entry>
+  <title>rajasegar: cl-warehouse</title>
+  <author>
+   <name>rajasegar</name>
+  </author>
+  <link href="https://github.com/rajasegar/cl-warehouse" />
+  <id>urn:rprimus:github:rajasegar:cl-warehouse</id>
+  <published>2021-07-19T13:02:46Z</published>
+  <updated>2021-07-19T13:02:46Z</updated>
+  <content type="html">
+   A sample Warehouse management app in Common Lisp (WIP)
+  </content>
+ </entry>
+ <entry>
+  <title>show-matz: cl-diagram</title>
+  <author>
+   <name>show-matz</name>
+  </author>
+  <link href="https://github.com/show-matz/cl-diagram" />
+  <id>urn:rprimus:github:show-matz:cl-diagram</id>
+  <published>2021-07-19T13:00:29Z</published>
+  <updated>2021-07-19T13:00:29Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>SonyCSLParis: fcg-libraries</title>
   <author>
@@ -106,19 +145,6 @@
   <updated>2021-07-18T00:34:02Z</updated>
   <content type="html">
    https://gitlab.com/Aksej/Mang
-  </content>
- </entry>
- <entry>
-  <title>rajasegar: cl-computer-store</title>
-  <author>
-   <name>rajasegar</name>
-  </author>
-  <link href="https://github.com/rajasegar/cl-computer-store" />
-  <id>urn:rprimus:github:rajasegar:cl-computer-store</id>
-  <published>2021-07-17T06:41:52Z</published>
-  <updated>2021-07-17T06:41:52Z</updated>
-  <content type="html">
-   The Computer Store in Common Lisp
   </content>
  </entry>
 </feed>
