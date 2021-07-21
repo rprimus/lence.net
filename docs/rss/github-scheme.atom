@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-scheme.atom"/>
 <id>urn:rprimus:github:newschemerepos</id>
-<updated>2021-07-19T22:59:49Z</updated>
+<updated>2021-07-21T03:27:38Z</updated>
 <title type='text'>New GitHub Scheme Repos</title>
+ <entry>
+  <title>m00nbek: arch-configs</title>
+  <author>
+   <name>m00nbek</name>
+  </author>
+  <link href="https://github.com/m00nbek/arch-configs" />
+  <id>urn:rprimus:github:m00nbek:arch-configs</id>
+  <published>2021-07-21T03:27:38Z</published>
+  <updated>2021-07-21T03:27:38Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>moon-chilled: loop</title>
+  <author>
+   <name>moon-chilled</name>
+  </author>
+  <link href="https://github.com/moon-chilled/loop" />
+  <id>urn:rprimus:github:moon-chilled:loop</id>
+  <published>2021-07-20T22:12:21Z</published>
+  <updated>2021-07-20T22:12:21Z</updated>
+  <content type="html">
+   Loop implementation for scheme
+  </content>
+ </entry>
+ <entry>
+  <title>tonyctan: TIMSS_2019</title>
+  <author>
+   <name>tonyctan</name>
+  </author>
+  <link href="https://github.com/tonyctan/TIMSS_2019" />
+  <id>urn:rprimus:github:tonyctan:TIMSS_2019</id>
+  <published>2021-07-20T21:32:16Z</published>
+  <updated>2021-07-20T21:32:16Z</updated>
+  <content type="html">
+   A repo containing TIMSS 2019 data cleaning
+  </content>
+ </entry>
+ <entry>
+  <title>schrattenholz: sola</title>
+  <author>
+   <name>schrattenholz</name>
+  </author>
+  <link href="https://github.com/schrattenholz/sola" />
+  <id>urn:rprimus:github:schrattenholz:sola</id>
+  <published>2021-07-20T18:03:39Z</published>
+  <updated>2021-07-20T18:03:39Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>seanpm2001: Boom-Bay</title>
   <author>
@@ -18,19 +70,6 @@
   </content>
  </entry>
  <entry>
-  <title>Frewacom: guile-scripting-test</title>
-  <author>
-   <name>Frewacom</name>
-  </author>
-  <link href="https://github.com/Frewacom/guile-scripting-test" />
-  <id>urn:rprimus:github:Frewacom:guile-scripting-test</id>
-  <published>2021-07-19T21:35:40Z</published>
-  <updated>2021-07-19T21:35:40Z</updated>
-  <content type="html">
-   Test code for integrating guile script evaluation in C applications
-  </content>
- </entry>
- <entry>
   <title>SwitchAxe: DFA</title>
   <author>
    <name>SwitchAxe</name>
@@ -40,7 +79,7 @@
   <published>2021-07-19T21:30:10Z</published>
   <updated>2021-07-19T21:30:10Z</updated>
   <content type="html">
-   some deterministic finite-state automata i&#039;ve written in scheme. taken directly from the book &quot;Introduction to the theory of computation&quot; by michael sipser.
+   some deterministic finite-state automata i&#039;ve written in scheme. taken directly from the book &quot;Introduction to the theory of computation&quot; by Michael Sipser.
   </content>
  </entry>
  <entry>
@@ -93,71 +132,6 @@
   <updated>2021-07-19T02:04:17Z</updated>
   <content type="html">
    GNU Guix &quot;hello&quot; package example
-  </content>
- </entry>
- <entry>
-  <title>nikos-alexandris: constraint-solver-in-scheme</title>
-  <author>
-   <name>nikos-alexandris</name>
-  </author>
-  <link href="https://github.com/nikos-alexandris/constraint-solver-in-scheme" />
-  <id>urn:rprimus:github:nikos-alexandris:constraint-solver-in-scheme</id>
-  <published>2021-07-18T20:40:22Z</published>
-  <updated>2021-07-18T20:40:22Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>wulab: henderson-escher-web</title>
-  <author>
-   <name>wulab</name>
-  </author>
-  <link href="https://github.com/wulab/henderson-escher-web" />
-  <id>urn:rprimus:github:wulab:henderson-escher-web</id>
-  <published>2021-07-18T18:40:00Z</published>
-  <updated>2021-07-18T18:40:00Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>sudhansupanda8860: GIT</title>
-  <author>
-   <name>sudhansupanda8860</name>
-  </author>
-  <link href="https://github.com/sudhansupanda8860/GIT" />
-  <id>urn:rprimus:github:sudhansupanda8860:GIT</id>
-  <published>2021-07-18T15:24:04Z</published>
-  <updated>2021-07-18T15:24:04Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>phodina: guix</title>
-  <author>
-   <name>phodina</name>
-  </author>
-  <link href="https://github.com/phodina/guix" />
-  <id>urn:rprimus:github:phodina:guix</id>
-  <published>2021-07-18T09:21:45Z</published>
-  <updated>2021-07-18T09:21:45Z</updated>
-  <content type="html">
-   Mirror of https://git.savannah.gnu.org/git/guix.git for personal/work use and submitting patches
-  </content>
- </entry>
- <entry>
-  <title>b1tg: oaq</title>
-  <author>
-   <name>b1tg</name>
-  </author>
-  <link href="https://github.com/b1tg/oaq" />
-  <id>urn:rprimus:github:b1tg:oaq</id>
-  <published>2021-07-18T03:42:29Z</published>
-  <updated>2021-07-18T03:42:29Z</updated>
-  <content type="html">
-   plain text parser
   </content>
  </entry>
 </feed>
