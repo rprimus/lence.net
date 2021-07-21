@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-07-21T01:58:14Z</updated>
+<updated>2021-07-21T05:33:19Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>tdrhq: slite</title>
+  <author>
+   <name>tdrhq</name>
+  </author>
+  <link href="https://github.com/tdrhq/slite" />
+  <id>urn:rprimus:github:tdrhq:slite</id>
+  <published>2021-07-21T05:33:19Z</published>
+  <updated>2021-07-21T05:33:19Z</updated>
+  <content type="html">
+   a SLIme-based TEst runner for FiveAM Tests
+  </content>
+ </entry>
  <entry>
   <title>kilych: ansi-common-lisp</title>
   <author>
@@ -131,7 +144,7 @@
   <published>2021-07-19T13:02:46Z</published>
   <updated>2021-07-19T13:02:46Z</updated>
   <content type="html">
-   A sample Warehouse management app in Common Lisp (WIP)
+   A sample Warehouse management app in Common Lisp
   </content>
  </entry>
  <entry>

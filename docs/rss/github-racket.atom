@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-racket.atom"/>
 <id>urn:rprimus:github:newracketrepos</id>
-<updated>2021-07-21T00:39:02Z</updated>
+<updated>2021-07-21T04:10:55Z</updated>
 <title type='text'>New GitHub Racket Repos</title>
+ <entry>
+  <title>Aeva: racket_gl_example</title>
+  <author>
+   <name>Aeva</name>
+  </author>
+  <link href="https://github.com/Aeva/racket_gl_example" />
+  <id>urn:rprimus:github:Aeva:racket_gl_example</id>
+  <published>2021-07-21T04:10:55Z</published>
+  <updated>2021-07-21T04:10:55Z</updated>
+  <content type="html">
+   Example of how to create an OpenGL context with racket/gui and let a dll draw to it.
+  </content>
+ </entry>
  <entry>
   <title>Phate6660: rktmpc</title>
   <author>
