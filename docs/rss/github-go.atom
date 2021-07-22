@@ -2,19 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-go.atom"/>
 <id>urn:rprimus:github:newgorepos</id>
-<updated>2021-07-22T05:22:37Z</updated>
+<updated>2021-07-22T06:50:16Z</updated>
 <title type='text'>New GitHub Go Repos</title>
  <entry>
-  <title>sepulsa: vetra</title>
+  <title>mbict: aws-secrets-template</title>
   <author>
-   <name>sepulsa</name>
+   <name>mbict</name>
   </author>
-  <link href="https://github.com/sepulsa/vetra" />
-  <id>urn:rprimus:github:sepulsa:vetra</id>
-  <published>2021-07-22T05:22:37Z</published>
-  <updated>2021-07-22T05:22:37Z</updated>
+  <link href="https://github.com/mbict/aws-secrets-template" />
+  <id>urn:rprimus:github:mbict:aws-secrets-template</id>
+  <published>2021-07-22T06:50:16Z</published>
+  <updated>2021-07-22T06:50:16Z</updated>
   <content type="html">
-   vetra is a tool for static analysis of Go programs.
+   a sidecar implementation for aws secrets template ... like consul template for vault
+  </content>
+ </entry>
+ <entry>
+  <title>navruz-rakhimov: golang-tasks</title>
+  <author>
+   <name>navruz-rakhimov</name>
+  </author>
+  <link href="https://github.com/navruz-rakhimov/golang-tasks" />
+  <id>urn:rprimus:github:navruz-rakhimov:golang-tasks</id>
+  <published>2021-07-22T06:20:22Z</published>
+  <updated>2021-07-22T06:20:22Z</updated>
+  <content type="html">
+   
   </content>
  </entry>
  <entry>
@@ -44,12 +57,25 @@
   </content>
  </entry>
  <entry>
-  <title>ryanpriatama: testing-Github</title>
+  <title>estraier: tkrzw-go</title>
+  <author>
+   <name>estraier</name>
+  </author>
+  <link href="https://github.com/estraier/tkrzw-go" />
+  <id>urn:rprimus:github:estraier:tkrzw-go</id>
+  <published>2021-07-22T04:38:30Z</published>
+  <updated>2021-07-22T04:38:30Z</updated>
+  <content type="html">
+   Go interface of Tkrzw
+  </content>
+ </entry>
+ <entry>
+  <title>ryanpriatama: Assignment-14-code-structure-MVC</title>
   <author>
    <name>ryanpriatama</name>
   </author>
-  <link href="https://github.com/ryanpriatama/testing-Github" />
-  <id>urn:rprimus:github:ryanpriatama:testing-Github</id>
+  <link href="https://github.com/ryanpriatama/Assignment-14-code-structure-MVC" />
+  <id>urn:rprimus:github:ryanpriatama:Assignment-14-code-structure-MVC</id>
   <published>2021-07-22T04:07:28Z</published>
   <updated>2021-07-22T04:07:28Z</updated>
   <content type="html">
@@ -156,19 +182,6 @@
   <id>urn:rprimus:github:foursking:ztgo</id>
   <published>2021-07-22T02:49:56Z</published>
   <updated>2021-07-22T02:49:56Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>tensordevops: compose</title>
-  <author>
-   <name>tensordevops</name>
-  </author>
-  <link href="https://github.com/tensordevops/compose" />
-  <id>urn:rprimus:github:tensordevops:compose</id>
-  <published>2021-07-22T02:33:24Z</published>
-  <updated>2021-07-22T02:33:24Z</updated>
   <content type="html">
    
   </content>
@@ -330,19 +343,6 @@
   </content>
  </entry>
  <entry>
-  <title>lendi-au: terraform-provider-snyk</title>
-  <author>
-   <name>lendi-au</name>
-  </author>
-  <link href="https://github.com/lendi-au/terraform-provider-snyk" />
-  <id>urn:rprimus:github:lendi-au:terraform-provider-snyk</id>
-  <published>2021-07-22T00:30:07Z</published>
-  <updated>2021-07-22T00:30:07Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
   <title>teixeiragthiago: golang-course</title>
   <author>
    <name>teixeiragthiago</name>
@@ -418,6 +418,19 @@
   <updated>2021-07-21T20:58:21Z</updated>
   <content type="html">
    
+  </content>
+ </entry>
+ <entry>
+  <title>platypusguy: jacobin</title>
+  <author>
+   <name>platypusguy</name>
+  </author>
+  <link href="https://github.com/platypusguy/jacobin" />
+  <id>urn:rprimus:github:platypusguy:jacobin</id>
+  <published>2021-07-21T20:47:57Z</published>
+  <updated>2021-07-21T20:47:57Z</updated>
+  <content type="html">
+   A more than minimal JVM written in Go and capable of running Java 11 bytecode.
   </content>
  </entry>
  <entry>
@@ -574,19 +587,6 @@
   <updated>2021-07-21T09:59:31Z</updated>
   <content type="html">
    ð apperr provides a unified application error generation interface. Errors can be localized and converted to GRPC, Twirp, HTTP, etc. equivalents
-  </content>
- </entry>
- <entry>
-  <title>mertcandav: enumgo</title>
-  <author>
-   <name>mertcandav</name>
-  </author>
-  <link href="https://github.com/mertcandav/enumgo" />
-  <id>urn:rprimus:github:mertcandav:enumgo</id>
-  <published>2021-07-21T09:57:37Z</published>
-  <updated>2021-07-21T09:57:37Z</updated>
-  <content type="html">
-   The enumerable objects, statistics, data science library for Go.
   </content>
  </entry>
  <entry>
@@ -837,6 +837,19 @@
   </content>
  </entry>
  <entry>
+  <title>konsalex: colly-neo4j-storage</title>
+  <author>
+   <name>konsalex</name>
+  </author>
+  <link href="https://github.com/konsalex/colly-neo4j-storage" />
+  <id>urn:rprimus:github:konsalex:colly-neo4j-storage</id>
+  <published>2021-07-20T16:51:27Z</published>
+  <updated>2021-07-20T16:51:27Z</updated>
+  <content type="html">
+   Neo4j Storage implementation for Colly
+  </content>
+ </entry>
+ <entry>
   <title>fskanokano: rocinante-go</title>
   <author>
    <name>fskanokano</name>
@@ -964,19 +977,6 @@
   <updated>2021-07-20T10:33:45Z</updated>
   <content type="html">
    grpcå­¦ä¹ 
-  </content>
- </entry>
- <entry>
-  <title>guobinqiu: k8s-experiment</title>
-  <author>
-   <name>guobinqiu</name>
-  </author>
-  <link href="https://github.com/guobinqiu/k8s-experiment" />
-  <id>urn:rprimus:github:guobinqiu:k8s-experiment</id>
-  <published>2021-07-20T10:18:30Z</published>
-  <updated>2021-07-20T10:18:30Z</updated>
-  <content type="html">
-   Deploying a golang based application using Kubernates
   </content>
  </entry>
  <entry>
