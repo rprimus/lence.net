@@ -2,19 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-07-21T05:33:19Z</updated>
+<updated>2021-07-21T20:37:13Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
  <entry>
-  <title>tdrhq: slite</title>
+  <title>edgar-vincent: nyxt</title>
   <author>
-   <name>tdrhq</name>
+   <name>edgar-vincent</name>
   </author>
-  <link href="https://github.com/tdrhq/slite" />
-  <id>urn:rprimus:github:tdrhq:slite</id>
-  <published>2021-07-21T05:33:19Z</published>
-  <updated>2021-07-21T05:33:19Z</updated>
+  <link href="https://github.com/edgar-vincent/nyxt" />
+  <id>urn:rprimus:github:edgar-vincent:nyxt</id>
+  <published>2021-07-21T20:37:13Z</published>
+  <updated>2021-07-21T20:37:13Z</updated>
   <content type="html">
-   a SLIme-based TEst runner for FiveAM Tests
+   
+  </content>
+ </entry>
+ <entry>
+  <title>plops: cl-verilog-generator</title>
+  <author>
+   <name>plops</name>
+  </author>
+  <link href="https://github.com/plops/cl-verilog-generator" />
+  <id>urn:rprimus:github:plops:cl-verilog-generator</id>
+  <published>2021-07-21T19:38:14Z</published>
+  <updated>2021-07-21T19:38:14Z</updated>
+  <content type="html">
+   S-expression language that generates Verilog HDL
+  </content>
+ </entry>
+ <entry>
+  <title>glv2: cl-ofdm-transfer</title>
+  <author>
+   <name>glv2</name>
+  </author>
+  <link href="https://github.com/glv2/cl-ofdm-transfer" />
+  <id>urn:rprimus:github:glv2:cl-ofdm-transfer</id>
+  <published>2021-07-21T17:09:22Z</published>
+  <updated>2021-07-21T17:09:22Z</updated>
+  <content type="html">
+   Common Lisp bindings to ofdm-transfer
+  </content>
+ </entry>
+ <entry>
+  <title>glv2: cl-gmsk-transfer</title>
+  <author>
+   <name>glv2</name>
+  </author>
+  <link href="https://github.com/glv2/cl-gmsk-transfer" />
+  <id>urn:rprimus:github:glv2:cl-gmsk-transfer</id>
+  <published>2021-07-21T17:04:43Z</published>
+  <updated>2021-07-21T17:04:43Z</updated>
+  <content type="html">
+   Common Lisp bindings to gmsk-transfer
+  </content>
+ </entry>
+ <entry>
+  <title>stumbo: medleyTest</title>
+  <author>
+   <name>stumbo</name>
+  </author>
+  <link href="https://github.com/stumbo/medleyTest" />
+  <id>urn:rprimus:github:stumbo:medleyTest</id>
+  <published>2021-07-21T12:00:44Z</published>
+  <updated>2021-07-21T12:00:44Z</updated>
+  <content type="html">
+   
   </content>
  </entry>
  <entry>
@@ -31,12 +83,12 @@
   </content>
  </entry>
  <entry>
-  <title>eXodiquas: AdventOfCodeSolutiuons</title>
+  <title>eXodiquas: AdventOfCodeSolutions</title>
   <author>
    <name>eXodiquas</name>
   </author>
-  <link href="https://github.com/eXodiquas/AdventOfCodeSolutiuons" />
-  <id>urn:rprimus:github:eXodiquas:AdventOfCodeSolutiuons</id>
+  <link href="https://github.com/eXodiquas/AdventOfCodeSolutions" />
+  <id>urn:rprimus:github:eXodiquas:AdventOfCodeSolutions</id>
   <published>2021-07-21T01:51:27Z</published>
   <updated>2021-07-21T01:51:27Z</updated>
   <content type="html">
@@ -105,98 +157,7 @@
   <published>2021-07-20T14:12:26Z</published>
   <updated>2021-07-20T14:12:26Z</updated>
   <content type="html">
-   memo app
-  </content>
- </entry>
- <entry>
-  <title>stumbo: medleyTest</title>
-  <author>
-   <name>stumbo</name>
-  </author>
-  <link href="https://github.com/stumbo/medleyTest" />
-  <id>urn:rprimus:github:stumbo:medleyTest</id>
-  <published>2021-07-20T11:21:04Z</published>
-  <updated>2021-07-20T11:21:04Z</updated>
-  <content type="html">
-   Testing usage of lfs with Medley
-  </content>
- </entry>
- <entry>
-  <title>JMC-design: ewmh</title>
-  <author>
-   <name>JMC-design</name>
-  </author>
-  <link href="https://github.com/JMC-design/ewmh" />
-  <id>urn:rprimus:github:JMC-design:ewmh</id>
-  <published>2021-07-19T18:06:01Z</published>
-  <updated>2021-07-19T18:06:01Z</updated>
-  <content type="html">
-   CL implementation of Extended Window Manager Hints
-  </content>
- </entry>
- <entry>
-  <title>rajasegar: cl-warehouse</title>
-  <author>
-   <name>rajasegar</name>
-  </author>
-  <link href="https://github.com/rajasegar/cl-warehouse" />
-  <id>urn:rprimus:github:rajasegar:cl-warehouse</id>
-  <published>2021-07-19T13:02:46Z</published>
-  <updated>2021-07-19T13:02:46Z</updated>
-  <content type="html">
-   A sample Warehouse management app in Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>show-matz: cl-diagram</title>
-  <author>
-   <name>show-matz</name>
-  </author>
-  <link href="https://github.com/show-matz/cl-diagram" />
-  <id>urn:rprimus:github:show-matz:cl-diagram</id>
-  <published>2021-07-19T13:00:29Z</published>
-  <updated>2021-07-19T13:00:29Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>SonyCSLParis: fcg-libraries</title>
-  <author>
-   <name>SonyCSLParis</name>
-  </author>
-  <link href="https://github.com/SonyCSLParis/fcg-libraries" />
-  <id>urn:rprimus:github:SonyCSLParis:fcg-libraries</id>
-  <published>2021-07-19T09:09:34Z</published>
-  <updated>2021-07-19T09:09:34Z</updated>
-  <content type="html">
-   Open Source Libraries for Fluid Construction Grammar
-  </content>
- </entry>
- <entry>
-  <title>fusuya: MazeOfMogezou</title>
-  <author>
-   <name>fusuya</name>
-  </author>
-  <link href="https://github.com/fusuya/MazeOfMogezou" />
-  <id>urn:rprimus:github:fusuya:MazeOfMogezou</id>
-  <published>2021-07-19T08:31:03Z</published>
-  <updated>2021-07-19T08:31:03Z</updated>
-  <content type="html">
-   simple rogue like game
-  </content>
- </entry>
- <entry>
-  <title>soulauh: my_ros_pkg</title>
-  <author>
-   <name>soulauh</name>
-  </author>
-  <link href="https://github.com/soulauh/my_ros_pkg" />
-  <id>urn:rprimus:github:soulauh:my_ros_pkg</id>
-  <published>2021-07-19T00:44:36Z</published>
-  <updated>2021-07-19T00:44:36Z</updated>
-  <content type="html">
-   
+   memo application
   </content>
  </entry>
 </feed>

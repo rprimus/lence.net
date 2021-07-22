@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2021-07-21T03:30:50Z</updated>
+<updated>2021-07-21T19:28:47Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>omussell: bun.nim</title>
+  <author>
+   <name>omussell</name>
+  </author>
+  <link href="https://github.com/omussell/bun.nim" />
+  <id>urn:rprimus:github:omussell:bun.nim</id>
+  <published>2021-07-21T19:28:47Z</published>
+  <updated>2021-07-21T19:28:47Z</updated>
+  <content type="html">
+   Simple YAML Based Puppet ENC
+  </content>
+ </entry>
+ <entry>
+  <title>sknux: nim_reverse_shell</title>
+  <author>
+   <name>sknux</name>
+  </author>
+  <link href="https://github.com/sknux/nim_reverse_shell" />
+  <id>urn:rprimus:github:sknux:nim_reverse_shell</id>
+  <published>2021-07-21T16:45:55Z</published>
+  <updated>2021-07-21T16:45:55Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>klardotsh: oof</title>
   <author>
@@ -67,32 +93,6 @@
   <updated>2021-07-20T01:49:39Z</updated>
   <content type="html">
    A collection of open-source Frog games. Written in Nim.
-  </content>
- </entry>
- <entry>
-  <title>esthermations: MontyHallProblem</title>
-  <author>
-   <name>esthermations</name>
-  </author>
-  <link href="https://github.com/esthermations/MontyHallProblem" />
-  <id>urn:rprimus:github:esthermations:MontyHallProblem</id>
-  <published>2021-07-19T14:36:57Z</published>
-  <updated>2021-07-19T14:36:57Z</updated>
-  <content type="html">
-   trying (failing) to demonstrate the solution to the Monty Hall problem
-  </content>
- </entry>
- <entry>
-  <title>saiashirwad: nim-learn</title>
-  <author>
-   <name>saiashirwad</name>
-  </author>
-  <link href="https://github.com/saiashirwad/nim-learn" />
-  <id>urn:rprimus:github:saiashirwad:nim-learn</id>
-  <published>2021-07-19T05:39:23Z</published>
-  <updated>2021-07-19T05:39:23Z</updated>
-  <content type="html">
-   Learning Nim
   </content>
  </entry>
 </feed>
