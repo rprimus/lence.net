@@ -17,5 +17,5 @@ jobs:
       - run: echo " DOC_ROOT ${{ env.DOC_ROOT }} file in ${{ github.workspace }}"
       - name: List files in the repository
         run: |
-          ls ${{ github.workspace }}
+          ls -la ${{ env.DOC_ROOT }}/
       - run: echo "🍏 This job's status is ${{ job.status }}."
