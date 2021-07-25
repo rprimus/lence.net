@@ -2,8 +2,112 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-perl.atom"/>
 <id>urn:rprimus:github:newperlrepos</id>
-<updated>2021-07-24T06:57:09Z</updated>
+<updated>2021-07-25T05:23:21Z</updated>
 <title type='text'>New GitHub Perl Repos</title>
+ <entry>
+  <title>code-nabinkhanal: Dotfiles</title>
+  <author>
+   <name>code-nabinkhanal</name>
+  </author>
+  <link href="https://github.com/code-nabinkhanal/Dotfiles" />
+  <id>urn:rprimus:github:code-nabinkhanal:Dotfiles</id>
+  <published>2021-07-25T05:23:21Z</published>
+  <updated>2021-07-25T05:23:21Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>perlancar: perl-Tie-Array-IntSpan</title>
+  <author>
+   <name>perlancar</name>
+  </author>
+  <link href="https://github.com/perlancar/perl-Tie-Array-IntSpan" />
+  <id>urn:rprimus:github:perlancar:perl-Tie-Array-IntSpan</id>
+  <published>2021-07-25T01:32:03Z</published>
+  <updated>2021-07-25T01:32:03Z</updated>
+  <content type="html">
+   (No description)
+  </content>
+ </entry>
+ <entry>
+  <title>Iqbal11111111: wibu</title>
+  <author>
+   <name>Iqbal11111111</name>
+  </author>
+  <link href="https://github.com/Iqbal11111111/wibu" />
+  <id>urn:rprimus:github:Iqbal11111111:wibu</id>
+  <published>2021-07-25T01:06:44Z</published>
+  <updated>2021-07-25T01:06:44Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>liminjie1234: Complex-evolutionary-origin-of-one-tetraploid-allium-in-the-Qinghai-Tibet-Plateau</title>
+  <author>
+   <name>liminjie1234</name>
+  </author>
+  <link href="https://github.com/liminjie1234/Complex-evolutionary-origin-of-one-tetraploid-allium-in-the-Qinghai-Tibet-Plateau" />
+  <id>urn:rprimus:github:liminjie1234:Complex-evolutionary-origin-of-one-tetraploid-allium-in-the-Qinghai-Tibet-Plateau</id>
+  <published>2021-07-25T00:46:51Z</published>
+  <updated>2021-07-25T00:46:51Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>joehmchiu: test-github</title>
+  <author>
+   <name>joehmchiu</name>
+  </author>
+  <link href="https://github.com/joehmchiu/test-github" />
+  <id>urn:rprimus:github:joehmchiu:test-github</id>
+  <published>2021-07-24T22:49:16Z</published>
+  <updated>2021-07-24T22:49:16Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>masiuchi: p5-test-fixture-teng</title>
+  <author>
+   <name>masiuchi</name>
+  </author>
+  <link href="https://github.com/masiuchi/p5-test-fixture-teng" />
+  <id>urn:rprimus:github:masiuchi:p5-test-fixture-teng</id>
+  <published>2021-07-24T21:38:09Z</published>
+  <updated>2021-07-24T21:38:09Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>htaketani: pg_dump_sort</title>
+  <author>
+   <name>htaketani</name>
+  </author>
+  <link href="https://github.com/htaketani/pg_dump_sort" />
+  <id>urn:rprimus:github:htaketani:pg_dump_sort</id>
+  <published>2021-07-24T19:42:02Z</published>
+  <updated>2021-07-24T19:42:02Z</updated>
+  <content type="html">
+   Sort table rows data by primary key in pg_dump output sql.
+  </content>
+ </entry>
+ <entry>
+  <title>dreamPathsProjekt: training-code</title>
+  <author>
+   <name>dreamPathsProjekt</name>
+  </author>
+  <link href="https://github.com/dreamPathsProjekt/training-code" />
+  <id>urn:rprimus:github:dreamPathsProjekt:training-code</id>
+  <published>2021-07-24T10:42:38Z</published>
+  <updated>2021-07-24T10:42:38Z</updated>
+  <content type="html">
+   A compilation of training projects in a single repo
+  </content>
+ </entry>
  <entry>
   <title>caochch: RICpipeV2</title>
   <author>
@@ -197,6 +301,19 @@
   <updated>2021-07-23T21:33:14Z</updated>
   <content type="html">
    Pseudo-nitzschia spp. produces a neurotoxin, domoic acid (DA), which can cause illness in humans, commonly known as amnesic shellfish poisoning, mass-mortality of marine animals, and closure of commercial shellfish fisheries during bloom events. Understanding and forecasting these harmful algal blooms is a primary management goal; however, accurately predicting the onset and severity of Pseudo-nitzschia bloom events remains difficult, in part because the underlying drivers of bloom formation have not been fully resolved. Recent work suggests that the genetic composition of a Pseudo-nitzschia bloom may be a better predictor of toxicity than prevailing environmental conditions. Here, we test the ability of reduced representation sequencing (2b-RAD) to delineate inter and intra-species level genetic variation of Pseudo-nitzschia. We generated 2bRAD libraries from pure cultures of Pseudo-nitzschia spp. and mock community mixes. We also generated sequencing libraries from longitudinal field samples from the San Pedro Shelf. This repository contains the bioinformatic and statistical scripts necessary to re-create analyses, as well as raw input data used to generate figures. FASTQ reads for both the Mock Community Mix (SUB9673624) and Natural Sample libraries (SUB10064804) can be obtained from NCBIâs SRA under BioProject PRJNA749297. The final Pseudo-nitzschia spp. 2bRAD reference library is hosted at https://dornsife.usc.edu/labs/carlslab/data/.
+  </content>
+ </entry>
+ <entry>
+  <title>skirmess: git-wrapper-bug-report</title>
+  <author>
+   <name>skirmess</name>
+  </author>
+  <link href="https://github.com/skirmess/git-wrapper-bug-report" />
+  <id>urn:rprimus:github:skirmess:git-wrapper-bug-report</id>
+  <published>2021-07-23T21:06:46Z</published>
+  <updated>2021-07-23T21:06:46Z</updated>
+  <content type="html">
+   
   </content>
  </entry>
  <entry>
@@ -431,305 +548,6 @@
   <updated>2021-07-23T00:23:01Z</updated>
   <content type="html">
    (No description)
-  </content>
- </entry>
- <entry>
-  <title>xavery: lib3gpp23038</title>
-  <author>
-   <name>xavery</name>
-  </author>
-  <link href="https://github.com/xavery/lib3gpp23038" />
-  <id>urn:rprimus:github:xavery:lib3gpp23038</id>
-  <published>2021-07-22T23:31:38Z</published>
-  <updated>2021-07-22T23:31:38Z</updated>
-  <content type="html">
-   Decoding and encoding routines for the GSM charset
-  </content>
- </entry>
- <entry>
-  <title>hakonhagland: alien-gsl-gha</title>
-  <author>
-   <name>hakonhagland</name>
-  </author>
-  <link href="https://github.com/hakonhagland/alien-gsl-gha" />
-  <id>urn:rprimus:github:hakonhagland:alien-gsl-gha</id>
-  <published>2021-07-22T23:20:45Z</published>
-  <updated>2021-07-22T23:20:45Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>panix-os: fonts</title>
-  <author>
-   <name>panix-os</name>
-  </author>
-  <link href="https://github.com/panix-os/fonts" />
-  <id>urn:rprimus:github:panix-os:fonts</id>
-  <published>2021-07-22T22:34:50Z</published>
-  <updated>2021-07-22T22:34:50Z</updated>
-  <content type="html">
-   Unicode VGA Font used by the Panix Kernel.
-  </content>
- </entry>
- <entry>
-  <title>sHr3y4s1: Average-propensity-calculator</title>
-  <author>
-   <name>sHr3y4s1</name>
-  </author>
-  <link href="https://github.com/sHr3y4s1/Average-propensity-calculator" />
-  <id>urn:rprimus:github:sHr3y4s1:Average-propensity-calculator</id>
-  <published>2021-07-22T22:05:54Z</published>
-  <updated>2021-07-22T22:05:54Z</updated>
-  <content type="html">
-   Calculates the average propensity of a frame of every 8 amino acids in a protein sequence coded in Perl. 
-  </content>
- </entry>
- <entry>
-  <title>sHr3y4s1: CDS-retrieval-from-Genbank-file</title>
-  <author>
-   <name>sHr3y4s1</name>
-  </author>
-  <link href="https://github.com/sHr3y4s1/CDS-retrieval-from-Genbank-file" />
-  <id>urn:rprimus:github:sHr3y4s1:CDS-retrieval-from-Genbank-file</id>
-  <published>2021-07-22T22:02:06Z</published>
-  <updated>2021-07-22T22:02:06Z</updated>
-  <content type="html">
-   Retrieving the coding sequence from a file in Genbank format
-  </content>
- </entry>
- <entry>
-  <title>RobertOsterlund: test</title>
-  <author>
-   <name>RobertOsterlund</name>
-  </author>
-  <link href="https://github.com/RobertOsterlund/test" />
-  <id>urn:rprimus:github:RobertOsterlund:test</id>
-  <published>2021-07-22T19:16:14Z</published>
-  <updated>2021-07-22T19:16:14Z</updated>
-  <content type="html">
-   test
-  </content>
- </entry>
- <entry>
-  <title>gorliver: paf2delta</title>
-  <author>
-   <name>gorliver</name>
-  </author>
-  <link href="https://github.com/gorliver/paf2delta" />
-  <id>urn:rprimus:github:gorliver:paf2delta</id>
-  <published>2021-07-22T16:08:33Z</published>
-  <updated>2021-07-22T16:08:33Z</updated>
-  <content type="html">
-   convert paf to delta format
-  </content>
- </entry>
- <entry>
-  <title>Taufik29: Aplikasi-Pemesanan-Lapangan-Futsal-Berbasis-Web-di-Gor-Pangestu</title>
-  <author>
-   <name>Taufik29</name>
-  </author>
-  <link href="https://github.com/Taufik29/Aplikasi-Pemesanan-Lapangan-Futsal-Berbasis-Web-di-Gor-Pangestu" />
-  <id>urn:rprimus:github:Taufik29:Aplikasi-Pemesanan-Lapangan-Futsal-Berbasis-Web-di-Gor-Pangestu</id>
-  <published>2021-07-22T15:54:17Z</published>
-  <updated>2021-07-22T15:54:17Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>saitenntaisei: ISUCON_PRACTICE</title>
-  <author>
-   <name>saitenntaisei</name>
-  </author>
-  <link href="https://github.com/saitenntaisei/ISUCON_PRACTICE" />
-  <id>urn:rprimus:github:saitenntaisei:ISUCON_PRACTICE</id>
-  <published>2021-07-22T14:56:42Z</published>
-  <updated>2021-07-22T14:56:42Z</updated>
-  <content type="html">
-   trapã®pisconç·´ç¿
-  </content>
- </entry>
- <entry>
-  <title>n-insaidoo: perl-sample-os-project</title>
-  <author>
-   <name>n-insaidoo</name>
-  </author>
-  <link href="https://github.com/n-insaidoo/perl-sample-os-project" />
-  <id>urn:rprimus:github:n-insaidoo:perl-sample-os-project</id>
-  <published>2021-07-22T11:45:54Z</published>
-  <updated>2021-07-22T11:45:54Z</updated>
-  <content type="html">
-   Sample Perl Project
-  </content>
- </entry>
- <entry>
-  <title>FelixKrueger: scRepeats</title>
-  <author>
-   <name>FelixKrueger</name>
-  </author>
-  <link href="https://github.com/FelixKrueger/scRepeats" />
-  <id>urn:rprimus:github:FelixKrueger:scRepeats</id>
-  <published>2021-07-22T11:39:14Z</published>
-  <updated>2021-07-22T11:39:14Z</updated>
-  <content type="html">
-   Custom script(s) for the processing of files for single-cell repeat analysis
-  </content>
- </entry>
- <entry>
-  <title>v6p: xmp4timelapse</title>
-  <author>
-   <name>v6p</name>
-  </author>
-  <link href="https://github.com/v6p/xmp4timelapse" />
-  <id>urn:rprimus:github:v6p:xmp4timelapse</id>
-  <published>2021-07-22T11:29:04Z</published>
-  <updated>2021-07-22T11:29:04Z</updated>
-  <content type="html">
-   creates intermediate files for two base xmp files to smoothly change the parameters for converting raw images
-  </content>
- </entry>
- <entry>
-  <title>KangProf: DOS18</title>
-  <author>
-   <name>KangProf</name>
-  </author>
-  <link href="https://github.com/KangProf/DOS18" />
-  <id>urn:rprimus:github:KangProf:DOS18</id>
-  <published>2021-07-22T10:41:07Z</published>
-  <updated>2021-07-22T10:41:07Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>haris24: cloudlet_parser</title>
-  <author>
-   <name>haris24</name>
-  </author>
-  <link href="https://github.com/haris24/cloudlet_parser" />
-  <id>urn:rprimus:github:haris24:cloudlet_parser</id>
-  <published>2021-07-22T09:36:02Z</published>
-  <updated>2021-07-22T09:36:02Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Rowan-Hamdy: Udacity-Weather-Journal</title>
-  <author>
-   <name>Rowan-Hamdy</name>
-  </author>
-  <link href="https://github.com/Rowan-Hamdy/Udacity-Weather-Journal" />
-  <id>urn:rprimus:github:Rowan-Hamdy:Udacity-Weather-Journal</id>
-  <published>2021-07-22T09:24:29Z</published>
-  <updated>2021-07-22T09:24:29Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>pythontech: ptconv</title>
-  <author>
-   <name>pythontech</name>
-  </author>
-  <link href="https://github.com/pythontech/ptconv" />
-  <id>urn:rprimus:github:pythontech:ptconv</id>
-  <published>2021-07-22T08:14:33Z</published>
-  <updated>2021-07-22T08:14:33Z</updated>
-  <content type="html">
-   Escaping and unescaping of strings
-  </content>
- </entry>
- <entry>
-  <title>moocow-the-bovine: MUDL</title>
-  <author>
-   <name>moocow-the-bovine</name>
-  </author>
-  <link href="https://github.com/moocow-the-bovine/MUDL" />
-  <id>urn:rprimus:github:moocow-the-bovine:MUDL</id>
-  <published>2021-07-22T06:49:26Z</published>
-  <updated>2021-07-22T06:49:26Z</updated>
-  <content type="html">
-   MUDL - unsupervised syntactic category induction utilities (abandoned)
-  </content>
- </entry>
- <entry>
-  <title>moocow-the-bovine: fsmhacks</title>
-  <author>
-   <name>moocow-the-bovine</name>
-  </author>
-  <link href="https://github.com/moocow-the-bovine/fsmhacks" />
-  <id>urn:rprimus:github:moocow-the-bovine:fsmhacks</id>
-  <published>2021-07-22T06:43:33Z</published>
-  <updated>2021-07-22T06:43:33Z</updated>
-  <content type="html">
-   fsmhacks - diverse assorted convenience scripts for working with finite-state machines (ATT, GFSM, OpenFST, HFST, etc.)
-  </content>
- </entry>
- <entry>
-  <title>moocow-the-bovine: forkutils</title>
-  <author>
-   <name>moocow-the-bovine</name>
-  </author>
-  <link href="https://github.com/moocow-the-bovine/forkutils" />
-  <id>urn:rprimus:github:moocow-the-bovine:forkutils</id>
-  <published>2021-07-22T06:30:20Z</published>
-  <updated>2021-07-22T06:30:20Z</updated>
-  <content type="html">
-   generic daemon and cron-job utility scripts
-  </content>
- </entry>
- <entry>
-  <title>gsuryalss: file_cloning</title>
-  <author>
-   <name>gsuryalss</name>
-  </author>
-  <link href="https://github.com/gsuryalss/file_cloning" />
-  <id>urn:rprimus:github:gsuryalss:file_cloning</id>
-  <published>2021-07-22T04:55:48Z</published>
-  <updated>2021-07-22T04:55:48Z</updated>
-  <content type="html">
-   Copy and Create &quot;n&quot; number of files from the read-only source
-  </content>
- </entry>
- <entry>
-  <title>kaz-utashiro: Getopt-EX-Hashed</title>
-  <author>
-   <name>kaz-utashiro</name>
-  </author>
-  <link href="https://github.com/kaz-utashiro/Getopt-EX-Hashed" />
-  <id>urn:rprimus:github:kaz-utashiro:Getopt-EX-Hashed</id>
-  <published>2021-07-22T04:35:10Z</published>
-  <updated>2021-07-22T04:35:10Z</updated>
-  <content type="html">
-   Hash store object automation for perl5-Getopt
-  </content>
- </entry>
- <entry>
-  <title>XinlueLiu: Perl</title>
-  <author>
-   <name>XinlueLiu</name>
-  </author>
-  <link href="https://github.com/XinlueLiu/Perl" />
-  <id>urn:rprimus:github:XinlueLiu:Perl</id>
-  <published>2021-07-22T02:20:21Z</published>
-  <updated>2021-07-22T02:20:21Z</updated>
-  <content type="html">
-   perl scripting learn
-  </content>
- </entry>
- <entry>
-  <title>YS-shu: DeviceOnTrigger</title>
-  <author>
-   <name>YS-shu</name>
-  </author>
-  <link href="https://github.com/YS-shu/DeviceOnTrigger" />
-  <id>urn:rprimus:github:YS-shu:DeviceOnTrigger</id>
-  <published>2021-07-22T02:07:52Z</published>
-  <updated>2021-07-22T02:07:52Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>

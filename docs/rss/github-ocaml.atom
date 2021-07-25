@@ -2,8 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2021-07-24T02:05:40Z</updated>
+<updated>2021-07-24T21:42:03Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>Firobe: ocaml-stdint-literals</title>
+  <author>
+   <name>Firobe</name>
+  </author>
+  <link href="https://github.com/Firobe/ocaml-stdint-literals" />
+  <id>urn:rprimus:github:Firobe:ocaml-stdint-literals</id>
+  <published>2021-07-24T21:42:03Z</published>
+  <updated>2021-07-24T21:42:03Z</updated>
+  <content type="html">
+   Small PPX for fixed size integer literals
+  </content>
+ </entry>
+ <entry>
+  <title>DorCarmi94: Compiler-Principles</title>
+  <author>
+   <name>DorCarmi94</name>
+  </author>
+  <link href="https://github.com/DorCarmi94/Compiler-Principles" />
+  <id>urn:rprimus:github:DorCarmi94:Compiler-Principles</id>
+  <published>2021-07-24T21:35:11Z</published>
+  <updated>2021-07-24T21:35:11Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>TOTBWF: coolttviz</title>
+  <author>
+   <name>TOTBWF</name>
+  </author>
+  <link href="https://github.com/TOTBWF/coolttviz" />
+  <id>urn:rprimus:github:TOTBWF:coolttviz</id>
+  <published>2021-07-24T19:38:37Z</published>
+  <updated>2021-07-24T19:38:37Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Octachron: typed-musings</title>
+  <author>
+   <name>Octachron</name>
+  </author>
+  <link href="https://github.com/Octachron/typed-musings" />
+  <id>urn:rprimus:github:Octachron:typed-musings</id>
+  <published>2021-07-24T15:40:39Z</published>
+  <updated>2021-07-24T15:40:39Z</updated>
+  <content type="html">
+   Exploring the corners of OCaml type system
+  </content>
+ </entry>
+ <entry>
+  <title>Octachron: ocaml-perfomance-monitoring</title>
+  <author>
+   <name>Octachron</name>
+  </author>
+  <link href="https://github.com/Octachron/ocaml-perfomance-monitoring" />
+  <id>urn:rprimus:github:Octachron:ocaml-perfomance-monitoring</id>
+  <published>2021-07-24T15:36:21Z</published>
+  <updated>2021-07-24T15:36:21Z</updated>
+  <content type="html">
+   Statistical analysis of OCaml compiler compilation time
+  </content>
+ </entry>
+ <entry>
+  <title>dario-santos: ppxlib-journey</title>
+  <author>
+   <name>dario-santos</name>
+  </author>
+  <link href="https://github.com/dario-santos/ppxlib-journey" />
+  <id>urn:rprimus:github:dario-santos:ppxlib-journey</id>
+  <published>2021-07-24T13:04:32Z</published>
+  <updated>2021-07-24T13:04:32Z</updated>
+  <content type="html">
+   Trying to learn ppxlib
+  </content>
+ </entry>
+ <entry>
+  <title>kkshinkai: patpatml</title>
+  <author>
+   <name>kkshinkai</name>
+  </author>
+  <link href="https://github.com/kkshinkai/patpatml" />
+  <id>urn:rprimus:github:kkshinkai:patpatml</id>
+  <published>2021-07-24T10:37:57Z</published>
+  <updated>2021-07-24T10:37:57Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>zhezhouzz: pfpl</title>
   <author>
@@ -93,71 +184,6 @@
   <updated>2021-07-23T05:06:06Z</updated>
   <content type="html">
    Static Analysis Tool Implementation 
-  </content>
- </entry>
- <entry>
-  <title>SalWolffs: lcfprover</title>
-  <author>
-   <name>SalWolffs</name>
-  </author>
-  <link href="https://github.com/SalWolffs/lcfprover" />
-  <id>urn:rprimus:github:SalWolffs:lcfprover</id>
-  <published>2021-07-22T22:14:22Z</published>
-  <updated>2021-07-22T22:14:22Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Kakadu: mylinter</title>
-  <author>
-   <name>Kakadu</name>
-  </author>
-  <link href="https://github.com/Kakadu/mylinter" />
-  <id>urn:rprimus:github:Kakadu:mylinter</id>
-  <published>2021-07-22T20:32:45Z</published>
-  <updated>2021-07-22T20:32:45Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>aigarashi: ocaml_of_michelson</title>
-  <author>
-   <name>aigarashi</name>
-  </author>
-  <link href="https://github.com/aigarashi/ocaml_of_michelson" />
-  <id>urn:rprimus:github:aigarashi:ocaml_of_michelson</id>
-  <published>2021-07-22T08:29:04Z</published>
-  <updated>2021-07-22T08:29:04Z</updated>
-  <content type="html">
-   Tiny translator from Michelson to OCaml
-  </content>
- </entry>
- <entry>
-  <title>hellojukay: ocaml-99problems</title>
-  <author>
-   <name>hellojukay</name>
-  </author>
-  <link href="https://github.com/hellojukay/ocaml-99problems" />
-  <id>urn:rprimus:github:hellojukay:ocaml-99problems</id>
-  <published>2021-07-22T07:01:53Z</published>
-  <updated>2021-07-22T07:01:53Z</updated>
-  <content type="html">
-   The answer of https://ocaml.org/learn/tutorials/99problems.html
-  </content>
- </entry>
- <entry>
-  <title>strub: xvm</title>
-  <author>
-   <name>strub</name>
-  </author>
-  <link href="https://github.com/strub/xvm" />
-  <id>urn:rprimus:github:strub:xvm</id>
-  <published>2021-07-22T06:09:53Z</published>
-  <updated>2021-07-22T06:09:53Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
