@@ -2,8 +2,112 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2021-07-25T06:38:03Z</updated>
+<updated>2021-07-26T07:38:58Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>zamhassam: cs3110</title>
+  <author>
+   <name>zamhassam</name>
+  </author>
+  <link href="https://github.com/zamhassam/cs3110" />
+  <id>urn:rprimus:github:zamhassam:cs3110</id>
+  <published>2021-07-26T07:38:58Z</published>
+  <updated>2021-07-26T07:38:58Z</updated>
+  <content type="html">
+   Solutions to the course book
+  </content>
+ </entry>
+ <entry>
+  <title>arkinjo: PDBjTk3</title>
+  <author>
+   <name>arkinjo</name>
+  </author>
+  <link href="https://github.com/arkinjo/PDBjTk3" />
+  <id>urn:rprimus:github:arkinjo:PDBjTk3</id>
+  <published>2021-07-26T02:39:41Z</published>
+  <updated>2021-07-26T02:39:41Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>ryosu-sato: fpat</title>
+  <author>
+   <name>ryosu-sato</name>
+  </author>
+  <link href="https://github.com/ryosu-sato/fpat" />
+  <id>urn:rprimus:github:ryosu-sato:fpat</id>
+  <published>2021-07-26T01:26:50Z</published>
+  <updated>2021-07-26T01:26:50Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>ryosu-sato: atp</title>
+  <author>
+   <name>ryosu-sato</name>
+  </author>
+  <link href="https://github.com/ryosu-sato/atp" />
+  <id>urn:rprimus:github:ryosu-sato:atp</id>
+  <published>2021-07-26T01:01:29Z</published>
+  <updated>2021-07-26T01:01:29Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>catchabhisek: Toy-Prolog-Interpreter</title>
+  <author>
+   <name>catchabhisek</name>
+  </author>
+  <link href="https://github.com/catchabhisek/Toy-Prolog-Interpreter" />
+  <id>urn:rprimus:github:catchabhisek:Toy-Prolog-Interpreter</id>
+  <published>2021-07-25T18:12:08Z</published>
+  <updated>2021-07-25T18:12:08Z</updated>
+  <content type="html">
+   - Designed an toy prolog interpreter using OCaml.- Implemented Horn clause resolution engine to explore the resolution search space to identify if thegivengoalcan be deduced from the facts and rules.- Implemented a unification engine, which returns the most general unifier of the two clauses, if exist.- Github Link
+  </content>
+ </entry>
+ <entry>
+  <title>ben-garside: mirageOS-www</title>
+  <author>
+   <name>ben-garside</name>
+  </author>
+  <link href="https://github.com/ben-garside/mirageOS-www" />
+  <id>urn:rprimus:github:ben-garside:mirageOS-www</id>
+  <published>2021-07-25T17:15:34Z</published>
+  <updated>2021-07-25T17:15:34Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>fangyi-zhou: OLint</title>
+  <author>
+   <name>fangyi-zhou</name>
+  </author>
+  <link href="https://github.com/fangyi-zhou/OLint" />
+  <id>urn:rprimus:github:fangyi-zhou:OLint</id>
+  <published>2021-07-25T17:02:59Z</published>
+  <updated>2021-07-25T17:02:59Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>ose20: practical_compiler_construction_method</title>
+  <author>
+   <name>ose20</name>
+  </author>
+  <link href="https://github.com/ose20/practical_compiler_construction_method" />
+  <id>urn:rprimus:github:ose20:practical_compiler_construction_method</id>
+  <published>2021-07-25T14:39:11Z</published>
+  <updated>2021-07-25T14:39:11Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>dboulytchev: lalala</title>
   <author>
@@ -119,84 +223,6 @@
   <updated>2021-07-24T02:05:40Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>jsthomas: dream-email-example</title>
-  <author>
-   <name>jsthomas</name>
-  </author>
-  <link href="https://github.com/jsthomas/dream-email-example" />
-  <id>urn:rprimus:github:jsthomas:dream-email-example</id>
-  <published>2021-07-23T21:29:21Z</published>
-  <updated>2021-07-23T21:29:21Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>fuwn: disml</title>
-  <author>
-   <name>fuwn</name>
-  </author>
-  <link href="https://github.com/fuwn/disml" />
-  <id>urn:rprimus:github:fuwn:disml</id>
-  <published>2021-07-23T21:06:28Z</published>
-  <updated>2021-07-23T21:06:28Z</updated>
-  <content type="html">
-   ðª A Discord bot framework for OCaml
-  </content>
- </entry>
- <entry>
-  <title>MosesSupposes: Real-World-OCaml</title>
-  <author>
-   <name>MosesSupposes</name>
-  </author>
-  <link href="https://github.com/MosesSupposes/Real-World-OCaml" />
-  <id>urn:rprimus:github:MosesSupposes:Real-World-OCaml</id>
-  <published>2021-07-23T20:59:40Z</published>
-  <updated>2021-07-23T20:59:40Z</updated>
-  <content type="html">
-   Code snippets and exercises from the book &quot;Real World-OCaml.&quot;
-  </content>
- </entry>
- <entry>
-  <title>kit-ty-kate: spdx_licenses</title>
-  <author>
-   <name>kit-ty-kate</name>
-  </author>
-  <link href="https://github.com/kit-ty-kate/spdx_licenses" />
-  <id>urn:rprimus:github:kit-ty-kate:spdx_licenses</id>
-  <published>2021-07-23T18:52:37Z</published>
-  <updated>2021-07-23T18:52:37Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>dinosaure: ocaml-dmarc</title>
-  <author>
-   <name>dinosaure</name>
-  </author>
-  <link href="https://github.com/dinosaure/ocaml-dmarc" />
-  <id>urn:rprimus:github:dinosaure:ocaml-dmarc</id>
-  <published>2021-07-23T12:41:53Z</published>
-  <updated>2021-07-23T12:41:53Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>chopinballadeno4: StaticAnalysis</title>
-  <author>
-   <name>chopinballadeno4</name>
-  </author>
-  <link href="https://github.com/chopinballadeno4/StaticAnalysis" />
-  <id>urn:rprimus:github:chopinballadeno4:StaticAnalysis</id>
-  <published>2021-07-23T05:06:06Z</published>
-  <updated>2021-07-23T05:06:06Z</updated>
-  <content type="html">
-   Static Analysis Tool Implementation 
   </content>
  </entry>
 </feed>

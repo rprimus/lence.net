@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2021-07-25T04:22:49Z</updated>
+<updated>2021-07-26T07:00:38Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>robdavid: setboot</title>
+  <author>
+   <name>robdavid</name>
+  </author>
+  <link href="https://github.com/robdavid/setboot" />
+  <id>urn:rprimus:github:robdavid:setboot</id>
+  <published>2021-07-26T07:00:38Z</published>
+  <updated>2021-07-26T07:00:38Z</updated>
+  <content type="html">
+   A simple Linux command line tool to modify the UEFI boot order 
+  </content>
+ </entry>
+ <entry>
+  <title>deinferno: crkleiner</title>
+  <author>
+   <name>deinferno</name>
+  </author>
+  <link href="https://github.com/deinferno/crkleiner" />
+  <id>urn:rprimus:github:deinferno:crkleiner</id>
+  <published>2021-07-25T13:59:47Z</published>
+  <updated>2021-07-25T13:59:47Z</updated>
+  <content type="html">
+   Discord bot for single server written in crystal language
+  </content>
+ </entry>
  <entry>
   <title>watzon: code_writer</title>
   <author>
@@ -93,19 +119,6 @@
   <updated>2021-07-24T11:42:48Z</updated>
   <content type="html">
    libc&#039;s fork(2) for Crystal
-  </content>
- </entry>
- <entry>
-  <title>janeptrv: athena.cr</title>
-  <author>
-   <name>janeptrv</name>
-  </author>
-  <link href="https://github.com/janeptrv/athena.cr" />
-  <id>urn:rprimus:github:janeptrv:athena.cr</id>
-  <published>2021-07-23T01:32:28Z</published>
-  <updated>2021-07-23T01:32:28Z</updated>
-  <content type="html">
-   crystal orm for my personal projects. wip do not use
   </content>
  </entry>
 </feed>

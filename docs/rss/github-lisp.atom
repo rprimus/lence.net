@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-07-25T01:25:01Z</updated>
+<updated>2021-07-26T08:24:05Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>ng0c: ACT-R</title>
+  <author>
+   <name>ng0c</name>
+  </author>
+  <link href="https://github.com/ng0c/ACT-R" />
+  <id>urn:rprimus:github:ng0c:ACT-R</id>
+  <published>2021-07-26T08:24:05Z</published>
+  <updated>2021-07-26T08:24:05Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>luizalbertocviana: alexandria</title>
+  <author>
+   <name>luizalbertocviana</name>
+  </author>
+  <link href="https://github.com/luizalbertocviana/alexandria" />
+  <id>urn:rprimus:github:luizalbertocviana:alexandria</id>
+  <published>2021-07-25T20:41:10Z</published>
+  <updated>2021-07-25T20:41:10Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>wobh: org.wobh.common-lisp.tools.randomness</title>
+  <author>
+   <name>wobh</name>
+  </author>
+  <link href="https://github.com/wobh/org.wobh.common-lisp.tools.randomness" />
+  <id>urn:rprimus:github:wobh:org.wobh.common-lisp.tools.randomness</id>
+  <published>2021-07-25T18:08:51Z</published>
+  <updated>2021-07-25T18:08:51Z</updated>
+  <content type="html">
+   Basic randomness utilities
+  </content>
+ </entry>
+ <entry>
+  <title>rcullito: puffin</title>
+  <author>
+   <name>rcullito</name>
+  </author>
+  <link href="https://github.com/rcullito/puffin" />
+  <id>urn:rprimus:github:rcullito:puffin</id>
+  <published>2021-07-25T15:51:53Z</published>
+  <updated>2021-07-25T15:51:53Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>wobh: org.wobh.common-lisp.tools.chains</title>
+  <author>
+   <name>wobh</name>
+  </author>
+  <link href="https://github.com/wobh/org.wobh.common-lisp.tools.chains" />
+  <id>urn:rprimus:github:wobh:org.wobh.common-lisp.tools.chains</id>
+  <published>2021-07-25T15:11:27Z</published>
+  <updated>2021-07-25T15:11:27Z</updated>
+  <content type="html">
+   Simple sequential structure types implemented with lists
+  </content>
+ </entry>
+ <entry>
+  <title>DanielKeogh: clojure-cl</title>
+  <author>
+   <name>DanielKeogh</name>
+  </author>
+  <link href="https://github.com/DanielKeogh/clojure-cl" />
+  <id>urn:rprimus:github:DanielKeogh:clojure-cl</id>
+  <published>2021-07-25T13:50:26Z</published>
+  <updated>2021-07-25T13:50:26Z</updated>
+  <content type="html">
+   Me experimenting with CL features by implementing some of Clojure.
+  </content>
+ </entry>
  <entry>
   <title>marcoscecotti: autolispProgram</title>
   <author>
@@ -54,58 +132,6 @@
   <updated>2021-07-24T12:26:41Z</updated>
   <content type="html">
    Geo Selector in Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>DanielKeogh: collection-reader-macros</title>
-  <author>
-   <name>DanielKeogh</name>
-  </author>
-  <link href="https://github.com/DanielKeogh/collection-reader-macros" />
-  <id>urn:rprimus:github:DanielKeogh:collection-reader-macros</id>
-  <published>2021-07-23T15:17:43Z</published>
-  <updated>2021-07-23T15:17:43Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Shinmera: autosplitter</title>
-  <author>
-   <name>Shinmera</name>
-  </author>
-  <link href="https://github.com/Shinmera/autosplitter" />
-  <id>urn:rprimus:github:Shinmera:autosplitter</id>
-  <published>2021-07-23T08:06:25Z</published>
-  <updated>2021-07-23T08:06:25Z</updated>
-  <content type="html">
-   Primitive autosplitter
-  </content>
- </entry>
- <entry>
-  <title>harshil1903: COMP-6411</title>
-  <author>
-   <name>harshil1903</name>
-  </author>
-  <link href="https://github.com/harshil1903/COMP-6411" />
-  <id>urn:rprimus:github:harshil1903:COMP-6411</id>
-  <published>2021-07-23T05:32:57Z</published>
-  <updated>2021-07-23T05:32:57Z</updated>
-  <content type="html">
-   CONCORDIA UNIVERSITY | COMPARATIVE STUDY OF PROGRAMMING LANGUAGES | COMP 6411 | SUMMER 2021
-  </content>
- </entry>
- <entry>
-  <title>Lisp-Stat: sqldf</title>
-  <author>
-   <name>Lisp-Stat</name>
-  </author>
-  <link href="https://github.com/Lisp-Stat/sqldf" />
-  <id>urn:rprimus:github:Lisp-Stat:sqldf</id>
-  <published>2021-07-23T05:02:53Z</published>
-  <updated>2021-07-23T05:02:53Z</updated>
-  <content type="html">
-   SQL for Data Frames
   </content>
  </entry>
 </feed>
