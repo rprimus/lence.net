@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-perl.atom"/>
 <id>urn:rprimus:github:newperlrepos</id>
-<updated>2021-07-28T06:51:29Z</updated>
+<updated>2021-07-28T09:19:24Z</updated>
 <title type='text'>New GitHub Perl Repos</title>
+ <entry>
+  <title>olesku: nagios-plugin-calicoctl-node-status</title>
+  <author>
+   <name>olesku</name>
+  </author>
+  <link href="https://github.com/olesku/nagios-plugin-calicoctl-node-status" />
+  <id>urn:rprimus:github:olesku:nagios-plugin-calicoctl-node-status</id>
+  <published>2021-07-28T09:19:24Z</published>
+  <updated>2021-07-28T09:19:24Z</updated>
+  <content type="html">
+   Nagios plugin that monitors output of calicoctl node status and alert if any peers is down
+  </content>
+ </entry>
  <entry>
   <title>7r0j4ncodeing: CGI-Xploit</title>
   <author>
