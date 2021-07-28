@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2021-07-27T08:23:37Z</updated>
+<updated>2021-07-28T01:07:28Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>bwks: programming-crystal</title>
+  <author>
+   <name>bwks</name>
+  </author>
+  <link href="https://github.com/bwks/programming-crystal" />
+  <id>urn:rprimus:github:bwks:programming-crystal</id>
+  <published>2021-07-28T01:07:28Z</published>
+  <updated>2021-07-28T01:07:28Z</updated>
+  <content type="html">
+   Code from the Programming Crystal Book by  Ivo Balbaert and Simon St. Laurent
+  </content>
+ </entry>
+ <entry>
+  <title>Odebe: rtp.cr</title>
+  <author>
+   <name>Odebe</name>
+  </author>
+  <link href="https://github.com/Odebe/rtp.cr" />
+  <id>urn:rprimus:github:Odebe:rtp.cr</id>
+  <published>2021-07-27T20:55:32Z</published>
+  <updated>2021-07-27T20:55:32Z</updated>
+  <content type="html">
+   WIP: simple parser for RTP packets.
+  </content>
+ </entry>
+ <entry>
+  <title>trollmao: dl-test</title>
+  <author>
+   <name>trollmao</name>
+  </author>
+  <link href="https://github.com/trollmao/dl-test" />
+  <id>urn:rprimus:github:trollmao:dl-test</id>
+  <published>2021-07-27T14:31:03Z</published>
+  <updated>2021-07-27T14:31:03Z</updated>
+  <content type="html">
+   test
+  </content>
+ </entry>
+ <entry>
+  <title>rayandfz: portalcaptive</title>
+  <author>
+   <name>rayandfz</name>
+  </author>
+  <link href="https://github.com/rayandfz/portalcaptive" />
+  <id>urn:rprimus:github:rayandfz:portalcaptive</id>
+  <published>2021-07-27T12:56:48Z</published>
+  <updated>2021-07-27T12:56:48Z</updated>
+  <content type="html">
+   Portal Captive API 
+  </content>
+ </entry>
  <entry>
   <title>cangzhang: crystal</title>
   <author>
@@ -80,45 +132,6 @@
   <updated>2021-07-26T07:00:38Z</updated>
   <content type="html">
    A simple Linux command line tool to modify the UEFI boot order 
-  </content>
- </entry>
- <entry>
-  <title>deinferno: crkleiner</title>
-  <author>
-   <name>deinferno</name>
-  </author>
-  <link href="https://github.com/deinferno/crkleiner" />
-  <id>urn:rprimus:github:deinferno:crkleiner</id>
-  <published>2021-07-25T13:59:47Z</published>
-  <updated>2021-07-25T13:59:47Z</updated>
-  <content type="html">
-   Discord bot for single server written in crystal language
-  </content>
- </entry>
- <entry>
-  <title>watzon: code_writer</title>
-  <author>
-   <name>watzon</name>
-  </author>
-  <link href="https://github.com/watzon/code_writer" />
-  <id>urn:rprimus:github:watzon:code_writer</id>
-  <published>2021-07-25T04:22:49Z</published>
-  <updated>2021-07-25T04:22:49Z</updated>
-  <content type="html">
-   Easy interface for generating code in Crystal
-  </content>
- </entry>
- <entry>
-  <title>abstraq: chorus</title>
-  <author>
-   <name>abstraq</name>
-  </author>
-  <link href="https://github.com/abstraq/chorus" />
-  <id>urn:rprimus:github:abstraq:chorus</id>
-  <published>2021-07-25T02:07:52Z</published>
-  <updated>2021-07-25T02:07:52Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>

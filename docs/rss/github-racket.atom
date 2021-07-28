@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-racket.atom"/>
 <id>urn:rprimus:github:newracketrepos</id>
-<updated>2021-07-26T22:56:04Z</updated>
+<updated>2021-07-27T22:56:20Z</updated>
 <title type='text'>New GitHub Racket Repos</title>
+ <entry>
+  <title>eutro: try-catch-match</title>
+  <author>
+   <name>eutro</name>
+  </author>
+  <link href="https://github.com/eutro/try-catch-match" />
+  <id>urn:rprimus:github:eutro:try-catch-match</id>
+  <published>2021-07-27T22:56:20Z</published>
+  <updated>2021-07-27T22:56:20Z</updated>
+  <content type="html">
+   A racket try-catch-finally macro that binds with match.
+  </content>
+ </entry>
+ <entry>
+  <title>benknoble: try-make-sarna-happy</title>
+  <author>
+   <name>benknoble</name>
+  </author>
+  <link href="https://github.com/benknoble/try-make-sarna-happy" />
+  <id>urn:rprimus:github:benknoble:try-make-sarna-happy</id>
+  <published>2021-07-27T20:25:20Z</published>
+  <updated>2021-07-27T20:25:20Z</updated>
+  <content type="html">
+   A racket try macro
+  </content>
+ </entry>
+ <entry>
+  <title>AlexKnauth: try-catch-finally</title>
+  <author>
+   <name>AlexKnauth</name>
+  </author>
+  <link href="https://github.com/AlexKnauth/try-catch-finally" />
+  <id>urn:rprimus:github:AlexKnauth:try-catch-finally</id>
+  <published>2021-07-27T19:06:51Z</published>
+  <updated>2021-07-27T19:06:51Z</updated>
+  <content type="html">
+   A racket macro for catching exceptions and running teardown operations.
+  </content>
+ </entry>
+ <entry>
+  <title>EdenGri: Scheme-Prolog</title>
+  <author>
+   <name>EdenGri</name>
+  </author>
+  <link href="https://github.com/EdenGri/Scheme-Prolog" />
+  <id>urn:rprimus:github:EdenGri:Scheme-Prolog</id>
+  <published>2021-07-27T13:14:08Z</published>
+  <updated>2021-07-27T13:14:08Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>samdphillips: racket-token-bucket</title>
   <author>
@@ -57,19 +109,6 @@
   </content>
  </entry>
  <entry>
-  <title>horeah: jumper</title>
-  <author>
-   <name>horeah</name>
-  </author>
-  <link href="https://github.com/horeah/jumper" />
-  <id>urn:rprimus:github:horeah:jumper</id>
-  <published>2021-07-26T07:05:58Z</published>
-  <updated>2021-07-26T07:05:58Z</updated>
-  <content type="html">
-   Small utility to quick-jump to any file or directory on the disk
-  </content>
- </entry>
- <entry>
   <title>LQGIK: brown_psets</title>
   <author>
    <name>LQGIK</name>
@@ -78,71 +117,6 @@
   <id>urn:rprimus:github:LQGIK:brown_psets</id>
   <published>2021-07-26T03:14:34Z</published>
   <updated>2021-07-26T03:14:34Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>calenjackman-school: racket_spaceInvaders</title>
-  <author>
-   <name>calenjackman-school</name>
-  </author>
-  <link href="https://github.com/calenjackman-school/racket_spaceInvaders" />
-  <id>urn:rprimus:github:calenjackman-school:racket_spaceInvaders</id>
-  <published>2021-07-25T18:50:04Z</published>
-  <updated>2021-07-25T18:50:04Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>dr-neptune: beautiful-racket</title>
-  <author>
-   <name>dr-neptune</name>
-  </author>
-  <link href="https://github.com/dr-neptune/beautiful-racket" />
-  <id>urn:rprimus:github:dr-neptune:beautiful-racket</id>
-  <published>2021-07-25T17:19:28Z</published>
-  <updated>2021-07-25T17:19:28Z</updated>
-  <content type="html">
-   Notes from Beautiful Racket
-  </content>
- </entry>
- <entry>
-  <title>elderica: esns</title>
-  <author>
-   <name>elderica</name>
-  </author>
-  <link href="https://github.com/elderica/esns" />
-  <id>urn:rprimus:github:elderica:esns</id>
-  <published>2021-07-25T12:26:46Z</published>
-  <updated>2021-07-25T12:26:46Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Bogdanp: racket-box-extra</title>
-  <author>
-   <name>Bogdanp</name>
-  </author>
-  <link href="https://github.com/Bogdanp/racket-box-extra" />
-  <id>urn:rprimus:github:Bogdanp:racket-box-extra</id>
-  <published>2021-07-25T10:27:52Z</published>
-  <updated>2021-07-25T10:27:52Z</updated>
-  <content type="html">
-   Extra utilities for working with boxes in Racket.
-  </content>
- </entry>
- <entry>
-  <title>Niyokee: sicp</title>
-  <author>
-   <name>Niyokee</name>
-  </author>
-  <link href="https://github.com/Niyokee/sicp" />
-  <id>urn:rprimus:github:Niyokee:sicp</id>
-  <published>2021-07-25T01:00:30Z</published>
-  <updated>2021-07-25T01:00:30Z</updated>
   <content type="html">
    
   </content>

@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2021-07-27T04:08:48Z</updated>
+<updated>2021-07-28T02:12:10Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>nogw: learning-ocaml</title>
+  <author>
+   <name>nogw</name>
+  </author>
+  <link href="https://github.com/nogw/learning-ocaml" />
+  <id>urn:rprimus:github:nogw:learning-ocaml</id>
+  <published>2021-07-28T02:12:10Z</published>
+  <updated>2021-07-28T02:12:10Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>tmcgilchrist: current_incr</title>
+  <author>
+   <name>tmcgilchrist</name>
+  </author>
+  <link href="https://github.com/tmcgilchrist/current_incr" />
+  <id>urn:rprimus:github:tmcgilchrist:current_incr</id>
+  <published>2021-07-28T00:49:52Z</published>
+  <updated>2021-07-28T00:49:52Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>0poss: z3-matrix</title>
+  <author>
+   <name>0poss</name>
+  </author>
+  <link href="https://github.com/0poss/z3-matrix" />
+  <id>urn:rprimus:github:0poss:z3-matrix</id>
+  <published>2021-07-27T17:34:29Z</published>
+  <updated>2021-07-27T17:34:29Z</updated>
+  <content type="html">
+   An implementation of matrices for Z3 in OCaml.
+  </content>
+ </entry>
+ <entry>
+  <title>college-cs-nyameteor: microc-in-ocaml</title>
+  <author>
+   <name>college-cs-nyameteor</name>
+  </author>
+  <link href="https://github.com/college-cs-nyameteor/microc-in-ocaml" />
+  <id>urn:rprimus:github:college-cs-nyameteor:microc-in-ocaml</id>
+  <published>2021-07-27T09:28:41Z</published>
+  <updated>2021-07-27T09:28:41Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>nickaroot: ocaml-piscine</title>
   <author>
@@ -135,6 +187,19 @@
   </content>
  </entry>
  <entry>
+  <title>sano-jin: lmn-alpha</title>
+  <author>
+   <name>sano-jin</name>
+  </author>
+  <link href="https://github.com/sano-jin/lmn-alpha" />
+  <id>urn:rprimus:github:sano-jin:lmn-alpha</id>
+  <published>2021-07-26T06:00:00Z</published>
+  <updated>2021-07-26T06:00:00Z</updated>
+  <content type="html">
+   A minimal compiler and runtime for a language based on graph rewriting
+  </content>
+ </entry>
+ <entry>
   <title>arkinjo: PDBjTk3</title>
   <author>
    <name>arkinjo</name>
@@ -169,84 +234,6 @@
   <id>urn:rprimus:github:ryosu-sato:atp</id>
   <published>2021-07-26T01:01:29Z</published>
   <updated>2021-07-26T01:01:29Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>desumn: absente</title>
-  <author>
-   <name>desumn</name>
-  </author>
-  <link href="https://github.com/desumn/absente" />
-  <id>urn:rprimus:github:desumn:absente</id>
-  <published>2021-07-25T19:07:23Z</published>
-  <updated>2021-07-25T19:07:23Z</updated>
-  <content type="html">
-   Absente is not really absent, but it is a sort of shell programming library for OCaml, providing abstractions on top of Unix bindings.
-  </content>
- </entry>
- <entry>
-  <title>catchabhisek: Toy-Prolog-Interpreter</title>
-  <author>
-   <name>catchabhisek</name>
-  </author>
-  <link href="https://github.com/catchabhisek/Toy-Prolog-Interpreter" />
-  <id>urn:rprimus:github:catchabhisek:Toy-Prolog-Interpreter</id>
-  <published>2021-07-25T18:12:08Z</published>
-  <updated>2021-07-25T18:12:08Z</updated>
-  <content type="html">
-   - Designed an toy prolog interpreter using OCaml.- Implemented Horn clause resolution engine to explore the resolution search space to identify if thegivengoalcan be deduced from the facts and rules.- Implemented a unification engine, which returns the most general unifier of the two clauses, if exist.- Github Link
-  </content>
- </entry>
- <entry>
-  <title>ben-garside: mirageOS-www</title>
-  <author>
-   <name>ben-garside</name>
-  </author>
-  <link href="https://github.com/ben-garside/mirageOS-www" />
-  <id>urn:rprimus:github:ben-garside:mirageOS-www</id>
-  <published>2021-07-25T17:15:34Z</published>
-  <updated>2021-07-25T17:15:34Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>fangyi-zhou: OLint</title>
-  <author>
-   <name>fangyi-zhou</name>
-  </author>
-  <link href="https://github.com/fangyi-zhou/OLint" />
-  <id>urn:rprimus:github:fangyi-zhou:OLint</id>
-  <published>2021-07-25T17:02:59Z</published>
-  <updated>2021-07-25T17:02:59Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ose20: practical_compiler_construction_method</title>
-  <author>
-   <name>ose20</name>
-  </author>
-  <link href="https://github.com/ose20/practical_compiler_construction_method" />
-  <id>urn:rprimus:github:ose20:practical_compiler_construction_method</id>
-  <published>2021-07-25T14:39:11Z</published>
-  <updated>2021-07-25T14:39:11Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>dboulytchev: lalala</title>
-  <author>
-   <name>dboulytchev</name>
-  </author>
-  <link href="https://github.com/dboulytchev/lalala" />
-  <id>urn:rprimus:github:dboulytchev:lalala</id>
-  <published>2021-07-25T06:38:03Z</published>
-  <updated>2021-07-25T06:38:03Z</updated>
   <content type="html">
    
   </content>
