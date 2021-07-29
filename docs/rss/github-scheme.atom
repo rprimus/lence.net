@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-scheme.atom"/>
 <id>urn:rprimus:github:newschemerepos</id>
-<updated>2021-07-28T08:52:26Z</updated>
+<updated>2021-07-29T09:00:27Z</updated>
 <title type='text'>New GitHub Scheme Repos</title>
+ <entry>
+  <title>c0mmonsense: sicp-solutions</title>
+  <author>
+   <name>c0mmonsense</name>
+  </author>
+  <link href="https://github.com/c0mmonsense/sicp-solutions" />
+  <id>urn:rprimus:github:c0mmonsense:sicp-solutions</id>
+  <published>2021-07-29T09:00:27Z</published>
+  <updated>2021-07-29T09:00:27Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>banikaur05: ss-app</title>
+  <author>
+   <name>banikaur05</name>
+  </author>
+  <link href="https://github.com/banikaur05/ss-app" />
+  <id>urn:rprimus:github:banikaur05:ss-app</id>
+  <published>2021-07-28T10:45:12Z</published>
+  <updated>2021-07-28T10:45:12Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>moazzammoriani: cs61a</title>
   <author>
@@ -14,7 +40,7 @@
   <published>2021-07-28T08:52:26Z</published>
   <updated>2021-07-28T08:52:26Z</updated>
   <content type="html">
-   This repository contains my solutions to both the homework problems for the CS61A version of the course Brian Harvey taught at UC Berkeley in 2011 and also for the problems in the Structure and Interpretation of Computer Programs.
+   This repository contains my solutions to both the homework problems for CS61A--the version of the course Brian Harvey taught at UC Berkeley in 2011--and also for the exercises found in the book, The Structure and Interpretation of Computer Programs.
   </content>
  </entry>
  <entry>
@@ -70,12 +96,12 @@
   </content>
  </entry>
  <entry>
-  <title>laserswald: pre-srfi-generic-dispatch</title>
+  <title>laserswald: pre-srfi-generic-procedures</title>
   <author>
    <name>laserswald</name>
   </author>
-  <link href="https://github.com/laserswald/pre-srfi-generic-dispatch" />
-  <id>urn:rprimus:github:laserswald:pre-srfi-generic-dispatch</id>
+  <link href="https://github.com/laserswald/pre-srfi-generic-procedures" />
+  <id>urn:rprimus:github:laserswald:pre-srfi-generic-procedures</id>
   <published>2021-07-27T18:44:20Z</published>
   <updated>2021-07-27T18:44:20Z</updated>
   <content type="html">
@@ -132,45 +158,6 @@
   <updated>2021-07-27T08:36:13Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>ign-argentina: datos_municipio_obera</title>
-  <author>
-   <name>ign-argentina</name>
-  </author>
-  <link href="https://github.com/ign-argentina/datos_municipio_obera" />
-  <id>urn:rprimus:github:ign-argentina:datos_municipio_obera</id>
-  <published>2021-07-26T17:06:28Z</published>
-  <updated>2021-07-26T17:06:28Z</updated>
-  <content type="html">
-   Datos de entrada para los scripts de importaciÃ³n a Postgres, desnormalizaciÃ³n de tablas y publicaciÃ³n en GeoServer. 
-  </content>
- </entry>
- <entry>
-  <title>junqi-xie-learning: SICP-Projects</title>
-  <author>
-   <name>junqi-xie-learning</name>
-  </author>
-  <link href="https://github.com/junqi-xie-learning/SICP-Projects" />
-  <id>urn:rprimus:github:junqi-xie-learning:SICP-Projects</id>
-  <published>2021-07-26T12:56:02Z</published>
-  <updated>2021-07-26T12:56:02Z</updated>
-  <content type="html">
-   The assignments from Structure and Interpretation of Computer Programs with my solutions
-  </content>
- </entry>
- <entry>
-  <title>michzappa: guix-system</title>
-  <author>
-   <name>michzappa</name>
-  </author>
-  <link href="https://github.com/michzappa/guix-system" />
-  <id>urn:rprimus:github:michzappa:guix-system</id>
-  <published>2021-07-26T00:33:52Z</published>
-  <updated>2021-07-26T00:33:52Z</updated>
-  <content type="html">
-   guix system on virtualbox
   </content>
  </entry>
 </feed>
