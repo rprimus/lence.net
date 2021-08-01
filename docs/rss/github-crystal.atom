@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2021-07-31T09:41:42Z</updated>
+<updated>2021-07-31T15:09:16Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>priyankpratapsingh: DNA-Crypto</title>
+  <author>
+   <name>priyankpratapsingh</name>
+  </author>
+  <link href="https://github.com/priyankpratapsingh/DNA-Crypto" />
+  <id>urn:rprimus:github:priyankpratapsingh:DNA-Crypto</id>
+  <published>2021-07-31T15:09:16Z</published>
+  <updated>2021-07-31T15:09:16Z</updated>
+  <content type="html">
+   Implementation of DNA cryptography using socket programming.
+  </content>
+ </entry>
+ <entry>
+  <title>free-beer: kemal-flash2</title>
+  <author>
+   <name>free-beer</name>
+  </author>
+  <link href="https://github.com/free-beer/kemal-flash2" />
+  <id>urn:rprimus:github:free-beer:kemal-flash2</id>
+  <published>2021-07-31T13:38:09Z</published>
+  <updated>2021-07-31T13:38:09Z</updated>
+  <content type="html">
+   A replacement flash implementation for the Kemal web development platform.
+  </content>
+ </entry>
  <entry>
   <title>Adek06: mqtt_test</title>
   <author>
@@ -31,16 +57,16 @@
   </content>
  </entry>
  <entry>
-  <title>aloussase: exercism-crystal</title>
+  <title>aloussase: exercism</title>
   <author>
    <name>aloussase</name>
   </author>
-  <link href="https://github.com/aloussase/exercism-crystal" />
-  <id>urn:rprimus:github:aloussase:exercism-crystal</id>
+  <link href="https://github.com/aloussase/exercism" />
+  <id>urn:rprimus:github:aloussase:exercism</id>
   <published>2021-07-31T05:17:05Z</published>
   <updated>2021-07-31T05:17:05Z</updated>
   <content type="html">
-   exercism.io Crystal track solutions
+   exercism.io solutions in various languages
   </content>
  </entry>
  <entry>
@@ -54,19 +80,6 @@
   <updated>2021-07-31T02:07:38Z</updated>
   <content type="html">
    [ WIP ] Rake-like task runner library
-  </content>
- </entry>
- <entry>
-  <title>ttr3dp: loss</title>
-  <author>
-   <name>ttr3dp</name>
-  </author>
-  <link href="https://github.com/ttr3dp/loss" />
-  <id>urn:rprimus:github:ttr3dp:loss</id>
-  <published>2021-07-29T10:19:52Z</published>
-  <updated>2021-07-29T10:19:52Z</updated>
-  <content type="html">
-   Split and transcode lossless image files in a blink of an eye
   </content>
  </entry>
 </feed>

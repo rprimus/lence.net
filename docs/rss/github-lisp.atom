@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-07-30T22:26:51Z</updated>
+<updated>2021-07-31T13:16:19Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>atgreen: make-like</title>
+  <author>
+   <name>atgreen</name>
+  </author>
+  <link href="https://github.com/atgreen/make-like" />
+  <id>urn:rprimus:github:atgreen:make-like</id>
+  <published>2021-07-31T13:16:19Z</published>
+  <updated>2021-07-31T13:16:19Z</updated>
+  <content type="html">
+   Create a LIKE application template (Lisp In Kubernetes + Emacs)
+  </content>
+ </entry>
+ <entry>
+  <title>ka-sXxpv: rscheme</title>
+  <author>
+   <name>ka-sXxpv</name>
+  </author>
+  <link href="https://github.com/ka-sXxpv/rscheme" />
+  <id>urn:rprimus:github:ka-sXxpv:rscheme</id>
+  <published>2021-07-31T10:34:22Z</published>
+  <updated>2021-07-31T10:34:22Z</updated>
+  <content type="html">
+   Common Lispã®ããã®recursion schemeã©ã¤ãã©ãªã
+  </content>
+ </entry>
  <entry>
   <title>Jaso-N7: processing-io</title>
   <author>
@@ -67,110 +93,6 @@
   <updated>2021-07-30T07:42:24Z</updated>
   <content type="html">
    Annotations/decorators/attributes for CLOS classes and slots
-  </content>
- </entry>
- <entry>
-  <title>kilych: practical-common-lisp</title>
-  <author>
-   <name>kilych</name>
-  </author>
-  <link href="https://github.com/kilych/practical-common-lisp" />
-  <id>urn:rprimus:github:kilych:practical-common-lisp</id>
-  <published>2021-07-29T22:38:03Z</published>
-  <updated>2021-07-29T22:38:03Z</updated>
-  <content type="html">
-   Stuff from the Peter Seibel&#039;s book.
-  </content>
- </entry>
- <entry>
-  <title>mmontone: lisp-system-browser</title>
-  <author>
-   <name>mmontone</name>
-  </author>
-  <link href="https://github.com/mmontone/lisp-system-browser" />
-  <id>urn:rprimus:github:mmontone:lisp-system-browser</id>
-  <published>2021-07-29T21:15:10Z</published>
-  <updated>2021-07-29T21:15:10Z</updated>
-  <content type="html">
-   Smalltalk-like system browser for Common Lisp.
-  </content>
- </entry>
- <entry>
-  <title>jl2: tile-viewer-gl</title>
-  <author>
-   <name>jl2</name>
-  </author>
-  <link href="https://github.com/jl2/tile-viewer-gl" />
-  <id>urn:rprimus:github:jl2:tile-viewer-gl</id>
-  <published>2021-07-29T19:52:50Z</published>
-  <updated>2021-07-29T19:52:50Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>biofermin2: trivial-time</title>
-  <author>
-   <name>biofermin2</name>
-  </author>
-  <link href="https://github.com/biofermin2/trivial-time" />
-  <id>urn:rprimus:github:biofermin2:trivial-time</id>
-  <published>2021-07-29T15:47:51Z</published>
-  <updated>2021-07-29T15:47:51Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>walpurgisnatch: toolbox</title>
-  <author>
-   <name>walpurgisnatch</name>
-  </author>
-  <link href="https://github.com/walpurgisnatch/toolbox" />
-  <id>urn:rprimus:github:walpurgisnatch:toolbox</id>
-  <published>2021-07-29T12:11:36Z</published>
-  <updated>2021-07-29T12:11:36Z</updated>
-  <content type="html">
-   Collection of terminal tools for daily use
-  </content>
- </entry>
- <entry>
-  <title>juanbsanchez: loving-common-lisp-book</title>
-  <author>
-   <name>juanbsanchez</name>
-  </author>
-  <link href="https://github.com/juanbsanchez/loving-common-lisp-book" />
-  <id>urn:rprimus:github:juanbsanchez:loving-common-lisp-book</id>
-  <published>2021-07-29T09:34:23Z</published>
-  <updated>2021-07-29T09:34:23Z</updated>
-  <content type="html">
-   Examples, notes and exercises from &quot;Loving Common Lisp&quot; book
-  </content>
- </entry>
- <entry>
-  <title>johnhilts: ez-content-viewer</title>
-  <author>
-   <name>johnhilts</name>
-  </author>
-  <link href="https://github.com/johnhilts/ez-content-viewer" />
-  <id>urn:rprimus:github:johnhilts:ez-content-viewer</id>
-  <published>2021-07-29T03:00:02Z</published>
-  <updated>2021-07-29T03:00:02Z</updated>
-  <content type="html">
-   EZ content view, meant for internal networks; NO security
-  </content>
- </entry>
- <entry>
-  <title>foggynight: gravedigger</title>
-  <author>
-   <name>foggynight</name>
-  </author>
-  <link href="https://github.com/foggynight/gravedigger" />
-  <id>urn:rprimus:github:foggynight:gravedigger</id>
-  <published>2021-07-29T01:16:32Z</published>
-  <updated>2021-07-29T01:16:32Z</updated>
-  <content type="html">
-   Procedural dungeon generator for rogue-likes and other tile-based games.
   </content>
  </entry>
 </feed>
