@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2021-08-03T12:22:54Z</updated>
+<updated>2021-08-04T22:17:59Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>federicotdn: crpty</title>
+  <author>
+   <name>federicotdn</name>
+  </author>
+  <link href="https://github.com/federicotdn/crpty" />
+  <id>urn:rprimus:github:federicotdn:crpty</id>
+  <published>2021-08-04T22:17:59Z</published>
+  <updated>2021-08-04T22:17:59Z</updated>
+  <content type="html">
+   Call forkpty(3) from Crystal code
+  </content>
+ </entry>
+ <entry>
+  <title>dch: avalanchemq-lib</title>
+  <author>
+   <name>dch</name>
+  </author>
+  <link href="https://github.com/dch/avalanchemq-lib" />
+  <id>urn:rprimus:github:dch:avalanchemq-lib</id>
+  <published>2021-08-04T20:15:42Z</published>
+  <updated>2021-08-04T20:15:42Z</updated>
+  <content type="html">
+   stashed /lib/ dir from corresponding avalanchemq releases. tags match.
+  </content>
+ </entry>
+ <entry>
+  <title>pinnoto: mira-cli</title>
+  <author>
+   <name>pinnoto</name>
+  </author>
+  <link href="https://github.com/pinnoto/mira-cli" />
+  <id>urn:rprimus:github:pinnoto:mira-cli</id>
+  <published>2021-08-04T15:08:39Z</published>
+  <updated>2021-08-04T15:08:39Z</updated>
+  <content type="html">
+   Commandline client for Mira, a really cool EPUB server
+  </content>
+ </entry>
+ <entry>
+  <title>free-beer: crommand</title>
+  <author>
+   <name>free-beer</name>
+  </author>
+  <link href="https://github.com/free-beer/crommand" />
+  <id>urn:rprimus:github:free-beer:crommand</id>
+  <published>2021-08-04T10:24:47Z</published>
+  <updated>2021-08-04T10:24:47Z</updated>
+  <content type="html">
+   Crommand is an implementation of the Command design pattern for the Crystal programing language.
+  </content>
+ </entry>
  <entry>
   <title>Minva: FFmpeg-Crystal</title>
   <author>
@@ -28,19 +80,6 @@
   <updated>2021-08-03T04:13:54Z</updated>
   <content type="html">
    A performance engineer&#039;s Swiss Army knife, built with Crystal
-  </content>
- </entry>
- <entry>
-  <title>w-wieczorek: parsing</title>
-  <author>
-   <name>w-wieczorek</name>
-  </author>
-  <link href="https://github.com/w-wieczorek/parsing" />
-  <id>urn:rprimus:github:w-wieczorek:parsing</id>
-  <published>2021-08-02T11:31:06Z</published>
-  <updated>2021-08-02T11:31:06Z</updated>
-  <content type="html">
-   One-pass simple parsing
   </content>
  </entry>
 </feed>

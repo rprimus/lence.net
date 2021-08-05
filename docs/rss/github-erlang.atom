@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-erlang.atom"/>
 <id>urn:rprimus:github:newerlangrepos</id>
-<updated>2021-08-03T13:59:06Z</updated>
+<updated>2021-08-05T00:42:06Z</updated>
 <title type='text'>New GitHub Erlang Repos</title>
+ <entry>
+  <title>lordnull: github_score</title>
+  <author>
+   <name>lordnull</name>
+  </author>
+  <link href="https://github.com/lordnull/github_score" />
+  <id>urn:rprimus:github:lordnull:github_score</id>
+  <published>2021-08-05T00:42:06Z</published>
+  <updated>2021-08-05T00:42:06Z</updated>
+  <content type="html">
+   A basic programming exercise for scoring users on GitHub activity.
+  </content>
+ </entry>
  <entry>
   <title>joq62: mymath</title>
   <author>
@@ -28,58 +41,6 @@
   <updated>2021-08-03T06:19:48Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>corgifist: barley-lang</title>
-  <author>
-   <name>corgifist</name>
-  </author>
-  <link href="https://github.com/corgifist/barley-lang" />
-  <id>urn:rprimus:github:corgifist:barley-lang</id>
-  <published>2021-08-02T14:57:33Z</published>
-  <updated>2021-08-02T14:57:33Z</updated>
-  <content type="html">
-   Barley is a fast, fault-tolerant functional language built on top of the Erlang VM (with a layer in the form of Elixir)
-  </content>
- </entry>
- <entry>
-  <title>q60: rralle</title>
-  <author>
-   <name>q60</name>
-  </author>
-  <link href="https://github.com/q60/rralle" />
-  <id>urn:rprimus:github:q60:rralle</id>
-  <published>2021-08-02T12:46:35Z</published>
-  <updated>2021-08-02T12:46:35Z</updated>
-  <content type="html">
-   Random quote fetching console utility.
-  </content>
- </entry>
- <entry>
-  <title>tlchun: wolff</title>
-  <author>
-   <name>tlchun</name>
-  </author>
-  <link href="https://github.com/tlchun/wolff" />
-  <id>urn:rprimus:github:tlchun:wolff</id>
-  <published>2021-08-02T07:12:20Z</published>
-  <updated>2021-08-02T07:12:20Z</updated>
-  <content type="html">
-   wolff to emqx bridge data kafka
-  </content>
- </entry>
- <entry>
-  <title>rbkmoney: magista-proto</title>
-  <author>
-   <name>rbkmoney</name>
-  </author>
-  <link href="https://github.com/rbkmoney/magista-proto" />
-  <id>urn:rprimus:github:rbkmoney:magista-proto</id>
-  <published>2021-08-02T07:07:24Z</published>
-  <updated>2021-08-02T07:07:24Z</updated>
-  <content type="html">
-   magista-proto
   </content>
  </entry>
 </feed>
