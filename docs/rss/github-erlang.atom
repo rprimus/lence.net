@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-erlang.atom"/>
 <id>urn:rprimus:github:newerlangrepos</id>
-<updated>2021-08-05T00:42:06Z</updated>
+<updated>2021-08-06T06:27:14Z</updated>
 <title type='text'>New GitHub Erlang Repos</title>
+ <entry>
+  <title>PureFunctor: factorial_server.erl</title>
+  <author>
+   <name>PureFunctor</name>
+  </author>
+  <link href="https://github.com/PureFunctor/factorial_server.erl" />
+  <id>urn:rprimus:github:PureFunctor:factorial_server.erl</id>
+  <published>2021-08-06T06:27:14Z</published>
+  <updated>2021-08-06T06:27:14Z</updated>
+  <content type="html">
+   A small OTP application demonstrating a simple factorial gen_server.
+  </content>
+ </entry>
+ <entry>
+  <title>joq62: controller</title>
+  <author>
+   <name>joq62</name>
+  </author>
+  <link href="https://github.com/joq62/controller" />
+  <id>urn:rprimus:github:joq62:controller</id>
+  <published>2021-08-05T13:45:55Z</published>
+  <updated>2021-08-05T13:45:55Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>lordnull: github_score</title>
   <author>
@@ -15,32 +41,6 @@
   <updated>2021-08-05T00:42:06Z</updated>
   <content type="html">
    A basic programming exercise for scoring users on GitHub activity.
-  </content>
- </entry>
- <entry>
-  <title>joq62: mymath</title>
-  <author>
-   <name>joq62</name>
-  </author>
-  <link href="https://github.com/joq62/mymath" />
-  <id>urn:rprimus:github:joq62:mymath</id>
-  <published>2021-08-03T13:59:06Z</published>
-  <updated>2021-08-03T13:59:06Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>dubrovine: erlredis</title>
-  <author>
-   <name>dubrovine</name>
-  </author>
-  <link href="https://github.com/dubrovine/erlredis" />
-  <id>urn:rprimus:github:dubrovine:erlredis</id>
-  <published>2021-08-03T06:19:48Z</published>
-  <updated>2021-08-03T06:19:48Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
