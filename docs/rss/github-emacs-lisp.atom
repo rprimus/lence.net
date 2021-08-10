@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2021-08-10T01:54:42Z</updated>
+<updated>2021-08-10T07:56:50Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>thebesttv: pastebin</title>
+  <author>
+   <name>thebesttv</name>
+  </author>
+  <link href="https://github.com/thebesttv/pastebin" />
+  <id>urn:rprimus:github:thebesttv:pastebin</id>
+  <published>2021-08-10T07:56:50Z</published>
+  <updated>2021-08-10T07:56:50Z</updated>
+  <content type="html">
+   very simple pastebin, of EServer
+  </content>
+ </entry>
  <entry>
   <title>VSteveHL: ANSI-Commin-Lisp-Learn</title>
   <author>
@@ -145,6 +158,19 @@
   <updated>2021-08-09T08:52:34Z</updated>
   <content type="html">
    My personal emacs config
+  </content>
+ </entry>
+ <entry>
+  <title>iani: sc-hacks-config</title>
+  <author>
+   <name>iani</name>
+  </author>
+  <link href="https://github.com/iani/sc-hacks-config" />
+  <id>urn:rprimus:github:iani:sc-hacks-config</id>
+  <published>2021-08-09T07:46:31Z</published>
+  <updated>2021-08-09T07:46:31Z</updated>
+  <content type="html">
+   Scripts to configure ServerOptions, load SynthDefs and audio files, using sc-hacks-redux. See Hacks class
   </content>
  </entry>
  <entry>
