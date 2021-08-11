@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2021-08-10T08:28:39Z</updated>
+<updated>2021-08-10T18:14:14Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>WhoAteDaCake: learning-compilers</title>
+  <author>
+   <name>WhoAteDaCake</name>
+  </author>
+  <link href="https://github.com/WhoAteDaCake/learning-compilers" />
+  <id>urn:rprimus:github:WhoAteDaCake:learning-compilers</id>
+  <published>2021-08-10T18:14:14Z</published>
+  <updated>2021-08-10T18:14:14Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>cmizzi: wallhaven-downloader-crystal</title>
+  <author>
+   <name>cmizzi</name>
+  </author>
+  <link href="https://github.com/cmizzi/wallhaven-downloader-crystal" />
+  <id>urn:rprimus:github:cmizzi:wallhaven-downloader-crystal</id>
+  <published>2021-08-10T16:05:22Z</published>
+  <updated>2021-08-10T16:05:22Z</updated>
+  <content type="html">
+   Wallhaven downloader written in Crystal lang.
+  </content>
+ </entry>
  <entry>
   <title>Liberatys: deepl_cr</title>
   <author>
@@ -31,6 +57,19 @@
   </content>
  </entry>
  <entry>
+  <title>wout: rosetta</title>
+  <author>
+   <name>wout</name>
+  </author>
+  <link href="https://github.com/wout/rosetta" />
+  <id>urn:rprimus:github:wout:rosetta</id>
+  <published>2021-08-09T16:47:26Z</published>
+  <updated>2021-08-09T16:47:26Z</updated>
+  <content type="html">
+   A Crystal library for internationalization with compile-time key lookup.
+  </content>
+ </entry>
+ <entry>
   <title>gemmaro: crystal-fasta</title>
   <author>
    <name>gemmaro</name>
@@ -41,71 +80,6 @@
   <updated>2021-08-09T02:06:30Z</updated>
   <content type="html">
    [ WIP ] A simple FASTA parser library
-  </content>
- </entry>
- <entry>
-  <title>hugopl: gtk4.cr</title>
-  <author>
-   <name>hugopl</name>
-  </author>
-  <link href="https://github.com/hugopl/gtk4.cr" />
-  <id>urn:rprimus:github:hugopl:gtk4.cr</id>
-  <published>2021-08-08T20:49:52Z</published>
-  <updated>2021-08-08T20:49:52Z</updated>
-  <content type="html">
-   GTK4 bindings for Crystal
-  </content>
- </entry>
- <entry>
-  <title>cfebs: crystal-busybox</title>
-  <author>
-   <name>cfebs</name>
-  </author>
-  <link href="https://github.com/cfebs/crystal-busybox" />
-  <id>urn:rprimus:github:cfebs:crystal-busybox</id>
-  <published>2021-08-08T16:23:15Z</published>
-  <updated>2021-08-08T16:23:15Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>seyerian: aoc-2020</title>
-  <author>
-   <name>seyerian</name>
-  </author>
-  <link href="https://github.com/seyerian/aoc-2020" />
-  <id>urn:rprimus:github:seyerian:aoc-2020</id>
-  <published>2021-08-08T13:21:08Z</published>
-  <updated>2021-08-08T13:21:08Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jgaskins: pennant</title>
-  <author>
-   <name>jgaskins</name>
-  </author>
-  <link href="https://github.com/jgaskins/pennant" />
-  <id>urn:rprimus:github:jgaskins:pennant</id>
-  <published>2021-08-08T05:48:36Z</published>
-  <updated>2021-08-08T05:48:36Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jgaskins: degradable</title>
-  <author>
-   <name>jgaskins</name>
-  </author>
-  <link href="https://github.com/jgaskins/degradable" />
-  <id>urn:rprimus:github:jgaskins:degradable</id>
-  <published>2021-08-08T04:58:31Z</published>
-  <updated>2021-08-08T04:58:31Z</updated>
-  <content type="html">
-   Automate degradation of a service or feature when a failure threshold has passed. Coordinates multiple instances via Redis.
   </content>
  </entry>
 </feed>
