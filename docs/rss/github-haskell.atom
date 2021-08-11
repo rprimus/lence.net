@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-haskell.atom"/>
 <id>urn:rprimus:github:newhaskellrepos</id>
-<updated>2021-08-11T04:20:20Z</updated>
+<updated>2021-08-11T06:49:23Z</updated>
 <title type='text'>New GitHub Haskell Repos</title>
+ <entry>
+  <title>gmohlamo: dot-files</title>
+  <author>
+   <name>gmohlamo</name>
+  </author>
+  <link href="https://github.com/gmohlamo/dot-files" />
+  <id>urn:rprimus:github:gmohlamo:dot-files</id>
+  <published>2021-08-11T06:49:23Z</published>
+  <updated>2021-08-11T06:49:23Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>ENvironmentSet: stlc</title>
+  <author>
+   <name>ENvironmentSet</name>
+  </author>
+  <link href="https://github.com/ENvironmentSet/stlc" />
+  <id>urn:rprimus:github:ENvironmentSet:stlc</id>
+  <published>2021-08-11T06:00:38Z</published>
+  <updated>2021-08-11T06:00:38Z</updated>
+  <content type="html">
+   Haskell Implementation of STLC
+  </content>
+ </entry>
  <entry>
   <title>Nughm3: dotfiles</title>
   <author>
@@ -343,19 +369,6 @@
   </content>
  </entry>
  <entry>
-  <title>andreaswachs: hocco</title>
-  <author>
-   <name>andreaswachs</name>
-  </author>
-  <link href="https://github.com/andreaswachs/hocco" />
-  <id>urn:rprimus:github:andreaswachs:hocco</id>
-  <published>2021-08-09T18:55:51Z</published>
-  <updated>2021-08-09T18:55:51Z</updated>
-  <content type="html">
-   Haskell Occurance Counter: A program that counts occurances of substrings in text files - implemented in Haskell
-  </content>
- </entry>
- <entry>
   <title>eeoam: Tweave</title>
   <author>
    <name>eeoam</name>
@@ -665,6 +678,19 @@
   <updated>2021-08-09T00:34:02Z</updated>
   <content type="html">
    WIP Mahjong Server
+  </content>
+ </entry>
+ <entry>
+  <title>socketteer: haskellucinator</title>
+  <author>
+   <name>socketteer</name>
+  </author>
+  <link href="https://github.com/socketteer/haskellucinator" />
+  <id>urn:rprimus:github:socketteer:haskellucinator</id>
+  <published>2021-08-09T00:21:18Z</published>
+  <updated>2021-08-09T00:21:18Z</updated>
+  <content type="html">
+   
   </content>
  </entry>
 </feed>
