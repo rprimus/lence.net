@@ -2,8 +2,138 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-08-12T00:47:38Z</updated>
+<updated>2021-08-14T00:58:31Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>kkshinkai: shinkai-lang</title>
+  <author>
+   <name>kkshinkai</name>
+  </author>
+  <link href="https://github.com/kkshinkai/shinkai-lang" />
+  <id>urn:rprimus:github:kkshinkai:shinkai-lang</id>
+  <published>2021-08-14T00:58:31Z</published>
+  <updated>2021-08-14T00:58:31Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Aeromus: LearningLisp</title>
+  <author>
+   <name>Aeromus</name>
+  </author>
+  <link href="https://github.com/Aeromus/LearningLisp" />
+  <id>urn:rprimus:github:Aeromus:LearningLisp</id>
+  <published>2021-08-13T20:27:16Z</published>
+  <updated>2021-08-13T20:27:16Z</updated>
+  <content type="html">
+   Attempting to understand Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>Shinmera: cl-modio</title>
+  <author>
+   <name>Shinmera</name>
+  </author>
+  <link href="https://github.com/Shinmera/cl-modio" />
+  <id>urn:rprimus:github:Shinmera:cl-modio</id>
+  <published>2021-08-13T19:59:49Z</published>
+  <updated>2021-08-13T19:59:49Z</updated>
+  <content type="html">
+   Client library for the mod.io modding database API.
+  </content>
+ </entry>
+ <entry>
+  <title>yoshio99: CS161</title>
+  <author>
+   <name>yoshio99</name>
+  </author>
+  <link href="https://github.com/yoshio99/CS161" />
+  <id>urn:rprimus:github:yoshio99:CS161</id>
+  <published>2021-08-13T18:02:16Z</published>
+  <updated>2021-08-13T18:02:16Z</updated>
+  <content type="html">
+   Fundamentals of Artificial Intelligence
+  </content>
+ </entry>
+ <entry>
+  <title>schmalz: robbie-robot</title>
+  <author>
+   <name>schmalz</name>
+  </author>
+  <link href="https://github.com/schmalz/robbie-robot" />
+  <id>urn:rprimus:github:schmalz:robbie-robot</id>
+  <published>2021-08-13T14:13:24Z</published>
+  <updated>2021-08-13T14:13:24Z</updated>
+  <content type="html">
+   In which I code along with the Keyboard Exercise from Chapter 6 of Common Lisp: A Gentle Introduction to Symbolic Computing by David Touretzky.
+  </content>
+ </entry>
+ <entry>
+  <title>Jaso-N7: bday</title>
+  <author>
+   <name>Jaso-N7</name>
+  </author>
+  <link href="https://github.com/Jaso-N7/bday" />
+  <id>urn:rprimus:github:Jaso-N7:bday</id>
+  <published>2021-08-13T03:05:23Z</published>
+  <updated>2021-08-13T03:05:23Z</updated>
+  <content type="html">
+   Birthday Greetings and Property-Based Testing kata.
+  </content>
+ </entry>
+ <entry>
+  <title>jcguu95: curfew.lisp</title>
+  <author>
+   <name>jcguu95</name>
+  </author>
+  <link href="https://github.com/jcguu95/curfew.lisp" />
+  <id>urn:rprimus:github:jcguu95:curfew.lisp</id>
+  <published>2021-08-13T00:55:36Z</published>
+  <updated>2021-08-13T00:55:36Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>prozacchiwawa: chia-checkers</title>
+  <author>
+   <name>prozacchiwawa</name>
+  </author>
+  <link href="https://github.com/prozacchiwawa/chia-checkers" />
+  <id>urn:rprimus:github:prozacchiwawa:chia-checkers</id>
+  <published>2021-08-12T14:54:29Z</published>
+  <updated>2021-08-12T14:54:29Z</updated>
+  <content type="html">
+   A checkers game in chialisp that ensures that it continues from a single launcher and allows only valid moves
+  </content>
+ </entry>
+ <entry>
+  <title>endlmk: CommonLisp-A-Gentle-Introduction-to-Symbolic-Computation-exercises</title>
+  <author>
+   <name>endlmk</name>
+  </author>
+  <link href="https://github.com/endlmk/CommonLisp-A-Gentle-Introduction-to-Symbolic-Computation-exercises" />
+  <id>urn:rprimus:github:endlmk:CommonLisp-A-Gentle-Introduction-to-Symbolic-Computation-exercises</id>
+  <published>2021-08-12T13:54:58Z</published>
+  <updated>2021-08-12T13:54:58Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>JolifantoBambla: cffi-size-t</title>
+  <author>
+   <name>JolifantoBambla</name>
+  </author>
+  <link href="https://github.com/JolifantoBambla/cffi-size-t" />
+  <id>urn:rprimus:github:JolifantoBambla:cffi-size-t</id>
+  <published>2021-08-12T11:58:03Z</published>
+  <updated>2021-08-12T11:58:03Z</updated>
+  <content type="html">
+   A size-t CFFI type depending on the pointer size on your system.
+  </content>
+ </entry>
  <entry>
   <title>foggynight: sylva</title>
   <author>
@@ -15,201 +145,6 @@
   <updated>2021-08-12T00:47:38Z</updated>
   <content type="html">
    Library for various types of trees with a unified interface in Common Lisp.
-  </content>
- </entry>
- <entry>
-  <title>arthurlisboa123: resolvedor-suguru-LISP</title>
-  <author>
-   <name>arthurlisboa123</name>
-  </author>
-  <link href="https://github.com/arthurlisboa123/resolvedor-suguru-LISP" />
-  <id>urn:rprimus:github:arthurlisboa123:resolvedor-suguru-LISP</id>
-  <published>2021-08-11T18:10:06Z</published>
-  <updated>2021-08-11T18:10:06Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>thomashoullier: lup-solve</title>
-  <author>
-   <name>thomashoullier</name>
-  </author>
-  <link href="https://github.com/thomashoullier/lup-solve" />
-  <id>urn:rprimus:github:thomashoullier:lup-solve</id>
-  <published>2021-08-11T17:27:34Z</published>
-  <updated>2021-08-11T17:27:34Z</updated>
-  <content type="html">
-   Solve a linear system of equations through forward then back substitution given a LUP decomposition.
-  </content>
- </entry>
- <entry>
-  <title>edgar-vincent: nyxt</title>
-  <author>
-   <name>edgar-vincent</name>
-  </author>
-  <link href="https://github.com/edgar-vincent/nyxt" />
-  <id>urn:rprimus:github:edgar-vincent:nyxt</id>
-  <published>2021-08-11T15:58:31Z</published>
-  <updated>2021-08-11T15:58:31Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>epanji: claraoke</title>
-  <author>
-   <name>epanji</name>
-  </author>
-  <link href="https://github.com/epanji/claraoke" />
-  <id>urn:rprimus:github:epanji:claraoke</id>
-  <published>2021-08-11T13:48:53Z</published>
-  <updated>2021-08-11T13:48:53Z</updated>
-  <content type="html">
-   Karaoke typesetting helper for ASS format (Advanced Substation Alpha)
-  </content>
- </entry>
- <entry>
-  <title>hikettei: tokenizer</title>
-  <author>
-   <name>hikettei</name>
-  </author>
-  <link href="https://github.com/hikettei/tokenizer" />
-  <id>urn:rprimus:github:hikettei:tokenizer</id>
-  <published>2021-08-11T09:01:26Z</published>
-  <updated>2021-08-11T09:01:26Z</updated>
-  <content type="html">
-   ã¾ã£ããæ§æè§£ææ©ãå®è£ãããã
-  </content>
- </entry>
- <entry>
-  <title>hikettei: LiangLang</title>
-  <author>
-   <name>hikettei</name>
-  </author>
-  <link href="https://github.com/hikettei/LiangLang" />
-  <id>urn:rprimus:github:hikettei:LiangLang</id>
-  <published>2021-08-11T05:25:02Z</published>
-  <updated>2021-08-11T05:25:02Z</updated>
-  <content type="html">
-   å¤§æã«æ¸ãã¦ããèªä½è¨èªãç§ã®é»æ­´å²ã
-  </content>
- </entry>
- <entry>
-  <title>hikettei: deep-learning</title>
-  <author>
-   <name>hikettei</name>
-  </author>
-  <link href="https://github.com/hikettei/deep-learning" />
-  <id>urn:rprimus:github:hikettei:deep-learning</id>
-  <published>2021-08-11T05:10:04Z</published>
-  <updated>2021-08-11T05:10:04Z</updated>
-  <content type="html">
-   æ¬èª­ãã§é©å½ã«æ¸ãããã¤ãç½®ãã¦ããã
-  </content>
- </entry>
- <entry>
-  <title>aloussase: hermes</title>
-  <author>
-   <name>aloussase</name>
-  </author>
-  <link href="https://github.com/aloussase/hermes" />
-  <id>urn:rprimus:github:aloussase:hermes</id>
-  <published>2021-08-11T05:04:24Z</published>
-  <updated>2021-08-11T05:04:24Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>atgreen: cl-etcd</title>
-  <author>
-   <name>atgreen</name>
-  </author>
-  <link href="https://github.com/atgreen/cl-etcd" />
-  <id>urn:rprimus:github:atgreen:cl-etcd</id>
-  <published>2021-08-11T03:05:15Z</published>
-  <updated>2021-08-11T03:05:15Z</updated>
-  <content type="html">
-   Run etcd as an asynchronous inferior process
-  </content>
- </entry>
- <entry>
-  <title>CirrusClouds: cl-jvectors</title>
-  <author>
-   <name>CirrusClouds</name>
-  </author>
-  <link href="https://github.com/CirrusClouds/cl-jvectors" />
-  <id>urn:rprimus:github:CirrusClouds:cl-jvectors</id>
-  <published>2021-08-10T21:59:11Z</published>
-  <updated>2021-08-10T21:59:11Z</updated>
-  <content type="html">
-   Linear algebra with OOP
-  </content>
- </entry>
- <entry>
-  <title>CirrusClouds: cl-utils</title>
-  <author>
-   <name>CirrusClouds</name>
-  </author>
-  <link href="https://github.com/CirrusClouds/cl-utils" />
-  <id>urn:rprimus:github:CirrusClouds:cl-utils</id>
-  <published>2021-08-10T21:57:50Z</published>
-  <updated>2021-08-10T21:57:50Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>fami-com: autoexport</title>
-  <author>
-   <name>fami-com</name>
-  </author>
-  <link href="https://github.com/fami-com/autoexport" />
-  <id>urn:rprimus:github:fami-com:autoexport</id>
-  <published>2021-08-10T19:57:22Z</published>
-  <updated>2021-08-10T19:57:22Z</updated>
-  <content type="html">
-   A small library to automatically export definitions
-  </content>
- </entry>
- <entry>
-  <title>BnMcGn: claxy</title>
-  <author>
-   <name>BnMcGn</name>
-  </author>
-  <link href="https://github.com/BnMcGn/claxy" />
-  <id>urn:rprimus:github:BnMcGn:claxy</id>
-  <published>2021-08-10T18:40:49Z</published>
-  <updated>2021-08-10T18:40:49Z</updated>
-  <content type="html">
-   Simple proxy middleware for clack
-  </content>
- </entry>
- <entry>
-  <title>juliagomess: sistema_academico_lisp</title>
-  <author>
-   <name>juliagomess</name>
-  </author>
-  <link href="https://github.com/juliagomess/sistema_academico_lisp" />
-  <id>urn:rprimus:github:juliagomess:sistema_academico_lisp</id>
-  <published>2021-08-10T18:34:58Z</published>
-  <updated>2021-08-10T18:34:58Z</updated>
-  <content type="html">
-   Sistema AcadÃªmico em Lisp
-  </content>
- </entry>
- <entry>
-  <title>adampaulukanis: morse-slimv-tutorial</title>
-  <author>
-   <name>adampaulukanis</name>
-  </author>
-  <link href="https://github.com/adampaulukanis/morse-slimv-tutorial" />
-  <id>urn:rprimus:github:adampaulukanis:morse-slimv-tutorial</id>
-  <published>2021-08-10T16:18:33Z</published>
-  <updated>2021-08-10T16:18:33Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>

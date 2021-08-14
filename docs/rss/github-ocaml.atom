@@ -2,8 +2,138 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2021-08-12T00:45:09Z</updated>
+<updated>2021-08-14T00:27:25Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>MatheusBBarni: first-ocaml-project</title>
+  <author>
+   <name>MatheusBBarni</name>
+  </author>
+  <link href="https://github.com/MatheusBBarni/first-ocaml-project" />
+  <id>urn:rprimus:github:MatheusBBarni:first-ocaml-project</id>
+  <published>2021-08-14T00:27:25Z</published>
+  <updated>2021-08-14T00:27:25Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>abagel21: OCamlChess3110</title>
+  <author>
+   <name>abagel21</name>
+  </author>
+  <link href="https://github.com/abagel21/OCamlChess3110" />
+  <id>urn:rprimus:github:abagel21:OCamlChess3110</id>
+  <published>2021-08-13T21:20:06Z</published>
+  <updated>2021-08-13T21:20:06Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>janestreet: ppx_typed_fields</title>
+  <author>
+   <name>janestreet</name>
+  </author>
+  <link href="https://github.com/janestreet/ppx_typed_fields" />
+  <id>urn:rprimus:github:janestreet:ppx_typed_fields</id>
+  <published>2021-08-13T19:10:24Z</published>
+  <updated>2021-08-13T19:10:24Z</updated>
+  <content type="html">
+   GADT-based field accessors and utilities
+  </content>
+ </entry>
+ <entry>
+  <title>roburio: happy-eyeballs</title>
+  <author>
+   <name>roburio</name>
+  </author>
+  <link href="https://github.com/roburio/happy-eyeballs" />
+  <id>urn:rprimus:github:roburio:happy-eyeballs</id>
+  <published>2021-08-13T16:29:59Z</published>
+  <updated>2021-08-13T16:29:59Z</updated>
+  <content type="html">
+   An implementation of happy eyeballs (RFC 8305) in OCaml with lwt
+  </content>
+ </entry>
+ <entry>
+  <title>tmarti2: z80-ml</title>
+  <author>
+   <name>tmarti2</name>
+  </author>
+  <link href="https://github.com/tmarti2/z80-ml" />
+  <id>urn:rprimus:github:tmarti2:z80-ml</id>
+  <published>2021-08-13T16:19:56Z</published>
+  <updated>2021-08-13T16:19:56Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>stklimiter: cryptography</title>
+  <author>
+   <name>stklimiter</name>
+  </author>
+  <link href="https://github.com/stklimiter/cryptography" />
+  <id>urn:rprimus:github:stklimiter:cryptography</id>
+  <published>2021-08-12T20:01:31Z</published>
+  <updated>2021-08-12T20:01:31Z</updated>
+  <content type="html">
+   Using cryptography algorithms to learn practice languages
+  </content>
+ </entry>
+ <entry>
+  <title>AestheticIntegration: ppx_deriving_hash</title>
+  <author>
+   <name>AestheticIntegration</name>
+  </author>
+  <link href="https://github.com/AestheticIntegration/ppx_deriving_hash" />
+  <id>urn:rprimus:github:AestheticIntegration:ppx_deriving_hash</id>
+  <published>2021-08-12T18:32:51Z</published>
+  <updated>2021-08-12T18:32:51Z</updated>
+  <content type="html">
+   ppx deriving for hash functions, with a runtime library parametric on the hash function
+  </content>
+ </entry>
+ <entry>
+  <title>cosmo-ray: kara-tools</title>
+  <author>
+   <name>cosmo-ray</name>
+  </author>
+  <link href="https://github.com/cosmo-ray/kara-tools" />
+  <id>urn:rprimus:github:cosmo-ray:kara-tools</id>
+  <published>2021-08-12T13:34:43Z</published>
+  <updated>2021-08-12T13:34:43Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>hellojukay: proxy.ml</title>
+  <author>
+   <name>hellojukay</name>
+  </author>
+  <link href="https://github.com/hellojukay/proxy.ml" />
+  <id>urn:rprimus:github:hellojukay:proxy.ml</id>
+  <published>2021-08-12T11:21:58Z</published>
+  <updated>2021-08-12T11:21:58Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>ose20: intro_to_msp</title>
+  <author>
+   <name>ose20</name>
+  </author>
+  <link href="https://github.com/ose20/intro_to_msp" />
+  <id>urn:rprimus:github:ose20:intro_to_msp</id>
+  <published>2021-08-12T09:57:14Z</published>
+  <updated>2021-08-12T09:57:14Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>Ezequiel-Menneck: hello-ocaml</title>
   <author>
@@ -15,227 +145,6 @@
   <updated>2021-08-12T00:45:09Z</updated>
   <content type="html">
    First hello world in OCaml
-  </content>
- </entry>
- <entry>
-  <title>sano-jin: lmn-alpha</title>
-  <author>
-   <name>sano-jin</name>
-  </author>
-  <link href="https://github.com/sano-jin/lmn-alpha" />
-  <id>urn:rprimus:github:sano-jin:lmn-alpha</id>
-  <published>2021-08-11T14:17:37Z</published>
-  <updated>2021-08-11T14:17:37Z</updated>
-  <content type="html">
-   A minimal compiler and runtime for a language based on graph rewriting
-  </content>
- </entry>
- <entry>
-  <title>Awadibra: ChezSchemeCompiler</title>
-  <author>
-   <name>Awadibra</name>
-  </author>
-  <link href="https://github.com/Awadibra/ChezSchemeCompiler" />
-  <id>urn:rprimus:github:Awadibra:ChezSchemeCompiler</id>
-  <published>2021-08-11T12:30:47Z</published>
-  <updated>2021-08-11T12:30:47Z</updated>
-  <content type="html">
-   A chez scheme compiler written in Ocaml.
-  </content>
- </entry>
- <entry>
-  <title>Sparrrow2020: Mage-Cart-Block-and-Fix</title>
-  <author>
-   <name>Sparrrow2020</name>
-  </author>
-  <link href="https://github.com/Sparrrow2020/Mage-Cart-Block-and-Fix" />
-  <id>urn:rprimus:github:Sparrrow2020:Mage-Cart-Block-and-Fix</id>
-  <published>2021-08-11T10:29:10Z</published>
-  <updated>2021-08-11T10:29:10Z</updated>
-  <content type="html">
-   I was in Starbucks and my Laptop found this in the store. I wrote the Fix to Mage Cart in CAML to learn because it is always changing. I Uses a Crix Naca Fala with Floc Fara(best way to describe it).It is a network protocol and scans and protects all devices on the same network
-  </content>
- </entry>
- <entry>
-  <title>databank-anon: databank</title>
-  <author>
-   <name>databank-anon</name>
-  </author>
-  <link href="https://github.com/databank-anon/databank" />
-  <id>urn:rprimus:github:databank-anon:databank</id>
-  <published>2021-08-11T07:25:04Z</published>
-  <updated>2021-08-11T07:25:04Z</updated>
-  <content type="html">
-   Artifacts for &quot;Enforcing Data Ownership Rights by Design: The Databank&quot;
-  </content>
- </entry>
- <entry>
-  <title>adwait: axiomatix</title>
-  <author>
-   <name>adwait</name>
-  </author>
-  <link href="https://github.com/adwait/axiomatix" />
-  <id>urn:rprimus:github:adwait:axiomatix</id>
-  <published>2021-08-10T23:54:49Z</published>
-  <updated>2021-08-10T23:54:49Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Oiapokxui: Camelfuck</title>
-  <author>
-   <name>Oiapokxui</name>
-  </author>
-  <link href="https://github.com/Oiapokxui/Camelfuck" />
-  <id>urn:rprimus:github:Oiapokxui:Camelfuck</id>
-  <published>2021-08-10T23:24:11Z</published>
-  <updated>2021-08-10T23:24:11Z</updated>
-  <content type="html">
-   A brainfuck interpreter on OCaml
-  </content>
- </entry>
- <entry>
-  <title>marcosfpr: trivia-parser</title>
-  <author>
-   <name>marcosfpr</name>
-  </author>
-  <link href="https://github.com/marcosfpr/trivia-parser" />
-  <id>urn:rprimus:github:marcosfpr:trivia-parser</id>
-  <published>2021-08-10T21:31:15Z</published>
-  <updated>2021-08-10T21:31:15Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ozan-k: EpidemiologyRender</title>
-  <author>
-   <name>ozan-k</name>
-  </author>
-  <link href="https://github.com/ozan-k/EpidemiologyRender" />
-  <id>urn:rprimus:github:ozan-k:EpidemiologyRender</id>
-  <published>2021-08-10T21:28:05Z</published>
-  <updated>2021-08-10T21:28:05Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jcmorrow: ocaml</title>
-  <author>
-   <name>jcmorrow</name>
-  </author>
-  <link href="https://github.com/jcmorrow/ocaml" />
-  <id>urn:rprimus:github:jcmorrow:ocaml</id>
-  <published>2021-08-10T19:22:35Z</published>
-  <updated>2021-08-10T19:22:35Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>VincentW1998: pf5</title>
-  <author>
-   <name>VincentW1998</name>
-  </author>
-  <link href="https://github.com/VincentW1998/pf5" />
-  <id>urn:rprimus:github:VincentW1998:pf5</id>
-  <published>2021-08-10T16:59:46Z</published>
-  <updated>2021-08-10T16:59:46Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>samvv: mini</title>
-  <author>
-   <name>samvv</name>
-  </author>
-  <link href="https://github.com/samvv/mini" />
-  <id>urn:rprimus:github:samvv:mini</id>
-  <published>2021-08-10T16:53:57Z</published>
-  <updated>2021-08-10T16:53:57Z</updated>
-  <content type="html">
-   An implementation of the theory discussed in TAPL&#039;s chapter &#039;The Essence of ML Type Inference&#039;
-  </content>
- </entry>
- <entry>
-  <title>VincentW1998: gasp</title>
-  <author>
-   <name>VincentW1998</name>
-  </author>
-  <link href="https://github.com/VincentW1998/gasp" />
-  <id>urn:rprimus:github:VincentW1998:gasp</id>
-  <published>2021-08-10T16:49:39Z</published>
-  <updated>2021-08-10T16:49:39Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>tarekcampossaleh: exercism-ocaml</title>
-  <author>
-   <name>tarekcampossaleh</name>
-  </author>
-  <link href="https://github.com/tarekcampossaleh/exercism-ocaml" />
-  <id>urn:rprimus:github:tarekcampossaleh:exercism-ocaml</id>
-  <published>2021-08-10T14:49:27Z</published>
-  <updated>2021-08-10T14:49:27Z</updated>
-  <content type="html">
-   Ocaml Exercism Track
-  </content>
- </entry>
- <entry>
-  <title>Sparrrow2020: Machine-learning-Cross-Script-Killer</title>
-  <author>
-   <name>Sparrrow2020</name>
-  </author>
-  <link href="https://github.com/Sparrrow2020/Machine-learning-Cross-Script-Killer" />
-  <id>urn:rprimus:github:Sparrrow2020:Machine-learning-Cross-Script-Killer</id>
-  <published>2021-08-10T13:59:06Z</published>
-  <updated>2021-08-10T13:59:06Z</updated>
-  <content type="html">
-   This will kill Cross Scripts and if it is to fast will out put messages to the one executing the script, some are very funny. Not the actual input you did, it runs automatically and learns and memorizes everyone you get hit with. Allow 25 minutes for the Machine Learning program to update after install.
-  </content>
- </entry>
- <entry>
-  <title>Kakadu: OCanren-basic-template</title>
-  <author>
-   <name>Kakadu</name>
-  </author>
-  <link href="https://github.com/Kakadu/OCanren-basic-template" />
-  <id>urn:rprimus:github:Kakadu:OCanren-basic-template</id>
-  <published>2021-08-10T13:45:00Z</published>
-  <updated>2021-08-10T13:45:00Z</updated>
-  <content type="html">
-   A templare repo for relational programming using OCanren
-  </content>
- </entry>
- <entry>
-  <title>roburio: httpaf-lwt-client</title>
-  <author>
-   <name>roburio</name>
-  </author>
-  <link href="https://github.com/roburio/httpaf-lwt-client" />
-  <id>urn:rprimus:github:roburio:httpaf-lwt-client</id>
-  <published>2021-08-10T09:32:51Z</published>
-  <updated>2021-08-10T09:32:51Z</updated>
-  <content type="html">
-   A HTTP client using HTTP/AF and lwt
-  </content>
- </entry>
- <entry>
-  <title>achains: mini-Lua</title>
-  <author>
-   <name>achains</name>
-  </author>
-  <link href="https://github.com/achains/mini-Lua" />
-  <id>urn:rprimus:github:achains:mini-Lua</id>
-  <published>2021-08-10T07:07:20Z</published>
-  <updated>2021-08-10T07:07:20Z</updated>
-  <content type="html">
-   Implementation of Lua programming language using OCaml
   </content>
  </entry>
 </feed>

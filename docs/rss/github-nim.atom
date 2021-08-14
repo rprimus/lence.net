@@ -2,95 +2,134 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2021-08-11T21:33:50Z</updated>
+<updated>2021-08-13T23:55:21Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
  <entry>
-  <title>zimawhit3: HellsGateNim</title>
+  <title>billm: emu6502</title>
   <author>
-   <name>zimawhit3</name>
+   <name>billm</name>
   </author>
-  <link href="https://github.com/zimawhit3/HellsGateNim" />
-  <id>urn:rprimus:github:zimawhit3:HellsGateNim</id>
-  <published>2021-08-11T21:33:50Z</published>
-  <updated>2021-08-11T21:33:50Z</updated>
+  <link href="https://github.com/billm/emu6502" />
+  <id>urn:rprimus:github:billm:emu6502</id>
+  <published>2021-08-13T23:55:21Z</published>
+  <updated>2021-08-13T23:55:21Z</updated>
   <content type="html">
-   A quick example of the Hells Gate technique in Nim
+   emu6502 is a basic emulator that implements the MOS6502 opcodes.
   </content>
  </entry>
  <entry>
-  <title>C-NERD: Atileyin</title>
+  <title>J0eCool: LangBox</title>
   <author>
-   <name>C-NERD</name>
+   <name>J0eCool</name>
   </author>
-  <link href="https://github.com/C-NERD/Atileyin" />
-  <id>urn:rprimus:github:C-NERD:Atileyin</id>
-  <published>2021-08-11T21:06:17Z</published>
-  <updated>2021-08-11T21:06:17Z</updated>
+  <link href="https://github.com/J0eCool/LangBox" />
+  <id>urn:rprimus:github:J0eCool:LangBox</id>
+  <published>2021-08-13T23:54:48Z</published>
+  <updated>2021-08-13T23:54:48Z</updated>
   <content type="html">
-   Backup tool for local drive backup
+   dumping ground for language stuff
   </content>
  </entry>
  <entry>
-  <title>Alkamist: EzWinNim</title>
+  <title>yglukhov: bzip2</title>
   <author>
-   <name>Alkamist</name>
+   <name>yglukhov</name>
   </author>
-  <link href="https://github.com/Alkamist/EzWinNim" />
-  <id>urn:rprimus:github:Alkamist:EzWinNim</id>
-  <published>2021-08-11T17:27:35Z</published>
-  <updated>2021-08-11T17:27:35Z</updated>
+  <link href="https://github.com/yglukhov/bzip2" />
+  <id>urn:rprimus:github:yglukhov:bzip2</id>
+  <published>2021-08-13T19:01:45Z</published>
+  <updated>2021-08-13T19:01:45Z</updated>
+  <content type="html">
+   libbz2 nim wrapper
+  </content>
+ </entry>
+ <entry>
+  <title>thisago: numToWord</title>
+  <author>
+   <name>thisago</name>
+  </author>
+  <link href="https://github.com/thisago/numToWord" />
+  <id>urn:rprimus:github:thisago:numToWord</id>
+  <published>2021-08-13T02:43:58Z</published>
+  <updated>2021-08-13T02:43:58Z</updated>
+  <content type="html">
+   Convert numbers to words
+  </content>
+ </entry>
+ <entry>
+  <title>gustavo-veiga: nim-allegro-5</title>
+  <author>
+   <name>gustavo-veiga</name>
+  </author>
+  <link href="https://github.com/gustavo-veiga/nim-allegro-5" />
+  <id>urn:rprimus:github:gustavo-veiga:nim-allegro-5</id>
+  <published>2021-08-13T00:59:12Z</published>
+  <updated>2021-08-13T00:59:12Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>Ericarthurc: nim-meta-parser</title>
+  <title>c1m5j: ether</title>
+  <author>
+   <name>c1m5j</name>
+  </author>
+  <link href="https://github.com/c1m5j/ether" />
+  <id>urn:rprimus:github:c1m5j:ether</id>
+  <published>2021-08-12T21:14:05Z</published>
+  <updated>2021-08-12T21:14:05Z</updated>
+  <content type="html">
+   A Serve-esque static file-serving command line utility.
+  </content>
+ </entry>
+ <entry>
+  <title>Ericarthurc: nim-jester-tests</title>
   <author>
    <name>Ericarthurc</name>
   </author>
-  <link href="https://github.com/Ericarthurc/nim-meta-parser" />
-  <id>urn:rprimus:github:Ericarthurc:nim-meta-parser</id>
-  <published>2021-08-11T04:49:33Z</published>
-  <updated>2021-08-11T04:49:33Z</updated>
+  <link href="https://github.com/Ericarthurc/nim-jester-tests" />
+  <id>urn:rprimus:github:Ericarthurc:nim-jester-tests</id>
+  <published>2021-08-12T19:22:09Z</published>
+  <updated>2021-08-12T19:22:09Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>Ericarthurc: nim-backend-tests</title>
+  <title>hendrikgit: bicuuid</title>
   <author>
-   <name>Ericarthurc</name>
+   <name>hendrikgit</name>
   </author>
-  <link href="https://github.com/Ericarthurc/nim-backend-tests" />
-  <id>urn:rprimus:github:Ericarthurc:nim-backend-tests</id>
-  <published>2021-08-10T23:33:53Z</published>
-  <updated>2021-08-10T23:33:53Z</updated>
+  <link href="https://github.com/hendrikgit/bicuuid" />
+  <id>urn:rprimus:github:hendrikgit:bicuuid</id>
+  <published>2021-08-12T18:33:57Z</published>
+  <updated>2021-08-12T18:33:57Z</updated>
+  <content type="html">
+   Show or add uuid to NWN character bic files
+  </content>
+ </entry>
+ <entry>
+  <title>enthus1ast: biochemLinkPage</title>
+  <author>
+   <name>enthus1ast</name>
+  </author>
+  <link href="https://github.com/enthus1ast/biochemLinkPage" />
+  <id>urn:rprimus:github:enthus1ast:biochemLinkPage</id>
+  <published>2021-08-12T16:15:03Z</published>
+  <updated>2021-08-12T16:15:03Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>Iapetus-11: Kermit</title>
+  <title>jhgalino: CS-21-MP-MVP</title>
   <author>
-   <name>Iapetus-11</name>
+   <name>jhgalino</name>
   </author>
-  <link href="https://github.com/Iapetus-11/Kermit" />
-  <id>urn:rprimus:github:Iapetus-11:Kermit</id>
-  <published>2021-08-10T04:32:47Z</published>
-  <updated>2021-08-10T04:32:47Z</updated>
-  <content type="html">
-   The repository for Kermit Bot, a Discord bot written in Nim using Discord interactions / slash commands
-  </content>
- </entry>
- <entry>
-  <title>yourfriendoss: niMPP</title>
-  <author>
-   <name>yourfriendoss</name>
-  </author>
-  <link href="https://github.com/yourfriendoss/niMPP" />
-  <id>urn:rprimus:github:yourfriendoss:niMPP</id>
-  <published>2021-08-10T00:43:18Z</published>
-  <updated>2021-08-10T00:43:18Z</updated>
+  <link href="https://github.com/jhgalino/CS-21-MP-MVP" />
+  <id>urn:rprimus:github:jhgalino:CS-21-MP-MVP</id>
+  <published>2021-08-12T16:00:20Z</published>
+  <updated>2021-08-12T16:00:20Z</updated>
   <content type="html">
    
   </content>
