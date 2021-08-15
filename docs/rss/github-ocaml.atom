@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2021-08-14T00:27:25Z</updated>
+<updated>2021-08-15T11:04:16Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>g3rrit: elf_gen</title>
+  <author>
+   <name>g3rrit</name>
+  </author>
+  <link href="https://github.com/g3rrit/elf_gen" />
+  <id>urn:rprimus:github:g3rrit:elf_gen</id>
+  <published>2021-08-15T11:04:16Z</published>
+  <updated>2021-08-15T11:04:16Z</updated>
+  <content type="html">
+   Toy repo for creating ELF files with ocaml
+  </content>
+ </entry>
+ <entry>
+  <title>linoscope: CAMLBOY</title>
+  <author>
+   <name>linoscope</name>
+  </author>
+  <link href="https://github.com/linoscope/CAMLBOY" />
+  <id>urn:rprimus:github:linoscope:CAMLBOY</id>
+  <published>2021-08-15T07:55:54Z</published>
+  <updated>2021-08-15T07:55:54Z</updated>
+  <content type="html">
+   A Game Boy emulator written in OCaml
+  </content>
+ </entry>
+ <entry>
+  <title>ewag560: cmsc330spring21</title>
+  <author>
+   <name>ewag560</name>
+  </author>
+  <link href="https://github.com/ewag560/cmsc330spring21" />
+  <id>urn:rprimus:github:ewag560:cmsc330spring21</id>
+  <published>2021-08-14T16:45:40Z</published>
+  <updated>2021-08-14T16:45:40Z</updated>
+  <content type="html">
+   Projects from CMSC330: Organization of programming languages
+  </content>
+ </entry>
+ <entry>
+  <title>eudoxia0: parsing-menhir</title>
+  <author>
+   <name>eudoxia0</name>
+  </author>
+  <link href="https://github.com/eudoxia0/parsing-menhir" />
+  <id>urn:rprimus:github:eudoxia0:parsing-menhir</id>
+  <published>2021-08-14T07:49:53Z</published>
+  <updated>2021-08-14T07:49:53Z</updated>
+  <content type="html">
+   Code for a tutorial on parsing with Menhir
+  </content>
+ </entry>
+ <entry>
+  <title>xavierdpt: coq</title>
+  <author>
+   <name>xavierdpt</name>
+  </author>
+  <link href="https://github.com/xavierdpt/coq" />
+  <id>urn:rprimus:github:xavierdpt:coq</id>
+  <published>2021-08-14T06:25:45Z</published>
+  <updated>2021-08-14T06:25:45Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>MatheusBBarni: first-ocaml-project</title>
   <author>
@@ -15,6 +80,19 @@
   <updated>2021-08-14T00:27:25Z</updated>
   <content type="html">
    
+  </content>
+ </entry>
+ <entry>
+  <title>hyphenrf: primes</title>
+  <author>
+   <name>hyphenrf</name>
+  </author>
+  <link href="https://github.com/hyphenrf/primes" />
+  <id>urn:rprimus:github:hyphenrf:primes</id>
+  <published>2021-08-13T22:42:15Z</published>
+  <updated>2021-08-13T22:42:15Z</updated>
+  <content type="html">
+   A submission for the Software Drag Race (PlummersSoftwareLLC/Primes)
   </content>
  </entry>
  <entry>
@@ -67,84 +145,6 @@
   <updated>2021-08-13T16:19:56Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>stklimiter: cryptography</title>
-  <author>
-   <name>stklimiter</name>
-  </author>
-  <link href="https://github.com/stklimiter/cryptography" />
-  <id>urn:rprimus:github:stklimiter:cryptography</id>
-  <published>2021-08-12T20:01:31Z</published>
-  <updated>2021-08-12T20:01:31Z</updated>
-  <content type="html">
-   Using cryptography algorithms to learn practice languages
-  </content>
- </entry>
- <entry>
-  <title>AestheticIntegration: ppx_deriving_hash</title>
-  <author>
-   <name>AestheticIntegration</name>
-  </author>
-  <link href="https://github.com/AestheticIntegration/ppx_deriving_hash" />
-  <id>urn:rprimus:github:AestheticIntegration:ppx_deriving_hash</id>
-  <published>2021-08-12T18:32:51Z</published>
-  <updated>2021-08-12T18:32:51Z</updated>
-  <content type="html">
-   ppx deriving for hash functions, with a runtime library parametric on the hash function
-  </content>
- </entry>
- <entry>
-  <title>cosmo-ray: kara-tools</title>
-  <author>
-   <name>cosmo-ray</name>
-  </author>
-  <link href="https://github.com/cosmo-ray/kara-tools" />
-  <id>urn:rprimus:github:cosmo-ray:kara-tools</id>
-  <published>2021-08-12T13:34:43Z</published>
-  <updated>2021-08-12T13:34:43Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>hellojukay: proxy.ml</title>
-  <author>
-   <name>hellojukay</name>
-  </author>
-  <link href="https://github.com/hellojukay/proxy.ml" />
-  <id>urn:rprimus:github:hellojukay:proxy.ml</id>
-  <published>2021-08-12T11:21:58Z</published>
-  <updated>2021-08-12T11:21:58Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ose20: intro_to_msp</title>
-  <author>
-   <name>ose20</name>
-  </author>
-  <link href="https://github.com/ose20/intro_to_msp" />
-  <id>urn:rprimus:github:ose20:intro_to_msp</id>
-  <published>2021-08-12T09:57:14Z</published>
-  <updated>2021-08-12T09:57:14Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Ezequiel-Menneck: hello-ocaml</title>
-  <author>
-   <name>Ezequiel-Menneck</name>
-  </author>
-  <link href="https://github.com/Ezequiel-Menneck/hello-ocaml" />
-  <id>urn:rprimus:github:Ezequiel-Menneck:hello-ocaml</id>
-  <published>2021-08-12T00:45:09Z</published>
-  <updated>2021-08-12T00:45:09Z</updated>
-  <content type="html">
-   First hello world in OCaml
   </content>
  </entry>
 </feed>
