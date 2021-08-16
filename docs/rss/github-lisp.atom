@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-08-15T15:33:19Z</updated>
+<updated>2021-08-16T05:37:07Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>teu5us: cl-wordreference</title>
+  <author>
+   <name>teu5us</name>
+  </author>
+  <link href="https://github.com/teu5us/cl-wordreference" />
+  <id>urn:rprimus:github:teu5us:cl-wordreference</id>
+  <published>2021-08-16T05:37:07Z</published>
+  <updated>2021-08-16T05:37:07Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>davidsun0: jclass</title>
+  <author>
+   <name>davidsun0</name>
+  </author>
+  <link href="https://github.com/davidsun0/jclass" />
+  <id>urn:rprimus:github:davidsun0:jclass</id>
+  <published>2021-08-16T03:36:37Z</published>
+  <updated>2021-08-16T03:36:37Z</updated>
+  <content type="html">
+   Common Lisp library for Java class file manipulation
+  </content>
+ </entry>
+ <entry>
+  <title>walpurgisnatch: walpurgisblog</title>
+  <author>
+   <name>walpurgisnatch</name>
+  </author>
+  <link href="https://github.com/walpurgisnatch/walpurgisblog" />
+  <id>urn:rprimus:github:walpurgisnatch:walpurgisblog</id>
+  <published>2021-08-16T00:12:29Z</published>
+  <updated>2021-08-16T00:12:29Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>thomashoullier: simplex-circumsphere</title>
+  <author>
+   <name>thomashoullier</name>
+  </author>
+  <link href="https://github.com/thomashoullier/simplex-circumsphere" />
+  <id>urn:rprimus:github:thomashoullier:simplex-circumsphere</id>
+  <published>2021-08-15T17:16:54Z</published>
+  <updated>2021-08-15T17:16:54Z</updated>
+  <content type="html">
+   n-simplex circumsphere computation
+  </content>
+ </entry>
  <entry>
   <title>daoist1037: AutoLisp-for-PCSMAS</title>
   <author>
@@ -93,97 +145,6 @@
   <updated>2021-08-14T05:41:58Z</updated>
   <content type="html">
    exercise codes of lisp. mainly common lisp
-  </content>
- </entry>
- <entry>
-  <title>Aeromus: LearningLisp</title>
-  <author>
-   <name>Aeromus</name>
-  </author>
-  <link href="https://github.com/Aeromus/LearningLisp" />
-  <id>urn:rprimus:github:Aeromus:LearningLisp</id>
-  <published>2021-08-13T20:27:16Z</published>
-  <updated>2021-08-13T20:27:16Z</updated>
-  <content type="html">
-   Attempting to understand Lisp
-  </content>
- </entry>
- <entry>
-  <title>Shinmera: cl-modio</title>
-  <author>
-   <name>Shinmera</name>
-  </author>
-  <link href="https://github.com/Shinmera/cl-modio" />
-  <id>urn:rprimus:github:Shinmera:cl-modio</id>
-  <published>2021-08-13T19:59:49Z</published>
-  <updated>2021-08-13T19:59:49Z</updated>
-  <content type="html">
-   Client library for the mod.io modding database API.
-  </content>
- </entry>
- <entry>
-  <title>yoshio99: CS161</title>
-  <author>
-   <name>yoshio99</name>
-  </author>
-  <link href="https://github.com/yoshio99/CS161" />
-  <id>urn:rprimus:github:yoshio99:CS161</id>
-  <published>2021-08-13T18:02:16Z</published>
-  <updated>2021-08-13T18:02:16Z</updated>
-  <content type="html">
-   Fundamentals of Artificial Intelligence
-  </content>
- </entry>
- <entry>
-  <title>yahooshiken: lisp-playground</title>
-  <author>
-   <name>yahooshiken</name>
-  </author>
-  <link href="https://github.com/yahooshiken/lisp-playground" />
-  <id>urn:rprimus:github:yahooshiken:lisp-playground</id>
-  <published>2021-08-13T17:29:40Z</published>
-  <updated>2021-08-13T17:29:40Z</updated>
-  <content type="html">
-   A personal playground for learning common lisp
-  </content>
- </entry>
- <entry>
-  <title>schmalz: robbie-robot</title>
-  <author>
-   <name>schmalz</name>
-  </author>
-  <link href="https://github.com/schmalz/robbie-robot" />
-  <id>urn:rprimus:github:schmalz:robbie-robot</id>
-  <published>2021-08-13T14:13:24Z</published>
-  <updated>2021-08-13T14:13:24Z</updated>
-  <content type="html">
-   In which I code along with the Keyboard Exercise from Chapter 6 of Common Lisp: A Gentle Introduction to Symbolic Computing by David Touretzky.
-  </content>
- </entry>
- <entry>
-  <title>Jaso-N7: bday</title>
-  <author>
-   <name>Jaso-N7</name>
-  </author>
-  <link href="https://github.com/Jaso-N7/bday" />
-  <id>urn:rprimus:github:Jaso-N7:bday</id>
-  <published>2021-08-13T03:05:23Z</published>
-  <updated>2021-08-13T03:05:23Z</updated>
-  <content type="html">
-   Birthday Greetings and Property-Based Testing kata.
-  </content>
- </entry>
- <entry>
-  <title>jcguu95: curfew.lisp</title>
-  <author>
-   <name>jcguu95</name>
-  </author>
-  <link href="https://github.com/jcguu95/curfew.lisp" />
-  <id>urn:rprimus:github:jcguu95:curfew.lisp</id>
-  <published>2021-08-13T00:55:36Z</published>
-  <updated>2021-08-13T00:55:36Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
