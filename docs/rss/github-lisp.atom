@@ -2,8 +2,125 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-08-20T04:13:27Z</updated>
+<updated>2021-08-21T01:00:59Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>sebasmonia: nordlocations</title>
+  <author>
+   <name>sebasmonia</name>
+  </author>
+  <link href="https://github.com/sebasmonia/nordlocations" />
+  <id>urn:rprimus:github:sebasmonia:nordlocations</id>
+  <published>2021-08-21T01:00:59Z</published>
+  <updated>2021-08-21T01:00:59Z</updated>
+  <content type="html">
+   Map NordVPN names to locations 
+  </content>
+ </entry>
+ <entry>
+  <title>dnaeon: clingon</title>
+  <author>
+   <name>dnaeon</name>
+  </author>
+  <link href="https://github.com/dnaeon/clingon" />
+  <id>urn:rprimus:github:dnaeon:clingon</id>
+  <published>2021-08-20T23:14:13Z</published>
+  <updated>2021-08-20T23:14:13Z</updated>
+  <content type="html">
+   Command-line options parser system for Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>alessiostalla: tech-blog-src</title>
+  <author>
+   <name>alessiostalla</name>
+  </author>
+  <link href="https://github.com/alessiostalla/tech-blog-src" />
+  <id>urn:rprimus:github:alessiostalla:tech-blog-src</id>
+  <published>2021-08-20T19:41:27Z</published>
+  <updated>2021-08-20T19:41:27Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>tslight: stumpwm</title>
+  <author>
+   <name>tslight</name>
+  </author>
+  <link href="https://github.com/tslight/stumpwm" />
+  <id>urn:rprimus:github:tslight:stumpwm</id>
+  <published>2021-08-20T17:23:14Z</published>
+  <updated>2021-08-20T17:23:14Z</updated>
+  <content type="html">
+   StumpWM Config
+  </content>
+ </entry>
+ <entry>
+  <title>SleepyCatgirl: lisp-random</title>
+  <author>
+   <name>SleepyCatgirl</name>
+  </author>
+  <link href="https://github.com/SleepyCatgirl/lisp-random" />
+  <id>urn:rprimus:github:SleepyCatgirl:lisp-random</id>
+  <published>2021-08-20T14:50:53Z</published>
+  <updated>2021-08-20T14:50:53Z</updated>
+  <content type="html">
+   Random LISP files. Mostly a backup.
+  </content>
+ </entry>
+ <entry>
+  <title>isweibin: DOTFILES</title>
+  <author>
+   <name>isweibin</name>
+  </author>
+  <link href="https://github.com/isweibin/DOTFILES" />
+  <id>urn:rprimus:github:isweibin:DOTFILES</id>
+  <published>2021-08-20T14:44:59Z</published>
+  <updated>2021-08-20T14:44:59Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Roundsan: triplets-pythagoriciens-en-lisp</title>
+  <author>
+   <name>Roundsan</name>
+  </author>
+  <link href="https://github.com/Roundsan/triplets-pythagoriciens-en-lisp" />
+  <id>urn:rprimus:github:Roundsan:triplets-pythagoriciens-en-lisp</id>
+  <published>2021-08-20T14:42:02Z</published>
+  <updated>2021-08-20T14:42:02Z</updated>
+  <content type="html">
+   Renvoie des triplets pythagoriciens avec entiers naturels allant jusqu&#039;Ã  100
+  </content>
+ </entry>
+ <entry>
+  <title>walpurgisnatch: cphack</title>
+  <author>
+   <name>walpurgisnatch</name>
+  </author>
+  <link href="https://github.com/walpurgisnatch/cphack" />
+  <id>urn:rprimus:github:walpurgisnatch:cphack</id>
+  <published>2021-08-20T11:44:18Z</published>
+  <updated>2021-08-20T11:44:18Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>allissonrey: rot13-lisp</title>
+  <author>
+   <name>allissonrey</name>
+  </author>
+  <link href="https://github.com/allissonrey/rot13-lisp" />
+  <id>urn:rprimus:github:allissonrey:rot13-lisp</id>
+  <published>2021-08-20T10:05:46Z</published>
+  <updated>2021-08-20T10:05:46Z</updated>
+  <content type="html">
+   rot13 algorithm made in Common Lisp
+  </content>
+ </entry>
  <entry>
   <title>albuspiroglu: parsley</title>
   <author>
@@ -93,45 +210,6 @@
   <updated>2021-08-19T06:54:12Z</updated>
   <content type="html">
    Not Usable but working prolog)
-  </content>
- </entry>
- <entry>
-  <title>rbouar: genetic-algorithm</title>
-  <author>
-   <name>rbouar</name>
-  </author>
-  <link href="https://github.com/rbouar/genetic-algorithm" />
-  <id>urn:rprimus:github:rbouar:genetic-algorithm</id>
-  <published>2021-08-18T16:19:05Z</published>
-  <updated>2021-08-18T16:19:05Z</updated>
-  <content type="html">
-   Genetic algorithm framework written in Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>rvcervan: CS-141</title>
-  <author>
-   <name>rvcervan</name>
-  </author>
-  <link href="https://github.com/rvcervan/CS-141" />
-  <id>urn:rprimus:github:rvcervan:CS-141</id>
-  <published>2021-08-18T06:11:34Z</published>
-  <updated>2021-08-18T06:11:34Z</updated>
-  <content type="html">
-   A class in Concepts of Programming Languages.
-  </content>
- </entry>
- <entry>
-  <title>hikettei: cl-cram</title>
-  <author>
-   <name>hikettei</name>
-  </author>
-  <link href="https://github.com/hikettei/cl-cram" />
-  <id>urn:rprimus:github:hikettei:cl-cram</id>
-  <published>2021-08-18T02:44:06Z</published>
-  <updated>2021-08-18T02:44:06Z</updated>
-  <content type="html">
-   A simple, Progress Bar for Common Lisp
   </content>
  </entry>
 </feed>
