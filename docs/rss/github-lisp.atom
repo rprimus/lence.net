@@ -2,19 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-08-22T05:21:06Z</updated>
+<updated>2021-08-22T18:36:43Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
  <entry>
-  <title>rajasegar: cl-styvio</title>
+  <title>cl-fui: cl-xcb</title>
   <author>
-   <name>rajasegar</name>
+   <name>cl-fui</name>
   </author>
-  <link href="https://github.com/rajasegar/cl-styvio" />
-  <id>urn:rprimus:github:rajasegar:cl-styvio</id>
-  <published>2021-08-22T05:21:06Z</published>
-  <updated>2021-08-22T05:21:06Z</updated>
+  <link href="https://github.com/cl-fui/cl-xcb" />
+  <id>urn:rprimus:github:cl-fui:cl-xcb</id>
+  <published>2021-08-22T18:36:43Z</published>
+  <updated>2021-08-22T18:36:43Z</updated>
   <content type="html">
-   Styvio api demo in Common Lisp
+   A minimal set of CL bindings for XCB and FreeType - just enough for texty UIs. 
   </content>
  </entry>
  <entry>
@@ -41,149 +41,6 @@
   <updated>2021-08-21T01:00:59Z</updated>
   <content type="html">
    Map NordVPN names to locations 
-  </content>
- </entry>
- <entry>
-  <title>dnaeon: clingon</title>
-  <author>
-   <name>dnaeon</name>
-  </author>
-  <link href="https://github.com/dnaeon/clingon" />
-  <id>urn:rprimus:github:dnaeon:clingon</id>
-  <published>2021-08-20T23:14:13Z</published>
-  <updated>2021-08-20T23:14:13Z</updated>
-  <content type="html">
-   Command-line options parser system for Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>alessiostalla: tech-blog-src</title>
-  <author>
-   <name>alessiostalla</name>
-  </author>
-  <link href="https://github.com/alessiostalla/tech-blog-src" />
-  <id>urn:rprimus:github:alessiostalla:tech-blog-src</id>
-  <published>2021-08-20T19:41:27Z</published>
-  <updated>2021-08-20T19:41:27Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>tslight: stumpwm</title>
-  <author>
-   <name>tslight</name>
-  </author>
-  <link href="https://github.com/tslight/stumpwm" />
-  <id>urn:rprimus:github:tslight:stumpwm</id>
-  <published>2021-08-20T17:23:14Z</published>
-  <updated>2021-08-20T17:23:14Z</updated>
-  <content type="html">
-   StumpWM Config
-  </content>
- </entry>
- <entry>
-  <title>SleepyCatgirl: lisp-random</title>
-  <author>
-   <name>SleepyCatgirl</name>
-  </author>
-  <link href="https://github.com/SleepyCatgirl/lisp-random" />
-  <id>urn:rprimus:github:SleepyCatgirl:lisp-random</id>
-  <published>2021-08-20T14:50:53Z</published>
-  <updated>2021-08-20T14:50:53Z</updated>
-  <content type="html">
-   Random LISP files. Mostly a backup.
-  </content>
- </entry>
- <entry>
-  <title>isweibin: DOTFILES</title>
-  <author>
-   <name>isweibin</name>
-  </author>
-  <link href="https://github.com/isweibin/DOTFILES" />
-  <id>urn:rprimus:github:isweibin:DOTFILES</id>
-  <published>2021-08-20T14:44:59Z</published>
-  <updated>2021-08-20T14:44:59Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Roundsan: triplets-pythagoriciens-en-lisp</title>
-  <author>
-   <name>Roundsan</name>
-  </author>
-  <link href="https://github.com/Roundsan/triplets-pythagoriciens-en-lisp" />
-  <id>urn:rprimus:github:Roundsan:triplets-pythagoriciens-en-lisp</id>
-  <published>2021-08-20T14:42:02Z</published>
-  <updated>2021-08-20T14:42:02Z</updated>
-  <content type="html">
-   Renvoie des triplets pythagoriciens avec entiers naturels allant jusqu&#039;Ã  100
-  </content>
- </entry>
- <entry>
-  <title>walpurgisnatch: cphack</title>
-  <author>
-   <name>walpurgisnatch</name>
-  </author>
-  <link href="https://github.com/walpurgisnatch/cphack" />
-  <id>urn:rprimus:github:walpurgisnatch:cphack</id>
-  <published>2021-08-20T11:44:18Z</published>
-  <updated>2021-08-20T11:44:18Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>allissonrey: rot13-lisp</title>
-  <author>
-   <name>allissonrey</name>
-  </author>
-  <link href="https://github.com/allissonrey/rot13-lisp" />
-  <id>urn:rprimus:github:allissonrey:rot13-lisp</id>
-  <published>2021-08-20T10:05:46Z</published>
-  <updated>2021-08-20T10:05:46Z</updated>
-  <content type="html">
-   rot13 algorithm made in Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>hikettei: cl-termgraph</title>
-  <author>
-   <name>hikettei</name>
-  </author>
-  <link href="https://github.com/hikettei/cl-termgraph" />
-  <id>urn:rprimus:github:hikettei:cl-termgraph</id>
-  <published>2021-08-20T06:54:03Z</published>
-  <updated>2021-08-20T06:54:03Z</updated>
-  <content type="html">
-   ãã¹ãçµãã£ããåéããã
-  </content>
- </entry>
- <entry>
-  <title>albuspiroglu: parsley</title>
-  <author>
-   <name>albuspiroglu</name>
-  </author>
-  <link href="https://github.com/albuspiroglu/parsley" />
-  <id>urn:rprimus:github:albuspiroglu:parsley</id>
-  <published>2021-08-20T04:13:27Z</published>
-  <updated>2021-08-20T04:13:27Z</updated>
-  <content type="html">
-   mfiano&#039;s parsley, re-uploading the version from quicklisp repo
-  </content>
- </entry>
- <entry>
-  <title>marcus3santos: gf2d2l</title>
-  <author>
-   <name>marcus3santos</name>
-  </author>
-  <link href="https://github.com/marcus3santos/gf2d2l" />
-  <id>urn:rprimus:github:marcus3santos:gf2d2l</id>
-  <published>2021-08-20T01:11:14Z</published>
-  <updated>2021-08-20T01:11:14Z</updated>
-  <content type="html">
-   Converts Google Form quiz scores to D2L-uploadable quiz grades
   </content>
  </entry>
 </feed>

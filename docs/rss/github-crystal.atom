@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2021-08-22T10:31:52Z</updated>
+<updated>2021-08-23T00:08:48Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>jgaskins: rails_app_operator</title>
+  <author>
+   <name>jgaskins</name>
+  </author>
+  <link href="https://github.com/jgaskins/rails_app_operator" />
+  <id>urn:rprimus:github:jgaskins:rails_app_operator</id>
+  <published>2021-08-23T00:08:48Z</published>
+  <updated>2021-08-23T00:08:48Z</updated>
+  <content type="html">
+   Kubernetes Rails app operator, allowing simple day-1 Rails deployment to a Kubernetes cluster
+  </content>
+ </entry>
+ <entry>
+  <title>kitgxrl: ire</title>
+  <author>
+   <name>kitgxrl</name>
+  </author>
+  <link href="https://github.com/kitgxrl/ire" />
+  <id>urn:rprimus:github:kitgxrl:ire</id>
+  <published>2021-08-22T20:49:40Z</published>
+  <updated>2021-08-22T20:49:40Z</updated>
+  <content type="html">
+   Portage alternative made in crystal
+  </content>
+ </entry>
  <entry>
   <title>CodingItWrong: websocket-echo-kemal</title>
   <author>
@@ -40,7 +66,7 @@
   <published>2021-08-22T01:49:32Z</published>
   <updated>2021-08-22T01:49:32Z</updated>
   <content type="html">
-   Kong API wrapper for Crystal
+   [WIP] Kong API wrapper for Crystal
   </content>
  </entry>
  <entry>
@@ -54,71 +80,6 @@
   <updated>2021-08-21T01:03:27Z</updated>
   <content type="html">
    Implementation of Selenium Webdriver Protocol in Crystal
-  </content>
- </entry>
- <entry>
-  <title>chances: vg.cr</title>
-  <author>
-   <name>chances</name>
-  </author>
-  <link href="https://github.com/chances/vg.cr" />
-  <id>urn:rprimus:github:chances:vg.cr</id>
-  <published>2021-08-20T19:23:35Z</published>
-  <updated>2021-08-20T19:23:35Z</updated>
-  <content type="html">
-   2D vector graphics rendering library for Crystal
-  </content>
- </entry>
- <entry>
-  <title>srawrity: instrumental_cr</title>
-  <author>
-   <name>srawrity</name>
-  </author>
-  <link href="https://github.com/srawrity/instrumental_cr" />
-  <id>urn:rprimus:github:srawrity:instrumental_cr</id>
-  <published>2021-08-20T19:11:58Z</published>
-  <updated>2021-08-20T19:11:58Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>RonanzinDev: CrudUserApiCrystal</title>
-  <author>
-   <name>RonanzinDev</name>
-  </author>
-  <link href="https://github.com/RonanzinDev/CrudUserApiCrystal" />
-  <id>urn:rprimus:github:RonanzinDev:CrudUserApiCrystal</id>
-  <published>2021-08-20T06:18:04Z</published>
-  <updated>2021-08-20T06:18:04Z</updated>
-  <content type="html">
-   Simple api with crystal language, using the framework shivneri
-  </content>
- </entry>
- <entry>
-  <title>EliahKagan: msf</title>
-  <author>
-   <name>EliahKagan</name>
-  </author>
-  <link href="https://github.com/EliahKagan/msf" />
-  <id>urn:rprimus:github:EliahKagan:msf</id>
-  <published>2021-08-20T02:06:52Z</published>
-  <updated>2021-08-20T02:06:52Z</updated>
-  <content type="html">
-   minimum spanning forests
-  </content>
- </entry>
- <entry>
-  <title>EliahKagan: crystal-sketches</title>
-  <author>
-   <name>EliahKagan</name>
-  </author>
-  <link href="https://github.com/EliahKagan/crystal-sketches" />
-  <id>urn:rprimus:github:EliahKagan:crystal-sketches</id>
-  <published>2021-08-20T02:05:34Z</published>
-  <updated>2021-08-20T02:05:34Z</updated>
-  <content type="html">
-   some small Crystal programs
   </content>
  </entry>
 </feed>
