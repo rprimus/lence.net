@@ -2,19 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-erlang.atom"/>
 <id>urn:rprimus:github:newerlangrepos</id>
-<updated>2021-08-25T00:23:18Z</updated>
+<updated>2021-08-26T03:21:12Z</updated>
 <title type='text'>New GitHub Erlang Repos</title>
  <entry>
-  <title>nehald: ccore_api</title>
+  <title>CloudI: cloudi_service_send</title>
   <author>
-   <name>nehald</name>
+   <name>CloudI</name>
   </author>
-  <link href="https://github.com/nehald/ccore_api" />
-  <id>urn:rprimus:github:nehald:ccore_api</id>
-  <published>2021-08-25T00:23:18Z</published>
-  <updated>2021-08-25T00:23:18Z</updated>
+  <link href="https://github.com/CloudI/cloudi_service_send" />
+  <id>urn:rprimus:github:CloudI:cloudi_service_send</id>
+  <published>2021-08-26T03:21:12Z</published>
+  <updated>2021-08-26T03:21:12Z</updated>
+  <content type="html">
+   Service Request Send CloudI Service
+  </content>
+ </entry>
+ <entry>
+  <title>cocoa-xu: OSH</title>
+  <author>
+   <name>cocoa-xu</name>
+  </author>
+  <link href="https://github.com/cocoa-xu/OSH" />
+  <id>urn:rprimus:github:cocoa-xu:OSH</id>
+  <published>2021-08-25T11:39:31Z</published>
+  <updated>2021-08-25T11:39:31Z</updated>
+  <content type="html">
+   Learn OSH and Erlang at the same time.
+  </content>
+ </entry>
+ <entry>
+  <title>ngoclinhng: termcolor</title>
+  <author>
+   <name>ngoclinhng</name>
+  </author>
+  <link href="https://github.com/ngoclinhng/termcolor" />
+  <id>urn:rprimus:github:ngoclinhng:termcolor</id>
+  <published>2021-08-25T10:06:06Z</published>
+  <updated>2021-08-25T10:06:06Z</updated>
   <content type="html">
    
+  </content>
+ </entry>
+ <entry>
+  <title>onex-hassnain: erlang_101</title>
+  <author>
+   <name>onex-hassnain</name>
+  </author>
+  <link href="https://github.com/onex-hassnain/erlang_101" />
+  <id>urn:rprimus:github:onex-hassnain:erlang_101</id>
+  <published>2021-08-25T04:14:58Z</published>
+  <updated>2021-08-25T04:14:58Z</updated>
+  <content type="html">
+   Tutorial hub to start with erlang. Books, videos and Practice problems solved.
+  </content>
+ </entry>
+ <entry>
+  <title>SirWumpus: erlang-pl</title>
+  <author>
+   <name>SirWumpus</name>
+  </author>
+  <link href="https://github.com/SirWumpus/erlang-pl" />
+  <id>urn:rprimus:github:SirWumpus:erlang-pl</id>
+  <published>2021-08-25T00:34:16Z</published>
+  <updated>2021-08-25T00:34:16Z</updated>
+  <content type="html">
+   Erlang proplists support functions.
   </content>
  </entry>
  <entry>
@@ -26,19 +78,6 @@
   <id>urn:rprimus:github:jupiterb:agentable-virus-spread</id>
   <published>2021-08-24T19:03:35Z</published>
   <updated>2021-08-24T19:03:35Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>timmyjose-study: erlang-tutorials-point</title>
-  <author>
-   <name>timmyjose-study</name>
-  </author>
-  <link href="https://github.com/timmyjose-study/erlang-tutorials-point" />
-  <id>urn:rprimus:github:timmyjose-study:erlang-tutorials-point</id>
-  <published>2021-08-24T09:53:27Z</published>
-  <updated>2021-08-24T09:53:27Z</updated>
   <content type="html">
    
   </content>
@@ -67,45 +106,6 @@
   <updated>2021-08-24T03:01:45Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>rustkas: Unicode.Explained</title>
-  <author>
-   <name>rustkas</name>
-  </author>
-  <link href="https://github.com/rustkas/Unicode.Explained" />
-  <id>urn:rprimus:github:rustkas:Unicode.Explained</id>
-  <published>2021-08-23T19:59:54Z</published>
-  <updated>2021-08-23T19:59:54Z</updated>
-  <content type="html">
-   rebar3 project based on ideas of the book OReilly Unicode Explained https://www.oreilly.com/library/view/unicode-explained/059610121X/
-  </content>
- </entry>
- <entry>
-  <title>jonifcup: Client-server</title>
-  <author>
-   <name>jonifcup</name>
-  </author>
-  <link href="https://github.com/jonifcup/Client-server" />
-  <id>urn:rprimus:github:jonifcup:Client-server</id>
-  <published>2021-08-23T17:05:39Z</published>
-  <updated>2021-08-23T17:05:39Z</updated>
-  <content type="html">
-   Library Database 
-  </content>
- </entry>
- <entry>
-  <title>SirWumpus: erlang-psql</title>
-  <author>
-   <name>SirWumpus</name>
-  </author>
-  <link href="https://github.com/SirWumpus/erlang-psql" />
-  <id>urn:rprimus:github:SirWumpus:erlang-psql</id>
-  <published>2021-08-23T14:01:05Z</published>
-  <updated>2021-08-23T14:01:05Z</updated>
-  <content type="html">
-   A basic psql(1) like CLI tool to pass SQL statements to a PostgreSQL database.
   </content>
  </entry>
 </feed>

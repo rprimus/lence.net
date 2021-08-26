@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2021-08-24T12:06:42Z</updated>
+<updated>2021-08-26T05:02:41Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>grkek: jemal</title>
+  <author>
+   <name>grkek</name>
+  </author>
+  <link href="https://github.com/grkek/jemal" />
+  <id>urn:rprimus:github:grkek:jemal</id>
+  <published>2021-08-26T05:02:41Z</published>
+  <updated>2021-08-26T05:02:41Z</updated>
+  <content type="html">
+   An example project with authorization for the Grip framework
+  </content>
+ </entry>
+ <entry>
+  <title>kandayo: toggle.cr</title>
+  <author>
+   <name>kandayo</name>
+  </author>
+  <link href="https://github.com/kandayo/toggle.cr" />
+  <id>urn:rprimus:github:kandayo:toggle.cr</id>
+  <published>2021-08-26T01:24:51Z</published>
+  <updated>2021-08-26T01:24:51Z</updated>
+  <content type="html">
+   Feature toggles for Crystal
+  </content>
+ </entry>
+ <entry>
+  <title>Green-Edge: canary</title>
+  <author>
+   <name>Green-Edge</name>
+  </author>
+  <link href="https://github.com/Green-Edge/canary" />
+  <id>urn:rprimus:github:Green-Edge:canary</id>
+  <published>2021-08-25T14:00:14Z</published>
+  <updated>2021-08-25T14:00:14Z</updated>
+  <content type="html">
+   Simple webserver which returns system statistics, to act as a &quot;canary in the coal mine&quot;.
+  </content>
+ </entry>
+ <entry>
+  <title>HuyNguyenAu: lox-lang-crystal</title>
+  <author>
+   <name>HuyNguyenAu</name>
+  </author>
+  <link href="https://github.com/HuyNguyenAu/lox-lang-crystal" />
+  <id>urn:rprimus:github:HuyNguyenAu:lox-lang-crystal</id>
+  <published>2021-08-25T12:43:51Z</published>
+  <updated>2021-08-25T12:43:51Z</updated>
+  <content type="html">
+   A simple programming language developed in Crystal lang.
+  </content>
+ </entry>
  <entry>
   <title>CodingItWrong: kemal_orm</title>
   <author>
@@ -67,32 +119,6 @@
   <updated>2021-08-24T01:17:12Z</updated>
   <content type="html">
    a server to serve files
-  </content>
- </entry>
- <entry>
-  <title>washu: webrtc_audio</title>
-  <author>
-   <name>washu</name>
-  </author>
-  <link href="https://github.com/washu/webrtc_audio" />
-  <id>urn:rprimus:github:washu:webrtc_audio</id>
-  <published>2021-08-23T13:40:35Z</published>
-  <updated>2021-08-23T13:40:35Z</updated>
-  <content type="html">
-   Crystal port of libvad
-  </content>
- </entry>
- <entry>
-  <title>jgaskins: rails_app_operator</title>
-  <author>
-   <name>jgaskins</name>
-  </author>
-  <link href="https://github.com/jgaskins/rails_app_operator" />
-  <id>urn:rprimus:github:jgaskins:rails_app_operator</id>
-  <published>2021-08-23T00:08:48Z</published>
-  <updated>2021-08-23T00:08:48Z</updated>
-  <content type="html">
-   Kubernetes Rails app operator, allowing simple day-1 Rails deployment to a Kubernetes cluster
   </content>
  </entry>
 </feed>
