@@ -2,8 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-racket.atom"/>
 <id>urn:rprimus:github:newracketrepos</id>
-<updated>2021-08-27T12:14:59Z</updated>
+<updated>2021-08-29T02:21:00Z</updated>
 <title type='text'>New GitHub Racket Repos</title>
+ <entry>
+  <title>harmonios: Sudoku-Solution-Check</title>
+  <author>
+   <name>harmonios</name>
+  </author>
+  <link href="https://github.com/harmonios/Sudoku-Solution-Check" />
+  <id>urn:rprimus:github:harmonios:Sudoku-Solution-Check</id>
+  <published>2021-08-29T02:21:00Z</published>
+  <updated>2021-08-29T02:21:00Z</updated>
+  <content type="html">
+   Program checks a grid and deems it if it is a solution or not, test cases inside.
+  </content>
+ </entry>
+ <entry>
+  <title>harmonios: Minimum-Coinage</title>
+  <author>
+   <name>harmonios</name>
+  </author>
+  <link href="https://github.com/harmonios/Minimum-Coinage" />
+  <id>urn:rprimus:github:harmonios:Minimum-Coinage</id>
+  <published>2021-08-29T02:12:17Z</published>
+  <updated>2021-08-29T02:12:17Z</updated>
+  <content type="html">
+   Using Dynamic Programming, finds the minimum coinage. Test Cases inside
+  </content>
+ </entry>
+ <entry>
+  <title>fmqa: goodreads-scraper</title>
+  <author>
+   <name>fmqa</name>
+  </author>
+  <link href="https://github.com/fmqa/goodreads-scraper" />
+  <id>urn:rprimus:github:fmqa:goodreads-scraper</id>
+  <published>2021-08-28T20:55:48Z</published>
+  <updated>2021-08-28T20:55:48Z</updated>
+  <content type="html">
+   LISP (Racket) flavored toolbox for scraping from goodreads
+  </content>
+ </entry>
+ <entry>
+  <title>blackerby: htdp2-solutions</title>
+  <author>
+   <name>blackerby</name>
+  </author>
+  <link href="https://github.com/blackerby/htdp2-solutions" />
+  <id>urn:rprimus:github:blackerby:htdp2-solutions</id>
+  <published>2021-08-28T18:37:08Z</published>
+  <updated>2021-08-28T18:37:08Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Brunettow: automatic-differentiation-project</title>
+  <author>
+   <name>Brunettow</name>
+  </author>
+  <link href="https://github.com/Brunettow/automatic-differentiation-project" />
+  <id>urn:rprimus:github:Brunettow:automatic-differentiation-project</id>
+  <published>2021-08-28T18:02:29Z</published>
+  <updated>2021-08-28T18:02:29Z</updated>
+  <content type="html">
+   First Scheme project
+  </content>
+ </entry>
+ <entry>
+  <title>KyleRego: sicp_solutions</title>
+  <author>
+   <name>KyleRego</name>
+  </author>
+  <link href="https://github.com/KyleRego/sicp_solutions" />
+  <id>urn:rprimus:github:KyleRego:sicp_solutions</id>
+  <published>2021-08-28T14:09:05Z</published>
+  <updated>2021-08-28T14:09:05Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>shiibaryu: racket-based-PL</title>
+  <author>
+   <name>shiibaryu</name>
+  </author>
+  <link href="https://github.com/shiibaryu/racket-based-PL" />
+  <id>urn:rprimus:github:shiibaryu:racket-based-PL</id>
+  <published>2021-08-28T11:45:53Z</published>
+  <updated>2021-08-28T11:45:53Z</updated>
+  <content type="html">
+   wip
+  </content>
+ </entry>
  <entry>
   <title>Frogulis: poker</title>
   <author>
@@ -15,71 +106,6 @@
   <updated>2021-08-27T12:14:59Z</updated>
   <content type="html">
    pokemans markov chain + simple website
-  </content>
- </entry>
- <entry>
-  <title>chiahaohsutai: projects</title>
-  <author>
-   <name>chiahaohsutai</name>
-  </author>
-  <link href="https://github.com/chiahaohsutai/projects" />
-  <id>urn:rprimus:github:chiahaohsutai:projects</id>
-  <published>2021-08-26T22:22:49Z</published>
-  <updated>2021-08-26T22:22:49Z</updated>
-  <content type="html">
-   Portfolio Projects
-  </content>
- </entry>
- <entry>
-  <title>pepe454: sicp</title>
-  <author>
-   <name>pepe454</name>
-  </author>
-  <link href="https://github.com/pepe454/sicp" />
-  <id>urn:rprimus:github:pepe454:sicp</id>
-  <published>2021-08-26T18:32:36Z</published>
-  <updated>2021-08-26T18:32:36Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>theConscience: sicp</title>
-  <author>
-   <name>theConscience</name>
-  </author>
-  <link href="https://github.com/theConscience/sicp" />
-  <id>urn:rprimus:github:theConscience:sicp</id>
-  <published>2021-08-26T11:21:44Z</published>
-  <updated>2021-08-26T11:21:44Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Dianht: Analyseur-Grammatical-p8</title>
-  <author>
-   <name>Dianht</name>
-  </author>
-  <link href="https://github.com/Dianht/Analyseur-Grammatical-p8" />
-  <id>urn:rprimus:github:Dianht:Analyseur-Grammatical-p8</id>
-  <published>2021-08-26T10:40:57Z</published>
-  <updated>2021-08-26T10:40:57Z</updated>
-  <content type="html">
-   Un analyseur grammatical rÃ©alisÃ© durant ma L1  (Premier Projet en Racket)
-  </content>
- </entry>
- <entry>
-  <title>sharmavins23: Stacker</title>
-  <author>
-   <name>sharmavins23</name>
-  </author>
-  <link href="https://github.com/sharmavins23/Stacker" />
-  <id>urn:rprimus:github:sharmavins23:Stacker</id>
-  <published>2021-08-26T02:12:29Z</published>
-  <updated>2021-08-26T02:12:29Z</updated>
-  <content type="html">
-   A racket compiler for postfix calculation.
   </content>
  </entry>
 </feed>
