@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2021-08-29T17:03:55Z</updated>
+<updated>2021-08-29T21:32:52Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>TyOverby: parser-docker</title>
+  <author>
+   <name>TyOverby</name>
+  </author>
+  <link href="https://github.com/TyOverby/parser-docker" />
+  <id>urn:rprimus:github:TyOverby:parser-docker</id>
+  <published>2021-08-29T21:32:52Z</published>
+  <updated>2021-08-29T21:32:52Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>tomjridge: kv_log_mmap</title>
   <author>
@@ -132,45 +145,6 @@
   <updated>2021-08-28T04:11:46Z</updated>
   <content type="html">
    ppx deriver to support parsing environment variables into fields of a record type
-  </content>
- </entry>
- <entry>
-  <title>rawhat: spengbab</title>
-  <author>
-   <name>rawhat</name>
-  </author>
-  <link href="https://github.com/rawhat/spengbab" />
-  <id>urn:rprimus:github:rawhat:spengbab</id>
-  <published>2021-08-27T21:44:51Z</published>
-  <updated>2021-08-27T21:44:51Z</updated>
-  <content type="html">
-   yOU donT nEed a rEpO FoR ThIS
-  </content>
- </entry>
- <entry>
-  <title>bynect: constraint-inference</title>
-  <author>
-   <name>bynect</name>
-  </author>
-  <link href="https://github.com/bynect/constraint-inference" />
-  <id>urn:rprimus:github:bynect:constraint-inference</id>
-  <published>2021-08-27T14:41:11Z</published>
-  <updated>2021-08-27T14:41:11Z</updated>
-  <content type="html">
-   OCaml implementation of a constraint-based bottom-up type inference algorithm
-  </content>
- </entry>
- <entry>
-  <title>ocaml-multicore: parafuzz</title>
-  <author>
-   <name>ocaml-multicore</name>
-  </author>
-  <link href="https://github.com/ocaml-multicore/parafuzz" />
-  <id>urn:rprimus:github:ocaml-multicore:parafuzz</id>
-  <published>2021-08-27T07:36:46Z</published>
-  <updated>2021-08-27T07:36:46Z</updated>
-  <content type="html">
-   Property-based grey-box fuzzing for Multicore OCaml
   </content>
  </entry>
 </feed>

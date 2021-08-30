@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-haskell.atom"/>
 <id>urn:rprimus:github:newhaskellrepos</id>
-<updated>2021-08-29T17:59:14Z</updated>
+<updated>2021-08-30T04:26:10Z</updated>
 <title type='text'>New GitHub Haskell Repos</title>
+ <entry>
+  <title>miguel-nascimento: brainfuck-hs</title>
+  <author>
+   <name>miguel-nascimento</name>
+  </author>
+  <link href="https://github.com/miguel-nascimento/brainfuck-hs" />
+  <id>urn:rprimus:github:miguel-nascimento:brainfuck-hs</id>
+  <published>2021-08-30T04:26:10Z</published>
+  <updated>2021-08-30T04:26:10Z</updated>
+  <content type="html">
+   A brainfuck interpreter in Haskell. Rewrite of tsfuck
+  </content>
+ </entry>
+ <entry>
+  <title>andsus: haskell</title>
+  <author>
+   <name>andsus</name>
+  </author>
+  <link href="https://github.com/andsus/haskell" />
+  <id>urn:rprimus:github:andsus:haskell</id>
+  <published>2021-08-30T02:59:58Z</published>
+  <updated>2021-08-30T02:59:58Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>aaronallen8455: sum-totality</title>
+  <author>
+   <name>aaronallen8455</name>
+  </author>
+  <link href="https://github.com/aaronallen8455/sum-totality" />
+  <id>urn:rprimus:github:aaronallen8455:sum-totality</id>
+  <published>2021-08-30T02:10:38Z</published>
+  <updated>2021-08-30T02:10:38Z</updated>
+  <content type="html">
+   Totality checking for sum type producers in Haskell
+  </content>
+ </entry>
+ <entry>
+  <title>Javran: sxako</title>
+  <author>
+   <name>Javran</name>
+  </author>
+  <link href="https://github.com/Javran/sxako" />
+  <id>urn:rprimus:github:Javran:sxako</id>
+  <published>2021-08-29T23:39:16Z</published>
+  <updated>2021-08-29T23:39:16Z</updated>
+  <content type="html">
+   An implementation of standard Chess
+  </content>
+ </entry>
+ <entry>
+  <title>exclusive-and: Skirmish</title>
+  <author>
+   <name>exclusive-and</name>
+  </author>
+  <link href="https://github.com/exclusive-and/Skirmish" />
+  <id>urn:rprimus:github:exclusive-and:Skirmish</id>
+  <published>2021-08-29T19:41:30Z</published>
+  <updated>2021-08-29T19:41:30Z</updated>
+  <content type="html">
+   An alternate backend for the Clash compiler, with hardware logic optimizations
+  </content>
+ </entry>
  <entry>
   <title>jasonknoll: Haskell-Road-to-Logic</title>
   <author>
@@ -105,7 +170,7 @@
   <published>2021-08-29T15:31:01Z</published>
   <updated>2021-08-29T15:31:01Z</updated>
   <content type="html">
-   
+   Alt lang core/compiler
   </content>
  </entry>
  <entry>
@@ -182,6 +247,19 @@
   <id>urn:rprimus:github:pe200012:UNO</id>
   <published>2021-08-29T10:55:02Z</published>
   <updated>2021-08-29T10:55:02Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>juhp: fedora-repoquery</title>
+  <author>
+   <name>juhp</name>
+  </author>
+  <link href="https://github.com/juhp/fedora-repoquery" />
+  <id>urn:rprimus:github:juhp:fedora-repoquery</id>
+  <published>2021-08-29T09:49:00Z</published>
+  <updated>2021-08-29T09:49:00Z</updated>
   <content type="html">
    
   </content>
@@ -678,279 +756,6 @@
   <updated>2021-08-28T00:30:37Z</updated>
   <content type="html">
    Hacky Python-to-Haskell transpiler for a tiny subset of Python
-  </content>
- </entry>
- <entry>
-  <title>abyssability: home</title>
-  <author>
-   <name>abyssability</name>
-  </author>
-  <link href="https://github.com/abyssability/home" />
-  <id>urn:rprimus:github:abyssability:home</id>
-  <published>2021-08-27T23:56:02Z</published>
-  <updated>2021-08-27T23:56:02Z</updated>
-  <content type="html">
-   Home config files.
-  </content>
- </entry>
- <entry>
-  <title>gilpasternak35: t-t</title>
-  <author>
-   <name>gilpasternak35</name>
-  </author>
-  <link href="https://github.com/gilpasternak35/t-t" />
-  <id>urn:rprimus:github:gilpasternak35:t-t</id>
-  <published>2021-08-27T22:32:48Z</published>
-  <updated>2021-08-27T22:32:48Z</updated>
-  <content type="html">
-   A Coding Playground where I pick up new tools and technologies
-  </content>
- </entry>
- <entry>
-  <title>stoppie: haskell-learning</title>
-  <author>
-   <name>stoppie</name>
-  </author>
-  <link href="https://github.com/stoppie/haskell-learning" />
-  <id>urn:rprimus:github:stoppie:haskell-learning</id>
-  <published>2021-08-27T19:51:20Z</published>
-  <updated>2021-08-27T19:51:20Z</updated>
-  <content type="html">
-   Learning projects
-  </content>
- </entry>
- <entry>
-  <title>generot: hasdl</title>
-  <author>
-   <name>generot</name>
-  </author>
-  <link href="https://github.com/generot/hasdl" />
-  <id>urn:rprimus:github:generot:hasdl</id>
-  <published>2021-08-27T19:35:34Z</published>
-  <updated>2021-08-27T19:35:34Z</updated>
-  <content type="html">
-   A small Haskell binding for SDL.
-  </content>
- </entry>
- <entry>
-  <title>WhateverHappns: hai</title>
-  <author>
-   <name>WhateverHappns</name>
-  </author>
-  <link href="https://github.com/WhateverHappns/hai" />
-  <id>urn:rprimus:github:WhateverHappns:hai</id>
-  <published>2021-08-27T17:49:18Z</published>
-  <updated>2021-08-27T17:49:18Z</updated>
-  <content type="html">
-   Haskell Machine Learning
-  </content>
- </entry>
- <entry>
-  <title>Kaixi26: bfi</title>
-  <author>
-   <name>Kaixi26</name>
-  </author>
-  <link href="https://github.com/Kaixi26/bfi" />
-  <id>urn:rprimus:github:Kaixi26:bfi</id>
-  <published>2021-08-27T17:14:39Z</published>
-  <updated>2021-08-27T17:14:39Z</updated>
-  <content type="html">
-   Overly complex brainfuck interpreter in haskell
-  </content>
- </entry>
- <entry>
-  <title>risingBirdSong: wordplay</title>
-  <author>
-   <name>risingBirdSong</name>
-  </author>
-  <link href="https://github.com/risingBirdSong/wordplay" />
-  <id>urn:rprimus:github:risingBirdSong:wordplay</id>
-  <published>2021-08-27T16:34:30Z</published>
-  <updated>2021-08-27T16:34:30Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>tomssem: bulgwang</title>
-  <author>
-   <name>tomssem</name>
-  </author>
-  <link href="https://github.com/tomssem/bulgwang" />
-  <id>urn:rprimus:github:tomssem:bulgwang</id>
-  <published>2021-08-27T15:26:48Z</published>
-  <updated>2021-08-27T15:26:48Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>aezarebski: statistics-extra</title>
-  <author>
-   <name>aezarebski</name>
-  </author>
-  <link href="https://github.com/aezarebski/statistics-extra" />
-  <id>urn:rprimus:github:aezarebski:statistics-extra</id>
-  <published>2021-08-27T13:56:21Z</published>
-  <updated>2021-08-27T13:56:21Z</updated>
-  <content type="html">
-   additional distributions for the statistics package
-  </content>
- </entry>
- <entry>
-  <title>mmedhat1910: CPU-Cache-Haskell</title>
-  <author>
-   <name>mmedhat1910</name>
-  </author>
-  <link href="https://github.com/mmedhat1910/CPU-Cache-Haskell" />
-  <id>urn:rprimus:github:mmedhat1910:CPU-Cache-Haskell</id>
-  <published>2021-08-27T13:20:53Z</published>
-  <updated>2021-08-27T13:20:53Z</updated>
-  <content type="html">
-   CPU Cache simulation using functional programming in Haskell
-  </content>
- </entry>
- <entry>
-  <title>Ewada-Tsang: EDAF95-Basics-of-Functional-Programming</title>
-  <author>
-   <name>Ewada-Tsang</name>
-  </author>
-  <link href="https://github.com/Ewada-Tsang/EDAF95-Basics-of-Functional-Programming" />
-  <id>urn:rprimus:github:Ewada-Tsang:EDAF95-Basics-of-Functional-Programming</id>
-  <published>2021-08-27T12:41:47Z</published>
-  <updated>2021-08-27T12:41:47Z</updated>
-  <content type="html">
-   Basics of Functional Programming, Spring 2020 @ Lund University
-  </content>
- </entry>
- <entry>
-  <title>oisdk: monus-weighted-search</title>
-  <author>
-   <name>oisdk</name>
-  </author>
-  <link href="https://github.com/oisdk/monus-weighted-search" />
-  <id>urn:rprimus:github:oisdk:monus-weighted-search</id>
-  <published>2021-08-27T12:15:25Z</published>
-  <updated>2021-08-27T12:15:25Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Montmorency: ihp-create-action</title>
-  <author>
-   <name>Montmorency</name>
-  </author>
-  <link href="https://github.com/Montmorency/ihp-create-action" />
-  <id>urn:rprimus:github:Montmorency:ihp-create-action</id>
-  <published>2021-08-27T10:18:35Z</published>
-  <updated>2021-08-27T10:18:35Z</updated>
-  <content type="html">
-   (somewhat) minimal example for where create visit action pattern runs into HTTP verb problems. 
-  </content>
- </entry>
- <entry>
-  <title>uob-coms20007: practicals</title>
-  <author>
-   <name>uob-coms20007</name>
-  </author>
-  <link href="https://github.com/uob-coms20007/practicals" />
-  <id>urn:rprimus:github:uob-coms20007:practicals</id>
-  <published>2021-08-27T09:35:31Z</published>
-  <updated>2021-08-27T09:35:31Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>pmiddend: haskell-crystallography</title>
-  <author>
-   <name>pmiddend</name>
-  </author>
-  <link href="https://github.com/pmiddend/haskell-crystallography" />
-  <id>urn:rprimus:github:pmiddend:haskell-crystallography</id>
-  <published>2021-08-27T09:20:41Z</published>
-  <updated>2021-08-27T09:20:41Z</updated>
-  <content type="html">
-   Haskell code to parse common crystallographic file formats
-  </content>
- </entry>
- <entry>
-  <title>nobsun: wrapper</title>
-  <author>
-   <name>nobsun</name>
-  </author>
-  <link href="https://github.com/nobsun/wrapper" />
-  <id>urn:rprimus:github:nobsun:wrapper</id>
-  <published>2021-08-27T08:09:53Z</published>
-  <updated>2021-08-27T08:09:53Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>arpanetus: haskellrank</title>
-  <author>
-   <name>arpanetus</name>
-  </author>
-  <link href="https://github.com/arpanetus/haskellrank" />
-  <id>urn:rprimus:github:arpanetus:haskellrank</id>
-  <published>2021-08-27T08:04:56Z</published>
-  <updated>2021-08-27T08:04:56Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>roboguy13: eq-calc</title>
-  <author>
-   <name>roboguy13</name>
-  </author>
-  <link href="https://github.com/roboguy13/eq-calc" />
-  <id>urn:rprimus:github:roboguy13:eq-calc</id>
-  <published>2021-08-27T07:41:44Z</published>
-  <updated>2021-08-27T07:41:44Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>gdevanla: haskell-lox</title>
-  <author>
-   <name>gdevanla</name>
-  </author>
-  <link href="https://github.com/gdevanla/haskell-lox" />
-  <id>urn:rprimus:github:gdevanla:haskell-lox</id>
-  <published>2021-08-27T06:36:33Z</published>
-  <updated>2021-08-27T06:36:33Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>xcloudx12345: testwolf</title>
-  <author>
-   <name>xcloudx12345</name>
-  </author>
-  <link href="https://github.com/xcloudx12345/testwolf" />
-  <id>urn:rprimus:github:xcloudx12345:testwolf</id>
-  <published>2021-08-27T04:45:36Z</published>
-  <updated>2021-08-27T04:45:36Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>syouzan420: Equation1</title>
-  <author>
-   <name>syouzan420</name>
-  </author>
-  <link href="https://github.com/syouzan420/Equation1" />
-  <id>urn:rprimus:github:syouzan420:Equation1</id>
-  <published>2021-08-27T03:23:30Z</published>
-  <updated>2021-08-27T03:23:30Z</updated>
-  <content type="html">
-   Solve one dimensional equation
   </content>
  </entry>
 </feed>
