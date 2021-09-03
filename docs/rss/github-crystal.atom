@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2021-09-01T23:17:00Z</updated>
+<updated>2021-09-03T03:21:09Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>SleepingInsomniac: lx_chess_cr</title>
+  <author>
+   <name>SleepingInsomniac</name>
+  </author>
+  <link href="https://github.com/SleepingInsomniac/lx_chess_cr" />
+  <id>urn:rprimus:github:SleepingInsomniac:lx_chess_cr</id>
+  <published>2021-09-03T03:21:09Z</published>
+  <updated>2021-09-03T03:21:09Z</updated>
+  <content type="html">
+   Chess engine written in crystal
+  </content>
+ </entry>
+ <entry>
+  <title>HicaroD: EmotionRevealer</title>
+  <author>
+   <name>HicaroD</name>
+  </author>
+  <link href="https://github.com/HicaroD/EmotionRevealer" />
+  <id>urn:rprimus:github:HicaroD:EmotionRevealer</id>
+  <published>2021-09-02T13:06:59Z</published>
+  <updated>2021-09-02T13:06:59Z</updated>
+  <content type="html">
+   Revealing emotions/feelings through Tweets 
+  </content>
+ </entry>
+ <entry>
+  <title>krishpranav: sslscan</title>
+  <author>
+   <name>krishpranav</name>
+  </author>
+  <link href="https://github.com/krishpranav/sslscan" />
+  <id>urn:rprimus:github:krishpranav:sslscan</id>
+  <published>2021-09-02T11:30:47Z</published>
+  <updated>2021-09-02T11:30:47Z</updated>
+  <content type="html">
+   A SSL Scanner Written In Crystal-Lang
+  </content>
+ </entry>
  <entry>
   <title>russ: crystal-bigquery</title>
   <author>
@@ -15,6 +54,19 @@
   <updated>2021-09-01T23:17:00Z</updated>
   <content type="html">
    A Bigquery client for Crystal
+  </content>
+ </entry>
+ <entry>
+  <title>swertprotocol: secp256k1.cr</title>
+  <author>
+   <name>swertprotocol</name>
+  </author>
+  <link href="https://github.com/swertprotocol/secp256k1.cr" />
+  <id>urn:rprimus:github:swertprotocol:secp256k1.cr</id>
+  <published>2021-09-01T20:29:29Z</published>
+  <updated>2021-09-01T20:29:29Z</updated>
+  <content type="html">
+   A native library implementing secp256k1 purely for the crystal language. secp256k1 is the elliptic curve used in the public-private-key cryptography required by swert.
   </content>
  </entry>
  <entry>
@@ -41,32 +93,6 @@
   <updated>2021-09-01T12:05:11Z</updated>
   <content type="html">
    Simple machine learning algorithm for crystal lang.
-  </content>
- </entry>
- <entry>
-  <title>2secslater: gslash-server</title>
-  <author>
-   <name>2secslater</name>
-  </author>
-  <link href="https://github.com/2secslater/gslash-server" />
-  <id>urn:rprimus:github:2secslater:gslash-server</id>
-  <published>2021-08-31T20:34:10Z</published>
-  <updated>2021-08-31T20:34:10Z</updated>
-  <content type="html">
-   Server-side stuff for Geometry Slash
-  </content>
- </entry>
- <entry>
-  <title>skinnyjames: gherkin</title>
-  <author>
-   <name>skinnyjames</name>
-  </author>
-  <link href="https://github.com/skinnyjames/gherkin" />
-  <id>urn:rprimus:github:skinnyjames:gherkin</id>
-  <published>2021-08-31T10:58:57Z</published>
-  <updated>2021-08-31T10:58:57Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
