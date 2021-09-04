@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2021-09-03T03:21:09Z</updated>
+<updated>2021-09-03T19:56:35Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>watzon: crystal-algorithms</title>
+  <author>
+   <name>watzon</name>
+  </author>
+  <link href="https://github.com/watzon/crystal-algorithms" />
+  <id>urn:rprimus:github:watzon:crystal-algorithms</id>
+  <published>2021-09-03T19:56:35Z</published>
+  <updated>2021-09-03T19:56:35Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>spoved: granite-api.cr</title>
+  <author>
+   <name>spoved</name>
+  </author>
+  <link href="https://github.com/spoved/granite-api.cr" />
+  <id>urn:rprimus:github:spoved:granite-api.cr</id>
+  <published>2021-09-03T13:20:02Z</published>
+  <updated>2021-09-03T13:20:02Z</updated>
+  <content type="html">
+   A framework to generate open-api servers from granite models
+  </content>
+ </entry>
  <entry>
   <title>SleepingInsomniac: lx_chess_cr</title>
   <author>
@@ -41,58 +67,6 @@
   <updated>2021-09-02T11:30:47Z</updated>
   <content type="html">
    A SSL Scanner Written In Crystal-Lang
-  </content>
- </entry>
- <entry>
-  <title>russ: crystal-bigquery</title>
-  <author>
-   <name>russ</name>
-  </author>
-  <link href="https://github.com/russ/crystal-bigquery" />
-  <id>urn:rprimus:github:russ:crystal-bigquery</id>
-  <published>2021-09-01T23:17:00Z</published>
-  <updated>2021-09-01T23:17:00Z</updated>
-  <content type="html">
-   A Bigquery client for Crystal
-  </content>
- </entry>
- <entry>
-  <title>swertprotocol: secp256k1.cr</title>
-  <author>
-   <name>swertprotocol</name>
-  </author>
-  <link href="https://github.com/swertprotocol/secp256k1.cr" />
-  <id>urn:rprimus:github:swertprotocol:secp256k1.cr</id>
-  <published>2021-09-01T20:29:29Z</published>
-  <updated>2021-09-01T20:29:29Z</updated>
-  <content type="html">
-   A native library implementing secp256k1 purely for the crystal language. secp256k1 is the elliptic curve used in the public-private-key cryptography required by swert.
-  </content>
- </entry>
- <entry>
-  <title>nbrandaleone: crystal-helloworld</title>
-  <author>
-   <name>nbrandaleone</name>
-  </author>
-  <link href="https://github.com/nbrandaleone/crystal-helloworld" />
-  <id>urn:rprimus:github:nbrandaleone:crystal-helloworld</id>
-  <published>2021-09-01T18:02:38Z</published>
-  <updated>2021-09-01T18:02:38Z</updated>
-  <content type="html">
-   Simple Crystal web server.
-  </content>
- </entry>
- <entry>
-  <title>gundy818: maschine</title>
-  <author>
-   <name>gundy818</name>
-  </author>
-  <link href="https://github.com/gundy818/maschine" />
-  <id>urn:rprimus:github:gundy818:maschine</id>
-  <published>2021-09-01T12:05:11Z</published>
-  <updated>2021-09-01T12:05:11Z</updated>
-  <content type="html">
-   Simple machine learning algorithm for crystal lang.
   </content>
  </entry>
 </feed>
