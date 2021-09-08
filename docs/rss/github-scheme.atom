@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-scheme.atom"/>
 <id>urn:rprimus:github:newschemerepos</id>
-<updated>2021-09-07T03:04:16Z</updated>
+<updated>2021-09-07T20:17:17Z</updated>
 <title type='text'>New GitHub Scheme Repos</title>
+ <entry>
+  <title>WildMortimer: skeme</title>
+  <author>
+   <name>WildMortimer</name>
+  </author>
+  <link href="https://github.com/WildMortimer/skeme" />
+  <id>urn:rprimus:github:WildMortimer:skeme</id>
+  <published>2021-09-07T20:17:17Z</published>
+  <updated>2021-09-07T20:17:17Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Vallghall: SICP_tasks</title>
+  <author>
+   <name>Vallghall</name>
+  </author>
+  <link href="https://github.com/Vallghall/SICP_tasks" />
+  <id>urn:rprimus:github:Vallghall:SICP_tasks</id>
+  <published>2021-09-07T16:34:27Z</published>
+  <updated>2021-09-07T16:34:27Z</updated>
+  <content type="html">
+   My solutions to SICP exercises
+  </content>
+ </entry>
+ <entry>
+  <title>louisemthompson: meta</title>
+  <author>
+   <name>louisemthompson</name>
+  </author>
+  <link href="https://github.com/louisemthompson/meta" />
+  <id>urn:rprimus:github:louisemthompson:meta</id>
+  <published>2021-09-07T14:18:27Z</published>
+  <updated>2021-09-07T14:18:27Z</updated>
+  <content type="html">
+   Implementation of a subset of Lisp language, written in Scheme.
+  </content>
+ </entry>
+ <entry>
+  <title>absop: match</title>
+  <author>
+   <name>absop</name>
+  </author>
+  <link href="https://github.com/absop/match" />
+  <id>urn:rprimus:github:absop:match</id>
+  <published>2021-09-07T06:37:33Z</published>
+  <updated>2021-09-07T06:37:33Z</updated>
+  <content type="html">
+   A Pattern matching macro for (Chez Scheme) 
+  </content>
+ </entry>
  <entry>
   <title>kkau201: Quinzical</title>
   <author>
@@ -13,19 +65,6 @@
   <id>urn:rprimus:github:kkau201:Quinzical</id>
   <published>2021-09-07T03:04:16Z</published>
   <updated>2021-09-07T03:04:16Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>DawarAlvi: dotfiles</title>
-  <author>
-   <name>DawarAlvi</name>
-  </author>
-  <link href="https://github.com/DawarAlvi/dotfiles" />
-  <id>urn:rprimus:github:DawarAlvi:dotfiles</id>
-  <published>2021-09-06T19:28:52Z</published>
-  <updated>2021-09-06T19:28:52Z</updated>
   <content type="html">
    
   </content>
@@ -54,58 +93,6 @@
   <updated>2021-09-06T02:38:46Z</updated>
   <content type="html">
    Working through the wizard book!
-  </content>
- </entry>
- <entry>
-  <title>jinwoong1121: NVSQ-AR-21-0200</title>
-  <author>
-   <name>jinwoong1121</name>
-  </author>
-  <link href="https://github.com/jinwoong1121/NVSQ-AR-21-0200" />
-  <id>urn:rprimus:github:jinwoong1121:NVSQ-AR-21-0200</id>
-  <published>2021-09-05T16:26:17Z</published>
-  <updated>2021-09-05T16:26:17Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>benkard: json-template-typed-racket</title>
-  <author>
-   <name>benkard</name>
-  </author>
-  <link href="https://github.com/benkard/json-template-typed-racket" />
-  <id>urn:rprimus:github:benkard:json-template-typed-racket</id>
-  <published>2021-09-05T11:08:50Z</published>
-  <updated>2021-09-05T11:08:50Z</updated>
-  <content type="html">
-   JSON Template in Typed Racket.
-  </content>
- </entry>
- <entry>
-  <title>benkard: json-template-racket</title>
-  <author>
-   <name>benkard</name>
-  </author>
-  <link href="https://github.com/benkard/json-template-racket" />
-  <id>urn:rprimus:github:benkard:json-template-racket</id>
-  <published>2021-09-05T11:08:35Z</published>
-  <updated>2021-09-05T11:08:35Z</updated>
-  <content type="html">
-   JSON Template for Racket.
-  </content>
- </entry>
- <entry>
-  <title>benkard: json-template-r6rs</title>
-  <author>
-   <name>benkard</name>
-  </author>
-  <link href="https://github.com/benkard/json-template-r6rs" />
-  <id>urn:rprimus:github:benkard:json-template-r6rs</id>
-  <published>2021-09-05T11:03:42Z</published>
-  <updated>2021-09-05T11:03:42Z</updated>
-  <content type="html">
-   JSON Template in portable R6RS.
   </content>
  </entry>
 </feed>

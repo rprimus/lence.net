@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-09-07T00:14:28Z</updated>
+<updated>2021-09-08T03:09:32Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>orthzar: lisp-misc</title>
+  <author>
+   <name>orthzar</name>
+  </author>
+  <link href="https://github.com/orthzar/lisp-misc" />
+  <id>urn:rprimus:github:orthzar:lisp-misc</id>
+  <published>2021-09-08T03:09:32Z</published>
+  <updated>2021-09-08T03:09:32Z</updated>
+  <content type="html">
+   Miscelaneous Lisp Programs
+  </content>
+ </entry>
+ <entry>
+  <title>aloussase: resto</title>
+  <author>
+   <name>aloussase</name>
+  </author>
+  <link href="https://github.com/aloussase/resto" />
+  <id>urn:rprimus:github:aloussase:resto</id>
+  <published>2021-09-07T16:28:23Z</published>
+  <updated>2021-09-07T16:28:23Z</updated>
+  <content type="html">
+   todos app with backend written in common lisp
+  </content>
+ </entry>
  <entry>
   <title>XianhaiC: cl-nfare</title>
   <author>
@@ -44,12 +70,12 @@
   </content>
  </entry>
  <entry>
-  <title>borodust: lisp-scripting</title>
+  <title>boroactions: lisp-scripting</title>
   <author>
-   <name>borodust</name>
+   <name>boroactions</name>
   </author>
-  <link href="https://github.com/borodust/lisp-scripting" />
-  <id>urn:rprimus:github:borodust:lisp-scripting</id>
+  <link href="https://github.com/boroactions/lisp-scripting" />
+  <id>urn:rprimus:github:boroactions:lisp-scripting</id>
   <published>2021-09-06T18:51:35Z</published>
   <updated>2021-09-06T18:51:35Z</updated>
   <content type="html">
@@ -80,97 +106,6 @@
   <updated>2021-09-06T03:13:42Z</updated>
   <content type="html">
    More advanced synchronization abstractions built over SB-THREAD
-  </content>
- </entry>
- <entry>
-  <title>goose121: murakami-nasako</title>
-  <author>
-   <name>goose121</name>
-  </author>
-  <link href="https://github.com/goose121/murakami-nasako" />
-  <id>urn:rprimus:github:goose121:murakami-nasako</id>
-  <published>2021-09-05T21:40:55Z</published>
-  <updated>2021-09-05T21:40:55Z</updated>
-  <content type="html">
-   A Common Lisp implementation of Murakami and Nasako&#039;s knapsack-based cryptosystem
-  </content>
- </entry>
- <entry>
-  <title>benkard: mulkjournal</title>
-  <author>
-   <name>benkard</name>
-  </author>
-  <link href="https://github.com/benkard/mulkjournal" />
-  <id>urn:rprimus:github:benkard:mulkjournal</id>
-  <published>2021-09-05T11:11:25Z</published>
-  <updated>2021-09-05T11:11:25Z</updated>
-  <content type="html">
-   Blog engine as a CGI script. Supports MetaWeblog and AtomPub.
-  </content>
- </entry>
- <entry>
-  <title>benkard: toilet</title>
-  <author>
-   <name>benkard</name>
-  </author>
-  <link href="https://github.com/benkard/toilet" />
-  <id>urn:rprimus:github:benkard:toilet</id>
-  <published>2021-09-05T11:10:16Z</published>
-  <updated>2021-09-05T11:10:16Z</updated>
-  <content type="html">
-   An ANSI Common Lisp compiler using LLVM.
-  </content>
- </entry>
- <entry>
-  <title>benkard: cl-protocols</title>
-  <author>
-   <name>benkard</name>
-  </author>
-  <link href="https://github.com/benkard/cl-protocols" />
-  <id>urn:rprimus:github:benkard:cl-protocols</id>
-  <published>2021-09-05T11:09:47Z</published>
-  <updated>2021-09-05T11:09:47Z</updated>
-  <content type="html">
-   Protocols for the Common Lisp Object System.
-  </content>
- </entry>
- <entry>
-  <title>benkard: cl-mulkutils</title>
-  <author>
-   <name>benkard</name>
-  </author>
-  <link href="https://github.com/benkard/cl-mulkutils" />
-  <id>urn:rprimus:github:benkard:cl-mulkutils</id>
-  <published>2021-09-05T11:09:38Z</published>
-  <updated>2021-09-05T11:09:38Z</updated>
-  <content type="html">
-   Common Lisp utilities.
-  </content>
- </entry>
- <entry>
-  <title>benkard: cl-json-template</title>
-  <author>
-   <name>benkard</name>
-  </author>
-  <link href="https://github.com/benkard/cl-json-template" />
-  <id>urn:rprimus:github:benkard:cl-json-template</id>
-  <published>2021-09-05T11:09:26Z</published>
-  <updated>2021-09-05T11:09:26Z</updated>
-  <content type="html">
-   JSON Template in portable Common Lisp.
-  </content>
- </entry>
- <entry>
-  <title>rachelwaldon: capstone-project</title>
-  <author>
-   <name>rachelwaldon</name>
-  </author>
-  <link href="https://github.com/rachelwaldon/capstone-project" />
-  <id>urn:rprimus:github:rachelwaldon:capstone-project</id>
-  <published>2021-09-05T03:59:36Z</published>
-  <updated>2021-09-05T03:59:36Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
