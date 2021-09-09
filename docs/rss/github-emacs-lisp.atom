@@ -2,17 +2,82 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2021-09-08T00:50:09Z</updated>
+<updated>2021-09-09T04:11:48Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
  <entry>
-  <title>a-bbi: emacs.d1</title>
+  <title>stardiviner: org-contacts.el</title>
+  <author>
+   <name>stardiviner</name>
+  </author>
+  <link href="https://github.com/stardiviner/org-contacts.el" />
+  <id>urn:rprimus:github:stardiviner:org-contacts.el</id>
+  <published>2021-09-09T04:11:48Z</published>
+  <updated>2021-09-09T04:11:48Z</updated>
+  <content type="html">
+   The public repo of original org-mode/contrib/lisp/org-contacts.el
+  </content>
+ </entry>
+ <entry>
+  <title>amno1: quick-autoloads</title>
+  <author>
+   <name>amno1</name>
+  </author>
+  <link href="https://github.com/amno1/quick-autoloads" />
+  <id>urn:rprimus:github:amno1:quick-autoloads</id>
+  <published>2021-09-08T23:22:25Z</published>
+  <updated>2021-09-08T23:22:25Z</updated>
+  <content type="html">
+   Generate bare-bone autoload stubs for Emacs source code quickly.
+  </content>
+ </entry>
+ <entry>
+  <title>gabrieldavison: emacs_config</title>
+  <author>
+   <name>gabrieldavison</name>
+  </author>
+  <link href="https://github.com/gabrieldavison/emacs_config" />
+  <id>urn:rprimus:github:gabrieldavison:emacs_config</id>
+  <published>2021-09-08T19:07:17Z</published>
+  <updated>2021-09-08T19:07:17Z</updated>
+  <content type="html">
+   My emacs config for emacs prelude.
+  </content>
+ </entry>
+ <entry>
+  <title>ale-pi: Dotfiles</title>
+  <author>
+   <name>ale-pi</name>
+  </author>
+  <link href="https://github.com/ale-pi/Dotfiles" />
+  <id>urn:rprimus:github:ale-pi:Dotfiles</id>
+  <published>2021-09-08T16:05:03Z</published>
+  <updated>2021-09-08T16:05:03Z</updated>
+  <content type="html">
+   Dotfiles and playbooks to configure my PCs
+  </content>
+ </entry>
+ <entry>
+  <title>jrciii: dotfiles</title>
+  <author>
+   <name>jrciii</name>
+  </author>
+  <link href="https://github.com/jrciii/dotfiles" />
+  <id>urn:rprimus:github:jrciii:dotfiles</id>
+  <published>2021-09-08T15:47:32Z</published>
+  <updated>2021-09-08T15:47:32Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>a-bbi: .emacs.d</title>
   <author>
    <name>a-bbi</name>
   </author>
-  <link href="https://github.com/a-bbi/emacs.d1" />
-  <id>urn:rprimus:github:a-bbi:emacs.d1</id>
-  <published>2021-09-08T00:50:09Z</published>
-  <updated>2021-09-08T00:50:09Z</updated>
+  <link href="https://github.com/a-bbi/.emacs.d" />
+  <id>urn:rprimus:github:a-bbi:.emacs.d</id>
+  <published>2021-09-08T14:51:38Z</published>
+  <updated>2021-09-08T14:51:38Z</updated>
   <content type="html">
    
   </content>
@@ -67,19 +132,6 @@
   <updated>2021-09-07T20:17:59Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>ale-pi: dotfiles</title>
-  <author>
-   <name>ale-pi</name>
-  </author>
-  <link href="https://github.com/ale-pi/dotfiles" />
-  <id>urn:rprimus:github:ale-pi:dotfiles</id>
-  <published>2021-09-07T16:46:01Z</published>
-  <updated>2021-09-07T16:46:01Z</updated>
-  <content type="html">
-   Dotfiles repository
   </content>
  </entry>
  <entry>
@@ -158,175 +210,6 @@
   <updated>2021-09-07T02:06:20Z</updated>
   <content type="html">
    My personal emacs config file
-  </content>
- </entry>
- <entry>
-  <title>rafael84: dotfiles</title>
-  <author>
-   <name>rafael84</name>
-  </author>
-  <link href="https://github.com/rafael84/dotfiles" />
-  <id>urn:rprimus:github:rafael84:dotfiles</id>
-  <published>2021-09-06T20:57:27Z</published>
-  <updated>2021-09-06T20:57:27Z</updated>
-  <content type="html">
-   My configuration files
-  </content>
- </entry>
- <entry>
-  <title>VlachJosef: dotfiles</title>
-  <author>
-   <name>VlachJosef</name>
-  </author>
-  <link href="https://github.com/VlachJosef/dotfiles" />
-  <id>urn:rprimus:github:VlachJosef:dotfiles</id>
-  <published>2021-09-06T20:44:43Z</published>
-  <updated>2021-09-06T20:44:43Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>lmouelle: dotfiles</title>
-  <author>
-   <name>lmouelle</name>
-  </author>
-  <link href="https://github.com/lmouelle/dotfiles" />
-  <id>urn:rprimus:github:lmouelle:dotfiles</id>
-  <published>2021-09-06T19:51:19Z</published>
-  <updated>2021-09-06T19:51:19Z</updated>
-  <content type="html">
-   personal dotfiles managed with gnu stow, mostly emacs
-  </content>
- </entry>
- <entry>
-  <title>eguneys: dotfiles2</title>
-  <author>
-   <name>eguneys</name>
-  </author>
-  <link href="https://github.com/eguneys/dotfiles2" />
-  <id>urn:rprimus:github:eguneys:dotfiles2</id>
-  <published>2021-09-06T17:49:12Z</published>
-  <updated>2021-09-06T17:49:12Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>eraiki: public_html</title>
-  <author>
-   <name>eraiki</name>
-  </author>
-  <link href="https://github.com/eraiki/public_html" />
-  <id>urn:rprimus:github:eraiki:public_html</id>
-  <published>2021-09-06T16:28:50Z</published>
-  <updated>2021-09-06T16:28:50Z</updated>
-  <content type="html">
-   Legacy web pages from several decades ago
-  </content>
- </entry>
- <entry>
-  <title>cs1302uga: cs1302-emacs-config</title>
-  <author>
-   <name>cs1302uga</name>
-  </author>
-  <link href="https://github.com/cs1302uga/cs1302-emacs-config" />
-  <id>urn:rprimus:github:cs1302uga:cs1302-emacs-config</id>
-  <published>2021-09-06T15:10:28Z</published>
-  <updated>2021-09-06T15:10:28Z</updated>
-  <content type="html">
-   The cs1302uga Emacs package!
-  </content>
- </entry>
- <entry>
-  <title>dylantjb: emacs</title>
-  <author>
-   <name>dylantjb</name>
-  </author>
-  <link href="https://github.com/dylantjb/emacs" />
-  <id>urn:rprimus:github:dylantjb:emacs</id>
-  <published>2021-09-06T12:05:52Z</published>
-  <updated>2021-09-06T12:05:52Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>lotuhya: emacs</title>
-  <author>
-   <name>lotuhya</name>
-  </author>
-  <link href="https://github.com/lotuhya/emacs" />
-  <id>urn:rprimus:github:lotuhya:emacs</id>
-  <published>2021-09-06T10:21:31Z</published>
-  <updated>2021-09-06T10:21:31Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>dennisschoepf: bloom-emacs</title>
-  <author>
-   <name>dennisschoepf</name>
-  </author>
-  <link href="https://github.com/dennisschoepf/bloom-emacs" />
-  <id>urn:rprimus:github:dennisschoepf:bloom-emacs</id>
-  <published>2021-09-06T08:18:10Z</published>
-  <updated>2021-09-06T08:18:10Z</updated>
-  <content type="html">
-   My Doom Emacs config.
-  </content>
- </entry>
- <entry>
-  <title>buzztaiki: lsp-toml.el</title>
-  <author>
-   <name>buzztaiki</name>
-  </author>
-  <link href="https://github.com/buzztaiki/lsp-toml.el" />
-  <id>urn:rprimus:github:buzztaiki:lsp-toml.el</id>
-  <published>2021-09-06T07:39:09Z</published>
-  <updated>2021-09-06T07:39:09Z</updated>
-  <content type="html">
-   LSP support for TOML, using taplo-lsp
-  </content>
- </entry>
- <entry>
-  <title>singalhimanshu: .emacs.d</title>
-  <author>
-   <name>singalhimanshu</name>
-  </author>
-  <link href="https://github.com/singalhimanshu/.emacs.d" />
-  <id>urn:rprimus:github:singalhimanshu:.emacs.d</id>
-  <published>2021-09-06T05:49:47Z</published>
-  <updated>2021-09-06T05:49:47Z</updated>
-  <content type="html">
-   My emacs config
-  </content>
- </entry>
- <entry>
-  <title>SemyonDunaev: dotfiles</title>
-  <author>
-   <name>SemyonDunaev</name>
-  </author>
-  <link href="https://github.com/SemyonDunaev/dotfiles" />
-  <id>urn:rprimus:github:SemyonDunaev:dotfiles</id>
-  <published>2021-09-06T01:40:54Z</published>
-  <updated>2021-09-06T01:40:54Z</updated>
-  <content type="html">
-   My dotfiles
-  </content>
- </entry>
- <entry>
-  <title>smook1980: dotfiles</title>
-  <author>
-   <name>smook1980</name>
-  </author>
-  <link href="https://github.com/smook1980/dotfiles" />
-  <id>urn:rprimus:github:smook1980:dotfiles</id>
-  <published>2021-09-06T00:52:28Z</published>
-  <updated>2021-09-06T00:52:28Z</updated>
-  <content type="html">
-   My Dotfiles
   </content>
  </entry>
 </feed>

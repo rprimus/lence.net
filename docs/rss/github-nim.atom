@@ -2,19 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2021-09-08T04:31:13Z</updated>
+<updated>2021-09-08T20:03:15Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
  <entry>
-  <title>FrogCap: docs-test</title>
+  <title>Iapetus-11: snake</title>
   <author>
-   <name>FrogCap</name>
+   <name>Iapetus-11</name>
   </author>
-  <link href="https://github.com/FrogCap/docs-test" />
-  <id>urn:rprimus:github:FrogCap:docs-test</id>
-  <published>2021-09-08T04:31:13Z</published>
-  <updated>2021-09-08T04:31:13Z</updated>
+  <link href="https://github.com/Iapetus-11/snake" />
+  <id>urn:rprimus:github:Iapetus-11:snake</id>
+  <published>2021-09-08T20:03:15Z</published>
+  <updated>2021-09-08T20:03:15Z</updated>
   <content type="html">
-   Testing nimibook
+   Snake game in Nim using csfml!
+  </content>
+ </entry>
+ <entry>
+  <title>snovvcrash: NimHollow</title>
+  <author>
+   <name>snovvcrash</name>
+  </author>
+  <link href="https://github.com/snovvcrash/NimHollow" />
+  <id>urn:rprimus:github:snovvcrash:NimHollow</id>
+  <published>2021-09-08T19:18:44Z</published>
+  <updated>2021-09-08T19:18:44Z</updated>
+  <content type="html">
+   Nim implementation of Process Hollowing using syscalls (for educational purposes)
+  </content>
+ </entry>
+ <entry>
+  <title>status-im: nim-status-lib</title>
+  <author>
+   <name>status-im</name>
+  </author>
+  <link href="https://github.com/status-im/nim-status-lib" />
+  <id>urn:rprimus:github:status-im:nim-status-lib</id>
+  <published>2021-09-08T16:16:17Z</published>
+  <updated>2021-09-08T16:16:17Z</updated>
+  <content type="html">
+   src/status from desktop
   </content>
  </entry>
  <entry>
@@ -80,58 +106,6 @@
   <updated>2021-09-07T01:31:58Z</updated>
   <content type="html">
    Reed-Solomon Error and Erasure correction
-  </content>
- </entry>
- <entry>
-  <title>RazvanDuda: Delete-Old-Files-by-Date-Interval</title>
-  <author>
-   <name>RazvanDuda</name>
-  </author>
-  <link href="https://github.com/RazvanDuda/Delete-Old-Files-by-Date-Interval" />
-  <id>urn:rprimus:github:RazvanDuda:Delete-Old-Files-by-Date-Interval</id>
-  <published>2021-09-06T18:18:48Z</published>
-  <updated>2021-09-06T18:18:48Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>RattleyCooper: warble</title>
-  <author>
-   <name>RattleyCooper</name>
-  </author>
-  <link href="https://github.com/RattleyCooper/warble" />
-  <id>urn:rprimus:github:RattleyCooper:warble</id>
-  <published>2021-09-06T09:20:47Z</published>
-  <updated>2021-09-06T09:20:47Z</updated>
-  <content type="html">
-   Steganography tool that can embed files into the pixel data of images.
-  </content>
- </entry>
- <entry>
-  <title>ProgramYazar: nim_raspi_deneme</title>
-  <author>
-   <name>ProgramYazar</name>
-  </author>
-  <link href="https://github.com/ProgramYazar/nim_raspi_deneme" />
-  <id>urn:rprimus:github:ProgramYazar:nim_raspi_deneme</id>
-  <published>2021-09-06T04:42:08Z</published>
-  <updated>2021-09-06T04:42:08Z</updated>
-  <content type="html">
-   nim raspi zero deneme
-  </content>
- </entry>
- <entry>
-  <title>Mibblez: nim-flac</title>
-  <author>
-   <name>Mibblez</name>
-  </author>
-  <link href="https://github.com/Mibblez/nim-flac" />
-  <id>urn:rprimus:github:Mibblez:nim-flac</id>
-  <published>2021-09-06T01:25:31Z</published>
-  <updated>2021-09-06T01:25:31Z</updated>
-  <content type="html">
-   Nim files for reading data from FLAC files. Currently unfinished
   </content>
  </entry>
 </feed>
