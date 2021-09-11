@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2021-09-09T22:56:15Z</updated>
+<updated>2021-09-11T03:41:40Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>quantumedbox: tochkalang</title>
+  <author>
+   <name>quantumedbox</name>
+  </author>
+  <link href="https://github.com/quantumedbox/tochkalang" />
+  <id>urn:rprimus:github:quantumedbox:tochkalang</id>
+  <published>2021-09-11T03:41:40Z</published>
+  <updated>2021-09-11T03:41:40Z</updated>
+  <content type="html">
+   teeny-tiny language endeavor
+  </content>
+ </entry>
+ <entry>
+  <title>thisago: tic80</title>
+  <author>
+   <name>thisago</name>
+  </author>
+  <link href="https://github.com/thisago/tic80" />
+  <id>urn:rprimus:github:thisago:tic80</id>
+  <published>2021-09-10T18:42:22Z</published>
+  <updated>2021-09-10T18:42:22Z</updated>
+  <content type="html">
+   Nim TIC-80 bindings
+  </content>
+ </entry>
+ <entry>
+  <title>abisxir: alasgar</title>
+  <author>
+   <name>abisxir</name>
+  </author>
+  <link href="https://github.com/abisxir/alasgar" />
+  <id>urn:rprimus:github:abisxir:alasgar</id>
+  <published>2021-09-10T15:28:57Z</published>
+  <updated>2021-09-10T15:28:57Z</updated>
+  <content type="html">
+   3D game engine for nim
+  </content>
+ </entry>
+ <entry>
+  <title>srozb: privs</title>
+  <author>
+   <name>srozb</name>
+  </author>
+  <link href="https://github.com/srozb/privs" />
+  <id>urn:rprimus:github:srozb:privs</id>
+  <published>2021-09-10T08:11:10Z</published>
+  <updated>2021-09-10T08:11:10Z</updated>
+  <content type="html">
+   windows privesc with nim
+  </content>
+ </entry>
+ <entry>
+  <title>yglukhov: bluetoothimport</title>
+  <author>
+   <name>yglukhov</name>
+  </author>
+  <link href="https://github.com/yglukhov/bluetoothimport" />
+  <id>urn:rprimus:github:yglukhov:bluetoothimport</id>
+  <published>2021-09-10T07:08:43Z</published>
+  <updated>2021-09-10T07:08:43Z</updated>
+  <content type="html">
+   Sync bluetooth pairing keys from windows to linux
+  </content>
+ </entry>
  <entry>
   <title>alaviss: union</title>
   <author>
@@ -40,7 +105,7 @@
   <published>2021-09-09T20:05:34Z</published>
   <updated>2021-09-09T20:05:34Z</updated>
   <content type="html">
-   Fast-tracked fork of Nitter focused on new features not yet available in upstream project
+   Fast-tracked fork of Nitter focused on implementing new features and fixes not yet merged in upstream project
   </content>
  </entry>
  <entry>
@@ -54,45 +119,6 @@
   <updated>2021-09-09T13:38:28Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>Iapetus-11: snake</title>
-  <author>
-   <name>Iapetus-11</name>
-  </author>
-  <link href="https://github.com/Iapetus-11/snake" />
-  <id>urn:rprimus:github:Iapetus-11:snake</id>
-  <published>2021-09-08T20:03:15Z</published>
-  <updated>2021-09-08T20:03:15Z</updated>
-  <content type="html">
-   Snake game in Nim using csfml!
-  </content>
- </entry>
- <entry>
-  <title>snovvcrash: NimHollow</title>
-  <author>
-   <name>snovvcrash</name>
-  </author>
-  <link href="https://github.com/snovvcrash/NimHollow" />
-  <id>urn:rprimus:github:snovvcrash:NimHollow</id>
-  <published>2021-09-08T19:18:44Z</published>
-  <updated>2021-09-08T19:18:44Z</updated>
-  <content type="html">
-   Nim implementation of Process Hollowing using syscalls
-  </content>
- </entry>
- <entry>
-  <title>status-im: status-lib</title>
-  <author>
-   <name>status-im</name>
-  </author>
-  <link href="https://github.com/status-im/status-lib" />
-  <id>urn:rprimus:github:status-im:status-lib</id>
-  <published>2021-09-08T16:16:17Z</published>
-  <updated>2021-09-08T16:16:17Z</updated>
-  <content type="html">
-   src/status from desktop
   </content>
  </entry>
 </feed>

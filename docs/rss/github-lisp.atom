@@ -2,8 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-09-10T00:27:40Z</updated>
+<updated>2021-09-11T04:15:19Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>fp-alice: lisp-chat</title>
+  <author>
+   <name>fp-alice</name>
+  </author>
+  <link href="https://github.com/fp-alice/lisp-chat" />
+  <id>urn:rprimus:github:fp-alice:lisp-chat</id>
+  <published>2021-09-11T04:15:19Z</published>
+  <updated>2021-09-11T04:15:19Z</updated>
+  <content type="html">
+   wip lisp chat server I guess? nowhere near functional yet
+  </content>
+ </entry>
+ <entry>
+  <title>AndersonSacramento: pretext-utils</title>
+  <author>
+   <name>AndersonSacramento</name>
+  </author>
+  <link href="https://github.com/AndersonSacramento/pretext-utils" />
+  <id>urn:rprimus:github:AndersonSacramento:pretext-utils</id>
+  <published>2021-09-11T01:47:57Z</published>
+  <updated>2021-09-11T01:47:57Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Lucasrezzaghi: LispFun</title>
+  <author>
+   <name>Lucasrezzaghi</name>
+  </author>
+  <link href="https://github.com/Lucasrezzaghi/LispFun" />
+  <id>urn:rprimus:github:Lucasrezzaghi:LispFun</id>
+  <published>2021-09-10T16:24:32Z</published>
+  <updated>2021-09-10T16:24:32Z</updated>
+  <content type="html">
+   practicing Common lisp
+  </content>
+ </entry>
+ <entry>
+  <title>dsletten: advent</title>
+  <author>
+   <name>dsletten</name>
+  </author>
+  <link href="https://github.com/dsletten/advent" />
+  <id>urn:rprimus:github:dsletten:advent</id>
+  <published>2021-09-10T15:49:35Z</published>
+  <updated>2021-09-10T15:49:35Z</updated>
+  <content type="html">
+   Advent of Code exercises
+  </content>
+ </entry>
+ <entry>
+  <title>aiffc: play-with-vk</title>
+  <author>
+   <name>aiffc</name>
+  </author>
+  <link href="https://github.com/aiffc/play-with-vk" />
+  <id>urn:rprimus:github:aiffc:play-with-vk</id>
+  <published>2021-09-10T14:30:31Z</published>
+  <updated>2021-09-10T14:30:31Z</updated>
+  <content type="html">
+   play with https://github.com/JolifantoBambla/vk.git and sdl2
+  </content>
+ </entry>
+ <entry>
+  <title>maerd-zinbieL: LispMachine</title>
+  <author>
+   <name>maerd-zinbieL</name>
+  </author>
+  <link href="https://github.com/maerd-zinbieL/LispMachine" />
+  <id>urn:rprimus:github:maerd-zinbieL:LispMachine</id>
+  <published>2021-09-10T14:29:29Z</published>
+  <updated>2021-09-10T14:29:29Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>belsanku: FLP</title>
+  <author>
+   <name>belsanku</name>
+  </author>
+  <link href="https://github.com/belsanku/FLP" />
+  <id>urn:rprimus:github:belsanku:FLP</id>
+  <published>2021-09-10T08:07:03Z</published>
+  <updated>2021-09-10T08:07:03Z</updated>
+  <content type="html">
+   Ð¤ÐÐ
+  </content>
+ </entry>
  <entry>
   <title>goshu-poni: tovero</title>
   <author>
@@ -67,84 +158,6 @@
   <updated>2021-09-09T00:57:13Z</updated>
   <content type="html">
    Iterations of an experimental lisp dialect.
-  </content>
- </entry>
- <entry>
-  <title>borodust: distignore</title>
-  <author>
-   <name>borodust</name>
-  </author>
-  <link href="https://github.com/borodust/distignore" />
-  <id>urn:rprimus:github:borodust:distignore</id>
-  <published>2021-09-08T19:54:28Z</published>
-  <updated>2021-09-08T19:54:28Z</updated>
-  <content type="html">
-   Utility to work with .distignore files
-  </content>
- </entry>
- <entry>
-  <title>brunoflores: db-lisp-dummy</title>
-  <author>
-   <name>brunoflores</name>
-  </author>
-  <link href="https://github.com/brunoflores/db-lisp-dummy" />
-  <id>urn:rprimus:github:brunoflores:db-lisp-dummy</id>
-  <published>2021-09-08T12:05:53Z</published>
-  <updated>2021-09-08T12:05:53Z</updated>
-  <content type="html">
-   A simple database in Common LISP.
-  </content>
- </entry>
- <entry>
-  <title>Holmqvist1990: cl-symbolic-computation</title>
-  <author>
-   <name>Holmqvist1990</name>
-  </author>
-  <link href="https://github.com/Holmqvist1990/cl-symbolic-computation" />
-  <id>urn:rprimus:github:Holmqvist1990:cl-symbolic-computation</id>
-  <published>2021-09-08T11:19:29Z</published>
-  <updated>2021-09-08T11:19:29Z</updated>
-  <content type="html">
-   Working through the Symbolic Computation book.
-  </content>
- </entry>
- <entry>
-  <title>wcourtney31415: Lisp-Collatz-Conjecture-Example</title>
-  <author>
-   <name>wcourtney31415</name>
-  </author>
-  <link href="https://github.com/wcourtney31415/Lisp-Collatz-Conjecture-Example" />
-  <id>urn:rprimus:github:wcourtney31415:Lisp-Collatz-Conjecture-Example</id>
-  <published>2021-09-08T05:38:24Z</published>
-  <updated>2021-09-08T05:38:24Z</updated>
-  <content type="html">
-   Learning Lisp!
-  </content>
- </entry>
- <entry>
-  <title>orthzar: lisp-misc</title>
-  <author>
-   <name>orthzar</name>
-  </author>
-  <link href="https://github.com/orthzar/lisp-misc" />
-  <id>urn:rprimus:github:orthzar:lisp-misc</id>
-  <published>2021-09-08T03:09:32Z</published>
-  <updated>2021-09-08T03:09:32Z</updated>
-  <content type="html">
-   Miscelaneous Lisp Programs
-  </content>
- </entry>
- <entry>
-  <title>charJe: funds</title>
-  <author>
-   <name>charJe</name>
-  </author>
-  <link href="https://github.com/charJe/funds" />
-  <id>urn:rprimus:github:charJe:funds</id>
-  <published>2021-09-08T01:47:34Z</published>
-  <updated>2021-09-08T01:47:34Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
