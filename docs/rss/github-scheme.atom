@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-scheme.atom"/>
 <id>urn:rprimus:github:newschemerepos</id>
-<updated>2021-09-11T03:20:53Z</updated>
+<updated>2021-09-12T04:38:07Z</updated>
 <title type='text'>New GitHub Scheme Repos</title>
+ <entry>
+  <title>fatihunal78: CENG111_Introduction_to_Computer_Engineering_Concepts</title>
+  <author>
+   <name>fatihunal78</name>
+  </author>
+  <link href="https://github.com/fatihunal78/CENG111_Introduction_to_Computer_Engineering_Concepts" />
+  <id>urn:rprimus:github:fatihunal78:CENG111_Introduction_to_Computer_Engineering_Concepts</id>
+  <published>2021-09-12T04:38:07Z</published>
+  <updated>2021-09-12T04:38:07Z</updated>
+  <content type="html">
+   Codes written in Scheme programming language written by me in CENG11 Introduction to Computer Engineering Concepts course in Middle East Technical University (METU)
+  </content>
+ </entry>
+ <entry>
+  <title>Dunkmania101: custom-guix-installer</title>
+  <author>
+   <name>Dunkmania101</name>
+  </author>
+  <link href="https://github.com/Dunkmania101/custom-guix-installer" />
+  <id>urn:rprimus:github:Dunkmania101:custom-guix-installer</id>
+  <published>2021-09-11T21:55:00Z</published>
+  <updated>2021-09-11T21:55:00Z</updated>
+  <content type="html">
+   A custom installation image builder for GNU Guix.
+  </content>
+ </entry>
+ <entry>
+  <title>chao-d: scheme</title>
+  <author>
+   <name>chao-d</name>
+  </author>
+  <link href="https://github.com/chao-d/scheme" />
+  <id>urn:rprimus:github:chao-d:scheme</id>
+  <published>2021-09-11T19:42:13Z</published>
+  <updated>2021-09-11T19:42:13Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>ristokoskensilta: SICP</title>
+  <author>
+   <name>ristokoskensilta</name>
+  </author>
+  <link href="https://github.com/ristokoskensilta/SICP" />
+  <id>urn:rprimus:github:ristokoskensilta:SICP</id>
+  <published>2021-09-11T17:33:18Z</published>
+  <updated>2021-09-11T17:33:18Z</updated>
+  <content type="html">
+   Structure and Interpretation of Copmputer Programs (2d ed) exercises
+  </content>
+ </entry>
+ <entry>
+  <title>bigjr-mkkong: SICP-training</title>
+  <author>
+   <name>bigjr-mkkong</name>
+  </author>
+  <link href="https://github.com/bigjr-mkkong/SICP-training" />
+  <id>urn:rprimus:github:bigjr-mkkong:SICP-training</id>
+  <published>2021-09-11T16:34:48Z</published>
+  <updated>2021-09-11T16:34:48Z</updated>
+  <content type="html">
+   Answers for SICP training
+  </content>
+ </entry>
  <entry>
   <title>Ceenine: guix-channel</title>
   <author>
@@ -31,16 +96,16 @@
   </content>
  </entry>
  <entry>
-  <title>lassik: scheme-gemini-client</title>
+  <title>lassik: scheme-gemini</title>
   <author>
    <name>lassik</name>
   </author>
-  <link href="https://github.com/lassik/scheme-gemini-client" />
-  <id>urn:rprimus:github:lassik:scheme-gemini-client</id>
+  <link href="https://github.com/lassik/scheme-gemini" />
+  <id>urn:rprimus:github:lassik:scheme-gemini</id>
   <published>2021-09-10T17:48:50Z</published>
   <updated>2021-09-10T17:48:50Z</updated>
   <content type="html">
-   Scheme client for the Gemini network protocol
+   Scheme library for the Gemini network protocol
   </content>
  </entry>
  <entry>
@@ -93,45 +158,6 @@
   <updated>2021-09-10T06:12:01Z</updated>
   <content type="html">
    A very simple pastebin written in Guile Scheme.
-  </content>
- </entry>
- <entry>
-  <title>mmaleki: Partial-Evaluator</title>
-  <author>
-   <name>mmaleki</name>
-  </author>
-  <link href="https://github.com/mmaleki/Partial-Evaluator" />
-  <id>urn:rprimus:github:mmaleki:Partial-Evaluator</id>
-  <published>2021-09-09T23:24:25Z</published>
-  <updated>2021-09-09T23:24:25Z</updated>
-  <content type="html">
-   Partial evaluator in Scheme for simple proramming language
-  </content>
- </entry>
- <entry>
-  <title>akhileshwar1: Lisp</title>
-  <author>
-   <name>akhileshwar1</name>
-  </author>
-  <link href="https://github.com/akhileshwar1/Lisp" />
-  <id>urn:rprimus:github:akhileshwar1:Lisp</id>
-  <published>2021-09-09T12:24:33Z</published>
-  <updated>2021-09-09T12:24:33Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jdbaldry: deck-of-cards</title>
-  <author>
-   <name>jdbaldry</name>
-  </author>
-  <link href="https://github.com/jdbaldry/deck-of-cards" />
-  <id>urn:rprimus:github:jdbaldry:deck-of-cards</id>
-  <published>2021-09-09T11:16:14Z</published>
-  <updated>2021-09-09T11:16:14Z</updated>
-  <content type="html">
-   Solving https://www.theguardian.com/science/2021/jun/14/did-you-solve-it-ace-of-spades in MIT scheme
   </content>
  </entry>
 </feed>

@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-09-11T04:15:19Z</updated>
+<updated>2021-09-12T05:34:57Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>Symbolics: alexandria-plus</title>
+  <author>
+   <name>Symbolics</name>
+  </author>
+  <link href="https://github.com/Symbolics/alexandria-plus" />
+  <id>urn:rprimus:github:Symbolics:alexandria-plus</id>
+  <published>2021-09-12T05:34:57Z</published>
+  <updated>2021-09-12T05:34:57Z</updated>
+  <content type="html">
+   A conservative set of extensions to Alexandria utilities
+  </content>
+ </entry>
+ <entry>
+  <title>wcourtney31415: lisp-base-n</title>
+  <author>
+   <name>wcourtney31415</name>
+  </author>
+  <link href="https://github.com/wcourtney31415/lisp-base-n" />
+  <id>urn:rprimus:github:wcourtney31415:lisp-base-n</id>
+  <published>2021-09-11T20:26:17Z</published>
+  <updated>2021-09-11T20:26:17Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>heitorchang: bakers-percentage</title>
+  <author>
+   <name>heitorchang</name>
+  </author>
+  <link href="https://github.com/heitorchang/bakers-percentage" />
+  <id>urn:rprimus:github:heitorchang:bakers-percentage</id>
+  <published>2021-09-11T17:50:48Z</published>
+  <updated>2021-09-11T17:50:48Z</updated>
+  <content type="html">
+   Baker&#039;s percentage calculator
+  </content>
+ </entry>
+ <entry>
+  <title>CorentinGS: Learning-lisp</title>
+  <author>
+   <name>CorentinGS</name>
+  </author>
+  <link href="https://github.com/CorentinGS/Learning-lisp" />
+  <id>urn:rprimus:github:CorentinGS:Learning-lisp</id>
+  <published>2021-09-11T15:43:05Z</published>
+  <updated>2021-09-11T15:43:05Z</updated>
+  <content type="html">
+   Learning lisp
+  </content>
+ </entry>
  <entry>
   <title>fp-alice: lisp-chat</title>
   <author>
@@ -119,45 +171,6 @@
   <updated>2021-09-10T00:17:01Z</updated>
   <content type="html">
    Just a Common Lisp binding to Open Inventor?
-  </content>
- </entry>
- <entry>
-  <title>brunoflores: unit-test-lisp</title>
-  <author>
-   <name>brunoflores</name>
-  </author>
-  <link href="https://github.com/brunoflores/unit-test-lisp" />
-  <id>urn:rprimus:github:brunoflores:unit-test-lisp</id>
-  <published>2021-09-09T13:39:26Z</published>
-  <updated>2021-09-09T13:39:26Z</updated>
-  <content type="html">
-   Unit test framework in Common LISP.
-  </content>
- </entry>
- <entry>
-  <title>wcourtney31415: lisp-fibonacci</title>
-  <author>
-   <name>wcourtney31415</name>
-  </author>
-  <link href="https://github.com/wcourtney31415/lisp-fibonacci" />
-  <id>urn:rprimus:github:wcourtney31415:lisp-fibonacci</id>
-  <published>2021-09-09T06:01:19Z</published>
-  <updated>2021-09-09T06:01:19Z</updated>
-  <content type="html">
-   A simple application to calculate the first N numbers in the Fibonacci sequence as a Lisp learning experience.
-  </content>
- </entry>
- <entry>
-  <title>psilord: psilisp</title>
-  <author>
-   <name>psilord</name>
-  </author>
-  <link href="https://github.com/psilord/psilisp" />
-  <id>urn:rprimus:github:psilord:psilisp</id>
-  <published>2021-09-09T00:57:13Z</published>
-  <updated>2021-09-09T00:57:13Z</updated>
-  <content type="html">
-   Iterations of an experimental lisp dialect.
   </content>
  </entry>
 </feed>
