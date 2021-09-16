@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2021-09-15T04:51:10Z</updated>
+<updated>2021-09-15T16:18:22Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>Clonkk: interp_playground</title>
+  <author>
+   <name>Clonkk</name>
+  </author>
+  <link href="https://github.com/Clonkk/interp_playground" />
+  <id>urn:rprimus:github:Clonkk:interp_playground</id>
+  <published>2021-09-15T16:18:22Z</published>
+  <updated>2021-09-15T16:18:22Z</updated>
+  <content type="html">
+   Some interpolation stuff in Nim to understand what&#039;s going on
+  </content>
+ </entry>
+ <entry>
+  <title>uga-rosa: snip2json</title>
+  <author>
+   <name>uga-rosa</name>
+  </author>
+  <link href="https://github.com/uga-rosa/snip2json" />
+  <id>urn:rprimus:github:uga-rosa:snip2json</id>
+  <published>2021-09-15T09:11:16Z</published>
+  <updated>2021-09-15T09:11:16Z</updated>
+  <content type="html">
+   Convert simple syntax snippets to LSP format json.
+  </content>
+ </entry>
  <entry>
   <title>shayanhabibi: loony</title>
   <author>
@@ -28,58 +54,6 @@
   <updated>2021-09-14T11:45:35Z</updated>
   <content type="html">
    Nim implementation of Unix crypt
-  </content>
- </entry>
- <entry>
-  <title>Martinix75: NimManuale</title>
-  <author>
-   <name>Martinix75</name>
-  </author>
-  <link href="https://github.com/Martinix75/NimManuale" />
-  <id>urn:rprimus:github:Martinix75:NimManuale</id>
-  <published>2021-09-13T18:46:16Z</published>
-  <updated>2021-09-13T18:46:16Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>semiherdogan: merged-branches</title>
-  <author>
-   <name>semiherdogan</name>
-  </author>
-  <link href="https://github.com/semiherdogan/merged-branches" />
-  <id>urn:rprimus:github:semiherdogan:merged-branches</id>
-  <published>2021-09-13T17:43:02Z</published>
-  <updated>2021-09-13T17:43:02Z</updated>
-  <content type="html">
-   This app lists merged branches for given branch
-  </content>
- </entry>
- <entry>
-  <title>shayanhabibi: cpslearning</title>
-  <author>
-   <name>shayanhabibi</name>
-  </author>
-  <link href="https://github.com/shayanhabibi/cpslearning" />
-  <id>urn:rprimus:github:shayanhabibi:cpslearning</id>
-  <published>2021-09-13T16:46:33Z</published>
-  <updated>2021-09-13T16:46:33Z</updated>
-  <content type="html">
-   Some things while I learn cps
-  </content>
- </entry>
- <entry>
-  <title>planetis-m: packedjson2</title>
-  <author>
-   <name>planetis-m</name>
-  </author>
-  <link href="https://github.com/planetis-m/packedjson2" />
-  <id>urn:rprimus:github:planetis-m:packedjson2</id>
-  <published>2021-09-13T07:49:55Z</published>
-  <updated>2021-09-13T07:49:55Z</updated>
-  <content type="html">
-   WIP
   </content>
  </entry>
 </feed>

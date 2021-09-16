@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-09-15T03:37:52Z</updated>
+<updated>2021-09-16T01:32:58Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>valeriangalliat: web-mode-indent</title>
+  <author>
+   <name>valeriangalliat</name>
+  </author>
+  <link href="https://github.com/valeriangalliat/web-mode-indent" />
+  <id>urn:rprimus:github:valeriangalliat:web-mode-indent</id>
+  <published>2021-09-16T01:32:58Z</published>
+  <updated>2021-09-16T01:32:58Z</updated>
+  <content type="html">
+   Indent files using Emacs web-mode.
+  </content>
+ </entry>
+ <entry>
+  <title>Thsouza2501: LandOfLisp</title>
+  <author>
+   <name>Thsouza2501</name>
+  </author>
+  <link href="https://github.com/Thsouza2501/LandOfLisp" />
+  <id>urn:rprimus:github:Thsouza2501:LandOfLisp</id>
+  <published>2021-09-16T00:42:32Z</published>
+  <updated>2021-09-16T00:42:32Z</updated>
+  <content type="html">
+   First Steps with CLisp (http://landoflisp.com/)
+  </content>
+ </entry>
+ <entry>
+  <title>Wafelack: polynomials</title>
+  <author>
+   <name>Wafelack</name>
+  </author>
+  <link href="https://github.com/Wafelack/polynomials" />
+  <id>urn:rprimus:github:Wafelack:polynomials</id>
+  <published>2021-09-15T20:27:47Z</published>
+  <updated>2021-09-15T20:27:47Z</updated>
+  <content type="html">
+   Common Lisp programs to do stuff with quadratic polynomials.
+  </content>
+ </entry>
+ <entry>
+  <title>jww2442: AdvAIProject1</title>
+  <author>
+   <name>jww2442</name>
+  </author>
+  <link href="https://github.com/jww2442/AdvAIProject1" />
+  <id>urn:rprimus:github:jww2442:AdvAIProject1</id>
+  <published>2021-09-15T14:16:34Z</published>
+  <updated>2021-09-15T14:16:34Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>balathikm425: VentiaSpatialData</title>
   <author>
@@ -57,6 +109,19 @@
   </content>
  </entry>
  <entry>
+  <title>johnlorentzson: mailmurder</title>
+  <author>
+   <name>johnlorentzson</name>
+  </author>
+  <link href="https://github.com/johnlorentzson/mailmurder" />
+  <id>urn:rprimus:github:johnlorentzson:mailmurder</id>
+  <published>2021-09-14T09:32:17Z</published>
+  <updated>2021-09-14T09:32:17Z</updated>
+  <content type="html">
+   Mailmurder uses mutt to let Lisp programs send email.
+  </content>
+ </entry>
+ <entry>
   <title>andrewsoutar: matcher</title>
   <author>
    <name>andrewsoutar</name>
@@ -67,45 +132,6 @@
   <updated>2021-09-14T03:53:57Z</updated>
   <content type="html">
    A simple Common Lisp pattern-matcher
-  </content>
- </entry>
- <entry>
-  <title>lainon: csc5240-hw2-eliza</title>
-  <author>
-   <name>lainon</name>
-  </author>
-  <link href="https://github.com/lainon/csc5240-hw2-eliza" />
-  <id>urn:rprimus:github:lainon:csc5240-hw2-eliza</id>
-  <published>2021-09-13T19:27:00Z</published>
-  <updated>2021-09-13T19:27:00Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>wcourtney31415: lisp-coins</title>
-  <author>
-   <name>wcourtney31415</name>
-  </author>
-  <link href="https://github.com/wcourtney31415/lisp-coins" />
-  <id>urn:rprimus:github:wcourtney31415:lisp-coins</id>
-  <published>2021-09-13T06:36:22Z</published>
-  <updated>2021-09-13T06:36:22Z</updated>
-  <content type="html">
-   Given a dollar value, it returns what coins should be given to produce that dollar amount while using the least amount of coins possible. 
-  </content>
- </entry>
- <entry>
-  <title>g000001: copy-and-paste-pane</title>
-  <author>
-   <name>g000001</name>
-  </author>
-  <link href="https://github.com/g000001/copy-and-paste-pane" />
-  <id>urn:rprimus:github:g000001:copy-and-paste-pane</id>
-  <published>2021-09-13T06:06:32Z</published>
-  <updated>2021-09-13T06:06:32Z</updated>
-  <content type="html">
-   Copy and Paste Mixin Pane for Lispworks/Cocoa
   </content>
  </entry>
 </feed>
