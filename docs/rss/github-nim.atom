@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2021-09-16T08:09:28Z</updated>
+<updated>2021-09-17T01:45:24Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>dlcmh: nim-playground</title>
+  <author>
+   <name>dlcmh</name>
+  </author>
+  <link href="https://github.com/dlcmh/nim-playground" />
+  <id>urn:rprimus:github:dlcmh:nim-playground</id>
+  <published>2021-09-17T01:45:24Z</published>
+  <updated>2021-09-17T01:45:24Z</updated>
+  <content type="html">
+   Nim experiments
+  </content>
+ </entry>
+ <entry>
+  <title>thisago: gm_api</title>
+  <author>
+   <name>thisago</name>
+  </author>
+  <link href="https://github.com/thisago/gm_api" />
+  <id>urn:rprimus:github:thisago:gm_api</id>
+  <published>2021-09-17T01:14:11Z</published>
+  <updated>2021-09-17T01:14:11Z</updated>
+  <content type="html">
+   Bindings for Greasemonkey API and header generator
+  </content>
+ </entry>
+ <entry>
+  <title>thisago: formulas</title>
+  <author>
+   <name>thisago</name>
+  </author>
+  <link href="https://github.com/thisago/formulas" />
+  <id>urn:rprimus:github:thisago:formulas</id>
+  <published>2021-09-17T01:01:29Z</published>
+  <updated>2021-09-17T01:01:29Z</updated>
+  <content type="html">
+   Mathematical formulas
+  </content>
+ </entry>
+ <entry>
+  <title>thisago: whois</title>
+  <author>
+   <name>thisago</name>
+  </author>
+  <link href="https://github.com/thisago/whois" />
+  <id>urn:rprimus:github:thisago:whois</id>
+  <published>2021-09-17T00:32:51Z</published>
+  <updated>2021-09-17T00:32:51Z</updated>
+  <content type="html">
+   A simple and free whois client
+  </content>
+ </entry>
  <entry>
   <title>haxscramper: npbt</title>
   <author>
@@ -67,19 +119,6 @@
   <updated>2021-09-15T04:51:10Z</updated>
   <content type="html">
    Experimenting to make a high throughput MPMC lock-free queue based on a paper by Giersch, Nolte et al.
-  </content>
- </entry>
- <entry>
-  <title>napalu: nimcrypt</title>
-  <author>
-   <name>napalu</name>
-  </author>
-  <link href="https://github.com/napalu/nimcrypt" />
-  <id>urn:rprimus:github:napalu:nimcrypt</id>
-  <published>2021-09-14T11:45:35Z</published>
-  <updated>2021-09-14T11:45:35Z</updated>
-  <content type="html">
-   Nim implementation of Unix crypt
   </content>
  </entry>
 </feed>
