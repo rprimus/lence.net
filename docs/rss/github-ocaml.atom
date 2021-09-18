@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2021-09-17T01:02:58Z</updated>
+<updated>2021-09-17T10:04:50Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>TheLortex: current-deployer</title>
+  <author>
+   <name>TheLortex</name>
+  </author>
+  <link href="https://github.com/TheLortex/current-deployer" />
+  <id>urn:rprimus:github:TheLortex:current-deployer</id>
+  <published>2021-09-17T10:04:50Z</published>
+  <updated>2021-09-17T10:04:50Z</updated>
+  <content type="html">
+   Ocurrent plugin for deploying mirage unikernels using albatross, monitor them, manage IPs and port forwarding
+  </content>
+ </entry>
+ <entry>
+  <title>0918nobita: psyche</title>
+  <author>
+   <name>0918nobita</name>
+  </author>
+  <link href="https://github.com/0918nobita/psyche" />
+  <id>urn:rprimus:github:0918nobita:psyche</id>
+  <published>2021-09-17T09:36:50Z</published>
+  <updated>2021-09-17T09:36:50Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>keigoi: mpst2</title>
   <author>
@@ -27,7 +53,7 @@
   <published>2021-09-16T22:56:34Z</published>
   <updated>2021-09-16T22:56:34Z</updated>
   <content type="html">
-   
+   Using OCaml to investigate the paper &quot;Top Down Operator Precedence&quot; by Vaughan Pratt
   </content>
  </entry>
  <entry>
@@ -40,7 +66,7 @@
   <published>2021-09-16T22:42:16Z</published>
   <updated>2021-09-16T22:42:16Z</updated>
   <content type="html">
-   
+   Using a functional language to explore Pratt parsers and implementing simple functional programming languages.
   </content>
  </entry>
  <entry>
@@ -119,123 +145,6 @@
   <updated>2021-09-16T04:51:11Z</updated>
   <content type="html">
    Implementation of Lauri Hartikka&#039;s &quot;Naivecoin&quot; proof-of-concept blockchain tutorial, &quot;Naivecoin&quot;, in OCaml using Dream websockets
-  </content>
- </entry>
- <entry>
-  <title>sa111n111: exp</title>
-  <author>
-   <name>sa111n111</name>
-  </author>
-  <link href="https://github.com/sa111n111/exp" />
-  <id>urn:rprimus:github:sa111n111:exp</id>
-  <published>2021-09-15T22:28:55Z</published>
-  <updated>2021-09-15T22:28:55Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>sbcohen2000: ConstraintGrapher</title>
-  <author>
-   <name>sbcohen2000</name>
-  </author>
-  <link href="https://github.com/sbcohen2000/ConstraintGrapher" />
-  <id>urn:rprimus:github:sbcohen2000:ConstraintGrapher</id>
-  <published>2021-09-15T20:19:03Z</published>
-  <updated>2021-09-15T20:19:03Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>vincent-manuceau: Project_Euler_OCaml</title>
-  <author>
-   <name>vincent-manuceau</name>
-  </author>
-  <link href="https://github.com/vincent-manuceau/Project_Euler_OCaml" />
-  <id>urn:rprimus:github:vincent-manuceau:Project_Euler_OCaml</id>
-  <published>2021-09-15T19:13:17Z</published>
-  <updated>2021-09-15T19:13:17Z</updated>
-  <content type="html">
-   Solving Euler Project Problems with OCaml (Objective Caml)
-  </content>
- </entry>
- <entry>
-  <title>haochenx: hxutils</title>
-  <author>
-   <name>haochenx</name>
-  </author>
-  <link href="https://github.com/haochenx/hxutils" />
-  <id>urn:rprimus:github:haochenx:hxutils</id>
-  <published>2021-09-15T17:48:22Z</published>
-  <updated>2021-09-15T17:48:22Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>samuel-gerges: gasp</title>
-  <author>
-   <name>samuel-gerges</name>
-  </author>
-  <link href="https://github.com/samuel-gerges/gasp" />
-  <id>urn:rprimus:github:samuel-gerges:gasp</id>
-  <published>2021-09-15T16:03:31Z</published>
-  <updated>2021-09-15T16:03:31Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>samuel-gerges: lsystems</title>
-  <author>
-   <name>samuel-gerges</name>
-  </author>
-  <link href="https://github.com/samuel-gerges/lsystems" />
-  <id>urn:rprimus:github:samuel-gerges:lsystems</id>
-  <published>2021-09-15T15:15:48Z</published>
-  <updated>2021-09-15T15:15:48Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>backtracking: astro</title>
-  <author>
-   <name>backtracking</name>
-  </author>
-  <link href="https://github.com/backtracking/astro" />
-  <id>urn:rprimus:github:backtracking:astro</id>
-  <published>2021-09-15T13:58:31Z</published>
-  <updated>2021-09-15T13:58:31Z</updated>
-  <content type="html">
-   calculs astronomiques (in French)
-  </content>
- </entry>
- <entry>
-  <title>selbor28: tezos</title>
-  <author>
-   <name>selbor28</name>
-  </author>
-  <link href="https://github.com/selbor28/tezos" />
-  <id>urn:rprimus:github:selbor28:tezos</id>
-  <published>2021-09-15T10:49:52Z</published>
-  <updated>2021-09-15T10:49:52Z</updated>
-  <content type="html">
-   tezos
-  </content>
- </entry>
- <entry>
-  <title>gautamkumar201003: www.pondyX.ml</title>
-  <author>
-   <name>gautamkumar201003</name>
-  </author>
-  <link href="https://github.com/gautamkumar201003/www.pondyX.ml" />
-  <id>urn:rprimus:github:gautamkumar201003:www.pondyX.ml</id>
-  <published>2021-09-15T05:44:38Z</published>
-  <updated>2021-09-15T05:44:38Z</updated>
-  <content type="html">
-   Website
   </content>
  </entry>
 </feed>
