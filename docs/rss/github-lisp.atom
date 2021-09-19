@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-09-18T03:40:18Z</updated>
+<updated>2021-09-18T16:45:38Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>KinaKnowledge: json-lib</title>
+  <author>
+   <name>KinaKnowledge</name>
+  </author>
+  <link href="https://github.com/KinaKnowledge/json-lib" />
+  <id>urn:rprimus:github:KinaKnowledge:json-lib</id>
+  <published>2021-09-18T16:45:38Z</published>
+  <updated>2021-09-18T16:45:38Z</updated>
+  <content type="html">
+   Simple JSON decoder to common lisp
+  </content>
+ </entry>
+ <entry>
+  <title>DanielKeogh: hashtrie</title>
+  <author>
+   <name>DanielKeogh</name>
+  </author>
+  <link href="https://github.com/DanielKeogh/hashtrie" />
+  <id>urn:rprimus:github:DanielKeogh:hashtrie</id>
+  <published>2021-09-18T16:27:49Z</published>
+  <updated>2021-09-18T16:27:49Z</updated>
+  <content type="html">
+   A Hash Trie implementation for Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>rjwarg: spell-bee</title>
+  <author>
+   <name>rjwarg</name>
+  </author>
+  <link href="https://github.com/rjwarg/spell-bee" />
+  <id>urn:rprimus:github:rjwarg:spell-bee</id>
+  <published>2021-09-18T15:57:43Z</published>
+  <updated>2021-09-18T15:57:43Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>everysky: Lisps-for-AutoCAD</title>
+  <author>
+   <name>everysky</name>
+  </author>
+  <link href="https://github.com/everysky/Lisps-for-AutoCAD" />
+  <id>urn:rprimus:github:everysky:Lisps-for-AutoCAD</id>
+  <published>2021-09-18T11:20:29Z</published>
+  <updated>2021-09-18T11:20:29Z</updated>
+  <content type="html">
+   Most of the Commands i did when i was a Civil Engineer Draftsman
+  </content>
+ </entry>
  <entry>
   <title>Izaakwltn: violin-resonance-calculator</title>
   <author>
@@ -80,110 +132,6 @@
   <updated>2021-09-17T05:26:02Z</updated>
   <content type="html">
    Hamza&#039;s Game Engine. Made in Common Lisp with CEPL and OpenGL
-  </content>
- </entry>
- <entry>
-  <title>Roundsan: ecart-type</title>
-  <author>
-   <name>Roundsan</name>
-  </author>
-  <link href="https://github.com/Roundsan/ecart-type" />
-  <id>urn:rprimus:github:Roundsan:ecart-type</id>
-  <published>2021-09-16T22:44:22Z</published>
-  <updated>2021-09-16T22:44:22Z</updated>
-  <content type="html">
-   Ce programme permet de calculer l&#039;Ã©cart-type d&#039;une liste de nombres
-  </content>
- </entry>
- <entry>
-  <title>jhunt: storm</title>
-  <author>
-   <name>jhunt</name>
-  </author>
-  <link href="https://github.com/jhunt/storm" />
-  <id>urn:rprimus:github:jhunt:storm</id>
-  <published>2021-09-16T20:32:21Z</published>
-  <updated>2021-09-16T20:32:21Z</updated>
-  <content type="html">
-   Cloudy With A Chance of Tweetstorms
-  </content>
- </entry>
- <entry>
-  <title>wright-nicholas: act-r-agreement</title>
-  <author>
-   <name>wright-nicholas</name>
-  </author>
-  <link href="https://github.com/wright-nicholas/act-r-agreement" />
-  <id>urn:rprimus:github:wright-nicholas:act-r-agreement</id>
-  <published>2021-09-16T20:13:41Z</published>
-  <updated>2021-09-16T20:13:41Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>privet-kitty: tune</title>
-  <author>
-   <name>privet-kitty</name>
-  </author>
-  <link href="https://github.com/privet-kitty/tune" />
-  <id>urn:rprimus:github:privet-kitty:tune</id>
-  <published>2021-09-16T18:07:08Z</published>
-  <updated>2021-09-16T18:07:08Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>xg6636: some-programming-exercise</title>
-  <author>
-   <name>xg6636</name>
-  </author>
-  <link href="https://github.com/xg6636/some-programming-exercise" />
-  <id>urn:rprimus:github:xg6636:some-programming-exercise</id>
-  <published>2021-09-16T08:14:46Z</published>
-  <updated>2021-09-16T08:14:46Z</updated>
-  <content type="html">
-   some examples of solve of computer science exercises.
-  </content>
- </entry>
- <entry>
-  <title>quil-lang: scriptum</title>
-  <author>
-   <name>quil-lang</name>
-  </author>
-  <link href="https://github.com/quil-lang/scriptum" />
-  <id>urn:rprimus:github:quil-lang:scriptum</id>
-  <published>2021-09-16T01:40:42Z</published>
-  <updated>2021-09-16T01:40:42Z</updated>
-  <content type="html">
-   Syntax for easier documentation writing in Common Lisp, of Scribble lineage.
-  </content>
- </entry>
- <entry>
-  <title>valeriangalliat: web-mode-indent</title>
-  <author>
-   <name>valeriangalliat</name>
-  </author>
-  <link href="https://github.com/valeriangalliat/web-mode-indent" />
-  <id>urn:rprimus:github:valeriangalliat:web-mode-indent</id>
-  <published>2021-09-16T01:32:58Z</published>
-  <updated>2021-09-16T01:32:58Z</updated>
-  <content type="html">
-   Indent files using Emacs web-mode.
-  </content>
- </entry>
- <entry>
-  <title>Thsouza2501: LandOfLisp</title>
-  <author>
-   <name>Thsouza2501</name>
-  </author>
-  <link href="https://github.com/Thsouza2501/LandOfLisp" />
-  <id>urn:rprimus:github:Thsouza2501:LandOfLisp</id>
-  <published>2021-09-16T00:42:32Z</published>
-  <updated>2021-09-16T00:42:32Z</updated>
-  <content type="html">
-   First Steps with CLisp (http://landoflisp.com/)
   </content>
  </entry>
 </feed>
