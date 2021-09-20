@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2021-09-19T03:42:23Z</updated>
+<updated>2021-09-19T21:55:56Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>henrikac: linalg</title>
+  <author>
+   <name>henrikac</name>
+  </author>
+  <link href="https://github.com/henrikac/linalg" />
+  <id>urn:rprimus:github:henrikac:linalg</id>
+  <published>2021-09-19T21:55:56Z</published>
+  <updated>2021-09-19T21:55:56Z</updated>
+  <content type="html">
+   Library that makes it easy to do linear algebra in Crystal - for now only the most basic operations are implemented. (WIP)
+  </content>
+ </entry>
  <entry>
   <title>hde-oliv: exercism</title>
   <author>
@@ -27,7 +40,7 @@
   <published>2021-09-18T16:33:19Z</published>
   <updated>2021-09-18T16:33:19Z</updated>
   <content type="html">
-   
+   Crystal code I made while studying the documentation.
   </content>
  </entry>
  <entry>
@@ -41,45 +54,6 @@
   <updated>2021-09-18T02:57:15Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>wyhaines: time-ext.cr</title>
-  <author>
-   <name>wyhaines</name>
-  </author>
-  <link href="https://github.com/wyhaines/time-ext.cr" />
-  <id>urn:rprimus:github:wyhaines:time-ext.cr</id>
-  <published>2021-09-17T18:14:58Z</published>
-  <updated>2021-09-17T18:14:58Z</updated>
-  <content type="html">
-   This is a very small extension of the Time class for Crystal. It has been extracted from another project as it provides a small number of logical and useful extensions to Time.
-  </content>
- </entry>
- <entry>
-  <title>eliasjpr: brightwheel</title>
-  <author>
-   <name>eliasjpr</name>
-  </author>
-  <link href="https://github.com/eliasjpr/brightwheel" />
-  <id>urn:rprimus:github:eliasjpr:brightwheel</id>
-  <published>2021-09-17T15:36:50Z</published>
-  <updated>2021-09-17T15:36:50Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>makoto-engineer: study_crystal</title>
-  <author>
-   <name>makoto-engineer</name>
-  </author>
-  <link href="https://github.com/makoto-engineer/study_crystal" />
-  <id>urn:rprimus:github:makoto-engineer:study_crystal</id>
-  <published>2021-09-17T14:51:39Z</published>
-  <updated>2021-09-17T14:51:39Z</updated>
-  <content type="html">
-   crystalã®åå¼·ç¨
   </content>
  </entry>
 </feed>

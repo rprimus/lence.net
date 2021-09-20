@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-09-19T07:14:53Z</updated>
+<updated>2021-09-19T15:34:16Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>kototama: commonlisp-playground</title>
+  <author>
+   <name>kototama</name>
+  </author>
+  <link href="https://github.com/kototama/commonlisp-playground" />
+  <id>urn:rprimus:github:kototama:commonlisp-playground</id>
+  <published>2021-09-19T15:34:16Z</published>
+  <updated>2021-09-19T15:34:16Z</updated>
+  <content type="html">
+   A return to the good old Common Lisp
+  </content>
+ </entry>
  <entry>
   <title>g000001: lw-rect</title>
   <author>
@@ -83,68 +96,16 @@
   </content>
  </entry>
  <entry>
-  <title>mariaayanyan: Lisp</title>
+  <title>Olenderpj: CS-3160</title>
   <author>
-   <name>mariaayanyan</name>
+   <name>Olenderpj</name>
   </author>
-  <link href="https://github.com/mariaayanyan/Lisp" />
-  <id>urn:rprimus:github:mariaayanyan:Lisp</id>
-  <published>2021-09-17T14:35:53Z</published>
-  <updated>2021-09-17T14:35:53Z</updated>
+  <link href="https://github.com/Olenderpj/CS-3160" />
+  <id>urn:rprimus:github:Olenderpj:CS-3160</id>
+  <published>2021-09-18T01:56:17Z</published>
+  <updated>2021-09-18T01:56:17Z</updated>
   <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>cukrma: School</title>
-  <author>
-   <name>cukrma</name>
-  </author>
-  <link href="https://github.com/cukrma/School" />
-  <id>urn:rprimus:github:cukrma:School</id>
-  <published>2021-09-17T10:17:36Z</published>
-  <updated>2021-09-17T10:17:36Z</updated>
-  <content type="html">
-   Some school projects
-  </content>
- </entry>
- <entry>
-  <title>lucas101199: AmosMiner</title>
-  <author>
-   <name>lucas101199</name>
-  </author>
-  <link href="https://github.com/lucas101199/AmosMiner" />
-  <id>urn:rprimus:github:lucas101199:AmosMiner</id>
-  <published>2021-09-17T07:49:14Z</published>
-  <updated>2021-09-17T07:49:14Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>kenjirofukuda: cl-sandbox</title>
-  <author>
-   <name>kenjirofukuda</name>
-  </author>
-  <link href="https://github.com/kenjirofukuda/cl-sandbox" />
-  <id>urn:rprimus:github:kenjirofukuda:cl-sandbox</id>
-  <published>2021-09-17T07:03:58Z</published>
-  <updated>2021-09-17T07:03:58Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>hamzashahid-blit: hamzas-ge</title>
-  <author>
-   <name>hamzashahid-blit</name>
-  </author>
-  <link href="https://github.com/hamzashahid-blit/hamzas-ge" />
-  <id>urn:rprimus:github:hamzashahid-blit:hamzas-ge</id>
-  <published>2021-09-17T05:26:02Z</published>
-  <updated>2021-09-17T05:26:02Z</updated>
-  <content type="html">
-   Hamza&#039;s Game Engine. Made in Common Lisp with CEPL and OpenGL
+   Code and assignments from CS concepts class
   </content>
  </entry>
 </feed>
