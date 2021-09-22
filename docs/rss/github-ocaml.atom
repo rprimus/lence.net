@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2021-09-21T04:10:35Z</updated>
+<updated>2021-09-22T02:25:41Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>wilbowma: crash-coq</title>
+  <author>
+   <name>wilbowma</name>
+  </author>
+  <link href="https://github.com/wilbowma/crash-coq" />
+  <id>urn:rprimus:github:wilbowma:crash-coq</id>
+  <published>2021-09-22T02:25:41Z</published>
+  <updated>2021-09-22T02:25:41Z</updated>
+  <content type="html">
+   An example of a linking error triggering a segfault when linking extracted Coq code to OCaml.
+  </content>
+ </entry>
+ <entry>
+  <title>Daniel-Chin: ocaml-99-problems</title>
+  <author>
+   <name>Daniel-Chin</name>
+  </author>
+  <link href="https://github.com/Daniel-Chin/ocaml-99-problems" />
+  <id>urn:rprimus:github:Daniel-Chin:ocaml-99-problems</id>
+  <published>2021-09-22T01:30:22Z</published>
+  <updated>2021-09-22T01:30:22Z</updated>
+  <content type="html">
+   Read readme
+  </content>
+ </entry>
+ <entry>
+  <title>rshulman7: 3110_final_project</title>
+  <author>
+   <name>rshulman7</name>
+  </author>
+  <link href="https://github.com/rshulman7/3110_final_project" />
+  <id>urn:rprimus:github:rshulman7:3110_final_project</id>
+  <published>2021-09-22T00:37:23Z</published>
+  <updated>2021-09-22T00:37:23Z</updated>
+  <content type="html">
+   Final Project for CS 3110 at Cornell 
+  </content>
+ </entry>
+ <entry>
+  <title>vang0278: OCaml</title>
+  <author>
+   <name>vang0278</name>
+  </author>
+  <link href="https://github.com/vang0278/OCaml" />
+  <id>urn:rprimus:github:vang0278:OCaml</id>
+  <published>2021-09-21T19:00:08Z</published>
+  <updated>2021-09-21T19:00:08Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>EmileTrotignon: heptagon</title>
+  <author>
+   <name>EmileTrotignon</name>
+  </author>
+  <link href="https://github.com/EmileTrotignon/heptagon" />
+  <id>urn:rprimus:github:EmileTrotignon:heptagon</id>
+  <published>2021-09-21T14:41:03Z</published>
+  <updated>2021-09-21T14:41:03Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>geoffder: ppx_deriving_scad</title>
   <author>
@@ -78,84 +143,6 @@
   <id>urn:rprimus:github:quazariun:OCaml-Path</id>
   <published>2021-09-20T00:59:36Z</published>
   <updated>2021-09-20T00:59:36Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ChrisAtMines: grading_script</title>
-  <author>
-   <name>ChrisAtMines</name>
-  </author>
-  <link href="https://github.com/ChrisAtMines/grading_script" />
-  <id>urn:rprimus:github:ChrisAtMines:grading_script</id>
-  <published>2021-09-19T17:46:17Z</published>
-  <updated>2021-09-19T17:46:17Z</updated>
-  <content type="html">
-   Script for grading ocaml assignments
-  </content>
- </entry>
- <entry>
-  <title>addycb: CS320</title>
-  <author>
-   <name>addycb</name>
-  </author>
-  <link href="https://github.com/addycb/CS320" />
-  <id>urn:rprimus:github:addycb:CS320</id>
-  <published>2021-09-19T16:25:31Z</published>
-  <updated>2021-09-19T16:25:31Z</updated>
-  <content type="html">
-   CS 320 Coursework
-  </content>
- </entry>
- <entry>
-  <title>toutane: caml-functions</title>
-  <author>
-   <name>toutane</name>
-  </author>
-  <link href="https://github.com/toutane/caml-functions" />
-  <id>urn:rprimus:github:toutane:caml-functions</id>
-  <published>2021-09-19T14:15:19Z</published>
-  <updated>2021-09-19T14:15:19Z</updated>
-  <content type="html">
-   Collection of functions written in CamL
-  </content>
- </entry>
- <entry>
-  <title>roddyyaga: redis-in-ocaml</title>
-  <author>
-   <name>roddyyaga</name>
-  </author>
-  <link href="https://github.com/roddyyaga/redis-in-ocaml" />
-  <id>urn:rprimus:github:roddyyaga:redis-in-ocaml</id>
-  <published>2021-09-19T12:10:06Z</published>
-  <updated>2021-09-19T12:10:06Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>hz97: static-analyzer</title>
-  <author>
-   <name>hz97</name>
-  </author>
-  <link href="https://github.com/hz97/static-analyzer" />
-  <id>urn:rprimus:github:hz97:static-analyzer</id>
-  <published>2021-09-19T09:19:49Z</published>
-  <updated>2021-09-19T09:19:49Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>artjomPlaunov: bril-Ocaml</title>
-  <author>
-   <name>artjomPlaunov</name>
-  </author>
-  <link href="https://github.com/artjomPlaunov/bril-Ocaml" />
-  <id>urn:rprimus:github:artjomPlaunov:bril-Ocaml</id>
-  <published>2021-09-19T02:48:55Z</published>
-  <updated>2021-09-19T02:48:55Z</updated>
   <content type="html">
    
   </content>
