@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2021-09-23T04:37:07Z</updated>
+<updated>2021-09-23T06:13:15Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>Tim-ats-d: Postem-markup</title>
+  <author>
+   <name>Tim-ats-d</name>
+  </author>
+  <link href="https://github.com/Tim-ats-d/Postem-markup" />
+  <id>urn:rprimus:github:Tim-ats-d:Postem-markup</id>
+  <published>2021-09-23T06:13:15Z</published>
+  <updated>2021-09-23T06:13:15Z</updated>
+  <content type="html">
+   Fast and easy notes taking oriented markup language.
+  </content>
+ </entry>
  <entry>
   <title>gpark31: CS-496</title>
   <author>
@@ -93,6 +106,19 @@
   <updated>2021-09-22T20:14:40Z</updated>
   <content type="html">
    Add UTF-X decoding support to the OCaml Stdlib
+  </content>
+ </entry>
+ <entry>
+  <title>Thibaut-Gudin: ocaml-cordova-plugin-chooser</title>
+  <author>
+   <name>Thibaut-Gudin</name>
+  </author>
+  <link href="https://github.com/Thibaut-Gudin/ocaml-cordova-plugin-chooser" />
+  <id>urn:rprimus:github:Thibaut-Gudin:ocaml-cordova-plugin-chooser</id>
+  <published>2021-09-22T14:51:02Z</published>
+  <updated>2021-09-22T14:51:02Z</updated>
+  <content type="html">
+   ocaml binding to `cordova-plugin-chooser` using gen_js_api
   </content>
  </entry>
  <entry>
