@@ -2,8 +2,125 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-09-22T22:42:54Z</updated>
+<updated>2021-09-24T04:21:30Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>stewart123579: cl-yolo</title>
+  <author>
+   <name>stewart123579</name>
+  </author>
+  <link href="https://github.com/stewart123579/cl-yolo" />
+  <id>urn:rprimus:github:stewart123579:cl-yolo</id>
+  <published>2021-09-24T04:21:30Z</published>
+  <updated>2021-09-24T04:21:30Z</updated>
+  <content type="html">
+   Original commits for cl-yolo
+  </content>
+ </entry>
+ <entry>
+  <title>joshroybal: cl-bst</title>
+  <author>
+   <name>joshroybal</name>
+  </author>
+  <link href="https://github.com/joshroybal/cl-bst" />
+  <id>urn:rprimus:github:joshroybal:cl-bst</id>
+  <published>2021-09-24T03:03:39Z</published>
+  <updated>2021-09-24T03:03:39Z</updated>
+  <content type="html">
+   common lisp binary search trees and small scale tests
+  </content>
+ </entry>
+ <entry>
+  <title>camille24121998: InformatiqueCognitive</title>
+  <author>
+   <name>camille24121998</name>
+  </author>
+  <link href="https://github.com/camille24121998/InformatiqueCognitive" />
+  <id>urn:rprimus:github:camille24121998:InformatiqueCognitive</id>
+  <published>2021-09-24T02:33:10Z</published>
+  <updated>2021-09-24T02:33:10Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>carlosganzerla: ansi-common-lisp</title>
+  <author>
+   <name>carlosganzerla</name>
+  </author>
+  <link href="https://github.com/carlosganzerla/ansi-common-lisp" />
+  <id>urn:rprimus:github:carlosganzerla:ansi-common-lisp</id>
+  <published>2021-09-24T01:26:39Z</published>
+  <updated>2021-09-24T01:26:39Z</updated>
+  <content type="html">
+   My answers to the exericses present on ANSI Common Lisp by Paul Graham
+  </content>
+ </entry>
+ <entry>
+  <title>kpdyer16: connect-4-minimax</title>
+  <author>
+   <name>kpdyer16</name>
+  </author>
+  <link href="https://github.com/kpdyer16/connect-4-minimax" />
+  <id>urn:rprimus:github:kpdyer16:connect-4-minimax</id>
+  <published>2021-09-24T00:15:50Z</published>
+  <updated>2021-09-24T00:15:50Z</updated>
+  <content type="html">
+   Implements a connect 4 AI that uses the minimax algorithm
+  </content>
+ </entry>
+ <entry>
+  <title>jagadishb09: banach-tarski</title>
+  <author>
+   <name>jagadishb09</name>
+  </author>
+  <link href="https://github.com/jagadishb09/banach-tarski" />
+  <id>urn:rprimus:github:jagadishb09:banach-tarski</id>
+  <published>2021-09-23T22:37:30Z</published>
+  <updated>2021-09-23T22:37:30Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>borodust: aw-opus</title>
+  <author>
+   <name>borodust</name>
+  </author>
+  <link href="https://github.com/borodust/aw-opus" />
+  <id>urn:rprimus:github:borodust:aw-opus</id>
+  <published>2021-09-23T20:16:19Z</published>
+  <updated>2021-09-23T20:16:19Z</updated>
+  <content type="html">
+   Common Lisp bindings to Xiph Opus codec for alien-works
+  </content>
+ </entry>
+ <entry>
+  <title>borodust: aw-chipmunk</title>
+  <author>
+   <name>borodust</name>
+  </author>
+  <link href="https://github.com/borodust/aw-chipmunk" />
+  <id>urn:rprimus:github:borodust:aw-chipmunk</id>
+  <published>2021-09-23T19:03:21Z</published>
+  <updated>2021-09-23T19:03:21Z</updated>
+  <content type="html">
+   Common Lisp bindings to Chipmunk 2D physics library for alien-works
+  </content>
+ </entry>
+ <entry>
+  <title>lisp-mirror: cl-tar</title>
+  <author>
+   <name>lisp-mirror</name>
+  </author>
+  <link href="https://github.com/lisp-mirror/cl-tar" />
+  <id>urn:rprimus:github:lisp-mirror:cl-tar</id>
+  <published>2021-09-23T16:32:37Z</published>
+  <updated>2021-09-23T16:32:37Z</updated>
+  <content type="html">
+   https://gitlab.common-lisp.net/cl-tar/cl-tar
+  </content>
+ </entry>
  <entry>
   <title>Bike: burke</title>
   <author>
@@ -131,7 +248,7 @@
   <published>2021-09-22T12:25:11Z</published>
   <updated>2021-09-22T12:25:11Z</updated>
   <content type="html">
-   
+   A portable and extensible Common Lisp pretty printer.
   </content>
  </entry>
  <entry>
@@ -184,45 +301,6 @@
   <updated>2021-09-22T01:14:41Z</updated>
   <content type="html">
    SRFI 197 for CL: Pipeline Operators
-  </content>
- </entry>
- <entry>
-  <title>WaltersAndWolfGlass: AutoLISP-Lessons</title>
-  <author>
-   <name>WaltersAndWolfGlass</name>
-  </author>
-  <link href="https://github.com/WaltersAndWolfGlass/AutoLISP-Lessons" />
-  <id>urn:rprimus:github:WaltersAndWolfGlass:AutoLISP-Lessons</id>
-  <published>2021-09-21T22:39:45Z</published>
-  <updated>2021-09-21T22:39:45Z</updated>
-  <content type="html">
-   Lessons and class materials for learning AutoLISP
-  </content>
- </entry>
- <entry>
-  <title>Wafelack: ciska</title>
-  <author>
-   <name>Wafelack</name>
-  </author>
-  <link href="https://github.com/Wafelack/ciska" />
-  <id>urn:rprimus:github:Wafelack:ciska</id>
-  <published>2021-09-21T21:13:45Z</published>
-  <updated>2021-09-21T21:13:45Z</updated>
-  <content type="html">
-   A screen-oriented text editor.
-  </content>
- </entry>
- <entry>
-  <title>jaemk: random</title>
-  <author>
-   <name>jaemk</name>
-  </author>
-  <link href="https://github.com/jaemk/random" />
-  <id>urn:rprimus:github:jaemk:random</id>
-  <published>2021-09-21T02:07:33Z</published>
-  <updated>2021-09-21T02:07:33Z</updated>
-  <content type="html">
-   Generate random things
   </content>
  </entry>
 </feed>
