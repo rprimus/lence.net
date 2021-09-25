@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2021-09-24T14:28:40Z</updated>
+<updated>2021-09-25T00:48:06Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>Doomwhite: doom-emacs-config</title>
+  <author>
+   <name>Doomwhite</name>
+  </author>
+  <link href="https://github.com/Doomwhite/doom-emacs-config" />
+  <id>urn:rprimus:github:Doomwhite:doom-emacs-config</id>
+  <published>2021-09-25T00:48:06Z</published>
+  <updated>2021-09-25T00:48:06Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>GuillermoMajano: guts-emacs</title>
+  <author>
+   <name>GuillermoMajano</name>
+  </author>
+  <link href="https://github.com/GuillermoMajano/guts-emacs" />
+  <id>urn:rprimus:github:GuillermoMajano:guts-emacs</id>
+  <published>2021-09-24T18:09:35Z</published>
+  <updated>2021-09-24T18:09:35Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>n00p3: emacs-stuff</title>
+  <author>
+   <name>n00p3</name>
+  </author>
+  <link href="https://github.com/n00p3/emacs-stuff" />
+  <id>urn:rprimus:github:n00p3:emacs-stuff</id>
+  <published>2021-09-24T16:17:01Z</published>
+  <updated>2021-09-24T16:17:01Z</updated>
+  <content type="html">
+   My emacs configuration files and stuff like that...
+  </content>
+ </entry>
  <entry>
   <title>jarizleifr: jarizleifr.github.io</title>
   <author>
@@ -131,7 +170,7 @@
   <published>2021-09-23T20:26:54Z</published>
   <updated>2021-09-23T20:26:54Z</updated>
   <content type="html">
-   My new emacs configuration
+   My new emacs configuration (wip!!)
   </content>
  </entry>
  <entry>
@@ -236,214 +275,6 @@
   <updated>2021-09-23T02:49:11Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>NFrid: .doom.d</title>
-  <author>
-   <name>NFrid</name>
-  </author>
-  <link href="https://github.com/NFrid/.doom.d" />
-  <id>urn:rprimus:github:NFrid:.doom.d</id>
-  <published>2021-09-22T21:22:13Z</published>
-  <updated>2021-09-22T21:22:13Z</updated>
-  <content type="html">
-   muh doom emacs configs
-  </content>
- </entry>
- <entry>
-  <title>zrubing: .doom.d</title>
-  <author>
-   <name>zrubing</name>
-  </author>
-  <link href="https://github.com/zrubing/.doom.d" />
-  <id>urn:rprimus:github:zrubing:.doom.d</id>
-  <published>2021-09-22T17:30:34Z</published>
-  <updated>2021-09-22T17:30:34Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>mohkale: consult-yasnippet</title>
-  <author>
-   <name>mohkale</name>
-  </author>
-  <link href="https://github.com/mohkale/consult-yasnippet" />
-  <id>urn:rprimus:github:mohkale:consult-yasnippet</id>
-  <published>2021-09-22T15:24:53Z</published>
-  <updated>2021-09-22T15:24:53Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>mohkale: consult-company</title>
-  <author>
-   <name>mohkale</name>
-  </author>
-  <link href="https://github.com/mohkale/consult-company" />
-  <id>urn:rprimus:github:mohkale:consult-company</id>
-  <published>2021-09-22T15:03:24Z</published>
-  <updated>2021-09-22T15:03:24Z</updated>
-  <content type="html">
-   A consulting-read interface for company.
-  </content>
- </entry>
- <entry>
-  <title>orzechowskid: tsi.el</title>
-  <author>
-   <name>orzechowskid</name>
-  </author>
-  <link href="https://github.com/orzechowskid/tsi.el" />
-  <id>urn:rprimus:github:orzechowskid:tsi.el</id>
-  <published>2021-09-22T14:19:33Z</published>
-  <updated>2021-09-22T14:19:33Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>coco-hkk: dotfiles</title>
-  <author>
-   <name>coco-hkk</name>
-  </author>
-  <link href="https://github.com/coco-hkk/dotfiles" />
-  <id>urn:rprimus:github:coco-hkk:dotfiles</id>
-  <published>2021-09-22T13:50:18Z</published>
-  <updated>2021-09-22T13:50:18Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>mohkale: compile-multi</title>
-  <author>
-   <name>mohkale</name>
-  </author>
-  <link href="https://github.com/mohkale/compile-multi" />
-  <id>urn:rprimus:github:mohkale:compile-multi</id>
-  <published>2021-09-22T12:44:47Z</published>
-  <updated>2021-09-22T12:44:47Z</updated>
-  <content type="html">
-   Multi target interface to compile.
-  </content>
- </entry>
- <entry>
-  <title>alphapapa: ap.el</title>
-  <author>
-   <name>alphapapa</name>
-  </author>
-  <link href="https://github.com/alphapapa/ap.el" />
-  <id>urn:rprimus:github:alphapapa:ap.el</id>
-  <published>2021-09-22T10:30:39Z</published>
-  <updated>2021-09-22T10:30:39Z</updated>
-  <content type="html">
-   A simple, Emacs Lisp-focused Emacs config
-  </content>
- </entry>
- <entry>
-  <title>AyaWcksn: Personal-Emacs-Configuration</title>
-  <author>
-   <name>AyaWcksn</name>
-  </author>
-  <link href="https://github.com/AyaWcksn/Personal-Emacs-Configuration" />
-  <id>urn:rprimus:github:AyaWcksn:Personal-Emacs-Configuration</id>
-  <published>2021-09-22T10:16:36Z</published>
-  <updated>2021-09-22T10:16:36Z</updated>
-  <content type="html">
-   This repository is for my Personal GNU/Emacs Text Editor configuration
-  </content>
- </entry>
- <entry>
-  <title>zaeph: ctci</title>
-  <author>
-   <name>zaeph</name>
-  </author>
-  <link href="https://github.com/zaeph/ctci" />
-  <id>urn:rprimus:github:zaeph:ctci</id>
-  <published>2021-09-22T09:37:41Z</published>
-  <updated>2021-09-22T09:37:41Z</updated>
-  <content type="html">
-   My solutions for CTCI in Elisp; this is mostly used for Elisp code-fu
-  </content>
- </entry>
- <entry>
-  <title>patrykmtk: emacsd</title>
-  <author>
-   <name>patrykmtk</name>
-  </author>
-  <link href="https://github.com/patrykmtk/emacsd" />
-  <id>urn:rprimus:github:patrykmtk:emacsd</id>
-  <published>2021-09-22T09:32:12Z</published>
-  <updated>2021-09-22T09:32:12Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>nagamatz: dotfiles</title>
-  <author>
-   <name>nagamatz</name>
-  </author>
-  <link href="https://github.com/nagamatz/dotfiles" />
-  <id>urn:rprimus:github:nagamatz:dotfiles</id>
-  <published>2021-09-22T06:45:25Z</published>
-  <updated>2021-09-22T06:45:25Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>yuanshanhshan: spacemacs-yss</title>
-  <author>
-   <name>yuanshanhshan</name>
-  </author>
-  <link href="https://github.com/yuanshanhshan/spacemacs-yss" />
-  <id>urn:rprimus:github:yuanshanhshan:spacemacs-yss</id>
-  <published>2021-09-22T05:16:56Z</published>
-  <updated>2021-09-22T05:16:56Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>abishek: emacs-doom-config</title>
-  <author>
-   <name>abishek</name>
-  </author>
-  <link href="https://github.com/abishek/emacs-doom-config" />
-  <id>urn:rprimus:github:abishek:emacs-doom-config</id>
-  <published>2021-09-22T02:47:31Z</published>
-  <updated>2021-09-22T02:47:31Z</updated>
-  <content type="html">
-   My personal emacs doom setup
-  </content>
- </entry>
- <entry>
-  <title>walkingalchemy: dotfile</title>
-  <author>
-   <name>walkingalchemy</name>
-  </author>
-  <link href="https://github.com/walkingalchemy/dotfile" />
-  <id>urn:rprimus:github:walkingalchemy:dotfile</id>
-  <published>2021-09-22T02:43:01Z</published>
-  <updated>2021-09-22T02:43:01Z</updated>
-  <content type="html">
-   Your friendly neighborhood dotfiles
-  </content>
- </entry>
- <entry>
-  <title>hde-oliv: doom_config</title>
-  <author>
-   <name>hde-oliv</name>
-  </author>
-  <link href="https://github.com/hde-oliv/doom_config" />
-  <id>urn:rprimus:github:hde-oliv:doom_config</id>
-  <published>2021-09-22T01:57:41Z</published>
-  <updated>2021-09-22T01:57:41Z</updated>
-  <content type="html">
-   My Doom Emacs configuration.
   </content>
  </entry>
 </feed>
