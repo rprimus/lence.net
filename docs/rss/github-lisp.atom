@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-09-25T09:34:23Z</updated>
+<updated>2021-09-26T06:21:15Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>mrios22: cl-glicko</title>
+  <author>
+   <name>mrios22</name>
+  </author>
+  <link href="https://github.com/mrios22/cl-glicko" />
+  <id>urn:rprimus:github:mrios22:cl-glicko</id>
+  <published>2021-09-26T06:21:15Z</published>
+  <updated>2021-09-26T06:21:15Z</updated>
+  <content type="html">
+   An implementation of the Glicko-2 rating algorithm in Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>codr7: snabl</title>
+  <author>
+   <name>codr7</name>
+  </author>
+  <link href="https://github.com/codr7/snabl" />
+  <id>urn:rprimus:github:codr7:snabl</id>
+  <published>2021-09-25T20:49:12Z</published>
+  <updated>2021-09-25T20:49:12Z</updated>
+  <content type="html">
+   a concatenative language in Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>dop: remote-parenscript</title>
+  <author>
+   <name>dop</name>
+  </author>
+  <link href="https://github.com/dop/remote-parenscript" />
+  <id>urn:rprimus:github:dop:remote-parenscript</id>
+  <published>2021-09-25T19:32:20Z</published>
+  <updated>2021-09-25T19:32:20Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>Basti110: skeleton-normalization</title>
   <author>
@@ -15,6 +54,19 @@
   <updated>2021-09-25T09:34:23Z</updated>
   <content type="html">
    
+  </content>
+ </entry>
+ <entry>
+  <title>timmyjose-projects: project-euler</title>
+  <author>
+   <name>timmyjose-projects</name>
+  </author>
+  <link href="https://github.com/timmyjose-projects/project-euler" />
+  <id>urn:rprimus:github:timmyjose-projects:project-euler</id>
+  <published>2021-09-25T04:56:03Z</published>
+  <updated>2021-09-25T04:56:03Z</updated>
+  <content type="html">
+   Project Euler solutions.
   </content>
  </entry>
  <entry>
@@ -145,71 +197,6 @@
   <updated>2021-09-24T00:15:50Z</updated>
   <content type="html">
    Implements a connect 4 AI that uses the minimax algorithm
-  </content>
- </entry>
- <entry>
-  <title>jagadishb09: banach-tarski</title>
-  <author>
-   <name>jagadishb09</name>
-  </author>
-  <link href="https://github.com/jagadishb09/banach-tarski" />
-  <id>urn:rprimus:github:jagadishb09:banach-tarski</id>
-  <published>2021-09-23T22:37:30Z</published>
-  <updated>2021-09-23T22:37:30Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>borodust: aw-opus</title>
-  <author>
-   <name>borodust</name>
-  </author>
-  <link href="https://github.com/borodust/aw-opus" />
-  <id>urn:rprimus:github:borodust:aw-opus</id>
-  <published>2021-09-23T20:16:19Z</published>
-  <updated>2021-09-23T20:16:19Z</updated>
-  <content type="html">
-   Common Lisp bindings to Xiph Opus codec for alien-works
-  </content>
- </entry>
- <entry>
-  <title>borodust: aw-chipmunk</title>
-  <author>
-   <name>borodust</name>
-  </author>
-  <link href="https://github.com/borodust/aw-chipmunk" />
-  <id>urn:rprimus:github:borodust:aw-chipmunk</id>
-  <published>2021-09-23T19:03:21Z</published>
-  <updated>2021-09-23T19:03:21Z</updated>
-  <content type="html">
-   Common Lisp bindings to Chipmunk 2D physics library for alien-works
-  </content>
- </entry>
- <entry>
-  <title>lisp-mirror: cl-tar</title>
-  <author>
-   <name>lisp-mirror</name>
-  </author>
-  <link href="https://github.com/lisp-mirror/cl-tar" />
-  <id>urn:rprimus:github:lisp-mirror:cl-tar</id>
-  <published>2021-09-23T16:32:37Z</published>
-  <updated>2021-09-23T16:32:37Z</updated>
-  <content type="html">
-   https://gitlab.common-lisp.net/cl-tar/cl-tar
-  </content>
- </entry>
- <entry>
-  <title>sazare: kamnagi</title>
-  <author>
-   <name>sazare</name>
-  </author>
-  <link href="https://github.com/sazare/kamnagi" />
-  <id>urn:rprimus:github:sazare:kamnagi</id>
-  <published>2021-09-23T06:49:28Z</published>
-  <updated>2021-09-23T06:49:28Z</updated>
-  <content type="html">
-   a data generator
   </content>
  </entry>
 </feed>
