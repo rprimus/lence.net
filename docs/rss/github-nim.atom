@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2021-09-27T07:54:25Z</updated>
+<updated>2021-09-27T23:51:45Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>gavr123456789: env-editor</title>
+  <author>
+   <name>gavr123456789</name>
+  </author>
+  <link href="https://github.com/gavr123456789/env-editor" />
+  <id>urn:rprimus:github:gavr123456789:env-editor</id>
+  <published>2021-09-27T23:51:45Z</published>
+  <updated>2021-09-27T23:51:45Z</updated>
+  <content type="html">
+   gui editor for enviroment variables
+  </content>
+ </entry>
+ <entry>
+  <title>nshandra: CTFs</title>
+  <author>
+   <name>nshandra</name>
+  </author>
+  <link href="https://github.com/nshandra/CTFs" />
+  <id>urn:rprimus:github:nshandra:CTFs</id>
+  <published>2021-09-27T19:20:44Z</published>
+  <updated>2021-09-27T19:20:44Z</updated>
+  <content type="html">
+   Public repository with notes, resources and writeups from CTFs.
+  </content>
+ </entry>
+ <entry>
+  <title>not-pope: my-nim-playground</title>
+  <author>
+   <name>not-pope</name>
+  </author>
+  <link href="https://github.com/not-pope/my-nim-playground" />
+  <id>urn:rprimus:github:not-pope:my-nim-playground</id>
+  <published>2021-09-27T18:22:04Z</published>
+  <updated>2021-09-27T18:22:04Z</updated>
+  <content type="html">
+   i wanted to test/learn nim..
+  </content>
+ </entry>
+ <entry>
+  <title>Arc-Compute: libvf.io</title>
+  <author>
+   <name>Arc-Compute</name>
+  </author>
+  <link href="https://github.com/Arc-Compute/libvf.io" />
+  <id>urn:rprimus:github:Arc-Compute:libvf.io</id>
+  <published>2021-09-27T16:16:19Z</published>
+  <updated>2021-09-27T16:16:19Z</updated>
+  <content type="html">
+   A vendor neutral GPU multiplexing tool driven by VFIO &amp; YAML.
+  </content>
+ </entry>
+ <entry>
+  <title>clzls: sqldiffer</title>
+  <author>
+   <name>clzls</name>
+  </author>
+  <link href="https://github.com/clzls/sqldiffer" />
+  <id>urn:rprimus:github:clzls:sqldiffer</id>
+  <published>2021-09-27T12:38:29Z</published>
+  <updated>2021-09-27T12:38:29Z</updated>
+  <content type="html">
+   A wrapper of SQLite `sqldiff` util for use with `git diff`
+  </content>
+ </entry>
  <entry>
   <title>zendbit: nim.zfdbms</title>
   <author>
@@ -93,45 +158,6 @@
   <updated>2021-09-26T04:43:20Z</updated>
   <content type="html">
    Some Nim code I wrote while learning Nim
-  </content>
- </entry>
- <entry>
-  <title>wizardlink: calc_work</title>
-  <author>
-   <name>wizardlink</name>
-  </author>
-  <link href="https://github.com/wizardlink/calc_work" />
-  <id>urn:rprimus:github:wizardlink:calc_work</id>
-  <published>2021-09-25T18:09:27Z</published>
-  <updated>2021-09-25T18:09:27Z</updated>
-  <content type="html">
-   Small project for learning the nim language, it can calculate the amount of time you worked and how much it adds to your hour bank.
-  </content>
- </entry>
- <entry>
-  <title>dylhack: matrix-nim-sdk</title>
-  <author>
-   <name>dylhack</name>
-  </author>
-  <link href="https://github.com/dylhack/matrix-nim-sdk" />
-  <id>urn:rprimus:github:dylhack:matrix-nim-sdk</id>
-  <published>2021-09-25T03:01:24Z</published>
-  <updated>2021-09-25T03:01:24Z</updated>
-  <content type="html">
-   [WIP] Matrix client-server and appservice API wrapper
-  </content>
- </entry>
- <entry>
-  <title>EmbeddedNim: nephyr</title>
-  <author>
-   <name>EmbeddedNim</name>
-  </author>
-  <link href="https://github.com/EmbeddedNim/nephyr" />
-  <id>urn:rprimus:github:EmbeddedNim:nephyr</id>
-  <published>2021-09-25T00:54:14Z</published>
-  <updated>2021-09-25T00:54:14Z</updated>
-  <content type="html">
-   Nim wrapper for Zephyr
   </content>
  </entry>
 </feed>
