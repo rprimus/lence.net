@@ -2,15 +2,67 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-haskell.atom"/>
 <id>urn:rprimus:github:newhaskellrepos</id>
-<updated>2021-09-29T05:04:37Z</updated>
+<updated>2021-09-29T08:34:29Z</updated>
 <title type='text'>New GitHub Haskell Repos</title>
  <entry>
-  <title>bjing: simple-haskell-project</title>
+  <title>ahaxu: gitpod_hkp</title>
+  <author>
+   <name>ahaxu</name>
+  </author>
+  <link href="https://github.com/ahaxu/gitpod_hkp" />
+  <id>urn:rprimus:github:ahaxu:gitpod_hkp</id>
+  <published>2021-09-29T08:34:29Z</published>
+  <updated>2021-09-29T08:34:29Z</updated>
+  <content type="html">
+   gitpod haskell playground (exercise from fp-course)
+  </content>
+ </entry>
+ <entry>
+  <title>jjavimu: ProgramacionDeclarativa</title>
+  <author>
+   <name>jjavimu</name>
+  </author>
+  <link href="https://github.com/jjavimu/ProgramacionDeclarativa" />
+  <id>urn:rprimus:github:jjavimu:ProgramacionDeclarativa</id>
+  <published>2021-09-29T07:24:59Z</published>
+  <updated>2021-09-29T07:24:59Z</updated>
+  <content type="html">
+   PrÃ¡cticas en Haskell de la asignatura ProgramaciÃ³n Declarativa (UCM)
+  </content>
+ </entry>
+ <entry>
+  <title>seaerchin: quad-ci</title>
+  <author>
+   <name>seaerchin</name>
+  </author>
+  <link href="https://github.com/seaerchin/quad-ci" />
+  <id>urn:rprimus:github:seaerchin:quad-ci</id>
+  <published>2021-09-29T07:06:37Z</published>
+  <updated>2021-09-29T07:06:37Z</updated>
+  <content type="html">
+   a ci server built entirely in haskell
+  </content>
+ </entry>
+ <entry>
+  <title>ahaxu: testgitpod</title>
+  <author>
+   <name>ahaxu</name>
+  </author>
+  <link href="https://github.com/ahaxu/testgitpod" />
+  <id>urn:rprimus:github:ahaxu:testgitpod</id>
+  <published>2021-09-29T05:47:26Z</published>
+  <updated>2021-09-29T05:47:26Z</updated>
+  <content type="html">
+   play with gitpod
+  </content>
+ </entry>
+ <entry>
+  <title>bjing: simple-haskell-project-template</title>
   <author>
    <name>bjing</name>
   </author>
-  <link href="https://github.com/bjing/simple-haskell-project" />
-  <id>urn:rprimus:github:bjing:simple-haskell-project</id>
+  <link href="https://github.com/bjing/simple-haskell-project-template" />
+  <id>urn:rprimus:github:bjing:simple-haskell-project-template</id>
   <published>2021-09-29T05:04:37Z</published>
   <updated>2021-09-29T05:04:37Z</updated>
   <content type="html">
@@ -746,6 +798,19 @@
   </content>
  </entry>
  <entry>
+  <title>thalesmg: lhox</title>
+  <author>
+   <name>thalesmg</name>
+  </author>
+  <link href="https://github.com/thalesmg/lhox" />
+  <id>urn:rprimus:github:thalesmg:lhox</id>
+  <published>2021-09-27T14:29:13Z</published>
+  <updated>2021-09-27T14:29:13Z</updated>
+  <content type="html">
+   Lox in Haskell (from Crafting Interpreters, by Robert Nystrom)
+  </content>
+ </entry>
+ <entry>
   <title>koterpillar: pleasant-light-color-scheme</title>
   <author>
    <name>koterpillar</name>
@@ -795,19 +860,6 @@
   <updated>2021-09-27T09:28:36Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>sproott: pat.hs</title>
-  <author>
-   <name>sproott</name>
-  </author>
-  <link href="https://github.com/sproott/pat.hs" />
-  <id>urn:rprimus:github:sproott:pat.hs</id>
-  <published>2021-09-27T08:46:25Z</published>
-  <updated>2021-09-27T08:46:25Z</updated>
-  <content type="html">
-   Save often used directories like bookmarks
   </content>
  </entry>
  <entry>
