@@ -2,8 +2,112 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-racket.atom"/>
 <id>urn:rprimus:github:newracketrepos</id>
-<updated>2021-09-28T06:52:00Z</updated>
+<updated>2021-09-29T03:02:11Z</updated>
 <title type='text'>New GitHub Racket Repos</title>
+ <entry>
+  <title>ZZZping: my-sicp-lisp-demo</title>
+  <author>
+   <name>ZZZping</name>
+  </author>
+  <link href="https://github.com/ZZZping/my-sicp-lisp-demo" />
+  <id>urn:rprimus:github:ZZZping:my-sicp-lisp-demo</id>
+  <published>2021-09-29T03:02:11Z</published>
+  <updated>2021-09-29T03:02:11Z</updated>
+  <content type="html">
+   Some small lisp code in sicp
+  </content>
+ </entry>
+ <entry>
+  <title>hg387: Functional_Programming_In_Scheme-Haskell</title>
+  <author>
+   <name>hg387</name>
+  </author>
+  <link href="https://github.com/hg387/Functional_Programming_In_Scheme-Haskell" />
+  <id>urn:rprimus:github:hg387:Functional_Programming_In_Scheme-Haskell</id>
+  <published>2021-09-29T01:36:47Z</published>
+  <updated>2021-09-29T01:36:47Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>jsgrant: rack</title>
+  <author>
+   <name>jsgrant</name>
+  </author>
+  <link href="https://github.com/jsgrant/rack" />
+  <id>urn:rprimus:github:jsgrant:rack</id>
+  <published>2021-09-28T22:41:25Z</published>
+  <updated>2021-09-28T22:41:25Z</updated>
+  <content type="html">
+     &quot;Racks are Built On-Top But Condense&quot;; A Toy #lang For Racket That Experiments With Shorter Forms, Less # For Comments &amp; Keywords, And A Few Other Nicites. 
+  </content>
+ </entry>
+ <entry>
+  <title>tealeg: awssb-gen</title>
+  <author>
+   <name>tealeg</name>
+  </author>
+  <link href="https://github.com/tealeg/awssb-gen" />
+  <id>urn:rprimus:github:tealeg:awssb-gen</id>
+  <published>2021-09-28T13:57:36Z</published>
+  <updated>2021-09-28T13:57:36Z</updated>
+  <content type="html">
+   Experimental YAML generator for AWSSB templates.
+  </content>
+ </entry>
+ <entry>
+  <title>TMatzCUW: 470HW5</title>
+  <author>
+   <name>TMatzCUW</name>
+  </author>
+  <link href="https://github.com/TMatzCUW/470HW5" />
+  <id>urn:rprimus:github:TMatzCUW:470HW5</id>
+  <published>2021-09-28T13:02:30Z</published>
+  <updated>2021-09-28T13:02:30Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Huntersmith75: csc470</title>
+  <author>
+   <name>Huntersmith75</name>
+  </author>
+  <link href="https://github.com/Huntersmith75/csc470" />
+  <id>urn:rprimus:github:Huntersmith75:csc470</id>
+  <published>2021-09-28T12:54:17Z</published>
+  <updated>2021-09-28T12:54:17Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>EberhardtRafael: Racket-Stuff</title>
+  <author>
+   <name>EberhardtRafael</name>
+  </author>
+  <link href="https://github.com/EberhardtRafael/Racket-Stuff" />
+  <id>urn:rprimus:github:EberhardtRafael:Racket-Stuff</id>
+  <published>2021-09-28T12:32:11Z</published>
+  <updated>2021-09-28T12:32:11Z</updated>
+  <content type="html">
+   Just saving the codes developed for an undergrad subject on Racket language.
+  </content>
+ </entry>
+ <entry>
+  <title>lunarised: Racket_SICP</title>
+  <author>
+   <name>lunarised</name>
+  </author>
+  <link href="https://github.com/lunarised/Racket_SICP" />
+  <id>urn:rprimus:github:lunarised:Racket_SICP</id>
+  <published>2021-09-28T11:10:12Z</published>
+  <updated>2021-09-28T11:10:12Z</updated>
+  <content type="html">
+   My SICP adventures in Racket
+  </content>
+ </entry>
  <entry>
   <title>Galindo-lab: racket-portafolio</title>
   <author>
@@ -174,19 +278,6 @@
   </content>
  </entry>
  <entry>
-  <title>jsgrant: wack</title>
-  <author>
-   <name>jsgrant</name>
-  </author>
-  <link href="https://github.com/jsgrant/wack" />
-  <id>urn:rprimus:github:jsgrant:wack</id>
-  <published>2021-09-27T18:59:17Z</published>
-  <updated>2021-09-27T18:59:17Z</updated>
-  <content type="html">
-   A Racket WASM Backend Of Dubious Quality And/Or Completion. 
-  </content>
- </entry>
- <entry>
   <title>jsgrant: tad</title>
   <author>
    <name>jsgrant</name>
@@ -249,71 +340,6 @@
   <updated>2021-09-27T03:38:23Z</updated>
   <content type="html">
    Support for markdown in racket/gui text%
-  </content>
- </entry>
- <entry>
-  <title>ddanielalves: Preprocessing-with-Active-Tokens</title>
-  <author>
-   <name>ddanielalves</name>
-  </author>
-  <link href="https://github.com/ddanielalves/Preprocessing-with-Active-Tokens" />
-  <id>urn:rprimus:github:ddanielalves:Preprocessing-with-Active-Tokens</id>
-  <published>2021-09-26T18:15:47Z</published>
-  <updated>2021-09-26T18:15:47Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>LRudL: ozytree</title>
-  <author>
-   <name>LRudL</name>
-  </author>
-  <link href="https://github.com/LRudL/ozytree" />
-  <id>urn:rprimus:github:LRudL:ozytree</id>
-  <published>2021-09-26T11:28:52Z</published>
-  <updated>2021-09-26T11:28:52Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>simpletonDL: metacomputations2021</title>
-  <author>
-   <name>simpletonDL</name>
-  </author>
-  <link href="https://github.com/simpletonDL/metacomputations2021" />
-  <id>urn:rprimus:github:simpletonDL:metacomputations2021</id>
-  <published>2021-09-26T11:07:27Z</published>
-  <updated>2021-09-26T11:07:27Z</updated>
-  <content type="html">
-   Love, Death &amp; Brackets
-  </content>
- </entry>
- <entry>
-  <title>marcheanin: scheme_r5rs_learn_BMSTU</title>
-  <author>
-   <name>marcheanin</name>
-  </author>
-  <link href="https://github.com/marcheanin/scheme_r5rs_learn_BMSTU" />
-  <id>urn:rprimus:github:marcheanin:scheme_r5rs_learn_BMSTU</id>
-  <published>2021-09-26T08:10:32Z</published>
-  <updated>2021-09-26T08:10:32Z</updated>
-  <content type="html">
-   It&#039;s repository with labs and homeworks on scheme version r5rs from BMSTU course
-  </content>
- </entry>
- <entry>
-  <title>K9-guardian: mastermind-r16</title>
-  <author>
-   <name>K9-guardian</name>
-  </author>
-  <link href="https://github.com/K9-guardian/mastermind-r16" />
-  <id>urn:rprimus:github:K9-guardian:mastermind-r16</id>
-  <published>2021-09-26T03:42:28Z</published>
-  <updated>2021-09-26T03:42:28Z</updated>
-  <content type="html">
-   This program plays the game mastermind on r16 with 4 letter words (https://en.wikipedia.org/wiki/Mastermind_(board_game)).
   </content>
  </entry>
 </feed>
