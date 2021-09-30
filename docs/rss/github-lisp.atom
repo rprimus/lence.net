@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-09-28T20:32:15Z</updated>
+<updated>2021-09-29T20:48:50Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>Beibaibaby: CSC444</title>
+  <author>
+   <name>Beibaibaby</name>
+  </author>
+  <link href="https://github.com/Beibaibaby/CSC444" />
+  <id>urn:rprimus:github:Beibaibaby:CSC444</id>
+  <published>2021-09-29T20:48:50Z</published>
+  <updated>2021-09-29T20:48:50Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>veer66: cl-apertium-stream-parser</title>
+  <author>
+   <name>veer66</name>
+  </author>
+  <link href="https://github.com/veer66/cl-apertium-stream-parser" />
+  <id>urn:rprimus:github:veer66:cl-apertium-stream-parser</id>
+  <published>2021-09-29T16:24:50Z</published>
+  <updated>2021-09-29T16:24:50Z</updated>
+  <content type="html">
+   Apertium stream parser written in Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>eigenhombre: nominal</title>
+  <author>
+   <name>eigenhombre</name>
+  </author>
+  <link href="https://github.com/eigenhombre/nominal" />
+  <id>urn:rprimus:github:eigenhombre:nominal</id>
+  <published>2021-09-29T13:26:28Z</published>
+  <updated>2021-09-29T13:26:28Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>otegal: lisp-on-docker</title>
+  <author>
+   <name>otegal</name>
+  </author>
+  <link href="https://github.com/otegal/lisp-on-docker" />
+  <id>urn:rprimus:github:otegal:lisp-on-docker</id>
+  <published>2021-09-29T10:47:52Z</published>
+  <updated>2021-09-29T10:47:52Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>qitab: grpc</title>
   <author>
@@ -41,110 +93,6 @@
   <updated>2021-09-28T07:07:58Z</updated>
   <content type="html">
    Default AwesomeWM config written in Fennel.
-  </content>
- </entry>
- <entry>
-  <title>bbeegs: simple-weather</title>
-  <author>
-   <name>bbeegs</name>
-  </author>
-  <link href="https://github.com/bbeegs/simple-weather" />
-  <id>urn:rprimus:github:bbeegs:simple-weather</id>
-  <published>2021-09-27T22:25:37Z</published>
-  <updated>2021-09-27T22:25:37Z</updated>
-  <content type="html">
-   a simple interface for weather.gov api written in common lisp
-  </content>
- </entry>
- <entry>
-  <title>00riddle00: lisp-tutorial</title>
-  <author>
-   <name>00riddle00</name>
-  </author>
-  <link href="https://github.com/00riddle00/lisp-tutorial" />
-  <id>urn:rprimus:github:00riddle00:lisp-tutorial</id>
-  <published>2021-09-27T20:14:12Z</published>
-  <updated>2021-09-27T20:14:12Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ablanco1950: DPLL_propositional_logical_inference</title>
-  <author>
-   <name>ablanco1950</name>
-  </author>
-  <link href="https://github.com/ablanco1950/DPLL_propositional_logical_inference" />
-  <id>urn:rprimus:github:ablanco1950:DPLL_propositional_logical_inference</id>
-  <published>2021-09-27T17:11:32Z</published>
-  <updated>2021-09-27T17:11:32Z</updated>
-  <content type="html">
-   DPLL_propositional_logical_inference: Starting from a FNC (Conjunctive Normal Form), that is, a series of clauses (literals joined by the or operator) joined by an and operator. Apply the DPLL algorithm and determine the values ââof the literals that give a solution to the FNC.  A clear explanation of the DPLL algorithm can be found at http://www.cs.us.es/~fsancho/?e=120.  The tests have been implemented based on the examples that appear in a link to netlogo on that page.  If you have an expedition in FBC (with connectors =&gt; and &lt;=&gt;) you can switch to an FNC, which would be the entrance to this project, downloading the https://github.com/bertuccio/inferencia-logica-proposicional project. This project can be completed with the DPLL algorithm by adding the instructions given from the definition of the DPLL function to the end. And activating the instructions that appear in the function pasa-lista-FBF-to-lista-FNC that would serve as an interface between both projects.  In fact, DPLL_propositional_logical_inference is intended to complete Propositional Logical Inference, with the DPLL algorithm and share functions.  Requirements: Allegro CL 10.1 Free Express Edition  References:  https://github.com/bertuccio/inferencia-logica-proposicional by AdriÃ¡n Lorenzo Mateo (Bertuccio) who uses material from the Artificial Intelligence practices at the Higher Polytechnic School of the Autonomous University of Madrid. Informatics Engineering. http://www.cs.us.es/~fsancho/?e=120 by Fernando Sancho Caparrini. Higher Technical School of Computer Engineering of the University of Seville.
-  </content>
- </entry>
- <entry>
-  <title>jabez-cell: CSCI-305</title>
-  <author>
-   <name>jabez-cell</name>
-  </author>
-  <link href="https://github.com/jabez-cell/CSCI-305" />
-  <id>urn:rprimus:github:jabez-cell:CSCI-305</id>
-  <published>2021-09-27T16:22:19Z</published>
-  <updated>2021-09-27T16:22:19Z</updated>
-  <content type="html">
-   Projects for Concepts of Programming Languages 
-  </content>
- </entry>
- <entry>
-  <title>goenningerbt: closa</title>
-  <author>
-   <name>goenningerbt</name>
-  </author>
-  <link href="https://github.com/goenningerbt/closa" />
-  <id>urn:rprimus:github:goenningerbt:closa</id>
-  <published>2021-09-27T16:21:48Z</published>
-  <updated>2021-09-27T16:21:48Z</updated>
-  <content type="html">
-   Common Lisp implementation of the Sensor Open Systems Architecture
-  </content>
- </entry>
- <entry>
-  <title>carlosganzerla: techtalk-macros</title>
-  <author>
-   <name>carlosganzerla</name>
-  </author>
-  <link href="https://github.com/carlosganzerla/techtalk-macros" />
-  <id>urn:rprimus:github:carlosganzerla:techtalk-macros</id>
-  <published>2021-09-27T15:30:12Z</published>
-  <updated>2021-09-27T15:30:12Z</updated>
-  <content type="html">
-   Examples for my tech talk on Meta-programming on Alude
-  </content>
- </entry>
- <entry>
-  <title>K1D77A: lunamech-matrix-api</title>
-  <author>
-   <name>K1D77A</name>
-  </author>
-  <link href="https://github.com/K1D77A/lunamech-matrix-api" />
-  <id>urn:rprimus:github:K1D77A:lunamech-matrix-api</id>
-  <published>2021-09-27T14:50:55Z</published>
-  <updated>2021-09-27T14:50:55Z</updated>
-  <content type="html">
-   Implementation of the Matrix API. Taken from LunaMech.
-  </content>
- </entry>
- <entry>
-  <title>byulparan: sbcl-problem-on-AppleM1</title>
-  <author>
-   <name>byulparan</name>
-  </author>
-  <link href="https://github.com/byulparan/sbcl-problem-on-AppleM1" />
-  <id>urn:rprimus:github:byulparan:sbcl-problem-on-AppleM1</id>
-  <published>2021-09-27T11:31:45Z</published>
-  <updated>2021-09-27T11:31:45Z</updated>
-  <content type="html">
-   Problem on SBCL/M1 Mac
   </content>
  </entry>
 </feed>

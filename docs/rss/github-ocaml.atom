@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2021-09-29T07:29:58Z</updated>
+<updated>2021-09-29T23:43:33Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>aarontt20: astra</title>
+  <author>
+   <name>aarontt20</name>
+  </author>
+  <link href="https://github.com/aarontt20/astra" />
+  <id>urn:rprimus:github:aarontt20:astra</id>
+  <published>2021-09-29T23:43:33Z</published>
+  <updated>2021-09-29T23:43:33Z</updated>
+  <content type="html">
+   Astra is a simple programming language implemented in Ocaml, used mostly for my own learning experience. Astra is currently under development, and is subject to change. 
+  </content>
+ </entry>
+ <entry>
+  <title>mvivarmaas: stack-machine-calculator</title>
+  <author>
+   <name>mvivarmaas</name>
+  </author>
+  <link href="https://github.com/mvivarmaas/stack-machine-calculator" />
+  <id>urn:rprimus:github:mvivarmaas:stack-machine-calculator</id>
+  <published>2021-09-29T20:14:25Z</published>
+  <updated>2021-09-29T20:14:25Z</updated>
+  <content type="html">
+   An implementation of a calculator as a stack machine in OCaml. The calculator supports addition, subtraction, multiplication, division, exponentiation, as well as the sine and cosine functions.
+  </content>
+ </entry>
+ <entry>
+  <title>geekpradd: AoC-OCaml-2020</title>
+  <author>
+   <name>geekpradd</name>
+  </author>
+  <link href="https://github.com/geekpradd/AoC-OCaml-2020" />
+  <id>urn:rprimus:github:geekpradd:AoC-OCaml-2020</id>
+  <published>2021-09-29T17:55:03Z</published>
+  <updated>2021-09-29T17:55:03Z</updated>
+  <content type="html">
+   Advent of Code 2020 Solutions in OCaml
+  </content>
+ </entry>
+ <entry>
+  <title>hjbar: hstdlib</title>
+  <author>
+   <name>hjbar</name>
+  </author>
+  <link href="https://github.com/hjbar/hstdlib" />
+  <id>urn:rprimus:github:hjbar:hstdlib</id>
+  <published>2021-09-29T15:47:39Z</published>
+  <updated>2021-09-29T15:47:39Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>xtactis: ocaml_99</title>
   <author>
@@ -135,16 +187,16 @@
   </content>
  </entry>
  <entry>
-  <title>gb3h: misra-gries</title>
+  <title>gb3h: count-median-sketch</title>
   <author>
    <name>gb3h</name>
   </author>
-  <link href="https://github.com/gb3h/misra-gries" />
-  <id>urn:rprimus:github:gb3h:misra-gries</id>
+  <link href="https://github.com/gb3h/count-median-sketch" />
+  <id>urn:rprimus:github:gb3h:count-median-sketch</id>
   <published>2021-09-28T07:18:23Z</published>
   <updated>2021-09-28T07:18:23Z</updated>
   <content type="html">
-   Misra-gries summary, a frequency counting algorithm for data streams
+   Count-Median sketch, a frequency counting algorithm for data streams
   </content>
  </entry>
  <entry>
@@ -158,123 +210,6 @@
   <updated>2021-09-28T02:54:55Z</updated>
   <content type="html">
    Generate TypeScript declarations for js_of_ocaml sources
-  </content>
- </entry>
- <entry>
-  <title>patricoferris: alcotest-js-example</title>
-  <author>
-   <name>patricoferris</name>
-  </author>
-  <link href="https://github.com/patricoferris/alcotest-js-example" />
-  <id>urn:rprimus:github:patricoferris:alcotest-js-example</id>
-  <published>2021-09-27T22:31:06Z</published>
-  <updated>2021-09-27T22:31:06Z</updated>
-  <content type="html">
-   More real-world example of using the JS backends for Alcotest
-  </content>
- </entry>
- <entry>
-  <title>tjammer: schmu</title>
-  <author>
-   <name>tjammer</name>
-  </author>
-  <link href="https://github.com/tjammer/schmu" />
-  <id>urn:rprimus:github:tjammer:schmu</id>
-  <published>2021-09-27T20:55:34Z</published>
-  <updated>2021-09-27T20:55:34Z</updated>
-  <content type="html">
-   A WIP toy programming language to learn about type systems and LLVM
-  </content>
- </entry>
- <entry>
-  <title>carloleo: Language-based-technology-for-security</title>
-  <author>
-   <name>carloleo</name>
-  </author>
-  <link href="https://github.com/carloleo/Language-based-technology-for-security" />
-  <id>urn:rprimus:github:carloleo:Language-based-technology-for-security</id>
-  <published>2021-09-27T19:02:34Z</published>
-  <updated>2021-09-27T19:02:34Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>taiseiKMC: ocamlUploader</title>
-  <author>
-   <name>taiseiKMC</name>
-  </author>
-  <link href="https://github.com/taiseiKMC/ocamlUploader" />
-  <id>urn:rprimus:github:taiseiKMC:ocamlUploader</id>
-  <published>2021-09-27T12:11:59Z</published>
-  <updated>2021-09-27T12:11:59Z</updated>
-  <content type="html">
-   File Uploader implemented by OCaml
-  </content>
- </entry>
- <entry>
-  <title>wyn: randii</title>
-  <author>
-   <name>wyn</name>
-  </author>
-  <link href="https://github.com/wyn/randii" />
-  <id>urn:rprimus:github:wyn:randii</id>
-  <published>2021-09-27T10:58:48Z</published>
-  <updated>2021-09-27T10:58:48Z</updated>
-  <content type="html">
-   OCaml port of Random123 counter based random number generator
-  </content>
- </entry>
- <entry>
-  <title>philzook58: metarational</title>
-  <author>
-   <name>philzook58</name>
-  </author>
-  <link href="https://github.com/philzook58/metarational" />
-  <id>urn:rprimus:github:philzook58:metarational</id>
-  <published>2021-09-27T05:47:42Z</published>
-  <updated>2021-09-27T05:47:42Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>mrwrongwrongwrong: a6stract-int3rpretati0n-pr0ject</title>
-  <author>
-   <name>mrwrongwrongwrong</name>
-  </author>
-  <link href="https://github.com/mrwrongwrongwrong/a6stract-int3rpretati0n-pr0ject" />
-  <id>urn:rprimus:github:mrwrongwrongwrong:a6stract-int3rpretati0n-pr0ject</id>
-  <published>2021-09-27T03:40:06Z</published>
-  <updated>2021-09-27T03:40:06Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>flagpoonage: ocaml-ncurses-game</title>
-  <author>
-   <name>flagpoonage</name>
-  </author>
-  <link href="https://github.com/flagpoonage/ocaml-ncurses-game" />
-  <id>urn:rprimus:github:flagpoonage:ocaml-ncurses-game</id>
-  <published>2021-09-27T03:26:25Z</published>
-  <updated>2021-09-27T03:26:25Z</updated>
-  <content type="html">
-   An Ncurses game in OCaml
-  </content>
- </entry>
- <entry>
-  <title>ngrinspoon: OCaml</title>
-  <author>
-   <name>ngrinspoon</name>
-  </author>
-  <link href="https://github.com/ngrinspoon/OCaml" />
-  <id>urn:rprimus:github:ngrinspoon:OCaml</id>
-  <published>2021-09-27T01:46:23Z</published>
-  <updated>2021-09-27T01:46:23Z</updated>
-  <content type="html">
-   A bulk of OCaml projects that I have worked on in school.
   </content>
  </entry>
 </feed>
