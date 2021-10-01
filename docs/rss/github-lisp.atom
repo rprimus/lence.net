@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-09-30T07:24:38Z</updated>
+<updated>2021-09-30T23:03:16Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>nmunro: mtg-api</title>
+  <author>
+   <name>nmunro</name>
+  </author>
+  <link href="https://github.com/nmunro/mtg-api" />
+  <id>urn:rprimus:github:nmunro:mtg-api</id>
+  <published>2021-09-30T23:03:16Z</published>
+  <updated>2021-09-30T23:03:16Z</updated>
+  <content type="html">
+   A Common Lisp api for magicthegathering.io
+  </content>
+ </entry>
  <entry>
   <title>frontierpsycho: set.lisp</title>
   <author>
@@ -106,45 +119,6 @@
   <updated>2021-09-29T10:47:52Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>qitab: grpc</title>
-  <author>
-   <name>qitab</name>
-  </author>
-  <link href="https://github.com/qitab/grpc" />
-  <id>urn:rprimus:github:qitab:grpc</id>
-  <published>2021-09-28T20:32:15Z</published>
-  <updated>2021-09-28T20:32:15Z</updated>
-  <content type="html">
-   gRPC implementation for Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>sunfishho: molabot</title>
-  <author>
-   <name>sunfishho</name>
-  </author>
-  <link href="https://github.com/sunfishho/molabot" />
-  <id>urn:rprimus:github:sunfishho:molabot</id>
-  <published>2021-09-28T20:21:34Z</published>
-  <updated>2021-09-28T20:21:34Z</updated>
-  <content type="html">
-   In-progress Chess engine written in SBCL Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>L3afMe: awesome_fennel</title>
-  <author>
-   <name>L3afMe</name>
-  </author>
-  <link href="https://github.com/L3afMe/awesome_fennel" />
-  <id>urn:rprimus:github:L3afMe:awesome_fennel</id>
-  <published>2021-09-28T07:07:58Z</published>
-  <updated>2021-09-28T07:07:58Z</updated>
-  <content type="html">
-   Default AwesomeWM config written in Fennel.
   </content>
  </entry>
 </feed>
