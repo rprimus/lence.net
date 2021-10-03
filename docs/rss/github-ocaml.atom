@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2021-10-02T05:12:32Z</updated>
+<updated>2021-10-02T20:17:21Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>addycb: CS320</title>
+  <author>
+   <name>addycb</name>
+  </author>
+  <link href="https://github.com/addycb/CS320" />
+  <id>urn:rprimus:github:addycb:CS320</id>
+  <published>2021-10-02T20:17:21Z</published>
+  <updated>2021-10-02T20:17:21Z</updated>
+  <content type="html">
+   CS320 Code
+  </content>
+ </entry>
+ <entry>
+  <title>yairmol: c_compiler</title>
+  <author>
+   <name>yairmol</name>
+  </author>
+  <link href="https://github.com/yairmol/c_compiler" />
+  <id>urn:rprimus:github:yairmol:c_compiler</id>
+  <published>2021-10-02T18:00:51Z</published>
+  <updated>2021-10-02T18:00:51Z</updated>
+  <content type="html">
+   a compiler for the c langauge with some extensions, written in ocaml
+  </content>
+ </entry>
+ <entry>
+  <title>samanthi23: cs51-ps0</title>
+  <author>
+   <name>samanthi23</name>
+  </author>
+  <link href="https://github.com/samanthi23/cs51-ps0" />
+  <id>urn:rprimus:github:samanthi23:cs51-ps0</id>
+  <published>2021-10-02T14:17:15Z</published>
+  <updated>2021-10-02T14:17:15Z</updated>
+  <content type="html">
+   CS51 Problem Set 0
+  </content>
+ </entry>
+ <entry>
+  <title>AntoninRuan: CamlCeption</title>
+  <author>
+   <name>AntoninRuan</name>
+  </author>
+  <link href="https://github.com/AntoninRuan/CamlCeption" />
+  <id>urn:rprimus:github:AntoninRuan:CamlCeption</id>
+  <published>2021-10-02T12:02:18Z</published>
+  <updated>2021-10-02T12:02:18Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>dhilst: ocamllc</title>
   <author>
@@ -80,97 +132,6 @@
   <updated>2021-10-01T07:04:04Z</updated>
   <content type="html">
    Back To The Code challenge on codingame
-  </content>
- </entry>
- <entry>
-  <title>philzook58: smtpp</title>
-  <author>
-   <name>philzook58</name>
-  </author>
-  <link href="https://github.com/philzook58/smtpp" />
-  <id>urn:rprimus:github:philzook58:smtpp</id>
-  <published>2021-09-30T22:03:35Z</published>
-  <updated>2021-09-30T22:03:35Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>notblank: ocaml</title>
-  <author>
-   <name>notblank</name>
-  </author>
-  <link href="https://github.com/notblank/ocaml" />
-  <id>urn:rprimus:github:notblank:ocaml</id>
-  <published>2021-09-30T18:26:39Z</published>
-  <updated>2021-09-30T18:26:39Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>psg-mit: twist-popl22</title>
-  <author>
-   <name>psg-mit</name>
-  </author>
-  <link href="https://github.com/psg-mit/twist-popl22" />
-  <id>urn:rprimus:github:psg-mit:twist-popl22</id>
-  <published>2021-09-30T17:41:59Z</published>
-  <updated>2021-09-30T17:41:59Z</updated>
-  <content type="html">
-   POPL&#039;22 Artifact for &quot;Twist: Sound Reasoning for Purity and Entanglement in Quantum Programs&quot;.
-  </content>
- </entry>
- <entry>
-  <title>talia-attar: cBay-frontend</title>
-  <author>
-   <name>talia-attar</name>
-  </author>
-  <link href="https://github.com/talia-attar/cBay-frontend" />
-  <id>urn:rprimus:github:talia-attar:cBay-frontend</id>
-  <published>2021-09-30T17:26:49Z</published>
-  <updated>2021-09-30T17:26:49Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>talia-attar: cBay-backend</title>
-  <author>
-   <name>talia-attar</name>
-  </author>
-  <link href="https://github.com/talia-attar/cBay-backend" />
-  <id>urn:rprimus:github:talia-attar:cBay-backend</id>
-  <published>2021-09-30T17:23:03Z</published>
-  <updated>2021-09-30T17:23:03Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ejgallego: dune-bug-dynload</title>
-  <author>
-   <name>ejgallego</name>
-  </author>
-  <link href="https://github.com/ejgallego/dune-bug-dynload" />
-  <id>urn:rprimus:github:ejgallego:dune-bug-dynload</id>
-  <published>2021-09-30T16:18:22Z</published>
-  <updated>2021-09-30T16:18:22Z</updated>
-  <content type="html">
-   Example for Dune bug
-  </content>
- </entry>
- <entry>
-  <title>squirrel-state-anonymous: state-squirrel</title>
-  <author>
-   <name>squirrel-state-anonymous</name>
-  </author>
-  <link href="https://github.com/squirrel-state-anonymous/state-squirrel" />
-  <id>urn:rprimus:github:squirrel-state-anonymous:state-squirrel</id>
-  <published>2021-09-30T11:05:54Z</published>
-  <updated>2021-09-30T11:05:54Z</updated>
-  <content type="html">
-   Source code and proof developments for CSF&#039;22 submission. 
   </content>
  </entry>
 </feed>
