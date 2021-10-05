@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2021-10-03T21:45:22Z</updated>
+<updated>2021-10-05T00:33:28Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>thisago: randomAvatar</title>
+  <author>
+   <name>thisago</name>
+  </author>
+  <link href="https://github.com/thisago/randomAvatar" />
+  <id>urn:rprimus:github:thisago:randomAvatar</id>
+  <published>2021-10-05T00:33:28Z</published>
+  <updated>2021-10-05T00:33:28Z</updated>
+  <content type="html">
+   Generates random SVG avatars
+  </content>
+ </entry>
  <entry>
   <title>adyxax: nimfunge98</title>
   <author>
@@ -15,6 +28,19 @@
   <updated>2021-10-03T21:45:22Z</updated>
   <content type="html">
    a Funge-98 interpreter written in nim
+  </content>
+ </entry>
+ <entry>
+  <title>thisago: downpodia</title>
+  <author>
+   <name>thisago</name>
+  </author>
+  <link href="https://github.com/thisago/downpodia" />
+  <id>urn:rprimus:github:thisago:downpodia</id>
+  <published>2021-10-03T20:22:11Z</published>
+  <updated>2021-10-03T20:22:11Z</updated>
+  <content type="html">
+   Easily download podia.com courses videos
   </content>
  </entry>
  <entry>
@@ -67,32 +93,6 @@
   <updated>2021-10-03T01:22:38Z</updated>
   <content type="html">
    A chip 8 emulator written in Nim.
-  </content>
- </entry>
- <entry>
-  <title>Michal-Szczepaniak: prometheus-proxy-nim</title>
-  <author>
-   <name>Michal-Szczepaniak</name>
-  </author>
-  <link href="https://github.com/Michal-Szczepaniak/prometheus-proxy-nim" />
-  <id>urn:rprimus:github:Michal-Szczepaniak:prometheus-proxy-nim</id>
-  <published>2021-10-02T22:04:23Z</published>
-  <updated>2021-10-02T22:04:23Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>kennymalac: BigCityOpossum</title>
-  <author>
-   <name>kennymalac</name>
-  </author>
-  <link href="https://github.com/kennymalac/BigCityOpossum" />
-  <id>urn:rprimus:github:kennymalac:BigCityOpossum</id>
-  <published>2021-10-02T01:49:34Z</published>
-  <updated>2021-10-02T01:49:34Z</updated>
-  <content type="html">
-   Ludum dare 49
   </content>
  </entry>
 </feed>

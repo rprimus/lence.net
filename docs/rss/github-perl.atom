@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-perl.atom"/>
 <id>urn:rprimus:github:newperlrepos</id>
-<updated>2021-10-04T08:41:17Z</updated>
+<updated>2021-10-05T01:05:13Z</updated>
 <title type='text'>New GitHub Perl Repos</title>
+ <entry>
+  <title>bsd-ac: table-ldap_perl</title>
+  <author>
+   <name>bsd-ac</name>
+  </author>
+  <link href="https://github.com/bsd-ac/table-ldap_perl" />
+  <id>urn:rprimus:github:bsd-ac:table-ldap_perl</id>
+  <published>2021-10-05T01:05:13Z</published>
+  <updated>2021-10-05T01:05:13Z</updated>
+  <content type="html">
+   LDAP table backend for OpenSMTPD
+  </content>
+ </entry>
+ <entry>
+  <title>norogoth: cr_maker</title>
+  <author>
+   <name>norogoth</name>
+  </author>
+  <link href="https://github.com/norogoth/cr_maker" />
+  <id>urn:rprimus:github:norogoth:cr_maker</id>
+  <published>2021-10-04T21:55:14Z</published>
+  <updated>2021-10-04T21:55:14Z</updated>
+  <content type="html">
+   Makes a code review formatted for CVS.
+  </content>
+ </entry>
+ <entry>
+  <title>majorendian: bininject</title>
+  <author>
+   <name>majorendian</name>
+  </author>
+  <link href="https://github.com/majorendian/bininject" />
+  <id>urn:rprimus:github:majorendian:bininject</id>
+  <published>2021-10-04T20:02:49Z</published>
+  <updated>2021-10-04T20:02:49Z</updated>
+  <content type="html">
+   Binary injection utility.
+  </content>
+ </entry>
+ <entry>
+  <title>Jh3ny: cydiatest</title>
+  <author>
+   <name>Jh3ny</name>
+  </author>
+  <link href="https://github.com/Jh3ny/cydiatest" />
+  <id>urn:rprimus:github:Jh3ny:cydiatest</id>
+  <published>2021-10-04T15:56:51Z</published>
+  <updated>2021-10-04T15:56:51Z</updated>
+  <content type="html">
+   cette source est un test
+  </content>
+ </entry>
+ <entry>
+  <title>KnjazS: qtqa_5.14.2</title>
+  <author>
+   <name>KnjazS</name>
+  </author>
+  <link href="https://github.com/KnjazS/qtqa_5.14.2" />
+  <id>urn:rprimus:github:KnjazS:qtqa_5.14.2</id>
+  <published>2021-10-04T15:06:41Z</published>
+  <updated>2021-10-04T15:06:41Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>ne0deam: myfirst_calc</title>
+  <author>
+   <name>ne0deam</name>
+  </author>
+  <link href="https://github.com/ne0deam/myfirst_calc" />
+  <id>urn:rprimus:github:ne0deam:myfirst_calc</id>
+  <published>2021-10-04T10:40:14Z</published>
+  <updated>2021-10-04T10:40:14Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>biocorecrg: nextflow_detached_db_wrapper</title>
   <author>
@@ -40,7 +118,7 @@
   <published>2021-10-04T03:35:56Z</published>
   <updated>2021-10-04T03:35:56Z</updated>
   <content type="html">
-   Higher Availability Service
+   Higher Availability Service for TinyMUSH like servers
   </content>
  </entry>
  <entry>
@@ -93,6 +171,19 @@
   <updated>2021-10-03T17:36:47Z</updated>
   <content type="html">
    Various scripts
+  </content>
+ </entry>
+ <entry>
+  <title>katarinabraun: H7N9_evolution_in_mammals</title>
+  <author>
+   <name>katarinabraun</name>
+  </author>
+  <link href="https://github.com/katarinabraun/H7N9_evolution_in_mammals" />
+  <id>urn:rprimus:github:katarinabraun:H7N9_evolution_in_mammals</id>
+  <published>2021-10-03T17:34:30Z</published>
+  <updated>2021-10-03T17:34:30Z</updated>
+  <content type="html">
+   To accompany the manuscript entitled &quot;Stochastic processes within hosts constrain adaptation of wildtype H7N9 avian influenza viruses to mammalian hosts&quot;
   </content>
  </entry>
  <entry>
@@ -265,6 +356,19 @@
   </content>
  </entry>
  <entry>
+  <title>tmcmeeki: Batch-Exec-Path</title>
+  <author>
+   <name>tmcmeeki</name>
+  </author>
+  <link href="https://github.com/tmcmeeki/Batch-Exec-Path" />
+  <id>urn:rprimus:github:tmcmeeki:Batch-Exec-Path</id>
+  <published>2021-10-03T02:15:01Z</published>
+  <updated>2021-10-03T02:15:01Z</updated>
+  <content type="html">
+   Batch Executive Framework: Path handling
+  </content>
+ </entry>
+ <entry>
   <title>makoto-fujiwara: pbulk-diff-report</title>
   <author>
    <name>makoto-fujiwara</name>
@@ -275,110 +379,6 @@
   <updated>2021-10-03T01:51:28Z</updated>
   <content type="html">
    Generate Mail draft for difference of pbulk result from previous run
-  </content>
- </entry>
- <entry>
-  <title>proteusx: Photius-Lexicon</title>
-  <author>
-   <name>proteusx</name>
-  </author>
-  <link href="https://github.com/proteusx/Photius-Lexicon" />
-  <id>urn:rprimus:github:proteusx:Photius-Lexicon</id>
-  <published>2021-10-02T23:52:09Z</published>
-  <updated>2021-10-02T23:52:09Z</updated>
-  <content type="html">
-   Photius Greek Lexicon for GoldenDict
-  </content>
- </entry>
- <entry>
-  <title>ZhennanShi: Project-3</title>
-  <author>
-   <name>ZhennanShi</name>
-  </author>
-  <link href="https://github.com/ZhennanShi/Project-3" />
-  <id>urn:rprimus:github:ZhennanShi:Project-3</id>
-  <published>2021-10-02T23:26:51Z</published>
-  <updated>2021-10-02T23:26:51Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>peanutbuttermurmite: proot-reborn</title>
-  <author>
-   <name>peanutbuttermurmite</name>
-  </author>
-  <link href="https://github.com/peanutbuttermurmite/proot-reborn" />
-  <id>urn:rprimus:github:peanutbuttermurmite:proot-reborn</id>
-  <published>2021-10-02T17:54:40Z</published>
-  <updated>2021-10-02T17:54:40Z</updated>
-  <content type="html">
-   Easy root access on any replit project
-  </content>
- </entry>
- <entry>
-  <title>erland: lms-rfidplay</title>
-  <author>
-   <name>erland</name>
-  </author>
-  <link href="https://github.com/erland/lms-rfidplay" />
-  <id>urn:rprimus:github:erland:lms-rfidplay</id>
-  <published>2021-10-02T12:00:52Z</published>
-  <updated>2021-10-02T12:00:52Z</updated>
-  <content type="html">
-   RFID Play plugin for LMS
-  </content>
- </entry>
- <entry>
-  <title>mizdra: Perl-Tidy-LanguageServer</title>
-  <author>
-   <name>mizdra</name>
-  </author>
-  <link href="https://github.com/mizdra/Perl-Tidy-LanguageServer" />
-  <id>urn:rprimus:github:mizdra:Perl-Tidy-LanguageServer</id>
-  <published>2021-10-02T10:04:52Z</published>
-  <updated>2021-10-02T10:04:52Z</updated>
-  <content type="html">
-   The Language Server for Perltidy.
-  </content>
- </entry>
- <entry>
-  <title>WifaZ: http</title>
-  <author>
-   <name>WifaZ</name>
-  </author>
-  <link href="https://github.com/WifaZ/http" />
-  <id>urn:rprimus:github:WifaZ:http</id>
-  <published>2021-10-02T06:19:30Z</published>
-  <updated>2021-10-02T06:19:30Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>hamedkharazmi: Temperature-Control-project</title>
-  <author>
-   <name>hamedkharazmi</name>
-  </author>
-  <link href="https://github.com/hamedkharazmi/Temperature-Control-project" />
-  <id>urn:rprimus:github:hamedkharazmi:Temperature-Control-project</id>
-  <published>2021-10-02T05:32:34Z</published>
-  <updated>2021-10-02T05:32:34Z</updated>
-  <content type="html">
-   a temperature measuring, recording and control project using AVR and PROTEOS software
-  </content>
- </entry>
- <entry>
-  <title>nrdvana: perl-Path-Match</title>
-  <author>
-   <name>nrdvana</name>
-  </author>
-  <link href="https://github.com/nrdvana/perl-Path-Match" />
-  <id>urn:rprimus:github:nrdvana:perl-Path-Match</id>
-  <published>2021-10-02T01:59:19Z</published>
-  <updated>2021-10-02T01:59:19Z</updated>
-  <content type="html">
-   Efficiently match paths against glob-like patterns
   </content>
  </entry>
 </feed>
