@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2021-10-07T09:27:56Z</updated>
+<updated>2021-10-07T17:38:37Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>anchpop: zinc_types</title>
+  <author>
+   <name>anchpop</name>
+  </author>
+  <link href="https://github.com/anchpop/zinc_types" />
+  <id>urn:rprimus:github:anchpop:zinc_types</id>
+  <published>2021-10-07T17:38:37Z</published>
+  <updated>2021-10-07T17:38:37Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>pveber: prc</title>
+  <author>
+   <name>pveber</name>
+  </author>
+  <link href="https://github.com/pveber/prc" />
+  <id>urn:rprimus:github:pveber:prc</id>
+  <published>2021-10-07T15:57:54Z</published>
+  <updated>2021-10-07T15:57:54Z</updated>
+  <content type="html">
+   Utility for precision-recall curves
+  </content>
+ </entry>
  <entry>
   <title>guybenh: compiler</title>
   <author>
@@ -132,123 +158,6 @@
   <updated>2021-10-06T01:05:23Z</updated>
   <content type="html">
    playing around with writing a compiler in ocaml -- extremely wip -- don&#039;t email me about it
-  </content>
- </entry>
- <entry>
-  <title>ghuysmans: ocaml-smartschool</title>
-  <author>
-   <name>ghuysmans</name>
-  </author>
-  <link href="https://github.com/ghuysmans/ocaml-smartschool" />
-  <id>urn:rprimus:github:ghuysmans:ocaml-smartschool</id>
-  <published>2021-10-05T22:26:46Z</published>
-  <updated>2021-10-05T22:26:46Z</updated>
-  <content type="html">
-   Smartschool client library for OCaml 
-  </content>
- </entry>
- <entry>
-  <title>EduardoRFS: open-ast-explorer-repro-bug</title>
-  <author>
-   <name>EduardoRFS</name>
-  </author>
-  <link href="https://github.com/EduardoRFS/open-ast-explorer-repro-bug" />
-  <id>urn:rprimus:github:EduardoRFS:open-ast-explorer-repro-bug</id>
-  <published>2021-10-05T19:46:57Z</published>
-  <updated>2021-10-05T19:46:57Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>johnwhitington: json-failure</title>
-  <author>
-   <name>johnwhitington</name>
-  </author>
-  <link href="https://github.com/johnwhitington/json-failure" />
-  <id>urn:rprimus:github:johnwhitington:json-failure</id>
-  <published>2021-10-05T14:03:31Z</published>
-  <updated>2021-10-05T14:03:31Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>mheiber: tydd-tapl</title>
-  <author>
-   <name>mheiber</name>
-  </author>
-  <link href="https://github.com/mheiber/tydd-tapl" />
-  <id>urn:rprimus:github:mheiber:tydd-tapl</id>
-  <published>2021-10-05T11:39:40Z</published>
-  <updated>2021-10-05T11:39:40Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jrrk2: ver_front</title>
-  <author>
-   <name>jrrk2</name>
-  </author>
-  <link href="https://github.com/jrrk2/ver_front" />
-  <id>urn:rprimus:github:jrrk2:ver_front</id>
-  <published>2021-10-05T11:27:57Z</published>
-  <updated>2021-10-05T11:27:57Z</updated>
-  <content type="html">
-   Toy Verilog pre-processor in OCaml
-  </content>
- </entry>
- <entry>
-  <title>mycodesamples: ocaml-generics-sets</title>
-  <author>
-   <name>mycodesamples</name>
-  </author>
-  <link href="https://github.com/mycodesamples/ocaml-generics-sets" />
-  <id>urn:rprimus:github:mycodesamples:ocaml-generics-sets</id>
-  <published>2021-10-05T11:11:29Z</published>
-  <updated>2021-10-05T11:11:29Z</updated>
-  <content type="html">
-   Exercises on OCaml modules and genericity
-  </content>
- </entry>
- <entry>
-  <title>felipeperet: db-queries</title>
-  <author>
-   <name>felipeperet</name>
-  </author>
-  <link href="https://github.com/felipeperet/db-queries" />
-  <id>urn:rprimus:github:felipeperet:db-queries</id>
-  <published>2021-10-05T07:45:28Z</published>
-  <updated>2021-10-05T07:45:28Z</updated>
-  <content type="html">
-   some experiments on database queries using OCaml
-  </content>
- </entry>
- <entry>
-  <title>mickael-btc: ocaml-tp2</title>
-  <author>
-   <name>mickael-btc</name>
-  </author>
-  <link href="https://github.com/mickael-btc/ocaml-tp2" />
-  <id>urn:rprimus:github:mickael-btc:ocaml-tp2</id>
-  <published>2021-10-05T06:46:10Z</published>
-  <updated>2021-10-05T06:46:10Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>keigoi: mpstinv</title>
-  <author>
-   <name>keigoi</name>
-  </author>
-  <link href="https://github.com/keigoi/mpstinv" />
-  <id>urn:rprimus:github:keigoi:mpstinv</id>
-  <published>2021-10-05T05:15:41Z</published>
-  <updated>2021-10-05T05:15:41Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>

@@ -2,8 +2,112 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-10-07T09:22:47Z</updated>
+<updated>2021-10-08T02:04:54Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>copecog: org.unaen.cl.maps</title>
+  <author>
+   <name>copecog</name>
+  </author>
+  <link href="https://github.com/copecog/org.unaen.cl.maps" />
+  <id>urn:rprimus:github:copecog:org.unaen.cl.maps</id>
+  <published>2021-10-08T02:04:54Z</published>
+  <updated>2021-10-08T02:04:54Z</updated>
+  <content type="html">
+   A basic mathematic maps implementation in Common Lisp.
+  </content>
+ </entry>
+ <entry>
+  <title>copecog: org.unaen.cl.util</title>
+  <author>
+   <name>copecog</name>
+  </author>
+  <link href="https://github.com/copecog/org.unaen.cl.util" />
+  <id>urn:rprimus:github:copecog:org.unaen.cl.util</id>
+  <published>2021-10-08T01:41:37Z</published>
+  <updated>2021-10-08T01:41:37Z</updated>
+  <content type="html">
+   Collection of arbitrary personal Common Lisp Utilities
+  </content>
+ </entry>
+ <entry>
+  <title>copecog: org.unaen.cl.sets</title>
+  <author>
+   <name>copecog</name>
+  </author>
+  <link href="https://github.com/copecog/org.unaen.cl.sets" />
+  <id>urn:rprimus:github:copecog:org.unaen.cl.sets</id>
+  <published>2021-10-07T22:12:08Z</published>
+  <updated>2021-10-07T22:12:08Z</updated>
+  <content type="html">
+   Simple sets and operations based on CL hash-table&#039;s.
+  </content>
+ </entry>
+ <entry>
+  <title>gamb: adventofcode2019</title>
+  <author>
+   <name>gamb</name>
+  </author>
+  <link href="https://github.com/gamb/adventofcode2019" />
+  <id>urn:rprimus:github:gamb:adventofcode2019</id>
+  <published>2021-10-07T20:56:32Z</published>
+  <updated>2021-10-07T20:56:32Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>jl2: sgl-test</title>
+  <author>
+   <name>jl2</name>
+  </author>
+  <link href="https://github.com/jl2/sgl-test" />
+  <id>urn:rprimus:github:jl2:sgl-test</id>
+  <published>2021-10-07T19:33:08Z</published>
+  <updated>2021-10-07T19:33:08Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>bff12: lisp-functions</title>
+  <author>
+   <name>bff12</name>
+  </author>
+  <link href="https://github.com/bff12/lisp-functions" />
+  <id>urn:rprimus:github:bff12:lisp-functions</id>
+  <published>2021-10-07T19:23:39Z</published>
+  <updated>2021-10-07T19:23:39Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>davids81: LispBook</title>
+  <author>
+   <name>davids81</name>
+  </author>
+  <link href="https://github.com/davids81/LispBook" />
+  <id>urn:rprimus:github:davids81:LispBook</id>
+  <published>2021-10-07T17:20:23Z</published>
+  <updated>2021-10-07T17:20:23Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>offbeatcc: cses</title>
+  <author>
+   <name>offbeatcc</name>
+  </author>
+  <link href="https://github.com/offbeatcc/cses" />
+  <id>urn:rprimus:github:offbeatcc:cses</id>
+  <published>2021-10-07T11:59:51Z</published>
+  <updated>2021-10-07T11:59:51Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>JonathanHandojo: Sample-LISP-Routines-for-AutoCAD</title>
   <author>
@@ -28,6 +132,19 @@
   <updated>2021-10-07T08:22:12Z</updated>
   <content type="html">
    
+  </content>
+ </entry>
+ <entry>
+  <title>signedchar: lisp-scripts</title>
+  <author>
+   <name>signedchar</name>
+  </author>
+  <link href="https://github.com/signedchar/lisp-scripts" />
+  <id>urn:rprimus:github:signedchar:lisp-scripts</id>
+  <published>2021-10-07T00:18:15Z</published>
+  <updated>2021-10-07T00:18:15Z</updated>
+  <content type="html">
+   Some lisp scripts
   </content>
  </entry>
  <entry>
@@ -93,97 +210,6 @@
   <updated>2021-10-06T07:26:26Z</updated>
   <content type="html">
    Solving the Project Euler problems in Common Lisp.
-  </content>
- </entry>
- <entry>
-  <title>carlosganzerla: ptql</title>
-  <author>
-   <name>carlosganzerla</name>
-  </author>
-  <link href="https://github.com/carlosganzerla/ptql" />
-  <id>urn:rprimus:github:carlosganzerla:ptql</id>
-  <published>2021-10-05T22:20:33Z</published>
-  <updated>2021-10-05T22:20:33Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>lokedhs: matrix</title>
-  <author>
-   <name>lokedhs</name>
-  </author>
-  <link href="https://github.com/lokedhs/matrix" />
-  <id>urn:rprimus:github:lokedhs:matrix</id>
-  <published>2021-10-05T17:30:48Z</published>
-  <updated>2021-10-05T17:30:48Z</updated>
-  <content type="html">
-   CL liberary for Matrix
-  </content>
- </entry>
- <entry>
-  <title>lisp-maintainers: clerk</title>
-  <author>
-   <name>lisp-maintainers</name>
-  </author>
-  <link href="https://github.com/lisp-maintainers/clerk" />
-  <id>urn:rprimus:github:lisp-maintainers:clerk</id>
-  <published>2021-10-05T13:55:19Z</published>
-  <updated>2021-10-05T13:55:19Z</updated>
-  <content type="html">
-   A cron-like scheduler with sane DSL
-  </content>
- </entry>
- <entry>
-  <title>angdav: cs370-lisp</title>
-  <author>
-   <name>angdav</name>
-  </author>
-  <link href="https://github.com/angdav/cs370-lisp" />
-  <id>urn:rprimus:github:angdav:cs370-lisp</id>
-  <published>2021-10-05T13:44:17Z</published>
-  <updated>2021-10-05T13:44:17Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>moosch: learning-some-lisp</title>
-  <author>
-   <name>moosch</name>
-  </author>
-  <link href="https://github.com/moosch/learning-some-lisp" />
-  <id>urn:rprimus:github:moosch:learning-some-lisp</id>
-  <published>2021-10-05T11:17:13Z</published>
-  <updated>2021-10-05T11:17:13Z</updated>
-  <content type="html">
-   Just some stuff from working through learning Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>ghollisjr: sort-utils</title>
-  <author>
-   <name>ghollisjr</name>
-  </author>
-  <link href="https://github.com/ghollisjr/sort-utils" />
-  <id>urn:rprimus:github:ghollisjr:sort-utils</id>
-  <published>2021-10-05T08:04:25Z</published>
-  <updated>2021-10-05T08:04:25Z</updated>
-  <content type="html">
-   Some Common Lisp sorting utilities
-  </content>
- </entry>
- <entry>
-  <title>yoelmatveyev: Izhora</title>
-  <author>
-   <name>yoelmatveyev</name>
-  </author>
-  <link href="https://github.com/yoelmatveyev/Izhora" />
-  <id>urn:rprimus:github:yoelmatveyev:Izhora</id>
-  <published>2021-10-05T04:26:47Z</published>
-  <updated>2021-10-05T04:26:47Z</updated>
-  <content type="html">
-   A computer build as a cellular automation pattern
   </content>
  </entry>
 </feed>

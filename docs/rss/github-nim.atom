@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2021-10-07T06:50:28Z</updated>
+<updated>2021-10-07T18:32:22Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>treeform: boxy</title>
+  <author>
+   <name>treeform</name>
+  </author>
+  <link href="https://github.com/treeform/boxy" />
+  <id>urn:rprimus:github:treeform:boxy</id>
+  <published>2021-10-07T18:32:22Z</published>
+  <updated>2021-10-07T18:32:22Z</updated>
+  <content type="html">
+   2D GPU rendering with a tiling atlas.
+  </content>
+ </entry>
+ <entry>
+  <title>CBot-official: CBot-nim</title>
+  <author>
+   <name>CBot-official</name>
+  </author>
+  <link href="https://github.com/CBot-official/CBot-nim" />
+  <id>urn:rprimus:github:CBot-official:CBot-nim</id>
+  <published>2021-10-07T15:07:14Z</published>
+  <updated>2021-10-07T15:07:14Z</updated>
+  <content type="html">
+   Nim release of CBot.
+  </content>
+ </entry>
  <entry>
   <title>NullCode-Utilities: BattAlarm</title>
   <author>
@@ -80,71 +106,6 @@
   <updated>2021-10-06T00:45:35Z</updated>
   <content type="html">
    Updated Godot stub for Nim. Requires Nim &gt;= 1.0, Nim-Godot &gt;= 0.8.0, Godot &gt;= 3.0
-  </content>
- </entry>
- <entry>
-  <title>pizza-power: nimbuster</title>
-  <author>
-   <name>pizza-power</name>
-  </author>
-  <link href="https://github.com/pizza-power/nimbuster" />
-  <id>urn:rprimus:github:pizza-power:nimbuster</id>
-  <published>2021-10-05T23:18:57Z</published>
-  <updated>2021-10-05T23:18:57Z</updated>
-  <content type="html">
-   A directory and file enumeration utility written in nim
-  </content>
- </entry>
- <entry>
-  <title>enthus1ast: nimHydrogen</title>
-  <author>
-   <name>enthus1ast</name>
-  </author>
-  <link href="https://github.com/enthus1ast/nimHydrogen" />
-  <id>urn:rprimus:github:enthus1ast:nimHydrogen</id>
-  <published>2021-10-05T18:40:35Z</published>
-  <updated>2021-10-05T18:40:35Z</updated>
-  <content type="html">
-   wrapper for libhydrogen
-  </content>
- </entry>
- <entry>
-  <title>c1m5j: pancake</title>
-  <author>
-   <name>c1m5j</name>
-  </author>
-  <link href="https://github.com/c1m5j/pancake" />
-  <id>urn:rprimus:github:c1m5j:pancake</id>
-  <published>2021-10-05T17:08:51Z</published>
-  <updated>2021-10-05T17:08:51Z</updated>
-  <content type="html">
-   stack-oriented pain-maximising toy programming language
-  </content>
- </entry>
- <entry>
-  <title>sec-balkan: Nim-exercises</title>
-  <author>
-   <name>sec-balkan</name>
-  </author>
-  <link href="https://github.com/sec-balkan/Nim-exercises" />
-  <id>urn:rprimus:github:sec-balkan:Nim-exercises</id>
-  <published>2021-10-05T13:05:44Z</published>
-  <updated>2021-10-05T13:05:44Z</updated>
-  <content type="html">
-   Exercises of Nim basics
-  </content>
- </entry>
- <entry>
-  <title>thisago: randomAvatar</title>
-  <author>
-   <name>thisago</name>
-  </author>
-  <link href="https://github.com/thisago/randomAvatar" />
-  <id>urn:rprimus:github:thisago:randomAvatar</id>
-  <published>2021-10-05T00:33:28Z</published>
-  <updated>2021-10-05T00:33:28Z</updated>
-  <content type="html">
-   Generates random SVG avatars
   </content>
  </entry>
 </feed>
