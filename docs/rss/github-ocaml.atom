@@ -2,8 +2,112 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2021-10-08T07:37:48Z</updated>
+<updated>2021-10-09T03:48:40Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>craff: block_sort</title>
+  <author>
+   <name>craff</name>
+  </author>
+  <link href="https://github.com/craff/block_sort" />
+  <id>urn:rprimus:github:craff:block_sort</id>
+  <published>2021-10-09T03:48:40Z</published>
+  <updated>2021-10-09T03:48:40Z</updated>
+  <content type="html">
+   A stable sort which is fast on partially sorted lists
+  </content>
+ </entry>
+ <entry>
+  <title>omnisci3nce: repository-pattern</title>
+  <author>
+   <name>omnisci3nce</name>
+  </author>
+  <link href="https://github.com/omnisci3nce/repository-pattern" />
+  <id>urn:rprimus:github:omnisci3nce:repository-pattern</id>
+  <published>2021-10-08T23:32:24Z</published>
+  <updated>2021-10-08T23:32:24Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>jmid: multicoretests</title>
+  <author>
+   <name>jmid</name>
+  </author>
+  <link href="https://github.com/jmid/multicoretests" />
+  <id>urn:rprimus:github:jmid:multicoretests</id>
+  <published>2021-10-08T22:11:24Z</published>
+  <updated>2021-10-08T22:11:24Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>nyandrianinamamy: typeur-scala</title>
+  <author>
+   <name>nyandrianinamamy</name>
+  </author>
+  <link href="https://github.com/nyandrianinamamy/typeur-scala" />
+  <id>urn:rprimus:github:nyandrianinamamy:typeur-scala</id>
+  <published>2021-10-08T19:18:43Z</published>
+  <updated>2021-10-08T19:18:43Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>shrik450: dismalhub</title>
+  <author>
+   <name>shrik450</name>
+  </author>
+  <link href="https://github.com/shrik450/dismalhub" />
+  <id>urn:rprimus:github:shrik450:dismalhub</id>
+  <published>2021-10-08T15:34:39Z</published>
+  <updated>2021-10-08T15:34:39Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>CharlieChanMeyer: ProjetMastermind</title>
+  <author>
+   <name>CharlieChanMeyer</name>
+  </author>
+  <link href="https://github.com/CharlieChanMeyer/ProjetMastermind" />
+  <id>urn:rprimus:github:CharlieChanMeyer:ProjetMastermind</id>
+  <published>2021-10-08T14:54:07Z</published>
+  <updated>2021-10-08T14:54:07Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>williamforbrigd: compilerdesign</title>
+  <author>
+   <name>williamforbrigd</name>
+  </author>
+  <link href="https://github.com/williamforbrigd/compilerdesign" />
+  <id>urn:rprimus:github:williamforbrigd:compilerdesign</id>
+  <published>2021-10-08T09:38:38Z</published>
+  <updated>2021-10-08T09:38:38Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>releaselab: ocaml-lattices</title>
+  <author>
+   <name>releaselab</name>
+  </author>
+  <link href="https://github.com/releaselab/ocaml-lattices" />
+  <id>urn:rprimus:github:releaselab:ocaml-lattices</id>
+  <published>2021-10-08T09:36:26Z</published>
+  <updated>2021-10-08T09:36:26Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>jiseongg: c2py</title>
   <author>
@@ -44,6 +148,19 @@
   </content>
  </entry>
  <entry>
+  <title>winnie0617: ocaml-poker</title>
+  <author>
+   <name>winnie0617</name>
+  </author>
+  <link href="https://github.com/winnie0617/ocaml-poker" />
+  <id>urn:rprimus:github:winnie0617:ocaml-poker</id>
+  <published>2021-10-07T14:55:14Z</published>
+  <updated>2021-10-07T14:55:14Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
   <title>guybenh: compiler</title>
   <author>
    <name>guybenh</name>
@@ -54,123 +171,6 @@
   <updated>2021-10-07T09:27:56Z</updated>
   <content type="html">
    Implemented a compiler in Ocaml for scheme. The compiler parses the input, analyzes it and generates x86 assembly code for it. In addition, the compiler supports some memory and runtime optimizations.
-  </content>
- </entry>
- <entry>
-  <title>b72u68: cs-iit-scraper</title>
-  <author>
-   <name>b72u68</name>
-  </author>
-  <link href="https://github.com/b72u68/cs-iit-scraper" />
-  <id>urn:rprimus:github:b72u68:cs-iit-scraper</id>
-  <published>2021-10-06T21:21:52Z</published>
-  <updated>2021-10-06T21:21:52Z</updated>
-  <content type="html">
-   Ocaml web scraper for Computer Science courses on Illinois Tech website
-  </content>
- </entry>
- <entry>
-  <title>KennethAdamMiller: minimal_replication</title>
-  <author>
-   <name>KennethAdamMiller</name>
-  </author>
-  <link href="https://github.com/KennethAdamMiller/minimal_replication" />
-  <id>urn:rprimus:github:KennethAdamMiller:minimal_replication</id>
-  <published>2021-10-06T19:29:10Z</published>
-  <updated>2021-10-06T19:29:10Z</updated>
-  <content type="html">
-   A minimal example of a lockup
-  </content>
- </entry>
- <entry>
-  <title>egydiopacheco: C-minus-compiler</title>
-  <author>
-   <name>egydiopacheco</name>
-  </author>
-  <link href="https://github.com/egydiopacheco/C-minus-compiler" />
-  <id>urn:rprimus:github:egydiopacheco:C-minus-compiler</id>
-  <published>2021-10-06T15:26:33Z</published>
-  <updated>2021-10-06T15:26:33Z</updated>
-  <content type="html">
-   A toy compiler in Ocaml for the C- language
-  </content>
- </entry>
- <entry>
-  <title>flodufay: PDS-TP1</title>
-  <author>
-   <name>flodufay</name>
-  </author>
-  <link href="https://github.com/flodufay/PDS-TP1" />
-  <id>urn:rprimus:github:flodufay:PDS-TP1</id>
-  <published>2021-10-06T14:34:57Z</published>
-  <updated>2021-10-06T14:34:57Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Ant1B2x: N7_TDL_Project</title>
-  <author>
-   <name>Ant1B2x</name>
-  </author>
-  <link href="https://github.com/Ant1B2x/N7_TDL_Project" />
-  <id>urn:rprimus:github:Ant1B2x:N7_TDL_Project</id>
-  <published>2021-10-06T13:35:33Z</published>
-  <updated>2021-10-06T13:35:33Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ivanleomk: Ahrefs-Take-home-Task</title>
-  <author>
-   <name>ivanleomk</name>
-  </author>
-  <link href="https://github.com/ivanleomk/Ahrefs-Take-home-Task" />
-  <id>urn:rprimus:github:ivanleomk:Ahrefs-Take-home-Task</id>
-  <published>2021-10-06T12:51:18Z</published>
-  <updated>2021-10-06T12:51:18Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>roburio: webauthn</title>
-  <author>
-   <name>roburio</name>
-  </author>
-  <link href="https://github.com/roburio/webauthn" />
-  <id>urn:rprimus:github:roburio:webauthn</id>
-  <published>2021-10-06T12:02:00Z</published>
-  <updated>2021-10-06T12:02:00Z</updated>
-  <content type="html">
-   Mirror of https://git.robur.io/robur/webauthn/
-  </content>
- </entry>
- <entry>
-  <title>mimunojun: functional_prog</title>
-  <author>
-   <name>mimunojun</name>
-  </author>
-  <link href="https://github.com/mimunojun/functional_prog" />
-  <id>urn:rprimus:github:mimunojun:functional_prog</id>
-  <published>2021-10-06T07:19:39Z</published>
-  <updated>2021-10-06T07:19:39Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>valyrie: unnamed_language</title>
-  <author>
-   <name>valyrie</name>
-  </author>
-  <link href="https://github.com/valyrie/unnamed_language" />
-  <id>urn:rprimus:github:valyrie:unnamed_language</id>
-  <published>2021-10-06T01:05:23Z</published>
-  <updated>2021-10-06T01:05:23Z</updated>
-  <content type="html">
-   playing around with writing a compiler in ocaml -- extremely wip -- don&#039;t email me about it
   </content>
  </entry>
 </feed>

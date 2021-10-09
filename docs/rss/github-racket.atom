@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-racket.atom"/>
 <id>urn:rprimus:github:newracketrepos</id>
-<updated>2021-10-08T07:40:23Z</updated>
+<updated>2021-10-08T19:15:29Z</updated>
 <title type='text'>New GitHub Racket Repos</title>
+ <entry>
+  <title>lbuttitta: terminal</title>
+  <author>
+   <name>lbuttitta</name>
+  </author>
+  <link href="https://github.com/lbuttitta/terminal" />
+  <id>urn:rprimus:github:lbuttitta:terminal</id>
+  <published>2021-10-08T19:15:29Z</published>
+  <updated>2021-10-08T19:15:29Z</updated>
+  <content type="html">
+   A Racket library for manipulating the terminal.
+  </content>
+ </entry>
  <entry>
   <title>bryzhang: perplex</title>
   <author>
@@ -57,6 +70,19 @@
   </content>
  </entry>
  <entry>
+  <title>Areyesenc: Lab01.Scheme-2021.02</title>
+  <author>
+   <name>Areyesenc</name>
+  </author>
+  <link href="https://github.com/Areyesenc/Lab01.Scheme-2021.02" />
+  <id>urn:rprimus:github:Areyesenc:Lab01.Scheme-2021.02</id>
+  <published>2021-10-07T21:17:54Z</published>
+  <updated>2021-10-07T21:17:54Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
   <title>mattialancellotti: uni-racket-code</title>
   <author>
    <name>mattialancellotti</name>
@@ -93,175 +119,6 @@
   <updated>2021-10-07T04:06:37Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>helenaguajardo: BinHeap</title>
-  <author>
-   <name>helenaguajardo</name>
-  </author>
-  <link href="https://github.com/helenaguajardo/BinHeap" />
-  <id>urn:rprimus:github:helenaguajardo:BinHeap</id>
-  <published>2021-10-06T21:15:08Z</published>
-  <updated>2021-10-06T21:15:08Z</updated>
-  <content type="html">
-   A binary heap written in DSSL2
-  </content>
- </entry>
- <entry>
-  <title>helenaguajardo: Dictionaries</title>
-  <author>
-   <name>helenaguajardo</name>
-  </author>
-  <link href="https://github.com/helenaguajardo/Dictionaries" />
-  <id>urn:rprimus:github:helenaguajardo:Dictionaries</id>
-  <published>2021-10-06T21:12:17Z</published>
-  <updated>2021-10-06T21:12:17Z</updated>
-  <content type="html">
-   Code for a hash table and an association list that was written in CS214 at Northwestern University
-  </content>
- </entry>
- <entry>
-  <title>uw-unsat: leanette-popl22-artifact</title>
-  <author>
-   <name>uw-unsat</name>
-  </author>
-  <link href="https://github.com/uw-unsat/leanette-popl22-artifact" />
-  <id>urn:rprimus:github:uw-unsat:leanette-popl22-artifact</id>
-  <published>2021-10-06T18:43:24Z</published>
-  <updated>2021-10-06T18:43:24Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>eoin-cr: uni</title>
-  <author>
-   <name>eoin-cr</name>
-  </author>
-  <link href="https://github.com/eoin-cr/uni" />
-  <id>urn:rprimus:github:eoin-cr:uni</id>
-  <published>2021-10-06T17:38:23Z</published>
-  <updated>2021-10-06T17:38:23Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>shartf: AoC2016</title>
-  <author>
-   <name>shartf</name>
-  </author>
-  <link href="https://github.com/shartf/AoC2016" />
-  <id>urn:rprimus:github:shartf:AoC2016</id>
-  <published>2021-10-06T16:03:32Z</published>
-  <updated>2021-10-06T16:03:32Z</updated>
-  <content type="html">
-   AoC 2016. In 2021. For fun and in Racket!
-  </content>
- </entry>
- <entry>
-  <title>jriha30: CSC470HW7</title>
-  <author>
-   <name>jriha30</name>
-  </author>
-  <link href="https://github.com/jriha30/CSC470HW7" />
-  <id>urn:rprimus:github:jriha30:CSC470HW7</id>
-  <published>2021-10-06T15:06:22Z</published>
-  <updated>2021-10-06T15:06:22Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>JavaPLT: Assignment-5-Master</title>
-  <author>
-   <name>JavaPLT</name>
-  </author>
-  <link href="https://github.com/JavaPLT/Assignment-5-Master" />
-  <id>urn:rprimus:github:JavaPLT:Assignment-5-Master</id>
-  <published>2021-10-06T14:07:45Z</published>
-  <updated>2021-10-06T14:07:45Z</updated>
-  <content type="html">
-   Master for Comp 311 Assignment 5
-  </content>
- </entry>
- <entry>
-  <title>LyubenGeorgiev: Functional-Programming</title>
-  <author>
-   <name>LyubenGeorgiev</name>
-  </author>
-  <link href="https://github.com/LyubenGeorgiev/Functional-Programming" />
-  <id>urn:rprimus:github:LyubenGeorgiev:Functional-Programming</id>
-  <published>2021-10-06T10:08:38Z</published>
-  <updated>2021-10-06T10:08:38Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Kalimehtar: text-date</title>
-  <author>
-   <name>Kalimehtar</name>
-  </author>
-  <link href="https://github.com/Kalimehtar/text-date" />
-  <id>urn:rprimus:github:Kalimehtar:text-date</id>
-  <published>2021-10-06T09:04:02Z</published>
-  <updated>2021-10-06T09:04:02Z</updated>
-  <content type="html">
-   Widget for Racket/gui for date enter
-  </content>
- </entry>
- <entry>
-  <title>jitwit: irl-marbles</title>
-  <author>
-   <name>jitwit</name>
-  </author>
-  <link href="https://github.com/jitwit/irl-marbles" />
-  <id>urn:rprimus:github:jitwit:irl-marbles</id>
-  <published>2021-10-06T06:53:31Z</published>
-  <updated>2021-10-06T06:53:31Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Yanek-K: OSSU</title>
-  <author>
-   <name>Yanek-K</name>
-  </author>
-  <link href="https://github.com/Yanek-K/OSSU" />
-  <id>urn:rprimus:github:Yanek-K:OSSU</id>
-  <published>2021-10-06T04:32:10Z</published>
-  <updated>2021-10-06T04:32:10Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>mifax: FUNDAMENTOS_ALGORITMOS</title>
-  <author>
-   <name>mifax</name>
-  </author>
-  <link href="https://github.com/mifax/FUNDAMENTOS_ALGORITMOS" />
-  <id>urn:rprimus:github:mifax:FUNDAMENTOS_ALGORITMOS</id>
-  <published>2021-10-06T04:15:10Z</published>
-  <updated>2021-10-06T04:15:10Z</updated>
-  <content type="html">
-   Aqui voce vai encontrar todos os meus cÃ³digos da diciplina.
-  </content>
- </entry>
- <entry>
-  <title>DylanLiTR: CS135</title>
-  <author>
-   <name>DylanLiTR</name>
-  </author>
-  <link href="https://github.com/DylanLiTR/CS135" />
-  <id>urn:rprimus:github:DylanLiTR:CS135</id>
-  <published>2021-10-06T02:12:43Z</published>
-  <updated>2021-10-06T02:12:43Z</updated>
-  <content type="html">
-   Repository of templates and notes.
   </content>
  </entry>
 </feed>
