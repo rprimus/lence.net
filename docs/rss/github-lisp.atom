@@ -2,8 +2,138 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-10-09T03:38:43Z</updated>
+<updated>2021-10-09T19:00:43Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>Uthar: tuple</title>
+  <author>
+   <name>Uthar</name>
+  </author>
+  <link href="https://github.com/Uthar/tuple" />
+  <id>urn:rprimus:github:Uthar:tuple</id>
+  <published>2021-10-09T19:00:43Z</published>
+  <updated>2021-10-09T19:00:43Z</updated>
+  <content type="html">
+   Persistent, immutable, sequential collection type for Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>rigidus: d2clone-kit</title>
+  <author>
+   <name>rigidus</name>
+  </author>
+  <link href="https://github.com/rigidus/d2clone-kit" />
+  <id>urn:rprimus:github:rigidus:d2clone-kit</id>
+  <published>2021-10-09T18:29:35Z</published>
+  <updated>2021-10-09T18:29:35Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>goranpjevic: primes-app</title>
+  <author>
+   <name>goranpjevic</name>
+  </author>
+  <link href="https://github.com/goranpjevic/primes-app" />
+  <id>urn:rprimus:github:goranpjevic:primes-app</id>
+  <published>2021-10-09T16:26:58Z</published>
+  <updated>2021-10-09T16:26:58Z</updated>
+  <content type="html">
+   app for generating prime numbers and checking if a number is prime.
+  </content>
+ </entry>
+ <entry>
+  <title>migrosec: common-lisp-gentle-intro-exercises</title>
+  <author>
+   <name>migrosec</name>
+  </author>
+  <link href="https://github.com/migrosec/common-lisp-gentle-intro-exercises" />
+  <id>urn:rprimus:github:migrosec:common-lisp-gentle-intro-exercises</id>
+  <published>2021-10-09T15:30:44Z</published>
+  <updated>2021-10-09T15:30:44Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>clasp-developers: imgui-clasp</title>
+  <author>
+   <name>clasp-developers</name>
+  </author>
+  <link href="https://github.com/clasp-developers/imgui-clasp" />
+  <id>urn:rprimus:github:clasp-developers:imgui-clasp</id>
+  <published>2021-10-09T14:23:44Z</published>
+  <updated>2021-10-09T14:23:44Z</updated>
+  <content type="html">
+   Expose the ImGui framework to clasp
+  </content>
+ </entry>
+ <entry>
+  <title>riqueenz: Cliver</title>
+  <author>
+   <name>riqueenz</name>
+  </author>
+  <link href="https://github.com/riqueenz/Cliver" />
+  <id>urn:rprimus:github:riqueenz:Cliver</id>
+  <published>2021-10-09T11:25:05Z</published>
+  <updated>2021-10-09T11:25:05Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>RuchitD: TiktacToelisp</title>
+  <author>
+   <name>RuchitD</name>
+  </author>
+  <link href="https://github.com/RuchitD/TiktacToelisp" />
+  <id>urn:rprimus:github:RuchitD:TiktacToelisp</id>
+  <published>2021-10-09T10:13:23Z</published>
+  <updated>2021-10-09T10:13:23Z</updated>
+  <content type="html">
+   TikTacToe made usingLisp
+  </content>
+ </entry>
+ <entry>
+  <title>cxxxr: strict-function</title>
+  <author>
+   <name>cxxxr</name>
+  </author>
+  <link href="https://github.com/cxxxr/strict-function" />
+  <id>urn:rprimus:github:cxxxr:strict-function</id>
+  <published>2021-10-09T10:11:18Z</published>
+  <updated>2021-10-09T10:11:18Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>malflame: autoRandNumbers</title>
+  <author>
+   <name>malflame</name>
+  </author>
+  <link href="https://github.com/malflame/autoRandNumbers" />
+  <id>urn:rprimus:github:malflame:autoRandNumbers</id>
+  <published>2021-10-09T09:54:00Z</published>
+  <updated>2021-10-09T09:54:00Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>kana800: MediocreCS</title>
+  <author>
+   <name>kana800</name>
+  </author>
+  <link href="https://github.com/kana800/MediocreCS" />
+  <id>urn:rprimus:github:kana800:MediocreCS</id>
+  <published>2021-10-09T04:47:21Z</published>
+  <updated>2021-10-09T04:47:21Z</updated>
+  <content type="html">
+   A syllabus that I followed because I didnt go to university.
+  </content>
+ </entry>
  <entry>
   <title>jaemk: outside</title>
   <author>
@@ -67,110 +197,6 @@
   <updated>2021-10-08T01:41:37Z</updated>
   <content type="html">
    Collection of arbitrary personal Common Lisp Utilities
-  </content>
- </entry>
- <entry>
-  <title>copecog: org.unaen.cl.sets</title>
-  <author>
-   <name>copecog</name>
-  </author>
-  <link href="https://github.com/copecog/org.unaen.cl.sets" />
-  <id>urn:rprimus:github:copecog:org.unaen.cl.sets</id>
-  <published>2021-10-07T22:12:08Z</published>
-  <updated>2021-10-07T22:12:08Z</updated>
-  <content type="html">
-   Simple sets and operations based on CL hash-table&#039;s.
-  </content>
- </entry>
- <entry>
-  <title>gamb: adventofcode2019</title>
-  <author>
-   <name>gamb</name>
-  </author>
-  <link href="https://github.com/gamb/adventofcode2019" />
-  <id>urn:rprimus:github:gamb:adventofcode2019</id>
-  <published>2021-10-07T20:56:32Z</published>
-  <updated>2021-10-07T20:56:32Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jl2: sgl-test</title>
-  <author>
-   <name>jl2</name>
-  </author>
-  <link href="https://github.com/jl2/sgl-test" />
-  <id>urn:rprimus:github:jl2:sgl-test</id>
-  <published>2021-10-07T19:33:08Z</published>
-  <updated>2021-10-07T19:33:08Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>bff12: lisp-functions</title>
-  <author>
-   <name>bff12</name>
-  </author>
-  <link href="https://github.com/bff12/lisp-functions" />
-  <id>urn:rprimus:github:bff12:lisp-functions</id>
-  <published>2021-10-07T19:23:39Z</published>
-  <updated>2021-10-07T19:23:39Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>davids81: LispBook</title>
-  <author>
-   <name>davids81</name>
-  </author>
-  <link href="https://github.com/davids81/LispBook" />
-  <id>urn:rprimus:github:davids81:LispBook</id>
-  <published>2021-10-07T17:20:23Z</published>
-  <updated>2021-10-07T17:20:23Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>JonathanHandojo: Sample-LISP-Routines-for-AutoCAD</title>
-  <author>
-   <name>JonathanHandojo</name>
-  </author>
-  <link href="https://github.com/JonathanHandojo/Sample-LISP-Routines-for-AutoCAD" />
-  <id>urn:rprimus:github:JonathanHandojo:Sample-LISP-Routines-for-AutoCAD</id>
-  <published>2021-10-07T09:22:47Z</published>
-  <updated>2021-10-07T09:22:47Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>pve1: make-system-loader</title>
-  <author>
-   <name>pve1</name>
-  </author>
-  <link href="https://github.com/pve1/make-system-loader" />
-  <id>urn:rprimus:github:pve1:make-system-loader</id>
-  <published>2021-10-07T08:22:12Z</published>
-  <updated>2021-10-07T08:22:12Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>signedchar: lisp-scripts</title>
-  <author>
-   <name>signedchar</name>
-  </author>
-  <link href="https://github.com/signedchar/lisp-scripts" />
-  <id>urn:rprimus:github:signedchar:lisp-scripts</id>
-  <published>2021-10-07T00:18:15Z</published>
-  <updated>2021-10-07T00:18:15Z</updated>
-  <content type="html">
-   Some lisp scripts
   </content>
  </entry>
 </feed>
