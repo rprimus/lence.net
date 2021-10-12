@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-10-10T20:23:47Z</updated>
+<updated>2021-10-11T21:37:41Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>kaosmicadei: excel-macro-gen</title>
+  <author>
+   <name>kaosmicadei</name>
+  </author>
+  <link href="https://github.com/kaosmicadei/excel-macro-gen" />
+  <id>urn:rprimus:github:kaosmicadei:excel-macro-gen</id>
+  <published>2021-10-11T21:37:41Z</published>
+  <updated>2021-10-11T21:37:41Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>PLEX-GR00T: Bayesian_Network_for_Car_Insurance</title>
+  <author>
+   <name>PLEX-GR00T</name>
+  </author>
+  <link href="https://github.com/PLEX-GR00T/Bayesian_Network_for_Car_Insurance" />
+  <id>urn:rprimus:github:PLEX-GR00T:Bayesian_Network_for_Car_Insurance</id>
+  <published>2021-10-11T20:40:55Z</published>
+  <updated>2021-10-11T20:40:55Z</updated>
+  <content type="html">
+   We will create DAG for car insurance and estiate the expected medical cost given different evidence
+  </content>
+ </entry>
+ <entry>
+  <title>teixeirazeus: Jogos-em-Lisp</title>
+  <author>
+   <name>teixeirazeus</name>
+  </author>
+  <link href="https://github.com/teixeirazeus/Jogos-em-Lisp" />
+  <id>urn:rprimus:github:teixeirazeus:Jogos-em-Lisp</id>
+  <published>2021-10-11T18:00:08Z</published>
+  <updated>2021-10-11T18:00:08Z</updated>
+  <content type="html">
+   Jogos de terminal escritos em Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>Kyuvi: lrv-asm</title>
+  <author>
+   <name>Kyuvi</name>
+  </author>
+  <link href="https://github.com/Kyuvi/lrv-asm" />
+  <id>urn:rprimus:github:Kyuvi:lrv-asm</id>
+  <published>2021-10-11T12:47:02Z</published>
+  <updated>2021-10-11T12:47:02Z</updated>
+  <content type="html">
+   RISC-V assembler in Common Lisp
+  </content>
+ </entry>
  <entry>
   <title>ablanco1950: BFS-no-conventional</title>
   <author>
@@ -15,19 +67,6 @@
   <updated>2021-10-10T20:23:47Z</updated>
   <content type="html">
    BFS-no-conventional Search according to the BFS algorithm according to an &quot;unconventional&quot; method, meaning the conventional one that is downloaded from http://www.paulgraham.com/acl.html link to code file acl2.lisp. In this &quot;unconventional&quot; version, all the paths that lead to the objective are obtained following the BFS strategy, not only the first path, which will be the shortest. Since there may be several paths that are the shortest, apart from facilitating the case in which the branches are weighted and only the shortest path is not decisive. A program BFS-no-conventional-only-first-path.cl is also provided that obtains only the first path that reaches the target (actually it is the same program in which the value of the option parameter has been modified). The result is an increase in time but a significant reduction in the memory occupied, which is useful in the case of large graphs. The code has some lack of &quot;orthodoxy&quot;, such as the use of global variables. Requirements: Allegro CL 10.1 Free Express Edition The programs are loaded, the code is selected and Tools Incremental Evaluation is given. The test cases are then selected and Tools Incremental Evaluation is given again. References: ANSI Common Lisp by Paul Graham. http://www.paulgraham.com/acl.html link to code, file acl2.lisp Diverse material of practices of the subject of Artificial Intelligence of the Polytechnic School Superior, Computer Engineering, of the Autonomous University of Madrid.
-  </content>
- </entry>
- <entry>
-  <title>Kyuvi: lrv-asm</title>
-  <author>
-   <name>Kyuvi</name>
-  </author>
-  <link href="https://github.com/Kyuvi/lrv-asm" />
-  <id>urn:rprimus:github:Kyuvi:lrv-asm</id>
-  <published>2021-10-10T16:30:01Z</published>
-  <updated>2021-10-10T16:30:01Z</updated>
-  <content type="html">
-   RISC-V assembler in Common Lisp
   </content>
  </entry>
  <entry>
@@ -65,136 +104,6 @@
   <id>urn:rprimus:github:CAEL0:LISP</id>
   <published>2021-10-10T10:08:52Z</published>
   <updated>2021-10-10T10:08:52Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Uthar: tuple</title>
-  <author>
-   <name>Uthar</name>
-  </author>
-  <link href="https://github.com/Uthar/tuple" />
-  <id>urn:rprimus:github:Uthar:tuple</id>
-  <published>2021-10-09T19:00:43Z</published>
-  <updated>2021-10-09T19:00:43Z</updated>
-  <content type="html">
-   Persistent, immutable, sequential collection type for Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>rigidus: d2clone-kit</title>
-  <author>
-   <name>rigidus</name>
-  </author>
-  <link href="https://github.com/rigidus/d2clone-kit" />
-  <id>urn:rprimus:github:rigidus:d2clone-kit</id>
-  <published>2021-10-09T18:29:35Z</published>
-  <updated>2021-10-09T18:29:35Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>goranpjevic: primes-app</title>
-  <author>
-   <name>goranpjevic</name>
-  </author>
-  <link href="https://github.com/goranpjevic/primes-app" />
-  <id>urn:rprimus:github:goranpjevic:primes-app</id>
-  <published>2021-10-09T16:26:58Z</published>
-  <updated>2021-10-09T16:26:58Z</updated>
-  <content type="html">
-   app for generating prime numbers and checking if a number is prime.
-  </content>
- </entry>
- <entry>
-  <title>migrosec: common-lisp-gentle-intro-exercises</title>
-  <author>
-   <name>migrosec</name>
-  </author>
-  <link href="https://github.com/migrosec/common-lisp-gentle-intro-exercises" />
-  <id>urn:rprimus:github:migrosec:common-lisp-gentle-intro-exercises</id>
-  <published>2021-10-09T15:30:44Z</published>
-  <updated>2021-10-09T15:30:44Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>riqueenz: Cliver</title>
-  <author>
-   <name>riqueenz</name>
-  </author>
-  <link href="https://github.com/riqueenz/Cliver" />
-  <id>urn:rprimus:github:riqueenz:Cliver</id>
-  <published>2021-10-09T11:25:05Z</published>
-  <updated>2021-10-09T11:25:05Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>RuchitD: TiktacToelisp</title>
-  <author>
-   <name>RuchitD</name>
-  </author>
-  <link href="https://github.com/RuchitD/TiktacToelisp" />
-  <id>urn:rprimus:github:RuchitD:TiktacToelisp</id>
-  <published>2021-10-09T10:13:23Z</published>
-  <updated>2021-10-09T10:13:23Z</updated>
-  <content type="html">
-   TikTacToe made usingLisp
-  </content>
- </entry>
- <entry>
-  <title>cxxxr: strict-function</title>
-  <author>
-   <name>cxxxr</name>
-  </author>
-  <link href="https://github.com/cxxxr/strict-function" />
-  <id>urn:rprimus:github:cxxxr:strict-function</id>
-  <published>2021-10-09T10:11:18Z</published>
-  <updated>2021-10-09T10:11:18Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>malflame: autoRandNumbers</title>
-  <author>
-   <name>malflame</name>
-  </author>
-  <link href="https://github.com/malflame/autoRandNumbers" />
-  <id>urn:rprimus:github:malflame:autoRandNumbers</id>
-  <published>2021-10-09T09:54:00Z</published>
-  <updated>2021-10-09T09:54:00Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>kana800: MediocreCS</title>
-  <author>
-   <name>kana800</name>
-  </author>
-  <link href="https://github.com/kana800/MediocreCS" />
-  <id>urn:rprimus:github:kana800:MediocreCS</id>
-  <published>2021-10-09T04:47:21Z</published>
-  <updated>2021-10-09T04:47:21Z</updated>
-  <content type="html">
-   A syllabus that I followed because I didnt go to university.
-  </content>
- </entry>
- <entry>
-  <title>jaemk: outside</title>
-  <author>
-   <name>jaemk</name>
-  </author>
-  <link href="https://github.com/jaemk/outside" />
-  <id>urn:rprimus:github:jaemk:outside</id>
-  <published>2021-10-09T03:38:43Z</published>
-  <updated>2021-10-09T03:38:43Z</updated>
   <content type="html">
    
   </content>
