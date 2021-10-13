@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-10-11T21:37:41Z</updated>
+<updated>2021-10-12T20:35:12Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>craciunj: karatsuba</title>
+  <author>
+   <name>craciunj</name>
+  </author>
+  <link href="https://github.com/craciunj/karatsuba" />
+  <id>urn:rprimus:github:craciunj:karatsuba</id>
+  <published>2021-10-12T20:35:12Z</published>
+  <updated>2021-10-12T20:35:12Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>kaosmicadei: excel-macro-gen</title>
   <author>
@@ -54,58 +67,6 @@
   <updated>2021-10-11T12:47:02Z</updated>
   <content type="html">
    RISC-V assembler in Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>ablanco1950: BFS-no-conventional</title>
-  <author>
-   <name>ablanco1950</name>
-  </author>
-  <link href="https://github.com/ablanco1950/BFS-no-conventional" />
-  <id>urn:rprimus:github:ablanco1950:BFS-no-conventional</id>
-  <published>2021-10-10T20:23:47Z</published>
-  <updated>2021-10-10T20:23:47Z</updated>
-  <content type="html">
-   BFS-no-conventional Search according to the BFS algorithm according to an &quot;unconventional&quot; method, meaning the conventional one that is downloaded from http://www.paulgraham.com/acl.html link to code file acl2.lisp. In this &quot;unconventional&quot; version, all the paths that lead to the objective are obtained following the BFS strategy, not only the first path, which will be the shortest. Since there may be several paths that are the shortest, apart from facilitating the case in which the branches are weighted and only the shortest path is not decisive. A program BFS-no-conventional-only-first-path.cl is also provided that obtains only the first path that reaches the target (actually it is the same program in which the value of the option parameter has been modified). The result is an increase in time but a significant reduction in the memory occupied, which is useful in the case of large graphs. The code has some lack of &quot;orthodoxy&quot;, such as the use of global variables. Requirements: Allegro CL 10.1 Free Express Edition The programs are loaded, the code is selected and Tools Incremental Evaluation is given. The test cases are then selected and Tools Incremental Evaluation is given again. References: ANSI Common Lisp by Paul Graham. http://www.paulgraham.com/acl.html link to code, file acl2.lisp Diverse material of practices of the subject of Artificial Intelligence of the Polytechnic School Superior, Computer Engineering, of the Autonomous University of Madrid.
-  </content>
- </entry>
- <entry>
-  <title>gdnand: learnLisp</title>
-  <author>
-   <name>gdnand</name>
-  </author>
-  <link href="https://github.com/gdnand/learnLisp" />
-  <id>urn:rprimus:github:gdnand:learnLisp</id>
-  <published>2021-10-10T16:23:59Z</published>
-  <updated>2021-10-10T16:23:59Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>dwmuller: cl-clr</title>
-  <author>
-   <name>dwmuller</name>
-  </author>
-  <link href="https://github.com/dwmuller/cl-clr" />
-  <id>urn:rprimus:github:dwmuller:cl-clr</id>
-  <published>2021-10-10T14:52:32Z</published>
-  <updated>2021-10-10T14:52:32Z</updated>
-  <content type="html">
-   Interoperability library allowing Common Lisp to access Common Language Runtime objects. Inspired by RDNZL.
-  </content>
- </entry>
- <entry>
-  <title>CAEL0: LISP</title>
-  <author>
-   <name>CAEL0</name>
-  </author>
-  <link href="https://github.com/CAEL0/LISP" />
-  <id>urn:rprimus:github:CAEL0:LISP</id>
-  <published>2021-10-10T10:08:52Z</published>
-  <updated>2021-10-10T10:08:52Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
