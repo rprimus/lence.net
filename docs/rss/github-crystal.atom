@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2021-10-14T00:47:21Z</updated>
+<updated>2021-10-14T18:21:43Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>jemc: crystal-occtyping</title>
+  <author>
+   <name>jemc</name>
+  </author>
+  <link href="https://github.com/jemc/crystal-occtyping" />
+  <id>urn:rprimus:github:jemc:crystal-occtyping</id>
+  <published>2021-10-14T18:21:43Z</published>
+  <updated>2021-10-14T18:21:43Z</updated>
+  <content type="html">
+   A Crystal port of occtyping algorithm (for learning purposes) 
+  </content>
+ </entry>
+ <entry>
+  <title>suzshiro1024: IEEE754_converter</title>
+  <author>
+   <name>suzshiro1024</name>
+  </author>
+  <link href="https://github.com/suzshiro1024/IEEE754_converter" />
+  <id>urn:rprimus:github:suzshiro1024:IEEE754_converter</id>
+  <published>2021-10-14T17:42:37Z</published>
+  <updated>2021-10-14T17:42:37Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>pedro-octavio: crystal-studies</title>
   <author>
@@ -67,32 +93,6 @@
   <updated>2021-10-13T10:02:05Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>spinscale: alfred-workflow-elastic-docs.cr</title>
-  <author>
-   <name>spinscale</name>
-  </author>
-  <link href="https://github.com/spinscale/alfred-workflow-elastic-docs.cr" />
-  <id>urn:rprimus:github:spinscale:alfred-workflow-elastic-docs.cr</id>
-  <published>2021-10-12T09:13:50Z</published>
-  <updated>2021-10-12T09:13:50Z</updated>
-  <content type="html">
-   An alfred workflow to easily search the elastic documentation
-  </content>
- </entry>
- <entry>
-  <title>jemc: crystal-flecs</title>
-  <author>
-   <name>jemc</name>
-  </author>
-  <link href="https://github.com/jemc/crystal-flecs" />
-  <id>urn:rprimus:github:jemc:crystal-flecs</id>
-  <published>2021-10-12T03:30:08Z</published>
-  <updated>2021-10-12T03:30:08Z</updated>
-  <content type="html">
-   Crystal wrapper for the flecs ECS library
   </content>
  </entry>
 </feed>
