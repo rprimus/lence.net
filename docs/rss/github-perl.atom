@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-perl.atom"/>
 <id>urn:rprimus:github:newperlrepos</id>
-<updated>2021-10-16T09:07:04Z</updated>
+<updated>2021-10-16T09:52:53Z</updated>
 <title type='text'>New GitHub Perl Repos</title>
+ <entry>
+  <title>TamaMcGlinn: git-forest</title>
+  <author>
+   <name>TamaMcGlinn</name>
+  </author>
+  <link href="https://github.com/TamaMcGlinn/git-forest" />
+  <id>urn:rprimus:github:TamaMcGlinn:git-forest</id>
+  <published>2021-10-16T09:52:53Z</published>
+  <updated>2021-10-16T09:52:53Z</updated>
+  <content type="html">
+   git-forest is a visual terminal tree viewer to replace `git log --graph`
+  </content>
+ </entry>
  <entry>
   <title>NozomuTsuruta: study_perl</title>
   <author>
