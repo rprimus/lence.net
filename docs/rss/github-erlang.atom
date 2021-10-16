@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-erlang.atom"/>
 <id>urn:rprimus:github:newerlangrepos</id>
-<updated>2021-10-15T07:57:12Z</updated>
+<updated>2021-10-15T19:59:03Z</updated>
 <title type='text'>New GitHub Erlang Repos</title>
+ <entry>
+  <title>Ledest: pge</title>
+  <author>
+   <name>Ledest</name>
+  </author>
+  <link href="https://github.com/Ledest/pge" />
+  <id>urn:rprimus:github:Ledest:pge</id>
+  <published>2021-10-15T19:59:03Z</published>
+  <updated>2021-10-15T19:59:03Z</updated>
+  <content type="html">
+   pg extended
+  </content>
+ </entry>
+ <entry>
+  <title>williamthome: project_euler</title>
+  <author>
+   <name>williamthome</name>
+  </author>
+  <link href="https://github.com/williamthome/project_euler" />
+  <id>urn:rprimus:github:williamthome:project_euler</id>
+  <published>2021-10-15T17:22:52Z</published>
+  <updated>2021-10-15T17:22:52Z</updated>
+  <content type="html">
+   My solutions of https://projecteuler.net/
+  </content>
+ </entry>
+ <entry>
+  <title>fredyouhanaie: wxErlang_examples</title>
+  <author>
+   <name>fredyouhanaie</name>
+  </author>
+  <link href="https://github.com/fredyouhanaie/wxErlang_examples" />
+  <id>urn:rprimus:github:fredyouhanaie:wxErlang_examples</id>
+  <published>2021-10-15T15:13:10Z</published>
+  <updated>2021-10-15T15:13:10Z</updated>
+  <content type="html">
+   wxErlang examples
+  </content>
+ </entry>
  <entry>
   <title>AmazeGame: ag_base</title>
   <author>
@@ -67,58 +106,6 @@
   <updated>2021-10-14T02:39:01Z</updated>
   <content type="html">
    My first Erlang app. Just for learn and tests.
-  </content>
- </entry>
- <entry>
-  <title>SynLocker: FlightMonitorErlang</title>
-  <author>
-   <name>SynLocker</name>
-  </author>
-  <link href="https://github.com/SynLocker/FlightMonitorErlang" />
-  <id>urn:rprimus:github:SynLocker:FlightMonitorErlang</id>
-  <published>2021-10-13T08:31:16Z</published>
-  <updated>2021-10-13T08:31:16Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>wwhai: light-emqx</title>
-  <author>
-   <name>wwhai</name>
-  </author>
-  <link href="https://github.com/wwhai/light-emqx" />
-  <id>urn:rprimus:github:wwhai:light-emqx</id>
-  <published>2021-10-13T07:46:56Z</published>
-  <updated>2021-10-13T07:46:56Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ganioc: erlang-demo</title>
-  <author>
-   <name>ganioc</name>
-  </author>
-  <link href="https://github.com/ganioc/erlang-demo" />
-  <id>urn:rprimus:github:ganioc:erlang-demo</id>
-  <published>2021-10-13T02:10:08Z</published>
-  <updated>2021-10-13T02:10:08Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>gorkinovich: meta</title>
-  <author>
-   <name>gorkinovich</name>
-  </author>
-  <link href="https://github.com/gorkinovich/meta" />
-  <id>urn:rprimus:github:gorkinovich:meta</id>
-  <published>2021-10-13T00:09:52Z</published>
-  <updated>2021-10-13T00:09:52Z</updated>
-  <content type="html">
-   Mini-Erlang Typing Application: A static analysis of polymorphic types tool
   </content>
  </entry>
 </feed>
