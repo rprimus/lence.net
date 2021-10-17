@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2021-10-15T22:33:00Z</updated>
+<updated>2021-10-16T21:32:35Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>mgomes: wraithdb</title>
+  <author>
+   <name>mgomes</name>
+  </author>
+  <link href="https://github.com/mgomes/wraithdb" />
+  <id>urn:rprimus:github:mgomes:wraithdb</id>
+  <published>2021-10-16T21:32:35Z</published>
+  <updated>2021-10-16T21:32:35Z</updated>
+  <content type="html">
+   Embedded NoSQL database for Crystal lang
+  </content>
+ </entry>
+ <entry>
+  <title>wyhaines: datapack.cr</title>
+  <author>
+   <name>wyhaines</name>
+  </author>
+  <link href="https://github.com/wyhaines/datapack.cr" />
+  <id>urn:rprimus:github:wyhaines:datapack.cr</id>
+  <published>2021-10-16T17:44:09Z</published>
+  <updated>2021-10-16T17:44:09Z</updated>
+  <content type="html">
+   You are building an application, be it web or something else. It has data -- images, CSS, JS, CSV files, whatever -- and you want to be able to easily bundle those into your compiled executable. This shard gives you a simple utility to add this data to your executable, access it, and manage it.
+  </content>
+ </entry>
  <entry>
   <title>onoderaproject: uruka</title>
   <author>
@@ -54,45 +80,6 @@
   <updated>2021-10-15T09:32:03Z</updated>
   <content type="html">
    A low-level API client for LXD
-  </content>
- </entry>
- <entry>
-  <title>jemc: crystal-occtyping</title>
-  <author>
-   <name>jemc</name>
-  </author>
-  <link href="https://github.com/jemc/crystal-occtyping" />
-  <id>urn:rprimus:github:jemc:crystal-occtyping</id>
-  <published>2021-10-14T18:21:43Z</published>
-  <updated>2021-10-14T18:21:43Z</updated>
-  <content type="html">
-   A Crystal port of occtyping algorithm (for learning purposes) 
-  </content>
- </entry>
- <entry>
-  <title>suzshiro1024: IEEE754_converter</title>
-  <author>
-   <name>suzshiro1024</name>
-  </author>
-  <link href="https://github.com/suzshiro1024/IEEE754_converter" />
-  <id>urn:rprimus:github:suzshiro1024:IEEE754_converter</id>
-  <published>2021-10-14T17:42:37Z</published>
-  <updated>2021-10-14T17:42:37Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>pedro-octavio: crystal-studies</title>
-  <author>
-   <name>pedro-octavio</name>
-  </author>
-  <link href="https://github.com/pedro-octavio/crystal-studies" />
-  <id>urn:rprimus:github:pedro-octavio:crystal-studies</id>
-  <published>2021-10-14T00:47:21Z</published>
-  <updated>2021-10-14T00:47:21Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
