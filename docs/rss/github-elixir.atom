@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-elixir.atom"/>
 <id>urn:rprimus:github:newelixirrepos</id>
-<updated>2021-10-17T03:38:51Z</updated>
+<updated>2021-10-17T06:46:56Z</updated>
 <title type='text'>New GitHub Elixir Repos</title>
+ <entry>
+  <title>MieuxVoter: majority-judgment-library-elixir</title>
+  <author>
+   <name>MieuxVoter</name>
+  </author>
+  <link href="https://github.com/MieuxVoter/majority-judgment-library-elixir" />
+  <id>urn:rprimus:github:MieuxVoter:majority-judgment-library-elixir</id>
+  <published>2021-10-17T06:46:56Z</published>
+  <updated>2021-10-17T06:46:56Z</updated>
+  <content type="html">
+   Resolve majority judgment polls in Elixir, to get the rank of each proposal.
+  </content>
+ </entry>
  <entry>
   <title>stackcats: adventofcode</title>
   <author>
@@ -538,19 +551,6 @@
   </content>
  </entry>
  <entry>
-  <title>vrrpizzato: portfolio</title>
-  <author>
-   <name>vrrpizzato</name>
-  </author>
-  <link href="https://github.com/vrrpizzato/portfolio" />
-  <id>urn:rprimus:github:vrrpizzato:portfolio</id>
-  <published>2021-10-15T16:17:14Z</published>
-  <updated>2021-10-15T16:17:14Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
   <title>milangoda: tesseract-elixir</title>
   <author>
    <name>milangoda</name>
@@ -743,6 +743,19 @@
   <updated>2021-10-15T04:49:20Z</updated>
   <content type="html">
    PoC on messing around with Elixir compilation process by tampering its internal ETS tables
+  </content>
+ </entry>
+ <entry>
+  <title>leelai: elixir_hello</title>
+  <author>
+   <name>leelai</name>
+  </author>
+  <link href="https://github.com/leelai/elixir_hello" />
+  <id>urn:rprimus:github:leelai:elixir_hello</id>
+  <published>2021-10-15T03:53:10Z</published>
+  <updated>2021-10-15T03:53:10Z</updated>
+  <content type="html">
+   
   </content>
  </entry>
  <entry>
