@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-10-18T07:15:54Z</updated>
+<updated>2021-10-18T23:57:39Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>andrewsoutar: just-enough-x11</title>
+  <author>
+   <name>andrewsoutar</name>
+  </author>
+  <link href="https://github.com/andrewsoutar/just-enough-x11" />
+  <id>urn:rprimus:github:andrewsoutar:just-enough-x11</id>
+  <published>2021-10-18T23:57:39Z</published>
+  <updated>2021-10-18T23:57:39Z</updated>
+  <content type="html">
+   Common Lisp bindings generator for &quot;just enough&quot; of the XCB API
+  </content>
+ </entry>
+ <entry>
+  <title>brettisken: AI-Projects</title>
+  <author>
+   <name>brettisken</name>
+  </author>
+  <link href="https://github.com/brettisken/AI-Projects" />
+  <id>urn:rprimus:github:brettisken:AI-Projects</id>
+  <published>2021-10-18T18:05:09Z</published>
+  <updated>2021-10-18T18:05:09Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>andrewsoutar: figment</title>
+  <author>
+   <name>andrewsoutar</name>
+  </author>
+  <link href="https://github.com/andrewsoutar/figment" />
+  <id>urn:rprimus:github:andrewsoutar:figment</id>
+  <published>2021-10-18T14:49:23Z</published>
+  <updated>2021-10-18T14:49:23Z</updated>
+  <content type="html">
+   The editor I imagine
+  </content>
+ </entry>
+ <entry>
+  <title>DanielKeogh: persistent-vector</title>
+  <author>
+   <name>DanielKeogh</name>
+  </author>
+  <link href="https://github.com/DanielKeogh/persistent-vector" />
+  <id>urn:rprimus:github:DanielKeogh:persistent-vector</id>
+  <published>2021-10-18T11:28:44Z</published>
+  <updated>2021-10-18T11:28:44Z</updated>
+  <content type="html">
+   persistent vector implementation for common lisp based upon the immutable vectors in clojure.
+  </content>
+ </entry>
  <entry>
   <title>woudshoo: wo-box</title>
   <author>
@@ -109,6 +161,32 @@
   </content>
  </entry>
  <entry>
+  <title>t-sin: tanaka-lisp</title>
+  <author>
+   <name>t-sin</name>
+  </author>
+  <link href="https://github.com/t-sin/tanaka-lisp" />
+  <id>urn:rprimus:github:t-sin:tanaka-lisp</id>
+  <published>2021-10-17T05:03:49Z</published>
+  <updated>2021-10-17T05:03:49Z</updated>
+  <content type="html">
+   His Lisp. He&#039;s attracted to dodoes.
+  </content>
+ </entry>
+ <entry>
+  <title>kartik-s: terrain-simpl</title>
+  <author>
+   <name>kartik-s</name>
+  </author>
+  <link href="https://github.com/kartik-s/terrain-simpl" />
+  <id>urn:rprimus:github:kartik-s:terrain-simpl</id>
+  <published>2021-10-17T00:37:06Z</published>
+  <updated>2021-10-17T00:37:06Z</updated>
+  <content type="html">
+   an implementation of an algorithm for creating polygonal approximations of terrains and height fields
+  </content>
+ </entry>
+ <entry>
   <title>KodingKing99: IS_HW06</title>
   <author>
    <name>KodingKing99</name>
@@ -119,45 +197,6 @@
   <updated>2021-10-17T00:03:57Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>malflame: ztozero</title>
-  <author>
-   <name>malflame</name>
-  </author>
-  <link href="https://github.com/malflame/ztozero" />
-  <id>urn:rprimus:github:malflame:ztozero</id>
-  <published>2021-10-16T15:18:55Z</published>
-  <updated>2021-10-16T15:18:55Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>morganmcgivern: genetic-musical-lisp</title>
-  <author>
-   <name>morganmcgivern</name>
-  </author>
-  <link href="https://github.com/morganmcgivern/genetic-musical-lisp" />
-  <id>urn:rprimus:github:morganmcgivern:genetic-musical-lisp</id>
-  <published>2021-10-16T14:27:26Z</published>
-  <updated>2021-10-16T14:27:26Z</updated>
-  <content type="html">
-   genetic algorithm in clisp - musical walking bass algo included
-  </content>
- </entry>
- <entry>
-  <title>pekingPow: mit_6.001_SICP</title>
-  <author>
-   <name>pekingPow</name>
-  </author>
-  <link href="https://github.com/pekingPow/mit_6.001_SICP" />
-  <id>urn:rprimus:github:pekingPow:mit_6.001_SICP</id>
-  <published>2021-10-16T01:12:30Z</published>
-  <updated>2021-10-16T01:12:30Z</updated>
-  <content type="html">
-   Inspired by the MIT YouTube lectures. Tested on CLISP.
   </content>
  </entry>
 </feed>
