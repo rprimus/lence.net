@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-10-19T07:57:55Z</updated>
+<updated>2021-10-19T19:40:33Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>MrKrip: LispParser</title>
+  <author>
+   <name>MrKrip</name>
+  </author>
+  <link href="https://github.com/MrKrip/LispParser" />
+  <id>urn:rprimus:github:MrKrip:LispParser</id>
+  <published>2021-10-19T19:40:33Z</published>
+  <updated>2021-10-19T19:40:33Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>wal238: myList</title>
+  <author>
+   <name>wal238</name>
+  </author>
+  <link href="https://github.com/wal238/myList" />
+  <id>urn:rprimus:github:wal238:myList</id>
+  <published>2021-10-19T16:57:37Z</published>
+  <updated>2021-10-19T16:57:37Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>wal238: filter-seq</title>
+  <author>
+   <name>wal238</name>
+  </author>
+  <link href="https://github.com/wal238/filter-seq" />
+  <id>urn:rprimus:github:wal238:filter-seq</id>
+  <published>2021-10-19T16:50:50Z</published>
+  <updated>2021-10-19T16:50:50Z</updated>
+  <content type="html">
+   Takes a sequence s (a string) and an alphabet (a string), and generates a result sequence (a string) by including only the characters of s that occur in the alphabet a
+  </content>
+ </entry>
  <entry>
   <title>rbhaskar7: Calculator-In-LISP</title>
   <author>
@@ -80,136 +119,6 @@
   <updated>2021-10-18T07:15:54Z</updated>
   <content type="html">
    playing around with cl-pdf and cl-typesetting
-  </content>
- </entry>
- <entry>
-  <title>0ctahedral: autumn-lisp-game-jam-2021</title>
-  <author>
-   <name>0ctahedral</name>
-  </author>
-  <link href="https://github.com/0ctahedral/autumn-lisp-game-jam-2021" />
-  <id>urn:rprimus:github:0ctahedral:autumn-lisp-game-jam-2021</id>
-  <published>2021-10-17T19:26:39Z</published>
-  <updated>2021-10-17T19:26:39Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>nagy: cl-nbd</title>
-  <author>
-   <name>nagy</name>
-  </author>
-  <link href="https://github.com/nagy/cl-nbd" />
-  <id>urn:rprimus:github:nagy:cl-nbd</id>
-  <published>2021-10-17T18:40:44Z</published>
-  <updated>2021-10-17T18:40:44Z</updated>
-  <content type="html">
-   Common Lisp Network Block Device server library. Forked from https://gitlab.com/ralt/nbd
-  </content>
- </entry>
- <entry>
-  <title>michzappa: dotfiles</title>
-  <author>
-   <name>michzappa</name>
-  </author>
-  <link href="https://github.com/michzappa/dotfiles" />
-  <id>urn:rprimus:github:michzappa:dotfiles</id>
-  <published>2021-10-17T16:15:17Z</published>
-  <updated>2021-10-17T16:15:17Z</updated>
-  <content type="html">
-   misc dotfiles (usually in .config) that don&#039;t standalone enough to merit their own repo
-  </content>
- </entry>
- <entry>
-  <title>timmyjose-study: practical-common-lisp</title>
-  <author>
-   <name>timmyjose-study</name>
-  </author>
-  <link href="https://github.com/timmyjose-study/practical-common-lisp" />
-  <id>urn:rprimus:github:timmyjose-study:practical-common-lisp</id>
-  <published>2021-10-17T15:09:36Z</published>
-  <updated>2021-10-17T15:09:36Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>aartaka: cl-translit</title>
-  <author>
-   <name>aartaka</name>
-  </author>
-  <link href="https://github.com/aartaka/cl-translit" />
-  <id>urn:rprimus:github:aartaka:cl-translit</id>
-  <published>2021-10-17T14:13:28Z</published>
-  <updated>2021-10-17T14:13:28Z</updated>
-  <content type="html">
-   Common Lisp library for Cyrillic-&gt;Latin and Latin-&gt;Cyrillic transliteration.
-  </content>
- </entry>
- <entry>
-  <title>IPOleksenko: HelloWolrd_Lisp</title>
-  <author>
-   <name>IPOleksenko</name>
-  </author>
-  <link href="https://github.com/IPOleksenko/HelloWolrd_Lisp" />
-  <id>urn:rprimus:github:IPOleksenko:HelloWolrd_Lisp</id>
-  <published>2021-10-17T12:08:16Z</published>
-  <updated>2021-10-17T12:08:16Z</updated>
-  <content type="html">
-   HelloWolrd_Lisp
-  </content>
- </entry>
- <entry>
-  <title>J1M-RYAN: land-of-lisp</title>
-  <author>
-   <name>J1M-RYAN</name>
-  </author>
-  <link href="https://github.com/J1M-RYAN/land-of-lisp" />
-  <id>urn:rprimus:github:J1M-RYAN:land-of-lisp</id>
-  <published>2021-10-17T09:11:51Z</published>
-  <updated>2021-10-17T09:11:51Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>t-sin: tanaka-lisp</title>
-  <author>
-   <name>t-sin</name>
-  </author>
-  <link href="https://github.com/t-sin/tanaka-lisp" />
-  <id>urn:rprimus:github:t-sin:tanaka-lisp</id>
-  <published>2021-10-17T05:03:49Z</published>
-  <updated>2021-10-17T05:03:49Z</updated>
-  <content type="html">
-   His Lisp. He&#039;s attracted to dodoes.
-  </content>
- </entry>
- <entry>
-  <title>kartik-s: terrain-simpl</title>
-  <author>
-   <name>kartik-s</name>
-  </author>
-  <link href="https://github.com/kartik-s/terrain-simpl" />
-  <id>urn:rprimus:github:kartik-s:terrain-simpl</id>
-  <published>2021-10-17T00:37:06Z</published>
-  <updated>2021-10-17T00:37:06Z</updated>
-  <content type="html">
-   an implementation of an algorithm for creating polygonal approximations of terrains and height fields
-  </content>
- </entry>
- <entry>
-  <title>KodingKing99: IS_HW06</title>
-  <author>
-   <name>KodingKing99</name>
-  </author>
-  <link href="https://github.com/KodingKing99/IS_HW06" />
-  <id>urn:rprimus:github:KodingKing99:IS_HW06</id>
-  <published>2021-10-17T00:03:57Z</published>
-  <updated>2021-10-17T00:03:57Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
