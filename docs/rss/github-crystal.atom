@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2021-10-19T19:37:48Z</updated>
+<updated>2021-10-20T17:56:55Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>kiinoda: kemal</title>
+  <author>
+   <name>kiinoda</name>
+  </author>
+  <link href="https://github.com/kiinoda/kemal" />
+  <id>urn:rprimus:github:kiinoda:kemal</id>
+  <published>2021-10-20T17:56:55Z</published>
+  <updated>2021-10-20T17:56:55Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>konovod: myecs</title>
+  <author>
+   <name>konovod</name>
+  </author>
+  <link href="https://github.com/konovod/myecs" />
+  <id>urn:rprimus:github:konovod:myecs</id>
+  <published>2021-10-20T15:36:02Z</published>
+  <updated>2021-10-20T15:36:02Z</updated>
+  <content type="html">
+   my ECS(Entity-Component-System) framework in Crystal
+  </content>
+ </entry>
+ <entry>
+  <title>mishushakov: syntaxer</title>
+  <author>
+   <name>mishushakov</name>
+  </author>
+  <link href="https://github.com/mishushakov/syntaxer" />
+  <id>urn:rprimus:github:mishushakov:syntaxer</id>
+  <published>2021-10-20T14:22:42Z</published>
+  <updated>2021-10-20T14:22:42Z</updated>
+  <content type="html">
+   Multi-backend syntax highlighter for Crystal
+  </content>
+ </entry>
  <entry>
   <title>grimmigerFuchs: dg16</title>
   <author>
@@ -27,46 +66,7 @@
   <published>2021-10-19T16:14:49Z</published>
   <updated>2021-10-19T16:14:49Z</updated>
   <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>grimmigerFuchs: sexpr</title>
-  <author>
-   <name>grimmigerFuchs</name>
-  </author>
-  <link href="https://github.com/grimmigerFuchs/sexpr" />
-  <id>urn:rprimus:github:grimmigerFuchs:sexpr</id>
-  <published>2021-10-18T17:14:38Z</published>
-  <updated>2021-10-18T17:14:38Z</updated>
-  <content type="html">
-   A small s-expression parser based on fast-sexpr
-  </content>
- </entry>
- <entry>
-  <title>mmKALLL: brainfuck-compiler</title>
-  <author>
-   <name>mmKALLL</name>
-  </author>
-  <link href="https://github.com/mmKALLL/brainfuck-compiler" />
-  <id>urn:rprimus:github:mmKALLL:brainfuck-compiler</id>
-  <published>2021-10-18T08:18:24Z</published>
-  <updated>2021-10-18T08:18:24Z</updated>
-  <content type="html">
-   Simple compiler written in the Crystal programming language.
-  </content>
- </entry>
- <entry>
-  <title>anndream: lucky_boilerplate</title>
-  <author>
-   <name>anndream</name>
-  </author>
-  <link href="https://github.com/anndream/lucky_boilerplate" />
-  <id>urn:rprimus:github:anndream:lucky_boilerplate</id>
-  <published>2021-10-18T05:46:54Z</published>
-  <updated>2021-10-18T05:46:54Z</updated>
-  <content type="html">
-   
+   Fast compiled prompt for use in linux shells
   </content>
  </entry>
 </feed>
