@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2021-10-20T17:56:55Z</updated>
+<updated>2021-10-21T22:08:21Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>bit4bit: collectd-unixsock.cr</title>
+  <author>
+   <name>bit4bit</name>
+  </author>
+  <link href="https://github.com/bit4bit/collectd-unixsock.cr" />
+  <id>urn:rprimus:github:bit4bit:collectd-unixsock.cr</id>
+  <published>2021-10-21T22:08:21Z</published>
+  <updated>2021-10-21T22:08:21Z</updated>
+  <content type="html">
+   library for collectd-unixsock
+  </content>
+ </entry>
+ <entry>
+  <title>lrutten: pcal2md</title>
+  <author>
+   <name>lrutten</name>
+  </author>
+  <link href="https://github.com/lrutten/pcal2md" />
+  <id>urn:rprimus:github:lrutten:pcal2md</id>
+  <published>2021-10-21T10:22:10Z</published>
+  <updated>2021-10-21T10:22:10Z</updated>
+  <content type="html">
+   Calendar generator for Markdown
+  </content>
+ </entry>
  <entry>
   <title>kiinoda: kemal</title>
   <author>
@@ -41,32 +67,6 @@
   <updated>2021-10-20T14:22:42Z</updated>
   <content type="html">
    Multi-backend syntax highlighter for Crystal
-  </content>
- </entry>
- <entry>
-  <title>grimmigerFuchs: dg16</title>
-  <author>
-   <name>grimmigerFuchs</name>
-  </author>
-  <link href="https://github.com/grimmigerFuchs/dg16" />
-  <id>urn:rprimus:github:grimmigerFuchs:dg16</id>
-  <published>2021-10-19T19:37:48Z</published>
-  <updated>2021-10-19T19:37:48Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>SEbbaDK: barion</title>
-  <author>
-   <name>SEbbaDK</name>
-  </author>
-  <link href="https://github.com/SEbbaDK/barion" />
-  <id>urn:rprimus:github:SEbbaDK:barion</id>
-  <published>2021-10-19T16:14:49Z</published>
-  <updated>2021-10-19T16:14:49Z</updated>
-  <content type="html">
-   Fast compiled prompt for use in linux shells
   </content>
  </entry>
 </feed>
