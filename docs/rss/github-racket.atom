@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-racket.atom"/>
 <id>urn:rprimus:github:newracketrepos</id>
-<updated>2021-10-23T08:06:48Z</updated>
+<updated>2021-10-23T10:31:06Z</updated>
 <title type='text'>New GitHub Racket Repos</title>
+ <entry>
+  <title>LeeChangYoon: System_Programming</title>
+  <author>
+   <name>LeeChangYoon</name>
+  </author>
+  <link href="https://github.com/LeeChangYoon/System_Programming" />
+  <id>urn:rprimus:github:LeeChangYoon:System_Programming</id>
+  <published>2021-10-23T10:31:06Z</published>
+  <updated>2021-10-23T10:31:06Z</updated>
+  <content type="html">
+   Repository for the system programming class
+  </content>
+ </entry>
+ <entry>
+  <title>vdloo: machine-check</title>
+  <author>
+   <name>vdloo</name>
+  </author>
+  <link href="https://github.com/vdloo/machine-check" />
+  <id>urn:rprimus:github:vdloo:machine-check</id>
+  <published>2021-10-23T10:00:40Z</published>
+  <updated>2021-10-23T10:00:40Z</updated>
+  <content type="html">
+   Write unit tests in Racket to verify if the state of your machine is what you expect.
+  </content>
+ </entry>
  <entry>
   <title>grayDayKey: sicp</title>
   <author>
