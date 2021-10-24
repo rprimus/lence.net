@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2021-10-23T10:09:14Z</updated>
+<updated>2021-10-24T01:20:00Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>acoolstraw: rando</title>
+  <author>
+   <name>acoolstraw</name>
+  </author>
+  <link href="https://github.com/acoolstraw/rando" />
+  <id>urn:rprimus:github:acoolstraw:rando</id>
+  <published>2021-10-24T01:20:00Z</published>
+  <updated>2021-10-24T01:20:00Z</updated>
+  <content type="html">
+   Random things on the commandline ð²
+  </content>
+ </entry>
+ <entry>
+  <title>stakach: crystal-kernel</title>
+  <author>
+   <name>stakach</name>
+  </author>
+  <link href="https://github.com/stakach/crystal-kernel" />
+  <id>urn:rprimus:github:stakach:crystal-kernel</id>
+  <published>2021-10-23T22:20:18Z</published>
+  <updated>2021-10-23T22:20:18Z</updated>
+  <content type="html">
+   yet another crystal kernel, inspired by ffwff/lilith
+  </content>
+ </entry>
+ <entry>
+  <title>weirdbricks: num-utils-crystal</title>
+  <author>
+   <name>weirdbricks</name>
+  </author>
+  <link href="https://github.com/weirdbricks/num-utils-crystal" />
+  <id>urn:rprimus:github:weirdbricks:num-utils-crystal</id>
+  <published>2021-10-23T19:18:09Z</published>
+  <updated>2021-10-23T19:18:09Z</updated>
+  <content type="html">
+   num-tools in Crystal Lang
+  </content>
+ </entry>
  <entry>
   <title>embium: jump-start-lucky</title>
   <author>
@@ -28,32 +67,6 @@
   <updated>2021-10-22T08:44:12Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>bit4bit: collectd-unixsock.cr</title>
-  <author>
-   <name>bit4bit</name>
-  </author>
-  <link href="https://github.com/bit4bit/collectd-unixsock.cr" />
-  <id>urn:rprimus:github:bit4bit:collectd-unixsock.cr</id>
-  <published>2021-10-21T22:08:21Z</published>
-  <updated>2021-10-21T22:08:21Z</updated>
-  <content type="html">
-   library for collectd-unixsock
-  </content>
- </entry>
- <entry>
-  <title>lrutten: pcal2md</title>
-  <author>
-   <name>lrutten</name>
-  </author>
-  <link href="https://github.com/lrutten/pcal2md" />
-  <id>urn:rprimus:github:lrutten:pcal2md</id>
-  <published>2021-10-21T10:22:10Z</published>
-  <updated>2021-10-21T10:22:10Z</updated>
-  <content type="html">
-   Calendar generator for Markdown
   </content>
  </entry>
 </feed>

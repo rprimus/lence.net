@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-erlang.atom"/>
 <id>urn:rprimus:github:newerlangrepos</id>
-<updated>2021-10-23T03:15:42Z</updated>
+<updated>2021-10-23T21:02:38Z</updated>
 <title type='text'>New GitHub Erlang Repos</title>
+ <entry>
+  <title>rasha108bik: erlang_labs</title>
+  <author>
+   <name>rasha108bik</name>
+  </author>
+  <link href="https://github.com/rasha108bik/erlang_labs" />
+  <id>urn:rprimus:github:rasha108bik:erlang_labs</id>
+  <published>2021-10-23T21:02:38Z</published>
+  <updated>2021-10-23T21:02:38Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>voluntas: cowboy_ws</title>
   <author>
@@ -28,58 +41,6 @@
   <updated>2021-10-22T09:58:37Z</updated>
   <content type="html">
    Show how to use mnesia
-  </content>
- </entry>
- <entry>
-  <title>gor-che: currencies</title>
-  <author>
-   <name>gor-che</name>
-  </author>
-  <link href="https://github.com/gor-che/currencies" />
-  <id>urn:rprimus:github:gor-che:currencies</id>
-  <published>2021-10-21T14:41:15Z</published>
-  <updated>2021-10-21T14:41:15Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>aeternity: launcher</title>
-  <author>
-   <name>aeternity</name>
-  </author>
-  <link href="https://github.com/aeternity/launcher" />
-  <id>urn:rprimus:github:aeternity:launcher</id>
-  <published>2021-10-21T08:09:00Z</published>
-  <updated>2021-10-21T08:09:00Z</updated>
-  <content type="html">
-   Graphical launcher and interface for Aeternity nodes.
-  </content>
- </entry>
- <entry>
-  <title>korsmakolnikov: PMC</title>
-  <author>
-   <name>korsmakolnikov</name>
-  </author>
-  <link href="https://github.com/korsmakolnikov/PMC" />
-  <id>urn:rprimus:github:korsmakolnikov:PMC</id>
-  <published>2021-10-21T07:08:15Z</published>
-  <updated>2021-10-21T07:08:15Z</updated>
-  <content type="html">
-   PMC stands shamefully for pseudo-monadic chain. This is a poor attempt to fill the gap between actor model and pure functional programming paradigms
-  </content>
- </entry>
- <entry>
-  <title>gilemon: ws_server</title>
-  <author>
-   <name>gilemon</name>
-  </author>
-  <link href="https://github.com/gilemon/ws_server" />
-  <id>urn:rprimus:github:gilemon:ws_server</id>
-  <published>2021-10-21T07:05:28Z</published>
-  <updated>2021-10-21T07:05:28Z</updated>
-  <content type="html">
-    Simple Websocket Server in Erlang
   </content>
  </entry>
 </feed>

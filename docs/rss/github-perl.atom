@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-perl.atom"/>
 <id>urn:rprimus:github:newperlrepos</id>
-<updated>2021-10-23T13:56:32Z</updated>
+<updated>2021-10-24T01:03:30Z</updated>
 <title type='text'>New GitHub Perl Repos</title>
+ <entry>
+  <title>nothing-c: NCBGSD</title>
+  <author>
+   <name>nothing-c</name>
+  </author>
+  <link href="https://github.com/nothing-c/NCBGSD" />
+  <id>urn:rprimus:github:nothing-c:NCBGSD</id>
+  <published>2021-10-24T01:03:30Z</published>
+  <updated>2021-10-24T01:03:30Z</updated>
+  <content type="html">
+   The Nothing-C Binary Grading System Databasing System
+  </content>
+ </entry>
+ <entry>
+  <title>mizlan: guitar-scale-chart</title>
+  <author>
+   <name>mizlan</name>
+  </author>
+  <link href="https://github.com/mizlan/guitar-scale-chart" />
+  <id>urn:rprimus:github:mizlan:guitar-scale-chart</id>
+  <published>2021-10-23T22:42:06Z</published>
+  <updated>2021-10-23T22:42:06Z</updated>
+  <content type="html">
+   Pretty guitar scales in your terminal
+  </content>
+ </entry>
+ <entry>
+  <title>DrViruss: RegularExpressions_TEST</title>
+  <author>
+   <name>DrViruss</name>
+  </author>
+  <link href="https://github.com/DrViruss/RegularExpressions_TEST" />
+  <id>urn:rprimus:github:DrViruss:RegularExpressions_TEST</id>
+  <published>2021-10-23T18:11:43Z</published>
+  <updated>2021-10-23T18:11:43Z</updated>
+  <content type="html">
+   Just experiments
+  </content>
+ </entry>
+ <entry>
+  <title>bublath: FHEM-RPI_1Wire</title>
+  <author>
+   <name>bublath</name>
+  </author>
+  <link href="https://github.com/bublath/FHEM-RPI_1Wire" />
+  <id>urn:rprimus:github:bublath:FHEM-RPI_1Wire</id>
+  <published>2021-10-23T17:38:24Z</published>
+  <updated>2021-10-23T17:38:24Z</updated>
+  <content type="html">
+   FHEM Module that supports reading directly from the Raspberry 1-Wire Bus (GPIO4) and DHT11/22 sensors
+  </content>
+ </entry>
+ <entry>
+  <title>AnonyProxies: anonyweb</title>
+  <author>
+   <name>AnonyProxies</name>
+  </author>
+  <link href="https://github.com/AnonyProxies/anonyweb" />
+  <id>urn:rprimus:github:AnonyProxies:anonyweb</id>
+  <published>2021-10-23T16:01:42Z</published>
+  <updated>2021-10-23T16:01:42Z</updated>
+  <content type="html">
+   AnonyProxies - anonyweb is a distributed web proxy powered by multiple CGI and PHP proxies
+  </content>
+ </entry>
+ <entry>
+  <title>bublath: rpi-dht</title>
+  <author>
+   <name>bublath</name>
+  </author>
+  <link href="https://github.com/bublath/rpi-dht" />
+  <id>urn:rprimus:github:bublath:rpi-dht</id>
+  <published>2021-10-23T15:25:43Z</published>
+  <updated>2021-10-23T15:25:43Z</updated>
+  <content type="html">
+   Perl module RPi::DHT to read temperature and humidity from DHT11/DHT22 sensors on a Raspberry Pi
+  </content>
+ </entry>
  <entry>
   <title>stairf: gopl</title>
   <author>
@@ -54,6 +132,19 @@
   <updated>2021-10-23T12:52:00Z</updated>
   <content type="html">
    
+  </content>
+ </entry>
+ <entry>
+  <title>kanna-shirakawa: libku-utils-perl</title>
+  <author>
+   <name>kanna-shirakawa</name>
+  </author>
+  <link href="https://github.com/kanna-shirakawa/libku-utils-perl" />
+  <id>urn:rprimus:github:kanna-shirakawa:libku-utils-perl</id>
+  <published>2021-10-23T10:08:41Z</published>
+  <updated>2021-10-23T10:08:41Z</updated>
+  <content type="html">
+   a bunch of perl code snippets
   </content>
  </entry>
  <entry>
@@ -301,240 +392,6 @@
   <updated>2021-10-22T00:10:36Z</updated>
   <content type="html">
    JPilot Plugin to run scripts at every stage of the sync process
-  </content>
- </entry>
- <entry>
-  <title>3scale-qe: apicast-failing-policy</title>
-  <author>
-   <name>3scale-qe</name>
-  </author>
-  <link href="https://github.com/3scale-qe/apicast-failing-policy" />
-  <id>urn:rprimus:github:3scale-qe:apicast-failing-policy</id>
-  <published>2021-10-21T16:29:03Z</published>
-  <updated>2021-10-21T16:29:03Z</updated>
-  <content type="html">
-   An apicast policy that fails successfully during its execution
-  </content>
- </entry>
- <entry>
-  <title>jpedro1992: pushing-netperf-metrics-to-prometheus</title>
-  <author>
-   <name>jpedro1992</name>
-  </author>
-  <link href="https://github.com/jpedro1992/pushing-netperf-metrics-to-prometheus" />
-  <id>urn:rprimus:github:jpedro1992:pushing-netperf-metrics-to-prometheus</id>
-  <published>2021-10-21T16:08:25Z</published>
-  <updated>2021-10-21T16:08:25Z</updated>
-  <content type="html">
-   Repository for the netperf component used by the Network-Aware framework for the Kubernetes platform based the Scheduler Framework
-  </content>
- </entry>
- <entry>
-  <title>kaz-utashiro: greple-git</title>
-  <author>
-   <name>kaz-utashiro</name>
-  </author>
-  <link href="https://github.com/kaz-utashiro/greple-git" />
-  <id>urn:rprimus:github:kaz-utashiro:greple-git</id>
-  <published>2021-10-21T15:54:48Z</published>
-  <updated>2021-10-21T15:54:48Z</updated>
-  <content type="html">
-   Greple git module
-  </content>
- </entry>
- <entry>
-  <title>ynny-github: latex-for-remote-container</title>
-  <author>
-   <name>ynny-github</name>
-  </author>
-  <link href="https://github.com/ynny-github/latex-for-remote-container" />
-  <id>urn:rprimus:github:ynny-github:latex-for-remote-container</id>
-  <published>2021-10-21T13:16:58Z</published>
-  <updated>2021-10-21T13:16:58Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ifgesha: Eva_scripts</title>
-  <author>
-   <name>ifgesha</name>
-  </author>
-  <link href="https://github.com/ifgesha/Eva_scripts" />
-  <id>urn:rprimus:github:ifgesha:Eva_scripts</id>
-  <published>2021-10-21T11:55:53Z</published>
-  <updated>2021-10-21T11:55:53Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jokoyuliantoro: dns-ttl-checker</title>
-  <author>
-   <name>jokoyuliantoro</name>
-  </author>
-  <link href="https://github.com/jokoyuliantoro/dns-ttl-checker" />
-  <id>urn:rprimus:github:jokoyuliantoro:dns-ttl-checker</id>
-  <published>2021-10-21T11:18:19Z</published>
-  <updated>2021-10-21T11:18:19Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Metric-Projects: JSON</title>
-  <author>
-   <name>Metric-Projects</name>
-  </author>
-  <link href="https://github.com/Metric-Projects/JSON" />
-  <id>urn:rprimus:github:Metric-Projects:JSON</id>
-  <published>2021-10-21T10:46:19Z</published>
-  <updated>2021-10-21T10:46:19Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Gabuter-OS: prebuilts_tools-custom</title>
-  <author>
-   <name>Gabuter-OS</name>
-  </author>
-  <link href="https://github.com/Gabuter-OS/prebuilts_tools-custom" />
-  <id>urn:rprimus:github:Gabuter-OS:prebuilts_tools-custom</id>
-  <published>2021-10-21T10:35:48Z</published>
-  <updated>2021-10-21T10:35:48Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>sjdobesh: headeronly</title>
-  <author>
-   <name>sjdobesh</name>
-  </author>
-  <link href="https://github.com/sjdobesh/headeronly" />
-  <id>urn:rprimus:github:sjdobesh:headeronly</id>
-  <published>2021-10-21T08:40:12Z</published>
-  <updated>2021-10-21T08:40:12Z</updated>
-  <content type="html">
-   A perl script to convert a C module into a single stand alone header file.
-  </content>
- </entry>
- <entry>
-  <title>spetrunia: histogram-test</title>
-  <author>
-   <name>spetrunia</name>
-  </author>
-  <link href="https://github.com/spetrunia/histogram-test" />
-  <id>urn:rprimus:github:spetrunia:histogram-test</id>
-  <published>2021-10-21T08:37:54Z</published>
-  <updated>2021-10-21T08:37:54Z</updated>
-  <content type="html">
-   Histogram precision test script. Supports multiple databases
-  </content>
- </entry>
- <entry>
-  <title>Naresh0510: BasicPerl</title>
-  <author>
-   <name>Naresh0510</name>
-  </author>
-  <link href="https://github.com/Naresh0510/BasicPerl" />
-  <id>urn:rprimus:github:Naresh0510:BasicPerl</id>
-  <published>2021-10-21T08:20:25Z</published>
-  <updated>2021-10-21T08:20:25Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>shao-xy: ceph-binary-tools</title>
-  <author>
-   <name>shao-xy</name>
-  </author>
-  <link href="https://github.com/shao-xy/ceph-binary-tools" />
-  <id>urn:rprimus:github:shao-xy:ceph-binary-tools</id>
-  <published>2021-10-21T08:13:21Z</published>
-  <updated>2021-10-21T08:13:21Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>qinghua: tdd</title>
-  <author>
-   <name>qinghua</name>
-  </author>
-  <link href="https://github.com/qinghua/tdd" />
-  <id>urn:rprimus:github:qinghua:tdd</id>
-  <published>2021-10-21T08:01:35Z</published>
-  <updated>2021-10-21T08:01:35Z</updated>
-  <content type="html">
-   A example to introduce TDD 
-  </content>
- </entry>
- <entry>
-  <title>sivaaa482: PerlDateTime</title>
-  <author>
-   <name>sivaaa482</name>
-  </author>
-  <link href="https://github.com/sivaaa482/PerlDateTime" />
-  <id>urn:rprimus:github:sivaaa482:PerlDateTime</id>
-  <published>2021-10-21T07:41:41Z</published>
-  <updated>2021-10-21T07:41:41Z</updated>
-  <content type="html">
-   perl DateTime
-  </content>
- </entry>
- <entry>
-  <title>tentrem: perl-libxml</title>
-  <author>
-   <name>tentrem</name>
-  </author>
-  <link href="https://github.com/tentrem/perl-libxml" />
-  <id>urn:rprimus:github:tentrem:perl-libxml</id>
-  <published>2021-10-21T07:23:33Z</published>
-  <updated>2021-10-21T07:23:33Z</updated>
-  <content type="html">
-   learnig perl
-  </content>
- </entry>
- <entry>
-  <title>kdc: bin</title>
-  <author>
-   <name>kdc</name>
-  </author>
-  <link href="https://github.com/kdc/bin" />
-  <id>urn:rprimus:github:kdc:bin</id>
-  <published>2021-10-21T07:16:46Z</published>
-  <updated>2021-10-21T07:16:46Z</updated>
-  <content type="html">
-   Public bin files
-  </content>
- </entry>
- <entry>
-  <title>amit0693: CS-571-PL-Match.pl</title>
-  <author>
-   <name>amit0693</name>
-  </author>
-  <link href="https://github.com/amit0693/CS-571-PL-Match.pl" />
-  <id>urn:rprimus:github:amit0693:CS-571-PL-Match.pl</id>
-  <published>2021-10-21T04:18:06Z</published>
-  <updated>2021-10-21T04:18:06Z</updated>
-  <content type="html">
-   Perl programming : Let input.txt be a file containing a sequence of strings. The strings are separated using new lines. Write a Perl program match.pl which reads a file input.txt and print (1) strings that contain âhiâ, (2) strings that contain exact one vowel characters (i.e. a, e, i, o, u), (3) strings that contain two or more `lâ, and (4) strings that begin with the letter âhâ and end with the letter âtâ. Assume that input.txt contains only characters a-z. Hint: you can use regular expressions in perl to implemente this program.
-  </content>
- </entry>
- <entry>
-  <title>wspcmike: scripts</title>
-  <author>
-   <name>wspcmike</name>
-  </author>
-  <link href="https://github.com/wspcmike/scripts" />
-  <id>urn:rprimus:github:wspcmike:scripts</id>
-  <published>2021-10-21T01:30:45Z</published>
-  <updated>2021-10-21T01:30:45Z</updated>
-  <content type="html">
-   WSPC Backup
   </content>
  </entry>
 </feed>
