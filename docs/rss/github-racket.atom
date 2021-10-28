@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-racket.atom"/>
 <id>urn:rprimus:github:newracketrepos</id>
-<updated>2021-10-27T14:44:08Z</updated>
+<updated>2021-10-27T19:32:29Z</updated>
 <title type='text'>New GitHub Racket Repos</title>
+ <entry>
+  <title>joshroybal: count-words</title>
+  <author>
+   <name>joshroybal</name>
+  </author>
+  <link href="https://github.com/joshroybal/count-words" />
+  <id>urn:rprimus:github:joshroybal:count-words</id>
+  <published>2021-10-27T19:32:29Z</published>
+  <updated>2021-10-27T19:32:29Z</updated>
+  <content type="html">
+   compiled windows executable for distribution racket program counts words in text file using AVL blalanced binary search tree
+  </content>
+ </entry>
  <entry>
   <title>capfredf: pkg-backward-comp-check</title>
   <author>
@@ -70,19 +83,6 @@
   </content>
  </entry>
  <entry>
-  <title>mattialancellotti: uni-exercises</title>
-  <author>
-   <name>mattialancellotti</name>
-  </author>
-  <link href="https://github.com/mattialancellotti/uni-exercises" />
-  <id>urn:rprimus:github:mattialancellotti:uni-exercises</id>
-  <published>2021-10-26T12:35:06Z</published>
-  <updated>2021-10-26T12:35:06Z</updated>
-  <content type="html">
-   University exercises
-  </content>
- </entry>
- <entry>
   <title>ajkh88: simply-scheme-solutions</title>
   <author>
    <name>ajkh88</name>
@@ -93,6 +93,19 @@
   <updated>2021-10-26T11:06:31Z</updated>
   <content type="html">
    Solutions for the exercises in the book Simply Scheme
+  </content>
+ </entry>
+ <entry>
+  <title>xuanyi-fu: sicp-learning</title>
+  <author>
+   <name>xuanyi-fu</name>
+  </author>
+  <link href="https://github.com/xuanyi-fu/sicp-learning" />
+  <id>urn:rprimus:github:xuanyi-fu:sicp-learning</id>
+  <published>2021-10-26T05:43:36Z</published>
+  <updated>2021-10-26T05:43:36Z</updated>
+  <content type="html">
+   
   </content>
  </entry>
  <entry>
@@ -119,58 +132,6 @@
   <updated>2021-10-26T03:41:37Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>kyght1: Paradigmas-Lab1</title>
-  <author>
-   <name>kyght1</name>
-  </author>
-  <link href="https://github.com/kyght1/Paradigmas-Lab1" />
-  <id>urn:rprimus:github:kyght1:Paradigmas-Lab1</id>
-  <published>2021-10-25T18:36:29Z</published>
-  <updated>2021-10-25T18:36:29Z</updated>
-  <content type="html">
-   Laboratorio 1 de paradigmas
-  </content>
- </entry>
- <entry>
-  <title>psicomp: psicomp-magic</title>
-  <author>
-   <name>psicomp</name>
-  </author>
-  <link href="https://github.com/psicomp/psicomp-magic" />
-  <id>urn:rprimus:github:psicomp:psicomp-magic</id>
-  <published>2021-10-25T01:17:46Z</published>
-  <updated>2021-10-25T01:17:46Z</updated>
-  <content type="html">
-   My work with computing-magic
-  </content>
- </entry>
- <entry>
-  <title>thanh-cnguyen: pairSummation</title>
-  <author>
-   <name>thanh-cnguyen</name>
-  </author>
-  <link href="https://github.com/thanh-cnguyen/pairSummation" />
-  <id>urn:rprimus:github:thanh-cnguyen:pairSummation</id>
-  <published>2021-10-25T00:54:07Z</published>
-  <updated>2021-10-25T00:54:07Z</updated>
-  <content type="html">
-   This code is designed to sum the elements in a list by pair.
-  </content>
- </entry>
- <entry>
-  <title>thanh-cnguyen: 01Summation</title>
-  <author>
-   <name>thanh-cnguyen</name>
-  </author>
-  <link href="https://github.com/thanh-cnguyen/01Summation" />
-  <id>urn:rprimus:github:thanh-cnguyen:01Summation</id>
-  <published>2021-10-25T00:48:53Z</published>
-  <updated>2021-10-25T00:48:53Z</updated>
-  <content type="html">
-   This code is designed to take the sum of lists, grouping elements by their first elements (0 and 1).
   </content>
  </entry>
 </feed>

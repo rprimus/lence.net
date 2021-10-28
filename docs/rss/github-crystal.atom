@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2021-10-27T16:24:36Z</updated>
+<updated>2021-10-28T04:24:52Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>FnControlOption: crystal-syntax</title>
+  <author>
+   <name>FnControlOption</name>
+  </author>
+  <link href="https://github.com/FnControlOption/crystal-syntax" />
+  <id>urn:rprimus:github:FnControlOption:crystal-syntax</id>
+  <published>2021-10-28T04:24:52Z</published>
+  <updated>2021-10-28T04:24:52Z</updated>
+  <content type="html">
+   compiler/crystal/syntax but as a standalone module
+  </content>
+ </entry>
  <entry>
   <title>VexPartsExchangePlatform: vex</title>
   <author>
@@ -54,32 +67,6 @@
   <updated>2021-10-26T10:50:23Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>jbox-web: squarectl</title>
-  <author>
-   <name>jbox-web</name>
-  </author>
-  <link href="https://github.com/jbox-web/squarectl" />
-  <id>urn:rprimus:github:jbox-web:squarectl</id>
-  <published>2021-10-25T14:37:53Z</published>
-  <updated>2021-10-25T14:37:53Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ao-social: ao</title>
-  <author>
-   <name>ao-social</name>
-  </author>
-  <link href="https://github.com/ao-social/ao" />
-  <id>urn:rprimus:github:ao-social:ao</id>
-  <published>2021-10-25T02:03:24Z</published>
-  <updated>2021-10-25T02:03:24Z</updated>
-  <content type="html">
-   Federated social network
   </content>
  </entry>
 </feed>
