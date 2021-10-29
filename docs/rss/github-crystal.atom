@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2021-10-28T04:24:52Z</updated>
+<updated>2021-10-28T17:19:40Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>plambert: urlfmt.cr</title>
+  <author>
+   <name>plambert</name>
+  </author>
+  <link href="https://github.com/plambert/urlfmt.cr" />
+  <id>urn:rprimus:github:plambert:urlfmt.cr</id>
+  <published>2021-10-28T17:19:40Z</published>
+  <updated>2021-10-28T17:19:40Z</updated>
+  <content type="html">
+   command line tool to work with URLs
+  </content>
+ </entry>
+ <entry>
+  <title>Jutlandia: ByensHotel</title>
+  <author>
+   <name>Jutlandia</name>
+  </author>
+  <link href="https://github.com/Jutlandia/ByensHotel" />
+  <id>urn:rprimus:github:Jutlandia:ByensHotel</id>
+  <published>2021-10-28T13:58:49Z</published>
+  <updated>2021-10-28T13:58:49Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>FnControlOption: crystal-syntax</title>
   <author>
@@ -15,6 +41,19 @@
   <updated>2021-10-28T04:24:52Z</updated>
   <content type="html">
    compiler/crystal/syntax but as a standalone module
+  </content>
+ </entry>
+ <entry>
+  <title>crystal-cache: mysql_cache_store</title>
+  <author>
+   <name>crystal-cache</name>
+  </author>
+  <link href="https://github.com/crystal-cache/mysql_cache_store" />
+  <id>urn:rprimus:github:crystal-cache:mysql_cache_store</id>
+  <published>2021-10-27T16:45:03Z</published>
+  <updated>2021-10-27T16:45:03Z</updated>
+  <content type="html">
+   Cache::Store implementation backed by a MySQL database
   </content>
  </entry>
  <entry>
@@ -39,32 +78,6 @@
   <id>urn:rprimus:github:mastoryberlin:hasura-client</id>
   <published>2021-10-27T09:04:13Z</published>
   <updated>2021-10-27T09:04:13Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>SanhornC: VexParts</title>
-  <author>
-   <name>SanhornC</name>
-  </author>
-  <link href="https://github.com/SanhornC/VexParts" />
-  <id>urn:rprimus:github:SanhornC:VexParts</id>
-  <published>2021-10-26T17:45:30Z</published>
-  <updated>2021-10-26T17:45:30Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>hamptonmoore: snowflake.cr</title>
-  <author>
-   <name>hamptonmoore</name>
-  </author>
-  <link href="https://github.com/hamptonmoore/snowflake.cr" />
-  <id>urn:rprimus:github:hamptonmoore:snowflake.cr</id>
-  <published>2021-10-26T10:50:23Z</published>
-  <updated>2021-10-26T10:50:23Z</updated>
   <content type="html">
    
   </content>

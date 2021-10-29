@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-10-28T08:59:49Z</updated>
+<updated>2021-10-29T00:48:16Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>atgreen: stoperator</title>
+  <author>
+   <name>atgreen</name>
+  </author>
+  <link href="https://github.com/atgreen/stoperator" />
+  <id>urn:rprimus:github:atgreen:stoperator</id>
+  <published>2021-10-29T00:48:16Z</published>
+  <updated>2021-10-29T00:48:16Z</updated>
+  <content type="html">
+   an experiment
+  </content>
+ </entry>
+ <entry>
+  <title>joshroybal: word-counter</title>
+  <author>
+   <name>joshroybal</name>
+  </author>
+  <link href="https://github.com/joshroybal/word-counter" />
+  <id>urn:rprimus:github:joshroybal:word-counter</id>
+  <published>2021-10-28T20:58:30Z</published>
+  <updated>2021-10-28T20:58:30Z</updated>
+  <content type="html">
+   count words in a text file using custom common lisp binary search tree packages
+  </content>
+ </entry>
+ <entry>
+  <title>jeosol: hello-world</title>
+  <author>
+   <name>jeosol</name>
+  </author>
+  <link href="https://github.com/jeosol/hello-world" />
+  <id>urn:rprimus:github:jeosol:hello-world</id>
+  <published>2021-10-28T19:37:03Z</published>
+  <updated>2021-10-28T19:37:03Z</updated>
+  <content type="html">
+   Simple Common Lisp Project for testing different concepts including CI/CD, Docker, etc
+  </content>
+ </entry>
+ <entry>
+  <title>Stonleth17: CAD_Standards</title>
+  <author>
+   <name>Stonleth17</name>
+  </author>
+  <link href="https://github.com/Stonleth17/CAD_Standards" />
+  <id>urn:rprimus:github:Stonleth17:CAD_Standards</id>
+  <published>2021-10-28T18:39:29Z</published>
+  <updated>2021-10-28T18:39:29Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>lblod: app-public-decision-database</title>
+  <author>
+   <name>lblod</name>
+  </author>
+  <link href="https://github.com/lblod/app-public-decision-database" />
+  <id>urn:rprimus:github:lblod:app-public-decision-database</id>
+  <published>2021-10-28T12:12:42Z</published>
+  <updated>2021-10-28T12:12:42Z</updated>
+  <content type="html">
+   the public decision database 
+  </content>
+ </entry>
  <entry>
   <title>gwangjinkim: aoc-2020</title>
   <author>
@@ -158,19 +223,6 @@
   <updated>2021-10-27T04:13:24Z</updated>
   <content type="html">
    Matrix operations, formalized in ACL2
-  </content>
- </entry>
- <entry>
-  <title>smaster0517: hardworking_small</title>
-  <author>
-   <name>smaster0517</name>
-  </author>
-  <link href="https://github.com/smaster0517/hardworking_small" />
-  <id>urn:rprimus:github:smaster0517:hardworking_small</id>
-  <published>2021-10-26T17:07:18Z</published>
-  <updated>2021-10-26T17:07:18Z</updated>
-  <content type="html">
-   Repository for small projects
   </content>
  </entry>
 </feed>
