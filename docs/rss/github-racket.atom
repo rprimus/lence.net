@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-racket.atom"/>
 <id>urn:rprimus:github:newracketrepos</id>
-<updated>2021-10-28T21:43:25Z</updated>
+<updated>2021-10-29T23:50:31Z</updated>
 <title type='text'>New GitHub Racket Repos</title>
+ <entry>
+  <title>Bost: search-notes</title>
+  <author>
+   <name>Bost</name>
+  </author>
+  <link href="https://github.com/Bost/search-notes" />
+  <id>urn:rprimus:github:Bost:search-notes</id>
+  <published>2021-10-29T23:50:31Z</published>
+  <updated>2021-10-29T23:50:31Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>shionohi: matrix-calculation-in-scheme</title>
+  <author>
+   <name>shionohi</name>
+  </author>
+  <link href="https://github.com/shionohi/matrix-calculation-in-scheme" />
+  <id>urn:rprimus:github:shionohi:matrix-calculation-in-scheme</id>
+  <published>2021-10-29T22:27:16Z</published>
+  <updated>2021-10-29T22:27:16Z</updated>
+  <content type="html">
+   includes matrix calculation and multiple regression
+  </content>
+ </entry>
  <entry>
   <title>Rinzler014: Lexer2_IMC2020</title>
   <author>
@@ -119,32 +145,6 @@
   <updated>2021-10-28T01:43:04Z</updated>
   <content type="html">
    Contains simple examples of Rosette code snippets for using synthesis and optimisation
-  </content>
- </entry>
- <entry>
-  <title>joshroybal: count-words</title>
-  <author>
-   <name>joshroybal</name>
-  </author>
-  <link href="https://github.com/joshroybal/count-words" />
-  <id>urn:rprimus:github:joshroybal:count-words</id>
-  <published>2021-10-27T19:32:29Z</published>
-  <updated>2021-10-27T19:32:29Z</updated>
-  <content type="html">
-   compiled windows executable for distribution racket program counts words in text file using AVL blalanced binary search tree
-  </content>
- </entry>
- <entry>
-  <title>capfredf: pkg-backward-comp-check</title>
-  <author>
-   <name>capfredf</name>
-  </author>
-  <link href="https://github.com/capfredf/pkg-backward-comp-check" />
-  <id>urn:rprimus:github:capfredf:pkg-backward-comp-check</id>
-  <published>2021-10-27T14:44:08Z</published>
-  <updated>2021-10-27T14:44:08Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
