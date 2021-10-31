@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-10-30T07:24:55Z</updated>
+<updated>2021-10-30T16:49:47Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>oantolin: circuits</title>
+  <author>
+   <name>oantolin</name>
+  </author>
+  <link href="https://github.com/oantolin/circuits" />
+  <id>urn:rprimus:github:oantolin:circuits</id>
+  <published>2021-10-30T16:49:47Z</published>
+  <updated>2021-10-30T16:49:47Z</updated>
+  <content type="html">
+   Find minimal circuits for all boolean functions of n variables
+  </content>
+ </entry>
+ <entry>
+  <title>lblod: app-lblod-harvester-standalone</title>
+  <author>
+   <name>lblod</name>
+  </author>
+  <link href="https://github.com/lblod/app-lblod-harvester-standalone" />
+  <id>urn:rprimus:github:lblod:app-lblod-harvester-standalone</id>
+  <published>2021-10-30T15:58:03Z</published>
+  <updated>2021-10-30T15:58:03Z</updated>
+  <content type="html">
+   The app-lblod-harvester with batteries included.
+  </content>
+ </entry>
+ <entry>
+  <title>memarc: trivial-scgi</title>
+  <author>
+   <name>memarc</name>
+  </author>
+  <link href="https://github.com/memarc/trivial-scgi" />
+  <id>urn:rprimus:github:memarc:trivial-scgi</id>
+  <published>2021-10-30T13:49:58Z</published>
+  <updated>2021-10-30T13:49:58Z</updated>
+  <content type="html">
+   SCGI library for Common Lisp.
+  </content>
+ </entry>
  <entry>
   <title>ashok-khanna: cliki</title>
   <author>
@@ -15,19 +54,6 @@
   <updated>2021-10-30T07:24:55Z</updated>
   <content type="html">
    Clone of https://gitlab.common-lisp.net/vsedach/cliki2
-  </content>
- </entry>
- <entry>
-  <title>big-wisdom: intelligentSystems-hw08</title>
-  <author>
-   <name>big-wisdom</name>
-  </author>
-  <link href="https://github.com/big-wisdom/intelligentSystems-hw08" />
-  <id>urn:rprimus:github:big-wisdom:intelligentSystems-hw08</id>
-  <published>2021-10-29T23:11:07Z</published>
-  <updated>2021-10-29T23:11:07Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
  <entry>
@@ -106,123 +132,6 @@
   <updated>2021-10-29T00:48:16Z</updated>
   <content type="html">
    an experiment
-  </content>
- </entry>
- <entry>
-  <title>joshroybal: word-counter</title>
-  <author>
-   <name>joshroybal</name>
-  </author>
-  <link href="https://github.com/joshroybal/word-counter" />
-  <id>urn:rprimus:github:joshroybal:word-counter</id>
-  <published>2021-10-28T20:58:30Z</published>
-  <updated>2021-10-28T20:58:30Z</updated>
-  <content type="html">
-   count words in a text file using custom common lisp binary search tree packages
-  </content>
- </entry>
- <entry>
-  <title>jeosol: hello-world</title>
-  <author>
-   <name>jeosol</name>
-  </author>
-  <link href="https://github.com/jeosol/hello-world" />
-  <id>urn:rprimus:github:jeosol:hello-world</id>
-  <published>2021-10-28T19:37:03Z</published>
-  <updated>2021-10-28T19:37:03Z</updated>
-  <content type="html">
-   Simple Common Lisp Project for testing different concepts including CI/CD, Docker, etc
-  </content>
- </entry>
- <entry>
-  <title>Stonleth17: CAD_Standards</title>
-  <author>
-   <name>Stonleth17</name>
-  </author>
-  <link href="https://github.com/Stonleth17/CAD_Standards" />
-  <id>urn:rprimus:github:Stonleth17:CAD_Standards</id>
-  <published>2021-10-28T18:39:29Z</published>
-  <updated>2021-10-28T18:39:29Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>lblod: app-public-decision-database</title>
-  <author>
-   <name>lblod</name>
-  </author>
-  <link href="https://github.com/lblod/app-public-decision-database" />
-  <id>urn:rprimus:github:lblod:app-public-decision-database</id>
-  <published>2021-10-28T12:12:42Z</published>
-  <updated>2021-10-28T12:12:42Z</updated>
-  <content type="html">
-   the public decision database 
-  </content>
- </entry>
- <entry>
-  <title>gwangjinkim: aoc-2020</title>
-  <author>
-   <name>gwangjinkim</name>
-  </author>
-  <link href="https://github.com/gwangjinkim/aoc-2020" />
-  <id>urn:rprimus:github:gwangjinkim:aoc-2020</id>
-  <published>2021-10-28T08:59:49Z</published>
-  <updated>2021-10-28T08:59:49Z</updated>
-  <content type="html">
-   My attempts to solve some aoc-2020 problems in Lisp (Common Lisp or Clojure).
-  </content>
- </entry>
- <entry>
-  <title>siabard: leda-sdl</title>
-  <author>
-   <name>siabard</name>
-  </author>
-  <link href="https://github.com/siabard/leda-sdl" />
-  <id>urn:rprimus:github:siabard:leda-sdl</id>
-  <published>2021-10-28T08:46:56Z</published>
-  <updated>2021-10-28T08:46:56Z</updated>
-  <content type="html">
-   Retro JRPG using common lisp
-  </content>
- </entry>
- <entry>
-  <title>solution2021: LISP</title>
-  <author>
-   <name>solution2021</name>
-  </author>
-  <link href="https://github.com/solution2021/LISP" />
-  <id>urn:rprimus:github:solution2021:LISP</id>
-  <published>2021-10-28T07:00:20Z</published>
-  <updated>2021-10-28T07:00:20Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>momorrowz: landoflisp</title>
-  <author>
-   <name>momorrowz</name>
-  </author>
-  <link href="https://github.com/momorrowz/landoflisp" />
-  <id>urn:rprimus:github:momorrowz:landoflisp</id>
-  <published>2021-10-28T02:07:51Z</published>
-  <updated>2021-10-28T02:07:51Z</updated>
-  <content type="html">
-   sources of &quot;Land of Lisp&quot;
-  </content>
- </entry>
- <entry>
-  <title>Rachiesqueek: Lisp</title>
-  <author>
-   <name>Rachiesqueek</name>
-  </author>
-  <link href="https://github.com/Rachiesqueek/Lisp" />
-  <id>urn:rprimus:github:Rachiesqueek:Lisp</id>
-  <published>2021-10-28T02:05:11Z</published>
-  <updated>2021-10-28T02:05:11Z</updated>
-  <content type="html">
-   Programing Language class homework about using LISP functions.
   </content>
  </entry>
 </feed>
