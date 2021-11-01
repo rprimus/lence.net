@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2021-10-30T11:26:39Z</updated>
+<updated>2021-10-31T17:05:08Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>garymardell: graphene-dsl</title>
+  <author>
+   <name>garymardell</name>
+  </author>
+  <link href="https://github.com/garymardell/graphene-dsl" />
+  <id>urn:rprimus:github:garymardell:graphene-dsl</id>
+  <published>2021-10-31T17:05:08Z</published>
+  <updated>2021-10-31T17:05:08Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>q9f: bip39.cr</title>
+  <author>
+   <name>q9f</name>
+  </author>
+  <link href="https://github.com/q9f/bip39.cr" />
+  <id>urn:rprimus:github:q9f:bip39.cr</id>
+  <published>2021-10-31T13:42:20Z</published>
+  <updated>2021-10-31T13:42:20Z</updated>
+  <content type="html">
+   a native library implementing bip-39 purely for the crystal language 
+  </content>
+ </entry>
+ <entry>
+  <title>wout: cardano.cr</title>
+  <author>
+   <name>wout</name>
+  </author>
+  <link href="https://github.com/wout/cardano.cr" />
+  <id>urn:rprimus:github:wout:cardano.cr</id>
+  <published>2021-10-31T07:19:17Z</published>
+  <updated>2021-10-31T07:19:17Z</updated>
+  <content type="html">
+   A cardano-cli wrapper for Crystal
+  </content>
+ </entry>
  <entry>
   <title>dillonfagan: kiwi</title>
   <author>
@@ -28,45 +67,6 @@
   <updated>2021-10-30T09:49:35Z</updated>
   <content type="html">
    A LinkShort wrapper
-  </content>
- </entry>
- <entry>
-  <title>dillonfagan: kiwi-server</title>
-  <author>
-   <name>dillonfagan</name>
-  </author>
-  <link href="https://github.com/dillonfagan/kiwi-server" />
-  <id>urn:rprimus:github:dillonfagan:kiwi-server</id>
-  <published>2021-10-29T22:38:46Z</published>
-  <updated>2021-10-29T22:38:46Z</updated>
-  <content type="html">
-   A server that exposes a Kiwi database instance with a REST API.
-  </content>
- </entry>
- <entry>
-  <title>koffeinfrei: worked</title>
-  <author>
-   <name>koffeinfrei</name>
-  </author>
-  <link href="https://github.com/koffeinfrei/worked" />
-  <id>urn:rprimus:github:koffeinfrei:worked</id>
-  <published>2021-10-29T18:31:05Z</published>
-  <updated>2021-10-29T18:31:05Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>dseres: map_runner_cr</title>
-  <author>
-   <name>dseres</name>
-  </author>
-  <link href="https://github.com/dseres/map_runner_cr" />
-  <id>urn:rprimus:github:dseres:map_runner_cr</id>
-  <published>2021-10-29T08:46:11Z</published>
-  <updated>2021-10-29T08:46:11Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>

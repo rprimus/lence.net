@@ -2,8 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-10-31T06:55:07Z</updated>
+<updated>2021-10-31T22:59:58Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>plops: play_with_clasp</title>
+  <author>
+   <name>plops</name>
+  </author>
+  <link href="https://github.com/plops/play_with_clasp" />
+  <id>urn:rprimus:github:plops:play_with_clasp</id>
+  <published>2021-10-31T22:59:58Z</published>
+  <updated>2021-10-31T22:59:58Z</updated>
+  <content type="html">
+   Build and play with clasp common lisp on Linux AMD64. You can download the compiled release.
+  </content>
+ </entry>
+ <entry>
+  <title>ghollisjr: cl-getopt</title>
+  <author>
+   <name>ghollisjr</name>
+  </author>
+  <link href="https://github.com/ghollisjr/cl-getopt" />
+  <id>urn:rprimus:github:ghollisjr:cl-getopt</id>
+  <published>2021-10-31T19:32:11Z</published>
+  <updated>2021-10-31T19:32:11Z</updated>
+  <content type="html">
+   CFFI wrapper for libc getopt_long
+  </content>
+ </entry>
+ <entry>
+  <title>sharplispers: cl-string-match</title>
+  <author>
+   <name>sharplispers</name>
+  </author>
+  <link href="https://github.com/sharplispers/cl-string-match" />
+  <id>urn:rprimus:github:sharplispers:cl-string-match</id>
+  <published>2021-10-31T16:33:28Z</published>
+  <updated>2021-10-31T16:33:28Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>mz106: learning-commom-lisp</title>
+  <author>
+   <name>mz106</name>
+  </author>
+  <link href="https://github.com/mz106/learning-commom-lisp" />
+  <id>urn:rprimus:github:mz106:learning-commom-lisp</id>
+  <published>2021-10-31T15:53:26Z</published>
+  <updated>2021-10-31T15:53:26Z</updated>
+  <content type="html">
+   Commom lisp learning from nmunro (https://www.youtube.com/channel/UC1J47RqBfY6VgLUZ5YSYkqw)
+  </content>
+ </entry>
+ <entry>
+  <title>other-otter: http-string</title>
+  <author>
+   <name>other-otter</name>
+  </author>
+  <link href="https://github.com/other-otter/http-string" />
+  <id>urn:rprimus:github:other-otter:http-string</id>
+  <published>2021-10-31T15:06:52Z</published>
+  <updated>2021-10-31T15:06:52Z</updated>
+  <content type="html">
+   http web server on cl-async
+  </content>
+ </entry>
+ <entry>
+  <title>ralph-schleicher: enigma-machine</title>
+  <author>
+   <name>ralph-schleicher</name>
+  </author>
+  <link href="https://github.com/ralph-schleicher/enigma-machine" />
+  <id>urn:rprimus:github:ralph-schleicher:enigma-machine</id>
+  <published>2021-10-31T12:11:23Z</published>
+  <updated>2021-10-31T12:11:23Z</updated>
+  <content type="html">
+   An Enigma machine simulator.
+  </content>
+ </entry>
+ <entry>
+  <title>antipodite: rethinking-cl</title>
+  <author>
+   <name>antipodite</name>
+  </author>
+  <link href="https://github.com/antipodite/rethinking-cl" />
+  <id>urn:rprimus:github:antipodite:rethinking-cl</id>
+  <published>2021-10-31T11:28:43Z</published>
+  <updated>2021-10-31T11:28:43Z</updated>
+  <content type="html">
+   Statistical Rethinking in Common Lisp
+  </content>
+ </entry>
  <entry>
   <title>dennisdunn: cl-cdsi</title>
   <author>
@@ -67,84 +158,6 @@
   <updated>2021-10-30T07:24:55Z</updated>
   <content type="html">
    Clone of https://gitlab.common-lisp.net/vsedach/cliki2
-  </content>
- </entry>
- <entry>
-  <title>nathanvy: full-monte</title>
-  <author>
-   <name>nathanvy</name>
-  </author>
-  <link href="https://github.com/nathanvy/full-monte" />
-  <id>urn:rprimus:github:nathanvy:full-monte</id>
-  <published>2021-10-29T18:38:02Z</published>
-  <updated>2021-10-29T18:38:02Z</updated>
-  <content type="html">
-   The Full Monte
-  </content>
- </entry>
- <entry>
-  <title>biofermin2: hototogisu</title>
-  <author>
-   <name>biofermin2</name>
-  </author>
-  <link href="https://github.com/biofermin2/hototogisu" />
-  <id>urn:rprimus:github:biofermin2:hototogisu</id>
-  <published>2021-10-29T12:37:01Z</published>
-  <updated>2021-10-29T12:37:01Z</updated>
-  <content type="html">
-   ãã¼ãã±ã­ã§ã¨åããã­ã°ã©ã 
-  </content>
- </entry>
- <entry>
-  <title>Jasmin-Yap: Dolphin-Attack-Filter</title>
-  <author>
-   <name>Jasmin-Yap</name>
-  </author>
-  <link href="https://github.com/Jasmin-Yap/Dolphin-Attack-Filter" />
-  <id>urn:rprimus:github:Jasmin-Yap:Dolphin-Attack-Filter</id>
-  <published>2021-10-29T09:20:05Z</published>
-  <updated>2021-10-29T09:20:05Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jotave42: Lisp</title>
-  <author>
-   <name>jotave42</name>
-  </author>
-  <link href="https://github.com/jotave42/Lisp" />
-  <id>urn:rprimus:github:jotave42:Lisp</id>
-  <published>2021-10-29T08:48:06Z</published>
-  <updated>2021-10-29T08:48:06Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>julian-baldwin: parachute-browser</title>
-  <author>
-   <name>julian-baldwin</name>
-  </author>
-  <link href="https://github.com/julian-baldwin/parachute-browser" />
-  <id>urn:rprimus:github:julian-baldwin:parachute-browser</id>
-  <published>2021-10-29T07:12:27Z</published>
-  <updated>2021-10-29T07:12:27Z</updated>
-  <content type="html">
-   A lightweight UI for using the Parachute testing framework in LispWorks
-  </content>
- </entry>
- <entry>
-  <title>atgreen: stoperator</title>
-  <author>
-   <name>atgreen</name>
-  </author>
-  <link href="https://github.com/atgreen/stoperator" />
-  <id>urn:rprimus:github:atgreen:stoperator</id>
-  <published>2021-10-29T00:48:16Z</published>
-  <updated>2021-10-29T00:48:16Z</updated>
-  <content type="html">
-   an experiment
   </content>
  </entry>
 </feed>
