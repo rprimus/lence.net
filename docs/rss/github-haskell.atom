@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-haskell.atom"/>
 <id>urn:rprimus:github:newhaskellrepos</id>
-<updated>2021-11-01T02:05:18Z</updated>
+<updated>2021-11-01T10:25:08Z</updated>
 <title type='text'>New GitHub Haskell Repos</title>
+ <entry>
+  <title>amaille91: sharad-frontend</title>
+  <author>
+   <name>amaille91</name>
+  </author>
+  <link href="https://github.com/amaille91/sharad-frontend" />
+  <id>urn:rprimus:github:amaille91:sharad-frontend</id>
+  <published>2021-11-01T10:25:08Z</published>
+  <updated>2021-11-01T10:25:08Z</updated>
+  <content type="html">
+   Haskell frontend for the Sharad application using ghcjs and miso
+  </content>
+ </entry>
+ <entry>
+  <title>piyush-kurur: ghc-staticptr-experiments</title>
+  <author>
+   <name>piyush-kurur</name>
+  </author>
+  <link href="https://github.com/piyush-kurur/ghc-staticptr-experiments" />
+  <id>urn:rprimus:github:piyush-kurur:ghc-staticptr-experiments</id>
+  <published>2021-11-01T06:07:37Z</published>
+  <updated>2021-11-01T06:07:37Z</updated>
+  <content type="html">
+   Experimental code that checks some features of static ptr in GHC
+  </content>
+ </entry>
+ <entry>
+  <title>pgwadapool: Learning_Haskell</title>
+  <author>
+   <name>pgwadapool</name>
+  </author>
+  <link href="https://github.com/pgwadapool/Learning_Haskell" />
+  <id>urn:rprimus:github:pgwadapool:Learning_Haskell</id>
+  <published>2021-11-01T04:17:45Z</published>
+  <updated>2021-11-01T04:17:45Z</updated>
+  <content type="html">
+   Learning Haskell programming
+  </content>
+ </entry>
+ <entry>
+  <title>ZzAntares: blogihp-demo</title>
+  <author>
+   <name>ZzAntares</name>
+  </author>
+  <link href="https://github.com/ZzAntares/blogihp-demo" />
+  <id>urn:rprimus:github:ZzAntares:blogihp-demo</id>
+  <published>2021-11-01T04:12:23Z</published>
+  <updated>2021-11-01T04:12:23Z</updated>
+  <content type="html">
+   Taking IHP for a spin
+  </content>
+ </entry>
  <entry>
   <title>MarcosJSierra: XmonadConfig</title>
   <author>
@@ -15,19 +67,6 @@
   <updated>2021-11-01T02:05:18Z</updated>
   <content type="html">
    Configuraciones personales para Xmonad
-  </content>
- </entry>
- <entry>
-  <title>UCSC-CSE-114A: Yeg-and-Price-repo</title>
-  <author>
-   <name>UCSC-CSE-114A</name>
-  </author>
-  <link href="https://github.com/UCSC-CSE-114A/Yeg-and-Price-repo" />
-  <id>urn:rprimus:github:UCSC-CSE-114A:Yeg-and-Price-repo</id>
-  <published>2021-11-01T01:19:22Z</published>
-  <updated>2021-11-01T01:19:22Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
  <entry>
@@ -391,7 +430,7 @@
   <published>2021-10-31T06:43:03Z</published>
   <updated>2021-10-31T06:43:03Z</updated>
   <content type="html">
-   batch application using DB to manage attendance on restful API. (under development...)
+   This is a Restful API for a DB-based time and attendance system.(under development...)
   </content>
  </entry>
  <entry>

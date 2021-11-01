@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2021-10-31T23:53:29Z</updated>
+<updated>2021-11-01T05:44:22Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>tinamiryeganeh: Ocaml-Project</title>
+  <author>
+   <name>tinamiryeganeh</name>
+  </author>
+  <link href="https://github.com/tinamiryeganeh/Ocaml-Project" />
+  <id>urn:rprimus:github:tinamiryeganeh:Ocaml-Project</id>
+  <published>2021-11-01T05:44:22Z</published>
+  <updated>2021-11-01T05:44:22Z</updated>
+  <content type="html">
+    This project will repeat the Mini Basic interpreter, except this time the program will be written in Ocaml but with Mini Basic programs untranslated from the original. See the score directory for sample input files. Output should be the same as for the Scheme version of the program, except for minor variations in output due to differ- ences between the Scheme and Ocaml languages. Any results which would produce a complex value in Scheme should produce nan in this project.
+  </content>
+ </entry>
  <entry>
   <title>rydelopez: OCamlProjects</title>
   <author>
@@ -105,7 +118,7 @@
   <published>2021-10-31T12:59:03Z</published>
   <updated>2021-10-31T12:59:03Z</updated>
   <content type="html">
-   Yet another SAT solver written in Ocaml
+   Yet another SAT solver in Ocaml
   </content>
  </entry>
  <entry>
