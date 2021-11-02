@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2021-10-31T19:51:45Z</updated>
+<updated>2021-11-01T18:07:23Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>rmvermeulen: my-nim-app</title>
+  <author>
+   <name>rmvermeulen</name>
+  </author>
+  <link href="https://github.com/rmvermeulen/my-nim-app" />
+  <id>urn:rprimus:github:rmvermeulen:my-nim-app</id>
+  <published>2021-11-01T18:07:23Z</published>
+  <updated>2021-11-01T18:07:23Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>DavideGalilei: base45</title>
+  <author>
+   <name>DavideGalilei</name>
+  </author>
+  <link href="https://github.com/DavideGalilei/base45" />
+  <id>urn:rprimus:github:DavideGalilei:base45</id>
+  <published>2021-11-01T12:32:48Z</published>
+  <updated>2021-11-01T12:32:48Z</updated>
+  <content type="html">
+   A simple to use Nim library to encode/decode using base45 encoding
+  </content>
+ </entry>
  <entry>
   <title>oxesoft: nim-web-backend-sample-stack</title>
   <author>
@@ -54,32 +80,6 @@
   <updated>2021-10-31T01:35:35Z</updated>
   <content type="html">
    run any function in a background thread
-  </content>
- </entry>
- <entry>
-  <title>kekeho: toys_lang_nim</title>
-  <author>
-   <name>kekeho</name>
-  </author>
-  <link href="https://github.com/kekeho/toys_lang_nim" />
-  <id>urn:rprimus:github:kekeho:toys_lang_nim</id>
-  <published>2021-10-30T13:36:05Z</published>
-  <updated>2021-10-30T13:36:05Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>evilguy50: regolith-ds_store</title>
-  <author>
-   <name>evilguy50</name>
-  </author>
-  <link href="https://github.com/evilguy50/regolith-ds_store" />
-  <id>urn:rprimus:github:evilguy50:regolith-ds_store</id>
-  <published>2021-10-30T02:29:50Z</published>
-  <updated>2021-10-30T02:29:50Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>

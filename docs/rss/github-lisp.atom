@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-11-01T10:02:09Z</updated>
+<updated>2021-11-01T21:15:08Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>vollcheck: l99</title>
+  <author>
+   <name>vollcheck</name>
+  </author>
+  <link href="https://github.com/vollcheck/l99" />
+  <id>urn:rprimus:github:vollcheck:l99</id>
+  <published>2021-11-01T21:15:08Z</published>
+  <updated>2021-11-01T21:15:08Z</updated>
+  <content type="html">
+   Solutions to the Ninety-Nine Problems in Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>DaniruKun: pekofy</title>
+  <author>
+   <name>DaniruKun</name>
+  </author>
+  <link href="https://github.com/DaniruKun/pekofy" />
+  <id>urn:rprimus:github:DaniruKun:pekofy</id>
+  <published>2021-11-01T19:00:53Z</published>
+  <updated>2021-11-01T19:00:53Z</updated>
+  <content type="html">
+   A toy CLI implementation of the pekofy bot.
+  </content>
+ </entry>
+ <entry>
+  <title>remykarem: decision-engine-lisp</title>
+  <author>
+   <name>remykarem</name>
+  </author>
+  <link href="https://github.com/remykarem/decision-engine-lisp" />
+  <id>urn:rprimus:github:remykarem:decision-engine-lisp</id>
+  <published>2021-11-01T12:54:13Z</published>
+  <updated>2021-11-01T12:54:13Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>afroisalreadyinu: liberator</title>
   <author>
@@ -118,7 +157,7 @@
   <published>2021-10-31T11:28:43Z</published>
   <updated>2021-10-31T11:28:43Z</updated>
   <content type="html">
-   Statistical Rethinking in Common Lisp
+   Code from Statistical Rethinking in Common Lisp, plus other stuff
   </content>
  </entry>
  <entry>
@@ -132,58 +171,6 @@
   <updated>2021-10-31T06:55:07Z</updated>
   <content type="html">
    Maybe if I change the language I&#039;ll get further along.....
-  </content>
- </entry>
- <entry>
-  <title>oantolin: circuits</title>
-  <author>
-   <name>oantolin</name>
-  </author>
-  <link href="https://github.com/oantolin/circuits" />
-  <id>urn:rprimus:github:oantolin:circuits</id>
-  <published>2021-10-30T16:49:47Z</published>
-  <updated>2021-10-30T16:49:47Z</updated>
-  <content type="html">
-   Find minimal circuits for all boolean functions of n variables
-  </content>
- </entry>
- <entry>
-  <title>lblod: app-lblod-harvester-standalone</title>
-  <author>
-   <name>lblod</name>
-  </author>
-  <link href="https://github.com/lblod/app-lblod-harvester-standalone" />
-  <id>urn:rprimus:github:lblod:app-lblod-harvester-standalone</id>
-  <published>2021-10-30T15:58:03Z</published>
-  <updated>2021-10-30T15:58:03Z</updated>
-  <content type="html">
-   The app-lblod-harvester with batteries included.
-  </content>
- </entry>
- <entry>
-  <title>memarc: trivial-scgi</title>
-  <author>
-   <name>memarc</name>
-  </author>
-  <link href="https://github.com/memarc/trivial-scgi" />
-  <id>urn:rprimus:github:memarc:trivial-scgi</id>
-  <published>2021-10-30T13:49:58Z</published>
-  <updated>2021-10-30T13:49:58Z</updated>
-  <content type="html">
-   SCGI library for Common Lisp.
-  </content>
- </entry>
- <entry>
-  <title>ashok-khanna: cliki</title>
-  <author>
-   <name>ashok-khanna</name>
-  </author>
-  <link href="https://github.com/ashok-khanna/cliki" />
-  <id>urn:rprimus:github:ashok-khanna:cliki</id>
-  <published>2021-10-30T07:24:55Z</published>
-  <updated>2021-10-30T07:24:55Z</updated>
-  <content type="html">
-   Clone of https://gitlab.common-lisp.net/vsedach/cliki2
   </content>
  </entry>
 </feed>
