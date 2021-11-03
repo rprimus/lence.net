@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-racket.atom"/>
 <id>urn:rprimus:github:newracketrepos</id>
-<updated>2021-11-02T09:49:06Z</updated>
+<updated>2021-11-03T05:17:42Z</updated>
 <title type='text'>New GitHub Racket Repos</title>
+ <entry>
+  <title>taidengyoutiao: sicp</title>
+  <author>
+   <name>taidengyoutiao</name>
+  </author>
+  <link href="https://github.com/taidengyoutiao/sicp" />
+  <id>urn:rprimus:github:taidengyoutiao:sicp</id>
+  <published>2021-11-03T05:17:42Z</published>
+  <updated>2021-11-03T05:17:42Z</updated>
+  <content type="html">
+   learn sicp
+  </content>
+ </entry>
+ <entry>
+  <title>shionohi: neural_net_in_scheme</title>
+  <author>
+   <name>shionohi</name>
+  </author>
+  <link href="https://github.com/shionohi/neural_net_in_scheme" />
+  <id>urn:rprimus:github:shionohi:neural_net_in_scheme</id>
+  <published>2021-11-03T02:21:49Z</published>
+  <updated>2021-11-03T02:21:49Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>yu-jimmy: Racket-Matrix-Functions</title>
+  <author>
+   <name>yu-jimmy</name>
+  </author>
+  <link href="https://github.com/yu-jimmy/Racket-Matrix-Functions" />
+  <id>urn:rprimus:github:yu-jimmy:Racket-Matrix-Functions</id>
+  <published>2021-11-03T02:12:45Z</published>
+  <updated>2021-11-03T02:12:45Z</updated>
+  <content type="html">
+   Used the programming language Racket, which is a dialect of Lisp and a descendant of Scheme, to implement basic matrix functions, such as matrix multiplication and addition, vector addition, scalar multiplication, dot product, and transpose. These functions were implemented with the help of lambda functions, recursion or using higher order functions such as map, apply, filter, etc.
+  </content>
+ </entry>
+ <entry>
+  <title>samdphillips: raco-static-web</title>
+  <author>
+   <name>samdphillips</name>
+  </author>
+  <link href="https://github.com/samdphillips/raco-static-web" />
+  <id>urn:rprimus:github:samdphillips:raco-static-web</id>
+  <published>2021-11-02T20:46:51Z</published>
+  <updated>2021-11-02T20:46:51Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>B3WD: SICP-adventure</title>
+  <author>
+   <name>B3WD</name>
+  </author>
+  <link href="https://github.com/B3WD/SICP-adventure" />
+  <id>urn:rprimus:github:B3WD:SICP-adventure</id>
+  <published>2021-11-02T20:22:49Z</published>
+  <updated>2021-11-02T20:22:49Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>AiziChen: online-signed</title>
   <author>
@@ -93,97 +158,6 @@
   <updated>2021-11-01T02:46:05Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>peganovme: fp-labs</title>
-  <author>
-   <name>peganovme</name>
-  </author>
-  <link href="https://github.com/peganovme/fp-labs" />
-  <id>urn:rprimus:github:peganovme:fp-labs</id>
-  <published>2021-10-31T21:09:05Z</published>
-  <updated>2021-10-31T21:09:05Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>samdphillips: rhombus-examples</title>
-  <author>
-   <name>samdphillips</name>
-  </author>
-  <link href="https://github.com/samdphillips/rhombus-examples" />
-  <id>urn:rprimus:github:samdphillips:rhombus-examples</id>
-  <published>2021-10-31T19:46:53Z</published>
-  <updated>2021-10-31T19:46:53Z</updated>
-  <content type="html">
-   Some code in the Rhombus/Shrubbery prototype
-  </content>
- </entry>
- <entry>
-  <title>losslessring: scheme_interpreter</title>
-  <author>
-   <name>losslessring</name>
-  </author>
-  <link href="https://github.com/losslessring/scheme_interpreter" />
-  <id>urn:rprimus:github:losslessring:scheme_interpreter</id>
-  <published>2021-10-31T19:19:38Z</published>
-  <updated>2021-10-31T19:19:38Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Marcus-Herwig: HW9</title>
-  <author>
-   <name>Marcus-Herwig</name>
-  </author>
-  <link href="https://github.com/Marcus-Herwig/HW9" />
-  <id>urn:rprimus:github:Marcus-Herwig:HW9</id>
-  <published>2021-10-31T17:46:59Z</published>
-  <updated>2021-10-31T17:46:59Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>SebastianBetancourt: piton</title>
-  <author>
-   <name>SebastianBetancourt</name>
-  </author>
-  <link href="https://github.com/SebastianBetancourt/piton" />
-  <id>urn:rprimus:github:SebastianBetancourt:piton</id>
-  <published>2021-10-31T14:49:12Z</published>
-  <updated>2021-10-31T14:49:12Z</updated>
-  <content type="html">
-   Python interpreter implementation, incluiding types, recursion, and Object-Oriented functions
-  </content>
- </entry>
- <entry>
-  <title>ZiruiOu: AsaCoroutine</title>
-  <author>
-   <name>ZiruiOu</name>
-  </author>
-  <link href="https://github.com/ZiruiOu/AsaCoroutine" />
-  <id>urn:rprimus:github:ZiruiOu:AsaCoroutine</id>
-  <published>2021-10-31T12:58:24Z</published>
-  <updated>2021-10-31T12:58:24Z</updated>
-  <content type="html">
-   A simple coroutine library written by call/cc.
-  </content>
- </entry>
- <entry>
-  <title>yeikol2703: geneticAlgorithm2021</title>
-  <author>
-   <name>yeikol2703</name>
-  </author>
-  <link href="https://github.com/yeikol2703/geneticAlgorithm2021" />
-  <id>urn:rprimus:github:yeikol2703:geneticAlgorithm2021</id>
-  <published>2021-10-31T05:00:29Z</published>
-  <updated>2021-10-31T05:00:29Z</updated>
-  <content type="html">
-   Proyecto de Paradigmas de programaciÃ³n 
   </content>
  </entry>
 </feed>
