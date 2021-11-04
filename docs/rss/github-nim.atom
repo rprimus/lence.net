@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2021-11-03T04:29:55Z</updated>
+<updated>2021-11-04T02:24:54Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>RattleyCooper: nimMidi</title>
+  <author>
+   <name>RattleyCooper</name>
+  </author>
+  <link href="https://github.com/RattleyCooper/nimMidi" />
+  <id>urn:rprimus:github:RattleyCooper:nimMidi</id>
+  <published>2021-11-04T02:24:54Z</published>
+  <updated>2021-11-04T02:24:54Z</updated>
+  <content type="html">
+   Midi reader in nim
+  </content>
+ </entry>
+ <entry>
+  <title>mttaggart: nimbuster</title>
+  <author>
+   <name>mttaggart</name>
+  </author>
+  <link href="https://github.com/mttaggart/nimbuster" />
+  <id>urn:rprimus:github:mttaggart:nimbuster</id>
+  <published>2021-11-03T14:07:14Z</published>
+  <updated>2021-11-03T14:07:14Z</updated>
+  <content type="html">
+   Directory brute-forcer written in Nim. Because we neede danother one.
+  </content>
+ </entry>
  <entry>
   <title>Alh4zr3d: Experiments-in-Nim</title>
   <author>
@@ -28,45 +54,6 @@
   <updated>2021-11-02T15:37:03Z</updated>
   <content type="html">
    HTML WebComponents with Nim
-  </content>
- </entry>
- <entry>
-  <title>rmvermeulen: my-nim-app</title>
-  <author>
-   <name>rmvermeulen</name>
-  </author>
-  <link href="https://github.com/rmvermeulen/my-nim-app" />
-  <id>urn:rprimus:github:rmvermeulen:my-nim-app</id>
-  <published>2021-11-01T18:07:23Z</published>
-  <updated>2021-11-01T18:07:23Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>gabbhack: deser_json</title>
-  <author>
-   <name>gabbhack</name>
-  </author>
-  <link href="https://github.com/gabbhack/deser_json" />
-  <id>urn:rprimus:github:gabbhack:deser_json</id>
-  <published>2021-11-01T13:03:58Z</published>
-  <updated>2021-11-01T13:03:58Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>DavideGalilei: base45</title>
-  <author>
-   <name>DavideGalilei</name>
-  </author>
-  <link href="https://github.com/DavideGalilei/base45" />
-  <id>urn:rprimus:github:DavideGalilei:base45</id>
-  <published>2021-11-01T12:32:48Z</published>
-  <updated>2021-11-01T12:32:48Z</updated>
-  <content type="html">
-   A simple to use Nim library to encode/decode using base45 encoding
   </content>
  </entry>
 </feed>
