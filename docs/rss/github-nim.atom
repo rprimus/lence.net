@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2021-11-04T07:56:13Z</updated>
+<updated>2021-11-04T21:52:01Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>ajusa: simple-chat</title>
+  <author>
+   <name>ajusa</name>
+  </author>
+  <link href="https://github.com/ajusa/simple-chat" />
+  <id>urn:rprimus:github:ajusa:simple-chat</id>
+  <published>2021-11-04T21:52:01Z</published>
+  <updated>2021-11-04T21:52:01Z</updated>
+  <content type="html">
+   A simple room-based chat application in Nim. Uses Jester and HTMX
+  </content>
+ </entry>
+ <entry>
+  <title>quantimnot: procs</title>
+  <author>
+   <name>quantimnot</name>
+  </author>
+  <link href="https://github.com/quantimnot/procs" />
+  <id>urn:rprimus:github:quantimnot:procs</id>
+  <published>2021-11-04T21:44:42Z</published>
+  <updated>2021-11-04T21:44:42Z</updated>
+  <content type="html">
+   Nim cross platform process utilities
+  </content>
+ </entry>
+ <entry>
+  <title>dariolah: odsreader</title>
+  <author>
+   <name>dariolah</name>
+  </author>
+  <link href="https://github.com/dariolah/odsreader" />
+  <id>urn:rprimus:github:dariolah:odsreader</id>
+  <published>2021-11-04T18:42:25Z</published>
+  <updated>2021-11-04T18:42:25Z</updated>
+  <content type="html">
+   OpenDocument Spreadhseet reader
+  </content>
+ </entry>
+ <entry>
+  <title>Yurai-Kitadate: nim_library</title>
+  <author>
+   <name>Yurai-Kitadate</name>
+  </author>
+  <link href="https://github.com/Yurai-Kitadate/nim_library" />
+  <id>urn:rprimus:github:Yurai-Kitadate:nim_library</id>
+  <published>2021-11-04T15:07:49Z</published>
+  <updated>2021-11-04T15:07:49Z</updated>
+  <content type="html">
+   nimã§ä½¿ããã¤ãæ¸ãã¾ãã
+  </content>
+ </entry>
  <entry>
   <title>plaguesec: plaguesec-update</title>
   <author>
@@ -54,19 +106,6 @@
   <updated>2021-11-03T04:29:55Z</updated>
   <content type="html">
    Just simple practice, experimenting, and general dabbling in the Nim programming language
-  </content>
- </entry>
- <entry>
-  <title>svenrdz: webcomponents</title>
-  <author>
-   <name>svenrdz</name>
-  </author>
-  <link href="https://github.com/svenrdz/webcomponents" />
-  <id>urn:rprimus:github:svenrdz:webcomponents</id>
-  <published>2021-11-02T15:37:03Z</published>
-  <updated>2021-11-02T15:37:03Z</updated>
-  <content type="html">
-   HTML WebComponents with Nim
   </content>
  </entry>
 </feed>
