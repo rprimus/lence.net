@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2021-11-05T01:36:10Z</updated>
+<updated>2021-11-05T09:37:09Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>rezaamashi: doom-emacs</title>
+  <author>
+   <name>rezaamashi</name>
+  </author>
+  <link href="https://github.com/rezaamashi/doom-emacs" />
+  <id>urn:rprimus:github:rezaamashi:doom-emacs</id>
+  <published>2021-11-05T09:37:09Z</published>
+  <updated>2021-11-05T09:37:09Z</updated>
+  <content type="html">
+   My personal Doom-Emacs Configuration
+  </content>
+ </entry>
  <entry>
   <title>zz-Jade: .emacs.d</title>
   <author>
@@ -301,6 +314,19 @@
   <updated>2021-11-03T20:45:43Z</updated>
   <content type="html">
    Doom Emacs config
+  </content>
+ </entry>
+ <entry>
+  <title>SqrtMinusOne: pomm.el</title>
+  <author>
+   <name>SqrtMinusOne</name>
+  </author>
+  <link href="https://github.com/SqrtMinusOne/pomm.el" />
+  <id>urn:rprimus:github:SqrtMinusOne:pomm.el</id>
+  <published>2021-11-03T19:53:07Z</published>
+  <updated>2021-11-03T19:53:07Z</updated>
+  <content type="html">
+   Yet another implementation of pomodoro timer for Emacs
   </content>
  </entry>
  <entry>
