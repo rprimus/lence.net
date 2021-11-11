@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-scheme.atom"/>
 <id>urn:rprimus:github:newschemerepos</id>
-<updated>2021-11-09T22:00:53Z</updated>
+<updated>2021-11-10T23:47:37Z</updated>
 <title type='text'>New GitHub Scheme Repos</title>
+ <entry>
+  <title>nigomeza: sicp</title>
+  <author>
+   <name>nigomeza</name>
+  </author>
+  <link href="https://github.com/nigomeza/sicp" />
+  <id>urn:rprimus:github:nigomeza:sicp</id>
+  <published>2021-11-10T23:47:37Z</published>
+  <updated>2021-11-10T23:47:37Z</updated>
+  <content type="html">
+   Structuted Interpreted Computer Programs Code&amp;Notes
+  </content>
+ </entry>
+ <entry>
+  <title>yonasuriv: pwnbox</title>
+  <author>
+   <name>yonasuriv</name>
+  </author>
+  <link href="https://github.com/yonasuriv/pwnbox" />
+  <id>urn:rprimus:github:yonasuriv:pwnbox</id>
+  <published>2021-11-10T19:52:45Z</published>
+  <updated>2021-11-10T19:52:45Z</updated>
+  <content type="html">
+   Instructions on how to create your very own Pwnbox, originally created by HTB
+  </content>
+ </entry>
  <entry>
   <title>param108: sicp</title>
   <author>
@@ -31,6 +57,19 @@
   </content>
  </entry>
  <entry>
+  <title>amirgingold: guix</title>
+  <author>
+   <name>amirgingold</name>
+  </author>
+  <link href="https://github.com/amirgingold/guix" />
+  <id>urn:rprimus:github:amirgingold:guix</id>
+  <published>2021-11-09T11:21:08Z</published>
+  <updated>2021-11-09T11:21:08Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
   <title>dearshuto: helix_settings</title>
   <author>
    <name>dearshuto</name>
@@ -54,19 +93,6 @@
   <updated>2021-11-09T02:21:36Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>enzuru: guix-profiles</title>
-  <author>
-   <name>enzuru</name>
-  </author>
-  <link href="https://github.com/enzuru/guix-profiles" />
-  <id>urn:rprimus:github:enzuru:guix-profiles</id>
-  <published>2021-11-08T02:08:06Z</published>
-  <updated>2021-11-08T02:08:06Z</updated>
-  <content type="html">
-   Guix profiles and Scheme code for setting up a Lisp-based workstation on top of GNU Guix System
   </content>
  </entry>
 </feed>

@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-11-10T05:42:04Z</updated>
+<updated>2021-11-10T20:48:54Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>ValeriiShmidt: IS-5</title>
+  <author>
+   <name>ValeriiShmidt</name>
+  </author>
+  <link href="https://github.com/ValeriiShmidt/IS-5" />
+  <id>urn:rprimus:github:ValeriiShmidt:IS-5</id>
+  <published>2021-11-10T20:48:54Z</published>
+  <updated>2021-11-10T20:48:54Z</updated>
+  <content type="html">
+   Lab 5 for IS
+  </content>
+ </entry>
+ <entry>
+  <title>hihdrum: calc-bmi</title>
+  <author>
+   <name>hihdrum</name>
+  </author>
+  <link href="https://github.com/hihdrum/calc-bmi" />
+  <id>urn:rprimus:github:hihdrum:calc-bmi</id>
+  <published>2021-11-10T15:19:49Z</published>
+  <updated>2021-11-10T15:19:49Z</updated>
+  <content type="html">
+   ç´èèã®Common Lispè¬åº§ ç·´ç¿ç¨ãªãã¸ããª
+  </content>
+ </entry>
+ <entry>
+  <title>alerpaschoal: apte_pipeline</title>
+  <author>
+   <name>alerpaschoal</name>
+  </author>
+  <link href="https://github.com/alerpaschoal/apte_pipeline" />
+  <id>urn:rprimus:github:alerpaschoal:apte_pipeline</id>
+  <published>2021-11-10T12:03:10Z</published>
+  <updated>2021-11-10T12:03:10Z</updated>
+  <content type="html">
+   The pipeline used to build the APTE: Atlas of Plant Transposable Elements
+  </content>
+ </entry>
  <entry>
   <title>MrGoda: CSC-231</title>
   <author>
@@ -132,97 +171,6 @@
   <updated>2021-11-09T01:39:57Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>mjpalmer: cluck-and-crow</title>
-  <author>
-   <name>mjpalmer</name>
-  </author>
-  <link href="https://github.com/mjpalmer/cluck-and-crow" />
-  <id>urn:rprimus:github:mjpalmer:cluck-and-crow</id>
-  <published>2021-11-08T23:14:37Z</published>
-  <updated>2021-11-08T23:14:37Z</updated>
-  <content type="html">
-   A generalised web gateway interface for Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>40ants: lw-vim-mode</title>
-  <author>
-   <name>40ants</name>
-  </author>
-  <link href="https://github.com/40ants/lw-vim-mode" />
-  <id>urn:rprimus:github:40ants:lw-vim-mode</id>
-  <published>2021-11-08T21:28:20Z</published>
-  <updated>2021-11-08T21:28:20Z</updated>
-  <content type="html">
-   Vim Mode for the LispWorks editor.
-  </content>
- </entry>
- <entry>
-  <title>mmontone: cl-def-properties</title>
-  <author>
-   <name>mmontone</name>
-  </author>
-  <link href="https://github.com/mmontone/cl-def-properties" />
-  <id>urn:rprimus:github:mmontone:cl-def-properties</id>
-  <published>2021-11-08T20:53:36Z</published>
-  <updated>2021-11-08T20:53:36Z</updated>
-  <content type="html">
-   Common Lisp definitions introspection library
-  </content>
- </entry>
- <entry>
-  <title>ghollisjr: sbcl-script</title>
-  <author>
-   <name>ghollisjr</name>
-  </author>
-  <link href="https://github.com/ghollisjr/sbcl-script" />
-  <id>urn:rprimus:github:ghollisjr:sbcl-script</id>
-  <published>2021-11-08T16:05:06Z</published>
-  <updated>2021-11-08T16:05:06Z</updated>
-  <content type="html">
-   Shell-like scripting library for SBCL
-  </content>
- </entry>
- <entry>
-  <title>OpenTechStrategies: forgerie</title>
-  <author>
-   <name>OpenTechStrategies</name>
-  </author>
-  <link href="https://github.com/OpenTechStrategies/forgerie" />
-  <id>urn:rprimus:github:OpenTechStrategies:forgerie</id>
-  <published>2021-11-08T15:53:38Z</published>
-  <updated>2021-11-08T15:53:38Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>dreisiger-metz: research-cogsci-epistemic-network</title>
-  <author>
-   <name>dreisiger-metz</name>
-  </author>
-  <link href="https://github.com/dreisiger-metz/research-cogsci-epistemic-network" />
-  <id>urn:rprimus:github:dreisiger-metz:research-cogsci-epistemic-network</id>
-  <published>2021-11-08T06:19:38Z</published>
-  <updated>2021-11-08T06:19:38Z</updated>
-  <content type="html">
-   Original (and &#039;contributed&#039;) source code from my investigation into distributed representations and concept formation
-  </content>
- </entry>
- <entry>
-  <title>enzuru: home</title>
-  <author>
-   <name>enzuru</name>
-  </author>
-  <link href="https://github.com/enzuru/home" />
-  <id>urn:rprimus:github:enzuru:home</id>
-  <published>2021-11-08T02:40:14Z</published>
-  <updated>2021-11-08T02:40:14Z</updated>
-  <content type="html">
-   My dotfiles and Scheme code for exwm, various GNU Shepherd services, etc
   </content>
  </entry>
 </feed>
