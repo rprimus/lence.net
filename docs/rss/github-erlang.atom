@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-erlang.atom"/>
 <id>urn:rprimus:github:newerlangrepos</id>
-<updated>2021-11-11T08:50:24Z</updated>
+<updated>2021-11-11T22:48:14Z</updated>
 <title type='text'>New GitHub Erlang Repos</title>
+ <entry>
+  <title>augustomentz: pp-kepler20pb</title>
+  <author>
+   <name>augustomentz</name>
+  </author>
+  <link href="https://github.com/augustomentz/pp-kepler20pb" />
+  <id>urn:rprimus:github:augustomentz:pp-kepler20pb</id>
+  <published>2021-11-11T22:48:14Z</published>
+  <updated>2021-11-11T22:48:14Z</updated>
+  <content type="html">
+   Kepler-20PB Ã© um exoplaneta que orbita a Kepler-186. Trata-se um dos planetas de tamanho semelhante ao da Terra, descoberto na zona habitÃ¡vel de uma estrela. O Kepler-20PB possui um elemento misterioso que produz constantemente molÃ©culas de dois tipos, hidrogÃªnio e oxigÃªnio, que quando combinadas geram uma partÃ­cula de Ã¡gua. Estas partÃ­culas, quando criadas, sÃ£o instÃ¡veis e precisam de um tempo para adquirir energia suficiente para se combinar. ApÃ³s um determinado tempo, as molÃ©culas adquirem energia suficiente, o que permite sua combinaÃ§Ã£o para gerar a partÃ­cula de Ã¡gua. Esta associaÃ§Ã£o acontece sempre com duas molÃ©culas de hidrogÃªnio e uma molÃ©cula de oxigÃªnio. NÃ£o sÃ£o permitidas combinaÃ§Ãµes diferentes desta, e para que aconteÃ§a as trÃªs molÃ©culas devem estar em seu nÃ­vel de energia mÃ­nimo ideal. O problema acima apresentado foi adaptado da obra Andrews (1991). Com base na descriÃ§Ã£o apresentada, desenvolva uma aplicaÃ§Ã£o em Erlang que simule este fenÃ´meno. Para esta tarefa devem ser respeitadas as elucidaÃ§Ãµes apresentadas acima, bem como os seguintes requisitos: â¢ Cada molÃ©cula gerada, hidrogÃªnio e oxigÃªnio deve ser um processo em Erlang; â¢ O tempo para que cada molÃ©cula adquira energia suficiente deve variar entre 10s e 30s; â¢ A geraÃ§Ã£o de molÃ©culas deve ser constante e de forma aleatÃ³ria com intervalo de tempo parametrizÃ¡vel; â¢ Cada processo deve ser identificado unicamente e apresentar uma mensagem quando criado informando esta identificaÃ§Ã£o; â¢ A aplicaÃ§Ã£o deve identificar as combinaÃ§Ãµes realizadas, apresentando a identificaÃ§Ã£o dos elementos combinados;
+  </content>
+ </entry>
+ <entry>
+  <title>jomarcardoso: desafio-kepler-20pb-erlang</title>
+  <author>
+   <name>jomarcardoso</name>
+  </author>
+  <link href="https://github.com/jomarcardoso/desafio-kepler-20pb-erlang" />
+  <id>urn:rprimus:github:jomarcardoso:desafio-kepler-20pb-erlang</id>
+  <published>2021-11-11T22:44:48Z</published>
+  <updated>2021-11-11T22:44:48Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>keigoi: caramel-mpst</title>
+  <author>
+   <name>keigoi</name>
+  </author>
+  <link href="https://github.com/keigoi/caramel-mpst" />
+  <id>urn:rprimus:github:keigoi:caramel-mpst</id>
+  <published>2021-11-11T20:47:04Z</published>
+  <updated>2021-11-11T20:47:04Z</updated>
+  <content type="html">
+   Experimental -- Multiparty Session Types for Caramel (https://caramel.run/)
+  </content>
+ </entry>
+ <entry>
+  <title>radomyr-mykolenko: lesson3_task2</title>
+  <author>
+   <name>radomyr-mykolenko</name>
+  </author>
+  <link href="https://github.com/radomyr-mykolenko/lesson3_task2" />
+  <id>urn:rprimus:github:radomyr-mykolenko:lesson3_task2</id>
+  <published>2021-11-11T20:46:02Z</published>
+  <updated>2021-11-11T20:46:02Z</updated>
+  <content type="html">
+   Erlang Homework
+  </content>
+ </entry>
  <entry>
   <title>Larrouse2015: erlPkcs</title>
   <author>
@@ -132,266 +184,6 @@
   <updated>2021-11-10T01:47:45Z</updated>
   <content type="html">
    Framework of AmazeGame
-  </content>
- </entry>
- <entry>
-  <title>MiloudEloumri: match</title>
-  <author>
-   <name>MiloudEloumri</name>
-  </author>
-  <link href="https://github.com/MiloudEloumri/match" />
-  <id>urn:rprimus:github:MiloudEloumri:match</id>
-  <published>2021-11-09T23:19:38Z</published>
-  <updated>2021-11-09T23:19:38Z</updated>
-  <content type="html">
-   match rebar3 release - Matching ...
-  </content>
- </entry>
- <entry>
-  <title>AmazeGame: ag_gateway</title>
-  <author>
-   <name>AmazeGame</name>
-  </author>
-  <link href="https://github.com/AmazeGame/ag_gateway" />
-  <id>urn:rprimus:github:AmazeGame:ag_gateway</id>
-  <published>2021-11-09T13:00:12Z</published>
-  <updated>2021-11-09T13:00:12Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>EricsmOOn: counter</title>
-  <author>
-   <name>EricsmOOn</name>
-  </author>
-  <link href="https://github.com/EricsmOOn/counter" />
-  <id>urn:rprimus:github:EricsmOOn:counter</id>
-  <published>2021-11-09T12:41:44Z</published>
-  <updated>2021-11-09T12:41:44Z</updated>
-  <content type="html">
-   åºäºErlang persistent_termä»¥åcounters moduleçå¨å±é«æ§è½è®¡æ°å¨å°è£
-  </content>
- </entry>
- <entry>
-  <title>AmazeGame: ag_node</title>
-  <author>
-   <name>AmazeGame</name>
-  </author>
-  <link href="https://github.com/AmazeGame/ag_node" />
-  <id>urn:rprimus:github:AmazeGame:ag_node</id>
-  <published>2021-11-09T12:32:15Z</published>
-  <updated>2021-11-09T12:32:15Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>AmazeGame: ag_monitor</title>
-  <author>
-   <name>AmazeGame</name>
-  </author>
-  <link href="https://github.com/AmazeGame/ag_monitor" />
-  <id>urn:rprimus:github:AmazeGame:ag_monitor</id>
-  <published>2021-11-09T12:30:31Z</published>
-  <updated>2021-11-09T12:30:31Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>AmazeGame: ag_metable</title>
-  <author>
-   <name>AmazeGame</name>
-  </author>
-  <link href="https://github.com/AmazeGame/ag_metable" />
-  <id>urn:rprimus:github:AmazeGame:ag_metable</id>
-  <published>2021-11-09T12:27:31Z</published>
-  <updated>2021-11-09T12:27:31Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>AmazeGame: ag_logger</title>
-  <author>
-   <name>AmazeGame</name>
-  </author>
-  <link href="https://github.com/AmazeGame/ag_logger" />
-  <id>urn:rprimus:github:AmazeGame:ag_logger</id>
-  <published>2021-11-09T12:23:32Z</published>
-  <updated>2021-11-09T12:23:32Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>AmazeGame: ag_idcreator</title>
-  <author>
-   <name>AmazeGame</name>
-  </author>
-  <link href="https://github.com/AmazeGame/ag_idcreator" />
-  <id>urn:rprimus:github:AmazeGame:ag_idcreator</id>
-  <published>2021-11-09T12:17:17Z</published>
-  <updated>2021-11-09T12:17:17Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>AmazeGame: ag_eventdispatcher</title>
-  <author>
-   <name>AmazeGame</name>
-  </author>
-  <link href="https://github.com/AmazeGame/ag_eventdispatcher" />
-  <id>urn:rprimus:github:AmazeGame:ag_eventdispatcher</id>
-  <published>2021-11-09T12:06:10Z</published>
-  <updated>2021-11-09T12:06:10Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>AmazeGame: ag_engine</title>
-  <author>
-   <name>AmazeGame</name>
-  </author>
-  <link href="https://github.com/AmazeGame/ag_engine" />
-  <id>urn:rprimus:github:AmazeGame:ag_engine</id>
-  <published>2021-11-09T12:01:53Z</published>
-  <updated>2021-11-09T12:01:53Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>AmazeGame: ag_debuglogger</title>
-  <author>
-   <name>AmazeGame</name>
-  </author>
-  <link href="https://github.com/AmazeGame/ag_debuglogger" />
-  <id>urn:rprimus:github:AmazeGame:ag_debuglogger</id>
-  <published>2021-11-09T12:00:02Z</published>
-  <updated>2021-11-09T12:00:02Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>AmazeGame: ag_database</title>
-  <author>
-   <name>AmazeGame</name>
-  </author>
-  <link href="https://github.com/AmazeGame/ag_database" />
-  <id>urn:rprimus:github:AmazeGame:ag_database</id>
-  <published>2021-11-09T11:55:31Z</published>
-  <updated>2021-11-09T11:55:31Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>AmazeGame: ag_config</title>
-  <author>
-   <name>AmazeGame</name>
-  </author>
-  <link href="https://github.com/AmazeGame/ag_config" />
-  <id>urn:rprimus:github:AmazeGame:ag_config</id>
-  <published>2021-11-09T11:17:46Z</published>
-  <updated>2021-11-09T11:17:46Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>AmazeGame: ag_cluster</title>
-  <author>
-   <name>AmazeGame</name>
-  </author>
-  <link href="https://github.com/AmazeGame/ag_cluster" />
-  <id>urn:rprimus:github:AmazeGame:ag_cluster</id>
-  <published>2021-11-09T11:04:26Z</published>
-  <updated>2021-11-09T11:04:26Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>AmazeGame: ag_application</title>
-  <author>
-   <name>AmazeGame</name>
-  </author>
-  <link href="https://github.com/AmazeGame/ag_application" />
-  <id>urn:rprimus:github:AmazeGame:ag_application</id>
-  <published>2021-11-09T10:58:42Z</published>
-  <updated>2021-11-09T10:58:42Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>EricsmOOn: lib_find</title>
-  <author>
-   <name>EricsmOOn</name>
-  </author>
-  <link href="https://github.com/EricsmOOn/lib_find" />
-  <id>urn:rprimus:github:EricsmOOn:lib_find</id>
-  <published>2021-11-09T10:52:10Z</published>
-  <updated>2021-11-09T10:52:10Z</updated>
-  <content type="html">
-   åºäºErlangçæä»¶ç³»ç»æ­£åæ¥è¯¢å°è£ éåº¦æ¢ ä½æ¯ä¸Erlangç¸å®¹æ§å¥½
-  </content>
- </entry>
- <entry>
-  <title>AmazeGame: ag_bizlogger</title>
-  <author>
-   <name>AmazeGame</name>
-  </author>
-  <link href="https://github.com/AmazeGame/ag_bizlogger" />
-  <id>urn:rprimus:github:AmazeGame:ag_bizlogger</id>
-  <published>2021-11-09T10:32:07Z</published>
-  <updated>2021-11-09T10:32:07Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>AmazeGame: ag_base</title>
-  <author>
-   <name>AmazeGame</name>
-  </author>
-  <link href="https://github.com/AmazeGame/ag_base" />
-  <id>urn:rprimus:github:AmazeGame:ag_base</id>
-  <published>2021-11-09T10:16:48Z</published>
-  <updated>2021-11-09T10:16:48Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>AmazeGame: ag_autogc</title>
-  <author>
-   <name>AmazeGame</name>
-  </author>
-  <link href="https://github.com/AmazeGame/ag_autogc" />
-  <id>urn:rprimus:github:AmazeGame:ag_autogc</id>
-  <published>2021-11-09T09:50:48Z</published>
-  <updated>2021-11-09T09:50:48Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>AmazeGame: ag_codereloader</title>
-  <author>
-   <name>AmazeGame</name>
-  </author>
-  <link href="https://github.com/AmazeGame/ag_codereloader" />
-  <id>urn:rprimus:github:AmazeGame:ag_codereloader</id>
-  <published>2021-11-09T08:37:22Z</published>
-  <updated>2021-11-09T08:37:22Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
