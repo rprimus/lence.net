@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-erlang.atom"/>
 <id>urn:rprimus:github:newerlangrepos</id>
-<updated>2021-11-13T02:00:13Z</updated>
+<updated>2021-11-14T00:03:21Z</updated>
 <title type='text'>New GitHub Erlang Repos</title>
+ <entry>
+  <title>IncredulousMonk: sod2-tools</title>
+  <author>
+   <name>IncredulousMonk</name>
+  </author>
+  <link href="https://github.com/IncredulousMonk/sod2-tools" />
+  <id>urn:rprimus:github:IncredulousMonk:sod2-tools</id>
+  <published>2021-11-14T00:03:21Z</published>
+  <updated>2021-11-14T00:03:21Z</updated>
+  <content type="html">
+   Tools for manipulating the State of Decay 2 save files
+  </content>
+ </entry>
+ <entry>
+  <title>NimaPoshtiban: Erlang-Basis</title>
+  <author>
+   <name>NimaPoshtiban</name>
+  </author>
+  <link href="https://github.com/NimaPoshtiban/Erlang-Basis" />
+  <id>urn:rprimus:github:NimaPoshtiban:Erlang-Basis</id>
+  <published>2021-11-13T11:46:03Z</published>
+  <updated>2021-11-13T11:46:03Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>Premwoik: basement-core</title>
   <author>
@@ -65,123 +91,6 @@
   <id>urn:rprimus:github:evandro-shiraichi:Erlang_Library</id>
   <published>2021-11-12T07:38:16Z</published>
   <updated>2021-11-12T07:38:16Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>augustomentz: pp-kepler20pb</title>
-  <author>
-   <name>augustomentz</name>
-  </author>
-  <link href="https://github.com/augustomentz/pp-kepler20pb" />
-  <id>urn:rprimus:github:augustomentz:pp-kepler20pb</id>
-  <published>2021-11-11T22:48:14Z</published>
-  <updated>2021-11-11T22:48:14Z</updated>
-  <content type="html">
-   Kepler-20PB Ã© um exoplaneta que orbita a Kepler-186. Trata-se um dos planetas de tamanho semelhante ao da Terra, descoberto na zona habitÃ¡vel de uma estrela. O Kepler-20PB possui um elemento misterioso que produz constantemente molÃ©culas de dois tipos, hidrogÃªnio e oxigÃªnio, que quando combinadas geram uma partÃ­cula de Ã¡gua. Estas partÃ­culas, quando criadas, sÃ£o instÃ¡veis e precisam de um tempo para adquirir energia suficiente para se combinar. ApÃ³s um determinado tempo, as molÃ©culas adquirem energia suficiente, o que permite sua combinaÃ§Ã£o para gerar a partÃ­cula de Ã¡gua. Esta associaÃ§Ã£o acontece sempre com duas molÃ©culas de hidrogÃªnio e uma molÃ©cula de oxigÃªnio. NÃ£o sÃ£o permitidas combinaÃ§Ãµes diferentes desta, e para que aconteÃ§a as trÃªs molÃ©culas devem estar em seu nÃ­vel de energia mÃ­nimo ideal. O problema acima apresentado foi adaptado da obra Andrews (1991). Com base na descriÃ§Ã£o apresentada, desenvolva uma aplicaÃ§Ã£o em Erlang que simule este fenÃ´meno. Para esta tarefa devem ser respeitadas as elucidaÃ§Ãµes apresentadas acima, bem como os seguintes requisitos: â¢ Cada molÃ©cula gerada, hidrogÃªnio e oxigÃªnio deve ser um processo em Erlang; â¢ O tempo para que cada molÃ©cula adquira energia suficiente deve variar entre 10s e 30s; â¢ A geraÃ§Ã£o de molÃ©culas deve ser constante e de forma aleatÃ³ria com intervalo de tempo parametrizÃ¡vel; â¢ Cada processo deve ser identificado unicamente e apresentar uma mensagem quando criado informando esta identificaÃ§Ã£o; â¢ A aplicaÃ§Ã£o deve identificar as combinaÃ§Ãµes realizadas, apresentando a identificaÃ§Ã£o dos elementos combinados;
-  </content>
- </entry>
- <entry>
-  <title>jomarcardoso: desafio-kepler-20pb-erlang</title>
-  <author>
-   <name>jomarcardoso</name>
-  </author>
-  <link href="https://github.com/jomarcardoso/desafio-kepler-20pb-erlang" />
-  <id>urn:rprimus:github:jomarcardoso:desafio-kepler-20pb-erlang</id>
-  <published>2021-11-11T22:44:48Z</published>
-  <updated>2021-11-11T22:44:48Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>alexgaas: iothub_simulate</title>
-  <author>
-   <name>alexgaas</name>
-  </author>
-  <link href="https://github.com/alexgaas/iothub_simulate" />
-  <id>urn:rprimus:github:alexgaas:iothub_simulate</id>
-  <published>2021-11-11T21:40:33Z</published>
-  <updated>2021-11-11T21:40:33Z</updated>
-  <content type="html">
-   A demo of a IotHub simulation with Erlang
-  </content>
- </entry>
- <entry>
-  <title>keigoi: caramel-mpst</title>
-  <author>
-   <name>keigoi</name>
-  </author>
-  <link href="https://github.com/keigoi/caramel-mpst" />
-  <id>urn:rprimus:github:keigoi:caramel-mpst</id>
-  <published>2021-11-11T20:47:04Z</published>
-  <updated>2021-11-11T20:47:04Z</updated>
-  <content type="html">
-   Experimental -- Multiparty Session Types for Caramel (https://caramel.run/)
-  </content>
- </entry>
- <entry>
-  <title>radomyr-mykolenko: lesson3_task2</title>
-  <author>
-   <name>radomyr-mykolenko</name>
-  </author>
-  <link href="https://github.com/radomyr-mykolenko/lesson3_task2" />
-  <id>urn:rprimus:github:radomyr-mykolenko:lesson3_task2</id>
-  <published>2021-11-11T20:46:02Z</published>
-  <updated>2021-11-11T20:46:02Z</updated>
-  <content type="html">
-   Erlang Homework
-  </content>
- </entry>
- <entry>
-  <title>Larrouse2015: erlPkcs</title>
-  <author>
-   <name>Larrouse2015</name>
-  </author>
-  <link href="https://github.com/Larrouse2015/erlPkcs" />
-  <id>urn:rprimus:github:Larrouse2015:erlPkcs</id>
-  <published>2021-11-11T08:50:24Z</published>
-  <updated>2021-11-11T08:50:24Z</updated>
-  <content type="html">
-   pkcs5 and pkcs7 pad or unpad with erlang
-  </content>
- </entry>
- <entry>
-  <title>EricsmOOn: lib_bin</title>
-  <author>
-   <name>EricsmOOn</name>
-  </author>
-  <link href="https://github.com/EricsmOOn/lib_bin" />
-  <id>urn:rprimus:github:EricsmOOn:lib_bin</id>
-  <published>2021-11-11T02:13:10Z</published>
-  <updated>2021-11-11T02:13:10Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>wzy0709: Distributed-File-Sharing</title>
-  <author>
-   <name>wzy0709</name>
-  </author>
-  <link href="https://github.com/wzy0709/Distributed-File-Sharing" />
-  <id>urn:rprimus:github:wzy0709:Distributed-File-Sharing</id>
-  <published>2021-11-11T01:40:40Z</published>
-  <updated>2021-11-11T01:40:40Z</updated>
-  <content type="html">
-   a peer-to-peer system inspired by BitTorrent
-  </content>
- </entry>
- <entry>
-  <title>arekinath: erlims</title>
-  <author>
-   <name>arekinath</name>
-  </author>
-  <link href="https://github.com/arekinath/erlims" />
-  <id>urn:rprimus:github:arekinath:erlims</id>
-  <published>2021-11-11T01:25:11Z</published>
-  <updated>2021-11-11T01:25:11Z</updated>
   <content type="html">
    
   </content>
