@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-11-14T03:47:54Z</updated>
+<updated>2021-11-15T03:04:40Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>ivanstarr1: Slew-Bearing-Design</title>
+  <author>
+   <name>ivanstarr1</name>
+  </author>
+  <link href="https://github.com/ivanstarr1/Slew-Bearing-Design" />
+  <id>urn:rprimus:github:ivanstarr1:Slew-Bearing-Design</id>
+  <published>2021-11-15T03:04:40Z</published>
+  <updated>2021-11-15T03:04:40Z</updated>
+  <content type="html">
+   An Autolisp program that designs and draws slew bearings in 3D (in AutoCAD)
+  </content>
+ </entry>
+ <entry>
+  <title>willosborne: advent-of-code-cl</title>
+  <author>
+   <name>willosborne</name>
+  </author>
+  <link href="https://github.com/willosborne/advent-of-code-cl" />
+  <id>urn:rprimus:github:willosborne:advent-of-code-cl</id>
+  <published>2021-11-14T18:45:45Z</published>
+  <updated>2021-11-14T18:45:45Z</updated>
+  <content type="html">
+   Advent of code solutions in Common Lisp.
+  </content>
+ </entry>
+ <entry>
+  <title>jjhoo: cl-sudoku</title>
+  <author>
+   <name>jjhoo</name>
+  </author>
+  <link href="https://github.com/jjhoo/cl-sudoku" />
+  <id>urn:rprimus:github:jjhoo:cl-sudoku</id>
+  <published>2021-11-14T16:43:20Z</published>
+  <updated>2021-11-14T16:43:20Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>resttime: geml</title>
+  <author>
+   <name>resttime</name>
+  </author>
+  <link href="https://github.com/resttime/geml" />
+  <id>urn:rprimus:github:resttime:geml</id>
+  <published>2021-11-14T16:28:47Z</published>
+  <updated>2021-11-14T16:28:47Z</updated>
+  <content type="html">
+   Server for the Gemini protocol written in Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>sirherrbatka: quantify</title>
+  <author>
+   <name>sirherrbatka</name>
+  </author>
+  <link href="https://github.com/sirherrbatka/quantify" />
+  <id>urn:rprimus:github:sirherrbatka:quantify</id>
+  <published>2021-11-14T16:19:41Z</published>
+  <updated>2021-11-14T16:19:41Z</updated>
+  <content type="html">
+   Fork of metering, with samples gathering code.
+  </content>
+ </entry>
+ <entry>
+  <title>larsen: advent2017</title>
+  <author>
+   <name>larsen</name>
+  </author>
+  <link href="https://github.com/larsen/advent2017" />
+  <id>urn:rprimus:github:larsen:advent2017</id>
+  <published>2021-11-14T14:37:26Z</published>
+  <updated>2021-11-14T14:37:26Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>KodingKing99: isHW10</title>
   <author>
@@ -104,58 +182,6 @@
   <id>urn:rprimus:github:yoophi:clisp-sandbox</id>
   <published>2021-11-13T13:31:03Z</published>
   <updated>2021-11-13T13:31:03Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Izaakwltn: formulador-lite</title>
-  <author>
-   <name>Izaakwltn</name>
-  </author>
-  <link href="https://github.com/Izaakwltn/formulador-lite" />
-  <id>urn:rprimus:github:Izaakwltn:formulador-lite</id>
-  <published>2021-11-12T18:14:42Z</published>
-  <updated>2021-11-12T18:14:42Z</updated>
-  <content type="html">
-   A simple-input for @stylewarning&#039;s formulador
-  </content>
- </entry>
- <entry>
-  <title>no-defun-allowed: lc3-in-lc3</title>
-  <author>
-   <name>no-defun-allowed</name>
-  </author>
-  <link href="https://github.com/no-defun-allowed/lc3-in-lc3" />
-  <id>urn:rprimus:github:no-defun-allowed:lc3-in-lc3</id>
-  <published>2021-11-12T10:28:06Z</published>
-  <updated>2021-11-12T10:28:06Z</updated>
-  <content type="html">
-   A metacircular LC3 implementation
-  </content>
- </entry>
- <entry>
-  <title>farooqkz: msim</title>
-  <author>
-   <name>farooqkz</name>
-  </author>
-  <link href="https://github.com/farooqkz/msim" />
-  <id>urn:rprimus:github:farooqkz:msim</id>
-  <published>2021-11-12T10:26:12Z</published>
-  <updated>2021-11-12T10:26:12Z</updated>
-  <content type="html">
-   Simulating Mafia game with mafias, townies and fools!
-  </content>
- </entry>
- <entry>
-  <title>kathyyliu: LangParser</title>
-  <author>
-   <name>kathyyliu</name>
-  </author>
-  <link href="https://github.com/kathyyliu/LangParser" />
-  <id>urn:rprimus:github:kathyyliu:LangParser</id>
-  <published>2021-11-12T06:14:53Z</published>
-  <updated>2021-11-12T06:14:53Z</updated>
   <content type="html">
    
   </content>

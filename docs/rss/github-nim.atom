@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2021-11-13T20:15:42Z</updated>
+<updated>2021-11-15T03:02:29Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>quantumedbox: termng</title>
+  <author>
+   <name>quantumedbox</name>
+  </author>
+  <link href="https://github.com/quantumedbox/termng" />
+  <id>urn:rprimus:github:quantumedbox:termng</id>
+  <published>2021-11-15T03:02:29Z</published>
+  <updated>2021-11-15T03:02:29Z</updated>
+  <content type="html">
+   work in-progress vt100 terminal based game engine
+  </content>
+ </entry>
+ <entry>
+  <title>hnra: nim-watcher</title>
+  <author>
+   <name>hnra</name>
+  </author>
+  <link href="https://github.com/hnra/nim-watcher" />
+  <id>urn:rprimus:github:hnra:nim-watcher</id>
+  <published>2021-11-14T21:25:38Z</published>
+  <updated>2021-11-14T21:25:38Z</updated>
+  <content type="html">
+   File watcher written in Nim
+  </content>
+ </entry>
+ <entry>
+  <title>Shogan: fstojson-nim</title>
+  <author>
+   <name>Shogan</name>
+  </author>
+  <link href="https://github.com/Shogan/fstojson-nim" />
+  <id>urn:rprimus:github:Shogan:fstojson-nim</id>
+  <published>2021-11-14T20:06:03Z</published>
+  <updated>2021-11-14T20:06:03Z</updated>
+  <content type="html">
+   A simple CLI tool to traverse a target directory &amp; output the collected  hierarchy to JSON
+  </content>
+ </entry>
+ <entry>
+  <title>shayanhabibi: nuclear</title>
+  <author>
+   <name>shayanhabibi</name>
+  </author>
+  <link href="https://github.com/shayanhabibi/nuclear" />
+  <id>urn:rprimus:github:shayanhabibi:nuclear</id>
+  <published>2021-11-14T16:56:33Z</published>
+  <updated>2021-11-14T16:56:33Z</updated>
+  <content type="html">
+   Nuclear emulates volatile pointers in nim for use in lock-free multithreaded algorithms.
+  </content>
+ </entry>
+ <entry>
+  <title>planetis-m: raylib-examples</title>
+  <author>
+   <name>planetis-m</name>
+  </author>
+  <link href="https://github.com/planetis-m/raylib-examples" />
+  <id>urn:rprimus:github:planetis-m:raylib-examples</id>
+  <published>2021-11-14T14:02:45Z</published>
+  <updated>2021-11-14T14:02:45Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>planetis-m: vulkan-tut</title>
+  <author>
+   <name>planetis-m</name>
+  </author>
+  <link href="https://github.com/planetis-m/vulkan-tut" />
+  <id>urn:rprimus:github:planetis-m:vulkan-tut</id>
+  <published>2021-11-14T13:04:38Z</published>
+  <updated>2021-11-14T13:04:38Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>Mihara: x1c3tool</title>
   <author>
@@ -18,6 +96,19 @@
   </content>
  </entry>
  <entry>
+  <title>Egggggg: FrontGeese</title>
+  <author>
+   <name>Egggggg</name>
+  </author>
+  <link href="https://github.com/Egggggg/FrontGeese" />
+  <id>urn:rprimus:github:Egggggg:FrontGeese</id>
+  <published>2021-11-13T19:16:03Z</published>
+  <updated>2021-11-13T19:16:03Z</updated>
+  <content type="html">
+   The definitive website for goose archival
+  </content>
+ </entry>
+ <entry>
   <title>HENRDS: calc</title>
   <author>
    <name>HENRDS</name>
@@ -28,6 +119,19 @@
   <updated>2021-11-13T17:01:56Z</updated>
   <content type="html">
    A simple CLI calculator 
+  </content>
+ </entry>
+ <entry>
+  <title>n0bra1n3r: mast</title>
+  <author>
+   <name>n0bra1n3r</name>
+  </author>
+  <link href="https://github.com/n0bra1n3r/mast" />
+  <id>urn:rprimus:github:n0bra1n3r:mast</id>
+  <published>2021-11-13T11:40:09Z</published>
+  <updated>2021-11-13T11:40:09Z</updated>
+  <content type="html">
+   A simple DSL for defining abstract syntax trees in Nim
   </content>
  </entry>
  <entry>
@@ -54,110 +158,6 @@
   <updated>2021-11-13T01:01:44Z</updated>
   <content type="html">
    Small blog manager made in Nim
-  </content>
- </entry>
- <entry>
-  <title>Equis-X: test</title>
-  <author>
-   <name>Equis-X</name>
-  </author>
-  <link href="https://github.com/Equis-X/test" />
-  <id>urn:rprimus:github:Equis-X:test</id>
-  <published>2021-11-12T23:42:41Z</published>
-  <updated>2021-11-12T23:42:41Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>lay-by: lazystrafe</title>
-  <author>
-   <name>lay-by</name>
-  </author>
-  <link href="https://github.com/lay-by/lazystrafe" />
-  <id>urn:rprimus:github:lay-by:lazystrafe</id>
-  <published>2021-11-12T23:10:26Z</published>
-  <updated>2021-11-12T23:10:26Z</updated>
-  <content type="html">
-   A Titanfall 2 tap-strafe script for linux players using Nim
-  </content>
- </entry>
- <entry>
-  <title>kerrycobb: nim-bayes</title>
-  <author>
-   <name>kerrycobb</name>
-  </author>
-  <link href="https://github.com/kerrycobb/nim-bayes" />
-  <id>urn:rprimus:github:kerrycobb:nim-bayes</id>
-  <published>2021-11-12T18:29:03Z</published>
-  <updated>2021-11-12T18:29:03Z</updated>
-  <content type="html">
-   Tutorial on Bayesian inference of a linear model in Nim
-  </content>
- </entry>
- <entry>
-  <title>HENRDS: mswgc</title>
-  <author>
-   <name>HENRDS</name>
-  </author>
-  <link href="https://github.com/HENRDS/mswgc" />
-  <id>urn:rprimus:github:HENRDS:mswgc</id>
-  <published>2021-11-12T15:24:37Z</published>
-  <updated>2021-11-12T15:24:37Z</updated>
-  <content type="html">
-   A simple mark-sweep garbage collector
-  </content>
- </entry>
- <entry>
-  <title>Sithell: Beans</title>
-  <author>
-   <name>Sithell</name>
-  </author>
-  <link href="https://github.com/Sithell/Beans" />
-  <id>urn:rprimus:github:Sithell:Beans</id>
-  <published>2021-11-12T14:48:01Z</published>
-  <updated>2021-11-12T14:48:01Z</updated>
-  <content type="html">
-   Simple yet powerful Beanstalkd Command-Line Client!
-  </content>
- </entry>
- <entry>
-  <title>Dev1lroot: MinecraftModGenerator1.16.5</title>
-  <author>
-   <name>Dev1lroot</name>
-  </author>
-  <link href="https://github.com/Dev1lroot/MinecraftModGenerator1.16.5" />
-  <id>urn:rprimus:github:Dev1lroot:MinecraftModGenerator1.16.5</id>
-  <published>2021-11-12T12:06:30Z</published>
-  <updated>2021-11-12T12:06:30Z</updated>
-  <content type="html">
-   Nim Implementation of Mod Generator
-  </content>
- </entry>
- <entry>
-  <title>hamidb80: nim-tutorial</title>
-  <author>
-   <name>hamidb80</name>
-  </author>
-  <link href="https://github.com/hamidb80/nim-tutorial" />
-  <id>urn:rprimus:github:hamidb80:nim-tutorial</id>
-  <published>2021-11-12T09:14:05Z</published>
-  <updated>2021-11-12T09:14:05Z</updated>
-  <content type="html">
-   a put my additional content here 
-  </content>
- </entry>
- <entry>
-  <title>shayanhabibi: wtbanland</title>
-  <author>
-   <name>shayanhabibi</name>
-  </author>
-  <link href="https://github.com/shayanhabibi/wtbanland" />
-  <id>urn:rprimus:github:shayanhabibi:wtbanland</id>
-  <published>2021-11-12T01:57:56Z</published>
-  <updated>2021-11-12T01:57:56Z</updated>
-  <content type="html">
-   Welcome to banland.
   </content>
  </entry>
 </feed>
