@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-11-16T07:29:25Z</updated>
+<updated>2021-11-16T20:29:05Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>g000001: zrdbc</title>
+  <author>
+   <name>g000001</name>
+  </author>
+  <link href="https://github.com/g000001/zrdbc" />
+  <id>urn:rprimus:github:g000001:zrdbc</id>
+  <published>2021-11-16T20:29:05Z</published>
+  <updated>2021-11-16T20:29:05Z</updated>
+  <content type="html">
+   Zillion Random DbC
+  </content>
+ </entry>
+ <entry>
+  <title>harupiyo: running-krep1-in-browser-using-JSCL</title>
+  <author>
+   <name>harupiyo</name>
+  </author>
+  <link href="https://github.com/harupiyo/running-krep1-in-browser-using-JSCL" />
+  <id>urn:rprimus:github:harupiyo:running-krep1-in-browser-using-JSCL</id>
+  <published>2021-11-16T07:50:30Z</published>
+  <updated>2021-11-16T07:50:30Z</updated>
+  <content type="html">
+   Common Lisp ã®ãµãã»ããå®è£ã§ããJSCL ãä½¿ã£ã¦ãã©ã¦ã¶ã¼ä¸ã§ãå®ç¨Common Lisp by Peter Norvigãã®P.446 14.8ç¯ ã®DTREE ãåããè©¦ã¿ã§ãã
+  </content>
+ </entry>
  <entry>
   <title>harupiyo: trying-common-lisp-web-server</title>
   <author>
@@ -148,6 +174,19 @@
   </content>
  </entry>
  <entry>
+  <title>nptcl: match</title>
+  <author>
+   <name>nptcl</name>
+  </author>
+  <link href="https://github.com/nptcl/match" />
+  <id>urn:rprimus:github:nptcl:match</id>
+  <published>2021-11-15T09:30:37Z</published>
+  <updated>2021-11-15T09:30:37Z</updated>
+  <content type="html">
+   Test code Prolog for Common Lisp.
+  </content>
+ </entry>
+ <entry>
   <title>iamFIREcracker: sketch-fun</title>
   <author>
    <name>iamFIREcracker</name>
@@ -171,110 +210,6 @@
   <updated>2021-11-15T03:04:40Z</updated>
   <content type="html">
    An Autolisp program that designs and draws slew bearings in 3D (in AutoCAD)
-  </content>
- </entry>
- <entry>
-  <title>willosborne: advent-of-code-cl</title>
-  <author>
-   <name>willosborne</name>
-  </author>
-  <link href="https://github.com/willosborne/advent-of-code-cl" />
-  <id>urn:rprimus:github:willosborne:advent-of-code-cl</id>
-  <published>2021-11-14T18:45:45Z</published>
-  <updated>2021-11-14T18:45:45Z</updated>
-  <content type="html">
-   Advent of code solutions in Common Lisp.
-  </content>
- </entry>
- <entry>
-  <title>jjhoo: cl-sudoku</title>
-  <author>
-   <name>jjhoo</name>
-  </author>
-  <link href="https://github.com/jjhoo/cl-sudoku" />
-  <id>urn:rprimus:github:jjhoo:cl-sudoku</id>
-  <published>2021-11-14T16:43:20Z</published>
-  <updated>2021-11-14T16:43:20Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>resttime: geml</title>
-  <author>
-   <name>resttime</name>
-  </author>
-  <link href="https://github.com/resttime/geml" />
-  <id>urn:rprimus:github:resttime:geml</id>
-  <published>2021-11-14T16:28:47Z</published>
-  <updated>2021-11-14T16:28:47Z</updated>
-  <content type="html">
-   Server for the Gemini protocol written in Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>sirherrbatka: quantify</title>
-  <author>
-   <name>sirherrbatka</name>
-  </author>
-  <link href="https://github.com/sirherrbatka/quantify" />
-  <id>urn:rprimus:github:sirherrbatka:quantify</id>
-  <published>2021-11-14T16:19:41Z</published>
-  <updated>2021-11-14T16:19:41Z</updated>
-  <content type="html">
-   Fork of metering, with samples gathering code.
-  </content>
- </entry>
- <entry>
-  <title>larsen: advent2017</title>
-  <author>
-   <name>larsen</name>
-  </author>
-  <link href="https://github.com/larsen/advent2017" />
-  <id>urn:rprimus:github:larsen:advent2017</id>
-  <published>2021-11-14T14:37:26Z</published>
-  <updated>2021-11-14T14:37:26Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>KodingKing99: isHW10</title>
-  <author>
-   <name>KodingKing99</name>
-  </author>
-  <link href="https://github.com/KodingKing99/isHW10" />
-  <id>urn:rprimus:github:KodingKing99:isHW10</id>
-  <published>2021-11-14T03:47:54Z</published>
-  <updated>2021-11-14T03:47:54Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>bpostlethwaite: cl-audio-programming</title>
-  <author>
-   <name>bpostlethwaite</name>
-  </author>
-  <link href="https://github.com/bpostlethwaite/cl-audio-programming" />
-  <id>urn:rprimus:github:bpostlethwaite:cl-audio-programming</id>
-  <published>2021-11-14T03:36:12Z</published>
-  <updated>2021-11-14T03:36:12Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ntBre: weather</title>
-  <author>
-   <name>ntBre</name>
-  </author>
-  <link href="https://github.com/ntBre/weather" />
-  <id>urn:rprimus:github:ntBre:weather</id>
-  <published>2021-11-14T01:27:54Z</published>
-  <updated>2021-11-14T01:27:54Z</updated>
-  <content type="html">
-   Weather dashboard written in Common Lisp
   </content>
  </entry>
 </feed>
