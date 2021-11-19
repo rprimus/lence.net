@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-11-18T07:19:54Z</updated>
+<updated>2021-11-19T01:23:01Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>KDr2: maxima</title>
+  <author>
+   <name>KDr2</name>
+  </author>
+  <link href="https://github.com/KDr2/maxima" />
+  <id>urn:rprimus:github:KDr2:maxima</id>
+  <published>2021-11-19T01:23:01Z</published>
+  <updated>2021-11-19T01:23:01Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>uAugustoVR: zubber-lisp</title>
+  <author>
+   <name>uAugustoVR</name>
+  </author>
+  <link href="https://github.com/uAugustoVR/zubber-lisp" />
+  <id>urn:rprimus:github:uAugustoVR:zubber-lisp</id>
+  <published>2021-11-18T18:56:54Z</published>
+  <updated>2021-11-18T18:56:54Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>CheesyModz: Lisp-Time-Complexity</title>
+  <author>
+   <name>CheesyModz</name>
+  </author>
+  <link href="https://github.com/CheesyModz/Lisp-Time-Complexity" />
+  <id>urn:rprimus:github:CheesyModz:Lisp-Time-Complexity</id>
+  <published>2021-11-18T17:32:35Z</published>
+  <updated>2021-11-18T17:32:35Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Nonameentered: lisp-recursion-example</title>
+  <author>
+   <name>Nonameentered</name>
+  </author>
+  <link href="https://github.com/Nonameentered/lisp-recursion-example" />
+  <id>urn:rprimus:github:Nonameentered:lisp-recursion-example</id>
+  <published>2021-11-18T14:09:18Z</published>
+  <updated>2021-11-18T14:09:18Z</updated>
+  <content type="html">
+   Lisp Problem Solver from 2019 AI with Lisp class
+  </content>
+ </entry>
+ <entry>
+  <title>minusmaterial: htmaker</title>
+  <author>
+   <name>minusmaterial</name>
+  </author>
+  <link href="https://github.com/minusmaterial/htmaker" />
+  <id>urn:rprimus:github:minusmaterial:htmaker</id>
+  <published>2021-11-18T11:13:56Z</published>
+  <updated>2021-11-18T11:13:56Z</updated>
+  <content type="html">
+   A static website generator in Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>minusmaterial: comp-phys</title>
+  <author>
+   <name>minusmaterial</name>
+  </author>
+  <link href="https://github.com/minusmaterial/comp-phys" />
+  <id>urn:rprimus:github:minusmaterial:comp-phys</id>
+  <published>2021-11-18T10:55:34Z</published>
+  <updated>2021-11-18T10:55:34Z</updated>
+  <content type="html">
+   Orbital mechanics rocketry simulator in Common Lisp
+  </content>
+ </entry>
  <entry>
   <title>dev-nolant: Lispfome</title>
   <author>
@@ -67,97 +145,6 @@
   <updated>2021-11-17T04:50:51Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>g000001: zrdbc</title>
-  <author>
-   <name>g000001</name>
-  </author>
-  <link href="https://github.com/g000001/zrdbc" />
-  <id>urn:rprimus:github:g000001:zrdbc</id>
-  <published>2021-11-16T20:29:05Z</published>
-  <updated>2021-11-16T20:29:05Z</updated>
-  <content type="html">
-   Zillion Random DbC
-  </content>
- </entry>
- <entry>
-  <title>harupiyo: running-krep1-in-browser-using-JSCL</title>
-  <author>
-   <name>harupiyo</name>
-  </author>
-  <link href="https://github.com/harupiyo/running-krep1-in-browser-using-JSCL" />
-  <id>urn:rprimus:github:harupiyo:running-krep1-in-browser-using-JSCL</id>
-  <published>2021-11-16T07:50:30Z</published>
-  <updated>2021-11-16T07:50:30Z</updated>
-  <content type="html">
-   Common Lisp ã®ãµãã»ããå®è£ã§ããJSCL ãä½¿ã£ã¦ãã©ã¦ã¶ã¼ä¸ã§ãå®ç¨Common Lisp by Peter Norvigãã®P.446 14.8ç¯ ã®DTREE ãåããè©¦ã¿ã§ãã
-  </content>
- </entry>
- <entry>
-  <title>harupiyo: trying-common-lisp-web-server</title>
-  <author>
-   <name>harupiyo</name>
-  </author>
-  <link href="https://github.com/harupiyo/trying-common-lisp-web-server" />
-  <id>urn:rprimus:github:harupiyo:trying-common-lisp-web-server</id>
-  <published>2021-11-16T07:29:25Z</published>
-  <updated>2021-11-16T07:29:25Z</updated>
-  <content type="html">
-   Common Lisp ã§Web ã¢ããªã±ã¼ã·ã§ã³ãè¨è¿°ããè©¦ã¿
-  </content>
- </entry>
- <entry>
-  <title>other-otter: thread-party</title>
-  <author>
-   <name>other-otter</name>
-  </author>
-  <link href="https://github.com/other-otter/thread-party" />
-  <id>urn:rprimus:github:other-otter:thread-party</id>
-  <published>2021-11-16T07:16:54Z</published>
-  <updated>2021-11-16T07:16:54Z</updated>
-  <content type="html">
-   easy thread pool with fashionable name
-  </content>
- </entry>
- <entry>
-  <title>rogersi9: Lisp-aux-functions</title>
-  <author>
-   <name>rogersi9</name>
-  </author>
-  <link href="https://github.com/rogersi9/Lisp-aux-functions" />
-  <id>urn:rprimus:github:rogersi9:Lisp-aux-functions</id>
-  <published>2021-11-16T04:16:58Z</published>
-  <updated>2021-11-16T04:16:58Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Gavinok: stumpwm</title>
-  <author>
-   <name>Gavinok</name>
-  </author>
-  <link href="https://github.com/Gavinok/stumpwm" />
-  <id>urn:rprimus:github:Gavinok:stumpwm</id>
-  <published>2021-11-16T03:51:26Z</published>
-  <updated>2021-11-16T03:51:26Z</updated>
-  <content type="html">
-   My stumpwm configuration
-  </content>
- </entry>
- <entry>
-  <title>harupiyo: 26.4.mycin-by-CLOS</title>
-  <author>
-   <name>harupiyo</name>
-  </author>
-  <link href="https://github.com/harupiyo/26.4.mycin-by-CLOS" />
-  <id>urn:rprimus:github:harupiyo:26.4.mycin-by-CLOS</id>
-  <published>2021-11-16T02:39:28Z</published>
-  <updated>2021-11-16T02:39:28Z</updated>
-  <content type="html">
-   https://github.com/cl-aip/mycin ãCLOS ã§å®è£ãã¦ã¿ãè©¦ã¿  æ¸ç±ãCommon Lisp ã¨äººå·¥ç¥è½ãã­ã°ã©ãã³ã°ã http://ontolonomy.co.jp/books/ åé¡ 26.4 ã¸ã®åãçµã¿
   </content>
  </entry>
 </feed>
