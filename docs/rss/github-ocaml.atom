@@ -2,19 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2021-11-19T09:28:47Z</updated>
+<updated>2021-11-20T03:04:49Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
  <entry>
-  <title>daniboube: dlp_p1</title>
+  <title>lucasmoreiradev: ocaml-hello-world</title>
   <author>
-   <name>daniboube</name>
+   <name>lucasmoreiradev</name>
   </author>
-  <link href="https://github.com/daniboube/dlp_p1" />
-  <id>urn:rprimus:github:daniboube:dlp_p1</id>
-  <published>2021-11-19T09:28:47Z</published>
-  <updated>2021-11-19T09:28:47Z</updated>
+  <link href="https://github.com/lucasmoreiradev/ocaml-hello-world" />
+  <id>urn:rprimus:github:lucasmoreiradev:ocaml-hello-world</id>
+  <published>2021-11-20T03:04:49Z</published>
+  <updated>2021-11-20T03:04:49Z</updated>
   <content type="html">
-   Lambda calculus interpreter in Ocaml
+   ðª A simple hello world in OCaml
+  </content>
+ </entry>
+ <entry>
+  <title>dzjones: questlang</title>
+  <author>
+   <name>dzjones</name>
+  </author>
+  <link href="https://github.com/dzjones/questlang" />
+  <id>urn:rprimus:github:dzjones:questlang</id>
+  <published>2021-11-20T00:52:38Z</published>
+  <updated>2021-11-20T00:52:38Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Psyborrg: CMSC330Project4a</title>
+  <author>
+   <name>Psyborrg</name>
+  </author>
+  <link href="https://github.com/Psyborrg/CMSC330Project4a" />
+  <id>urn:rprimus:github:Psyborrg:CMSC330Project4a</id>
+  <published>2021-11-19T22:17:41Z</published>
+  <updated>2021-11-19T22:17:41Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>neel-krishnaswami: proof-checker</title>
+  <author>
+   <name>neel-krishnaswami</name>
+  </author>
+  <link href="https://github.com/neel-krishnaswami/proof-checker" />
+  <id>urn:rprimus:github:neel-krishnaswami:proof-checker</id>
+  <published>2021-11-19T18:21:07Z</published>
+  <updated>2021-11-19T18:21:07Z</updated>
+  <content type="html">
+   A simple proof checker
+  </content>
+ </entry>
+ <entry>
+  <title>vifeng: ML2Typescript</title>
+  <author>
+   <name>vifeng</name>
+  </author>
+  <link href="https://github.com/vifeng/ML2Typescript" />
+  <id>urn:rprimus:github:vifeng:ML2Typescript</id>
+  <published>2021-11-19T12:08:16Z</published>
+  <updated>2021-11-19T12:08:16Z</updated>
+  <content type="html">
+   Le but de ce projet est d&#039;implanter un traducteur pour un fragment de OCaml (que nous appellerons mini-ML) vers TypeScript/JavaScript (norme ES2020).
   </content>
  </entry>
  <entry>
@@ -104,71 +156,6 @@
   <id>urn:rprimus:github:angkanbaidya:OcamllHw</id>
   <published>2021-11-18T00:14:16Z</published>
   <updated>2021-11-18T00:14:16Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>skolemlabs: webauthn</title>
-  <author>
-   <name>skolemlabs</name>
-  </author>
-  <link href="https://github.com/skolemlabs/webauthn" />
-  <id>urn:rprimus:github:skolemlabs:webauthn</id>
-  <published>2021-11-17T21:37:29Z</published>
-  <updated>2021-11-17T21:37:29Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>kamart02: MIMUW_modyfikacja_drzew</title>
-  <author>
-   <name>kamart02</name>
-  </author>
-  <link href="https://github.com/kamart02/MIMUW_modyfikacja_drzew" />
-  <id>urn:rprimus:github:kamart02:MIMUW_modyfikacja_drzew</id>
-  <published>2021-11-17T20:03:24Z</published>
-  <updated>2021-11-17T20:03:24Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>pgervais17: Projet-Ocaml</title>
-  <author>
-   <name>pgervais17</name>
-  </author>
-  <link href="https://github.com/pgervais17/Projet-Ocaml" />
-  <id>urn:rprimus:github:pgervais17:Projet-Ocaml</id>
-  <published>2021-11-17T08:35:55Z</published>
-  <updated>2021-11-17T08:35:55Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>kkshinkai: mini-jvm</title>
-  <author>
-   <name>kkshinkai</name>
-  </author>
-  <link href="https://github.com/kkshinkai/mini-jvm" />
-  <id>urn:rprimus:github:kkshinkai:mini-jvm</id>
-  <published>2021-11-17T03:37:35Z</published>
-  <updated>2021-11-17T03:37:35Z</updated>
-  <content type="html">
-   [WIP] An experimental Java-like language, for learning JVM.
-  </content>
- </entry>
- <entry>
-  <title>melwyn95: core-command-test</title>
-  <author>
-   <name>melwyn95</name>
-  </author>
-  <link href="https://github.com/melwyn95/core-command-test" />
-  <id>urn:rprimus:github:melwyn95:core-command-test</id>
-  <published>2021-11-17T03:29:27Z</published>
-  <updated>2021-11-17T03:29:27Z</updated>
   <content type="html">
    
   </content>

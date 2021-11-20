@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2021-11-18T04:27:27Z</updated>
+<updated>2021-11-19T22:03:48Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>dscottboggs: crystal-log-influx_backend</title>
+  <author>
+   <name>dscottboggs</name>
+  </author>
+  <link href="https://github.com/dscottboggs/crystal-log-influx_backend" />
+  <id>urn:rprimus:github:dscottboggs:crystal-log-influx_backend</id>
+  <published>2021-11-19T22:03:48Z</published>
+  <updated>2021-11-19T22:03:48Z</updated>
+  <content type="html">
+   InfluxDB implementation of Crystal&#039;s Log::Backend
+  </content>
+ </entry>
  <entry>
   <title>drujensen: evolvenet</title>
   <author>
@@ -28,71 +41,6 @@
   <updated>2021-11-18T01:32:36Z</updated>
   <content type="html">
    A library which creates MD2 hashes
-  </content>
- </entry>
- <entry>
-  <title>M3IY0U: ProxerExporter</title>
-  <author>
-   <name>M3IY0U</name>
-  </author>
-  <link href="https://github.com/M3IY0U/ProxerExporter" />
-  <id>urn:rprimus:github:M3IY0U:ProxerExporter</id>
-  <published>2021-11-17T17:53:20Z</published>
-  <updated>2021-11-17T17:53:20Z</updated>
-  <content type="html">
-   *VERY* roughly exports your proxer anime list to xml
-  </content>
- </entry>
- <entry>
-  <title>Sonahit: crystal-server</title>
-  <author>
-   <name>Sonahit</name>
-  </author>
-  <link href="https://github.com/Sonahit/crystal-server" />
-  <id>urn:rprimus:github:Sonahit:crystal-server</id>
-  <published>2021-11-17T11:39:38Z</published>
-  <updated>2021-11-17T11:39:38Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>DocPhillbox: Euclase</title>
-  <author>
-   <name>DocPhillbox</name>
-  </author>
-  <link href="https://github.com/DocPhillbox/Euclase" />
-  <id>urn:rprimus:github:DocPhillbox:Euclase</id>
-  <published>2021-11-17T09:50:38Z</published>
-  <updated>2021-11-17T09:50:38Z</updated>
-  <content type="html">
-   Data pipeline in crystal
-  </content>
- </entry>
- <entry>
-  <title>mamantoha: vk_auth</title>
-  <author>
-   <name>mamantoha</name>
-  </author>
-  <link href="https://github.com/mamantoha/vk_auth" />
-  <id>urn:rprimus:github:mamantoha:vk_auth</id>
-  <published>2021-11-17T08:17:55Z</published>
-  <updated>2021-11-17T08:17:55Z</updated>
-  <content type="html">
-   Crystal library for getting Vk Access Token without manually accessing vk.com website from the browser
-  </content>
- </entry>
- <entry>
-  <title>hamros1: vuejs-crystal-project</title>
-  <author>
-   <name>hamros1</name>
-  </author>
-  <link href="https://github.com/hamros1/vuejs-crystal-project" />
-  <id>urn:rprimus:github:hamros1:vuejs-crystal-project</id>
-  <published>2021-11-17T02:43:27Z</published>
-  <updated>2021-11-17T02:43:27Z</updated>
-  <content type="html">
-   vue.js tailwindcss webpack crystal laboratory experiment !
   </content>
  </entry>
 </feed>
