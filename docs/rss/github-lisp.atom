@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-11-20T04:20:52Z</updated>
+<updated>2021-11-21T08:23:56Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>masatoi: blog</title>
+  <author>
+   <name>masatoi</name>
+  </author>
+  <link href="https://github.com/masatoi/blog" />
+  <id>urn:rprimus:github:masatoi:blog</id>
+  <published>2021-11-21T08:23:56Z</published>
+  <updated>2021-11-21T08:23:56Z</updated>
+  <content type="html">
+   Simple utopian app
+  </content>
+ </entry>
+ <entry>
+  <title>Hadazar: RelojAutocad</title>
+  <author>
+   <name>Hadazar</name>
+  </author>
+  <link href="https://github.com/Hadazar/RelojAutocad" />
+  <id>urn:rprimus:github:Hadazar:RelojAutocad</id>
+  <published>2021-11-20T20:51:44Z</published>
+  <updated>2021-11-20T20:51:44Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Hadazar: PiedraPapelTijera</title>
+  <author>
+   <name>Hadazar</name>
+  </author>
+  <link href="https://github.com/Hadazar/PiedraPapelTijera" />
+  <id>urn:rprimus:github:Hadazar:PiedraPapelTijera</id>
+  <published>2021-11-20T19:02:39Z</published>
+  <updated>2021-11-20T19:02:39Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>topikettunen: licenser</title>
+  <author>
+   <name>topikettunen</name>
+  </author>
+  <link href="https://github.com/topikettunen/licenser" />
+  <id>urn:rprimus:github:topikettunen:licenser</id>
+  <published>2021-11-20T13:48:56Z</published>
+  <updated>2021-11-20T13:48:56Z</updated>
+  <content type="html">
+   Simple CLI licenser
+  </content>
+ </entry>
+ <entry>
+  <title>topikettunen: translate</title>
+  <author>
+   <name>topikettunen</name>
+  </author>
+  <link href="https://github.com/topikettunen/translate" />
+  <id>urn:rprimus:github:topikettunen:translate</id>
+  <published>2021-11-20T13:31:04Z</published>
+  <updated>2021-11-20T13:31:04Z</updated>
+  <content type="html">
+   CLI to the Google Translate API
+  </content>
+ </entry>
+ <entry>
+  <title>topikettunen: vokaabeli</title>
+  <author>
+   <name>topikettunen</name>
+  </author>
+  <link href="https://github.com/topikettunen/vokaabeli" />
+  <id>urn:rprimus:github:topikettunen:vokaabeli</id>
+  <published>2021-11-20T13:28:34Z</published>
+  <updated>2021-11-20T13:28:34Z</updated>
+  <content type="html">
+   Simple web application for generating writing exercises
+  </content>
+ </entry>
  <entry>
   <title>harupiyo: time-calculator</title>
   <author>
@@ -67,84 +145,6 @@
   <updated>2021-11-19T01:23:01Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>uAugustoVR: zubber-lisp</title>
-  <author>
-   <name>uAugustoVR</name>
-  </author>
-  <link href="https://github.com/uAugustoVR/zubber-lisp" />
-  <id>urn:rprimus:github:uAugustoVR:zubber-lisp</id>
-  <published>2021-11-18T18:56:54Z</published>
-  <updated>2021-11-18T18:56:54Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>CheesyModz: Lisp-Time-Complexity</title>
-  <author>
-   <name>CheesyModz</name>
-  </author>
-  <link href="https://github.com/CheesyModz/Lisp-Time-Complexity" />
-  <id>urn:rprimus:github:CheesyModz:Lisp-Time-Complexity</id>
-  <published>2021-11-18T17:32:35Z</published>
-  <updated>2021-11-18T17:32:35Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Nonameentered: lisp-recursion-example</title>
-  <author>
-   <name>Nonameentered</name>
-  </author>
-  <link href="https://github.com/Nonameentered/lisp-recursion-example" />
-  <id>urn:rprimus:github:Nonameentered:lisp-recursion-example</id>
-  <published>2021-11-18T14:09:18Z</published>
-  <updated>2021-11-18T14:09:18Z</updated>
-  <content type="html">
-   Lisp Problem Solver from 2019 AI with Lisp class
-  </content>
- </entry>
- <entry>
-  <title>minusmaterial: htmaker</title>
-  <author>
-   <name>minusmaterial</name>
-  </author>
-  <link href="https://github.com/minusmaterial/htmaker" />
-  <id>urn:rprimus:github:minusmaterial:htmaker</id>
-  <published>2021-11-18T11:13:56Z</published>
-  <updated>2021-11-18T11:13:56Z</updated>
-  <content type="html">
-   A static website generator in Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>minusmaterial: comp-phys</title>
-  <author>
-   <name>minusmaterial</name>
-  </author>
-  <link href="https://github.com/minusmaterial/comp-phys" />
-  <id>urn:rprimus:github:minusmaterial:comp-phys</id>
-  <published>2021-11-18T10:55:34Z</published>
-  <updated>2021-11-18T10:55:34Z</updated>
-  <content type="html">
-   Orbital mechanics rocketry simulator in Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>dev-nolant: Lispfome</title>
-  <author>
-   <name>dev-nolant</name>
-  </author>
-  <link href="https://github.com/dev-nolant/Lispfome" />
-  <id>urn:rprimus:github:dev-nolant:Lispfome</id>
-  <published>2021-11-18T07:19:54Z</published>
-  <updated>2021-11-18T07:19:54Z</updated>
-  <content type="html">
-   Combination of my lisp programs :) Expect terrifying results
   </content>
  </entry>
 </feed>
