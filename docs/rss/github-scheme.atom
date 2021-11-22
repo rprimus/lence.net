@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-scheme.atom"/>
 <id>urn:rprimus:github:newschemerepos</id>
-<updated>2021-11-20T18:47:44Z</updated>
+<updated>2021-11-22T01:58:17Z</updated>
 <title type='text'>New GitHub Scheme Repos</title>
+ <entry>
+  <title>KevinKusiak: dotfiles</title>
+  <author>
+   <name>KevinKusiak</name>
+  </author>
+  <link href="https://github.com/KevinKusiak/dotfiles" />
+  <id>urn:rprimus:github:KevinKusiak:dotfiles</id>
+  <published>2021-11-22T01:58:17Z</published>
+  <updated>2021-11-22T01:58:17Z</updated>
+  <content type="html">
+   Arch dotfiles
+  </content>
+ </entry>
+ <entry>
+  <title>smchunn: CS-403-A7</title>
+  <author>
+   <name>smchunn</name>
+  </author>
+  <link href="https://github.com/smchunn/CS-403-A7" />
+  <id>urn:rprimus:github:smchunn:CS-403-A7</id>
+  <published>2021-11-22T01:43:06Z</published>
+  <updated>2021-11-22T01:43:06Z</updated>
+  <content type="html">
+   CS 403 - Fall 21 - Assignment 7
+  </content>
+ </entry>
+ <entry>
+  <title>dlozeve: fancy-chicken</title>
+  <author>
+   <name>dlozeve</name>
+  </author>
+  <link href="https://github.com/dlozeve/fancy-chicken" />
+  <id>urn:rprimus:github:dlozeve:fancy-chicken</id>
+  <published>2021-11-21T21:10:54Z</published>
+  <updated>2021-11-21T21:10:54Z</updated>
+  <content type="html">
+    Fancy pretty-printing utilities for CHICKEN Scheme 
+  </content>
+ </entry>
+ <entry>
+  <title>mgryniak: mgr-dev-desktop</title>
+  <author>
+   <name>mgryniak</name>
+  </author>
+  <link href="https://github.com/mgryniak/mgr-dev-desktop" />
+  <id>urn:rprimus:github:mgryniak:mgr-dev-desktop</id>
+  <published>2021-11-21T17:33:56Z</published>
+  <updated>2021-11-21T17:33:56Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>hoodielive: orun</title>
   <author>
@@ -41,6 +93,19 @@
   <updated>2021-11-20T15:36:28Z</updated>
   <content type="html">
    Re-analysis of data from https://doi.org/10.1038/nn.3695
+  </content>
+ </entry>
+ <entry>
+  <title>alemuller: tree-sitter-silq</title>
+  <author>
+   <name>alemuller</name>
+  </author>
+  <link href="https://github.com/alemuller/tree-sitter-silq" />
+  <id>urn:rprimus:github:alemuller:tree-sitter-silq</id>
+  <published>2021-11-20T13:42:56Z</published>
+  <updated>2021-11-20T13:42:56Z</updated>
+  <content type="html">
+   Silq grammar for tree-sitter
   </content>
  </entry>
  <entry>
@@ -301,19 +366,6 @@
   <updated>2021-11-20T00:19:14Z</updated>
   <content type="html">
    guix config
-  </content>
- </entry>
- <entry>
-  <title>abcdw: guix-clojure</title>
-  <author>
-   <name>abcdw</name>
-  </author>
-  <link href="https://github.com/abcdw/guix-clojure" />
-  <id>urn:rprimus:github:abcdw:guix-clojure</id>
-  <published>2021-11-19T10:08:11Z</published>
-  <updated>2021-11-19T10:08:11Z</updated>
-  <content type="html">
-   Template clj/cljs project managed by Guix
   </content>
  </entry>
 </feed>

@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2021-11-21T01:03:07Z</updated>
+<updated>2021-11-22T09:34:29Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>syalon: crystal-cityhash</title>
+  <author>
+   <name>syalon</name>
+  </author>
+  <link href="https://github.com/syalon/crystal-cityhash" />
+  <id>urn:rprimus:github:syalon:crystal-cityhash</id>
+  <published>2021-11-22T09:34:29Z</published>
+  <updated>2021-11-22T09:34:29Z</updated>
+  <content type="html">
+   crystal lang binding for cityhash.
+  </content>
+ </entry>
+ <entry>
+  <title>chillfox: cryptic-memory</title>
+  <author>
+   <name>chillfox</name>
+  </author>
+  <link href="https://github.com/chillfox/cryptic-memory" />
+  <id>urn:rprimus:github:chillfox:cryptic-memory</id>
+  <published>2021-11-22T04:08:49Z</published>
+  <updated>2021-11-22T04:08:49Z</updated>
+  <content type="html">
+   Encrypted notes app
+  </content>
+ </entry>
+ <entry>
+  <title>matthewmcgarvey: lucky_avram</title>
+  <author>
+   <name>matthewmcgarvey</name>
+  </author>
+  <link href="https://github.com/matthewmcgarvey/lucky_avram" />
+  <id>urn:rprimus:github:matthewmcgarvey:lucky_avram</id>
+  <published>2021-11-22T01:54:03Z</published>
+  <updated>2021-11-22T01:54:03Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>jubishop: voteshark</title>
+  <author>
+   <name>jubishop</name>
+  </author>
+  <link href="https://github.com/jubishop/voteshark" />
+  <id>urn:rprimus:github:jubishop:voteshark</id>
+  <published>2021-11-21T21:30:26Z</published>
+  <updated>2021-11-21T21:30:26Z</updated>
+  <content type="html">
+   Votes, polls, surveys, etc.  Everything a small democracy needs.
+  </content>
+ </entry>
  <entry>
   <title>wildechu23: Aloe</title>
   <author>
@@ -54,19 +106,6 @@
   <updated>2021-11-20T12:10:43Z</updated>
   <content type="html">
    A library for working with LIFO like data structures (stacks, queues).
-  </content>
- </entry>
- <entry>
-  <title>dscottboggs: crystal-log-influx_backend</title>
-  <author>
-   <name>dscottboggs</name>
-  </author>
-  <link href="https://github.com/dscottboggs/crystal-log-influx_backend" />
-  <id>urn:rprimus:github:dscottboggs:crystal-log-influx_backend</id>
-  <published>2021-11-19T22:03:48Z</published>
-  <updated>2021-11-19T22:03:48Z</updated>
-  <content type="html">
-   InfluxDB implementation of Crystal&#039;s Log::Backend
   </content>
  </entry>
 </feed>
