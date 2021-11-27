@@ -2,8 +2,255 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-perl.atom"/>
 <id>urn:rprimus:github:newperlrepos</id>
-<updated>2021-11-26T08:50:26Z</updated>
+<updated>2021-11-27T09:43:25Z</updated>
 <title type='text'>New GitHub Perl Repos</title>
+ <entry>
+  <title>Anatoly1321: calculator</title>
+  <author>
+   <name>Anatoly1321</name>
+  </author>
+  <link href="https://github.com/Anatoly1321/calculator" />
+  <id>urn:rprimus:github:Anatoly1321:calculator</id>
+  <published>2021-11-27T09:43:25Z</published>
+  <updated>2021-11-27T09:43:25Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>xtetsuji: colorful-scripts</title>
+  <author>
+   <name>xtetsuji</name>
+  </author>
+  <link href="https://github.com/xtetsuji/colorful-scripts" />
+  <id>urn:rprimus:github:xtetsuji:colorful-scripts</id>
+  <published>2021-11-27T07:48:48Z</published>
+  <updated>2021-11-27T07:48:48Z</updated>
+  <content type="html">
+   Terminal coloring scripts
+  </content>
+ </entry>
+ <entry>
+  <title>Alipe2021: gwas_pipeline</title>
+  <author>
+   <name>Alipe2021</name>
+  </author>
+  <link href="https://github.com/Alipe2021/gwas_pipeline" />
+  <id>urn:rprimus:github:Alipe2021:gwas_pipeline</id>
+  <published>2021-11-27T06:22:17Z</published>
+  <updated>2021-11-27T06:22:17Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Kong3333: passfb</title>
+  <author>
+   <name>Kong3333</name>
+  </author>
+  <link href="https://github.com/Kong3333/passfb" />
+  <id>urn:rprimus:github:Kong3333:passfb</id>
+  <published>2021-11-27T05:17:57Z</published>
+  <updated>2021-11-27T05:17:57Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>picolix: 2to2</title>
+  <author>
+   <name>picolix</name>
+  </author>
+  <link href="https://github.com/picolix/2to2" />
+  <id>urn:rprimus:github:picolix:2to2</id>
+  <published>2021-11-27T04:51:02Z</published>
+  <updated>2021-11-27T04:51:02Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>canidlogic: bark</title>
+  <author>
+   <name>canidlogic</name>
+  </author>
+  <link href="https://github.com/canidlogic/bark" />
+  <id>urn:rprimus:github:canidlogic:bark</id>
+  <published>2021-11-26T21:56:30Z</published>
+  <updated>2021-11-26T21:56:30Z</updated>
+  <content type="html">
+   Compound text format
+  </content>
+ </entry>
+ <entry>
+  <title>alanmh: alan_introprog21</title>
+  <author>
+   <name>alanmh</name>
+  </author>
+  <link href="https://github.com/alanmh/alan_introprog21" />
+  <id>urn:rprimus:github:alanmh:alan_introprog21</id>
+  <published>2021-11-26T21:10:16Z</published>
+  <updated>2021-11-26T21:10:16Z</updated>
+  <content type="html">
+   Scripts created for the Perl course
+  </content>
+ </entry>
+ <entry>
+  <title>philippe-nave: playtime</title>
+  <author>
+   <name>philippe-nave</name>
+  </author>
+  <link href="https://github.com/philippe-nave/playtime" />
+  <id>urn:rprimus:github:philippe-nave:playtime</id>
+  <published>2021-11-26T20:51:13Z</published>
+  <updated>2021-11-26T20:51:13Z</updated>
+  <content type="html">
+   Fiddle around with time objects and time zones in a Perl script, including playing with epoch time and conversions
+  </content>
+ </entry>
+ <entry>
+  <title>shiauck: VEnAS</title>
+  <author>
+   <name>shiauck</name>
+  </author>
+  <link href="https://github.com/shiauck/VEnAS" />
+  <id>urn:rprimus:github:shiauck:VEnAS</id>
+  <published>2021-11-26T20:35:08Z</published>
+  <updated>2021-11-26T20:35:08Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Perceptyx: perl-opentracing-globaltracer</title>
+  <author>
+   <name>Perceptyx</name>
+  </author>
+  <link href="https://github.com/Perceptyx/perl-opentracing-globaltracer" />
+  <id>urn:rprimus:github:Perceptyx:perl-opentracing-globaltracer</id>
+  <published>2021-11-26T15:05:45Z</published>
+  <updated>2021-11-26T15:05:45Z</updated>
+  <content type="html">
+   Easy access to the OpenTracing Singleton
+  </content>
+ </entry>
+ <entry>
+  <title>Perceptyx: perl-test-opentracing-interface</title>
+  <author>
+   <name>Perceptyx</name>
+  </author>
+  <link href="https://github.com/Perceptyx/perl-test-opentracing-interface" />
+  <id>urn:rprimus:github:Perceptyx:perl-test-opentracing-interface</id>
+  <published>2021-11-26T14:47:58Z</published>
+  <updated>2021-11-26T14:47:58Z</updated>
+  <content type="html">
+   Part of the OpenTracing test-framework , for testing if implementations actually are compliant with the Perl OpenTracing Interface.  Provides tests like interface_can_ok, interface_lives_ok, and interface_fails_ok
+  </content>
+ </entry>
+ <entry>
+  <title>Perceptyx: perl-test-opentracing-integration</title>
+  <author>
+   <name>Perceptyx</name>
+  </author>
+  <link href="https://github.com/Perceptyx/perl-test-opentracing-integration" />
+  <id>urn:rprimus:github:Perceptyx:perl-test-opentracing-integration</id>
+  <published>2021-11-26T14:33:33Z</published>
+  <updated>2021-11-26T14:33:33Z</updated>
+  <content type="html">
+   Making integration testing easy - for you only care about traces being generated
+  </content>
+ </entry>
+ <entry>
+  <title>FOI-Bioinformatics: useful-scripts</title>
+  <author>
+   <name>FOI-Bioinformatics</name>
+  </author>
+  <link href="https://github.com/FOI-Bioinformatics/useful-scripts" />
+  <id>urn:rprimus:github:FOI-Bioinformatics:useful-scripts</id>
+  <published>2021-11-26T14:32:11Z</published>
+  <updated>2021-11-26T14:32:11Z</updated>
+  <content type="html">
+   A collection of useful scripts
+  </content>
+ </entry>
+ <entry>
+  <title>Perceptyx: perl-cgi-application-plugin-opentracing-datadog</title>
+  <author>
+   <name>Perceptyx</name>
+  </author>
+  <link href="https://github.com/Perceptyx/perl-cgi-application-plugin-opentracing-datadog" />
+  <id>urn:rprimus:github:Perceptyx:perl-cgi-application-plugin-opentracing-datadog</id>
+  <published>2021-11-26T14:11:49Z</published>
+  <updated>2021-11-26T14:11:49Z</updated>
+  <content type="html">
+   A convenient way of enabling OpenTracing with DataDog for CGI Applications
+  </content>
+ </entry>
+ <entry>
+  <title>Perceptyx: perl-cgi-application-plugin-opentracing</title>
+  <author>
+   <name>Perceptyx</name>
+  </author>
+  <link href="https://github.com/Perceptyx/perl-cgi-application-plugin-opentracing" />
+  <id>urn:rprimus:github:Perceptyx:perl-cgi-application-plugin-opentracing</id>
+  <published>2021-11-26T13:22:45Z</published>
+  <updated>2021-11-26T13:22:45Z</updated>
+  <content type="html">
+   A Plugin for CGI Applications that will add OpenTracing capabilities.
+  </content>
+ </entry>
+ <entry>
+  <title>Perceptyx: perl-log-log4perl-opentracing</title>
+  <author>
+   <name>Perceptyx</name>
+  </author>
+  <link href="https://github.com/Perceptyx/perl-log-log4perl-opentracing" />
+  <id>urn:rprimus:github:Perceptyx:perl-log-log4perl-opentracing</id>
+  <published>2021-11-26T13:06:23Z</published>
+  <updated>2021-11-26T13:06:23Z</updated>
+  <content type="html">
+   Perl - Log4perl with OpenTracing 
+  </content>
+ </entry>
+ <entry>
+  <title>BayuSJW: Katacoda-Retard</title>
+  <author>
+   <name>BayuSJW</name>
+  </author>
+  <link href="https://github.com/BayuSJW/Katacoda-Retard" />
+  <id>urn:rprimus:github:BayuSJW:Katacoda-Retard</id>
+  <published>2021-11-26T11:39:08Z</published>
+  <updated>2021-11-26T11:39:08Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>SFUMECJF: moss</title>
+  <author>
+   <name>SFUMECJF</name>
+  </author>
+  <link href="https://github.com/SFUMECJF/moss" />
+  <id>urn:rprimus:github:SFUMECJF:moss</id>
+  <published>2021-11-26T11:14:04Z</published>
+  <updated>2021-11-26T11:14:04Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Perceptyx: perl-dbix-opentracing</title>
+  <author>
+   <name>Perceptyx</name>
+  </author>
+  <link href="https://github.com/Perceptyx/perl-dbix-opentracing" />
+  <id>urn:rprimus:github:Perceptyx:perl-dbix-opentracing</id>
+  <published>2021-11-26T11:03:33Z</published>
+  <updated>2021-11-26T11:03:33Z</updated>
+  <content type="html">
+   Perl - DBIx OpenTracing
+  </content>
+ </entry>
  <entry>
   <title>m96dg: vulnerable_docker_smtp</title>
   <author>
@@ -18,12 +265,12 @@
   </content>
  </entry>
  <entry>
-  <title>Aswin-shok: MicroRNA-target-gene-prediction-using-Tarbase</title>
+  <title>Aswin-shok: MicroRNA-target-gene-prediction-using-Tarbase-database</title>
   <author>
    <name>Aswin-shok</name>
   </author>
-  <link href="https://github.com/Aswin-shok/MicroRNA-target-gene-prediction-using-Tarbase" />
-  <id>urn:rprimus:github:Aswin-shok:MicroRNA-target-gene-prediction-using-Tarbase</id>
+  <link href="https://github.com/Aswin-shok/MicroRNA-target-gene-prediction-using-Tarbase-database" />
+  <id>urn:rprimus:github:Aswin-shok:MicroRNA-target-gene-prediction-using-Tarbase-database</id>
   <published>2021-11-26T06:43:11Z</published>
   <updated>2021-11-26T06:43:11Z</updated>
   <content type="html">
@@ -314,201 +561,6 @@
   <updated>2021-11-25T01:11:18Z</updated>
   <content type="html">
    Common self-written script files
-  </content>
- </entry>
- <entry>
-  <title>XSenaps: prova</title>
-  <author>
-   <name>XSenaps</name>
-  </author>
-  <link href="https://github.com/XSenaps/prova" />
-  <id>urn:rprimus:github:XSenaps:prova</id>
-  <published>2021-11-24T23:41:24Z</published>
-  <updated>2021-11-24T23:41:24Z</updated>
-  <content type="html">
-   prova
-  </content>
- </entry>
- <entry>
-  <title>Fredericok: github-course</title>
-  <author>
-   <name>Fredericok</name>
-  </author>
-  <link href="https://github.com/Fredericok/github-course" />
-  <id>urn:rprimus:github:Fredericok:github-course</id>
-  <published>2021-11-24T23:33:34Z</published>
-  <updated>2021-11-24T23:33:34Z</updated>
-  <content type="html">
-   Um repositÃ³rio simples para o git.
-  </content>
- </entry>
- <entry>
-  <title>jkeenan: lexical-var-patched</title>
-  <author>
-   <name>jkeenan</name>
-  </author>
-  <link href="https://github.com/jkeenan/lexical-var-patched" />
-  <id>urn:rprimus:github:jkeenan:lexical-var-patched</id>
-  <published>2021-11-24T23:25:00Z</published>
-  <updated>2021-11-24T23:25:00Z</updated>
-  <content type="html">
-   CPAN distribution Lexical-Var with one patch
-  </content>
- </entry>
- <entry>
-  <title>dantheman84: QERunquake</title>
-  <author>
-   <name>dantheman84</name>
-  </author>
-  <link href="https://github.com/dantheman84/QERunquake" />
-  <id>urn:rprimus:github:dantheman84:QERunquake</id>
-  <published>2021-11-24T22:31:42Z</published>
-  <updated>2021-11-24T22:31:42Z</updated>
-  <content type="html">
-   Rune quake working with QE
-  </content>
- </entry>
- <entry>
-  <title>castaway: flipdot-hanover-display</title>
-  <author>
-   <name>castaway</name>
-  </author>
-  <link href="https://github.com/castaway/flipdot-hanover-display" />
-  <id>urn:rprimus:github:castaway:flipdot-hanover-display</id>
-  <published>2021-11-24T19:29:07Z</published>
-  <updated>2021-11-24T19:29:07Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>useruser1985official: Perl</title>
-  <author>
-   <name>useruser1985official</name>
-  </author>
-  <link href="https://github.com/useruser1985official/Perl" />
-  <id>urn:rprimus:github:useruser1985official:Perl</id>
-  <published>2021-11-24T17:56:28Z</published>
-  <updated>2021-11-24T17:56:28Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>adarsh8878: inshare-xy</title>
-  <author>
-   <name>adarsh8878</name>
-  </author>
-  <link href="https://github.com/adarsh8878/inshare-xy" />
-  <id>urn:rprimus:github:adarsh8878:inshare-xy</id>
-  <published>2021-11-24T17:26:14Z</published>
-  <updated>2021-11-24T17:26:14Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>mata56-ic-ufba: prolog</title>
-  <author>
-   <name>mata56-ic-ufba</name>
-  </author>
-  <link href="https://github.com/mata56-ic-ufba/prolog" />
-  <id>urn:rprimus:github:mata56-ic-ufba:prolog</id>
-  <published>2021-11-24T16:28:06Z</published>
-  <updated>2021-11-24T16:28:06Z</updated>
-  <content type="html">
-   ExercÃ­cios e respostas em Prolog
-  </content>
- </entry>
- <entry>
-  <title>Computational-conSequences: Klebsiella-sorting</title>
-  <author>
-   <name>Computational-conSequences</name>
-  </author>
-  <link href="https://github.com/Computational-conSequences/Klebsiella-sorting" />
-  <id>urn:rprimus:github:Computational-conSequences:Klebsiella-sorting</id>
-  <published>2021-11-24T16:11:47Z</published>
-  <updated>2021-11-24T16:11:47Z</updated>
-  <content type="html">
-   Scripts for dealing with Klebsiella pangenomes
-  </content>
- </entry>
- <entry>
-  <title>Bandita1312: Project-2</title>
-  <author>
-   <name>Bandita1312</name>
-  </author>
-  <link href="https://github.com/Bandita1312/Project-2" />
-  <id>urn:rprimus:github:Bandita1312:Project-2</id>
-  <published>2021-11-24T15:09:28Z</published>
-  <updated>2021-11-24T15:09:28Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>chicagoist: own-tasks-of-regex-perl</title>
-  <author>
-   <name>chicagoist</name>
-  </author>
-  <link href="https://github.com/chicagoist/own-tasks-of-regex-perl" />
-  <id>urn:rprimus:github:chicagoist:own-tasks-of-regex-perl</id>
-  <published>2021-11-24T14:17:52Z</published>
-  <updated>2021-11-24T14:17:52Z</updated>
-  <content type="html">
-   Ð ÐµÑÐµÐ½Ð¸Ðµ Ð·Ð°Ð´Ð°Ñ Ð¸Ð· ÑÑÐµÐ±Ð½Ð¸ÐºÐ° Ð¿Ð¾ ÑÐµÐ³ÑÐ»ÑÑÐ½ÑÐ¼ Ð²ÑÑÐ°Ð¶ÐµÐ½Ð¸ÑÐ¼ Ð´Ð»Ñ Perl
-  </content>
- </entry>
- <entry>
-  <title>MaxPsm: Perl-stuff</title>
-  <author>
-   <name>MaxPsm</name>
-  </author>
-  <link href="https://github.com/MaxPsm/Perl-stuff" />
-  <id>urn:rprimus:github:MaxPsm:Perl-stuff</id>
-  <published>2021-11-24T12:58:54Z</published>
-  <updated>2021-11-24T12:58:54Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>alexghz81: polisp</title>
-  <author>
-   <name>alexghz81</name>
-  </author>
-  <link href="https://github.com/alexghz81/polisp" />
-  <id>urn:rprimus:github:alexghz81:polisp</id>
-  <published>2021-11-24T06:59:44Z</published>
-  <updated>2021-11-24T06:59:44Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>whitehatqq: test</title>
-  <author>
-   <name>whitehatqq</name>
-  </author>
-  <link href="https://github.com/whitehatqq/test" />
-  <id>urn:rprimus:github:whitehatqq:test</id>
-  <published>2021-11-24T05:21:23Z</published>
-  <updated>2021-11-24T05:21:23Z</updated>
-  <content type="html">
-   testtelegrambot
-  </content>
- </entry>
- <entry>
-  <title>jaysteiner-dev: royal-family-coding-challenge</title>
-  <author>
-   <name>jaysteiner-dev</name>
-  </author>
-  <link href="https://github.com/jaysteiner-dev/royal-family-coding-challenge" />
-  <id>urn:rprimus:github:jaysteiner-dev:royal-family-coding-challenge</id>
-  <published>2021-11-24T03:48:23Z</published>
-  <updated>2021-11-24T03:48:23Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>

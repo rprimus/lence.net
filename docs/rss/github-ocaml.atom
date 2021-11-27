@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2021-11-26T10:05:41Z</updated>
+<updated>2021-11-26T20:38:48Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>mwhicks1: C3</title>
+  <author>
+   <name>mwhicks1</name>
+  </author>
+  <link href="https://github.com/mwhicks1/C3" />
+  <id>urn:rprimus:github:mwhicks1:C3</id>
+  <published>2021-11-26T20:38:48Z</published>
+  <updated>2021-11-26T20:38:48Z</updated>
+  <content type="html">
+   Reverting Checked C annotations
+  </content>
+ </entry>
+ <entry>
+  <title>LiamPack: Purely-Functional-Data-Structures-solutions-OCaml</title>
+  <author>
+   <name>LiamPack</name>
+  </author>
+  <link href="https://github.com/LiamPack/Purely-Functional-Data-Structures-solutions-OCaml" />
+  <id>urn:rprimus:github:LiamPack:Purely-Functional-Data-Structures-solutions-OCaml</id>
+  <published>2021-11-26T20:27:59Z</published>
+  <updated>2021-11-26T20:27:59Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>protosam: vpnkit-build</title>
+  <author>
+   <name>protosam</name>
+  </author>
+  <link href="https://github.com/protosam/vpnkit-build" />
+  <id>urn:rprimus:github:protosam:vpnkit-build</id>
+  <published>2021-11-26T19:13:34Z</published>
+  <updated>2021-11-26T19:13:34Z</updated>
+  <content type="html">
+   trying to build vpnkit withg github actions
+  </content>
+ </entry>
+ <entry>
+  <title>tachukao: ocaml-mujoco</title>
+  <author>
+   <name>tachukao</name>
+  </author>
+  <link href="https://github.com/tachukao/ocaml-mujoco" />
+  <id>urn:rprimus:github:tachukao:ocaml-mujoco</id>
+  <published>2021-11-26T18:43:12Z</published>
+  <updated>2021-11-26T18:43:12Z</updated>
+  <content type="html">
+   OCaml bindings to MuJoCo
+  </content>
+ </entry>
+ <entry>
+  <title>releaselab: michelson-adt</title>
+  <author>
+   <name>releaselab</name>
+  </author>
+  <link href="https://github.com/releaselab/michelson-adt" />
+  <id>urn:rprimus:github:releaselab:michelson-adt</id>
+  <published>2021-11-26T15:43:08Z</published>
+  <updated>2021-11-26T15:43:08Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>SimonForest: ladja</title>
+  <author>
+   <name>SimonForest</name>
+  </author>
+  <link href="https://github.com/SimonForest/ladja" />
+  <id>urn:rprimus:github:SimonForest:ladja</id>
+  <published>2021-11-26T12:51:35Z</published>
+  <updated>2021-11-26T12:51:35Z</updated>
+  <content type="html">
+   A left adjointness assistant library
+  </content>
+ </entry>
  <entry>
   <title>leejy0321: OCaml</title>
   <author>
@@ -18,6 +96,19 @@
   </content>
  </entry>
  <entry>
+  <title>marineschimel: ilqr_vae</title>
+  <author>
+   <name>marineschimel</name>
+  </author>
+  <link href="https://github.com/marineschimel/ilqr_vae" />
+  <id>urn:rprimus:github:marineschimel:ilqr_vae</id>
+  <published>2021-11-26T09:59:08Z</published>
+  <updated>2021-11-26T09:59:08Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
   <title>luke36: ToyBasic</title>
   <author>
    <name>luke36</name>
@@ -27,7 +118,7 @@
   <published>2021-11-26T08:34:12Z</published>
   <updated>2021-11-26T08:34:12Z</updated>
   <content type="html">
-   
+   A minimal Basic interpreter.
   </content>
  </entry>
  <entry>
@@ -145,110 +236,6 @@
   <updated>2021-11-25T00:43:41Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>janestreet: fuzzy_match</title>
-  <author>
-   <name>janestreet</name>
-  </author>
-  <link href="https://github.com/janestreet/fuzzy_match" />
-  <id>urn:rprimus:github:janestreet:fuzzy_match</id>
-  <published>2021-11-24T17:24:30Z</published>
-  <updated>2021-11-24T17:24:30Z</updated>
-  <content type="html">
-   A library for fuzzy string matching
-  </content>
- </entry>
- <entry>
-  <title>janestreet: core_compat</title>
-  <author>
-   <name>janestreet</name>
-  </author>
-  <link href="https://github.com/janestreet/core_compat" />
-  <id>urn:rprimus:github:janestreet:core_compat</id>
-  <published>2021-11-24T17:24:29Z</published>
-  <updated>2021-11-24T17:24:29Z</updated>
-  <content type="html">
-   Compatibility for core 0.14
-  </content>
- </entry>
- <entry>
-  <title>forked-from-1kasper: general-recursive-functions</title>
-  <author>
-   <name>forked-from-1kasper</name>
-  </author>
-  <link href="https://github.com/forked-from-1kasper/general-recursive-functions" />
-  <id>urn:rprimus:github:forked-from-1kasper:general-recursive-functions</id>
-  <published>2021-11-24T13:28:36Z</published>
-  <updated>2021-11-24T13:28:36Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>l3alr0g: RAT-compiler</title>
-  <author>
-   <name>l3alr0g</name>
-  </author>
-  <link href="https://github.com/l3alr0g/RAT-compiler" />
-  <id>urn:rprimus:github:l3alr0g:RAT-compiler</id>
-  <published>2021-11-24T13:25:33Z</published>
-  <updated>2021-11-24T13:25:33Z</updated>
-  <content type="html">
-   A neat little compiler that mostly compiles rats
-  </content>
- </entry>
- <entry>
-  <title>ocaml-flambda: ocaml-jst</title>
-  <author>
-   <name>ocaml-flambda</name>
-  </author>
-  <link href="https://github.com/ocaml-flambda/ocaml-jst" />
-  <id>urn:rprimus:github:ocaml-flambda:ocaml-jst</id>
-  <published>2021-11-24T12:47:48Z</published>
-  <updated>2021-11-24T12:47:48Z</updated>
-  <content type="html">
-   OCaml plus Jane Street extensions
-  </content>
- </entry>
- <entry>
-  <title>Reptron: f28pl-2021-22-ocaml-coursework-main</title>
-  <author>
-   <name>Reptron</name>
-  </author>
-  <link href="https://github.com/Reptron/f28pl-2021-22-ocaml-coursework-main" />
-  <id>urn:rprimus:github:Reptron:f28pl-2021-22-ocaml-coursework-main</id>
-  <published>2021-11-24T12:05:08Z</published>
-  <updated>2021-11-24T12:05:08Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>KageyamaRuka: cs3110_notebook</title>
-  <author>
-   <name>KageyamaRuka</name>
-  </author>
-  <link href="https://github.com/KageyamaRuka/cs3110_notebook" />
-  <id>urn:rprimus:github:KageyamaRuka:cs3110_notebook</id>
-  <published>2021-11-24T06:55:38Z</published>
-  <updated>2021-11-24T06:55:38Z</updated>
-  <content type="html">
-   CS3110 exercises
-  </content>
- </entry>
- <entry>
-  <title>mjm2000: programming_lang</title>
-  <author>
-   <name>mjm2000</name>
-  </author>
-  <link href="https://github.com/mjm2000/programming_lang" />
-  <id>urn:rprimus:github:mjm2000:programming_lang</id>
-  <published>2021-11-24T00:30:53Z</published>
-  <updated>2021-11-24T00:30:53Z</updated>
-  <content type="html">
-   A simple parser
   </content>
  </entry>
 </feed>
