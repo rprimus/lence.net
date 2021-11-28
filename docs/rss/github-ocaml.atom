@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2021-11-27T11:29:06Z</updated>
+<updated>2021-11-28T00:35:32Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>nejohnston: annealing-tsp</title>
+  <author>
+   <name>nejohnston</name>
+  </author>
+  <link href="https://github.com/nejohnston/annealing-tsp" />
+  <id>urn:rprimus:github:nejohnston:annealing-tsp</id>
+  <published>2021-11-28T00:35:32Z</published>
+  <updated>2021-11-28T00:35:32Z</updated>
+  <content type="html">
+   Solving traveling salesperson problem with simulated annealing in OCaml.
+  </content>
+ </entry>
+ <entry>
+  <title>AlexisDel: DM_Compil</title>
+  <author>
+   <name>AlexisDel</name>
+  </author>
+  <link href="https://github.com/AlexisDel/DM_Compil" />
+  <id>urn:rprimus:github:AlexisDel:DM_Compil</id>
+  <published>2021-11-27T23:13:27Z</published>
+  <updated>2021-11-27T23:13:27Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>mb64: simple-lambda-prolog</title>
+  <author>
+   <name>mb64</name>
+  </author>
+  <link href="https://github.com/mb64/simple-lambda-prolog" />
+  <id>urn:rprimus:github:mb64:simple-lambda-prolog</id>
+  <published>2021-11-27T22:30:54Z</published>
+  <updated>2021-11-27T22:30:54Z</updated>
+  <content type="html">
+   A simple Î»Prolog interpreter
+  </content>
+ </entry>
+ <entry>
+  <title>Siryus18: Set-ML</title>
+  <author>
+   <name>Siryus18</name>
+  </author>
+  <link href="https://github.com/Siryus18/Set-ML" />
+  <id>urn:rprimus:github:Siryus18:Set-ML</id>
+  <published>2021-11-27T20:15:16Z</published>
+  <updated>2021-11-27T20:15:16Z</updated>
+  <content type="html">
+   A simple didactic functional language, extended to work on set data structures. Part of a &quot;Programming II&quot; project for University of Pisa.
+  </content>
+ </entry>
  <entry>
   <title>khiem2105: Ocaml-Project</title>
   <author>
@@ -158,110 +210,6 @@
   <updated>2021-11-26T06:25:17Z</updated>
   <content type="html">
    This program is designed to test different parameters for a simulated virus, such as ease of infection, and measure the effects across populations. The addition of a zombie population was included for fun. Code derived as a part of Harvard&#039;s CS51 class
-  </content>
- </entry>
- <entry>
-  <title>tatchi: outline-repro</title>
-  <author>
-   <name>tatchi</name>
-  </author>
-  <link href="https://github.com/tatchi/outline-repro" />
-  <id>urn:rprimus:github:tatchi:outline-repro</id>
-  <published>2021-11-25T22:53:43Z</published>
-  <updated>2021-11-25T22:53:43Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>TheLortex: current-web-pipelines</title>
-  <author>
-   <name>TheLortex</name>
-  </author>
-  <link href="https://github.com/TheLortex/current-web-pipelines" />
-  <id>urn:rprimus:github:TheLortex:current-web-pipelines</id>
-  <published>2021-11-25T17:40:31Z</published>
-  <updated>2021-11-25T17:40:31Z</updated>
-  <content type="html">
-   A pipeline page for CI systems
-  </content>
- </entry>
- <entry>
-  <title>antoineenac: ProjetIA</title>
-  <author>
-   <name>antoineenac</name>
-  </author>
-  <link href="https://github.com/antoineenac/ProjetIA" />
-  <id>urn:rprimus:github:antoineenac:ProjetIA</id>
-  <published>2021-11-25T15:08:53Z</published>
-  <updated>2021-11-25T15:08:53Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>luke36: MLSubToy</title>
-  <author>
-   <name>luke36</name>
-  </author>
-  <link href="https://github.com/luke36/MLSubToy" />
-  <id>urn:rprimus:github:luke36:MLSubToy</id>
-  <published>2021-11-25T14:58:16Z</published>
-  <updated>2021-11-25T14:58:16Z</updated>
-  <content type="html">
-   A minimal implementation of MLSub. Warning: it is not correct.
-  </content>
- </entry>
- <entry>
-  <title>mox692: OCaml_practice</title>
-  <author>
-   <name>mox692</name>
-  </author>
-  <link href="https://github.com/mox692/OCaml_practice" />
-  <id>urn:rprimus:github:mox692:OCaml_practice</id>
-  <published>2021-11-25T07:39:19Z</published>
-  <updated>2021-11-25T07:39:19Z</updated>
-  <content type="html">
-   OCaml practice repo.
-  </content>
- </entry>
- <entry>
-  <title>kwj: aw_perm</title>
-  <author>
-   <name>kwj</name>
-  </author>
-  <link href="https://github.com/kwj/aw_perm" />
-  <id>urn:rprimus:github:kwj:aw_perm</id>
-  <published>2021-11-25T05:21:46Z</published>
-  <updated>2021-11-25T05:21:46Z</updated>
-  <content type="html">
-   A test implementation of permutation generator which based on Hamilton path
-  </content>
- </entry>
- <entry>
-  <title>hellojukay: http_server</title>
-  <author>
-   <name>hellojukay</name>
-  </author>
-  <link href="https://github.com/hellojukay/http_server" />
-  <id>urn:rprimus:github:hellojukay:http_server</id>
-  <published>2021-11-25T01:42:39Z</published>
-  <updated>2021-11-25T01:42:39Z</updated>
-  <content type="html">
-   OCaml ç¼åçå¤è¿ç¨ http æå¡
-  </content>
- </entry>
- <entry>
-  <title>craff: Python-notebook-tools</title>
-  <author>
-   <name>craff</name>
-  </author>
-  <link href="https://github.com/craff/Python-notebook-tools" />
-  <id>urn:rprimus:github:craff:Python-notebook-tools</id>
-  <published>2021-11-25T00:43:41Z</published>
-  <updated>2021-11-25T00:43:41Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
