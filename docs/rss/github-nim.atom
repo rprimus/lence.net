@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2021-11-29T05:31:39Z</updated>
+<updated>2021-11-30T07:03:28Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>tommo: pcoros</title>
+  <author>
+   <name>tommo</name>
+  </author>
+  <link href="https://github.com/tommo/pcoros" />
+  <id>urn:rprimus:github:tommo:pcoros</id>
+  <published>2021-11-30T07:03:28Z</published>
+  <updated>2021-11-30T07:03:28Z</updated>
+  <content type="html">
+   Simple closure-iterator based Coroutine for Nim.
+  </content>
+ </entry>
+ <entry>
+  <title>IcedQuinn: rhombusreader</title>
+  <author>
+   <name>IcedQuinn</name>
+  </author>
+  <link href="https://github.com/IcedQuinn/rhombusreader" />
+  <id>urn:rprimus:github:IcedQuinn:rhombusreader</id>
+  <published>2021-11-30T02:07:59Z</published>
+  <updated>2021-11-30T02:07:59Z</updated>
+  <content type="html">
+   Pure nim reader for Rhombus (REBOL, Red, Ren) block files
+  </content>
+ </entry>
+ <entry>
+  <title>SebRut: nimminder</title>
+  <author>
+   <name>SebRut</name>
+  </author>
+  <link href="https://github.com/SebRut/nimminder" />
+  <id>urn:rprimus:github:SebRut:nimminder</id>
+  <published>2021-11-29T11:15:30Z</published>
+  <updated>2021-11-29T11:15:30Z</updated>
+  <content type="html">
+   CLI for beeminder written in nim
+  </content>
+ </entry>
  <entry>
   <title>tirth: advent-of-code-2020-nim</title>
   <author>
@@ -15,6 +54,19 @@
   <updated>2021-11-29T05:31:39Z</updated>
   <content type="html">
    
+  </content>
+ </entry>
+ <entry>
+  <title>ayman-albaz: circularbuffer</title>
+  <author>
+   <name>ayman-albaz</name>
+  </author>
+  <link href="https://github.com/ayman-albaz/circularbuffer" />
+  <id>urn:rprimus:github:ayman-albaz:circularbuffer</id>
+  <published>2021-11-28T20:13:49Z</published>
+  <updated>2021-11-28T20:13:49Z</updated>
+  <content type="html">
+   A fast circular buffer implementation in Nim
   </content>
  </entry>
  <entry>
@@ -91,84 +143,6 @@
   <id>urn:rprimus:github:jrmysvr:tinkering</id>
   <published>2021-11-28T12:08:03Z</published>
   <updated>2021-11-28T12:08:03Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>GoldNotch: ImagesExtractorWhenWindowsLaunches</title>
-  <author>
-   <name>GoldNotch</name>
-  </author>
-  <link href="https://github.com/GoldNotch/ImagesExtractorWhenWindowsLaunches" />
-  <id>urn:rprimus:github:GoldNotch:ImagesExtractorWhenWindowsLaunches</id>
-  <published>2021-11-27T11:45:06Z</published>
-  <updated>2021-11-27T11:45:06Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>WeebNetsu: steves-teacher-telegram-bot</title>
-  <author>
-   <name>WeebNetsu</name>
-  </author>
-  <link href="https://github.com/WeebNetsu/steves-teacher-telegram-bot" />
-  <id>urn:rprimus:github:WeebNetsu:steves-teacher-telegram-bot</id>
-  <published>2021-11-27T09:26:29Z</published>
-  <updated>2021-11-27T09:26:29Z</updated>
-  <content type="html">
-   My personal telegram bot written in Nim
-  </content>
- </entry>
- <entry>
-  <title>stscoundrel: nim-template</title>
-  <author>
-   <name>stscoundrel</name>
-  </author>
-  <link href="https://github.com/stscoundrel/nim-template" />
-  <id>urn:rprimus:github:stscoundrel:nim-template</id>
-  <published>2021-11-27T09:18:09Z</published>
-  <updated>2021-11-27T09:18:09Z</updated>
-  <content type="html">
-   Template repo for generic Nim/Nimble library with CI
-  </content>
- </entry>
- <entry>
-  <title>ThomasTJdev: jester2swagger</title>
-  <author>
-   <name>ThomasTJdev</name>
-  </author>
-  <link href="https://github.com/ThomasTJdev/jester2swagger" />
-  <id>urn:rprimus:github:ThomasTJdev:jester2swagger</id>
-  <published>2021-11-27T06:12:05Z</published>
-  <updated>2021-11-27T06:12:05Z</updated>
-  <content type="html">
-   Convert Jester to Swagger to Postman
-  </content>
- </entry>
- <entry>
-  <title>LohnaI: masicsqual3x3</title>
-  <author>
-   <name>LohnaI</name>
-  </author>
-  <link href="https://github.com/LohnaI/masicsqual3x3" />
-  <id>urn:rprimus:github:LohnaI:masicsqual3x3</id>
-  <published>2021-11-27T03:01:45Z</published>
-  <updated>2021-11-27T03:01:45Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>rszemplinski: ezee</title>
-  <author>
-   <name>rszemplinski</name>
-  </author>
-  <link href="https://github.com/rszemplinski/ezee" />
-  <id>urn:rprimus:github:rszemplinski:ezee</id>
-  <published>2021-11-27T02:21:08Z</published>
-  <updated>2021-11-27T02:21:08Z</updated>
   <content type="html">
    
   </content>
