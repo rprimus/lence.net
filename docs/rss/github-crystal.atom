@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2021-12-08T01:38:38Z</updated>
+<updated>2021-12-09T10:33:26Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>teoulas: advent-of-code-2021-crystal</title>
+  <author>
+   <name>teoulas</name>
+  </author>
+  <link href="https://github.com/teoulas/advent-of-code-2021-crystal" />
+  <id>urn:rprimus:github:teoulas:advent-of-code-2021-crystal</id>
+  <published>2021-12-09T10:33:26Z</published>
+  <updated>2021-12-09T10:33:26Z</updated>
+  <content type="html">
+   Solutions for AoC 2021 in Crystal
+  </content>
+ </entry>
+ <entry>
+  <title>crystal-manyrepos: two</title>
+  <author>
+   <name>crystal-manyrepos</name>
+  </author>
+  <link href="https://github.com/crystal-manyrepos/two" />
+  <id>urn:rprimus:github:crystal-manyrepos:two</id>
+  <published>2021-12-08T21:22:23Z</published>
+  <updated>2021-12-08T21:22:23Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>spoved: k8s.cr</title>
+  <author>
+   <name>spoved</name>
+  </author>
+  <link href="https://github.com/spoved/k8s.cr" />
+  <id>urn:rprimus:github:spoved:k8s.cr</id>
+  <published>2021-12-08T21:14:05Z</published>
+  <updated>2021-12-08T21:14:05Z</updated>
+  <content type="html">
+   A Kubernetes lib containing definitions for Crystal-lang
+  </content>
+ </entry>
  <entry>
   <title>HertzDevil: advent-of-code</title>
   <author>
@@ -106,19 +145,6 @@
   <updated>2021-12-07T03:41:08Z</updated>
   <content type="html">
    a cli util to login all characters on an account and claim their login rewards
-  </content>
- </entry>
- <entry>
-  <title>kadalu: reflink-snapshot</title>
-  <author>
-   <name>kadalu</name>
-  </author>
-  <link href="https://github.com/kadalu/reflink-snapshot" />
-  <id>urn:rprimus:github:kadalu:reflink-snapshot</id>
-  <published>2021-12-06T13:49:37Z</published>
-  <updated>2021-12-06T13:49:37Z</updated>
-  <content type="html">
-   CLI tool for Managing Reflink based Snapshots
   </content>
  </entry>
 </feed>
