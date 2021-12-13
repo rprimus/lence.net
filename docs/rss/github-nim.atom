@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2021-12-11T23:26:32Z</updated>
+<updated>2021-12-12T21:54:13Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>2HgO: nimhpack</title>
+  <author>
+   <name>2HgO</name>
+  </author>
+  <link href="https://github.com/2HgO/nimhpack" />
+  <id>urn:rprimus:github:2HgO:nimhpack</id>
+  <published>2021-12-12T21:54:13Z</published>
+  <updated>2021-12-12T21:54:13Z</updated>
+  <content type="html">
+   pure nim implementation of hpack
+  </content>
+ </entry>
+ <entry>
+  <title>florianfmmartin: nirth</title>
+  <author>
+   <name>florianfmmartin</name>
+  </author>
+  <link href="https://github.com/florianfmmartin/nirth" />
+  <id>urn:rprimus:github:florianfmmartin:nirth</id>
+  <published>2021-12-12T18:51:59Z</published>
+  <updated>2021-12-12T18:51:59Z</updated>
+  <content type="html">
+   A Forth written in Nim
+  </content>
+ </entry>
  <entry>
   <title>elcritch: keyxn</title>
   <author>
@@ -41,58 +67,6 @@
   <updated>2021-12-11T07:19:46Z</updated>
   <content type="html">
    Small benchmark for solving a maze in the Nim Programming Language
-  </content>
- </entry>
- <entry>
-  <title>Kowagatte: TDClient</title>
-  <author>
-   <name>Kowagatte</name>
-  </author>
-  <link href="https://github.com/Kowagatte/TDClient" />
-  <id>urn:rprimus:github:Kowagatte:TDClient</id>
-  <published>2021-12-10T18:08:24Z</published>
-  <updated>2021-12-10T18:08:24Z</updated>
-  <content type="html">
-   This is the Client to TDS (name is WIP), made using the Godot engine!
-  </content>
- </entry>
- <entry>
-  <title>daddycocoaman: dsuphd</title>
-  <author>
-   <name>daddycocoaman</name>
-  </author>
-  <link href="https://github.com/daddycocoaman/dsuphd" />
-  <id>urn:rprimus:github:daddycocoaman:dsuphd</id>
-  <published>2021-12-10T11:59:11Z</published>
-  <updated>2021-12-10T11:59:11Z</updated>
-  <content type="html">
-   Stuff relating to PhD program
-  </content>
- </entry>
- <entry>
-  <title>antonl05: extras</title>
-  <author>
-   <name>antonl05</name>
-  </author>
-  <link href="https://github.com/antonl05/extras" />
-  <id>urn:rprimus:github:antonl05:extras</id>
-  <published>2021-12-10T09:17:59Z</published>
-  <updated>2021-12-10T09:17:59Z</updated>
-  <content type="html">
-   extra things
-  </content>
- </entry>
- <entry>
-  <title>xyrise: aoc2021</title>
-  <author>
-   <name>xyrise</name>
-  </author>
-  <link href="https://github.com/xyrise/aoc2021" />
-  <id>urn:rprimus:github:xyrise:aoc2021</id>
-  <published>2021-12-10T07:20:20Z</published>
-  <updated>2021-12-10T07:20:20Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
