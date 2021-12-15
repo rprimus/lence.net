@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2021-12-13T17:44:53Z</updated>
+<updated>2021-12-14T20:56:05Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>martinmares: encjson</title>
+  <author>
+   <name>martinmares</name>
+  </author>
+  <link href="https://github.com/martinmares/encjson" />
+  <id>urn:rprimus:github:martinmares:encjson</id>
+  <published>2021-12-14T20:56:05Z</published>
+  <updated>2021-12-14T20:56:05Z</updated>
+  <content type="html">
+   Encrypted JSON (encrypt/decrypt) with Monocypher library
+  </content>
+ </entry>
+ <entry>
+  <title>deril: advent-of-code-2021</title>
+  <author>
+   <name>deril</name>
+  </author>
+  <link href="https://github.com/deril/advent-of-code-2021" />
+  <id>urn:rprimus:github:deril:advent-of-code-2021</id>
+  <published>2021-12-14T19:03:04Z</published>
+  <updated>2021-12-14T19:03:04Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>sentenzo: rubble</title>
+  <author>
+   <name>sentenzo</name>
+  </author>
+  <link href="https://github.com/sentenzo/rubble" />
+  <id>urn:rprimus:github:sentenzo:rubble</id>
+  <published>2021-12-14T17:38:36Z</published>
+  <updated>2021-12-14T17:38:36Z</updated>
+  <content type="html">
+   Some hello-worldish stuff on Crystal
+  </content>
+ </entry>
  <entry>
   <title>nkot56297: api-search</title>
   <author>
@@ -15,110 +54,6 @@
   <updated>2021-12-13T17:44:53Z</updated>
   <content type="html">
    a
-  </content>
- </entry>
- <entry>
-  <title>crystal-manyrepos: three</title>
-  <author>
-   <name>crystal-manyrepos</name>
-  </author>
-  <link href="https://github.com/crystal-manyrepos/three" />
-  <id>urn:rprimus:github:crystal-manyrepos:three</id>
-  <published>2021-12-12T19:49:18Z</published>
-  <updated>2021-12-12T19:49:18Z</updated>
-  <content type="html">
-   Squashed read only sub repo
-  </content>
- </entry>
- <entry>
-  <title>dscottboggs: every_so_often</title>
-  <author>
-   <name>dscottboggs</name>
-  </author>
-  <link href="https://github.com/dscottboggs/every_so_often" />
-  <id>urn:rprimus:github:dscottboggs:every_so_often</id>
-  <published>2021-12-12T19:22:20Z</published>
-  <updated>2021-12-12T19:22:20Z</updated>
-  <content type="html">
-   Perform an action every so often (in Crystal code)
-  </content>
- </entry>
- <entry>
-  <title>athena-framework: framework</title>
-  <author>
-   <name>athena-framework</name>
-  </author>
-  <link href="https://github.com/athena-framework/framework" />
-  <id>urn:rprimus:github:athena-framework:framework</id>
-  <published>2021-12-12T17:53:41Z</published>
-  <updated>2021-12-12T17:53:41Z</updated>
-  <content type="html">
-   A web framework created from various Athena components
-  </content>
- </entry>
- <entry>
-  <title>martinmares: apply_env</title>
-  <author>
-   <name>martinmares</name>
-  </author>
-  <link href="https://github.com/martinmares/apply_env" />
-  <id>urn:rprimus:github:martinmares:apply_env</id>
-  <published>2021-12-12T10:51:25Z</published>
-  <updated>2021-12-12T10:51:25Z</updated>
-  <content type="html">
-   Apply ENV variables on template (very small part of gomplate)
-  </content>
- </entry>
- <entry>
-  <title>danny8376: twitter_space_autodl</title>
-  <author>
-   <name>danny8376</name>
-  </author>
-  <link href="https://github.com/danny8376/twitter_space_autodl" />
-  <id>urn:rprimus:github:danny8376:twitter_space_autodl</id>
-  <published>2021-12-12T09:28:37Z</published>
-  <updated>2021-12-12T09:28:37Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>crystal-manyrepos: two</title>
-  <author>
-   <name>crystal-manyrepos</name>
-  </author>
-  <link href="https://github.com/crystal-manyrepos/two" />
-  <id>urn:rprimus:github:crystal-manyrepos:two</id>
-  <published>2021-12-12T03:38:52Z</published>
-  <updated>2021-12-12T03:38:52Z</updated>
-  <content type="html">
-   Read only sub repo
-  </content>
- </entry>
- <entry>
-  <title>crystal-manyrepos: one</title>
-  <author>
-   <name>crystal-manyrepos</name>
-  </author>
-  <link href="https://github.com/crystal-manyrepos/one" />
-  <id>urn:rprimus:github:crystal-manyrepos:one</id>
-  <published>2021-12-12T03:37:58Z</published>
-  <updated>2021-12-12T03:37:58Z</updated>
-  <content type="html">
-   Read only sub repo
-  </content>
- </entry>
- <entry>
-  <title>nkot56297: CSV-parser</title>
-  <author>
-   <name>nkot56297</name>
-  </author>
-  <link href="https://github.com/nkot56297/CSV-parser" />
-  <id>urn:rprimus:github:nkot56297:CSV-parser</id>
-  <published>2021-12-12T02:17:43Z</published>
-  <updated>2021-12-12T02:17:43Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>

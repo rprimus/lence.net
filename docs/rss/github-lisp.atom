@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-12-14T07:18:12Z</updated>
+<updated>2021-12-15T01:23:01Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>no-defun-allowed: SICL-tools</title>
+  <author>
+   <name>no-defun-allowed</name>
+  </author>
+  <link href="https://github.com/no-defun-allowed/SICL-tools" />
+  <id>urn:rprimus:github:no-defun-allowed:SICL-tools</id>
+  <published>2021-12-15T01:23:01Z</published>
+  <updated>2021-12-15T01:23:01Z</updated>
+  <content type="html">
+   Some tools which help when working on the SICL compiler.
+  </content>
+ </entry>
+ <entry>
+  <title>awolven: adhoc</title>
+  <author>
+   <name>awolven</name>
+  </author>
+  <link href="https://github.com/awolven/adhoc" />
+  <id>urn:rprimus:github:awolven:adhoc</id>
+  <published>2021-12-14T22:19:31Z</published>
+  <updated>2021-12-14T22:19:31Z</updated>
+  <content type="html">
+   Another Declarative Hierarchical Object-centric CLOS Customization. An advanced object oriented extension to CLOS.
+  </content>
+ </entry>
+ <entry>
+  <title>BlackHarp: autolisp-plugin-wellstable</title>
+  <author>
+   <name>BlackHarp</name>
+  </author>
+  <link href="https://github.com/BlackHarp/autolisp-plugin-wellstable" />
+  <id>urn:rprimus:github:BlackHarp:autolisp-plugin-wellstable</id>
+  <published>2021-12-14T21:50:08Z</published>
+  <updated>2021-12-14T21:50:08Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>noideafornickname: lsp</title>
+  <author>
+   <name>noideafornickname</name>
+  </author>
+  <link href="https://github.com/noideafornickname/lsp" />
+  <id>urn:rprimus:github:noideafornickname:lsp</id>
+  <published>2021-12-14T12:58:11Z</published>
+  <updated>2021-12-14T12:58:11Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>lpaviets: aoc2021</title>
   <author>
@@ -314,136 +366,6 @@
   <updated>2021-12-13T01:19:05Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>GustavoLent: agenda-lisp</title>
-  <author>
-   <name>GustavoLent</name>
-  </author>
-  <link href="https://github.com/GustavoLent/agenda-lisp" />
-  <id>urn:rprimus:github:GustavoLent:agenda-lisp</id>
-  <published>2021-12-12T18:47:36Z</published>
-  <updated>2021-12-12T18:47:36Z</updated>
-  <content type="html">
-   Projeto de agenda via REPL Lisp
-  </content>
- </entry>
- <entry>
-  <title>ajberkley: cl-vxi11</title>
-  <author>
-   <name>ajberkley</name>
-  </author>
-  <link href="https://github.com/ajberkley/cl-vxi11" />
-  <id>urn:rprimus:github:ajberkley:cl-vxi11</id>
-  <published>2021-12-12T17:47:54Z</published>
-  <updated>2021-12-12T17:47:54Z</updated>
-  <content type="html">
-   Native VXI11 in Common Lisp for talking to instruments
-  </content>
- </entry>
- <entry>
-  <title>fferrere: cas-demo</title>
-  <author>
-   <name>fferrere</name>
-  </author>
-  <link href="https://github.com/fferrere/cas-demo" />
-  <id>urn:rprimus:github:fferrere:cas-demo</id>
-  <published>2021-12-12T13:34:59Z</published>
-  <updated>2021-12-12T13:34:59Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>fferrere: cas-middleware</title>
-  <author>
-   <name>fferrere</name>
-  </author>
-  <link href="https://github.com/fferrere/cas-middleware" />
-  <id>urn:rprimus:github:fferrere:cas-middleware</id>
-  <published>2021-12-12T13:28:51Z</published>
-  <updated>2021-12-12T13:28:51Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>fferrere: cl-cas</title>
-  <author>
-   <name>fferrere</name>
-  </author>
-  <link href="https://github.com/fferrere/cl-cas" />
-  <id>urn:rprimus:github:fferrere:cl-cas</id>
-  <published>2021-12-12T12:54:20Z</published>
-  <updated>2021-12-12T12:54:20Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>mihaicristiantanase: cl-shell</title>
-  <author>
-   <name>mihaicristiantanase</name>
-  </author>
-  <link href="https://github.com/mihaicristiantanase/cl-shell" />
-  <id>urn:rprimus:github:mihaicristiantanase:cl-shell</id>
-  <published>2021-12-12T11:52:08Z</published>
-  <updated>2021-12-12T11:52:08Z</updated>
-  <content type="html">
-   Execute shell commands
-  </content>
- </entry>
- <entry>
-  <title>aatauil: app-mu-graphql-poc</title>
-  <author>
-   <name>aatauil</name>
-  </author>
-  <link href="https://github.com/aatauil/app-mu-graphql-poc" />
-  <id>urn:rprimus:github:aatauil:app-mu-graphql-poc</id>
-  <published>2021-12-12T11:26:17Z</published>
-  <updated>2021-12-12T11:26:17Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>mfiano: cl-freebsd</title>
-  <author>
-   <name>mfiano</name>
-  </author>
-  <link href="https://github.com/mfiano/cl-freebsd" />
-  <id>urn:rprimus:github:mfiano:cl-freebsd</id>
-  <published>2021-12-12T09:07:58Z</published>
-  <updated>2021-12-12T09:07:58Z</updated>
-  <content type="html">
-   A small, but growing collection of syscall and base install library FFI wrappers for FreeBSD.
-  </content>
- </entry>
- <entry>
-  <title>sheepduke: clode</title>
-  <author>
-   <name>sheepduke</name>
-  </author>
-  <link href="https://github.com/sheepduke/clode" />
-  <id>urn:rprimus:github:sheepduke:clode</id>
-  <published>2021-12-12T08:37:58Z</published>
-  <updated>2021-12-12T08:37:58Z</updated>
-  <content type="html">
-   Clode - Common Lisp tOml Decoder/Encoder
-  </content>
- </entry>
- <entry>
-  <title>Abomination123: AI_basics_labs</title>
-  <author>
-   <name>Abomination123</name>
-  </author>
-  <link href="https://github.com/Abomination123/AI_basics_labs" />
-  <id>urn:rprimus:github:Abomination123:AI_basics_labs</id>
-  <published>2021-12-12T03:03:05Z</published>
-  <updated>2021-12-12T03:03:05Z</updated>
-  <content type="html">
-   ic kpi labs 3rd course
   </content>
  </entry>
 </feed>

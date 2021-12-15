@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2021-12-14T05:23:16Z</updated>
+<updated>2021-12-14T21:28:15Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>openpeep: prodigi-client</title>
+  <author>
+   <name>openpeep</name>
+  </author>
+  <link href="https://github.com/openpeep/prodigi-client" />
+  <id>urn:rprimus:github:openpeep:prodigi-client</id>
+  <published>2021-12-14T21:28:15Z</published>
+  <updated>2021-12-14T21:28:15Z</updated>
+  <content type="html">
+   An unofficial implementation of ð Prodigi.com Print-On-Demand REST API in ð Nim language
+  </content>
+ </entry>
+ <entry>
+  <title>Gael-Lopes-Da-Silva: Brainfuck</title>
+  <author>
+   <name>Gael-Lopes-Da-Silva</name>
+  </author>
+  <link href="https://github.com/Gael-Lopes-Da-Silva/Brainfuck" />
+  <id>urn:rprimus:github:Gael-Lopes-Da-Silva:Brainfuck</id>
+  <published>2021-12-14T19:20:42Z</published>
+  <updated>2021-12-14T19:20:42Z</updated>
+  <content type="html">
+   ð This is my own implementation of the brainfuck language
+  </content>
+ </entry>
+ <entry>
+  <title>pietroppeter: feedo</title>
+  <author>
+   <name>pietroppeter</name>
+  </author>
+  <link href="https://github.com/pietroppeter/feedo" />
+  <id>urn:rprimus:github:pietroppeter:feedo</id>
+  <published>2021-12-14T13:02:10Z</published>
+  <updated>2021-12-14T13:02:10Z</updated>
+  <content type="html">
+   ð¶ minimalistic static rss reader built with nim(ib)
+  </content>
+ </entry>
  <entry>
   <title>thindil: nish</title>
   <author>
@@ -93,32 +132,6 @@
   <updated>2021-12-13T13:31:49Z</updated>
   <content type="html">
    A dwm status bar written in Nim
-  </content>
- </entry>
- <entry>
-  <title>2HgO: nimhpack</title>
-  <author>
-   <name>2HgO</name>
-  </author>
-  <link href="https://github.com/2HgO/nimhpack" />
-  <id>urn:rprimus:github:2HgO:nimhpack</id>
-  <published>2021-12-12T21:54:13Z</published>
-  <updated>2021-12-12T21:54:13Z</updated>
-  <content type="html">
-   pure nim implementation of hpack
-  </content>
- </entry>
- <entry>
-  <title>florianfmmartin: nirth</title>
-  <author>
-   <name>florianfmmartin</name>
-  </author>
-  <link href="https://github.com/florianfmmartin/nirth" />
-  <id>urn:rprimus:github:florianfmmartin:nirth</id>
-  <published>2021-12-12T18:51:59Z</published>
-  <updated>2021-12-12T18:51:59Z</updated>
-  <content type="html">
-   A Forth written in Nim
   </content>
  </entry>
 </feed>
