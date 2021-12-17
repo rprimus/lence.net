@@ -2,8 +2,112 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-12-16T01:05:31Z</updated>
+<updated>2021-12-17T01:52:12Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>cl-aip: PropositionalLogic</title>
+  <author>
+   <name>cl-aip</name>
+  </author>
+  <link href="https://github.com/cl-aip/PropositionalLogic" />
+  <id>urn:rprimus:github:cl-aip:PropositionalLogic</id>
+  <published>2021-12-17T01:52:12Z</published>
+  <updated>2021-12-17T01:52:12Z</updated>
+  <content type="html">
+   Propositional Logic from PAIP and AIMA
+  </content>
+ </entry>
+ <entry>
+  <title>cl-boost: targa</title>
+  <author>
+   <name>cl-boost</name>
+  </author>
+  <link href="https://github.com/cl-boost/targa" />
+  <id>urn:rprimus:github:cl-boost:targa</id>
+  <published>2021-12-16T22:36:45Z</published>
+  <updated>2021-12-16T22:36:45Z</updated>
+  <content type="html">
+   Targa Image Loading for Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>anthonysteel: geoff</title>
+  <author>
+   <name>anthonysteel</name>
+  </author>
+  <link href="https://github.com/anthonysteel/geoff" />
+  <id>urn:rprimus:github:anthonysteel:geoff</id>
+  <published>2021-12-16T22:33:46Z</published>
+  <updated>2021-12-16T22:33:46Z</updated>
+  <content type="html">
+   Sudoku solving device for Dad&#039;s Christmas present
+  </content>
+ </entry>
+ <entry>
+  <title>nerdbeard: comfy</title>
+  <author>
+   <name>nerdbeard</name>
+  </author>
+  <link href="https://github.com/nerdbeard/comfy" />
+  <id>urn:rprimus:github:nerdbeard:comfy</id>
+  <published>2021-12-16T22:28:54Z</published>
+  <updated>2021-12-16T22:28:54Z</updated>
+  <content type="html">
+   comfy.el --- COMFY-65 language for 6502
+  </content>
+ </entry>
+ <entry>
+  <title>cl-boost: pathfind</title>
+  <author>
+   <name>cl-boost</name>
+  </author>
+  <link href="https://github.com/cl-boost/pathfind" />
+  <id>urn:rprimus:github:cl-boost:pathfind</id>
+  <published>2021-12-16T21:13:26Z</published>
+  <updated>2021-12-16T21:13:26Z</updated>
+  <content type="html">
+   A* Pathfinding for Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>cl-boost: huffman</title>
+  <author>
+   <name>cl-boost</name>
+  </author>
+  <link href="https://github.com/cl-boost/huffman" />
+  <id>urn:rprimus:github:cl-boost:huffman</id>
+  <published>2021-12-16T21:11:30Z</published>
+  <updated>2021-12-16T21:11:30Z</updated>
+  <content type="html">
+   Huffman Coding for Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>cl-boost: heap</title>
+  <author>
+   <name>cl-boost</name>
+  </author>
+  <link href="https://github.com/cl-boost/heap" />
+  <id>urn:rprimus:github:cl-boost:heap</id>
+  <published>2021-12-16T21:10:34Z</published>
+  <updated>2021-12-16T21:10:34Z</updated>
+  <content type="html">
+   Binary Heap for Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>Evgenion47: lispep</title>
+  <author>
+   <name>Evgenion47</name>
+  </author>
+  <link href="https://github.com/Evgenion47/lispep" />
+  <id>urn:rprimus:github:Evgenion47:lispep</id>
+  <published>2021-12-16T17:45:54Z</published>
+  <updated>2021-12-16T17:45:54Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>wlharvey4: CL-SVURL</title>
   <author>
@@ -145,71 +249,6 @@
   <updated>2021-12-15T01:23:01Z</updated>
   <content type="html">
    Some tools which help when working on the SICL compiler.
-  </content>
- </entry>
- <entry>
-  <title>awolven: adhoc</title>
-  <author>
-   <name>awolven</name>
-  </author>
-  <link href="https://github.com/awolven/adhoc" />
-  <id>urn:rprimus:github:awolven:adhoc</id>
-  <published>2021-12-14T22:19:31Z</published>
-  <updated>2021-12-14T22:19:31Z</updated>
-  <content type="html">
-   Another Declarative Hierarchical Object-centric CLOS Customization. An advanced object oriented extension to CLOS.
-  </content>
- </entry>
- <entry>
-  <title>BlackHarp: autolisp-plugin-wellstable</title>
-  <author>
-   <name>BlackHarp</name>
-  </author>
-  <link href="https://github.com/BlackHarp/autolisp-plugin-wellstable" />
-  <id>urn:rprimus:github:BlackHarp:autolisp-plugin-wellstable</id>
-  <published>2021-12-14T21:50:08Z</published>
-  <updated>2021-12-14T21:50:08Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>thor314: stumpwm</title>
-  <author>
-   <name>thor314</name>
-  </author>
-  <link href="https://github.com/thor314/stumpwm" />
-  <id>urn:rprimus:github:thor314:stumpwm</id>
-  <published>2021-12-14T18:57:22Z</published>
-  <updated>2021-12-14T18:57:22Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>noideafornickname: lsp</title>
-  <author>
-   <name>noideafornickname</name>
-  </author>
-  <link href="https://github.com/noideafornickname/lsp" />
-  <id>urn:rprimus:github:noideafornickname:lsp</id>
-  <published>2021-12-14T12:58:11Z</published>
-  <updated>2021-12-14T12:58:11Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>lpaviets: aoc2021</title>
-  <author>
-   <name>lpaviets</name>
-  </author>
-  <link href="https://github.com/lpaviets/aoc2021" />
-  <id>urn:rprimus:github:lpaviets:aoc2021</id>
-  <published>2021-12-14T07:18:12Z</published>
-  <updated>2021-12-14T07:18:12Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
