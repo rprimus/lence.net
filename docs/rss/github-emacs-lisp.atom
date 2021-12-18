@@ -2,8 +2,125 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2021-12-17T09:51:37Z</updated>
+<updated>2021-12-17T23:03:47Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>Jturnerusa: user-config</title>
+  <author>
+   <name>Jturnerusa</name>
+  </author>
+  <link href="https://github.com/Jturnerusa/user-config" />
+  <id>urn:rprimus:github:Jturnerusa:user-config</id>
+  <published>2021-12-17T23:03:47Z</published>
+  <updated>2021-12-17T23:03:47Z</updated>
+  <content type="html">
+   My Linux desktop dotfiles
+  </content>
+ </entry>
+ <entry>
+  <title>rtviii: configs</title>
+  <author>
+   <name>rtviii</name>
+  </author>
+  <link href="https://github.com/rtviii/configs" />
+  <id>urn:rprimus:github:rtviii:configs</id>
+  <published>2021-12-17T20:38:45Z</published>
+  <updated>2021-12-17T20:38:45Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>AnnabethS: dotfiles</title>
+  <author>
+   <name>AnnabethS</name>
+  </author>
+  <link href="https://github.com/AnnabethS/dotfiles" />
+  <id>urn:rprimus:github:AnnabethS:dotfiles</id>
+  <published>2021-12-17T18:31:58Z</published>
+  <updated>2021-12-17T18:31:58Z</updated>
+  <content type="html">
+   the dotfiles for my current system setup
+  </content>
+ </entry>
+ <entry>
+  <title>topikettunen: dotemacs</title>
+  <author>
+   <name>topikettunen</name>
+  </author>
+  <link href="https://github.com/topikettunen/dotemacs" />
+  <id>urn:rprimus:github:topikettunen:dotemacs</id>
+  <published>2021-12-17T18:09:16Z</published>
+  <updated>2021-12-17T18:09:16Z</updated>
+  <content type="html">
+   My .emacs.d
+  </content>
+ </entry>
+ <entry>
+  <title>axelson: emacs_config_snapshot</title>
+  <author>
+   <name>axelson</name>
+  </author>
+  <link href="https://github.com/axelson/emacs_config_snapshot" />
+  <id>urn:rprimus:github:axelson:emacs_config_snapshot</id>
+  <published>2021-12-17T17:05:29Z</published>
+  <updated>2021-12-17T17:05:29Z</updated>
+  <content type="html">
+   Extracted from my (non-public) dotfiles
+  </content>
+ </entry>
+ <entry>
+  <title>aidenscott2016: emacs.d</title>
+  <author>
+   <name>aidenscott2016</name>
+  </author>
+  <link href="https://github.com/aidenscott2016/emacs.d" />
+  <id>urn:rprimus:github:aidenscott2016:emacs.d</id>
+  <published>2021-12-17T15:19:47Z</published>
+  <updated>2021-12-17T15:19:47Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>u-yuta: org-publish-html</title>
+  <author>
+   <name>u-yuta</name>
+  </author>
+  <link href="https://github.com/u-yuta/org-publish-html" />
+  <id>urn:rprimus:github:u-yuta:org-publish-html</id>
+  <published>2021-12-17T14:38:37Z</published>
+  <updated>2021-12-17T14:38:37Z</updated>
+  <content type="html">
+   Script to export org-mode files to a website.
+  </content>
+ </entry>
+ <entry>
+  <title>jobangen: zettelkasten</title>
+  <author>
+   <name>jobangen</name>
+  </author>
+  <link href="https://github.com/jobangen/zettelkasten" />
+  <id>urn:rprimus:github:jobangen:zettelkasten</id>
+  <published>2021-12-17T11:41:21Z</published>
+  <updated>2021-12-17T11:41:21Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>mathslimin: doom.d</title>
+  <author>
+   <name>mathslimin</name>
+  </author>
+  <link href="https://github.com/mathslimin/doom.d" />
+  <id>urn:rprimus:github:mathslimin:doom.d</id>
+  <published>2021-12-17T11:19:00Z</published>
+  <updated>2021-12-17T11:19:00Z</updated>
+  <content type="html">
+   my doom.d  config
+  </content>
+ </entry>
  <entry>
   <title>Lander-Hatsune: .emacs</title>
   <author>
@@ -57,12 +174,12 @@
   </content>
  </entry>
  <entry>
-  <title>hotoku: zetasql-formatter-mode</title>
+  <title>hotoku: zetasql-formatter-el</title>
   <author>
    <name>hotoku</name>
   </author>
-  <link href="https://github.com/hotoku/zetasql-formatter-mode" />
-  <id>urn:rprimus:github:hotoku:zetasql-formatter-mode</id>
+  <link href="https://github.com/hotoku/zetasql-formatter-el" />
+  <id>urn:rprimus:github:hotoku:zetasql-formatter-el</id>
   <published>2021-12-17T05:11:25Z</published>
   <updated>2021-12-17T05:11:25Z</updated>
   <content type="html">
@@ -275,227 +392,6 @@
   <updated>2021-12-16T01:11:06Z</updated>
   <content type="html">
    My Personal Doom configuration.
-  </content>
- </entry>
- <entry>
-  <title>dxvk: .emacs.d</title>
-  <author>
-   <name>dxvk</name>
-  </author>
-  <link href="https://github.com/dxvk/.emacs.d" />
-  <id>urn:rprimus:github:dxvk:.emacs.d</id>
-  <published>2021-12-15T22:45:11Z</published>
-  <updated>2021-12-15T22:45:11Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jonatanlinden: dotfiles</title>
-  <author>
-   <name>jonatanlinden</name>
-  </author>
-  <link href="https://github.com/jonatanlinden/dotfiles" />
-  <id>urn:rprimus:github:jonatanlinden:dotfiles</id>
-  <published>2021-12-15T20:18:03Z</published>
-  <updated>2021-12-15T20:18:03Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>quoteCancel: configs</title>
-  <author>
-   <name>quoteCancel</name>
-  </author>
-  <link href="https://github.com/quoteCancel/configs" />
-  <id>urn:rprimus:github:quoteCancel:configs</id>
-  <published>2021-12-15T20:14:10Z</published>
-  <updated>2021-12-15T20:14:10Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Pham-Hoang-Thach: .emacs.d</title>
-  <author>
-   <name>Pham-Hoang-Thach</name>
-  </author>
-  <link href="https://github.com/Pham-Hoang-Thach/.emacs.d" />
-  <id>urn:rprimus:github:Pham-Hoang-Thach:.emacs.d</id>
-  <published>2021-12-15T19:53:09Z</published>
-  <updated>2021-12-15T19:53:09Z</updated>
-  <content type="html">
-   Emacs Configurations
-  </content>
- </entry>
- <entry>
-  <title>lennikorhonen: emacs-conf</title>
-  <author>
-   <name>lennikorhonen</name>
-  </author>
-  <link href="https://github.com/lennikorhonen/emacs-conf" />
-  <id>urn:rprimus:github:lennikorhonen:emacs-conf</id>
-  <published>2021-12-15T19:29:40Z</published>
-  <updated>2021-12-15T19:29:40Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>zltl: pp-emacs-config</title>
-  <author>
-   <name>zltl</name>
-  </author>
-  <link href="https://github.com/zltl/pp-emacs-config" />
-  <id>urn:rprimus:github:zltl:pp-emacs-config</id>
-  <published>2021-12-15T16:04:30Z</published>
-  <updated>2021-12-15T16:04:30Z</updated>
-  <content type="html">
-   Clean emacs configuration.
-  </content>
- </entry>
- <entry>
-  <title>shaohme: flymake-markdownlint</title>
-  <author>
-   <name>shaohme</name>
-  </author>
-  <link href="https://github.com/shaohme/flymake-markdownlint" />
-  <id>urn:rprimus:github:shaohme:flymake-markdownlint</id>
-  <published>2021-12-15T15:16:45Z</published>
-  <updated>2021-12-15T15:16:45Z</updated>
-  <content type="html">
-   A Flymake backend for validating Markdown files for Emacs
-  </content>
- </entry>
- <entry>
-  <title>johnsnewby: dotemacs</title>
-  <author>
-   <name>johnsnewby</name>
-  </author>
-  <link href="https://github.com/johnsnewby/dotemacs" />
-  <id>urn:rprimus:github:johnsnewby:dotemacs</id>
-  <published>2021-12-15T14:13:24Z</published>
-  <updated>2021-12-15T14:13:24Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>hellocode777: .emacs.d</title>
-  <author>
-   <name>hellocode777</name>
-  </author>
-  <link href="https://github.com/hellocode777/.emacs.d" />
-  <id>urn:rprimus:github:hellocode777:.emacs.d</id>
-  <published>2021-12-15T12:56:13Z</published>
-  <updated>2021-12-15T12:56:13Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>rgyca: LearnEmacs</title>
-  <author>
-   <name>rgyca</name>
-  </author>
-  <link href="https://github.com/rgyca/LearnEmacs" />
-  <id>urn:rprimus:github:rgyca:LearnEmacs</id>
-  <published>2021-12-15T12:43:55Z</published>
-  <updated>2021-12-15T12:43:55Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Patriot720: consult-taskrunner</title>
-  <author>
-   <name>Patriot720</name>
-  </author>
-  <link href="https://github.com/Patriot720/consult-taskrunner" />
-  <id>urn:rprimus:github:Patriot720:consult-taskrunner</id>
-  <published>2021-12-15T12:26:24Z</published>
-  <updated>2021-12-15T12:26:24Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>rafacore69: configs</title>
-  <author>
-   <name>rafacore69</name>
-  </author>
-  <link href="https://github.com/rafacore69/configs" />
-  <id>urn:rprimus:github:rafacore69:configs</id>
-  <published>2021-12-15T11:59:23Z</published>
-  <updated>2021-12-15T11:59:23Z</updated>
-  <content type="html">
-   My configs
-  </content>
- </entry>
- <entry>
-  <title>jared-nelsen: .doom.d</title>
-  <author>
-   <name>jared-nelsen</name>
-  </author>
-  <link href="https://github.com/jared-nelsen/.doom.d" />
-  <id>urn:rprimus:github:jared-nelsen:.doom.d</id>
-  <published>2021-12-15T11:46:22Z</published>
-  <updated>2021-12-15T11:46:22Z</updated>
-  <content type="html">
-   My Doom Emacs configuration
-  </content>
- </entry>
- <entry>
-  <title>lm0xfffe: .emacs.d</title>
-  <author>
-   <name>lm0xfffe</name>
-  </author>
-  <link href="https://github.com/lm0xfffe/.emacs.d" />
-  <id>urn:rprimus:github:lm0xfffe:.emacs.d</id>
-  <published>2021-12-15T09:36:08Z</published>
-  <updated>2021-12-15T09:36:08Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>nightjd: dotconfig</title>
-  <author>
-   <name>nightjd</name>
-  </author>
-  <link href="https://github.com/nightjd/dotconfig" />
-  <id>urn:rprimus:github:nightjd:dotconfig</id>
-  <published>2021-12-15T05:58:07Z</published>
-  <updated>2021-12-15T05:58:07Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>mmz-zmm: emacs</title>
-  <author>
-   <name>mmz-zmm</name>
-  </author>
-  <link href="https://github.com/mmz-zmm/emacs" />
-  <id>urn:rprimus:github:mmz-zmm:emacs</id>
-  <published>2021-12-15T05:49:59Z</published>
-  <updated>2021-12-15T05:49:59Z</updated>
-  <content type="html">
-   emacs config, orgmode
-  </content>
- </entry>
- <entry>
-  <title>ilyaw39: .doom.d</title>
-  <author>
-   <name>ilyaw39</name>
-  </author>
-  <link href="https://github.com/ilyaw39/.doom.d" />
-  <id>urn:rprimus:github:ilyaw39:.doom.d</id>
-  <published>2021-12-15T02:56:53Z</published>
-  <updated>2021-12-15T02:56:53Z</updated>
-  <content type="html">
-   Doom Emacs configurations
   </content>
  </entry>
 </feed>
