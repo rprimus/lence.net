@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-12-18T07:16:32Z</updated>
+<updated>2021-12-18T21:59:52Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>marcus3santos: automarker</title>
+  <author>
+   <name>marcus3santos</name>
+  </author>
+  <link href="https://github.com/marcus3santos/automarker" />
+  <id>urn:rprimus:github:marcus3santos:automarker</id>
+  <published>2021-12-18T21:59:52Z</published>
+  <updated>2021-12-18T21:59:52Z</updated>
+  <content type="html">
+   An automated marker for lisp program assignments where the students&#039; assignment solutions have been exported from D2L
+  </content>
+ </entry>
+ <entry>
+  <title>mahirvaluj: sadt</title>
+  <author>
+   <name>mahirvaluj</name>
+  </author>
+  <link href="https://github.com/mahirvaluj/sadt" />
+  <id>urn:rprimus:github:mahirvaluj:sadt</id>
+  <published>2021-12-18T19:19:43Z</published>
+  <updated>2021-12-18T19:19:43Z</updated>
+  <content type="html">
+   Very barebones implementation of ADTs in common lisp using CLOS
+  </content>
+ </entry>
+ <entry>
+  <title>yitzchak: trivial-package-locks</title>
+  <author>
+   <name>yitzchak</name>
+  </author>
+  <link href="https://github.com/yitzchak/trivial-package-locks" />
+  <id>urn:rprimus:github:yitzchak:trivial-package-locks</id>
+  <published>2021-12-18T17:42:49Z</published>
+  <updated>2021-12-18T17:42:49Z</updated>
+  <content type="html">
+   A standard interface to the various package lock implementations of Common Lisp.
+  </content>
+ </entry>
+ <entry>
+  <title>nhuff: lisp-web</title>
+  <author>
+   <name>nhuff</name>
+  </author>
+  <link href="https://github.com/nhuff/lisp-web" />
+  <id>urn:rprimus:github:nhuff:lisp-web</id>
+  <published>2021-12-18T16:17:12Z</published>
+  <updated>2021-12-18T16:17:12Z</updated>
+  <content type="html">
+   toy common lisp web application
+  </content>
+ </entry>
+ <entry>
+  <title>mihaicristiantanase: cl-statemachine-to-swift</title>
+  <author>
+   <name>mihaicristiantanase</name>
+  </author>
+  <link href="https://github.com/mihaicristiantanase/cl-statemachine-to-swift" />
+  <id>urn:rprimus:github:mihaicristiantanase:cl-statemachine-to-swift</id>
+  <published>2021-12-18T16:13:57Z</published>
+  <updated>2021-12-18T16:13:57Z</updated>
+  <content type="html">
+   This is a project to generate a StateMachine swift class from a state machine described in Common Lisp.
+  </content>
+ </entry>
+ <entry>
+  <title>ntrocado: nt-parameter-optimization</title>
+  <author>
+   <name>ntrocado</name>
+  </author>
+  <link href="https://github.com/ntrocado/nt-parameter-optimization" />
+  <id>urn:rprimus:github:ntrocado:nt-parameter-optimization</id>
+  <published>2021-12-18T11:44:28Z</published>
+  <updated>2021-12-18T11:44:28Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>FractalCoding: Lisp-Stuff</title>
   <author>
@@ -106,123 +184,6 @@
   <updated>2021-12-17T01:52:12Z</updated>
   <content type="html">
    Propositional Logic from PAIP and AIMA
-  </content>
- </entry>
- <entry>
-  <title>cl-boost: targa</title>
-  <author>
-   <name>cl-boost</name>
-  </author>
-  <link href="https://github.com/cl-boost/targa" />
-  <id>urn:rprimus:github:cl-boost:targa</id>
-  <published>2021-12-16T22:36:45Z</published>
-  <updated>2021-12-16T22:36:45Z</updated>
-  <content type="html">
-   Targa Image Loading for Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>anthonysteel: geoff</title>
-  <author>
-   <name>anthonysteel</name>
-  </author>
-  <link href="https://github.com/anthonysteel/geoff" />
-  <id>urn:rprimus:github:anthonysteel:geoff</id>
-  <published>2021-12-16T22:33:46Z</published>
-  <updated>2021-12-16T22:33:46Z</updated>
-  <content type="html">
-   Sudoku solving device for Dad&#039;s Christmas present
-  </content>
- </entry>
- <entry>
-  <title>nerdbeard: comfy</title>
-  <author>
-   <name>nerdbeard</name>
-  </author>
-  <link href="https://github.com/nerdbeard/comfy" />
-  <id>urn:rprimus:github:nerdbeard:comfy</id>
-  <published>2021-12-16T22:28:54Z</published>
-  <updated>2021-12-16T22:28:54Z</updated>
-  <content type="html">
-   comfy.el --- COMFY-65 language for 6502
-  </content>
- </entry>
- <entry>
-  <title>cl-boost: pathfind</title>
-  <author>
-   <name>cl-boost</name>
-  </author>
-  <link href="https://github.com/cl-boost/pathfind" />
-  <id>urn:rprimus:github:cl-boost:pathfind</id>
-  <published>2021-12-16T21:13:26Z</published>
-  <updated>2021-12-16T21:13:26Z</updated>
-  <content type="html">
-   A* Pathfinding for Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>cl-boost: huffman</title>
-  <author>
-   <name>cl-boost</name>
-  </author>
-  <link href="https://github.com/cl-boost/huffman" />
-  <id>urn:rprimus:github:cl-boost:huffman</id>
-  <published>2021-12-16T21:11:30Z</published>
-  <updated>2021-12-16T21:11:30Z</updated>
-  <content type="html">
-   Huffman Coding for Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>cl-boost: heap</title>
-  <author>
-   <name>cl-boost</name>
-  </author>
-  <link href="https://github.com/cl-boost/heap" />
-  <id>urn:rprimus:github:cl-boost:heap</id>
-  <published>2021-12-16T21:10:34Z</published>
-  <updated>2021-12-16T21:10:34Z</updated>
-  <content type="html">
-   Binary Heap for Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>Evgenion47: lispep</title>
-  <author>
-   <name>Evgenion47</name>
-  </author>
-  <link href="https://github.com/Evgenion47/lispep" />
-  <id>urn:rprimus:github:Evgenion47:lispep</id>
-  <published>2021-12-16T17:45:54Z</published>
-  <updated>2021-12-16T17:45:54Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>wlharvey4: CL-SVURL</title>
-  <author>
-   <name>wlharvey4</name>
-  </author>
-  <link href="https://github.com/wlharvey4/CL-SVURL" />
-  <id>urn:rprimus:github:wlharvey4:CL-SVURL</id>
-  <published>2021-12-16T01:05:31Z</published>
-  <updated>2021-12-16T01:05:31Z</updated>
-  <content type="html">
-   Common-Lisp SVURL version
-  </content>
- </entry>
- <entry>
-  <title>NicholasBHubbard: Y8664-Emulator</title>
-  <author>
-   <name>NicholasBHubbard</name>
-  </author>
-  <link href="https://github.com/NicholasBHubbard/Y8664-Emulator" />
-  <id>urn:rprimus:github:NicholasBHubbard:Y8664-Emulator</id>
-  <published>2021-12-16T00:36:23Z</published>
-  <updated>2021-12-16T00:36:23Z</updated>
-  <content type="html">
-   Emulator for the Y86-64 ISA defined in CSAPP
   </content>
  </entry>
 </feed>
