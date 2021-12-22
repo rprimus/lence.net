@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2021-12-21T05:15:57Z</updated>
+<updated>2021-12-22T02:54:16Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>colinkey: whichttp</title>
+  <author>
+   <name>colinkey</name>
+  </author>
+  <link href="https://github.com/colinkey/whichttp" />
+  <id>urn:rprimus:github:colinkey:whichttp</id>
+  <published>2021-12-22T02:54:16Z</published>
+  <updated>2021-12-22T02:54:16Z</updated>
+  <content type="html">
+   CLI lookup tool for HTTP Status Codes
+  </content>
+ </entry>
  <entry>
   <title>jinyus: cr_dirsplitter</title>
   <author>
@@ -66,7 +79,7 @@
   <published>2021-12-20T07:13:21Z</published>
   <updated>2021-12-20T07:13:21Z</updated>
   <content type="html">
-   leetcode answers in crystal ð®
+   leetcode answers in crystal. ð®
   </content>
  </entry>
 </feed>
