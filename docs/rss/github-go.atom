@@ -2,8 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-go.atom"/>
 <id>urn:rprimus:github:newgorepos</id>
-<updated>2021-12-23T10:01:04Z</updated>
+<updated>2021-12-23T16:32:28Z</updated>
 <title type='text'>New GitHub Go Repos</title>
+ <entry>
+  <title>p4u: twitter_poll_catalanDAO</title>
+  <author>
+   <name>p4u</name>
+  </author>
+  <link href="https://github.com/p4u/twitter_poll_catalanDAO" />
+  <id>urn:rprimus:github:p4u:twitter_poll_catalanDAO</id>
+  <published>2021-12-23T16:32:28Z</published>
+  <updated>2021-12-23T16:32:28Z</updated>
+  <content type="html">
+   test
+  </content>
+ </entry>
+ <entry>
+  <title>purplecarrot: listen</title>
+  <author>
+   <name>purplecarrot</name>
+  </author>
+  <link href="https://github.com/purplecarrot/listen" />
+  <id>urn:rprimus:github:purplecarrot:listen</id>
+  <published>2021-12-23T16:02:17Z</published>
+  <updated>2021-12-23T16:02:17Z</updated>
+  <content type="html">
+   Program to simultaneously listen and respond on multiple TCP/UDP ports
+  </content>
+ </entry>
+ <entry>
+  <title>rrowniak: gopicosql</title>
+  <author>
+   <name>rrowniak</name>
+  </author>
+  <link href="https://github.com/rrowniak/gopicosql" />
+  <id>urn:rprimus:github:rrowniak:gopicosql</id>
+  <published>2021-12-23T15:05:14Z</published>
+  <updated>2021-12-23T15:05:14Z</updated>
+  <content type="html">
+   Lightweight SQL database written in Go for prototyping and playing with text (CSV, JSON) data.
+  </content>
+ </entry>
+ <entry>
+  <title>vinigracindo: fiber-gorm-clean-architecture</title>
+  <author>
+   <name>vinigracindo</name>
+  </author>
+  <link href="https://github.com/vinigracindo/fiber-gorm-clean-architecture" />
+  <id>urn:rprimus:github:vinigracindo:fiber-gorm-clean-architecture</id>
+  <published>2021-12-23T13:39:09Z</published>
+  <updated>2021-12-23T13:39:09Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>isoboroff: dedupe</title>
+  <author>
+   <name>isoboroff</name>
+  </author>
+  <link href="https://github.com/isoboroff/dedupe" />
+  <id>urn:rprimus:github:isoboroff:dedupe</id>
+  <published>2021-12-23T13:30:20Z</published>
+  <updated>2021-12-23T13:30:20Z</updated>
+  <content type="html">
+   A LSH-based minhash deduper
+  </content>
+ </entry>
+ <entry>
+  <title>vineet-garg: assignment-1</title>
+  <author>
+   <name>vineet-garg</name>
+  </author>
+  <link href="https://github.com/vineet-garg/assignment-1" />
+  <id>urn:rprimus:github:vineet-garg:assignment-1</id>
+  <published>2021-12-23T12:59:21Z</published>
+  <updated>2021-12-23T12:59:21Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>dactoankmapydev: site-screenshot</title>
+  <author>
+   <name>dactoankmapydev</name>
+  </author>
+  <link href="https://github.com/dactoankmapydev/site-screenshot" />
+  <id>urn:rprimus:github:dactoankmapydev:site-screenshot</id>
+  <published>2021-12-23T10:31:03Z</published>
+  <updated>2021-12-23T10:31:03Z</updated>
+  <content type="html">
+   Chá»¥p áº£nh mÃ n hÃ¬nh website
+  </content>
+ </entry>
  <entry>
   <title>vence722: file-traveler</title>
   <author>
@@ -31,6 +122,19 @@
   </content>
  </entry>
  <entry>
+  <title>skillz-blockchain: eth2-keystore-converter</title>
+  <author>
+   <name>skillz-blockchain</name>
+  </author>
+  <link href="https://github.com/skillz-blockchain/eth2-keystore-converter" />
+  <id>urn:rprimus:github:skillz-blockchain:eth2-keystore-converter</id>
+  <published>2021-12-23T09:32:01Z</published>
+  <updated>2021-12-23T09:32:01Z</updated>
+  <content type="html">
+   Converts Eth2 EIP-2335 scrypt keystores to pbkdf2 keystores (and vice-versa).
+  </content>
+ </entry>
+ <entry>
   <title>tier2pool: tier2pool</title>
   <author>
    <name>tier2pool</name>
@@ -40,7 +144,7 @@
   <published>2021-12-23T09:25:12Z</published>
   <updated>2021-12-23T09:25:12Z</updated>
   <content type="html">
-   A mining pool proxy tool.
+   A mining pool proxy tool, support BTC, ETH, ETC, XMR mining pool, etc.
   </content>
  </entry>
  <entry>
@@ -67,32 +171,6 @@
   <updated>2021-12-23T08:44:03Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>zcyc: go-example</title>
-  <author>
-   <name>zcyc</name>
-  </author>
-  <link href="https://github.com/zcyc/go-example" />
-  <id>urn:rprimus:github:zcyc:go-example</id>
-  <published>2021-12-23T08:36:20Z</published>
-  <updated>2021-12-23T08:36:20Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>songleo: hostname-app</title>
-  <author>
-   <name>songleo</name>
-  </author>
-  <link href="https://github.com/songleo/hostname-app" />
-  <id>urn:rprimus:github:songleo:hostname-app</id>
-  <published>2021-12-23T08:24:30Z</published>
-  <updated>2021-12-23T08:24:30Z</updated>
-  <content type="html">
-   hostname app
   </content>
  </entry>
  <entry>
@@ -148,19 +226,6 @@
   </content>
  </entry>
  <entry>
-  <title>reborn-go: redis</title>
-  <author>
-   <name>reborn-go</name>
-  </author>
-  <link href="https://github.com/reborn-go/redis" />
-  <id>urn:rprimus:github:reborn-go:redis</id>
-  <published>2021-12-23T06:47:16Z</published>
-  <updated>2021-12-23T06:47:16Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
   <title>eicesoft: deploy_server</title>
   <author>
    <name>eicesoft</name>
@@ -213,19 +278,6 @@
   </content>
  </entry>
  <entry>
-  <title>gmhorn: aoc21</title>
-  <author>
-   <name>gmhorn</name>
-  </author>
-  <link href="https://github.com/gmhorn/aoc21" />
-  <id>urn:rprimus:github:gmhorn:aoc21</id>
-  <published>2021-12-23T05:27:11Z</published>
-  <updated>2021-12-23T05:27:11Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
   <title>shameby: go-jpsplus</title>
   <author>
    <name>shameby</name>
@@ -239,6 +291,19 @@
   </content>
  </entry>
  <entry>
+  <title>FlowingSPDG: resolume-go</title>
+  <author>
+   <name>FlowingSPDG</name>
+  </author>
+  <link href="https://github.com/FlowingSPDG/resolume-go" />
+  <id>urn:rprimus:github:FlowingSPDG:resolume-go</id>
+  <published>2021-12-23T05:16:20Z</published>
+  <updated>2021-12-23T05:16:20Z</updated>
+  <content type="html">
+   Resolume library for Go(golang)
+  </content>
+ </entry>
+ <entry>
   <title>gamert23: react-go</title>
   <author>
    <name>gamert23</name>
@@ -247,19 +312,6 @@
   <id>urn:rprimus:github:gamert23:react-go</id>
   <published>2021-12-23T04:50:59Z</published>
   <updated>2021-12-23T04:50:59Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>huyouba1: gitlab-ci-k8s-demo</title>
-  <author>
-   <name>huyouba1</name>
-  </author>
-  <link href="https://github.com/huyouba1/gitlab-ci-k8s-demo" />
-  <id>urn:rprimus:github:huyouba1:gitlab-ci-k8s-demo</id>
-  <published>2021-12-23T04:32:42Z</published>
-  <updated>2021-12-23T04:32:42Z</updated>
   <content type="html">
    
   </content>
@@ -278,19 +330,6 @@
   </content>
  </entry>
  <entry>
-  <title>WahidinAji: struktur-data-set</title>
-  <author>
-   <name>WahidinAji</name>
-  </author>
-  <link href="https://github.com/WahidinAji/struktur-data-set" />
-  <id>urn:rprimus:github:WahidinAji:struktur-data-set</id>
-  <published>2021-12-23T03:55:53Z</published>
-  <updated>2021-12-23T03:55:53Z</updated>
-  <content type="html">
-   inspiration by PZN
-  </content>
- </entry>
- <entry>
   <title>victory460: vmtool</title>
   <author>
    <name>victory460</name>
@@ -304,55 +343,16 @@
   </content>
  </entry>
  <entry>
-  <title>uzrnem: source-code-files</title>
+  <title>ArsFy: cluckcdn_control</title>
   <author>
-   <name>uzrnem</name>
+   <name>ArsFy</name>
   </author>
-  <link href="https://github.com/uzrnem/source-code-files" />
-  <id>urn:rprimus:github:uzrnem:source-code-files</id>
-  <published>2021-12-23T03:19:57Z</published>
-  <updated>2021-12-23T03:19:57Z</updated>
+  <link href="https://github.com/ArsFy/cluckcdn_control" />
+  <id>urn:rprimus:github:ArsFy:cluckcdn_control</id>
+  <published>2021-12-23T01:13:50Z</published>
+  <updated>2021-12-23T01:13:50Z</updated>
   <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>thugging: tinytowers</title>
-  <author>
-   <name>thugging</name>
-  </author>
-  <link href="https://github.com/thugging/tinytowers" />
-  <id>urn:rprimus:github:thugging:tinytowers</id>
-  <published>2021-12-23T02:37:38Z</published>
-  <updated>2021-12-23T02:37:38Z</updated>
-  <content type="html">
-   A Discord bot based off the game Tiny Towers.
-  </content>
- </entry>
- <entry>
-  <title>mikemando: go-mini-projects</title>
-  <author>
-   <name>mikemando</name>
-  </author>
-  <link href="https://github.com/mikemando/go-mini-projects" />
-  <id>urn:rprimus:github:mikemando:go-mini-projects</id>
-  <published>2021-12-23T02:19:50Z</published>
-  <updated>2021-12-23T02:19:50Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>sunnysunshinee: go-gin-demo</title>
-  <author>
-   <name>sunnysunshinee</name>
-  </author>
-  <link href="https://github.com/sunnysunshinee/go-gin-demo" />
-  <id>urn:rprimus:github:sunnysunshinee:go-gin-demo</id>
-  <published>2021-12-23T01:53:07Z</published>
-  <updated>2021-12-23T01:53:07Z</updated>
-  <content type="html">
-   
+   CDN for Open Source, Non-commercial CDN management
   </content>
  </entry>
  <entry>
@@ -392,6 +392,19 @@
   <updated>2021-12-23T00:03:02Z</updated>
   <content type="html">
    
+  </content>
+ </entry>
+ <entry>
+  <title>takeyourhatoff: qoi</title>
+  <author>
+   <name>takeyourhatoff</name>
+  </author>
+  <link href="https://github.com/takeyourhatoff/qoi" />
+  <id>urn:rprimus:github:takeyourhatoff:qoi</id>
+  <published>2021-12-22T23:15:27Z</published>
+  <updated>2021-12-22T23:15:27Z</updated>
+  <content type="html">
+   QOI - The âQuite OK Image Formatâ for Go
   </content>
  </entry>
  <entry>
@@ -460,6 +473,19 @@
   </content>
  </entry>
  <entry>
+  <title>goreleaser: supply-chain-example</title>
+  <author>
+   <name>goreleaser</name>
+  </author>
+  <link href="https://github.com/goreleaser/supply-chain-example" />
+  <id>urn:rprimus:github:goreleaser:supply-chain-example</id>
+  <published>2021-12-22T19:17:33Z</published>
+  <updated>2021-12-22T19:17:33Z</updated>
+  <content type="html">
+   Example goreleaser + github actions config with keyless signing and SBOM generation
+  </content>
+ </entry>
+ <entry>
   <title>recolude: landmark-recordings</title>
   <author>
    <name>recolude</name>
@@ -482,7 +508,7 @@
   <published>2021-12-22T16:26:27Z</published>
   <updated>2021-12-22T16:26:27Z</updated>
   <content type="html">
-   Go library for calculating the Nutri-Score
+   Go library for calculating the Nutri-Score of foods and beverages.
   </content>
  </entry>
  <entry>
@@ -509,19 +535,6 @@
   <updated>2021-12-22T16:11:33Z</updated>
   <content type="html">
    Golang&#039;s Context package examples
-  </content>
- </entry>
- <entry>
-  <title>afif1400: curr-converter</title>
-  <author>
-   <name>afif1400</name>
-  </author>
-  <link href="https://github.com/afif1400/curr-converter" />
-  <id>urn:rprimus:github:afif1400:curr-converter</id>
-  <published>2021-12-22T14:29:22Z</published>
-  <updated>2021-12-22T14:29:22Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
  <entry>
@@ -587,19 +600,6 @@
   <updated>2021-12-22T10:20:13Z</updated>
   <content type="html">
    A sample for okteto pipelines with terraform
-  </content>
- </entry>
- <entry>
-  <title>robowealth-mutual-fund: gotime</title>
-  <author>
-   <name>robowealth-mutual-fund</name>
-  </author>
-  <link href="https://github.com/robowealth-mutual-fund/gotime" />
-  <id>urn:rprimus:github:robowealth-mutual-fund:gotime</id>
-  <published>2021-12-22T09:03:19Z</published>
-  <updated>2021-12-22T09:03:19Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
  <entry>
@@ -1019,19 +1019,6 @@
   </content>
  </entry>
  <entry>
-  <title>chanwit: tf-controller</title>
-  <author>
-   <name>chanwit</name>
-  </author>
-  <link href="https://github.com/chanwit/tf-controller" />
-  <id>urn:rprimus:github:chanwit:tf-controller</id>
-  <published>2021-12-21T11:42:43Z</published>
-  <updated>2021-12-21T11:42:43Z</updated>
-  <content type="html">
-   A Terraform controller for Flux
-  </content>
- </entry>
- <entry>
   <title>borakasmer: GoSquidGame</title>
   <author>
    <name>borakasmer</name>
@@ -1107,6 +1094,19 @@
   <updated>2021-12-21T07:30:45Z</updated>
   <content type="html">
    TibiaData API written in Golang and deployed in container (which contains v3)
+  </content>
+ </entry>
+ <entry>
+  <title>JsDumplings: guo-go</title>
+  <author>
+   <name>JsDumplings</name>
+  </author>
+  <link href="https://github.com/JsDumplings/guo-go" />
+  <id>urn:rprimus:github:JsDumplings:guo-go</id>
+  <published>2021-12-21T07:03:38Z</published>
+  <updated>2021-12-21T07:03:38Z</updated>
+  <content type="html">
+   ç®¡çåå°ç³»ç»(åç«¯ go)
   </content>
  </entry>
  <entry>
