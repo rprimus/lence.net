@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2021-12-21T23:42:54Z</updated>
+<updated>2021-12-22T17:11:13Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>vanyle: RangeQueriesNim</title>
+  <author>
+   <name>vanyle</name>
+  </author>
+  <link href="https://github.com/vanyle/RangeQueriesNim" />
+  <id>urn:rprimus:github:vanyle:RangeQueriesNim</id>
+  <published>2021-12-22T17:11:13Z</published>
+  <updated>2021-12-22T17:11:13Z</updated>
+  <content type="html">
+   An implementation of Range Queries in Nim
+  </content>
+ </entry>
+ <entry>
+  <title>zihhuafang: slivar_vep105</title>
+  <author>
+   <name>zihhuafang</name>
+  </author>
+  <link href="https://github.com/zihhuafang/slivar_vep105" />
+  <id>urn:rprimus:github:zihhuafang:slivar_vep105</id>
+  <published>2021-12-22T16:51:21Z</published>
+  <updated>2021-12-22T16:51:21Z</updated>
+  <content type="html">
+   Modified slivar for vep105 and tsv ouput
+  </content>
+ </entry>
+ <entry>
+  <title>Smintheus98: strim</title>
+  <author>
+   <name>Smintheus98</name>
+  </author>
+  <link href="https://github.com/Smintheus98/strim" />
+  <id>urn:rprimus:github:Smintheus98:strim</id>
+  <published>2021-12-22T11:10:10Z</published>
+  <updated>2021-12-22T11:10:10Z</updated>
+  <content type="html">
+   A sub-string command line tool for Shell scripting
+  </content>
+ </entry>
  <entry>
   <title>ajpc500: NimlineWhispers2</title>
   <author>
@@ -171,123 +210,6 @@
   <updated>2021-12-21T00:57:04Z</updated>
   <content type="html">
    A dead simple, no-nonsense parser combinator library written in pure Nim.
-  </content>
- </entry>
- <entry>
-  <title>mhcoma: Sibalmal.nim</title>
-  <author>
-   <name>mhcoma</name>
-  </author>
-  <link href="https://github.com/mhcoma/Sibalmal.nim" />
-  <id>urn:rprimus:github:mhcoma:Sibalmal.nim</id>
-  <published>2021-12-20T18:59:56Z</published>
-  <updated>2021-12-20T18:59:56Z</updated>
-  <content type="html">
-   Sibalmal interpreter written in Nim
-  </content>
- </entry>
- <entry>
-  <title>sigmaSd: nimcolor</title>
-  <author>
-   <name>sigmaSd</name>
-  </author>
-  <link href="https://github.com/sigmaSd/nimcolor" />
-  <id>urn:rprimus:github:sigmaSd:nimcolor</id>
-  <published>2021-12-20T18:07:16Z</published>
-  <updated>2021-12-20T18:07:16Z</updated>
-  <content type="html">
-   Easy API for terminal colors
-  </content>
- </entry>
- <entry>
-  <title>dariolah: c2nimui</title>
-  <author>
-   <name>dariolah</name>
-  </author>
-  <link href="https://github.com/dariolah/c2nimui" />
-  <id>urn:rprimus:github:dariolah:c2nimui</id>
-  <published>2021-12-20T17:24:03Z</published>
-  <updated>2021-12-20T17:24:03Z</updated>
-  <content type="html">
-   User interface for c2nim
-  </content>
- </entry>
- <entry>
-  <title>prettybauble: prettyvec</title>
-  <author>
-   <name>prettybauble</name>
-  </author>
-  <link href="https://github.com/prettybauble/prettyvec" />
-  <id>urn:rprimus:github:prettybauble:prettyvec</id>
-  <published>2021-12-20T11:39:51Z</published>
-  <updated>2021-12-20T11:39:51Z</updated>
-  <content type="html">
-   Small library for working with vectors
-  </content>
- </entry>
- <entry>
-  <title>rkben: nbar</title>
-  <author>
-   <name>rkben</name>
-  </author>
-  <link href="https://github.com/rkben/nbar" />
-  <id>urn:rprimus:github:rkben:nbar</id>
-  <published>2021-12-20T11:29:31Z</published>
-  <updated>2021-12-20T11:29:31Z</updated>
-  <content type="html">
-   Tiny status bar in Nim
-  </content>
- </entry>
- <entry>
-  <title>dizzyliam: flower</title>
-  <author>
-   <name>dizzyliam</name>
-  </author>
-  <link href="https://github.com/dizzyliam/flower" />
-  <id>urn:rprimus:github:dizzyliam:flower</id>
-  <published>2021-12-20T09:53:35Z</published>
-  <updated>2021-12-20T09:53:35Z</updated>
-  <content type="html">
-   A pure Nim bloom filter.
-  </content>
- </entry>
- <entry>
-  <title>MegaIng: tc_hs_extractor</title>
-  <author>
-   <name>MegaIng</name>
-  </author>
-  <link href="https://github.com/MegaIng/tc_hs_extractor" />
-  <id>urn:rprimus:github:MegaIng:tc_hs_extractor</id>
-  <published>2021-12-20T08:37:52Z</published>
-  <updated>2021-12-20T08:37:52Z</updated>
-  <content type="html">
-   An Unpacker for .hs/.sol files used by the game Turing Complete
-  </content>
- </entry>
- <entry>
-  <title>shayanhabibi: wrflock</title>
-  <author>
-   <name>shayanhabibi</name>
-  </author>
-  <link href="https://github.com/shayanhabibi/wrflock" />
-  <id>urn:rprimus:github:shayanhabibi:wrflock</id>
-  <published>2021-12-20T08:36:07Z</published>
-  <updated>2021-12-20T08:36:07Z</updated>
-  <content type="html">
-   Pure nim implementation of the sync primitive proposed by Mariusz Orlikowski - WRFLock
-  </content>
- </entry>
- <entry>
-  <title>XDEmer0r-L0rd-360-G0d-SlayerXD: simple_inject</title>
-  <author>
-   <name>XDEmer0r-L0rd-360-G0d-SlayerXD</name>
-  </author>
-  <link href="https://github.com/XDEmer0r-L0rd-360-G0d-SlayerXD/simple_inject" />
-  <id>urn:rprimus:github:XDEmer0r-L0rd-360-G0d-SlayerXD:simple_inject</id>
-  <published>2021-12-20T02:25:15Z</published>
-  <updated>2021-12-20T02:25:15Z</updated>
-  <content type="html">
-   Provides a way to mark procs to allow later code injection. Works in a simmilar way as marking objects for exports.
   </content>
  </entry>
 </feed>

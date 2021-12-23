@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2021-12-22T10:30:29Z</updated>
+<updated>2021-12-23T00:17:39Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>HunterCrosland: Prolog-and-OCaml</title>
+  <author>
+   <name>HunterCrosland</name>
+  </author>
+  <link href="https://github.com/HunterCrosland/Prolog-and-OCaml" />
+  <id>urn:rprimus:github:HunterCrosland:Prolog-and-OCaml</id>
+  <published>2021-12-23T00:17:39Z</published>
+  <updated>2021-12-23T00:17:39Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>mrkerwinchen: CoffeeShop</title>
+  <author>
+   <name>mrkerwinchen</name>
+  </author>
+  <link href="https://github.com/mrkerwinchen/CoffeeShop" />
+  <id>urn:rprimus:github:mrkerwinchen:CoffeeShop</id>
+  <published>2021-12-22T19:58:26Z</published>
+  <updated>2021-12-22T19:58:26Z</updated>
+  <content type="html">
+   Coffee Shop Simulation Game
+  </content>
+ </entry>
+ <entry>
+  <title>ThomasDelepine: Mini-C</title>
+  <author>
+   <name>ThomasDelepine</name>
+  </author>
+  <link href="https://github.com/ThomasDelepine/Mini-C" />
+  <id>urn:rprimus:github:ThomasDelepine:Mini-C</id>
+  <published>2021-12-22T19:05:59Z</published>
+  <updated>2021-12-22T19:05:59Z</updated>
+  <content type="html">
+   Frontend compiler and interpreter for Mini-C
+  </content>
+ </entry>
+ <entry>
+  <title>DenisMarine: InvariantsSMTLIB</title>
+  <author>
+   <name>DenisMarine</name>
+  </author>
+  <link href="https://github.com/DenisMarine/InvariantsSMTLIB" />
+  <id>urn:rprimus:github:DenisMarine:InvariantsSMTLIB</id>
+  <published>2021-12-22T12:11:00Z</published>
+  <updated>2021-12-22T12:11:00Z</updated>
+  <content type="html">
+   SynthÃ¨se d&#039;invariants en SMTLIB en Ocaml
+  </content>
+ </entry>
+ <entry>
+  <title>DenisMarine: SolveurDPLL</title>
+  <author>
+   <name>DenisMarine</name>
+  </author>
+  <link href="https://github.com/DenisMarine/SolveurDPLL" />
+  <id>urn:rprimus:github:DenisMarine:SolveurDPLL</id>
+  <published>2021-12-22T12:03:16Z</published>
+  <updated>2021-12-22T12:03:16Z</updated>
+  <content type="html">
+   mini-projet solveur DPLL rÃ©cursif en Ocaml
+  </content>
+ </entry>
+ <entry>
+  <title>mikolajszym00: wpf_sortowanie_topologiczne</title>
+  <author>
+   <name>mikolajszym00</name>
+  </author>
+  <link href="https://github.com/mikolajszym00/wpf_sortowanie_topologiczne" />
+  <id>urn:rprimus:github:mikolajszym00:wpf_sortowanie_topologiczne</id>
+  <published>2021-12-22T10:48:43Z</published>
+  <updated>2021-12-22T10:48:43Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>voodoos: mash-and-furious</title>
   <author>
@@ -53,7 +131,7 @@
   <published>2021-12-22T05:39:40Z</published>
   <updated>2021-12-22T05:39:40Z</updated>
   <content type="html">
-   
+   My very tiny number theory project with OCaml. More updates to come.
   </content>
  </entry>
  <entry>
@@ -78,6 +156,19 @@
   <id>urn:rprimus:github:hongchangwu:defunctionalization</id>
   <published>2021-12-21T22:52:51Z</published>
   <updated>2021-12-21T22:52:51Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>DrNogNog: OCaml-2021-22</title>
+  <author>
+   <name>DrNogNog</name>
+  </author>
+  <link href="https://github.com/DrNogNog/OCaml-2021-22" />
+  <id>urn:rprimus:github:DrNogNog:OCaml-2021-22</id>
+  <published>2021-12-21T20:39:45Z</published>
+  <updated>2021-12-21T20:39:45Z</updated>
   <content type="html">
    
   </content>
@@ -119,6 +210,19 @@
   <updated>2021-12-21T15:40:52Z</updated>
   <content type="html">
    Shim layer around Opium for producing Openapi documentation pages
+  </content>
+ </entry>
+ <entry>
+  <title>dune-universe: duniverse-lint</title>
+  <author>
+   <name>dune-universe</name>
+  </author>
+  <link href="https://github.com/dune-universe/duniverse-lint" />
+  <id>urn:rprimus:github:dune-universe:duniverse-lint</id>
+  <published>2021-12-21T15:07:01Z</published>
+  <updated>2021-12-21T15:07:01Z</updated>
+  <content type="html">
+   He who controls the lint controls the duniverse
   </content>
  </entry>
  <entry>
@@ -197,97 +301,6 @@
   <updated>2021-12-21T06:20:44Z</updated>
   <content type="html">
    Completing Advent of Code 2021 in OCaml
-  </content>
- </entry>
- <entry>
-  <title>ethanstanley: chess-game</title>
-  <author>
-   <name>ethanstanley</name>
-  </author>
-  <link href="https://github.com/ethanstanley/chess-game" />
-  <id>urn:rprimus:github:ethanstanley:chess-game</id>
-  <published>2021-12-20T23:32:03Z</published>
-  <updated>2021-12-20T23:32:03Z</updated>
-  <content type="html">
-   A two player chess game created with OCaml.
-  </content>
- </entry>
- <entry>
-  <title>DavidTimms: advent-of-code-2021-ocaml</title>
-  <author>
-   <name>DavidTimms</name>
-  </author>
-  <link href="https://github.com/DavidTimms/advent-of-code-2021-ocaml" />
-  <id>urn:rprimus:github:DavidTimms:advent-of-code-2021-ocaml</id>
-  <published>2021-12-20T22:28:34Z</published>
-  <updated>2021-12-20T22:28:34Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jessica0801: camlproj</title>
-  <author>
-   <name>jessica0801</name>
-  </author>
-  <link href="https://github.com/jessica0801/camlproj" />
-  <id>urn:rprimus:github:jessica0801:camlproj</id>
-  <published>2021-12-20T16:45:55Z</published>
-  <updated>2021-12-20T16:45:55Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>calebmkim: nba_trade_machine</title>
-  <author>
-   <name>calebmkim</name>
-  </author>
-  <link href="https://github.com/calebmkim/nba_trade_machine" />
-  <id>urn:rprimus:github:calebmkim:nba_trade_machine</id>
-  <published>2021-12-20T14:16:25Z</published>
-  <updated>2021-12-20T14:16:25Z</updated>
-  <content type="html">
-   NBA trade machine, mirror of a project from my school github account. 
-  </content>
- </entry>
- <entry>
-  <title>lambdam: advent-of-code-2021-ocaml</title>
-  <author>
-   <name>lambdam</name>
-  </author>
-  <link href="https://github.com/lambdam/advent-of-code-2021-ocaml" />
-  <id>urn:rprimus:github:lambdam:advent-of-code-2021-ocaml</id>
-  <published>2021-12-20T09:50:45Z</published>
-  <updated>2021-12-20T09:50:45Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>wasabi315: LkProver</title>
-  <author>
-   <name>wasabi315</name>
-  </author>
-  <link href="https://github.com/wasabi315/LkProver" />
-  <id>urn:rprimus:github:wasabi315:LkProver</id>
-  <published>2021-12-20T08:18:15Z</published>
-  <updated>2021-12-20T08:18:15Z</updated>
-  <content type="html">
-   An automated LK deduction
-  </content>
- </entry>
- <entry>
-  <title>Saisriram2003: OcamlInterpreter</title>
-  <author>
-   <name>Saisriram2003</name>
-  </author>
-  <link href="https://github.com/Saisriram2003/OcamlInterpreter" />
-  <id>urn:rprimus:github:Saisriram2003:OcamlInterpreter</id>
-  <published>2021-12-20T04:14:39Z</published>
-  <updated>2021-12-20T04:14:39Z</updated>
-  <content type="html">
-   Compiler &amp; Interpreter in Ocaml
   </content>
  </entry>
 </feed>
