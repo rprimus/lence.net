@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-12-23T12:23:25Z</updated>
+<updated>2021-12-23T20:40:12Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>fade: covariant</title>
+  <author>
+   <name>fade</name>
+  </author>
+  <link href="https://github.com/fade/covariant" />
+  <id>urn:rprimus:github:fade:covariant</id>
+  <published>2021-12-23T20:40:12Z</published>
+  <updated>2021-12-23T20:40:12Z</updated>
+  <content type="html">
+   get statistical data about covid from canonical resources (Canada)
+  </content>
+ </entry>
+ <entry>
+  <title>rainthree: papi</title>
+  <author>
+   <name>rainthree</name>
+  </author>
+  <link href="https://github.com/rainthree/papi" />
+  <id>urn:rprimus:github:rainthree:papi</id>
+  <published>2021-12-23T18:25:46Z</published>
+  <updated>2021-12-23T18:25:46Z</updated>
+  <content type="html">
+   API Portability Layer
+  </content>
+ </entry>
  <entry>
   <title>jaypmorgan: advent-of-code-2021</title>
   <author>
@@ -119,84 +145,6 @@
   <updated>2021-12-22T06:52:15Z</updated>
   <content type="html">
    Toy implementation of a Trie or Prefix Tree in Common Lisp.
-  </content>
- </entry>
- <entry>
-  <title>svetlyak40wt: esrap-playground</title>
-  <author>
-   <name>svetlyak40wt</name>
-  </author>
-  <link href="https://github.com/svetlyak40wt/esrap-playground" />
-  <id>urn:rprimus:github:svetlyak40wt:esrap-playground</id>
-  <published>2021-12-21T21:58:10Z</published>
-  <updated>2021-12-21T21:58:10Z</updated>
-  <content type="html">
-   Toy ASDF system with my playground where I&#039;m using ESRAP Common Lisp parser
-  </content>
- </entry>
- <entry>
-  <title>aru-hackZ: lisp-practice</title>
-  <author>
-   <name>aru-hackZ</name>
-  </author>
-  <link href="https://github.com/aru-hackZ/lisp-practice" />
-  <id>urn:rprimus:github:aru-hackZ:lisp-practice</id>
-  <published>2021-12-21T18:40:34Z</published>
-  <updated>2021-12-21T18:40:34Z</updated>
-  <content type="html">
-   Learning lisp by remaking the exercises made in java in https://github.com/s1dam-azarquiel-2021/aru-java
-  </content>
- </entry>
- <entry>
-  <title>ktozheyatakoi: pacman_lab5</title>
-  <author>
-   <name>ktozheyatakoi</name>
-  </author>
-  <link href="https://github.com/ktozheyatakoi/pacman_lab5" />
-  <id>urn:rprimus:github:ktozheyatakoi:pacman_lab5</id>
-  <published>2021-12-21T17:39:30Z</published>
-  <updated>2021-12-21T17:39:30Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>louis-parent: LispVM</title>
-  <author>
-   <name>louis-parent</name>
-  </author>
-  <link href="https://github.com/louis-parent/LispVM" />
-  <id>urn:rprimus:github:louis-parent:LispVM</id>
-  <published>2021-12-21T16:31:14Z</published>
-  <updated>2021-12-21T16:31:14Z</updated>
-  <content type="html">
-   Compiler and virtual machine for Lisp written in Lisp as part of the HAI705I lesson of compilation
-  </content>
- </entry>
- <entry>
-  <title>ancientstraits: commonlisp_test</title>
-  <author>
-   <name>ancientstraits</name>
-  </author>
-  <link href="https://github.com/ancientstraits/commonlisp_test" />
-  <id>urn:rprimus:github:ancientstraits:commonlisp_test</id>
-  <published>2021-12-21T12:37:41Z</published>
-  <updated>2021-12-21T12:37:41Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>nuddyco: probably</title>
-  <author>
-   <name>nuddyco</name>
-  </author>
-  <link href="https://github.com/nuddyco/probably" />
-  <id>urn:rprimus:github:nuddyco:probably</id>
-  <published>2021-12-21T06:46:45Z</published>
-  <updated>2021-12-21T06:46:45Z</updated>
-  <content type="html">
-   Toy probabilistic programming framework in Lisp
   </content>
  </entry>
 </feed>
