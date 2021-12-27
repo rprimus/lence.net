@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2021-12-27T03:45:15Z</updated>
+<updated>2021-12-27T10:04:18Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>contactmukulsaini: emacs.d</title>
+  <author>
+   <name>contactmukulsaini</name>
+  </author>
+  <link href="https://github.com/contactmukulsaini/emacs.d" />
+  <id>urn:rprimus:github:contactmukulsaini:emacs.d</id>
+  <published>2021-12-27T10:04:18Z</published>
+  <updated>2021-12-27T10:04:18Z</updated>
+  <content type="html">
+   Emacs configuration settings for Clojure development
+  </content>
+ </entry>
+ <entry>
+  <title>Walheimat: emacs-config</title>
+  <author>
+   <name>Walheimat</name>
+  </author>
+  <link href="https://github.com/Walheimat/emacs-config" />
+  <id>urn:rprimus:github:Walheimat:emacs-config</id>
+  <published>2021-12-27T07:40:30Z</published>
+  <updated>2021-12-27T07:40:30Z</updated>
+  <content type="html">
+   My personal literate package-like Emacs config.
+  </content>
+ </entry>
+ <entry>
+  <title>enricoflor: syntree</title>
+  <author>
+   <name>enricoflor</name>
+  </author>
+  <link href="https://github.com/enricoflor/syntree" />
+  <id>urn:rprimus:github:enricoflor:syntree</id>
+  <published>2021-12-27T05:18:38Z</published>
+  <updated>2021-12-27T05:18:38Z</updated>
+  <content type="html">
+   Draw plain text constituency trees in GNU Emacs
+  </content>
+ </entry>
  <entry>
   <title>duckwork: titlecase.el</title>
   <author>
@@ -15,6 +54,19 @@
   <updated>2021-12-27T03:45:15Z</updated>
   <content type="html">
    Titlecase things in Emacs
+  </content>
+ </entry>
+ <entry>
+  <title>Psychoanalytic-Interventions: freud-cases</title>
+  <author>
+   <name>Psychoanalytic-Interventions</name>
+  </author>
+  <link href="https://github.com/Psychoanalytic-Interventions/freud-cases" />
+  <id>urn:rprimus:github:Psychoanalytic-Interventions:freud-cases</id>
+  <published>2021-12-27T03:27:09Z</published>
+  <updated>2021-12-27T03:27:09Z</updated>
+  <content type="html">
+   Chronology, bibliography and interpretations related to all of Freud&#039;s cases.
   </content>
  </entry>
  <entry>
@@ -57,19 +109,6 @@
   </content>
  </entry>
  <entry>
-  <title>enricoflor: syntree</title>
-  <author>
-   <name>enricoflor</name>
-  </author>
-  <link href="https://github.com/enricoflor/syntree" />
-  <id>urn:rprimus:github:enricoflor:syntree</id>
-  <published>2021-12-26T22:23:02Z</published>
-  <updated>2021-12-26T22:23:02Z</updated>
-  <content type="html">
-   Draw plain text constituency trees in GNU Emacs
-  </content>
- </entry>
- <entry>
   <title>nullman: config</title>
   <author>
    <name>nullman</name>
@@ -96,12 +135,12 @@
   </content>
  </entry>
  <entry>
-  <title>protesilaos: INVTR</title>
+  <title>protesilaos: invtr</title>
   <author>
    <name>protesilaos</name>
   </author>
-  <link href="https://github.com/protesilaos/INVTR" />
-  <id>urn:rprimus:github:protesilaos:INVTR</id>
+  <link href="https://github.com/protesilaos/invtr" />
+  <id>urn:rprimus:github:protesilaos:invtr</id>
   <published>2021-12-26T18:45:36Z</published>
   <updated>2021-12-26T18:45:36Z</updated>
   <content type="html">
@@ -339,7 +378,7 @@
   <published>2021-12-25T14:26:23Z</published>
   <updated>2021-12-25T14:26:23Z</updated>
   <content type="html">
-   Beginner Emacs is a highly opinionated respin of my dotemacs intended for non-technical users such as my neighbours and friends whom I intend to support in person.
+   Beginner Emacs is a highly opinionated respin of my dotemacs intended for non-technical users such as my neighbours and friends whom I intend to support in person.  NOT FOR GENERAL USE.
   </content>
  </entry>
  <entry>
