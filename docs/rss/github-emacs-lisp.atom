@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2021-12-29T08:15:38Z</updated>
+<updated>2021-12-29T21:07:32Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>davemq: elfeed-score-adaptive</title>
+  <author>
+   <name>davemq</name>
+  </author>
+  <link href="https://github.com/davemq/elfeed-score-adaptive" />
+  <id>urn:rprimus:github:davemq:elfeed-score-adaptive</id>
+  <published>2021-12-29T21:07:32Z</published>
+  <updated>2021-12-29T21:07:32Z</updated>
+  <content type="html">
+   Adaptive scoring for elfeed-score
+  </content>
+ </entry>
+ <entry>
+  <title>mrkrd: tributary</title>
+  <author>
+   <name>mrkrd</name>
+  </author>
+  <link href="https://github.com/mrkrd/tributary" />
+  <id>urn:rprimus:github:mrkrd:tributary</id>
+  <published>2021-12-29T20:15:59Z</published>
+  <updated>2021-12-29T20:15:59Z</updated>
+  <content type="html">
+   Edit Confluence wiki pages in Emacs.
+  </content>
+ </entry>
+ <entry>
+  <title>jpe90: emacs-deps-new</title>
+  <author>
+   <name>jpe90</name>
+  </author>
+  <link href="https://github.com/jpe90/emacs-deps-new" />
+  <id>urn:rprimus:github:jpe90:emacs-deps-new</id>
+  <published>2021-12-29T18:11:24Z</published>
+  <updated>2021-12-29T18:11:24Z</updated>
+  <content type="html">
+   Elisp wrapper around deps.new
+  </content>
+ </entry>
+ <entry>
+  <title>susam: emfy</title>
+  <author>
+   <name>susam</name>
+  </author>
+  <link href="https://github.com/susam/emfy" />
+  <id>urn:rprimus:github:susam:emfy</id>
+  <published>2021-12-29T16:31:18Z</published>
+  <updated>2021-12-29T16:31:18Z</updated>
+  <content type="html">
+   A 72 line ~/.emacs to quickly set up vanilla Emacs for general purpose editing and programming
+  </content>
+ </entry>
+ <entry>
+  <title>luyajun01: lisp</title>
+  <author>
+   <name>luyajun01</name>
+  </author>
+  <link href="https://github.com/luyajun01/lisp" />
+  <id>urn:rprimus:github:luyajun01:lisp</id>
+  <published>2021-12-29T15:26:20Z</published>
+  <updated>2021-12-29T15:26:20Z</updated>
+  <content type="html">
+   my .emacs.d files
+  </content>
+ </entry>
+ <entry>
+  <title>mtaech: .emacs.d</title>
+  <author>
+   <name>mtaech</name>
+  </author>
+  <link href="https://github.com/mtaech/.emacs.d" />
+  <id>urn:rprimus:github:mtaech:.emacs.d</id>
+  <published>2021-12-29T13:07:37Z</published>
+  <updated>2021-12-29T13:07:37Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>cowkami: emacs_configs</title>
   <author>
@@ -53,7 +131,7 @@
   <published>2021-12-29T00:07:56Z</published>
   <updated>2021-12-29T00:07:56Z</updated>
   <content type="html">
-   Mirror of the ilist package from GNU ELPA, current as of 2021-12-29
+   Mirror of the ilist package from GNU ELPA, current as of 2021-12-30
   </content>
  </entry>
  <entry>
@@ -66,7 +144,7 @@
   <published>2021-12-29T00:07:22Z</published>
   <updated>2021-12-29T00:07:22Z</updated>
   <content type="html">
-   Mirror of the blist package from GNU ELPA, current as of 2021-12-29
+   Mirror of the blist package from GNU ELPA, current as of 2021-12-30
   </content>
  </entry>
  <entry>
@@ -235,7 +313,7 @@
   <published>2021-12-28T00:07:44Z</published>
   <updated>2021-12-28T00:07:44Z</updated>
   <content type="html">
-   Mirror of the svg-tag-mode package from GNU ELPA, current as of 2021-12-29
+   Mirror of the svg-tag-mode package from GNU ELPA, current as of 2021-12-30
   </content>
  </entry>
  <entry>
@@ -249,227 +327,6 @@
   <updated>2021-12-28T00:07:13Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>junjizhi: aide.el</title>
-  <author>
-   <name>junjizhi</name>
-  </author>
-  <link href="https://github.com/junjizhi/aide.el" />
-  <id>urn:rprimus:github:junjizhi:aide.el</id>
-  <published>2021-12-27T22:38:52Z</published>
-  <updated>2021-12-27T22:38:52Z</updated>
-  <content type="html">
-   An Emacs front end for GPT APIs like OpenAI
-  </content>
- </entry>
- <entry>
-  <title>nathanmcunha: mydotfiles</title>
-  <author>
-   <name>nathanmcunha</name>
-  </author>
-  <link href="https://github.com/nathanmcunha/mydotfiles" />
-  <id>urn:rprimus:github:nathanmcunha:mydotfiles</id>
-  <published>2021-12-27T21:48:21Z</published>
-  <updated>2021-12-27T21:48:21Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ApricotLace: no-noise-theme</title>
-  <author>
-   <name>ApricotLace</name>
-  </author>
-  <link href="https://github.com/ApricotLace/no-noise-theme" />
-  <id>urn:rprimus:github:ApricotLace:no-noise-theme</id>
-  <published>2021-12-27T19:52:58Z</published>
-  <updated>2021-12-27T19:52:58Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>coutego: ctgtl</title>
-  <author>
-   <name>coutego</name>
-  </author>
-  <link href="https://github.com/coutego/ctgtl" />
-  <id>urn:rprimus:github:coutego:ctgtl</id>
-  <published>2021-12-27T19:22:05Z</published>
-  <updated>2021-12-27T19:22:05Z</updated>
-  <content type="html">
-   Quick time log package for Emacs
-  </content>
- </entry>
- <entry>
-  <title>pezra: pezra.github.io</title>
-  <author>
-   <name>pezra</name>
-  </author>
-  <link href="https://github.com/pezra/pezra.github.io" />
-  <id>urn:rprimus:github:pezra:pezra.github.io</id>
-  <published>2021-12-27T19:10:50Z</published>
-  <updated>2021-12-27T19:10:50Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Zorbn: .emacs.d</title>
-  <author>
-   <name>Zorbn</name>
-  </author>
-  <link href="https://github.com/Zorbn/.emacs.d" />
-  <id>urn:rprimus:github:Zorbn:.emacs.d</id>
-  <published>2021-12-27T18:03:31Z</published>
-  <updated>2021-12-27T18:03:31Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>md-arif-shaikh: tzc</title>
-  <author>
-   <name>md-arif-shaikh</name>
-  </author>
-  <link href="https://github.com/md-arif-shaikh/tzc" />
-  <id>urn:rprimus:github:md-arif-shaikh:tzc</id>
-  <published>2021-12-27T17:35:15Z</published>
-  <updated>2021-12-27T17:35:15Z</updated>
-  <content type="html">
-   Time Zone Converter for Emacs
-  </content>
- </entry>
- <entry>
-  <title>sathyavijayan: satsmacs</title>
-  <author>
-   <name>sathyavijayan</name>
-  </author>
-  <link href="https://github.com/sathyavijayan/satsmacs" />
-  <id>urn:rprimus:github:sathyavijayan:satsmacs</id>
-  <published>2021-12-27T16:12:45Z</published>
-  <updated>2021-12-27T16:12:45Z</updated>
-  <content type="html">
-   My personal spacemacs layer
-  </content>
- </entry>
- <entry>
-  <title>svuki: configs</title>
-  <author>
-   <name>svuki</name>
-  </author>
-  <link href="https://github.com/svuki/configs" />
-  <id>urn:rprimus:github:svuki:configs</id>
-  <published>2021-12-27T15:44:24Z</published>
-  <updated>2021-12-27T15:44:24Z</updated>
-  <content type="html">
-   Dotfiles &amp; more
-  </content>
- </entry>
- <entry>
-  <title>thisch: dashboard-table.el</title>
-  <author>
-   <name>thisch</name>
-  </author>
-  <link href="https://github.com/thisch/dashboard-table.el" />
-  <id>urn:rprimus:github:thisch:dashboard-table.el</id>
-  <published>2021-12-27T13:41:57Z</published>
-  <updated>2021-12-27T13:41:57Z</updated>
-  <content type="html">
-   emacs major mode for creating dashboards consisting of named tabular data
-  </content>
- </entry>
- <entry>
-  <title>contactmukulsaini: emacs.d</title>
-  <author>
-   <name>contactmukulsaini</name>
-  </author>
-  <link href="https://github.com/contactmukulsaini/emacs.d" />
-  <id>urn:rprimus:github:contactmukulsaini:emacs.d</id>
-  <published>2021-12-27T10:04:18Z</published>
-  <updated>2021-12-27T10:04:18Z</updated>
-  <content type="html">
-   Emacs configuration settings for Clojure development
-  </content>
- </entry>
- <entry>
-  <title>mtaech: .emacs.d</title>
-  <author>
-   <name>mtaech</name>
-  </author>
-  <link href="https://github.com/mtaech/.emacs.d" />
-  <id>urn:rprimus:github:mtaech:.emacs.d</id>
-  <published>2021-12-27T09:07:37Z</published>
-  <updated>2021-12-27T09:07:37Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Walheimat: emacs-config</title>
-  <author>
-   <name>Walheimat</name>
-  </author>
-  <link href="https://github.com/Walheimat/emacs-config" />
-  <id>urn:rprimus:github:Walheimat:emacs-config</id>
-  <published>2021-12-27T07:40:30Z</published>
-  <updated>2021-12-27T07:40:30Z</updated>
-  <content type="html">
-   My personal literate package-like Emacs config.
-  </content>
- </entry>
- <entry>
-  <title>enricoflor: syntree</title>
-  <author>
-   <name>enricoflor</name>
-  </author>
-  <link href="https://github.com/enricoflor/syntree" />
-  <id>urn:rprimus:github:enricoflor:syntree</id>
-  <published>2021-12-27T05:18:38Z</published>
-  <updated>2021-12-27T05:18:38Z</updated>
-  <content type="html">
-   Draw plain text constituency trees in GNU Emacs
-  </content>
- </entry>
- <entry>
-  <title>duckwork: titlecase.el</title>
-  <author>
-   <name>duckwork</name>
-  </author>
-  <link href="https://github.com/duckwork/titlecase.el" />
-  <id>urn:rprimus:github:duckwork:titlecase.el</id>
-  <published>2021-12-27T03:45:15Z</published>
-  <updated>2021-12-27T03:45:15Z</updated>
-  <content type="html">
-   Titlecase things in Emacs
-  </content>
- </entry>
- <entry>
-  <title>drshapeless: ox-shapelesshtml</title>
-  <author>
-   <name>drshapeless</name>
-  </author>
-  <link href="https://github.com/drshapeless/ox-shapelesshtml" />
-  <id>urn:rprimus:github:drshapeless:ox-shapelesshtml</id>
-  <published>2021-12-27T02:42:16Z</published>
-  <updated>2021-12-27T02:42:16Z</updated>
-  <content type="html">
-   Minimalistic org html export backend
-  </content>
- </entry>
- <entry>
-  <title>snxx-lppxx: toit-mode</title>
-  <author>
-   <name>snxx-lppxx</name>
-  </author>
-  <link href="https://github.com/snxx-lppxx/toit-mode" />
-  <id>urn:rprimus:github:snxx-lppxx:toit-mode</id>
-  <published>2021-12-27T01:15:01Z</published>
-  <updated>2021-12-27T01:15:01Z</updated>
-  <content type="html">
-   Toit mode for Emacs.
   </content>
  </entry>
 </feed>
