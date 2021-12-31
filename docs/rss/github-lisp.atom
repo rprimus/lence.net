@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2021-12-30T06:17:15Z</updated>
+<updated>2021-12-31T03:25:27Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>CirrusClouds: conway-animation</title>
+  <author>
+   <name>CirrusClouds</name>
+  </author>
+  <link href="https://github.com/CirrusClouds/conway-animation" />
+  <id>urn:rprimus:github:CirrusClouds:conway-animation</id>
+  <published>2021-12-31T03:25:27Z</published>
+  <updated>2021-12-31T03:25:27Z</updated>
+  <content type="html">
+   Conway&#039;s Game of Life written in Common Lisp and animated with SDL2 using CFFI bindings
+  </content>
+ </entry>
+ <entry>
+  <title>jcguu95: stumpwm-dynamic-float</title>
+  <author>
+   <name>jcguu95</name>
+  </author>
+  <link href="https://github.com/jcguu95/stumpwm-dynamic-float" />
+  <id>urn:rprimus:github:jcguu95:stumpwm-dynamic-float</id>
+  <published>2021-12-30T23:44:36Z</published>
+  <updated>2021-12-30T23:44:36Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>salvipeter: advent2015</title>
+  <author>
+   <name>salvipeter</name>
+  </author>
+  <link href="https://github.com/salvipeter/advent2015" />
+  <id>urn:rprimus:github:salvipeter:advent2015</id>
+  <published>2021-12-30T23:12:46Z</published>
+  <updated>2021-12-30T23:12:46Z</updated>
+  <content type="html">
+   My solutions to the Advent of Code 2015
+  </content>
+ </entry>
+ <entry>
+  <title>agostonsipos: advent_of_code_2015</title>
+  <author>
+   <name>agostonsipos</name>
+  </author>
+  <link href="https://github.com/agostonsipos/advent_of_code_2015" />
+  <id>urn:rprimus:github:agostonsipos:advent_of_code_2015</id>
+  <published>2021-12-30T17:48:51Z</published>
+  <updated>2021-12-30T17:48:51Z</updated>
+  <content type="html">
+   Advent of code 2015 in Common Lisp (hopefully)
+  </content>
+ </entry>
+ <entry>
+  <title>msasaki666: land-of-lisp-prac</title>
+  <author>
+   <name>msasaki666</name>
+  </author>
+  <link href="https://github.com/msasaki666/land-of-lisp-prac" />
+  <id>urn:rprimus:github:msasaki666:land-of-lisp-prac</id>
+  <published>2021-12-30T14:32:56Z</published>
+  <updated>2021-12-30T14:32:56Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>kaanbozdogan: Lisp</title>
+  <author>
+   <name>kaanbozdogan</name>
+  </author>
+  <link href="https://github.com/kaanbozdogan/Lisp" />
+  <id>urn:rprimus:github:kaanbozdogan:Lisp</id>
+  <published>2021-12-30T12:02:57Z</published>
+  <updated>2021-12-30T12:02:57Z</updated>
+  <content type="html">
+   G++ lexer and interpreter implementation using lisp.
+  </content>
+ </entry>
  <entry>
   <title>jstoddard: observatory</title>
   <author>
@@ -92,7 +170,7 @@
   <published>2021-12-29T12:29:35Z</published>
   <updated>2021-12-29T12:29:35Z</updated>
   <content type="html">
-   
+   CL2NIX is a tool to assist in maintaining Common Lisp in Nix
   </content>
  </entry>
  <entry>
@@ -119,58 +197,6 @@
   <updated>2021-12-29T02:12:50Z</updated>
   <content type="html">
    A library for generating fixtures quickly and flexibly - modeled on the great factory_bot
-  </content>
- </entry>
- <entry>
-  <title>Tannerdh1: CS463-Principles-of-Programming</title>
-  <author>
-   <name>Tannerdh1</name>
-  </author>
-  <link href="https://github.com/Tannerdh1/CS463-Principles-of-Programming" />
-  <id>urn:rprimus:github:Tannerdh1:CS463-Principles-of-Programming</id>
-  <published>2021-12-28T18:31:12Z</published>
-  <updated>2021-12-28T18:31:12Z</updated>
-  <content type="html">
-   Roanoke College - Computer Science 463 - Principles of Programming
-  </content>
- </entry>
- <entry>
-  <title>NoorKhan: advent-of-code-2021</title>
-  <author>
-   <name>NoorKhan</name>
-  </author>
-  <link href="https://github.com/NoorKhan/advent-of-code-2021" />
-  <id>urn:rprimus:github:NoorKhan:advent-of-code-2021</id>
-  <published>2021-12-28T18:16:12Z</published>
-  <updated>2021-12-28T18:16:12Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>bluejet80: journal-db</title>
-  <author>
-   <name>bluejet80</name>
-  </author>
-  <link href="https://github.com/bluejet80/journal-db" />
-  <id>urn:rprimus:github:bluejet80:journal-db</id>
-  <published>2021-12-28T17:34:27Z</published>
-  <updated>2021-12-28T17:34:27Z</updated>
-  <content type="html">
-   This is where the files for the journal entry database will go
-  </content>
- </entry>
- <entry>
-  <title>jthaman: econtalk-downloader</title>
-  <author>
-   <name>jthaman</name>
-  </author>
-  <link href="https://github.com/jthaman/econtalk-downloader" />
-  <id>urn:rprimus:github:jthaman:econtalk-downloader</id>
-  <published>2021-12-28T15:51:55Z</published>
-  <updated>2021-12-28T15:51:55Z</updated>
-  <content type="html">
-   Download the EconTalk catalog
   </content>
  </entry>
 </feed>
