@@ -2,357 +2,162 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2022-12-21T07:56:24Z</updated>
+<updated>2022-01-01T22:50:58Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
  <entry>
-  <title>grew-nlp: conll</title>
+  <title>JamesScharf: FunctionalBPE</title>
   <author>
-   <name>grew-nlp</name>
+   <name>JamesScharf</name>
   </author>
-  <link href="https://github.com/grew-nlp/conll" />
-  <id>urn:rprimus:github:grew-nlp:conll</id>
-  <published>2022-12-21T07:56:24Z</published>
-  <updated>2022-12-21T07:56:24Z</updated>
+  <link href="https://github.com/JamesScharf/FunctionalBPE" />
+  <id>urn:rprimus:github:JamesScharf:FunctionalBPE</id>
+  <published>2022-01-01T22:50:58Z</published>
+  <updated>2022-01-01T22:50:58Z</updated>
+  <content type="html">
+   This is my attempt at implementing BPE in a functional programming language
+  </content>
+ </entry>
+ <entry>
+  <title>roddyyaga: plank</title>
+  <author>
+   <name>roddyyaga</name>
+  </author>
+  <link href="https://github.com/roddyyaga/plank" />
+  <id>urn:rprimus:github:roddyyaga:plank</id>
+  <published>2022-01-01T20:25:28Z</published>
+  <updated>2022-01-01T20:25:28Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>IzzyFG: Signal_Language</title>
+  <title>joelburget: brr-web-tree-sitter</title>
   <author>
-   <name>IzzyFG</name>
+   <name>joelburget</name>
   </author>
-  <link href="https://github.com/IzzyFG/Signal_Language" />
-  <id>urn:rprimus:github:IzzyFG:Signal_Language</id>
-  <published>2022-12-21T03:53:17Z</published>
-  <updated>2022-12-21T03:53:17Z</updated>
+  <link href="https://github.com/joelburget/brr-web-tree-sitter" />
+  <id>urn:rprimus:github:joelburget:brr-web-tree-sitter</id>
+  <published>2022-01-01T19:28:54Z</published>
+  <updated>2022-01-01T19:28:54Z</updated>
   <content type="html">
-   OCaml Compiler for a c-like language
+   Ocaml (Brr) bindings to web-tree-sitter
   </content>
  </entry>
  <entry>
-  <title>wi11dey: zlang</title>
+  <title>youz: lazyk.grass</title>
   <author>
-   <name>wi11dey</name>
+   <name>youz</name>
   </author>
-  <link href="https://github.com/wi11dey/zlang" />
-  <id>urn:rprimus:github:wi11dey:zlang</id>
-  <published>2022-12-21T00:56:32Z</published>
-  <updated>2022-12-21T00:56:32Z</updated>
+  <link href="https://github.com/youz/lazyk.grass" />
+  <id>urn:rprimus:github:youz:lazyk.grass</id>
+  <published>2022-01-01T12:42:48Z</published>
+  <updated>2022-01-01T12:42:48Z</updated>
   <content type="html">
-   The completely laZy language
+   Lazy K interpreter in Grass language
   </content>
  </entry>
  <entry>
-  <title>nogw: ppx_deriving_variant_record</title>
+  <title>wenhuizhang: ProVerif</title>
   <author>
-   <name>nogw</name>
+   <name>wenhuizhang</name>
   </author>
-  <link href="https://github.com/nogw/ppx_deriving_variant_record" />
-  <id>urn:rprimus:github:nogw:ppx_deriving_variant_record</id>
-  <published>2022-12-20T22:54:11Z</published>
-  <updated>2022-12-20T22:54:11Z</updated>
+  <link href="https://github.com/wenhuizhang/ProVerif" />
+  <id>urn:rprimus:github:wenhuizhang:ProVerif</id>
+  <published>2022-01-01T09:40:29Z</published>
+  <updated>2022-01-01T09:40:29Z</updated>
   <content type="html">
-   Generate constructors for variant records
+   Mirror of ProVerif: Cryptographic protocol verifier in the formal model, https://bblanche.gitlabpages.inria.fr/proverif/
   </content>
  </entry>
  <entry>
-  <title>mattxwang: advent-of-code-22</title>
+  <title>ricxi: algos</title>
   <author>
-   <name>mattxwang</name>
+   <name>ricxi</name>
   </author>
-  <link href="https://github.com/mattxwang/advent-of-code-22" />
-  <id>urn:rprimus:github:mattxwang:advent-of-code-22</id>
-  <published>2022-12-20T22:32:03Z</published>
-  <updated>2022-12-20T22:32:03Z</updated>
-  <content type="html">
-   it&#039;s ocaml time :sunglasses:
-  </content>
- </entry>
- <entry>
-  <title>dlesbre: coq-prettier-makefile</title>
-  <author>
-   <name>dlesbre</name>
-  </author>
-  <link href="https://github.com/dlesbre/coq-prettier-makefile" />
-  <id>urn:rprimus:github:dlesbre:coq-prettier-makefile</id>
-  <published>2022-12-20T22:05:42Z</published>
-  <updated>2022-12-20T22:05:42Z</updated>
+  <link href="https://github.com/ricxi/algos" />
+  <id>urn:rprimus:github:ricxi:algos</id>
+  <published>2021-12-30T20:37:24Z</published>
+  <updated>2021-12-30T20:37:24Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>ShadowproofGamer: PaP_lista10_Lab_Expired</title>
+  <title>andersfugmann: ogrep</title>
   <author>
-   <name>ShadowproofGamer</name>
+   <name>andersfugmann</name>
   </author>
-  <link href="https://github.com/ShadowproofGamer/PaP_lista10_Lab_Expired" />
-  <id>urn:rprimus:github:ShadowproofGamer:PaP_lista10_Lab_Expired</id>
-  <published>2022-12-20T17:14:44Z</published>
-  <updated>2022-12-20T17:14:44Z</updated>
+  <link href="https://github.com/andersfugmann/ogrep" />
+  <id>urn:rprimus:github:andersfugmann:ogrep</id>
+  <published>2021-12-30T16:54:08Z</published>
+  <updated>2021-12-30T16:54:08Z</updated>
+  <content type="html">
+   Recursive grep implemented using ocaml multicore and eio
+  </content>
+ </entry>
+ <entry>
+  <title>andersfugmann: ocaml-non-empty-list</title>
+  <author>
+   <name>andersfugmann</name>
+  </author>
+  <link href="https://github.com/andersfugmann/ocaml-non-empty-list" />
+  <id>urn:rprimus:github:andersfugmann:ocaml-non-empty-list</id>
+  <published>2021-12-30T16:47:48Z</published>
+  <updated>2021-12-30T16:47:48Z</updated>
+  <content type="html">
+   Non-empty list implementation for ocaml
+  </content>
+ </entry>
+ <entry>
+  <title>nobinson20: panamx</title>
+  <author>
+   <name>nobinson20</name>
+  </author>
+  <link href="https://github.com/nobinson20/panamx" />
+  <id>urn:rprimus:github:nobinson20:panamx</id>
+  <published>2021-12-30T16:31:12Z</published>
+  <updated>2021-12-30T16:31:12Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>bgraf: swplayer</title>
+  <title>dinosaure: chamonix</title>
   <author>
-   <name>bgraf</name>
+   <name>dinosaure</name>
   </author>
-  <link href="https://github.com/bgraf/swplayer" />
-  <id>urn:rprimus:github:bgraf:swplayer</id>
-  <published>2022-12-20T13:02:19Z</published>
-  <updated>2022-12-20T13:02:19Z</updated>
+  <link href="https://github.com/dinosaure/chamonix" />
+  <id>urn:rprimus:github:dinosaure:chamonix</id>
+  <published>2021-12-30T16:07:41Z</published>
+  <updated>2021-12-30T16:07:41Z</updated>
   <content type="html">
-   Reimplementation of the sleep-well player
+   Chamo, Chamoni, Chamonix
   </content>
  </entry>
  <entry>
-  <title>OPericao: PP</title>
+  <title>darioteixeira: ox</title>
   <author>
-   <name>OPericao</name>
+   <name>darioteixeira</name>
   </author>
-  <link href="https://github.com/OPericao/PP" />
-  <id>urn:rprimus:github:OPericao:PP</id>
-  <published>2022-12-20T11:22:49Z</published>
-  <updated>2022-12-20T11:22:49Z</updated>
+  <link href="https://github.com/darioteixeira/ox" />
+  <id>urn:rprimus:github:darioteixeira:ox</id>
+  <published>2021-12-30T11:38:59Z</published>
+  <updated>2021-12-30T11:38:59Z</updated>
   <content type="html">
-   
+   An OCaml implementation of the XCS learning classifier system
   </content>
  </entry>
  <entry>
-  <title>Hephaisto-dev: afit</title>
+  <title>HikaruEgashira: sat-solver</title>
   <author>
-   <name>Hephaisto-dev</name>
+   <name>HikaruEgashira</name>
   </author>
-  <link href="https://github.com/Hephaisto-dev/afit" />
-  <id>urn:rprimus:github:Hephaisto-dev:afit</id>
-  <published>2022-12-20T06:12:35Z</published>
-  <updated>2022-12-20T06:12:35Z</updated>
+  <link href="https://github.com/HikaruEgashira/sat-solver" />
+  <id>urn:rprimus:github:HikaruEgashira:sat-solver</id>
+  <published>2021-12-30T07:40:37Z</published>
+  <updated>2021-12-30T07:40:37Z</updated>
   <content type="html">
-   Afit project at EPITA first semester
-  </content>
- </entry>
- <entry>
-  <title>sjboc: homemade_type_theory</title>
-  <author>
-   <name>sjboc</name>
-  </author>
-  <link href="https://github.com/sjboc/homemade_type_theory" />
-  <id>urn:rprimus:github:sjboc:homemade_type_theory</id>
-  <published>2022-12-20T05:16:00Z</published>
-  <updated>2022-12-20T05:16:00Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>seancav03: Texas-Holdem-OCaml</title>
-  <author>
-   <name>seancav03</name>
-  </author>
-  <link href="https://github.com/seancav03/Texas-Holdem-OCaml" />
-  <id>urn:rprimus:github:seancav03:Texas-Holdem-OCaml</id>
-  <published>2022-12-20T02:04:21Z</published>
-  <updated>2022-12-20T02:04:21Z</updated>
-  <content type="html">
-   A Texas Holdem Poker game implemented in OCaml (Functional Programming) as a group final project for Cornell CS 3110.
-  </content>
- </entry>
- <entry>
-  <title>dangreco: aoc</title>
-  <author>
-   <name>dangreco</name>
-  </author>
-  <link href="https://github.com/dangreco/aoc" />
-  <id>urn:rprimus:github:dangreco:aoc</id>
-  <published>2022-12-19T17:33:48Z</published>
-  <updated>2022-12-19T17:33:48Z</updated>
-  <content type="html">
-   Advent of Code
-  </content>
- </entry>
- <entry>
-  <title>krestinshe: venmocaml</title>
-  <author>
-   <name>krestinshe</name>
-  </author>
-  <link href="https://github.com/krestinshe/venmocaml" />
-  <id>urn:rprimus:github:krestinshe:venmocaml</id>
-  <published>2022-12-19T16:28:23Z</published>
-  <updated>2022-12-19T16:28:23Z</updated>
-  <content type="html">
-   VenmOCaml: CS 3110 Fall 2022 Final Project -- Andrea Chen, Christine Shi, Nicole Ku
-  </content>
- </entry>
- <entry>
-  <title>anton2403: PP</title>
-  <author>
-   <name>anton2403</name>
-  </author>
-  <link href="https://github.com/anton2403/PP" />
-  <id>urn:rprimus:github:anton2403:PP</id>
-  <published>2022-12-19T15:32:11Z</published>
-  <updated>2022-12-19T15:32:11Z</updated>
-  <content type="html">
-   PrÃ¡ctica de la asignatura de Paradigmas de ProgramaciÃ³n de la Universidad De A CoruÃ±a (UDC) en el grado de ingenierÃ­a informÃ¡tica curso 2021/2022 GEI-PP 614G010142122
-  </content>
- </entry>
- <entry>
-  <title>grew-nlp: grewpy_backend</title>
-  <author>
-   <name>grew-nlp</name>
-  </author>
-  <link href="https://github.com/grew-nlp/grewpy_backend" />
-  <id>urn:rprimus:github:grew-nlp:grewpy_backend</id>
-  <published>2022-12-19T14:02:42Z</published>
-  <updated>2022-12-19T14:02:42Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Fekinox: aoc-2022</title>
-  <author>
-   <name>Fekinox</name>
-  </author>
-  <link href="https://github.com/Fekinox/aoc-2022" />
-  <id>urn:rprimus:github:Fekinox:aoc-2022</id>
-  <published>2022-12-19T13:59:11Z</published>
-  <updated>2022-12-19T13:59:11Z</updated>
-  <content type="html">
-   Advent of Code 2022, done in OCaml
-  </content>
- </entry>
- <entry>
-  <title>adrien-sanchez: DM4</title>
-  <author>
-   <name>adrien-sanchez</name>
-  </author>
-  <link href="https://github.com/adrien-sanchez/DM4" />
-  <id>urn:rprimus:github:adrien-sanchez:DM4</id>
-  <published>2022-12-19T11:58:25Z</published>
-  <updated>2022-12-19T11:58:25Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>K-dizzled: dune-issue-min-repr-ex</title>
-  <author>
-   <name>K-dizzled</name>
-  </author>
-  <link href="https://github.com/K-dizzled/dune-issue-min-repr-ex" />
-  <id>urn:rprimus:github:K-dizzled:dune-issue-min-repr-ex</id>
-  <published>2022-12-19T11:05:00Z</published>
-  <updated>2022-12-19T11:05:00Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>nmr2701: Ocaml-Interpreter</title>
-  <author>
-   <name>nmr2701</name>
-  </author>
-  <link href="https://github.com/nmr2701/Ocaml-Interpreter" />
-  <id>urn:rprimus:github:nmr2701:Ocaml-Interpreter</id>
-  <published>2022-12-19T10:32:10Z</published>
-  <updated>2022-12-19T10:32:10Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>liwenhua1: oop_find_bug</title>
-  <author>
-   <name>liwenhua1</name>
-  </author>
-  <link href="https://github.com/liwenhua1/oop_find_bug" />
-  <id>urn:rprimus:github:liwenhua1:oop_find_bug</id>
-  <published>2022-12-19T10:11:33Z</published>
-  <updated>2022-12-19T10:11:33Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>AnantShyam: Cornell-Monopoly</title>
-  <author>
-   <name>AnantShyam</name>
-  </author>
-  <link href="https://github.com/AnantShyam/Cornell-Monopoly" />
-  <id>urn:rprimus:github:AnantShyam:Cornell-Monopoly</id>
-  <published>2022-12-19T04:32:50Z</published>
-  <updated>2022-12-19T04:32:50Z</updated>
-  <content type="html">
-   CS 3110 Final Project
-  </content>
- </entry>
- <entry>
-  <title>ArkashJ: OCaml-Interpreter</title>
-  <author>
-   <name>ArkashJ</name>
-  </author>
-  <link href="https://github.com/ArkashJ/OCaml-Interpreter" />
-  <id>urn:rprimus:github:ArkashJ:OCaml-Interpreter</id>
-  <published>2022-12-19T01:44:40Z</published>
-  <updated>2022-12-19T01:44:40Z</updated>
-  <content type="html">
-   An interpreter based on Context Free Language (BNF)  
-  </content>
- </entry>
- <entry>
-  <title>Jolfs: jolly</title>
-  <author>
-   <name>Jolfs</name>
-  </author>
-  <link href="https://github.com/Jolfs/jolly" />
-  <id>urn:rprimus:github:Jolfs:jolly</id>
-  <published>2022-12-19T00:52:09Z</published>
-  <updated>2022-12-19T00:52:09Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>MohamedAlKayd: Lucas-Series</title>
-  <author>
-   <name>MohamedAlKayd</name>
-  </author>
-  <link href="https://github.com/MohamedAlKayd/Lucas-Series" />
-  <id>urn:rprimus:github:MohamedAlKayd:Lucas-Series</id>
-  <published>2022-12-19T00:11:58Z</published>
-  <updated>2022-12-19T00:11:58Z</updated>
-  <content type="html">
-   Ocaml program that computes the sequence of Lucas numbers
-  </content>
- </entry>
- <entry>
-  <title>MohamedAlKayd: Binomial-Program</title>
-  <author>
-   <name>MohamedAlKayd</name>
-  </author>
-  <link href="https://github.com/MohamedAlKayd/Binomial-Program" />
-  <id>urn:rprimus:github:MohamedAlKayd:Binomial-Program</id>
-  <published>2022-12-19T00:10:25Z</published>
-  <updated>2022-12-19T00:10:25Z</updated>
-  <content type="html">
-   Ocaml function that computes the binomial given a collection and positive number
-  </content>
- </entry>
- <entry>
-  <title>MohamedAlKayd: Distance-Formula</title>
-  <author>
-   <name>MohamedAlKayd</name>
-  </author>
-  <link href="https://github.com/MohamedAlKayd/Distance-Formula" />
-  <id>urn:rprimus:github:MohamedAlKayd:Distance-Formula</id>
-  <published>2022-12-19T00:05:08Z</published>
-  <updated>2022-12-19T00:05:08Z</updated>
-  <content type="html">
-   Distance formula program in Ocaml
+   fp + DevOps + QA
   </content>
  </entry>
 </feed>
