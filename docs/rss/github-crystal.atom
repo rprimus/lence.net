@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2021-12-31T03:22:17Z</updated>
+<updated>2021-12-31T23:14:53Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>colinkey: crss</title>
+  <author>
+   <name>colinkey</name>
+  </author>
+  <link href="https://github.com/colinkey/crss" />
+  <id>urn:rprimus:github:colinkey:crss</id>
+  <published>2021-12-31T23:14:53Z</published>
+  <updated>2021-12-31T23:14:53Z</updated>
+  <content type="html">
+   Crystal RSS Parser
+  </content>
+ </entry>
  <entry>
   <title>abudhu: idat</title>
   <author>
@@ -41,58 +54,6 @@
   <updated>2021-12-30T01:00:55Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>mdwagner: importmap-example-lucky</title>
-  <author>
-   <name>mdwagner</name>
-  </author>
-  <link href="https://github.com/mdwagner/importmap-example-lucky" />
-  <id>urn:rprimus:github:mdwagner:importmap-example-lucky</id>
-  <published>2021-12-29T23:22:58Z</published>
-  <updated>2021-12-29T23:22:58Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>squarism: mc_who</title>
-  <author>
-   <name>squarism</name>
-  </author>
-  <link href="https://github.com/squarism/mc_who" />
-  <id>urn:rprimus:github:squarism:mc_who</id>
-  <published>2021-12-29T21:47:38Z</published>
-  <updated>2021-12-29T21:47:38Z</updated>
-  <content type="html">
-   A CLI program to quickly print the list of players on a minecraft server.
-  </content>
- </entry>
- <entry>
-  <title>tijn: gpiod</title>
-  <author>
-   <name>tijn</name>
-  </author>
-  <link href="https://github.com/tijn/gpiod" />
-  <id>urn:rprimus:github:tijn:gpiod</id>
-  <published>2021-12-29T21:04:53Z</published>
-  <updated>2021-12-29T21:04:53Z</updated>
-  <content type="html">
-   Crystal bindings for the new Linux kernel GPIO user space interface (/dev/gpiochip*)
-  </content>
- </entry>
- <entry>
-  <title>konovod: ctsm</title>
-  <author>
-   <name>konovod</name>
-  </author>
-  <link href="https://github.com/konovod/ctsm" />
-  <id>urn:rprimus:github:konovod:ctsm</id>
-  <published>2021-12-29T17:54:14Z</published>
-  <updated>2021-12-29T17:54:14Z</updated>
-  <content type="html">
-   compile-time generated FSMs for fun and profit
   </content>
  </entry>
 </feed>

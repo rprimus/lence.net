@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-scheme.atom"/>
 <id>urn:rprimus:github:newschemerepos</id>
-<updated>2021-12-31T07:21:08Z</updated>
+<updated>2022-01-01T03:31:26Z</updated>
 <title type='text'>New GitHub Scheme Repos</title>
+ <entry>
+  <title>feeley: bonjour</title>
+  <author>
+   <name>feeley</name>
+  </author>
+  <link href="https://github.com/feeley/bonjour" />
+  <id>urn:rprimus:github:feeley:bonjour</id>
+  <published>2022-01-01T03:31:26Z</published>
+  <updated>2022-01-01T03:31:26Z</updated>
+  <content type="html">
+   A Gambit Scheme module that uses the module gambit.com/gambit/hello
+  </content>
+ </entry>
+ <entry>
+  <title>foggynight: ascii-breaker</title>
+  <author>
+   <name>foggynight</name>
+  </author>
+  <link href="https://github.com/foggynight/ascii-breaker" />
+  <id>urn:rprimus:github:foggynight:ascii-breaker</id>
+  <published>2022-01-01T00:09:34Z</published>
+  <updated>2022-01-01T00:09:34Z</updated>
+  <content type="html">
+   ASCII brick breaker game at the command line.
+  </content>
+ </entry>
+ <entry>
+  <title>johnhilts: sicp</title>
+  <author>
+   <name>johnhilts</name>
+  </author>
+  <link href="https://github.com/johnhilts/sicp" />
+  <id>urn:rprimus:github:johnhilts:sicp</id>
+  <published>2021-12-31T08:16:17Z</published>
+  <updated>2021-12-31T08:16:17Z</updated>
+  <content type="html">
+   SICP solutions in scheme and Common Lisp
+  </content>
+ </entry>
  <entry>
   <title>boredream: SICP</title>
   <author>
@@ -132,110 +171,6 @@
   <updated>2021-12-30T01:59:41Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>TheJadeResistor: Concrete-Abstractions-Solutions</title>
-  <author>
-   <name>TheJadeResistor</name>
-  </author>
-  <link href="https://github.com/TheJadeResistor/Concrete-Abstractions-Solutions" />
-  <id>urn:rprimus:github:TheJadeResistor:Concrete-Abstractions-Solutions</id>
-  <published>2021-12-29T23:41:21Z</published>
-  <updated>2021-12-29T23:41:21Z</updated>
-  <content type="html">
-   Answers to the Concrete Abstractions textbook examples by Max Hailperin, Barbara Kaiser, and Karl Knight. 
-  </content>
- </entry>
- <entry>
-  <title>FoxySeta: abelson-sussman-sussman-structure-and-interpretation-of-computer-programs</title>
-  <author>
-   <name>FoxySeta</name>
-  </author>
-  <link href="https://github.com/FoxySeta/abelson-sussman-sussman-structure-and-interpretation-of-computer-programs" />
-  <id>urn:rprimus:github:FoxySeta:abelson-sussman-sussman-structure-and-interpretation-of-computer-programs</id>
-  <published>2021-12-29T22:11:18Z</published>
-  <updated>2021-12-29T22:11:18Z</updated>
-  <content type="html">
-   Exercises presented in Abelson, Harold, et al. &quot;Structure and Interpretation of Computer Programs&quot;. 2nd ed.
-  </content>
- </entry>
- <entry>
-  <title>srejgn: IERI-IRT-Academy</title>
-  <author>
-   <name>srejgn</name>
-  </author>
-  <link href="https://github.com/srejgn/IERI-IRT-Academy" />
-  <id>urn:rprimus:github:srejgn:IERI-IRT-Academy</id>
-  <published>2021-12-29T19:45:10Z</published>
-  <updated>2021-12-29T19:45:10Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>robertmcatee: robertmcatee.github.io</title>
-  <author>
-   <name>robertmcatee</name>
-  </author>
-  <link href="https://github.com/robertmcatee/robertmcatee.github.io" />
-  <id>urn:rprimus:github:robertmcatee:robertmcatee.github.io</id>
-  <published>2021-12-29T18:10:35Z</published>
-  <updated>2021-12-29T18:10:35Z</updated>
-  <content type="html">
-   Repo containing the code and static site content for my personal page
-  </content>
- </entry>
- <entry>
-  <title>ekinchin: sicp</title>
-  <author>
-   <name>ekinchin</name>
-  </author>
-  <link href="https://github.com/ekinchin/sicp" />
-  <id>urn:rprimus:github:ekinchin:sicp</id>
-  <published>2021-12-29T17:42:36Z</published>
-  <updated>2021-12-29T17:42:36Z</updated>
-  <content type="html">
-   &quot;ÐÑÐ¾ÑÐ¾Ð¶Ð´ÐµÐ½Ð¸Ðµ&quot; SICP
-  </content>
- </entry>
- <entry>
-  <title>buravlev-arthur: sicp</title>
-  <author>
-   <name>buravlev-arthur</name>
-  </author>
-  <link href="https://github.com/buravlev-arthur/sicp" />
-  <id>urn:rprimus:github:buravlev-arthur:sicp</id>
-  <published>2021-12-29T13:50:03Z</published>
-  <updated>2021-12-29T13:50:03Z</updated>
-  <content type="html">
-   Complited tasks from SICP course
-  </content>
- </entry>
- <entry>
-  <title>Industrial: configuration-xfce</title>
-  <author>
-   <name>Industrial</name>
-  </author>
-  <link href="https://github.com/Industrial/configuration-xfce" />
-  <id>urn:rprimus:github:Industrial:configuration-xfce</id>
-  <published>2021-12-29T12:30:45Z</published>
-  <updated>2021-12-29T12:30:45Z</updated>
-  <content type="html">
-   My XFCE configuration
-  </content>
- </entry>
- <entry>
-  <title>aryamuhajir: laundry-kodular</title>
-  <author>
-   <name>aryamuhajir</name>
-  </author>
-  <link href="https://github.com/aryamuhajir/laundry-kodular" />
-  <id>urn:rprimus:github:aryamuhajir:laundry-kodular</id>
-  <published>2021-12-29T00:52:49Z</published>
-  <updated>2021-12-29T00:52:49Z</updated>
-  <content type="html">
-   An online laundy app for android
   </content>
  </entry>
 </feed>
