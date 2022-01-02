@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-scheme.atom"/>
 <id>urn:rprimus:github:newschemerepos</id>
-<updated>2022-01-01T08:15:56Z</updated>
+<updated>2022-01-01T23:42:50Z</updated>
 <title type='text'>New GitHub Scheme Repos</title>
+ <entry>
+  <title>colll78: LISP-General-Library</title>
+  <author>
+   <name>colll78</name>
+  </author>
+  <link href="https://github.com/colll78/LISP-General-Library" />
+  <id>urn:rprimus:github:colll78:LISP-General-Library</id>
+  <published>2022-01-01T23:42:50Z</published>
+  <updated>2022-01-01T23:42:50Z</updated>
+  <content type="html">
+   A collection of general purpose functions for the Scheme programming language.
+  </content>
+ </entry>
+ <entry>
+  <title>ErmineII: nib-guile</title>
+  <author>
+   <name>ErmineII</name>
+  </author>
+  <link href="https://github.com/ErmineII/nib-guile" />
+  <id>urn:rprimus:github:ErmineII:nib-guile</id>
+  <published>2022-01-01T21:17:55Z</published>
+  <updated>2022-01-01T21:17:55Z</updated>
+  <content type="html">
+   nib compiler on top of guile (mirror)
+  </content>
+ </entry>
+ <entry>
+  <title>igankevich: guile-site</title>
+  <author>
+   <name>igankevich</name>
+  </author>
+  <link href="https://github.com/igankevich/guile-site" />
+  <id>urn:rprimus:github:igankevich:guile-site</id>
+  <published>2022-01-01T15:10:02Z</published>
+  <updated>2022-01-01T15:10:02Z</updated>
+  <content type="html">
+   Guile library that helps generating static sites.
+  </content>
+ </entry>
  <entry>
   <title>serjleks: guix-system-test1</title>
   <author>
@@ -93,123 +132,6 @@
   <updated>2021-12-31T07:21:08Z</updated>
   <content type="html">
    ãè®¡ç®æºç¨åºçæé ä¸è§£éãè¯¾ç¨éå¥ä»£ç ç»ä¹ 
-  </content>
- </entry>
- <entry>
-  <title>arnoldBR: learnSICP</title>
-  <author>
-   <name>arnoldBR</name>
-  </author>
-  <link href="https://github.com/arnoldBR/learnSICP" />
-  <id>urn:rprimus:github:arnoldBR:learnSICP</id>
-  <published>2021-12-30T21:54:35Z</published>
-  <updated>2021-12-30T21:54:35Z</updated>
-  <content type="html">
-   This is nothing but a repo to put my studies with SICP
-  </content>
- </entry>
- <entry>
-  <title>KH405-TV: guix-hestia</title>
-  <author>
-   <name>KH405-TV</name>
-  </author>
-  <link href="https://github.com/KH405-TV/guix-hestia" />
-  <id>urn:rprimus:github:KH405-TV:guix-hestia</id>
-  <published>2021-12-30T13:21:25Z</published>
-  <updated>2021-12-30T13:21:25Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Margenom: scheme_samples</title>
-  <author>
-   <name>Margenom</name>
-  </author>
-  <link href="https://github.com/Margenom/scheme_samples" />
-  <id>urn:rprimus:github:Margenom:scheme_samples</id>
-  <published>2021-12-30T12:06:22Z</published>
-  <updated>2021-12-30T12:06:22Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>motoshira: sicp-practice</title>
-  <author>
-   <name>motoshira</name>
-  </author>
-  <link href="https://github.com/motoshira/sicp-practice" />
-  <id>urn:rprimus:github:motoshira:sicp-practice</id>
-  <published>2021-12-30T09:56:43Z</published>
-  <updated>2021-12-30T09:56:43Z</updated>
-  <content type="html">
-   Code for exercises in SICP
-  </content>
- </entry>
- <entry>
-  <title>175rin: formula-in-scheme</title>
-  <author>
-   <name>175rin</name>
-  </author>
-  <link href="https://github.com/175rin/formula-in-scheme" />
-  <id>urn:rprimus:github:175rin:formula-in-scheme</id>
-  <published>2021-12-30T08:03:58Z</published>
-  <updated>2021-12-30T08:03:58Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>destiny-index: sicp</title>
-  <author>
-   <name>destiny-index</name>
-  </author>
-  <link href="https://github.com/destiny-index/sicp" />
-  <id>urn:rprimus:github:destiny-index:sicp</id>
-  <published>2021-12-30T05:15:55Z</published>
-  <updated>2021-12-30T05:15:55Z</updated>
-  <content type="html">
-   Scheme Lisp code from working through Structure and Interpretation of Computer Programs
-  </content>
- </entry>
- <entry>
-  <title>gschare: quine</title>
-  <author>
-   <name>gschare</name>
-  </author>
-  <link href="https://github.com/gschare/quine" />
-  <id>urn:rprimus:github:gschare:quine</id>
-  <published>2021-12-30T03:40:06Z</published>
-  <updated>2021-12-30T03:40:06Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>trilochankar: amplifyapp</title>
-  <author>
-   <name>trilochankar</name>
-  </author>
-  <link href="https://github.com/trilochankar/amplifyapp" />
-  <id>urn:rprimus:github:trilochankar:amplifyapp</id>
-  <published>2021-12-30T03:25:04Z</published>
-  <updated>2021-12-30T03:25:04Z</updated>
-  <content type="html">
-   Amplify Console CI / CD Demo 
-  </content>
- </entry>
- <entry>
-  <title>Jungwon1127: Metacircular-Scheme-Interpreter</title>
-  <author>
-   <name>Jungwon1127</name>
-  </author>
-  <link href="https://github.com/Jungwon1127/Metacircular-Scheme-Interpreter" />
-  <id>urn:rprimus:github:Jungwon1127:Metacircular-Scheme-Interpreter</id>
-  <published>2021-12-30T01:59:41Z</published>
-  <updated>2021-12-30T01:59:41Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
