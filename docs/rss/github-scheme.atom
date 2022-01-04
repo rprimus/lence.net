@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-scheme.atom"/>
 <id>urn:rprimus:github:newschemerepos</id>
-<updated>2022-01-03T06:09:24Z</updated>
+<updated>2022-01-04T09:42:02Z</updated>
 <title type='text'>New GitHub Scheme Repos</title>
+ <entry>
+  <title>eoiles: Scheme</title>
+  <author>
+   <name>eoiles</name>
+  </author>
+  <link href="https://github.com/eoiles/Scheme" />
+  <id>urn:rprimus:github:eoiles:Scheme</id>
+  <published>2022-01-04T09:42:02Z</published>
+  <updated>2022-01-04T09:42:02Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>delta1024: d1024</title>
+  <author>
+   <name>delta1024</name>
+  </author>
+  <link href="https://github.com/delta1024/d1024" />
+  <id>urn:rprimus:github:delta1024:d1024</id>
+  <published>2022-01-04T03:19:50Z</published>
+  <updated>2022-01-04T03:19:50Z</updated>
+  <content type="html">
+   My Guix Channel
+  </content>
+ </entry>
+ <entry>
+  <title>nicolas-graves: guix-channel</title>
+  <author>
+   <name>nicolas-graves</name>
+  </author>
+  <link href="https://github.com/nicolas-graves/guix-channel" />
+  <id>urn:rprimus:github:nicolas-graves:guix-channel</id>
+  <published>2022-01-03T22:52:53Z</published>
+  <updated>2022-01-03T22:52:53Z</updated>
+  <content type="html">
+   Clone of my git repo for guix continuous integration
+  </content>
+ </entry>
  <entry>
   <title>Sverxsro4nik: SIKP</title>
   <author>
@@ -13,19 +52,6 @@
   <id>urn:rprimus:github:Sverxsro4nik:SIKP</id>
   <published>2022-01-03T06:09:24Z</published>
   <updated>2022-01-03T06:09:24Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>bkcaleb: Class_Projects</title>
-  <author>
-   <name>bkcaleb</name>
-  </author>
-  <link href="https://github.com/bkcaleb/Class_Projects" />
-  <id>urn:rprimus:github:bkcaleb:Class_Projects</id>
-  <published>2022-01-03T04:56:44Z</published>
-  <updated>2022-01-03T04:56:44Z</updated>
   <content type="html">
    
   </content>
@@ -132,97 +158,6 @@
   <updated>2022-01-02T06:49:41Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>colll78: LISP-General-Library</title>
-  <author>
-   <name>colll78</name>
-  </author>
-  <link href="https://github.com/colll78/LISP-General-Library" />
-  <id>urn:rprimus:github:colll78:LISP-General-Library</id>
-  <published>2022-01-01T23:42:50Z</published>
-  <updated>2022-01-01T23:42:50Z</updated>
-  <content type="html">
-   A collection of general purpose functions for the Scheme programming language.
-  </content>
- </entry>
- <entry>
-  <title>ErmineII: nib-guile</title>
-  <author>
-   <name>ErmineII</name>
-  </author>
-  <link href="https://github.com/ErmineII/nib-guile" />
-  <id>urn:rprimus:github:ErmineII:nib-guile</id>
-  <published>2022-01-01T21:17:55Z</published>
-  <updated>2022-01-01T21:17:55Z</updated>
-  <content type="html">
-   nib compiler on top of guile (mirror)
-  </content>
- </entry>
- <entry>
-  <title>igankevich: guile-site</title>
-  <author>
-   <name>igankevich</name>
-  </author>
-  <link href="https://github.com/igankevich/guile-site" />
-  <id>urn:rprimus:github:igankevich:guile-site</id>
-  <published>2022-01-01T15:10:02Z</published>
-  <updated>2022-01-01T15:10:02Z</updated>
-  <content type="html">
-   Guile library that helps generating static sites.
-  </content>
- </entry>
- <entry>
-  <title>serjleks: guix-system-test1</title>
-  <author>
-   <name>serjleks</name>
-  </author>
-  <link href="https://github.com/serjleks/guix-system-test1" />
-  <id>urn:rprimus:github:serjleks:guix-system-test1</id>
-  <published>2022-01-01T08:15:56Z</published>
-  <updated>2022-01-01T08:15:56Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>gr523: configs-extra</title>
-  <author>
-   <name>gr523</name>
-  </author>
-  <link href="https://github.com/gr523/configs-extra" />
-  <id>urn:rprimus:github:gr523:configs-extra</id>
-  <published>2022-01-01T05:30:43Z</published>
-  <updated>2022-01-01T05:30:43Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>feeley: bonjour</title>
-  <author>
-   <name>feeley</name>
-  </author>
-  <link href="https://github.com/feeley/bonjour" />
-  <id>urn:rprimus:github:feeley:bonjour</id>
-  <published>2022-01-01T03:31:26Z</published>
-  <updated>2022-01-01T03:31:26Z</updated>
-  <content type="html">
-   A Gambit Scheme module that uses the module gambit.com/gambit/hello
-  </content>
- </entry>
- <entry>
-  <title>foggynight: ascii-breaker</title>
-  <author>
-   <name>foggynight</name>
-  </author>
-  <link href="https://github.com/foggynight/ascii-breaker" />
-  <id>urn:rprimus:github:foggynight:ascii-breaker</id>
-  <published>2022-01-01T00:09:34Z</published>
-  <updated>2022-01-01T00:09:34Z</updated>
-  <content type="html">
-   ASCII brick breaker game at the command line.
   </content>
  </entry>
 </feed>

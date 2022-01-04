@@ -2,8 +2,112 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-01-03T04:02:06Z</updated>
+<updated>2022-01-04T05:14:19Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>shamazmazum: sbcl-single-float-tran</title>
+  <author>
+   <name>shamazmazum</name>
+  </author>
+  <link href="https://github.com/shamazmazum/sbcl-single-float-tran" />
+  <id>urn:rprimus:github:shamazmazum:sbcl-single-float-tran</id>
+  <published>2022-01-04T05:14:19Z</published>
+  <updated>2022-01-04T05:14:19Z</updated>
+  <content type="html">
+   IR1 transforms for single-float math functions
+  </content>
+ </entry>
+ <entry>
+  <title>Shinmera: 3d-quaternions</title>
+  <author>
+   <name>Shinmera</name>
+  </author>
+  <link href="https://github.com/Shinmera/3d-quaternions" />
+  <id>urn:rprimus:github:Shinmera:3d-quaternions</id>
+  <published>2022-01-03T21:10:14Z</published>
+  <updated>2022-01-03T21:10:14Z</updated>
+  <content type="html">
+   A utility library implementing quaternion and dual-quaternion functionality.
+  </content>
+ </entry>
+ <entry>
+  <title>MuhammadSaad87: PVS</title>
+  <author>
+   <name>MuhammadSaad87</name>
+  </author>
+  <link href="https://github.com/MuhammadSaad87/PVS" />
+  <id>urn:rprimus:github:MuhammadSaad87:PVS</id>
+  <published>2022-01-03T16:47:14Z</published>
+  <updated>2022-01-03T16:47:14Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>shamazmazum: cl-forward-diff</title>
+  <author>
+   <name>shamazmazum</name>
+  </author>
+  <link href="https://github.com/shamazmazum/cl-forward-diff" />
+  <id>urn:rprimus:github:shamazmazum:cl-forward-diff</id>
+  <published>2022-01-03T14:51:32Z</published>
+  <updated>2022-01-03T14:51:32Z</updated>
+  <content type="html">
+   Automatic differentiation for Common Lisp (forward mode)
+  </content>
+ </entry>
+ <entry>
+  <title>40ants: reblocks-parenscript</title>
+  <author>
+   <name>40ants</name>
+  </author>
+  <link href="https://github.com/40ants/reblocks-parenscript" />
+  <id>urn:rprimus:github:40ants:reblocks-parenscript</id>
+  <published>2022-01-03T14:04:16Z</published>
+  <updated>2022-01-03T14:04:16Z</updated>
+  <content type="html">
+   An utility to define JavaScript dependencies for Weblocks widgets using Parenscript.
+  </content>
+ </entry>
+ <entry>
+  <title>40ants: reblocks-navigation-widget</title>
+  <author>
+   <name>40ants</name>
+  </author>
+  <link href="https://github.com/40ants/reblocks-navigation-widget" />
+  <id>urn:rprimus:github:40ants:reblocks-navigation-widget</id>
+  <published>2022-01-03T14:00:34Z</published>
+  <updated>2022-01-03T14:00:34Z</updated>
+  <content type="html">
+   A widget which changes it&#039;s children when user goes to another URL
+  </content>
+ </entry>
+ <entry>
+  <title>40ants: reblocks-lass</title>
+  <author>
+   <name>40ants</name>
+  </author>
+  <link href="https://github.com/40ants/reblocks-lass" />
+  <id>urn:rprimus:github:40ants:reblocks-lass</id>
+  <published>2022-01-03T13:57:10Z</published>
+  <updated>2022-01-03T13:57:10Z</updated>
+  <content type="html">
+   A helper for Reblocks framework to define CSS dependencies in LASS syntax.
+  </content>
+ </entry>
+ <entry>
+  <title>40ants: reblocks-auth</title>
+  <author>
+   <name>40ants</name>
+  </author>
+  <link href="https://github.com/40ants/reblocks-auth" />
+  <id>urn:rprimus:github:40ants:reblocks-auth</id>
+  <published>2022-01-03T13:51:54Z</published>
+  <updated>2022-01-03T13:51:54Z</updated>
+  <content type="html">
+   A system to add authentication to the Reblocks based site.
+  </content>
+ </entry>
  <entry>
   <title>magnemite-coil: on_lisp</title>
   <author>
@@ -57,6 +161,19 @@
   </content>
  </entry>
  <entry>
+  <title>logan-lieou: BRAINEXPANDO</title>
+  <author>
+   <name>logan-lieou</name>
+  </author>
+  <link href="https://github.com/logan-lieou/BRAINEXPANDO" />
+  <id>urn:rprimus:github:logan-lieou:BRAINEXPANDO</id>
+  <published>2022-01-02T07:35:41Z</published>
+  <updated>2022-01-02T07:35:41Z</updated>
+  <content type="html">
+   Handwarmers With Lisp
+  </content>
+ </entry>
+ <entry>
   <title>joshroybal: hill-climb</title>
   <author>
    <name>joshroybal</name>
@@ -67,84 +184,6 @@
   <updated>2022-01-02T07:06:48Z</updated>
   <content type="html">
    common lisp hill climbing attack on newspaper style simple substitution ciphers
-  </content>
- </entry>
- <entry>
-  <title>Cardiox12: PracticalCL</title>
-  <author>
-   <name>Cardiox12</name>
-  </author>
-  <link href="https://github.com/Cardiox12/PracticalCL" />
-  <id>urn:rprimus:github:Cardiox12:PracticalCL</id>
-  <published>2022-01-01T23:13:40Z</published>
-  <updated>2022-01-01T23:13:40Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>40ants: reblocks-file-server</title>
-  <author>
-   <name>40ants</name>
-  </author>
-  <link href="https://github.com/40ants/reblocks-file-server" />
-  <id>urn:rprimus:github:40ants:reblocks-file-server</id>
-  <published>2022-01-01T17:45:31Z</published>
-  <updated>2022-01-01T17:45:31Z</updated>
-  <content type="html">
-   A file browser for Reblocks Common Lisp web framework.
-  </content>
- </entry>
- <entry>
-  <title>40ants: reblocks-ui</title>
-  <author>
-   <name>40ants</name>
-  </author>
-  <link href="https://github.com/40ants/reblocks-ui" />
-  <id>urn:rprimus:github:40ants:reblocks-ui</id>
-  <published>2022-01-01T17:41:22Z</published>
-  <updated>2022-01-01T17:41:22Z</updated>
-  <content type="html">
-   A set of widget for Reblocks framework, to simplify UI elements creation. Based on Zurb&#039;s Foundation and jQuery.
-  </content>
- </entry>
- <entry>
-  <title>mrohne: sbcl-serial</title>
-  <author>
-   <name>mrohne</name>
-  </author>
-  <link href="https://github.com/mrohne/sbcl-serial" />
-  <id>urn:rprimus:github:mrohne:sbcl-serial</id>
-  <published>2022-01-01T17:24:54Z</published>
-  <updated>2022-01-01T17:24:54Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>evalwhen: cat-parser</title>
-  <author>
-   <name>evalwhen</name>
-  </author>
-  <link href="https://github.com/evalwhen/cat-parser" />
-  <id>urn:rprimus:github:evalwhen:cat-parser</id>
-  <published>2022-01-01T04:42:40Z</published>
-  <updated>2022-01-01T04:42:40Z</updated>
-  <content type="html">
-   a cat parser
-  </content>
- </entry>
- <entry>
-  <title>Aeryuu: pathtracer</title>
-  <author>
-   <name>Aeryuu</name>
-  </author>
-  <link href="https://github.com/Aeryuu/pathtracer" />
-  <id>urn:rprimus:github:Aeryuu:pathtracer</id>
-  <published>2022-01-01T03:21:23Z</published>
-  <updated>2022-01-01T03:21:23Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
