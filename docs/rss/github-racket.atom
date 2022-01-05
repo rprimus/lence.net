@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-racket.atom"/>
 <id>urn:rprimus:github:newracketrepos</id>
-<updated>2022-01-04T14:06:53Z</updated>
+<updated>2022-01-05T02:58:52Z</updated>
 <title type='text'>New GitHub Racket Repos</title>
+ <entry>
+  <title>chrylarson: htdp2e</title>
+  <author>
+   <name>chrylarson</name>
+  </author>
+  <link href="https://github.com/chrylarson/htdp2e" />
+  <id>urn:rprimus:github:chrylarson:htdp2e</id>
+  <published>2022-01-05T02:58:52Z</published>
+  <updated>2022-01-05T02:58:52Z</updated>
+  <content type="html">
+   How to Design Programs 2E exercises 
+  </content>
+ </entry>
+ <entry>
+  <title>SamuelBostic29: Scheme-Mathematical-Test</title>
+  <author>
+   <name>SamuelBostic29</name>
+  </author>
+  <link href="https://github.com/SamuelBostic29/Scheme-Mathematical-Test" />
+  <id>urn:rprimus:github:SamuelBostic29:Scheme-Mathematical-Test</id>
+  <published>2022-01-05T00:18:49Z</published>
+  <updated>2022-01-05T00:18:49Z</updated>
+  <content type="html">
+   Discovering the Scheme programming language
+  </content>
+ </entry>
+ <entry>
+  <title>D-Brous: Olympic-Swimming-Simulation</title>
+  <author>
+   <name>D-Brous</name>
+  </author>
+  <link href="https://github.com/D-Brous/Olympic-Swimming-Simulation" />
+  <id>urn:rprimus:github:D-Brous:Olympic-Swimming-Simulation</id>
+  <published>2022-01-04T22:42:24Z</published>
+  <updated>2022-01-04T22:42:24Z</updated>
+  <content type="html">
+   This program takes in a folder of files each containing certain parameters and allows the user to choose a file and create an animated simulation of an Olympic swimming event with those given file parameters (parameters include swimmer names, number of lanes, swim times, and more)
+  </content>
+ </entry>
+ <entry>
+  <title>aaronjeline: outlaw-pledge-analysis</title>
+  <author>
+   <name>aaronjeline</name>
+  </author>
+  <link href="https://github.com/aaronjeline/outlaw-pledge-analysis" />
+  <id>urn:rprimus:github:aaronjeline:outlaw-pledge-analysis</id>
+  <published>2022-01-04T19:03:29Z</published>
+  <updated>2022-01-04T19:03:29Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>memorelic: SICP</title>
   <author>
@@ -184,58 +236,6 @@
   <updated>2022-01-03T03:30:51Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>guhankesav: SICP-racket-basic</title>
-  <author>
-   <name>guhankesav</name>
-  </author>
-  <link href="https://github.com/guhankesav/SICP-racket-basic" />
-  <id>urn:rprimus:github:guhankesav:SICP-racket-basic</id>
-  <published>2022-01-02T13:55:01Z</published>
-  <updated>2022-01-02T13:55:01Z</updated>
-  <content type="html">
-   Contains basic racket programs of SICP course
-  </content>
- </entry>
- <entry>
-  <title>joskoot: Sets-of-natural-numbers</title>
-  <author>
-   <name>joskoot</name>
-  </author>
-  <link href="https://github.com/joskoot/Sets-of-natural-numbers" />
-  <id>urn:rprimus:github:joskoot:Sets-of-natural-numbers</id>
-  <published>2022-01-02T12:36:33Z</published>
-  <updated>2022-01-02T12:36:33Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>guhankesav: Fraction-Calculator-Racket</title>
-  <author>
-   <name>guhankesav</name>
-  </author>
-  <link href="https://github.com/guhankesav/Fraction-Calculator-Racket" />
-  <id>urn:rprimus:github:guhankesav:Fraction-Calculator-Racket</id>
-  <published>2022-01-02T07:37:18Z</published>
-  <updated>2022-01-02T07:37:18Z</updated>
-  <content type="html">
-   15CSE402 Structure and Interpretation of Computer Programs Problem 8  Your task is to implement a fraction calculator in Racket. It is expected that the calculator should be capable of handling proper fraction, improper fraction and mixed fractions.      â¢ The calculator should be capable of doing all the necessary arithmetic: addition, subtraction, multiplication, division, inversion, equality, conversion between types of fractions etc.     â¢ The calculator should reduce the resultant fractions to their lowest terms     â¢ As said above, the calculator should seemingly handle all the three types of fractions: proper, improper and mixed fractions. It is also expected to handle complex fractions as well. (Note that complex fractions are those fractions where the numerator, denominator, or both contain a fraction.). It is expected to handle the power of fractions (Note that the powers (exponents) could be either integral or fractional) as well!!!     â¢ The calculator should display the results in a clutter free mathematical standard format.  This case study will be assessed by the adherence to all the expected functionalities in the calculator (in terms of the types of all the fractions listed above!)
-  </content>
- </entry>
- <entry>
-  <title>colll78: SimpleJSTranspiler</title>
-  <author>
-   <name>colll78</name>
-  </author>
-  <link href="https://github.com/colll78/SimpleJSTranspiler" />
-  <id>urn:rprimus:github:colll78:SimpleJSTranspiler</id>
-  <published>2022-01-02T02:14:53Z</published>
-  <updated>2022-01-02T02:14:53Z</updated>
-  <content type="html">
-   A transpiler that converts SimpleJS source code into equivalent Lambda JS source code.
   </content>
  </entry>
 </feed>

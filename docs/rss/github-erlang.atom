@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-erlang.atom"/>
 <id>urn:rprimus:github:newerlangrepos</id>
-<updated>2022-01-04T03:06:50Z</updated>
+<updated>2022-01-04T20:11:04Z</updated>
 <title type='text'>New GitHub Erlang Repos</title>
+ <entry>
+  <title>vkatsuba: jrpc</title>
+  <author>
+   <name>vkatsuba</name>
+  </author>
+  <link href="https://github.com/vkatsuba/jrpc" />
+  <id>urn:rprimus:github:vkatsuba:jrpc</id>
+  <published>2022-01-04T20:11:04Z</published>
+  <updated>2022-01-04T20:11:04Z</updated>
+  <content type="html">
+   JRPC is JSON-RPC Erlang/OTP library with collecting handlers for Cowboy
+  </content>
+ </entry>
+ <entry>
+  <title>ubertell: templates</title>
+  <author>
+   <name>ubertell</name>
+  </author>
+  <link href="https://github.com/ubertell/templates" />
+  <id>urn:rprimus:github:ubertell:templates</id>
+  <published>2022-01-04T16:06:28Z</published>
+  <updated>2022-01-04T16:06:28Z</updated>
+  <content type="html">
+   Copy and paste code collection
+  </content>
+ </entry>
  <entry>
   <title>wallacegibbon: leex-yecc-demo</title>
   <author>
@@ -41,71 +67,6 @@
   <updated>2022-01-03T13:51:18Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>drasko: pgpool</title>
-  <author>
-   <name>drasko</name>
-  </author>
-  <link href="https://github.com/drasko/pgpool" />
-  <id>urn:rprimus:github:drasko:pgpool</id>
-  <published>2022-01-02T19:36:02Z</published>
-  <updated>2022-01-02T19:36:02Z</updated>
-  <content type="html">
-   Erlang Postgres worker pool
-  </content>
- </entry>
- <entry>
-  <title>christhomas8: Erlang</title>
-  <author>
-   <name>christhomas8</name>
-  </author>
-  <link href="https://github.com/christhomas8/Erlang" />
-  <id>urn:rprimus:github:christhomas8:Erlang</id>
-  <published>2022-01-02T18:56:23Z</published>
-  <updated>2022-01-02T18:56:23Z</updated>
-  <content type="html">
-   testing erlang installation
-  </content>
- </entry>
- <entry>
-  <title>NelsonVides: erl_csv</title>
-  <author>
-   <name>NelsonVides</name>
-  </author>
-  <link href="https://github.com/NelsonVides/erl_csv" />
-  <id>urn:rprimus:github:NelsonVides:erl_csv</id>
-  <published>2022-01-02T18:48:39Z</published>
-  <updated>2022-01-02T18:48:39Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>JiaangLi: AdvancedProgramming</title>
-  <author>
-   <name>JiaangLi</name>
-  </author>
-  <link href="https://github.com/JiaangLi/AdvancedProgramming" />
-  <id>urn:rprimus:github:JiaangLi:AdvancedProgramming</id>
-  <published>2022-01-02T15:24:20Z</published>
-  <updated>2022-01-02T15:24:20Z</updated>
-  <content type="html">
-   Code for Advanced Programming
-  </content>
- </entry>
- <entry>
-  <title>crownedgrouse: cipherl</title>
-  <author>
-   <name>crownedgrouse</name>
-  </author>
-  <link href="https://github.com/crownedgrouse/cipherl" />
-  <id>urn:rprimus:github:crownedgrouse:cipherl</id>
-  <published>2022-01-02T10:17:40Z</published>
-  <updated>2022-01-02T10:17:40Z</updated>
-  <content type="html">
-   Cipher Erlang Messages
   </content>
  </entry>
 </feed>
