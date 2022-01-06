@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-01-05T08:37:15Z</updated>
+<updated>2022-01-05T23:14:16Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>werame: funky-nyquist-stereo-plugins</title>
+  <author>
+   <name>werame</name>
+  </author>
+  <link href="https://github.com/werame/funky-nyquist-stereo-plugins" />
+  <id>urn:rprimus:github:werame:funky-nyquist-stereo-plugins</id>
+  <published>2022-01-05T23:14:16Z</published>
+  <updated>2022-01-05T23:14:16Z</updated>
+  <content type="html">
+   Funky stereo plugins written in Nyquist for the Audacity audio editor
+  </content>
+ </entry>
+ <entry>
+  <title>Diemo-zz: PracticalCommonLisp</title>
+  <author>
+   <name>Diemo-zz</name>
+  </author>
+  <link href="https://github.com/Diemo-zz/PracticalCommonLisp" />
+  <id>urn:rprimus:github:Diemo-zz:PracticalCommonLisp</id>
+  <published>2022-01-05T19:08:34Z</published>
+  <updated>2022-01-05T19:08:34Z</updated>
+  <content type="html">
+   Working through the practical common lisp book - as found on https://gigamonkeys.com/book/
+  </content>
+ </entry>
+ <entry>
+  <title>hwelch-fle: Fiber-One</title>
+  <author>
+   <name>hwelch-fle</name>
+  </author>
+  <link href="https://github.com/hwelch-fle/Fiber-One" />
+  <id>urn:rprimus:github:hwelch-fle:Fiber-One</id>
+  <published>2022-01-05T17:52:35Z</published>
+  <updated>2022-01-05T17:52:35Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>rock-mechanics: bgs_block_exporter</title>
   <author>
@@ -39,123 +78,6 @@
   <id>urn:rprimus:github:vendryan:paip</id>
   <published>2022-01-04T03:29:27Z</published>
   <updated>2022-01-04T03:29:27Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Shinmera: 3d-quaternions</title>
-  <author>
-   <name>Shinmera</name>
-  </author>
-  <link href="https://github.com/Shinmera/3d-quaternions" />
-  <id>urn:rprimus:github:Shinmera:3d-quaternions</id>
-  <published>2022-01-03T21:10:14Z</published>
-  <updated>2022-01-03T21:10:14Z</updated>
-  <content type="html">
-   A utility library implementing quaternion and dual-quaternion functionality.
-  </content>
- </entry>
- <entry>
-  <title>MuhammadSaad87: PVS</title>
-  <author>
-   <name>MuhammadSaad87</name>
-  </author>
-  <link href="https://github.com/MuhammadSaad87/PVS" />
-  <id>urn:rprimus:github:MuhammadSaad87:PVS</id>
-  <published>2022-01-03T16:47:14Z</published>
-  <updated>2022-01-03T16:47:14Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>shamazmazum: cl-forward-diff</title>
-  <author>
-   <name>shamazmazum</name>
-  </author>
-  <link href="https://github.com/shamazmazum/cl-forward-diff" />
-  <id>urn:rprimus:github:shamazmazum:cl-forward-diff</id>
-  <published>2022-01-03T14:51:32Z</published>
-  <updated>2022-01-03T14:51:32Z</updated>
-  <content type="html">
-   Automatic differentiation for Common Lisp (forward mode)
-  </content>
- </entry>
- <entry>
-  <title>40ants: reblocks-parenscript</title>
-  <author>
-   <name>40ants</name>
-  </author>
-  <link href="https://github.com/40ants/reblocks-parenscript" />
-  <id>urn:rprimus:github:40ants:reblocks-parenscript</id>
-  <published>2022-01-03T14:04:16Z</published>
-  <updated>2022-01-03T14:04:16Z</updated>
-  <content type="html">
-   An utility to define JavaScript dependencies for Weblocks widgets using Parenscript.
-  </content>
- </entry>
- <entry>
-  <title>40ants: reblocks-navigation-widget</title>
-  <author>
-   <name>40ants</name>
-  </author>
-  <link href="https://github.com/40ants/reblocks-navigation-widget" />
-  <id>urn:rprimus:github:40ants:reblocks-navigation-widget</id>
-  <published>2022-01-03T14:00:34Z</published>
-  <updated>2022-01-03T14:00:34Z</updated>
-  <content type="html">
-   A widget which changes it&#039;s children when user goes to another URL
-  </content>
- </entry>
- <entry>
-  <title>40ants: reblocks-lass</title>
-  <author>
-   <name>40ants</name>
-  </author>
-  <link href="https://github.com/40ants/reblocks-lass" />
-  <id>urn:rprimus:github:40ants:reblocks-lass</id>
-  <published>2022-01-03T13:57:10Z</published>
-  <updated>2022-01-03T13:57:10Z</updated>
-  <content type="html">
-   A helper for Reblocks framework to define CSS dependencies in LASS syntax.
-  </content>
- </entry>
- <entry>
-  <title>40ants: reblocks-auth</title>
-  <author>
-   <name>40ants</name>
-  </author>
-  <link href="https://github.com/40ants/reblocks-auth" />
-  <id>urn:rprimus:github:40ants:reblocks-auth</id>
-  <published>2022-01-03T13:51:54Z</published>
-  <updated>2022-01-03T13:51:54Z</updated>
-  <content type="html">
-   A system to add authentication to the Reblocks based site.
-  </content>
- </entry>
- <entry>
-  <title>magnemite-coil: on_lisp</title>
-  <author>
-   <name>magnemite-coil</name>
-  </author>
-  <link href="https://github.com/magnemite-coil/on_lisp" />
-  <id>urn:rprimus:github:magnemite-coil:on_lisp</id>
-  <published>2022-01-03T04:02:06Z</published>
-  <updated>2022-01-03T04:02:06Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>magnemite-coil: atcoder</title>
-  <author>
-   <name>magnemite-coil</name>
-  </author>
-  <link href="https://github.com/magnemite-coil/atcoder" />
-  <id>urn:rprimus:github:magnemite-coil:atcoder</id>
-  <published>2022-01-03T03:26:34Z</published>
-  <updated>2022-01-03T03:26:34Z</updated>
   <content type="html">
    
   </content>

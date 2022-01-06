@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2022-01-05T05:52:45Z</updated>
+<updated>2022-01-05T16:35:12Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>watzon: crystal-emoji-regex</title>
+  <author>
+   <name>watzon</name>
+  </author>
+  <link href="https://github.com/watzon/crystal-emoji-regex" />
+  <id>urn:rprimus:github:watzon:crystal-emoji-regex</id>
+  <published>2022-01-05T16:35:12Z</published>
+  <updated>2022-01-05T16:35:12Z</updated>
+  <content type="html">
+   ð A set of Crystal regular expressions for matching Unicode Emoji symbols. 
+  </content>
+ </entry>
  <entry>
   <title>l3gacyb3ta: l3gacyb3ta.github.io</title>
   <author>
@@ -13,6 +26,19 @@
   <id>urn:rprimus:github:l3gacyb3ta:l3gacyb3ta.github.io</id>
   <published>2022-01-05T05:52:45Z</published>
   <updated>2022-01-05T05:52:45Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>spoved: kube-sdk.cr</title>
+  <author>
+   <name>spoved</name>
+  </author>
+  <link href="https://github.com/spoved/kube-sdk.cr" />
+  <id>urn:rprimus:github:spoved:kube-sdk.cr</id>
+  <published>2022-01-04T15:54:47Z</published>
+  <updated>2022-01-04T15:54:47Z</updated>
   <content type="html">
    
   </content>
@@ -54,19 +80,6 @@
   <updated>2022-01-04T02:10:10Z</updated>
   <content type="html">
    A simple CLI Framework for subcommand driven user interfaces.
-  </content>
- </entry>
- <entry>
-  <title>nanobowers: uri_template</title>
-  <author>
-   <name>nanobowers</name>
-  </author>
-  <link href="https://github.com/nanobowers/uri_template" />
-  <id>urn:rprimus:github:nanobowers:uri_template</id>
-  <published>2022-01-03T13:56:04Z</published>
-  <updated>2022-01-03T13:56:04Z</updated>
-  <content type="html">
-   Crystal RFC 6570 URI Template Expander
   </content>
  </entry>
 </feed>
