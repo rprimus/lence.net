@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-racket.atom"/>
 <id>urn:rprimus:github:newracketrepos</id>
-<updated>2022-01-05T22:08:15Z</updated>
+<updated>2022-01-06T23:42:05Z</updated>
 <title type='text'>New GitHub Racket Repos</title>
+ <entry>
+  <title>bpadev: edu-mit-htdp</title>
+  <author>
+   <name>bpadev</name>
+  </author>
+  <link href="https://github.com/bpadev/edu-mit-htdp" />
+  <id>urn:rprimus:github:bpadev:edu-mit-htdp</id>
+  <published>2022-01-06T23:42:05Z</published>
+  <updated>2022-01-06T23:42:05Z</updated>
+  <content type="html">
+   How to Design Programs: An Introduction to Programming and Computing
+  </content>
+ </entry>
+ <entry>
+  <title>parry84: pl-explorations</title>
+  <author>
+   <name>parry84</name>
+  </author>
+  <link href="https://github.com/parry84/pl-explorations" />
+  <id>urn:rprimus:github:parry84:pl-explorations</id>
+  <published>2022-01-06T21:41:27Z</published>
+  <updated>2022-01-06T21:41:27Z</updated>
+  <content type="html">
+   PL explorations
+  </content>
+ </entry>
+ <entry>
+  <title>MamutA14: Compiladores-Practica06</title>
+  <author>
+   <name>MamutA14</name>
+  </author>
+  <link href="https://github.com/MamutA14/Compiladores-Practica06" />
+  <id>urn:rprimus:github:MamutA14:Compiladores-Practica06</id>
+  <published>2022-01-06T20:06:54Z</published>
+  <updated>2022-01-06T20:06:54Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>morazanm: while-loops-for-Animated-Programming</title>
+  <author>
+   <name>morazanm</name>
+  </author>
+  <link href="https://github.com/morazanm/while-loops-for-Animated-Programming" />
+  <id>urn:rprimus:github:morazanm:while-loops-for-Animated-Programming</id>
+  <published>2022-01-06T15:28:58Z</published>
+  <updated>2022-01-06T15:28:58Z</updated>
+  <content type="html">
+   Provides while loop syntax in Racket
+  </content>
+ </entry>
  <entry>
   <title>ethwu: scripts</title>
   <author>
@@ -67,123 +119,6 @@
   <updated>2022-01-05T00:18:49Z</updated>
   <content type="html">
    Discovering the Scheme programming language
-  </content>
- </entry>
- <entry>
-  <title>D-Brous: Olympic-Swimming-Simulation</title>
-  <author>
-   <name>D-Brous</name>
-  </author>
-  <link href="https://github.com/D-Brous/Olympic-Swimming-Simulation" />
-  <id>urn:rprimus:github:D-Brous:Olympic-Swimming-Simulation</id>
-  <published>2022-01-04T22:42:24Z</published>
-  <updated>2022-01-04T22:42:24Z</updated>
-  <content type="html">
-   This program takes in a folder of files each containing certain parameters and allows the user to choose a file and create an animated simulation of an Olympic swimming event with those given file parameters (parameters include swimmer names, number of lanes, swim times, and more)
-  </content>
- </entry>
- <entry>
-  <title>aaronjeline: outlaw-pledge-analysis</title>
-  <author>
-   <name>aaronjeline</name>
-  </author>
-  <link href="https://github.com/aaronjeline/outlaw-pledge-analysis" />
-  <id>urn:rprimus:github:aaronjeline:outlaw-pledge-analysis</id>
-  <published>2022-01-04T19:03:29Z</published>
-  <updated>2022-01-04T19:03:29Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>memorelic: SICP</title>
-  <author>
-   <name>memorelic</name>
-  </author>
-  <link href="https://github.com/memorelic/SICP" />
-  <id>urn:rprimus:github:memorelic:SICP</id>
-  <published>2022-01-04T14:06:53Z</published>
-  <updated>2022-01-04T14:06:53Z</updated>
-  <content type="html">
-   SICP excercise
-  </content>
- </entry>
- <entry>
-  <title>YungShiesty: machine</title>
-  <author>
-   <name>YungShiesty</name>
-  </author>
-  <link href="https://github.com/YungShiesty/machine" />
-  <id>urn:rprimus:github:YungShiesty:machine</id>
-  <published>2022-01-04T12:51:54Z</published>
-  <updated>2022-01-04T12:51:54Z</updated>
-  <content type="html">
-   Library Machine 
-  </content>
- </entry>
- <entry>
-  <title>massung: sliver</title>
-  <author>
-   <name>massung</name>
-  </author>
-  <link href="https://github.com/massung/sliver" />
-  <id>urn:rprimus:github:massung:sliver</id>
-  <published>2022-01-04T04:21:05Z</published>
-  <updated>2022-01-04T04:21:05Z</updated>
-  <content type="html">
-   Generic slicing package for Racket
-  </content>
- </entry>
- <entry>
-  <title>mata-m: sicp_exercises</title>
-  <author>
-   <name>mata-m</name>
-  </author>
-  <link href="https://github.com/mata-m/sicp_exercises" />
-  <id>urn:rprimus:github:mata-m:sicp_exercises</id>
-  <published>2022-01-04T03:50:14Z</published>
-  <updated>2022-01-04T03:50:14Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>winny-: umask</title>
-  <author>
-   <name>winny-</name>
-  </author>
-  <link href="https://github.com/winny-/umask" />
-  <id>urn:rprimus:github:winny-:umask</id>
-  <published>2022-01-04T03:17:21Z</published>
-  <updated>2022-01-04T03:17:21Z</updated>
-  <content type="html">
-   Racket umask library
-  </content>
- </entry>
- <entry>
-  <title>aghilann: Backtracking-Search</title>
-  <author>
-   <name>aghilann</name>
-  </author>
-  <link href="https://github.com/aghilann/Backtracking-Search" />
-  <id>urn:rprimus:github:aghilann:Backtracking-Search</id>
-  <published>2022-01-04T01:22:06Z</published>
-  <updated>2022-01-04T01:22:06Z</updated>
-  <content type="html">
-   CPSC110 Backtracking Generative Search Problems
-  </content>
- </entry>
- <entry>
-  <title>eXodiquas: CreativeRacketCompetition2022</title>
-  <author>
-   <name>eXodiquas</name>
-  </author>
-  <link href="https://github.com/eXodiquas/CreativeRacketCompetition2022" />
-  <id>urn:rprimus:github:eXodiquas:CreativeRacketCompetition2022</id>
-  <published>2022-01-04T00:56:08Z</published>
-  <updated>2022-01-04T00:56:08Z</updated>
-  <content type="html">
-   Entries for the Creative Racket Competition 2022.
   </content>
  </entry>
 </feed>
