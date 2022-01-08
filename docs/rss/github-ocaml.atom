@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2022-01-07T06:26:04Z</updated>
+<updated>2022-01-08T03:39:47Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>mooreryan: tomato_salad</title>
+  <author>
+   <name>mooreryan</name>
+  </author>
+  <link href="https://github.com/mooreryan/tomato_salad" />
+  <id>urn:rprimus:github:mooreryan:tomato_salad</id>
+  <published>2022-01-08T03:39:47Z</published>
+  <updated>2022-01-08T03:39:47Z</updated>
+  <content type="html">
+   Random programs of a savory nature
+  </content>
+ </entry>
+ <entry>
+  <title>iburinoc: price-proxy</title>
+  <author>
+   <name>iburinoc</name>
+  </author>
+  <link href="https://github.com/iburinoc/price-proxy" />
+  <id>urn:rprimus:github:iburinoc:price-proxy</id>
+  <published>2022-01-08T02:21:18Z</published>
+  <updated>2022-01-08T02:21:18Z</updated>
+  <content type="html">
+   Simple proxy to serve cached scraped values to google sheets without annoying errors
+  </content>
+ </entry>
+ <entry>
+  <title>babyleafy: PaintGUI</title>
+  <author>
+   <name>babyleafy</name>
+  </author>
+  <link href="https://github.com/babyleafy/PaintGUI" />
+  <id>urn:rprimus:github:babyleafy:PaintGUI</id>
+  <published>2022-01-07T22:43:20Z</published>
+  <updated>2022-01-07T22:43:20Z</updated>
+  <content type="html">
+   Paint application based on the OCaml GUI toolkit, with added widget features controlling color changes and line thickness
+  </content>
+ </entry>
+ <entry>
+  <title>udaykolla: Risk</title>
+  <author>
+   <name>udaykolla</name>
+  </author>
+  <link href="https://github.com/udaykolla/Risk" />
+  <id>urn:rprimus:github:udaykolla:Risk</id>
+  <published>2022-01-07T19:48:14Z</published>
+  <updated>2022-01-07T19:48:14Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>TanLeYang: aoc2021</title>
+  <author>
+   <name>TanLeYang</name>
+  </author>
+  <link href="https://github.com/TanLeYang/aoc2021" />
+  <id>urn:rprimus:github:TanLeYang:aoc2021</id>
+  <published>2022-01-07T16:37:40Z</published>
+  <updated>2022-01-07T16:37:40Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>BkD888: PARCOURSUP</title>
   <author>
@@ -14,7 +79,7 @@
   <published>2022-01-07T06:26:04Z</published>
   <updated>2022-01-07T06:26:04Z</updated>
   <content type="html">
-   ImplÃ©mentation du site PARCOURSUP dans le cadre d&#039;un projet scolaire
+   ImplÃ©mentation de l&#039;algorithme du site PARCOURSUP dans le cadre d&#039;un projet scolaire
   </content>
  </entry>
  <entry>
@@ -171,136 +236,6 @@
   <updated>2022-01-06T05:42:51Z</updated>
   <content type="html">
    a small, simple block-backed key-value store for MirageOS
-  </content>
- </entry>
- <entry>
-  <title>carnellzhouedu: LudOCaml</title>
-  <author>
-   <name>carnellzhouedu</name>
-  </author>
-  <link href="https://github.com/carnellzhouedu/LudOCaml" />
-  <id>urn:rprimus:github:carnellzhouedu:LudOCaml</id>
-  <published>2022-01-05T23:27:42Z</published>
-  <updated>2022-01-05T23:27:42Z</updated>
-  <content type="html">
-   An interactive terminal-based version of the popular strategy board game Ludo built using OCaml.
-  </content>
- </entry>
- <entry>
-  <title>ismail-tahli: tracage-courbes-de-julia</title>
-  <author>
-   <name>ismail-tahli</name>
-  </author>
-  <link href="https://github.com/ismail-tahli/tracage-courbes-de-julia" />
-  <id>urn:rprimus:github:ismail-tahli:tracage-courbes-de-julia</id>
-  <published>2022-01-05T23:13:48Z</published>
-  <updated>2022-01-05T23:13:48Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ismail-tahli: Trees</title>
-  <author>
-   <name>ismail-tahli</name>
-  </author>
-  <link href="https://github.com/ismail-tahli/Trees" />
-  <id>urn:rprimus:github:ismail-tahli:Trees</id>
-  <published>2022-01-05T23:07:26Z</published>
-  <updated>2022-01-05T23:07:26Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>disteph: tracing</title>
-  <author>
-   <name>disteph</name>
-  </author>
-  <link href="https://github.com/disteph/tracing" />
-  <id>urn:rprimus:github:disteph:tracing</id>
-  <published>2022-01-05T22:16:35Z</published>
-  <updated>2022-01-05T22:16:35Z</updated>
-  <content type="html">
-   Tracing primitives for Ocaml
-  </content>
- </entry>
- <entry>
-  <title>disteph: timer</title>
-  <author>
-   <name>disteph</name>
-  </author>
-  <link href="https://github.com/disteph/timer" />
-  <id>urn:rprimus:github:disteph:timer</id>
-  <published>2022-01-05T19:43:06Z</published>
-  <updated>2022-01-05T19:43:06Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>chrisvrose: deputy-old-mirror</title>
-  <author>
-   <name>chrisvrose</name>
-  </author>
-  <link href="https://github.com/chrisvrose/deputy-old-mirror" />
-  <id>urn:rprimus:github:chrisvrose:deputy-old-mirror</id>
-  <published>2022-01-05T18:47:47Z</published>
-  <updated>2022-01-05T18:47:47Z</updated>
-  <content type="html">
-   Deputy (Later integrated into ivy) snapshot
-  </content>
- </entry>
- <entry>
-  <title>aresbit: my-ocaml-template</title>
-  <author>
-   <name>aresbit</name>
-  </author>
-  <link href="https://github.com/aresbit/my-ocaml-template" />
-  <id>urn:rprimus:github:aresbit:my-ocaml-template</id>
-  <published>2022-01-05T13:40:34Z</published>
-  <updated>2022-01-05T13:40:34Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>SecPriv: webspec</title>
-  <author>
-   <name>SecPriv</name>
-  </author>
-  <link href="https://github.com/SecPriv/webspec" />
-  <id>urn:rprimus:github:SecPriv:webspec</id>
-  <published>2022-01-05T13:14:55Z</published>
-  <updated>2022-01-05T13:14:55Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>rinderknecht: DFS</title>
-  <author>
-   <name>rinderknecht</name>
-  </author>
-  <link href="https://github.com/rinderknecht/DFS" />
-  <id>urn:rprimus:github:rinderknecht:DFS</id>
-  <published>2022-01-05T10:54:37Z</published>
-  <updated>2022-01-05T10:54:37Z</updated>
-  <content type="html">
-   Preorder and postorder tree traversals
-  </content>
- </entry>
- <entry>
-  <title>jdrprod: magix</title>
-  <author>
-   <name>jdrprod</name>
-  </author>
-  <link href="https://github.com/jdrprod/magix" />
-  <id>urn:rprimus:github:jdrprod:magix</id>
-  <published>2022-01-05T10:21:02Z</published>
-  <updated>2022-01-05T10:21:02Z</updated>
-  <content type="html">
-   Separation Logic is magic &lt;3
   </content>
  </entry>
 </feed>
