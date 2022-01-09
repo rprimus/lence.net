@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2022-01-08T09:55:57Z</updated>
+<updated>2022-01-08T23:52:48Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>michaelnew: monty_hall</title>
+  <author>
+   <name>michaelnew</name>
+  </author>
+  <link href="https://github.com/michaelnew/monty_hall" />
+  <id>urn:rprimus:github:michaelnew:monty_hall</id>
+  <published>2022-01-08T23:52:48Z</published>
+  <updated>2022-01-08T23:52:48Z</updated>
+  <content type="html">
+   A little script to demonstrate that in the Monty Hall problem: https://en.wikipedia.org/wiki/Monty_Hall_problem, it absolutely matters if the host is knowingly choosing an empty door, or if they are selecting at random.
+  </content>
+ </entry>
+ <entry>
+  <title>haxscramper: hmatching</title>
+  <author>
+   <name>haxscramper</name>
+  </author>
+  <link href="https://github.com/haxscramper/hmatching" />
+  <id>urn:rprimus:github:haxscramper:hmatching</id>
+  <published>2022-01-08T21:59:21Z</published>
+  <updated>2022-01-08T21:59:21Z</updated>
+  <content type="html">
+   Nim pattern matching implementation
+  </content>
+ </entry>
  <entry>
   <title>094-gengar: mal_learn</title>
   <author>
@@ -83,107 +109,16 @@
   </content>
  </entry>
  <entry>
-  <title>MichalMarsalek: nim-algebra</title>
+  <title>gavr123456789: full-stack-try</title>
   <author>
-   <name>MichalMarsalek</name>
+   <name>gavr123456789</name>
   </author>
-  <link href="https://github.com/MichalMarsalek/nim-algebra" />
-  <id>urn:rprimus:github:MichalMarsalek:nim-algebra</id>
-  <published>2022-01-06T21:25:13Z</published>
-  <updated>2022-01-06T21:25:13Z</updated>
-  <content type="html">
-   Small pure Nim algebra library
-  </content>
- </entry>
- <entry>
-  <title>Iapetus-11: whack-a-calder</title>
-  <author>
-   <name>Iapetus-11</name>
-  </author>
-  <link href="https://github.com/Iapetus-11/whack-a-calder" />
-  <id>urn:rprimus:github:Iapetus-11:whack-a-calder</id>
-  <published>2022-01-06T16:17:07Z</published>
-  <updated>2022-01-06T16:17:07Z</updated>
-  <content type="html">
-   Oh, so that&#039;s how you want to play?
-  </content>
- </entry>
- <entry>
-  <title>jiiihpeeh: romannumerals</title>
-  <author>
-   <name>jiiihpeeh</name>
-  </author>
-  <link href="https://github.com/jiiihpeeh/romannumerals" />
-  <id>urn:rprimus:github:jiiihpeeh:romannumerals</id>
-  <published>2022-01-06T14:53:00Z</published>
-  <updated>2022-01-06T14:53:00Z</updated>
+  <link href="https://github.com/gavr123456789/full-stack-try" />
+  <id>urn:rprimus:github:gavr123456789:full-stack-try</id>
+  <published>2022-01-07T02:23:40Z</published>
+  <updated>2022-01-07T02:23:40Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>jiiihpeeh: xlsxio-nim</title>
-  <author>
-   <name>jiiihpeeh</name>
-  </author>
-  <link href="https://github.com/jiiihpeeh/xlsxio-nim" />
-  <id>urn:rprimus:github:jiiihpeeh:xlsxio-nim</id>
-  <published>2022-01-06T14:51:50Z</published>
-  <updated>2022-01-06T14:51:50Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jiiihpeeh: zxcvbnim</title>
-  <author>
-   <name>jiiihpeeh</name>
-  </author>
-  <link href="https://github.com/jiiihpeeh/zxcvbnim" />
-  <id>urn:rprimus:github:jiiihpeeh:zxcvbnim</id>
-  <published>2022-01-06T14:50:36Z</published>
-  <updated>2022-01-06T14:50:36Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>yagas: base64_tool</title>
-  <author>
-   <name>yagas</name>
-  </author>
-  <link href="https://github.com/yagas/base64_tool" />
-  <id>urn:rprimus:github:yagas:base64_tool</id>
-  <published>2022-01-06T13:05:34Z</published>
-  <updated>2022-01-06T13:05:34Z</updated>
-  <content type="html">
-   base64 encrypt/decrypt tool
-  </content>
- </entry>
- <entry>
-  <title>no-waves: nip</title>
-  <author>
-   <name>no-waves</name>
-  </author>
-  <link href="https://github.com/no-waves/nip" />
-  <id>urn:rprimus:github:no-waves:nip</id>
-  <published>2022-01-06T06:54:28Z</published>
-  <updated>2022-01-06T06:54:28Z</updated>
-  <content type="html">
-   Get your public IP address with nim
-  </content>
- </entry>
- <entry>
-  <title>dizzyliam: tome</title>
-  <author>
-   <name>dizzyliam</name>
-  </author>
-  <link href="https://github.com/dizzyliam/tome" />
-  <id>urn:rprimus:github:dizzyliam:tome</id>
-  <published>2022-01-06T02:07:35Z</published>
-  <updated>2022-01-06T02:07:35Z</updated>
-  <content type="html">
-   A natural language library.
   </content>
  </entry>
 </feed>
