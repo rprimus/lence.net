@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-sml.atom"/>
 <id>urn:rprimus:github:newsmlrepos</id>
-<updated>2022-01-09T02:31:31Z</updated>
+<updated>2022-01-09T18:07:12Z</updated>
 <title type='text'>New GitHub Sml Repos</title>
+ <entry>
+  <title>agamurian: learning</title>
+  <author>
+   <name>agamurian</name>
+  </author>
+  <link href="https://github.com/agamurian/learning" />
+  <id>urn:rprimus:github:agamurian:learning</id>
+  <published>2022-01-09T18:07:12Z</published>
+  <updated>2022-01-09T18:07:12Z</updated>
+  <content type="html">
+   my personal repo for learning stuff
+  </content>
+ </entry>
+ <entry>
+  <title>adoerr: milner</title>
+  <author>
+   <name>adoerr</name>
+  </author>
+  <link href="https://github.com/adoerr/milner" />
+  <id>urn:rprimus:github:adoerr:milner</id>
+  <published>2022-01-09T12:40:42Z</published>
+  <updated>2022-01-09T12:40:42Z</updated>
+  <content type="html">
+   Fun with Standard ML experiments
+  </content>
+ </entry>
  <entry>
   <title>Techcable: asdl-archive</title>
   <author>
@@ -15,32 +41,6 @@
   <updated>2022-01-09T02:31:31Z</updated>
   <content type="html">
    An archive of the ASDL SourceForge repo (imported from CVS)
-  </content>
- </entry>
- <entry>
-  <title>Android-FW-Dumps: redmi_galahad_dump</title>
-  <author>
-   <name>Android-FW-Dumps</name>
-  </author>
-  <link href="https://github.com/Android-FW-Dumps/redmi_galahad_dump" />
-  <id>urn:rprimus:github:Android-FW-Dumps:redmi_galahad_dump</id>
-  <published>2022-01-07T09:49:39Z</published>
-  <updated>2022-01-07T09:49:39Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>nekoshirro: platform_joyeuse-dump</title>
-  <author>
-   <name>nekoshirro</name>
-  </author>
-  <link href="https://github.com/nekoshirro/platform_joyeuse-dump" />
-  <id>urn:rprimus:github:nekoshirro:platform_joyeuse-dump</id>
-  <published>2022-01-07T00:20:11Z</published>
-  <updated>2022-01-07T00:20:11Z</updated>
-  <content type="html">
-   Redmi Note 9 Pro (joyeuse) ROM dump
   </content>
  </entry>
 </feed>
