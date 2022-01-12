@@ -2,8 +2,125 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2022-01-11T07:24:06Z</updated>
+<updated>2022-01-12T02:46:02Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>tfree87: ohmyesh</title>
+  <author>
+   <name>tfree87</name>
+  </author>
+  <link href="https://github.com/tfree87/ohmyesh" />
+  <id>urn:rprimus:github:tfree87:ohmyesh</id>
+  <published>2022-01-12T02:46:02Z</published>
+  <updated>2022-01-12T02:46:02Z</updated>
+  <content type="html">
+   A series of plugins for the Emacs eshell to replicate behaviors from ohmyzsh
+  </content>
+ </entry>
+ <entry>
+  <title>bion: dotfiles</title>
+  <author>
+   <name>bion</name>
+  </author>
+  <link href="https://github.com/bion/dotfiles" />
+  <id>urn:rprimus:github:bion:dotfiles</id>
+  <published>2022-01-12T02:15:42Z</published>
+  <updated>2022-01-12T02:15:42Z</updated>
+  <content type="html">
+   dotfiles
+  </content>
+ </entry>
+ <entry>
+  <title>otavioschwanck: harpoon.el</title>
+  <author>
+   <name>otavioschwanck</name>
+  </author>
+  <link href="https://github.com/otavioschwanck/harpoon.el" />
+  <id>urn:rprimus:github:otavioschwanck:harpoon.el</id>
+  <published>2022-01-12T00:34:01Z</published>
+  <updated>2022-01-12T00:34:01Z</updated>
+  <content type="html">
+   Harpoon for emacs
+  </content>
+ </entry>
+ <entry>
+  <title>emacs-straight: orderless</title>
+  <author>
+   <name>emacs-straight</name>
+  </author>
+  <link href="https://github.com/emacs-straight/orderless" />
+  <id>urn:rprimus:github:emacs-straight:orderless</id>
+  <published>2022-01-12T00:06:20Z</published>
+  <updated>2022-01-12T00:06:20Z</updated>
+  <content type="html">
+   Mirror of the orderless package from GNU ELPA, current as of 2022-01-12
+  </content>
+ </entry>
+ <entry>
+  <title>vifon: kmacro-mc.el</title>
+  <author>
+   <name>vifon</name>
+  </author>
+  <link href="https://github.com/vifon/kmacro-mc.el" />
+  <id>urn:rprimus:github:vifon:kmacro-mc.el</id>
+  <published>2022-01-11T21:42:32Z</published>
+  <updated>2022-01-11T21:42:32Z</updated>
+  <content type="html">
+   Emacs multiple cursors emulation with keyboard macros
+  </content>
+ </entry>
+ <entry>
+  <title>gwangjinkim: emacs-for-r</title>
+  <author>
+   <name>gwangjinkim</name>
+  </author>
+  <link href="https://github.com/gwangjinkim/emacs-for-r" />
+  <id>urn:rprimus:github:gwangjinkim:emacs-for-r</id>
+  <published>2022-01-11T19:38:59Z</published>
+  <updated>2022-01-11T19:38:59Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>smiller: 2021-10-emacs.d</title>
+  <author>
+   <name>smiller</name>
+  </author>
+  <link href="https://github.com/smiller/2021-10-emacs.d" />
+  <id>urn:rprimus:github:smiller:2021-10-emacs.d</id>
+  <published>2022-01-11T18:57:03Z</published>
+  <updated>2022-01-11T18:57:03Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>jyriandr: roamex</title>
+  <author>
+   <name>jyriandr</name>
+  </author>
+  <link href="https://github.com/jyriandr/roamex" />
+  <id>urn:rprimus:github:jyriandr:roamex</id>
+  <published>2022-01-11T16:20:57Z</published>
+  <updated>2022-01-11T16:20:57Z</updated>
+  <content type="html">
+   Emacs configurations for standalone Org-roam emacs
+  </content>
+ </entry>
+ <entry>
+  <title>leanhtai01: emacsconfig</title>
+  <author>
+   <name>leanhtai01</name>
+  </author>
+  <link href="https://github.com/leanhtai01/emacsconfig" />
+  <id>urn:rprimus:github:leanhtai01:emacsconfig</id>
+  <published>2022-01-11T14:08:23Z</published>
+  <updated>2022-01-11T14:08:23Z</updated>
+  <content type="html">
+   leanhtai01&#039;s Emacs configurations
+  </content>
+ </entry>
  <entry>
   <title>lawlist: tda-template</title>
   <author>
@@ -18,19 +135,6 @@
   </content>
  </entry>
  <entry>
-  <title>leanhtai01: .emacs.d</title>
-  <author>
-   <name>leanhtai01</name>
-  </author>
-  <link href="https://github.com/leanhtai01/.emacs.d" />
-  <id>urn:rprimus:github:leanhtai01:.emacs.d</id>
-  <published>2022-01-11T02:58:35Z</published>
-  <updated>2022-01-11T02:58:35Z</updated>
-  <content type="html">
-   leanhtai01&#039;s Emacs configurations
-  </content>
- </entry>
- <entry>
   <title>emacs-straight: tempel</title>
   <author>
    <name>emacs-straight</name>
@@ -40,7 +144,7 @@
   <published>2022-01-11T00:10:05Z</published>
   <updated>2022-01-11T00:10:05Z</updated>
   <content type="html">
-   Mirror of the tempel package from GNU ELPA, current as of 2022-01-11
+   Mirror of the tempel package from GNU ELPA, current as of 2022-01-12
   </content>
  </entry>
  <entry>
@@ -53,7 +157,7 @@
   <published>2022-01-11T00:08:29Z</published>
   <updated>2022-01-11T00:08:29Z</updated>
   <content type="html">
-   Mirror of the cape package from GNU ELPA, current as of 2022-01-11
+   Mirror of the cape package from GNU ELPA, current as of 2022-01-12
   </content>
  </entry>
  <entry>
@@ -236,240 +340,6 @@
   <updated>2022-01-10T00:24:56Z</updated>
   <content type="html">
    Emacs
-  </content>
- </entry>
- <entry>
-  <title>guillaumebrunerie: ultimate-js-mode</title>
-  <author>
-   <name>guillaumebrunerie</name>
-  </author>
-  <link href="https://github.com/guillaumebrunerie/ultimate-js-mode" />
-  <id>urn:rprimus:github:guillaumebrunerie:ultimate-js-mode</id>
-  <published>2022-01-09T23:52:55Z</published>
-  <updated>2022-01-09T23:52:55Z</updated>
-  <content type="html">
-   An major mode for working with JS/JSX/TS/TSX files in Emacs
-  </content>
- </entry>
- <entry>
-  <title>AkisaRazbu: emacs</title>
-  <author>
-   <name>AkisaRazbu</name>
-  </author>
-  <link href="https://github.com/AkisaRazbu/emacs" />
-  <id>urn:rprimus:github:AkisaRazbu:emacs</id>
-  <published>2022-01-09T20:54:34Z</published>
-  <updated>2022-01-09T20:54:34Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>dkovacevic15: doom-dotfiles</title>
-  <author>
-   <name>dkovacevic15</name>
-  </author>
-  <link href="https://github.com/dkovacevic15/doom-dotfiles" />
-  <id>urn:rprimus:github:dkovacevic15:doom-dotfiles</id>
-  <published>2022-01-09T20:43:33Z</published>
-  <updated>2022-01-09T20:43:33Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>fai555: doom-emacs-config</title>
-  <author>
-   <name>fai555</name>
-  </author>
-  <link href="https://github.com/fai555/doom-emacs-config" />
-  <id>urn:rprimus:github:fai555:doom-emacs-config</id>
-  <published>2022-01-09T19:28:50Z</published>
-  <updated>2022-01-09T19:28:50Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>julioln: dotfiles</title>
-  <author>
-   <name>julioln</name>
-  </author>
-  <link href="https://github.com/julioln/dotfiles" />
-  <id>urn:rprimus:github:julioln:dotfiles</id>
-  <published>2022-01-09T19:04:57Z</published>
-  <updated>2022-01-09T19:04:57Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ViktorStahl: emacs-config</title>
-  <author>
-   <name>ViktorStahl</name>
-  </author>
-  <link href="https://github.com/ViktorStahl/emacs-config" />
-  <id>urn:rprimus:github:ViktorStahl:emacs-config</id>
-  <published>2022-01-09T18:16:00Z</published>
-  <updated>2022-01-09T18:16:00Z</updated>
-  <content type="html">
-   Emacs config because I keep forgetting
-  </content>
- </entry>
- <entry>
-  <title>JavMatz: .emacs.d</title>
-  <author>
-   <name>JavMatz</name>
-  </author>
-  <link href="https://github.com/JavMatz/.emacs.d" />
-  <id>urn:rprimus:github:JavMatz:.emacs.d</id>
-  <published>2022-01-09T17:44:05Z</published>
-  <updated>2022-01-09T17:44:05Z</updated>
-  <content type="html">
-   Personal emacs configuration
-  </content>
- </entry>
- <entry>
-  <title>S0raWasTaken: dotfiles</title>
-  <author>
-   <name>S0raWasTaken</name>
-  </author>
-  <link href="https://github.com/S0raWasTaken/dotfiles" />
-  <id>urn:rprimus:github:S0raWasTaken:dotfiles</id>
-  <published>2022-01-09T12:52:44Z</published>
-  <updated>2022-01-09T12:52:44Z</updated>
-  <content type="html">
-   Dot and configuration files for my stuff
-  </content>
- </entry>
- <entry>
-  <title>norton: emacs.d</title>
-  <author>
-   <name>norton</name>
-  </author>
-  <link href="https://github.com/norton/emacs.d" />
-  <id>urn:rprimus:github:norton:emacs.d</id>
-  <published>2022-01-09T10:04:46Z</published>
-  <updated>2022-01-09T10:04:46Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>lasvice: doom-emacs-config-chromeos</title>
-  <author>
-   <name>lasvice</name>
-  </author>
-  <link href="https://github.com/lasvice/doom-emacs-config-chromeos" />
-  <id>urn:rprimus:github:lasvice:doom-emacs-config-chromeos</id>
-  <published>2022-01-09T09:35:19Z</published>
-  <updated>2022-01-09T09:35:19Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>sakurabeaver: emacsConf</title>
-  <author>
-   <name>sakurabeaver</name>
-  </author>
-  <link href="https://github.com/sakurabeaver/emacsConf" />
-  <id>urn:rprimus:github:sakurabeaver:emacsConf</id>
-  <published>2022-01-09T09:33:57Z</published>
-  <updated>2022-01-09T09:33:57Z</updated>
-  <content type="html">
-   emacs config
-  </content>
- </entry>
- <entry>
-  <title>ColorfulOrangeCN: .spacemacs.d</title>
-  <author>
-   <name>ColorfulOrangeCN</name>
-  </author>
-  <link href="https://github.com/ColorfulOrangeCN/.spacemacs.d" />
-  <id>urn:rprimus:github:ColorfulOrangeCN:.spacemacs.d</id>
-  <published>2022-01-09T08:53:25Z</published>
-  <updated>2022-01-09T08:53:25Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Simon-Lin: init.el</title>
-  <author>
-   <name>Simon-Lin</name>
-  </author>
-  <link href="https://github.com/Simon-Lin/init.el" />
-  <id>urn:rprimus:github:Simon-Lin:init.el</id>
-  <published>2022-01-09T08:31:51Z</published>
-  <updated>2022-01-09T08:31:51Z</updated>
-  <content type="html">
-   my emacs config file
-  </content>
- </entry>
- <entry>
-  <title>carnotweat: cps</title>
-  <author>
-   <name>carnotweat</name>
-  </author>
-  <link href="https://github.com/carnotweat/cps" />
-  <id>urn:rprimus:github:carnotweat:cps</id>
-  <published>2022-01-09T05:30:31Z</published>
-  <updated>2022-01-09T05:30:31Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>l-plantarum: LB2</title>
-  <author>
-   <name>l-plantarum</name>
-  </author>
-  <link href="https://github.com/l-plantarum/LB2" />
-  <id>urn:rprimus:github:l-plantarum:LB2</id>
-  <published>2022-01-09T04:39:37Z</published>
-  <updated>2022-01-09T04:39:37Z</updated>
-  <content type="html">
-   åæéå®æ³ã®è©ä¾¡é¢æ°
-  </content>
- </entry>
- <entry>
-  <title>ushy6532: emacs.d</title>
-  <author>
-   <name>ushy6532</name>
-  </author>
-  <link href="https://github.com/ushy6532/emacs.d" />
-  <id>urn:rprimus:github:ushy6532:emacs.d</id>
-  <published>2022-01-09T04:26:01Z</published>
-  <updated>2022-01-09T04:26:01Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>sflicht: .emacs.d</title>
-  <author>
-   <name>sflicht</name>
-  </author>
-  <link href="https://github.com/sflicht/.emacs.d" />
-  <id>urn:rprimus:github:sflicht:.emacs.d</id>
-  <published>2022-01-09T00:48:30Z</published>
-  <updated>2022-01-09T00:48:30Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ymizoguchi: 20220109_iSHsetup</title>
-  <author>
-   <name>ymizoguchi</name>
-  </author>
-  <link href="https://github.com/ymizoguchi/20220109_iSHsetup" />
-  <id>urn:rprimus:github:ymizoguchi:20220109_iSHsetup</id>
-  <published>2022-01-09T00:38:44Z</published>
-  <updated>2022-01-09T00:38:44Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
