@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2022-01-12T09:21:42Z</updated>
+<updated>2022-01-13T04:59:38Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>hellopatrick: leet</title>
+  <author>
+   <name>hellopatrick</name>
+  </author>
+  <link href="https://github.com/hellopatrick/leet" />
+  <id>urn:rprimus:github:hellopatrick:leet</id>
+  <published>2022-01-13T04:59:38Z</published>
+  <updated>2022-01-13T04:59:38Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>fangyi-zhou: pallvm</title>
+  <author>
+   <name>fangyi-zhou</name>
+  </author>
+  <link href="https://github.com/fangyi-zhou/pallvm" />
+  <id>urn:rprimus:github:fangyi-zhou:pallvm</id>
+  <published>2022-01-12T23:08:46Z</published>
+  <updated>2022-01-12T23:08:46Z</updated>
+  <content type="html">
+   Pascal to LLVM compiler
+  </content>
+ </entry>
+ <entry>
+  <title>PaulCoral: SHASA</title>
+  <author>
+   <name>PaulCoral</name>
+  </author>
+  <link href="https://github.com/PaulCoral/SHASA" />
+  <id>urn:rprimus:github:PaulCoral:SHASA</id>
+  <published>2022-01-12T22:43:42Z</published>
+  <updated>2022-01-12T22:43:42Z</updated>
+  <content type="html">
+   A simple SHApe Static Analyzer, based on relation domain, shape analysis, and Facebook Infer static analyzer
+  </content>
+ </entry>
+ <entry>
+  <title>pascalcharp: mat1919-probleme-sat</title>
+  <author>
+   <name>pascalcharp</name>
+  </author>
+  <link href="https://github.com/pascalcharp/mat1919-probleme-sat" />
+  <id>urn:rprimus:github:pascalcharp:mat1919-probleme-sat</id>
+  <published>2022-01-12T21:09:53Z</published>
+  <updated>2022-01-12T21:09:53Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>gbdrt: ocaml-binder</title>
+  <author>
+   <name>gbdrt</name>
+  </author>
+  <link href="https://github.com/gbdrt/ocaml-binder" />
+  <id>urn:rprimus:github:gbdrt:ocaml-binder</id>
+  <published>2022-01-12T16:20:11Z</published>
+  <updated>2022-01-12T16:20:11Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>mattiasdrp: mdrp_lib</title>
+  <author>
+   <name>mattiasdrp</name>
+  </author>
+  <link href="https://github.com/mattiasdrp/mdrp_lib" />
+  <id>urn:rprimus:github:mattiasdrp:mdrp_lib</id>
+  <published>2022-01-12T15:33:31Z</published>
+  <updated>2022-01-12T15:33:31Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>buhman: aoml</title>
   <author>
@@ -122,19 +200,6 @@
   </content>
  </entry>
  <entry>
-  <title>nogw: rejson</title>
-  <author>
-   <name>nogw</name>
-  </author>
-  <link href="https://github.com/nogw/rejson" />
-  <id>urn:rprimus:github:nogw:rejson</id>
-  <published>2022-01-11T19:07:30Z</published>
-  <updated>2022-01-11T19:07:30Z</updated>
-  <content type="html">
-   ð¾ A JSON Parser in Reason
-  </content>
- </entry>
- <entry>
   <title>miage-lille: tof-kata-group2-remi-journault</title>
   <author>
    <name>miage-lille</name>
@@ -210,136 +275,6 @@
   <updated>2022-01-11T01:31:08Z</updated>
   <content type="html">
    A CI for OCaml projects on GitLab
-  </content>
- </entry>
- <entry>
-  <title>lexmengenhauser: vowel</title>
-  <author>
-   <name>lexmengenhauser</name>
-  </author>
-  <link href="https://github.com/lexmengenhauser/vowel" />
-  <id>urn:rprimus:github:lexmengenhauser:vowel</id>
-  <published>2022-01-10T21:22:28Z</published>
-  <updated>2022-01-10T21:22:28Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>MajaTr: ocaml-wordle-solver</title>
-  <author>
-   <name>MajaTr</name>
-  </author>
-  <link href="https://github.com/MajaTr/ocaml-wordle-solver" />
-  <id>urn:rprimus:github:MajaTr:ocaml-wordle-solver</id>
-  <published>2022-01-10T20:36:06Z</published>
-  <updated>2022-01-10T20:36:06Z</updated>
-  <content type="html">
-   Bruteforcing the trendy word game. OCaml because I&#039;m crazy
-  </content>
- </entry>
- <entry>
-  <title>thibriv: rrt-ocaml</title>
-  <author>
-   <name>thibriv</name>
-  </author>
-  <link href="https://github.com/thibriv/rrt-ocaml" />
-  <id>urn:rprimus:github:thibriv:rrt-ocaml</id>
-  <published>2022-01-10T20:11:06Z</published>
-  <updated>2022-01-10T20:11:06Z</updated>
-  <content type="html">
-   OCaml project by group of 3 during the second year of the engineering program at the ENAC
-  </content>
- </entry>
- <entry>
-  <title>kit-ty-kate: ocaml-docker-hub</title>
-  <author>
-   <name>kit-ty-kate</name>
-  </author>
-  <link href="https://github.com/kit-ty-kate/ocaml-docker-hub" />
-  <id>urn:rprimus:github:kit-ty-kate:ocaml-docker-hub</id>
-  <published>2022-01-10T19:55:08Z</published>
-  <updated>2022-01-10T19:55:08Z</updated>
-  <content type="html">
-   An OCaml library aiming to provide data from hub.docker.com
-  </content>
- </entry>
- <entry>
-  <title>radioneko: nplay</title>
-  <author>
-   <name>radioneko</name>
-  </author>
-  <link href="https://github.com/radioneko/nplay" />
-  <id>urn:rprimus:github:radioneko:nplay</id>
-  <published>2022-01-10T19:44:17Z</published>
-  <updated>2022-01-10T19:44:17Z</updated>
-  <content type="html">
-   Wrapper for media player to display notification via libnotify
-  </content>
- </entry>
- <entry>
-  <title>tsca-dev: alpha-agencydev</title>
-  <author>
-   <name>tsca-dev</name>
-  </author>
-  <link href="https://github.com/tsca-dev/alpha-agencydev" />
-  <id>urn:rprimus:github:tsca-dev:alpha-agencydev</id>
-  <published>2022-01-10T13:28:23Z</published>
-  <updated>2022-01-10T13:28:23Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Stevendeo: test-cgl</title>
-  <author>
-   <name>Stevendeo</name>
-  </author>
-  <link href="https://github.com/Stevendeo/test-cgl" />
-  <id>urn:rprimus:github:Stevendeo:test-cgl</id>
-  <published>2022-01-10T11:42:01Z</published>
-  <updated>2022-01-10T11:42:01Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>vutrungkien1977: subsieure</title>
-  <author>
-   <name>vutrungkien1977</name>
-  </author>
-  <link href="https://github.com/vutrungkien1977/subsieure" />
-  <id>urn:rprimus:github:vutrungkien1977:subsieure</id>
-  <published>2022-01-10T04:42:28Z</published>
-  <updated>2022-01-10T04:42:28Z</updated>
-  <content type="html">
-   subsieure
-  </content>
- </entry>
- <entry>
-  <title>vercekpeterdamian: sudoku_solver_zalostna_verzija</title>
-  <author>
-   <name>vercekpeterdamian</name>
-  </author>
-  <link href="https://github.com/vercekpeterdamian/sudoku_solver_zalostna_verzija" />
-  <id>urn:rprimus:github:vercekpeterdamian:sudoku_solver_zalostna_verzija</id>
-  <published>2022-01-10T00:54:03Z</published>
-  <updated>2022-01-10T00:54:03Z</updated>
-  <content type="html">
-   Pozdravljeni, profesorjeve besede, naj med vikendom pojdem na sneg in na sonce, sem Å¾al vzel malce preresno. Zato zdaj, krepko Äez polnoÄ, oddajam verzijo, katero sem spisal Å¾e v Äetrtek. Ko sem spisal tale osnoven program me je preÅ¡el preblisk, da &quot;ker v torek itak ni kolokvija topologije&quot; lahko Å¡e malo Äasa posvetim optimizaciji in nadgradnji.  Da uniÄim preseneÄenje vam povem
-  </content>
- </entry>
- <entry>
-  <title>haroun-k: Balls.ml</title>
-  <author>
-   <name>haroun-k</name>
-  </author>
-  <link href="https://github.com/haroun-k/Balls.ml" />
-  <id>urn:rprimus:github:haroun-k:Balls.ml</id>
-  <published>2022-01-10T00:26:35Z</published>
-  <updated>2022-01-10T00:26:35Z</updated>
-  <content type="html">
-   A game made with the Caml Language | School Project
   </content>
  </entry>
 </feed>

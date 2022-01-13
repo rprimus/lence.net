@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2022-01-12T10:14:09Z</updated>
+<updated>2022-01-12T21:51:36Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>Dmdv: payment-service</title>
+  <author>
+   <name>Dmdv</name>
+  </author>
+  <link href="https://github.com/Dmdv/payment-service" />
+  <id>urn:rprimus:github:Dmdv:payment-service</id>
+  <published>2022-01-12T21:51:36Z</published>
+  <updated>2022-01-12T21:51:36Z</updated>
+  <content type="html">
+   Crystal and Kemal project demo
+  </content>
+ </entry>
+ <entry>
+  <title>sschekotikhin: redis_stats</title>
+  <author>
+   <name>sschekotikhin</name>
+  </author>
+  <link href="https://github.com/sschekotikhin/redis_stats" />
+  <id>urn:rprimus:github:sschekotikhin:redis_stats</id>
+  <published>2022-01-12T11:13:26Z</published>
+  <updated>2022-01-12T11:13:26Z</updated>
+  <content type="html">
+   Stores duration stats in Redis.
+  </content>
+ </entry>
  <entry>
   <title>Octobur: opal</title>
   <author>
@@ -18,12 +44,12 @@
   </content>
  </entry>
  <entry>
-  <title>sschekotikhin: redis-cache</title>
+  <title>sschekotikhin: redis_cache</title>
   <author>
    <name>sschekotikhin</name>
   </author>
-  <link href="https://github.com/sschekotikhin/redis-cache" />
-  <id>urn:rprimus:github:sschekotikhin:redis-cache</id>
+  <link href="https://github.com/sschekotikhin/redis_cache" />
+  <id>urn:rprimus:github:sschekotikhin:redis_cache</id>
   <published>2022-01-12T09:42:38Z</published>
   <updated>2022-01-12T09:42:38Z</updated>
   <content type="html">
@@ -83,6 +109,19 @@
   </content>
  </entry>
  <entry>
+  <title>fabon-f: difftance</title>
+  <author>
+   <name>fabon-f</name>
+  </author>
+  <link href="https://github.com/fabon-f/difftance" />
+  <id>urn:rprimus:github:fabon-f:difftance</id>
+  <published>2022-01-11T16:56:45Z</published>
+  <updated>2022-01-11T16:56:45Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
   <title>lbguilherme: crystal-web-demo</title>
   <author>
    <name>lbguilherme</name>
@@ -119,32 +158,6 @@
   <updated>2022-01-11T04:22:35Z</updated>
   <content type="html">
    HTTP::Client for testing HTTP::Handlers directly and maintaining cookies
-  </content>
- </entry>
- <entry>
-  <title>Lillevang: exercism</title>
-  <author>
-   <name>Lillevang</name>
-  </author>
-  <link href="https://github.com/Lillevang/exercism" />
-  <id>urn:rprimus:github:Lillevang:exercism</id>
-  <published>2022-01-10T22:00:41Z</published>
-  <updated>2022-01-10T22:00:41Z</updated>
-  <content type="html">
-   My solutions to exercises at exercism.org
-  </content>
- </entry>
- <entry>
-  <title>marzhaev: diadoc_api</title>
-  <author>
-   <name>marzhaev</name>
-  </author>
-  <link href="https://github.com/marzhaev/diadoc_api" />
-  <id>urn:rprimus:github:marzhaev:diadoc_api</id>
-  <published>2022-01-10T12:35:16Z</published>
-  <updated>2022-01-10T12:35:16Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
