@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2022-01-12T21:51:36Z</updated>
+<updated>2022-01-13T19:36:54Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>watzon: telegram.cr</title>
+  <author>
+   <name>watzon</name>
+  </author>
+  <link href="https://github.com/watzon/telegram.cr" />
+  <id>urn:rprimus:github:watzon:telegram.cr</id>
+  <published>2022-01-13T19:36:54Z</published>
+  <updated>2022-01-13T19:36:54Z</updated>
+  <content type="html">
+   Telegram Bot API library written in Crystal and designed with Lucky integration in mind
+  </content>
+ </entry>
  <entry>
   <title>Dmdv: payment-service</title>
   <author>
@@ -93,71 +106,6 @@
   <updated>2022-01-12T01:24:57Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>Dakad: socksify.cr</title>
-  <author>
-   <name>Dakad</name>
-  </author>
-  <link href="https://github.com/Dakad/socksify.cr" />
-  <id>urn:rprimus:github:Dakad:socksify.cr</id>
-  <published>2022-01-11T20:56:46Z</published>
-  <updated>2022-01-11T20:56:46Z</updated>
-  <content type="html">
-   Crystal version of Socksify-ruby gem
-  </content>
- </entry>
- <entry>
-  <title>fabon-f: difftance</title>
-  <author>
-   <name>fabon-f</name>
-  </author>
-  <link href="https://github.com/fabon-f/difftance" />
-  <id>urn:rprimus:github:fabon-f:difftance</id>
-  <published>2022-01-11T16:56:45Z</published>
-  <updated>2022-01-11T16:56:45Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>lbguilherme: crystal-web-demo</title>
-  <author>
-   <name>lbguilherme</name>
-  </author>
-  <link href="https://github.com/lbguilherme/crystal-web-demo" />
-  <id>urn:rprimus:github:lbguilherme:crystal-web-demo</id>
-  <published>2022-01-11T13:09:46Z</published>
-  <updated>2022-01-11T13:09:46Z</updated>
-  <content type="html">
-   Demo for the crystal-web project
-  </content>
- </entry>
- <entry>
-  <title>cryptic-resolver: cr_Crystal</title>
-  <author>
-   <name>cryptic-resolver</name>
-  </author>
-  <link href="https://github.com/cryptic-resolver/cr_Crystal" />
-  <id>urn:rprimus:github:cryptic-resolver:cr_Crystal</id>
-  <published>2022-01-11T12:11:20Z</published>
-  <updated>2022-01-11T12:11:20Z</updated>
-  <content type="html">
-   Cryptic Resolver in Crystal
-  </content>
- </entry>
- <entry>
-  <title>matthewmcgarvey: webless</title>
-  <author>
-   <name>matthewmcgarvey</name>
-  </author>
-  <link href="https://github.com/matthewmcgarvey/webless" />
-  <id>urn:rprimus:github:matthewmcgarvey:webless</id>
-  <published>2022-01-11T04:22:35Z</published>
-  <updated>2022-01-11T04:22:35Z</updated>
-  <content type="html">
-   HTTP::Client for testing HTTP::Handlers directly and maintaining cookies
   </content>
  </entry>
 </feed>
