@@ -2,19 +2,97 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2022-01-14T10:16:55Z</updated>
+<updated>2022-01-15T02:02:53Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
  <entry>
-  <title>QuentinRa: ensiie</title>
+  <title>joelburget: typed-algebraic-parsing</title>
   <author>
-   <name>QuentinRa</name>
+   <name>joelburget</name>
   </author>
-  <link href="https://github.com/QuentinRa/ensiie" />
-  <id>urn:rprimus:github:QuentinRa:ensiie</id>
-  <published>2022-01-14T10:16:55Z</published>
-  <updated>2022-01-14T10:16:55Z</updated>
+  <link href="https://github.com/joelburget/typed-algebraic-parsing" />
+  <id>urn:rprimus:github:joelburget:typed-algebraic-parsing</id>
+  <published>2022-01-15T02:02:53Z</published>
+  <updated>2022-01-15T02:02:53Z</updated>
+  <content type="html">
+   An implementation of &quot;A Typed, Algebraic Approach to Parsing&quot;
+  </content>
+ </entry>
+ <entry>
+  <title>MP2I-Saint-Louis: projets-info-janvier-2022</title>
+  <author>
+   <name>MP2I-Saint-Louis</name>
+  </author>
+  <link href="https://github.com/MP2I-Saint-Louis/projets-info-janvier-2022" />
+  <id>urn:rprimus:github:MP2I-Saint-Louis:projets-info-janvier-2022</id>
+  <published>2022-01-14T20:31:59Z</published>
+  <updated>2022-01-14T20:31:59Z</updated>
+  <content type="html">
+   Projets d&#039;Informatique de Janvier 2021 (DM3)
+  </content>
+ </entry>
+ <entry>
+  <title>4y8: euler</title>
+  <author>
+   <name>4y8</name>
+  </author>
+  <link href="https://github.com/4y8/euler" />
+  <id>urn:rprimus:github:4y8:euler</id>
+  <published>2022-01-14T15:44:52Z</published>
+  <updated>2022-01-14T15:44:52Z</updated>
+  <content type="html">
+   My programs to solve Project Euler&#039;s exercises
+  </content>
+ </entry>
+ <entry>
+  <title>geneweb: geneweb-plugin-v7</title>
+  <author>
+   <name>geneweb</name>
+  </author>
+  <link href="https://github.com/geneweb/geneweb-plugin-v7" />
+  <id>urn:rprimus:github:geneweb:geneweb-plugin-v7</id>
+  <published>2022-01-14T15:36:30Z</published>
+  <updated>2022-01-14T15:36:30Z</updated>
   <content type="html">
    
+  </content>
+ </entry>
+ <entry>
+  <title>mpri-probprog: probprog-21-22</title>
+  <author>
+   <name>mpri-probprog</name>
+  </author>
+  <link href="https://github.com/mpri-probprog/probprog-21-22" />
+  <id>urn:rprimus:github:mpri-probprog:probprog-21-22</id>
+  <published>2022-01-14T14:23:44Z</published>
+  <updated>2022-01-14T14:23:44Z</updated>
+  <content type="html">
+   MPRI 2.40 (Probabilistic Programming Languages) 2021-2022
+  </content>
+ </entry>
+ <entry>
+  <title>tomjridge: sparse-file</title>
+  <author>
+   <name>tomjridge</name>
+  </author>
+  <link href="https://github.com/tomjridge/sparse-file" />
+  <id>urn:rprimus:github:tomjridge:sparse-file</id>
+  <published>2022-01-14T14:04:23Z</published>
+  <updated>2022-01-14T14:04:23Z</updated>
+  <content type="html">
+   Implement a generic sparse file (a file with gaps, which don&#039;t consume on-disk bytes)
+  </content>
+ </entry>
+ <entry>
+  <title>syohex: ocaml-study</title>
+  <author>
+   <name>syohex</name>
+  </author>
+  <link href="https://github.com/syohex/ocaml-study" />
+  <id>urn:rprimus:github:syohex:ocaml-study</id>
+  <published>2022-01-14T10:57:53Z</published>
+  <updated>2022-01-14T10:57:53Z</updated>
+  <content type="html">
+   My OCaml study
   </content>
  </entry>
  <entry>
@@ -65,162 +143,6 @@
   <id>urn:rprimus:github:hellopatrick:leet</id>
   <published>2022-01-13T04:59:38Z</published>
   <updated>2022-01-13T04:59:38Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>fangyi-zhou: pallvm</title>
-  <author>
-   <name>fangyi-zhou</name>
-  </author>
-  <link href="https://github.com/fangyi-zhou/pallvm" />
-  <id>urn:rprimus:github:fangyi-zhou:pallvm</id>
-  <published>2022-01-12T23:08:46Z</published>
-  <updated>2022-01-12T23:08:46Z</updated>
-  <content type="html">
-   Pascal to LLVM compiler
-  </content>
- </entry>
- <entry>
-  <title>PaulCoral: SHASA</title>
-  <author>
-   <name>PaulCoral</name>
-  </author>
-  <link href="https://github.com/PaulCoral/SHASA" />
-  <id>urn:rprimus:github:PaulCoral:SHASA</id>
-  <published>2022-01-12T22:43:42Z</published>
-  <updated>2022-01-12T22:43:42Z</updated>
-  <content type="html">
-   A simple SHApe Static Analyzer, based on relation domain, shape analysis, and Facebook Infer static analyzer
-  </content>
- </entry>
- <entry>
-  <title>pascalcharp: mat1919-probleme-sat</title>
-  <author>
-   <name>pascalcharp</name>
-  </author>
-  <link href="https://github.com/pascalcharp/mat1919-probleme-sat" />
-  <id>urn:rprimus:github:pascalcharp:mat1919-probleme-sat</id>
-  <published>2022-01-12T21:09:53Z</published>
-  <updated>2022-01-12T21:09:53Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>willenzhou: chinese-chess</title>
-  <author>
-   <name>willenzhou</name>
-  </author>
-  <link href="https://github.com/willenzhou/chinese-chess" />
-  <id>urn:rprimus:github:willenzhou:chinese-chess</id>
-  <published>2022-01-12T18:55:05Z</published>
-  <updated>2022-01-12T18:55:05Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>gbdrt: ocaml-binder</title>
-  <author>
-   <name>gbdrt</name>
-  </author>
-  <link href="https://github.com/gbdrt/ocaml-binder" />
-  <id>urn:rprimus:github:gbdrt:ocaml-binder</id>
-  <published>2022-01-12T16:20:11Z</published>
-  <updated>2022-01-12T16:20:11Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>mattiasdrp: mdrp_lib</title>
-  <author>
-   <name>mattiasdrp</name>
-  </author>
-  <link href="https://github.com/mattiasdrp/mdrp_lib" />
-  <id>urn:rprimus:github:mattiasdrp:mdrp_lib</id>
-  <published>2022-01-12T15:33:31Z</published>
-  <updated>2022-01-12T15:33:31Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>buhman: aoml</title>
-  <author>
-   <name>buhman</name>
-  </author>
-  <link href="https://github.com/buhman/aoml" />
-  <id>urn:rprimus:github:buhman:aoml</id>
-  <published>2022-01-12T09:21:42Z</published>
-  <updated>2022-01-12T09:21:42Z</updated>
-  <content type="html">
-   Advent of OCaml
-  </content>
- </entry>
- <entry>
-  <title>jdong135: CS-4</title>
-  <author>
-   <name>jdong135</name>
-  </author>
-  <link href="https://github.com/jdong135/CS-4" />
-  <id>urn:rprimus:github:jdong135:CS-4</id>
-  <published>2022-01-12T06:24:03Z</published>
-  <updated>2022-01-12T06:24:03Z</updated>
-  <content type="html">
-   CS 4 Winter Term 2021-2022
-  </content>
- </entry>
- <entry>
-  <title>ShovelCode: ocaml</title>
-  <author>
-   <name>ShovelCode</name>
-  </author>
-  <link href="https://github.com/ShovelCode/ocaml" />
-  <id>urn:rprimus:github:ShovelCode:ocaml</id>
-  <published>2022-01-12T05:37:01Z</published>
-  <updated>2022-01-12T05:37:01Z</updated>
-  <content type="html">
-   OCaml Code
-  </content>
- </entry>
- <entry>
-  <title>logan-lieou: uhuh-1</title>
-  <author>
-   <name>logan-lieou</name>
-  </author>
-  <link href="https://github.com/logan-lieou/uhuh-1" />
-  <id>urn:rprimus:github:logan-lieou:uhuh-1</id>
-  <published>2022-01-12T05:36:00Z</published>
-  <updated>2022-01-12T05:36:00Z</updated>
-  <content type="html">
-   competitive programming solutions
-  </content>
- </entry>
- <entry>
-  <title>kelloee: test</title>
-  <author>
-   <name>kelloee</name>
-  </author>
-  <link href="https://github.com/kelloee/test" />
-  <id>urn:rprimus:github:kelloee:test</id>
-  <published>2022-01-12T04:19:20Z</published>
-  <updated>2022-01-12T04:19:20Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>emanuelxavier1999: testeAnalisadorSintatico</title>
-  <author>
-   <name>emanuelxavier1999</name>
-  </author>
-  <link href="https://github.com/emanuelxavier1999/testeAnalisadorSintatico" />
-  <id>urn:rprimus:github:emanuelxavier1999:testeAnalisadorSintatico</id>
-  <published>2022-01-12T00:11:17Z</published>
-  <updated>2022-01-12T00:11:17Z</updated>
   <content type="html">
    
   </content>
