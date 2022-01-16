@@ -2,8 +2,112 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-01-15T10:12:48Z</updated>
+<updated>2022-01-16T10:07:05Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>DanielKeogh: ascii-converter</title>
+  <author>
+   <name>DanielKeogh</name>
+  </author>
+  <link href="https://github.com/DanielKeogh/ascii-converter" />
+  <id>urn:rprimus:github:DanielKeogh:ascii-converter</id>
+  <published>2022-01-16T10:07:05Z</published>
+  <updated>2022-01-16T10:07:05Z</updated>
+  <content type="html">
+   Turn images into ascii art.
+  </content>
+ </entry>
+ <entry>
+  <title>woodrush: libsectorlisp</title>
+  <author>
+   <name>woodrush</name>
+  </author>
+  <link href="https://github.com/woodrush/libsectorlisp" />
+  <id>urn:rprimus:github:woodrush:libsectorlisp</id>
+  <published>2022-01-16T10:02:57Z</published>
+  <updated>2022-01-16T10:02:57Z</updated>
+  <content type="html">
+   Libraries for writing programs in SectorLISP
+  </content>
+ </entry>
+ <entry>
+  <title>sebasmonia: bits-and-lisp</title>
+  <author>
+   <name>sebasmonia</name>
+  </author>
+  <link href="https://github.com/sebasmonia/bits-and-lisp" />
+  <id>urn:rprimus:github:sebasmonia:bits-and-lisp</id>
+  <published>2022-01-16T05:10:48Z</published>
+  <updated>2022-01-16T05:10:48Z</updated>
+  <content type="html">
+   Small experiment to deal with binary data using Common Lisp 
+  </content>
+ </entry>
+ <entry>
+  <title>d3d1rty: practical-cl</title>
+  <author>
+   <name>d3d1rty</name>
+  </author>
+  <link href="https://github.com/d3d1rty/practical-cl" />
+  <id>urn:rprimus:github:d3d1rty:practical-cl</id>
+  <published>2022-01-16T01:56:52Z</published>
+  <updated>2022-01-16T01:56:52Z</updated>
+  <content type="html">
+   Work from the book Practical Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>Gap1512: cl-quantum</title>
+  <author>
+   <name>Gap1512</name>
+  </author>
+  <link href="https://github.com/Gap1512/cl-quantum" />
+  <id>urn:rprimus:github:Gap1512:cl-quantum</id>
+  <published>2022-01-15T23:31:14Z</published>
+  <updated>2022-01-15T23:31:14Z</updated>
+  <content type="html">
+   Quantum computing simulator for Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>tfeb: tfeb-lisp-implementation-hax</title>
+  <author>
+   <name>tfeb</name>
+  </author>
+  <link href="https://github.com/tfeb/tfeb-lisp-implementation-hax" />
+  <id>urn:rprimus:github:tfeb:tfeb-lisp-implementation-hax</id>
+  <published>2022-01-15T14:43:50Z</published>
+  <updated>2022-01-15T14:43:50Z</updated>
+  <content type="html">
+   TFEB.ORG implementation-specific Lisp hacks
+  </content>
+ </entry>
+ <entry>
+  <title>barbarabrugger: LispIntroduction</title>
+  <author>
+   <name>barbarabrugger</name>
+  </author>
+  <link href="https://github.com/barbarabrugger/LispIntroduction" />
+  <id>urn:rprimus:github:barbarabrugger:LispIntroduction</id>
+  <published>2022-01-15T13:46:06Z</published>
+  <updated>2022-01-15T13:46:06Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>kilianmh: cl-stacks-api</title>
+  <author>
+   <name>kilianmh</name>
+  </author>
+  <link href="https://github.com/kilianmh/cl-stacks-api" />
+  <id>urn:rprimus:github:kilianmh:cl-stacks-api</id>
+  <published>2022-01-15T12:07:21Z</published>
+  <updated>2022-01-15T12:07:21Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>ranmaru22: aoc2021</title>
   <author>
@@ -15,6 +119,19 @@
   <updated>2022-01-15T10:12:48Z</updated>
   <content type="html">
    Advent of Code 2021
+  </content>
+ </entry>
+ <entry>
+  <title>agiardina: minitorch-cl</title>
+  <author>
+   <name>agiardina</name>
+  </author>
+  <link href="https://github.com/agiardina/minitorch-cl" />
+  <id>urn:rprimus:github:agiardina:minitorch-cl</id>
+  <published>2022-01-15T07:14:07Z</published>
+  <updated>2022-01-15T07:14:07Z</updated>
+  <content type="html">
+   Minitorch implementation using Common Lisp
   </content>
  </entry>
  <entry>
@@ -106,123 +223,6 @@
   <updated>2022-01-14T02:58:50Z</updated>
   <content type="html">
    My lab work for CPS305 - Data Structures, only including the code I created and not what was provided to me.
-  </content>
- </entry>
- <entry>
-  <title>zcd: advent-of-code</title>
-  <author>
-   <name>zcd</name>
-  </author>
-  <link href="https://github.com/zcd/advent-of-code" />
-  <id>urn:rprimus:github:zcd:advent-of-code</id>
-  <published>2022-01-13T22:46:44Z</published>
-  <updated>2022-01-13T22:46:44Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>hjozwiak: stumpwm.d</title>
-  <author>
-   <name>hjozwiak</name>
-  </author>
-  <link href="https://github.com/hjozwiak/stumpwm.d" />
-  <id>urn:rprimus:github:hjozwiak:stumpwm.d</id>
-  <published>2022-01-13T18:09:04Z</published>
-  <updated>2022-01-13T18:09:04Z</updated>
-  <content type="html">
-   My Stumpwm configuration.
-  </content>
- </entry>
- <entry>
-  <title>Hectarea1996: cl-hgs</title>
-  <author>
-   <name>Hectarea1996</name>
-  </author>
-  <link href="https://github.com/Hectarea1996/cl-hgs" />
-  <id>urn:rprimus:github:Hectarea1996:cl-hgs</id>
-  <published>2022-01-13T16:51:37Z</published>
-  <updated>2022-01-13T16:51:37Z</updated>
-  <content type="html">
-   A graphics engine experiment using OpenGL
-  </content>
- </entry>
- <entry>
-  <title>robert-strandh: Docleanser</title>
-  <author>
-   <name>robert-strandh</name>
-  </author>
-  <link href="https://github.com/robert-strandh/Docleanser" />
-  <id>urn:rprimus:github:robert-strandh:Docleanser</id>
-  <published>2022-01-13T15:09:41Z</published>
-  <updated>2022-01-13T15:09:41Z</updated>
-  <content type="html">
-   Application for improving scanned documents.
-  </content>
- </entry>
- <entry>
-  <title>mdm: adventofcode2017</title>
-  <author>
-   <name>mdm</name>
-  </author>
-  <link href="https://github.com/mdm/adventofcode2017" />
-  <id>urn:rprimus:github:mdm:adventofcode2017</id>
-  <published>2022-01-13T12:39:57Z</published>
-  <updated>2022-01-13T12:39:57Z</updated>
-  <content type="html">
-   Advent of Code 2017 solutions in Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>Redcroft: stumpwm.d</title>
-  <author>
-   <name>Redcroft</name>
-  </author>
-  <link href="https://github.com/Redcroft/stumpwm.d" />
-  <id>urn:rprimus:github:Redcroft:stumpwm.d</id>
-  <published>2022-01-13T11:37:27Z</published>
-  <updated>2022-01-13T11:37:27Z</updated>
-  <content type="html">
-   My Stumpwm config
-  </content>
- </entry>
- <entry>
-  <title>mbulucay: CSE-341-Programming-Languages</title>
-  <author>
-   <name>mbulucay</name>
-  </author>
-  <link href="https://github.com/mbulucay/CSE-341-Programming-Languages" />
-  <id>urn:rprimus:github:mbulucay:CSE-341-Programming-Languages</id>
-  <published>2022-01-13T11:01:20Z</published>
-  <updated>2022-01-13T11:01:20Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>fbmnds: cnc-builds</title>
-  <author>
-   <name>fbmnds</name>
-  </author>
-  <link href="https://github.com/fbmnds/cnc-builds" />
-  <id>urn:rprimus:github:fbmnds:cnc-builds</id>
-  <published>2022-01-13T10:25:39Z</published>
-  <updated>2022-01-13T10:25:39Z</updated>
-  <content type="html">
-   A library for 2.5D CNC.
-  </content>
- </entry>
- <entry>
-  <title>andrewbriand: bbl1</title>
-  <author>
-   <name>andrewbriand</name>
-  </author>
-  <link href="https://github.com/andrewbriand/bbl1" />
-  <id>urn:rprimus:github:andrewbriand:bbl1</id>
-  <published>2022-01-13T03:29:45Z</published>
-  <updated>2022-01-13T03:29:45Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>

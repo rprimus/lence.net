@@ -2,8 +2,112 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2022-01-14T09:49:39Z</updated>
+<updated>2022-01-15T21:54:49Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>sotolf2: north</title>
+  <author>
+   <name>sotolf2</name>
+  </author>
+  <link href="https://github.com/sotolf2/north" />
+  <id>urn:rprimus:github:sotolf2:north</id>
+  <published>2022-01-15T21:54:49Z</published>
+  <updated>2022-01-15T21:54:49Z</updated>
+  <content type="html">
+   A concatenative toy language
+  </content>
+ </entry>
+ <entry>
+  <title>Rekihyt: astdot</title>
+  <author>
+   <name>Rekihyt</name>
+  </author>
+  <link href="https://github.com/Rekihyt/astdot" />
+  <id>urn:rprimus:github:Rekihyt:astdot</id>
+  <published>2022-01-15T21:48:09Z</published>
+  <updated>2022-01-15T21:48:09Z</updated>
+  <content type="html">
+   Prints a dot graph of a nim ast dumped using the `dumpTree` macro.
+  </content>
+ </entry>
+ <entry>
+  <title>chigby: octowords</title>
+  <author>
+   <name>chigby</name>
+  </author>
+  <link href="https://github.com/chigby/octowords" />
+  <id>urn:rprimus:github:chigby:octowords</id>
+  <published>2022-01-15T20:51:13Z</published>
+  <updated>2022-01-15T20:51:13Z</updated>
+  <content type="html">
+   Count the words in octo-formatted story files
+  </content>
+ </entry>
+ <entry>
+  <title>Albert24GG: Proflix-nim</title>
+  <author>
+   <name>Albert24GG</name>
+  </author>
+  <link href="https://github.com/Albert24GG/Proflix-nim" />
+  <id>urn:rprimus:github:Albert24GG:Proflix-nim</id>
+  <published>2022-01-15T19:29:32Z</published>
+  <updated>2022-01-15T19:29:32Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>S3cur3Th1sSh1t: NimWinstaEveryoneAccess</title>
+  <author>
+   <name>S3cur3Th1sSh1t</name>
+  </author>
+  <link href="https://github.com/S3cur3Th1sSh1t/NimWinstaEveryoneAccess" />
+  <id>urn:rprimus:github:S3cur3Th1sSh1t:NimWinstaEveryoneAccess</id>
+  <published>2022-01-15T17:46:25Z</published>
+  <updated>2022-01-15T17:46:25Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>boyanl: advent-2021</title>
+  <author>
+   <name>boyanl</name>
+  </author>
+  <link href="https://github.com/boyanl/advent-2021" />
+  <id>urn:rprimus:github:boyanl:advent-2021</id>
+  <published>2022-01-15T15:56:22Z</published>
+  <updated>2022-01-15T15:56:22Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>hlaaftana: grab</title>
+  <author>
+   <name>hlaaftana</name>
+  </author>
+  <link href="https://github.com/hlaaftana/grab" />
+  <id>urn:rprimus:github:hlaaftana:grab</id>
+  <published>2022-01-15T15:31:37Z</published>
+  <updated>2022-01-15T15:31:37Z</updated>
+  <content type="html">
+   grab statement for importing packages in Nim, similar to Groovy&#039;s Grape
+  </content>
+ </entry>
+ <entry>
+  <title>ceebeel: audius</title>
+  <author>
+   <name>ceebeel</name>
+  </author>
+  <link href="https://github.com/ceebeel/audius" />
+  <id>urn:rprimus:github:ceebeel:audius</id>
+  <published>2022-01-15T14:32:52Z</published>
+  <updated>2022-01-15T14:32:52Z</updated>
+  <content type="html">
+   Audius API Library in Nim.
+  </content>
+ </entry>
  <entry>
   <title>Amaranese: rainbow</title>
   <author>
@@ -13,58 +117,6 @@
   <id>urn:rprimus:github:Amaranese:rainbow</id>
   <published>2022-01-14T09:49:39Z</published>
   <updated>2022-01-14T09:49:39Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>frkngksl: ParallelNimcalls</title>
-  <author>
-   <name>frkngksl</name>
-  </author>
-  <link href="https://github.com/frkngksl/ParallelNimcalls" />
-  <id>urn:rprimus:github:frkngksl:ParallelNimcalls</id>
-  <published>2022-01-13T07:07:03Z</published>
-  <updated>2022-01-13T07:07:03Z</updated>
-  <content type="html">
-   Nim version of MDSec&#039;s Parallel Syscall PoC
-  </content>
- </entry>
- <entry>
-  <title>nziokajimkelly: client-server-terminal-chat-app</title>
-  <author>
-   <name>nziokajimkelly</name>
-  </author>
-  <link href="https://github.com/nziokajimkelly/client-server-terminal-chat-app" />
-  <id>urn:rprimus:github:nziokajimkelly:client-server-terminal-chat-app</id>
-  <published>2022-01-13T05:17:34Z</published>
-  <updated>2022-01-13T05:17:34Z</updated>
-  <content type="html">
-   A simple pair of client-server apps that support manay-to-many communication, similar to IRC. They are written in Nim.
-  </content>
- </entry>
- <entry>
-  <title>scottanderson: tcz</title>
-  <author>
-   <name>scottanderson</name>
-  </author>
-  <link href="https://github.com/scottanderson/tcz" />
-  <id>urn:rprimus:github:scottanderson:tcz</id>
-  <published>2022-01-13T02:23:54Z</published>
-  <updated>2022-01-13T02:23:54Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>arkanoid87: futhest</title>
-  <author>
-   <name>arkanoid87</name>
-  </author>
-  <link href="https://github.com/arkanoid87/futhest" />
-  <id>urn:rprimus:github:arkanoid87:futhest</id>
-  <published>2022-01-13T00:03:53Z</published>
-  <updated>2022-01-13T00:03:53Z</updated>
   <content type="html">
    
   </content>
