@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-01-16T10:07:05Z</updated>
+<updated>2022-01-17T01:01:18Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>CraigOpie: lisp_intro</title>
+  <author>
+   <name>CraigOpie</name>
+  </author>
+  <link href="https://github.com/CraigOpie/lisp_intro" />
+  <id>urn:rprimus:github:CraigOpie:lisp_intro</id>
+  <published>2022-01-17T01:01:18Z</published>
+  <updated>2022-01-17T01:01:18Z</updated>
+  <content type="html">
+   Learning LISP
+  </content>
+ </entry>
+ <entry>
+  <title>aru-hackZ: id3lib-cl</title>
+  <author>
+   <name>aru-hackZ</name>
+  </author>
+  <link href="https://github.com/aru-hackZ/id3lib-cl" />
+  <id>urn:rprimus:github:aru-hackZ:id3lib-cl</id>
+  <published>2022-01-16T18:18:48Z</published>
+  <updated>2022-01-16T18:18:48Z</updated>
+  <content type="html">
+   Library for interacting, reading and writing mp3 files metadata using the id3 standard
+  </content>
+ </entry>
+ <entry>
+  <title>sheepduke: esrap-json-parser</title>
+  <author>
+   <name>sheepduke</name>
+  </author>
+  <link href="https://github.com/sheepduke/esrap-json-parser" />
+  <id>urn:rprimus:github:sheepduke:esrap-json-parser</id>
+  <published>2022-01-16T12:48:27Z</published>
+  <updated>2022-01-16T12:48:27Z</updated>
+  <content type="html">
+   A JSON parser using Esrap
+  </content>
+ </entry>
  <entry>
   <title>DanielKeogh: ascii-converter</title>
   <author>
@@ -28,6 +67,19 @@
   <updated>2022-01-16T10:02:57Z</updated>
   <content type="html">
    Libraries for writing programs in SectorLISP
+  </content>
+ </entry>
+ <entry>
+  <title>woodrush: sectorlisp-nn</title>
+  <author>
+   <name>woodrush</name>
+  </author>
+  <link href="https://github.com/woodrush/sectorlisp-nn" />
+  <id>urn:rprimus:github:woodrush:sectorlisp-nn</id>
+  <published>2022-01-16T10:01:40Z</published>
+  <updated>2022-01-16T10:01:40Z</updated>
+  <content type="html">
+   A neural network written in pure Lisp without built-in numbers
   </content>
  </entry>
  <entry>
@@ -67,6 +119,19 @@
   <updated>2022-01-15T23:31:14Z</updated>
   <content type="html">
    Quantum computing simulator for Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>dym-dym: vm-lisp</title>
+  <author>
+   <name>dym-dym</name>
+  </author>
+  <link href="https://github.com/dym-dym/vm-lisp" />
+  <id>urn:rprimus:github:dym-dym:vm-lisp</id>
+  <published>2022-01-15T18:57:50Z</published>
+  <updated>2022-01-15T18:57:50Z</updated>
+  <content type="html">
+   
   </content>
  </entry>
  <entry>
@@ -158,71 +223,6 @@
   <updated>2022-01-15T04:02:43Z</updated>
   <content type="html">
    A tennis game
-  </content>
- </entry>
- <entry>
-  <title>martinschnder: IA01_TP3</title>
-  <author>
-   <name>martinschnder</name>
-  </author>
-  <link href="https://github.com/martinschnder/IA01_TP3" />
-  <id>urn:rprimus:github:martinschnder:IA01_TP3</id>
-  <published>2022-01-14T17:05:01Z</published>
-  <updated>2022-01-14T17:05:01Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>martinschnder: IA01_TP2</title>
-  <author>
-   <name>martinschnder</name>
-  </author>
-  <link href="https://github.com/martinschnder/IA01_TP2" />
-  <id>urn:rprimus:github:martinschnder:IA01_TP2</id>
-  <published>2022-01-14T17:01:49Z</published>
-  <updated>2022-01-14T17:01:49Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>SATBH: haskelling</title>
-  <author>
-   <name>SATBH</name>
-  </author>
-  <link href="https://github.com/SATBH/haskelling" />
-  <id>urn:rprimus:github:SATBH:haskelling</id>
-  <published>2022-01-14T05:39:08Z</published>
-  <updated>2022-01-14T05:39:08Z</updated>
-  <content type="html">
-   Common lisp library to facilitate functional programming
-  </content>
- </entry>
- <entry>
-  <title>tfisatypedef: dotties</title>
-  <author>
-   <name>tfisatypedef</name>
-  </author>
-  <link href="https://github.com/tfisatypedef/dotties" />
-  <id>urn:rprimus:github:tfisatypedef:dotties</id>
-  <published>2022-01-14T05:24:43Z</published>
-  <updated>2022-01-14T05:24:43Z</updated>
-  <content type="html">
-   my dots &amp; stuff
-  </content>
- </entry>
- <entry>
-  <title>maxpiorischin: CPS305</title>
-  <author>
-   <name>maxpiorischin</name>
-  </author>
-  <link href="https://github.com/maxpiorischin/CPS305" />
-  <id>urn:rprimus:github:maxpiorischin:CPS305</id>
-  <published>2022-01-14T02:58:50Z</published>
-  <updated>2022-01-14T02:58:50Z</updated>
-  <content type="html">
-   My lab work for CPS305 - Data Structures, only including the code I created and not what was provided to me.
   </content>
  </entry>
 </feed>
