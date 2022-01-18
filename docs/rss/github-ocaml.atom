@@ -2,8 +2,112 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2022-01-17T01:42:52Z</updated>
+<updated>2022-01-18T01:37:39Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>phillipbudiman: interpreter_ocaml</title>
+  <author>
+   <name>phillipbudiman</name>
+  </author>
+  <link href="https://github.com/phillipbudiman/interpreter_ocaml" />
+  <id>urn:rprimus:github:phillipbudiman:interpreter_ocaml</id>
+  <published>2022-01-18T01:37:39Z</published>
+  <updated>2022-01-18T01:37:39Z</updated>
+  <content type="html">
+   Simple assembly-like language interpreter written in OCaml for a final class project
+  </content>
+ </entry>
+ <entry>
+  <title>gavinleroy: gscheme</title>
+  <author>
+   <name>gavinleroy</name>
+  </author>
+  <link href="https://github.com/gavinleroy/gscheme" />
+  <id>urn:rprimus:github:gavinleroy:gscheme</id>
+  <published>2022-01-18T00:21:54Z</published>
+  <updated>2022-01-18T00:21:54Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>TyOverby: mono</title>
+  <author>
+   <name>TyOverby</name>
+  </author>
+  <link href="https://github.com/TyOverby/mono" />
+  <id>urn:rprimus:github:TyOverby:mono</id>
+  <published>2022-01-17T23:10:37Z</published>
+  <updated>2022-01-17T23:10:37Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>ouksili-samy: PPFA</title>
+  <author>
+   <name>ouksili-samy</name>
+  </author>
+  <link href="https://github.com/ouksili-samy/PPFA" />
+  <id>urn:rprimus:github:ouksili-samy:PPFA</id>
+  <published>2022-01-17T22:48:49Z</published>
+  <updated>2022-01-17T22:48:49Z</updated>
+  <content type="html">
+   Projet du programmation fonctionnel avancÃ©e 
+  </content>
+ </entry>
+ <entry>
+  <title>BkD888: Parcoursup</title>
+  <author>
+   <name>BkD888</name>
+  </author>
+  <link href="https://github.com/BkD888/Parcoursup" />
+  <id>urn:rprimus:github:BkD888:Parcoursup</id>
+  <published>2022-01-17T19:37:14Z</published>
+  <updated>2022-01-17T19:37:14Z</updated>
+  <content type="html">
+   ImplÃ©mentation simplifie de l&#039;algorithme du site Parcoursup
+  </content>
+ </entry>
+ <entry>
+  <title>idkso: magit-test</title>
+  <author>
+   <name>idkso</name>
+  </author>
+  <link href="https://github.com/idkso/magit-test" />
+  <id>urn:rprimus:github:idkso:magit-test</id>
+  <published>2022-01-17T17:06:29Z</published>
+  <updated>2022-01-17T17:06:29Z</updated>
+  <content type="html">
+   idk lmao
+  </content>
+ </entry>
+ <entry>
+  <title>CristianCosci: 15puzzleGame_OCaml</title>
+  <author>
+   <name>CristianCosci</name>
+  </author>
+  <link href="https://github.com/CristianCosci/15puzzleGame_OCaml" />
+  <id>urn:rprimus:github:CristianCosci:15puzzleGame_OCaml</id>
+  <published>2022-01-17T16:40:24Z</published>
+  <updated>2022-01-17T16:40:24Z</updated>
+  <content type="html">
+   Implementing A-star(A*) to solve 15-Puzzle game in OCaml
+  </content>
+ </entry>
+ <entry>
+  <title>Darkelubat: Yggdrasil</title>
+  <author>
+   <name>Darkelubat</name>
+  </author>
+  <link href="https://github.com/Darkelubat/Yggdrasil" />
+  <id>urn:rprimus:github:Darkelubat:Yggdrasil</id>
+  <published>2022-01-17T15:54:10Z</published>
+  <updated>2022-01-17T15:54:10Z</updated>
+  <content type="html">
+   OCaml Parser
+  </content>
+ </entry>
  <entry>
   <title>SRI-CSL: libpoly_ocaml_bindings</title>
   <author>
@@ -158,71 +262,6 @@
   <updated>2022-01-16T01:49:40Z</updated>
   <content type="html">
    Simple calculator made with OCaml and Menhir
-  </content>
- </entry>
- <entry>
-  <title>Richard-Degenne: actions-test</title>
-  <author>
-   <name>Richard-Degenne</name>
-  </author>
-  <link href="https://github.com/Richard-Degenne/actions-test" />
-  <id>urn:rprimus:github:Richard-Degenne:actions-test</id>
-  <published>2022-01-15T20:32:51Z</published>
-  <updated>2022-01-15T20:32:51Z</updated>
-  <content type="html">
-   Toying with GitHub actions.
-  </content>
- </entry>
- <entry>
-  <title>alenkis: aoc-2015-ocaml</title>
-  <author>
-   <name>alenkis</name>
-  </author>
-  <link href="https://github.com/alenkis/aoc-2015-ocaml" />
-  <id>urn:rprimus:github:alenkis:aoc-2015-ocaml</id>
-  <published>2022-01-15T19:17:20Z</published>
-  <updated>2022-01-15T19:17:20Z</updated>
-  <content type="html">
-   Advent of Code 2015 in OCaml
-  </content>
- </entry>
- <entry>
-  <title>vgusman: hooks</title>
-  <author>
-   <name>vgusman</name>
-  </author>
-  <link href="https://github.com/vgusman/hooks" />
-  <id>urn:rprimus:github:vgusman:hooks</id>
-  <published>2022-01-15T16:42:23Z</published>
-  <updated>2022-01-15T16:42:23Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>artileda: learn-compiler</title>
-  <author>
-   <name>artileda</name>
-  </author>
-  <link href="https://github.com/artileda/learn-compiler" />
-  <id>urn:rprimus:github:artileda:learn-compiler</id>
-  <published>2022-01-15T15:15:30Z</published>
-  <updated>2022-01-15T15:15:30Z</updated>
-  <content type="html">
-   This repository contain some my experimentation with compiler, mainly Menhir and Ocamllex. This not be good as lesson material at least i try to serve good comment and theorical foundation to help you grasp the foundation. 
-  </content>
- </entry>
- <entry>
-  <title>joelburget: typed-algebraic-parsing</title>
-  <author>
-   <name>joelburget</name>
-  </author>
-  <link href="https://github.com/joelburget/typed-algebraic-parsing" />
-  <id>urn:rprimus:github:joelburget:typed-algebraic-parsing</id>
-  <published>2022-01-15T02:02:53Z</published>
-  <updated>2022-01-15T02:02:53Z</updated>
-  <content type="html">
-   An implementation of &quot;A Typed, Algebraic Approach to Parsing&quot;
   </content>
  </entry>
 </feed>

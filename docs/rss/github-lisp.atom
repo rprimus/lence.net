@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-01-17T06:57:43Z</updated>
+<updated>2022-01-18T03:34:16Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>uprising-oaod: Shawarma-club</title>
+  <author>
+   <name>uprising-oaod</name>
+  </author>
+  <link href="https://github.com/uprising-oaod/Shawarma-club" />
+  <id>urn:rprimus:github:uprising-oaod:Shawarma-club</id>
+  <published>2022-01-18T03:34:16Z</published>
+  <updated>2022-01-18T03:34:16Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>dtenny: cl-roaring</title>
+  <author>
+   <name>dtenny</name>
+  </author>
+  <link href="https://github.com/dtenny/cl-roaring" />
+  <id>urn:rprimus:github:dtenny:cl-roaring</id>
+  <published>2022-01-17T23:36:28Z</published>
+  <updated>2022-01-17T23:36:28Z</updated>
+  <content type="html">
+   Common Lisp encapsulation of the C Roaring Bitmap API via foreign functions.
+  </content>
+ </entry>
+ <entry>
+  <title>BryanLange: LISP</title>
+  <author>
+   <name>BryanLange</name>
+  </author>
+  <link href="https://github.com/BryanLange/LISP" />
+  <id>urn:rprimus:github:BryanLange:LISP</id>
+  <published>2022-01-17T21:33:13Z</published>
+  <updated>2022-01-17T21:33:13Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>alejandrozf: abcl-utils</title>
+  <author>
+   <name>alejandrozf</name>
+  </author>
+  <link href="https://github.com/alejandrozf/abcl-utils" />
+  <id>urn:rprimus:github:alejandrozf:abcl-utils</id>
+  <published>2022-01-17T21:32:07Z</published>
+  <updated>2022-01-17T21:32:07Z</updated>
+  <content type="html">
+   Some utility functions for ABCL Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>atlas-engineer: nhooks</title>
+  <author>
+   <name>atlas-engineer</name>
+  </author>
+  <link href="https://github.com/atlas-engineer/nhooks" />
+  <id>urn:rprimus:github:atlas-engineer:nhooks</id>
+  <published>2022-01-17T19:09:34Z</published>
+  <updated>2022-01-17T19:09:34Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>julian-baldwin: lw-editor-utils</title>
+  <author>
+   <name>julian-baldwin</name>
+  </author>
+  <link href="https://github.com/julian-baldwin/lw-editor-utils" />
+  <id>urn:rprimus:github:julian-baldwin:lw-editor-utils</id>
+  <published>2022-01-17T12:14:49Z</published>
+  <updated>2022-01-17T12:14:49Z</updated>
+  <content type="html">
+   Utility commands for the LispWorks editor.
+  </content>
+ </entry>
  <entry>
   <title>fiddlerwoaroof: automatricl</title>
   <author>
@@ -70,16 +148,16 @@
   </content>
  </entry>
  <entry>
-  <title>woodrush: libsectorlisp</title>
+  <title>woodrush: numsectorlisp</title>
   <author>
    <name>woodrush</name>
   </author>
-  <link href="https://github.com/woodrush/libsectorlisp" />
-  <id>urn:rprimus:github:woodrush:libsectorlisp</id>
+  <link href="https://github.com/woodrush/numsectorlisp" />
+  <id>urn:rprimus:github:woodrush:numsectorlisp</id>
   <published>2022-01-16T10:02:57Z</published>
   <updated>2022-01-16T10:02:57Z</updated>
   <content type="html">
-   Libraries for writing programs in SectorLISP
+   Fixed-point scalar and matrix multiplication library for SectorLISP
   </content>
  </entry>
  <entry>
@@ -119,123 +197,6 @@
   <updated>2022-01-16T01:56:52Z</updated>
   <content type="html">
    Work from the book Practical Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>Gap1512: cl-quantum</title>
-  <author>
-   <name>Gap1512</name>
-  </author>
-  <link href="https://github.com/Gap1512/cl-quantum" />
-  <id>urn:rprimus:github:Gap1512:cl-quantum</id>
-  <published>2022-01-15T23:31:14Z</published>
-  <updated>2022-01-15T23:31:14Z</updated>
-  <content type="html">
-   Quantum computing simulator for Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>dym-dym: vm-lisp</title>
-  <author>
-   <name>dym-dym</name>
-  </author>
-  <link href="https://github.com/dym-dym/vm-lisp" />
-  <id>urn:rprimus:github:dym-dym:vm-lisp</id>
-  <published>2022-01-15T18:57:50Z</published>
-  <updated>2022-01-15T18:57:50Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>tfeb: tfeb-lisp-implementation-hax</title>
-  <author>
-   <name>tfeb</name>
-  </author>
-  <link href="https://github.com/tfeb/tfeb-lisp-implementation-hax" />
-  <id>urn:rprimus:github:tfeb:tfeb-lisp-implementation-hax</id>
-  <published>2022-01-15T14:43:50Z</published>
-  <updated>2022-01-15T14:43:50Z</updated>
-  <content type="html">
-   TFEB.ORG implementation-specific Lisp hacks
-  </content>
- </entry>
- <entry>
-  <title>barbarabrugger: LispIntroduction</title>
-  <author>
-   <name>barbarabrugger</name>
-  </author>
-  <link href="https://github.com/barbarabrugger/LispIntroduction" />
-  <id>urn:rprimus:github:barbarabrugger:LispIntroduction</id>
-  <published>2022-01-15T13:46:06Z</published>
-  <updated>2022-01-15T13:46:06Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>kilianmh: cl-stacks-api</title>
-  <author>
-   <name>kilianmh</name>
-  </author>
-  <link href="https://github.com/kilianmh/cl-stacks-api" />
-  <id>urn:rprimus:github:kilianmh:cl-stacks-api</id>
-  <published>2022-01-15T12:07:21Z</published>
-  <updated>2022-01-15T12:07:21Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ranmaru22: aoc2021</title>
-  <author>
-   <name>ranmaru22</name>
-  </author>
-  <link href="https://github.com/ranmaru22/aoc2021" />
-  <id>urn:rprimus:github:ranmaru22:aoc2021</id>
-  <published>2022-01-15T10:12:48Z</published>
-  <updated>2022-01-15T10:12:48Z</updated>
-  <content type="html">
-   Advent of Code 2021
-  </content>
- </entry>
- <entry>
-  <title>agiardina: minitorch-cl</title>
-  <author>
-   <name>agiardina</name>
-  </author>
-  <link href="https://github.com/agiardina/minitorch-cl" />
-  <id>urn:rprimus:github:agiardina:minitorch-cl</id>
-  <published>2022-01-15T07:14:07Z</published>
-  <updated>2022-01-15T07:14:07Z</updated>
-  <content type="html">
-   Minitorch implementation using Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>hyotang666: localizer</title>
-  <author>
-   <name>hyotang666</name>
-  </author>
-  <link href="https://github.com/hyotang666/localizer" />
-  <id>urn:rprimus:github:hyotang666:localizer</id>
-  <published>2022-01-15T05:30:27Z</published>
-  <updated>2022-01-15T05:30:27Z</updated>
-  <content type="html">
-   Localize system for common lisp.
-  </content>
- </entry>
- <entry>
-  <title>dawranliou: tiebreak</title>
-  <author>
-   <name>dawranliou</name>
-  </author>
-  <link href="https://github.com/dawranliou/tiebreak" />
-  <id>urn:rprimus:github:dawranliou:tiebreak</id>
-  <published>2022-01-15T04:02:43Z</published>
-  <updated>2022-01-15T04:02:43Z</updated>
-  <content type="html">
-   A tennis game
   </content>
  </entry>
 </feed>
