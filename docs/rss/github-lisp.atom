@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-01-18T05:22:31Z</updated>
+<updated>2022-01-18T22:00:47Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>theTechOwl: daisy_bell_lisp</title>
+  <author>
+   <name>theTechOwl</name>
+  </author>
+  <link href="https://github.com/theTechOwl/daisy_bell_lisp" />
+  <id>urn:rprimus:github:theTechOwl:daisy_bell_lisp</id>
+  <published>2022-01-18T22:00:47Z</published>
+  <updated>2022-01-18T22:00:47Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>codr7: lishp</title>
   <author>
@@ -83,6 +96,19 @@
   </content>
  </entry>
  <entry>
+  <title>hamzashahid-blit: learn-opengl-in-cl</title>
+  <author>
+   <name>hamzashahid-blit</name>
+  </author>
+  <link href="https://github.com/hamzashahid-blit/learn-opengl-in-cl" />
+  <id>urn:rprimus:github:hamzashahid-blit:learn-opengl-in-cl</id>
+  <published>2022-01-17T13:59:23Z</published>
+  <updated>2022-01-17T13:59:23Z</updated>
+  <content type="html">
+   Learn Opengl in Common Lisp with cl-opengl (https://learnopengl.com)
+  </content>
+ </entry>
+ <entry>
   <title>julian-baldwin: lw-editor-utils</title>
   <author>
    <name>julian-baldwin</name>
@@ -119,97 +145,6 @@
   <updated>2022-01-17T01:01:18Z</updated>
   <content type="html">
    Learning LISP
-  </content>
- </entry>
- <entry>
-  <title>aru-hackZ: id3lib-cl</title>
-  <author>
-   <name>aru-hackZ</name>
-  </author>
-  <link href="https://github.com/aru-hackZ/id3lib-cl" />
-  <id>urn:rprimus:github:aru-hackZ:id3lib-cl</id>
-  <published>2022-01-16T18:18:48Z</published>
-  <updated>2022-01-16T18:18:48Z</updated>
-  <content type="html">
-   Library for interacting, reading and writing mp3 files metadata using the id3 standard
-  </content>
- </entry>
- <entry>
-  <title>sheepduke: esrap-json-parser</title>
-  <author>
-   <name>sheepduke</name>
-  </author>
-  <link href="https://github.com/sheepduke/esrap-json-parser" />
-  <id>urn:rprimus:github:sheepduke:esrap-json-parser</id>
-  <published>2022-01-16T12:48:27Z</published>
-  <updated>2022-01-16T12:48:27Z</updated>
-  <content type="html">
-   A JSON parser using Esrap
-  </content>
- </entry>
- <entry>
-  <title>DanielKeogh: ascii-converter</title>
-  <author>
-   <name>DanielKeogh</name>
-  </author>
-  <link href="https://github.com/DanielKeogh/ascii-converter" />
-  <id>urn:rprimus:github:DanielKeogh:ascii-converter</id>
-  <published>2022-01-16T10:07:05Z</published>
-  <updated>2022-01-16T10:07:05Z</updated>
-  <content type="html">
-   Turn images into ascii art.
-  </content>
- </entry>
- <entry>
-  <title>woodrush: numsectorlisp</title>
-  <author>
-   <name>woodrush</name>
-  </author>
-  <link href="https://github.com/woodrush/numsectorlisp" />
-  <id>urn:rprimus:github:woodrush:numsectorlisp</id>
-  <published>2022-01-16T10:02:57Z</published>
-  <updated>2022-01-16T10:02:57Z</updated>
-  <content type="html">
-   Fixed-point scalar and matrix multiplication library for SectorLISP
-  </content>
- </entry>
- <entry>
-  <title>woodrush: sectorlisp-nn</title>
-  <author>
-   <name>woodrush</name>
-  </author>
-  <link href="https://github.com/woodrush/sectorlisp-nn" />
-  <id>urn:rprimus:github:woodrush:sectorlisp-nn</id>
-  <published>2022-01-16T10:01:40Z</published>
-  <updated>2022-01-16T10:01:40Z</updated>
-  <content type="html">
-   A neural network written in pure Lisp without built-in numbers
-  </content>
- </entry>
- <entry>
-  <title>sebasmonia: bits-and-lisp</title>
-  <author>
-   <name>sebasmonia</name>
-  </author>
-  <link href="https://github.com/sebasmonia/bits-and-lisp" />
-  <id>urn:rprimus:github:sebasmonia:bits-and-lisp</id>
-  <published>2022-01-16T05:10:48Z</published>
-  <updated>2022-01-16T05:10:48Z</updated>
-  <content type="html">
-   Small experiment to deal with binary data using Common Lisp 
-  </content>
- </entry>
- <entry>
-  <title>d3d1rty: practical-cl</title>
-  <author>
-   <name>d3d1rty</name>
-  </author>
-  <link href="https://github.com/d3d1rty/practical-cl" />
-  <id>urn:rprimus:github:d3d1rty:practical-cl</id>
-  <published>2022-01-16T01:56:52Z</published>
-  <updated>2022-01-16T01:56:52Z</updated>
-  <content type="html">
-   Work from the book Practical Common Lisp
   </content>
  </entry>
 </feed>
