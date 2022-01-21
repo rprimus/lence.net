@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-erlang.atom"/>
 <id>urn:rprimus:github:newerlangrepos</id>
-<updated>2022-01-19T15:32:08Z</updated>
+<updated>2022-01-20T11:38:42Z</updated>
 <title type='text'>New GitHub Erlang Repos</title>
+ <entry>
+  <title>valitydev: wapi_v0-2</title>
+  <author>
+   <name>valitydev</name>
+  </author>
+  <link href="https://github.com/valitydev/wapi_v0-2" />
+  <id>urn:rprimus:github:valitydev:wapi_v0-2</id>
+  <published>2022-01-20T11:38:42Z</published>
+  <updated>2022-01-20T11:38:42Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>PerRomin: sip_phone</title>
   <author>
@@ -40,7 +53,7 @@
   <published>2022-01-19T04:18:15Z</published>
   <updated>2022-01-19T04:18:15Z</updated>
   <content type="html">
-   
+   erlang&#039;s http1.1 server
   </content>
  </entry>
  <entry>
@@ -54,162 +67,6 @@
   <updated>2022-01-19T03:14:51Z</updated>
   <content type="html">
    my code on kazoo 4
-  </content>
- </entry>
- <entry>
-  <title>pascalchap: calc</title>
-  <author>
-   <name>pascalchap</name>
-  </author>
-  <link href="https://github.com/pascalchap/calc" />
-  <id>urn:rprimus:github:pascalchap:calc</id>
-  <published>2022-01-18T20:05:08Z</published>
-  <updated>2022-01-18T20:05:08Z</updated>
-  <content type="html">
-   a calculator with storage capability, formal calculation.
-  </content>
- </entry>
- <entry>
-  <title>helium: erlang-contract</title>
-  <author>
-   <name>helium</name>
-  </author>
-  <link href="https://github.com/helium/erlang-contract" />
-  <id>urn:rprimus:github:helium:erlang-contract</id>
-  <published>2022-01-18T19:39:39Z</published>
-  <updated>2022-01-18T19:39:39Z</updated>
-  <content type="html">
-   Design by Contract as an Erlang library
-  </content>
- </entry>
- <entry>
-  <title>exograd: erl-mhttp-influx</title>
-  <author>
-   <name>exograd</name>
-  </author>
-  <link href="https://github.com/exograd/erl-mhttp-influx" />
-  <id>urn:rprimus:github:exograd:erl-mhttp-influx</id>
-  <published>2022-01-18T18:27:35Z</published>
-  <updated>2022-01-18T18:27:35Z</updated>
-  <content type="html">
-   InfluxDB metrics support for erl-mhttp.
-  </content>
- </entry>
- <entry>
-  <title>valitydev: dominant</title>
-  <author>
-   <name>valitydev</name>
-  </author>
-  <link href="https://github.com/valitydev/dominant" />
-  <id>urn:rprimus:github:valitydev:dominant</id>
-  <published>2022-01-18T16:50:00Z</published>
-  <updated>2022-01-18T16:50:00Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>valitydev: erlang-templates</title>
-  <author>
-   <name>valitydev</name>
-  </author>
-  <link href="https://github.com/valitydev/erlang-templates" />
-  <id>urn:rprimus:github:valitydev:erlang-templates</id>
-  <published>2022-01-18T16:22:34Z</published>
-  <updated>2022-01-18T16:22:34Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>valitydev: capi-pcidss-v2</title>
-  <author>
-   <name>valitydev</name>
-  </author>
-  <link href="https://github.com/valitydev/capi-pcidss-v2" />
-  <id>urn:rprimus:github:valitydev:capi-pcidss-v2</id>
-  <published>2022-01-18T15:24:33Z</published>
-  <updated>2022-01-18T15:24:33Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>valitydev: capi-v2</title>
-  <author>
-   <name>valitydev</name>
-  </author>
-  <link href="https://github.com/valitydev/capi-v2" />
-  <id>urn:rprimus:github:valitydev:capi-v2</id>
-  <published>2022-01-18T15:13:48Z</published>
-  <updated>2022-01-18T15:13:48Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>valitydev: moneypenny-proto</title>
-  <author>
-   <name>valitydev</name>
-  </author>
-  <link href="https://github.com/valitydev/moneypenny-proto" />
-  <id>urn:rprimus:github:valitydev:moneypenny-proto</id>
-  <published>2022-01-18T12:24:57Z</published>
-  <updated>2022-01-18T12:24:57Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>valitydev: tds-proto</title>
-  <author>
-   <name>valitydev</name>
-  </author>
-  <link href="https://github.com/valitydev/tds-proto" />
-  <id>urn:rprimus:github:valitydev:tds-proto</id>
-  <published>2022-01-18T12:23:59Z</published>
-  <updated>2022-01-18T12:23:59Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>valitydev: party-shop-proto</title>
-  <author>
-   <name>valitydev</name>
-  </author>
-  <link href="https://github.com/valitydev/party-shop-proto" />
-  <id>urn:rprimus:github:valitydev:party-shop-proto</id>
-  <published>2022-01-18T12:23:11Z</published>
-  <updated>2022-01-18T12:23:11Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>valitydev: org-management-proto</title>
-  <author>
-   <name>valitydev</name>
-  </author>
-  <link href="https://github.com/valitydev/org-management-proto" />
-  <id>urn:rprimus:github:valitydev:org-management-proto</id>
-  <published>2022-01-18T12:22:35Z</published>
-  <updated>2022-01-18T12:22:35Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>weirdsmiley: toc.arena</title>
-  <author>
-   <name>weirdsmiley</name>
-  </author>
-  <link href="https://github.com/weirdsmiley/toc.arena" />
-  <id>urn:rprimus:github:weirdsmiley:toc.arena</id>
-  <published>2022-01-18T07:21:38Z</published>
-  <updated>2022-01-18T07:21:38Z</updated>
-  <content type="html">
-   All Theory of Computation in Erlang.
   </content>
  </entry>
 </feed>

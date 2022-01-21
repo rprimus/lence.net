@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2022-01-20T04:39:08Z</updated>
+<updated>2022-01-21T03:02:13Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>bsdingman: blog_site</title>
+  <author>
+   <name>bsdingman</name>
+  </author>
+  <link href="https://github.com/bsdingman/blog_site" />
+  <id>urn:rprimus:github:bsdingman:blog_site</id>
+  <published>2022-01-21T03:02:13Z</published>
+  <updated>2022-01-21T03:02:13Z</updated>
+  <content type="html">
+   A blog site written in Crystal using Lucky Web Framework
+  </content>
+ </entry>
+ <entry>
+  <title>acoolstraw: jetfront</title>
+  <author>
+   <name>acoolstraw</name>
+  </author>
+  <link href="https://github.com/acoolstraw/jetfront" />
+  <id>urn:rprimus:github:acoolstraw:jetfront</id>
+  <published>2022-01-20T17:14:18Z</published>
+  <updated>2022-01-20T17:14:18Z</updated>
+  <content type="html">
+   Arcade-ish flight simulator written in Crystal
+  </content>
+ </entry>
+ <entry>
+  <title>JamesGood626: designing_with_types_f_sharp_to_crystal_translation</title>
+  <author>
+   <name>JamesGood626</name>
+  </author>
+  <link href="https://github.com/JamesGood626/designing_with_types_f_sharp_to_crystal_translation" />
+  <id>urn:rprimus:github:JamesGood626:designing_with_types_f_sharp_to_crystal_translation</id>
+  <published>2022-01-20T11:49:01Z</published>
+  <updated>2022-01-20T11:49:01Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>mgomes: exec</title>
   <author>
@@ -41,32 +80,6 @@
   <updated>2022-01-19T15:33:26Z</updated>
   <content type="html">
    Generate JSON Schema validation in Crystal at compile-time
-  </content>
- </entry>
- <entry>
-  <title>jfontan: jqueue.cr</title>
-  <author>
-   <name>jfontan</name>
-  </author>
-  <link href="https://github.com/jfontan/jqueue.cr" />
-  <id>urn:rprimus:github:jfontan:jqueue.cr</id>
-  <published>2022-01-18T20:10:01Z</published>
-  <updated>2022-01-18T20:10:01Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>skojin: lucky_turbo_demo</title>
-  <author>
-   <name>skojin</name>
-  </author>
-  <link href="https://github.com/skojin/lucky_turbo_demo" />
-  <id>urn:rprimus:github:skojin:lucky_turbo_demo</id>
-  <published>2022-01-18T06:49:34Z</published>
-  <updated>2022-01-18T06:49:34Z</updated>
-  <content type="html">
-   hotwire/turbo + luckyframework
   </content>
  </entry>
 </feed>
