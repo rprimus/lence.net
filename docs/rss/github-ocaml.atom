@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2022-01-21T15:30:23Z</updated>
+<updated>2022-01-21T21:43:33Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>Hipp0x: SMT-LIB</title>
+  <author>
+   <name>Hipp0x</name>
+  </author>
+  <link href="https://github.com/Hipp0x/SMT-LIB" />
+  <id>urn:rprimus:github:Hipp0x:SMT-LIB</id>
+  <published>2022-01-21T21:43:33Z</published>
+  <updated>2022-01-21T21:43:33Z</updated>
+  <content type="html">
+   Generation de code SMT-LIB
+  </content>
+ </entry>
+ <entry>
+  <title>Hipp0x: Solveur-DPLL</title>
+  <author>
+   <name>Hipp0x</name>
+  </author>
+  <link href="https://github.com/Hipp0x/Solveur-DPLL" />
+  <id>urn:rprimus:github:Hipp0x:Solveur-DPLL</id>
+  <published>2022-01-21T21:37:53Z</published>
+  <updated>2022-01-21T21:37:53Z</updated>
+  <content type="html">
+   ImplÃ©mentation d&#039;un Solveur DPLL RÃ©cursif
+  </content>
+ </entry>
+ <entry>
+  <title>tcallred: sudoku-solver</title>
+  <author>
+   <name>tcallred</name>
+  </author>
+  <link href="https://github.com/tcallred/sudoku-solver" />
+  <id>urn:rprimus:github:tcallred:sudoku-solver</id>
+  <published>2022-01-21T20:54:09Z</published>
+  <updated>2022-01-21T20:54:09Z</updated>
+  <content type="html">
+   Sudoku generator and solver in OCaml
+  </content>
+ </entry>
  <entry>
   <title>o-oconnell: canvas-cli</title>
   <author>
@@ -197,123 +236,6 @@
   <updated>2022-01-20T10:25:55Z</updated>
   <content type="html">
    A dummy repo to toy around with OCaml parsers
-  </content>
- </entry>
- <entry>
-  <title>lucas-deangelis: wordle-helper</title>
-  <author>
-   <name>lucas-deangelis</name>
-  </author>
-  <link href="https://github.com/lucas-deangelis/wordle-helper" />
-  <id>urn:rprimus:github:lucas-deangelis:wordle-helper</id>
-  <published>2022-01-19T22:19:51Z</published>
-  <updated>2022-01-19T22:19:51Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>floriantsf: FunC</title>
-  <author>
-   <name>floriantsf</name>
-  </author>
-  <link href="https://github.com/floriantsf/FunC" />
-  <id>urn:rprimus:github:floriantsf:FunC</id>
-  <published>2022-01-19T20:53:04Z</published>
-  <updated>2022-01-19T20:53:04Z</updated>
-  <content type="html">
-   A C Compiler
-  </content>
- </entry>
- <entry>
-  <title>mooreryan: cerise</title>
-  <author>
-   <name>mooreryan</name>
-  </author>
-  <link href="https://github.com/mooreryan/cerise" />
-  <id>urn:rprimus:github:mooreryan:cerise</id>
-  <published>2022-01-19T19:42:02Z</published>
-  <updated>2022-01-19T19:42:02Z</updated>
-  <content type="html">
-   CERISE:  ClustEr RestrIcted homology SEarch
-  </content>
- </entry>
- <entry>
-  <title>WinstonZhang1999: SeePP_Language</title>
-  <author>
-   <name>WinstonZhang1999</name>
-  </author>
-  <link href="https://github.com/WinstonZhang1999/SeePP_Language" />
-  <id>urn:rprimus:github:WinstonZhang1999:SeePP_Language</id>
-  <published>2022-01-19T19:39:24Z</published>
-  <updated>2022-01-19T19:39:24Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>assistant-rl: environment</title>
-  <author>
-   <name>assistant-rl</name>
-  </author>
-  <link href="https://github.com/assistant-rl/environment" />
-  <id>urn:rprimus:github:assistant-rl:environment</id>
-  <published>2022-01-19T18:49:42Z</published>
-  <updated>2022-01-19T18:49:42Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>anon467308: hashmon</title>
-  <author>
-   <name>anon467308</name>
-  </author>
-  <link href="https://github.com/anon467308/hashmon" />
-  <id>urn:rprimus:github:anon467308:hashmon</id>
-  <published>2022-01-19T14:23:02Z</published>
-  <updated>2022-01-19T14:23:02Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>vch9: ometrics</title>
-  <author>
-   <name>vch9</name>
-  </author>
-  <link href="https://github.com/vch9/ometrics" />
-  <id>urn:rprimus:github:vch9:ometrics</id>
-  <published>2022-01-19T09:58:18Z</published>
-  <updated>2022-01-19T09:58:18Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ocsigen: js_of_ocaml-ocamlbuild</title>
-  <author>
-   <name>ocsigen</name>
-  </author>
-  <link href="https://github.com/ocsigen/js_of_ocaml-ocamlbuild" />
-  <id>urn:rprimus:github:ocsigen:js_of_ocaml-ocamlbuild</id>
-  <published>2022-01-19T09:23:40Z</published>
-  <updated>2022-01-19T09:23:40Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>hsk: simpler-sub.ml</title>
-  <author>
-   <name>hsk</name>
-  </author>
-  <link href="https://github.com/hsk/simpler-sub.ml" />
-  <id>urn:rprimus:github:hsk:simpler-sub.ml</id>
-  <published>2022-01-19T06:59:24Z</published>
-  <updated>2022-01-19T06:59:24Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>

@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2022-01-21T15:19:00Z</updated>
+<updated>2022-01-21T23:12:09Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>vanyle: lrparser</title>
+  <author>
+   <name>vanyle</name>
+  </author>
+  <link href="https://github.com/vanyle/lrparser" />
+  <id>urn:rprimus:github:vanyle:lrparser</id>
+  <published>2022-01-21T23:12:09Z</published>
+  <updated>2022-01-21T23:12:09Z</updated>
+  <content type="html">
+   An SLR library parser for Nim 
+  </content>
+ </entry>
+ <entry>
+  <title>SciNim: Measuremancer</title>
+  <author>
+   <name>SciNim</name>
+  </author>
+  <link href="https://github.com/SciNim/Measuremancer" />
+  <id>urn:rprimus:github:SciNim:Measuremancer</id>
+  <published>2022-01-21T20:26:51Z</published>
+  <updated>2022-01-21T20:26:51Z</updated>
+  <content type="html">
+   A library to handle measurement uncertainties &amp; error propagation
+  </content>
+ </entry>
  <entry>
   <title>edg1983: nim_VCF2sql</title>
   <author>
@@ -54,45 +80,6 @@
   <updated>2022-01-20T14:51:53Z</updated>
   <content type="html">
    Nim (original) version of tell
-  </content>
- </entry>
- <entry>
-  <title>JDragan: rvn</title>
-  <author>
-   <name>JDragan</name>
-  </author>
-  <link href="https://github.com/JDragan/rvn" />
-  <id>urn:rprimus:github:JDragan:rvn</id>
-  <published>2022-01-19T16:11:50Z</published>
-  <updated>2022-01-19T16:11:50Z</updated>
-  <content type="html">
-   Minimalistic web framework with zero dependencies
-  </content>
- </entry>
- <entry>
-  <title>emizzle: chronos-stream-error</title>
-  <author>
-   <name>emizzle</name>
-  </author>
-  <link href="https://github.com/emizzle/chronos-stream-error" />
-  <id>urn:rprimus:github:emizzle:chronos-stream-error</id>
-  <published>2022-01-19T06:55:13Z</published>
-  <updated>2022-01-19T06:55:13Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>no-waves: wordle_assist</title>
-  <author>
-   <name>no-waves</name>
-  </author>
-  <link href="https://github.com/no-waves/wordle_assist" />
-  <id>urn:rprimus:github:no-waves:wordle_assist</id>
-  <published>2022-01-19T02:06:18Z</published>
-  <updated>2022-01-19T02:06:18Z</updated>
-  <content type="html">
-   program to help find Wordle solutions
   </content>
  </entry>
 </feed>
