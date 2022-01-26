@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-scheme.atom"/>
 <id>urn:rprimus:github:newschemerepos</id>
-<updated>2022-01-25T02:18:19Z</updated>
+<updated>2022-01-25T12:59:42Z</updated>
 <title type='text'>New GitHub Scheme Repos</title>
+ <entry>
+  <title>thebesttv: functional-geometry</title>
+  <author>
+   <name>thebesttv</name>
+  </author>
+  <link href="https://github.com/thebesttv/functional-geometry" />
+  <id>urn:rprimus:github:thebesttv:functional-geometry</id>
+  <published>2022-01-25T12:59:42Z</published>
+  <updated>2022-01-25T12:59:42Z</updated>
+  <content type="html">
+   Scheme implementation of functional geometry using guile-cairo.
+  </content>
+ </entry>
  <entry>
   <title>foggynight: image-scale</title>
   <author>
@@ -41,6 +54,19 @@
   <updated>2022-01-24T16:45:03Z</updated>
   <content type="html">
    This is the personal exercises when learning the SICP
+  </content>
+ </entry>
+ <entry>
+  <title>deadblackclover: guix-config</title>
+  <author>
+   <name>deadblackclover</name>
+  </author>
+  <link href="https://github.com/deadblackclover/guix-config" />
+  <id>urn:rprimus:github:deadblackclover:guix-config</id>
+  <published>2022-01-24T16:04:44Z</published>
+  <updated>2022-01-24T16:04:44Z</updated>
+  <content type="html">
+   Guix Operating System Configuration
   </content>
  </entry>
  <entry>
@@ -93,45 +119,6 @@
   <updated>2022-01-24T05:22:19Z</updated>
   <content type="html">
    Fractal curves in scheme language
-  </content>
- </entry>
- <entry>
-  <title>SystemCrafters: crafter-chat</title>
-  <author>
-   <name>SystemCrafters</name>
-  </author>
-  <link href="https://github.com/SystemCrafters/crafter-chat" />
-  <id>urn:rprimus:github:SystemCrafters:crafter-chat</id>
-  <published>2022-01-23T15:03:19Z</published>
-  <updated>2022-01-23T15:03:19Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>cjf9: my-code</title>
-  <author>
-   <name>cjf9</name>
-  </author>
-  <link href="https://github.com/cjf9/my-code" />
-  <id>urn:rprimus:github:cjf9:my-code</id>
-  <published>2022-01-23T11:45:51Z</published>
-  <updated>2022-01-23T11:45:51Z</updated>
-  <content type="html">
-   æ¬äºº5å²å°7å²åæé´åçä¸äºç¨åº
-  </content>
- </entry>
- <entry>
-  <title>kjepo: lisp</title>
-  <author>
-   <name>kjepo</name>
-  </author>
-  <link href="https://github.com/kjepo/lisp" />
-  <id>urn:rprimus:github:kjepo:lisp</id>
-  <published>2022-01-23T10:46:36Z</published>
-  <updated>2022-01-23T10:46:36Z</updated>
-  <content type="html">
-   An explicit evaluator for LISP, currently written in Scheme
   </content>
  </entry>
 </feed>
