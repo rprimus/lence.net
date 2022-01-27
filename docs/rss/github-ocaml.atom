@@ -2,8 +2,138 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2022-01-26T10:06:58Z</updated>
+<updated>2022-01-27T01:27:57Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>vadmipop: StickFighterAlpha</title>
+  <author>
+   <name>vadmipop</name>
+  </author>
+  <link href="https://github.com/vadmipop/StickFighterAlpha" />
+  <id>urn:rprimus:github:vadmipop:StickFighterAlpha</id>
+  <published>2022-01-27T01:27:57Z</published>
+  <updated>2022-01-27T01:27:57Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>undbiter96: locksmith</title>
+  <author>
+   <name>undbiter96</name>
+  </author>
+  <link href="https://github.com/undbiter96/locksmith" />
+  <id>urn:rprimus:github:undbiter96:locksmith</id>
+  <published>2022-01-26T22:23:52Z</published>
+  <updated>2022-01-26T22:23:52Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>janestreet: tracing</title>
+  <author>
+   <name>janestreet</name>
+  </author>
+  <link href="https://github.com/janestreet/tracing" />
+  <id>urn:rprimus:github:janestreet:tracing</id>
+  <published>2022-01-26T20:42:40Z</published>
+  <updated>2022-01-26T20:42:40Z</updated>
+  <content type="html">
+   Tracing library
+  </content>
+ </entry>
+ <entry>
+  <title>janestreet: ppx_jsonaf_conv</title>
+  <author>
+   <name>janestreet</name>
+  </author>
+  <link href="https://github.com/janestreet/ppx_jsonaf_conv" />
+  <id>urn:rprimus:github:janestreet:ppx_jsonaf_conv</id>
+  <published>2022-01-26T20:42:00Z</published>
+  <updated>2022-01-26T20:42:00Z</updated>
+  <content type="html">
+   [@@deriving] plugin to generate Jsonaf conversion functions
+  </content>
+ </entry>
+ <entry>
+  <title>janestreet: magic-trace</title>
+  <author>
+   <name>janestreet</name>
+  </author>
+  <link href="https://github.com/janestreet/magic-trace" />
+  <id>urn:rprimus:github:janestreet:magic-trace</id>
+  <published>2022-01-26T20:41:33Z</published>
+  <updated>2022-01-26T20:41:33Z</updated>
+  <content type="html">
+   Easy Intel Processor Trace Visualizer
+  </content>
+ </entry>
+ <entry>
+  <title>janestreet: ocaml-probes</title>
+  <author>
+   <name>janestreet</name>
+  </author>
+  <link href="https://github.com/janestreet/ocaml-probes" />
+  <id>urn:rprimus:github:janestreet:ocaml-probes</id>
+  <published>2022-01-26T20:38:47Z</published>
+  <updated>2022-01-26T20:38:47Z</updated>
+  <content type="html">
+   USDT probes for OCaml: command line tool
+  </content>
+ </entry>
+ <entry>
+  <title>janestreet: fzf</title>
+  <author>
+   <name>janestreet</name>
+  </author>
+  <link href="https://github.com/janestreet/fzf" />
+  <id>urn:rprimus:github:janestreet:fzf</id>
+  <published>2022-01-26T20:38:45Z</published>
+  <updated>2022-01-26T20:38:45Z</updated>
+  <content type="html">
+   A library for running the fzf command line tool
+  </content>
+ </entry>
+ <entry>
+  <title>marigold-dev: ppx_let_binding</title>
+  <author>
+   <name>marigold-dev</name>
+  </author>
+  <link href="https://github.com/marigold-dev/ppx_let_binding" />
+  <id>urn:rprimus:github:marigold-dev:ppx_let_binding</id>
+  <published>2022-01-26T20:06:06Z</published>
+  <updated>2022-01-26T20:06:06Z</updated>
+  <content type="html">
+   OCaml syntax extension for monads in the style of ReasonML
+  </content>
+ </entry>
+ <entry>
+  <title>GUELIANEBelkacem: DNACompressor</title>
+  <author>
+   <name>GUELIANEBelkacem</name>
+  </author>
+  <link href="https://github.com/GUELIANEBelkacem/DNACompressor" />
+  <id>urn:rprimus:github:GUELIANEBelkacem:DNACompressor</id>
+  <published>2022-01-26T20:02:37Z</published>
+  <updated>2022-01-26T20:02:37Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>hyphenrf: ppx_seq</title>
+  <author>
+   <name>hyphenrf</name>
+  </author>
+  <link href="https://github.com/hyphenrf/ppx_seq" />
+  <id>urn:rprimus:github:hyphenrf:ppx_seq</id>
+  <published>2022-01-26T19:53:41Z</published>
+  <updated>2022-01-26T19:53:41Z</updated>
+  <content type="html">
+   Simple unintrusive ppx rewriter that offers Seq literals
+  </content>
+ </entry>
  <entry>
   <title>martin-walls: register-machine</title>
   <author>
@@ -13,19 +143,6 @@
   <id>urn:rprimus:github:martin-walls:register-machine</id>
   <published>2022-01-26T10:06:58Z</published>
   <updated>2022-01-26T10:06:58Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>NukeyFox: OCamlRegMachine</title>
-  <author>
-   <name>NukeyFox</name>
-  </author>
-  <link href="https://github.com/NukeyFox/OCamlRegMachine" />
-  <id>urn:rprimus:github:NukeyFox:OCamlRegMachine</id>
-  <published>2022-01-26T09:27:10Z</published>
-  <updated>2022-01-26T09:27:10Z</updated>
   <content type="html">
    
   </content>
@@ -184,175 +301,6 @@
   <updated>2022-01-25T00:41:37Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>PLanzaS: propositional-logic</title>
-  <author>
-   <name>PLanzaS</name>
-  </author>
-  <link href="https://github.com/PLanzaS/propositional-logic" />
-  <id>urn:rprimus:github:PLanzaS:propositional-logic</id>
-  <published>2022-01-24T23:57:09Z</published>
-  <updated>2022-01-24T23:57:09Z</updated>
-  <content type="html">
-   A propositional logic interpreter written in OCaml
-  </content>
- </entry>
- <entry>
-  <title>Montana: crikey</title>
-  <author>
-   <name>Montana</name>
-  </author>
-  <link href="https://github.com/Montana/crikey" />
-  <id>urn:rprimus:github:Montana:crikey</id>
-  <published>2022-01-24T23:38:16Z</published>
-  <updated>2022-01-24T23:38:16Z</updated>
-  <content type="html">
-   The compiler from down under.
-  </content>
- </entry>
- <entry>
-  <title>tbrk: neos-server-ocaml-client</title>
-  <author>
-   <name>tbrk</name>
-  </author>
-  <link href="https://github.com/tbrk/neos-server-ocaml-client" />
-  <id>urn:rprimus:github:tbrk:neos-server-ocaml-client</id>
-  <published>2022-01-24T21:51:27Z</published>
-  <updated>2022-01-24T21:51:27Z</updated>
-  <content type="html">
-   An OCaml client for NEOS server
-  </content>
- </entry>
- <entry>
-  <title>Siinii: OCaml-BlackJack</title>
-  <author>
-   <name>Siinii</name>
-  </author>
-  <link href="https://github.com/Siinii/OCaml-BlackJack" />
-  <id>urn:rprimus:github:Siinii:OCaml-BlackJack</id>
-  <published>2022-01-24T20:24:07Z</published>
-  <updated>2022-01-24T20:24:07Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>smuller: logic-checker</title>
-  <author>
-   <name>smuller</name>
-  </author>
-  <link href="https://github.com/smuller/logic-checker" />
-  <id>urn:rprimus:github:smuller:logic-checker</id>
-  <published>2022-01-24T20:12:13Z</published>
-  <updated>2022-01-24T20:12:13Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jongleb: test_ocaml_bot_telegram</title>
-  <author>
-   <name>jongleb</name>
-  </author>
-  <link href="https://github.com/jongleb/test_ocaml_bot_telegram" />
-  <id>urn:rprimus:github:jongleb:test_ocaml_bot_telegram</id>
-  <published>2022-01-24T18:26:00Z</published>
-  <updated>2022-01-24T18:26:00Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>loutr: prog1-compilateur</title>
-  <author>
-   <name>loutr</name>
-  </author>
-  <link href="https://github.com/loutr/prog1-compilateur" />
-  <id>urn:rprimus:github:loutr:prog1-compilateur</id>
-  <published>2022-01-24T17:47:27Z</published>
-  <updated>2022-01-24T17:47:27Z</updated>
-  <content type="html">
-   Compilateur Petit Go - Projet de programmation 1 Ã  l&#039;ENS Paris-Saclay 
-  </content>
- </entry>
- <entry>
-  <title>Hsodergren: leaflet_ocaml</title>
-  <author>
-   <name>Hsodergren</name>
-  </author>
-  <link href="https://github.com/Hsodergren/leaflet_ocaml" />
-  <id>urn:rprimus:github:Hsodergren:leaflet_ocaml</id>
-  <published>2022-01-24T16:19:43Z</published>
-  <updated>2022-01-24T16:19:43Z</updated>
-  <content type="html">
-   leaflet bindings for ocaml
-  </content>
- </entry>
- <entry>
-  <title>firewall2142: dedukti-toy-example</title>
-  <author>
-   <name>firewall2142</name>
-  </author>
-  <link href="https://github.com/firewall2142/dedukti-toy-example" />
-  <id>urn:rprimus:github:firewall2142:dedukti-toy-example</id>
-  <published>2022-01-24T13:31:02Z</published>
-  <updated>2022-01-24T13:31:02Z</updated>
-  <content type="html">
-   Temporary repo
-  </content>
- </entry>
- <entry>
-  <title>fdesousalima-hub: L3-S5-DPLL</title>
-  <author>
-   <name>fdesousalima-hub</name>
-  </author>
-  <link href="https://github.com/fdesousalima-hub/L3-S5-DPLL" />
-  <id>urn:rprimus:github:fdesousalima-hub:L3-S5-DPLL</id>
-  <published>2022-01-24T05:13:09Z</published>
-  <updated>2022-01-24T05:13:09Z</updated>
-  <content type="html">
-   A recursive DPLL solver.
-  </content>
- </entry>
- <entry>
-  <title>fdesousalima-hub: L3-S5-L-Systemes</title>
-  <author>
-   <name>fdesousalima-hub</name>
-  </author>
-  <link href="https://github.com/fdesousalima-hub/L3-S5-L-Systemes" />
-  <id>urn:rprimus:github:fdesousalima-hub:L3-S5-L-Systemes</id>
-  <published>2022-01-24T05:11:22Z</published>
-  <updated>2022-01-24T05:11:22Z</updated>
-  <content type="html">
-     A L-Systems visualizer.
-  </content>
- </entry>
- <entry>
-  <title>fdesousalima-hub: L3-S5-SMT-LIB</title>
-  <author>
-   <name>fdesousalima-hub</name>
-  </author>
-  <link href="https://github.com/fdesousalima-hub/L3-S5-SMT-LIB" />
-  <id>urn:rprimus:github:fdesousalima-hub:L3-S5-SMT-LIB</id>
-  <published>2022-01-24T05:06:15Z</published>
-  <updated>2022-01-24T05:06:15Z</updated>
-  <content type="html">
-   A SMT-LIB generator for automatic separators.
-  </content>
- </entry>
- <entry>
-  <title>fdesousalima-hub: L3-S6-GA</title>
-  <author>
-   <name>fdesousalima-hub</name>
-  </author>
-  <link href="https://github.com/fdesousalima-hub/L3-S6-GA" />
-  <id>urn:rprimus:github:fdesousalima-hub:L3-S6-GA</id>
-  <published>2022-01-24T04:41:31Z</published>
-  <updated>2022-01-24T04:41:31Z</updated>
-  <content type="html">
-     A programming language and toolchain for turtle graphics.
   </content>
  </entry>
 </feed>
