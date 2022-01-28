@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-01-27T00:48:23Z</updated>
+<updated>2022-01-28T01:34:18Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>l3yaer: cluco</title>
+  <author>
+   <name>l3yaer</name>
+  </author>
+  <link href="https://github.com/l3yaer/cluco" />
+  <id>urn:rprimus:github:l3yaer:cluco</id>
+  <published>2022-01-28T01:34:18Z</published>
+  <updated>2022-01-28T01:34:18Z</updated>
+  <content type="html">
+   A html generator
+  </content>
+ </entry>
+ <entry>
+  <title>fsankratz: lisp-text-adventure</title>
+  <author>
+   <name>fsankratz</name>
+  </author>
+  <link href="https://github.com/fsankratz/lisp-text-adventure" />
+  <id>urn:rprimus:github:fsankratz:lisp-text-adventure</id>
+  <published>2022-01-28T00:36:02Z</published>
+  <updated>2022-01-28T00:36:02Z</updated>
+  <content type="html">
+   A Text Adventure Creation Framework in Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>pochetnyi-vasilyi: Functional-programming</title>
+  <author>
+   <name>pochetnyi-vasilyi</name>
+  </author>
+  <link href="https://github.com/pochetnyi-vasilyi/Functional-programming" />
+  <id>urn:rprimus:github:pochetnyi-vasilyi:Functional-programming</id>
+  <published>2022-01-27T16:46:49Z</published>
+  <updated>2022-01-27T16:46:49Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>parkjbdev: DogeDriver</title>
   <author>
@@ -28,6 +67,19 @@
   <updated>2022-01-26T22:34:19Z</updated>
   <content type="html">
    Switch between ASDF versions with a single function call
+  </content>
+ </entry>
+ <entry>
+  <title>Sowlas: CLisp-VM-Compiler</title>
+  <author>
+   <name>Sowlas</name>
+  </author>
+  <link href="https://github.com/Sowlas/CLisp-VM-Compiler" />
+  <id>urn:rprimus:github:Sowlas:CLisp-VM-Compiler</id>
+  <published>2022-01-26T18:09:04Z</published>
+  <updated>2022-01-26T18:09:04Z</updated>
+  <content type="html">
+   Compilateur Clisp -&gt; Langage VM + VM
   </content>
  </entry>
  <entry>
@@ -106,58 +158,6 @@
   <updated>2022-01-26T03:22:02Z</updated>
   <content type="html">
    A simple bot in common lisp
-  </content>
- </entry>
- <entry>
-  <title>codr7: cl-appfs</title>
-  <author>
-   <name>codr7</name>
-  </author>
-  <link href="https://github.com/codr7/cl-appfs" />
-  <id>urn:rprimus:github:codr7:cl-appfs</id>
-  <published>2022-01-25T17:07:15Z</published>
-  <updated>2022-01-25T17:07:15Z</updated>
-  <content type="html">
-   in-app directory/shell
-  </content>
- </entry>
- <entry>
-  <title>bambusdani: dotemacs</title>
-  <author>
-   <name>bambusdani</name>
-  </author>
-  <link href="https://github.com/bambusdani/dotemacs" />
-  <id>urn:rprimus:github:bambusdani:dotemacs</id>
-  <published>2022-01-25T13:51:10Z</published>
-  <updated>2022-01-25T13:51:10Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Edo-256: mst-solver</title>
-  <author>
-   <name>Edo-256</name>
-  </author>
-  <link href="https://github.com/Edo-256/mst-solver" />
-  <id>urn:rprimus:github:Edo-256:mst-solver</id>
-  <published>2022-01-25T12:19:27Z</published>
-  <updated>2022-01-25T12:19:27Z</updated>
-  <content type="html">
-   Mst-solver is a library to resolve the mst problem by using prim&#039;s algorithm, developed for prolog and lisp.
-  </content>
- </entry>
- <entry>
-  <title>strojacek: redxlisp</title>
-  <author>
-   <name>strojacek</name>
-  </author>
-  <link href="https://github.com/strojacek/redxlisp" />
-  <id>urn:rprimus:github:strojacek:redxlisp</id>
-  <published>2022-01-25T02:15:55Z</published>
-  <updated>2022-01-25T02:15:55Z</updated>
-  <content type="html">
-   This project is a port of the xlisp-stat lisp routines into standard lisp so that REDUCE can perform statistical functions.
   </content>
  </entry>
 </feed>
