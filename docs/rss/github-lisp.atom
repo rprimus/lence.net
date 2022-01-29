@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-01-29T00:13:18Z</updated>
+<updated>2022-01-29T10:21:22Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>phoe: in-nomine</title>
+  <author>
+   <name>phoe</name>
+  </author>
+  <link href="https://github.com/phoe/in-nomine" />
+  <id>urn:rprimus:github:phoe:in-nomine</id>
+  <published>2022-01-29T10:21:22Z</published>
+  <updated>2022-01-29T10:21:22Z</updated>
+  <content type="html">
+   Utility for creating, accessing, and managing custom namespaces in Common Lisp.
+  </content>
+ </entry>
  <entry>
   <title>matth3wology: neural_lisp</title>
   <author>
@@ -28,19 +41,6 @@
   <updated>2022-01-28T15:39:21Z</updated>
   <content type="html">
    Implementation of Prim&#039;s Algorithm for Minimum Spanning Tree in Lisp and Prolog
-  </content>
- </entry>
- <entry>
-  <title>dh58319: DogeDriver</title>
-  <author>
-   <name>dh58319</name>
-  </author>
-  <link href="https://github.com/dh58319/DogeDriver" />
-  <id>urn:rprimus:github:dh58319:DogeDriver</id>
-  <published>2022-01-28T09:31:33Z</published>
-  <updated>2022-01-28T09:31:33Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
  <entry>
