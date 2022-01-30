@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2022-01-30T00:49:02Z</updated>
+<updated>2022-01-30T10:33:42Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>egor4ka: redplane</title>
+  <author>
+   <name>egor4ka</name>
+  </author>
+  <link href="https://github.com/egor4ka/redplane" />
+  <id>urn:rprimus:github:egor4ka:redplane</id>
+  <published>2022-01-30T10:33:42Z</published>
+  <updated>2022-01-30T10:33:42Z</updated>
+  <content type="html">
+   An AUR helper written in sh and then rewritten in Nim
+  </content>
+ </entry>
+ <entry>
+  <title>kobi2187: suncalc-nim</title>
+  <author>
+   <name>kobi2187</name>
+  </author>
+  <link href="https://github.com/kobi2187/suncalc-nim" />
+  <id>urn:rprimus:github:kobi2187:suncalc-nim</id>
+  <published>2022-01-30T08:53:54Z</published>
+  <updated>2022-01-30T08:53:54Z</updated>
+  <content type="html">
+   SunCalc ported to Nim, for sunrise times purpose
+  </content>
+ </entry>
+ <entry>
+  <title>navisec: CVE-2021-4034-PwnKit</title>
+  <author>
+   <name>navisec</name>
+  </author>
+  <link href="https://github.com/navisec/CVE-2021-4034-PwnKit" />
+  <id>urn:rprimus:github:navisec:CVE-2021-4034-PwnKit</id>
+  <published>2022-01-30T03:08:51Z</published>
+  <updated>2022-01-30T03:08:51Z</updated>
+  <content type="html">
+   PwnKit PoC for Polkit pkexec CVE-2021-4034 
+  </content>
+ </entry>
  <entry>
   <title>joenano: liveodds</title>
   <author>
@@ -53,7 +92,7 @@
   <published>2022-01-29T08:18:11Z</published>
   <updated>2022-01-29T08:18:11Z</updated>
   <content type="html">
-   
+   Snowie is an another register-based virtual machine!
   </content>
  </entry>
  <entry>
