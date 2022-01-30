@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2022-01-28T14:42:53Z</updated>
+<updated>2022-01-29T20:02:29Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>tijn: mkfifo.cr</title>
+  <author>
+   <name>tijn</name>
+  </author>
+  <link href="https://github.com/tijn/mkfifo.cr" />
+  <id>urn:rprimus:github:tijn:mkfifo.cr</id>
+  <published>2022-01-29T20:02:29Z</published>
+  <updated>2022-01-29T20:02:29Z</updated>
+  <content type="html">
+   A Crystal implementation of File.mkfifo 
+  </content>
+ </entry>
+ <entry>
+  <title>GeopJr: non-blocking-spawn</title>
+  <author>
+   <name>GeopJr</name>
+  </author>
+  <link href="https://github.com/GeopJr/non-blocking-spawn" />
+  <id>urn:rprimus:github:GeopJr:non-blocking-spawn</id>
+  <published>2022-01-29T14:33:03Z</published>
+  <updated>2022-01-29T14:33:03Z</updated>
+  <content type="html">
+   Crystal shard that spawns fibers in any worker thread BUT the current one
+  </content>
+ </entry>
  <entry>
   <title>Lillevang: wordle_solver</title>
   <author>
@@ -28,58 +54,6 @@
   <updated>2022-01-28T02:13:45Z</updated>
   <content type="html">
    A small eye in the cloud. ðï¸ð¨ï¸
-  </content>
- </entry>
- <entry>
-  <title>twcrone: alsmgr</title>
-  <author>
-   <name>twcrone</name>
-  </author>
-  <link href="https://github.com/twcrone/alsmgr" />
-  <id>urn:rprimus:github:twcrone:alsmgr</id>
-  <published>2022-01-27T13:36:30Z</published>
-  <updated>2022-01-27T13:36:30Z</updated>
-  <content type="html">
-   Alias Manager written in Crystal
-  </content>
- </entry>
- <entry>
-  <title>Lillevang: algs</title>
-  <author>
-   <name>Lillevang</name>
-  </author>
-  <link href="https://github.com/Lillevang/algs" />
-  <id>urn:rprimus:github:Lillevang:algs</id>
-  <published>2022-01-27T10:51:13Z</published>
-  <updated>2022-01-27T10:51:13Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ShiningRay: combine.cr</title>
-  <author>
-   <name>ShiningRay</name>
-  </author>
-  <link href="https://github.com/ShiningRay/combine.cr" />
-  <id>urn:rprimus:github:ShiningRay:combine.cr</id>
-  <published>2022-01-27T05:40:54Z</published>
-  <updated>2022-01-27T05:40:54Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>icy-arctic-fox: geode</title>
-  <author>
-   <name>icy-arctic-fox</name>
-  </author>
-  <link href="https://github.com/icy-arctic-fox/geode" />
-  <id>urn:rprimus:github:icy-arctic-fox:geode</id>
-  <published>2022-01-27T03:10:16Z</published>
-  <updated>2022-01-27T03:10:16Z</updated>
-  <content type="html">
-   Mathematics library for Crystal supporting vectors, matrices, quaternions, and more.
   </content>
  </entry>
 </feed>
