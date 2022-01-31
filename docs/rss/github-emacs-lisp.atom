@@ -2,8 +2,112 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2022-01-30T07:32:39Z</updated>
+<updated>2022-01-31T01:47:06Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>emacsmirror: nxml-uxml</title>
+  <author>
+   <name>emacsmirror</name>
+  </author>
+  <link href="https://github.com/emacsmirror/nxml-uxml" />
+  <id>urn:rprimus:github:emacsmirror:nxml-uxml</id>
+  <published>2022-01-31T01:47:06Z</published>
+  <updated>2022-01-31T01:47:06Z</updated>
+  <content type="html">
+   MicroXML support for nXML
+  </content>
+ </entry>
+ <entry>
+  <title>PanayotisManganaris: ipynb-mode</title>
+  <author>
+   <name>PanayotisManganaris</name>
+  </author>
+  <link href="https://github.com/PanayotisManganaris/ipynb-mode" />
+  <id>urn:rprimus:github:PanayotisManganaris:ipynb-mode</id>
+  <published>2022-01-31T00:52:01Z</published>
+  <updated>2022-01-31T00:52:01Z</updated>
+  <content type="html">
+   A lightweight emacs major mode for editing jupyter notebooks.
+  </content>
+ </entry>
+ <entry>
+  <title>loganwoodxyz: dotfiles</title>
+  <author>
+   <name>loganwoodxyz</name>
+  </author>
+  <link href="https://github.com/loganwoodxyz/dotfiles" />
+  <id>urn:rprimus:github:loganwoodxyz:dotfiles</id>
+  <published>2022-01-30T21:04:18Z</published>
+  <updated>2022-01-30T21:04:18Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>wilkinsonmr: hl7-message-mode</title>
+  <author>
+   <name>wilkinsonmr</name>
+  </author>
+  <link href="https://github.com/wilkinsonmr/hl7-message-mode" />
+  <id>urn:rprimus:github:wilkinsonmr:hl7-message-mode</id>
+  <published>2022-01-30T19:27:25Z</published>
+  <updated>2022-01-30T19:27:25Z</updated>
+  <content type="html">
+   Emacs major mode for viewing and navigating HL7 messages.
+  </content>
+ </entry>
+ <entry>
+  <title>mauriciomordecki: doom-emacs-config</title>
+  <author>
+   <name>mauriciomordecki</name>
+  </author>
+  <link href="https://github.com/mauriciomordecki/doom-emacs-config" />
+  <id>urn:rprimus:github:mauriciomordecki:doom-emacs-config</id>
+  <published>2022-01-30T17:22:33Z</published>
+  <updated>2022-01-30T17:22:33Z</updated>
+  <content type="html">
+   My own personal doom emacs configuration
+  </content>
+ </entry>
+ <entry>
+  <title>rhaps0dy: emacs-oauth2-auto</title>
+  <author>
+   <name>rhaps0dy</name>
+  </author>
+  <link href="https://github.com/rhaps0dy/emacs-oauth2-auto" />
+  <id>urn:rprimus:github:rhaps0dy:emacs-oauth2-auto</id>
+  <published>2022-01-30T15:53:06Z</published>
+  <updated>2022-01-30T15:53:06Z</updated>
+  <content type="html">
+   Automatically stored and configured OAuth2 for Emacs
+  </content>
+ </entry>
+ <entry>
+  <title>sriram1999s: emacs-config</title>
+  <author>
+   <name>sriram1999s</name>
+  </author>
+  <link href="https://github.com/sriram1999s/emacs-config" />
+  <id>urn:rprimus:github:sriram1999s:emacs-config</id>
+  <published>2022-01-30T15:19:08Z</published>
+  <updated>2022-01-30T15:19:08Z</updated>
+  <content type="html">
+   Pretty self-explanatory 
+  </content>
+ </entry>
+ <entry>
+  <title>Cletip: braindump</title>
+  <author>
+   <name>Cletip</name>
+  </author>
+  <link href="https://github.com/Cletip/braindump" />
+  <id>urn:rprimus:github:Cletip:braindump</id>
+  <published>2022-01-30T14:01:54Z</published>
+  <updated>2022-01-30T14:01:54Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>yagehu: emacs-config</title>
   <author>
@@ -417,7 +521,7 @@
   <published>2022-01-29T00:08:05Z</published>
   <updated>2022-01-29T00:08:05Z</updated>
   <content type="html">
-   Mirror of the org-remark package from GNU ELPA, current as of 2022-01-30
+   Mirror of the org-remark package from GNU ELPA, current as of 2022-01-31
   </content>
  </entry>
  <entry>
@@ -430,7 +534,7 @@
   <published>2022-01-29T00:07:27Z</published>
   <updated>2022-01-29T00:07:27Z</updated>
   <content type="html">
-   Mirror of the diminish package from GNU ELPA, current as of 2022-01-30
+   Mirror of the diminish package from GNU ELPA, current as of 2022-01-31
   </content>
  </entry>
  <entry>
@@ -444,123 +548,6 @@
   <updated>2022-01-29T00:06:10Z</updated>
   <content type="html">
    Dotfiles, but this time it&#039;s on my lap.
-  </content>
- </entry>
- <entry>
-  <title>sergiolib: my_elisp</title>
-  <author>
-   <name>sergiolib</name>
-  </author>
-  <link href="https://github.com/sergiolib/my_elisp" />
-  <id>urn:rprimus:github:sergiolib:my_elisp</id>
-  <published>2022-01-28T18:41:08Z</published>
-  <updated>2022-01-28T18:41:08Z</updated>
-  <content type="html">
-   Code to automate tasks in Emacs . Macros and other useful functions.
-  </content>
- </entry>
- <entry>
-  <title>DogLooksGood: carbon-theme</title>
-  <author>
-   <name>DogLooksGood</name>
-  </author>
-  <link href="https://github.com/DogLooksGood/carbon-theme" />
-  <id>urn:rprimus:github:DogLooksGood:carbon-theme</id>
-  <published>2022-01-28T16:10:19Z</published>
-  <updated>2022-01-28T16:10:19Z</updated>
-  <content type="html">
-   A dark theme for Emacs
-  </content>
- </entry>
- <entry>
-  <title>xukeek: notion4e</title>
-  <author>
-   <name>xukeek</name>
-  </author>
-  <link href="https://github.com/xukeek/notion4e" />
-  <id>urn:rprimus:github:xukeek:notion4e</id>
-  <published>2022-01-28T16:06:10Z</published>
-  <updated>2022-01-28T16:06:10Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ignazio-bovo: dotfiles</title>
-  <author>
-   <name>ignazio-bovo</name>
-  </author>
-  <link href="https://github.com/ignazio-bovo/dotfiles" />
-  <id>urn:rprimus:github:ignazio-bovo:dotfiles</id>
-  <published>2022-01-28T15:20:55Z</published>
-  <updated>2022-01-28T15:20:55Z</updated>
-  <content type="html">
-   personal configuration
-  </content>
- </entry>
- <entry>
-  <title>adham-omran: ankifier</title>
-  <author>
-   <name>adham-omran</name>
-  </author>
-  <link href="https://github.com/adham-omran/ankifier" />
-  <id>urn:rprimus:github:adham-omran:ankifier</id>
-  <published>2022-01-28T15:06:57Z</published>
-  <updated>2022-01-28T15:06:57Z</updated>
-  <content type="html">
-   Efficiently create Anki flashcards from your notes.
-  </content>
- </entry>
- <entry>
-  <title>flowmis: FlowmisOS</title>
-  <author>
-   <name>flowmis</name>
-  </author>
-  <link href="https://github.com/flowmis/FlowmisOS" />
-  <id>urn:rprimus:github:flowmis:FlowmisOS</id>
-  <published>2022-01-28T12:16:43Z</published>
-  <updated>2022-01-28T12:16:43Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>idkso: .emacs.d</title>
-  <author>
-   <name>idkso</name>
-  </author>
-  <link href="https://github.com/idkso/.emacs.d" />
-  <id>urn:rprimus:github:idkso:.emacs.d</id>
-  <published>2022-01-28T10:17:50Z</published>
-  <updated>2022-01-28T10:17:50Z</updated>
-  <content type="html">
-   my emacs config la mao
-  </content>
- </entry>
- <entry>
-  <title>Civitasv: rainbow-delimiters</title>
-  <author>
-   <name>Civitasv</name>
-  </author>
-  <link href="https://github.com/Civitasv/rainbow-delimiters" />
-  <id>urn:rprimus:github:Civitasv:rainbow-delimiters</id>
-  <published>2022-01-28T08:16:06Z</published>
-  <updated>2022-01-28T08:16:06Z</updated>
-  <content type="html">
-   Emacs rainbow delimiters mode and rainbow emphasise delimiters mode
-  </content>
- </entry>
- <entry>
-  <title>rzdtjb: .emacs.d</title>
-  <author>
-   <name>rzdtjb</name>
-  </author>
-  <link href="https://github.com/rzdtjb/.emacs.d" />
-  <id>urn:rprimus:github:rzdtjb:.emacs.d</id>
-  <published>2022-01-28T07:37:33Z</published>
-  <updated>2022-01-28T07:37:33Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
