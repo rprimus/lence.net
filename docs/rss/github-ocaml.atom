@@ -2,8 +2,125 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2022-01-31T09:38:36Z</updated>
+<updated>2022-02-01T00:54:25Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>Fraguinha: Euler</title>
+  <author>
+   <name>Fraguinha</name>
+  </author>
+  <link href="https://github.com/Fraguinha/Euler" />
+  <id>urn:rprimus:github:Fraguinha:Euler</id>
+  <published>2022-02-01T00:54:25Z</published>
+  <updated>2022-02-01T00:54:25Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>yawaramin: ocaml_sql_query</title>
+  <author>
+   <name>yawaramin</name>
+  </author>
+  <link href="https://github.com/yawaramin/ocaml_sql_query" />
+  <id>urn:rprimus:github:yawaramin:ocaml_sql_query</id>
+  <published>2022-01-31T22:30:27Z</published>
+  <updated>2022-01-31T22:30:27Z</updated>
+  <content type="html">
+   PoC of functional-style SQL query
+  </content>
+ </entry>
+ <entry>
+  <title>serpent7776: json-parse</title>
+  <author>
+   <name>serpent7776</name>
+  </author>
+  <link href="https://github.com/serpent7776/json-parse" />
+  <id>urn:rprimus:github:serpent7776:json-parse</id>
+  <published>2022-01-31T19:35:27Z</published>
+  <updated>2022-01-31T19:35:27Z</updated>
+  <content type="html">
+   Simple parser for subset of json 
+  </content>
+ </entry>
+ <entry>
+  <title>CMU-program-analysis: hw3-template</title>
+  <author>
+   <name>CMU-program-analysis</name>
+  </author>
+  <link href="https://github.com/CMU-program-analysis/hw3-template" />
+  <id>urn:rprimus:github:CMU-program-analysis:hw3-template</id>
+  <published>2022-01-31T19:13:32Z</published>
+  <updated>2022-01-31T19:13:32Z</updated>
+  <content type="html">
+   Template for Program Analysis HW3 - Dataflow Analysis in OCaml
+  </content>
+ </entry>
+ <entry>
+  <title>aduvermy: ocaml_learning</title>
+  <author>
+   <name>aduvermy</name>
+  </author>
+  <link href="https://github.com/aduvermy/ocaml_learning" />
+  <id>urn:rprimus:github:aduvermy:ocaml_learning</id>
+  <published>2022-01-31T18:02:25Z</published>
+  <updated>2022-01-31T18:02:25Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>gregulec: coder</title>
+  <author>
+   <name>gregulec</name>
+  </author>
+  <link href="https://github.com/gregulec/coder" />
+  <id>urn:rprimus:github:gregulec:coder</id>
+  <published>2022-01-31T15:45:01Z</published>
+  <updated>2022-01-31T15:45:01Z</updated>
+  <content type="html">
+   szyfrator i deszyfrator szyfrÃ³w harcerskich w jÄzyku ocaml
+  </content>
+ </entry>
+ <entry>
+  <title>NouamaneA: proof-assistant</title>
+  <author>
+   <name>NouamaneA</name>
+  </author>
+  <link href="https://github.com/NouamaneA/proof-assistant" />
+  <id>urn:rprimus:github:NouamaneA:proof-assistant</id>
+  <published>2022-01-31T15:01:21Z</published>
+  <updated>2022-01-31T15:01:21Z</updated>
+  <content type="html">
+   Simple proof assistant written in OCaml.
+  </content>
+ </entry>
+ <entry>
+  <title>cdeleuze: lambda.ml</title>
+  <author>
+   <name>cdeleuze</name>
+  </author>
+  <link href="https://github.com/cdeleuze/lambda.ml" />
+  <id>urn:rprimus:github:cdeleuze:lambda.ml</id>
+  <published>2022-01-31T14:18:47Z</published>
+  <updated>2022-01-31T14:18:47Z</updated>
+  <content type="html">
+   Lambda Calculus Evaluator in OCaml
+  </content>
+ </entry>
+ <entry>
+  <title>flagpoonage: ocaml-tax</title>
+  <author>
+   <name>flagpoonage</name>
+  </author>
+  <link href="https://github.com/flagpoonage/ocaml-tax" />
+  <id>urn:rprimus:github:flagpoonage:ocaml-tax</id>
+  <published>2022-01-31T11:59:28Z</published>
+  <updated>2022-01-31T11:59:28Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>lillo452: Snake_OCaml</title>
   <author>
@@ -132,84 +249,6 @@
   <updated>2022-01-30T00:29:44Z</updated>
   <content type="html">
    I used to write &quot;merkel_tree&quot;, god I was stupid 4 days ago.
-  </content>
- </entry>
- <entry>
-  <title>DavidTimms: aqueduct</title>
-  <author>
-   <name>DavidTimms</name>
-  </author>
-  <link href="https://github.com/DavidTimms/aqueduct" />
-  <id>urn:rprimus:github:DavidTimms:aqueduct</id>
-  <published>2022-01-29T16:58:07Z</published>
-  <updated>2022-01-29T16:58:07Z</updated>
-  <content type="html">
-   A BitTorrent client, written in OCaml.
-  </content>
- </entry>
- <entry>
-  <title>andrewwongrolle: dominion_simulator</title>
-  <author>
-   <name>andrewwongrolle</name>
-  </author>
-  <link href="https://github.com/andrewwongrolle/dominion_simulator" />
-  <id>urn:rprimus:github:andrewwongrolle:dominion_simulator</id>
-  <published>2022-01-29T16:17:48Z</published>
-  <updated>2022-01-29T16:17:48Z</updated>
-  <content type="html">
-   Simulating the board game &quot;Dominion&quot; in OCaml
-  </content>
- </entry>
- <entry>
-  <title>johnyob: ocaml-typing-benchmark</title>
-  <author>
-   <name>johnyob</name>
-  </author>
-  <link href="https://github.com/johnyob/ocaml-typing-benchmark" />
-  <id>urn:rprimus:github:johnyob:ocaml-typing-benchmark</id>
-  <published>2022-01-29T14:41:04Z</published>
-  <updated>2022-01-29T14:41:04Z</updated>
-  <content type="html">
-   Benchmarking the OCaml type checker
-  </content>
- </entry>
- <entry>
-  <title>Viet281101: learning_Ocaml</title>
-  <author>
-   <name>Viet281101</name>
-  </author>
-  <link href="https://github.com/Viet281101/learning_Ocaml" />
-  <id>urn:rprimus:github:Viet281101:learning_Ocaml</id>
-  <published>2022-01-29T13:01:20Z</published>
-  <updated>2022-01-29T13:01:20Z</updated>
-  <content type="html">
-   Some of the basics exercices to learn Ocaml
-  </content>
- </entry>
- <entry>
-  <title>miniprime1: plus</title>
-  <author>
-   <name>miniprime1</name>
-  </author>
-  <link href="https://github.com/miniprime1/plus" />
-  <id>urn:rprimus:github:miniprime1:plus</id>
-  <published>2022-01-29T09:54:44Z</published>
-  <updated>2022-01-29T09:54:44Z</updated>
-  <content type="html">
-   The + Programming Language.
-  </content>
- </entry>
- <entry>
-  <title>jteak: functional-adventure</title>
-  <author>
-   <name>jteak</name>
-  </author>
-  <link href="https://github.com/jteak/functional-adventure" />
-  <id>urn:rprimus:github:jteak:functional-adventure</id>
-  <published>2022-01-29T06:07:21Z</published>
-  <updated>2022-01-29T06:07:21Z</updated>
-  <content type="html">
-   An adventure game player implemented in OCaml and functional programming.
   </content>
  </entry>
 </feed>

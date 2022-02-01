@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-01-31T06:08:08Z</updated>
+<updated>2022-02-01T01:44:22Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>Plisp: wordlol</title>
+  <author>
+   <name>Plisp</name>
+  </author>
+  <link href="https://github.com/Plisp/wordlol" />
+  <id>urn:rprimus:github:Plisp:wordlol</id>
+  <published>2022-02-01T01:44:22Z</published>
+  <updated>2022-02-01T01:44:22Z</updated>
+  <content type="html">
+   wordle solver in 80 lines of lisp
+  </content>
+ </entry>
+ <entry>
+  <title>jacasella: TestGeometrySave</title>
+  <author>
+   <name>jacasella</name>
+  </author>
+  <link href="https://github.com/jacasella/TestGeometrySave" />
+  <id>urn:rprimus:github:jacasella:TestGeometrySave</id>
+  <published>2022-01-31T17:06:35Z</published>
+  <updated>2022-01-31T17:06:35Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>danagajewski: LogicAndCompHW</title>
   <author>
@@ -14,7 +40,7 @@
   <published>2022-01-31T06:08:08Z</published>
   <updated>2022-01-31T06:08:08Z</updated>
   <content type="html">
-   Store Logic an Comp Homeworls
+   Store Logic and Comp Homeworks
   </content>
  </entry>
  <entry>
@@ -54,6 +80,19 @@
   <updated>2022-01-30T16:20:13Z</updated>
   <content type="html">
    Mirror from https://gitlab.com/shukryzablah/masstimes
+  </content>
+ </entry>
+ <entry>
+  <title>2420074212: AutoLisp</title>
+  <author>
+   <name>2420074212</name>
+  </author>
+  <link href="https://github.com/2420074212/AutoLisp" />
+  <id>urn:rprimus:github:2420074212:AutoLisp</id>
+  <published>2022-01-30T15:32:08Z</published>
+  <updated>2022-01-30T15:32:08Z</updated>
+  <content type="html">
+   
   </content>
  </entry>
  <entry>
@@ -119,97 +158,6 @@
   <updated>2022-01-30T00:51:19Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>ak-coram: cl-duckdb</title>
-  <author>
-   <name>ak-coram</name>
-  </author>
-  <link href="https://github.com/ak-coram/cl-duckdb" />
-  <id>urn:rprimus:github:ak-coram:cl-duckdb</id>
-  <published>2022-01-29T23:07:50Z</published>
-  <updated>2022-01-29T23:07:50Z</updated>
-  <content type="html">
-   CFFI wrapper around the DuckDB C API
-  </content>
- </entry>
- <entry>
-  <title>agentlans: binary-search</title>
-  <author>
-   <name>agentlans</name>
-  </author>
-  <link href="https://github.com/agentlans/binary-search" />
-  <id>urn:rprimus:github:agentlans:binary-search</id>
-  <published>2022-01-29T22:14:36Z</published>
-  <updated>2022-01-29T22:14:36Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>JMC-design: tovero</title>
-  <author>
-   <name>JMC-design</name>
-  </author>
-  <link href="https://github.com/JMC-design/tovero" />
-  <id>urn:rprimus:github:JMC-design:tovero</id>
-  <published>2022-01-29T20:20:37Z</published>
-  <updated>2022-01-29T20:20:37Z</updated>
-  <content type="html">
-   mirror of tovero
-  </content>
- </entry>
- <entry>
-  <title>Darth-Knoppix: common-lisp-exercises</title>
-  <author>
-   <name>Darth-Knoppix</name>
-  </author>
-  <link href="https://github.com/Darth-Knoppix/common-lisp-exercises" />
-  <id>urn:rprimus:github:Darth-Knoppix:common-lisp-exercises</id>
-  <published>2022-01-29T14:05:29Z</published>
-  <updated>2022-01-29T14:05:29Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jarusll: 99problemsinlisp</title>
-  <author>
-   <name>jarusll</name>
-  </author>
-  <link href="https://github.com/jarusll/99problemsinlisp" />
-  <id>urn:rprimus:github:jarusll:99problemsinlisp</id>
-  <published>2022-01-29T11:31:34Z</published>
-  <updated>2022-01-29T11:31:34Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>phoe: in-nomine</title>
-  <author>
-   <name>phoe</name>
-  </author>
-  <link href="https://github.com/phoe/in-nomine" />
-  <id>urn:rprimus:github:phoe:in-nomine</id>
-  <published>2022-01-29T10:21:22Z</published>
-  <updated>2022-01-29T10:21:22Z</updated>
-  <content type="html">
-   Utility for creating, accessing, and managing custom namespaces in Common Lisp.
-  </content>
- </entry>
- <entry>
-  <title>matth3wology: neural_lisp</title>
-  <author>
-   <name>matth3wology</name>
-  </author>
-  <link href="https://github.com/matth3wology/neural_lisp" />
-  <id>urn:rprimus:github:matth3wology:neural_lisp</id>
-  <published>2022-01-29T00:13:18Z</published>
-  <updated>2022-01-29T00:13:18Z</updated>
-  <content type="html">
-   Neural Network with Common LISP
   </content>
  </entry>
 </feed>
