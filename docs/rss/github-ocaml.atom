@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2022-02-01T06:13:27Z</updated>
+<updated>2022-02-01T22:20:56Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>uchicago-library: httpr-cohttp-lwt</title>
+  <author>
+   <name>uchicago-library</name>
+  </author>
+  <link href="https://github.com/uchicago-library/httpr-cohttp-lwt" />
+  <id>urn:rprimus:github:uchicago-library:httpr-cohttp-lwt</id>
+  <published>2022-02-01T22:20:56Z</published>
+  <updated>2022-02-01T22:20:56Z</updated>
+  <content type="html">
+   Implementation of the DLDC&#039;s `httpr_intf` interface for Cohttp
+  </content>
+ </entry>
+ <entry>
+  <title>b72u68: cs536-pl</title>
+  <author>
+   <name>b72u68</name>
+  </author>
+  <link href="https://github.com/b72u68/cs536-pl" />
+  <id>urn:rprimus:github:b72u68:cs536-pl</id>
+  <published>2022-02-01T21:33:32Z</published>
+  <updated>2022-02-01T21:33:32Z</updated>
+  <content type="html">
+   A parser for a simple programming language introduced in CS 536: Science of Programming
+  </content>
+ </entry>
+ <entry>
+  <title>0xRyN: Polish-Lang</title>
+  <author>
+   <name>0xRyN</name>
+  </author>
+  <link href="https://github.com/0xRyN/Polish-Lang" />
+  <id>urn:rprimus:github:0xRyN:Polish-Lang</id>
+  <published>2022-02-01T20:50:16Z</published>
+  <updated>2022-02-01T20:50:16Z</updated>
+  <content type="html">
+   An OCaml implementation of a programming language. Built-in static analysis and simplification (signs and constants propagation, uninitialized variables, division by 0 etc...) 
+  </content>
+ </entry>
+ <entry>
+  <title>jonathandoyle58: ocaml_repository</title>
+  <author>
+   <name>jonathandoyle58</name>
+  </author>
+  <link href="https://github.com/jonathandoyle58/ocaml_repository" />
+  <id>urn:rprimus:github:jonathandoyle58:ocaml_repository</id>
+  <published>2022-02-01T15:01:52Z</published>
+  <updated>2022-02-01T15:01:52Z</updated>
+  <content type="html">
+   Some Ocaml code
+  </content>
+ </entry>
+ <entry>
+  <title>Amaroke: ArchivesS6</title>
+  <author>
+   <name>Amaroke</name>
+  </author>
+  <link href="https://github.com/Amaroke/ArchivesS6" />
+  <id>urn:rprimus:github:Amaroke:ArchivesS6</id>
+  <published>2022-02-01T12:49:57Z</published>
+  <updated>2022-02-01T12:49:57Z</updated>
+  <content type="html">
+   Archive des TPs de mon 6Ã¨me semestre de licence. 
+  </content>
+ </entry>
  <entry>
   <title>Ivan-Kim: Garbage-Collection-Capstone</title>
   <author>
@@ -80,6 +145,19 @@
   <updated>2022-01-31T18:02:25Z</updated>
   <content type="html">
    
+  </content>
+ </entry>
+ <entry>
+  <title>thierry-martinez: ocaml-in-python</title>
+  <author>
+   <name>thierry-martinez</name>
+  </author>
+  <link href="https://github.com/thierry-martinez/ocaml-in-python" />
+  <id>urn:rprimus:github:thierry-martinez:ocaml-in-python</id>
+  <published>2022-01-31T15:56:54Z</published>
+  <updated>2022-01-31T15:56:54Z</updated>
+  <content type="html">
+   Effortless Python bindings for OCaml modules
   </content>
  </entry>
  <entry>
@@ -184,84 +262,6 @@
   <updated>2022-01-31T02:11:53Z</updated>
   <content type="html">
    A sampling of code created for a functional programming course taught in OCaml. 
-  </content>
- </entry>
- <entry>
-  <title>art-w: ppx_shared</title>
-  <author>
-   <name>art-w</name>
-  </author>
-  <link href="https://github.com/art-w/ppx_shared" />
-  <id>urn:rprimus:github:art-w:ppx_shared</id>
-  <published>2022-01-30T15:40:16Z</published>
-  <updated>2022-01-30T15:40:16Z</updated>
-  <content type="html">
-   Interleaved client/server code extraction
-  </content>
- </entry>
- <entry>
-  <title>dangdennis: learn-ocaml-workshop</title>
-  <author>
-   <name>dangdennis</name>
-  </author>
-  <link href="https://github.com/dangdennis/learn-ocaml-workshop" />
-  <id>urn:rprimus:github:dangdennis:learn-ocaml-workshop</id>
-  <published>2022-01-30T15:27:10Z</published>
-  <updated>2022-01-30T15:27:10Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>therealdydx: intro-to-cs</title>
-  <author>
-   <name>therealdydx</name>
-  </author>
-  <link href="https://github.com/therealdydx/intro-to-cs" />
-  <id>urn:rprimus:github:therealdydx:intro-to-cs</id>
-  <published>2022-01-30T10:11:07Z</published>
-  <updated>2022-01-30T10:11:07Z</updated>
-  <content type="html">
-   Problem sets, notes, manuals, and more for YSC1212 Introduction to Computer Science at Yale-NUS (OCaml)
-  </content>
- </entry>
- <entry>
-  <title>kwhra: infertype_with_polymorphic_recursion</title>
-  <author>
-   <name>kwhra</name>
-  </author>
-  <link href="https://github.com/kwhra/infertype_with_polymorphic_recursion" />
-  <id>urn:rprimus:github:kwhra:infertype_with_polymorphic_recursion</id>
-  <published>2022-01-30T09:01:58Z</published>
-  <updated>2022-01-30T09:01:58Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>eggplants: ocaml-lecture</title>
-  <author>
-   <name>eggplants</name>
-  </author>
-  <link href="https://github.com/eggplants/ocaml-lecture" />
-  <id>urn:rprimus:github:eggplants:ocaml-lecture</id>
-  <published>2022-01-30T05:58:44Z</published>
-  <updated>2022-01-30T05:58:44Z</updated>
-  <content type="html">
-   2020å¹´ç§Cããã­ã°ã©ã è¨èªè«Iã
-  </content>
- </entry>
- <entry>
-  <title>BastienDuplessier: merkle_tree</title>
-  <author>
-   <name>BastienDuplessier</name>
-  </author>
-  <link href="https://github.com/BastienDuplessier/merkle_tree" />
-  <id>urn:rprimus:github:BastienDuplessier:merkle_tree</id>
-  <published>2022-01-30T00:29:44Z</published>
-  <updated>2022-01-30T00:29:44Z</updated>
-  <content type="html">
-   I used to write &quot;merkel_tree&quot;, god I was stupid 4 days ago.
   </content>
  </entry>
 </feed>
