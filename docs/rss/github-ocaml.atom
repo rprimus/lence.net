@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2022-02-08T11:22:53Z</updated>
+<updated>2022-02-09T00:24:08Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>art-w: sherlocode</title>
+  <author>
+   <name>art-w</name>
+  </author>
+  <link href="https://github.com/art-w/sherlocode" />
+  <id>urn:rprimus:github:art-w:sherlocode</id>
+  <published>2022-02-09T00:24:08Z</published>
+  <updated>2022-02-09T00:24:08Z</updated>
+  <content type="html">
+   Realtime grep for OCaml sources available on opam
+  </content>
+ </entry>
  <entry>
   <title>igarnier: prbnmcn-dagger</title>
   <author>
@@ -11,10 +24,101 @@
   </author>
   <link href="https://github.com/igarnier/prbnmcn-dagger" />
   <id>urn:rprimus:github:igarnier:prbnmcn-dagger</id>
-  <published>2022-02-08T11:22:53Z</published>
-  <updated>2022-02-08T11:22:53Z</updated>
+  <published>2022-02-08T18:54:09Z</published>
+  <updated>2022-02-08T18:54:09Z</updated>
   <content type="html">
-   A library for probabilistic programming
+   
+  </content>
+ </entry>
+ <entry>
+  <title>kkd26: SiFun</title>
+  <author>
+   <name>kkd26</name>
+  </author>
+  <link href="https://github.com/kkd26/SiFun" />
+  <id>urn:rprimus:github:kkd26:SiFun</id>
+  <published>2022-02-08T18:40:59Z</published>
+  <updated>2022-02-08T18:40:59Z</updated>
+  <content type="html">
+   Interpreter for SiFun (Simple Functional) Language with three different type systems (supports Higher-Rank Polymorphism).
+  </content>
+ </entry>
+ <entry>
+  <title>sbcohen2000: QuikTable</title>
+  <author>
+   <name>sbcohen2000</name>
+  </author>
+  <link href="https://github.com/sbcohen2000/QuikTable" />
+  <id>urn:rprimus:github:sbcohen2000:QuikTable</id>
+  <published>2022-02-08T18:15:30Z</published>
+  <updated>2022-02-08T18:15:30Z</updated>
+  <content type="html">
+   Generate truth tables representing combinational logic from Ocaml expressions.
+  </content>
+ </entry>
+ <entry>
+  <title>ndreuu: mini-C</title>
+  <author>
+   <name>ndreuu</name>
+  </author>
+  <link href="https://github.com/ndreuu/mini-C" />
+  <id>urn:rprimus:github:ndreuu:mini-C</id>
+  <published>2022-02-08T17:05:03Z</published>
+  <updated>2022-02-08T17:05:03Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>YuigaWada: yush</title>
+  <author>
+   <name>YuigaWada</name>
+  </author>
+  <link href="https://github.com/YuigaWada/yush" />
+  <id>urn:rprimus:github:YuigaWada:yush</id>
+  <published>2022-02-08T16:24:30Z</published>
+  <updated>2022-02-08T16:24:30Z</updated>
+  <content type="html">
+   A simple shell written in OCaml. (Lex + Yacc + OCaml)
+  </content>
+ </entry>
+ <entry>
+  <title>arielr77: Compiler-Project</title>
+  <author>
+   <name>arielr77</name>
+  </author>
+  <link href="https://github.com/arielr77/Compiler-Project" />
+  <id>urn:rprimus:github:arielr77:Compiler-Project</id>
+  <published>2022-02-08T15:05:51Z</published>
+  <updated>2022-02-08T15:05:51Z</updated>
+  <content type="html">
+   Compilation Principals BGU 2021-2022 - Final Project
+  </content>
+ </entry>
+ <entry>
+  <title>gretay-js: llvmize</title>
+  <author>
+   <name>gretay-js</name>
+  </author>
+  <link href="https://github.com/gretay-js/llvmize" />
+  <id>urn:rprimus:github:gretay-js:llvmize</id>
+  <published>2022-02-08T14:46:44Z</published>
+  <updated>2022-02-08T14:46:44Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Ricagraca: FormulaParser</title>
+  <author>
+   <name>Ricagraca</name>
+  </author>
+  <link href="https://github.com/Ricagraca/FormulaParser" />
+  <id>urn:rprimus:github:Ricagraca:FormulaParser</id>
+  <published>2022-02-08T13:59:17Z</published>
+  <updated>2022-02-08T13:59:17Z</updated>
+  <content type="html">
+   A simple lexer and parser for boolean formulas using ocamllex ocamlyacc
   </content>
  </entry>
  <entry>
@@ -80,6 +184,19 @@
   <updated>2022-02-07T20:03:51Z</updated>
   <content type="html">
    ocaml nightly scripts
+  </content>
+ </entry>
+ <entry>
+  <title>sigalrmp: Ultimate-Tic-Tac-Toe</title>
+  <author>
+   <name>sigalrmp</name>
+  </author>
+  <link href="https://github.com/sigalrmp/Ultimate-Tic-Tac-Toe" />
+  <id>urn:rprimus:github:sigalrmp:Ultimate-Tic-Tac-Toe</id>
+  <published>2022-02-07T18:30:52Z</published>
+  <updated>2022-02-07T18:30:52Z</updated>
+  <content type="html">
+   ultimate tic tac toe that runs in terminal, and has the option of playing an ai or multiplayer. Written in OCaml
   </content>
  </entry>
  <entry>
@@ -184,97 +301,6 @@
   <updated>2022-02-07T00:51:36Z</updated>
   <content type="html">
    Code Review 1!
-  </content>
- </entry>
- <entry>
-  <title>zibo-yang: ocaml-typechecker</title>
-  <author>
-   <name>zibo-yang</name>
-  </author>
-  <link href="https://github.com/zibo-yang/ocaml-typechecker" />
-  <id>urn:rprimus:github:zibo-yang:ocaml-typechecker</id>
-  <published>2022-02-06T23:20:21Z</published>
-  <updated>2022-02-06T23:20:21Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>maxild: CS3110</title>
-  <author>
-   <name>maxild</name>
-  </author>
-  <link href="https://github.com/maxild/CS3110" />
-  <id>urn:rprimus:github:maxild:CS3110</id>
-  <published>2022-02-06T23:16:58Z</published>
-  <updated>2022-02-06T23:16:58Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>heuripedes: partcaml</title>
-  <author>
-   <name>heuripedes</name>
-  </author>
-  <link href="https://github.com/heuripedes/partcaml" />
-  <id>urn:rprimus:github:heuripedes:partcaml</id>
-  <published>2022-02-06T22:01:01Z</published>
-  <updated>2022-02-06T22:01:01Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>herveouattara: herveouattara-Travaux-pratique-en-Programmation-Logique-et-Fonctionnelle-OCAML-</title>
-  <author>
-   <name>herveouattara</name>
-  </author>
-  <link href="https://github.com/herveouattara/herveouattara-Travaux-pratique-en-Programmation-Logique-et-Fonctionnelle-OCAML-" />
-  <id>urn:rprimus:github:herveouattara:herveouattara-Travaux-pratique-en-Programmation-Logique-et-Fonctionnelle-OCAML-</id>
-  <published>2022-02-06T16:26:20Z</published>
-  <updated>2022-02-06T16:26:20Z</updated>
-  <content type="html">
-   herveouattara/Travaux-pratique-en-Programmation-Logique-et-Fonctionnelle-OCAML-
-  </content>
- </entry>
- <entry>
-  <title>KanataIZUMIKAWA: BasicOfOcaml</title>
-  <author>
-   <name>KanataIZUMIKAWA</name>
-  </author>
-  <link href="https://github.com/KanataIZUMIKAWA/BasicOfOcaml" />
-  <id>urn:rprimus:github:KanataIZUMIKAWA:BasicOfOcaml</id>
-  <published>2022-02-06T15:26:14Z</published>
-  <updated>2022-02-06T15:26:14Z</updated>
-  <content type="html">
-   Ocamlã®å­¦ç¿ã§æ¸ããã³ã¼ãé¡
-  </content>
- </entry>
- <entry>
-  <title>paurkedal: tuplet</title>
-  <author>
-   <name>paurkedal</name>
-  </author>
-  <link href="https://github.com/paurkedal/tuplet" />
-  <id>urn:rprimus:github:paurkedal:tuplet</id>
-  <published>2022-02-06T13:09:31Z</published>
-  <updated>2022-02-06T13:09:31Z</updated>
-  <content type="html">
-   Arity-generic API for tuple representations
-  </content>
- </entry>
- <entry>
-  <title>CirrusClouds: Camlculus</title>
-  <author>
-   <name>CirrusClouds</name>
-  </author>
-  <link href="https://github.com/CirrusClouds/Camlculus" />
-  <id>urn:rprimus:github:CirrusClouds:Camlculus</id>
-  <published>2022-02-06T12:03:29Z</published>
-  <updated>2022-02-06T12:03:29Z</updated>
-  <content type="html">
-   The Untyped Lambda Calculus Interpreter (+ Parser Combinator Library) Written in Ocaml  
   </content>
  </entry>
 </feed>
