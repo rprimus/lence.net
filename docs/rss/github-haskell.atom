@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-haskell.atom"/>
 <id>urn:rprimus:github:newhaskellrepos</id>
-<updated>2022-02-09T03:29:35Z</updated>
+<updated>2022-02-09T10:18:23Z</updated>
 <title type='text'>New GitHub Haskell Repos</title>
+ <entry>
+  <title>mordae: key-value</title>
+  <author>
+   <name>mordae</name>
+  </author>
+  <link href="https://github.com/mordae/key-value" />
+  <id>urn:rprimus:github:mordae:key-value</id>
+  <published>2022-02-09T10:18:23Z</published>
+  <updated>2022-02-09T10:18:23Z</updated>
+  <content type="html">
+   Class and an operator for key-value tuple composition.
+  </content>
+ </entry>
+ <entry>
+  <title>rakeshkky: hpass</title>
+  <author>
+   <name>rakeshkky</name>
+  </author>
+  <link href="https://github.com/rakeshkky/hpass" />
+  <id>urn:rprimus:github:rakeshkky:hpass</id>
+  <published>2022-02-09T08:32:01Z</published>
+  <updated>2022-02-09T08:32:01Z</updated>
+  <content type="html">
+   A simple CLI password management tool using Postgres backed by Hasura
+  </content>
+ </entry>
+ <entry>
+  <title>albertweskeruc: Bash_Intro</title>
+  <author>
+   <name>albertweskeruc</name>
+  </author>
+  <link href="https://github.com/albertweskeruc/Bash_Intro" />
+  <id>urn:rprimus:github:albertweskeruc:Bash_Intro</id>
+  <published>2022-02-09T08:24:43Z</published>
+  <updated>2022-02-09T08:24:43Z</updated>
+  <content type="html">
+   Basic programs created with the language BASH 
+  </content>
+ </entry>
+ <entry>
+  <title>ericwwng: configs</title>
+  <author>
+   <name>ericwwng</name>
+  </author>
+  <link href="https://github.com/ericwwng/configs" />
+  <id>urn:rprimus:github:ericwwng:configs</id>
+  <published>2022-02-09T07:58:50Z</published>
+  <updated>2022-02-09T07:58:50Z</updated>
+  <content type="html">
+   based on configs by jonhoo
+  </content>
+ </entry>
+ <entry>
+  <title>slotThe: hmenu</title>
+  <author>
+   <name>slotThe</name>
+  </author>
+  <link href="https://github.com/slotThe/hmenu" />
+  <id>urn:rprimus:github:slotThe:hmenu</id>
+  <published>2022-02-09T07:30:48Z</published>
+  <updated>2022-02-09T07:30:48Z</updated>
+  <content type="html">
+   Dmenu wrapper for fun and profit! // MIRROR OF https://gitlab.com/slotThe/hmenu
+  </content>
+ </entry>
+ <entry>
+  <title>Horhik: timecode-generator</title>
+  <author>
+   <name>Horhik</name>
+  </author>
+  <link href="https://github.com/Horhik/timecode-generator" />
+  <id>urn:rprimus:github:Horhik:timecode-generator</id>
+  <published>2022-02-09T05:12:38Z</published>
+  <updated>2022-02-09T05:12:38Z</updated>
+  <content type="html">
+   A simple Haskell script for creating timecodes by tracking changes in remote Markdown file
+  </content>
+ </entry>
  <entry>
   <title>mattgoh: haskell-scheme</title>
   <author>
@@ -70,12 +148,12 @@
   </content>
  </entry>
  <entry>
-  <title>kozlovskym: haskell-compression</title>
+  <title>kozlovskym: hcompress</title>
   <author>
    <name>kozlovskym</name>
   </author>
-  <link href="https://github.com/kozlovskym/haskell-compression" />
-  <id>urn:rprimus:github:kozlovskym:haskell-compression</id>
+  <link href="https://github.com/kozlovskym/hcompress" />
+  <id>urn:rprimus:github:kozlovskym:hcompress</id>
   <published>2022-02-09T02:07:28Z</published>
   <updated>2022-02-09T02:07:28Z</updated>
   <content type="html">
@@ -208,19 +286,6 @@
   <id>urn:rprimus:github:ssmith30:CSE114-02-random-art</id>
   <published>2022-02-08T18:19:44Z</published>
   <updated>2022-02-08T18:19:44Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ShrykeWindgrace: hledger-locker</title>
-  <author>
-   <name>ShrykeWindgrace</name>
-  </author>
-  <link href="https://github.com/ShrykeWindgrace/hledger-locker" />
-  <id>urn:rprimus:github:ShrykeWindgrace:hledger-locker</id>
-  <published>2022-02-08T17:54:44Z</published>
-  <updated>2022-02-08T17:54:44Z</updated>
   <content type="html">
    
   </content>
@@ -379,6 +444,19 @@
   <updated>2022-02-08T09:50:04Z</updated>
   <content type="html">
    A simple checkers game written in Haskell.
+  </content>
+ </entry>
+ <entry>
+  <title>phlummox-dev: graph-search</title>
+  <author>
+   <name>phlummox-dev</name>
+  </author>
+  <link href="https://github.com/phlummox-dev/graph-search" />
+  <id>urn:rprimus:github:phlummox-dev:graph-search</id>
+  <published>2022-02-08T09:26:13Z</published>
+  <updated>2022-02-08T09:26:13Z</updated>
+  <content type="html">
+   graph algorithms adapted from https://hackage.haskell.org/package/search-algorithms
   </content>
  </entry>
  <entry>
