@@ -2,8 +2,125 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2022-02-10T09:01:42Z</updated>
+<updated>2022-02-11T01:51:54Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>PeterGottesman: alpha-lang</title>
+  <author>
+   <name>PeterGottesman</name>
+  </author>
+  <link href="https://github.com/PeterGottesman/alpha-lang" />
+  <id>urn:rprimus:github:PeterGottesman:alpha-lang</id>
+  <published>2022-02-11T01:51:54Z</published>
+  <updated>2022-02-11T01:51:54Z</updated>
+  <content type="html">
+   An emacs extension adding flycheck support and a major mode for CSE443&#039;s Alpha language
+  </content>
+ </entry>
+ <entry>
+  <title>sathyavijayan: satsmacs</title>
+  <author>
+   <name>sathyavijayan</name>
+  </author>
+  <link href="https://github.com/sathyavijayan/satsmacs" />
+  <id>urn:rprimus:github:sathyavijayan:satsmacs</id>
+  <published>2022-02-10T18:40:13Z</published>
+  <updated>2022-02-10T18:40:13Z</updated>
+  <content type="html">
+   My personal Emacs configuration
+  </content>
+ </entry>
+ <entry>
+  <title>bradenshipley: emacs</title>
+  <author>
+   <name>bradenshipley</name>
+  </author>
+  <link href="https://github.com/bradenshipley/emacs" />
+  <id>urn:rprimus:github:bradenshipley:emacs</id>
+  <published>2022-02-10T18:14:47Z</published>
+  <updated>2022-02-10T18:14:47Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>adam1557: SZE_Rendszerfejlesztes_2022_tavasz</title>
+  <author>
+   <name>adam1557</name>
+  </author>
+  <link href="https://github.com/adam1557/SZE_Rendszerfejlesztes_2022_tavasz" />
+  <id>urn:rprimus:github:adam1557:SZE_Rendszerfejlesztes_2022_tavasz</id>
+  <published>2022-02-10T16:48:23Z</published>
+  <updated>2022-02-10T16:48:23Z</updated>
+  <content type="html">
+   Ez a repository a SzÃ©chenyi IstvÃ¡n Egyetem: RendszerfejlesztÃ©s nevezetÅ± Ã©s GKNB_INTM011 tÃ¡rgykÃ³dÃº tÃ¡rgyÃ¡val kapcsolatos Ã³rai feladatmegoldÃ¡sokat tartalmazza.
+  </content>
+ </entry>
+ <entry>
+  <title>emacsmirror: ob-spice</title>
+  <author>
+   <name>emacsmirror</name>
+  </author>
+  <link href="https://github.com/emacsmirror/ob-spice" />
+  <id>urn:rprimus:github:emacsmirror:ob-spice</id>
+  <published>2022-02-10T15:51:15Z</published>
+  <updated>2022-02-10T15:51:15Z</updated>
+  <content type="html">
+   Org-babel functions for spice evaluation
+  </content>
+ </entry>
+ <entry>
+  <title>emacsmirror: ob-sclang</title>
+  <author>
+   <name>emacsmirror</name>
+  </author>
+  <link href="https://github.com/emacsmirror/ob-sclang" />
+  <id>urn:rprimus:github:emacsmirror:ob-sclang</id>
+  <published>2022-02-10T15:47:32Z</published>
+  <updated>2022-02-10T15:47:32Z</updated>
+  <content type="html">
+   SCLang support for Org Mode Babel
+  </content>
+ </entry>
+ <entry>
+  <title>krishna1m: doom-emacs</title>
+  <author>
+   <name>krishna1m</name>
+  </author>
+  <link href="https://github.com/krishna1m/doom-emacs" />
+  <id>urn:rprimus:github:krishna1m:doom-emacs</id>
+  <published>2022-02-10T15:39:28Z</published>
+  <updated>2022-02-10T15:39:28Z</updated>
+  <content type="html">
+   My Doom Emacs config
+  </content>
+ </entry>
+ <entry>
+  <title>lordldx: environment</title>
+  <author>
+   <name>lordldx</name>
+  </author>
+  <link href="https://github.com/lordldx/environment" />
+  <id>urn:rprimus:github:lordldx:environment</id>
+  <published>2022-02-10T12:49:31Z</published>
+  <updated>2022-02-10T12:49:31Z</updated>
+  <content type="html">
+   boxstarter environment setup for a new computer
+  </content>
+ </entry>
+ <entry>
+  <title>meydjer: .emacs.d</title>
+  <author>
+   <name>meydjer</name>
+  </author>
+  <link href="https://github.com/meydjer/.emacs.d" />
+  <id>urn:rprimus:github:meydjer:.emacs.d</id>
+  <published>2022-02-10T12:15:00Z</published>
+  <updated>2022-02-10T12:15:00Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>handsomecheung: doom.d</title>
   <author>
@@ -200,12 +317,12 @@
   </content>
  </entry>
  <entry>
-  <title>hvsouza: emacs_config</title>
+  <title>hvsouza: .emacs.d</title>
   <author>
    <name>hvsouza</name>
   </author>
-  <link href="https://github.com/hvsouza/emacs_config" />
-  <id>urn:rprimus:github:hvsouza:emacs_config</id>
+  <link href="https://github.com/hvsouza/.emacs.d" />
+  <id>urn:rprimus:github:hvsouza:.emacs.d</id>
   <published>2022-02-09T16:12:32Z</published>
   <updated>2022-02-09T16:12:32Z</updated>
   <content type="html">
@@ -405,201 +522,6 @@
   <updated>2022-02-09T00:18:21Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>plume-lib: javadoc-lookup</title>
-  <author>
-   <name>plume-lib</name>
-  </author>
-  <link href="https://github.com/plume-lib/javadoc-lookup" />
-  <id>urn:rprimus:github:plume-lib:javadoc-lookup</id>
-  <published>2022-02-08T23:28:05Z</published>
-  <updated>2022-02-08T23:28:05Z</updated>
-  <content type="html">
-   Display Javadoc documentation from Emacs
-  </content>
- </entry>
- <entry>
-  <title>jnykopp: condens</title>
-  <author>
-   <name>jnykopp</name>
-  </author>
-  <link href="https://github.com/jnykopp/condens" />
-  <id>urn:rprimus:github:jnykopp:condens</id>
-  <published>2022-02-08T22:36:57Z</published>
-  <updated>2022-02-08T22:36:57Z</updated>
-  <content type="html">
-   Condense text with unicode ligatures!
-  </content>
- </entry>
- <entry>
-  <title>purajit: emacs</title>
-  <author>
-   <name>purajit</name>
-  </author>
-  <link href="https://github.com/purajit/emacs" />
-  <id>urn:rprimus:github:purajit:emacs</id>
-  <published>2022-02-08T21:56:44Z</published>
-  <updated>2022-02-08T21:56:44Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jmh0036: PrivateEmacsFiles</title>
-  <author>
-   <name>jmh0036</name>
-  </author>
-  <link href="https://github.com/jmh0036/PrivateEmacsFiles" />
-  <id>urn:rprimus:github:jmh0036:PrivateEmacsFiles</id>
-  <published>2022-02-08T20:09:43Z</published>
-  <updated>2022-02-08T20:09:43Z</updated>
-  <content type="html">
-   Spacemacs Files
-  </content>
- </entry>
- <entry>
-  <title>ShriRambo: sturdy-octo-winner</title>
-  <author>
-   <name>ShriRambo</name>
-  </author>
-  <link href="https://github.com/ShriRambo/sturdy-octo-winner" />
-  <id>urn:rprimus:github:ShriRambo:sturdy-octo-winner</id>
-  <published>2022-02-08T17:50:55Z</published>
-  <updated>2022-02-08T17:50:55Z</updated>
-  <content type="html">
-   test blog repo
-  </content>
- </entry>
- <entry>
-  <title>0kalekale: emacs.d</title>
-  <author>
-   <name>0kalekale</name>
-  </author>
-  <link href="https://github.com/0kalekale/emacs.d" />
-  <id>urn:rprimus:github:0kalekale:emacs.d</id>
-  <published>2022-02-08T15:26:37Z</published>
-  <updated>2022-02-08T15:26:37Z</updated>
-  <content type="html">
-   emacs.d
-  </content>
- </entry>
- <entry>
-  <title>ysav: dot-emacs23</title>
-  <author>
-   <name>ysav</name>
-  </author>
-  <link href="https://github.com/ysav/dot-emacs23" />
-  <id>urn:rprimus:github:ysav:dot-emacs23</id>
-  <published>2022-02-08T15:07:26Z</published>
-  <updated>2022-02-08T15:07:26Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>geno-whirl: emacs_config</title>
-  <author>
-   <name>geno-whirl</name>
-  </author>
-  <link href="https://github.com/geno-whirl/emacs_config" />
-  <id>urn:rprimus:github:geno-whirl:emacs_config</id>
-  <published>2022-02-08T15:05:22Z</published>
-  <updated>2022-02-08T15:05:22Z</updated>
-  <content type="html">
-   Config file for Emacs
-  </content>
- </entry>
- <entry>
-  <title>danarchy-io: emacs-dashboard-lsp</title>
-  <author>
-   <name>danarchy-io</name>
-  </author>
-  <link href="https://github.com/danarchy-io/emacs-dashboard-lsp" />
-  <id>urn:rprimus:github:danarchy-io:emacs-dashboard-lsp</id>
-  <published>2022-02-08T13:54:34Z</published>
-  <updated>2022-02-08T13:54:34Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>vugomars: .doom.d</title>
-  <author>
-   <name>vugomars</name>
-  </author>
-  <link href="https://github.com/vugomars/.doom.d" />
-  <id>urn:rprimus:github:vugomars:.doom.d</id>
-  <published>2022-02-08T11:05:49Z</published>
-  <updated>2022-02-08T11:05:49Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>tom1slav: tsuki</title>
-  <author>
-   <name>tom1slav</name>
-  </author>
-  <link href="https://github.com/tom1slav/tsuki" />
-  <id>urn:rprimus:github:tom1slav:tsuki</id>
-  <published>2022-02-08T10:11:07Z</published>
-  <updated>2022-02-08T10:11:07Z</updated>
-  <content type="html">
-   A custom emacs variant
-  </content>
- </entry>
- <entry>
-  <title>lcvdkmp: doom-acme-theme</title>
-  <author>
-   <name>lcvdkmp</name>
-  </author>
-  <link href="https://github.com/lcvdkmp/doom-acme-theme" />
-  <id>urn:rprimus:github:lcvdkmp:doom-acme-theme</id>
-  <published>2022-02-08T08:43:00Z</published>
-  <updated>2022-02-08T08:43:00Z</updated>
-  <content type="html">
-   Doom emacs theme inspired by the acme editor
-  </content>
- </entry>
- <entry>
-  <title>olivbak: emacsdots</title>
-  <author>
-   <name>olivbak</name>
-  </author>
-  <link href="https://github.com/olivbak/emacsdots" />
-  <id>urn:rprimus:github:olivbak:emacsdots</id>
-  <published>2022-02-08T07:55:14Z</published>
-  <updated>2022-02-08T07:55:14Z</updated>
-  <content type="html">
-   doom emacs config files
-  </content>
- </entry>
- <entry>
-  <title>skx: org-diary</title>
-  <author>
-   <name>skx</name>
-  </author>
-  <link href="https://github.com/skx/org-diary" />
-  <id>urn:rprimus:github:skx:org-diary</id>
-  <published>2022-02-08T07:36:54Z</published>
-  <updated>2022-02-08T07:36:54Z</updated>
-  <content type="html">
-   Easily maintain a simple work-log / journal with the use of org-mode
-  </content>
- </entry>
- <entry>
-  <title>ir33k: fringe-hide</title>
-  <author>
-   <name>ir33k</name>
-  </author>
-  <link href="https://github.com/ir33k/fringe-hide" />
-  <id>urn:rprimus:github:ir33k:fringe-hide</id>
-  <published>2022-02-08T00:25:49Z</published>
-  <updated>2022-02-08T00:25:49Z</updated>
-  <content type="html">
-   Emacs fringe-hide minor mode that hides left, right or both fringes in current buffer.
   </content>
  </entry>
 </feed>

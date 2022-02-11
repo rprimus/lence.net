@@ -2,8 +2,112 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2022-02-10T09:28:25Z</updated>
+<updated>2022-02-11T01:27:41Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>CadenMG: NEU-Compilers</title>
+  <author>
+   <name>CadenMG</name>
+  </author>
+  <link href="https://github.com/CadenMG/NEU-Compilers" />
+  <id>urn:rprimus:github:CadenMG:NEU-Compilers</id>
+  <published>2022-02-11T01:27:41Z</published>
+  <updated>2022-02-11T01:27:41Z</updated>
+  <content type="html">
+   Compiler projects for NEU&#039;s compilers class
+  </content>
+ </entry>
+ <entry>
+  <title>DylanMossCambridge: Logic-Compiler</title>
+  <author>
+   <name>DylanMossCambridge</name>
+  </author>
+  <link href="https://github.com/DylanMossCambridge/Logic-Compiler" />
+  <id>urn:rprimus:github:DylanMossCambridge:Logic-Compiler</id>
+  <published>2022-02-10T22:41:38Z</published>
+  <updated>2022-02-10T22:41:38Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>dangdennis: ocaml_channels</title>
+  <author>
+   <name>dangdennis</name>
+  </author>
+  <link href="https://github.com/dangdennis/ocaml_channels" />
+  <id>urn:rprimus:github:dangdennis:ocaml_channels</id>
+  <published>2022-02-10T22:41:28Z</published>
+  <updated>2022-02-10T22:41:28Z</updated>
+  <content type="html">
+   playing around with ocaml 5.0&#039;s goroutine-like channels to build an in-memory pubsub.
+  </content>
+ </entry>
+ <entry>
+  <title>Sandro770: MIMUW</title>
+  <author>
+   <name>Sandro770</name>
+  </author>
+  <link href="https://github.com/Sandro770/MIMUW" />
+  <id>urn:rprimus:github:Sandro770:MIMUW</id>
+  <published>2022-02-10T18:27:11Z</published>
+  <updated>2022-02-10T18:27:11Z</updated>
+  <content type="html">
+   Projects from my Bachelor&#039;s degree at University of Warsaw (2021-2024)
+  </content>
+ </entry>
+ <entry>
+  <title>voodoos: ocaml-uideps</title>
+  <author>
+   <name>voodoos</name>
+  </author>
+  <link href="https://github.com/voodoos/ocaml-uideps" />
+  <id>urn:rprimus:github:voodoos:ocaml-uideps</id>
+  <published>2022-02-10T18:13:42Z</published>
+  <updated>2022-02-10T18:13:42Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>sunshangpp: mssh</title>
+  <author>
+   <name>sunshangpp</name>
+  </author>
+  <link href="https://github.com/sunshangpp/mssh" />
+  <id>urn:rprimus:github:sunshangpp:mssh</id>
+  <published>2022-02-10T17:28:36Z</published>
+  <updated>2022-02-10T17:28:36Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>patricoferris: ocaml-multicore-monorepo</title>
+  <author>
+   <name>patricoferris</name>
+  </author>
+  <link href="https://github.com/patricoferris/ocaml-multicore-monorepo" />
+  <id>urn:rprimus:github:patricoferris:ocaml-multicore-monorepo</id>
+  <published>2022-02-10T13:47:33Z</published>
+  <updated>2022-02-10T13:47:33Z</updated>
+  <content type="html">
+   Vendor all the things for a quick was to get up and running with Multicore OCaml!
+  </content>
+ </entry>
+ <entry>
+  <title>TheLortex: unikraft-ocaml-example</title>
+  <author>
+   <name>TheLortex</name>
+  </author>
+  <link href="https://github.com/TheLortex/unikraft-ocaml-example" />
+  <id>urn:rprimus:github:TheLortex:unikraft-ocaml-example</id>
+  <published>2022-02-10T11:20:45Z</published>
+  <updated>2022-02-10T11:20:45Z</updated>
+  <content type="html">
+   A bare-unikraft OCaml 5 application 
+  </content>
+ </entry>
  <entry>
   <title>fercp: fdsel</title>
   <author>
@@ -54,6 +158,19 @@
   <updated>2022-02-09T21:50:15Z</updated>
   <content type="html">
    ð SMT Dude
+  </content>
+ </entry>
+ <entry>
+  <title>RuyBlast: examples</title>
+  <author>
+   <name>RuyBlast</name>
+  </author>
+  <link href="https://github.com/RuyBlast/examples" />
+  <id>urn:rprimus:github:RuyBlast:examples</id>
+  <published>2022-02-09T19:18:38Z</published>
+  <updated>2022-02-09T19:18:38Z</updated>
+  <content type="html">
+   Variety of small code examples. Use as reminders.
   </content>
  </entry>
  <entry>
@@ -145,162 +262,6 @@
   <updated>2022-02-09T00:24:08Z</updated>
   <content type="html">
    Realtime grep for OCaml sources available on opam
-  </content>
- </entry>
- <entry>
-  <title>igarnier: prbnmcn-dagger</title>
-  <author>
-   <name>igarnier</name>
-  </author>
-  <link href="https://github.com/igarnier/prbnmcn-dagger" />
-  <id>urn:rprimus:github:igarnier:prbnmcn-dagger</id>
-  <published>2022-02-08T18:54:09Z</published>
-  <updated>2022-02-08T18:54:09Z</updated>
-  <content type="html">
-   A library for probabilistic programming
-  </content>
- </entry>
- <entry>
-  <title>kkd26: SiFun</title>
-  <author>
-   <name>kkd26</name>
-  </author>
-  <link href="https://github.com/kkd26/SiFun" />
-  <id>urn:rprimus:github:kkd26:SiFun</id>
-  <published>2022-02-08T18:40:59Z</published>
-  <updated>2022-02-08T18:40:59Z</updated>
-  <content type="html">
-   Interpreter for SiFun (Simple Functional) Language with three different type systems (supports Higher-Rank Polymorphism).
-  </content>
- </entry>
- <entry>
-  <title>sbcohen2000: QuikTable</title>
-  <author>
-   <name>sbcohen2000</name>
-  </author>
-  <link href="https://github.com/sbcohen2000/QuikTable" />
-  <id>urn:rprimus:github:sbcohen2000:QuikTable</id>
-  <published>2022-02-08T18:15:30Z</published>
-  <updated>2022-02-08T18:15:30Z</updated>
-  <content type="html">
-   Generate truth tables representing combinational logic from Ocaml expressions.
-  </content>
- </entry>
- <entry>
-  <title>ndreuu: mini-C</title>
-  <author>
-   <name>ndreuu</name>
-  </author>
-  <link href="https://github.com/ndreuu/mini-C" />
-  <id>urn:rprimus:github:ndreuu:mini-C</id>
-  <published>2022-02-08T17:05:03Z</published>
-  <updated>2022-02-08T17:05:03Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>YuigaWada: yush</title>
-  <author>
-   <name>YuigaWada</name>
-  </author>
-  <link href="https://github.com/YuigaWada/yush" />
-  <id>urn:rprimus:github:YuigaWada:yush</id>
-  <published>2022-02-08T16:24:30Z</published>
-  <updated>2022-02-08T16:24:30Z</updated>
-  <content type="html">
-   A simple shell written in OCaml + Lex + Yacc. Just a toy for learning ð§ 
-  </content>
- </entry>
- <entry>
-  <title>arielr77: Compiler-Project</title>
-  <author>
-   <name>arielr77</name>
-  </author>
-  <link href="https://github.com/arielr77/Compiler-Project" />
-  <id>urn:rprimus:github:arielr77:Compiler-Project</id>
-  <published>2022-02-08T15:05:51Z</published>
-  <updated>2022-02-08T15:05:51Z</updated>
-  <content type="html">
-   Compilation Principals BGU 2021-2022 - Final Project
-  </content>
- </entry>
- <entry>
-  <title>gretay-js: llvmize</title>
-  <author>
-   <name>gretay-js</name>
-  </author>
-  <link href="https://github.com/gretay-js/llvmize" />
-  <id>urn:rprimus:github:gretay-js:llvmize</id>
-  <published>2022-02-08T14:46:44Z</published>
-  <updated>2022-02-08T14:46:44Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Ricagraca: FormulaParser</title>
-  <author>
-   <name>Ricagraca</name>
-  </author>
-  <link href="https://github.com/Ricagraca/FormulaParser" />
-  <id>urn:rprimus:github:Ricagraca:FormulaParser</id>
-  <published>2022-02-08T13:59:17Z</published>
-  <updated>2022-02-08T13:59:17Z</updated>
-  <content type="html">
-   A simple lexer and parser for boolean formulas using ocamllex ocamlyacc
-  </content>
- </entry>
- <entry>
-  <title>Rimuruu: generation_code</title>
-  <author>
-   <name>Rimuruu</name>
-  </author>
-  <link href="https://github.com/Rimuruu/generation_code" />
-  <id>urn:rprimus:github:Rimuruu:generation_code</id>
-  <published>2022-02-08T10:30:19Z</published>
-  <updated>2022-02-08T10:30:19Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>LeoDK: Compilation_Infosec</title>
-  <author>
-   <name>LeoDK</name>
-  </author>
-  <link href="https://github.com/LeoDK/Compilation_Infosec" />
-  <id>urn:rprimus:github:LeoDK:Compilation_Infosec</id>
-  <published>2022-02-08T09:48:36Z</published>
-  <updated>2022-02-08T09:48:36Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>devins2518: cba</title>
-  <author>
-   <name>devins2518</name>
-  </author>
-  <link href="https://github.com/devins2518/cba" />
-  <id>urn:rprimus:github:devins2518:cba</id>
-  <published>2022-02-08T04:04:23Z</published>
-  <updated>2022-02-08T04:04:23Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>qsqnk: mini-ml</title>
-  <author>
-   <name>qsqnk</name>
-  </author>
-  <link href="https://github.com/qsqnk/mini-ml" />
-  <id>urn:rprimus:github:qsqnk:mini-ml</id>
-  <published>2022-02-08T00:48:24Z</published>
-  <updated>2022-02-08T00:48:24Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>

@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2022-02-09T14:47:31Z</updated>
+<updated>2022-02-10T16:26:56Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>NecsusECS: NecsusAsteroids</title>
+  <author>
+   <name>NecsusECS</name>
+  </author>
+  <link href="https://github.com/NecsusECS/NecsusAsteroids" />
+  <id>urn:rprimus:github:NecsusECS:NecsusAsteroids</id>
+  <published>2022-02-10T16:26:56Z</published>
+  <updated>2022-02-10T16:26:56Z</updated>
+  <content type="html">
+   A demo implementation of Asteroids using Necsus
+  </content>
+ </entry>
+ <entry>
+  <title>vtbassmatt: nim-uuid4</title>
+  <author>
+   <name>vtbassmatt</name>
+  </author>
+  <link href="https://github.com/vtbassmatt/nim-uuid4" />
+  <id>urn:rprimus:github:vtbassmatt:nim-uuid4</id>
+  <published>2022-02-10T16:18:48Z</published>
+  <updated>2022-02-10T16:18:48Z</updated>
+  <content type="html">
+   UUIDs in pure Nim
+  </content>
+ </entry>
+ <entry>
+  <title>EarthPol: EarthPolCommands</title>
+  <author>
+   <name>EarthPol</name>
+  </author>
+  <link href="https://github.com/EarthPol/EarthPolCommands" />
+  <id>urn:rprimus:github:EarthPol:EarthPolCommands</id>
+  <published>2022-02-10T12:27:15Z</published>
+  <updated>2022-02-10T12:27:15Z</updated>
+  <content type="html">
+   A Discord bot made in Nim for Earthpol
+  </content>
+ </entry>
+ <entry>
+  <title>openpeep: i18nyml</title>
+  <author>
+   <name>openpeep</name>
+  </author>
+  <link href="https://github.com/openpeep/i18nyml" />
+  <id>urn:rprimus:github:openpeep:i18nyml</id>
+  <published>2022-02-10T11:44:08Z</published>
+  <updated>2022-02-10T11:44:08Z</updated>
+  <content type="html">
+   YAML Internationalization at Compile Time via Nimble tasks, backed by Nyml. Written in Nim language
+  </content>
+ </entry>
  <entry>
   <title>planetis-m: ssostrings</title>
   <author>
@@ -54,97 +106,6 @@
   <updated>2022-02-09T00:23:14Z</updated>
   <content type="html">
    Dynamic-link libraries (DLLs) Development Kit for mIRC.
-  </content>
- </entry>
- <entry>
-  <title>theAkito: procwatch</title>
-  <author>
-   <name>theAkito</name>
-  </author>
-  <link href="https://github.com/theAkito/procwatch" />
-  <id>urn:rprimus:github:theAkito:procwatch</id>
-  <published>2022-02-08T22:09:49Z</published>
-  <updated>2022-02-08T22:09:49Z</updated>
-  <content type="html">
-   Get notified by e-mail or notification, once a Linux process finishes.
-  </content>
- </entry>
- <entry>
-  <title>Q-Master: networkutils.nim</title>
-  <author>
-   <name>Q-Master</name>
-  </author>
-  <link href="https://github.com/Q-Master/networkutils.nim" />
-  <id>urn:rprimus:github:Q-Master:networkutils.nim</id>
-  <published>2022-02-08T20:34:40Z</published>
-  <updated>2022-02-08T20:34:40Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Lupine39: Sp3ctr3</title>
-  <author>
-   <name>Lupine39</name>
-  </author>
-  <link href="https://github.com/Lupine39/Sp3ctr3" />
-  <id>urn:rprimus:github:Lupine39:Sp3ctr3</id>
-  <published>2022-02-08T18:48:33Z</published>
-  <updated>2022-02-08T18:48:33Z</updated>
-  <content type="html">
-   A Nim library for OS detection, that returns the name of the OS as a string value.
-  </content>
- </entry>
- <entry>
-  <title>Lupine39: NimWit</title>
-  <author>
-   <name>Lupine39</name>
-  </author>
-  <link href="https://github.com/Lupine39/NimWit" />
-  <id>urn:rprimus:github:Lupine39:NimWit</id>
-  <published>2022-02-08T18:06:12Z</published>
-  <updated>2022-02-08T18:06:12Z</updated>
-  <content type="html">
-   A minimal Neofetch inspired application written in Nim!
-  </content>
- </entry>
- <entry>
-  <title>openpeep: tim</title>
-  <author>
-   <name>openpeep</name>
-  </author>
-  <link href="https://github.com/openpeep/tim" />
-  <id>urn:rprimus:github:openpeep:tim</id>
-  <published>2022-02-08T13:14:53Z</published>
-  <updated>2022-02-08T13:14:53Z</updated>
-  <content type="html">
-   â¡ï¸ High-performance compiled template engine inspired by Emmet syntax. Written in Nim language (WIP)
-  </content>
- </entry>
- <entry>
-  <title>MoonSeaSkyFish: nim_electron_test</title>
-  <author>
-   <name>MoonSeaSkyFish</name>
-  </author>
-  <link href="https://github.com/MoonSeaSkyFish/nim_electron_test" />
-  <id>urn:rprimus:github:MoonSeaSkyFish:nim_electron_test</id>
-  <published>2022-02-08T09:42:35Z</published>
-  <updated>2022-02-08T09:42:35Z</updated>
-  <content type="html">
-   Nim Electron Samples
-  </content>
- </entry>
- <entry>
-  <title>dunahan: learn_nim_examples</title>
-  <author>
-   <name>dunahan</name>
-  </author>
-  <link href="https://github.com/dunahan/learn_nim_examples" />
-  <id>urn:rprimus:github:dunahan:learn_nim_examples</id>
-  <published>2022-02-08T07:25:16Z</published>
-  <updated>2022-02-08T07:25:16Z</updated>
-  <content type="html">
-   My repository for examples in learning nim
   </content>
  </entry>
 </feed>
