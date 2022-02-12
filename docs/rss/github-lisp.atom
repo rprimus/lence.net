@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-02-12T03:38:49Z</updated>
+<updated>2022-02-12T08:00:15Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>hxzrx: nnd</title>
+  <author>
+   <name>hxzrx</name>
+  </author>
+  <link href="https://github.com/hxzrx/nnd" />
+  <id>urn:rprimus:github:hxzrx:nnd</id>
+  <published>2022-02-12T08:00:15Z</published>
+  <updated>2022-02-12T08:00:15Z</updated>
+  <content type="html">
+   Common Lisp code for Neural Network Design, 2nd, Martin T. Hagan.
+  </content>
+ </entry>
+ <entry>
+  <title>dpflug: bemane</title>
+  <author>
+   <name>dpflug</name>
+  </author>
+  <link href="https://github.com/dpflug/bemane" />
+  <id>urn:rprimus:github:dpflug:bemane</id>
+  <published>2022-02-12T06:17:40Z</published>
+  <updated>2022-02-12T06:17:40Z</updated>
+  <content type="html">
+   Downloader for https://www.bemadiscipleship.com/
+  </content>
+ </entry>
  <entry>
   <title>meep-m0rp: lpj</title>
   <author>
@@ -118,7 +144,7 @@
   <published>2022-02-11T03:14:43Z</published>
   <updated>2022-02-11T03:14:43Z</updated>
   <content type="html">
-   
+   The thread pool in Mezzano OS, ported to portable common lisp.
   </content>
  </entry>
  <entry>
