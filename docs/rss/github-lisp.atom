@@ -2,8 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-02-11T08:53:51Z</updated>
+<updated>2022-02-12T03:38:49Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>meep-m0rp: lpj</title>
+  <author>
+   <name>meep-m0rp</name>
+  </author>
+  <link href="https://github.com/meep-m0rp/lpj" />
+  <id>urn:rprimus:github:meep-m0rp:lpj</id>
+  <published>2022-02-12T03:38:49Z</published>
+  <updated>2022-02-12T03:38:49Z</updated>
+  <content type="html">
+   A really basic project generator for common lisp
+  </content>
+ </entry>
+ <entry>
+  <title>dwclark: wordle</title>
+  <author>
+   <name>dwclark</name>
+  </author>
+  <link href="https://github.com/dwclark/wordle" />
+  <id>urn:rprimus:github:dwclark:wordle</id>
+  <published>2022-02-12T01:52:02Z</published>
+  <updated>2022-02-12T01:52:02Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>mjkalyan: map-set</title>
+  <author>
+   <name>mjkalyan</name>
+  </author>
+  <link href="https://github.com/mjkalyan/map-set" />
+  <id>urn:rprimus:github:mjkalyan:map-set</id>
+  <published>2022-02-11T21:16:41Z</published>
+  <updated>2022-02-11T21:16:41Z</updated>
+  <content type="html">
+   Mirror of map-set.lisp because I cannot find the original source repo
+  </content>
+ </entry>
+ <entry>
+  <title>Red-Folder: audacity-plugins</title>
+  <author>
+   <name>Red-Folder</name>
+  </author>
+  <link href="https://github.com/Red-Folder/audacity-plugins" />
+  <id>urn:rprimus:github:Red-Folder:audacity-plugins</id>
+  <published>2022-02-11T17:56:37Z</published>
+  <updated>2022-02-11T17:56:37Z</updated>
+  <content type="html">
+   Custom plugins 
+  </content>
+ </entry>
+ <entry>
+  <title>FangioD: app-poc-change-events</title>
+  <author>
+   <name>FangioD</name>
+  </author>
+  <link href="https://github.com/FangioD/app-poc-change-events" />
+  <id>urn:rprimus:github:FangioD:app-poc-change-events</id>
+  <published>2022-02-11T15:04:04Z</published>
+  <updated>2022-02-11T15:04:04Z</updated>
+  <content type="html">
+   MicroServices DockerCompose Backend for ABB POC
+  </content>
+ </entry>
+ <entry>
+  <title>tamaramihajlovic: 3D-Connect4</title>
+  <author>
+   <name>tamaramihajlovic</name>
+  </author>
+  <link href="https://github.com/tamaramihajlovic/3D-Connect4" />
+  <id>urn:rprimus:github:tamaramihajlovic:3D-Connect4</id>
+  <published>2022-02-11T12:53:34Z</published>
+  <updated>2022-02-11T12:53:34Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>tapioco71: npaclio</title>
+  <author>
+   <name>tapioco71</name>
+  </author>
+  <link href="https://github.com/tapioco71/npaclio" />
+  <id>urn:rprimus:github:tapioco71:npaclio</id>
+  <published>2022-02-11T10:49:12Z</published>
+  <updated>2022-02-11T10:49:12Z</updated>
+  <content type="html">
+   Network Programming in Common Lisp with IOLib.
+  </content>
+ </entry>
  <entry>
   <title>zefreestijl: ACADLayerMngFunction</title>
   <author>
@@ -91,149 +182,6 @@
   <id>urn:rprimus:github:dalyndalton:LISP</id>
   <published>2022-02-10T02:31:17Z</published>
   <updated>2022-02-10T02:31:17Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>joshuaesanford: common-lisp-linear-algebra</title>
-  <author>
-   <name>joshuaesanford</name>
-  </author>
-  <link href="https://github.com/joshuaesanford/common-lisp-linear-algebra" />
-  <id>urn:rprimus:github:joshuaesanford:common-lisp-linear-algebra</id>
-  <published>2022-02-09T23:34:31Z</published>
-  <updated>2022-02-09T23:34:31Z</updated>
-  <content type="html">
-   learning linear algebra and common lisp at the same time.
-  </content>
- </entry>
- <entry>
-  <title>A-Bunch-of-Parentheses: clameboy</title>
-  <author>
-   <name>A-Bunch-of-Parentheses</name>
-  </author>
-  <link href="https://github.com/A-Bunch-of-Parentheses/clameboy" />
-  <id>urn:rprimus:github:A-Bunch-of-Parentheses:clameboy</id>
-  <published>2022-02-09T21:27:50Z</published>
-  <updated>2022-02-09T21:27:50Z</updated>
-  <content type="html">
-   A Game Boy emulator in Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>TheLostLambda: thelostrpg</title>
-  <author>
-   <name>TheLostLambda</name>
-  </author>
-  <link href="https://github.com/TheLostLambda/thelostrpg" />
-  <id>urn:rprimus:github:TheLostLambda:thelostrpg</id>
-  <published>2022-02-09T19:39:52Z</published>
-  <updated>2022-02-09T19:39:52Z</updated>
-  <content type="html">
-   A game engine for making text-based RPGs. Written in Common Lisp because text-based games were originally from a more civilized age.
-  </content>
- </entry>
- <entry>
-  <title>TheLostLambda: acs</title>
-  <author>
-   <name>TheLostLambda</name>
-  </author>
-  <link href="https://github.com/TheLostLambda/acs" />
-  <id>urn:rprimus:github:TheLostLambda:acs</id>
-  <published>2022-02-09T19:35:59Z</published>
-  <updated>2022-02-09T19:35:59Z</updated>
-  <content type="html">
-   Allo Conversation Scraper
-  </content>
- </entry>
- <entry>
-  <title>TheLostLambda: deep</title>
-  <author>
-   <name>TheLostLambda</name>
-  </author>
-  <link href="https://github.com/TheLostLambda/deep" />
-  <id>urn:rprimus:github:TheLostLambda:deep</id>
-  <published>2022-02-09T19:27:12Z</published>
-  <updated>2022-02-09T19:27:12Z</updated>
-  <content type="html">
-   A home-rolled library for deep-learning
-  </content>
- </entry>
- <entry>
-  <title>golimarrrr: games</title>
-  <author>
-   <name>golimarrrr</name>
-  </author>
-  <link href="https://github.com/golimarrrr/games" />
-  <id>urn:rprimus:github:golimarrrr:games</id>
-  <published>2022-02-09T15:07:28Z</published>
-  <updated>2022-02-09T15:07:28Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>sarthou: cram_ai4hri</title>
-  <author>
-   <name>sarthou</name>
-  </author>
-  <link href="https://github.com/sarthou/cram_ai4hri" />
-  <id>urn:rprimus:github:sarthou:cram_ai4hri</id>
-  <published>2022-02-09T13:49:37Z</published>
-  <updated>2022-02-09T13:49:37Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>TommasoFerrario18: Parsing-di-stringhe-URI</title>
-  <author>
-   <name>TommasoFerrario18</name>
-  </author>
-  <link href="https://github.com/TommasoFerrario18/Parsing-di-stringhe-URI" />
-  <id>urn:rprimus:github:TommasoFerrario18:Parsing-di-stringhe-URI</id>
-  <published>2022-02-09T13:04:58Z</published>
-  <updated>2022-02-09T13:04:58Z</updated>
-  <content type="html">
-   Progetto di Linguaggi di Programmazione Progetto Lisp e Prolog Gennaio-Febbraio 2022 UniversitÃ  degli studi Milano-Bicocca
-  </content>
- </entry>
- <entry>
-  <title>Naoki-Hiraoka: eus_osqp</title>
-  <author>
-   <name>Naoki-Hiraoka</name>
-  </author>
-  <link href="https://github.com/Naoki-Hiraoka/eus_osqp" />
-  <id>urn:rprimus:github:Naoki-Hiraoka:eus_osqp</id>
-  <published>2022-02-09T09:02:18Z</published>
-  <updated>2022-02-09T09:02:18Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Naoki-Hiraoka: eus_prioritized_inverse_kinematics</title>
-  <author>
-   <name>Naoki-Hiraoka</name>
-  </author>
-  <link href="https://github.com/Naoki-Hiraoka/eus_prioritized_inverse_kinematics" />
-  <id>urn:rprimus:github:Naoki-Hiraoka:eus_prioritized_inverse_kinematics</id>
-  <published>2022-02-09T08:39:13Z</published>
-  <updated>2022-02-09T08:39:13Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Naoki-Hiraoka: eus_cddlib</title>
-  <author>
-   <name>Naoki-Hiraoka</name>
-  </author>
-  <link href="https://github.com/Naoki-Hiraoka/eus_cddlib" />
-  <id>urn:rprimus:github:Naoki-Hiraoka:eus_cddlib</id>
-  <published>2022-02-09T08:04:25Z</published>
-  <updated>2022-02-09T08:04:25Z</updated>
   <content type="html">
    
   </content>
