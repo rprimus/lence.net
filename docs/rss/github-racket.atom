@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-racket.atom"/>
 <id>urn:rprimus:github:newracketrepos</id>
-<updated>2022-02-12T09:31:30Z</updated>
+<updated>2022-02-12T20:23:32Z</updated>
 <title type='text'>New GitHub Racket Repos</title>
+ <entry>
+  <title>jtsxtn: lambda-dl</title>
+  <author>
+   <name>jtsxtn</name>
+  </author>
+  <link href="https://github.com/jtsxtn/lambda-dl" />
+  <id>urn:rprimus:github:jtsxtn:lambda-dl</id>
+  <published>2022-02-12T20:23:32Z</published>
+  <updated>2022-02-12T20:23:32Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>egodfrey19: obj.rkt</title>
   <author>
@@ -119,136 +132,6 @@
   <updated>2022-02-11T04:55:33Z</updated>
   <content type="html">
    A series of scheme programs
-  </content>
- </entry>
- <entry>
-  <title>kjinho: grading</title>
-  <author>
-   <name>kjinho</name>
-  </author>
-  <link href="https://github.com/kjinho/grading" />
-  <id>urn:rprimus:github:kjinho:grading</id>
-  <published>2022-02-10T22:08:15Z</published>
-  <updated>2022-02-10T22:08:15Z</updated>
-  <content type="html">
-   Tool to generate grading sheets
-  </content>
- </entry>
- <entry>
-  <title>errechydyham: boxify</title>
-  <author>
-   <name>errechydyham</name>
-  </author>
-  <link href="https://github.com/errechydyham/boxify" />
-  <id>urn:rprimus:github:errechydyham:boxify</id>
-  <published>2022-02-10T14:44:36Z</published>
-  <updated>2022-02-10T14:44:36Z</updated>
-  <content type="html">
-   draw a box around an image 
-  </content>
- </entry>
- <entry>
-  <title>errechydyham: len</title>
-  <author>
-   <name>errechydyham</name>
-  </author>
-  <link href="https://github.com/errechydyham/len" />
-  <id>urn:rprimus:github:errechydyham:len</id>
-  <published>2022-02-10T11:33:07Z</published>
-  <updated>2022-02-10T11:33:07Z</updated>
-  <content type="html">
-   check the length of a string 
-  </content>
- </entry>
- <entry>
-  <title>errechydyham: addA</title>
-  <author>
-   <name>errechydyham</name>
-  </author>
-  <link href="https://github.com/errechydyham/addA" />
-  <id>urn:rprimus:github:errechydyham:addA</id>
-  <published>2022-02-10T10:20:53Z</published>
-  <updated>2022-02-10T10:20:53Z</updated>
-  <content type="html">
-   show how a function works that appends a letter to a string 
-  </content>
- </entry>
- <entry>
-  <title>errechydyham: max</title>
-  <author>
-   <name>errechydyham</name>
-  </author>
-  <link href="https://github.com/errechydyham/max" />
-  <id>urn:rprimus:github:errechydyham:max</id>
-  <published>2022-02-10T10:12:31Z</published>
-  <updated>2022-02-10T10:12:31Z</updated>
-  <content type="html">
-   a functions that returns the biggest number
-  </content>
- </entry>
- <entry>
-  <title>errechydyham: stepByStep</title>
-  <author>
-   <name>errechydyham</name>
-  </author>
-  <link href="https://github.com/errechydyham/stepByStep" />
-  <id>urn:rprimus:github:errechydyham:stepByStep</id>
-  <published>2022-02-10T09:47:32Z</published>
-  <updated>2022-02-10T09:47:32Z</updated>
-  <content type="html">
-   show how a code runs in the background
-  </content>
- </entry>
- <entry>
-  <title>errechydyham: imgCompare</title>
-  <author>
-   <name>errechydyham</name>
-  </author>
-  <link href="https://github.com/errechydyham/imgCompare" />
-  <id>urn:rprimus:github:errechydyham:imgCompare</id>
-  <published>2022-02-10T09:22:55Z</published>
-  <updated>2022-02-10T09:22:55Z</updated>
-  <content type="html">
-   compare two images 
-  </content>
- </entry>
- <entry>
-  <title>capt-hb: compilers-skeletons-vub</title>
-  <author>
-   <name>capt-hb</name>
-  </author>
-  <link href="https://github.com/capt-hb/compilers-skeletons-vub" />
-  <id>urn:rprimus:github:capt-hb:compilers-skeletons-vub</id>
-  <published>2022-02-10T08:00:23Z</published>
-  <updated>2022-02-10T08:00:23Z</updated>
-  <content type="html">
-   Skeletons based on the UBC Compilers Racket Textbook for the VUB course (2021-2022)
-  </content>
- </entry>
- <entry>
-  <title>aaronjeline: adi</title>
-  <author>
-   <name>aaronjeline</name>
-  </author>
-  <link href="https://github.com/aaronjeline/adi" />
-  <id>urn:rprimus:github:aaronjeline:adi</id>
-  <published>2022-02-10T05:21:05Z</published>
-  <updated>2022-02-10T05:21:05Z</updated>
-  <content type="html">
-   Abstracting Definition Interpreters implementation
-  </content>
- </entry>
- <entry>
-  <title>Erik-J-D: littleschemer</title>
-  <author>
-   <name>Erik-J-D</name>
-  </author>
-  <link href="https://github.com/Erik-J-D/littleschemer" />
-  <id>urn:rprimus:github:Erik-J-D:littleschemer</id>
-  <published>2022-02-10T03:49:49Z</published>
-  <updated>2022-02-10T03:49:49Z</updated>
-  <content type="html">
-   Code repo for following along The Little Schemer
   </content>
  </entry>
 </feed>
