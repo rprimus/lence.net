@@ -2,8 +2,138 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-scheme.atom"/>
 <id>urn:rprimus:github:newschemerepos</id>
-<updated>2022-02-12T17:14:23Z</updated>
+<updated>2022-02-13T20:14:12Z</updated>
 <title type='text'>New GitHub Scheme Repos</title>
+ <entry>
+  <title>cowzendux: variableSuffix</title>
+  <author>
+   <name>cowzendux</name>
+  </author>
+  <link href="https://github.com/cowzendux/variableSuffix" />
+  <id>urn:rprimus:github:cowzendux:variableSuffix</id>
+  <published>2022-02-13T20:14:12Z</published>
+  <updated>2022-02-13T20:14:12Z</updated>
+  <content type="html">
+   This is an SPSS Python macro that adds a specific suffix to a set of variables in the dataset.
+  </content>
+ </entry>
+ <entry>
+  <title>cowzendux: shrinkString</title>
+  <author>
+   <name>cowzendux</name>
+  </author>
+  <link href="https://github.com/cowzendux/shrinkString" />
+  <id>urn:rprimus:github:cowzendux:shrinkString</id>
+  <published>2022-02-13T20:06:56Z</published>
+  <updated>2022-02-13T20:06:56Z</updated>
+  <content type="html">
+   This is an SPSS Python macro that can set every string variable to the smallest size that will fit all values.
+  </content>
+ </entry>
+ <entry>
+  <title>cowzendux: removeLabels</title>
+  <author>
+   <name>cowzendux</name>
+  </author>
+  <link href="https://github.com/cowzendux/removeLabels" />
+  <id>urn:rprimus:github:cowzendux:removeLabels</id>
+  <published>2022-02-13T20:00:37Z</published>
+  <updated>2022-02-13T20:00:37Z</updated>
+  <content type="html">
+   This is an SPSS Python macro that can remove variable labels and/or value labels from a list of variables
+  </content>
+ </entry>
+ <entry>
+  <title>cowzendux: notMissing</title>
+  <author>
+   <name>cowzendux</name>
+  </author>
+  <link href="https://github.com/cowzendux/notMissing" />
+  <id>urn:rprimus:github:cowzendux:notMissing</id>
+  <published>2022-02-13T19:55:10Z</published>
+  <updated>2022-02-13T19:55:10Z</updated>
+  <content type="html">
+   This is an SPSS Python macro that removes cases missing values on the identified variable
+  </content>
+ </entry>
+ <entry>
+  <title>cowzendux: exploreDistributions</title>
+  <author>
+   <name>cowzendux</name>
+  </author>
+  <link href="https://github.com/cowzendux/exploreDistributions" />
+  <id>urn:rprimus:github:cowzendux:exploreDistributions</id>
+  <published>2022-02-13T19:50:20Z</published>
+  <updated>2022-02-13T19:50:20Z</updated>
+  <content type="html">
+   This is a SPSS Python macro that takes a group of continuous variables and then provides information about their univariate and bivariate distributions
+  </content>
+ </entry>
+ <entry>
+  <title>cowzendux: delEmptyVars</title>
+  <author>
+   <name>cowzendux</name>
+  </author>
+  <link href="https://github.com/cowzendux/delEmptyVars" />
+  <id>urn:rprimus:github:cowzendux:delEmptyVars</id>
+  <published>2022-02-13T19:44:41Z</published>
+  <updated>2022-02-13T19:44:41Z</updated>
+  <content type="html">
+   SPSS Python macro that removes any variables with no valid values
+  </content>
+ </entry>
+ <entry>
+  <title>cowzendux: checkDataset</title>
+  <author>
+   <name>cowzendux</name>
+  </author>
+  <link href="https://github.com/cowzendux/checkDataset" />
+  <id>urn:rprimus:github:cowzendux:checkDataset</id>
+  <published>2022-02-13T19:30:23Z</published>
+  <updated>2022-02-13T19:30:23Z</updated>
+  <content type="html">
+   SPSS Python macro to obtain basic information about variables in a dataset
+  </content>
+ </entry>
+ <entry>
+  <title>cowzendux: checkboxToOrdered</title>
+  <author>
+   <name>cowzendux</name>
+  </author>
+  <link href="https://github.com/cowzendux/checkboxToOrdered" />
+  <id>urn:rprimus:github:cowzendux:checkboxToOrdered</id>
+  <published>2022-02-13T19:21:32Z</published>
+  <updated>2022-02-13T19:21:32Z</updated>
+  <content type="html">
+   SPSS Python macro that takes a list of existing binary variables and converts them into a single categorical variable based on an ordered list
+  </content>
+ </entry>
+ <entry>
+  <title>keph1r: deprecated</title>
+  <author>
+   <name>keph1r</name>
+  </author>
+  <link href="https://github.com/keph1r/deprecated" />
+  <id>urn:rprimus:github:keph1r:deprecated</id>
+  <published>2022-02-13T13:52:19Z</published>
+  <updated>2022-02-13T13:52:19Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>HeteroChromia420: DebPostSetup</title>
+  <author>
+   <name>HeteroChromia420</name>
+  </author>
+  <link href="https://github.com/HeteroChromia420/DebPostSetup" />
+  <id>urn:rprimus:github:HeteroChromia420:DebPostSetup</id>
+  <published>2022-02-13T13:12:48Z</published>
+  <updated>2022-02-13T13:12:48Z</updated>
+  <content type="html">
+   Debian Post Setup Script
+  </content>
+ </entry>
  <entry>
   <title>sogis-oereb: oereb-wms-geoserver</title>
   <author>
@@ -15,58 +145,6 @@
   <updated>2022-02-12T17:14:23Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>helvm: lazy-k</title>
-  <author>
-   <name>helvm</name>
-  </author>
-  <link href="https://github.com/helvm/lazy-k" />
-  <id>urn:rprimus:github:helvm:lazy-k</id>
-  <published>2022-02-11T22:36:53Z</published>
-  <updated>2022-02-11T22:36:53Z</updated>
-  <content type="html">
-   Lazy K
-  </content>
- </entry>
- <entry>
-  <title>Margenom: diary</title>
-  <author>
-   <name>Margenom</name>
-  </author>
-  <link href="https://github.com/Margenom/diary" />
-  <id>urn:rprimus:github:Margenom:diary</id>
-  <published>2022-02-11T15:45:31Z</published>
-  <updated>2022-02-11T15:45:31Z</updated>
-  <content type="html">
-   Simple program for manage diary with categories (with web viewer)
-  </content>
- </entry>
- <entry>
-  <title>kaksoy17: Ku-Projects</title>
-  <author>
-   <name>kaksoy17</name>
-  </author>
-  <link href="https://github.com/kaksoy17/Ku-Projects" />
-  <id>urn:rprimus:github:kaksoy17:Ku-Projects</id>
-  <published>2022-02-11T11:09:12Z</published>
-  <updated>2022-02-11T11:09:12Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>foggynight: chicken-forth</title>
-  <author>
-   <name>foggynight</name>
-  </author>
-  <link href="https://github.com/foggynight/chicken-forth" />
-  <id>urn:rprimus:github:foggynight:chicken-forth</id>
-  <published>2022-02-11T05:43:55Z</published>
-  <updated>2022-02-11T05:43:55Z</updated>
-  <content type="html">
-   FORTH-like implemented in CHICKEN Scheme.
   </content>
  </entry>
 </feed>
