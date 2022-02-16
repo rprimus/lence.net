@@ -2,19 +2,97 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-go.atom"/>
 <id>urn:rprimus:github:newgorepos</id>
-<updated>2022-02-16T03:13:03Z</updated>
+<updated>2022-02-16T03:46:46Z</updated>
 <title type='text'>New GitHub Go Repos</title>
  <entry>
-  <title>omez: go-curaprofile-schema-generator</title>
+  <title>HelixSpiral: apod-to-mqtt</title>
   <author>
-   <name>omez</name>
+   <name>HelixSpiral</name>
   </author>
-  <link href="https://github.com/omez/go-curaprofile-schema-generator" />
-  <id>urn:rprimus:github:omez:go-curaprofile-schema-generator</id>
-  <published>2022-02-16T03:13:03Z</published>
-  <updated>2022-02-16T03:13:03Z</updated>
+  <link href="https://github.com/HelixSpiral/apod-to-mqtt" />
+  <id>urn:rprimus:github:HelixSpiral:apod-to-mqtt</id>
+  <published>2022-02-16T03:46:46Z</published>
+  <updated>2022-02-16T03:46:46Z</updated>
   <content type="html">
-   Generation of schema files for cura profiles
+   This grabs the Astronomy Picture of the Day from the NASA API and publishes it to an MQTT queue
+  </content>
+ </entry>
+ <entry>
+  <title>JoeyTribbiani1995: doctl</title>
+  <author>
+   <name>JoeyTribbiani1995</name>
+  </author>
+  <link href="https://github.com/JoeyTribbiani1995/doctl" />
+  <id>urn:rprimus:github:JoeyTribbiani1995:doctl</id>
+  <published>2022-02-16T03:39:52Z</published>
+  <updated>2022-02-16T03:39:52Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>shuangxing93: t3online_server</title>
+  <author>
+   <name>shuangxing93</name>
+  </author>
+  <link href="https://github.com/shuangxing93/t3online_server" />
+  <id>urn:rprimus:github:shuangxing93:t3online_server</id>
+  <published>2022-02-16T03:36:18Z</published>
+  <updated>2022-02-16T03:36:18Z</updated>
+  <content type="html">
+   tic tac toe websocket server using golang
+  </content>
+ </entry>
+ <entry>
+  <title>jiebingg: traefikplugin</title>
+  <author>
+   <name>jiebingg</name>
+  </author>
+  <link href="https://github.com/jiebingg/traefikplugin" />
+  <id>urn:rprimus:github:jiebingg:traefikplugin</id>
+  <published>2022-02-16T03:32:38Z</published>
+  <updated>2022-02-16T03:32:38Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>michellejae: coned</title>
+  <author>
+   <name>michellejae</name>
+  </author>
+  <link href="https://github.com/michellejae/coned" />
+  <id>urn:rprimus:github:michellejae:coned</id>
+  <published>2022-02-16T03:28:16Z</published>
+  <updated>2022-02-16T03:28:16Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>pilipeng: go-mall</title>
+  <author>
+   <name>pilipeng</name>
+  </author>
+  <link href="https://github.com/pilipeng/go-mall" />
+  <id>urn:rprimus:github:pilipeng:go-mall</id>
+  <published>2022-02-16T03:26:20Z</published>
+  <updated>2022-02-16T03:26:20Z</updated>
+  <content type="html">
+   åé´å­¦ä¹  go-zero 
+  </content>
+ </entry>
+ <entry>
+  <title>spiretechnology: go-idletime</title>
+  <author>
+   <name>spiretechnology</name>
+  </author>
+  <link href="https://github.com/spiretechnology/go-idletime" />
+  <id>urn:rprimus:github:spiretechnology:go-idletime</id>
+  <published>2022-02-16T03:17:46Z</published>
+  <updated>2022-02-16T03:17:46Z</updated>
+  <content type="html">
+   Go library for responding to system idle time
   </content>
  </entry>
  <entry>
@@ -104,19 +182,6 @@
   <id>urn:rprimus:github:wolftotem4:shaolin-ben-don</id>
   <published>2022-02-16T02:44:22Z</published>
   <updated>2022-02-16T02:44:22Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>snowcat471: word-study-back</title>
-  <author>
-   <name>snowcat471</name>
-  </author>
-  <link href="https://github.com/snowcat471/word-study-back" />
-  <id>urn:rprimus:github:snowcat471:word-study-back</id>
-  <published>2022-02-16T02:30:11Z</published>
-  <updated>2022-02-16T02:30:11Z</updated>
   <content type="html">
    
   </content>
@@ -291,19 +356,6 @@
   </content>
  </entry>
  <entry>
-  <title>Honahuku: go-handson</title>
-  <author>
-   <name>Honahuku</name>
-  </author>
-  <link href="https://github.com/Honahuku/go-handson" />
-  <id>urn:rprimus:github:Honahuku:go-handson</id>
-  <published>2022-02-16T01:00:23Z</published>
-  <updated>2022-02-16T01:00:23Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
   <title>NinoVictor: todo-cli-go</title>
   <author>
    <name>NinoVictor</name>
@@ -314,32 +366,6 @@
   <updated>2022-02-16T00:49:20Z</updated>
   <content type="html">
    Basic Todo CLI app with go
-  </content>
- </entry>
- <entry>
-  <title>antoniocarlosmjr: simple-bank-golang</title>
-  <author>
-   <name>antoniocarlosmjr</name>
-  </author>
-  <link href="https://github.com/antoniocarlosmjr/simple-bank-golang" />
-  <id>urn:rprimus:github:antoniocarlosmjr:simple-bank-golang</id>
-  <published>2022-02-16T00:45:36Z</published>
-  <updated>2022-02-16T00:45:36Z</updated>
-  <content type="html">
-   This project was created for to use the basics concepts of Golang in a simple project of the commom banking.
-  </content>
- </entry>
- <entry>
-  <title>JasonVanCode: hello</title>
-  <author>
-   <name>JasonVanCode</name>
-  </author>
-  <link href="https://github.com/JasonVanCode/hello" />
-  <id>urn:rprimus:github:JasonVanCode:hello</id>
-  <published>2022-02-16T00:40:36Z</published>
-  <updated>2022-02-16T00:40:36Z</updated>
-  <content type="html">
-   æµè¯çæèªå·±goå
   </content>
  </entry>
  <entry>
@@ -356,19 +382,6 @@
   </content>
  </entry>
  <entry>
-  <title>gabrielmayers: go-api</title>
-  <author>
-   <name>gabrielmayers</name>
-  </author>
-  <link href="https://github.com/gabrielmayers/go-api" />
-  <id>urn:rprimus:github:gabrielmayers:go-api</id>
-  <published>2022-02-16T00:32:21Z</published>
-  <updated>2022-02-16T00:32:21Z</updated>
-  <content type="html">
-   Just practicing golang by creating useless stuff
-  </content>
- </entry>
- <entry>
   <title>nathanielfernandes: go-get-some</title>
   <author>
    <name>nathanielfernandes</name>
@@ -379,19 +392,6 @@
   <updated>2022-02-16T00:17:48Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>moacirtorres: restful-api-mongo-db</title>
-  <author>
-   <name>moacirtorres</name>
-  </author>
-  <link href="https://github.com/moacirtorres/restful-api-mongo-db" />
-  <id>urn:rprimus:github:moacirtorres:restful-api-mongo-db</id>
-  <published>2022-02-16T00:08:13Z</published>
-  <updated>2022-02-16T00:08:13Z</updated>
-  <content type="html">
-   connectin cluster in mongodb atlas creating three endpoints
   </content>
  </entry>
  <entry>
@@ -509,6 +509,19 @@
   <updated>2022-02-15T18:04:07Z</updated>
   <content type="html">
    a machine learning package based on golang
+  </content>
+ </entry>
+ <entry>
+  <title>n795113: go-enum-algorithm</title>
+  <author>
+   <name>n795113</name>
+  </author>
+  <link href="https://github.com/n795113/go-enum-algorithm" />
+  <id>urn:rprimus:github:n795113:go-enum-algorithm</id>
+  <published>2022-02-15T18:01:28Z</published>
+  <updated>2022-02-15T18:01:28Z</updated>
+  <content type="html">
+   implement an enumeration algorithm in GO
   </content>
  </entry>
  <entry>
@@ -639,19 +652,6 @@
   <updated>2022-02-15T09:55:28Z</updated>
   <content type="html">
    Backup and Restore LXC instances from MinIO
-  </content>
- </entry>
- <entry>
-  <title>Artis24106: My-CTF-Challenges</title>
-  <author>
-   <name>Artis24106</name>
-  </author>
-  <link href="https://github.com/Artis24106/My-CTF-Challenges" />
-  <id>urn:rprimus:github:Artis24106:My-CTF-Challenges</id>
-  <published>2022-02-15T09:14:29Z</published>
-  <updated>2022-02-15T09:14:29Z</updated>
-  <content type="html">
-   My CTF Challenges ð¾ð
   </content>
  </entry>
  <entry>
