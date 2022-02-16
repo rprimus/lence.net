@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-erlang.atom"/>
 <id>urn:rprimus:github:newerlangrepos</id>
-<updated>2022-02-15T09:30:19Z</updated>
+<updated>2022-02-15T16:42:12Z</updated>
 <title type='text'>New GitHub Erlang Repos</title>
+ <entry>
+  <title>bkopplin: dstore</title>
+  <author>
+   <name>bkopplin</name>
+  </author>
+  <link href="https://github.com/bkopplin/dstore" />
+  <id>urn:rprimus:github:bkopplin:dstore</id>
+  <published>2022-02-15T16:42:12Z</published>
+  <updated>2022-02-15T16:42:12Z</updated>
+  <content type="html">
+   A distributed key-value store written in erlang
+  </content>
+ </entry>
+ <entry>
+  <title>ylh: demoheader</title>
+  <author>
+   <name>ylh</name>
+  </author>
+  <link href="https://github.com/ylh/demoheader" />
+  <id>urn:rprimus:github:ylh:demoheader</id>
+  <published>2022-02-15T13:30:43Z</published>
+  <updated>2022-02-15T13:30:43Z</updated>
+  <content type="html">
+   Simple script to parse Source Engine demo headers
+  </content>
+ </entry>
  <entry>
   <title>yowcow: eventlogger</title>
   <author>
@@ -132,32 +158,6 @@
   <updated>2022-02-14T03:40:40Z</updated>
   <content type="html">
    ssl demo for erlang
-  </content>
- </entry>
- <entry>
-  <title>nxtfr: nxtfr_queue</title>
-  <author>
-   <name>nxtfr</name>
-  </author>
-  <link href="https://github.com/nxtfr/nxtfr_queue" />
-  <id>urn:rprimus:github:nxtfr:nxtfr_queue</id>
-  <published>2022-02-13T18:14:41Z</published>
-  <updated>2022-02-13T18:14:41Z</updated>
-  <content type="html">
-   Nextgen Game Framework Queue System 
-  </content>
- </entry>
- <entry>
-  <title>qinbaixi: qmake</title>
-  <author>
-   <name>qinbaixi</name>
-  </author>
-  <link href="https://github.com/qinbaixi/qmake" />
-  <id>urn:rprimus:github:qinbaixi:qmake</id>
-  <published>2022-02-13T04:44:50Z</published>
-  <updated>2022-02-13T04:44:50Z</updated>
-  <content type="html">
-   erlang å¿«éç¼è¯å·¥å·
   </content>
  </entry>
 </feed>

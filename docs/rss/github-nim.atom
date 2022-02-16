@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2022-02-15T09:50:34Z</updated>
+<updated>2022-02-15T18:28:20Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>bartimus-primed: gist_loader</title>
+  <author>
+   <name>bartimus-primed</name>
+  </author>
+  <link href="https://github.com/bartimus-primed/gist_loader" />
+  <id>urn:rprimus:github:bartimus-primed:gist_loader</id>
+  <published>2022-02-15T18:28:20Z</published>
+  <updated>2022-02-15T18:28:20Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>lantos-lgtm: nim_chacha20_poly1305</title>
   <author>
@@ -67,58 +80,6 @@
   <updated>2022-02-14T12:51:37Z</updated>
   <content type="html">
    a convention mainly created for `createThread` proc
-  </content>
- </entry>
- <entry>
-  <title>mawalu: norbert</title>
-  <author>
-   <name>mawalu</name>
-  </author>
-  <link href="https://github.com/mawalu/norbert" />
-  <id>urn:rprimus:github:mawalu:norbert</id>
-  <published>2022-02-13T18:04:48Z</published>
-  <updated>2022-02-13T18:04:48Z</updated>
-  <content type="html">
-   A DNS server for the ACME DNS-01 challenge written in dependency-free nim
-  </content>
- </entry>
- <entry>
-  <title>whydee86: SnD_AMSI</title>
-  <author>
-   <name>whydee86</name>
-  </author>
-  <link href="https://github.com/whydee86/SnD_AMSI" />
-  <id>urn:rprimus:github:whydee86:SnD_AMSI</id>
-  <published>2022-02-13T17:02:11Z</published>
-  <updated>2022-02-13T17:02:11Z</updated>
-  <content type="html">
-   Start new PowerShell without etw and amsi in pure nim
-  </content>
- </entry>
- <entry>
-  <title>bung87: cp_invoice</title>
-  <author>
-   <name>bung87</name>
-  </author>
-  <link href="https://github.com/bung87/cp_invoice" />
-  <id>urn:rprimus:github:bung87:cp_invoice</id>
-  <published>2022-02-13T12:10:34Z</published>
-  <updated>2022-02-13T12:10:34Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>RainbowAsteroids: crowncalc</title>
-  <author>
-   <name>RainbowAsteroids</name>
-  </author>
-  <link href="https://github.com/RainbowAsteroids/crowncalc" />
-  <id>urn:rprimus:github:RainbowAsteroids:crowncalc</id>
-  <published>2022-02-13T00:23:29Z</published>
-  <updated>2022-02-13T00:23:29Z</updated>
-  <content type="html">
-   Calculator written in Nim
   </content>
  </entry>
 </feed>
