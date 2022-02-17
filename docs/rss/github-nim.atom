@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2022-02-16T04:33:47Z</updated>
+<updated>2022-02-17T01:25:54Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>sfernald: wordle-cli</title>
+  <author>
+   <name>sfernald</name>
+  </author>
+  <link href="https://github.com/sfernald/wordle-cli" />
+  <id>urn:rprimus:github:sfernald:wordle-cli</id>
+  <published>2022-02-17T01:25:54Z</published>
+  <updated>2022-02-17T01:25:54Z</updated>
+  <content type="html">
+   Wordle clone written in Nim
+  </content>
+ </entry>
  <entry>
   <title>jdf-id-au: bakery</title>
   <author>
@@ -41,58 +54,6 @@
   <updated>2022-02-15T09:50:34Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>decimalpack: TimeComplexitySolver</title>
-  <author>
-   <name>decimalpack</name>
-  </author>
-  <link href="https://github.com/decimalpack/TimeComplexitySolver" />
-  <id>urn:rprimus:github:decimalpack:TimeComplexitySolver</id>
-  <published>2022-02-14T21:13:34Z</published>
-  <updated>2022-02-14T21:13:34Z</updated>
-  <content type="html">
-   Derive the polynomial time complexity of a given program
-  </content>
- </entry>
- <entry>
-  <title>dileepabandara: return-nim</title>
-  <author>
-   <name>dileepabandara</name>
-  </author>
-  <link href="https://github.com/dileepabandara/return-nim" />
-  <id>urn:rprimus:github:dileepabandara:return-nim</id>
-  <published>2022-02-14T16:13:19Z</published>
-  <updated>2022-02-14T16:13:19Z</updated>
-  <content type="html">
-   Nim beginner level lessons
-  </content>
- </entry>
- <entry>
-  <title>Glasses-Neo: contextlib</title>
-  <author>
-   <name>Glasses-Neo</name>
-  </author>
-  <link href="https://github.com/Glasses-Neo/contextlib" />
-  <id>urn:rprimus:github:Glasses-Neo:contextlib</id>
-  <published>2022-02-14T13:40:36Z</published>
-  <updated>2022-02-14T13:40:36Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>hamidb80: packedArgs</title>
-  <author>
-   <name>hamidb80</name>
-  </author>
-  <link href="https://github.com/hamidb80/packedArgs" />
-  <id>urn:rprimus:github:hamidb80:packedArgs</id>
-  <published>2022-02-14T12:51:37Z</published>
-  <updated>2022-02-14T12:51:37Z</updated>
-  <content type="html">
-   a convention mainly created for `createThread` proc
   </content>
  </entry>
 </feed>
