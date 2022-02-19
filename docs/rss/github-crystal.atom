@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2022-02-18T04:49:06Z</updated>
+<updated>2022-02-19T00:34:53Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>drhuffman12: my_lucky_app</title>
+  <author>
+   <name>drhuffman12</name>
+  </author>
+  <link href="https://github.com/drhuffman12/my_lucky_app" />
+  <id>urn:rprimus:github:drhuffman12:my_lucky_app</id>
+  <published>2022-02-19T00:34:53Z</published>
+  <updated>2022-02-19T00:34:53Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>frissyn: garnet</title>
+  <author>
+   <name>frissyn</name>
+  </author>
+  <link href="https://github.com/frissyn/garnet" />
+  <id>urn:rprimus:github:frissyn:garnet</id>
+  <published>2022-02-18T16:00:29Z</published>
+  <updated>2022-02-18T16:00:29Z</updated>
+  <content type="html">
+   [WIP] Dead simple Crystal client for interacting with Firebase&#039; REST API.
+  </content>
+ </entry>
  <entry>
   <title>the-business-factory: slack.cr</title>
   <author>
@@ -41,19 +67,6 @@
   <updated>2022-02-17T01:08:00Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>martinmares: send-email</title>
-  <author>
-   <name>martinmares</name>
-  </author>
-  <link href="https://github.com/martinmares/send-email" />
-  <id>urn:rprimus:github:martinmares:send-email</id>
-  <published>2022-02-16T11:13:13Z</published>
-  <updated>2022-02-16T11:13:13Z</updated>
-  <content type="html">
-   Simple send email. Combination of config file + add attachments from cmd args, nothing more.
   </content>
  </entry>
 </feed>

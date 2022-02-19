@@ -2,19 +2,84 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-02-18T08:10:26Z</updated>
+<updated>2022-02-19T03:59:41Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
  <entry>
-  <title>acgollapalli: EXCALIBUR</title>
+  <title>jonprairie: ctj-ui</title>
   <author>
-   <name>acgollapalli</name>
+   <name>jonprairie</name>
   </author>
-  <link href="https://github.com/acgollapalli/EXCALIBUR" />
-  <id>urn:rprimus:github:acgollapalli:EXCALIBUR</id>
-  <published>2022-02-18T08:10:26Z</published>
-  <updated>2022-02-18T08:10:26Z</updated>
+  <link href="https://github.com/jonprairie/ctj-ui" />
+  <id>urn:rprimus:github:jonprairie:ctj-ui</id>
+  <published>2022-02-19T03:59:41Z</published>
+  <updated>2022-02-19T03:59:41Z</updated>
   <content type="html">
-   
+   experimental front-end for ctj
+  </content>
+ </entry>
+ <entry>
+  <title>jjp9217: LispFunctons</title>
+  <author>
+   <name>jjp9217</name>
+  </author>
+  <link href="https://github.com/jjp9217/LispFunctons" />
+  <id>urn:rprimus:github:jjp9217:LispFunctons</id>
+  <published>2022-02-18T22:11:43Z</published>
+  <updated>2022-02-18T22:11:43Z</updated>
+  <content type="html">
+   CSCI-344 HW2, implementing a problem set in Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>pauladam2001: Sem3_LogicAndFunctionalProgramming</title>
+  <author>
+   <name>pauladam2001</name>
+  </author>
+  <link href="https://github.com/pauladam2001/Sem3_LogicAndFunctionalProgramming" />
+  <id>urn:rprimus:github:pauladam2001:Sem3_LogicAndFunctionalProgramming</id>
+  <published>2022-02-18T12:28:12Z</published>
+  <updated>2022-02-18T12:28:12Z</updated>
+  <content type="html">
+   Third semester course using Prolog and Lisp.
+  </content>
+ </entry>
+ <entry>
+  <title>Inlucker: FILP</title>
+  <author>
+   <name>Inlucker</name>
+  </author>
+  <link href="https://github.com/Inlucker/FILP" />
+  <id>urn:rprimus:github:Inlucker:FILP</id>
+  <published>2022-02-18T12:03:40Z</published>
+  <updated>2022-02-18T12:03:40Z</updated>
+  <content type="html">
+   Ð¤ÑÐ½ÐºÑÐ¸Ð¾Ð½Ð°Ð»ÑÐ½Ð¾Ðµ Ð¸ Ð»Ð¾Ð³Ð¸ÑÐµÑÐºÐ¾Ðµ Ð¿ÑÐ¾Ð³ÑÐ°Ð¼Ð¼Ð¸ÑÐ¾Ð²Ð°Ð½Ð¸Ðµ
+  </content>
+ </entry>
+ <entry>
+  <title>SonyCSLParis: cl-pcp</title>
+  <author>
+   <name>SonyCSLParis</name>
+  </author>
+  <link href="https://github.com/SonyCSLParis/cl-pcp" />
+  <id>urn:rprimus:github:SonyCSLParis:cl-pcp</id>
+  <published>2022-02-18T11:13:40Z</published>
+  <updated>2022-02-18T11:13:40Z</updated>
+  <content type="html">
+   Common Lisp Package for Parallel Corpus Processing
+  </content>
+ </entry>
+ <entry>
+  <title>mrossini-ethz: lisp-struct</title>
+  <author>
+   <name>mrossini-ethz</name>
+  </author>
+  <link href="https://github.com/mrossini-ethz/lisp-struct" />
+  <id>urn:rprimus:github:mrossini-ethz:lisp-struct</id>
+  <published>2022-02-18T07:36:43Z</published>
+  <updated>2022-02-18T07:36:43Z</updated>
+  <content type="html">
+   Lisp library similar to the &#039;struct&#039; module in python.
   </content>
  </entry>
  <entry>
@@ -28,6 +93,19 @@
   <updated>2022-02-18T00:12:04Z</updated>
   <content type="html">
    
+  </content>
+ </entry>
+ <entry>
+  <title>CraigOpie: lisp_functions_and_macros</title>
+  <author>
+   <name>CraigOpie</name>
+  </author>
+  <link href="https://github.com/CraigOpie/lisp_functions_and_macros" />
+  <id>urn:rprimus:github:CraigOpie:lisp_functions_and_macros</id>
+  <published>2022-02-17T22:53:48Z</published>
+  <updated>2022-02-17T22:53:48Z</updated>
+  <content type="html">
+   Common Lisp Functions and Macros
   </content>
  </entry>
  <entry>
@@ -106,136 +184,6 @@
   <updated>2022-02-17T00:43:56Z</updated>
   <content type="html">
    simple roswell script to compute factorial
-  </content>
- </entry>
- <entry>
-  <title>jonprairie: cl-pairings</title>
-  <author>
-   <name>jonprairie</name>
-  </author>
-  <link href="https://github.com/jonprairie/cl-pairings" />
-  <id>urn:rprimus:github:jonprairie:cl-pairings</id>
-  <published>2022-02-16T21:04:47Z</published>
-  <updated>2022-02-16T21:04:47Z</updated>
-  <content type="html">
-   Common Lisp library for generating tournament pairings
-  </content>
- </entry>
- <entry>
-  <title>bsullivan19: Eulers-Totient-ACL2-Proof</title>
-  <author>
-   <name>bsullivan19</name>
-  </author>
-  <link href="https://github.com/bsullivan19/Eulers-Totient-ACL2-Proof" />
-  <id>urn:rprimus:github:bsullivan19:Eulers-Totient-ACL2-Proof</id>
-  <published>2022-02-16T20:27:52Z</published>
-  <updated>2022-02-16T20:27:52Z</updated>
-  <content type="html">
-   An ACL2s proof of Euler&#039;s Totient function
-  </content>
- </entry>
- <entry>
-  <title>KavehYousefi: Goedel-numbering</title>
-  <author>
-   <name>KavehYousefi</name>
-  </author>
-  <link href="https://github.com/KavehYousefi/Goedel-numbering" />
-  <id>urn:rprimus:github:KavehYousefi:Goedel-numbering</id>
-  <published>2022-02-16T19:56:26Z</published>
-  <updated>2022-02-16T19:56:26Z</updated>
-  <content type="html">
-   Contains information concerning Goedel numbers.
-  </content>
- </entry>
- <entry>
-  <title>navan0: emacs_configs</title>
-  <author>
-   <name>navan0</name>
-  </author>
-  <link href="https://github.com/navan0/emacs_configs" />
-  <id>urn:rprimus:github:navan0:emacs_configs</id>
-  <published>2022-02-16T17:07:53Z</published>
-  <updated>2022-02-16T17:07:53Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>foss-santanu: cl-myutils</title>
-  <author>
-   <name>foss-santanu</name>
-  </author>
-  <link href="https://github.com/foss-santanu/cl-myutils" />
-  <id>urn:rprimus:github:foss-santanu:cl-myutils</id>
-  <published>2022-02-16T15:11:00Z</published>
-  <updated>2022-02-16T15:11:00Z</updated>
-  <content type="html">
-   A diverse set of utilities I write to use in my other projects
-  </content>
- </entry>
- <entry>
-  <title>jocicnemanja: havana</title>
-  <author>
-   <name>jocicnemanja</name>
-  </author>
-  <link href="https://github.com/jocicnemanja/havana" />
-  <id>urn:rprimus:github:jocicnemanja:havana</id>
-  <published>2022-02-16T11:55:12Z</published>
-  <updated>2022-02-16T11:55:12Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>mikulatomas: pp4</title>
-  <author>
-   <name>mikulatomas</name>
-  </author>
-  <link href="https://github.com/mikulatomas/pp4" />
-  <id>urn:rprimus:github:mikulatomas:pp4</id>
-  <published>2022-02-16T09:31:48Z</published>
-  <updated>2022-02-16T09:31:48Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>AndreaD148: progetto_uri</title>
-  <author>
-   <name>AndreaD148</name>
-  </author>
-  <link href="https://github.com/AndreaD148/progetto_uri" />
-  <id>urn:rprimus:github:AndreaD148:progetto_uri</id>
-  <published>2022-02-16T09:16:44Z</published>
-  <updated>2022-02-16T09:16:44Z</updated>
-  <content type="html">
-   implementation in prolog e lisp
-  </content>
- </entry>
- <entry>
-  <title>lsy010119: drone_ws</title>
-  <author>
-   <name>lsy010119</name>
-  </author>
-  <link href="https://github.com/lsy010119/drone_ws" />
-  <id>urn:rprimus:github:lsy010119:drone_ws</id>
-  <published>2022-02-16T06:00:55Z</published>
-  <updated>2022-02-16T06:00:55Z</updated>
-  <content type="html">
-   Project for D2V Drone Team
-  </content>
- </entry>
- <entry>
-  <title>atpalmer: lisp-scratch</title>
-  <author>
-   <name>atpalmer</name>
-  </author>
-  <link href="https://github.com/atpalmer/lisp-scratch" />
-  <id>urn:rprimus:github:atpalmer:lisp-scratch</id>
-  <published>2022-02-16T02:46:06Z</published>
-  <updated>2022-02-16T02:46:06Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
