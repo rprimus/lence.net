@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-02-20T09:46:42Z</updated>
+<updated>2022-02-21T00:38:22Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>hxzrx: cl-speedy-lifo</title>
+  <author>
+   <name>hxzrx</name>
+  </author>
+  <link href="https://github.com/hxzrx/cl-speedy-lifo" />
+  <id>urn:rprimus:github:hxzrx:cl-speedy-lifo</id>
+  <published>2022-02-21T00:38:22Z</published>
+  <updated>2022-02-21T00:38:22Z</updated>
+  <content type="html">
+   cl-speedy-lifo is a portable, non-consing, optimized LIFO queue (stack) implementation, which is inspired by cl-speedy-queue.
+  </content>
+ </entry>
+ <entry>
+  <title>g000001: cl-bench-in-single-file</title>
+  <author>
+   <name>g000001</name>
+  </author>
+  <link href="https://github.com/g000001/cl-bench-in-single-file" />
+  <id>urn:rprimus:github:g000001:cl-bench-in-single-file</id>
+  <published>2022-02-20T23:09:00Z</published>
+  <updated>2022-02-20T23:09:00Z</updated>
+  <content type="html">
+   cl-bench-in-single-file
+  </content>
+ </entry>
+ <entry>
+  <title>mrossini-ethz: c-string-literals</title>
+  <author>
+   <name>mrossini-ethz</name>
+  </author>
+  <link href="https://github.com/mrossini-ethz/c-string-literals" />
+  <id>urn:rprimus:github:mrossini-ethz:c-string-literals</id>
+  <published>2022-02-20T14:55:26Z</published>
+  <updated>2022-02-20T14:55:26Z</updated>
+  <content type="html">
+   Enables string literals like in the c programming language.
+  </content>
+ </entry>
  <entry>
   <title>40ants: 40ants-critic</title>
   <author>
@@ -122,19 +161,6 @@
   </content>
  </entry>
  <entry>
-  <title>lsy010119: drone_ws</title>
-  <author>
-   <name>lsy010119</name>
-  </author>
-  <link href="https://github.com/lsy010119/drone_ws" />
-  <id>urn:rprimus:github:lsy010119:drone_ws</id>
-  <published>2022-02-19T07:38:40Z</published>
-  <updated>2022-02-19T07:38:40Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
   <title>uternet: oop-in-cl</title>
   <author>
    <name>uternet</name>
@@ -158,84 +184,6 @@
   <updated>2022-02-19T03:59:41Z</updated>
   <content type="html">
    experimental front-end for ctj
-  </content>
- </entry>
- <entry>
-  <title>jjp9217: LispFunctons</title>
-  <author>
-   <name>jjp9217</name>
-  </author>
-  <link href="https://github.com/jjp9217/LispFunctons" />
-  <id>urn:rprimus:github:jjp9217:LispFunctons</id>
-  <published>2022-02-18T22:11:43Z</published>
-  <updated>2022-02-18T22:11:43Z</updated>
-  <content type="html">
-   CSCI-344 HW2, implementing a problem set in Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>pauladam2001: Sem3_LogicAndFunctionalProgramming</title>
-  <author>
-   <name>pauladam2001</name>
-  </author>
-  <link href="https://github.com/pauladam2001/Sem3_LogicAndFunctionalProgramming" />
-  <id>urn:rprimus:github:pauladam2001:Sem3_LogicAndFunctionalProgramming</id>
-  <published>2022-02-18T12:28:12Z</published>
-  <updated>2022-02-18T12:28:12Z</updated>
-  <content type="html">
-   Third semester course using Prolog and Lisp.
-  </content>
- </entry>
- <entry>
-  <title>Inlucker: FILP</title>
-  <author>
-   <name>Inlucker</name>
-  </author>
-  <link href="https://github.com/Inlucker/FILP" />
-  <id>urn:rprimus:github:Inlucker:FILP</id>
-  <published>2022-02-18T12:03:40Z</published>
-  <updated>2022-02-18T12:03:40Z</updated>
-  <content type="html">
-   Ð¤ÑÐ½ÐºÑÐ¸Ð¾Ð½Ð°Ð»ÑÐ½Ð¾Ðµ Ð¸ Ð»Ð¾Ð³Ð¸ÑÐµÑÐºÐ¾Ðµ Ð¿ÑÐ¾Ð³ÑÐ°Ð¼Ð¼Ð¸ÑÐ¾Ð²Ð°Ð½Ð¸Ðµ
-  </content>
- </entry>
- <entry>
-  <title>SonyCSLParis: cl-pcp</title>
-  <author>
-   <name>SonyCSLParis</name>
-  </author>
-  <link href="https://github.com/SonyCSLParis/cl-pcp" />
-  <id>urn:rprimus:github:SonyCSLParis:cl-pcp</id>
-  <published>2022-02-18T11:13:40Z</published>
-  <updated>2022-02-18T11:13:40Z</updated>
-  <content type="html">
-   Common Lisp Package for Parallel Corpus Processing
-  </content>
- </entry>
- <entry>
-  <title>mrossini-ethz: lisp-struct</title>
-  <author>
-   <name>mrossini-ethz</name>
-  </author>
-  <link href="https://github.com/mrossini-ethz/lisp-struct" />
-  <id>urn:rprimus:github:mrossini-ethz:lisp-struct</id>
-  <published>2022-02-18T07:36:43Z</published>
-  <updated>2022-02-18T07:36:43Z</updated>
-  <content type="html">
-   Lisp library similar to the &#039;struct&#039; module in python.
-  </content>
- </entry>
- <entry>
-  <title>jmdaemon: treeleaves</title>
-  <author>
-   <name>jmdaemon</name>
-  </author>
-  <link href="https://github.com/jmdaemon/treeleaves" />
-  <id>urn:rprimus:github:jmdaemon:treeleaves</id>
-  <published>2022-02-18T00:12:04Z</published>
-  <updated>2022-02-18T00:12:04Z</updated>
-  <content type="html">
-   Directory tag generator for files
   </content>
  </entry>
 </feed>
