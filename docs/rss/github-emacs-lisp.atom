@@ -2,8 +2,112 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2022-02-21T07:45:45Z</updated>
+<updated>2022-02-22T01:35:03Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>emacsbliss: ox-docusaurus</title>
+  <author>
+   <name>emacsbliss</name>
+  </author>
+  <link href="https://github.com/emacsbliss/ox-docusaurus" />
+  <id>urn:rprimus:github:emacsbliss:ox-docusaurus</id>
+  <published>2022-02-22T01:35:03Z</published>
+  <updated>2022-02-22T01:35:03Z</updated>
+  <content type="html">
+   org mode export backend for Docusaurus compatible markdown
+  </content>
+ </entry>
+ <entry>
+  <title>Tunkert: emacs-2022-setup</title>
+  <author>
+   <name>Tunkert</name>
+  </author>
+  <link href="https://github.com/Tunkert/emacs-2022-setup" />
+  <id>urn:rprimus:github:Tunkert:emacs-2022-setup</id>
+  <published>2022-02-22T00:52:34Z</published>
+  <updated>2022-02-22T00:52:34Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>goldroe: .emacs.d</title>
+  <author>
+   <name>goldroe</name>
+  </author>
+  <link href="https://github.com/goldroe/.emacs.d" />
+  <id>urn:rprimus:github:goldroe:.emacs.d</id>
+  <published>2022-02-21T20:13:47Z</published>
+  <updated>2022-02-21T20:13:47Z</updated>
+  <content type="html">
+   My emacs customization
+  </content>
+ </entry>
+ <entry>
+  <title>maotouying69: emacs</title>
+  <author>
+   <name>maotouying69</name>
+  </author>
+  <link href="https://github.com/maotouying69/emacs" />
+  <id>urn:rprimus:github:maotouying69:emacs</id>
+  <published>2022-02-21T17:56:53Z</published>
+  <updated>2022-02-21T17:56:53Z</updated>
+  <content type="html">
+   Emacs configuration and cheat-sheet.
+  </content>
+ </entry>
+ <entry>
+  <title>four18teapot: dorfiles</title>
+  <author>
+   <name>four18teapot</name>
+  </author>
+  <link href="https://github.com/four18teapot/dorfiles" />
+  <id>urn:rprimus:github:four18teapot:dorfiles</id>
+  <published>2022-02-21T17:32:23Z</published>
+  <updated>2022-02-21T17:32:23Z</updated>
+  <content type="html">
+   All my config and dotfiles.
+  </content>
+ </entry>
+ <entry>
+  <title>biascia: emacs-init</title>
+  <author>
+   <name>biascia</name>
+  </author>
+  <link href="https://github.com/biascia/emacs-init" />
+  <id>urn:rprimus:github:biascia:emacs-init</id>
+  <published>2022-02-21T14:18:58Z</published>
+  <updated>2022-02-21T14:18:58Z</updated>
+  <content type="html">
+   My custom emacs initialization file
+  </content>
+ </entry>
+ <entry>
+  <title>emacsmirror: cycle-at-point</title>
+  <author>
+   <name>emacsmirror</name>
+  </author>
+  <link href="https://github.com/emacsmirror/cycle-at-point" />
+  <id>urn:rprimus:github:emacsmirror:cycle-at-point</id>
+  <published>2022-02-21T12:46:27Z</published>
+  <updated>2022-02-21T12:46:27Z</updated>
+  <content type="html">
+   Cycle (rotate) the thing under the cursor
+  </content>
+ </entry>
+ <entry>
+  <title>BohongHuang: org-gtd-habitica</title>
+  <author>
+   <name>BohongHuang</name>
+  </author>
+  <link href="https://github.com/BohongHuang/org-gtd-habitica" />
+  <id>urn:rprimus:github:BohongHuang:org-gtd-habitica</id>
+  <published>2022-02-21T10:48:33Z</published>
+  <updated>2022-02-21T10:48:33Z</updated>
+  <content type="html">
+   Integration of `org-gtd` and `emacs-habitica`
+  </content>
+ </entry>
  <entry>
   <title>rogimus: dot-emacs</title>
   <author>
@@ -28,6 +132,19 @@
   <updated>2022-02-21T04:20:49Z</updated>
   <content type="html">
    
+  </content>
+ </entry>
+ <entry>
+  <title>ywcz: using-emacs</title>
+  <author>
+   <name>ywcz</name>
+  </author>
+  <link href="https://github.com/ywcz/using-emacs" />
+  <id>urn:rprimus:github:ywcz:using-emacs</id>
+  <published>2022-02-21T03:15:11Z</published>
+  <updated>2022-02-21T03:15:11Z</updated>
+  <content type="html">
+   å­¦ä¹ ä½¿ç¨emacs
   </content>
  </entry>
  <entry>
@@ -287,163 +404,7 @@
   <published>2022-02-20T00:06:43Z</published>
   <updated>2022-02-20T00:06:43Z</updated>
   <content type="html">
-   Mirror of the tramp-nspawn package from GNU ELPA, current as of 2022-02-21
-  </content>
- </entry>
- <entry>
-  <title>eeshugerman: dconf-dotfile.el</title>
-  <author>
-   <name>eeshugerman</name>
-  </author>
-  <link href="https://github.com/eeshugerman/dconf-dotfile.el" />
-  <id>urn:rprimus:github:eeshugerman:dconf-dotfile.el</id>
-  <published>2022-02-19T23:58:26Z</published>
-  <updated>2022-02-19T23:58:26Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>tsyopa: dotfiles</title>
-  <author>
-   <name>tsyopa</name>
-  </author>
-  <link href="https://github.com/tsyopa/dotfiles" />
-  <id>urn:rprimus:github:tsyopa:dotfiles</id>
-  <published>2022-02-19T21:15:21Z</published>
-  <updated>2022-02-19T21:15:21Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>claykaufmann: dotfiles</title>
-  <author>
-   <name>claykaufmann</name>
-  </author>
-  <link href="https://github.com/claykaufmann/dotfiles" />
-  <id>urn:rprimus:github:claykaufmann:dotfiles</id>
-  <published>2022-02-19T18:07:25Z</published>
-  <updated>2022-02-19T18:07:25Z</updated>
-  <content type="html">
-   My dotfiles
-  </content>
- </entry>
- <entry>
-  <title>renatgalimov: org-video</title>
-  <author>
-   <name>renatgalimov</name>
-  </author>
-  <link href="https://github.com/renatgalimov/org-video" />
-  <id>urn:rprimus:github:renatgalimov:org-video</id>
-  <published>2022-02-19T15:25:27Z</published>
-  <updated>2022-02-19T15:25:27Z</updated>
-  <content type="html">
-   Export org documents as video files
-  </content>
- </entry>
- <entry>
-  <title>s-surineni: spaceconfig</title>
-  <author>
-   <name>s-surineni</name>
-  </author>
-  <link href="https://github.com/s-surineni/spaceconfig" />
-  <id>urn:rprimus:github:s-surineni:spaceconfig</id>
-  <published>2022-02-19T15:14:24Z</published>
-  <updated>2022-02-19T15:14:24Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>rajan-blackboxes: .emacs.d</title>
-  <author>
-   <name>rajan-blackboxes</name>
-  </author>
-  <link href="https://github.com/rajan-blackboxes/.emacs.d" />
-  <id>urn:rprimus:github:rajan-blackboxes:.emacs.d</id>
-  <published>2022-02-19T12:19:12Z</published>
-  <updated>2022-02-19T12:19:12Z</updated>
-  <content type="html">
-   private emacs config
-  </content>
- </entry>
- <entry>
-  <title>willemodendaal: my-emacs-config</title>
-  <author>
-   <name>willemodendaal</name>
-  </author>
-  <link href="https://github.com/willemodendaal/my-emacs-config" />
-  <id>urn:rprimus:github:willemodendaal:my-emacs-config</id>
-  <published>2022-02-19T09:46:26Z</published>
-  <updated>2022-02-19T09:46:26Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jcs-elpa: buffer-menu-filter</title>
-  <author>
-   <name>jcs-elpa</name>
-  </author>
-  <link href="https://github.com/jcs-elpa/buffer-menu-filter" />
-  <id>urn:rprimus:github:jcs-elpa:buffer-menu-filter</id>
-  <published>2022-02-19T07:09:44Z</published>
-  <updated>2022-02-19T07:09:44Z</updated>
-  <content type="html">
-   Filter buffer-menu items using fake header
-  </content>
- </entry>
- <entry>
-  <title>mugsimon: ubuntu-emacs</title>
-  <author>
-   <name>mugsimon</name>
-  </author>
-  <link href="https://github.com/mugsimon/ubuntu-emacs" />
-  <id>urn:rprimus:github:mugsimon:ubuntu-emacs</id>
-  <published>2022-02-19T05:57:53Z</published>
-  <updated>2022-02-19T05:57:53Z</updated>
-  <content type="html">
-   emacs settings at ubuntu
-  </content>
- </entry>
- <entry>
-  <title>Yeahowhen: emacs_config</title>
-  <author>
-   <name>Yeahowhen</name>
-  </author>
-  <link href="https://github.com/Yeahowhen/emacs_config" />
-  <id>urn:rprimus:github:Yeahowhen:emacs_config</id>
-  <published>2022-02-19T04:30:05Z</published>
-  <updated>2022-02-19T04:30:05Z</updated>
-  <content type="html">
-   My emacs configuration file
-  </content>
- </entry>
- <entry>
-  <title>orzechowskid: tsx-mode.el</title>
-  <author>
-   <name>orzechowskid</name>
-  </author>
-  <link href="https://github.com/orzechowskid/tsx-mode.el" />
-  <id>urn:rprimus:github:orzechowskid:tsx-mode.el</id>
-  <published>2022-02-19T04:17:18Z</published>
-  <updated>2022-02-19T04:17:18Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>cperez-one-two: .dotfiles</title>
-  <author>
-   <name>cperez-one-two</name>
-  </author>
-  <link href="https://github.com/cperez-one-two/.dotfiles" />
-  <id>urn:rprimus:github:cperez-one-two:.dotfiles</id>
-  <published>2022-02-19T04:00:09Z</published>
-  <updated>2022-02-19T04:00:09Z</updated>
-  <content type="html">
-   A nice little home home for all my .dots
+   Mirror of the tramp-nspawn package from GNU ELPA, current as of 2022-02-22
   </content>
  </entry>
 </feed>
