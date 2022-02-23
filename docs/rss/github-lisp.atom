@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-02-21T23:33:22Z</updated>
+<updated>2022-02-23T02:38:00Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>chazu: cl-todo</title>
+  <author>
+   <name>chazu</name>
+  </author>
+  <link href="https://github.com/chazu/cl-todo" />
+  <id>urn:rprimus:github:chazu:cl-todo</id>
+  <published>2022-02-23T02:38:00Z</published>
+  <updated>2022-02-23T02:38:00Z</updated>
+  <content type="html">
+   le todo app
+  </content>
+ </entry>
+ <entry>
+  <title>hxzrx: cl-fast-queues</title>
+  <author>
+   <name>hxzrx</name>
+  </author>
+  <link href="https://github.com/hxzrx/cl-fast-queues" />
+  <id>urn:rprimus:github:hxzrx:cl-fast-queues</id>
+  <published>2022-02-23T02:17:15Z</published>
+  <updated>2022-02-23T02:17:15Z</updated>
+  <content type="html">
+   cl-fast-queues implement non-consing, optimized unbounded LIFO and FIFO queues
+  </content>
+ </entry>
+ <entry>
+  <title>e-denny: clwc</title>
+  <author>
+   <name>e-denny</name>
+  </author>
+  <link href="https://github.com/e-denny/clwc" />
+  <id>urn:rprimus:github:e-denny:clwc</id>
+  <published>2022-02-23T02:10:06Z</published>
+  <updated>2022-02-23T02:10:06Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>aptok: cl-osm</title>
+  <author>
+   <name>aptok</name>
+  </author>
+  <link href="https://github.com/aptok/cl-osm" />
+  <id>urn:rprimus:github:aptok:cl-osm</id>
+  <published>2022-02-22T21:48:03Z</published>
+  <updated>2022-02-22T21:48:03Z</updated>
+  <content type="html">
+   Play with OpenStreetMap data in Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>gabrielhtg: tipe-bentukan-pecahan</title>
+  <author>
+   <name>gabrielhtg</name>
+  </author>
+  <link href="https://github.com/gabrielhtg/tipe-bentukan-pecahan" />
+  <id>urn:rprimus:github:gabrielhtg:tipe-bentukan-pecahan</id>
+  <published>2022-02-22T12:42:07Z</published>
+  <updated>2022-02-22T12:42:07Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>gabrielhtg: tipe-bentukan-point</title>
   <author>
@@ -158,97 +223,6 @@
   <updated>2022-02-21T00:38:22Z</updated>
   <content type="html">
    cl-speedy-lifo is a portable, non-consing, optimized LIFO queue (stack) implementation, which is inspired by cl-speedy-queue.
-  </content>
- </entry>
- <entry>
-  <title>g000001: cl-bench-in-single-file</title>
-  <author>
-   <name>g000001</name>
-  </author>
-  <link href="https://github.com/g000001/cl-bench-in-single-file" />
-  <id>urn:rprimus:github:g000001:cl-bench-in-single-file</id>
-  <published>2022-02-20T23:09:00Z</published>
-  <updated>2022-02-20T23:09:00Z</updated>
-  <content type="html">
-   cl-bench-in-single-file
-  </content>
- </entry>
- <entry>
-  <title>mrossini-ethz: c-string-literals</title>
-  <author>
-   <name>mrossini-ethz</name>
-  </author>
-  <link href="https://github.com/mrossini-ethz/c-string-literals" />
-  <id>urn:rprimus:github:mrossini-ethz:c-string-literals</id>
-  <published>2022-02-20T14:55:26Z</published>
-  <updated>2022-02-20T14:55:26Z</updated>
-  <content type="html">
-   Enables string literals like in the c programming language.
-  </content>
- </entry>
- <entry>
-  <title>40ants: 40ants-critic</title>
-  <author>
-   <name>40ants</name>
-  </author>
-  <link href="https://github.com/40ants/40ants-critic" />
-  <id>urn:rprimus:github:40ants:40ants-critic</id>
-  <published>2022-02-20T09:46:42Z</published>
-  <updated>2022-02-20T09:46:42Z</updated>
-  <content type="html">
-   A wrapper around LISP-CRITIC which provides a better interface to analyze ASDF systems and a command-line interface.
-  </content>
- </entry>
- <entry>
-  <title>hiroki012: DoorOfTenbiki</title>
-  <author>
-   <name>hiroki012</name>
-  </author>
-  <link href="https://github.com/hiroki012/DoorOfTenbiki" />
-  <id>urn:rprimus:github:hiroki012:DoorOfTenbiki</id>
-  <published>2022-02-20T08:28:12Z</published>
-  <updated>2022-02-20T08:28:12Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jmdaemon: alphabetize</title>
-  <author>
-   <name>jmdaemon</name>
-  </author>
-  <link href="https://github.com/jmdaemon/alphabetize" />
-  <id>urn:rprimus:github:jmdaemon:alphabetize</id>
-  <published>2022-02-20T05:22:23Z</published>
-  <updated>2022-02-20T05:22:23Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jhunt: buildr</title>
-  <author>
-   <name>jhunt</name>
-  </author>
-  <link href="https://github.com/jhunt/buildr" />
-  <id>urn:rprimus:github:jhunt:buildr</id>
-  <published>2022-02-20T02:15:18Z</published>
-  <updated>2022-02-20T02:15:18Z</updated>
-  <content type="html">
-   A Docker Image Upgrader &amp; Rebuilder
-  </content>
- </entry>
- <entry>
-  <title>jhunt: cl-underweb</title>
-  <author>
-   <name>jhunt</name>
-  </author>
-  <link href="https://github.com/jhunt/cl-underweb" />
-  <id>urn:rprimus:github:jhunt:cl-underweb</id>
-  <published>2022-02-20T02:13:08Z</published>
-  <updated>2022-02-20T02:13:08Z</updated>
-  <content type="html">
-   A Hunchentoot-based Web Framework
   </content>
  </entry>
 </feed>
