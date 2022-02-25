@@ -2,8 +2,125 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2022-02-24T09:47:44Z</updated>
+<updated>2022-02-25T01:22:17Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>vugomars: emacs-vanilla</title>
+  <author>
+   <name>vugomars</name>
+  </author>
+  <link href="https://github.com/vugomars/emacs-vanilla" />
+  <id>urn:rprimus:github:vugomars:emacs-vanilla</id>
+  <published>2022-02-25T01:22:17Z</published>
+  <updated>2022-02-25T01:22:17Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>niwaka-ame: emacs-gene-tools</title>
+  <author>
+   <name>niwaka-ame</name>
+  </author>
+  <link href="https://github.com/niwaka-ame/emacs-gene-tools" />
+  <id>urn:rprimus:github:niwaka-ame:emacs-gene-tools</id>
+  <published>2022-02-24T22:32:05Z</published>
+  <updated>2022-02-24T22:32:05Z</updated>
+  <content type="html">
+   An interactive UI to query gene info in a given organism.
+  </content>
+ </entry>
+ <entry>
+  <title>vinikira: flymake-credo</title>
+  <author>
+   <name>vinikira</name>
+  </author>
+  <link href="https://github.com/vinikira/flymake-credo" />
+  <id>urn:rprimus:github:vinikira:flymake-credo</id>
+  <published>2022-02-24T21:37:03Z</published>
+  <updated>2022-02-24T21:37:03Z</updated>
+  <content type="html">
+   Flymake backend for Credo.
+  </content>
+ </entry>
+ <entry>
+  <title>carnotweat: ewm</title>
+  <author>
+   <name>carnotweat</name>
+  </author>
+  <link href="https://github.com/carnotweat/ewm" />
+  <id>urn:rprimus:github:carnotweat:ewm</id>
+  <published>2022-02-24T21:35:20Z</published>
+  <updated>2022-02-24T21:35:20Z</updated>
+  <content type="html">
+   elisp scripts for public interfaceable window manager functions to be used with exwm 
+  </content>
+ </entry>
+ <entry>
+  <title>ayumoon: .emacs.d</title>
+  <author>
+   <name>ayumoon</name>
+  </author>
+  <link href="https://github.com/ayumoon/.emacs.d" />
+  <id>urn:rprimus:github:ayumoon:.emacs.d</id>
+  <published>2022-02-24T15:31:29Z</published>
+  <updated>2022-02-24T15:31:29Z</updated>
+  <content type="html">
+   configuration file for emacs.
+  </content>
+ </entry>
+ <entry>
+  <title>tmshort: tmuxbuf</title>
+  <author>
+   <name>tmshort</name>
+  </author>
+  <link href="https://github.com/tmshort/tmuxbuf" />
+  <id>urn:rprimus:github:tmshort:tmuxbuf</id>
+  <published>2022-02-24T14:46:45Z</published>
+  <updated>2022-02-24T14:46:45Z</updated>
+  <content type="html">
+   Simple emacs-tmux buffer integration
+  </content>
+ </entry>
+ <entry>
+  <title>arthurfish: .emacs.d</title>
+  <author>
+   <name>arthurfish</name>
+  </author>
+  <link href="https://github.com/arthurfish/.emacs.d" />
+  <id>urn:rprimus:github:arthurfish:.emacs.d</id>
+  <published>2022-02-24T14:29:04Z</published>
+  <updated>2022-02-24T14:29:04Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>gianlucaguerra: dotfiles</title>
+  <author>
+   <name>gianlucaguerra</name>
+  </author>
+  <link href="https://github.com/gianlucaguerra/dotfiles" />
+  <id>urn:rprimus:github:gianlucaguerra:dotfiles</id>
+  <published>2022-02-24T13:52:51Z</published>
+  <updated>2022-02-24T13:52:51Z</updated>
+  <content type="html">
+   Dotfiles collection
+  </content>
+ </entry>
+ <entry>
+  <title>bigos: literal-use-package</title>
+  <author>
+   <name>bigos</name>
+  </author>
+  <link href="https://github.com/bigos/literal-use-package" />
+  <id>urn:rprimus:github:bigos:literal-use-package</id>
+  <published>2022-02-24T12:42:44Z</published>
+  <updated>2022-02-24T12:42:44Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>chenmuyao: doom_config</title>
   <author>
@@ -378,215 +495,7 @@
   <published>2022-02-23T00:06:44Z</published>
   <updated>2022-02-23T00:06:44Z</updated>
   <content type="html">
-   Mirror of the satchel package from GNU ELPA, current as of 2022-02-24
-  </content>
- </entry>
- <entry>
-  <title>rafalraczka: config-emacs</title>
-  <author>
-   <name>rafalraczka</name>
-  </author>
-  <link href="https://github.com/rafalraczka/config-emacs" />
-  <id>urn:rprimus:github:rafalraczka:config-emacs</id>
-  <published>2022-02-22T21:39:03Z</published>
-  <updated>2022-02-22T21:39:03Z</updated>
-  <content type="html">
-   Emacs configuration
-  </content>
- </entry>
- <entry>
-  <title>n1tsu: minimal-emacs</title>
-  <author>
-   <name>n1tsu</name>
-  </author>
-  <link href="https://github.com/n1tsu/minimal-emacs" />
-  <id>urn:rprimus:github:n1tsu:minimal-emacs</id>
-  <published>2022-02-22T20:16:05Z</published>
-  <updated>2022-02-22T20:16:05Z</updated>
-  <content type="html">
-   Minimal Doom like configuration
-  </content>
- </entry>
- <entry>
-  <title>maxperea: conf</title>
-  <author>
-   <name>maxperea</name>
-  </author>
-  <link href="https://github.com/maxperea/conf" />
-  <id>urn:rprimus:github:maxperea:conf</id>
-  <published>2022-02-22T19:25:11Z</published>
-  <updated>2022-02-22T19:25:11Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ericdscott: emacs-stuff</title>
-  <author>
-   <name>ericdscott</name>
-  </author>
-  <link href="https://github.com/ericdscott/emacs-stuff" />
-  <id>urn:rprimus:github:ericdscott:emacs-stuff</id>
-  <published>2022-02-22T18:35:26Z</published>
-  <updated>2022-02-22T18:35:26Z</updated>
-  <content type="html">
-   emacs-lisp files
-  </content>
- </entry>
- <entry>
-  <title>icole: .dotfiles</title>
-  <author>
-   <name>icole</name>
-  </author>
-  <link href="https://github.com/icole/.dotfiles" />
-  <id>urn:rprimus:github:icole:.dotfiles</id>
-  <published>2022-02-22T17:15:10Z</published>
-  <updated>2022-02-22T17:15:10Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>minad: org-modern</title>
-  <author>
-   <name>minad</name>
-  </author>
-  <link href="https://github.com/minad/org-modern" />
-  <id>urn:rprimus:github:minad:org-modern</id>
-  <published>2022-02-22T16:10:14Z</published>
-  <updated>2022-02-22T16:10:14Z</updated>
-  <content type="html">
-   Modern Org Style
-  </content>
- </entry>
- <entry>
-  <title>wrathenn: bmstu_falp</title>
-  <author>
-   <name>wrathenn</name>
-  </author>
-  <link href="https://github.com/wrathenn/bmstu_falp" />
-  <id>urn:rprimus:github:wrathenn:bmstu_falp</id>
-  <published>2022-02-22T15:20:34Z</published>
-  <updated>2022-02-22T15:20:34Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Melchizedek6809: morgentau-theme</title>
-  <author>
-   <name>Melchizedek6809</name>
-  </author>
-  <link href="https://github.com/Melchizedek6809/morgentau-theme" />
-  <id>urn:rprimus:github:Melchizedek6809:morgentau-theme</id>
-  <published>2022-02-22T12:42:31Z</published>
-  <updated>2022-02-22T12:42:31Z</updated>
-  <content type="html">
-   Simple, dark Emacs Theme
-  </content>
- </entry>
- <entry>
-  <title>cszhe2000: .emacs.d</title>
-  <author>
-   <name>cszhe2000</name>
-  </author>
-  <link href="https://github.com/cszhe2000/.emacs.d" />
-  <id>urn:rprimus:github:cszhe2000:.emacs.d</id>
-  <published>2022-02-22T10:59:26Z</published>
-  <updated>2022-02-22T10:59:26Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>doode-z: emacs-phone</title>
-  <author>
-   <name>doode-z</name>
-  </author>
-  <link href="https://github.com/doode-z/emacs-phone" />
-  <id>urn:rprimus:github:doode-z:emacs-phone</id>
-  <published>2022-02-22T09:44:26Z</published>
-  <updated>2022-02-22T09:44:26Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jcs-elpa: electric-indent-sexp</title>
-  <author>
-   <name>jcs-elpa</name>
-  </author>
-  <link href="https://github.com/jcs-elpa/electric-indent-sexp" />
-  <id>urn:rprimus:github:jcs-elpa:electric-indent-sexp</id>
-  <published>2022-02-22T09:09:08Z</published>
-  <updated>2022-02-22T09:09:08Z</updated>
-  <content type="html">
-   Automatically indent entire balanced expression block
-  </content>
- </entry>
- <entry>
-  <title>AlynxZhou: alynx-emacs-config</title>
-  <author>
-   <name>AlynxZhou</name>
-  </author>
-  <link href="https://github.com/AlynxZhou/alynx-emacs-config" />
-  <id>urn:rprimus:github:AlynxZhou:alynx-emacs-config</id>
-  <published>2022-02-22T08:29:13Z</published>
-  <updated>2022-02-22T08:29:13Z</updated>
-  <content type="html">
-   Alynx&#039;s Emacs configurations.
-  </content>
- </entry>
- <entry>
-  <title>zz-Jade: .doom.d</title>
-  <author>
-   <name>zz-Jade</name>
-  </author>
-  <link href="https://github.com/zz-Jade/.doom.d" />
-  <id>urn:rprimus:github:zz-Jade:.doom.d</id>
-  <published>2022-02-22T08:21:54Z</published>
-  <updated>2022-02-22T08:21:54Z</updated>
-  <content type="html">
-   doom emacs configuration
-  </content>
- </entry>
- <entry>
-  <title>algon-ns: nec.emacs.d</title>
-  <author>
-   <name>algon-ns</name>
-  </author>
-  <link href="https://github.com/algon-ns/nec.emacs.d" />
-  <id>urn:rprimus:github:algon-ns:nec.emacs.d</id>
-  <published>2022-02-22T05:20:16Z</published>
-  <updated>2022-02-22T05:20:16Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>emacsbliss: ox-docusaurus</title>
-  <author>
-   <name>emacsbliss</name>
-  </author>
-  <link href="https://github.com/emacsbliss/ox-docusaurus" />
-  <id>urn:rprimus:github:emacsbliss:ox-docusaurus</id>
-  <published>2022-02-22T01:35:03Z</published>
-  <updated>2022-02-22T01:35:03Z</updated>
-  <content type="html">
-   org mode export backend for Docusaurus compatible markdown
-  </content>
- </entry>
- <entry>
-  <title>Tunkert: emacs-2022-setup</title>
-  <author>
-   <name>Tunkert</name>
-  </author>
-  <link href="https://github.com/Tunkert/emacs-2022-setup" />
-  <id>urn:rprimus:github:Tunkert:emacs-2022-setup</id>
-  <published>2022-02-22T00:52:34Z</published>
-  <updated>2022-02-22T00:52:34Z</updated>
-  <content type="html">
-   
+   Mirror of the satchel package from GNU ELPA, current as of 2022-02-25
   </content>
  </entry>
 </feed>
