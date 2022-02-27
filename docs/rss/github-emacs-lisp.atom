@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2022-02-25T23:34:11Z</updated>
+<updated>2022-02-26T20:45:05Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>dw011: dotfiles</title>
+  <author>
+   <name>dw011</name>
+  </author>
+  <link href="https://github.com/dw011/dotfiles" />
+  <id>urn:rprimus:github:dw011:dotfiles</id>
+  <published>2022-02-26T20:45:05Z</published>
+  <updated>2022-02-26T20:45:05Z</updated>
+  <content type="html">
+   My preferences and settings for various tools
+  </content>
+ </entry>
+ <entry>
+  <title>c-elliott96: ORG-public</title>
+  <author>
+   <name>c-elliott96</name>
+  </author>
+  <link href="https://github.com/c-elliott96/ORG-public" />
+  <id>urn:rprimus:github:c-elliott96:ORG-public</id>
+  <published>2022-02-26T20:04:55Z</published>
+  <updated>2022-02-26T20:04:55Z</updated>
+  <content type="html">
+   My publicly facing ORG repo
+  </content>
+ </entry>
+ <entry>
+  <title>ZeRealStig: .doom.d</title>
+  <author>
+   <name>ZeRealStig</name>
+  </author>
+  <link href="https://github.com/ZeRealStig/.doom.d" />
+  <id>urn:rprimus:github:ZeRealStig:.doom.d</id>
+  <published>2022-02-26T12:16:33Z</published>
+  <updated>2022-02-26T12:16:33Z</updated>
+  <content type="html">
+   Doom Emacs config
+  </content>
+ </entry>
+ <entry>
+  <title>isamert: sozluk.el</title>
+  <author>
+   <name>isamert</name>
+  </author>
+  <link href="https://github.com/isamert/sozluk.el" />
+  <id>urn:rprimus:github:isamert:sozluk.el</id>
+  <published>2022-02-26T11:47:58Z</published>
+  <updated>2022-02-26T11:47:58Z</updated>
+  <content type="html">
+   An online Turkish dictonary
+  </content>
+ </entry>
  <entry>
   <title>excalamus: amburn-theme.el</title>
   <author>
@@ -169,227 +221,6 @@
   <id>urn:rprimus:github:vugomars:emacs-vanilla</id>
   <published>2022-02-25T01:22:17Z</published>
   <updated>2022-02-25T01:22:17Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>niwaka-ame: emacs-gene-tools</title>
-  <author>
-   <name>niwaka-ame</name>
-  </author>
-  <link href="https://github.com/niwaka-ame/emacs-gene-tools" />
-  <id>urn:rprimus:github:niwaka-ame:emacs-gene-tools</id>
-  <published>2022-02-24T22:32:05Z</published>
-  <updated>2022-02-24T22:32:05Z</updated>
-  <content type="html">
-   An interactive UI to query gene info in a given organism.
-  </content>
- </entry>
- <entry>
-  <title>vinikira: flymake-credo</title>
-  <author>
-   <name>vinikira</name>
-  </author>
-  <link href="https://github.com/vinikira/flymake-credo" />
-  <id>urn:rprimus:github:vinikira:flymake-credo</id>
-  <published>2022-02-24T21:37:03Z</published>
-  <updated>2022-02-24T21:37:03Z</updated>
-  <content type="html">
-   Flymake backend for Credo.
-  </content>
- </entry>
- <entry>
-  <title>carnotweat: ewm</title>
-  <author>
-   <name>carnotweat</name>
-  </author>
-  <link href="https://github.com/carnotweat/ewm" />
-  <id>urn:rprimus:github:carnotweat:ewm</id>
-  <published>2022-02-24T21:35:20Z</published>
-  <updated>2022-02-24T21:35:20Z</updated>
-  <content type="html">
-   elisp scripts for public interfaceable window manager functions to be used with exwm 
-  </content>
- </entry>
- <entry>
-  <title>ayumoon: .emacs.d</title>
-  <author>
-   <name>ayumoon</name>
-  </author>
-  <link href="https://github.com/ayumoon/.emacs.d" />
-  <id>urn:rprimus:github:ayumoon:.emacs.d</id>
-  <published>2022-02-24T15:31:29Z</published>
-  <updated>2022-02-24T15:31:29Z</updated>
-  <content type="html">
-   configuration file for emacs.
-  </content>
- </entry>
- <entry>
-  <title>tmshort: tmuxbuf</title>
-  <author>
-   <name>tmshort</name>
-  </author>
-  <link href="https://github.com/tmshort/tmuxbuf" />
-  <id>urn:rprimus:github:tmshort:tmuxbuf</id>
-  <published>2022-02-24T14:46:45Z</published>
-  <updated>2022-02-24T14:46:45Z</updated>
-  <content type="html">
-   Simple emacs-tmux buffer integration
-  </content>
- </entry>
- <entry>
-  <title>arthurfish: .emacs.d</title>
-  <author>
-   <name>arthurfish</name>
-  </author>
-  <link href="https://github.com/arthurfish/.emacs.d" />
-  <id>urn:rprimus:github:arthurfish:.emacs.d</id>
-  <published>2022-02-24T14:29:04Z</published>
-  <updated>2022-02-24T14:29:04Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>gianlucaguerra: dotfiles</title>
-  <author>
-   <name>gianlucaguerra</name>
-  </author>
-  <link href="https://github.com/gianlucaguerra/dotfiles" />
-  <id>urn:rprimus:github:gianlucaguerra:dotfiles</id>
-  <published>2022-02-24T13:52:51Z</published>
-  <updated>2022-02-24T13:52:51Z</updated>
-  <content type="html">
-   Dotfiles collection
-  </content>
- </entry>
- <entry>
-  <title>bigos: literal-use-package</title>
-  <author>
-   <name>bigos</name>
-  </author>
-  <link href="https://github.com/bigos/literal-use-package" />
-  <id>urn:rprimus:github:bigos:literal-use-package</id>
-  <published>2022-02-24T12:42:44Z</published>
-  <updated>2022-02-24T12:42:44Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>chenmuyao: doom_config</title>
-  <author>
-   <name>chenmuyao</name>
-  </author>
-  <link href="https://github.com/chenmuyao/doom_config" />
-  <id>urn:rprimus:github:chenmuyao:doom_config</id>
-  <published>2022-02-24T09:47:44Z</published>
-  <updated>2022-02-24T09:47:44Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>antx-code: .emacs.d</title>
-  <author>
-   <name>antx-code</name>
-  </author>
-  <link href="https://github.com/antx-code/.emacs.d" />
-  <id>urn:rprimus:github:antx-code:.emacs.d</id>
-  <published>2022-02-24T09:32:45Z</published>
-  <updated>2022-02-24T09:32:45Z</updated>
-  <content type="html">
-   Antx Emacs - A Simple and Fast Emacs Configuration
-  </content>
- </entry>
- <entry>
-  <title>prenaux: ham</title>
-  <author>
-   <name>prenaux</name>
-  </author>
-  <link href="https://github.com/prenaux/ham" />
-  <id>urn:rprimus:github:prenaux:ham</id>
-  <published>2022-02-24T09:12:50Z</published>
-  <updated>2022-02-24T09:12:50Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>karthink: dired-hist</title>
-  <author>
-   <name>karthink</name>
-  </author>
-  <link href="https://github.com/karthink/dired-hist" />
-  <id>urn:rprimus:github:karthink:dired-hist</id>
-  <published>2022-02-24T08:26:08Z</published>
-  <updated>2022-02-24T08:26:08Z</updated>
-  <content type="html">
-   Traverse dired history in Emacs
-  </content>
- </entry>
- <entry>
-  <title>mhernan88: emacs-redactor</title>
-  <author>
-   <name>mhernan88</name>
-  </author>
-  <link href="https://github.com/mhernan88/emacs-redactor" />
-  <id>urn:rprimus:github:mhernan88:emacs-redactor</id>
-  <published>2022-02-24T08:04:09Z</published>
-  <updated>2022-02-24T08:04:09Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>yothebob: emacs-config</title>
-  <author>
-   <name>yothebob</name>
-  </author>
-  <link href="https://github.com/yothebob/emacs-config" />
-  <id>urn:rprimus:github:yothebob:emacs-config</id>
-  <published>2022-02-24T04:00:11Z</published>
-  <updated>2022-02-24T04:00:11Z</updated>
-  <content type="html">
-   my emacs dot file to share around (work, home, laptop, etc...)
-  </content>
- </entry>
- <entry>
-  <title>singalhimanshu: .emacs.d</title>
-  <author>
-   <name>singalhimanshu</name>
-  </author>
-  <link href="https://github.com/singalhimanshu/.emacs.d" />
-  <id>urn:rprimus:github:singalhimanshu:.emacs.d</id>
-  <published>2022-02-24T03:45:27Z</published>
-  <updated>2022-02-24T03:45:27Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>CoolHandLouis: scratch</title>
-  <author>
-   <name>CoolHandLouis</name>
-  </author>
-  <link href="https://github.com/CoolHandLouis/scratch" />
-  <id>urn:rprimus:github:CoolHandLouis:scratch</id>
-  <published>2022-02-24T03:06:46Z</published>
-  <updated>2022-02-24T03:06:46Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>harold-r: emacs.d</title>
-  <author>
-   <name>harold-r</name>
-  </author>
-  <link href="https://github.com/harold-r/emacs.d" />
-  <id>urn:rprimus:github:harold-r:emacs.d</id>
-  <published>2022-02-24T01:51:20Z</published>
-  <updated>2022-02-24T01:51:20Z</updated>
   <content type="html">
    
   </content>

@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2022-02-26T02:13:20Z</updated>
+<updated>2022-02-26T21:29:03Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>addycb: Term-Language-Compiler</title>
+  <author>
+   <name>addycb</name>
+  </author>
+  <link href="https://github.com/addycb/Term-Language-Compiler" />
+  <id>urn:rprimus:github:addycb:Term-Language-Compiler</id>
+  <published>2022-02-26T21:29:03Z</published>
+  <updated>2022-02-26T21:29:03Z</updated>
+  <content type="html">
+   Compiles a high level functional language from specified stack language in OCAML. Course Project for CS320: Concepts in Programming Languages
+  </content>
+ </entry>
+ <entry>
+  <title>m4c0: pompom</title>
+  <author>
+   <name>m4c0</name>
+  </author>
+  <link href="https://github.com/m4c0/pompom" />
+  <id>urn:rprimus:github:m4c0:pompom</id>
+  <published>2022-02-26T13:35:27Z</published>
+  <updated>2022-02-26T13:35:27Z</updated>
+  <content type="html">
+   OCaml library to parse/process Maven POM files
+  </content>
+ </entry>
+ <entry>
+  <title>SamuelGallay: SiteDeClasse</title>
+  <author>
+   <name>SamuelGallay</name>
+  </author>
+  <link href="https://github.com/SamuelGallay/SiteDeClasse" />
+  <id>urn:rprimus:github:SamuelGallay:SiteDeClasse</id>
+  <published>2022-02-26T11:38:46Z</published>
+  <updated>2022-02-26T11:38:46Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>danielquinti: ocaml-assignments</title>
+  <author>
+   <name>danielquinti</name>
+  </author>
+  <link href="https://github.com/danielquinti/ocaml-assignments" />
+  <id>urn:rprimus:github:danielquinti:ocaml-assignments</id>
+  <published>2022-02-26T10:48:22Z</published>
+  <updated>2022-02-26T10:48:22Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>danielquinti: ocaml-lambda-interpreter</title>
+  <author>
+   <name>danielquinti</name>
+  </author>
+  <link href="https://github.com/danielquinti/ocaml-lambda-interpreter" />
+  <id>urn:rprimus:github:danielquinti:ocaml-lambda-interpreter</id>
+  <published>2022-02-26T08:52:59Z</published>
+  <updated>2022-02-26T08:52:59Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>UberPyro: prowlc</title>
   <author>
@@ -158,84 +223,6 @@
   <updated>2022-02-25T06:22:57Z</updated>
   <content type="html">
    OCaml UDP networking example using Bin_prot
-  </content>
- </entry>
- <entry>
-  <title>sanette: bogue-cairo</title>
-  <author>
-   <name>sanette</name>
-  </author>
-  <link href="https://github.com/sanette/bogue-cairo" />
-  <id>urn:rprimus:github:sanette:bogue-cairo</id>
-  <published>2022-02-24T20:52:09Z</published>
-  <updated>2022-02-24T20:52:09Z</updated>
-  <content type="html">
-   Add-on to BOGUE. Enable the use of Cairo drawing functions in Bogue&#039;s Sdl_area
-  </content>
- </entry>
- <entry>
-  <title>GusPetito: cs3110-final-project</title>
-  <author>
-   <name>GusPetito</name>
-  </author>
-  <link href="https://github.com/GusPetito/cs3110-final-project" />
-  <id>urn:rprimus:github:GusPetito:cs3110-final-project</id>
-  <published>2022-02-24T18:30:57Z</published>
-  <updated>2022-02-24T18:30:57Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>renatoalencar: naivecoin-ocaml</title>
-  <author>
-   <name>renatoalencar</name>
-  </author>
-  <link href="https://github.com/renatoalencar/naivecoin-ocaml" />
-  <id>urn:rprimus:github:renatoalencar:naivecoin-ocaml</id>
-  <published>2022-02-24T16:40:24Z</published>
-  <updated>2022-02-24T16:40:24Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>vijay-jaisankar: learning-ocaml</title>
-  <author>
-   <name>vijay-jaisankar</name>
-  </author>
-  <link href="https://github.com/vijay-jaisankar/learning-ocaml" />
-  <id>urn:rprimus:github:vijay-jaisankar:learning-ocaml</id>
-  <published>2022-02-24T12:45:22Z</published>
-  <updated>2022-02-24T12:45:22Z</updated>
-  <content type="html">
-   All of my ocaml programs made while learning the language
-  </content>
- </entry>
- <entry>
-  <title>mattiasdrp: usubot</title>
-  <author>
-   <name>mattiasdrp</name>
-  </author>
-  <link href="https://github.com/mattiasdrp/usubot" />
-  <id>urn:rprimus:github:mattiasdrp:usubot</id>
-  <published>2022-02-24T10:01:12Z</published>
-  <updated>2022-02-24T10:01:12Z</updated>
-  <content type="html">
-   Bot for usuba
-  </content>
- </entry>
- <entry>
-  <title>dinakajoy: simple_mini_github</title>
-  <author>
-   <name>dinakajoy</name>
-  </author>
-  <link href="https://github.com/dinakajoy/simple_mini_github" />
-  <id>urn:rprimus:github:dinakajoy:simple_mini_github</id>
-  <published>2022-02-24T05:16:24Z</published>
-  <updated>2022-02-24T05:16:24Z</updated>
-  <content type="html">
-   A simple app to test out irmin and dream
   </content>
  </entry>
 </feed>

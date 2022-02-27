@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2022-02-26T09:40:36Z</updated>
+<updated>2022-02-27T01:15:38Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>ct-clmsn: nofi</title>
+  <author>
+   <name>ct-clmsn</name>
+  </author>
+  <link href="https://github.com/ct-clmsn/nofi" />
+  <id>urn:rprimus:github:ct-clmsn:nofi</id>
+  <published>2022-02-27T01:15:38Z</published>
+  <updated>2022-02-27T01:15:38Z</updated>
+  <content type="html">
+   Nim wrapper of rofi
+  </content>
+ </entry>
+ <entry>
+  <title>a4318: natcmp</title>
+  <author>
+   <name>a4318</name>
+  </author>
+  <link href="https://github.com/a4318/natcmp" />
+  <id>urn:rprimus:github:a4318:natcmp</id>
+  <published>2022-02-26T12:40:09Z</published>
+  <updated>2022-02-26T12:40:09Z</updated>
+  <content type="html">
+   Pure Nim implementation of human-natural string comparison algorithm
+  </content>
+ </entry>
  <entry>
   <title>Zbigniewlatka: kalkulator1</title>
   <author>
@@ -40,7 +66,7 @@
   <published>2022-02-25T21:28:48Z</published>
   <updated>2022-02-25T21:28:48Z</updated>
   <content type="html">
-   a fast HTML templating language for Nim
+   a slow HTML templating language for Nim
   </content>
  </entry>
  <entry>
@@ -93,19 +119,6 @@
   <updated>2022-02-25T08:43:09Z</updated>
   <content type="html">
    A GUI app in which you can select from multiple URL shortners to shorten a URL.
-  </content>
- </entry>
- <entry>
-  <title>ping-zh: competitive-programming</title>
-  <author>
-   <name>ping-zh</name>
-  </author>
-  <link href="https://github.com/ping-zh/competitive-programming" />
-  <id>urn:rprimus:github:ping-zh:competitive-programming</id>
-  <published>2022-02-24T20:53:25Z</published>
-  <updated>2022-02-24T20:53:25Z</updated>
-  <content type="html">
-   My solutions to the algorithm challenges from multiple online competitive programming websites.
   </content>
  </entry>
 </feed>

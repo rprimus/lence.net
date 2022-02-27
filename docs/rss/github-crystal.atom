@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2022-02-26T05:02:31Z</updated>
+<updated>2022-02-27T02:06:08Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>markmathis: bencode</title>
+  <author>
+   <name>markmathis</name>
+  </author>
+  <link href="https://github.com/markmathis/bencode" />
+  <id>urn:rprimus:github:markmathis:bencode</id>
+  <published>2022-02-27T02:06:08Z</published>
+  <updated>2022-02-27T02:06:08Z</updated>
+  <content type="html">
+   Bencode encoder/decoder for Crystal
+  </content>
+ </entry>
+ <entry>
+  <title>rymiel: jis2</title>
+  <author>
+   <name>rymiel</name>
+  </author>
+  <link href="https://github.com/rymiel/jis2" />
+  <id>urn:rprimus:github:rymiel:jis2</id>
+  <published>2022-02-26T16:37:36Z</published>
+  <updated>2022-02-26T16:37:36Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>gutoso: Crystal-Strings</title>
   <author>
@@ -41,32 +67,6 @@
   <updated>2022-02-25T01:46:34Z</updated>
   <content type="html">
    Calculadora bÃ¡sica feita utilizando do mais simples do Crystal
-  </content>
- </entry>
- <entry>
-  <title>GeopJr: tiny-stats-template</title>
-  <author>
-   <name>GeopJr</name>
-  </author>
-  <link href="https://github.com/GeopJr/tiny-stats-template" />
-  <id>urn:rprimus:github:GeopJr:tiny-stats-template</id>
-  <published>2022-02-24T15:29:50Z</published>
-  <updated>2022-02-24T15:29:50Z</updated>
-  <content type="html">
-   A tiny system monitor used as a template for GTK4 + Crystal apps
-  </content>
- </entry>
- <entry>
-  <title>florianfmmartin: crystal-docker-template</title>
-  <author>
-   <name>florianfmmartin</name>
-  </author>
-  <link href="https://github.com/florianfmmartin/crystal-docker-template" />
-  <id>urn:rprimus:github:florianfmmartin:crystal-docker-template</id>
-  <published>2022-02-24T01:22:58Z</published>
-  <updated>2022-02-24T01:22:58Z</updated>
-  <content type="html">
-   A template to start a Crystal project in a Docker, so you worry less about setup and more about your code
   </content>
  </entry>
 </feed>
