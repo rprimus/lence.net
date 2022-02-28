@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2022-02-27T01:15:38Z</updated>
+<updated>2022-02-27T21:29:25Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>havardjohn: xmlserde.nim</title>
+  <author>
+   <name>havardjohn</name>
+  </author>
+  <link href="https://github.com/havardjohn/xmlserde.nim" />
+  <id>urn:rprimus:github:havardjohn:xmlserde.nim</id>
+  <published>2022-02-27T21:29:25Z</published>
+  <updated>2022-02-27T21:29:25Z</updated>
+  <content type="html">
+   XML marshalling for Nim
+  </content>
+ </entry>
+ <entry>
+  <title>Dotinkasra: ErocoolAPI_nim</title>
+  <author>
+   <name>Dotinkasra</name>
+  </author>
+  <link href="https://github.com/Dotinkasra/ErocoolAPI_nim" />
+  <id>urn:rprimus:github:Dotinkasra:ErocoolAPI_nim</id>
+  <published>2022-02-27T14:49:25Z</published>
+  <updated>2022-02-27T14:49:25Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>ct-clmsn: nofi</title>
   <author>
@@ -14,7 +40,7 @@
   <published>2022-02-27T01:15:38Z</published>
   <updated>2022-02-27T01:15:38Z</updated>
   <content type="html">
-   Nim wrapper of rofi
+   Nim wrapper of ROFI (Rust Open Fabrics Interface)
   </content>
  </entry>
  <entry>
@@ -54,71 +80,6 @@
   <updated>2022-02-26T02:54:13Z</updated>
   <content type="html">
    Extra functionality on top of std/times
-  </content>
- </entry>
- <entry>
-  <title>ajusa: dekao</title>
-  <author>
-   <name>ajusa</name>
-  </author>
-  <link href="https://github.com/ajusa/dekao" />
-  <id>urn:rprimus:github:ajusa:dekao</id>
-  <published>2022-02-25T21:28:48Z</published>
-  <updated>2022-02-25T21:28:48Z</updated>
-  <content type="html">
-   a slow HTML templating language for Nim
-  </content>
- </entry>
- <entry>
-  <title>bartimus-primed: shared_code</title>
-  <author>
-   <name>bartimus-primed</name>
-  </author>
-  <link href="https://github.com/bartimus-primed/shared_code" />
-  <id>urn:rprimus:github:bartimus-primed:shared_code</id>
-  <published>2022-02-25T18:37:16Z</published>
-  <updated>2022-02-25T18:37:16Z</updated>
-  <content type="html">
-   troubleshooting nim
-  </content>
- </entry>
- <entry>
-  <title>hilbertshotel: uncle</title>
-  <author>
-   <name>hilbertshotel</name>
-  </author>
-  <link href="https://github.com/hilbertshotel/uncle" />
-  <id>urn:rprimus:github:hilbertshotel:uncle</id>
-  <published>2022-02-25T16:46:19Z</published>
-  <updated>2022-02-25T16:46:19Z</updated>
-  <content type="html">
-   A repl tool for handling data and building prediction models.
-  </content>
- </entry>
- <entry>
-  <title>we-can-panic: nimgame</title>
-  <author>
-   <name>we-can-panic</name>
-  </author>
-  <link href="https://github.com/we-can-panic/nimgame" />
-  <id>urn:rprimus:github:we-can-panic:nimgame</id>
-  <published>2022-02-25T09:40:50Z</published>
-  <updated>2022-02-25T09:40:50Z</updated>
-  <content type="html">
-   nim no practice
-  </content>
- </entry>
- <entry>
-  <title>nonimportant: Url-Shortner-GUI-App</title>
-  <author>
-   <name>nonimportant</name>
-  </author>
-  <link href="https://github.com/nonimportant/Url-Shortner-GUI-App" />
-  <id>urn:rprimus:github:nonimportant:Url-Shortner-GUI-App</id>
-  <published>2022-02-25T08:43:09Z</published>
-  <updated>2022-02-25T08:43:09Z</updated>
-  <content type="html">
-   A GUI app in which you can select from multiple URL shortners to shorten a URL.
   </content>
  </entry>
 </feed>
