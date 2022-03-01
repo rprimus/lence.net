@@ -2,19 +2,253 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2022-02-28T09:41:12Z</updated>
+<updated>2022-03-01T00:49:07Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
  <entry>
-  <title>cpobisCC: .emacs.d</title>
+  <title>tasmith: emacs-basic</title>
   <author>
-   <name>cpobisCC</name>
+   <name>tasmith</name>
   </author>
-  <link href="https://github.com/cpobisCC/.emacs.d" />
-  <id>urn:rprimus:github:cpobisCC:.emacs.d</id>
-  <published>2022-02-28T09:41:12Z</published>
-  <updated>2022-02-28T09:41:12Z</updated>
+  <link href="https://github.com/tasmith/emacs-basic" />
+  <id>urn:rprimus:github:tasmith:emacs-basic</id>
+  <published>2022-03-01T00:49:07Z</published>
+  <updated>2022-03-01T00:49:07Z</updated>
   <content type="html">
-   emacs lisp files
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Joshie112358: dotfiles</title>
+  <author>
+   <name>Joshie112358</name>
+  </author>
+  <link href="https://github.com/Joshie112358/dotfiles" />
+  <id>urn:rprimus:github:Joshie112358:dotfiles</id>
+  <published>2022-03-01T00:40:32Z</published>
+  <updated>2022-03-01T00:40:32Z</updated>
+  <content type="html">
+   dotfiles of laptop shiva
+  </content>
+ </entry>
+ <entry>
+  <title>markcol: emacsd</title>
+  <author>
+   <name>markcol</name>
+  </author>
+  <link href="https://github.com/markcol/emacsd" />
+  <id>urn:rprimus:github:markcol:emacsd</id>
+  <published>2022-03-01T00:17:59Z</published>
+  <updated>2022-03-01T00:17:59Z</updated>
+  <content type="html">
+   Emacs configuration (native comp)
+  </content>
+ </entry>
+ <entry>
+  <title>emacs-straight: code-cells</title>
+  <author>
+   <name>emacs-straight</name>
+  </author>
+  <link href="https://github.com/emacs-straight/code-cells" />
+  <id>urn:rprimus:github:emacs-straight:code-cells</id>
+  <published>2022-03-01T00:15:40Z</published>
+  <updated>2022-03-01T00:15:40Z</updated>
+  <content type="html">
+   Mirror of the code-cells package from GNU ELPA, current as of 2022-03-01
+  </content>
+ </entry>
+ <entry>
+  <title>emacs-straight: buffer-env</title>
+  <author>
+   <name>emacs-straight</name>
+  </author>
+  <link href="https://github.com/emacs-straight/buffer-env" />
+  <id>urn:rprimus:github:emacs-straight:buffer-env</id>
+  <published>2022-03-01T00:15:33Z</published>
+  <updated>2022-03-01T00:15:33Z</updated>
+  <content type="html">
+   Mirror of the buffer-env package from GNU ELPA, current as of 2022-03-01
+  </content>
+ </entry>
+ <entry>
+  <title>aelfsyg: read-time.el</title>
+  <author>
+   <name>aelfsyg</name>
+  </author>
+  <link href="https://github.com/aelfsyg/read-time.el" />
+  <id>urn:rprimus:github:aelfsyg:read-time.el</id>
+  <published>2022-03-01T00:01:36Z</published>
+  <updated>2022-03-01T00:01:36Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>aelfsyg: bang.el</title>
+  <author>
+   <name>aelfsyg</name>
+  </author>
+  <link href="https://github.com/aelfsyg/bang.el" />
+  <id>urn:rprimus:github:aelfsyg:bang.el</id>
+  <published>2022-02-28T23:52:00Z</published>
+  <updated>2022-02-28T23:52:00Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>n1had5: emacs</title>
+  <author>
+   <name>n1had5</name>
+  </author>
+  <link href="https://github.com/n1had5/emacs" />
+  <id>urn:rprimus:github:n1had5:emacs</id>
+  <published>2022-02-28T22:16:06Z</published>
+  <updated>2022-02-28T22:16:06Z</updated>
+  <content type="html">
+   My GNU Emacs configuration files.
+  </content>
+ </entry>
+ <entry>
+  <title>PlanetsFuture: danny-emacs</title>
+  <author>
+   <name>PlanetsFuture</name>
+  </author>
+  <link href="https://github.com/PlanetsFuture/danny-emacs" />
+  <id>urn:rprimus:github:PlanetsFuture:danny-emacs</id>
+  <published>2022-02-28T20:04:37Z</published>
+  <updated>2022-02-28T20:04:37Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>jcs-elpa: auto-scroll-bar</title>
+  <author>
+   <name>jcs-elpa</name>
+  </author>
+  <link href="https://github.com/jcs-elpa/auto-scroll-bar" />
+  <id>urn:rprimus:github:jcs-elpa:auto-scroll-bar</id>
+  <published>2022-02-28T19:59:27Z</published>
+  <updated>2022-02-28T19:59:27Z</updated>
+  <content type="html">
+   Automatically show/hide scroll-bar
+  </content>
+ </entry>
+ <entry>
+  <title>huguesmp: doom-config</title>
+  <author>
+   <name>huguesmp</name>
+  </author>
+  <link href="https://github.com/huguesmp/doom-config" />
+  <id>urn:rprimus:github:huguesmp:doom-config</id>
+  <published>2022-02-28T18:32:15Z</published>
+  <updated>2022-02-28T18:32:15Z</updated>
+  <content type="html">
+   Ma configuration pour doom-emacs
+  </content>
+ </entry>
+ <entry>
+  <title>Dspil: viperlanguage-mode</title>
+  <author>
+   <name>Dspil</name>
+  </author>
+  <link href="https://github.com/Dspil/viperlanguage-mode" />
+  <id>urn:rprimus:github:Dspil:viperlanguage-mode</id>
+  <published>2022-02-28T17:30:53Z</published>
+  <updated>2022-02-28T17:30:53Z</updated>
+  <content type="html">
+   Language highlighting for viper
+  </content>
+ </entry>
+ <entry>
+  <title>wresinski: emacs-config</title>
+  <author>
+   <name>wresinski</name>
+  </author>
+  <link href="https://github.com/wresinski/emacs-config" />
+  <id>urn:rprimus:github:wresinski:emacs-config</id>
+  <published>2022-02-28T16:45:29Z</published>
+  <updated>2022-02-28T16:45:29Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>easbarba: gnu</title>
+  <author>
+   <name>easbarba</name>
+  </author>
+  <link href="https://github.com/easbarba/gnu" />
+  <id>urn:rprimus:github:easbarba:gnu</id>
+  <published>2022-02-28T16:08:57Z</published>
+  <updated>2022-02-28T16:08:57Z</updated>
+  <content type="html">
+   gnu.org software dotfiles
+  </content>
+ </entry>
+ <entry>
+  <title>marco-souza: .dotfiles</title>
+  <author>
+   <name>marco-souza</name>
+  </author>
+  <link href="https://github.com/marco-souza/.dotfiles" />
+  <id>urn:rprimus:github:marco-souza:.dotfiles</id>
+  <published>2022-02-28T14:13:31Z</published>
+  <updated>2022-02-28T14:13:31Z</updated>
+  <content type="html">
+   Personal dotfiles configs
+  </content>
+ </entry>
+ <entry>
+  <title>ChanderG: toodoo.el</title>
+  <author>
+   <name>ChanderG</name>
+  </author>
+  <link href="https://github.com/ChanderG/toodoo.el" />
+  <id>urn:rprimus:github:ChanderG:toodoo.el</id>
+  <published>2022-02-28T13:47:57Z</published>
+  <updated>2022-02-28T13:47:57Z</updated>
+  <content type="html">
+   A magical interface to manage Todos built ontop of Org
+  </content>
+ </entry>
+ <entry>
+  <title>frisasz: .emacs.d</title>
+  <author>
+   <name>frisasz</name>
+  </author>
+  <link href="https://github.com/frisasz/.emacs.d" />
+  <id>urn:rprimus:github:frisasz:.emacs.d</id>
+  <published>2022-02-28T13:44:16Z</published>
+  <updated>2022-02-28T13:44:16Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>xFA25E: sdcwoc</title>
+  <author>
+   <name>xFA25E</name>
+  </author>
+  <link href="https://github.com/xFA25E/sdcwoc" />
+  <id>urn:rprimus:github:xFA25E:sdcwoc</id>
+  <published>2022-02-28T12:07:14Z</published>
+  <updated>2022-02-28T12:07:14Z</updated>
+  <content type="html">
+   SDCV interface for Emacs
+  </content>
+ </entry>
+ <entry>
+  <title>jjayeon: prelude-emacs.d</title>
+  <author>
+   <name>jjayeon</name>
+  </author>
+  <link href="https://github.com/jjayeon/prelude-emacs.d" />
+  <id>urn:rprimus:github:jjayeon:prelude-emacs.d</id>
+  <published>2022-02-28T10:44:19Z</published>
+  <updated>2022-02-28T10:44:19Z</updated>
+  <content type="html">
+   repo for my config of Prelude.  https://prelude.emacsredux.com/en/latest/
   </content>
  </entry>
  <entry>
@@ -39,6 +273,19 @@
   <id>urn:rprimus:github:ilyaw39:emacs-macos-config</id>
   <published>2022-02-28T07:41:33Z</published>
   <updated>2022-02-28T07:41:33Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>dnlmsr: dnlmsr.github.io</title>
+  <author>
+   <name>dnlmsr</name>
+  </author>
+  <link href="https://github.com/dnlmsr/dnlmsr.github.io" />
+  <id>urn:rprimus:github:dnlmsr:dnlmsr.github.io</id>
+  <published>2022-02-28T06:32:15Z</published>
+  <updated>2022-02-28T06:32:15Z</updated>
   <content type="html">
    
   </content>
@@ -431,58 +678,6 @@
   <updated>2022-02-27T06:53:42Z</updated>
   <content type="html">
    dotfiles config management with chezmoi
-  </content>
- </entry>
- <entry>
-  <title>dw011: dotfiles</title>
-  <author>
-   <name>dw011</name>
-  </author>
-  <link href="https://github.com/dw011/dotfiles" />
-  <id>urn:rprimus:github:dw011:dotfiles</id>
-  <published>2022-02-26T20:45:05Z</published>
-  <updated>2022-02-26T20:45:05Z</updated>
-  <content type="html">
-   My preferences and settings for various tools
-  </content>
- </entry>
- <entry>
-  <title>c-elliott96: ORG-public</title>
-  <author>
-   <name>c-elliott96</name>
-  </author>
-  <link href="https://github.com/c-elliott96/ORG-public" />
-  <id>urn:rprimus:github:c-elliott96:ORG-public</id>
-  <published>2022-02-26T20:04:55Z</published>
-  <updated>2022-02-26T20:04:55Z</updated>
-  <content type="html">
-   My publicly facing ORG repo
-  </content>
- </entry>
- <entry>
-  <title>ZeRealStig: .doom.d</title>
-  <author>
-   <name>ZeRealStig</name>
-  </author>
-  <link href="https://github.com/ZeRealStig/.doom.d" />
-  <id>urn:rprimus:github:ZeRealStig:.doom.d</id>
-  <published>2022-02-26T12:16:33Z</published>
-  <updated>2022-02-26T12:16:33Z</updated>
-  <content type="html">
-   Doom Emacs config
-  </content>
- </entry>
- <entry>
-  <title>isamert: sozluk.el</title>
-  <author>
-   <name>isamert</name>
-  </author>
-  <link href="https://github.com/isamert/sozluk.el" />
-  <id>urn:rprimus:github:isamert:sozluk.el</id>
-  <published>2022-02-26T11:47:58Z</published>
-  <updated>2022-02-26T11:47:58Z</updated>
-  <content type="html">
-   An online Turkish dictonary
   </content>
  </entry>
 </feed>
