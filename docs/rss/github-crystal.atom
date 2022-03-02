@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2022-02-28T19:22:18Z</updated>
+<updated>2022-03-01T17:19:28Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>alexdong: powertools</title>
+  <author>
+   <name>alexdong</name>
+  </author>
+  <link href="https://github.com/alexdong/powertools" />
+  <id>urn:rprimus:github:alexdong:powertools</id>
+  <published>2022-03-01T17:19:28Z</published>
+  <updated>2022-03-01T17:19:28Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>grepsedawk: horseshoe</title>
+  <author>
+   <name>grepsedawk</name>
+  </author>
+  <link href="https://github.com/grepsedawk/horseshoe" />
+  <id>urn:rprimus:github:grepsedawk:horseshoe</id>
+  <published>2022-03-01T12:50:33Z</published>
+  <updated>2022-03-01T12:50:33Z</updated>
+  <content type="html">
+   A Lucky template with minimal changes from lucky init&quot;
+  </content>
+ </entry>
  <entry>
   <title>SEbbaDK: chorddown</title>
   <author>
@@ -28,45 +54,6 @@
   <updated>2022-02-28T11:33:50Z</updated>
   <content type="html">
    Z3 library for Crystal
-  </content>
- </entry>
- <entry>
-  <title>grepsedawk: shard_jumpstart.cr</title>
-  <author>
-   <name>grepsedawk</name>
-  </author>
-  <link href="https://github.com/grepsedawk/shard_jumpstart.cr" />
-  <id>urn:rprimus:github:grepsedawk:shard_jumpstart.cr</id>
-  <published>2022-02-27T16:37:35Z</published>
-  <updated>2022-02-27T16:37:35Z</updated>
-  <content type="html">
-   Get a Crystal shard running up and quickly!
-  </content>
- </entry>
- <entry>
-  <title>konovod: multiarray</title>
-  <author>
-   <name>konovod</name>
-  </author>
-  <link href="https://github.com/konovod/multiarray" />
-  <id>urn:rprimus:github:konovod:multiarray</id>
-  <published>2022-02-27T09:24:18Z</published>
-  <updated>2022-02-27T09:24:18Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>markmathis: bencode</title>
-  <author>
-   <name>markmathis</name>
-  </author>
-  <link href="https://github.com/markmathis/bencode" />
-  <id>urn:rprimus:github:markmathis:bencode</id>
-  <published>2022-02-27T02:06:08Z</published>
-  <updated>2022-02-27T02:06:08Z</updated>
-  <content type="html">
-   Bencode encoder/decoder for Crystal
   </content>
  </entry>
 </feed>
