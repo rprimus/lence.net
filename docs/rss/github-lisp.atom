@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-03-02T20:48:27Z</updated>
+<updated>2022-03-04T03:08:25Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>IAmRasputin: termctl</title>
+  <author>
+   <name>IAmRasputin</name>
+  </author>
+  <link href="https://github.com/IAmRasputin/termctl" />
+  <id>urn:rprimus:github:IAmRasputin:termctl</id>
+  <published>2022-03-04T03:08:25Z</published>
+  <updated>2022-03-04T03:08:25Z</updated>
+  <content type="html">
+   Common Lisp terminal-emulator control.  Based on code from https://turtleware.eu/posts/Controlling-the-terminal.html
+  </content>
+ </entry>
+ <entry>
+  <title>efimerspan: nx-mapper</title>
+  <author>
+   <name>efimerspan</name>
+  </author>
+  <link href="https://github.com/efimerspan/nx-mapper" />
+  <id>urn:rprimus:github:efimerspan:nx-mapper</id>
+  <published>2022-03-03T22:15:37Z</published>
+  <updated>2022-03-03T22:15:37Z</updated>
+  <content type="html">
+   Define mappings for your browser
+  </content>
+ </entry>
+ <entry>
+  <title>TIPAUME: TIPAUME</title>
+  <author>
+   <name>TIPAUME</name>
+  </author>
+  <link href="https://github.com/TIPAUME/TIPAUME" />
+  <id>urn:rprimus:github:TIPAUME:TIPAUME</id>
+  <published>2022-03-03T19:14:21Z</published>
+  <updated>2022-03-03T19:14:21Z</updated>
+  <content type="html">
+   Config files for my GitHub profile.
+  </content>
+ </entry>
+ <entry>
+  <title>rudolfochrist: ql-https</title>
+  <author>
+   <name>rudolfochrist</name>
+  </author>
+  <link href="https://github.com/rudolfochrist/ql-https" />
+  <id>urn:rprimus:github:rudolfochrist:ql-https</id>
+  <published>2022-03-03T16:34:30Z</published>
+  <updated>2022-03-03T16:34:30Z</updated>
+  <content type="html">
+   HTTPS support for Quicklisp via curl
+  </content>
+ </entry>
+ <entry>
+  <title>Revnixcad: autolisp</title>
+  <author>
+   <name>Revnixcad</name>
+  </author>
+  <link href="https://github.com/Revnixcad/autolisp" />
+  <id>urn:rprimus:github:Revnixcad:autolisp</id>
+  <published>2022-03-03T13:55:21Z</published>
+  <updated>2022-03-03T13:55:21Z</updated>
+  <content type="html">
+   Personal Autolisp routines for AutoCAD
+  </content>
+ </entry>
+ <entry>
+  <title>hyotang666: perme</title>
+  <author>
+   <name>hyotang666</name>
+  </author>
+  <link href="https://github.com/hyotang666/perme" />
+  <id>urn:rprimus:github:hyotang666:perme</id>
+  <published>2022-03-03T13:05:56Z</published>
+  <updated>2022-03-03T13:05:56Z</updated>
+  <content type="html">
+   PERsistent MEmoization for common lisp.
+  </content>
+ </entry>
  <entry>
   <title>joshbutera: connectfour</title>
   <author>
@@ -80,71 +158,6 @@
   <updated>2022-03-02T00:57:39Z</updated>
   <content type="html">
    BIOS/BootROM for CAAR
-  </content>
- </entry>
- <entry>
-  <title>hasanm: lisp-gtk</title>
-  <author>
-   <name>hasanm</name>
-  </author>
-  <link href="https://github.com/hasanm/lisp-gtk" />
-  <id>urn:rprimus:github:hasanm:lisp-gtk</id>
-  <published>2022-03-01T20:57:12Z</published>
-  <updated>2022-03-01T20:57:12Z</updated>
-  <content type="html">
-   Common Lisp meets GTK
-  </content>
- </entry>
- <entry>
-  <title>eethiing: TicTacToe</title>
-  <author>
-   <name>eethiing</name>
-  </author>
-  <link href="https://github.com/eethiing/TicTacToe" />
-  <id>urn:rprimus:github:eethiing:TicTacToe</id>
-  <published>2022-03-01T19:52:37Z</published>
-  <updated>2022-03-01T19:52:37Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>aru-hackZ: xmllib-cl</title>
-  <author>
-   <name>aru-hackZ</name>
-  </author>
-  <link href="https://github.com/aru-hackZ/xmllib-cl" />
-  <id>urn:rprimus:github:aru-hackZ:xmllib-cl</id>
-  <published>2022-03-01T10:17:48Z</published>
-  <updated>2022-03-01T10:17:48Z</updated>
-  <content type="html">
-   XML parser made in Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>gabrielhtg: fibonacci</title>
-  <author>
-   <name>gabrielhtg</name>
-  </author>
-  <link href="https://github.com/gabrielhtg/fibonacci" />
-  <id>urn:rprimus:github:gabrielhtg:fibonacci</id>
-  <published>2022-03-01T09:19:56Z</published>
-  <updated>2022-03-01T09:19:56Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>gabrielhtg: faktorial</title>
-  <author>
-   <name>gabrielhtg</name>
-  </author>
-  <link href="https://github.com/gabrielhtg/faktorial" />
-  <id>urn:rprimus:github:gabrielhtg:faktorial</id>
-  <published>2022-03-01T09:19:39Z</published>
-  <updated>2022-03-01T09:19:39Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
