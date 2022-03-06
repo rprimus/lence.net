@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2022-03-06T06:57:29Z</updated>
+<updated>2022-03-06T08:52:29Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>utoku: emacs</title>
+  <author>
+   <name>utoku</name>
+  </author>
+  <link href="https://github.com/utoku/emacs" />
+  <id>urn:rprimus:github:utoku:emacs</id>
+  <published>2022-03-06T08:52:29Z</published>
+  <updated>2022-03-06T08:52:29Z</updated>
+  <content type="html">
+   My emacs functions, files, and packages.
+  </content>
+ </entry>
+ <entry>
+  <title>jgru: org-roam-consult</title>
+  <author>
+   <name>jgru</name>
+  </author>
+  <link href="https://github.com/jgru/org-roam-consult" />
+  <id>urn:rprimus:github:jgru:org-roam-consult</id>
+  <published>2022-03-06T08:16:17Z</published>
+  <updated>2022-03-06T08:16:17Z</updated>
+  <content type="html">
+   A bunch of convenience functions for operating org-roam with the help of consult 
+  </content>
+ </entry>
+ <entry>
+  <title>jgru: org-roam-desktop</title>
+  <author>
+   <name>jgru</name>
+  </author>
+  <link href="https://github.com/jgru/org-roam-desktop" />
+  <id>urn:rprimus:github:jgru:org-roam-desktop</id>
+  <published>2022-03-06T07:39:18Z</published>
+  <updated>2022-03-06T07:39:18Z</updated>
+  <content type="html">
+   A dead-simple desktop facility for org-roam
+  </content>
+ </entry>
  <entry>
   <title>RaminHAL9001: dir-local-env</title>
   <author>
