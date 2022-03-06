@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-03-05T08:09:11Z</updated>
+<updated>2022-03-06T01:23:54Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>carlosganzerla: cl-sqs</title>
+  <author>
+   <name>carlosganzerla</name>
+  </author>
+  <link href="https://github.com/carlosganzerla/cl-sqs" />
+  <id>urn:rprimus:github:carlosganzerla:cl-sqs</id>
+  <published>2022-03-06T01:23:54Z</published>
+  <updated>2022-03-06T01:23:54Z</updated>
+  <content type="html">
+   Lightweight SQS-like queue API using CL and Woo
+  </content>
+ </entry>
+ <entry>
+  <title>Jaso-N7: aserve-clp</title>
+  <author>
+   <name>Jaso-N7</name>
+  </author>
+  <link href="https://github.com/Jaso-N7/aserve-clp" />
+  <id>urn:rprimus:github:Jaso-N7:aserve-clp</id>
+  <published>2022-03-06T00:02:04Z</published>
+  <updated>2022-03-06T00:02:04Z</updated>
+  <content type="html">
+   Patch that fixes CLP and Webactions to work with Portable AllegroServe (AServe)
+  </content>
+ </entry>
+ <entry>
+  <title>ynusemre: Programing-Languages</title>
+  <author>
+   <name>ynusemre</name>
+  </author>
+  <link href="https://github.com/ynusemre/Programing-Languages" />
+  <id>urn:rprimus:github:ynusemre:Programing-Languages</id>
+  <published>2022-03-05T22:03:51Z</published>
+  <updated>2022-03-05T22:03:51Z</updated>
+  <content type="html">
+   Making Compiler Via Lisp And Studying With Prolog 
+  </content>
+ </entry>
+ <entry>
+  <title>moonstoper: lisp</title>
+  <author>
+   <name>moonstoper</name>
+  </author>
+  <link href="https://github.com/moonstoper/lisp" />
+  <id>urn:rprimus:github:moonstoper:lisp</id>
+  <published>2022-03-05T19:07:36Z</published>
+  <updated>2022-03-05T19:07:36Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>julian-baldwin: lw-argon2</title>
   <author>
@@ -119,71 +171,6 @@
   <updated>2022-03-04T03:08:25Z</updated>
   <content type="html">
    Common Lisp terminal-emulator control.  Based on code from https://turtleware.eu/posts/Controlling-the-terminal.html
-  </content>
- </entry>
- <entry>
-  <title>efimerspan: nx-mapper</title>
-  <author>
-   <name>efimerspan</name>
-  </author>
-  <link href="https://github.com/efimerspan/nx-mapper" />
-  <id>urn:rprimus:github:efimerspan:nx-mapper</id>
-  <published>2022-03-03T22:15:37Z</published>
-  <updated>2022-03-03T22:15:37Z</updated>
-  <content type="html">
-   Define mappings for the Nyxt browser
-  </content>
- </entry>
- <entry>
-  <title>TIPAUME: TIPAUME</title>
-  <author>
-   <name>TIPAUME</name>
-  </author>
-  <link href="https://github.com/TIPAUME/TIPAUME" />
-  <id>urn:rprimus:github:TIPAUME:TIPAUME</id>
-  <published>2022-03-03T19:14:21Z</published>
-  <updated>2022-03-03T19:14:21Z</updated>
-  <content type="html">
-   Config files for my GitHub profile.
-  </content>
- </entry>
- <entry>
-  <title>rudolfochrist: ql-https</title>
-  <author>
-   <name>rudolfochrist</name>
-  </author>
-  <link href="https://github.com/rudolfochrist/ql-https" />
-  <id>urn:rprimus:github:rudolfochrist:ql-https</id>
-  <published>2022-03-03T16:34:30Z</published>
-  <updated>2022-03-03T16:34:30Z</updated>
-  <content type="html">
-   HTTPS support for Quicklisp via curl
-  </content>
- </entry>
- <entry>
-  <title>Revnixcad: autolisp</title>
-  <author>
-   <name>Revnixcad</name>
-  </author>
-  <link href="https://github.com/Revnixcad/autolisp" />
-  <id>urn:rprimus:github:Revnixcad:autolisp</id>
-  <published>2022-03-03T13:55:21Z</published>
-  <updated>2022-03-03T13:55:21Z</updated>
-  <content type="html">
-   Personal Autolisp routines for AutoCAD
-  </content>
- </entry>
- <entry>
-  <title>hyotang666: perme</title>
-  <author>
-   <name>hyotang666</name>
-  </author>
-  <link href="https://github.com/hyotang666/perme" />
-  <id>urn:rprimus:github:hyotang666:perme</id>
-  <published>2022-03-03T13:05:56Z</published>
-  <updated>2022-03-03T13:05:56Z</updated>
-  <content type="html">
-   PERsistent MEmoization for common lisp.
   </content>
  </entry>
 </feed>
