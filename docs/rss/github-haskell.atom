@@ -2,19 +2,383 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-haskell.atom"/>
 <id>urn:rprimus:github:newhaskellrepos</id>
-<updated>2022-03-06T09:52:28Z</updated>
+<updated>2022-03-07T03:34:22Z</updated>
 <title type='text'>New GitHub Haskell Repos</title>
  <entry>
-  <title>aegonwolf: haskell</title>
+  <title>ModisR: property-partners-task</title>
   <author>
-   <name>aegonwolf</name>
+   <name>ModisR</name>
   </author>
-  <link href="https://github.com/aegonwolf/haskell" />
-  <id>urn:rprimus:github:aegonwolf:haskell</id>
-  <published>2022-03-06T09:52:28Z</published>
-  <updated>2022-03-06T09:52:28Z</updated>
+  <link href="https://github.com/ModisR/property-partners-task" />
+  <id>urn:rprimus:github:ModisR:property-partners-task</id>
+  <published>2022-03-07T03:34:22Z</published>
+  <updated>2022-03-07T03:34:22Z</updated>
   <content type="html">
-   Learning Haskell for FMFP
+   Coding assignment for technical interview with Property Partners
+  </content>
+ </entry>
+ <entry>
+  <title>anwils2: haskell-hangman</title>
+  <author>
+   <name>anwils2</name>
+  </author>
+  <link href="https://github.com/anwils2/haskell-hangman" />
+  <id>urn:rprimus:github:anwils2:haskell-hangman</id>
+  <published>2022-03-07T03:05:29Z</published>
+  <updated>2022-03-07T03:05:29Z</updated>
+  <content type="html">
+   Simple game of hangman written in Haskell
+  </content>
+ </entry>
+ <entry>
+  <title>diogob: postgres-stream</title>
+  <author>
+   <name>diogob</name>
+  </author>
+  <link href="https://github.com/diogob/postgres-stream" />
+  <id>urn:rprimus:github:diogob:postgres-stream</id>
+  <published>2022-03-07T02:23:57Z</published>
+  <updated>2022-03-07T02:23:57Z</updated>
+  <content type="html">
+   just teating
+  </content>
+ </entry>
+ <entry>
+  <title>thamugadi: hs-lisp-interpreter</title>
+  <author>
+   <name>thamugadi</name>
+  </author>
+  <link href="https://github.com/thamugadi/hs-lisp-interpreter" />
+  <id>urn:rprimus:github:thamugadi:hs-lisp-interpreter</id>
+  <published>2022-03-07T01:45:22Z</published>
+  <updated>2022-03-07T01:45:22Z</updated>
+  <content type="html">
+   (WIP) Lisp-like interpreter in Haskell.
+  </content>
+ </entry>
+ <entry>
+  <title>AhmadBedair: HaskellCache</title>
+  <author>
+   <name>AhmadBedair</name>
+  </author>
+  <link href="https://github.com/AhmadBedair/HaskellCache" />
+  <id>urn:rprimus:github:AhmadBedair:HaskellCache</id>
+  <published>2022-03-07T01:13:03Z</published>
+  <updated>2022-03-07T01:13:03Z</updated>
+  <content type="html">
+   A computer cache system done in haskell
+  </content>
+ </entry>
+ <entry>
+  <title>MightyElemental: Haskell-RayTracer</title>
+  <author>
+   <name>MightyElemental</name>
+  </author>
+  <link href="https://github.com/MightyElemental/Haskell-RayTracer" />
+  <id>urn:rprimus:github:MightyElemental:Haskell-RayTracer</id>
+  <published>2022-03-06T23:35:01Z</published>
+  <updated>2022-03-06T23:35:01Z</updated>
+  <content type="html">
+   A ray tracer built in haskell
+  </content>
+ </entry>
+ <entry>
+  <title>ChristopherPtak: ABCompiler</title>
+  <author>
+   <name>ChristopherPtak</name>
+  </author>
+  <link href="https://github.com/ChristopherPtak/ABCompiler" />
+  <id>urn:rprimus:github:ChristopherPtak:ABCompiler</id>
+  <published>2022-03-06T23:30:39Z</published>
+  <updated>2022-03-06T23:30:39Z</updated>
+  <content type="html">
+   A static typed, compile-time-verifiable programming language
+  </content>
+ </entry>
+ <entry>
+  <title>dashalary: Todos</title>
+  <author>
+   <name>dashalary</name>
+  </author>
+  <link href="https://github.com/dashalary/Todos" />
+  <id>urn:rprimus:github:dashalary:Todos</id>
+  <published>2022-03-06T22:52:50Z</published>
+  <updated>2022-03-06T22:52:50Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>z5labs: htex</title>
+  <author>
+   <name>z5labs</name>
+  </author>
+  <link href="https://github.com/z5labs/htex" />
+  <id>urn:rprimus:github:z5labs:htex</id>
+  <published>2022-03-06T22:52:33Z</published>
+  <updated>2022-03-06T22:52:33Z</updated>
+  <content type="html">
+   A collection of packages and tools for working with TeX, written in Haskell.
+  </content>
+ </entry>
+ <entry>
+  <title>RHL120: RhCompress</title>
+  <author>
+   <name>RHL120</name>
+  </author>
+  <link href="https://github.com/RHL120/RhCompress" />
+  <id>urn:rprimus:github:RHL120:RhCompress</id>
+  <published>2022-03-06T22:25:35Z</published>
+  <updated>2022-03-06T22:25:35Z</updated>
+  <content type="html">
+   A useless compression tool written in Haskell
+  </content>
+ </entry>
+ <entry>
+  <title>haroldcarr: haskell-inline-js-example</title>
+  <author>
+   <name>haroldcarr</name>
+  </author>
+  <link href="https://github.com/haroldcarr/haskell-inline-js-example" />
+  <id>urn:rprimus:github:haroldcarr:haskell-inline-js-example</id>
+  <published>2022-03-06T21:40:53Z</published>
+  <updated>2022-03-06T21:40:53Z</updated>
+  <content type="html">
+   example of how to use inline-js
+  </content>
+ </entry>
+ <entry>
+  <title>Antios: FindMazePath</title>
+  <author>
+   <name>Antios</name>
+  </author>
+  <link href="https://github.com/Antios/FindMazePath" />
+  <id>urn:rprimus:github:Antios:FindMazePath</id>
+  <published>2022-03-06T21:27:36Z</published>
+  <updated>2022-03-06T21:27:36Z</updated>
+  <content type="html">
+   a little project to learn haskell
+  </content>
+ </entry>
+ <entry>
+  <title>fluffyalice: domino</title>
+  <author>
+   <name>fluffyalice</name>
+  </author>
+  <link href="https://github.com/fluffyalice/domino" />
+  <id>urn:rprimus:github:fluffyalice:domino</id>
+  <published>2022-03-06T20:56:53Z</published>
+  <updated>2022-03-06T20:56:53Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>jcinnamond: showtime</title>
+  <author>
+   <name>jcinnamond</name>
+  </author>
+  <link href="https://github.com/jcinnamond/showtime" />
+  <id>urn:rprimus:github:jcinnamond:showtime</id>
+  <published>2022-03-06T19:41:48Z</published>
+  <updated>2022-03-06T19:41:48Z</updated>
+  <content type="html">
+   Choose a random cast to take part in a group discussion
+  </content>
+ </entry>
+ <entry>
+  <title>caiodnh: aoc</title>
+  <author>
+   <name>caiodnh</name>
+  </author>
+  <link href="https://github.com/caiodnh/aoc" />
+  <id>urn:rprimus:github:caiodnh:aoc</id>
+  <published>2022-03-06T19:13:17Z</published>
+  <updated>2022-03-06T19:13:17Z</updated>
+  <content type="html">
+   Solutions for the Advent of Code 2020
+  </content>
+ </entry>
+ <entry>
+  <title>LinuxInsyde: dotfiles</title>
+  <author>
+   <name>LinuxInsyde</name>
+  </author>
+  <link href="https://github.com/LinuxInsyde/dotfiles" />
+  <id>urn:rprimus:github:LinuxInsyde:dotfiles</id>
+  <published>2022-03-06T18:54:35Z</published>
+  <updated>2022-03-06T18:54:35Z</updated>
+  <content type="html">
+   My GNU/Linux dotfiles
+  </content>
+ </entry>
+ <entry>
+  <title>xayon40-12: dependent-types</title>
+  <author>
+   <name>xayon40-12</name>
+  </author>
+  <link href="https://github.com/xayon40-12/dependent-types" />
+  <id>urn:rprimus:github:xayon40-12:dependent-types</id>
+  <published>2022-03-06T18:09:51Z</published>
+  <updated>2022-03-06T18:09:51Z</updated>
+  <content type="html">
+   An attempt to create a simple dependently typed language
+  </content>
+ </entry>
+ <entry>
+  <title>freckletonj: haskell-fortran</title>
+  <author>
+   <name>freckletonj</name>
+  </author>
+  <link href="https://github.com/freckletonj/haskell-fortran" />
+  <id>urn:rprimus:github:freckletonj:haskell-fortran</id>
+  <published>2022-03-06T17:56:58Z</published>
+  <updated>2022-03-06T17:56:58Z</updated>
+  <content type="html">
+   A demonstration connecting Fortran (and C) code to Haskell, and to HMatrix.
+  </content>
+ </entry>
+ <entry>
+  <title>AskBid: haskell-notes</title>
+  <author>
+   <name>AskBid</name>
+  </author>
+  <link href="https://github.com/AskBid/haskell-notes" />
+  <id>urn:rprimus:github:AskBid:haskell-notes</id>
+  <published>2022-03-06T16:50:19Z</published>
+  <updated>2022-03-06T16:50:19Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>sanikac10: Programming-Paradigm-lab</title>
+  <author>
+   <name>sanikac10</name>
+  </author>
+  <link href="https://github.com/sanikac10/Programming-Paradigm-lab" />
+  <id>urn:rprimus:github:sanikac10:Programming-Paradigm-lab</id>
+  <published>2022-03-06T16:29:26Z</published>
+  <updated>2022-03-06T16:29:26Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Romiest: CPU-cache-system-Haskell</title>
+  <author>
+   <name>Romiest</name>
+  </author>
+  <link href="https://github.com/Romiest/CPU-cache-system-Haskell" />
+  <id>urn:rprimus:github:Romiest:CPU-cache-system-Haskell</id>
+  <published>2022-03-06T15:26:48Z</published>
+  <updated>2022-03-06T15:26:48Z</updated>
+  <content type="html">
+   CPU-cache-system made with Haskell
+  </content>
+ </entry>
+ <entry>
+  <title>jkeane508: Reasoning-and-Agents-Assignment-1</title>
+  <author>
+   <name>jkeane508</name>
+  </author>
+  <link href="https://github.com/jkeane508/Reasoning-and-Agents-Assignment-1" />
+  <id>urn:rprimus:github:jkeane508:Reasoning-and-Agents-Assignment-1</id>
+  <published>2022-03-06T15:25:45Z</published>
+  <updated>2022-03-06T15:25:45Z</updated>
+  <content type="html">
+   Implementation of an AI that plays the board game Quorridor
+  </content>
+ </entry>
+ <entry>
+  <title>chfanghr: jms2clash</title>
+  <author>
+   <name>chfanghr</name>
+  </author>
+  <link href="https://github.com/chfanghr/jms2clash" />
+  <id>urn:rprimus:github:chfanghr:jms2clash</id>
+  <published>2022-03-06T15:17:47Z</published>
+  <updated>2022-03-06T15:17:47Z</updated>
+  <content type="html">
+   jms2clash - jms -&gt; clash subscription converter
+  </content>
+ </entry>
+ <entry>
+  <title>Tocule: Haskell-Calculator</title>
+  <author>
+   <name>Tocule</name>
+  </author>
+  <link href="https://github.com/Tocule/Haskell-Calculator" />
+  <id>urn:rprimus:github:Tocule:Haskell-Calculator</id>
+  <published>2022-03-06T14:02:58Z</published>
+  <updated>2022-03-06T14:02:58Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Cosmin342: Data-analytics-app</title>
+  <author>
+   <name>Cosmin342</name>
+  </author>
+  <link href="https://github.com/Cosmin342/Data-analytics-app" />
+  <id>urn:rprimus:github:Cosmin342:Data-analytics-app</id>
+  <published>2022-03-06T13:51:19Z</published>
+  <updated>2022-03-06T13:51:19Z</updated>
+  <content type="html">
+   An Haskell app that receives a dataset consisting of some course grades at the input and returns certain statistics about student grades such as number of students who have passed the course, average exam grade etc.
+  </content>
+ </entry>
+ <entry>
+  <title>faust403: learnFunctional</title>
+  <author>
+   <name>faust403</name>
+  </author>
+  <link href="https://github.com/faust403/learnFunctional" />
+  <id>urn:rprimus:github:faust403:learnFunctional</id>
+  <published>2022-03-06T13:42:46Z</published>
+  <updated>2022-03-06T13:42:46Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>NRoboto: book-haskell-school-of-music</title>
+  <author>
+   <name>NRoboto</name>
+  </author>
+  <link href="https://github.com/NRoboto/book-haskell-school-of-music" />
+  <id>urn:rprimus:github:NRoboto:book-haskell-school-of-music</id>
+  <published>2022-03-06T12:12:38Z</published>
+  <updated>2022-03-06T12:12:38Z</updated>
+  <content type="html">
+   Code written while following &quot;The Haskell School of Music&quot; by Paul Hudak and Donya Quick
+  </content>
+ </entry>
+ <entry>
+  <title>llenck: hybrid-mc-proxy</title>
+  <author>
+   <name>llenck</name>
+  </author>
+  <link href="https://github.com/llenck/hybrid-mc-proxy" />
+  <id>urn:rprimus:github:llenck:hybrid-mc-proxy</id>
+  <published>2022-03-06T12:08:11Z</published>
+  <updated>2022-03-06T12:08:11Z</updated>
+  <content type="html">
+   Proxy to create Minecraft server that work both with on- and offline clients.
+  </content>
+ </entry>
+ <entry>
+  <title>alinavoiculescu: Haskell-FunctionalProgramming</title>
+  <author>
+   <name>alinavoiculescu</name>
+  </author>
+  <link href="https://github.com/alinavoiculescu/Haskell-FunctionalProgramming" />
+  <id>urn:rprimus:github:alinavoiculescu:Haskell-FunctionalProgramming</id>
+  <published>2022-03-06T11:48:28Z</published>
+  <updated>2022-03-06T11:48:28Z</updated>
+  <content type="html">
+   
   </content>
  </entry>
  <entry>
@@ -28,19 +392,6 @@
   <updated>2022-03-06T09:12:53Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>phma: gosperbase</title>
-  <author>
-   <name>phma</name>
-  </author>
-  <link href="https://github.com/phma/gosperbase" />
-  <id>urn:rprimus:github:phma:gosperbase</id>
-  <published>2022-03-06T08:56:16Z</published>
-  <updated>2022-03-06T08:56:16Z</updated>
-  <content type="html">
-   Computing complex numbers in the Gosper base
   </content>
  </entry>
  <entry>
@@ -496,266 +847,6 @@
   <updated>2022-03-05T02:03:17Z</updated>
   <content type="html">
    A blog created with IHP
-  </content>
- </entry>
- <entry>
-  <title>stevehartdata: docker-view</title>
-  <author>
-   <name>stevehartdata</name>
-  </author>
-  <link href="https://github.com/stevehartdata/docker-view" />
-  <id>urn:rprimus:github:stevehartdata:docker-view</id>
-  <published>2022-03-04T21:18:44Z</published>
-  <updated>2022-03-04T21:18:44Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>neopythagorean: llasm</title>
-  <author>
-   <name>neopythagorean</name>
-  </author>
-  <link href="https://github.com/neopythagorean/llasm" />
-  <id>urn:rprimus:github:neopythagorean:llasm</id>
-  <published>2022-03-04T20:52:43Z</published>
-  <updated>2022-03-04T20:52:43Z</updated>
-  <content type="html">
-   Little LC3 Assembler
-  </content>
- </entry>
- <entry>
-  <title>brzydkirumun: FuCheng</title>
-  <author>
-   <name>brzydkirumun</name>
-  </author>
-  <link href="https://github.com/brzydkirumun/FuCheng" />
-  <id>urn:rprimus:github:brzydkirumun:FuCheng</id>
-  <published>2022-03-04T20:36:57Z</published>
-  <updated>2022-03-04T20:36:57Z</updated>
-  <content type="html">
-   TUI chess engine written entirely in Haskell.
-  </content>
- </entry>
- <entry>
-  <title>geovannyjs: dotfiles</title>
-  <author>
-   <name>geovannyjs</name>
-  </author>
-  <link href="https://github.com/geovannyjs/dotfiles" />
-  <id>urn:rprimus:github:geovannyjs:dotfiles</id>
-  <published>2022-03-04T19:23:15Z</published>
-  <updated>2022-03-04T19:23:15Z</updated>
-  <content type="html">
-   My desktop dotfiles
-  </content>
- </entry>
- <entry>
-  <title>mayant15: haskell</title>
-  <author>
-   <name>mayant15</name>
-  </author>
-  <link href="https://github.com/mayant15/haskell" />
-  <id>urn:rprimus:github:mayant15:haskell</id>
-  <published>2022-03-04T17:58:14Z</published>
-  <updated>2022-03-04T17:58:14Z</updated>
-  <content type="html">
-   Tiny experiments with Haskell
-  </content>
- </entry>
- <entry>
-  <title>lajp: testaustime-nvim</title>
-  <author>
-   <name>lajp</name>
-  </author>
-  <link href="https://github.com/lajp/testaustime-nvim" />
-  <id>urn:rprimus:github:lajp:testaustime-nvim</id>
-  <published>2022-03-04T17:55:22Z</published>
-  <updated>2022-03-04T17:55:22Z</updated>
-  <content type="html">
-   The official NeoVim client for Testaustime, written in Haskell :)
-  </content>
- </entry>
- <entry>
-  <title>QuertyCube: bola</title>
-  <author>
-   <name>QuertyCube</name>
-  </author>
-  <link href="https://github.com/QuertyCube/bola" />
-  <id>urn:rprimus:github:QuertyCube:bola</id>
-  <published>2022-03-04T17:29:31Z</published>
-  <updated>2022-03-04T17:29:31Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>momentaryBliss: seoul</title>
-  <author>
-   <name>momentaryBliss</name>
-  </author>
-  <link href="https://github.com/momentaryBliss/seoul" />
-  <id>urn:rprimus:github:momentaryBliss:seoul</id>
-  <published>2022-03-04T17:18:43Z</published>
-  <updated>2022-03-04T17:18:43Z</updated>
-  <content type="html">
-   my blog (soon)
-  </content>
- </entry>
- <entry>
-  <title>AhmedAlArousi: Recommender-System</title>
-  <author>
-   <name>AhmedAlArousi</name>
-  </author>
-  <link href="https://github.com/AhmedAlArousi/Recommender-System" />
-  <id>urn:rprimus:github:AhmedAlArousi:Recommender-System</id>
-  <published>2022-03-04T16:06:10Z</published>
-  <updated>2022-03-04T16:06:10Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>synth-me: Exo</title>
-  <author>
-   <name>synth-me</name>
-  </author>
-  <link href="https://github.com/synth-me/Exo" />
-  <id>urn:rprimus:github:synth-me:Exo</id>
-  <published>2022-03-04T15:16:02Z</published>
-  <updated>2022-03-04T15:16:02Z</updated>
-  <content type="html">
-   New operating system to facilitate the deploy and use of IOT-MQTT based applications
-  </content>
- </entry>
- <entry>
-  <title>wdomitrz: jpp-2022</title>
-  <author>
-   <name>wdomitrz</name>
-  </author>
-  <link href="https://github.com/wdomitrz/jpp-2022" />
-  <id>urn:rprimus:github:wdomitrz:jpp-2022</id>
-  <published>2022-03-04T10:11:18Z</published>
-  <updated>2022-03-04T10:11:18Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>haresh93: animation-project</title>
-  <author>
-   <name>haresh93</name>
-  </author>
-  <link href="https://github.com/haresh93/animation-project" />
-  <id>urn:rprimus:github:haresh93:animation-project</id>
-  <published>2022-03-04T09:45:11Z</published>
-  <updated>2022-03-04T09:45:11Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>lukee910: goblin-bot</title>
-  <author>
-   <name>lukee910</name>
-  </author>
-  <link href="https://github.com/lukee910/goblin-bot" />
-  <id>urn:rprimus:github:lukee910:goblin-bot</id>
-  <published>2022-03-04T08:32:33Z</published>
-  <updated>2022-03-04T08:32:33Z</updated>
-  <content type="html">
-   Discord bot for the Stail Goblins discord.
-  </content>
- </entry>
- <entry>
-  <title>sothach: wordle</title>
-  <author>
-   <name>sothach</name>
-  </author>
-  <link href="https://github.com/sothach/wordle" />
-  <id>urn:rprimus:github:sothach:wordle</id>
-  <published>2022-03-04T06:28:10Z</published>
-  <updated>2022-03-04T06:28:10Z</updated>
-  <content type="html">
-   Command-line Wordle game
-  </content>
- </entry>
- <entry>
-  <title>mcsaladman: comparator_network_practice</title>
-  <author>
-   <name>mcsaladman</name>
-  </author>
-  <link href="https://github.com/mcsaladman/comparator_network_practice" />
-  <id>urn:rprimus:github:mcsaladman:comparator_network_practice</id>
-  <published>2022-03-04T04:39:18Z</published>
-  <updated>2022-03-04T04:39:18Z</updated>
-  <content type="html">
-   Just some side fun I suppose
-  </content>
- </entry>
- <entry>
-  <title>trevinwisaksana: TicTacToe</title>
-  <author>
-   <name>trevinwisaksana</name>
-  </author>
-  <link href="https://github.com/trevinwisaksana/TicTacToe" />
-  <id>urn:rprimus:github:trevinwisaksana:TicTacToe</id>
-  <published>2022-03-04T04:20:32Z</published>
-  <updated>2022-03-04T04:20:32Z</updated>
-  <content type="html">
-   A tic tac toe game in Haskell
-  </content>
- </entry>
- <entry>
-  <title>TsukudaniVanish: article_filler</title>
-  <author>
-   <name>TsukudaniVanish</name>
-  </author>
-  <link href="https://github.com/TsukudaniVanish/article_filler" />
-  <id>urn:rprimus:github:TsukudaniVanish:article_filler</id>
-  <published>2022-03-04T03:43:11Z</published>
-  <updated>2022-03-04T03:43:11Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>mason-anderson: chess</title>
-  <author>
-   <name>mason-anderson</name>
-  </author>
-  <link href="https://github.com/mason-anderson/chess" />
-  <id>urn:rprimus:github:mason-anderson:chess</id>
-  <published>2022-03-04T03:01:51Z</published>
-  <updated>2022-03-04T03:01:51Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>lucas-lins: haskell_exercises</title>
-  <author>
-   <name>lucas-lins</name>
-  </author>
-  <link href="https://github.com/lucas-lins/haskell_exercises" />
-  <id>urn:rprimus:github:lucas-lins:haskell_exercises</id>
-  <published>2022-03-04T02:08:27Z</published>
-  <updated>2022-03-04T02:08:27Z</updated>
-  <content type="html">
-   Neste repositÃ³rio publico meus exercÃ­cios e atividades acadÃªmicas desenvolvidas em Haskell
-  </content>
- </entry>
- <entry>
-  <title>yungcheeze: optics-by-example</title>
-  <author>
-   <name>yungcheeze</name>
-  </author>
-  <link href="https://github.com/yungcheeze/optics-by-example" />
-  <id>urn:rprimus:github:yungcheeze:optics-by-example</id>
-  <published>2022-03-04T00:19:38Z</published>
-  <updated>2022-03-04T00:19:38Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
