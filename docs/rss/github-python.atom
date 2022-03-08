@@ -2,19 +2,175 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-python.atom"/>
 <id>urn:rprimus:github:newpythonrepos</id>
-<updated>2022-03-08T10:06:05Z</updated>
+<updated>2022-03-08T14:02:56Z</updated>
 <title type='text'>New GitHub Python Repos</title>
  <entry>
-  <title>AshkanJZ623: ProjectEulerSolutions</title>
+  <title>OpSiDop: Flappy-bird</title>
   <author>
-   <name>AshkanJZ623</name>
+   <name>OpSiDop</name>
   </author>
-  <link href="https://github.com/AshkanJZ623/ProjectEulerSolutions" />
-  <id>urn:rprimus:github:AshkanJZ623:ProjectEulerSolutions</id>
-  <published>2022-03-08T10:06:05Z</published>
-  <updated>2022-03-08T10:06:05Z</updated>
+  <link href="https://github.com/OpSiDop/Flappy-bird" />
+  <id>urn:rprimus:github:OpSiDop:Flappy-bird</id>
+  <published>2022-03-08T14:02:56Z</published>
+  <updated>2022-03-08T14:02:56Z</updated>
   <content type="html">
-   ProjectEulerSolutions
+   
+  </content>
+ </entry>
+ <entry>
+  <title>borys25ol: elasticsearch-cloud-storage-dump</title>
+  <author>
+   <name>borys25ol</name>
+  </author>
+  <link href="https://github.com/borys25ol/elasticsearch-cloud-storage-dump" />
+  <id>urn:rprimus:github:borys25ol:elasticsearch-cloud-storage-dump</id>
+  <published>2022-03-08T13:51:32Z</published>
+  <updated>2022-03-08T13:51:32Z</updated>
+  <content type="html">
+   Tool for exporting data from Elasticsearch indexes to Google Cloud Storage Bucket in different file formats
+  </content>
+ </entry>
+ <entry>
+  <title>CETONI-Software: sila_cetoni</title>
+  <author>
+   <name>CETONI-Software</name>
+  </author>
+  <link href="https://github.com/CETONI-Software/sila_cetoni" />
+  <id>urn:rprimus:github:CETONI-Software:sila_cetoni</id>
+  <published>2022-03-08T12:22:44Z</published>
+  <updated>2022-03-08T12:22:44Z</updated>
+  <content type="html">
+   Open Source part of the SiLA CETONI SDK including the SiLA servers for CETONI devices
+  </content>
+ </entry>
+ <entry>
+  <title>CETONI-Software: sila_cetoni_valves</title>
+  <author>
+   <name>CETONI-Software</name>
+  </author>
+  <link href="https://github.com/CETONI-Software/sila_cetoni_valves" />
+  <id>urn:rprimus:github:CETONI-Software:sila_cetoni_valves</id>
+  <published>2022-03-08T12:21:49Z</published>
+  <updated>2022-03-08T12:21:49Z</updated>
+  <content type="html">
+   SiLA CETONI SDK package including all valve features
+  </content>
+ </entry>
+ <entry>
+  <title>CETONI-Software: sila_cetoni_pumps</title>
+  <author>
+   <name>CETONI-Software</name>
+  </author>
+  <link href="https://github.com/CETONI-Software/sila_cetoni_pumps" />
+  <id>urn:rprimus:github:CETONI-Software:sila_cetoni_pumps</id>
+  <published>2022-03-08T12:21:30Z</published>
+  <updated>2022-03-08T12:21:30Z</updated>
+  <content type="html">
+   SiLA CETONI SDK package including all pump features
+  </content>
+ </entry>
+ <entry>
+  <title>CETONI-Software: sila_cetoni_motioncontrol</title>
+  <author>
+   <name>CETONI-Software</name>
+  </author>
+  <link href="https://github.com/CETONI-Software/sila_cetoni_motioncontrol" />
+  <id>urn:rprimus:github:CETONI-Software:sila_cetoni_motioncontrol</id>
+  <published>2022-03-08T12:21:12Z</published>
+  <updated>2022-03-08T12:21:12Z</updated>
+  <content type="html">
+   SiLA CETONI SDK package including all motioncontrol features
+  </content>
+ </entry>
+ <entry>
+  <title>CETONI-Software: sila_cetoni_io</title>
+  <author>
+   <name>CETONI-Software</name>
+  </author>
+  <link href="https://github.com/CETONI-Software/sila_cetoni_io" />
+  <id>urn:rprimus:github:CETONI-Software:sila_cetoni_io</id>
+  <published>2022-03-08T12:19:04Z</published>
+  <updated>2022-03-08T12:19:04Z</updated>
+  <content type="html">
+   SiLA CETONI SDK package including all I/O features
+  </content>
+ </entry>
+ <entry>
+  <title>CETONI-Software: sila_cetoni_controllers</title>
+  <author>
+   <name>CETONI-Software</name>
+  </author>
+  <link href="https://github.com/CETONI-Software/sila_cetoni_controllers" />
+  <id>urn:rprimus:github:CETONI-Software:sila_cetoni_controllers</id>
+  <published>2022-03-08T12:18:21Z</published>
+  <updated>2022-03-08T12:18:21Z</updated>
+  <content type="html">
+   SiLA CETONI SDK package including all core features
+  </content>
+ </entry>
+ <entry>
+  <title>CETONI-Software: sila_cetoni_core</title>
+  <author>
+   <name>CETONI-Software</name>
+  </author>
+  <link href="https://github.com/CETONI-Software/sila_cetoni_core" />
+  <id>urn:rprimus:github:CETONI-Software:sila_cetoni_core</id>
+  <published>2022-03-08T12:17:25Z</published>
+  <updated>2022-03-08T12:17:25Z</updated>
+  <content type="html">
+   SiLA CETONI SDK package including all core features
+  </content>
+ </entry>
+ <entry>
+  <title>CETONI-Software: sila_cetoni_application</title>
+  <author>
+   <name>CETONI-Software</name>
+  </author>
+  <link href="https://github.com/CETONI-Software/sila_cetoni_application" />
+  <id>urn:rprimus:github:CETONI-Software:sila_cetoni_application</id>
+  <published>2022-03-08T12:15:09Z</published>
+  <updated>2022-03-08T12:15:09Z</updated>
+  <content type="html">
+   Main application package of the SiLA CETONI SDK
+  </content>
+ </entry>
+ <entry>
+  <title>TeoCalvo: sql_gc</title>
+  <author>
+   <name>TeoCalvo</name>
+  </author>
+  <link href="https://github.com/TeoCalvo/sql_gc" />
+  <id>urn:rprimus:github:TeoCalvo:sql_gc</id>
+  <published>2022-03-08T12:09:16Z</published>
+  <updated>2022-03-08T12:09:16Z</updated>
+  <content type="html">
+   Curso de SQL do Zero com dados da Gamers Club
+  </content>
+ </entry>
+ <entry>
+  <title>TeamOmniChat: OmniChat</title>
+  <author>
+   <name>TeamOmniChat</name>
+  </author>
+  <link href="https://github.com/TeamOmniChat/OmniChat" />
+  <id>urn:rprimus:github:TeamOmniChat:OmniChat</id>
+  <published>2022-03-08T10:28:19Z</published>
+  <updated>2022-03-08T10:28:19Z</updated>
+  <content type="html">
+   A simple chat web app built with Flask and SocketIO.
+  </content>
+ </entry>
+ <entry>
+  <title>modeep: international-ai-competition-2022</title>
+  <author>
+   <name>modeep</name>
+  </author>
+  <link href="https://github.com/modeep/international-ai-competition-2022" />
+  <id>urn:rprimus:github:modeep:international-ai-competition-2022</id>
+  <published>2022-03-08T10:25:59Z</published>
+  <updated>2022-03-08T10:25:59Z</updated>
+  <content type="html">
+   êµ­ì  ì¸ê³µì§ë¥ ëì  2022 ë¶ì¤ ì°¸ê°ë¥¼ ìí ì¸ê³µì§ë¥ë¤ë¤ë¤
   </content>
  </entry>
  <entry>
@@ -31,6 +187,19 @@
   </content>
  </entry>
  <entry>
+  <title>StarkGang: RTMP-TG</title>
+  <author>
+   <name>StarkGang</name>
+  </author>
+  <link href="https://github.com/StarkGang/RTMP-TG" />
+  <id>urn:rprimus:github:StarkGang:RTMP-TG</id>
+  <published>2022-03-08T09:28:45Z</published>
+  <updated>2022-03-08T09:28:45Z</updated>
+  <content type="html">
+   play your streams directly to telegram
+  </content>
+ </entry>
+ <entry>
   <title>nexxeln: brainfuck-generator</title>
   <author>
    <name>nexxeln</name>
@@ -44,29 +213,16 @@
   </content>
  </entry>
  <entry>
-  <title>c24b: gdcat-data</title>
+  <title>HelixDev: dronecode</title>
   <author>
-   <name>c24b</name>
+   <name>HelixDev</name>
   </author>
-  <link href="https://github.com/c24b/gdcat-data" />
-  <id>urn:rprimus:github:c24b:gdcat-data</id>
-  <published>2022-03-08T08:35:45Z</published>
-  <updated>2022-03-08T08:35:45Z</updated>
+  <link href="https://github.com/HelixDev/dronecode" />
+  <id>urn:rprimus:github:HelixDev:dronecode</id>
+  <published>2022-03-08T07:52:22Z</published>
+  <updated>2022-03-08T07:52:22Z</updated>
   <content type="html">
-   GD4H data
-  </content>
- </entry>
- <entry>
-  <title>thenurhabib: netmap</title>
-  <author>
-   <name>thenurhabib</name>
-  </author>
-  <link href="https://github.com/thenurhabib/netmap" />
-  <id>urn:rprimus:github:thenurhabib:netmap</id>
-  <published>2022-03-08T07:54:56Z</published>
-  <updated>2022-03-08T07:54:56Z</updated>
-  <content type="html">
-   Netmap is a network scanning tool with nmap. Just run this script and select an option which one you want to use.
+   little thing i made
   </content>
  </entry>
  <entry>
@@ -83,32 +239,6 @@
   </content>
  </entry>
  <entry>
-  <title>Angelleyva-60876: Proyecto_twitter</title>
-  <author>
-   <name>Angelleyva-60876</name>
-  </author>
-  <link href="https://github.com/Angelleyva-60876/Proyecto_twitter" />
-  <id>urn:rprimus:github:Angelleyva-60876:Proyecto_twitter</id>
-  <published>2022-03-08T07:08:37Z</published>
-  <updated>2022-03-08T07:08:37Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ryanInf: masnmap-plus</title>
-  <author>
-   <name>ryanInf</name>
-  </author>
-  <link href="https://github.com/ryanInf/masnmap-plus" />
-  <id>urn:rprimus:github:ryanInf:masnmap-plus</id>
-  <published>2022-03-08T06:58:19Z</published>
-  <updated>2022-03-08T06:58:19Z</updated>
-  <content type="html">
-   masscan + nmap + Finger
-  </content>
- </entry>
- <entry>
   <title>CyrusMay: Machine-Learning-for-petrochemical</title>
   <author>
    <name>CyrusMay</name>
@@ -119,32 +249,6 @@
   <updated>2022-03-08T06:55:52Z</updated>
   <content type="html">
    Provide a complete set of petrochemical modeling process
-  </content>
- </entry>
- <entry>
-  <title>ryanlam0618: clac.findvertex</title>
-  <author>
-   <name>ryanlam0618</name>
-  </author>
-  <link href="https://github.com/ryanlam0618/clac.findvertex" />
-  <id>urn:rprimus:github:ryanlam0618:clac.findvertex</id>
-  <published>2022-03-08T06:29:41Z</published>
-  <updated>2022-03-08T06:29:41Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>SEC-Shimoda: Basic_01_BasicSyntax</title>
-  <author>
-   <name>SEC-Shimoda</name>
-  </author>
-  <link href="https://github.com/SEC-Shimoda/Basic_01_BasicSyntax" />
-  <id>urn:rprimus:github:SEC-Shimoda:Basic_01_BasicSyntax</id>
-  <published>2022-03-08T05:46:48Z</published>
-  <updated>2022-03-08T05:46:48Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
  <entry>
@@ -200,32 +304,6 @@
   </content>
  </entry>
  <entry>
-  <title>Sooryakumar10: Computer-Networks-Project</title>
-  <author>
-   <name>Sooryakumar10</name>
-  </author>
-  <link href="https://github.com/Sooryakumar10/Computer-Networks-Project" />
-  <id>urn:rprimus:github:Sooryakumar10:Computer-Networks-Project</id>
-  <published>2022-03-08T05:14:10Z</published>
-  <updated>2022-03-08T05:14:10Z</updated>
-  <content type="html">
-   Caesar Cipher and Hills Cipher
-  </content>
- </entry>
- <entry>
-  <title>STealthy-and-haSTy: ScratchBuffer</title>
-  <author>
-   <name>STealthy-and-haSTy</name>
-  </author>
-  <link href="https://github.com/STealthy-and-haSTy/ScratchBuffer" />
-  <id>urn:rprimus:github:STealthy-and-haSTy:ScratchBuffer</id>
-  <published>2022-03-08T04:29:02Z</published>
-  <updated>2022-03-08T04:29:02Z</updated>
-  <content type="html">
-   Sublime Text 4 package for creating and working with scratch buffers
-  </content>
- </entry>
- <entry>
   <title>Cleardove: mtba2021</title>
   <author>
    <name>Cleardove</name>
@@ -249,58 +327,6 @@
   <updated>2022-03-08T04:01:12Z</updated>
   <content type="html">
    A decompilation of Splatoon 2 v1.0 on the Nintendo Switch
-  </content>
- </entry>
- <entry>
-  <title>W1THRD: snekgame</title>
-  <author>
-   <name>W1THRD</name>
-  </author>
-  <link href="https://github.com/W1THRD/snekgame" />
-  <id>urn:rprimus:github:W1THRD:snekgame</id>
-  <published>2022-03-08T03:12:11Z</published>
-  <updated>2022-03-08T03:12:11Z</updated>
-  <content type="html">
-   A snake game that will have custom levels in the future
-  </content>
- </entry>
- <entry>
-  <title>RayJue: extract_news_elements</title>
-  <author>
-   <name>RayJue</name>
-  </author>
-  <link href="https://github.com/RayJue/extract_news_elements" />
-  <id>urn:rprimus:github:RayJue:extract_news_elements</id>
-  <published>2022-03-08T02:47:37Z</published>
-  <updated>2022-03-08T02:47:37Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>UdyWeber: Practice-Python-</title>
-  <author>
-   <name>UdyWeber</name>
-  </author>
-  <link href="https://github.com/UdyWeber/Practice-Python-" />
-  <id>urn:rprimus:github:UdyWeber:Practice-Python-</id>
-  <published>2022-03-08T02:38:50Z</published>
-  <updated>2022-03-08T02:38:50Z</updated>
-  <content type="html">
-   RepositÃ³rio dedicado a resolver os exercicios do Practice Python
-  </content>
- </entry>
- <entry>
-  <title>EchoSixHIYA: BuffAutoSeller</title>
-  <author>
-   <name>EchoSixHIYA</name>
-  </author>
-  <link href="https://github.com/EchoSixHIYA/BuffAutoSeller" />
-  <id>urn:rprimus:github:EchoSixHIYA:BuffAutoSeller</id>
-  <published>2022-03-08T02:23:43Z</published>
-  <updated>2022-03-08T02:23:43Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
  <entry>
@@ -369,32 +395,6 @@
   </content>
  </entry>
  <entry>
-  <title>Verisimilitude11: Python-Music-Experiment</title>
-  <author>
-   <name>Verisimilitude11</name>
-  </author>
-  <link href="https://github.com/Verisimilitude11/Python-Music-Experiment" />
-  <id>urn:rprimus:github:Verisimilitude11:Python-Music-Experiment</id>
-  <published>2022-03-08T00:27:44Z</published>
-  <updated>2022-03-08T00:27:44Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Python-Coderss: Attack-Of-The-Robots-Compiled</title>
-  <author>
-   <name>Python-Coderss</name>
-  </author>
-  <link href="https://github.com/Python-Coderss/Attack-Of-The-Robots-Compiled" />
-  <id>urn:rprimus:github:Python-Coderss:Attack-Of-The-Robots-Compiled</id>
-  <published>2022-03-08T00:10:53Z</published>
-  <updated>2022-03-08T00:10:53Z</updated>
-  <content type="html">
-   Same as the Attack-Of-The-Robots repository but compiled
-  </content>
- </entry>
- <entry>
   <title>cptq: SignNet-BasisNet</title>
   <author>
    <name>cptq</name>
@@ -421,16 +421,16 @@
   </content>
  </entry>
  <entry>
-  <title>FlagPoisoning: Discord-CTFD-Parser</title>
+  <title>joshpatten: PVE-VDIClient</title>
   <author>
-   <name>FlagPoisoning</name>
+   <name>joshpatten</name>
   </author>
-  <link href="https://github.com/FlagPoisoning/Discord-CTFD-Parser" />
-  <id>urn:rprimus:github:FlagPoisoning:Discord-CTFD-Parser</id>
-  <published>2022-03-07T18:16:20Z</published>
-  <updated>2022-03-07T18:16:20Z</updated>
+  <link href="https://github.com/joshpatten/PVE-VDIClient" />
+  <id>urn:rprimus:github:joshpatten:PVE-VDIClient</id>
+  <published>2022-03-07T18:33:30Z</published>
+  <updated>2022-03-07T18:33:30Z</updated>
   <content type="html">
-   This tools is used to create automatically discord threads by scraping ctfd plateform and collecting name , category , description and points of challenges.
+   Proxmox based VDI client
   </content>
  </entry>
  <entry>
@@ -444,6 +444,19 @@
   <updated>2022-03-07T16:24:42Z</updated>
   <content type="html">
    Spring Cloud Gateway Actuator API SpEL Code Injection (CVE-2022-22947)
+  </content>
+ </entry>
+ <entry>
+  <title>layer8secure: Teams-Notifier</title>
+  <author>
+   <name>layer8secure</name>
+  </author>
+  <link href="https://github.com/layer8secure/Teams-Notifier" />
+  <id>urn:rprimus:github:layer8secure:Teams-Notifier</id>
+  <published>2022-03-07T16:14:18Z</published>
+  <updated>2022-03-07T16:14:18Z</updated>
+  <content type="html">
+   A Teams notifier for Empire 
   </content>
  </entry>
  <entry>
@@ -512,16 +525,16 @@
   </content>
  </entry>
  <entry>
-  <title>woodyamazing: tpwoodyLL</title>
+  <title>woodyamazing: woodyll</title>
   <author>
    <name>woodyamazing</name>
   </author>
-  <link href="https://github.com/woodyamazing/tpwoodyLL" />
-  <id>urn:rprimus:github:woodyamazing:tpwoodyLL</id>
+  <link href="https://github.com/woodyamazing/woodyll" />
+  <id>urn:rprimus:github:woodyamazing:woodyll</id>
   <published>2022-03-07T13:47:49Z</published>
   <updated>2022-03-07T13:47:49Z</updated>
   <content type="html">
-   tpwoodyLL is a python script allowing for fast tpll and point marking.  tpwoodyLL opens your minecraft, teleports you to coordinates from your clipboard, marks down the point and switches back to map.
+   woodyll is a python script allowing for fast tpll and point marking.  woodyll opens your minecraft, teleports you to coordinates from your clipboard, marks down the point and switches back to map.
   </content>
  </entry>
  <entry>
@@ -600,19 +613,6 @@
   <updated>2022-03-07T10:25:51Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>hypergraphUniverse: GenshinDataConverter</title>
-  <author>
-   <name>hypergraphUniverse</name>
-  </author>
-  <link href="https://github.com/hypergraphUniverse/GenshinDataConverter" />
-  <id>urn:rprimus:github:hypergraphUniverse:GenshinDataConverter</id>
-  <published>2022-03-07T09:06:57Z</published>
-  <updated>2022-03-07T09:06:57Z</updated>
-  <content type="html">
-   Convert GenshinData&#039;s JSON into other codestyle. å°GenshinDataçJSONæ°æ®è½¬æ¢æå¶ä»ä»£ç çå·¥å·ã
   </content>
  </entry>
  <entry>
@@ -785,19 +785,6 @@
   </content>
  </entry>
  <entry>
-  <title>ChrisNonyminus: halo_mac_decomp</title>
-  <author>
-   <name>ChrisNonyminus</name>
-  </author>
-  <link href="https://github.com/ChrisNonyminus/halo_mac_decomp" />
-  <id>urn:rprimus:github:ChrisNonyminus:halo_mac_decomp</id>
-  <published>2022-03-06T23:44:22Z</published>
-  <updated>2022-03-06T23:44:22Z</updated>
-  <content type="html">
-   Halo (Mac OS X PowerPC version) Decompilation (WIP)
-  </content>
- </entry>
- <entry>
   <title>joneconsulting: ssac</title>
   <author>
    <name>joneconsulting</name>
@@ -873,19 +860,6 @@
   <updated>2022-03-06T20:32:49Z</updated>
   <content type="html">
    APRICOT Particle Tracking Module
-  </content>
- </entry>
- <entry>
-  <title>SWEET-0: Reaper-Fucker</title>
-  <author>
-   <name>SWEET-0</name>
-  </author>
-  <link href="https://github.com/SWEET-0/Reaper-Fucker" />
-  <id>urn:rprimus:github:SWEET-0:Reaper-Fucker</id>
-  <published>2022-03-06T19:03:45Z</published>
-  <updated>2022-03-06T19:03:45Z</updated>
-  <content type="html">
-   Reaper Fucker is a Tool to Destroy Discord Accounts
   </content>
  </entry>
  <entry>
@@ -993,6 +967,19 @@
   </content>
  </entry>
  <entry>
+  <title>fuxuelinwudi: BERT_CRF_NER_torch</title>
+  <author>
+   <name>fuxuelinwudi</name>
+  </author>
+  <link href="https://github.com/fuxuelinwudi/BERT_CRF_NER_torch" />
+  <id>urn:rprimus:github:fuxuelinwudi:BERT_CRF_NER_torch</id>
+  <published>2022-03-06T11:27:05Z</published>
+  <updated>2022-03-06T11:27:05Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
   <title>WeArchivingInternet: HowTo</title>
   <author>
    <name>WeArchivingInternet</name>
@@ -1055,6 +1042,19 @@
   <updated>2022-03-06T10:20:07Z</updated>
   <content type="html">
    
+  </content>
+ </entry>
+ <entry>
+  <title>qq456cvb: CPPF</title>
+  <author>
+   <name>qq456cvb</name>
+  </author>
+  <link href="https://github.com/qq456cvb/CPPF" />
+  <id>urn:rprimus:github:qq456cvb:CPPF</id>
+  <published>2022-03-06T10:04:11Z</published>
+  <updated>2022-03-06T10:04:11Z</updated>
+  <content type="html">
+   CPPF: Towards Robust Category-Level 9D Pose Estimation in the Wild (CVPR2022)
   </content>
  </entry>
  <entry>
