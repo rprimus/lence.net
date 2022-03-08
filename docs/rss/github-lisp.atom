@@ -2,8 +2,138 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-03-07T08:20:21Z</updated>
+<updated>2022-03-08T07:59:51Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>fangdingjun: cl-socks</title>
+  <author>
+   <name>fangdingjun</name>
+  </author>
+  <link href="https://github.com/fangdingjun/cl-socks" />
+  <id>urn:rprimus:github:fangdingjun:cl-socks</id>
+  <published>2022-03-08T07:59:51Z</published>
+  <updated>2022-03-08T07:59:51Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>EngineerXL: functional-programming</title>
+  <author>
+   <name>EngineerXL</name>
+  </author>
+  <link href="https://github.com/EngineerXL/functional-programming" />
+  <id>urn:rprimus:github:EngineerXL:functional-programming</id>
+  <published>2022-03-08T06:58:13Z</published>
+  <updated>2022-03-08T06:58:13Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>justinmeiners: srcweave</title>
+  <author>
+   <name>justinmeiners</name>
+  </author>
+  <link href="https://github.com/justinmeiners/srcweave" />
+  <id>urn:rprimus:github:justinmeiners:srcweave</id>
+  <published>2022-03-08T05:55:48Z</published>
+  <updated>2022-03-08T05:55:48Z</updated>
+  <content type="html">
+   A literate programming system for any language.
+  </content>
+ </entry>
+ <entry>
+  <title>hxzrx: cl-trivial-pool</title>
+  <author>
+   <name>hxzrx</name>
+  </author>
+  <link href="https://github.com/hxzrx/cl-trivial-pool" />
+  <id>urn:rprimus:github:hxzrx:cl-trivial-pool</id>
+  <published>2022-03-08T00:55:11Z</published>
+  <updated>2022-03-08T00:55:11Z</updated>
+  <content type="html">
+   A common lisp thread pool implemented with atomic operations instead of locks in the worker threads&#039; main loop.
+  </content>
+ </entry>
+ <entry>
+  <title>garicchi: tcp-monitor.lisp</title>
+  <author>
+   <name>garicchi</name>
+  </author>
+  <link href="https://github.com/garicchi/tcp-monitor.lisp" />
+  <id>urn:rprimus:github:garicchi:tcp-monitor.lisp</id>
+  <published>2022-03-07T23:27:16Z</published>
+  <updated>2022-03-07T23:27:16Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>justy666: LISP-Math-Function</title>
+  <author>
+   <name>justy666</name>
+  </author>
+  <link href="https://github.com/justy666/LISP-Math-Function" />
+  <id>urn:rprimus:github:justy666:LISP-Math-Function</id>
+  <published>2022-03-07T20:46:10Z</published>
+  <updated>2022-03-07T20:46:10Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Hickory-DMTools: Hickory-SQLite</title>
+  <author>
+   <name>Hickory-DMTools</name>
+  </author>
+  <link href="https://github.com/Hickory-DMTools/Hickory-SQLite" />
+  <id>urn:rprimus:github:Hickory-DMTools:Hickory-SQLite</id>
+  <published>2022-03-07T19:59:35Z</published>
+  <updated>2022-03-07T19:59:35Z</updated>
+  <content type="html">
+   Another Common Lisp SQLite Interface
+  </content>
+ </entry>
+ <entry>
+  <title>Surelye: Web-Serveur-Common-Lisp</title>
+  <author>
+   <name>Surelye</name>
+  </author>
+  <link href="https://github.com/Surelye/Web-Serveur-Common-Lisp" />
+  <id>urn:rprimus:github:Surelye:Web-Serveur-Common-Lisp</id>
+  <published>2022-03-07T18:41:16Z</published>
+  <updated>2022-03-07T18:41:16Z</updated>
+  <content type="html">
+   Mon premier serveur Web.
+  </content>
+ </entry>
+ <entry>
+  <title>iktovr: Functional-Programming</title>
+  <author>
+   <name>iktovr</name>
+  </author>
+  <link href="https://github.com/iktovr/Functional-Programming" />
+  <id>urn:rprimus:github:iktovr:Functional-Programming</id>
+  <published>2022-03-07T15:20:46Z</published>
+  <updated>2022-03-07T15:20:46Z</updated>
+  <content type="html">
+   Functional programming course in Moscow Aviation Institute 
+  </content>
+ </entry>
+ <entry>
+  <title>didierverna: etap</title>
+  <author>
+   <name>didierverna</name>
+  </author>
+  <link href="https://github.com/didierverna/etap" />
+  <id>urn:rprimus:github:didierverna:etap</id>
+  <published>2022-03-07T11:28:17Z</published>
+  <updated>2022-03-07T11:28:17Z</updated>
+  <content type="html">
+   Experimental Typesetting Algorithms Platform
+  </content>
+ </entry>
  <entry>
   <title>timonoko: Sextant_Revisited</title>
   <author>
@@ -132,71 +262,6 @@
   <updated>2022-03-06T00:02:04Z</updated>
   <content type="html">
    Patch that fixes CLP and Webactions to work with Portable AllegroServe (AServe)
-  </content>
- </entry>
- <entry>
-  <title>ynusemre: Programing-Languages</title>
-  <author>
-   <name>ynusemre</name>
-  </author>
-  <link href="https://github.com/ynusemre/Programing-Languages" />
-  <id>urn:rprimus:github:ynusemre:Programing-Languages</id>
-  <published>2022-03-05T22:03:51Z</published>
-  <updated>2022-03-05T22:03:51Z</updated>
-  <content type="html">
-   Making Compiler Via Lisp And Studying With Prolog 
-  </content>
- </entry>
- <entry>
-  <title>moonstoper: lisp</title>
-  <author>
-   <name>moonstoper</name>
-  </author>
-  <link href="https://github.com/moonstoper/lisp" />
-  <id>urn:rprimus:github:moonstoper:lisp</id>
-  <published>2022-03-05T19:07:36Z</published>
-  <updated>2022-03-05T19:07:36Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>HenryS1: docker-client</title>
-  <author>
-   <name>HenryS1</name>
-  </author>
-  <link href="https://github.com/HenryS1/docker-client" />
-  <id>urn:rprimus:github:HenryS1:docker-client</id>
-  <published>2022-03-05T10:10:12Z</published>
-  <updated>2022-03-05T10:10:12Z</updated>
-  <content type="html">
-   A common lisp docker client
-  </content>
- </entry>
- <entry>
-  <title>julian-baldwin: lw-argon2</title>
-  <author>
-   <name>julian-baldwin</name>
-  </author>
-  <link href="https://github.com/julian-baldwin/lw-argon2" />
-  <id>urn:rprimus:github:julian-baldwin:lw-argon2</id>
-  <published>2022-03-05T08:09:11Z</published>
-  <updated>2022-03-05T08:09:11Z</updated>
-  <content type="html">
-   HIgh level binding to the Argon2 password hash for LispWorks.
-  </content>
- </entry>
- <entry>
-  <title>cantpitch: AoC2021</title>
-  <author>
-   <name>cantpitch</name>
-  </author>
-  <link href="https://github.com/cantpitch/AoC2021" />
-  <id>urn:rprimus:github:cantpitch:AoC2021</id>
-  <published>2022-03-05T07:18:27Z</published>
-  <updated>2022-03-05T07:18:27Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>

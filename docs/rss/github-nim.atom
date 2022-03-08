@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2022-03-07T07:11:39Z</updated>
+<updated>2022-03-08T10:24:59Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>z-kk: htmlgenerator</title>
+  <author>
+   <name>z-kk</name>
+  </author>
+  <link href="https://github.com/z-kk/htmlgenerator" />
+  <id>urn:rprimus:github:z-kk:htmlgenerator</id>
+  <published>2022-03-08T10:24:59Z</published>
+  <updated>2022-03-08T10:24:59Z</updated>
+  <content type="html">
+   Generate HTML string by nim object
+  </content>
+ </entry>
+ <entry>
+  <title>Nmerryman: simple_inject</title>
+  <author>
+   <name>Nmerryman</name>
+  </author>
+  <link href="https://github.com/Nmerryman/simple_inject" />
+  <id>urn:rprimus:github:Nmerryman:simple_inject</id>
+  <published>2022-03-08T08:29:39Z</published>
+  <updated>2022-03-08T08:29:39Z</updated>
+  <content type="html">
+   Enables the ability to inject proc calls while in run time
+  </content>
+ </entry>
+ <entry>
+  <title>Miqueas: LearningNotes</title>
+  <author>
+   <name>Miqueas</name>
+  </author>
+  <link href="https://github.com/Miqueas/LearningNotes" />
+  <id>urn:rprimus:github:Miqueas:LearningNotes</id>
+  <published>2022-03-08T03:15:49Z</published>
+  <updated>2022-03-08T03:15:49Z</updated>
+  <content type="html">
+   Personal place where I put some code while learning languages or something
+  </content>
+ </entry>
  <entry>
   <title>izumiya-keisuke: puyoenv</title>
   <author>
@@ -18,6 +57,19 @@
   </content>
  </entry>
  <entry>
+  <title>status-im: nim-leopard</title>
+  <author>
+   <name>status-im</name>
+  </author>
+  <link href="https://github.com/status-im/nim-leopard" />
+  <id>urn:rprimus:github:status-im:nim-leopard</id>
+  <published>2022-03-06T23:12:28Z</published>
+  <updated>2022-03-06T23:12:28Z</updated>
+  <content type="html">
+   Nim wrapper for Leopard-RS
+  </content>
+ </entry>
+ <entry>
   <title>ottyanna: Advent-of-Code-2021</title>
   <author>
    <name>ottyanna</name>
@@ -28,58 +80,6 @@
   <updated>2022-03-06T18:05:48Z</updated>
   <content type="html">
    Learning nim through the Advent of Code
-  </content>
- </entry>
- <entry>
-  <title>luqaska: hackerscreen</title>
-  <author>
-   <name>luqaska</name>
-  </author>
-  <link href="https://github.com/luqaska/hackerscreen" />
-  <id>urn:rprimus:github:luqaska:hackerscreen</id>
-  <published>2022-03-05T21:39:38Z</published>
-  <updated>2022-03-05T21:39:38Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>d0rksh: cmtextract</title>
-  <author>
-   <name>d0rksh</name>
-  </author>
-  <link href="https://github.com/d0rksh/cmtextract" />
-  <id>urn:rprimus:github:d0rksh:cmtextract</id>
-  <published>2022-03-05T13:59:40Z</published>
-  <updated>2022-03-05T13:59:40Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>a4318: nim_zopflipng</title>
-  <author>
-   <name>a4318</name>
-  </author>
-  <link href="https://github.com/a4318/nim_zopflipng" />
-  <id>urn:rprimus:github:a4318:nim_zopflipng</id>
-  <published>2022-03-05T06:24:23Z</published>
-  <updated>2022-03-05T06:24:23Z</updated>
-  <content type="html">
-   thin wrapper for the zopflipng library for windows
-  </content>
- </entry>
- <entry>
-  <title>ire4ever1190: conv</title>
-  <author>
-   <name>ire4ever1190</name>
-  </author>
-  <link href="https://github.com/ire4ever1190/conv" />
-  <id>urn:rprimus:github:ire4ever1190:conv</id>
-  <published>2022-03-05T03:07:41Z</published>
-  <updated>2022-03-05T03:07:41Z</updated>
-  <content type="html">
-   CLI tool for converting numbers
   </content>
  </entry>
 </feed>
