@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-03-08T07:59:51Z</updated>
+<updated>2022-03-08T22:05:19Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>raphm: common-lisp-test</title>
+  <author>
+   <name>raphm</name>
+  </author>
+  <link href="https://github.com/raphm/common-lisp-test" />
+  <id>urn:rprimus:github:raphm:common-lisp-test</id>
+  <published>2022-03-08T22:05:19Z</published>
+  <updated>2022-03-08T22:05:19Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>tdrhq: auto-restart</title>
+  <author>
+   <name>tdrhq</name>
+  </author>
+  <link href="https://github.com/tdrhq/auto-restart" />
+  <id>urn:rprimus:github:tdrhq:auto-restart</id>
+  <published>2022-03-08T19:29:03Z</published>
+  <updated>2022-03-08T19:29:03Z</updated>
+  <content type="html">
+   automatically generate restart-cases for the most common use cases, and also use the restart for automatic retries
+  </content>
+ </entry>
+ <entry>
+  <title>dmforeacre: 8Puzzle</title>
+  <author>
+   <name>dmforeacre</name>
+  </author>
+  <link href="https://github.com/dmforeacre/8Puzzle" />
+  <id>urn:rprimus:github:dmforeacre:8Puzzle</id>
+  <published>2022-03-08T15:13:32Z</published>
+  <updated>2022-03-08T15:13:32Z</updated>
+  <content type="html">
+   8Puzzle AI solution in Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>shamazmazum: porous-media-segmentation</title>
+  <author>
+   <name>shamazmazum</name>
+  </author>
+  <link href="https://github.com/shamazmazum/porous-media-segmentation" />
+  <id>urn:rprimus:github:shamazmazum:porous-media-segmentation</id>
+  <published>2022-03-08T15:00:52Z</published>
+  <updated>2022-03-08T15:00:52Z</updated>
+  <content type="html">
+   Segmentation of black&amp;white images of two-phase porous material
+  </content>
+ </entry>
  <entry>
   <title>fangdingjun: cl-socks</title>
   <author>
@@ -158,84 +210,6 @@
   <updated>2022-03-07T00:49:00Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>Branco5: Blokus-with-Lisp</title>
-  <author>
-   <name>Branco5</name>
-  </author>
-  <link href="https://github.com/Branco5/Blokus-with-Lisp" />
-  <id>urn:rprimus:github:Branco5:Blokus-with-Lisp</id>
-  <published>2022-03-06T15:44:41Z</published>
-  <updated>2022-03-06T15:44:41Z</updated>
-  <content type="html">
-   Simulation of &quot;blokus&quot; game with multiple artificial intelligence algorithms programmed in Lisp.
-  </content>
- </entry>
- <entry>
-  <title>offbeatcc: offbeat.cc</title>
-  <author>
-   <name>offbeatcc</name>
-  </author>
-  <link href="https://github.com/offbeatcc/offbeat.cc" />
-  <id>urn:rprimus:github:offbeatcc:offbeat.cc</id>
-  <published>2022-03-06T14:14:32Z</published>
-  <updated>2022-03-06T14:14:32Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ru-opensource: shrdlu</title>
-  <author>
-   <name>ru-opensource</name>
-  </author>
-  <link href="https://github.com/ru-opensource/shrdlu" />
-  <id>urn:rprimus:github:ru-opensource:shrdlu</id>
-  <published>2022-03-06T13:07:37Z</published>
-  <updated>2022-03-06T13:07:37Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jaypmorgan: clcu</title>
-  <author>
-   <name>jaypmorgan</name>
-  </author>
-  <link href="https://github.com/jaypmorgan/clcu" />
-  <id>urn:rprimus:github:jaypmorgan:clcu</id>
-  <published>2022-03-06T10:29:18Z</published>
-  <updated>2022-03-06T10:29:18Z</updated>
-  <content type="html">
-   Common Lisp Common Utilities
-  </content>
- </entry>
- <entry>
-  <title>carlosganzerla: cl-sqs</title>
-  <author>
-   <name>carlosganzerla</name>
-  </author>
-  <link href="https://github.com/carlosganzerla/cl-sqs" />
-  <id>urn:rprimus:github:carlosganzerla:cl-sqs</id>
-  <published>2022-03-06T01:23:54Z</published>
-  <updated>2022-03-06T01:23:54Z</updated>
-  <content type="html">
-   Lightweight SQS-like queue API using CL and Woo
-  </content>
- </entry>
- <entry>
-  <title>Jaso-N7: aserve-clp</title>
-  <author>
-   <name>Jaso-N7</name>
-  </author>
-  <link href="https://github.com/Jaso-N7/aserve-clp" />
-  <id>urn:rprimus:github:Jaso-N7:aserve-clp</id>
-  <published>2022-03-06T00:02:04Z</published>
-  <updated>2022-03-06T00:02:04Z</updated>
-  <content type="html">
-   Patch that fixes CLP and Webactions to work with Portable AllegroServe (AServe)
   </content>
  </entry>
 </feed>

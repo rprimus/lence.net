@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2022-03-08T14:39:42Z</updated>
+<updated>2022-03-08T23:41:30Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>trev-dev: org-tangle-config.el</title>
+  <author>
+   <name>trev-dev</name>
+  </author>
+  <link href="https://github.com/trev-dev/org-tangle-config.el" />
+  <id>urn:rprimus:github:trev-dev:org-tangle-config.el</id>
+  <published>2022-03-08T23:41:30Z</published>
+  <updated>2022-03-08T23:41:30Z</updated>
+  <content type="html">
+   A simple Emacs package for tangling your config.org prior to loading your configuration.
+  </content>
+ </entry>
+ <entry>
+  <title>zvonkok: .emacs.d</title>
+  <author>
+   <name>zvonkok</name>
+  </author>
+  <link href="https://github.com/zvonkok/.emacs.d" />
+  <id>urn:rprimus:github:zvonkok:.emacs.d</id>
+  <published>2022-03-08T19:33:44Z</published>
+  <updated>2022-03-08T19:33:44Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>astoff: flymake-luacheck</title>
+  <author>
+   <name>astoff</name>
+  </author>
+  <link href="https://github.com/astoff/flymake-luacheck" />
+  <id>urn:rprimus:github:astoff:flymake-luacheck</id>
+  <published>2022-03-08T19:09:20Z</published>
+  <updated>2022-03-08T19:09:20Z</updated>
+  <content type="html">
+   Flymake backend for luacheck
+  </content>
+ </entry>
+ <entry>
+  <title>mora-unie-youer: doom-config</title>
+  <author>
+   <name>mora-unie-youer</name>
+  </author>
+  <link href="https://github.com/mora-unie-youer/doom-config" />
+  <id>urn:rprimus:github:mora-unie-youer:doom-config</id>
+  <published>2022-03-08T17:19:29Z</published>
+  <updated>2022-03-08T17:19:29Z</updated>
+  <content type="html">
+   This is my Doom Emacs configuration
+  </content>
+ </entry>
  <entry>
   <title>BrunoCesarAngst: myEmacs</title>
   <author>
@@ -144,7 +196,7 @@
   <published>2022-03-08T00:09:05Z</published>
   <updated>2022-03-08T00:09:05Z</updated>
   <content type="html">
-   Mirror of the osm package from GNU ELPA, current as of 2022-03-08
+   Mirror of the osm package from GNU ELPA, current as of 2022-03-09
   </content>
  </entry>
  <entry>
@@ -157,7 +209,7 @@
   <published>2022-03-08T00:09:00Z</published>
   <updated>2022-03-08T00:09:00Z</updated>
   <content type="html">
-   Mirror of the org-modern package from GNU ELPA, current as of 2022-03-08
+   Mirror of the org-modern package from GNU ELPA, current as of 2022-03-09
   </content>
  </entry>
  <entry>
@@ -291,6 +343,19 @@
   </content>
  </entry>
  <entry>
+  <title>tecosaur: ox-pluto</title>
+  <author>
+   <name>tecosaur</name>
+  </author>
+  <link href="https://github.com/tecosaur/ox-pluto" />
+  <id>urn:rprimus:github:tecosaur:ox-pluto</id>
+  <published>2022-03-07T13:45:42Z</published>
+  <updated>2022-03-07T13:45:42Z</updated>
+  <content type="html">
+   Export Org documents to Pluto.jl noteboojs
+  </content>
+ </entry>
+ <entry>
   <title>xroger88: runemacs</title>
   <author>
    <name>xroger88</name>
@@ -366,188 +431,6 @@
   <updated>2022-03-07T00:19:36Z</updated>
   <content type="html">
    Where I keep a few emacs things
-  </content>
- </entry>
- <entry>
-  <title>jacksonspc: jack-emacs-config</title>
-  <author>
-   <name>jacksonspc</name>
-  </author>
-  <link href="https://github.com/jacksonspc/jack-emacs-config" />
-  <id>urn:rprimus:github:jacksonspc:jack-emacs-config</id>
-  <published>2022-03-06T22:09:38Z</published>
-  <updated>2022-03-06T22:09:38Z</updated>
-  <content type="html">
-   Jack Emacs Config
-  </content>
- </entry>
- <entry>
-  <title>jobangen: zettelkasten-ext</title>
-  <author>
-   <name>jobangen</name>
-  </author>
-  <link href="https://github.com/jobangen/zettelkasten-ext" />
-  <id>urn:rprimus:github:jobangen:zettelkasten-ext</id>
-  <published>2022-03-06T21:15:25Z</published>
-  <updated>2022-03-06T21:15:25Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>HsienYu: .doom.d</title>
-  <author>
-   <name>HsienYu</name>
-  </author>
-  <link href="https://github.com/HsienYu/.doom.d" />
-  <id>urn:rprimus:github:HsienYu:.doom.d</id>
-  <published>2022-03-06T21:00:11Z</published>
-  <updated>2022-03-06T21:00:11Z</updated>
-  <content type="html">
-   dotfile for doom-emacs
-  </content>
- </entry>
- <entry>
-  <title>semhoun: win_emacs_install</title>
-  <author>
-   <name>semhoun</name>
-  </author>
-  <link href="https://github.com/semhoun/win_emacs_install" />
-  <id>urn:rprimus:github:semhoun:win_emacs_install</id>
-  <published>2022-03-06T18:20:24Z</published>
-  <updated>2022-03-06T18:20:24Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>roadt: sxiv.el</title>
-  <author>
-   <name>roadt</name>
-  </author>
-  <link href="https://github.com/roadt/sxiv.el" />
-  <id>urn:rprimus:github:roadt:sxiv.el</id>
-  <published>2022-03-06T18:05:39Z</published>
-  <updated>2022-03-06T18:05:39Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Pachin0: emacs.d</title>
-  <author>
-   <name>Pachin0</name>
-  </author>
-  <link href="https://github.com/Pachin0/emacs.d" />
-  <id>urn:rprimus:github:Pachin0:emacs.d</id>
-  <published>2022-03-06T15:10:51Z</published>
-  <updated>2022-03-06T15:10:51Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ROCKTAKEY: cookiecutter-emacs-lisp</title>
-  <author>
-   <name>ROCKTAKEY</name>
-  </author>
-  <link href="https://github.com/ROCKTAKEY/cookiecutter-emacs-lisp" />
-  <id>urn:rprimus:github:ROCKTAKEY:cookiecutter-emacs-lisp</id>
-  <published>2022-03-06T09:32:34Z</published>
-  <updated>2022-03-06T09:32:34Z</updated>
-  <content type="html">
-   Cookiecutter template library for emacs-lisp
-  </content>
- </entry>
- <entry>
-  <title>utoku: emacs</title>
-  <author>
-   <name>utoku</name>
-  </author>
-  <link href="https://github.com/utoku/emacs" />
-  <id>urn:rprimus:github:utoku:emacs</id>
-  <published>2022-03-06T08:52:29Z</published>
-  <updated>2022-03-06T08:52:29Z</updated>
-  <content type="html">
-   My emacs functions, files, and packages.
-  </content>
- </entry>
- <entry>
-  <title>jgru: org-roam-consult</title>
-  <author>
-   <name>jgru</name>
-  </author>
-  <link href="https://github.com/jgru/org-roam-consult" />
-  <id>urn:rprimus:github:jgru:org-roam-consult</id>
-  <published>2022-03-06T08:16:17Z</published>
-  <updated>2022-03-06T08:16:17Z</updated>
-  <content type="html">
-   A bunch of convenience functions for operating org-roam with the help of consult 
-  </content>
- </entry>
- <entry>
-  <title>jgru: org-roam-desktop</title>
-  <author>
-   <name>jgru</name>
-  </author>
-  <link href="https://github.com/jgru/org-roam-desktop" />
-  <id>urn:rprimus:github:jgru:org-roam-desktop</id>
-  <published>2022-03-06T07:39:18Z</published>
-  <updated>2022-03-06T07:39:18Z</updated>
-  <content type="html">
-   A dead-simple desktop facility for org-roam
-  </content>
- </entry>
- <entry>
-  <title>RaminHAL9001: dir-local-env</title>
-  <author>
-   <name>RaminHAL9001</name>
-  </author>
-  <link href="https://github.com/RaminHAL9001/dir-local-env" />
-  <id>urn:rprimus:github:RaminHAL9001:dir-local-env</id>
-  <published>2022-03-06T06:57:29Z</published>
-  <updated>2022-03-06T06:57:29Z</updated>
-  <content type="html">
-   Emacs system to configure directory local variables without .dir-local.el files
-  </content>
- </entry>
- <entry>
-  <title>bcardoso: org-backlinks</title>
-  <author>
-   <name>bcardoso</name>
-  </author>
-  <link href="https://github.com/bcardoso/org-backlinks" />
-  <id>urn:rprimus:github:bcardoso:org-backlinks</id>
-  <published>2022-03-06T02:43:58Z</published>
-  <updated>2022-03-06T02:43:58Z</updated>
-  <content type="html">
-   An interface for searching backlinks to Org headings.
-  </content>
- </entry>
- <entry>
-  <title>ayers1960: emacsConfig</title>
-  <author>
-   <name>ayers1960</name>
-  </author>
-  <link href="https://github.com/ayers1960/emacsConfig" />
-  <id>urn:rprimus:github:ayers1960:emacsConfig</id>
-  <published>2022-03-06T01:18:19Z</published>
-  <updated>2022-03-06T01:18:19Z</updated>
-  <content type="html">
-   my emacs config files
-  </content>
- </entry>
- <entry>
-  <title>AbdeltwabMF: emacs-rice</title>
-  <author>
-   <name>AbdeltwabMF</name>
-  </author>
-  <link href="https://github.com/AbdeltwabMF/emacs-rice" />
-  <id>urn:rprimus:github:AbdeltwabMF:emacs-rice</id>
-  <published>2022-03-06T01:08:55Z</published>
-  <updated>2022-03-06T01:08:55Z</updated>
-  <content type="html">
-   My Emacs configuration documented and organized in org mode
   </content>
  </entry>
 </feed>
