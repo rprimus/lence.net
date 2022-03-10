@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-scheme.atom"/>
 <id>urn:rprimus:github:newschemerepos</id>
-<updated>2022-03-09T01:23:45Z</updated>
+<updated>2022-03-10T00:28:42Z</updated>
 <title type='text'>New GitHub Scheme Repos</title>
+ <entry>
+  <title>ahapr: dots</title>
+  <author>
+   <name>ahapr</name>
+  </author>
+  <link href="https://github.com/ahapr/dots" />
+  <id>urn:rprimus:github:ahapr:dots</id>
+  <published>2022-03-10T00:28:42Z</published>
+  <updated>2022-03-10T00:28:42Z</updated>
+  <content type="html">
+   dot files
+  </content>
+ </entry>
  <entry>
   <title>jeremyweitencent: sicp_exericises</title>
   <author>
@@ -28,19 +41,6 @@
   <updated>2022-03-08T04:33:12Z</updated>
   <content type="html">
    GIMP plugins for Okaymon image processing.
-  </content>
- </entry>
- <entry>
-  <title>RyGuy125: Scheme-Typed-Functions-Practice</title>
-  <author>
-   <name>RyGuy125</name>
-  </author>
-  <link href="https://github.com/RyGuy125/Scheme-Typed-Functions-Practice" />
-  <id>urn:rprimus:github:RyGuy125:Scheme-Typed-Functions-Practice</id>
-  <published>2022-03-07T22:11:05Z</published>
-  <updated>2022-03-07T22:11:05Z</updated>
-  <content type="html">
-   From HW7 COMP105. Solo Work
   </content>
  </entry>
 </feed>

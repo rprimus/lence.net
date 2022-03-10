@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-03-09T08:07:59Z</updated>
+<updated>2022-03-09T20:24:10Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>AquilaIrreale: cl-utils</title>
+  <author>
+   <name>AquilaIrreale</name>
+  </author>
+  <link href="https://github.com/AquilaIrreale/cl-utils" />
+  <id>urn:rprimus:github:AquilaIrreale:cl-utils</id>
+  <published>2022-03-09T20:24:10Z</published>
+  <updated>2022-03-09T20:24:10Z</updated>
+  <content type="html">
+   Fun with common lisp
+  </content>
+ </entry>
+ <entry>
+  <title>byulparan: sc-vst</title>
+  <author>
+   <name>byulparan</name>
+  </author>
+  <link href="https://github.com/byulparan/sc-vst" />
+  <id>urn:rprimus:github:byulparan:sc-vst</id>
+  <published>2022-03-09T19:50:54Z</published>
+  <updated>2022-03-09T19:50:54Z</updated>
+  <content type="html">
+   VSTPlugin support for cl-collider
+  </content>
+ </entry>
+ <entry>
+  <title>pranshukhandal: total-machine</title>
+  <author>
+   <name>pranshukhandal</name>
+  </author>
+  <link href="https://github.com/pranshukhandal/total-machine" />
+  <id>urn:rprimus:github:pranshukhandal:total-machine</id>
+  <published>2022-03-09T16:55:35Z</published>
+  <updated>2022-03-09T16:55:35Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>Aojd22: Trial</title>
   <author>
@@ -106,123 +145,6 @@
   <updated>2022-03-08T00:55:11Z</updated>
   <content type="html">
    A common lisp thread pool implemented with atomic operations instead of locks in the worker threads&#039; main loop.
-  </content>
- </entry>
- <entry>
-  <title>justy666: LISP-Math-Function</title>
-  <author>
-   <name>justy666</name>
-  </author>
-  <link href="https://github.com/justy666/LISP-Math-Function" />
-  <id>urn:rprimus:github:justy666:LISP-Math-Function</id>
-  <published>2022-03-07T20:46:10Z</published>
-  <updated>2022-03-07T20:46:10Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Hickory-DMTools: Hickory-SQLite</title>
-  <author>
-   <name>Hickory-DMTools</name>
-  </author>
-  <link href="https://github.com/Hickory-DMTools/Hickory-SQLite" />
-  <id>urn:rprimus:github:Hickory-DMTools:Hickory-SQLite</id>
-  <published>2022-03-07T19:59:35Z</published>
-  <updated>2022-03-07T19:59:35Z</updated>
-  <content type="html">
-   Another Common Lisp SQLite Interface
-  </content>
- </entry>
- <entry>
-  <title>Surelye: Web-Serveur-Common-Lisp</title>
-  <author>
-   <name>Surelye</name>
-  </author>
-  <link href="https://github.com/Surelye/Web-Serveur-Common-Lisp" />
-  <id>urn:rprimus:github:Surelye:Web-Serveur-Common-Lisp</id>
-  <published>2022-03-07T18:41:16Z</published>
-  <updated>2022-03-07T18:41:16Z</updated>
-  <content type="html">
-   Mon premier serveur Web.
-  </content>
- </entry>
- <entry>
-  <title>iktovr: Functional-Programming</title>
-  <author>
-   <name>iktovr</name>
-  </author>
-  <link href="https://github.com/iktovr/Functional-Programming" />
-  <id>urn:rprimus:github:iktovr:Functional-Programming</id>
-  <published>2022-03-07T15:20:46Z</published>
-  <updated>2022-03-07T15:20:46Z</updated>
-  <content type="html">
-   Functional programming course in Moscow Aviation Institute 
-  </content>
- </entry>
- <entry>
-  <title>didierverna: etap</title>
-  <author>
-   <name>didierverna</name>
-  </author>
-  <link href="https://github.com/didierverna/etap" />
-  <id>urn:rprimus:github:didierverna:etap</id>
-  <published>2022-03-07T11:28:17Z</published>
-  <updated>2022-03-07T11:28:17Z</updated>
-  <content type="html">
-   Experimental Typesetting Algorithms Platform
-  </content>
- </entry>
- <entry>
-  <title>timonoko: Sextant_Revisited</title>
-  <author>
-   <name>timonoko</name>
-  </author>
-  <link href="https://github.com/timonoko/Sextant_Revisited" />
-  <id>urn:rprimus:github:timonoko:Sextant_Revisited</id>
-  <published>2022-03-07T08:20:21Z</published>
-  <updated>2022-03-07T08:20:21Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ksaj: rr.lisp</title>
-  <author>
-   <name>ksaj</name>
-  </author>
-  <link href="https://github.com/ksaj/rr.lisp" />
-  <id>urn:rprimus:github:ksaj:rr.lisp</id>
-  <published>2022-03-07T06:52:46Z</published>
-  <updated>2022-03-07T06:52:46Z</updated>
-  <content type="html">
-   rr in Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>Jaso-N7: portfolio</title>
-  <author>
-   <name>Jaso-N7</name>
-  </author>
-  <link href="https://github.com/Jaso-N7/portfolio" />
-  <id>urn:rprimus:github:Jaso-N7:portfolio</id>
-  <published>2022-03-07T05:16:23Z</published>
-  <updated>2022-03-07T05:16:23Z</updated>
-  <content type="html">
-   Personal portfolio website project
-  </content>
- </entry>
- <entry>
-  <title>puvali: CS-161</title>
-  <author>
-   <name>puvali</name>
-  </author>
-  <link href="https://github.com/puvali/CS-161" />
-  <id>urn:rprimus:github:puvali:CS-161</id>
-  <published>2022-03-07T00:49:00Z</published>
-  <updated>2022-03-07T00:49:00Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
