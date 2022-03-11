@@ -2,19 +2,383 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-elixir.atom"/>
 <id>urn:rprimus:github:newelixirrepos</id>
-<updated>2022-03-10T08:45:33Z</updated>
+<updated>2022-03-11T03:10:43Z</updated>
 <title type='text'>New GitHub Elixir Repos</title>
  <entry>
-  <title>cigrainger: blog</title>
+  <title>paulo-e: elixir-cards</title>
   <author>
-   <name>cigrainger</name>
+   <name>paulo-e</name>
   </author>
-  <link href="https://github.com/cigrainger/blog" />
-  <id>urn:rprimus:github:cigrainger:blog</id>
-  <published>2022-03-10T08:45:33Z</published>
-  <updated>2022-03-10T08:45:33Z</updated>
+  <link href="https://github.com/paulo-e/elixir-cards" />
+  <id>urn:rprimus:github:paulo-e:elixir-cards</id>
+  <published>2022-03-11T03:10:43Z</published>
+  <updated>2022-03-11T03:10:43Z</updated>
   <content type="html">
    
+  </content>
+ </entry>
+ <entry>
+  <title>maiconloure: HeatTags</title>
+  <author>
+   <name>maiconloure</name>
+  </author>
+  <link href="https://github.com/maiconloure/HeatTags" />
+  <id>urn:rprimus:github:maiconloure:HeatTags</id>
+  <published>2022-03-11T02:20:49Z</published>
+  <updated>2022-03-11T02:20:49Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>somosanimais: bird-count</title>
+  <author>
+   <name>somosanimais</name>
+  </author>
+  <link href="https://github.com/somosanimais/bird-count" />
+  <id>urn:rprimus:github:somosanimais:bird-count</id>
+  <published>2022-03-11T00:49:00Z</published>
+  <updated>2022-03-11T00:49:00Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Joyceolympio: phonebooks</title>
+  <author>
+   <name>Joyceolympio</name>
+  </author>
+  <link href="https://github.com/Joyceolympio/phonebooks" />
+  <id>urn:rprimus:github:Joyceolympio:phonebooks</id>
+  <published>2022-03-11T00:43:20Z</published>
+  <updated>2022-03-11T00:43:20Z</updated>
+  <content type="html">
+   API phonebooks, utilizando elixir e phoenix framework
+  </content>
+ </entry>
+ <entry>
+  <title>mpedroni: elixir-queue</title>
+  <author>
+   <name>mpedroni</name>
+  </author>
+  <link href="https://github.com/mpedroni/elixir-queue" />
+  <id>urn:rprimus:github:mpedroni:elixir-queue</id>
+  <published>2022-03-11T00:09:04Z</published>
+  <updated>2022-03-11T00:09:04Z</updated>
+  <content type="html">
+   Implementation of the data structure Queue in Elixir
+  </content>
+ </entry>
+ <entry>
+  <title>mcelaney: elixir-points-skunk</title>
+  <author>
+   <name>mcelaney</name>
+  </author>
+  <link href="https://github.com/mcelaney/elixir-points-skunk" />
+  <id>urn:rprimus:github:mcelaney:elixir-points-skunk</id>
+  <published>2022-03-10T21:32:04Z</published>
+  <updated>2022-03-10T21:32:04Z</updated>
+  <content type="html">
+   A clone experiement of FastRuby&#039;s Points app
+  </content>
+ </entry>
+ <entry>
+  <title>assertnotnull: calendlex</title>
+  <author>
+   <name>assertnotnull</name>
+  </author>
+  <link href="https://github.com/assertnotnull/calendlex" />
+  <id>urn:rprimus:github:assertnotnull:calendlex</id>
+  <published>2022-03-10T20:35:06Z</published>
+  <updated>2022-03-10T20:35:06Z</updated>
+  <content type="html">
+   Following tutorial on https://bigardone.dev/blog/2021/11/06/building-a-simple-calendly-clone-with-phoenix-live-view-pt-1
+  </content>
+ </entry>
+ <entry>
+  <title>claudionts: ebank</title>
+  <author>
+   <name>claudionts</name>
+  </author>
+  <link href="https://github.com/claudionts/ebank" />
+  <id>urn:rprimus:github:claudionts:ebank</id>
+  <published>2022-03-10T18:25:32Z</published>
+  <updated>2022-03-10T18:25:32Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>libra-ventures: unicode_emoji_flag</title>
+  <author>
+   <name>libra-ventures</name>
+  </author>
+  <link href="https://github.com/libra-ventures/unicode_emoji_flag" />
+  <id>urn:rprimus:github:libra-ventures:unicode_emoji_flag</id>
+  <published>2022-03-10T18:08:28Z</published>
+  <updated>2022-03-10T18:08:28Z</updated>
+  <content type="html">
+   Converts a country code to emoji flag
+  </content>
+ </entry>
+ <entry>
+  <title>bhoggard: now-playing-phx</title>
+  <author>
+   <name>bhoggard</name>
+  </author>
+  <link href="https://github.com/bhoggard/now-playing-phx" />
+  <id>urn:rprimus:github:bhoggard:now-playing-phx</id>
+  <published>2022-03-10T16:54:54Z</published>
+  <updated>2022-03-10T16:54:54Z</updated>
+  <content type="html">
+   Elixir/Phoenix LiveView application for now playing site
+  </content>
+ </entry>
+ <entry>
+  <title>Neptius: novy</title>
+  <author>
+   <name>Neptius</name>
+  </author>
+  <link href="https://github.com/Neptius/novy" />
+  <id>urn:rprimus:github:Neptius:novy</id>
+  <published>2022-03-10T15:15:07Z</published>
+  <updated>2022-03-10T15:15:07Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>wagncarv: Nftex</title>
+  <author>
+   <name>wagncarv</name>
+  </author>
+  <link href="https://github.com/wagncarv/Nftex" />
+  <id>urn:rprimus:github:wagncarv:Nftex</id>
+  <published>2022-03-10T14:51:12Z</published>
+  <updated>2022-03-10T14:51:12Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Elixir-UTFPR: pequenos_projetos</title>
+  <author>
+   <name>Elixir-UTFPR</name>
+  </author>
+  <link href="https://github.com/Elixir-UTFPR/pequenos_projetos" />
+  <id>urn:rprimus:github:Elixir-UTFPR:pequenos_projetos</id>
+  <published>2022-03-10T14:26:57Z</published>
+  <updated>2022-03-10T14:26:57Z</updated>
+  <content type="html">
+   Pequenos Projetos em Elixir
+  </content>
+ </entry>
+ <entry>
+  <title>elbow-jason: soy</title>
+  <author>
+   <name>elbow-jason</name>
+  </author>
+  <link href="https://github.com/elbow-jason/soy" />
+  <id>urn:rprimus:github:elbow-jason:soy</id>
+  <published>2022-03-10T14:22:03Z</published>
+  <updated>2022-03-10T14:22:03Z</updated>
+  <content type="html">
+   A RocksDB in Elixir experiment using Rustler
+  </content>
+ </entry>
+ <entry>
+  <title>efenstakes: graphql_elixir</title>
+  <author>
+   <name>efenstakes</name>
+  </author>
+  <link href="https://github.com/efenstakes/graphql_elixir" />
+  <id>urn:rprimus:github:efenstakes:graphql_elixir</id>
+  <published>2022-03-10T13:12:02Z</published>
+  <updated>2022-03-10T13:12:02Z</updated>
+  <content type="html">
+   Testing Elixir GraphQL API 
+  </content>
+ </entry>
+ <entry>
+  <title>avantifellows: auth-layer-v2-backend</title>
+  <author>
+   <name>avantifellows</name>
+  </author>
+  <link href="https://github.com/avantifellows/auth-layer-v2-backend" />
+  <id>urn:rprimus:github:avantifellows:auth-layer-v2-backend</id>
+  <published>2022-03-10T12:56:00Z</published>
+  <updated>2022-03-10T12:56:00Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>athulkrishnaaei: chattapplication</title>
+  <author>
+   <name>athulkrishnaaei</name>
+  </author>
+  <link href="https://github.com/athulkrishnaaei/chattapplication" />
+  <id>urn:rprimus:github:athulkrishnaaei:chattapplication</id>
+  <published>2022-03-10T12:33:29Z</published>
+  <updated>2022-03-10T12:33:29Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>alain-nambi: ecommerce-phoenix</title>
+  <author>
+   <name>alain-nambi</name>
+  </author>
+  <link href="https://github.com/alain-nambi/ecommerce-phoenix" />
+  <id>urn:rprimus:github:alain-nambi:ecommerce-phoenix</id>
+  <published>2022-03-10T12:32:54Z</published>
+  <updated>2022-03-10T12:32:54Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>yellowsman: dakuonex</title>
+  <author>
+   <name>yellowsman</name>
+  </author>
+  <link href="https://github.com/yellowsman/dakuonex" />
+  <id>urn:rprimus:github:yellowsman:dakuonex</id>
+  <published>2022-03-10T12:21:59Z</published>
+  <updated>2022-03-10T12:21:59Z</updated>
+  <content type="html">
+   &quot;Dakuonex&quot; is a tool that converts Hiragana and Katakana into unvoiced and voiced/semi-voiced sounds.
+  </content>
+ </entry>
+ <entry>
+  <title>davaeron: icmp_ping</title>
+  <author>
+   <name>davaeron</name>
+  </author>
+  <link href="https://github.com/davaeron/icmp_ping" />
+  <id>urn:rprimus:github:davaeron:icmp_ping</id>
+  <published>2022-03-10T12:13:38Z</published>
+  <updated>2022-03-10T12:13:38Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>gaal-dev: ELIXIR-samples</title>
+  <author>
+   <name>gaal-dev</name>
+  </author>
+  <link href="https://github.com/gaal-dev/ELIXIR-samples" />
+  <id>urn:rprimus:github:gaal-dev:ELIXIR-samples</id>
+  <published>2022-03-10T12:11:31Z</published>
+  <updated>2022-03-10T12:11:31Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>t-yamanashi: templex</title>
+  <author>
+   <name>t-yamanashi</name>
+  </author>
+  <link href="https://github.com/t-yamanashi/templex" />
+  <id>urn:rprimus:github:t-yamanashi:templex</id>
+  <published>2022-03-10T12:00:59Z</published>
+  <updated>2022-03-10T12:00:59Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>odelbos: le-elixir-3-storagemanager</title>
+  <author>
+   <name>odelbos</name>
+  </author>
+  <link href="https://github.com/odelbos/le-elixir-3-storagemanager" />
+  <id>urn:rprimus:github:odelbos:le-elixir-3-storagemanager</id>
+  <published>2022-03-10T11:52:00Z</published>
+  <updated>2022-03-10T11:52:00Z</updated>
+  <content type="html">
+   Management of RSA and AES keys for CryptoStorage server.
+  </content>
+ </entry>
+ <entry>
+  <title>pedromcp90: doof.ly</title>
+  <author>
+   <name>pedromcp90</name>
+  </author>
+  <link href="https://github.com/pedromcp90/doof.ly" />
+  <id>urn:rprimus:github:pedromcp90:doof.ly</id>
+  <published>2022-03-10T11:47:21Z</published>
+  <updated>2022-03-10T11:47:21Z</updated>
+  <content type="html">
+   Url shortener with elixir
+  </content>
+ </entry>
+ <entry>
+  <title>DealPad: elixir-melbourne</title>
+  <author>
+   <name>DealPad</name>
+  </author>
+  <link href="https://github.com/DealPad/elixir-melbourne" />
+  <id>urn:rprimus:github:DealPad:elixir-melbourne</id>
+  <published>2022-03-10T11:39:57Z</published>
+  <updated>2022-03-10T11:39:57Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>valeas90: dfecto</title>
+  <author>
+   <name>valeas90</name>
+  </author>
+  <link href="https://github.com/valeas90/dfecto" />
+  <id>urn:rprimus:github:valeas90:dfecto</id>
+  <published>2022-03-10T11:25:34Z</published>
+  <updated>2022-03-10T11:25:34Z</updated>
+  <content type="html">
+   Hackathon 2022/03/10
+  </content>
+ </entry>
+ <entry>
+  <title>dtykocki: horde_experiment</title>
+  <author>
+   <name>dtykocki</name>
+  </author>
+  <link href="https://github.com/dtykocki/horde_experiment" />
+  <id>urn:rprimus:github:dtykocki:horde_experiment</id>
+  <published>2022-03-10T11:06:05Z</published>
+  <updated>2022-03-10T11:06:05Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>denispeplin: exavier_check</title>
+  <author>
+   <name>denispeplin</name>
+  </author>
+  <link href="https://github.com/denispeplin/exavier_check" />
+  <id>urn:rprimus:github:denispeplin:exavier_check</id>
+  <published>2022-03-10T10:52:20Z</published>
+  <updated>2022-03-10T10:52:20Z</updated>
+  <content type="html">
+   A repo to reproduce Exavier issue
+  </content>
+ </entry>
+ <entry>
+  <title>tomkalervo: exercises-repo</title>
+  <author>
+   <name>tomkalervo</name>
+  </author>
+  <link href="https://github.com/tomkalervo/exercises-repo" />
+  <id>urn:rprimus:github:tomkalervo:exercises-repo</id>
+  <published>2022-03-10T07:32:10Z</published>
+  <updated>2022-03-10T07:32:10Z</updated>
+  <content type="html">
+   assignments and exercises
   </content>
  </entry>
  <entry>
@@ -26,32 +390,6 @@
   <id>urn:rprimus:github:mkhanooo:authentication_api_PHOENIX</id>
   <published>2022-03-10T06:27:59Z</published>
   <updated>2022-03-10T06:27:59Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>samuelguedesalves: hands_on_plug</title>
-  <author>
-   <name>samuelguedesalves</name>
-  </author>
-  <link href="https://github.com/samuelguedesalves/hands_on_plug" />
-  <id>urn:rprimus:github:samuelguedesalves:hands_on_plug</id>
-  <published>2022-03-10T05:29:52Z</published>
-  <updated>2022-03-10T05:29:52Z</updated>
-  <content type="html">
-   making a api with plug hands on
-  </content>
- </entry>
- <entry>
-  <title>sammkj: parambo</title>
-  <author>
-   <name>sammkj</name>
-  </author>
-  <link href="https://github.com/sammkj/parambo" />
-  <id>urn:rprimus:github:sammkj:parambo</id>
-  <published>2022-03-10T05:22:48Z</published>
-  <updated>2022-03-10T05:22:48Z</updated>
   <content type="html">
    
   </content>
@@ -117,19 +455,6 @@
   <id>urn:rprimus:github:Sane08:sentence-recognition-solver</id>
   <published>2022-03-10T00:44:40Z</published>
   <updated>2022-03-10T00:44:40Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>shansiddiqui94: Todo_Elixir</title>
-  <author>
-   <name>shansiddiqui94</name>
-  </author>
-  <link href="https://github.com/shansiddiqui94/Todo_Elixir" />
-  <id>urn:rprimus:github:shansiddiqui94:Todo_Elixir</id>
-  <published>2022-03-10T00:10:42Z</published>
-  <updated>2022-03-10T00:10:42Z</updated>
   <content type="html">
    
   </content>
@@ -304,6 +629,19 @@
   </content>
  </entry>
  <entry>
+  <title>Cyytrus: exercism-elixir</title>
+  <author>
+   <name>Cyytrus</name>
+  </author>
+  <link href="https://github.com/Cyytrus/exercism-elixir" />
+  <id>urn:rprimus:github:Cyytrus:exercism-elixir</id>
+  <published>2022-03-09T12:06:09Z</published>
+  <updated>2022-03-09T12:06:09Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
   <title>sooyang: servy</title>
   <author>
    <name>sooyang</name>
@@ -325,19 +663,6 @@
   <id>urn:rprimus:github:la-jeryl:todo_app_v2</id>
   <published>2022-03-09T11:51:01Z</published>
   <updated>2022-03-09T11:51:01Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>carlosrobertosalgueiro: Ex_Mon</title>
-  <author>
-   <name>carlosrobertosalgueiro</name>
-  </author>
-  <link href="https://github.com/carlosrobertosalgueiro/Ex_Mon" />
-  <id>urn:rprimus:github:carlosrobertosalgueiro:Ex_Mon</id>
-  <published>2022-03-09T10:01:14Z</published>
-  <updated>2022-03-09T10:01:14Z</updated>
   <content type="html">
    
   </content>
@@ -522,396 +847,6 @@
   <updated>2022-03-09T00:24:52Z</updated>
   <content type="html">
    Basic web app built with Phoenix for learning purposes.
-  </content>
- </entry>
- <entry>
-  <title>elixir-assay: desafios-elixir-brasil</title>
-  <author>
-   <name>elixir-assay</name>
-  </author>
-  <link href="https://github.com/elixir-assay/desafios-elixir-brasil" />
-  <id>urn:rprimus:github:elixir-assay:desafios-elixir-brasil</id>
-  <published>2022-03-08T23:39:17Z</published>
-  <updated>2022-03-08T23:39:17Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>robertminasyan: ID1019-ProgrammingII</title>
-  <author>
-   <name>robertminasyan</name>
-  </author>
-  <link href="https://github.com/robertminasyan/ID1019-ProgrammingII" />
-  <id>urn:rprimus:github:robertminasyan:ID1019-ProgrammingII</id>
-  <published>2022-03-08T22:06:22Z</published>
-  <updated>2022-03-08T22:06:22Z</updated>
-  <content type="html">
-   Some solutions to exercises in the course. All of the code is written in Elixir. 
-  </content>
- </entry>
- <entry>
-  <title>unr-s22: cs491_one_to_many</title>
-  <author>
-   <name>unr-s22</name>
-  </author>
-  <link href="https://github.com/unr-s22/cs491_one_to_many" />
-  <id>urn:rprimus:github:unr-s22:cs491_one_to_many</id>
-  <published>2022-03-08T21:23:25Z</published>
-  <updated>2022-03-08T21:23:25Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>mendoncas: elixir-exercises</title>
-  <author>
-   <name>mendoncas</name>
-  </author>
-  <link href="https://github.com/mendoncas/elixir-exercises" />
-  <id>urn:rprimus:github:mendoncas:elixir-exercises</id>
-  <published>2022-03-08T20:33:12Z</published>
-  <updated>2022-03-08T20:33:12Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>8bitbeard: elixir_fizzbuzz</title>
-  <author>
-   <name>8bitbeard</name>
-  </author>
-  <link href="https://github.com/8bitbeard/elixir_fizzbuzz" />
-  <id>urn:rprimus:github:8bitbeard:elixir_fizzbuzz</id>
-  <published>2022-03-08T20:15:09Z</published>
-  <updated>2022-03-08T20:15:09Z</updated>
-  <content type="html">
-   Elixir implementation of the fizzbuzz word game
-  </content>
- </entry>
- <entry>
-  <title>jax-ex: pipe</title>
-  <author>
-   <name>jax-ex</name>
-  </author>
-  <link href="https://github.com/jax-ex/pipe" />
-  <id>urn:rprimus:github:jax-ex:pipe</id>
-  <published>2022-03-08T19:19:55Z</published>
-  <updated>2022-03-08T19:19:55Z</updated>
-  <content type="html">
-   A plug clone for learning purposes
-  </content>
- </entry>
- <entry>
-  <title>EdilbertoMorais: elixir</title>
-  <author>
-   <name>EdilbertoMorais</name>
-  </author>
-  <link href="https://github.com/EdilbertoMorais/elixir" />
-  <id>urn:rprimus:github:EdilbertoMorais:elixir</id>
-  <published>2022-03-08T18:13:15Z</published>
-  <updated>2022-03-08T18:13:15Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>JuliaMathias: pokemon</title>
-  <author>
-   <name>JuliaMathias</name>
-  </author>
-  <link href="https://github.com/JuliaMathias/pokemon" />
-  <id>urn:rprimus:github:JuliaMathias:pokemon</id>
-  <published>2022-03-08T17:30:31Z</published>
-  <updated>2022-03-08T17:30:31Z</updated>
-  <content type="html">
-   Find them all
-  </content>
- </entry>
- <entry>
-  <title>UrielOlveraDVZ: nomina</title>
-  <author>
-   <name>UrielOlveraDVZ</name>
-  </author>
-  <link href="https://github.com/UrielOlveraDVZ/nomina" />
-  <id>urn:rprimus:github:UrielOlveraDVZ:nomina</id>
-  <published>2022-03-08T16:12:09Z</published>
-  <updated>2022-03-08T16:12:09Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>douglastofoli: 2022-1-solfacil-plug-bootcamp-elixir-exercises</title>
-  <author>
-   <name>douglastofoli</name>
-  </author>
-  <link href="https://github.com/douglastofoli/2022-1-solfacil-plug-bootcamp-elixir-exercises" />
-  <id>urn:rprimus:github:douglastofoli:2022-1-solfacil-plug-bootcamp-elixir-exercises</id>
-  <published>2022-03-08T15:40:09Z</published>
-  <updated>2022-03-08T15:40:09Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Algorisys-Technologies: pg-chatterApp-tdd</title>
-  <author>
-   <name>Algorisys-Technologies</name>
-  </author>
-  <link href="https://github.com/Algorisys-Technologies/pg-chatterApp-tdd" />
-  <id>urn:rprimus:github:Algorisys-Technologies:pg-chatterApp-tdd</id>
-  <published>2022-03-08T15:01:11Z</published>
-  <updated>2022-03-08T15:01:11Z</updated>
-  <content type="html">
-   ChatterApp using tdd (test driven development) of phoenix.
-  </content>
- </entry>
- <entry>
-  <title>Algorisys-Technologies: pg-task-management-phoenix-liveview</title>
-  <author>
-   <name>Algorisys-Technologies</name>
-  </author>
-  <link href="https://github.com/Algorisys-Technologies/pg-task-management-phoenix-liveview" />
-  <id>urn:rprimus:github:Algorisys-Technologies:pg-task-management-phoenix-liveview</id>
-  <published>2022-03-08T14:58:10Z</published>
-  <updated>2022-03-08T14:58:10Z</updated>
-  <content type="html">
-   Task management (liveview project) using elixir and pheonix liveview.
-  </content>
- </entry>
- <entry>
-  <title>Algorisys-Technologies: pg-elixir-basics</title>
-  <author>
-   <name>Algorisys-Technologies</name>
-  </author>
-  <link href="https://github.com/Algorisys-Technologies/pg-elixir-basics" />
-  <id>urn:rprimus:github:Algorisys-Technologies:pg-elixir-basics</id>
-  <published>2022-03-08T14:49:51Z</published>
-  <updated>2022-03-08T14:49:51Z</updated>
-  <content type="html">
-   Elixir basics and Phoenix liveview and todo Projects.
-  </content>
- </entry>
- <entry>
-  <title>muco-rolle: api.xstore</title>
-  <author>
-   <name>muco-rolle</name>
-  </author>
-  <link href="https://github.com/muco-rolle/api.xstore" />
-  <id>urn:rprimus:github:muco-rolle:api.xstore</id>
-  <published>2022-03-08T13:35:15Z</published>
-  <updated>2022-03-08T13:35:15Z</updated>
-  <content type="html">
-   An online store REST API created with Elixir/Phoenix
-  </content>
- </entry>
- <entry>
-  <title>efenstakes: elixir_auth</title>
-  <author>
-   <name>efenstakes</name>
-  </author>
-  <link href="https://github.com/efenstakes/elixir_auth" />
-  <id>urn:rprimus:github:efenstakes:elixir_auth</id>
-  <published>2022-03-08T12:09:12Z</published>
-  <updated>2022-03-08T12:09:12Z</updated>
-  <content type="html">
-   Testing elixir phoenix auth
-  </content>
- </entry>
- <entry>
-  <title>Hasimbola19: Elixir</title>
-  <author>
-   <name>Hasimbola19</name>
-  </author>
-  <link href="https://github.com/Hasimbola19/Elixir" />
-  <id>urn:rprimus:github:Hasimbola19:Elixir</id>
-  <published>2022-03-08T11:56:28Z</published>
-  <updated>2022-03-08T11:56:28Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ToBjorn: KbFormation</title>
-  <author>
-   <name>ToBjorn</name>
-  </author>
-  <link href="https://github.com/ToBjorn/KbFormation" />
-  <id>urn:rprimus:github:ToBjorn:KbFormation</id>
-  <published>2022-03-08T10:35:53Z</published>
-  <updated>2022-03-08T10:35:53Z</updated>
-  <content type="html">
-   Formation to Elixir from KBRW
-  </content>
- </entry>
- <entry>
-  <title>ivanminutillo: bonfire_composer</title>
-  <author>
-   <name>ivanminutillo</name>
-  </author>
-  <link href="https://github.com/ivanminutillo/bonfire_composer" />
-  <id>urn:rprimus:github:ivanminutillo:bonfire_composer</id>
-  <published>2022-03-08T10:20:23Z</published>
-  <updated>2022-03-08T10:20:23Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>maiquitome: elixir_casts_110_oban</title>
-  <author>
-   <name>maiquitome</name>
-  </author>
-  <link href="https://github.com/maiquitome/elixir_casts_110_oban" />
-  <id>urn:rprimus:github:maiquitome:elixir_casts_110_oban</id>
-  <published>2022-03-08T09:56:52Z</published>
-  <updated>2022-03-08T09:56:52Z</updated>
-  <content type="html">
-   #110: Job Processing with Oban
-  </content>
- </entry>
- <entry>
-  <title>ulsyemr: phoenix-liveview-todo-list</title>
-  <author>
-   <name>ulsyemr</name>
-  </author>
-  <link href="https://github.com/ulsyemr/phoenix-liveview-todo-list" />
-  <id>urn:rprimus:github:ulsyemr:phoenix-liveview-todo-list</id>
-  <published>2022-03-08T09:30:26Z</published>
-  <updated>2022-03-08T09:30:26Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>hongnhat195: Elixir-WebDiscuss</title>
-  <author>
-   <name>hongnhat195</name>
-  </author>
-  <link href="https://github.com/hongnhat195/Elixir-WebDiscuss" />
-  <id>urn:rprimus:github:hongnhat195:Elixir-WebDiscuss</id>
-  <published>2022-03-08T08:06:30Z</published>
-  <updated>2022-03-08T08:06:30Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Ramos-Angel-20: BecariosBunsan2022B1</title>
-  <author>
-   <name>Ramos-Angel-20</name>
-  </author>
-  <link href="https://github.com/Ramos-Angel-20/BecariosBunsan2022B1" />
-  <id>urn:rprimus:github:Ramos-Angel-20:BecariosBunsan2022B1</id>
-  <published>2022-03-08T07:31:25Z</published>
-  <updated>2022-03-08T07:31:25Z</updated>
-  <content type="html">
-   Bunsan Interns repository
-  </content>
- </entry>
- <entry>
-  <title>Haultrax: gen_hx</title>
-  <author>
-   <name>Haultrax</name>
-  </author>
-  <link href="https://github.com/Haultrax/gen_hx" />
-  <id>urn:rprimus:github:Haultrax:gen_hx</id>
-  <published>2022-03-08T04:42:52Z</published>
-  <updated>2022-03-08T04:42:52Z</updated>
-  <content type="html">
-   gen server abstractions
-  </content>
- </entry>
- <entry>
-  <title>elixir-cldr: cldr_routes</title>
-  <author>
-   <name>elixir-cldr</name>
-  </author>
-  <link href="https://github.com/elixir-cldr/cldr_routes" />
-  <id>urn:rprimus:github:elixir-cldr:cldr_routes</id>
-  <published>2022-03-08T04:37:14Z</published>
-  <updated>2022-03-08T04:37:14Z</updated>
-  <content type="html">
-   Localised routes and path helpers for Phoenix applications
-  </content>
- </entry>
- <entry>
-  <title>calvin-kargo: test_grpc_opentelemetry</title>
-  <author>
-   <name>calvin-kargo</name>
-  </author>
-  <link href="https://github.com/calvin-kargo/test_grpc_opentelemetry" />
-  <id>urn:rprimus:github:calvin-kargo:test_grpc_opentelemetry</id>
-  <published>2022-03-08T04:30:27Z</published>
-  <updated>2022-03-08T04:30:27Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>fleam: demo</title>
-  <author>
-   <name>fleam</name>
-  </author>
-  <link href="https://github.com/fleam/demo" />
-  <id>urn:rprimus:github:fleam:demo</id>
-  <published>2022-03-08T02:38:22Z</published>
-  <updated>2022-03-08T02:38:22Z</updated>
-  <content type="html">
-   demo
-  </content>
- </entry>
- <entry>
-  <title>RiLoGosh: Programming-2-ID1019</title>
-  <author>
-   <name>RiLoGosh</name>
-  </author>
-  <link href="https://github.com/RiLoGosh/Programming-2-ID1019" />
-  <id>urn:rprimus:github:RiLoGosh:Programming-2-ID1019</id>
-  <published>2022-03-08T02:33:13Z</published>
-  <updated>2022-03-08T02:33:13Z</updated>
-  <content type="html">
-   Programming 2
-  </content>
- </entry>
- <entry>
-  <title>MisterDaniels: elixir-first-project</title>
-  <author>
-   <name>MisterDaniels</name>
-  </author>
-  <link href="https://github.com/MisterDaniels/elixir-first-project" />
-  <id>urn:rprimus:github:MisterDaniels:elixir-first-project</id>
-  <published>2022-03-08T01:25:38Z</published>
-  <updated>2022-03-08T01:25:38Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>brian-petersen: rubik-solver</title>
-  <author>
-   <name>brian-petersen</name>
-  </author>
-  <link href="https://github.com/brian-petersen/rubik-solver" />
-  <id>urn:rprimus:github:brian-petersen:rubik-solver</id>
-  <published>2022-03-08T00:39:52Z</published>
-  <updated>2022-03-08T00:39:52Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>timedev-net: nftex</title>
-  <author>
-   <name>timedev-net</name>
-  </author>
-  <link href="https://github.com/timedev-net/nftex" />
-  <id>urn:rprimus:github:timedev-net:nftex</id>
-  <published>2022-03-08T00:32:25Z</published>
-  <updated>2022-03-08T00:32:25Z</updated>
-  <content type="html">
-   Projeto do curso de Elixir do Rafa Camarda
   </content>
  </entry>
 </feed>
