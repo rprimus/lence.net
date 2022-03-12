@@ -2,8 +2,138 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-03-11T05:10:52Z</updated>
+<updated>2022-03-12T08:15:37Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>niwtr: learn-opengl</title>
+  <author>
+   <name>niwtr</name>
+  </author>
+  <link href="https://github.com/niwtr/learn-opengl" />
+  <id>urn:rprimus:github:niwtr:learn-opengl</id>
+  <published>2022-03-12T08:15:37Z</published>
+  <updated>2022-03-12T08:15:37Z</updated>
+  <content type="html">
+   learn-opengl
+  </content>
+ </entry>
+ <entry>
+  <title>dwclark: sicp</title>
+  <author>
+   <name>dwclark</name>
+  </author>
+  <link href="https://github.com/dwclark/sicp" />
+  <id>urn:rprimus:github:dwclark:sicp</id>
+  <published>2022-03-12T00:36:40Z</published>
+  <updated>2022-03-12T00:36:40Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>gtnoble: energy-auditor</title>
+  <author>
+   <name>gtnoble</name>
+  </author>
+  <link href="https://github.com/gtnoble/energy-auditor" />
+  <id>urn:rprimus:github:gtnoble:energy-auditor</id>
+  <published>2022-03-11T23:31:09Z</published>
+  <updated>2022-03-11T23:31:09Z</updated>
+  <content type="html">
+   Monitor home energy consumption
+  </content>
+ </entry>
+ <entry>
+  <title>Stas585: Kripto</title>
+  <author>
+   <name>Stas585</name>
+  </author>
+  <link href="https://github.com/Stas585/Kripto" />
+  <id>urn:rprimus:github:Stas585:Kripto</id>
+  <published>2022-03-11T20:39:05Z</published>
+  <updated>2022-03-11T20:39:05Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>calic9: junipar</title>
+  <author>
+   <name>calic9</name>
+  </author>
+  <link href="https://github.com/calic9/junipar" />
+  <id>urn:rprimus:github:calic9:junipar</id>
+  <published>2022-03-11T19:48:54Z</published>
+  <updated>2022-03-11T19:48:54Z</updated>
+  <content type="html">
+   utf and natural parsing
+  </content>
+ </entry>
+ <entry>
+  <title>Arthurs101: Proyecto1-Algoritmos</title>
+  <author>
+   <name>Arthurs101</name>
+  </author>
+  <link href="https://github.com/Arthurs101/Proyecto1-Algoritmos" />
+  <id>urn:rprimus:github:Arthurs101:Proyecto1-Algoritmos</id>
+  <published>2022-03-11T19:43:27Z</published>
+  <updated>2022-03-11T19:43:27Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>VrajaEmilia: FunctionalAndLogicProgramming</title>
+  <author>
+   <name>VrajaEmilia</name>
+  </author>
+  <link href="https://github.com/VrajaEmilia/FunctionalAndLogicProgramming" />
+  <id>urn:rprimus:github:VrajaEmilia:FunctionalAndLogicProgramming</id>
+  <published>2022-03-11T17:22:21Z</published>
+  <updated>2022-03-11T17:22:21Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>mihaicristiantanase: alive</title>
+  <author>
+   <name>mihaicristiantanase</name>
+  </author>
+  <link href="https://github.com/mihaicristiantanase/alive" />
+  <id>urn:rprimus:github:mihaicristiantanase:alive</id>
+  <published>2022-03-11T17:02:49Z</published>
+  <updated>2022-03-11T17:02:49Z</updated>
+  <content type="html">
+   Live drawing with Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>JMC-design: bluetooth-control</title>
+  <author>
+   <name>JMC-design</name>
+  </author>
+  <link href="https://github.com/JMC-design/bluetooth-control" />
+  <id>urn:rprimus:github:JMC-design:bluetooth-control</id>
+  <published>2022-03-11T16:01:04Z</published>
+  <updated>2022-03-11T16:01:04Z</updated>
+  <content type="html">
+   Simple shell wrapper around bluetoothctl
+  </content>
+ </entry>
+ <entry>
+  <title>pdenno: tools-15926</title>
+  <author>
+   <name>pdenno</name>
+  </author>
+  <link href="https://github.com/pdenno/tools-15926" />
+  <id>urn:rprimus:github:pdenno:tools-15926</id>
+  <published>2022-03-11T15:06:34Z</published>
+  <updated>2022-03-11T15:06:34Z</updated>
+  <content type="html">
+   Tools for validation of some parts of ISO 15926
+  </content>
+ </entry>
  <entry>
   <title>anranyicheng: git-test</title>
   <author>
@@ -80,58 +210,6 @@
   <updated>2022-03-10T09:03:15Z</updated>
   <content type="html">
    Write Portable Common Lisp Code
-  </content>
- </entry>
- <entry>
-  <title>AquilaIrreale: cl-utils</title>
-  <author>
-   <name>AquilaIrreale</name>
-  </author>
-  <link href="https://github.com/AquilaIrreale/cl-utils" />
-  <id>urn:rprimus:github:AquilaIrreale:cl-utils</id>
-  <published>2022-03-09T20:24:10Z</published>
-  <updated>2022-03-09T20:24:10Z</updated>
-  <content type="html">
-   Fun with common lisp
-  </content>
- </entry>
- <entry>
-  <title>byulparan: sc-vst</title>
-  <author>
-   <name>byulparan</name>
-  </author>
-  <link href="https://github.com/byulparan/sc-vst" />
-  <id>urn:rprimus:github:byulparan:sc-vst</id>
-  <published>2022-03-09T19:50:54Z</published>
-  <updated>2022-03-09T19:50:54Z</updated>
-  <content type="html">
-   VSTPlugin support for cl-collider
-  </content>
- </entry>
- <entry>
-  <title>pranshukhandal: total-machine</title>
-  <author>
-   <name>pranshukhandal</name>
-  </author>
-  <link href="https://github.com/pranshukhandal/total-machine" />
-  <id>urn:rprimus:github:pranshukhandal:total-machine</id>
-  <published>2022-03-09T16:55:35Z</published>
-  <updated>2022-03-09T16:55:35Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Aojd22: Trial</title>
-  <author>
-   <name>Aojd22</name>
-  </author>
-  <link href="https://github.com/Aojd22/Trial" />
-  <id>urn:rprimus:github:Aojd22:Trial</id>
-  <published>2022-03-09T08:07:59Z</published>
-  <updated>2022-03-09T08:07:59Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>

@@ -2,19 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2022-03-09T22:28:06Z</updated>
+<updated>2022-03-11T22:34:48Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
  <entry>
-  <title>rrinnLLS: indivious</title>
+  <title>public-law: devise.cr</title>
   <author>
-   <name>rrinnLLS</name>
+   <name>public-law</name>
   </author>
-  <link href="https://github.com/rrinnLLS/indivious" />
-  <id>urn:rprimus:github:rrinnLLS:indivious</id>
-  <published>2022-03-09T22:28:06Z</published>
-  <updated>2022-03-09T22:28:06Z</updated>
+  <link href="https://github.com/public-law/devise.cr" />
+  <id>urn:rprimus:github:public-law:devise.cr</id>
+  <published>2022-03-11T22:34:48Z</published>
+  <updated>2022-03-11T22:34:48Z</updated>
   <content type="html">
-   lolololol
+   NOT a devise port. Helpers to get session info from Rails+Devise sessions.
+  </content>
+ </entry>
+ <entry>
+  <title>leapofazzam123: crystal-stivale2</title>
+  <author>
+   <name>leapofazzam123</name>
+  </author>
+  <link href="https://github.com/leapofazzam123/crystal-stivale2" />
+  <id>urn:rprimus:github:leapofazzam123:crystal-stivale2</id>
+  <published>2022-03-11T13:17:55Z</published>
+  <updated>2022-03-11T13:17:55Z</updated>
+  <content type="html">
+   trying to make a kernel in crystal
+  </content>
+ </entry>
+ <entry>
+  <title>nolantait: disruptor.cr</title>
+  <author>
+   <name>nolantait</name>
+  </author>
+  <link href="https://github.com/nolantait/disruptor.cr" />
+  <id>urn:rprimus:github:nolantait:disruptor.cr</id>
+  <published>2022-03-11T10:57:03Z</published>
+  <updated>2022-03-11T10:57:03Z</updated>
+  <content type="html">
+   LMAX Disruptor implementation in Crystal
   </content>
  </entry>
 </feed>
