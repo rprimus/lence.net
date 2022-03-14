@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2022-03-14T01:43:15Z</updated>
+<updated>2022-03-14T09:22:21Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>ewhd: emacs-config</title>
+  <author>
+   <name>ewhd</name>
+  </author>
+  <link href="https://github.com/ewhd/emacs-config" />
+  <id>urn:rprimus:github:ewhd:emacs-config</id>
+  <published>2022-03-14T09:22:21Z</published>
+  <updated>2022-03-14T09:22:21Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>ravenkiller1709: .dotfileslinux</title>
+  <author>
+   <name>ravenkiller1709</name>
+  </author>
+  <link href="https://github.com/ravenkiller1709/.dotfileslinux" />
+  <id>urn:rprimus:github:ravenkiller1709:.dotfileslinux</id>
+  <published>2022-03-14T06:06:43Z</published>
+  <updated>2022-03-14T06:06:43Z</updated>
+  <content type="html">
+   my dots
+  </content>
+ </entry>
  <entry>
   <title>alexb7711: emacs</title>
   <author>
@@ -122,19 +148,6 @@
   </content>
  </entry>
  <entry>
-  <title>lcaballero: one-html-file-with-react</title>
-  <author>
-   <name>lcaballero</name>
-  </author>
-  <link href="https://github.com/lcaballero/one-html-file-with-react" />
-  <id>urn:rprimus:github:lcaballero:one-html-file-with-react</id>
-  <published>2022-03-13T19:52:16Z</published>
-  <updated>2022-03-13T19:52:16Z</updated>
-  <content type="html">
-   A single html file that has react baked in via CDN.
-  </content>
- </entry>
- <entry>
   <title>emacs-eask: eask-mode</title>
   <author>
    <name>emacs-eask</name>
@@ -210,6 +223,19 @@
   <updated>2022-03-13T13:54:19Z</updated>
   <content type="html">
    My personal Emacs configuration
+  </content>
+ </entry>
+ <entry>
+  <title>emacs-eask: eask</title>
+  <author>
+   <name>emacs-eask</name>
+  </author>
+  <link href="https://github.com/emacs-eask/eask" />
+  <id>urn:rprimus:github:emacs-eask:eask</id>
+  <published>2022-03-13T13:10:12Z</published>
+  <updated>2022-03-13T13:10:12Z</updated>
+  <content type="html">
+   Emacs package command-line tool
   </content>
  </entry>
  <entry>
