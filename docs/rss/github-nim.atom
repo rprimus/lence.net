@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2022-03-13T19:43:18Z</updated>
+<updated>2022-03-15T09:07:31Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>PurpleAzurite: clean</title>
+  <author>
+   <name>PurpleAzurite</name>
+  </author>
+  <link href="https://github.com/PurpleAzurite/clean" />
+  <id>urn:rprimus:github:PurpleAzurite:clean</id>
+  <published>2022-03-15T09:07:31Z</published>
+  <updated>2022-03-15T09:07:31Z</updated>
+  <content type="html">
+   Small commandline utility to tidy the home directory
+  </content>
+ </entry>
+ <entry>
+  <title>Timofffee: rl_template</title>
+  <author>
+   <name>Timofffee</name>
+  </author>
+  <link href="https://github.com/Timofffee/rl_template" />
+  <id>urn:rprimus:github:Timofffee:rl_template</id>
+  <published>2022-03-15T04:22:26Z</published>
+  <updated>2022-03-15T04:22:26Z</updated>
+  <content type="html">
+   raylib template for raylib_now (nim)
+  </content>
+ </entry>
+ <entry>
+  <title>Oisota: nim-game-engine</title>
+  <author>
+   <name>Oisota</name>
+  </author>
+  <link href="https://github.com/Oisota/nim-game-engine" />
+  <id>urn:rprimus:github:Oisota:nim-game-engine</id>
+  <published>2022-03-15T02:31:15Z</published>
+  <updated>2022-03-15T02:31:15Z</updated>
+  <content type="html">
+   Trying to make a simple 2D game engine in Nim with SDL
+  </content>
+ </entry>
  <entry>
   <title>lynxnot: nim-brainfuck-tutorial</title>
   <author>
@@ -54,58 +93,6 @@
   <updated>2022-03-13T08:30:58Z</updated>
   <content type="html">
    Gamified fun device/platform for hacking technology around you.
-  </content>
- </entry>
- <entry>
-  <title>Infinitybeond1: pass.nim</title>
-  <author>
-   <name>Infinitybeond1</name>
-  </author>
-  <link href="https://github.com/Infinitybeond1/pass.nim" />
-  <id>urn:rprimus:github:Infinitybeond1:pass.nim</id>
-  <published>2022-03-12T20:58:26Z</published>
-  <updated>2022-03-12T20:58:26Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>dunahan: nwn_bic</title>
-  <author>
-   <name>dunahan</name>
-  </author>
-  <link href="https://github.com/dunahan/nwn_bic" />
-  <id>urn:rprimus:github:dunahan:nwn_bic</id>
-  <published>2022-03-12T19:39:42Z</published>
-  <updated>2022-03-12T19:39:42Z</updated>
-  <content type="html">
-   Prints out how you/someone leveled up the given toon (bic) in a readable text file.
-  </content>
- </entry>
- <entry>
-  <title>Chubek: pong-q-learning-nim</title>
-  <author>
-   <name>Chubek</name>
-  </author>
-  <link href="https://github.com/Chubek/pong-q-learning-nim" />
-  <id>urn:rprimus:github:Chubek:pong-q-learning-nim</id>
-  <published>2022-03-12T18:54:39Z</published>
-  <updated>2022-03-12T18:54:39Z</updated>
-  <content type="html">
-   Q -Learning with Pong in Nim
-  </content>
- </entry>
- <entry>
-  <title>Slit13: atto</title>
-  <author>
-   <name>Slit13</name>
-  </author>
-  <link href="https://github.com/Slit13/atto" />
-  <id>urn:rprimus:github:Slit13:atto</id>
-  <published>2022-03-12T18:28:28Z</published>
-  <updated>2022-03-12T18:28:28Z</updated>
-  <content type="html">
-   a test stack-based programming language
   </content>
  </entry>
 </feed>

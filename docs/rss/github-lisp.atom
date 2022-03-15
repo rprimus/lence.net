@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-03-13T23:54:35Z</updated>
+<updated>2022-03-15T06:09:45Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>ssbush: fizzbuzzaroo</title>
+  <author>
+   <name>ssbush</name>
+  </author>
+  <link href="https://github.com/ssbush/fizzbuzzaroo" />
+  <id>urn:rprimus:github:ssbush:fizzbuzzaroo</id>
+  <published>2022-03-15T06:09:45Z</published>
+  <updated>2022-03-15T06:09:45Z</updated>
+  <content type="html">
+   Some fizzbuzz implementations
+  </content>
+ </entry>
+ <entry>
+  <title>opensourcedoc: cl-boilerplate-application</title>
+  <author>
+   <name>opensourcedoc</name>
+  </author>
+  <link href="https://github.com/opensourcedoc/cl-boilerplate-application" />
+  <id>urn:rprimus:github:opensourcedoc:cl-boilerplate-application</id>
+  <published>2022-03-15T03:19:31Z</published>
+  <updated>2022-03-15T03:19:31Z</updated>
+  <content type="html">
+   Common Lisp Boilerplate to Build an Application
+  </content>
+ </entry>
+ <entry>
+  <title>ghollisjr: timer</title>
+  <author>
+   <name>ghollisjr</name>
+  </author>
+  <link href="https://github.com/ghollisjr/timer" />
+  <id>urn:rprimus:github:ghollisjr:timer</id>
+  <published>2022-03-15T00:34:17Z</published>
+  <updated>2022-03-15T00:34:17Z</updated>
+  <content type="html">
+   Basic Tk timer in Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>equill: syscat-frontend</title>
+  <author>
+   <name>equill</name>
+  </author>
+  <link href="https://github.com/equill/syscat-frontend" />
+  <id>urn:rprimus:github:equill:syscat-frontend</id>
+  <published>2022-03-14T19:22:16Z</published>
+  <updated>2022-03-14T19:22:16Z</updated>
+  <content type="html">
+   Rudimentary web GUI for Syscat
+  </content>
+ </entry>
+ <entry>
+  <title>Izaakwltn: ray-tracer</title>
+  <author>
+   <name>Izaakwltn</name>
+  </author>
+  <link href="https://github.com/Izaakwltn/ray-tracer" />
+  <id>urn:rprimus:github:Izaakwltn:ray-tracer</id>
+  <published>2022-03-14T19:09:07Z</published>
+  <updated>2022-03-14T19:09:07Z</updated>
+  <content type="html">
+   very much unfinished ray-tracer in Lisp
+  </content>
+ </entry>
  <entry>
   <title>Emuneshar: CS-316</title>
   <author>
@@ -41,97 +106,6 @@
   <updated>2022-03-13T10:54:40Z</updated>
   <content type="html">
    Mirror of https://gitlab.com/uthar/cl-fp
-  </content>
- </entry>
- <entry>
-  <title>hikettei: rnn-model-implementation</title>
-  <author>
-   <name>hikettei</name>
-  </author>
-  <link href="https://github.com/hikettei/rnn-model-implementation" />
-  <id>urn:rprimus:github:hikettei:rnn-model-implementation</id>
-  <published>2022-03-12T16:43:22Z</published>
-  <updated>2022-03-12T16:43:22Z</updated>
-  <content type="html">
-   ç¿»è¨³ã¢ãã«ãã©ã¤ãã©ãªãªãã§å®è£ãããã
-  </content>
- </entry>
- <entry>
-  <title>t-sin: lazy-sweet-dream</title>
-  <author>
-   <name>t-sin</name>
-  </author>
-  <link href="https://github.com/t-sin/lazy-sweet-dream" />
-  <id>urn:rprimus:github:t-sin:lazy-sweet-dream</id>
-  <published>2022-03-12T14:19:41Z</published>
-  <updated>2022-03-12T14:19:41Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>cxxxr: dotfiles</title>
-  <author>
-   <name>cxxxr</name>
-  </author>
-  <link href="https://github.com/cxxxr/dotfiles" />
-  <id>urn:rprimus:github:cxxxr:dotfiles</id>
-  <published>2022-03-12T13:10:10Z</published>
-  <updated>2022-03-12T13:10:10Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>castaneai: microkiriz</title>
-  <author>
-   <name>castaneai</name>
-  </author>
-  <link href="https://github.com/castaneai/microkiriz" />
-  <id>urn:rprimus:github:castaneai:microkiriz</id>
-  <published>2022-03-12T10:58:11Z</published>
-  <updated>2022-03-12T10:58:11Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>froggey: parsley</title>
-  <author>
-   <name>froggey</name>
-  </author>
-  <link href="https://github.com/froggey/parsley" />
-  <id>urn:rprimus:github:froggey:parsley</id>
-  <published>2022-03-12T09:41:05Z</published>
-  <updated>2022-03-12T09:41:05Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>niwtr: learn-opengl</title>
-  <author>
-   <name>niwtr</name>
-  </author>
-  <link href="https://github.com/niwtr/learn-opengl" />
-  <id>urn:rprimus:github:niwtr:learn-opengl</id>
-  <published>2022-03-12T08:15:37Z</published>
-  <updated>2022-03-12T08:15:37Z</updated>
-  <content type="html">
-   learn-opengl
-  </content>
- </entry>
- <entry>
-  <title>dwclark: sicp</title>
-  <author>
-   <name>dwclark</name>
-  </author>
-  <link href="https://github.com/dwclark/sicp" />
-  <id>urn:rprimus:github:dwclark:sicp</id>
-  <published>2022-03-12T00:36:40Z</published>
-  <updated>2022-03-12T00:36:40Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
