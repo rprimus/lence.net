@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2022-03-18T22:33:14Z</updated>
+<updated>2022-03-20T02:47:48Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>Jakraes: NimHack</title>
+  <author>
+   <name>Jakraes</name>
+  </author>
+  <link href="https://github.com/Jakraes/NimHack" />
+  <id>urn:rprimus:github:Jakraes:NimHack</id>
+  <published>2022-03-20T02:47:48Z</published>
+  <updated>2022-03-20T02:47:48Z</updated>
+  <content type="html">
+   A fun project with the objective of copying Nethack in Nim
+  </content>
+ </entry>
+ <entry>
+  <title>HENRDS: niffin</title>
+  <author>
+   <name>HENRDS</name>
+  </author>
+  <link href="https://github.com/HENRDS/niffin" />
+  <id>urn:rprimus:github:HENRDS:niffin</id>
+  <published>2022-03-19T18:35:54Z</published>
+  <updated>2022-03-19T18:35:54Z</updated>
+  <content type="html">
+   A tiny statically typed scripting language
+  </content>
+ </entry>
+ <entry>
+  <title>d0rksh: bugextract</title>
+  <author>
+   <name>d0rksh</name>
+  </author>
+  <link href="https://github.com/d0rksh/bugextract" />
+  <id>urn:rprimus:github:d0rksh:bugextract</id>
+  <published>2022-03-19T15:42:31Z</published>
+  <updated>2022-03-19T15:42:31Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>kumquat-ir: bloc</title>
   <author>
@@ -41,58 +80,6 @@
   <updated>2022-03-18T14:48:03Z</updated>
   <content type="html">
    Nim wrapper for FTDI ftd2xx library
-  </content>
- </entry>
- <entry>
-  <title>aquova: bytepusher</title>
-  <author>
-   <name>aquova</name>
-  </author>
-  <link href="https://github.com/aquova/bytepusher" />
-  <id>urn:rprimus:github:aquova:bytepusher</id>
-  <published>2022-03-17T20:38:44Z</published>
-  <updated>2022-03-17T20:38:44Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>d0rksh: reflect</title>
-  <author>
-   <name>d0rksh</name>
-  </author>
-  <link href="https://github.com/d0rksh/reflect" />
-  <id>urn:rprimus:github:d0rksh:reflect</id>
-  <published>2022-03-17T10:45:20Z</published>
-  <updated>2022-03-17T10:45:20Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>dirtboll: nim-simple-crud</title>
-  <author>
-   <name>dirtboll</name>
-  </author>
-  <link href="https://github.com/dirtboll/nim-simple-crud" />
-  <id>urn:rprimus:github:dirtboll:nim-simple-crud</id>
-  <published>2022-03-17T06:36:04Z</published>
-  <updated>2022-03-17T06:36:04Z</updated>
-  <content type="html">
-   Simple CRUD web server using Nim, Jester, and Norm
-  </content>
- </entry>
- <entry>
-  <title>creikey: better-file-explorer</title>
-  <author>
-   <name>creikey</name>
-  </author>
-  <link href="https://github.com/creikey/better-file-explorer" />
-  <id>urn:rprimus:github:creikey:better-file-explorer</id>
-  <published>2022-03-17T02:11:31Z</published>
-  <updated>2022-03-17T02:11:31Z</updated>
-  <content type="html">
-   Windows file explorer sucks
   </content>
  </entry>
 </feed>

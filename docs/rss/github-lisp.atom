@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-03-19T00:28:28Z</updated>
+<updated>2022-03-20T02:11:55Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>alsuarezvu: gofish-lisp</title>
+  <author>
+   <name>alsuarezvu</name>
+  </author>
+  <link href="https://github.com/alsuarezvu/gofish-lisp" />
+  <id>urn:rprimus:github:alsuarezvu:gofish-lisp</id>
+  <published>2022-03-20T02:11:55Z</published>
+  <updated>2022-03-20T02:11:55Z</updated>
+  <content type="html">
+   The game of go fish implemented in Lisp.
+  </content>
+ </entry>
+ <entry>
+  <title>quodvideo: dexter-cl</title>
+  <author>
+   <name>quodvideo</name>
+  </author>
+  <link href="https://github.com/quodvideo/dexter-cl" />
+  <id>urn:rprimus:github:quodvideo:dexter-cl</id>
+  <published>2022-03-20T00:39:10Z</published>
+  <updated>2022-03-20T00:39:10Z</updated>
+  <content type="html">
+   A toolkit for INDEX in Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>wyrdwinter: portrip</title>
+  <author>
+   <name>wyrdwinter</name>
+  </author>
+  <link href="https://github.com/wyrdwinter/portrip" />
+  <id>urn:rprimus:github:wyrdwinter:portrip</id>
+  <published>2022-03-19T14:32:08Z</published>
+  <updated>2022-03-19T14:32:08Z</updated>
+  <content type="html">
+   A mass downloader for portraits on a certain Neverwinter Nights server.
+  </content>
+ </entry>
  <entry>
   <title>gdonald: console-blackjack-lisp</title>
   <author>
@@ -80,45 +119,6 @@
   <updated>2022-03-18T06:00:37Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>yufei3: CS173P3-Functional-Programming</title>
-  <author>
-   <name>yufei3</name>
-  </author>
-  <link href="https://github.com/yufei3/CS173P3-Functional-Programming" />
-  <id>urn:rprimus:github:yufei3:CS173P3-Functional-Programming</id>
-  <published>2022-03-17T19:53:16Z</published>
-  <updated>2022-03-17T19:53:16Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>walpurgisnatch: intra</title>
-  <author>
-   <name>walpurgisnatch</name>
-  </author>
-  <link href="https://github.com/walpurgisnatch/intra" />
-  <id>urn:rprimus:github:walpurgisnatch:intra</id>
-  <published>2022-03-17T02:32:08Z</published>
-  <updated>2022-03-17T02:32:08Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ghollisjr: cgi</title>
-  <author>
-   <name>ghollisjr</name>
-  </author>
-  <link href="https://github.com/ghollisjr/cgi" />
-  <id>urn:rprimus:github:ghollisjr:cgi</id>
-  <published>2022-03-17T00:13:24Z</published>
-  <updated>2022-03-17T00:13:24Z</updated>
-  <content type="html">
-   Common Lisp web app library
   </content>
  </entry>
 </feed>

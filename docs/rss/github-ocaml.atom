@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2022-03-18T21:01:46Z</updated>
+<updated>2022-03-20T03:11:39Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>Andrey-Yao: Brilliant</title>
+  <author>
+   <name>Andrey-Yao</name>
+  </author>
+  <link href="https://github.com/Andrey-Yao/Brilliant" />
+  <id>urn:rprimus:github:Andrey-Yao:Brilliant</id>
+  <published>2022-03-20T03:11:39Z</published>
+  <updated>2022-03-20T03:11:39Z</updated>
+  <content type="html">
+   Compiler for the BRIL language at CS 6120, Cornell
+  </content>
+ </entry>
+ <entry>
+  <title>c-cube: ocaml-atomic</title>
+  <author>
+   <name>c-cube</name>
+  </author>
+  <link href="https://github.com/c-cube/ocaml-atomic" />
+  <id>urn:rprimus:github:c-cube:ocaml-atomic</id>
+  <published>2022-03-20T02:25:54Z</published>
+  <updated>2022-03-20T02:25:54Z</updated>
+  <content type="html">
+   Compatibility package for the Atomic module
+  </content>
+ </entry>
+ <entry>
+  <title>haesbaert: ocaml-mpsc</title>
+  <author>
+   <name>haesbaert</name>
+  </author>
+  <link href="https://github.com/haesbaert/ocaml-mpsc" />
+  <id>urn:rprimus:github:haesbaert:ocaml-mpsc</id>
+  <published>2022-03-20T02:16:31Z</published>
+  <updated>2022-03-20T02:16:31Z</updated>
+  <content type="html">
+   Lockless Multiple Producer Single Consumer Queue for ocaml-multicore
+  </content>
+ </entry>
+ <entry>
+  <title>ssood123: PLT_Course_Project</title>
+  <author>
+   <name>ssood123</name>
+  </author>
+  <link href="https://github.com/ssood123/PLT_Course_Project" />
+  <id>urn:rprimus:github:ssood123:PLT_Course_Project</id>
+  <published>2022-03-20T01:03:00Z</published>
+  <updated>2022-03-20T01:03:00Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>gmaragao: ocaml-exercises</title>
   <author>
@@ -78,123 +130,6 @@
   <id>urn:rprimus:github:rebelin:bird-compiler</id>
   <published>2022-03-18T00:35:54Z</published>
   <updated>2022-03-18T00:35:54Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>omeedcs: ocaml-practice</title>
-  <author>
-   <name>omeedcs</name>
-  </author>
-  <link href="https://github.com/omeedcs/ocaml-practice" />
-  <id>urn:rprimus:github:omeedcs:ocaml-practice</id>
-  <published>2022-03-17T23:05:24Z</published>
-  <updated>2022-03-17T23:05:24Z</updated>
-  <content type="html">
-   Code files of me practicing the barebone basics of Ocaml. We all start somewhere! :)
-  </content>
- </entry>
- <entry>
-  <title>EyeCrown: ProjetPF</title>
-  <author>
-   <name>EyeCrown</name>
-  </author>
-  <link href="https://github.com/EyeCrown/ProjetPF" />
-  <id>urn:rprimus:github:EyeCrown:ProjetPF</id>
-  <published>2022-03-17T21:48:42Z</published>
-  <updated>2022-03-17T21:48:42Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>officiallonda99: officiallonda99</title>
-  <author>
-   <name>officiallonda99</name>
-  </author>
-  <link href="https://github.com/officiallonda99/officiallonda99" />
-  <id>urn:rprimus:github:officiallonda99:officiallonda99</id>
-  <published>2022-03-17T18:35:03Z</published>
-  <updated>2022-03-17T18:35:03Z</updated>
-  <content type="html">
-   Config files for my GitHub profile.
-  </content>
- </entry>
- <entry>
-  <title>laaksonel: ocaml-stuff</title>
-  <author>
-   <name>laaksonel</name>
-  </author>
-  <link href="https://github.com/laaksonel/ocaml-stuff" />
-  <id>urn:rprimus:github:laaksonel:ocaml-stuff</id>
-  <published>2022-03-17T18:32:48Z</published>
-  <updated>2022-03-17T18:32:48Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>EmileRolley: LTL2BA</title>
-  <author>
-   <name>EmileRolley</name>
-  </author>
-  <link href="https://github.com/EmileRolley/LTL2BA" />
-  <id>urn:rprimus:github:EmileRolley:LTL2BA</id>
-  <published>2022-03-17T18:01:02Z</published>
-  <updated>2022-03-17T18:01:02Z</updated>
-  <content type="html">
-   Compiler of LTL formula to BÃ¼chi automata.
-  </content>
- </entry>
- <entry>
-  <title>jlabayna: brainfuck</title>
-  <author>
-   <name>jlabayna</name>
-  </author>
-  <link href="https://github.com/jlabayna/brainfuck" />
-  <id>urn:rprimus:github:jlabayna:brainfuck</id>
-  <published>2022-03-17T17:54:41Z</published>
-  <updated>2022-03-17T17:54:41Z</updated>
-  <content type="html">
-   Learning some basic OCaml I/O, and maybe dune, with a basic compiler
-  </content>
- </entry>
- <entry>
-  <title>sebferre: ARC-MDL</title>
-  <author>
-   <name>sebferre</name>
-  </author>
-  <link href="https://github.com/sebferre/ARC-MDL" />
-  <id>urn:rprimus:github:sebferre:ARC-MDL</id>
-  <published>2022-03-17T16:19:11Z</published>
-  <updated>2022-03-17T16:19:11Z</updated>
-  <content type="html">
-   An MDL-based approach to the Abstraction and Reasoning Corpus (ARC) challenge
-  </content>
- </entry>
- <entry>
-  <title>Amelia-N: codechef</title>
-  <author>
-   <name>Amelia-N</name>
-  </author>
-  <link href="https://github.com/Amelia-N/codechef" />
-  <id>urn:rprimus:github:Amelia-N:codechef</id>
-  <published>2022-03-17T10:56:29Z</published>
-  <updated>2022-03-17T10:56:29Z</updated>
-  <content type="html">
-   solutions to codechef problems
-  </content>
- </entry>
- <entry>
-  <title>Quentin-Palmisano: Projet_CA</title>
-  <author>
-   <name>Quentin-Palmisano</name>
-  </author>
-  <link href="https://github.com/Quentin-Palmisano/Projet_CA" />
-  <id>urn:rprimus:github:Quentin-Palmisano:Projet_CA</id>
-  <published>2022-03-17T09:48:05Z</published>
-  <updated>2022-03-17T09:48:05Z</updated>
   <content type="html">
    
   </content>
