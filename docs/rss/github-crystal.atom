@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2022-03-19T22:41:37Z</updated>
+<updated>2022-03-21T05:35:14Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>kandayo: ukrainian</title>
+  <author>
+   <name>kandayo</name>
+  </author>
+  <link href="https://github.com/kandayo/ukrainian" />
+  <id>urn:rprimus:github:kandayo:ukrainian</id>
+  <published>2022-03-21T05:35:14Z</published>
+  <updated>2022-03-21T05:35:14Z</updated>
+  <content type="html">
+   Ukrainian language tooling for Crystal
+  </content>
+ </entry>
+ <entry>
+  <title>wrq: tofu</title>
+  <author>
+   <name>wrq</name>
+  </author>
+  <link href="https://github.com/wrq/tofu" />
+  <id>urn:rprimus:github:wrq:tofu</id>
+  <published>2022-03-20T15:32:48Z</published>
+  <updated>2022-03-20T15:32:48Z</updated>
+  <content type="html">
+   a small experiment in genetic programming
+  </content>
+ </entry>
  <entry>
   <title>SleepingInsomniac: becpu</title>
   <author>
@@ -15,32 +41,6 @@
   <updated>2022-03-19T22:41:37Z</updated>
   <content type="html">
    BE-SAP1 8bit CPU emulator
-  </content>
- </entry>
- <entry>
-  <title>hamros1: afosjosa</title>
-  <author>
-   <name>hamros1</name>
-  </author>
-  <link href="https://github.com/hamros1/afosjosa" />
-  <id>urn:rprimus:github:hamros1:afosjosa</id>
-  <published>2022-03-18T23:50:28Z</published>
-  <updated>2022-03-18T23:50:28Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>TopRoupi: grparser</title>
-  <author>
-   <name>TopRoupi</name>
-  </author>
-  <link href="https://github.com/TopRoupi/grparser" />
-  <id>urn:rprimus:github:TopRoupi:grparser</id>
-  <published>2022-03-18T17:02:30Z</published>
-  <updated>2022-03-18T17:02:30Z</updated>
-  <content type="html">
-   greyhack folder parser
   </content>
  </entry>
 </feed>
