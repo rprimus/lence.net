@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-03-21T06:45:33Z</updated>
+<updated>2022-03-22T02:42:13Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>rabbibotton: clos-contact</title>
+  <author>
+   <name>rabbibotton</name>
+  </author>
+  <link href="https://github.com/rabbibotton/clos-contact" />
+  <id>urn:rprimus:github:rabbibotton:clos-contact</id>
+  <published>2022-03-22T02:42:13Z</published>
+  <updated>2022-03-22T02:42:13Z</updated>
+  <content type="html">
+   CLOG Builder Sample Full App
+  </content>
+ </entry>
+ <entry>
+  <title>rabbibotton: clos-encounters</title>
+  <author>
+   <name>rabbibotton</name>
+  </author>
+  <link href="https://github.com/rabbibotton/clos-encounters" />
+  <id>urn:rprimus:github:rabbibotton:clos-encounters</id>
+  <published>2022-03-22T01:34:45Z</published>
+  <updated>2022-03-22T01:34:45Z</updated>
+  <content type="html">
+   Sample Game for Common-Lisp the Tutorial
+  </content>
+ </entry>
+ <entry>
+  <title>kenjinote: maxima</title>
+  <author>
+   <name>kenjinote</name>
+  </author>
+  <link href="https://github.com/kenjinote/maxima" />
+  <id>urn:rprimus:github:kenjinote:maxima</id>
+  <published>2022-03-21T20:30:38Z</published>
+  <updated>2022-03-21T20:30:38Z</updated>
+  <content type="html">
+   clone from https://maxima.sourceforge.io/
+  </content>
+ </entry>
  <entry>
   <title>hyotang666: endict</title>
   <author>
@@ -93,32 +132,6 @@
   <updated>2022-03-20T00:39:10Z</updated>
   <content type="html">
    A toolkit for INDEX in Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>wyrdwinter: portrip</title>
-  <author>
-   <name>wyrdwinter</name>
-  </author>
-  <link href="https://github.com/wyrdwinter/portrip" />
-  <id>urn:rprimus:github:wyrdwinter:portrip</id>
-  <published>2022-03-19T14:32:08Z</published>
-  <updated>2022-03-19T14:32:08Z</updated>
-  <content type="html">
-   A mass downloader for portraits on a certain Neverwinter Nights server.
-  </content>
- </entry>
- <entry>
-  <title>gdonald: console-blackjack-lisp</title>
-  <author>
-   <name>gdonald</name>
-  </author>
-  <link href="https://github.com/gdonald/console-blackjack-lisp" />
-  <id>urn:rprimus:github:gdonald:console-blackjack-lisp</id>
-  <published>2022-03-19T00:28:28Z</published>
-  <updated>2022-03-19T00:28:28Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
