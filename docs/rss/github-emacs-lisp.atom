@@ -2,8 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2022-03-24T08:40:27Z</updated>
+<updated>2022-03-25T01:10:58Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>FelipeCarlin: Corsac</title>
+  <author>
+   <name>FelipeCarlin</name>
+  </author>
+  <link href="https://github.com/FelipeCarlin/Corsac" />
+  <id>urn:rprimus:github:FelipeCarlin:Corsac</id>
+  <published>2022-03-25T01:10:58Z</published>
+  <updated>2022-03-25T01:10:58Z</updated>
+  <content type="html">
+   A tiny C compiler
+  </content>
+ </entry>
+ <entry>
+  <title>garyo: emacs-config</title>
+  <author>
+   <name>garyo</name>
+  </author>
+  <link href="https://github.com/garyo/emacs-config" />
+  <id>urn:rprimus:github:garyo:emacs-config</id>
+  <published>2022-03-24T19:02:16Z</published>
+  <updated>2022-03-24T19:02:16Z</updated>
+  <content type="html">
+   Emacs configuration
+  </content>
+ </entry>
+ <entry>
+  <title>kdchaires: .emacs.d</title>
+  <author>
+   <name>kdchaires</name>
+  </author>
+  <link href="https://github.com/kdchaires/.emacs.d" />
+  <id>urn:rprimus:github:kdchaires:.emacs.d</id>
+  <published>2022-03-24T18:09:43Z</published>
+  <updated>2022-03-24T18:09:43Z</updated>
+  <content type="html">
+   My emacs configuration
+  </content>
+ </entry>
+ <entry>
+  <title>mmontone: slime-star</title>
+  <author>
+   <name>mmontone</name>
+  </author>
+  <link href="https://github.com/mmontone/slime-star" />
+  <id>urn:rprimus:github:mmontone:slime-star</id>
+  <published>2022-03-24T17:52:45Z</published>
+  <updated>2022-03-24T17:52:45Z</updated>
+  <content type="html">
+   SLIME configuration with some extensions pre-installed.
+  </content>
+ </entry>
+ <entry>
+  <title>kmonad: kmonad-contrib</title>
+  <author>
+   <name>kmonad</name>
+  </author>
+  <link href="https://github.com/kmonad/kmonad-contrib" />
+  <id>urn:rprimus:github:kmonad:kmonad-contrib</id>
+  <published>2022-03-24T17:11:10Z</published>
+  <updated>2022-03-24T17:11:10Z</updated>
+  <content type="html">
+   A repository of community configurations, as well as other bits and bobs
+  </content>
+ </entry>
+ <entry>
+  <title>hbin: doom.d</title>
+  <author>
+   <name>hbin</name>
+  </author>
+  <link href="https://github.com/hbin/doom.d" />
+  <id>urn:rprimus:github:hbin:doom.d</id>
+  <published>2022-03-24T15:21:50Z</published>
+  <updated>2022-03-24T15:21:50Z</updated>
+  <content type="html">
+   I &amp; Doom
+  </content>
+ </entry>
+ <entry>
+  <title>phairoh: doom-dots</title>
+  <author>
+   <name>phairoh</name>
+  </author>
+  <link href="https://github.com/phairoh/doom-dots" />
+  <id>urn:rprimus:github:phairoh:doom-dots</id>
+  <published>2022-03-24T12:10:49Z</published>
+  <updated>2022-03-24T12:10:49Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>cr0ma: emacs-config</title>
   <author>
@@ -161,6 +252,19 @@
   </content>
  </entry>
  <entry>
+  <title>dmacvicar: shr-tag-code-highlight.el</title>
+  <author>
+   <name>dmacvicar</name>
+  </author>
+  <link href="https://github.com/dmacvicar/shr-tag-code-highlight.el" />
+  <id>urn:rprimus:github:dmacvicar:shr-tag-code-highlight.el</id>
+  <published>2022-03-23T17:07:53Z</published>
+  <updated>2022-03-23T17:07:53Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
   <title>chiqui-quant: emacs-config</title>
   <author>
    <name>chiqui-quant</name>
@@ -278,6 +382,19 @@
   </content>
  </entry>
  <entry>
+  <title>ethnt: doom.d</title>
+  <author>
+   <name>ethnt</name>
+  </author>
+  <link href="https://github.com/ethnt/doom.d" />
+  <id>urn:rprimus:github:ethnt:doom.d</id>
+  <published>2022-03-23T04:09:23Z</published>
+  <updated>2022-03-23T04:09:23Z</updated>
+  <content type="html">
+   Personal configuration for Doom Emacs
+  </content>
+ </entry>
+ <entry>
   <title>nicosan001: .doom.d</title>
   <author>
    <name>nicosan001</name>
@@ -300,124 +417,7 @@
   <published>2022-03-23T00:07:54Z</published>
   <updated>2022-03-23T00:07:54Z</updated>
   <content type="html">
-   Mirror of the pulsar package from GNU ELPA, current as of 2022-03-24
-  </content>
- </entry>
- <entry>
-  <title>tomrss: scratch.el</title>
-  <author>
-   <name>tomrss</name>
-  </author>
-  <link href="https://github.com/tomrss/scratch.el" />
-  <id>urn:rprimus:github:tomrss:scratch.el</id>
-  <published>2022-03-22T23:22:34Z</published>
-  <updated>2022-03-22T23:22:34Z</updated>
-  <content type="html">
-   Manage scratch buffers in Emacs
-  </content>
- </entry>
- <entry>
-  <title>chungers: playrs</title>
-  <author>
-   <name>chungers</name>
-  </author>
-  <link href="https://github.com/chungers/playrs" />
-  <id>urn:rprimus:github:chungers:playrs</id>
-  <published>2022-03-22T20:23:45Z</published>
-  <updated>2022-03-22T20:23:45Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>faust45: emacs-confx</title>
-  <author>
-   <name>faust45</name>
-  </author>
-  <link href="https://github.com/faust45/emacs-confx" />
-  <id>urn:rprimus:github:faust45:emacs-confx</id>
-  <published>2022-03-22T16:41:34Z</published>
-  <updated>2022-03-22T16:41:34Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>cole-brown: .config-emacs</title>
-  <author>
-   <name>cole-brown</name>
-  </author>
-  <link href="https://github.com/cole-brown/.config-emacs" />
-  <id>urn:rprimus:github:cole-brown:.config-emacs</id>
-  <published>2022-03-22T16:03:43Z</published>
-  <updated>2022-03-22T16:03:43Z</updated>
-  <content type="html">
-   &quot;.config/emacs&quot; aka &quot;.emacs.d&quot; for a programmer with multiple computers/OSes.
-  </content>
- </entry>
- <entry>
-  <title>nullman: emacs-game-master-assistant</title>
-  <author>
-   <name>nullman</name>
-  </author>
-  <link href="https://github.com/nullman/emacs-game-master-assistant" />
-  <id>urn:rprimus:github:nullman:emacs-game-master-assistant</id>
-  <published>2022-03-22T15:43:09Z</published>
-  <updated>2022-03-22T15:43:09Z</updated>
-  <content type="html">
-   Roll playing Game Master helper functions
-  </content>
- </entry>
- <entry>
-  <title>Reve1811: Emacs_Setting</title>
-  <author>
-   <name>Reve1811</name>
-  </author>
-  <link href="https://github.com/Reve1811/Emacs_Setting" />
-  <id>urn:rprimus:github:Reve1811:Emacs_Setting</id>
-  <published>2022-03-22T08:57:58Z</published>
-  <updated>2022-03-22T08:57:58Z</updated>
-  <content type="html">
-   Emacs settings for me
-  </content>
- </entry>
- <entry>
-  <title>alenalexninan: .doom.d</title>
-  <author>
-   <name>alenalexninan</name>
-  </author>
-  <link href="https://github.com/alenalexninan/.doom.d" />
-  <id>urn:rprimus:github:alenalexninan:.doom.d</id>
-  <published>2022-03-22T05:24:23Z</published>
-  <updated>2022-03-22T05:24:23Z</updated>
-  <content type="html">
-   My doom emacs configuration
-  </content>
- </entry>
- <entry>
-  <title>roxma: modus-themes</title>
-  <author>
-   <name>roxma</name>
-  </author>
-  <link href="https://github.com/roxma/modus-themes" />
-  <id>urn:rprimus:github:roxma:modus-themes</id>
-  <published>2022-03-22T03:25:34Z</published>
-  <updated>2022-03-22T03:25:34Z</updated>
-  <content type="html">
-   Forked from https://gitlab.com/protesilaos/modus-themes
-  </content>
- </entry>
- <entry>
-  <title>dmsoares: dotfiles</title>
-  <author>
-   <name>dmsoares</name>
-  </author>
-  <link href="https://github.com/dmsoares/dotfiles" />
-  <id>urn:rprimus:github:dmsoares:dotfiles</id>
-  <published>2022-03-22T01:01:22Z</published>
-  <updated>2022-03-22T01:01:22Z</updated>
-  <content type="html">
-   A repo for my dotfiles.
+   Mirror of the pulsar package from GNU ELPA, current as of 2022-03-25
   </content>
  </entry>
 </feed>
