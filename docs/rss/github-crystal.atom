@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2022-03-24T16:28:54Z</updated>
+<updated>2022-03-25T17:55:03Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>emerconghaile: ava.cr</title>
+  <author>
+   <name>emerconghaile</name>
+  </author>
+  <link href="https://github.com/emerconghaile/ava.cr" />
+  <id>urn:rprimus:github:emerconghaile:ava.cr</id>
+  <published>2022-03-25T17:55:03Z</published>
+  <updated>2022-03-25T17:55:03Z</updated>
+  <content type="html">
+   Ava Aware Client API in Crystal
+  </content>
+ </entry>
+ <entry>
+  <title>crystal-posix: pty.cr</title>
+  <author>
+   <name>crystal-posix</name>
+  </author>
+  <link href="https://github.com/crystal-posix/pty.cr" />
+  <id>urn:rprimus:github:crystal-posix:pty.cr</id>
+  <published>2022-03-25T16:33:20Z</published>
+  <updated>2022-03-25T16:33:20Z</updated>
+  <content type="html">
+   Pty bindings for Crystal
+  </content>
+ </entry>
  <entry>
   <title>the-business-factory: initially.cr</title>
   <author>
@@ -41,45 +67,6 @@
   <updated>2022-03-24T14:13:20Z</updated>
   <content type="html">
    Experiments in weaponizing Crystal for offensive operations.
-  </content>
- </entry>
- <entry>
-  <title>HCLarsen: corona_api</title>
-  <author>
-   <name>HCLarsen</name>
-  </author>
-  <link href="https://github.com/HCLarsen/corona_api" />
-  <id>urn:rprimus:github:HCLarsen:corona_api</id>
-  <published>2022-03-23T23:56:57Z</published>
-  <updated>2022-03-23T23:56:57Z</updated>
-  <content type="html">
-   Crystal wrapper for https://about-corona.net/ API
-  </content>
- </entry>
- <entry>
-  <title>grkek: piranha</title>
-  <author>
-   <name>grkek</name>
-  </author>
-  <link href="https://github.com/grkek/piranha" />
-  <id>urn:rprimus:github:grkek:piranha</id>
-  <published>2022-03-23T08:33:17Z</published>
-  <updated>2022-03-23T08:33:17Z</updated>
-  <content type="html">
-   An Apple Wallet pass generator written in Crystal Language
-  </content>
- </entry>
- <entry>
-  <title>public-law: rails.cr</title>
-  <author>
-   <name>public-law</name>
-  </author>
-  <link href="https://github.com/public-law/rails.cr" />
-  <id>urn:rprimus:github:public-law:rails.cr</id>
-  <published>2022-03-23T03:12:20Z</published>
-  <updated>2022-03-23T03:12:20Z</updated>
-  <content type="html">
-   NOT a Rails clone. Helpers to use Crystal alongside Rails.
   </content>
  </entry>
 </feed>
