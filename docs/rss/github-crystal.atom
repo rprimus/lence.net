@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2022-03-27T06:28:08Z</updated>
+<updated>2022-03-27T21:34:07Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>polyglotprog: json2crystal.cr</title>
+  <author>
+   <name>polyglotprog</name>
+  </author>
+  <link href="https://github.com/polyglotprog/json2crystal.cr" />
+  <id>urn:rprimus:github:polyglotprog:json2crystal.cr</id>
+  <published>2022-03-27T21:34:07Z</published>
+  <updated>2022-03-27T21:34:07Z</updated>
+  <content type="html">
+   Command-line tool to convert between JSON and YAML
+  </content>
+ </entry>
+ <entry>
+  <title>Rabioli: crystal-countdown</title>
+  <author>
+   <name>Rabioli</name>
+  </author>
+  <link href="https://github.com/Rabioli/crystal-countdown" />
+  <id>urn:rprimus:github:Rabioli:crystal-countdown</id>
+  <published>2022-03-27T21:10:52Z</published>
+  <updated>2022-03-27T21:10:52Z</updated>
+  <content type="html">
+   Countdown timer implementation in crystal lang
+  </content>
+ </entry>
+ <entry>
+  <title>nolantait: orderbook.cr</title>
+  <author>
+   <name>nolantait</name>
+  </author>
+  <link href="https://github.com/nolantait/orderbook.cr" />
+  <id>urn:rprimus:github:nolantait:orderbook.cr</id>
+  <published>2022-03-27T13:47:51Z</published>
+  <updated>2022-03-27T13:47:51Z</updated>
+  <content type="html">
+   An event driven orderbook for algotrading written in Crystal
+  </content>
+ </entry>
  <entry>
   <title>gendosu: amber-example-01</title>
   <author>
@@ -41,32 +80,6 @@
   <updated>2022-03-26T23:13:52Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>emerconghaile: ava.cr</title>
-  <author>
-   <name>emerconghaile</name>
-  </author>
-  <link href="https://github.com/emerconghaile/ava.cr" />
-  <id>urn:rprimus:github:emerconghaile:ava.cr</id>
-  <published>2022-03-25T17:55:03Z</published>
-  <updated>2022-03-25T17:55:03Z</updated>
-  <content type="html">
-   Ava Aware Client API in Crystal
-  </content>
- </entry>
- <entry>
-  <title>crystal-posix: pty.cr</title>
-  <author>
-   <name>crystal-posix</name>
-  </author>
-  <link href="https://github.com/crystal-posix/pty.cr" />
-  <id>urn:rprimus:github:crystal-posix:pty.cr</id>
-  <published>2022-03-25T16:33:20Z</published>
-  <updated>2022-03-25T16:33:20Z</updated>
-  <content type="html">
-   Pty bindings for Crystal
   </content>
  </entry>
 </feed>
