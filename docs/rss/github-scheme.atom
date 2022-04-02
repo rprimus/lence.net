@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-scheme.atom"/>
 <id>urn:rprimus:github:newschemerepos</id>
-<updated>2022-04-01T00:45:45Z</updated>
+<updated>2022-04-01T20:13:41Z</updated>
 <title type='text'>New GitHub Scheme Repos</title>
+ <entry>
+  <title>deads: muldisp</title>
+  <author>
+   <name>deads</name>
+  </author>
+  <link href="https://github.com/deads/muldisp" />
+  <id>urn:rprimus:github:deads:muldisp</id>
+  <published>2022-04-01T20:13:41Z</published>
+  <updated>2022-04-01T20:13:41Z</updated>
+  <content type="html">
+   A legacy Scheme package for multiple method dispatch.
+  </content>
+ </entry>
+ <entry>
+  <title>Koumarin: gravity</title>
+  <author>
+   <name>Koumarin</name>
+  </author>
+  <link href="https://github.com/Koumarin/gravity" />
+  <id>urn:rprimus:github:Koumarin:gravity</id>
+  <published>2022-04-01T11:43:45Z</published>
+  <updated>2022-04-01T11:43:45Z</updated>
+  <content type="html">
+   Newtonian gravity simulator written in Chez Scheme.
+  </content>
+ </entry>
  <entry>
   <title>JahirGomez: Ejemplos-De-Programas-En-Paradigma-Funcional</title>
   <author>
@@ -93,58 +119,6 @@
   <updated>2022-03-31T02:06:54Z</updated>
   <content type="html">
    Threading macros of Clojure implemented in CHICKEN Scheme.
-  </content>
- </entry>
- <entry>
-  <title>ammadz789: Programming_Languages</title>
-  <author>
-   <name>ammadz789</name>
-  </author>
-  <link href="https://github.com/ammadz789/Programming_Languages" />
-  <id>urn:rprimus:github:ammadz789:Programming_Languages</id>
-  <published>2022-03-30T23:12:22Z</published>
-  <updated>2022-03-30T23:12:22Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>amirouche: guile-babelia</title>
-  <author>
-   <name>amirouche</name>
-  </author>
-  <link href="https://github.com/amirouche/guile-babelia" />
-  <id>urn:rprimus:github:amirouche:guile-babelia</id>
-  <published>2022-03-30T17:28:45Z</published>
-  <updated>2022-03-30T17:28:45Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>amirouche: guile-nomunofu</title>
-  <author>
-   <name>amirouche</name>
-  </author>
-  <link href="https://github.com/amirouche/guile-nomunofu" />
-  <id>urn:rprimus:github:amirouche:guile-nomunofu</id>
-  <published>2022-03-30T17:23:23Z</published>
-  <updated>2022-03-30T17:23:23Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>dmusican: cs251f22share</title>
-  <author>
-   <name>dmusican</name>
-  </author>
-  <link href="https://github.com/dmusican/cs251f22share" />
-  <id>urn:rprimus:github:dmusican:cs251f22share</id>
-  <published>2022-03-30T12:33:43Z</published>
-  <updated>2022-03-30T12:33:43Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>

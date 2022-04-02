@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2022-03-31T16:53:08Z</updated>
+<updated>2022-04-02T02:38:35Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>nombiz: nmc</title>
+  <author>
+   <name>nombiz</name>
+  </author>
+  <link href="https://github.com/nombiz/nmc" />
+  <id>urn:rprimus:github:nombiz:nmc</id>
+  <published>2022-04-02T02:38:35Z</published>
+  <updated>2022-04-02T02:38:35Z</updated>
+  <content type="html">
+   A testing bot for Discord, written in Nim.
+  </content>
+ </entry>
+ <entry>
+  <title>Alkamist: NimEngine</title>
+  <author>
+   <name>Alkamist</name>
+  </author>
+  <link href="https://github.com/Alkamist/NimEngine" />
+  <id>urn:rprimus:github:Alkamist:NimEngine</id>
+  <published>2022-04-01T16:59:18Z</published>
+  <updated>2022-04-01T16:59:18Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>frodo821: aeqb</title>
   <author>
@@ -28,19 +54,6 @@
   <updated>2022-03-31T15:57:25Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>bluecmd: nim-windows-test</title>
-  <author>
-   <name>bluecmd</name>
-  </author>
-  <link href="https://github.com/bluecmd/nim-windows-test" />
-  <id>urn:rprimus:github:bluecmd:nim-windows-test</id>
-  <published>2022-03-30T19:36:42Z</published>
-  <updated>2022-03-30T19:36:42Z</updated>
-  <content type="html">
-   Test repository for playing with Nim with Windows
   </content>
  </entry>
 </feed>
