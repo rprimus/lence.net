@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-elixir.atom"/>
 <id>urn:rprimus:github:newelixirrepos</id>
-<updated>2022-04-03T04:16:02Z</updated>
+<updated>2022-04-03T07:58:28Z</updated>
 <title type='text'>New GitHub Elixir Repos</title>
+ <entry>
+  <title>ubertell: promo</title>
+  <author>
+   <name>ubertell</name>
+  </author>
+  <link href="https://github.com/ubertell/promo" />
+  <id>urn:rprimus:github:ubertell:promo</id>
+  <published>2022-04-03T07:58:28Z</published>
+  <updated>2022-04-03T07:58:28Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>MichaelPachec0: phoenix-bird-client-sample</title>
+  <author>
+   <name>MichaelPachec0</name>
+  </author>
+  <link href="https://github.com/MichaelPachec0/phoenix-bird-client-sample" />
+  <id>urn:rprimus:github:MichaelPachec0:phoenix-bird-client-sample</id>
+  <published>2022-04-03T05:25:13Z</published>
+  <updated>2022-04-03T05:25:13Z</updated>
+  <content type="html">
+   Based on https://github.com/Morzaram/phoenix-twitter-example-1.6, with docker suppport
+  </content>
+ </entry>
  <entry>
   <title>franciscpd: rocketdelivery</title>
   <author>
@@ -80,6 +106,19 @@
   <updated>2022-04-02T21:46:18Z</updated>
   <content type="html">
    
+  </content>
+ </entry>
+ <entry>
+  <title>murilobauerc: elixir-otp-pragmatic-studio</title>
+  <author>
+   <name>murilobauerc</name>
+  </author>
+  <link href="https://github.com/murilobauerc/elixir-otp-pragmatic-studio" />
+  <id>urn:rprimus:github:murilobauerc:elixir-otp-pragmatic-studio</id>
+  <published>2022-04-02T20:54:40Z</published>
+  <updated>2022-04-02T20:54:40Z</updated>
+  <content type="html">
+   Elixir &amp; OTP course by Pragmatic Studio. https://pragmaticstudio.com/elixir
   </content>
  </entry>
  <entry>
@@ -200,19 +239,6 @@
   </content>
  </entry>
  <entry>
-  <title>kpfefferle: hangman</title>
-  <author>
-   <name>kpfefferle</name>
-  </author>
-  <link href="https://github.com/kpfefferle/hangman" />
-  <id>urn:rprimus:github:kpfefferle:hangman</id>
-  <published>2022-04-02T18:24:15Z</published>
-  <updated>2022-04-02T18:24:15Z</updated>
-  <content type="html">
-   Hangman project from Elixir for Programmers course: https://codestool.coding-gnome.com/courses/elixir-for-programmers-2
-  </content>
- </entry>
- <entry>
   <title>Ddieguin: fizzbuzz</title>
   <author>
    <name>Ddieguin</name>
@@ -261,7 +287,7 @@
   <published>2022-04-02T15:30:51Z</published>
   <updated>2022-04-02T15:30:51Z</updated>
   <content type="html">
-   rust backed NIF for image processing. Create thumbnails fast in elixir.
+   rust backed erlang NIF for image processing. Create thumbnails fast in elixir.
   </content>
  </entry>
  <entry>
