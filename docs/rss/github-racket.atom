@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-racket.atom"/>
 <id>urn:rprimus:github:newracketrepos</id>
-<updated>2022-04-02T06:02:05Z</updated>
+<updated>2022-04-03T02:46:08Z</updated>
 <title type='text'>New GitHub Racket Repos</title>
+ <entry>
+  <title>tangentstorm: k3-racket</title>
+  <author>
+   <name>tangentstorm</name>
+  </author>
+  <link href="https://github.com/tangentstorm/k3-racket" />
+  <id>urn:rprimus:github:tangentstorm:k3-racket</id>
+  <published>2022-04-03T02:46:08Z</published>
+  <updated>2022-04-03T02:46:08Z</updated>
+  <content type="html">
+   k3 language parser in racket
+  </content>
+ </entry>
+ <entry>
+  <title>Mithaecus: cp-project-euler</title>
+  <author>
+   <name>Mithaecus</name>
+  </author>
+  <link href="https://github.com/Mithaecus/cp-project-euler" />
+  <id>urn:rprimus:github:Mithaecus:cp-project-euler</id>
+  <published>2022-04-02T19:18:14Z</published>
+  <updated>2022-04-02T19:18:14Z</updated>
+  <content type="html">
+   Competitive Programming: Project Euler
+  </content>
+ </entry>
+ <entry>
+  <title>gohsumin: Racket-Scarlet-and-Black-Search</title>
+  <author>
+   <name>gohsumin</name>
+  </author>
+  <link href="https://github.com/gohsumin/Racket-Scarlet-and-Black-Search" />
+  <id>urn:rprimus:github:gohsumin:Racket-Scarlet-and-Black-Search</id>
+  <published>2022-04-02T18:31:57Z</published>
+  <updated>2022-04-02T18:31:57Z</updated>
+  <content type="html">
+   Group project from CSC151. This project optimizes Scarlet &amp; Black articles from the period 1961-1970 and presents them in a GUI.
+  </content>
+ </entry>
+ <entry>
+  <title>rashmikacodes: CS135</title>
+  <author>
+   <name>rashmikacodes</name>
+  </author>
+  <link href="https://github.com/rashmikacodes/CS135" />
+  <id>urn:rprimus:github:rashmikacodes:CS135</id>
+  <published>2022-04-02T17:40:00Z</published>
+  <updated>2022-04-02T17:40:00Z</updated>
+  <content type="html">
+   Code from my Discrete Structures class in Scheme!
+  </content>
+ </entry>
+ <entry>
+  <title>Mithaecus: book-concrete-abstractions</title>
+  <author>
+   <name>Mithaecus</name>
+  </author>
+  <link href="https://github.com/Mithaecus/book-concrete-abstractions" />
+  <id>urn:rprimus:github:Mithaecus:book-concrete-abstractions</id>
+  <published>2022-04-02T16:23:37Z</published>
+  <updated>2022-04-02T16:23:37Z</updated>
+  <content type="html">
+   Book: Concrete Abstractions
+  </content>
+ </entry>
  <entry>
   <title>johnnyodonnell: blackjack-simulator</title>
   <author>
@@ -28,6 +93,19 @@
   <updated>2022-04-02T00:50:44Z</updated>
   <content type="html">
    
+  </content>
+ </entry>
+ <entry>
+  <title>gohsumin: Racket-Printmedia</title>
+  <author>
+   <name>gohsumin</name>
+  </author>
+  <link href="https://github.com/gohsumin/Racket-Printmedia" />
+  <id>urn:rprimus:github:gohsumin:Racket-Printmedia</id>
+  <published>2022-04-01T23:18:59Z</published>
+  <updated>2022-04-01T23:18:59Z</updated>
+  <content type="html">
+   A Racket program that applies a filter to an image. The results were used for screen-printing.
   </content>
  </entry>
  <entry>
@@ -78,123 +156,6 @@
   <id>urn:rprimus:github:JSanti2000:Paradigma</id>
   <published>2022-04-01T00:46:26Z</published>
   <updated>2022-04-01T00:46:26Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>shuai626: moot</title>
-  <author>
-   <name>shuai626</name>
-  </author>
-  <link href="https://github.com/shuai626/moot" />
-  <id>urn:rprimus:github:shuai626:moot</id>
-  <published>2022-03-31T23:25:04Z</published>
-  <updated>2022-03-31T23:25:04Z</updated>
-  <content type="html">
-   A gradually typed compiler implemented using coercions
-  </content>
- </entry>
- <entry>
-  <title>emily-sear: CSC549_Unit4Exercises</title>
-  <author>
-   <name>emily-sear</name>
-  </author>
-  <link href="https://github.com/emily-sear/CSC549_Unit4Exercises" />
-  <id>urn:rprimus:github:emily-sear:CSC549_Unit4Exercises</id>
-  <published>2022-03-31T20:10:17Z</published>
-  <updated>2022-03-31T20:10:17Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>djanatyn: darksouls-items</title>
-  <author>
-   <name>djanatyn</name>
-  </author>
-  <link href="https://github.com/djanatyn/darksouls-items" />
-  <id>urn:rprimus:github:djanatyn:darksouls-items</id>
-  <published>2022-03-31T18:57:04Z</published>
-  <updated>2022-03-31T18:57:04Z</updated>
-  <content type="html">
-   use dark souls items for lorem ipsum
-  </content>
- </entry>
- <entry>
-  <title>edu-rm: racket</title>
-  <author>
-   <name>edu-rm</name>
-  </author>
-  <link href="https://github.com/edu-rm/racket" />
-  <id>urn:rprimus:github:edu-rm:racket</id>
-  <published>2022-03-31T13:39:23Z</published>
-  <updated>2022-03-31T13:39:23Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>OkayI2333: Uwaterloo-Projects</title>
-  <author>
-   <name>OkayI2333</name>
-  </author>
-  <link href="https://github.com/OkayI2333/Uwaterloo-Projects" />
-  <id>urn:rprimus:github:OkayI2333:Uwaterloo-Projects</id>
-  <published>2022-03-31T11:49:02Z</published>
-  <updated>2022-03-31T11:49:02Z</updated>
-  <content type="html">
-   Projects Created in Uwaterloo
-  </content>
- </entry>
- <entry>
-  <title>MarkusReynolds1989: chip8</title>
-  <author>
-   <name>MarkusReynolds1989</name>
-  </author>
-  <link href="https://github.com/MarkusReynolds1989/chip8" />
-  <id>urn:rprimus:github:MarkusReynolds1989:chip8</id>
-  <published>2022-03-31T11:36:58Z</published>
-  <updated>2022-03-31T11:36:58Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>blake-ds: sicp</title>
-  <author>
-   <name>blake-ds</name>
-  </author>
-  <link href="https://github.com/blake-ds/sicp" />
-  <id>urn:rprimus:github:blake-ds:sicp</id>
-  <published>2022-03-31T06:27:38Z</published>
-  <updated>2022-03-31T06:27:38Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Robproject: HtC-SimpleData</title>
-  <author>
-   <name>Robproject</name>
-  </author>
-  <link href="https://github.com/Robproject/HtC-SimpleData" />
-  <id>urn:rprimus:github:Robproject:HtC-SimpleData</id>
-  <published>2022-03-31T00:23:26Z</published>
-  <updated>2022-03-31T00:23:26Z</updated>
-  <content type="html">
-   Coursework for edx https://www.edx.org/course/how-to-code-simple-data
-  </content>
- </entry>
- <entry>
-  <title>yh-ki: A4</title>
-  <author>
-   <name>yh-ki</name>
-  </author>
-  <link href="https://github.com/yh-ki/A4" />
-  <id>urn:rprimus:github:yh-ki:A4</id>
-  <published>2022-03-31T00:09:52Z</published>
-  <updated>2022-03-31T00:09:52Z</updated>
   <content type="html">
    
   </content>
