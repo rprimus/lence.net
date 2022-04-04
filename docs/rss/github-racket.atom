@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-racket.atom"/>
 <id>urn:rprimus:github:newracketrepos</id>
-<updated>2022-04-03T02:46:08Z</updated>
+<updated>2022-04-04T02:03:42Z</updated>
 <title type='text'>New GitHub Racket Repos</title>
+ <entry>
+  <title>casselin: sicp</title>
+  <author>
+   <name>casselin</name>
+  </author>
+  <link href="https://github.com/casselin/sicp" />
+  <id>urn:rprimus:github:casselin:sicp</id>
+  <published>2022-04-04T02:03:42Z</published>
+  <updated>2022-04-04T02:03:42Z</updated>
+  <content type="html">
+   Exercises from Structure and Interpretation of Computer Programs 2e
+  </content>
+ </entry>
+ <entry>
+  <title>johnnyodonnell: commatize-number</title>
+  <author>
+   <name>johnnyodonnell</name>
+  </author>
+  <link href="https://github.com/johnnyodonnell/commatize-number" />
+  <id>urn:rprimus:github:johnnyodonnell:commatize-number</id>
+  <published>2022-04-04T01:28:05Z</published>
+  <updated>2022-04-04T01:28:05Z</updated>
+  <content type="html">
+   Commatize a number in Racket
+  </content>
+ </entry>
+ <entry>
+  <title>johnnyodonnell: java-array-list</title>
+  <author>
+   <name>johnnyodonnell</name>
+  </author>
+  <link href="https://github.com/johnnyodonnell/java-array-list" />
+  <id>urn:rprimus:github:johnnyodonnell:java-array-list</id>
+  <published>2022-04-03T23:41:32Z</published>
+  <updated>2022-04-03T23:41:32Z</updated>
+  <content type="html">
+   Clone of Java&#039;s ArrayList but in Racket
+  </content>
+ </entry>
+ <entry>
+  <title>philcrissman: racket-exercism</title>
+  <author>
+   <name>philcrissman</name>
+  </author>
+  <link href="https://github.com/philcrissman/racket-exercism" />
+  <id>urn:rprimus:github:philcrissman:racket-exercism</id>
+  <published>2022-04-03T22:12:31Z</published>
+  <updated>2022-04-03T22:12:31Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>jeanValverde: schemeLab</title>
+  <author>
+   <name>jeanValverde</name>
+  </author>
+  <link href="https://github.com/jeanValverde/schemeLab" />
+  <id>urn:rprimus:github:jeanValverde:schemeLab</id>
+  <published>2022-04-03T21:48:33Z</published>
+  <updated>2022-04-03T21:48:33Z</updated>
+  <content type="html">
+   ImplementaciÃ³n de diferentes ejercicios y mÃ©todos con scheme (tambiÃ©n lambda)
+  </content>
+ </entry>
+ <entry>
+  <title>SergeyNa3in777: SICP</title>
+  <author>
+   <name>SergeyNa3in777</name>
+  </author>
+  <link href="https://github.com/SergeyNa3in777/SICP" />
+  <id>urn:rprimus:github:SergeyNa3in777:SICP</id>
+  <published>2022-04-03T07:34:55Z</published>
+  <updated>2022-04-03T07:34:55Z</updated>
+  <content type="html">
+   ÐÑÐ¾ÑÐ¾Ð¶Ð´ÐµÐ½Ð¸Ðµ ÐºÑÑÑÐ°, ÑÐµÑÐµÐ½Ð¸Ðµ Ð·Ð°Ð´Ð°Ñ.
+  </content>
+ </entry>
  <entry>
   <title>tangentstorm: k3-racket</title>
   <author>
@@ -15,6 +93,19 @@
   <updated>2022-04-03T02:46:08Z</updated>
   <content type="html">
    k3 language parser in racket
+  </content>
+ </entry>
+ <entry>
+  <title>OdMatheuS: understanding-racket</title>
+  <author>
+   <name>OdMatheuS</name>
+  </author>
+  <link href="https://github.com/OdMatheuS/understanding-racket" />
+  <id>urn:rprimus:github:OdMatheuS:understanding-racket</id>
+  <published>2022-04-02T23:18:05Z</published>
+  <updated>2022-04-02T23:18:05Z</updated>
+  <content type="html">
+   Knowing a little about the Racket programming language
   </content>
  </entry>
  <entry>
@@ -91,71 +182,6 @@
   <id>urn:rprimus:github:an2979:Scheme</id>
   <published>2022-04-02T00:50:44Z</published>
   <updated>2022-04-02T00:50:44Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>gohsumin: Racket-Printmedia</title>
-  <author>
-   <name>gohsumin</name>
-  </author>
-  <link href="https://github.com/gohsumin/Racket-Printmedia" />
-  <id>urn:rprimus:github:gohsumin:Racket-Printmedia</id>
-  <published>2022-04-01T23:18:59Z</published>
-  <updated>2022-04-01T23:18:59Z</updated>
-  <content type="html">
-   A Racket program that applies a filter to an image. The results were used for screen-printing.
-  </content>
- </entry>
- <entry>
-  <title>gkodrzycki: InterfaceRacketSQL</title>
-  <author>
-   <name>gkodrzycki</name>
-  </author>
-  <link href="https://github.com/gkodrzycki/InterfaceRacketSQL" />
-  <id>urn:rprimus:github:gkodrzycki:InterfaceRacketSQL</id>
-  <published>2022-04-01T19:04:47Z</published>
-  <updated>2022-04-01T19:04:47Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>paletteOvO: xxHashRacket</title>
-  <author>
-   <name>paletteOvO</name>
-  </author>
-  <link href="https://github.com/paletteOvO/xxHashRacket" />
-  <id>urn:rprimus:github:paletteOvO:xxHashRacket</id>
-  <published>2022-04-01T08:26:19Z</published>
-  <updated>2022-04-01T08:26:19Z</updated>
-  <content type="html">
-   xxHash racket binding
-  </content>
- </entry>
- <entry>
-  <title>lancego2023: CS214</title>
-  <author>
-   <name>lancego2023</name>
-  </author>
-  <link href="https://github.com/lancego2023/CS214" />
-  <id>urn:rprimus:github:lancego2023:CS214</id>
-  <published>2022-04-01T03:17:54Z</published>
-  <updated>2022-04-01T03:17:54Z</updated>
-  <content type="html">
-   CS214 Spring 2022
-  </content>
- </entry>
- <entry>
-  <title>JSanti2000: Paradigma</title>
-  <author>
-   <name>JSanti2000</name>
-  </author>
-  <link href="https://github.com/JSanti2000/Paradigma" />
-  <id>urn:rprimus:github:JSanti2000:Paradigma</id>
-  <published>2022-04-01T00:46:26Z</published>
-  <updated>2022-04-01T00:46:26Z</updated>
   <content type="html">
    
   </content>
