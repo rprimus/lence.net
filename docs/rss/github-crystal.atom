@@ -2,19 +2,84 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2022-04-09T05:46:06Z</updated>
+<updated>2022-04-10T07:12:41Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
  <entry>
-  <title>grepsedawk: tmp</title>
+  <title>evgkrsk: crometheus</title>
+  <author>
+   <name>evgkrsk</name>
+  </author>
+  <link href="https://github.com/evgkrsk/crometheus" />
+  <id>urn:rprimus:github:evgkrsk:crometheus</id>
+  <published>2022-04-10T07:12:41Z</published>
+  <updated>2022-04-10T07:12:41Z</updated>
+  <content type="html">
+     Prometheus client library for the Crystal language
+  </content>
+ </entry>
+ <entry>
+  <title>thesrcommand: list-files-command</title>
+  <author>
+   <name>thesrcommand</name>
+  </author>
+  <link href="https://github.com/thesrcommand/list-files-command" />
+  <id>urn:rprimus:github:thesrcommand:list-files-command</id>
+  <published>2022-04-10T04:31:11Z</published>
+  <updated>2022-04-10T04:31:11Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>grepsedawk: crag_cache</title>
   <author>
    <name>grepsedawk</name>
   </author>
-  <link href="https://github.com/grepsedawk/tmp" />
-  <id>urn:rprimus:github:grepsedawk:tmp</id>
-  <published>2022-04-09T05:46:06Z</published>
-  <updated>2022-04-09T05:46:06Z</updated>
+  <link href="https://github.com/grepsedawk/crag_cache" />
+  <id>urn:rprimus:github:grepsedawk:crag_cache</id>
+  <published>2022-04-10T01:46:48Z</published>
+  <updated>2022-04-10T01:46:48Z</updated>
+  <content type="html">
+   Alternative frontend for https://www.mountainproject.com/
+  </content>
+ </entry>
+ <entry>
+  <title>jgillich: shards-demo</title>
+  <author>
+   <name>jgillich</name>
+  </author>
+  <link href="https://github.com/jgillich/shards-demo" />
+  <id>urn:rprimus:github:jgillich:shards-demo</id>
+  <published>2022-04-09T19:49:55Z</published>
+  <updated>2022-04-09T19:49:55Z</updated>
   <content type="html">
    
+  </content>
+ </entry>
+ <entry>
+  <title>graphia: gias-api</title>
+  <author>
+   <name>graphia</name>
+  </author>
+  <link href="https://github.com/graphia/gias-api" />
+  <id>urn:rprimus:github:graphia:gias-api</id>
+  <published>2022-04-09T18:16:19Z</published>
+  <updated>2022-04-09T18:16:19Z</updated>
+  <content type="html">
+   Crystal API for the GIAS query tool
+  </content>
+ </entry>
+ <entry>
+  <title>lodenos: Crystal_Mathematic</title>
+  <author>
+   <name>lodenos</name>
+  </author>
+  <link href="https://github.com/lodenos/Crystal_Mathematic" />
+  <id>urn:rprimus:github:lodenos:Crystal_Mathematic</id>
+  <published>2022-04-09T13:13:36Z</published>
+  <updated>2022-04-09T13:13:36Z</updated>
+  <content type="html">
+   Crystal Math Vector
   </content>
  </entry>
  <entry>
@@ -28,97 +93,6 @@
   <updated>2022-04-08T17:37:11Z</updated>
   <content type="html">
    slack bots for technical communities
-  </content>
- </entry>
- <entry>
-  <title>grepsedawk: crag_cache</title>
-  <author>
-   <name>grepsedawk</name>
-  </author>
-  <link href="https://github.com/grepsedawk/crag_cache" />
-  <id>urn:rprimus:github:grepsedawk:crag_cache</id>
-  <published>2022-04-08T11:03:12Z</published>
-  <updated>2022-04-08T11:03:12Z</updated>
-  <content type="html">
-   An alternative frontend for Mountain Project, with an API!
-  </content>
- </entry>
- <entry>
-  <title>grepsedawk: test.app</title>
-  <author>
-   <name>grepsedawk</name>
-  </author>
-  <link href="https://github.com/grepsedawk/test.app" />
-  <id>urn:rprimus:github:grepsedawk:test.app</id>
-  <published>2022-04-07T20:48:13Z</published>
-  <updated>2022-04-07T20:48:13Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Vici37: cr-color-logging</title>
-  <author>
-   <name>Vici37</name>
-  </author>
-  <link href="https://github.com/Vici37/cr-color-logging" />
-  <id>urn:rprimus:github:Vici37:cr-color-logging</id>
-  <published>2022-04-07T20:19:51Z</published>
-  <updated>2022-04-07T20:19:51Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>serge-hulne: Game-of-life</title>
-  <author>
-   <name>serge-hulne</name>
-  </author>
-  <link href="https://github.com/serge-hulne/Game-of-life" />
-  <id>urn:rprimus:github:serge-hulne:Game-of-life</id>
-  <published>2022-04-07T16:28:46Z</published>
-  <updated>2022-04-07T16:28:46Z</updated>
-  <content type="html">
-   Game of life in Crystal lang
-  </content>
- </entry>
- <entry>
-  <title>Lukc: dodb</title>
-  <author>
-   <name>Lukc</name>
-  </author>
-  <link href="https://github.com/Lukc/dodb" />
-  <id>urn:rprimus:github:Lukc:dodb</id>
-  <published>2022-04-07T12:43:33Z</published>
-  <updated>2022-04-07T12:43:33Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>q9f: eth.cr</title>
-  <author>
-   <name>q9f</name>
-  </author>
-  <link href="https://github.com/q9f/eth.cr" />
-  <id>urn:rprimus:github:q9f:eth.cr</id>
-  <published>2022-04-07T10:56:59Z</published>
-  <updated>2022-04-07T10:56:59Z</updated>
-  <content type="html">
-   A straightforward library to build, sign, and broadcast Ethereum transactions.
-  </content>
- </entry>
- <entry>
-  <title>tkshnwesper: potential_crystal_bug</title>
-  <author>
-   <name>tkshnwesper</name>
-  </author>
-  <link href="https://github.com/tkshnwesper/potential_crystal_bug" />
-  <id>urn:rprimus:github:tkshnwesper:potential_crystal_bug</id>
-  <published>2022-04-07T06:42:27Z</published>
-  <updated>2022-04-07T06:42:27Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
