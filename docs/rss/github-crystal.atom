@@ -2,8 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2022-04-10T07:12:41Z</updated>
+<updated>2022-04-11T05:33:16Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>tkshnwesper: namespace</title>
+  <author>
+   <name>tkshnwesper</name>
+  </author>
+  <link href="https://github.com/tkshnwesper/namespace" />
+  <id>urn:rprimus:github:tkshnwesper:namespace</id>
+  <published>2022-04-11T05:33:16Z</published>
+  <updated>2022-04-11T05:33:16Z</updated>
+  <content type="html">
+   `include` without polluting the global namespace
+  </content>
+ </entry>
+ <entry>
+  <title>juliansiv: read_excel_crystal</title>
+  <author>
+   <name>juliansiv</name>
+  </author>
+  <link href="https://github.com/juliansiv/read_excel_crystal" />
+  <id>urn:rprimus:github:juliansiv:read_excel_crystal</id>
+  <published>2022-04-10T17:02:39Z</published>
+  <updated>2022-04-10T17:02:39Z</updated>
+  <content type="html">
+   Benchmark xlsx reader in crystal
+  </content>
+ </entry>
+ <entry>
+  <title>aquaflamingo: span</title>
+  <author>
+   <name>aquaflamingo</name>
+  </author>
+  <link href="https://github.com/aquaflamingo/span" />
+  <id>urn:rprimus:github:aquaflamingo:span</id>
+  <published>2022-04-10T17:00:58Z</published>
+  <updated>2022-04-10T17:00:58Z</updated>
+  <content type="html">
+   Days between date X and date Y
+  </content>
+ </entry>
+ <entry>
+  <title>SleepingInsomniac: LxLang</title>
+  <author>
+   <name>SleepingInsomniac</name>
+  </author>
+  <link href="https://github.com/SleepingInsomniac/LxLang" />
+  <id>urn:rprimus:github:SleepingInsomniac:LxLang</id>
+  <published>2022-04-10T16:42:33Z</published>
+  <updated>2022-04-10T16:42:33Z</updated>
+  <content type="html">
+   The Lx programming Language
+  </content>
+ </entry>
+ <entry>
+  <title>Tarbetu: CryLox</title>
+  <author>
+   <name>Tarbetu</name>
+  </author>
+  <link href="https://github.com/Tarbetu/CryLox" />
+  <id>urn:rprimus:github:Tarbetu:CryLox</id>
+  <published>2022-04-10T15:31:45Z</published>
+  <updated>2022-04-10T15:31:45Z</updated>
+  <content type="html">
+   CryLox is an another Lox interpreter which written in Crystal
+  </content>
+ </entry>
+ <entry>
+  <title>lbguilherme: crystal-web</title>
+  <author>
+   <name>lbguilherme</name>
+  </author>
+  <link href="https://github.com/lbguilherme/crystal-web" />
+  <id>urn:rprimus:github:lbguilherme:crystal-web</id>
+  <published>2022-04-10T14:56:35Z</published>
+  <updated>2022-04-10T14:56:35Z</updated>
+  <content type="html">
+   Crystal bindings to the Web APIs for building front-end applications with WebAssembly
+  </content>
+ </entry>
+ <entry>
+  <title>tkshnwesper: include</title>
+  <author>
+   <name>tkshnwesper</name>
+  </author>
+  <link href="https://github.com/tkshnwesper/include" />
+  <id>urn:rprimus:github:tkshnwesper:include</id>
+  <published>2022-04-10T12:57:40Z</published>
+  <updated>2022-04-10T12:57:40Z</updated>
+  <content type="html">
+   Macro implementation of `include` keyword
+  </content>
+ </entry>
  <entry>
   <title>evgkrsk: crometheus</title>
   <author>
@@ -80,19 +171,6 @@
   <updated>2022-04-09T13:13:36Z</updated>
   <content type="html">
    Crystal Math Vector
-  </content>
- </entry>
- <entry>
-  <title>the-business-factory: hirobot.app</title>
-  <author>
-   <name>the-business-factory</name>
-  </author>
-  <link href="https://github.com/the-business-factory/hirobot.app" />
-  <id>urn:rprimus:github:the-business-factory:hirobot.app</id>
-  <published>2022-04-08T17:37:11Z</published>
-  <updated>2022-04-08T17:37:11Z</updated>
-  <content type="html">
-   slack bots for technical communities
   </content>
  </entry>
 </feed>
