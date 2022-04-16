@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-04-15T07:27:42Z</updated>
+<updated>2022-04-16T01:52:28Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>nptcl: parser</title>
+  <author>
+   <name>nptcl</name>
+  </author>
+  <link href="https://github.com/nptcl/parser" />
+  <id>urn:rprimus:github:nptcl:parser</id>
+  <published>2022-04-16T01:52:28Z</published>
+  <updated>2022-04-16T01:52:28Z</updated>
+  <content type="html">
+   Test code LR(1), LALR(1) for Common Lisp.
+  </content>
+ </entry>
+ <entry>
+  <title>ironchicken: advent-2021-cl</title>
+  <author>
+   <name>ironchicken</name>
+  </author>
+  <link href="https://github.com/ironchicken/advent-2021-cl" />
+  <id>urn:rprimus:github:ironchicken:advent-2021-cl</id>
+  <published>2022-04-15T22:34:14Z</published>
+  <updated>2022-04-15T22:34:14Z</updated>
+  <content type="html">
+   Advent of code 2021 in Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>RyanBurnside: ltk-test</title>
+  <author>
+   <name>RyanBurnside</name>
+  </author>
+  <link href="https://github.com/RyanBurnside/ltk-test" />
+  <id>urn:rprimus:github:RyanBurnside:ltk-test</id>
+  <published>2022-04-15T21:58:15Z</published>
+  <updated>2022-04-15T21:58:15Z</updated>
+  <content type="html">
+   This is kind of a bare bones LTK demo to hack into something more
+  </content>
+ </entry>
+ <entry>
+  <title>Jaso-N7: css-tut</title>
+  <author>
+   <name>Jaso-N7</name>
+  </author>
+  <link href="https://github.com/Jaso-N7/css-tut" />
+  <id>urn:rprimus:github:Jaso-N7:css-tut</id>
+  <published>2022-04-15T20:54:28Z</published>
+  <updated>2022-04-15T20:54:28Z</updated>
+  <content type="html">
+   CSS3 practice with LASS
+  </content>
+ </entry>
+ <entry>
+  <title>no-defun-allowed: mandelbrot-viewer</title>
+  <author>
+   <name>no-defun-allowed</name>
+  </author>
+  <link href="https://github.com/no-defun-allowed/mandelbrot-viewer" />
+  <id>urn:rprimus:github:no-defun-allowed:mandelbrot-viewer</id>
+  <published>2022-04-15T12:38:44Z</published>
+  <updated>2022-04-15T12:38:44Z</updated>
+  <content type="html">
+   le mandelbrote
+  </content>
+ </entry>
  <entry>
   <title>kawaneao1996: lisptest</title>
   <author>
@@ -93,58 +158,6 @@
   <updated>2022-04-14T01:14:15Z</updated>
   <content type="html">
    Training repository with all sort of codes
-  </content>
- </entry>
- <entry>
-  <title>AdinaValcauan: AutoCAD</title>
-  <author>
-   <name>AdinaValcauan</name>
-  </author>
-  <link href="https://github.com/AdinaValcauan/AutoCAD" />
-  <id>urn:rprimus:github:AdinaValcauan:AutoCAD</id>
-  <published>2022-04-13T17:20:03Z</published>
-  <updated>2022-04-13T17:20:03Z</updated>
-  <content type="html">
-   Repository with the project I did in AutoCAD for university
-  </content>
- </entry>
- <entry>
-  <title>memarc: simple-routes</title>
-  <author>
-   <name>memarc</name>
-  </author>
-  <link href="https://github.com/memarc/simple-routes" />
-  <id>urn:rprimus:github:memarc:simple-routes</id>
-  <published>2022-04-13T15:10:49Z</published>
-  <updated>2022-04-13T15:10:49Z</updated>
-  <content type="html">
-   Third party mirror of &quot;simple-routes&quot;, a simple Common Lisp RESTful routing facility on top of Hunchentoot.
-  </content>
- </entry>
- <entry>
-  <title>petterha: norsyg</title>
-  <author>
-   <name>petterha</name>
-  </author>
-  <link href="https://github.com/petterha/norsyg" />
-  <id>urn:rprimus:github:petterha:norsyg</id>
-  <published>2022-04-13T08:43:56Z</published>
-  <updated>2022-04-13T08:43:56Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>manykwh: word-warp</title>
-  <author>
-   <name>manykwh</name>
-  </author>
-  <link href="https://github.com/manykwh/word-warp" />
-  <id>urn:rprimus:github:manykwh:word-warp</id>
-  <published>2022-04-13T03:24:41Z</published>
-  <updated>2022-04-13T03:24:41Z</updated>
-  <content type="html">
-   Old project with Meghan Hollenbach from our &#039;Organization of Programming Languages&#039; class.
   </content>
  </entry>
 </feed>
