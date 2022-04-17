@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-04-16T22:34:07Z</updated>
+<updated>2022-04-17T08:52:33Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>vendryan: toy-project</title>
+  <author>
+   <name>vendryan</name>
+  </author>
+  <link href="https://github.com/vendryan/toy-project" />
+  <id>urn:rprimus:github:vendryan:toy-project</id>
+  <published>2022-04-17T08:52:33Z</published>
+  <updated>2022-04-17T08:52:33Z</updated>
+  <content type="html">
+   Toy project for practice
+  </content>
+ </entry>
+ <entry>
+  <title>yoshida2koji: struct-plus</title>
+  <author>
+   <name>yoshida2koji</name>
+  </author>
+  <link href="https://github.com/yoshida2koji/struct-plus" />
+  <id>urn:rprimus:github:yoshida2koji:struct-plus</id>
+  <published>2022-04-17T07:47:28Z</published>
+  <updated>2022-04-17T07:47:28Z</updated>
+  <content type="html">
+   define a structure with accessors specific to defined structure
+  </content>
+ </entry>
  <entry>
   <title>ange3791: autolisp</title>
   <author>

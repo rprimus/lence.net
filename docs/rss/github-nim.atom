@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2022-04-16T10:48:47Z</updated>
+<updated>2022-04-17T01:45:46Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>TakumiHANAUE: ChatApp_NimInAction</title>
+  <author>
+   <name>TakumiHANAUE</name>
+  </author>
+  <link href="https://github.com/TakumiHANAUE/ChatApp_NimInAction" />
+  <id>urn:rprimus:github:TakumiHANAUE:ChatApp_NimInAction</id>
+  <published>2022-04-17T01:45:46Z</published>
+  <updated>2022-04-17T01:45:46Z</updated>
+  <content type="html">
+   Chat App from Nim in Action
+  </content>
+ </entry>
  <entry>
   <title>SolitudeSF: fuse-nim</title>
   <author>
@@ -67,6 +80,19 @@
   <updated>2022-04-16T02:08:05Z</updated>
   <content type="html">
    A Nim wrapper for &lt;stdarg.h&gt;
+  </content>
+ </entry>
+ <entry>
+  <title>sufferiing: result-nim</title>
+  <author>
+   <name>sufferiing</name>
+  </author>
+  <link href="https://github.com/sufferiing/result-nim" />
+  <id>urn:rprimus:github:sufferiing:result-nim</id>
+  <published>2022-04-15T18:38:39Z</published>
+  <updated>2022-04-15T18:38:39Z</updated>
+  <content type="html">
+   A Rust-like value-or-error Result type for Nim
   </content>
  </entry>
  <entry>
