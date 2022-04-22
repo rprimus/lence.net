@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2022-04-21T09:32:05Z</updated>
+<updated>2022-04-22T01:39:11Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>ct-clmsn: nim-hpx</title>
+  <author>
+   <name>ct-clmsn</name>
+  </author>
+  <link href="https://github.com/ct-clmsn/nim-hpx" />
+  <id>urn:rprimus:github:ct-clmsn:nim-hpx</id>
+  <published>2022-04-22T01:39:11Z</published>
+  <updated>2022-04-22T01:39:11Z</updated>
+  <content type="html">
+   Nim wrapper for STE||AR HPX
+  </content>
+ </entry>
+ <entry>
+  <title>mashingan: excelin</title>
+  <author>
+   <name>mashingan</name>
+  </author>
+  <link href="https://github.com/mashingan/excelin" />
+  <id>urn:rprimus:github:mashingan:excelin</id>
+  <published>2022-04-21T15:42:50Z</published>
+  <updated>2022-04-21T15:42:50Z</updated>
+  <content type="html">
+   Create and read Excel file purely in Nim
+  </content>
+ </entry>
  <entry>
   <title>diego-vicente: aoc21</title>
   <author>
@@ -106,71 +132,6 @@
   <updated>2022-04-20T00:13:58Z</updated>
   <content type="html">
    Toy nim project to interface with viaems
-  </content>
- </entry>
- <entry>
-  <title>nonimportant: nim-govee</title>
-  <author>
-   <name>nonimportant</name>
-  </author>
-  <link href="https://github.com/nonimportant/nim-govee" />
-  <id>urn:rprimus:github:nonimportant:nim-govee</id>
-  <published>2022-04-19T19:41:55Z</published>
-  <updated>2022-04-19T19:41:55Z</updated>
-  <content type="html">
-   A Nim wrapper for the Govee Api.
-  </content>
- </entry>
- <entry>
-  <title>theAkito: nim-grub</title>
-  <author>
-   <name>theAkito</name>
-  </author>
-  <link href="https://github.com/theAkito/nim-grub" />
-  <id>urn:rprimus:github:theAkito:nim-grub</id>
-  <published>2022-04-19T17:59:59Z</published>
-  <updated>2022-04-19T17:59:59Z</updated>
-  <content type="html">
-   GRUB interface library for your Nim project.
-  </content>
- </entry>
- <entry>
-  <title>zimnyaa: nim-lazy-bof</title>
-  <author>
-   <name>zimnyaa</name>
-  </author>
-  <link href="https://github.com/zimnyaa/nim-lazy-bof" />
-  <id>urn:rprimus:github:zimnyaa:nim-lazy-bof</id>
-  <published>2022-04-19T14:13:11Z</published>
-  <updated>2022-04-19T14:13:11Z</updated>
-  <content type="html">
-   Nim port of sliver&#039;s BOF loading approach
-  </content>
- </entry>
- <entry>
-  <title>sotolf2: nim-battlesnake</title>
-  <author>
-   <name>sotolf2</name>
-  </author>
-  <link href="https://github.com/sotolf2/nim-battlesnake" />
-  <id>urn:rprimus:github:sotolf2:nim-battlesnake</id>
-  <published>2022-04-19T11:03:22Z</published>
-  <updated>2022-04-19T11:03:22Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>lrdickson: csvutils</title>
-  <author>
-   <name>lrdickson</name>
-  </author>
-  <link href="https://github.com/lrdickson/csvutils" />
-  <id>urn:rprimus:github:lrdickson:csvutils</id>
-  <published>2022-04-19T02:53:29Z</published>
-  <updated>2022-04-19T02:53:29Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
