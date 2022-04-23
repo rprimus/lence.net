@@ -2,8 +2,151 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-04-22T05:29:29Z</updated>
+<updated>2022-04-23T03:49:00Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>pyramidi0n: webform-validate</title>
+  <author>
+   <name>pyramidi0n</name>
+  </author>
+  <link href="https://github.com/pyramidi0n/webform-validate" />
+  <id>urn:rprimus:github:pyramidi0n:webform-validate</id>
+  <published>2022-04-23T03:49:00Z</published>
+  <updated>2022-04-23T03:49:00Z</updated>
+  <content type="html">
+   A validation library for web form input.
+  </content>
+ </entry>
+ <entry>
+  <title>pyramidi0n: email-parse</title>
+  <author>
+   <name>pyramidi0n</name>
+  </author>
+  <link href="https://github.com/pyramidi0n/email-parse" />
+  <id>urn:rprimus:github:pyramidi0n:email-parse</id>
+  <published>2022-04-23T03:43:01Z</published>
+  <updated>2022-04-23T03:43:01Z</updated>
+  <content type="html">
+   A fast, RFC-compliant email address validator and parser.
+  </content>
+ </entry>
+ <entry>
+  <title>pyramidi0n: uri-parse</title>
+  <author>
+   <name>pyramidi0n</name>
+  </author>
+  <link href="https://github.com/pyramidi0n/uri-parse" />
+  <id>urn:rprimus:github:pyramidi0n:uri-parse</id>
+  <published>2022-04-23T03:18:04Z</published>
+  <updated>2022-04-23T03:18:04Z</updated>
+  <content type="html">
+   A fast, RFC-compliant URI validator and parser.
+  </content>
+ </entry>
+ <entry>
+  <title>pyramidi0n: abnf-match</title>
+  <author>
+   <name>pyramidi0n</name>
+  </author>
+  <link href="https://github.com/pyramidi0n/abnf-match" />
+  <id>urn:rprimus:github:pyramidi0n:abnf-match</id>
+  <published>2022-04-23T03:17:37Z</published>
+  <updated>2022-04-23T03:17:37Z</updated>
+  <content type="html">
+   A DSL for writing parsers of grammars expressed in IETF ABNF.
+  </content>
+ </entry>
+ <entry>
+  <title>pyramidi0n: trivial-us-ascii</title>
+  <author>
+   <name>pyramidi0n</name>
+  </author>
+  <link href="https://github.com/pyramidi0n/trivial-us-ascii" />
+  <id>urn:rprimus:github:pyramidi0n:trivial-us-ascii</id>
+  <published>2022-04-23T03:11:31Z</published>
+  <updated>2022-04-23T03:11:31Z</updated>
+  <content type="html">
+   A library for portable US-ASCII encoding and decoding.
+  </content>
+ </entry>
+ <entry>
+  <title>mox692: common_lisp_utils</title>
+  <author>
+   <name>mox692</name>
+  </author>
+  <link href="https://github.com/mox692/common_lisp_utils" />
+  <id>urn:rprimus:github:mox692:common_lisp_utils</id>
+  <published>2022-04-23T02:57:39Z</published>
+  <updated>2022-04-23T02:57:39Z</updated>
+  <content type="html">
+   util functions of common lisp
+  </content>
+ </entry>
+ <entry>
+  <title>gandolh: Random_lisp</title>
+  <author>
+   <name>gandolh</name>
+  </author>
+  <link href="https://github.com/gandolh/Random_lisp" />
+  <id>urn:rprimus:github:gandolh:Random_lisp</id>
+  <published>2022-04-22T19:35:41Z</published>
+  <updated>2022-04-22T19:35:41Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>dumeriz: cl-zenon</title>
+  <author>
+   <name>dumeriz</name>
+  </author>
+  <link href="https://github.com/dumeriz/cl-zenon" />
+  <id>urn:rprimus:github:dumeriz:cl-zenon</id>
+  <published>2022-04-22T19:21:42Z</published>
+  <updated>2022-04-22T19:21:42Z</updated>
+  <content type="html">
+   Common Lisp Zenon SDK
+  </content>
+ </entry>
+ <entry>
+  <title>Mr-Dispatch: w32api</title>
+  <author>
+   <name>Mr-Dispatch</name>
+  </author>
+  <link href="https://github.com/Mr-Dispatch/w32api" />
+  <id>urn:rprimus:github:Mr-Dispatch:w32api</id>
+  <published>2022-04-22T18:16:08Z</published>
+  <updated>2022-04-22T18:16:08Z</updated>
+  <content type="html">
+   Common Lisp Win32API / WinRT bindings (generated from Windows Metadata, hopefully complete)
+  </content>
+ </entry>
+ <entry>
+  <title>thrig: cl-termsize</title>
+  <author>
+   <name>thrig</name>
+  </author>
+  <link href="https://github.com/thrig/cl-termsize" />
+  <id>urn:rprimus:github:thrig:cl-termsize</id>
+  <published>2022-04-22T14:18:56Z</published>
+  <updated>2022-04-22T14:18:56Z</updated>
+  <content type="html">
+   try to obtain the terminal size via ioctl(2)
+  </content>
+ </entry>
+ <entry>
+  <title>sirherrbatka: vellum-plain-odbc</title>
+  <author>
+   <name>sirherrbatka</name>
+  </author>
+  <link href="https://github.com/sirherrbatka/vellum-plain-odbc" />
+  <id>urn:rprimus:github:sirherrbatka:vellum-plain-odbc</id>
+  <published>2022-04-22T12:48:50Z</published>
+  <updated>2022-04-22T12:48:50Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>mfiano: red-black-tree</title>
   <author>
@@ -278,16 +421,16 @@
   </content>
  </entry>
  <entry>
-  <title>mfiano: dynamic-array</title>
+  <title>mfiano: flac-metadata</title>
   <author>
    <name>mfiano</name>
   </author>
-  <link href="https://github.com/mfiano/dynamic-array" />
-  <id>urn:rprimus:github:mfiano:dynamic-array</id>
-  <published>2022-04-21T09:27:22Z</published>
-  <updated>2022-04-21T09:27:22Z</updated>
+  <link href="https://github.com/mfiano/flac-metadata" />
+  <id>urn:rprimus:github:mfiano:flac-metadata</id>
+  <published>2022-04-21T09:29:18Z</published>
+  <updated>2022-04-21T09:29:18Z</updated>
   <content type="html">
-   Mirror of https://git.mfiano.net/mfiano/dynamic-array
+   Mirror of https://git.mfiano.net/mfiano/flac-metadata
   </content>
  </entry>
  <entry>
@@ -405,45 +548,6 @@
   <updated>2022-04-21T04:41:05Z</updated>
   <content type="html">
    FunciÃ³n que devuelve las secuencias ascendentes de mayor tamaÃ±o, a partir de una lista de nÃºmeros enteros
-  </content>
- </entry>
- <entry>
-  <title>joshuaGreineder: Robo3000</title>
-  <author>
-   <name>joshuaGreineder</name>
-  </author>
-  <link href="https://github.com/joshuaGreineder/Robo3000" />
-  <id>urn:rprimus:github:joshuaGreineder:Robo3000</id>
-  <published>2022-04-20T21:00:11Z</published>
-  <updated>2022-04-20T21:00:11Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ItaiAxelrad: cad-lisp</title>
-  <author>
-   <name>ItaiAxelrad</name>
-  </author>
-  <link href="https://github.com/ItaiAxelrad/cad-lisp" />
-  <id>urn:rprimus:github:ItaiAxelrad:cad-lisp</id>
-  <published>2022-04-20T16:19:46Z</published>
-  <updated>2022-04-20T16:19:46Z</updated>
-  <content type="html">
-   A collection of lisp routines for AutoCAD
-  </content>
- </entry>
- <entry>
-  <title>b3nj5m1n: crayon</title>
-  <author>
-   <name>b3nj5m1n</name>
-  </author>
-  <link href="https://github.com/b3nj5m1n/crayon" />
-  <id>urn:rprimus:github:b3nj5m1n:crayon</id>
-  <published>2022-04-20T00:32:04Z</published>
-  <updated>2022-04-20T00:32:04Z</updated>
-  <content type="html">
-   Terminal string formatting in common lisp
   </content>
  </entry>
 </feed>

@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2022-04-22T01:39:11Z</updated>
+<updated>2022-04-23T03:19:52Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>SamWoolerton: fast-flood-solver</title>
+  <author>
+   <name>SamWoolerton</name>
+  </author>
+  <link href="https://github.com/SamWoolerton/fast-flood-solver" />
+  <id>urn:rprimus:github:SamWoolerton:fast-flood-solver</id>
+  <published>2022-04-23T03:19:52Z</published>
+  <updated>2022-04-23T03:19:52Z</updated>
+  <content type="html">
+   Solver for https://fastflood.dylancastillo.co/
+  </content>
+ </entry>
+ <entry>
+  <title>ryukoposting: ruby-nim</title>
+  <author>
+   <name>ryukoposting</name>
+  </author>
+  <link href="https://github.com/ryukoposting/ruby-nim" />
+  <id>urn:rprimus:github:ryukoposting:ruby-nim</id>
+  <published>2022-04-22T23:56:48Z</published>
+  <updated>2022-04-22T23:56:48Z</updated>
+  <content type="html">
+   Ruby Interpreter API Bindings
+  </content>
+ </entry>
  <entry>
   <title>ct-clmsn: nim-hpx</title>
   <author>
@@ -80,58 +106,6 @@
   <updated>2022-04-21T00:38:02Z</updated>
   <content type="html">
    Snake game for the terminal written in Nim
-  </content>
- </entry>
- <entry>
-  <title>elcritch: fidgets</title>
-  <author>
-   <name>elcritch</name>
-  </author>
-  <link href="https://github.com/elcritch/fidgets" />
-  <id>urn:rprimus:github:elcritch:fidgets</id>
-  <published>2022-04-20T08:20:36Z</published>
-  <updated>2022-04-20T08:20:36Z</updated>
-  <content type="html">
-   Widget library built on Fidget written in pure Nim and OpenGL rendered
-  </content>
- </entry>
- <entry>
-  <title>obemaru4012: bamboo_websocket</title>
-  <author>
-   <name>obemaru4012</name>
-  </author>
-  <link href="https://github.com/obemaru4012/bamboo_websocket" />
-  <id>urn:rprimus:github:obemaru4012:bamboo_websocket</id>
-  <published>2022-04-20T06:41:10Z</published>
-  <updated>2022-04-20T06:41:10Z</updated>
-  <content type="html">
-   This is a simple implementation of a WebSocket server with 100% Nim.
-  </content>
- </entry>
- <entry>
-  <title>avahe-kellenberger: pheasantfarm</title>
-  <author>
-   <name>avahe-kellenberger</name>
-  </author>
-  <link href="https://github.com/avahe-kellenberger/pheasantfarm" />
-  <id>urn:rprimus:github:avahe-kellenberger:pheasantfarm</id>
-  <published>2022-04-20T03:25:04Z</published>
-  <updated>2022-04-20T03:25:04Z</updated>
-  <content type="html">
-   Entry for the Linux Game Jam 2022: https://itch.io/jam/linux-game-jam-2022
-  </content>
- </entry>
- <entry>
-  <title>via: nim-viaems</title>
-  <author>
-   <name>via</name>
-  </author>
-  <link href="https://github.com/via/nim-viaems" />
-  <id>urn:rprimus:github:via:nim-viaems</id>
-  <published>2022-04-20T00:13:58Z</published>
-  <updated>2022-04-20T00:13:58Z</updated>
-  <content type="html">
-   Toy nim project to interface with viaems
   </content>
  </entry>
 </feed>
