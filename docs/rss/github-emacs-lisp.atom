@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2022-04-24T09:21:16Z</updated>
+<updated>2022-04-25T01:15:18Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>dycide: .emacs.d</title>
+  <author>
+   <name>dycide</name>
+  </author>
+  <link href="https://github.com/dycide/.emacs.d" />
+  <id>urn:rprimus:github:dycide:.emacs.d</id>
+  <published>2022-04-25T01:15:18Z</published>
+  <updated>2022-04-25T01:15:18Z</updated>
+  <content type="html">
+   my own vanilla emacs config
+  </content>
+ </entry>
+ <entry>
+  <title>ahyatt: defun-pattern</title>
+  <author>
+   <name>ahyatt</name>
+  </author>
+  <link href="https://github.com/ahyatt/defun-pattern" />
+  <id>urn:rprimus:github:ahyatt:defun-pattern</id>
+  <published>2022-04-25T00:44:30Z</published>
+  <updated>2022-04-25T00:44:30Z</updated>
+  <content type="html">
+   Library to allow the writing of defuns that operate using pattern-matching.
+  </content>
+ </entry>
+ <entry>
+  <title>colenem: dotfiles</title>
+  <author>
+   <name>colenem</name>
+  </author>
+  <link href="https://github.com/colenem/dotfiles" />
+  <id>urn:rprimus:github:colenem:dotfiles</id>
+  <published>2022-04-24T23:28:07Z</published>
+  <updated>2022-04-24T23:28:07Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>kirataik: .emacs.d</title>
+  <author>
+   <name>kirataik</name>
+  </author>
+  <link href="https://github.com/kirataik/.emacs.d" />
+  <id>urn:rprimus:github:kirataik:.emacs.d</id>
+  <published>2022-04-24T15:42:44Z</published>
+  <updated>2022-04-24T15:42:44Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Brtsiev-Kazbek: emacs-config</title>
+  <author>
+   <name>Brtsiev-Kazbek</name>
+  </author>
+  <link href="https://github.com/Brtsiev-Kazbek/emacs-config" />
+  <id>urn:rprimus:github:Brtsiev-Kazbek:emacs-config</id>
+  <published>2022-04-24T12:53:47Z</published>
+  <updated>2022-04-24T12:53:47Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>pkotrcka: .emacs.d</title>
+  <author>
+   <name>pkotrcka</name>
+  </author>
+  <link href="https://github.com/pkotrcka/.emacs.d" />
+  <id>urn:rprimus:github:pkotrcka:.emacs.d</id>
+  <published>2022-04-24T10:24:34Z</published>
+  <updated>2022-04-24T10:24:34Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>keeeeeeesuke99: settingFile</title>
   <author>
@@ -262,253 +340,6 @@
   <updated>2022-04-23T10:00:24Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>jasonjckn: pulsing-cursor</title>
-  <author>
-   <name>jasonjckn</name>
-  </author>
-  <link href="https://github.com/jasonjckn/pulsing-cursor" />
-  <id>urn:rprimus:github:jasonjckn:pulsing-cursor</id>
-  <published>2022-04-22T20:15:23Z</published>
-  <updated>2022-04-22T20:15:23Z</updated>
-  <content type="html">
-   Emacs module for pulsing cursor visual effect. 
-  </content>
- </entry>
- <entry>
-  <title>detvdl: cue-mode.el</title>
-  <author>
-   <name>detvdl</name>
-  </author>
-  <link href="https://github.com/detvdl/cue-mode.el" />
-  <id>urn:rprimus:github:detvdl:cue-mode.el</id>
-  <published>2022-04-22T19:30:45Z</published>
-  <updated>2022-04-22T19:30:45Z</updated>
-  <content type="html">
-   Emacs major-mode for the CUE configuration language: https://cuelang.org
-  </content>
- </entry>
- <entry>
-  <title>lagseeing: dotfiles</title>
-  <author>
-   <name>lagseeing</name>
-  </author>
-  <link href="https://github.com/lagseeing/dotfiles" />
-  <id>urn:rprimus:github:lagseeing:dotfiles</id>
-  <published>2022-04-22T18:54:22Z</published>
-  <updated>2022-04-22T18:54:22Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>stackmystack: doom-moonfly-theme</title>
-  <author>
-   <name>stackmystack</name>
-  </author>
-  <link href="https://github.com/stackmystack/doom-moonfly-theme" />
-  <id>urn:rprimus:github:stackmystack:doom-moonfly-theme</id>
-  <published>2022-04-22T16:00:11Z</published>
-  <updated>2022-04-22T16:00:11Z</updated>
-  <content type="html">
-   vim-moonfly theme port to doom emacs
-  </content>
- </entry>
- <entry>
-  <title>max397574: doom.d</title>
-  <author>
-   <name>max397574</name>
-  </author>
-  <link href="https://github.com/max397574/doom.d" />
-  <id>urn:rprimus:github:max397574:doom.d</id>
-  <published>2022-04-22T15:20:25Z</published>
-  <updated>2022-04-22T15:20:25Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>samwindels: GTD</title>
-  <author>
-   <name>samwindels</name>
-  </author>
-  <link href="https://github.com/samwindels/GTD" />
-  <id>urn:rprimus:github:samwindels:GTD</id>
-  <published>2022-04-22T13:33:24Z</published>
-  <updated>2022-04-22T13:33:24Z</updated>
-  <content type="html">
-   Fork of Nicolas Rougier implementation of Getting Things Done (https://github.com/rougier/emacs-GTD)
-  </content>
- </entry>
- <entry>
-  <title>eijiyoshida1912: emacs</title>
-  <author>
-   <name>eijiyoshida1912</name>
-  </author>
-  <link href="https://github.com/eijiyoshida1912/emacs" />
-  <id>urn:rprimus:github:eijiyoshida1912:emacs</id>
-  <published>2022-04-22T13:28:28Z</published>
-  <updated>2022-04-22T13:28:28Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>hssainemahdi: dotemacs</title>
-  <author>
-   <name>hssainemahdi</name>
-  </author>
-  <link href="https://github.com/hssainemahdi/dotemacs" />
-  <id>urn:rprimus:github:hssainemahdi:dotemacs</id>
-  <published>2022-04-22T13:23:26Z</published>
-  <updated>2022-04-22T13:23:26Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>rcj: consult-ls-git</title>
-  <author>
-   <name>rcj</name>
-  </author>
-  <link href="https://github.com/rcj/consult-ls-git" />
-  <id>urn:rprimus:github:rcj:consult-ls-git</id>
-  <published>2022-04-22T08:44:07Z</published>
-  <updated>2022-04-22T08:44:07Z</updated>
-  <content type="html">
-   Consult extension for git
-  </content>
- </entry>
- <entry>
-  <title>yungcheeze: dotemacs</title>
-  <author>
-   <name>yungcheeze</name>
-  </author>
-  <link href="https://github.com/yungcheeze/dotemacs" />
-  <id>urn:rprimus:github:yungcheeze:dotemacs</id>
-  <published>2022-04-22T08:01:40Z</published>
-  <updated>2022-04-22T08:01:40Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>nyannmaru: exev-mode</title>
-  <author>
-   <name>nyannmaru</name>
-  </author>
-  <link href="https://github.com/nyannmaru/exev-mode" />
-  <id>urn:rprimus:github:nyannmaru:exev-mode</id>
-  <published>2022-04-22T07:39:05Z</published>
-  <updated>2022-04-22T07:39:05Z</updated>
-  <content type="html">
-   EXpand EVerything
-  </content>
- </entry>
- <entry>
-  <title>ROCKTAKEY: dotfiles</title>
-  <author>
-   <name>ROCKTAKEY</name>
-  </author>
-  <link href="https://github.com/ROCKTAKEY/dotfiles" />
-  <id>urn:rprimus:github:ROCKTAKEY:dotfiles</id>
-  <published>2022-04-22T06:41:31Z</published>
-  <updated>2022-04-22T06:41:31Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ravenkiller1709: .dots</title>
-  <author>
-   <name>ravenkiller1709</name>
-  </author>
-  <link href="https://github.com/ravenkiller1709/.dots" />
-  <id>urn:rprimus:github:ravenkiller1709:.dots</id>
-  <published>2022-04-22T05:42:51Z</published>
-  <updated>2022-04-22T05:42:51Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>edersohe: dotfiles</title>
-  <author>
-   <name>edersohe</name>
-  </author>
-  <link href="https://github.com/edersohe/dotfiles" />
-  <id>urn:rprimus:github:edersohe:dotfiles</id>
-  <published>2022-04-22T04:27:23Z</published>
-  <updated>2022-04-22T04:27:23Z</updated>
-  <content type="html">
-   dotfiles organized with stow
-  </content>
- </entry>
- <entry>
-  <title>demixire: emma</title>
-  <author>
-   <name>demixire</name>
-  </author>
-  <link href="https://github.com/demixire/emma" />
-  <id>urn:rprimus:github:demixire:emma</id>
-  <published>2022-04-22T02:55:48Z</published>
-  <updated>2022-04-22T02:55:48Z</updated>
-  <content type="html">
-   My Emacs Config
-  </content>
- </entry>
- <entry>
-  <title>hpfr: nov.el</title>
-  <author>
-   <name>hpfr</name>
-  </author>
-  <link href="https://github.com/hpfr/nov.el" />
-  <id>urn:rprimus:github:hpfr:nov.el</id>
-  <published>2022-04-22T02:54:24Z</published>
-  <updated>2022-04-22T02:54:24Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ZacheryPD: Emacs-From-Scratch</title>
-  <author>
-   <name>ZacheryPD</name>
-  </author>
-  <link href="https://github.com/ZacheryPD/Emacs-From-Scratch" />
-  <id>urn:rprimus:github:ZacheryPD:Emacs-From-Scratch</id>
-  <published>2022-04-22T01:35:03Z</published>
-  <updated>2022-04-22T01:35:03Z</updated>
-  <content type="html">
-   My personal emacs config that I&#039;ve been slowly rolling from scratch
-  </content>
- </entry>
- <entry>
-  <title>emacs-straight: tmr</title>
-  <author>
-   <name>emacs-straight</name>
-  </author>
-  <link href="https://github.com/emacs-straight/tmr" />
-  <id>urn:rprimus:github:emacs-straight:tmr</id>
-  <published>2022-04-22T00:10:09Z</published>
-  <updated>2022-04-22T00:10:09Z</updated>
-  <content type="html">
-   Mirror of the tmr package from GNU ELPA, current as of 2022-04-24
-  </content>
- </entry>
- <entry>
-  <title>emacs-straight: cursory</title>
-  <author>
-   <name>emacs-straight</name>
-  </author>
-  <link href="https://github.com/emacs-straight/cursory" />
-  <id>urn:rprimus:github:emacs-straight:cursory</id>
-  <published>2022-04-22T00:08:35Z</published>
-  <updated>2022-04-22T00:08:35Z</updated>
-  <content type="html">
-   Mirror of the cursory package from GNU ELPA, current as of 2022-04-24
   </content>
  </entry>
 </feed>

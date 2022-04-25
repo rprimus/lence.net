@@ -2,8 +2,125 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-04-24T08:50:51Z</updated>
+<updated>2022-04-24T20:41:19Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>erjoalgo: cl-voipms</title>
+  <author>
+   <name>erjoalgo</name>
+  </author>
+  <link href="https://github.com/erjoalgo/cl-voipms" />
+  <id>urn:rprimus:github:erjoalgo:cl-voipms</id>
+  <published>2022-04-24T20:41:19Z</published>
+  <updated>2022-04-24T20:41:19Z</updated>
+  <content type="html">
+   Common Lisp HTTP api client to the voip.ms api.
+  </content>
+ </entry>
+ <entry>
+  <title>erjoalgo: statusor</title>
+  <author>
+   <name>erjoalgo</name>
+  </author>
+  <link href="https://github.com/erjoalgo/statusor" />
+  <id>urn:rprimus:github:erjoalgo:statusor</id>
+  <published>2022-04-24T19:53:41Z</published>
+  <updated>2022-04-24T19:53:41Z</updated>
+  <content type="html">
+   A library for graceful handling of errors in common lisp inspired by absl::StatusOr&lt;T&gt;
+  </content>
+ </entry>
+ <entry>
+  <title>CirrusClouds: futile</title>
+  <author>
+   <name>CirrusClouds</name>
+  </author>
+  <link href="https://github.com/CirrusClouds/futile" />
+  <id>urn:rprimus:github:CirrusClouds:futile</id>
+  <published>2022-04-24T15:15:31Z</published>
+  <updated>2022-04-24T15:15:31Z</updated>
+  <content type="html">
+   Resistance is futile! An opinionated functional utilities library for Common Lisp - powered by FSet
+  </content>
+ </entry>
+ <entry>
+  <title>dumeriz: zenon-az-bot</title>
+  <author>
+   <name>dumeriz</name>
+  </author>
+  <link href="https://github.com/dumeriz/zenon-az-bot" />
+  <id>urn:rprimus:github:dumeriz:zenon-az-bot</id>
+  <published>2022-04-24T14:03:16Z</published>
+  <updated>2022-04-24T14:03:16Z</updated>
+  <content type="html">
+   Tool that publishes updates to zenon accelerator-z projects.
+  </content>
+ </entry>
+ <entry>
+  <title>wrjh201: hashi</title>
+  <author>
+   <name>wrjh201</name>
+  </author>
+  <link href="https://github.com/wrjh201/hashi" />
+  <id>urn:rprimus:github:wrjh201:hashi</id>
+  <published>2022-04-24T13:57:39Z</published>
+  <updated>2022-04-24T13:57:39Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>zch233: lisp-demo1</title>
+  <author>
+   <name>zch233</name>
+  </author>
+  <link href="https://github.com/zch233/lisp-demo1" />
+  <id>urn:rprimus:github:zch233:lisp-demo1</id>
+  <published>2022-04-24T13:26:34Z</published>
+  <updated>2022-04-24T13:26:34Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>senpay: land_of_lisp</title>
+  <author>
+   <name>senpay</name>
+  </author>
+  <link href="https://github.com/senpay/land_of_lisp" />
+  <id>urn:rprimus:github:senpay:land_of_lisp</id>
+  <published>2022-04-24T12:01:53Z</published>
+  <updated>2022-04-24T12:01:53Z</updated>
+  <content type="html">
+   repository for my lisp learning
+  </content>
+ </entry>
+ <entry>
+  <title>CirrusClouds: cl-chess</title>
+  <author>
+   <name>CirrusClouds</name>
+  </author>
+  <link href="https://github.com/CirrusClouds/cl-chess" />
+  <id>urn:rprimus:github:CirrusClouds:cl-chess</id>
+  <published>2022-04-24T11:59:45Z</published>
+  <updated>2022-04-24T11:59:45Z</updated>
+  <content type="html">
+   A (slightly buggy) Chess game written in CL utilising CLOS and bitboard arithmetic as well as optimised sliding attack algorithms. Pre-discovering fset so instead uses association lists for board history
+  </content>
+ </entry>
+ <entry>
+  <title>Mashashi: sokoban-solver</title>
+  <author>
+   <name>Mashashi</name>
+  </author>
+  <link href="https://github.com/Mashashi/sokoban-solver" />
+  <id>urn:rprimus:github:Mashashi:sokoban-solver</id>
+  <published>2022-04-24T11:30:28Z</published>
+  <updated>2022-04-24T11:30:28Z</updated>
+  <content type="html">
+   A project to solve sokoban puzzles in lisp done way back in 2014 by me
+  </content>
+ </entry>
  <entry>
   <title>paulhfischer: AutoCAD</title>
   <author>
@@ -158,84 +275,6 @@
   <updated>2022-04-23T02:57:39Z</updated>
   <content type="html">
    util functions of common lisp
-  </content>
- </entry>
- <entry>
-  <title>gandolh: Random_lisp</title>
-  <author>
-   <name>gandolh</name>
-  </author>
-  <link href="https://github.com/gandolh/Random_lisp" />
-  <id>urn:rprimus:github:gandolh:Random_lisp</id>
-  <published>2022-04-22T19:35:41Z</published>
-  <updated>2022-04-22T19:35:41Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>dumeriz: cl-zenon</title>
-  <author>
-   <name>dumeriz</name>
-  </author>
-  <link href="https://github.com/dumeriz/cl-zenon" />
-  <id>urn:rprimus:github:dumeriz:cl-zenon</id>
-  <published>2022-04-22T19:21:42Z</published>
-  <updated>2022-04-22T19:21:42Z</updated>
-  <content type="html">
-   Common Lisp Zenon SDK
-  </content>
- </entry>
- <entry>
-  <title>Mr-Dispatch: w32api</title>
-  <author>
-   <name>Mr-Dispatch</name>
-  </author>
-  <link href="https://github.com/Mr-Dispatch/w32api" />
-  <id>urn:rprimus:github:Mr-Dispatch:w32api</id>
-  <published>2022-04-22T18:16:08Z</published>
-  <updated>2022-04-22T18:16:08Z</updated>
-  <content type="html">
-   Common Lisp Win32API / WinRT bindings (generated from Windows Metadata, hopefully complete)
-  </content>
- </entry>
- <entry>
-  <title>thrig: cl-termsize</title>
-  <author>
-   <name>thrig</name>
-  </author>
-  <link href="https://github.com/thrig/cl-termsize" />
-  <id>urn:rprimus:github:thrig:cl-termsize</id>
-  <published>2022-04-22T14:18:56Z</published>
-  <updated>2022-04-22T14:18:56Z</updated>
-  <content type="html">
-   try to obtain the terminal size via ioctl(2)
-  </content>
- </entry>
- <entry>
-  <title>sirherrbatka: vellum-plain-odbc</title>
-  <author>
-   <name>sirherrbatka</name>
-  </author>
-  <link href="https://github.com/sirherrbatka/vellum-plain-odbc" />
-  <id>urn:rprimus:github:sirherrbatka:vellum-plain-odbc</id>
-  <published>2022-04-22T12:48:50Z</published>
-  <updated>2022-04-22T12:48:50Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>mfiano: red-black-tree</title>
-  <author>
-   <name>mfiano</name>
-  </author>
-  <link href="https://github.com/mfiano/red-black-tree" />
-  <id>urn:rprimus:github:mfiano:red-black-tree</id>
-  <published>2022-04-22T05:29:29Z</published>
-  <updated>2022-04-22T05:29:29Z</updated>
-  <content type="html">
-   An implementation of the red-black tree data structure.
   </content>
  </entry>
 </feed>
