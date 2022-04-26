@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-04-24T20:41:19Z</updated>
+<updated>2022-04-26T05:10:57Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>Gavinok: cl-site-gen</title>
+  <author>
+   <name>Gavinok</name>
+  </author>
+  <link href="https://github.com/Gavinok/cl-site-gen" />
+  <id>urn:rprimus:github:Gavinok:cl-site-gen</id>
+  <published>2022-04-26T05:10:57Z</published>
+  <updated>2022-04-26T05:10:57Z</updated>
+  <content type="html">
+   Finally You Can Write Your Next Blog In Lisp!
+  </content>
+ </entry>
+ <entry>
+  <title>Garenium: CommonLispGentleIntro_MyCode</title>
+  <author>
+   <name>Garenium</name>
+  </author>
+  <link href="https://github.com/Garenium/CommonLispGentleIntro_MyCode" />
+  <id>urn:rprimus:github:Garenium:CommonLispGentleIntro_MyCode</id>
+  <published>2022-04-26T03:53:39Z</published>
+  <updated>2022-04-26T03:53:39Z</updated>
+  <content type="html">
+   My codes/solutions for Common LISP: A Gentle Introduction to Symbolic Computation
+  </content>
+ </entry>
+ <entry>
+  <title>hxzrx: mcas</title>
+  <author>
+   <name>hxzrx</name>
+  </author>
+  <link href="https://github.com/hxzrx/mcas" />
+  <id>urn:rprimus:github:hxzrx:mcas</id>
+  <published>2022-04-26T02:19:22Z</published>
+  <updated>2022-04-26T02:19:22Z</updated>
+  <content type="html">
+   Multiple CAS on CAR/CDR of ref-cells. An N-way MCAS, without contention, needs only N+1 CAS instructions.
+  </content>
+ </entry>
+ <entry>
+  <title>MasterCsquare: fundamental-study</title>
+  <author>
+   <name>MasterCsquare</name>
+  </author>
+  <link href="https://github.com/MasterCsquare/fundamental-study" />
+  <id>urn:rprimus:github:MasterCsquare:fundamental-study</id>
+  <published>2022-04-26T00:18:27Z</published>
+  <updated>2022-04-26T00:18:27Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>nklein: sudoku-diagram</title>
+  <author>
+   <name>nklein</name>
+  </author>
+  <link href="https://github.com/nklein/sudoku-diagram" />
+  <id>urn:rprimus:github:nklein:sudoku-diagram</id>
+  <published>2022-04-25T19:46:36Z</published>
+  <updated>2022-04-25T19:46:36Z</updated>
+  <content type="html">
+   Code for declaring a sudoku diagram and exporting it in various formats
+  </content>
+ </entry>
+ <entry>
+  <title>Panther-14: Paradigmas-de-Programacion</title>
+  <author>
+   <name>Panther-14</name>
+  </author>
+  <link href="https://github.com/Panther-14/Paradigmas-de-Programacion" />
+  <id>urn:rprimus:github:Panther-14:Paradigmas-de-Programacion</id>
+  <published>2022-04-25T14:59:32Z</published>
+  <updated>2022-04-25T14:59:32Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>erjoalgo: cl-voipms</title>
   <author>
@@ -171,110 +249,6 @@
   <updated>2022-04-24T01:41:04Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>thomashoullier: bamboo-trim</title>
-  <author>
-   <name>thomashoullier</name>
-  </author>
-  <link href="https://github.com/thomashoullier/bamboo-trim" />
-  <id>urn:rprimus:github:thomashoullier:bamboo-trim</id>
-  <published>2022-04-23T13:02:57Z</published>
-  <updated>2022-04-23T13:02:57Z</updated>
-  <content type="html">
-   Bamboo Garden Trimming Problem algorithms and illustrations.
-  </content>
- </entry>
- <entry>
-  <title>wrjh201: wordlebot</title>
-  <author>
-   <name>wrjh201</name>
-  </author>
-  <link href="https://github.com/wrjh201/wordlebot" />
-  <id>urn:rprimus:github:wrjh201:wordlebot</id>
-  <published>2022-04-23T09:15:49Z</published>
-  <updated>2022-04-23T09:15:49Z</updated>
-  <content type="html">
-   Wordle Solver written in Common-Lisp.
-  </content>
- </entry>
- <entry>
-  <title>pyramidi0n: webform-validate</title>
-  <author>
-   <name>pyramidi0n</name>
-  </author>
-  <link href="https://github.com/pyramidi0n/webform-validate" />
-  <id>urn:rprimus:github:pyramidi0n:webform-validate</id>
-  <published>2022-04-23T03:49:00Z</published>
-  <updated>2022-04-23T03:49:00Z</updated>
-  <content type="html">
-   A validation library for web form input.
-  </content>
- </entry>
- <entry>
-  <title>pyramidi0n: email-parse</title>
-  <author>
-   <name>pyramidi0n</name>
-  </author>
-  <link href="https://github.com/pyramidi0n/email-parse" />
-  <id>urn:rprimus:github:pyramidi0n:email-parse</id>
-  <published>2022-04-23T03:43:01Z</published>
-  <updated>2022-04-23T03:43:01Z</updated>
-  <content type="html">
-   A fast, RFC-compliant email address validator and parser.
-  </content>
- </entry>
- <entry>
-  <title>pyramidi0n: uri-parse</title>
-  <author>
-   <name>pyramidi0n</name>
-  </author>
-  <link href="https://github.com/pyramidi0n/uri-parse" />
-  <id>urn:rprimus:github:pyramidi0n:uri-parse</id>
-  <published>2022-04-23T03:18:04Z</published>
-  <updated>2022-04-23T03:18:04Z</updated>
-  <content type="html">
-   A fast, RFC-compliant URI validator and parser.
-  </content>
- </entry>
- <entry>
-  <title>pyramidi0n: abnf-match</title>
-  <author>
-   <name>pyramidi0n</name>
-  </author>
-  <link href="https://github.com/pyramidi0n/abnf-match" />
-  <id>urn:rprimus:github:pyramidi0n:abnf-match</id>
-  <published>2022-04-23T03:17:37Z</published>
-  <updated>2022-04-23T03:17:37Z</updated>
-  <content type="html">
-   A DSL for writing parsers of grammars expressed in IETF ABNF.
-  </content>
- </entry>
- <entry>
-  <title>pyramidi0n: trivial-us-ascii</title>
-  <author>
-   <name>pyramidi0n</name>
-  </author>
-  <link href="https://github.com/pyramidi0n/trivial-us-ascii" />
-  <id>urn:rprimus:github:pyramidi0n:trivial-us-ascii</id>
-  <published>2022-04-23T03:11:31Z</published>
-  <updated>2022-04-23T03:11:31Z</updated>
-  <content type="html">
-   A library for portable US-ASCII encoding and decoding.
-  </content>
- </entry>
- <entry>
-  <title>mox692: common_lisp_utils</title>
-  <author>
-   <name>mox692</name>
-  </author>
-  <link href="https://github.com/mox692/common_lisp_utils" />
-  <id>urn:rprimus:github:mox692:common_lisp_utils</id>
-  <published>2022-04-23T02:57:39Z</published>
-  <updated>2022-04-23T02:57:39Z</updated>
-  <content type="html">
-   util functions of common lisp
   </content>
  </entry>
 </feed>
