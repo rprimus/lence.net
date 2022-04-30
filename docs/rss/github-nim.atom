@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2022-04-30T03:48:22Z</updated>
+<updated>2022-04-30T06:03:29Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>0rn: bitstreams</title>
+  <author>
+   <name>0rn</name>
+  </author>
+  <link href="https://github.com/0rn/bitstreams" />
+  <id>urn:rprimus:github:0rn:bitstreams</id>
+  <published>2022-04-30T06:03:29Z</published>
+  <updated>2022-04-30T06:03:29Z</updated>
+  <content type="html">
+   a wrapper around nim&#039;s streams library for reading and writing individial bits
+  </content>
+ </entry>
  <entry>
   <title>MASTRIO: The-Legend-of-Terraria</title>
   <author>
@@ -27,7 +40,7 @@
   <published>2022-04-30T03:46:00Z</published>
   <updated>2022-04-30T03:46:00Z</updated>
   <content type="html">
-   
+   Nimble Package for handling OpenGL statelessly
   </content>
  </entry>
  <entry>
