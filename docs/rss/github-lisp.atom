@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-04-29T04:44:37Z</updated>
+<updated>2022-04-30T02:14:42Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>mox692: ros_example</title>
+  <author>
+   <name>mox692</name>
+  </author>
+  <link href="https://github.com/mox692/ros_example" />
+  <id>urn:rprimus:github:mox692:ros_example</id>
+  <published>2022-04-30T02:14:42Z</published>
+  <updated>2022-04-30T02:14:42Z</updated>
+  <content type="html">
+   An example code of package management in Common Lisp, using Roswell
+  </content>
+ </entry>
+ <entry>
+  <title>fstamour: disjoint-sets</title>
+  <author>
+   <name>fstamour</name>
+  </author>
+  <link href="https://github.com/fstamour/disjoint-sets" />
+  <id>urn:rprimus:github:fstamour:disjoint-sets</id>
+  <published>2022-04-30T01:06:54Z</published>
+  <updated>2022-04-30T01:06:54Z</updated>
+  <content type="html">
+   An implementation of the disjoint sets data structure (union-find algorithm) in common lisp.
+  </content>
+ </entry>
+ <entry>
+  <title>mlegls: breakcore-stack</title>
+  <author>
+   <name>mlegls</name>
+  </author>
+  <link href="https://github.com/mlegls/breakcore-stack" />
+  <id>urn:rprimus:github:mlegls:breakcore-stack</id>
+  <published>2022-04-29T20:43:26Z</published>
+  <updated>2022-04-29T20:43:26Z</updated>
+  <content type="html">
+   Common Lisp (Parenscript and CL-WHO) compiling to ES5 JSX, built by Remix.
+  </content>
+ </entry>
+ <entry>
+  <title>HenryS1: pears</title>
+  <author>
+   <name>HenryS1</name>
+  </author>
+  <link href="https://github.com/HenryS1/pears" />
+  <id>urn:rprimus:github:HenryS1:pears</id>
+  <published>2022-04-29T16:08:40Z</published>
+  <updated>2022-04-29T16:08:40Z</updated>
+  <content type="html">
+   A monadic parsing library for Common Lisp
+  </content>
+ </entry>
  <entry>
   <title>shamazmazum: nibbles-streams</title>
   <author>
@@ -93,71 +145,6 @@
   <updated>2022-04-28T05:19:18Z</updated>
   <content type="html">
    This program was created to calculate the UCI Credit Approval dataset using KNN. The purpose of this program is for learning purposes only. I only use the following features: A2, A3 and A16.
-  </content>
- </entry>
- <entry>
-  <title>offkevyn: crud-em-lisp</title>
-  <author>
-   <name>offkevyn</name>
-  </author>
-  <link href="https://github.com/offkevyn/crud-em-lisp" />
-  <id>urn:rprimus:github:offkevyn:crud-em-lisp</id>
-  <published>2022-04-27T19:55:09Z</published>
-  <updated>2022-04-27T19:55:09Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>wobh: org.wobh.common-lisp.tools.orders</title>
-  <author>
-   <name>wobh</name>
-  </author>
-  <link href="https://github.com/wobh/org.wobh.common-lisp.tools.orders" />
-  <id>urn:rprimus:github:wobh:org.wobh.common-lisp.tools.orders</id>
-  <published>2022-04-27T15:34:29Z</published>
-  <updated>2022-04-27T15:34:29Z</updated>
-  <content type="html">
-   Common lisp tools for permutations
-  </content>
- </entry>
- <entry>
-  <title>wobh: org.wobh.common-lisp.tools.throws</title>
-  <author>
-   <name>wobh</name>
-  </author>
-  <link href="https://github.com/wobh/org.wobh.common-lisp.tools.throws" />
-  <id>urn:rprimus:github:wobh:org.wobh.common-lisp.tools.throws</id>
-  <published>2022-04-27T13:38:03Z</published>
-  <updated>2022-04-27T13:38:03Z</updated>
-  <content type="html">
-   Common lisp package of iteratives
-  </content>
- </entry>
- <entry>
-  <title>populous: ZWLisp</title>
-  <author>
-   <name>populous</name>
-  </author>
-  <link href="https://github.com/populous/ZWLisp" />
-  <id>urn:rprimus:github:populous:ZWLisp</id>
-  <published>2022-04-27T05:13:27Z</published>
-  <updated>2022-04-27T05:13:27Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>populous: Lisp-for-Autocad</title>
-  <author>
-   <name>populous</name>
-  </author>
-  <link href="https://github.com/populous/Lisp-for-Autocad" />
-  <id>urn:rprimus:github:populous:Lisp-for-Autocad</id>
-  <published>2022-04-27T05:11:40Z</published>
-  <updated>2022-04-27T05:11:40Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
