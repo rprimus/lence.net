@@ -2,8 +2,138 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2022-04-30T08:55:12Z</updated>
+<updated>2022-04-30T21:37:01Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>shombando: ntfy</title>
+  <author>
+   <name>shombando</name>
+  </author>
+  <link href="https://github.com/shombando/ntfy" />
+  <id>urn:rprimus:github:shombando:ntfy</id>
+  <published>2022-04-30T21:37:01Z</published>
+  <updated>2022-04-30T21:37:01Z</updated>
+  <content type="html">
+   Publish notifications using ntfy.sh from Emacs
+  </content>
+ </entry>
+ <entry>
+  <title>crzjp: dotfiles</title>
+  <author>
+   <name>crzjp</name>
+  </author>
+  <link href="https://github.com/crzjp/dotfiles" />
+  <id>urn:rprimus:github:crzjp:dotfiles</id>
+  <published>2022-04-30T19:38:51Z</published>
+  <updated>2022-04-30T19:38:51Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>acebuill: .emacs.d</title>
+  <author>
+   <name>acebuill</name>
+  </author>
+  <link href="https://github.com/acebuill/.emacs.d" />
+  <id>urn:rprimus:github:acebuill:.emacs.d</id>
+  <published>2022-04-30T17:02:40Z</published>
+  <updated>2022-04-30T17:02:40Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>I-am-a-squirrel: my_emacs_d</title>
+  <author>
+   <name>I-am-a-squirrel</name>
+  </author>
+  <link href="https://github.com/I-am-a-squirrel/my_emacs_d" />
+  <id>urn:rprimus:github:I-am-a-squirrel:my_emacs_d</id>
+  <published>2022-04-30T16:11:36Z</published>
+  <updated>2022-04-30T16:11:36Z</updated>
+  <content type="html">
+   My emacs customisation
+  </content>
+ </entry>
+ <entry>
+  <title>KarimAziev: ivy-yarn</title>
+  <author>
+   <name>KarimAziev</name>
+  </author>
+  <link href="https://github.com/KarimAziev/ivy-yarn" />
+  <id>urn:rprimus:github:KarimAziev:ivy-yarn</id>
+  <published>2022-04-30T13:46:54Z</published>
+  <updated>2022-04-30T13:46:54Z</updated>
+  <content type="html">
+   Run yarn commands with ivy completions
+  </content>
+ </entry>
+ <entry>
+  <title>Arvinwijsman: dotfiles</title>
+  <author>
+   <name>Arvinwijsman</name>
+  </author>
+  <link href="https://github.com/Arvinwijsman/dotfiles" />
+  <id>urn:rprimus:github:Arvinwijsman:dotfiles</id>
+  <published>2022-04-30T13:27:23Z</published>
+  <updated>2022-04-30T13:27:23Z</updated>
+  <content type="html">
+   Some flavoring
+  </content>
+ </entry>
+ <entry>
+  <title>varoun: dotfiles</title>
+  <author>
+   <name>varoun</name>
+  </author>
+  <link href="https://github.com/varoun/dotfiles" />
+  <id>urn:rprimus:github:varoun:dotfiles</id>
+  <published>2022-04-30T12:48:57Z</published>
+  <updated>2022-04-30T12:48:57Z</updated>
+  <content type="html">
+   Config for various software bits.
+  </content>
+ </entry>
+ <entry>
+  <title>lsteehouwer: emacs.d</title>
+  <author>
+   <name>lsteehouwer</name>
+  </author>
+  <link href="https://github.com/lsteehouwer/emacs.d" />
+  <id>urn:rprimus:github:lsteehouwer:emacs.d</id>
+  <published>2022-04-30T11:34:52Z</published>
+  <updated>2022-04-30T11:34:52Z</updated>
+  <content type="html">
+   Personal emacs config
+  </content>
+ </entry>
+ <entry>
+  <title>KarimAziev: long-line</title>
+  <author>
+   <name>KarimAziev</name>
+  </author>
+  <link href="https://github.com/KarimAziev/long-line" />
+  <id>urn:rprimus:github:KarimAziev:long-line</id>
+  <published>2022-04-30T11:29:38Z</published>
+  <updated>2022-04-30T11:29:38Z</updated>
+  <content type="html">
+   Show or hide fill collumn indicator.
+  </content>
+ </entry>
+ <entry>
+  <title>rocketsoba: dotfiles</title>
+  <author>
+   <name>rocketsoba</name>
+  </author>
+  <link href="https://github.com/rocketsoba/dotfiles" />
+  <id>urn:rprimus:github:rocketsoba:dotfiles</id>
+  <published>2022-04-30T09:38:32Z</published>
+  <updated>2022-04-30T09:38:32Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>saman3d: emacs_doom_config</title>
   <author>
@@ -339,7 +469,7 @@
   <published>2022-04-29T00:06:13Z</published>
   <updated>2022-04-29T00:06:13Z</updated>
   <content type="html">
-   Mirror of the gtags-mode package from GNU ELPA, current as of 2022-04-30
+   Mirror of the gtags-mode package from GNU ELPA, current as of 2022-05-01
   </content>
  </entry>
  <entry>
@@ -352,267 +482,7 @@
   <published>2022-04-29T00:06:07Z</published>
   <updated>2022-04-29T00:06:07Z</updated>
   <content type="html">
-   Mirror of the fontaine package from GNU ELPA, current as of 2022-04-30
-  </content>
- </entry>
- <entry>
-  <title>YK6G: xklb.el</title>
-  <author>
-   <name>YK6G</name>
-  </author>
-  <link href="https://github.com/YK6G/xklb.el" />
-  <id>urn:rprimus:github:YK6G:xklb.el</id>
-  <published>2022-04-28T23:41:52Z</published>
-  <updated>2022-04-28T23:41:52Z</updated>
-  <content type="html">
-   å¨Emacsä¸­ä½¿ç¨æç©ºä¸¤ç¬åå­è¾å¥æ³
-  </content>
- </entry>
- <entry>
-  <title>bstancham: bs-quickref</title>
-  <author>
-   <name>bstancham</name>
-  </author>
-  <link href="https://github.com/bstancham/bs-quickref" />
-  <id>urn:rprimus:github:bstancham:bs-quickref</id>
-  <published>2022-04-28T22:58:26Z</published>
-  <updated>2022-04-28T22:58:26Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>alfredfo: hare-mode</title>
-  <author>
-   <name>alfredfo</name>
-  </author>
-  <link href="https://github.com/alfredfo/hare-mode" />
-  <id>urn:rprimus:github:alfredfo:hare-mode</id>
-  <published>2022-04-28T21:33:16Z</published>
-  <updated>2022-04-28T21:33:16Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>steve-downey: modus</title>
-  <author>
-   <name>steve-downey</name>
-  </author>
-  <link href="https://github.com/steve-downey/modus" />
-  <id>urn:rprimus:github:steve-downey:modus</id>
-  <published>2022-04-28T20:41:38Z</published>
-  <updated>2022-04-28T20:41:38Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>BlakeASmith: .dotfiles</title>
-  <author>
-   <name>BlakeASmith</name>
-  </author>
-  <link href="https://github.com/BlakeASmith/.dotfiles" />
-  <id>urn:rprimus:github:BlakeASmith:.dotfiles</id>
-  <published>2022-04-28T19:15:00Z</published>
-  <updated>2022-04-28T19:15:00Z</updated>
-  <content type="html">
-   dotfiles
-  </content>
- </entry>
- <entry>
-  <title>Walheimat: wal-line</title>
-  <author>
-   <name>Walheimat</name>
-  </author>
-  <link href="https://github.com/Walheimat/wal-line" />
-  <id>urn:rprimus:github:Walheimat:wal-line</id>
-  <published>2022-04-28T18:20:16Z</published>
-  <updated>2022-04-28T18:20:16Z</updated>
-  <content type="html">
-   My mode line.
-  </content>
- </entry>
- <entry>
-  <title>nowislewis: nowisemacs-base</title>
-  <author>
-   <name>nowislewis</name>
-  </author>
-  <link href="https://github.com/nowislewis/nowisemacs-base" />
-  <id>urn:rprimus:github:nowislewis:nowisemacs-base</id>
-  <published>2022-04-28T16:29:03Z</published>
-  <updated>2022-04-28T16:29:03Z</updated>
-  <content type="html">
-   A convenient public configuration for nowisemacs, resulting in better reusability
-  </content>
- </entry>
- <entry>
-  <title>paalcald: DiAl</title>
-  <author>
-   <name>paalcald</name>
-  </author>
-  <link href="https://github.com/paalcald/DiAl" />
-  <id>urn:rprimus:github:paalcald:DiAl</id>
-  <published>2022-04-28T14:40:51Z</published>
-  <updated>2022-04-28T14:40:51Z</updated>
-  <content type="html">
-   Archivos relacionados con la asignatura de DiseÃ±o de Algoritmos como se imparte en la Universidad Complutense de Madrid el curso 2021-2022.
-  </content>
- </entry>
- <entry>
-  <title>buzztaiki: project-rootfile.el</title>
-  <author>
-   <name>buzztaiki</name>
-  </author>
-  <link href="https://github.com/buzztaiki/project-rootfile.el" />
-  <id>urn:rprimus:github:buzztaiki:project-rootfile.el</id>
-  <published>2022-04-28T14:37:41Z</published>
-  <updated>2022-04-28T14:37:41Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>claykaufmann: dotfiles-linux</title>
-  <author>
-   <name>claykaufmann</name>
-  </author>
-  <link href="https://github.com/claykaufmann/dotfiles-linux" />
-  <id>urn:rprimus:github:claykaufmann:dotfiles-linux</id>
-  <published>2022-04-28T14:03:23Z</published>
-  <updated>2022-04-28T14:03:23Z</updated>
-  <content type="html">
-   My .config for linux - contains most of my dotfiles that are running on linux
-  </content>
- </entry>
- <entry>
-  <title>regadas: sql-trino</title>
-  <author>
-   <name>regadas</name>
-  </author>
-  <link href="https://github.com/regadas/sql-trino" />
-  <id>urn:rprimus:github:regadas:sql-trino</id>
-  <published>2022-04-28T13:45:58Z</published>
-  <updated>2022-04-28T13:45:58Z</updated>
-  <content type="html">
-   Adds Trino support to SQLi mode.
-  </content>
- </entry>
- <entry>
-  <title>manateelazycat: recursive-search-references</title>
-  <author>
-   <name>manateelazycat</name>
-  </author>
-  <link href="https://github.com/manateelazycat/recursive-search-references" />
-  <id>urn:rprimus:github:manateelazycat:recursive-search-references</id>
-  <published>2022-04-28T12:17:05Z</published>
-  <updated>2022-04-28T12:17:05Z</updated>
-  <content type="html">
-   Find function references in directory
-  </content>
- </entry>
- <entry>
-  <title>Kinneyzhang: MyGTD</title>
-  <author>
-   <name>Kinneyzhang</name>
-  </author>
-  <link href="https://github.com/Kinneyzhang/MyGTD" />
-  <id>urn:rprimus:github:Kinneyzhang:MyGTD</id>
-  <published>2022-04-28T10:18:01Z</published>
-  <updated>2022-04-28T10:18:01Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>stipid-code: dotfiles</title>
-  <author>
-   <name>stipid-code</name>
-  </author>
-  <link href="https://github.com/stipid-code/dotfiles" />
-  <id>urn:rprimus:github:stipid-code:dotfiles</id>
-  <published>2022-04-28T09:52:32Z</published>
-  <updated>2022-04-28T09:52:32Z</updated>
-  <content type="html">
-   facilitate compulsive distrohopping through centralized compulsive configuration
-  </content>
- </entry>
- <entry>
-  <title>skydread1: spacemacs-config</title>
-  <author>
-   <name>skydread1</name>
-  </author>
-  <link href="https://github.com/skydread1/spacemacs-config" />
-  <id>urn:rprimus:github:skydread1:spacemacs-config</id>
-  <published>2022-04-28T09:17:49Z</published>
-  <updated>2022-04-28T09:17:49Z</updated>
-  <content type="html">
-   The current spacemacs config I am using
-  </content>
- </entry>
- <entry>
-  <title>hermanhel: org-edit-utils</title>
-  <author>
-   <name>hermanhel</name>
-  </author>
-  <link href="https://github.com/hermanhel/org-edit-utils" />
-  <id>urn:rprimus:github:hermanhel:org-edit-utils</id>
-  <published>2022-04-28T07:58:33Z</published>
-  <updated>2022-04-28T07:58:33Z</updated>
-  <content type="html">
-   some functions written and gathered in complement of org-mode experiance
-  </content>
- </entry>
- <entry>
-  <title>okkwon: env</title>
-  <author>
-   <name>okkwon</name>
-  </author>
-  <link href="https://github.com/okkwon/env" />
-  <id>urn:rprimus:github:okkwon:env</id>
-  <published>2022-04-28T06:35:27Z</published>
-  <updated>2022-04-28T06:35:27Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ashton314: newbie.el</title>
-  <author>
-   <name>ashton314</name>
-  </author>
-  <link href="https://github.com/ashton314/newbie.el" />
-  <id>urn:rprimus:github:ashton314:newbie.el</id>
-  <published>2022-04-28T05:18:09Z</published>
-  <updated>2022-04-28T05:18:09Z</updated>
-  <content type="html">
-   Simple Emacs config meant for new users at the terminal; doesn&#039;t sugar-coat *too* much.
-  </content>
- </entry>
- <entry>
-  <title>atharvashukla: emacs</title>
-  <author>
-   <name>atharvashukla</name>
-  </author>
-  <link href="https://github.com/atharvashukla/emacs" />
-  <id>urn:rprimus:github:atharvashukla:emacs</id>
-  <published>2022-04-28T00:15:01Z</published>
-  <updated>2022-04-28T00:15:01Z</updated>
-  <content type="html">
-   emacs config
-  </content>
- </entry>
- <entry>
-  <title>emacs-straight: sql-cassandra</title>
-  <author>
-   <name>emacs-straight</name>
-  </author>
-  <link href="https://github.com/emacs-straight/sql-cassandra" />
-  <id>urn:rprimus:github:emacs-straight:sql-cassandra</id>
-  <published>2022-04-28T00:10:26Z</published>
-  <updated>2022-04-28T00:10:26Z</updated>
-  <content type="html">
-   Mirror of the sql-cassandra package from GNU ELPA, current as of 2022-04-30
+   Mirror of the fontaine package from GNU ELPA, current as of 2022-05-01
   </content>
  </entry>
 </feed>
