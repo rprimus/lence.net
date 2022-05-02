@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-erlang.atom"/>
 <id>urn:rprimus:github:newerlangrepos</id>
-<updated>2022-05-01T00:50:31Z</updated>
+<updated>2022-05-01T20:20:18Z</updated>
 <title type='text'>New GitHub Erlang Repos</title>
+ <entry>
+  <title>fowlay: ebok</title>
+  <author>
+   <name>fowlay</name>
+  </author>
+  <link href="https://github.com/fowlay/ebok" />
+  <id>urn:rprimus:github:fowlay:ebok</id>
+  <published>2022-05-01T20:20:18Z</published>
+  <updated>2022-05-01T20:20:18Z</updated>
+  <content type="html">
+   Simple accounting helper
+  </content>
+ </entry>
  <entry>
   <title>agilepros: ewallet</title>
   <author>
@@ -67,19 +80,6 @@
   <updated>2022-04-30T00:50:52Z</updated>
   <content type="html">
    Exemplos de CÃ³digos  Erlang para Estudos e Consultas
-  </content>
- </entry>
- <entry>
-  <title>exograd: erl-config</title>
-  <author>
-   <name>exograd</name>
-  </author>
-  <link href="https://github.com/exograd/erl-config" />
-  <id>urn:rprimus:github:exograd:erl-config</id>
-  <published>2022-04-29T08:31:58Z</published>
-  <updated>2022-04-29T08:31:58Z</updated>
-  <content type="html">
-   Configuration file management in Erlang.
   </content>
  </entry>
 </feed>
