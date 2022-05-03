@@ -2,8 +2,112 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-05-02T00:57:44Z</updated>
+<updated>2022-05-03T02:08:38Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>thomp: text-histogram</title>
+  <author>
+   <name>thomp</name>
+  </author>
+  <link href="https://github.com/thomp/text-histogram" />
+  <id>urn:rprimus:github:thomp:text-histogram</id>
+  <published>2022-05-03T02:08:38Z</published>
+  <updated>2022-05-03T02:08:38Z</updated>
+  <content type="html">
+   Generate a text format histogram in Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>tealeg: dot-lem</title>
+  <author>
+   <name>tealeg</name>
+  </author>
+  <link href="https://github.com/tealeg/dot-lem" />
+  <id>urn:rprimus:github:tealeg:dot-lem</id>
+  <published>2022-05-03T01:22:05Z</published>
+  <updated>2022-05-03T01:22:05Z</updated>
+  <content type="html">
+   Lem config
+  </content>
+ </entry>
+ <entry>
+  <title>DrearyLisper: hello-roswell</title>
+  <author>
+   <name>DrearyLisper</name>
+  </author>
+  <link href="https://github.com/DrearyLisper/hello-roswell" />
+  <id>urn:rprimus:github:DrearyLisper:hello-roswell</id>
+  <published>2022-05-02T23:52:17Z</published>
+  <updated>2022-05-02T23:52:17Z</updated>
+  <content type="html">
+   Simple roswell binary
+  </content>
+ </entry>
+ <entry>
+  <title>kronusaturn: lisphp</title>
+  <author>
+   <name>kronusaturn</name>
+  </author>
+  <link href="https://github.com/kronusaturn/lisphp" />
+  <id>urn:rprimus:github:kronusaturn:lisphp</id>
+  <published>2022-05-02T20:59:46Z</published>
+  <updated>2022-05-02T20:59:46Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Ampersand25: Lisp-scripts</title>
+  <author>
+   <name>Ampersand25</name>
+  </author>
+  <link href="https://github.com/Ampersand25/Lisp-scripts" />
+  <id>urn:rprimus:github:Ampersand25:Lisp-scripts</id>
+  <published>2022-05-02T16:49:11Z</published>
+  <updated>2022-05-02T16:49:11Z</updated>
+  <content type="html">
+   Some Common Lisp scripts, written in Sublime Text, that manipulates lists and binary trees to solve particular algorithmic problems.
+  </content>
+ </entry>
+ <entry>
+  <title>Panther-14: Paradigmas-de-Programacion</title>
+  <author>
+   <name>Panther-14</name>
+  </author>
+  <link href="https://github.com/Panther-14/Paradigmas-de-Programacion" />
+  <id>urn:rprimus:github:Panther-14:Paradigmas-de-Programacion</id>
+  <published>2022-05-02T15:26:48Z</published>
+  <updated>2022-05-02T15:26:48Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>qudrnr: AutoLisp-QRNR</title>
+  <author>
+   <name>qudrnr</name>
+  </author>
+  <link href="https://github.com/qudrnr/AutoLisp-QRNR" />
+  <id>urn:rprimus:github:qudrnr:AutoLisp-QRNR</id>
+  <published>2022-05-02T14:42:30Z</published>
+  <updated>2022-05-02T14:42:30Z</updated>
+  <content type="html">
+   QRNR Function Libray
+  </content>
+ </entry>
+ <entry>
+  <title>yoshida2koji: xclhb-samples</title>
+  <author>
+   <name>yoshida2koji</name>
+  </author>
+  <link href="https://github.com/yoshida2koji/xclhb-samples" />
+  <id>urn:rprimus:github:yoshida2koji:xclhb-samples</id>
+  <published>2022-05-02T10:08:58Z</published>
+  <updated>2022-05-02T10:08:58Z</updated>
+  <content type="html">
+   xclhb samples
+  </content>
+ </entry>
  <entry>
   <title>BoreasLog: dotfiles</title>
   <author>
@@ -119,71 +223,6 @@
   <updated>2022-05-01T12:06:55Z</updated>
   <content type="html">
    LIsp Isometric Game
-  </content>
- </entry>
- <entry>
-  <title>manykwh: nutrition-facts</title>
-  <author>
-   <name>manykwh</name>
-  </author>
-  <link href="https://github.com/manykwh/nutrition-facts" />
-  <id>urn:rprimus:github:manykwh:nutrition-facts</id>
-  <published>2022-04-30T19:42:36Z</published>
-  <updated>2022-04-30T19:42:36Z</updated>
-  <content type="html">
-   Get an idea of my diet!
-  </content>
- </entry>
- <entry>
-  <title>aymanosman: cl-raylib</title>
-  <author>
-   <name>aymanosman</name>
-  </author>
-  <link href="https://github.com/aymanosman/cl-raylib" />
-  <id>urn:rprimus:github:aymanosman:cl-raylib</id>
-  <published>2022-04-30T11:49:53Z</published>
-  <updated>2022-04-30T11:49:53Z</updated>
-  <content type="html">
-   (WIP) Bindings to raylib
-  </content>
- </entry>
- <entry>
-  <title>agentlans: markdown-tables</title>
-  <author>
-   <name>agentlans</name>
-  </author>
-  <link href="https://github.com/agentlans/markdown-tables" />
-  <id>urn:rprimus:github:agentlans:markdown-tables</id>
-  <published>2022-04-30T04:18:53Z</published>
-  <updated>2022-04-30T04:18:53Z</updated>
-  <content type="html">
-   Generates Markdown tables from Lisp objects
-  </content>
- </entry>
- <entry>
-  <title>mox692: ros_example</title>
-  <author>
-   <name>mox692</name>
-  </author>
-  <link href="https://github.com/mox692/ros_example" />
-  <id>urn:rprimus:github:mox692:ros_example</id>
-  <published>2022-04-30T02:14:42Z</published>
-  <updated>2022-04-30T02:14:42Z</updated>
-  <content type="html">
-   An example code of package management in Common Lisp, using Roswell
-  </content>
- </entry>
- <entry>
-  <title>fstamour: disjoint-sets</title>
-  <author>
-   <name>fstamour</name>
-  </author>
-  <link href="https://github.com/fstamour/disjoint-sets" />
-  <id>urn:rprimus:github:fstamour:disjoint-sets</id>
-  <published>2022-04-30T01:06:54Z</published>
-  <updated>2022-04-30T01:06:54Z</updated>
-  <content type="html">
-   An implementation of the disjoint sets data structure (union-find algorithm) in common lisp.
   </content>
  </entry>
 </feed>
