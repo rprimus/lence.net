@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2022-05-03T07:44:37Z</updated>
+<updated>2022-05-03T21:32:28Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>GeopJr: crutter</title>
+  <author>
+   <name>GeopJr</name>
+  </author>
+  <link href="https://github.com/GeopJr/crutter" />
+  <id>urn:rprimus:github:GeopJr:crutter</id>
+  <published>2022-05-03T21:32:28Z</published>
+  <updated>2022-05-03T21:32:28Z</updated>
+  <content type="html">
+   Create Flutter Widgets from Crystal
+  </content>
+ </entry>
  <entry>
   <title>place-labs: webex</title>
   <author>
@@ -67,19 +80,6 @@
   <updated>2022-05-02T04:34:41Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>himbolion: yiff.cr</title>
-  <author>
-   <name>himbolion</name>
-  </author>
-  <link href="https://github.com/himbolion/yiff.cr" />
-  <id>urn:rprimus:github:himbolion:yiff.cr</id>
-  <published>2022-05-01T08:42:49Z</published>
-  <updated>2022-05-01T08:42:49Z</updated>
-  <content type="html">
-   Rewrite of npm.im/yiff in Crystal
   </content>
  </entry>
 </feed>
