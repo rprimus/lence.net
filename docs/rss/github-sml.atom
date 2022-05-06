@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-sml.atom"/>
 <id>urn:rprimus:github:newsmlrepos</id>
-<updated>2022-05-04T18:00:06Z</updated>
+<updated>2022-05-06T04:45:34Z</updated>
 <title type='text'>New GitHub Sml Repos</title>
+ <entry>
+  <title>roshanbara: Basic-Decimal-Integer-Machine</title>
+  <author>
+   <name>roshanbara</name>
+  </author>
+  <link href="https://github.com/roshanbara/Basic-Decimal-Integer-Machine" />
+  <id>urn:rprimus:github:roshanbara:Basic-Decimal-Integer-Machine</id>
+  <published>2022-05-06T04:45:34Z</published>
+  <updated>2022-05-06T04:45:34Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>roshanbara: VMC-machine-for-WHILE</title>
+  <author>
+   <name>roshanbara</name>
+  </author>
+  <link href="https://github.com/roshanbara/VMC-machine-for-WHILE" />
+  <id>urn:rprimus:github:roshanbara:VMC-machine-for-WHILE</id>
+  <published>2022-05-06T04:35:47Z</published>
+  <updated>2022-05-06T04:35:47Z</updated>
+  <content type="html">
+   An Evaluator for the toy programming language WHILE
+  </content>
+ </entry>
  <entry>
   <title>Smile040501: Tiger-Compiler</title>
   <author>
@@ -15,45 +41,6 @@
   <updated>2022-05-04T18:00:06Z</updated>
   <content type="html">
    The SubTiger language is the subset of the Tiger language. Currently, the language supports only integers, but would be extended to strings and floating point computation. Currently, the compiler compiles to MIPS assembly code, which can be run using SPIM simulator.
-  </content>
- </entry>
- <entry>
-  <title>dkodar20: tiger</title>
-  <author>
-   <name>dkodar20</name>
-  </author>
-  <link href="https://github.com/dkodar20/tiger" />
-  <id>urn:rprimus:github:dkodar20:tiger</id>
-  <published>2022-05-03T18:43:40Z</published>
-  <updated>2022-05-03T18:43:40Z</updated>
-  <content type="html">
-   Compilers for the Tiger language
-  </content>
- </entry>
- <entry>
-  <title>Akara4ok: lab2_MP</title>
-  <author>
-   <name>Akara4ok</name>
-  </author>
-  <link href="https://github.com/Akara4ok/lab2_MP" />
-  <id>urn:rprimus:github:Akara4ok:lab2_MP</id>
-  <published>2022-05-03T14:50:24Z</published>
-  <updated>2022-05-03T14:50:24Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>yao1222: Programming-Languages-A</title>
-  <author>
-   <name>yao1222</name>
-  </author>
-  <link href="https://github.com/yao1222/Programming-Languages-A" />
-  <id>urn:rprimus:github:yao1222:Programming-Languages-A</id>
-  <published>2022-05-03T14:31:20Z</published>
-  <updated>2022-05-03T14:31:20Z</updated>
-  <content type="html">
-   UW materials
   </content>
  </entry>
 </feed>
