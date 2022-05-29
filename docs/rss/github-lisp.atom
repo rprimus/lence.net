@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-05-28T13:37:49Z</updated>
+<updated>2022-05-29T07:51:35Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>Quiescent: adw-charting</title>
+  <author>
+   <name>Quiescent</name>
+  </author>
+  <link href="https://github.com/Quiescent/adw-charting" />
+  <id>urn:rprimus:github:Quiescent:adw-charting</id>
+  <published>2022-05-29T07:51:35Z</published>
+  <updated>2022-05-29T07:51:35Z</updated>
+  <content type="html">
+   My fork of https://gitlab.common-lisp.net/ygajdos/adw-charting.git
+  </content>
+ </entry>
+ <entry>
+  <title>crburris: coolisp</title>
+  <author>
+   <name>crburris</name>
+  </author>
+  <link href="https://github.com/crburris/coolisp" />
+  <id>urn:rprimus:github:crburris:coolisp</id>
+  <published>2022-05-29T04:15:17Z</published>
+  <updated>2022-05-29T04:15:17Z</updated>
+  <content type="html">
+   Lisp snippets
+  </content>
+ </entry>
+ <entry>
+  <title>jetmonk: openmcl-thread-test</title>
+  <author>
+   <name>jetmonk</name>
+  </author>
+  <link href="https://github.com/jetmonk/openmcl-thread-test" />
+  <id>urn:rprimus:github:jetmonk:openmcl-thread-test</id>
+  <published>2022-05-28T23:53:45Z</published>
+  <updated>2022-05-28T23:53:45Z</updated>
+  <content type="html">
+   Exploration of openmcl threding/locking bug on RPi
+  </content>
+ </entry>
+ <entry>
+  <title>fourier: cl-self-contained</title>
+  <author>
+   <name>fourier</name>
+  </author>
+  <link href="https://github.com/fourier/cl-self-contained" />
+  <id>urn:rprimus:github:fourier:cl-self-contained</id>
+  <published>2022-05-28T18:58:54Z</published>
+  <updated>2022-05-28T18:58:54Z</updated>
+  <content type="html">
+   Skeleton for the simple Common Lisp project with submodules
+  </content>
+ </entry>
  <entry>
   <title>Anjalibhardwaj1: assignment-2</title>
   <author>
@@ -67,45 +119,6 @@
   <updated>2022-05-27T01:53:43Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>Cardiox12: spam_filter</title>
-  <author>
-   <name>Cardiox12</name>
-  </author>
-  <link href="https://github.com/Cardiox12/spam_filter" />
-  <id>urn:rprimus:github:Cardiox12:spam_filter</id>
-  <published>2022-05-26T15:38:56Z</published>
-  <updated>2022-05-26T15:38:56Z</updated>
-  <content type="html">
-   Spam filter implementation from the Practical Common Lisp book
-  </content>
- </entry>
- <entry>
-  <title>granddaifuku: land-of-lisp</title>
-  <author>
-   <name>granddaifuku</name>
-  </author>
-  <link href="https://github.com/granddaifuku/land-of-lisp" />
-  <id>urn:rprimus:github:granddaifuku:land-of-lisp</id>
-  <published>2022-05-26T13:12:34Z</published>
-  <updated>2022-05-26T13:12:34Z</updated>
-  <content type="html">
-   Implementation of the book &quot;Land of Lisp&quot;
-  </content>
- </entry>
- <entry>
-  <title>Junker: stumpwm-screenshot-maim</title>
-  <author>
-   <name>Junker</name>
-  </author>
-  <link href="https://github.com/Junker/stumpwm-screenshot-maim" />
-  <id>urn:rprimus:github:Junker:stumpwm-screenshot-maim</id>
-  <published>2022-05-26T12:59:39Z</published>
-  <updated>2022-05-26T12:59:39Z</updated>
-  <content type="html">
-   Screenshot module for StumpWM
   </content>
  </entry>
 </feed>
