@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-05-30T04:03:30Z</updated>
+<updated>2022-05-31T20:52:10Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>lisp-mirror: cl-naive-store</title>
+  <author>
+   <name>lisp-mirror</name>
+  </author>
+  <link href="https://github.com/lisp-mirror/cl-naive-store" />
+  <id>urn:rprimus:github:lisp-mirror:cl-naive-store</id>
+  <published>2022-05-31T20:52:10Z</published>
+  <updated>2022-05-31T20:52:10Z</updated>
+  <content type="html">
+     This is a naive persisted, in memory (lazy loading), indexed, document store for Common Lisp. https://gitlab.com/Harag/cl-naive-store
+  </content>
+ </entry>
+ <entry>
+  <title>roscoe-tw: sequence-flange-bolts-lisp</title>
+  <author>
+   <name>roscoe-tw</name>
+  </author>
+  <link href="https://github.com/roscoe-tw/sequence-flange-bolts-lisp" />
+  <id>urn:rprimus:github:roscoe-tw:sequence-flange-bolts-lisp</id>
+  <published>2022-05-31T03:23:24Z</published>
+  <updated>2022-05-31T03:23:24Z</updated>
+  <content type="html">
+   æ³è­èºæ éåºé åºåç¹ªè£½ç¨å¼
+  </content>
+ </entry>
+ <entry>
+  <title>da-ferreira: lisp</title>
+  <author>
+   <name>da-ferreira</name>
+  </author>
+  <link href="https://github.com/da-ferreira/lisp" />
+  <id>urn:rprimus:github:da-ferreira:lisp</id>
+  <published>2022-05-31T01:39:43Z</published>
+  <updated>2022-05-31T01:39:43Z</updated>
+  <content type="html">
+   Exemplos bÃ¡sicos em Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>sazare: henkan-w2c</title>
+  <author>
+   <name>sazare</name>
+  </author>
+  <link href="https://github.com/sazare/henkan-w2c" />
+  <id>urn:rprimus:github:sazare:henkan-w2c</id>
+  <published>2022-05-30T22:28:04Z</published>
+  <updated>2022-05-30T22:28:04Z</updated>
+  <content type="html">
+   a too translating wff to clause
+  </content>
+ </entry>
+ <entry>
+  <title>codr7: cl-extashy</title>
+  <author>
+   <name>codr7</name>
+  </author>
+  <link href="https://github.com/codr7/cl-extashy" />
+  <id>urn:rprimus:github:codr7:cl-extashy</id>
+  <published>2022-05-30T18:49:40Z</published>
+  <updated>2022-05-30T18:49:40Z</updated>
+  <content type="html">
+   Extensible hash tables
+  </content>
+ </entry>
+ <entry>
+  <title>ns2max: jkupdd_dataset</title>
+  <author>
+   <name>ns2max</name>
+  </author>
+  <link href="https://github.com/ns2max/jkupdd_dataset" />
+  <id>urn:rprimus:github:ns2max:jkupdd_dataset</id>
+  <published>2022-05-30T09:44:30Z</published>
+  <updated>2022-05-30T09:44:30Z</updated>
+  <content type="html">
+   An exact copy of the JKUPDD dataset
+  </content>
+ </entry>
  <entry>
   <title>zellerin: http2</title>
   <author>
@@ -15,19 +93,6 @@
   <updated>2022-05-30T04:03:30Z</updated>
   <content type="html">
    HTTP/2 implementation in Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>cchafe: wfs</title>
-  <author>
-   <name>cchafe</name>
-  </author>
-  <link href="https://github.com/cchafe/wfs" />
-  <id>urn:rprimus:github:cchafe:wfs</id>
-  <published>2022-05-29T22:02:10Z</published>
-  <updated>2022-05-29T22:02:10Z</updated>
-  <content type="html">
-   wavefield synthesis -- depends on ssr
   </content>
  </entry>
  <entry>
@@ -93,45 +158,6 @@
   <updated>2022-05-29T04:15:17Z</updated>
   <content type="html">
    Lisp snippets
-  </content>
- </entry>
- <entry>
-  <title>jetmonk: openmcl-thread-test</title>
-  <author>
-   <name>jetmonk</name>
-  </author>
-  <link href="https://github.com/jetmonk/openmcl-thread-test" />
-  <id>urn:rprimus:github:jetmonk:openmcl-thread-test</id>
-  <published>2022-05-28T23:53:45Z</published>
-  <updated>2022-05-28T23:53:45Z</updated>
-  <content type="html">
-   Exploration of openmcl threding/locking bug on RPi
-  </content>
- </entry>
- <entry>
-  <title>fourier: cl-self-contained</title>
-  <author>
-   <name>fourier</name>
-  </author>
-  <link href="https://github.com/fourier/cl-self-contained" />
-  <id>urn:rprimus:github:fourier:cl-self-contained</id>
-  <published>2022-05-28T18:58:54Z</published>
-  <updated>2022-05-28T18:58:54Z</updated>
-  <content type="html">
-   Skeleton for the simple Common Lisp project with submodules
-  </content>
- </entry>
- <entry>
-  <title>Anjalibhardwaj1: assignment-2</title>
-  <author>
-   <name>Anjalibhardwaj1</name>
-  </author>
-  <link href="https://github.com/Anjalibhardwaj1/assignment-2" />
-  <id>urn:rprimus:github:Anjalibhardwaj1:assignment-2</id>
-  <published>2022-05-28T13:37:49Z</published>
-  <updated>2022-05-28T13:37:49Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
