@@ -2,8 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-05-31T20:52:10Z</updated>
+<updated>2022-06-01T09:27:09Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>tzcl: ansi-common-lisp</title>
+  <author>
+   <name>tzcl</name>
+  </author>
+  <link href="https://github.com/tzcl/ansi-common-lisp" />
+  <id>urn:rprimus:github:tzcl:ansi-common-lisp</id>
+  <published>2022-06-01T09:27:09Z</published>
+  <updated>2022-06-01T09:27:09Z</updated>
+  <content type="html">
+   Notes on PG&#039;s ANSI Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>Junker: stumpwm-window-switch</title>
+  <author>
+   <name>Junker</name>
+  </author>
+  <link href="https://github.com/Junker/stumpwm-window-switch" />
+  <id>urn:rprimus:github:Junker:stumpwm-window-switch</id>
+  <published>2022-06-01T05:54:41Z</published>
+  <updated>2022-06-01T05:54:41Z</updated>
+  <content type="html">
+   Windows switch module for StumpWM
+  </content>
+ </entry>
+ <entry>
+  <title>jackalstar88: webserver_Lisp</title>
+  <author>
+   <name>jackalstar88</name>
+  </author>
+  <link href="https://github.com/jackalstar88/webserver_Lisp" />
+  <id>urn:rprimus:github:jackalstar88:webserver_Lisp</id>
+  <published>2022-06-01T02:31:05Z</published>
+  <updated>2022-06-01T02:31:05Z</updated>
+  <content type="html">
+   Web server written in Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>mark-watson: fasttag</title>
+  <author>
+   <name>mark-watson</name>
+  </author>
+  <link href="https://github.com/mark-watson/fasttag" />
+  <id>urn:rprimus:github:mark-watson:fasttag</id>
+  <published>2022-05-31T21:40:58Z</published>
+  <updated>2022-05-31T21:40:58Z</updated>
+  <content type="html">
+   Common Lisp code for part of speech (POS) tagging in my book &quot;Loving Common Lisp, or the Savvy Programmer&#039;s Secret Weapon&quot;
+  </content>
+ </entry>
+ <entry>
+  <title>mark-watson: kbnlp</title>
+  <author>
+   <name>mark-watson</name>
+  </author>
+  <link href="https://github.com/mark-watson/kbnlp" />
+  <id>urn:rprimus:github:mark-watson:kbnlp</id>
+  <published>2022-05-31T21:38:03Z</published>
+  <updated>2022-05-31T21:38:03Z</updated>
+  <content type="html">
+   Common Lisp code for natural language processing (NLP) - see book &quot;Loving Common Lisp, or the Savvy Programmer&#039;s Secret Weapon&quot;
+  </content>
+ </entry>
+ <entry>
+  <title>mark-watson: myutils</title>
+  <author>
+   <name>mark-watson</name>
+  </author>
+  <link href="https://github.com/mark-watson/myutils" />
+  <id>urn:rprimus:github:mark-watson:myutils</id>
+  <published>2022-05-31T21:34:46Z</published>
+  <updated>2022-05-31T21:34:46Z</updated>
+  <content type="html">
+   Common Lisp code: miscellaneous utilities - see book &quot;Loving Common Lisp, or the Savvy Programmer&#039;s Secret Weapon&quot;
+  </content>
+ </entry>
+ <entry>
+  <title>jaypmorgan: cl-lox</title>
+  <author>
+   <name>jaypmorgan</name>
+  </author>
+  <link href="https://github.com/jaypmorgan/cl-lox" />
+  <id>urn:rprimus:github:jaypmorgan:cl-lox</id>
+  <published>2022-05-31T21:17:55Z</published>
+  <updated>2022-05-31T21:17:55Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>lisp-mirror: cl-naive-store</title>
   <author>
@@ -93,71 +184,6 @@
   <updated>2022-05-30T04:03:30Z</updated>
   <content type="html">
    HTTP/2 implementation in Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>Thistle-Strum: common-lisp-example</title>
-  <author>
-   <name>Thistle-Strum</name>
-  </author>
-  <link href="https://github.com/Thistle-Strum/common-lisp-example" />
-  <id>urn:rprimus:github:Thistle-Strum:common-lisp-example</id>
-  <published>2022-05-29T20:14:15Z</published>
-  <updated>2022-05-29T20:14:15Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>grawlinson: cl-metacopy</title>
-  <author>
-   <name>grawlinson</name>
-  </author>
-  <link href="https://github.com/grawlinson/cl-metacopy" />
-  <id>urn:rprimus:github:grawlinson:cl-metacopy</id>
-  <published>2022-05-29T19:27:49Z</published>
-  <updated>2022-05-29T19:27:49Z</updated>
-  <content type="html">
-   Clone of http://dwim.hu/live/metacopy/
-  </content>
- </entry>
- <entry>
-  <title>jyotimaurya09: lisp</title>
-  <author>
-   <name>jyotimaurya09</name>
-  </author>
-  <link href="https://github.com/jyotimaurya09/lisp" />
-  <id>urn:rprimus:github:jyotimaurya09:lisp</id>
-  <published>2022-05-29T14:51:56Z</published>
-  <updated>2022-05-29T14:51:56Z</updated>
-  <content type="html">
-   This Repository contains Projects in LISP Language
-  </content>
- </entry>
- <entry>
-  <title>Quiescent: adw-charting</title>
-  <author>
-   <name>Quiescent</name>
-  </author>
-  <link href="https://github.com/Quiescent/adw-charting" />
-  <id>urn:rprimus:github:Quiescent:adw-charting</id>
-  <published>2022-05-29T07:51:35Z</published>
-  <updated>2022-05-29T07:51:35Z</updated>
-  <content type="html">
-   My fork of https://gitlab.common-lisp.net/ygajdos/adw-charting.git
-  </content>
- </entry>
- <entry>
-  <title>crburris: coolisp</title>
-  <author>
-   <name>crburris</name>
-  </author>
-  <link href="https://github.com/crburris/coolisp" />
-  <id>urn:rprimus:github:crburris:coolisp</id>
-  <published>2022-05-29T04:15:17Z</published>
-  <updated>2022-05-29T04:15:17Z</updated>
-  <content type="html">
-   Lisp snippets
   </content>
  </entry>
 </feed>
