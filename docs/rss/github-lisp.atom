@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-06-01T09:27:09Z</updated>
+<updated>2022-06-01T21:17:52Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>lmajor91: lisp-trace</title>
+  <author>
+   <name>lmajor91</name>
+  </author>
+  <link href="https://github.com/lmajor91/lisp-trace" />
+  <id>urn:rprimus:github:lmajor91:lisp-trace</id>
+  <published>2022-06-01T21:17:52Z</published>
+  <updated>2022-06-01T21:17:52Z</updated>
+  <content type="html">
+   A ptrace library made in lisp
+  </content>
+ </entry>
+ <entry>
+  <title>lmajor91: Regular-Lisp</title>
+  <author>
+   <name>lmajor91</name>
+  </author>
+  <link href="https://github.com/lmajor91/Regular-Lisp" />
+  <id>urn:rprimus:github:lmajor91:Regular-Lisp</id>
+  <published>2022-06-01T21:14:39Z</published>
+  <updated>2022-06-01T21:14:39Z</updated>
+  <content type="html">
+   my take at a regular expression implementation in lisp
+  </content>
+ </entry>
+ <entry>
+  <title>jrm-code-project: named-object</title>
+  <author>
+   <name>jrm-code-project</name>
+  </author>
+  <link href="https://github.com/jrm-code-project/named-object" />
+  <id>urn:rprimus:github:jrm-code-project:named-object</id>
+  <published>2022-06-01T12:17:51Z</published>
+  <updated>2022-06-01T12:17:51Z</updated>
+  <content type="html">
+   A named object mixin.
+  </content>
+ </entry>
  <entry>
   <title>tzcl: ansi-common-lisp</title>
   <author>
@@ -132,58 +171,6 @@
   <updated>2022-05-31T01:39:43Z</updated>
   <content type="html">
    Exemplos bÃ¡sicos em Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>sazare: henkan-w2c</title>
-  <author>
-   <name>sazare</name>
-  </author>
-  <link href="https://github.com/sazare/henkan-w2c" />
-  <id>urn:rprimus:github:sazare:henkan-w2c</id>
-  <published>2022-05-30T22:28:04Z</published>
-  <updated>2022-05-30T22:28:04Z</updated>
-  <content type="html">
-   a too translating wff to clause
-  </content>
- </entry>
- <entry>
-  <title>codr7: cl-extashy</title>
-  <author>
-   <name>codr7</name>
-  </author>
-  <link href="https://github.com/codr7/cl-extashy" />
-  <id>urn:rprimus:github:codr7:cl-extashy</id>
-  <published>2022-05-30T18:49:40Z</published>
-  <updated>2022-05-30T18:49:40Z</updated>
-  <content type="html">
-   Extensible hash tables
-  </content>
- </entry>
- <entry>
-  <title>ns2max: jkupdd_dataset</title>
-  <author>
-   <name>ns2max</name>
-  </author>
-  <link href="https://github.com/ns2max/jkupdd_dataset" />
-  <id>urn:rprimus:github:ns2max:jkupdd_dataset</id>
-  <published>2022-05-30T09:44:30Z</published>
-  <updated>2022-05-30T09:44:30Z</updated>
-  <content type="html">
-   An exact copy of the JKUPDD dataset
-  </content>
- </entry>
- <entry>
-  <title>zellerin: http2</title>
-  <author>
-   <name>zellerin</name>
-  </author>
-  <link href="https://github.com/zellerin/http2" />
-  <id>urn:rprimus:github:zellerin:http2</id>
-  <published>2022-05-30T04:03:30Z</published>
-  <updated>2022-05-30T04:03:30Z</updated>
-  <content type="html">
-   HTTP/2 implementation in Common Lisp
   </content>
  </entry>
 </feed>
