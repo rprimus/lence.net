@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-06-01T21:17:52Z</updated>
+<updated>2022-06-02T19:04:07Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>kpoeck: alexandria</title>
+  <author>
+   <name>kpoeck</name>
+  </author>
+  <link href="https://github.com/kpoeck/alexandria" />
+  <id>urn:rprimus:github:kpoeck:alexandria</id>
+  <published>2022-06-02T19:04:07Z</published>
+  <updated>2022-06-02T19:04:07Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>tomecjak: JTmenu</title>
+  <author>
+   <name>tomecjak</name>
+  </author>
+  <link href="https://github.com/tomecjak/JTmenu" />
+  <id>urn:rprimus:github:tomecjak:JTmenu</id>
+  <published>2022-06-02T17:10:56Z</published>
+  <updated>2022-06-02T17:10:56Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>brubsby: lisp-anydice</title>
+  <author>
+   <name>brubsby</name>
+  </author>
+  <link href="https://github.com/brubsby/lisp-anydice" />
+  <id>urn:rprimus:github:brubsby:lisp-anydice</id>
+  <published>2022-06-02T17:04:46Z</published>
+  <updated>2022-06-02T17:04:46Z</updated>
+  <content type="html">
+   toy/prototype/wip lisp implementation of https://anydice.com/
+  </content>
+ </entry>
+ <entry>
+  <title>isweibin: Dotfiles</title>
+  <author>
+   <name>isweibin</name>
+  </author>
+  <link href="https://github.com/isweibin/Dotfiles" />
+  <id>urn:rprimus:github:isweibin:Dotfiles</id>
+  <published>2022-06-02T13:54:12Z</published>
+  <updated>2022-06-02T13:54:12Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>hamzashahid-blit: StumpWM</title>
+  <author>
+   <name>hamzashahid-blit</name>
+  </author>
+  <link href="https://github.com/hamzashahid-blit/StumpWM" />
+  <id>urn:rprimus:github:hamzashahid-blit:StumpWM</id>
+  <published>2022-06-02T12:03:32Z</published>
+  <updated>2022-06-02T12:03:32Z</updated>
+  <content type="html">
+   My StumpWM config (Yay, Common Lisp!)
+  </content>
+ </entry>
+ <entry>
+  <title>anuprshetty: Lisp</title>
+  <author>
+   <name>anuprshetty</name>
+  </author>
+  <link href="https://github.com/anuprshetty/Lisp" />
+  <id>urn:rprimus:github:anuprshetty:Lisp</id>
+  <published>2022-06-02T07:46:14Z</published>
+  <updated>2022-06-02T07:46:14Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>lmajor91: lisp-trace</title>
   <author>
@@ -28,6 +106,19 @@
   <updated>2022-06-01T21:14:39Z</updated>
   <content type="html">
    my take at a regular expression implementation in lisp
+  </content>
+ </entry>
+ <entry>
+  <title>jmacbeth: lisp-intro-programming-activities</title>
+  <author>
+   <name>jmacbeth</name>
+  </author>
+  <link href="https://github.com/jmacbeth/lisp-intro-programming-activities" />
+  <id>urn:rprimus:github:jmacbeth:lisp-intro-programming-activities</id>
+  <published>2022-06-01T15:18:40Z</published>
+  <updated>2022-06-01T15:18:40Z</updated>
+  <content type="html">
+   
   </content>
  </entry>
  <entry>
@@ -83,94 +174,16 @@
   </content>
  </entry>
  <entry>
-  <title>mark-watson: fasttag</title>
+  <title>LincDe: lisp-for-cad-elementary-cooking</title>
   <author>
-   <name>mark-watson</name>
+   <name>LincDe</name>
   </author>
-  <link href="https://github.com/mark-watson/fasttag" />
-  <id>urn:rprimus:github:mark-watson:fasttag</id>
-  <published>2022-05-31T21:40:58Z</published>
-  <updated>2022-05-31T21:40:58Z</updated>
+  <link href="https://github.com/LincDe/lisp-for-cad-elementary-cooking" />
+  <id>urn:rprimus:github:LincDe:lisp-for-cad-elementary-cooking</id>
+  <published>2022-06-01T02:05:12Z</published>
+  <updated>2022-06-01T02:05:12Z</updated>
   <content type="html">
-   Common Lisp code for part of speech (POS) tagging in my book &quot;Loving Common Lisp, or the Savvy Programmer&#039;s Secret Weapon&quot;
-  </content>
- </entry>
- <entry>
-  <title>mark-watson: kbnlp</title>
-  <author>
-   <name>mark-watson</name>
-  </author>
-  <link href="https://github.com/mark-watson/kbnlp" />
-  <id>urn:rprimus:github:mark-watson:kbnlp</id>
-  <published>2022-05-31T21:38:03Z</published>
-  <updated>2022-05-31T21:38:03Z</updated>
-  <content type="html">
-   Common Lisp code for natural language processing (NLP) - see book &quot;Loving Common Lisp, or the Savvy Programmer&#039;s Secret Weapon&quot;
-  </content>
- </entry>
- <entry>
-  <title>mark-watson: myutils</title>
-  <author>
-   <name>mark-watson</name>
-  </author>
-  <link href="https://github.com/mark-watson/myutils" />
-  <id>urn:rprimus:github:mark-watson:myutils</id>
-  <published>2022-05-31T21:34:46Z</published>
-  <updated>2022-05-31T21:34:46Z</updated>
-  <content type="html">
-   Common Lisp code: miscellaneous utilities - see book &quot;Loving Common Lisp, or the Savvy Programmer&#039;s Secret Weapon&quot;
-  </content>
- </entry>
- <entry>
-  <title>jaypmorgan: cl-lox</title>
-  <author>
-   <name>jaypmorgan</name>
-  </author>
-  <link href="https://github.com/jaypmorgan/cl-lox" />
-  <id>urn:rprimus:github:jaypmorgan:cl-lox</id>
-  <published>2022-05-31T21:17:55Z</published>
-  <updated>2022-05-31T21:17:55Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>lisp-mirror: cl-naive-store</title>
-  <author>
-   <name>lisp-mirror</name>
-  </author>
-  <link href="https://github.com/lisp-mirror/cl-naive-store" />
-  <id>urn:rprimus:github:lisp-mirror:cl-naive-store</id>
-  <published>2022-05-31T20:52:10Z</published>
-  <updated>2022-05-31T20:52:10Z</updated>
-  <content type="html">
-     This is a naive persisted, in memory (lazy loading), indexed, document store for Common Lisp. https://gitlab.com/Harag/cl-naive-store
-  </content>
- </entry>
- <entry>
-  <title>roscoe-tw: sequence-flange-bolts-lisp</title>
-  <author>
-   <name>roscoe-tw</name>
-  </author>
-  <link href="https://github.com/roscoe-tw/sequence-flange-bolts-lisp" />
-  <id>urn:rprimus:github:roscoe-tw:sequence-flange-bolts-lisp</id>
-  <published>2022-05-31T03:23:24Z</published>
-  <updated>2022-05-31T03:23:24Z</updated>
-  <content type="html">
-   æ³è­èºæ éåºé åºåç¹ªè£½ç¨å¼
-  </content>
- </entry>
- <entry>
-  <title>da-ferreira: lisp</title>
-  <author>
-   <name>da-ferreira</name>
-  </author>
-  <link href="https://github.com/da-ferreira/lisp" />
-  <id>urn:rprimus:github:da-ferreira:lisp</id>
-  <published>2022-05-31T01:39:43Z</published>
-  <updated>2022-05-31T01:39:43Z</updated>
-  <content type="html">
-   Exemplos bÃ¡sicos em Common Lisp
+   Intruductions for creating lisp programs for CAD through practical examples
   </content>
  </entry>
 </feed>
