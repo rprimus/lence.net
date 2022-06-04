@@ -2,8 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-06-02T19:04:07Z</updated>
+<updated>2022-06-03T21:23:15Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>CirrusClouds: fuzzy</title>
+  <author>
+   <name>CirrusClouds</name>
+  </author>
+  <link href="https://github.com/CirrusClouds/fuzzy" />
+  <id>urn:rprimus:github:CirrusClouds:fuzzy</id>
+  <published>2022-06-03T21:23:15Z</published>
+  <updated>2022-06-03T21:23:15Z</updated>
+  <content type="html">
+   Functional Fuzzy Sets (Serapeum + Fiveam)
+  </content>
+ </entry>
+ <entry>
+  <title>OrionBelt3: FP</title>
+  <author>
+   <name>OrionBelt3</name>
+  </author>
+  <link href="https://github.com/OrionBelt3/FP" />
+  <id>urn:rprimus:github:OrionBelt3:FP</id>
+  <published>2022-06-03T20:40:08Z</published>
+  <updated>2022-06-03T20:40:08Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>BlueManCZ: adventofcode-2019</title>
+  <author>
+   <name>BlueManCZ</name>
+  </author>
+  <link href="https://github.com/BlueManCZ/adventofcode-2019" />
+  <id>urn:rprimus:github:BlueManCZ:adventofcode-2019</id>
+  <published>2022-06-03T18:35:35Z</published>
+  <updated>2022-06-03T18:35:35Z</updated>
+  <content type="html">
+   Advent of code 2019 solutions
+  </content>
+ </entry>
+ <entry>
+  <title>Jaso-N7: htdp</title>
+  <author>
+   <name>Jaso-N7</name>
+  </author>
+  <link href="https://github.com/Jaso-N7/htdp" />
+  <id>urn:rprimus:github:Jaso-N7:htdp</id>
+  <published>2022-06-03T17:17:33Z</published>
+  <updated>2022-06-03T17:17:33Z</updated>
+  <content type="html">
+   Learning how to Systematically Design Programs
+  </content>
+ </entry>
+ <entry>
+  <title>CirrusClouds: metacircles</title>
+  <author>
+   <name>CirrusClouds</name>
+  </author>
+  <link href="https://github.com/CirrusClouds/metacircles" />
+  <id>urn:rprimus:github:CirrusClouds:metacircles</id>
+  <published>2022-06-03T12:11:02Z</published>
+  <updated>2022-06-03T12:11:02Z</updated>
+  <content type="html">
+   Templates for playing around with metacircular evaluators
+  </content>
+ </entry>
+ <entry>
+  <title>Pinjontall94: cl-simple-webserver</title>
+  <author>
+   <name>Pinjontall94</name>
+  </author>
+  <link href="https://github.com/Pinjontall94/cl-simple-webserver" />
+  <id>urn:rprimus:github:Pinjontall94:cl-simple-webserver</id>
+  <published>2022-06-03T08:17:57Z</published>
+  <updated>2022-06-03T08:17:57Z</updated>
+  <content type="html">
+   CL Cookbook simple webserver
+  </content>
+ </entry>
+ <entry>
+  <title>Junker: stumpwm-nuclear</title>
+  <author>
+   <name>Junker</name>
+  </author>
+  <link href="https://github.com/Junker/stumpwm-nuclear" />
+  <id>urn:rprimus:github:Junker:stumpwm-nuclear</id>
+  <published>2022-06-03T08:10:30Z</published>
+  <updated>2022-06-03T08:10:30Z</updated>
+  <content type="html">
+   Nuclear music player module for StumpWM
+  </content>
+ </entry>
  <entry>
   <title>kpoeck: alexandria</title>
   <author>
@@ -80,110 +171,6 @@
   <updated>2022-06-02T07:46:14Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>lmajor91: lisp-trace</title>
-  <author>
-   <name>lmajor91</name>
-  </author>
-  <link href="https://github.com/lmajor91/lisp-trace" />
-  <id>urn:rprimus:github:lmajor91:lisp-trace</id>
-  <published>2022-06-01T21:17:52Z</published>
-  <updated>2022-06-01T21:17:52Z</updated>
-  <content type="html">
-   A ptrace library made in lisp
-  </content>
- </entry>
- <entry>
-  <title>lmajor91: Regular-Lisp</title>
-  <author>
-   <name>lmajor91</name>
-  </author>
-  <link href="https://github.com/lmajor91/Regular-Lisp" />
-  <id>urn:rprimus:github:lmajor91:Regular-Lisp</id>
-  <published>2022-06-01T21:14:39Z</published>
-  <updated>2022-06-01T21:14:39Z</updated>
-  <content type="html">
-   my take at a regular expression implementation in lisp
-  </content>
- </entry>
- <entry>
-  <title>jmacbeth: lisp-intro-programming-activities</title>
-  <author>
-   <name>jmacbeth</name>
-  </author>
-  <link href="https://github.com/jmacbeth/lisp-intro-programming-activities" />
-  <id>urn:rprimus:github:jmacbeth:lisp-intro-programming-activities</id>
-  <published>2022-06-01T15:18:40Z</published>
-  <updated>2022-06-01T15:18:40Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jrm-code-project: named-object</title>
-  <author>
-   <name>jrm-code-project</name>
-  </author>
-  <link href="https://github.com/jrm-code-project/named-object" />
-  <id>urn:rprimus:github:jrm-code-project:named-object</id>
-  <published>2022-06-01T12:17:51Z</published>
-  <updated>2022-06-01T12:17:51Z</updated>
-  <content type="html">
-   A named object mixin.
-  </content>
- </entry>
- <entry>
-  <title>tzcl: ansi-common-lisp</title>
-  <author>
-   <name>tzcl</name>
-  </author>
-  <link href="https://github.com/tzcl/ansi-common-lisp" />
-  <id>urn:rprimus:github:tzcl:ansi-common-lisp</id>
-  <published>2022-06-01T09:27:09Z</published>
-  <updated>2022-06-01T09:27:09Z</updated>
-  <content type="html">
-   Notes on PG&#039;s ANSI Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>Junker: stumpwm-window-switch</title>
-  <author>
-   <name>Junker</name>
-  </author>
-  <link href="https://github.com/Junker/stumpwm-window-switch" />
-  <id>urn:rprimus:github:Junker:stumpwm-window-switch</id>
-  <published>2022-06-01T05:54:41Z</published>
-  <updated>2022-06-01T05:54:41Z</updated>
-  <content type="html">
-   Windows switch module for StumpWM
-  </content>
- </entry>
- <entry>
-  <title>jackalstar88: webserver_Lisp</title>
-  <author>
-   <name>jackalstar88</name>
-  </author>
-  <link href="https://github.com/jackalstar88/webserver_Lisp" />
-  <id>urn:rprimus:github:jackalstar88:webserver_Lisp</id>
-  <published>2022-06-01T02:31:05Z</published>
-  <updated>2022-06-01T02:31:05Z</updated>
-  <content type="html">
-   Web server written in Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>LincDe: lisp-for-cad-elementary-cooking</title>
-  <author>
-   <name>LincDe</name>
-  </author>
-  <link href="https://github.com/LincDe/lisp-for-cad-elementary-cooking" />
-  <id>urn:rprimus:github:LincDe:lisp-for-cad-elementary-cooking</id>
-  <published>2022-06-01T02:05:12Z</published>
-  <updated>2022-06-01T02:05:12Z</updated>
-  <content type="html">
-   Intruductions for creating lisp programs for CAD through practical examples
   </content>
  </entry>
 </feed>
