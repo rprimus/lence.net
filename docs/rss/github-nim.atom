@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2022-06-10T05:34:57Z</updated>
+<updated>2022-06-10T21:24:03Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>carabalonepaulo: np_server</title>
+  <author>
+   <name>carabalonepaulo</name>
+  </author>
+  <link href="https://github.com/carabalonepaulo/np_server" />
+  <id>urn:rprimus:github:carabalonepaulo:np_server</id>
+  <published>2022-06-10T21:24:03Z</published>
+  <updated>2022-06-10T21:24:03Z</updated>
+  <content type="html">
+   Netplay Plus 1.7 server written in Nim.
+  </content>
+ </entry>
+ <entry>
+  <title>ire4ever1190: pdfim</title>
+  <author>
+   <name>ire4ever1190</name>
+  </author>
+  <link href="https://github.com/ire4ever1190/pdfim" />
+  <id>urn:rprimus:github:ire4ever1190:pdfim</id>
+  <published>2022-06-10T13:30:13Z</published>
+  <updated>2022-06-10T13:30:13Z</updated>
+  <content type="html">
+   Nim warpper around pdfio
+  </content>
+ </entry>
+ <entry>
+  <title>thisago: ballsScreensaver</title>
+  <author>
+   <name>thisago</name>
+  </author>
+  <link href="https://github.com/thisago/ballsScreensaver" />
+  <id>urn:rprimus:github:thisago:ballsScreensaver</id>
+  <published>2022-06-10T11:21:40Z</published>
+  <updated>2022-06-10T11:21:40Z</updated>
+  <content type="html">
+   Random balls floating around
+  </content>
+ </entry>
+ <entry>
+  <title>EmilIvanichkovv: c2nim_wrappers</title>
+  <author>
+   <name>EmilIvanichkovv</name>
+  </author>
+  <link href="https://github.com/EmilIvanichkovv/c2nim_wrappers" />
+  <id>urn:rprimus:github:EmilIvanichkovv:c2nim_wrappers</id>
+  <published>2022-06-10T10:40:32Z</published>
+  <updated>2022-06-10T10:40:32Z</updated>
+  <content type="html">
+   Collection of raw C code translated to Nim
+  </content>
+ </entry>
  <entry>
   <title>SiegfriedEhret: urlhut</title>
   <author>
@@ -119,97 +171,6 @@
   <updated>2022-06-09T08:36:01Z</updated>
   <content type="html">
    An attempt at a game
-  </content>
- </entry>
- <entry>
-  <title>sergiosouzalima: nim-hellowebserver</title>
-  <author>
-   <name>sergiosouzalima</name>
-  </author>
-  <link href="https://github.com/sergiosouzalima/nim-hellowebserver" />
-  <id>urn:rprimus:github:sergiosouzalima:nim-hellowebserver</id>
-  <published>2022-06-08T20:58:43Z</published>
-  <updated>2022-06-08T20:58:43Z</updated>
-  <content type="html">
-   Hello World Web Server Nim Project.
-  </content>
- </entry>
- <entry>
-  <title>S3cur3Th1sSh1t: Nim_DInvoke</title>
-  <author>
-   <name>S3cur3Th1sSh1t</name>
-  </author>
-  <link href="https://github.com/S3cur3Th1sSh1t/Nim_DInvoke" />
-  <id>urn:rprimus:github:S3cur3Th1sSh1t:Nim_DInvoke</id>
-  <published>2022-06-08T19:57:23Z</published>
-  <updated>2022-06-08T19:57:23Z</updated>
-  <content type="html">
-   D/Invoke implementation in Nim
-  </content>
- </entry>
- <entry>
-  <title>gregwebs: domain-smooth</title>
-  <author>
-   <name>gregwebs</name>
-  </author>
-  <link href="https://github.com/gregwebs/domain-smooth" />
-  <id>urn:rprimus:github:gregwebs:domain-smooth</id>
-  <published>2022-06-08T18:21:24Z</published>
-  <updated>2022-06-08T18:21:24Z</updated>
-  <content type="html">
-   Domain name generator. Small program for programmers
-  </content>
- </entry>
- <entry>
-  <title>PMunch: ikeahomesmart</title>
-  <author>
-   <name>PMunch</name>
-  </author>
-  <link href="https://github.com/PMunch/ikeahomesmart" />
-  <id>urn:rprimus:github:PMunch:ikeahomesmart</id>
-  <published>2022-06-08T13:51:16Z</published>
-  <updated>2022-06-08T13:51:16Z</updated>
-  <content type="html">
-   IKEA Home Smart library for Nim
-  </content>
- </entry>
- <entry>
-  <title>PMunch: libcoap</title>
-  <author>
-   <name>PMunch</name>
-  </author>
-  <link href="https://github.com/PMunch/libcoap" />
-  <id>urn:rprimus:github:PMunch:libcoap</id>
-  <published>2022-06-08T13:40:57Z</published>
-  <updated>2022-06-08T13:40:57Z</updated>
-  <content type="html">
-   Nim wrapper for libcoap
-  </content>
- </entry>
- <entry>
-  <title>quantimnot: semver</title>
-  <author>
-   <name>quantimnot</name>
-  </author>
-  <link href="https://github.com/quantimnot/semver" />
-  <id>urn:rprimus:github:quantimnot:semver</id>
-  <published>2022-06-08T12:25:06Z</published>
-  <updated>2022-06-08T12:25:06Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>sssssssuzuki: autd3-nim</title>
-  <author>
-   <name>sssssssuzuki</name>
-  </author>
-  <link href="https://github.com/sssssssuzuki/autd3-nim" />
-  <id>urn:rprimus:github:sssssssuzuki:autd3-nim</id>
-  <published>2022-06-08T07:34:29Z</published>
-  <updated>2022-06-08T07:34:29Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>

@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-06-10T00:47:58Z</updated>
+<updated>2022-06-11T04:35:15Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>boshane: lincl</title>
+  <author>
+   <name>boshane</name>
+  </author>
+  <link href="https://github.com/boshane/lincl" />
+  <id>urn:rprimus:github:boshane:lincl</id>
+  <published>2022-06-11T04:35:15Z</published>
+  <updated>2022-06-11T04:35:15Z</updated>
+  <content type="html">
+   An amateur algebra library in Common Lisp 
+  </content>
+ </entry>
+ <entry>
+  <title>HiPhish: cl-cmark</title>
+  <author>
+   <name>HiPhish</name>
+  </author>
+  <link href="https://github.com/HiPhish/cl-cmark" />
+  <id>urn:rprimus:github:HiPhish:cl-cmark</id>
+  <published>2022-06-10T22:10:01Z</published>
+  <updated>2022-06-10T22:10:01Z</updated>
+  <content type="html">
+   CommonMark implementation for Common Lisp based on libcmark. This system wraps the official reference implementation library, written in C, and provides lispy bindings for Common Lisp.
+  </content>
+ </entry>
  <entry>
   <title>j-schectman: amg-four-plus</title>
   <author>
@@ -15,19 +41,6 @@
   <updated>2022-06-10T00:47:58Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>serhii-dolia: roots-of-lisp</title>
-  <author>
-   <name>serhii-dolia</name>
-  </author>
-  <link href="https://github.com/serhii-dolia/roots-of-lisp" />
-  <id>urn:rprimus:github:serhii-dolia:roots-of-lisp</id>
-  <published>2022-06-09T18:37:12Z</published>
-  <updated>2022-06-09T18:37:12Z</updated>
-  <content type="html">
-   Implementation of original Lisp as described in Paul Graham&#039;s article &quot;The Roots of Lisp&quot;. In Typescript
   </content>
  </entry>
  <entry>
@@ -119,71 +132,6 @@
   <updated>2022-06-09T00:01:05Z</updated>
   <content type="html">
    OS/POSIX functionality for PicoLisp
-  </content>
- </entry>
- <entry>
-  <title>TheRealDrDre: TrainACTR</title>
-  <author>
-   <name>TheRealDrDre</name>
-  </author>
-  <link href="https://github.com/TheRealDrDre/TrainACTR" />
-  <id>urn:rprimus:github:TheRealDrDre:TrainACTR</id>
-  <published>2022-06-08T21:46:06Z</published>
-  <updated>2022-06-08T21:46:06Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>digikar99: excl.digikar</title>
-  <author>
-   <name>digikar99</name>
-  </author>
-  <link href="https://github.com/digikar99/excl.digikar" />
-  <id>urn:rprimus:github:digikar99:excl.digikar</id>
-  <published>2022-06-08T19:18:20Z</published>
-  <updated>2022-06-08T19:18:20Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>gokoku: lem-config</title>
-  <author>
-   <name>gokoku</name>
-  </author>
-  <link href="https://github.com/gokoku/lem-config" />
-  <id>urn:rprimus:github:gokoku:lem-config</id>
-  <published>2022-06-08T12:01:27Z</published>
-  <updated>2022-06-08T12:01:27Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Niketnamdeo008: git-repository-1st</title>
-  <author>
-   <name>Niketnamdeo008</name>
-  </author>
-  <link href="https://github.com/Niketnamdeo008/git-repository-1st" />
-  <id>urn:rprimus:github:Niketnamdeo008:git-repository-1st</id>
-  <published>2022-06-08T10:36:20Z</published>
-  <updated>2022-06-08T10:36:20Z</updated>
-  <content type="html">
-   this is my 1st repository
-  </content>
- </entry>
- <entry>
-  <title>Yiqing-Gu: Language-Interpreter</title>
-  <author>
-   <name>Yiqing-Gu</name>
-  </author>
-  <link href="https://github.com/Yiqing-Gu/Language-Interpreter" />
-  <id>urn:rprimus:github:Yiqing-Gu:Language-Interpreter</id>
-  <published>2022-06-08T04:12:54Z</published>
-  <updated>2022-06-08T04:12:54Z</updated>
-  <content type="html">
-   This is a school project based on given project by professor J. Garrett Morris. Haskell is the language used in this project.
   </content>
  </entry>
 </feed>
