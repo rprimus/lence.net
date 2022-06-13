@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-06-12T04:18:28Z</updated>
+<updated>2022-06-12T18:23:36Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>jl2: docker-build</title>
+  <author>
+   <name>jl2</name>
+  </author>
+  <link href="https://github.com/jl2/docker-build" />
+  <id>urn:rprimus:github:jl2:docker-build</id>
+  <published>2022-06-12T18:23:36Z</published>
+  <updated>2022-06-12T18:23:36Z</updated>
+  <content type="html">
+   Package Common Lisp applications in Docker containers.
+  </content>
+ </entry>
  <entry>
   <title>hyotang666: eprot</title>
   <author>
@@ -80,32 +93,6 @@
   <updated>2022-06-11T04:35:15Z</updated>
   <content type="html">
    An amateur algebra library in Common Lisp 
-  </content>
- </entry>
- <entry>
-  <title>HiPhish: cl-cmark</title>
-  <author>
-   <name>HiPhish</name>
-  </author>
-  <link href="https://github.com/HiPhish/cl-cmark" />
-  <id>urn:rprimus:github:HiPhish:cl-cmark</id>
-  <published>2022-06-10T22:10:01Z</published>
-  <updated>2022-06-10T22:10:01Z</updated>
-  <content type="html">
-   CommonMark implementation for Common Lisp based on libcmark. This system wraps the official reference implementation library, written in C, and provides lispy bindings for Common Lisp.
-  </content>
- </entry>
- <entry>
-  <title>j-schectman: amg-four-plus</title>
-  <author>
-   <name>j-schectman</name>
-  </author>
-  <link href="https://github.com/j-schectman/amg-four-plus" />
-  <id>urn:rprimus:github:j-schectman:amg-four-plus</id>
-  <published>2022-06-10T00:47:58Z</published>
-  <updated>2022-06-10T00:47:58Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>

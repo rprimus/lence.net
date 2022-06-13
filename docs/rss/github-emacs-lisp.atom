@@ -2,8 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2022-06-12T05:51:05Z</updated>
+<updated>2022-06-12T23:19:39Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>dan-hill: emacs.d</title>
+  <author>
+   <name>dan-hill</name>
+  </author>
+  <link href="https://github.com/dan-hill/emacs.d" />
+  <id>urn:rprimus:github:dan-hill:emacs.d</id>
+  <published>2022-06-12T23:19:39Z</published>
+  <updated>2022-06-12T23:19:39Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>atlemann: dotfiles</title>
+  <author>
+   <name>atlemann</name>
+  </author>
+  <link href="https://github.com/atlemann/dotfiles" />
+  <id>urn:rprimus:github:atlemann:dotfiles</id>
+  <published>2022-06-12T21:52:10Z</published>
+  <updated>2022-06-12T21:52:10Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Silvie-Surfer: emacs-config</title>
+  <author>
+   <name>Silvie-Surfer</name>
+  </author>
+  <link href="https://github.com/Silvie-Surfer/emacs-config" />
+  <id>urn:rprimus:github:Silvie-Surfer:emacs-config</id>
+  <published>2022-06-12T20:59:36Z</published>
+  <updated>2022-06-12T20:59:36Z</updated>
+  <content type="html">
+   This is a set of Emacs configurations set up from scratch. This is centered around general ease of use and the experience of writing and planning prose.
+  </content>
+ </entry>
+ <entry>
+  <title>morganwillcock: kixtart-mode</title>
+  <author>
+   <name>morganwillcock</name>
+  </author>
+  <link href="https://github.com/morganwillcock/kixtart-mode" />
+  <id>urn:rprimus:github:morganwillcock:kixtart-mode</id>
+  <published>2022-06-12T19:56:46Z</published>
+  <updated>2022-06-12T19:56:46Z</updated>
+  <content type="html">
+   KiXtart major mode for Emacs
+  </content>
+ </entry>
+ <entry>
+  <title>baruch11: emacs</title>
+  <author>
+   <name>baruch11</name>
+  </author>
+  <link href="https://github.com/baruch11/emacs" />
+  <id>urn:rprimus:github:baruch11:emacs</id>
+  <published>2022-06-12T18:47:44Z</published>
+  <updated>2022-06-12T18:47:44Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>swinkels: winlay</title>
+  <author>
+   <name>swinkels</name>
+  </author>
+  <link href="https://github.com/swinkels/winlay" />
+  <id>urn:rprimus:github:swinkels:winlay</id>
+  <published>2022-06-12T18:20:32Z</published>
+  <updated>2022-06-12T18:20:32Z</updated>
+  <content type="html">
+   Provide commands to layout Emacs windows and X windows
+  </content>
+ </entry>
+ <entry>
+  <title>leahevy: my-emacs-config</title>
+  <author>
+   <name>leahevy</name>
+  </author>
+  <link href="https://github.com/leahevy/my-emacs-config" />
+  <id>urn:rprimus:github:leahevy:my-emacs-config</id>
+  <published>2022-06-12T17:18:53Z</published>
+  <updated>2022-06-12T17:18:53Z</updated>
+  <content type="html">
+   My emacs configuration
+  </content>
+ </entry>
  <entry>
   <title>GNYDSummer: dotfiles</title>
   <author>
@@ -54,6 +145,19 @@
   <updated>2022-06-12T03:23:14Z</updated>
   <content type="html">
    emacs-packages
+  </content>
+ </entry>
+ <entry>
+  <title>donniebreve: rose-pine-doom-emacs</title>
+  <author>
+   <name>donniebreve</name>
+  </author>
+  <link href="https://github.com/donniebreve/rose-pine-doom-emacs" />
+  <id>urn:rprimus:github:donniebreve:rose-pine-doom-emacs</id>
+  <published>2022-06-12T01:18:56Z</published>
+  <updated>2022-06-12T01:18:56Z</updated>
+  <content type="html">
+   RosÃ© Pine for DOOM Emacs
   </content>
  </entry>
  <entry>
@@ -223,318 +327,6 @@
   <updated>2022-06-11T01:48:26Z</updated>
   <content type="html">
    Doom config
-  </content>
- </entry>
- <entry>
-  <title>s-fubuki: view-lock-mode</title>
-  <author>
-   <name>s-fubuki</name>
-  </author>
-  <link href="https://github.com/s-fubuki/view-lock-mode" />
-  <id>urn:rprimus:github:s-fubuki:view-lock-mode</id>
-  <published>2022-06-10T23:47:19Z</published>
-  <updated>2022-06-10T23:47:19Z</updated>
-  <content type="html">
-   Key is locked if no operation for a period of time in `view-mode&#039;.
-  </content>
- </entry>
- <entry>
-  <title>ajrosen: tab-bar-buffers</title>
-  <author>
-   <name>ajrosen</name>
-  </author>
-  <link href="https://github.com/ajrosen/tab-bar-buffers" />
-  <id>urn:rprimus:github:ajrosen:tab-bar-buffers</id>
-  <published>2022-06-10T23:41:43Z</published>
-  <updated>2022-06-10T23:41:43Z</updated>
-  <content type="html">
-   Use tab-bar-mode as a buffer manager
-  </content>
- </entry>
- <entry>
-  <title>ezchi: detached.el</title>
-  <author>
-   <name>ezchi</name>
-  </author>
-  <link href="https://github.com/ezchi/detached.el" />
-  <id>urn:rprimus:github:ezchi:detached.el</id>
-  <published>2022-06-10T23:36:22Z</published>
-  <updated>2022-06-10T23:36:22Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>bx-blee: fshell</title>
-  <author>
-   <name>bx-blee</name>
-  </author>
-  <link href="https://github.com/bx-blee/fshell" />
-  <id>urn:rprimus:github:bx-blee:fshell</id>
-  <published>2022-06-10T20:43:00Z</published>
-  <updated>2022-06-10T20:43:00Z</updated>
-  <content type="html">
-   fshell -- numbered shell -- Re-Publication of Noah Friedman &#039;s code --- circa 1994
-  </content>
- </entry>
- <entry>
-  <title>sainishwanth: Dotfiles</title>
-  <author>
-   <name>sainishwanth</name>
-  </author>
-  <link href="https://github.com/sainishwanth/Dotfiles" />
-  <id>urn:rprimus:github:sainishwanth:Dotfiles</id>
-  <published>2022-06-10T20:28:58Z</published>
-  <updated>2022-06-10T20:28:58Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>viniciustozzi: emacs-config</title>
-  <author>
-   <name>viniciustozzi</name>
-  </author>
-  <link href="https://github.com/viniciustozzi/emacs-config" />
-  <id>urn:rprimus:github:viniciustozzi:emacs-config</id>
-  <published>2022-06-10T20:22:55Z</published>
-  <updated>2022-06-10T20:22:55Z</updated>
-  <content type="html">
-   My current emacs configuration
-  </content>
- </entry>
- <entry>
-  <title>joligoms: emacs_config</title>
-  <author>
-   <name>joligoms</name>
-  </author>
-  <link href="https://github.com/joligoms/emacs_config" />
-  <id>urn:rprimus:github:joligoms:emacs_config</id>
-  <published>2022-06-10T17:26:35Z</published>
-  <updated>2022-06-10T17:26:35Z</updated>
-  <content type="html">
-   A portable configuration for my emacs setup.
-  </content>
- </entry>
- <entry>
-  <title>lscantelbury: .doom.d</title>
-  <author>
-   <name>lscantelbury</name>
-  </author>
-  <link href="https://github.com/lscantelbury/.doom.d" />
-  <id>urn:rprimus:github:lscantelbury:.doom.d</id>
-  <published>2022-06-10T16:59:24Z</published>
-  <updated>2022-06-10T16:59:24Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>CoolHandLouis: emacs-misc</title>
-  <author>
-   <name>CoolHandLouis</name>
-  </author>
-  <link href="https://github.com/CoolHandLouis/emacs-misc" />
-  <id>urn:rprimus:github:CoolHandLouis:emacs-misc</id>
-  <published>2022-06-10T15:52:06Z</published>
-  <updated>2022-06-10T15:52:06Z</updated>
-  <content type="html">
-   My Init File. Any other random stuff
-  </content>
- </entry>
- <entry>
-  <title>althebaker43: nand2tetris-docker</title>
-  <author>
-   <name>althebaker43</name>
-  </author>
-  <link href="https://github.com/althebaker43/nand2tetris-docker" />
-  <id>urn:rprimus:github:althebaker43:nand2tetris-docker</id>
-  <published>2022-06-10T14:08:06Z</published>
-  <updated>2022-06-10T14:08:06Z</updated>
-  <content type="html">
-   Docker setup for nand2tetris with emacs
-  </content>
- </entry>
- <entry>
-  <title>zkbpkp: god-mode</title>
-  <author>
-   <name>zkbpkp</name>
-  </author>
-  <link href="https://github.com/zkbpkp/god-mode" />
-  <id>urn:rprimus:github:zkbpkp:god-mode</id>
-  <published>2022-06-10T13:29:56Z</published>
-  <updated>2022-06-10T13:29:56Z</updated>
-  <content type="html">
-   upstream: ssh://git@github.com/emacsorphanage/god-mode.git
-  </content>
- </entry>
- <entry>
-  <title>zkbpkp: org</title>
-  <author>
-   <name>zkbpkp</name>
-  </author>
-  <link href="https://github.com/zkbpkp/org" />
-  <id>urn:rprimus:github:zkbpkp:org</id>
-  <published>2022-06-10T13:23:29Z</published>
-  <updated>2022-06-10T13:23:29Z</updated>
-  <content type="html">
-   upstream: https://git.savannah.gnu.org/git/emacs/org-mode.git
-  </content>
- </entry>
- <entry>
-  <title>pietrodito: SO-postamble-issue</title>
-  <author>
-   <name>pietrodito</name>
-  </author>
-  <link href="https://github.com/pietrodito/SO-postamble-issue" />
-  <id>urn:rprimus:github:pietrodito:SO-postamble-issue</id>
-  <published>2022-06-10T13:13:35Z</published>
-  <updated>2022-06-10T13:13:35Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Kinneyzhang: mygtd</title>
-  <author>
-   <name>Kinneyzhang</name>
-  </author>
-  <link href="https://github.com/Kinneyzhang/mygtd" />
-  <id>urn:rprimus:github:Kinneyzhang:mygtd</id>
-  <published>2022-06-10T12:49:36Z</published>
-  <updated>2022-06-10T12:49:36Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>psiayn: .doom.d</title>
-  <author>
-   <name>psiayn</name>
-  </author>
-  <link href="https://github.com/psiayn/.doom.d" />
-  <id>urn:rprimus:github:psiayn:.doom.d</id>
-  <published>2022-06-10T10:36:06Z</published>
-  <updated>2022-06-10T10:36:06Z</updated>
-  <content type="html">
-   My doom emacs config
-  </content>
- </entry>
- <entry>
-  <title>DimitrisMilonopoulos: doom-emacs-config</title>
-  <author>
-   <name>DimitrisMilonopoulos</name>
-  </author>
-  <link href="https://github.com/DimitrisMilonopoulos/doom-emacs-config" />
-  <id>urn:rprimus:github:DimitrisMilonopoulos:doom-emacs-config</id>
-  <published>2022-06-10T10:26:53Z</published>
-  <updated>2022-06-10T10:26:53Z</updated>
-  <content type="html">
-   Doom emacs configuration for Python, Go and Javascript/Typescript.
-  </content>
- </entry>
- <entry>
-  <title>adimanea: my-emacs</title>
-  <author>
-   <name>adimanea</name>
-  </author>
-  <link href="https://github.com/adimanea/my-emacs" />
-  <id>urn:rprimus:github:adimanea:my-emacs</id>
-  <published>2022-06-10T09:39:19Z</published>
-  <updated>2022-06-10T09:39:19Z</updated>
-  <content type="html">
-   Configurations, tips, tricks, notes... My Emacs journey
-  </content>
- </entry>
- <entry>
-  <title>hoangthienclub: emacs-doom</title>
-  <author>
-   <name>hoangthienclub</name>
-  </author>
-  <link href="https://github.com/hoangthienclub/emacs-doom" />
-  <id>urn:rprimus:github:hoangthienclub:emacs-doom</id>
-  <published>2022-06-10T09:13:58Z</published>
-  <updated>2022-06-10T09:13:58Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>bechampion: mydoomconfig</title>
-  <author>
-   <name>bechampion</name>
-  </author>
-  <link href="https://github.com/bechampion/mydoomconfig" />
-  <id>urn:rprimus:github:bechampion:mydoomconfig</id>
-  <published>2022-06-10T08:34:28Z</published>
-  <updated>2022-06-10T08:34:28Z</updated>
-  <content type="html">
-   My Doom Emacs Config
-  </content>
- </entry>
- <entry>
-  <title>ggjp: quick-actions</title>
-  <author>
-   <name>ggjp</name>
-  </author>
-  <link href="https://github.com/ggjp/quick-actions" />
-  <id>urn:rprimus:github:ggjp:quick-actions</id>
-  <published>2022-06-10T05:08:59Z</published>
-  <updated>2022-06-10T05:08:59Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>peter159: UNICORN</title>
-  <author>
-   <name>peter159</name>
-  </author>
-  <link href="https://github.com/peter159/UNICORN" />
-  <id>urn:rprimus:github:peter159:UNICORN</id>
-  <published>2022-06-10T04:04:01Z</published>
-  <updated>2022-06-10T04:04:01Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>forgondolin: doftiles</title>
-  <author>
-   <name>forgondolin</name>
-  </author>
-  <link href="https://github.com/forgondolin/doftiles" />
-  <id>urn:rprimus:github:forgondolin:doftiles</id>
-  <published>2022-06-10T02:07:12Z</published>
-  <updated>2022-06-10T02:07:12Z</updated>
-  <content type="html">
-   my personal configs
-  </content>
- </entry>
- <entry>
-  <title>zkry: yaml-pro</title>
-  <author>
-   <name>zkry</name>
-  </author>
-  <link href="https://github.com/zkry/yaml-pro" />
-  <id>urn:rprimus:github:zkry:yaml-pro</id>
-  <published>2022-06-10T01:29:39Z</published>
-  <updated>2022-06-10T01:29:39Z</updated>
-  <content type="html">
-   Edit YAML in Emacs like a pro
-  </content>
- </entry>
- <entry>
-  <title>emacs-straight: aircon-theme</title>
-  <author>
-   <name>emacs-straight</name>
-  </author>
-  <link href="https://github.com/emacs-straight/aircon-theme" />
-  <id>urn:rprimus:github:emacs-straight:aircon-theme</id>
-  <published>2022-06-10T00:06:02Z</published>
-  <updated>2022-06-10T00:06:02Z</updated>
-  <content type="html">
-   Mirror of the aircon-theme package from GNU ELPA, current as of 2022-06-12
   </content>
  </entry>
 </feed>
