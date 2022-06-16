@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-racket.atom"/>
 <id>urn:rprimus:github:newracketrepos</id>
-<updated>2022-06-15T04:05:38Z</updated>
+<updated>2022-06-16T02:20:14Z</updated>
 <title type='text'>New GitHub Racket Repos</title>
+ <entry>
+  <title>jackfirth: syntax-render</title>
+  <author>
+   <name>jackfirth</name>
+  </author>
+  <link href="https://github.com/jackfirth/syntax-render" />
+  <id>urn:rprimus:github:jackfirth:syntax-render</id>
+  <published>2022-06-16T02:20:14Z</published>
+  <updated>2022-06-16T02:20:14Z</updated>
+  <content type="html">
+   A Racket package for rendering syntax objects into strings
+  </content>
+ </entry>
+ <entry>
+  <title>const-dominik: university-courses</title>
+  <author>
+   <name>const-dominik</name>
+  </author>
+  <link href="https://github.com/const-dominik/university-courses" />
+  <id>urn:rprimus:github:const-dominik:university-courses</id>
+  <published>2022-06-15T22:07:46Z</published>
+  <updated>2022-06-15T22:07:46Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>arjandhakal: little-schemer-solutions</title>
+  <author>
+   <name>arjandhakal</name>
+  </author>
+  <link href="https://github.com/arjandhakal/little-schemer-solutions" />
+  <id>urn:rprimus:github:arjandhakal:little-schemer-solutions</id>
+  <published>2022-06-15T10:01:01Z</published>
+  <updated>2022-06-15T10:01:01Z</updated>
+  <content type="html">
+   Solutions for the exercises from the little schemer book
+  </content>
+ </entry>
  <entry>
   <title>Alecprice: CSC388_HW_03</title>
   <author>
@@ -93,123 +132,6 @@
   <updated>2022-06-14T06:25:15Z</updated>
   <content type="html">
    classical logic
-  </content>
- </entry>
- <entry>
-  <title>dstorrs: rx-tx-async-channel</title>
-  <author>
-   <name>dstorrs</name>
-  </author>
-  <link href="https://github.com/dstorrs/rx-tx-async-channel" />
-  <id>urn:rprimus:github:dstorrs:rx-tx-async-channel</id>
-  <published>2022-06-13T22:01:02Z</published>
-  <updated>2022-06-13T22:01:02Z</updated>
-  <content type="html">
-   A Racket struct for bi-directional communication via async channels
-  </content>
- </entry>
- <entry>
-  <title>Strzelacz48: MP_Lista13</title>
-  <author>
-   <name>Strzelacz48</name>
-  </author>
-  <link href="https://github.com/Strzelacz48/MP_Lista13" />
-  <id>urn:rprimus:github:Strzelacz48:MP_Lista13</id>
-  <published>2022-06-13T21:35:18Z</published>
-  <updated>2022-06-13T21:35:18Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>lohamsilva-ufop: one-v1</title>
-  <author>
-   <name>lohamsilva-ufop</name>
-  </author>
-  <link href="https://github.com/lohamsilva-ufop/one-v1" />
-  <id>urn:rprimus:github:lohamsilva-ufop:one-v1</id>
-  <published>2022-06-13T18:59:11Z</published>
-  <updated>2022-06-13T18:59:11Z</updated>
-  <content type="html">
-   Projeto da Linguagem de ProgramaÃ§Ã£o One - VersÃ£o 01.
-  </content>
- </entry>
- <entry>
-  <title>feraranas: EjerciciosProgramacionFuncional</title>
-  <author>
-   <name>feraranas</name>
-  </author>
-  <link href="https://github.com/feraranas/EjerciciosProgramacionFuncional" />
-  <id>urn:rprimus:github:feraranas:EjerciciosProgramacionFuncional</id>
-  <published>2022-06-13T17:19:19Z</published>
-  <updated>2022-06-13T17:19:19Z</updated>
-  <content type="html">
-   18 Ejercicios MatemÃ¡ticos programando con Paradigma Funcional
-  </content>
- </entry>
- <entry>
-  <title>R4-IV: Racket_Tank_Game</title>
-  <author>
-   <name>R4-IV</name>
-  </author>
-  <link href="https://github.com/R4-IV/Racket_Tank_Game" />
-  <id>urn:rprimus:github:R4-IV:Racket_Tank_Game</id>
-  <published>2022-06-13T14:33:01Z</published>
-  <updated>2022-06-13T14:33:01Z</updated>
-  <content type="html">
-   A wip tank game written in dr racket 
-  </content>
- </entry>
- <entry>
-  <title>derkachdaniil: racket-c-plus-plus</title>
-  <author>
-   <name>derkachdaniil</name>
-  </author>
-  <link href="https://github.com/derkachdaniil/racket-c-plus-plus" />
-  <id>urn:rprimus:github:derkachdaniil:racket-c-plus-plus</id>
-  <published>2022-06-13T13:27:45Z</published>
-  <updated>2022-06-13T13:27:45Z</updated>
-  <content type="html">
-   attempt at creating c++ in racket
-  </content>
- </entry>
- <entry>
-  <title>alexander-john: ufo-landing</title>
-  <author>
-   <name>alexander-john</name>
-  </author>
-  <link href="https://github.com/alexander-john/ufo-landing" />
-  <id>urn:rprimus:github:alexander-john:ufo-landing</id>
-  <published>2022-06-13T12:19:46Z</published>
-  <updated>2022-06-13T12:19:46Z</updated>
-  <content type="html">
-   Programming exercise from &quot;How to Design Programs: An Introduction to Programming and Computing&quot; 
-  </content>
- </entry>
- <entry>
-  <title>Electricpower7804: racket-practice</title>
-  <author>
-   <name>Electricpower7804</name>
-  </author>
-  <link href="https://github.com/Electricpower7804/racket-practice" />
-  <id>urn:rprimus:github:Electricpower7804:racket-practice</id>
-  <published>2022-06-13T00:24:04Z</published>
-  <updated>2022-06-13T00:24:04Z</updated>
-  <content type="html">
-   Small projects meant to learn the Racket programming language
-  </content>
- </entry>
- <entry>
-  <title>mxpx1412: sicp-study</title>
-  <author>
-   <name>mxpx1412</name>
-  </author>
-  <link href="https://github.com/mxpx1412/sicp-study" />
-  <id>urn:rprimus:github:mxpx1412:sicp-study</id>
-  <published>2022-06-13T00:23:48Z</published>
-  <updated>2022-06-13T00:23:48Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
