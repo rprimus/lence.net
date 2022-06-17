@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2022-06-15T20:53:15Z</updated>
+<updated>2022-06-16T12:38:12Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>mamantoha: ydokey</title>
+  <author>
+   <name>mamantoha</name>
+  </author>
+  <link href="https://github.com/mamantoha/ydokey" />
+  <id>urn:rprimus:github:mamantoha:ydokey</id>
+  <published>2022-06-16T12:38:12Z</published>
+  <updated>2022-06-16T12:38:12Z</updated>
+  <content type="html">
+   A simple command-line utility for Linux to convent key commands to raw keycodes which used in ydotool
+  </content>
+ </entry>
+ <entry>
+  <title>vklokov: dump-digger-cr</title>
+  <author>
+   <name>vklokov</name>
+  </author>
+  <link href="https://github.com/vklokov/dump-digger-cr" />
+  <id>urn:rprimus:github:vklokov:dump-digger-cr</id>
+  <published>2022-06-16T11:06:35Z</published>
+  <updated>2022-06-16T11:06:35Z</updated>
+  <content type="html">
+   Ruby&#039;s memory dump analyzer
+  </content>
+ </entry>
  <entry>
   <title>thechampagne: to-do-list</title>
   <author>
@@ -31,29 +57,16 @@
   </content>
  </entry>
  <entry>
-  <title>szleoyangyueyun: szlucky_router</title>
+  <title>oneschris: am-ber</title>
   <author>
-   <name>szleoyangyueyun</name>
+   <name>oneschris</name>
   </author>
-  <link href="https://github.com/szleoyangyueyun/szlucky_router" />
-  <id>urn:rprimus:github:szleoyangyueyun:szlucky_router</id>
-  <published>2022-06-14T17:24:32Z</published>
-  <updated>2022-06-14T17:24:32Z</updated>
+  <link href="https://github.com/oneschris/am-ber" />
+  <id>urn:rprimus:github:oneschris:am-ber</id>
+  <published>2022-06-15T07:42:32Z</published>
+  <updated>2022-06-15T07:42:32Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>fnordfish: gdbmish</title>
-  <author>
-   <name>fnordfish</name>
-  </author>
-  <link href="https://github.com/fnordfish/gdbmish" />
-  <id>urn:rprimus:github:fnordfish:gdbmish</id>
-  <published>2022-06-14T10:49:00Z</published>
-  <updated>2022-06-14T10:49:00Z</updated>
-  <content type="html">
-   Convert crystal data structures into a `gdbm_dump` ASCII format.
   </content>
  </entry>
 </feed>

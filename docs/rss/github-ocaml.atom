@@ -2,8 +2,125 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2022-06-16T09:28:45Z</updated>
+<updated>2022-06-17T02:01:40Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>cphalen: ocaml-sql</title>
+  <author>
+   <name>cphalen</name>
+  </author>
+  <link href="https://github.com/cphalen/ocaml-sql" />
+  <id>urn:rprimus:github:cphalen:ocaml-sql</id>
+  <published>2022-06-17T02:01:40Z</published>
+  <updated>2022-06-17T02:01:40Z</updated>
+  <content type="html">
+   Toy implementation of a subset of SQL with an OCaml abstract syntax tree to experiment with Dune and OCaml Core.
+  </content>
+ </entry>
+ <entry>
+  <title>jujuspence: MicroCaml_Lexer_and_Parser</title>
+  <author>
+   <name>jujuspence</name>
+  </author>
+  <link href="https://github.com/jujuspence/MicroCaml_Lexer_and_Parser" />
+  <id>urn:rprimus:github:jujuspence:MicroCaml_Lexer_and_Parser</id>
+  <published>2022-06-17T00:33:23Z</published>
+  <updated>2022-06-17T00:33:23Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>jujuspence: Regular_Expression_Engine</title>
+  <author>
+   <name>jujuspence</name>
+  </author>
+  <link href="https://github.com/jujuspence/Regular_Expression_Engine" />
+  <id>urn:rprimus:github:jujuspence:Regular_Expression_Engine</id>
+  <published>2022-06-17T00:31:05Z</published>
+  <updated>2022-06-17T00:31:05Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>jujuspence: OCaml_Higher_Order_Functions_and_Data</title>
+  <author>
+   <name>jujuspence</name>
+  </author>
+  <link href="https://github.com/jujuspence/OCaml_Higher_Order_Functions_and_Data" />
+  <id>urn:rprimus:github:jujuspence:OCaml_Higher_Order_Functions_and_Data</id>
+  <published>2022-06-17T00:26:46Z</published>
+  <updated>2022-06-17T00:26:46Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>jujuspence: OCaml_Warmup</title>
+  <author>
+   <name>jujuspence</name>
+  </author>
+  <link href="https://github.com/jujuspence/OCaml_Warmup" />
+  <id>urn:rprimus:github:jujuspence:OCaml_Warmup</id>
+  <published>2022-06-17T00:18:56Z</published>
+  <updated>2022-06-17T00:18:56Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>anmolsahoo25: aligned_int</title>
+  <author>
+   <name>anmolsahoo25</name>
+  </author>
+  <link href="https://github.com/anmolsahoo25/aligned_int" />
+  <id>urn:rprimus:github:anmolsahoo25:aligned_int</id>
+  <published>2022-06-16T23:19:58Z</published>
+  <updated>2022-06-16T23:19:58Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>lukerhoads: raytracer</title>
+  <author>
+   <name>lukerhoads</name>
+  </author>
+  <link href="https://github.com/lukerhoads/raytracer" />
+  <id>urn:rprimus:github:lukerhoads:raytracer</id>
+  <published>2022-06-16T22:35:14Z</published>
+  <updated>2022-06-16T22:35:14Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>D0gmaDev: huffman-coding</title>
+  <author>
+   <name>D0gmaDev</name>
+  </author>
+  <link href="https://github.com/D0gmaDev/huffman-coding" />
+  <id>urn:rprimus:github:D0gmaDev:huffman-coding</id>
+  <published>2022-06-16T18:10:02Z</published>
+  <updated>2022-06-16T18:10:02Z</updated>
+  <content type="html">
+   An evaluation in computer science
+  </content>
+ </entry>
+ <entry>
+  <title>ghuysmans: shenzhen</title>
+  <author>
+   <name>ghuysmans</name>
+  </author>
+  <link href="https://github.com/ghuysmans/shenzhen" />
+  <id>urn:rprimus:github:ghuysmans:shenzhen</id>
+  <published>2022-06-16T13:17:19Z</published>
+  <updated>2022-06-16T13:17:19Z</updated>
+  <content type="html">
+   A parser for SHENZHEN I/O assembly programs
+  </content>
+ </entry>
  <entry>
   <title>rarible: legacy-rarible-backend</title>
   <author>
@@ -143,84 +260,6 @@
   <id>urn:rprimus:github:yunuseozer:serde-program</id>
   <published>2022-06-15T07:00:37Z</published>
   <updated>2022-06-15T07:00:37Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>mvanier: clc</title>
-  <author>
-   <name>mvanier</name>
-  </author>
-  <link href="https://github.com/mvanier/clc" />
-  <id>urn:rprimus:github:mvanier:clc</id>
-  <published>2022-06-14T23:48:02Z</published>
-  <updated>2022-06-14T23:48:02Z</updated>
-  <content type="html">
-   A combinatory logic calculator
-  </content>
- </entry>
- <entry>
-  <title>scosta18: cmcc330</title>
-  <author>
-   <name>scosta18</name>
-  </author>
-  <link href="https://github.com/scosta18/cmcc330" />
-  <id>urn:rprimus:github:scosta18:cmcc330</id>
-  <published>2022-06-14T22:13:53Z</published>
-  <updated>2022-06-14T22:13:53Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>GaucherDeC: infosec-ecomp-master</title>
-  <author>
-   <name>GaucherDeC</name>
-  </author>
-  <link href="https://github.com/GaucherDeC/infosec-ecomp-master" />
-  <id>urn:rprimus:github:GaucherDeC:infosec-ecomp-master</id>
-  <published>2022-06-14T21:25:00Z</published>
-  <updated>2022-06-14T21:25:00Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>sagotch: jingoo_plugin_yaml</title>
-  <author>
-   <name>sagotch</name>
-  </author>
-  <link href="https://github.com/sagotch/jingoo_plugin_yaml" />
-  <id>urn:rprimus:github:sagotch:jingoo_plugin_yaml</id>
-  <published>2022-06-14T14:35:55Z</published>
-  <updated>2022-06-14T14:35:55Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>psg-mit: tower-oopsla22</title>
-  <author>
-   <name>psg-mit</name>
-  </author>
-  <link href="https://github.com/psg-mit/tower-oopsla22" />
-  <id>urn:rprimus:github:psg-mit:tower-oopsla22</id>
-  <published>2022-06-14T13:26:18Z</published>
-  <updated>2022-06-14T13:26:18Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>rk5148: casinoproject</title>
-  <author>
-   <name>rk5148</name>
-  </author>
-  <link href="https://github.com/rk5148/casinoproject" />
-  <id>urn:rprimus:github:rk5148:casinoproject</id>
-  <published>2022-06-14T01:02:52Z</published>
-  <updated>2022-06-14T01:02:52Z</updated>
   <content type="html">
    
   </content>

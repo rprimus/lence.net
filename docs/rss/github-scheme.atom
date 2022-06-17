@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-scheme.atom"/>
 <id>urn:rprimus:github:newschemerepos</id>
-<updated>2022-06-16T07:38:54Z</updated>
+<updated>2022-06-16T20:10:37Z</updated>
 <title type='text'>New GitHub Scheme Repos</title>
+ <entry>
+  <title>felix-lipski: raylib-chez</title>
+  <author>
+   <name>felix-lipski</name>
+  </author>
+  <link href="https://github.com/felix-lipski/raylib-chez" />
+  <id>urn:rprimus:github:felix-lipski:raylib-chez</id>
+  <published>2022-06-16T20:10:37Z</published>
+  <updated>2022-06-16T20:10:37Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>koiel: Exodus-Movement-Wallet-Api-Source-Payment-Geteway</title>
+  <author>
+   <name>koiel</name>
+  </author>
+  <link href="https://github.com/koiel/Exodus-Movement-Wallet-Api-Source-Payment-Geteway" />
+  <id>urn:rprimus:github:koiel:Exodus-Movement-Wallet-Api-Source-Payment-Geteway</id>
+  <published>2022-06-16T19:38:42Z</published>
+  <updated>2022-06-16T19:38:42Z</updated>
+  <content type="html">
+   The exporter is accessible either through rightclick within hierarchy view in Unity, OR through &quot;Migrate to UE4&quot; within main menu of unity. Following options are available:  Export current object - will export current object only with minimal information about the rest of the scene. Export selected objects - will export selected objects within current scene Export current scene - will attempt to export current scene and all objects in it. Export current project - the plugin will attempt to enumerate all resources within the project and export all of them, including scenes. Once you selected desired option, you&#039;ll be prompted to pick up an empty location for the &quot;project&quot; fuke and exported data. It is a good idea to select an empty folder without anything else in it. The exported data constists of one &quot;master&quot; file in json format and a folder with similar name. Once project export starts, the plugin will copy and convert relevant data into the destination folder.  On unreal side simply find &quot;Import&quot; button in the tool bar, and select the *.json file you exported with it.
+  </content>
+ </entry>
+ <entry>
+  <title>Lukasiuuk: Lukasiuuk.github.io</title>
+  <author>
+   <name>Lukasiuuk</name>
+  </author>
+  <link href="https://github.com/Lukasiuuk/Lukasiuuk.github.io" />
+  <id>urn:rprimus:github:Lukasiuuk:Lukasiuuk.github.io</id>
+  <published>2022-06-16T12:28:46Z</published>
+  <updated>2022-06-16T12:28:46Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>schemeorg: wiliki</title>
   <author>
@@ -67,58 +106,6 @@
   <updated>2022-06-15T05:12:05Z</updated>
   <content type="html">
    for learning sicp
-  </content>
- </entry>
- <entry>
-  <title>yewscion: guile-cdr255</title>
-  <author>
-   <name>yewscion</name>
-  </author>
-  <link href="https://github.com/yewscion/guile-cdr255" />
-  <id>urn:rprimus:github:yewscion:guile-cdr255</id>
-  <published>2022-06-14T23:24:35Z</published>
-  <updated>2022-06-14T23:24:35Z</updated>
-  <content type="html">
-   Personal GNU Guile Library
-  </content>
- </entry>
- <entry>
-  <title>VVoses: huffman</title>
-  <author>
-   <name>VVoses</name>
-  </author>
-  <link href="https://github.com/VVoses/huffman" />
-  <id>urn:rprimus:github:VVoses:huffman</id>
-  <published>2022-06-14T14:28:07Z</published>
-  <updated>2022-06-14T14:28:07Z</updated>
-  <content type="html">
-   Huffman encoder/decoder written in Scheme
-  </content>
- </entry>
- <entry>
-  <title>silvolde428: leftwm_dotfiles</title>
-  <author>
-   <name>silvolde428</name>
-  </author>
-  <link href="https://github.com/silvolde428/leftwm_dotfiles" />
-  <id>urn:rprimus:github:silvolde428:leftwm_dotfiles</id>
-  <published>2022-06-14T12:25:31Z</published>
-  <updated>2022-06-14T12:25:31Z</updated>
-  <content type="html">
-   My current WM config
-  </content>
- </entry>
- <entry>
-  <title>berezhko: sicp-example</title>
-  <author>
-   <name>berezhko</name>
-  </author>
-  <link href="https://github.com/berezhko/sicp-example" />
-  <id>urn:rprimus:github:berezhko:sicp-example</id>
-  <published>2022-06-14T12:22:58Z</published>
-  <updated>2022-06-14T12:22:58Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>

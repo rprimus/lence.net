@@ -2,8 +2,112 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-06-16T02:30:40Z</updated>
+<updated>2022-06-17T05:01:16Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>Patrick-Poitras: cl-factor</title>
+  <author>
+   <name>Patrick-Poitras</name>
+  </author>
+  <link href="https://github.com/Patrick-Poitras/cl-factor" />
+  <id>urn:rprimus:github:Patrick-Poitras:cl-factor</id>
+  <published>2022-06-17T05:01:16Z</published>
+  <updated>2022-06-17T05:01:16Z</updated>
+  <content type="html">
+   Common Lisp factorisation library for big numbers.
+  </content>
+ </entry>
+ <entry>
+  <title>hyotang666: glsl-env</title>
+  <author>
+   <name>hyotang666</name>
+  </author>
+  <link href="https://github.com/hyotang666/glsl-env" />
+  <id>urn:rprimus:github:hyotang666:glsl-env</id>
+  <published>2022-06-17T04:19:14Z</published>
+  <updated>2022-06-17T04:19:14Z</updated>
+  <content type="html">
+   CLtL2 compatible environment protocol for GLSL.
+  </content>
+ </entry>
+ <entry>
+  <title>mfiano: cl-zfs-backup</title>
+  <author>
+   <name>mfiano</name>
+  </author>
+  <link href="https://github.com/mfiano/cl-zfs-backup" />
+  <id>urn:rprimus:github:mfiano:cl-zfs-backup</id>
+  <published>2022-06-17T02:34:51Z</published>
+  <updated>2022-06-17T02:34:51Z</updated>
+  <content type="html">
+   An automated ZFS filesystem backup solution.
+  </content>
+ </entry>
+ <entry>
+  <title>nakane11: teach_spot</title>
+  <author>
+   <name>nakane11</name>
+  </author>
+  <link href="https://github.com/nakane11/teach_spot" />
+  <id>urn:rprimus:github:nakane11:teach_spot</id>
+  <published>2022-06-17T02:09:48Z</published>
+  <updated>2022-06-17T02:09:48Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>pearsonsam27: ToC2</title>
+  <author>
+   <name>pearsonsam27</name>
+  </author>
+  <link href="https://github.com/pearsonsam27/ToC2" />
+  <id>urn:rprimus:github:pearsonsam27:ToC2</id>
+  <published>2022-06-17T00:58:28Z</published>
+  <updated>2022-06-17T00:58:28Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>pearsonsam27: ToC0</title>
+  <author>
+   <name>pearsonsam27</name>
+  </author>
+  <link href="https://github.com/pearsonsam27/ToC0" />
+  <id>urn:rprimus:github:pearsonsam27:ToC0</id>
+  <published>2022-06-17T00:57:44Z</published>
+  <updated>2022-06-17T00:57:44Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>bruce-hey: wordscapes</title>
+  <author>
+   <name>bruce-hey</name>
+  </author>
+  <link href="https://github.com/bruce-hey/wordscapes" />
+  <id>urn:rprimus:github:bruce-hey:wordscapes</id>
+  <published>2022-06-16T21:55:52Z</published>
+  <updated>2022-06-16T21:55:52Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>m-e-leypold: clon</title>
+  <author>
+   <name>m-e-leypold</name>
+  </author>
+  <link href="https://github.com/m-e-leypold/clon" />
+  <id>urn:rprimus:github:m-e-leypold:clon</id>
+  <published>2022-06-16T17:19:45Z</published>
+  <updated>2022-06-16T17:19:45Z</updated>
+  <content type="html">
+   Stage to merge https://github.com/jakeconnor/clon and https://github.com/didierverna/clon
+  </content>
+ </entry>
  <entry>
   <title>YasmanyArciaCorcho: mga-source</title>
   <author>
@@ -80,58 +184,6 @@
   <updated>2022-06-15T01:21:37Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>svetlyak40wt: cl-static-resources</title>
-  <author>
-   <name>svetlyak40wt</name>
-  </author>
-  <link href="https://github.com/svetlyak40wt/cl-static-resources" />
-  <id>urn:rprimus:github:svetlyak40wt:cl-static-resources</id>
-  <published>2022-06-14T23:19:12Z</published>
-  <updated>2022-06-14T23:19:12Z</updated>
-  <content type="html">
-   A small demo showing how it is easy to compile a static resource into a Common Lisp binary
-  </content>
- </entry>
- <entry>
-  <title>kaveh808: kons-9</title>
-  <author>
-   <name>kaveh808</name>
-  </author>
-  <link href="https://github.com/kaveh808/kons-9" />
-  <id>urn:rprimus:github:kaveh808:kons-9</id>
-  <published>2022-06-14T22:59:44Z</published>
-  <updated>2022-06-14T22:59:44Z</updated>
-  <content type="html">
-   Common Lisp 3D graphics code
-  </content>
- </entry>
- <entry>
-  <title>kpblc2000: KpblcLispLib</title>
-  <author>
-   <name>kpblc2000</name>
-  </author>
-  <link href="https://github.com/kpblc2000/KpblcLispLib" />
-  <id>urn:rprimus:github:kpblc2000:KpblcLispLib</id>
-  <published>2022-06-14T17:44:57Z</published>
-  <updated>2022-06-14T17:44:57Z</updated>
-  <content type="html">
-   ÐÐ¸Ð±Ð»Ð¸Ð¾ÑÐµÐºÐ° ÑÑÐ½ÐºÑÐ¸Ð¹ AutoLISP
-  </content>
- </entry>
- <entry>
-  <title>alutwak: say-things</title>
-  <author>
-   <name>alutwak</name>
-  </author>
-  <link href="https://github.com/alutwak/say-things" />
-  <id>urn:rprimus:github:alutwak:say-things</id>
-  <published>2022-06-14T06:42:23Z</published>
-  <updated>2022-06-14T06:42:23Z</updated>
-  <content type="html">
-   a lisp sentence-generator plugged into the macos &quot;say&quot; command
   </content>
  </entry>
 </feed>
