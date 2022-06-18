@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2022-06-17T02:08:51Z</updated>
+<updated>2022-06-18T03:14:00Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>ire4ever1190: anano</title>
+  <author>
+   <name>ire4ever1190</name>
+  </author>
+  <link href="https://github.com/ire4ever1190/anano" />
+  <id>urn:rprimus:github:ire4ever1190:anano</id>
+  <published>2022-06-18T03:14:00Z</published>
+  <updated>2022-06-18T03:14:00Z</updated>
+  <content type="html">
+   Another nanoID implementation for nim
+  </content>
+ </entry>
  <entry>
   <title>IcedQuinn: splitmix64</title>
   <author>
@@ -67,32 +80,6 @@
   <updated>2022-06-16T01:39:11Z</updated>
   <content type="html">
    Asynchronous downloads manager library for Nim.
-  </content>
- </entry>
- <entry>
-  <title>quantimnot: nup</title>
-  <author>
-   <name>quantimnot</name>
-  </author>
-  <link href="https://github.com/quantimnot/nup" />
-  <id>urn:rprimus:github:quantimnot:nup</id>
-  <published>2022-06-15T18:35:09Z</published>
-  <updated>2022-06-15T18:35:09Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>JkMaFlLi: nimverse.nim</title>
-  <author>
-   <name>JkMaFlLi</name>
-  </author>
-  <link href="https://github.com/JkMaFlLi/nimverse.nim" />
-  <id>urn:rprimus:github:JkMaFlLi:nimverse.nim</id>
-  <published>2022-06-15T13:53:31Z</published>
-  <updated>2022-06-15T13:53:31Z</updated>
-  <content type="html">
-   reverse shell in nim
   </content>
  </entry>
 </feed>
