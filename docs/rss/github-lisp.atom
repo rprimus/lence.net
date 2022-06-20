@@ -2,8 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-06-18T12:42:27Z</updated>
+<updated>2022-06-19T19:33:31Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>finitestates: cond-utils</title>
+  <author>
+   <name>finitestates</name>
+  </author>
+  <link href="https://github.com/finitestates/cond-utils" />
+  <id>urn:rprimus:github:finitestates:cond-utils</id>
+  <published>2022-06-19T19:33:31Z</published>
+  <updated>2022-06-19T19:33:31Z</updated>
+  <content type="html">
+   a place to store some interesting common lisp expressions
+  </content>
+ </entry>
+ <entry>
+  <title>Hectarea1996: more-cffi</title>
+  <author>
+   <name>Hectarea1996</name>
+  </author>
+  <link href="https://github.com/Hectarea1996/more-cffi" />
+  <id>urn:rprimus:github:Hectarea1996:more-cffi</id>
+  <published>2022-06-19T16:31:55Z</published>
+  <updated>2022-06-19T16:31:55Z</updated>
+  <content type="html">
+   Additional helper macros for the cffi project
+  </content>
+ </entry>
+ <entry>
+  <title>l-peron: ia01-expertsystem</title>
+  <author>
+   <name>l-peron</name>
+  </author>
+  <link href="https://github.com/l-peron/ia01-expertsystem" />
+  <id>urn:rprimus:github:l-peron:ia01-expertsystem</id>
+  <published>2022-06-19T15:56:27Z</published>
+  <updated>2022-06-19T15:56:27Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Shookakko: slynk-client</title>
+  <author>
+   <name>Shookakko</name>
+  </author>
+  <link href="https://github.com/Shookakko/slynk-client" />
+  <id>urn:rprimus:github:Shookakko:slynk-client</id>
+  <published>2022-06-19T15:44:20Z</published>
+  <updated>2022-06-19T15:44:20Z</updated>
+  <content type="html">
+     Common Lisp client to interact with the Slynk server (it probably also work with swank)  (base on https://github.com/brown/swank-client)
+  </content>
+ </entry>
+ <entry>
+  <title>VSteveHL: my-ANSI-common-lisp-answer</title>
+  <author>
+   <name>VSteveHL</name>
+  </author>
+  <link href="https://github.com/VSteveHL/my-ANSI-common-lisp-answer" />
+  <id>urn:rprimus:github:VSteveHL:my-ANSI-common-lisp-answer</id>
+  <published>2022-06-19T13:36:00Z</published>
+  <updated>2022-06-19T13:36:00Z</updated>
+  <content type="html">
+   è¯çåä¸ä¸...
+  </content>
+ </entry>
+ <entry>
+  <title>Gavlooth: Markov-Chain-Name-Generator</title>
+  <author>
+   <name>Gavlooth</name>
+  </author>
+  <link href="https://github.com/Gavlooth/Markov-Chain-Name-Generator" />
+  <id>urn:rprimus:github:Gavlooth:Markov-Chain-Name-Generator</id>
+  <published>2022-06-19T12:48:55Z</published>
+  <updated>2022-06-19T12:48:55Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>luisgustavomiki: cast</title>
+  <author>
+   <name>luisgustavomiki</name>
+  </author>
+  <link href="https://github.com/luisgustavomiki/cast" />
+  <id>urn:rprimus:github:luisgustavomiki:cast</id>
+  <published>2022-06-18T19:37:39Z</published>
+  <updated>2022-06-18T19:37:39Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>FranGarcia94: 2D-AutoCAD-projection</title>
   <author>
@@ -65,110 +156,6 @@
   <id>urn:rprimus:github:chengzhengqian:nyxt_config</id>
   <published>2022-06-18T01:23:46Z</published>
   <updated>2022-06-18T01:23:46Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>vindarel: demo-djula-in-binaries</title>
-  <author>
-   <name>vindarel</name>
-  </author>
-  <link href="https://github.com/vindarel/demo-djula-in-binaries" />
-  <id>urn:rprimus:github:vindarel:demo-djula-in-binaries</id>
-  <published>2022-06-17T16:58:02Z</published>
-  <updated>2022-06-17T16:58:02Z</updated>
-  <content type="html">
-   Can we ship Djula templates in a self-contained binary?
-  </content>
- </entry>
- <entry>
-  <title>heiwiper: practical-common-lisp</title>
-  <author>
-   <name>heiwiper</name>
-  </author>
-  <link href="https://github.com/heiwiper/practical-common-lisp" />
-  <id>urn:rprimus:github:heiwiper:practical-common-lisp</id>
-  <published>2022-06-17T14:57:49Z</published>
-  <updated>2022-06-17T14:57:49Z</updated>
-  <content type="html">
-   Collection of code samples from the book Practical Common Lisp by Peter Seibel.
-  </content>
- </entry>
- <entry>
-  <title>Patrick-Poitras: cl-factor</title>
-  <author>
-   <name>Patrick-Poitras</name>
-  </author>
-  <link href="https://github.com/Patrick-Poitras/cl-factor" />
-  <id>urn:rprimus:github:Patrick-Poitras:cl-factor</id>
-  <published>2022-06-17T05:01:16Z</published>
-  <updated>2022-06-17T05:01:16Z</updated>
-  <content type="html">
-   Common Lisp factorisation library for big numbers.
-  </content>
- </entry>
- <entry>
-  <title>hyotang666: glsl-env</title>
-  <author>
-   <name>hyotang666</name>
-  </author>
-  <link href="https://github.com/hyotang666/glsl-env" />
-  <id>urn:rprimus:github:hyotang666:glsl-env</id>
-  <published>2022-06-17T04:19:14Z</published>
-  <updated>2022-06-17T04:19:14Z</updated>
-  <content type="html">
-   CLtL2 compatible environment protocol for GLSL.
-  </content>
- </entry>
- <entry>
-  <title>mfiano: cl-zfs-backup</title>
-  <author>
-   <name>mfiano</name>
-  </author>
-  <link href="https://github.com/mfiano/cl-zfs-backup" />
-  <id>urn:rprimus:github:mfiano:cl-zfs-backup</id>
-  <published>2022-06-17T02:34:51Z</published>
-  <updated>2022-06-17T02:34:51Z</updated>
-  <content type="html">
-   An automated ZFS filesystem backup solution.
-  </content>
- </entry>
- <entry>
-  <title>nakane11: teach_spot</title>
-  <author>
-   <name>nakane11</name>
-  </author>
-  <link href="https://github.com/nakane11/teach_spot" />
-  <id>urn:rprimus:github:nakane11:teach_spot</id>
-  <published>2022-06-17T02:09:48Z</published>
-  <updated>2022-06-17T02:09:48Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>pearsonsam27: ToC2</title>
-  <author>
-   <name>pearsonsam27</name>
-  </author>
-  <link href="https://github.com/pearsonsam27/ToC2" />
-  <id>urn:rprimus:github:pearsonsam27:ToC2</id>
-  <published>2022-06-17T00:58:28Z</published>
-  <updated>2022-06-17T00:58:28Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>pearsonsam27: ToC0</title>
-  <author>
-   <name>pearsonsam27</name>
-  </author>
-  <link href="https://github.com/pearsonsam27/ToC0" />
-  <id>urn:rprimus:github:pearsonsam27:ToC0</id>
-  <published>2022-06-17T00:57:44Z</published>
-  <updated>2022-06-17T00:57:44Z</updated>
   <content type="html">
    
   </content>
