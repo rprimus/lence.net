@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2022-06-21T08:30:49Z</updated>
+<updated>2022-06-22T00:12:06Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>jinh0: atp</title>
+  <author>
+   <name>jinh0</name>
+  </author>
+  <link href="https://github.com/jinh0/atp" />
+  <id>urn:rprimus:github:jinh0:atp</id>
+  <published>2022-06-22T00:12:06Z</published>
+  <updated>2022-06-22T00:12:06Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Gopiandcode: guile-ocaml</title>
+  <author>
+   <name>Gopiandcode</name>
+  </author>
+  <link href="https://github.com/Gopiandcode/guile-ocaml" />
+  <id>urn:rprimus:github:Gopiandcode:guile-ocaml</id>
+  <published>2022-06-21T21:22:07Z</published>
+  <updated>2022-06-21T21:22:07Z</updated>
+  <content type="html">
+   GNU Guile Scheme bindings for OCaml
+  </content>
+ </entry>
+ <entry>
+  <title>najdk75: Analyse-statique-d-un-mini-langage</title>
+  <author>
+   <name>najdk75</name>
+  </author>
+  <link href="https://github.com/najdk75/Analyse-statique-d-un-mini-langage" />
+  <id>urn:rprimus:github:najdk75:Analyse-statique-d-un-mini-langage</id>
+  <published>2022-06-21T16:14:32Z</published>
+  <updated>2022-06-21T16:14:32Z</updated>
+  <content type="html">
+   voir pdf.
+  </content>
+ </entry>
+ <entry>
+  <title>vapourismo: generic-ocaml</title>
+  <author>
+   <name>vapourismo</name>
+  </author>
+  <link href="https://github.com/vapourismo/generic-ocaml" />
+  <id>urn:rprimus:github:vapourismo:generic-ocaml</id>
+  <published>2022-06-21T15:44:08Z</published>
+  <updated>2022-06-21T15:44:08Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>EvelyneLeBezvoet: Regle-de-Golomb</title>
   <author>
@@ -96,6 +148,32 @@
   </content>
  </entry>
  <entry>
+  <title>OlivierNicole: ocaml-tsan</title>
+  <author>
+   <name>OlivierNicole</name>
+  </author>
+  <link href="https://github.com/OlivierNicole/ocaml-tsan" />
+  <id>urn:rprimus:github:OlivierNicole:ocaml-tsan</id>
+  <published>2022-06-20T14:28:06Z</published>
+  <updated>2022-06-20T14:28:06Z</updated>
+  <content type="html">
+   Race detection in OCaml using the ThreadSanitizer runtime analysis.
+  </content>
+ </entry>
+ <entry>
+  <title>SaySayo: vscode-ocaml-notebook</title>
+  <author>
+   <name>SaySayo</name>
+  </author>
+  <link href="https://github.com/SaySayo/vscode-ocaml-notebook" />
+  <id>urn:rprimus:github:SaySayo:vscode-ocaml-notebook</id>
+  <published>2022-06-20T13:16:44Z</published>
+  <updated>2022-06-20T13:16:44Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
   <title>marcellosatta: Progetto-PR2-Ocaml</title>
   <author>
    <name>marcellosatta</name>
@@ -184,58 +262,6 @@
   <updated>2022-06-20T00:38:25Z</updated>
   <content type="html">
    Ceci est un Algorithme de Pathfinding(Recherche de chemin dans un Graphe) dÃ©velopper en langage OCaml
-  </content>
- </entry>
- <entry>
-  <title>benjuarez8: CS4</title>
-  <author>
-   <name>benjuarez8</name>
-  </author>
-  <link href="https://github.com/benjuarez8/CS4" />
-  <id>urn:rprimus:github:benjuarez8:CS4</id>
-  <published>2022-06-19T18:29:12Z</published>
-  <updated>2022-06-19T18:29:12Z</updated>
-  <content type="html">
-   Coursework for Caltech CS 4 - Fundamentals of Computer Programming (WI 2021-22)
-  </content>
- </entry>
- <entry>
-  <title>alan-matthew: Lambda-Calculus-Interpreter-in-OCaml</title>
-  <author>
-   <name>alan-matthew</name>
-  </author>
-  <link href="https://github.com/alan-matthew/Lambda-Calculus-Interpreter-in-OCaml" />
-  <id>urn:rprimus:github:alan-matthew:Lambda-Calculus-Interpreter-in-OCaml</id>
-  <published>2022-06-19T14:44:35Z</published>
-  <updated>2022-06-19T14:44:35Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>dvmitrv: textgridaf</title>
-  <author>
-   <name>dvmitrv</name>
-  </author>
-  <link href="https://github.com/dvmitrv/textgridaf" />
-  <id>urn:rprimus:github:dvmitrv:textgridaf</id>
-  <published>2022-06-19T10:19:40Z</published>
-  <updated>2022-06-19T10:19:40Z</updated>
-  <content type="html">
-   Praat TextGrid parser/serializer
-  </content>
- </entry>
- <entry>
-  <title>alan-matthew: Fast-Parse-Combinator-in-OCaml</title>
-  <author>
-   <name>alan-matthew</name>
-  </author>
-  <link href="https://github.com/alan-matthew/Fast-Parse-Combinator-in-OCaml" />
-  <id>urn:rprimus:github:alan-matthew:Fast-Parse-Combinator-in-OCaml</id>
-  <published>2022-06-19T05:05:47Z</published>
-  <updated>2022-06-19T05:05:47Z</updated>
-  <content type="html">
-   Parser Combinator library in OCaml
   </content>
  </entry>
 </feed>

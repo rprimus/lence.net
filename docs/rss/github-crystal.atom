@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2022-06-21T02:05:41Z</updated>
+<updated>2022-06-21T14:39:56Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>Jeddi212: example_cli</title>
+  <author>
+   <name>Jeddi212</name>
+  </author>
+  <link href="https://github.com/Jeddi212/example_cli" />
+  <id>urn:rprimus:github:Jeddi212:example_cli</id>
+  <published>2022-06-21T14:39:56Z</published>
+  <updated>2022-06-21T14:39:56Z</updated>
+  <content type="html">
+   example cli app
+  </content>
+ </entry>
  <entry>
   <title>place-labs: load-testing</title>
   <author>
@@ -28,32 +41,6 @@
   <updated>2022-06-20T09:11:03Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>kidush: global_time</title>
-  <author>
-   <name>kidush</name>
-  </author>
-  <link href="https://github.com/kidush/global_time" />
-  <id>urn:rprimus:github:kidush:global_time</id>
-  <published>2022-06-19T22:34:17Z</published>
-  <updated>2022-06-19T22:34:17Z</updated>
-  <content type="html">
-   Simple CLI built in crystal to show the current time for the timezone given
-  </content>
- </entry>
- <entry>
-  <title>Jeddi212: helloworld-crystal</title>
-  <author>
-   <name>Jeddi212</name>
-  </author>
-  <link href="https://github.com/Jeddi212/helloworld-crystal" />
-  <id>urn:rprimus:github:Jeddi212:helloworld-crystal</id>
-  <published>2022-06-19T15:03:42Z</published>
-  <updated>2022-06-19T15:03:42Z</updated>
-  <content type="html">
-   try crystal lang
   </content>
  </entry>
 </feed>

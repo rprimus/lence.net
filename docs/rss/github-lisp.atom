@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-06-20T23:02:21Z</updated>
+<updated>2022-06-22T00:38:18Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>lizacotter20: drawkreslingcon</title>
+  <author>
+   <name>lizacotter20</name>
+  </author>
+  <link href="https://github.com/lizacotter20/drawkreslingcon" />
+  <id>urn:rprimus:github:lizacotter20:drawkreslingcon</id>
+  <published>2022-06-22T00:38:18Z</published>
+  <updated>2022-06-22T00:38:18Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>yewscion: land-of-lisp-notes</title>
+  <author>
+   <name>yewscion</name>
+  </author>
+  <link href="https://github.com/yewscion/land-of-lisp-notes" />
+  <id>urn:rprimus:github:yewscion:land-of-lisp-notes</id>
+  <published>2022-06-21T22:28:53Z</published>
+  <updated>2022-06-21T22:28:53Z</updated>
+  <content type="html">
+   My notes made while working through &quot;The Land of Lisp&quot; by Conrad Barski.
+  </content>
+ </entry>
+ <entry>
+  <title>Hectarea1996: common-vulkan-guide</title>
+  <author>
+   <name>Hectarea1996</name>
+  </author>
+  <link href="https://github.com/Hectarea1996/common-vulkan-guide" />
+  <id>urn:rprimus:github:Hectarea1996:common-vulkan-guide</id>
+  <published>2022-06-21T15:53:02Z</published>
+  <updated>2022-06-21T15:53:02Z</updated>
+  <content type="html">
+   This is the code used to create the guide in the common-vulkan library.
+  </content>
+ </entry>
+ <entry>
+  <title>barton-willis: asymptotic_expansion</title>
+  <author>
+   <name>barton-willis</name>
+  </author>
+  <link href="https://github.com/barton-willis/asymptotic_expansion" />
+  <id>urn:rprimus:github:barton-willis:asymptotic_expansion</id>
+  <published>2022-06-21T15:34:51Z</published>
+  <updated>2022-06-21T15:34:51Z</updated>
+  <content type="html">
+   Maxima code for some asymptotic expansions.
+  </content>
+ </entry>
+ <entry>
+  <title>poquex: Homework</title>
+  <author>
+   <name>poquex</name>
+  </author>
+  <link href="https://github.com/poquex/Homework" />
+  <id>urn:rprimus:github:poquex:Homework</id>
+  <published>2022-06-20T23:54:13Z</published>
+  <updated>2022-06-20T23:54:13Z</updated>
+  <content type="html">
+   It&#039;s homework
+  </content>
+ </entry>
  <entry>
   <title>alexsteele: alaman</title>
   <author>
@@ -27,7 +92,7 @@
   <published>2022-06-20T03:31:24Z</published>
   <updated>2022-06-20T03:31:24Z</updated>
   <content type="html">
-   CS161 Artificial Intelligence Project 3: A working Sokoban solver that computes an optimal solution to the game Sokoban using A* search with custom made heuristics
+   CS161 Artificial Intelligence Project 3: A working Sokoban solver that computes an optimal solution to the game Sokoban using A* search with heuristics built for Sokoban
   </content>
  </entry>
  <entry>
@@ -41,84 +106,6 @@
   <updated>2022-06-20T03:13:40Z</updated>
   <content type="html">
    Plotting in Common Lisp (ABCL)
-  </content>
- </entry>
- <entry>
-  <title>finitestates: cond-utils</title>
-  <author>
-   <name>finitestates</name>
-  </author>
-  <link href="https://github.com/finitestates/cond-utils" />
-  <id>urn:rprimus:github:finitestates:cond-utils</id>
-  <published>2022-06-19T19:33:31Z</published>
-  <updated>2022-06-19T19:33:31Z</updated>
-  <content type="html">
-   a place to store some interesting common lisp expressions
-  </content>
- </entry>
- <entry>
-  <title>Hectarea1996: more-cffi</title>
-  <author>
-   <name>Hectarea1996</name>
-  </author>
-  <link href="https://github.com/Hectarea1996/more-cffi" />
-  <id>urn:rprimus:github:Hectarea1996:more-cffi</id>
-  <published>2022-06-19T16:31:55Z</published>
-  <updated>2022-06-19T16:31:55Z</updated>
-  <content type="html">
-   Additional helper macros for the cffi project
-  </content>
- </entry>
- <entry>
-  <title>l-peron: ia01-expertsystem</title>
-  <author>
-   <name>l-peron</name>
-  </author>
-  <link href="https://github.com/l-peron/ia01-expertsystem" />
-  <id>urn:rprimus:github:l-peron:ia01-expertsystem</id>
-  <published>2022-06-19T15:56:27Z</published>
-  <updated>2022-06-19T15:56:27Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Shookakko: slynk-client</title>
-  <author>
-   <name>Shookakko</name>
-  </author>
-  <link href="https://github.com/Shookakko/slynk-client" />
-  <id>urn:rprimus:github:Shookakko:slynk-client</id>
-  <published>2022-06-19T15:44:20Z</published>
-  <updated>2022-06-19T15:44:20Z</updated>
-  <content type="html">
-     Common Lisp client to interact with the Slynk server (it probably also work with swank)  (base on https://github.com/brown/swank-client)
-  </content>
- </entry>
- <entry>
-  <title>VSteveHL: my-ANSI-common-lisp-answer</title>
-  <author>
-   <name>VSteveHL</name>
-  </author>
-  <link href="https://github.com/VSteveHL/my-ANSI-common-lisp-answer" />
-  <id>urn:rprimus:github:VSteveHL:my-ANSI-common-lisp-answer</id>
-  <published>2022-06-19T13:36:00Z</published>
-  <updated>2022-06-19T13:36:00Z</updated>
-  <content type="html">
-   è¯çåä¸ä¸...
-  </content>
- </entry>
- <entry>
-  <title>Gavlooth: Markov-Chain-Name-Generator</title>
-  <author>
-   <name>Gavlooth</name>
-  </author>
-  <link href="https://github.com/Gavlooth/Markov-Chain-Name-Generator" />
-  <id>urn:rprimus:github:Gavlooth:Markov-Chain-Name-Generator</id>
-  <published>2022-06-19T12:48:55Z</published>
-  <updated>2022-06-19T12:48:55Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
