@@ -2,8 +2,138 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2022-06-27T06:55:23Z</updated>
+<updated>2022-06-28T03:20:17Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>RadonBurner: quicknote</title>
+  <author>
+   <name>RadonBurner</name>
+  </author>
+  <link href="https://github.com/RadonBurner/quicknote" />
+  <id>urn:rprimus:github:RadonBurner:quicknote</id>
+  <published>2022-06-28T03:20:17Z</published>
+  <updated>2022-06-28T03:20:17Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>emacs-straight: denote</title>
+  <author>
+   <name>emacs-straight</name>
+  </author>
+  <link href="https://github.com/emacs-straight/denote" />
+  <id>urn:rprimus:github:emacs-straight:denote</id>
+  <published>2022-06-28T00:05:43Z</published>
+  <updated>2022-06-28T00:05:43Z</updated>
+  <content type="html">
+   Mirror of the denote package from GNU ELPA, current as of 2022-06-28
+  </content>
+ </entry>
+ <entry>
+  <title>qmuloadmin: docker-emacs-org-babel</title>
+  <author>
+   <name>qmuloadmin</name>
+  </author>
+  <link href="https://github.com/qmuloadmin/docker-emacs-org-babel" />
+  <id>urn:rprimus:github:qmuloadmin:docker-emacs-org-babel</id>
+  <published>2022-06-28T00:01:16Z</published>
+  <updated>2022-06-28T00:01:16Z</updated>
+  <content type="html">
+   A docker image with emacs org mode and config for several babel langs
+  </content>
+ </entry>
+ <entry>
+  <title>rossabaker: scala-cli.el</title>
+  <author>
+   <name>rossabaker</name>
+  </author>
+  <link href="https://github.com/rossabaker/scala-cli.el" />
+  <id>urn:rprimus:github:rossabaker:scala-cli.el</id>
+  <published>2022-06-27T19:46:17Z</published>
+  <updated>2022-06-27T19:46:17Z</updated>
+  <content type="html">
+   Run scala-cli inside Emacs
+  </content>
+ </entry>
+ <entry>
+  <title>fillharris: dotfiles</title>
+  <author>
+   <name>fillharris</name>
+  </author>
+  <link href="https://github.com/fillharris/dotfiles" />
+  <id>urn:rprimus:github:fillharris:dotfiles</id>
+  <published>2022-06-27T19:38:28Z</published>
+  <updated>2022-06-27T19:38:28Z</updated>
+  <content type="html">
+   linux dotfiles
+  </content>
+ </entry>
+ <entry>
+  <title>b10n1k: oqa</title>
+  <author>
+   <name>b10n1k</name>
+  </author>
+  <link href="https://github.com/b10n1k/oqa" />
+  <id>urn:rprimus:github:b10n1k:oqa</id>
+  <published>2022-06-27T17:52:23Z</published>
+  <updated>2022-06-27T17:52:23Z</updated>
+  <content type="html">
+   Emacs framework for OpenQA
+  </content>
+ </entry>
+ <entry>
+  <title>kristupas-g: emacsFoo</title>
+  <author>
+   <name>kristupas-g</name>
+  </author>
+  <link href="https://github.com/kristupas-g/emacsFoo" />
+  <id>urn:rprimus:github:kristupas-g:emacsFoo</id>
+  <published>2022-06-27T16:17:37Z</published>
+  <updated>2022-06-27T16:17:37Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>xlshiz: toki-tabs.el</title>
+  <author>
+   <name>xlshiz</name>
+  </author>
+  <link href="https://github.com/xlshiz/toki-tabs.el" />
+  <id>urn:rprimus:github:xlshiz:toki-tabs.el</id>
+  <published>2022-06-27T15:17:00Z</published>
+  <updated>2022-06-27T15:17:00Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>benmccown: emacs-rpgdm</title>
+  <author>
+   <name>benmccown</name>
+  </author>
+  <link href="https://github.com/benmccown/emacs-rpgdm" />
+  <id>urn:rprimus:github:benmccown:emacs-rpgdm</id>
+  <published>2022-06-27T14:45:51Z</published>
+  <updated>2022-06-27T14:45:51Z</updated>
+  <content type="html">
+   An emacs minor mode providing useful utilities for Dungeon Masters.
+  </content>
+ </entry>
+ <entry>
+  <title>anujjamwal: dotemacs</title>
+  <author>
+   <name>anujjamwal</name>
+  </author>
+  <link href="https://github.com/anujjamwal/dotemacs" />
+  <id>urn:rprimus:github:anujjamwal:dotemacs</id>
+  <published>2022-06-27T13:59:27Z</published>
+  <updated>2022-06-27T13:59:27Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>pedropintosilva: emacs.d</title>
   <author>
@@ -93,6 +223,19 @@
   <updated>2022-06-26T23:02:56Z</updated>
   <content type="html">
    Run ispell on tree-sitter text nodes
+  </content>
+ </entry>
+ <entry>
+  <title>indigoviolet: vi-consult-buffers</title>
+  <author>
+   <name>indigoviolet</name>
+  </author>
+  <link href="https://github.com/indigoviolet/vi-consult-buffers" />
+  <id>urn:rprimus:github:indigoviolet:vi-consult-buffers</id>
+  <published>2022-06-26T23:02:22Z</published>
+  <updated>2022-06-26T23:02:22Z</updated>
+  <content type="html">
+   Personalized sort for buffers used in consult-buffers
   </content>
  </entry>
  <entry>
@@ -327,201 +470,6 @@
   <updated>2022-06-26T03:37:01Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>cathiecode: .doom.d</title>
-  <author>
-   <name>cathiecode</name>
-  </author>
-  <link href="https://github.com/cathiecode/.doom.d" />
-  <id>urn:rprimus:github:cathiecode:.doom.d</id>
-  <published>2022-06-25T22:49:47Z</published>
-  <updated>2022-06-25T22:49:47Z</updated>
-  <content type="html">
-   My doom.d for Doom Emacs
-  </content>
- </entry>
- <entry>
-  <title>RBckmnn: org-drill</title>
-  <author>
-   <name>RBckmnn</name>
-  </author>
-  <link href="https://github.com/RBckmnn/org-drill" />
-  <id>urn:rprimus:github:RBckmnn:org-drill</id>
-  <published>2022-06-25T22:19:17Z</published>
-  <updated>2022-06-25T22:19:17Z</updated>
-  <content type="html">
-   Fork of https://gitlab.com/phillord/org-drill
-  </content>
- </entry>
- <entry>
-  <title>Hugo0Vaz: emacs-config</title>
-  <author>
-   <name>Hugo0Vaz</name>
-  </author>
-  <link href="https://github.com/Hugo0Vaz/emacs-config" />
-  <id>urn:rprimus:github:Hugo0Vaz:emacs-config</id>
-  <published>2022-06-25T22:18:36Z</published>
-  <updated>2022-06-25T22:18:36Z</updated>
-  <content type="html">
-   Minha configuraÃ§Ã£o de Emacs, para desenvolvimento e anotaÃ§Ã£o
-  </content>
- </entry>
- <entry>
-  <title>ilovecherries: meta</title>
-  <author>
-   <name>ilovecherries</name>
-  </author>
-  <link href="https://github.com/ilovecherries/meta" />
-  <id>urn:rprimus:github:ilovecherries:meta</id>
-  <published>2022-06-25T18:51:50Z</published>
-  <updated>2022-06-25T18:51:50Z</updated>
-  <content type="html">
-   meta files for things i do
-  </content>
- </entry>
- <entry>
-  <title>NINNiT: dotfiles</title>
-  <author>
-   <name>NINNiT</name>
-  </author>
-  <link href="https://github.com/NINNiT/dotfiles" />
-  <id>urn:rprimus:github:NINNiT:dotfiles</id>
-  <published>2022-06-25T18:37:53Z</published>
-  <updated>2022-06-25T18:37:53Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>pranith: emacs.d.new</title>
-  <author>
-   <name>pranith</name>
-  </author>
-  <link href="https://github.com/pranith/emacs.d.new" />
-  <id>urn:rprimus:github:pranith:emacs.d.new</id>
-  <published>2022-06-25T18:35:09Z</published>
-  <updated>2022-06-25T18:35:09Z</updated>
-  <content type="html">
-   New emacs configuration files
-  </content>
- </entry>
- <entry>
-  <title>cipriRusu: emacs-config</title>
-  <author>
-   <name>cipriRusu</name>
-  </author>
-  <link href="https://github.com/cipriRusu/emacs-config" />
-  <id>urn:rprimus:github:cipriRusu:emacs-config</id>
-  <published>2022-06-25T18:11:26Z</published>
-  <updated>2022-06-25T18:11:26Z</updated>
-  <content type="html">
-   Personal Emacs config
-  </content>
- </entry>
- <entry>
-  <title>tanrax: emacs.d</title>
-  <author>
-   <name>tanrax</name>
-  </author>
-  <link href="https://github.com/tanrax/emacs.d" />
-  <id>urn:rprimus:github:tanrax:emacs.d</id>
-  <published>2022-06-25T15:28:08Z</published>
-  <updated>2022-06-25T15:28:08Z</updated>
-  <content type="html">
-   Emacs configuration
-  </content>
- </entry>
- <entry>
-  <title>rpietruc: dotfiles</title>
-  <author>
-   <name>rpietruc</name>
-  </author>
-  <link href="https://github.com/rpietruc/dotfiles" />
-  <id>urn:rprimus:github:rpietruc:dotfiles</id>
-  <published>2022-06-25T11:00:52Z</published>
-  <updated>2022-06-25T11:00:52Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>C1TYZen: emacs-cfg</title>
-  <author>
-   <name>C1TYZen</name>
-  </author>
-  <link href="https://github.com/C1TYZen/emacs-cfg" />
-  <id>urn:rprimus:github:C1TYZen:emacs-cfg</id>
-  <published>2022-06-25T10:56:56Z</published>
-  <updated>2022-06-25T10:56:56Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>sabyabhoi: cc-mode</title>
-  <author>
-   <name>sabyabhoi</name>
-  </author>
-  <link href="https://github.com/sabyabhoi/cc-mode" />
-  <id>urn:rprimus:github:sabyabhoi:cc-mode</id>
-  <published>2022-06-25T10:25:01Z</published>
-  <updated>2022-06-25T10:25:01Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>binglinli: dotemacs</title>
-  <author>
-   <name>binglinli</name>
-  </author>
-  <link href="https://github.com/binglinli/dotemacs" />
-  <id>urn:rprimus:github:binglinli:dotemacs</id>
-  <published>2022-06-25T09:30:39Z</published>
-  <updated>2022-06-25T09:30:39Z</updated>
-  <content type="html">
-   GUN Emacsç¼è¾å¨éç½®æä»¶æä»¶
-  </content>
- </entry>
- <entry>
-  <title>ISouthRain: .emacs.d</title>
-  <author>
-   <name>ISouthRain</name>
-  </author>
-  <link href="https://github.com/ISouthRain/.emacs.d" />
-  <id>urn:rprimus:github:ISouthRain:.emacs.d</id>
-  <published>2022-06-25T06:01:50Z</published>
-  <updated>2022-06-25T06:01:50Z</updated>
-  <content type="html">
-   Simple Emacs to vi key
-  </content>
- </entry>
- <entry>
-  <title>RolandMarchand: .emacs.d</title>
-  <author>
-   <name>RolandMarchand</name>
-  </author>
-  <link href="https://github.com/RolandMarchand/.emacs.d" />
-  <id>urn:rprimus:github:RolandMarchand:.emacs.d</id>
-  <published>2022-06-25T05:58:00Z</published>
-  <updated>2022-06-25T05:58:00Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ycz0926: dotemacs</title>
-  <author>
-   <name>ycz0926</name>
-  </author>
-  <link href="https://github.com/ycz0926/dotemacs" />
-  <id>urn:rprimus:github:ycz0926:dotemacs</id>
-  <published>2022-06-25T02:31:05Z</published>
-  <updated>2022-06-25T02:31:05Z</updated>
-  <content type="html">
-   A backup of my emacs configuration
   </content>
  </entry>
 </feed>
