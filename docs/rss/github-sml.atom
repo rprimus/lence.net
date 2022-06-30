@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-sml.atom"/>
 <id>urn:rprimus:github:newsmlrepos</id>
-<updated>2022-06-28T15:25:44Z</updated>
+<updated>2022-06-30T10:34:13Z</updated>
 <title type='text'>New GitHub Sml Repos</title>
+ <entry>
+  <title>Max-Frisch: SML</title>
+  <author>
+   <name>Max-Frisch</name>
+  </author>
+  <link href="https://github.com/Max-Frisch/SML" />
+  <id>urn:rprimus:github:Max-Frisch:SML</id>
+  <published>2022-06-30T10:34:13Z</published>
+  <updated>2022-06-30T10:34:13Z</updated>
+  <content type="html">
+   Learning functional programming with Standard-ML and EMACS
+  </content>
+ </entry>
+ <entry>
+  <title>jshawl: ssh-signatures</title>
+  <author>
+   <name>jshawl</name>
+  </author>
+  <link href="https://github.com/jshawl/ssh-signatures" />
+  <id>urn:rprimus:github:jshawl:ssh-signatures</id>
+  <published>2022-06-29T23:19:02Z</published>
+  <updated>2022-06-29T23:19:02Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>JaayyTeeGithub: SML-Problems</title>
   <author>
@@ -41,58 +67,6 @@
   <updated>2022-06-28T07:33:39Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>DjPetuhe: FourthLab_MP</title>
-  <author>
-   <name>DjPetuhe</name>
-  </author>
-  <link href="https://github.com/DjPetuhe/FourthLab_MP" />
-  <id>urn:rprimus:github:DjPetuhe:FourthLab_MP</id>
-  <published>2022-06-27T20:56:22Z</published>
-  <updated>2022-06-27T20:56:22Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>GluterusMaximus: MPLab4</title>
-  <author>
-   <name>GluterusMaximus</name>
-  </author>
-  <link href="https://github.com/GluterusMaximus/MPLab4" />
-  <id>urn:rprimus:github:GluterusMaximus:MPLab4</id>
-  <published>2022-06-27T10:50:12Z</published>
-  <updated>2022-06-27T10:50:12Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>sammyj11: Compiler</title>
-  <author>
-   <name>sammyj11</name>
-  </author>
-  <link href="https://github.com/sammyj11/Compiler" />
-  <id>urn:rprimus:github:sammyj11:Compiler</id>
-  <published>2022-06-27T08:00:57Z</published>
-  <updated>2022-06-27T08:00:57Z</updated>
-  <content type="html">
-   Made a compiler with 2 stack architecture (Turing machine) from a self made AST Generator of the WHILE LANGUAGE(turing complete)
-  </content>
- </entry>
- <entry>
-  <title>sammyj11: AST-Generator</title>
-  <author>
-   <name>sammyj11</name>
-  </author>
-  <link href="https://github.com/sammyj11/AST-Generator" />
-  <id>urn:rprimus:github:sammyj11:AST-Generator</id>
-  <published>2022-06-27T07:08:16Z</published>
-  <updated>2022-06-27T07:08:16Z</updated>
-  <content type="html">
-   Used ML-Lex and ML-Yacc to generate AST(Abstract Syntax Tree) of a program written in the WHILE-Language
   </content>
  </entry>
 </feed>

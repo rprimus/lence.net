@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2022-06-28T22:50:27Z</updated>
+<updated>2022-06-30T05:36:47Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>wvanisb: kaylee</title>
+  <author>
+   <name>wvanisb</name>
+  </author>
+  <link href="https://github.com/wvanisb/kaylee" />
+  <id>urn:rprimus:github:wvanisb:kaylee</id>
+  <published>2022-06-30T05:36:47Z</published>
+  <updated>2022-06-30T05:36:47Z</updated>
+  <content type="html">
+   AUR helper written in Nim!
+  </content>
+ </entry>
+ <entry>
+  <title>doongjohn: pathstrsort</title>
+  <author>
+   <name>doongjohn</name>
+  </author>
+  <link href="https://github.com/doongjohn/pathstrsort" />
+  <id>urn:rprimus:github:doongjohn:pathstrsort</id>
+  <published>2022-06-29T21:12:16Z</published>
+  <updated>2022-06-29T21:12:16Z</updated>
+  <content type="html">
+   path string sorting
+  </content>
+ </entry>
+ <entry>
+  <title>codemicro: cdmfiles</title>
+  <author>
+   <name>codemicro</name>
+  </author>
+  <link href="https://github.com/codemicro/cdmfiles" />
+  <id>urn:rprimus:github:codemicro:cdmfiles</id>
+  <published>2022-06-29T20:28:55Z</published>
+  <updated>2022-06-29T20:28:55Z</updated>
+  <content type="html">
+   A file mananger for Linux
+  </content>
+ </entry>
+ <entry>
+  <title>sotolf2: wang-tiles</title>
+  <author>
+   <name>sotolf2</name>
+  </author>
+  <link href="https://github.com/sotolf2/wang-tiles" />
+  <id>urn:rprimus:github:sotolf2:wang-tiles</id>
+  <published>2022-06-29T18:04:06Z</published>
+  <updated>2022-06-29T18:04:06Z</updated>
+  <content type="html">
+   An experiment to play around with wang-tiles and the ppm P6 file format
+  </content>
+ </entry>
  <entry>
   <title>CyberTailor: nimbus</title>
   <author>
@@ -70,6 +122,19 @@
   </content>
  </entry>
  <entry>
+  <title>ShujianDou: nim-HLSManager</title>
+  <author>
+   <name>ShujianDou</name>
+  </author>
+  <link href="https://github.com/ShujianDou/nim-HLSManager" />
+  <id>urn:rprimus:github:ShujianDou:nim-HLSManager</id>
+  <published>2022-06-28T01:33:33Z</published>
+  <updated>2022-06-28T01:33:33Z</updated>
+  <content type="html">
+   HLS Manifest/Stream reader created in nim; in use by vrienstudios/anime-dl
+  </content>
+ </entry>
+ <entry>
   <title>io3dev: Nip8</title>
   <author>
    <name>io3dev</name>
@@ -80,45 +145,6 @@
   <updated>2022-06-28T00:52:18Z</updated>
   <content type="html">
    A work in progress chip 8 emulator
-  </content>
- </entry>
- <entry>
-  <title>wizwalker: inferno</title>
-  <author>
-   <name>wizwalker</name>
-  </author>
-  <link href="https://github.com/wizwalker/inferno" />
-  <id>urn:rprimus:github:wizwalker:inferno</id>
-  <published>2022-06-27T23:14:51Z</published>
-  <updated>2022-06-27T23:14:51Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>demotomohiro: DUBF</title>
-  <author>
-   <name>demotomohiro</name>
-  </author>
-  <link href="https://github.com/demotomohiro/DUBF" />
-  <id>urn:rprimus:github:demotomohiro:DUBF</id>
-  <published>2022-06-27T22:10:12Z</published>
-  <updated>2022-06-27T22:10:12Z</updated>
-  <content type="html">
-   Tests you to see whether you can distinguish similar looking characters
-  </content>
- </entry>
- <entry>
-  <title>blaze-arch: nekopkg</title>
-  <author>
-   <name>blaze-arch</name>
-  </author>
-  <link href="https://github.com/blaze-arch/nekopkg" />
-  <id>urn:rprimus:github:blaze-arch:nekopkg</id>
-  <published>2022-06-27T14:05:22Z</published>
-  <updated>2022-06-27T14:05:22Z</updated>
-  <content type="html">
-   nekopkg - simple package manager written in Nim
   </content>
  </entry>
 </feed>
