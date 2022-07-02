@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2022-07-01T07:56:55Z</updated>
+<updated>2022-07-02T04:02:01Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>jdbernard: nim-vcard</title>
+  <author>
+   <name>jdbernard</name>
+  </author>
+  <link href="https://github.com/jdbernard/nim-vcard" />
+  <id>urn:rprimus:github:jdbernard:nim-vcard</id>
+  <published>2022-07-02T04:02:01Z</published>
+  <updated>2022-07-02T04:02:01Z</updated>
+  <content type="html">
+    Nim parser for the vCard format v3.0 (RFCs 2425, 2526) and v4.0 (RFC 6350) 
+  </content>
+ </entry>
+ <entry>
+  <title>hdbg: mcprotect</title>
+  <author>
+   <name>hdbg</name>
+  </author>
+  <link href="https://github.com/hdbg/mcprotect" />
+  <id>urn:rprimus:github:hdbg:mcprotect</id>
+  <published>2022-07-02T00:03:30Z</published>
+  <updated>2022-07-02T00:03:30Z</updated>
+  <content type="html">
+   Meme Minecraft Anti Cheat
+  </content>
+ </entry>
+ <entry>
+  <title>daniellowrie: Nim-Shell</title>
+  <author>
+   <name>daniellowrie</name>
+  </author>
+  <link href="https://github.com/daniellowrie/Nim-Shell" />
+  <id>urn:rprimus:github:daniellowrie:Nim-Shell</id>
+  <published>2022-07-01T13:00:54Z</published>
+  <updated>2022-07-01T13:00:54Z</updated>
+  <content type="html">
+   A simple reverse shell program for Windows clients
+  </content>
+ </entry>
  <entry>
   <title>madprops: goldie</title>
   <author>
@@ -14,20 +53,7 @@
   <published>2022-07-01T07:56:55Z</published>
   <updated>2022-07-01T07:56:55Z</updated>
   <content type="html">
-   Search content of files recusively
-  </content>
- </entry>
- <entry>
-  <title>Ericarthurc: nimTests</title>
-  <author>
-   <name>Ericarthurc</name>
-  </author>
-  <link href="https://github.com/Ericarthurc/nimTests" />
-  <id>urn:rprimus:github:Ericarthurc:nimTests</id>
-  <published>2022-07-01T04:42:08Z</published>
-  <updated>2022-07-01T04:42:08Z</updated>
-  <content type="html">
-   
+   Search content of files recursively
   </content>
  </entry>
  <entry>
@@ -40,7 +66,7 @@
   <published>2022-06-30T20:32:34Z</published>
   <updated>2022-06-30T20:32:34Z</updated>
   <content type="html">
-   Generating structured data from arbitrary, unstructured input.
+   [WIP] Generating structured data from arbitrary, unstructured input.
   </content>
  </entry>
  <entry>
@@ -80,45 +106,6 @@
   <updated>2022-06-30T05:36:47Z</updated>
   <content type="html">
    AUR helper written in Nim!
-  </content>
- </entry>
- <entry>
-  <title>doongjohn: pathstrsort</title>
-  <author>
-   <name>doongjohn</name>
-  </author>
-  <link href="https://github.com/doongjohn/pathstrsort" />
-  <id>urn:rprimus:github:doongjohn:pathstrsort</id>
-  <published>2022-06-29T21:12:16Z</published>
-  <updated>2022-06-29T21:12:16Z</updated>
-  <content type="html">
-   path string sorting
-  </content>
- </entry>
- <entry>
-  <title>codemicro: cdmfiles</title>
-  <author>
-   <name>codemicro</name>
-  </author>
-  <link href="https://github.com/codemicro/cdmfiles" />
-  <id>urn:rprimus:github:codemicro:cdmfiles</id>
-  <published>2022-06-29T20:28:55Z</published>
-  <updated>2022-06-29T20:28:55Z</updated>
-  <content type="html">
-   A file mananger for Linux
-  </content>
- </entry>
- <entry>
-  <title>sotolf2: wang-tiles</title>
-  <author>
-   <name>sotolf2</name>
-  </author>
-  <link href="https://github.com/sotolf2/wang-tiles" />
-  <id>urn:rprimus:github:sotolf2:wang-tiles</id>
-  <published>2022-06-29T18:04:06Z</published>
-  <updated>2022-06-29T18:04:06Z</updated>
-  <content type="html">
-   An experiment to play around with wang-tiles and the ppm P6 file format
   </content>
  </entry>
 </feed>
