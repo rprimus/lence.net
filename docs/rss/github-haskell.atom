@@ -2,8 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-haskell.atom"/>
 <id>urn:rprimus:github:newhaskellrepos</id>
-<updated>2022-07-04T16:54:08Z</updated>
+<updated>2022-07-04T22:59:04Z</updated>
 <title type='text'>New GitHub Haskell Repos</title>
+ <entry>
+  <title>schuelermine: truthy</title>
+  <author>
+   <name>schuelermine</name>
+  </author>
+  <link href="https://github.com/schuelermine/truthy" />
+  <id>urn:rprimus:github:schuelermine:truthy</id>
+  <published>2022-07-04T22:59:04Z</published>
+  <updated>2022-07-04T22:59:04Z</updated>
+  <content type="html">
+   Generalized booleans and truthy values
+  </content>
+ </entry>
+ <entry>
+  <title>sbrow: risk-multilang</title>
+  <author>
+   <name>sbrow</name>
+  </author>
+  <link href="https://github.com/sbrow/risk-multilang" />
+  <id>urn:rprimus:github:sbrow:risk-multilang</id>
+  <published>2022-07-04T22:44:34Z</published>
+  <updated>2022-07-04T22:44:34Z</updated>
+  <content type="html">
+   Roll Table generators for RISK in a variety of languages.
+  </content>
+ </entry>
+ <entry>
+  <title>tamaw: tama-id-au</title>
+  <author>
+   <name>tamaw</name>
+  </author>
+  <link href="https://github.com/tamaw/tama-id-au" />
+  <id>urn:rprimus:github:tamaw:tama-id-au</id>
+  <published>2022-07-04T22:33:22Z</published>
+  <updated>2022-07-04T22:33:22Z</updated>
+  <content type="html">
+   Static web blog in Haskell using Lucid &amp; Clay mostly for fun
+  </content>
+ </entry>
+ <entry>
+  <title>MondayMorningHaskell: AdventOfCode</title>
+  <author>
+   <name>MondayMorningHaskell</name>
+  </author>
+  <link href="https://github.com/MondayMorningHaskell/AdventOfCode" />
+  <id>urn:rprimus:github:MondayMorningHaskell:AdventOfCode</id>
+  <published>2022-07-04T19:58:14Z</published>
+  <updated>2022-07-04T19:58:14Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>enzoIto: haskell-exercises</title>
+  <author>
+   <name>enzoIto</name>
+  </author>
+  <link href="https://github.com/enzoIto/haskell-exercises" />
+  <id>urn:rprimus:github:enzoIto:haskell-exercises</id>
+  <published>2022-07-04T19:54:43Z</published>
+  <updated>2022-07-04T19:54:43Z</updated>
+  <content type="html">
+   Simple repo created to post the exercises of the book &quot;Haskell Programming from First Principles&quot; by Chris Allen and Julie Moronuki.
+  </content>
+ </entry>
+ <entry>
+  <title>lcaonmst: Interpreter</title>
+  <author>
+   <name>lcaonmst</name>
+  </author>
+  <link href="https://github.com/lcaonmst/Interpreter" />
+  <id>urn:rprimus:github:lcaonmst:Interpreter</id>
+  <published>2022-07-04T19:42:43Z</published>
+  <updated>2022-07-04T19:42:43Z</updated>
+  <content type="html">
+   Interpreter of a imperative programming language for Languages and Programming Paradigms course at University of Warsaw.
+  </content>
+ </entry>
+ <entry>
+  <title>andreyomatveev: smirnov-words</title>
+  <author>
+   <name>andreyomatveev</name>
+  </author>
+  <link href="https://github.com/andreyomatveev/smirnov-words" />
+  <id>urn:rprimus:github:andreyomatveev:smirnov-words</id>
+  <published>2022-07-04T18:45:18Z</published>
+  <updated>2022-07-04T18:45:18Z</updated>
+  <content type="html">
+   A Haskell SmirnovWordsModule.hs module exporting four functions for calculating the numbers of Smirnov words over three-letter and four-letter alphabets.
+  </content>
+ </entry>
  <entry>
   <title>gelisam: ice-cream-privacy</title>
   <author>
@@ -83,19 +174,6 @@
   </content>
  </entry>
  <entry>
-  <title>mlyean: xmonad-config</title>
-  <author>
-   <name>mlyean</name>
-  </author>
-  <link href="https://github.com/mlyean/xmonad-config" />
-  <id>urn:rprimus:github:mlyean:xmonad-config</id>
-  <published>2022-07-04T14:23:41Z</published>
-  <updated>2022-07-04T14:23:41Z</updated>
-  <content type="html">
-   My xmonad configuration
-  </content>
- </entry>
- <entry>
   <title>Reykudo: geoip-redis</title>
   <author>
    <name>Reykudo</name>
@@ -104,45 +182,6 @@
   <id>urn:rprimus:github:Reykudo:geoip-redis</id>
   <published>2022-07-04T14:19:22Z</published>
   <updated>2022-07-04T14:19:22Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ichxorya: haskell_and_lean</title>
-  <author>
-   <name>ichxorya</name>
-  </author>
-  <link href="https://github.com/ichxorya/haskell_and_lean" />
-  <id>urn:rprimus:github:ichxorya:haskell_and_lean</id>
-  <published>2022-07-04T13:23:16Z</published>
-  <updated>2022-07-04T13:23:16Z</updated>
-  <content type="html">
-   Functional programming and theorem prover research.
-  </content>
- </entry>
- <entry>
-  <title>joebentley: boids</title>
-  <author>
-   <name>joebentley</name>
-  </author>
-  <link href="https://github.com/joebentley/boids" />
-  <id>urn:rprimus:github:joebentley:boids</id>
-  <published>2022-07-04T13:16:00Z</published>
-  <updated>2022-07-04T13:16:00Z</updated>
-  <content type="html">
-   Boids implementation in Haskell
-  </content>
- </entry>
- <entry>
-  <title>rzetelskik: latte-compiler</title>
-  <author>
-   <name>rzetelskik</name>
-  </author>
-  <link href="https://github.com/rzetelskik/latte-compiler" />
-  <id>urn:rprimus:github:rzetelskik:latte-compiler</id>
-  <published>2022-07-04T13:01:09Z</published>
-  <updated>2022-07-04T13:01:09Z</updated>
   <content type="html">
    
   </content>
@@ -158,19 +197,6 @@
   <updated>2022-07-04T12:45:36Z</updated>
   <content type="html">
    IF686&#039;s repo
-  </content>
- </entry>
- <entry>
-  <title>Levoslav: Simple-Derivative</title>
-  <author>
-   <name>Levoslav</name>
-  </author>
-  <link href="https://github.com/Levoslav/Simple-Derivative" />
-  <id>urn:rprimus:github:Levoslav:Simple-Derivative</id>
-  <published>2022-07-04T12:26:50Z</published>
-  <updated>2022-07-04T12:26:50Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
  <entry>
@@ -239,25 +265,12 @@
   </content>
  </entry>
  <entry>
-  <title>MullerWlad: ShaggyExecute</title>
+  <title>Pandora-MCCME: hasql-loadtest-template</title>
   <author>
-   <name>MullerWlad</name>
+   <name>Pandora-MCCME</name>
   </author>
-  <link href="https://github.com/MullerWlad/ShaggyExecute" />
-  <id>urn:rprimus:github:MullerWlad:ShaggyExecute</id>
-  <published>2022-07-04T10:35:11Z</published>
-  <updated>2022-07-04T10:35:11Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>viviag: hasql-loadtest-template</title>
-  <author>
-   <name>viviag</name>
-  </author>
-  <link href="https://github.com/viviag/hasql-loadtest-template" />
-  <id>urn:rprimus:github:viviag:hasql-loadtest-template</id>
+  <link href="https://github.com/Pandora-MCCME/hasql-loadtest-template" />
+  <id>urn:rprimus:github:Pandora-MCCME:hasql-loadtest-template</id>
   <published>2022-07-04T10:29:21Z</published>
   <updated>2022-07-04T10:29:21Z</updated>
   <content type="html">
@@ -330,19 +343,6 @@
   </content>
  </entry>
  <entry>
-  <title>dannypsnl: eikyo</title>
-  <author>
-   <name>dannypsnl</name>
-  </author>
-  <link href="https://github.com/dannypsnl/eikyo" />
-  <id>urn:rprimus:github:dannypsnl:eikyo</id>
-  <published>2022-07-04T06:11:49Z</published>
-  <updated>2022-07-04T06:11:49Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
   <title>mayconamaro: sysr-gen</title>
   <author>
    <name>mayconamaro</name>
@@ -356,19 +356,6 @@
   </content>
  </entry>
  <entry>
-  <title>sinharahul: EOPIIH</title>
-  <author>
-   <name>sinharahul</name>
-  </author>
-  <link href="https://github.com/sinharahul/EOPIIH" />
-  <id>urn:rprimus:github:sinharahul:EOPIIH</id>
-  <published>2022-07-04T03:27:49Z</published>
-  <updated>2022-07-04T03:27:49Z</updated>
-  <content type="html">
-   Elements of Programming Interviews in haskell
-  </content>
- </entry>
- <entry>
   <title>Rafael-Lima02: Programas-em-Haskell</title>
   <author>
    <name>Rafael-Lima02</name>
@@ -377,6 +364,19 @@
   <id>urn:rprimus:github:Rafael-Lima02:Programas-em-Haskell</id>
   <published>2022-07-04T01:28:05Z</published>
   <updated>2022-07-04T01:28:05Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>JorgeHiroki: ProgramasHaskell</title>
+  <author>
+   <name>JorgeHiroki</name>
+  </author>
+  <link href="https://github.com/JorgeHiroki/ProgramasHaskell" />
+  <id>urn:rprimus:github:JorgeHiroki:ProgramasHaskell</id>
+  <published>2022-07-04T01:00:03Z</published>
+  <updated>2022-07-04T01:00:03Z</updated>
   <content type="html">
    
   </content>
@@ -756,344 +756,6 @@
   <updated>2022-07-03T02:58:24Z</updated>
   <content type="html">
    Haskell Project for Emurgo Cardano Associate course. 
-  </content>
- </entry>
- <entry>
-  <title>epgui: haskell-linear</title>
-  <author>
-   <name>epgui</name>
-  </author>
-  <link href="https://github.com/epgui/haskell-linear" />
-  <id>urn:rprimus:github:epgui:haskell-linear</id>
-  <published>2022-07-02T22:59:36Z</published>
-  <updated>2022-07-02T22:59:36Z</updated>
-  <content type="html">
-   Linear algebra toy project for haskell (you probably don&#039;t want to use this)
-  </content>
- </entry>
- <entry>
-  <title>m4r1bolt: PF</title>
-  <author>
-   <name>m4r1bolt</name>
-  </author>
-  <link href="https://github.com/m4r1bolt/PF" />
-  <id>urn:rprimus:github:m4r1bolt:PF</id>
-  <published>2022-07-02T22:23:39Z</published>
-  <updated>2022-07-02T22:23:39Z</updated>
-  <content type="html">
-   Listas/2022
-  </content>
- </entry>
- <entry>
-  <title>melpereira7: PCF_2122</title>
-  <author>
-   <name>melpereira7</name>
-  </author>
-  <link href="https://github.com/melpereira7/PCF_2122" />
-  <id>urn:rprimus:github:melpereira7:PCF_2122</id>
-  <published>2022-07-02T20:20:43Z</published>
-  <updated>2022-07-02T20:20:43Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>scottjmoore: HaskellLearning</title>
-  <author>
-   <name>scottjmoore</name>
-  </author>
-  <link href="https://github.com/scottjmoore/HaskellLearning" />
-  <id>urn:rprimus:github:scottjmoore:HaskellLearning</id>
-  <published>2022-07-02T19:47:39Z</published>
-  <updated>2022-07-02T19:47:39Z</updated>
-  <content type="html">
-   My Haskell learning code
-  </content>
- </entry>
- <entry>
-  <title>rchak007: HaskellProjectStudentGrading</title>
-  <author>
-   <name>rchak007</name>
-  </author>
-  <link href="https://github.com/rchak007/HaskellProjectStudentGrading" />
-  <id>urn:rprimus:github:rchak007:HaskellProjectStudentGrading</id>
-  <published>2022-07-02T19:25:30Z</published>
-  <updated>2022-07-02T19:25:30Z</updated>
-  <content type="html">
-   Automate Student Grading 
-  </content>
- </entry>
- <entry>
-  <title>hsantos97: programming_language_paradigms</title>
-  <author>
-   <name>hsantos97</name>
-  </author>
-  <link href="https://github.com/hsantos97/programming_language_paradigms" />
-  <id>urn:rprimus:github:hsantos97:programming_language_paradigms</id>
-  <published>2022-07-02T19:08:03Z</published>
-  <updated>2022-07-02T19:08:03Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jairojuunior: haskell-first-layer-feedback</title>
-  <author>
-   <name>jairojuunior</name>
-  </author>
-  <link href="https://github.com/jairojuunior/haskell-first-layer-feedback" />
-  <id>urn:rprimus:github:jairojuunior:haskell-first-layer-feedback</id>
-  <published>2022-07-02T18:00:28Z</published>
-  <updated>2022-07-02T18:00:28Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Garbaz: rpnfl</title>
-  <author>
-   <name>Garbaz</name>
-  </author>
-  <link href="https://github.com/Garbaz/rpnfl" />
-  <id>urn:rprimus:github:Garbaz:rpnfl</id>
-  <published>2022-07-02T17:47:32Z</published>
-  <updated>2022-07-02T17:47:32Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>s0yer: haskell-academy</title>
-  <author>
-   <name>s0yer</name>
-  </author>
-  <link href="https://github.com/s0yer/haskell-academy" />
-  <id>urn:rprimus:github:s0yer:haskell-academy</id>
-  <published>2022-07-02T16:50:54Z</published>
-  <updated>2022-07-02T16:50:54Z</updated>
-  <content type="html">
-   haskell codes
-  </content>
- </entry>
- <entry>
-  <title>JadenStrudwick: moduleCalc</title>
-  <author>
-   <name>JadenStrudwick</name>
-  </author>
-  <link href="https://github.com/JadenStrudwick/moduleCalc" />
-  <id>urn:rprimus:github:JadenStrudwick:moduleCalc</id>
-  <published>2022-07-02T16:16:54Z</published>
-  <updated>2022-07-02T16:16:54Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Kleidukos: Karfa</title>
-  <author>
-   <name>Kleidukos</name>
-  </author>
-  <link href="https://github.com/Kleidukos/Karfa" />
-  <id>urn:rprimus:github:Kleidukos:Karfa</id>
-  <published>2022-07-02T15:04:19Z</published>
-  <updated>2022-07-02T15:04:19Z</updated>
-  <content type="html">
-   A sent of cinnamon
-  </content>
- </entry>
- <entry>
-  <title>almirph: lp-haskell</title>
-  <author>
-   <name>almirph</name>
-  </author>
-  <link href="https://github.com/almirph/lp-haskell" />
-  <id>urn:rprimus:github:almirph:lp-haskell</id>
-  <published>2022-07-02T14:07:13Z</published>
-  <updated>2022-07-02T14:07:13Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>SaxJ: better-jira-search</title>
-  <author>
-   <name>SaxJ</name>
-  </author>
-  <link href="https://github.com/SaxJ/better-jira-search" />
-  <id>urn:rprimus:github:SaxJ:better-jira-search</id>
-  <published>2022-07-02T13:25:17Z</published>
-  <updated>2022-07-02T13:25:17Z</updated>
-  <content type="html">
-   Better jira search
-  </content>
- </entry>
- <entry>
-  <title>Booster39: my_wolfram</title>
-  <author>
-   <name>Booster39</name>
-  </author>
-  <link href="https://github.com/Booster39/my_wolfram" />
-  <id>urn:rprimus:github:Booster39:my_wolfram</id>
-  <published>2022-07-02T13:09:02Z</published>
-  <updated>2022-07-02T13:09:02Z</updated>
-  <content type="html">
-   Functionnal programming in Haskell. Reproducing Conway&#039;s Game of Life: Cellular Automata/ Elementary cellular automaton. Three rules: -&gt; Rule 30 -&gt; Rule 90 -&gt; Rule 110. Part of EPITECH projects
-  </content>
- </entry>
- <entry>
-  <title>br4ch1st0chr0n3: try-phi</title>
-  <author>
-   <name>br4ch1st0chr0n3</name>
-  </author>
-  <link href="https://github.com/br4ch1st0chr0n3/try-phi" />
-  <id>urn:rprimus:github:br4ch1st0chr0n3:try-phi</id>
-  <published>2022-07-02T12:56:17Z</published>
-  <updated>2022-07-02T12:56:17Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Mains03: polynomial</title>
-  <author>
-   <name>Mains03</name>
-  </author>
-  <link href="https://github.com/Mains03/polynomial" />
-  <id>urn:rprimus:github:Mains03:polynomial</id>
-  <published>2022-07-02T12:12:27Z</published>
-  <updated>2022-07-02T12:12:27Z</updated>
-  <content type="html">
-   Library for polynomial operations
-  </content>
- </entry>
- <entry>
-  <title>penteract: fairy-chess</title>
-  <author>
-   <name>penteract</name>
-  </author>
-  <link href="https://github.com/penteract/fairy-chess" />
-  <id>urn:rprimus:github:penteract:fairy-chess</id>
-  <published>2022-07-02T12:09:55Z</published>
-  <updated>2022-07-02T12:09:55Z</updated>
-  <content type="html">
-   Whenever you lose, add a new rule
-  </content>
- </entry>
- <entry>
-  <title>kuflash: haskell-kurt-exercises</title>
-  <author>
-   <name>kuflash</name>
-  </author>
-  <link href="https://github.com/kuflash/haskell-kurt-exercises" />
-  <id>urn:rprimus:github:kuflash:haskell-kurt-exercises</id>
-  <published>2022-07-02T12:01:45Z</published>
-  <updated>2022-07-02T12:01:45Z</updated>
-  <content type="html">
-   Exercises solutions from Will Kurt&#039;s book &quot;Get Programming with Haskell&quot;
-  </content>
- </entry>
- <entry>
-  <title>CubeSeal: QuoteWallpaper</title>
-  <author>
-   <name>CubeSeal</name>
-  </author>
-  <link href="https://github.com/CubeSeal/QuoteWallpaper" />
-  <id>urn:rprimus:github:CubeSeal:QuoteWallpaper</id>
-  <published>2022-07-02T11:08:28Z</published>
-  <updated>2022-07-02T11:08:28Z</updated>
-  <content type="html">
-   Downloads Wikimedia POTD and adds quote to it from Kindle &#039;MyClippings.txt&#039; file
-  </content>
- </entry>
- <entry>
-  <title>danvonk: vox</title>
-  <author>
-   <name>danvonk</name>
-  </author>
-  <link href="https://github.com/danvonk/vox" />
-  <id>urn:rprimus:github:danvonk:vox</id>
-  <published>2022-07-02T11:08:20Z</published>
-  <updated>2022-07-02T11:08:20Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>br4ch1st0chr0n3: phi-utils</title>
-  <author>
-   <name>br4ch1st0chr0n3</name>
-  </author>
-  <link href="https://github.com/br4ch1st0chr0n3/phi-utils" />
-  <id>urn:rprimus:github:br4ch1st0chr0n3:phi-utils</id>
-  <published>2022-07-02T09:38:48Z</published>
-  <updated>2022-07-02T09:38:48Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>janisivanoov: ASM_DSL_FIFT_TEL</title>
-  <author>
-   <name>janisivanoov</name>
-  </author>
-  <link href="https://github.com/janisivanoov/ASM_DSL_FIFT_TEL" />
-  <id>urn:rprimus:github:janisivanoov:ASM_DSL_FIFT_TEL</id>
-  <published>2022-07-02T09:20:22Z</published>
-  <updated>2022-07-02T09:20:22Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>hypered: smart-design-hs</title>
-  <author>
-   <name>hypered</name>
-  </author>
-  <link href="https://github.com/hypered/smart-design-hs" />
-  <id>urn:rprimus:github:hypered:smart-design-hs</id>
-  <published>2022-07-02T08:54:37Z</published>
-  <updated>2022-07-02T08:54:37Z</updated>
-  <content type="html">
-   An implementation of smartcoop/design in Haskell 
-  </content>
- </entry>
- <entry>
-  <title>hypered: commence</title>
-  <author>
-   <name>hypered</name>
-  </author>
-  <link href="https://github.com/hypered/commence" />
-  <id>urn:rprimus:github:hypered:commence</id>
-  <published>2022-07-02T08:50:52Z</published>
-  <updated>2022-07-02T08:50:52Z</updated>
-  <content type="html">
-   Building blocks to prototype classical three-tier web applications with Servant and STM
-  </content>
- </entry>
- <entry>
-  <title>mtoohey31: legiscli</title>
-  <author>
-   <name>mtoohey31</name>
-  </author>
-  <link href="https://github.com/mtoohey31/legiscli" />
-  <id>urn:rprimus:github:mtoohey31:legiscli</id>
-  <published>2022-07-02T03:13:45Z</published>
-  <updated>2022-07-02T03:13:45Z</updated>
-  <content type="html">
-   A command-line interface for https://parl.ca/legisinfo.
-  </content>
- </entry>
- <entry>
-  <title>prednaz: type-effect</title>
-  <author>
-   <name>prednaz</name>
-  </author>
-  <link href="https://github.com/prednaz/type-effect" />
-  <id>urn:rprimus:github:prednaz:type-effect</id>
-  <published>2022-07-02T00:26:30Z</published>
-  <updated>2022-07-02T00:26:30Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
