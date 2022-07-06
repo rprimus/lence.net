@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2022-07-05T17:33:49Z</updated>
+<updated>2022-07-06T02:13:18Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>lambdadog: rescript-tree-sitter-mode</title>
+  <author>
+   <name>lambdadog</name>
+  </author>
+  <link href="https://github.com/lambdadog/rescript-tree-sitter-mode" />
+  <id>urn:rprimus:github:lambdadog:rescript-tree-sitter-mode</id>
+  <published>2022-07-06T02:13:18Z</published>
+  <updated>2022-07-06T02:13:18Z</updated>
+  <content type="html">
+   A ReScript mode for emacs built on top of tree-sitter
+  </content>
+ </entry>
+ <entry>
+  <title>Unee0x: .emacsfile</title>
+  <author>
+   <name>Unee0x</name>
+  </author>
+  <link href="https://github.com/Unee0x/.emacsfile" />
+  <id>urn:rprimus:github:Unee0x:.emacsfile</id>
+  <published>2022-07-06T01:56:10Z</published>
+  <updated>2022-07-06T01:56:10Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>dpassen: cljstyle-format</title>
+  <author>
+   <name>dpassen</name>
+  </author>
+  <link href="https://github.com/dpassen/cljstyle-format" />
+  <id>urn:rprimus:github:dpassen:cljstyle-format</id>
+  <published>2022-07-06T00:28:45Z</published>
+  <updated>2022-07-06T00:28:45Z</updated>
+  <content type="html">
+   emacs package to reformat Clojure code using cljstyle
+  </content>
+ </entry>
+ <entry>
+  <title>flocks: ewaser</title>
+  <author>
+   <name>flocks</name>
+  </author>
+  <link href="https://github.com/flocks/ewaser" />
+  <id>urn:rprimus:github:flocks:ewaser</id>
+  <published>2022-07-05T21:15:09Z</published>
+  <updated>2022-07-05T21:15:09Z</updated>
+  <content type="html">
+   Debloat websites rendered in emacs eww
+  </content>
+ </entry>
  <entry>
   <title>sondredl: emacs</title>
   <author>
@@ -57,19 +109,6 @@
   </content>
  </entry>
  <entry>
-  <title>ybasviel: .emacs.d</title>
-  <author>
-   <name>ybasviel</name>
-  </author>
-  <link href="https://github.com/ybasviel/.emacs.d" />
-  <id>urn:rprimus:github:ybasviel:.emacs.d</id>
-  <published>2022-07-05T15:28:13Z</published>
-  <updated>2022-07-05T15:28:13Z</updated>
-  <content type="html">
-   My configuration of emacs 
-  </content>
- </entry>
- <entry>
   <title>pol1n04ka: emacs_config</title>
   <author>
    <name>pol1n04ka</name>
@@ -119,6 +158,19 @@
   <updated>2022-07-05T03:34:38Z</updated>
   <content type="html">
    My Spacemacs Config
+  </content>
+ </entry>
+ <entry>
+  <title>JoshTRN: emacs-configurations</title>
+  <author>
+   <name>JoshTRN</name>
+  </author>
+  <link href="https://github.com/JoshTRN/emacs-configurations" />
+  <id>urn:rprimus:github:JoshTRN:emacs-configurations</id>
+  <published>2022-07-05T02:19:44Z</published>
+  <updated>2022-07-05T02:19:44Z</updated>
+  <content type="html">
+   Custom SCM highlights for various languages tree-sitter-langs uses in emacs.
   </content>
  </entry>
  <entry>
@@ -252,19 +304,6 @@
   </content>
  </entry>
  <entry>
-  <title>Flygrounder: dotfiles</title>
-  <author>
-   <name>Flygrounder</name>
-  </author>
-  <link href="https://github.com/Flygrounder/dotfiles" />
-  <id>urn:rprimus:github:Flygrounder:dotfiles</id>
-  <published>2022-07-04T11:31:39Z</published>
-  <updated>2022-07-04T11:31:39Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
   <title>miire: .emacs.d</title>
   <author>
    <name>miire</name>
@@ -314,201 +353,6 @@
   <updated>2022-07-04T04:53:12Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>WarFox: warmacs</title>
-  <author>
-   <name>WarFox</name>
-  </author>
-  <link href="https://github.com/WarFox/warmacs" />
-  <id>urn:rprimus:github:WarFox:warmacs</id>
-  <published>2022-07-03T23:01:22Z</published>
-  <updated>2022-07-03T23:01:22Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>scarydoors: .emacs.d</title>
-  <author>
-   <name>scarydoors</name>
-  </author>
-  <link href="https://github.com/scarydoors/.emacs.d" />
-  <id>urn:rprimus:github:scarydoors:.emacs.d</id>
-  <published>2022-07-03T23:01:01Z</published>
-  <updated>2022-07-03T23:01:01Z</updated>
-  <content type="html">
-   My personal GNU Emacs configuration
-  </content>
- </entry>
- <entry>
-  <title>maxrousseau: mr-emacs</title>
-  <author>
-   <name>maxrousseau</name>
-  </author>
-  <link href="https://github.com/maxrousseau/mr-emacs" />
-  <id>urn:rprimus:github:maxrousseau:mr-emacs</id>
-  <published>2022-07-03T19:42:08Z</published>
-  <updated>2022-07-03T19:42:08Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>8x4y2z: config</title>
-  <author>
-   <name>8x4y2z</name>
-  </author>
-  <link href="https://github.com/8x4y2z/config" />
-  <id>urn:rprimus:github:8x4y2z:config</id>
-  <published>2022-07-03T19:16:49Z</published>
-  <updated>2022-07-03T19:16:49Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>riscygeek: emacs-config</title>
-  <author>
-   <name>riscygeek</name>
-  </author>
-  <link href="https://github.com/riscygeek/emacs-config" />
-  <id>urn:rprimus:github:riscygeek:emacs-config</id>
-  <published>2022-07-03T19:02:14Z</published>
-  <updated>2022-07-03T19:02:14Z</updated>
-  <content type="html">
-   My custom emacs config
-  </content>
- </entry>
- <entry>
-  <title>luis-marques: org-xournal</title>
-  <author>
-   <name>luis-marques</name>
-  </author>
-  <link href="https://github.com/luis-marques/org-xournal" />
-  <id>urn:rprimus:github:luis-marques:org-xournal</id>
-  <published>2022-07-03T17:28:50Z</published>
-  <updated>2022-07-03T17:28:50Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>nsbt: dotfiles</title>
-  <author>
-   <name>nsbt</name>
-  </author>
-  <link href="https://github.com/nsbt/dotfiles" />
-  <id>urn:rprimus:github:nsbt:dotfiles</id>
-  <published>2022-07-03T14:32:12Z</published>
-  <updated>2022-07-03T14:32:12Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>simonchalder: config-files</title>
-  <author>
-   <name>simonchalder</name>
-  </author>
-  <link href="https://github.com/simonchalder/config-files" />
-  <id>urn:rprimus:github:simonchalder:config-files</id>
-  <published>2022-07-03T13:29:51Z</published>
-  <updated>2022-07-03T13:29:51Z</updated>
-  <content type="html">
-   Linux .config files
-  </content>
- </entry>
- <entry>
-  <title>sakurabeaver: emacsConfMac</title>
-  <author>
-   <name>sakurabeaver</name>
-  </author>
-  <link href="https://github.com/sakurabeaver/emacsConfMac" />
-  <id>urn:rprimus:github:sakurabeaver:emacsConfMac</id>
-  <published>2022-07-03T12:55:27Z</published>
-  <updated>2022-07-03T12:55:27Z</updated>
-  <content type="html">
-   emacs config
-  </content>
- </entry>
- <entry>
-  <title>nickcowans: .emacs.d</title>
-  <author>
-   <name>nickcowans</name>
-  </author>
-  <link href="https://github.com/nickcowans/.emacs.d" />
-  <id>urn:rprimus:github:nickcowans:.emacs.d</id>
-  <published>2022-07-03T10:32:53Z</published>
-  <updated>2022-07-03T10:32:53Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>niwaka-ame: niwaka-ame.github.io</title>
-  <author>
-   <name>niwaka-ame</name>
-  </author>
-  <link href="https://github.com/niwaka-ame/niwaka-ame.github.io" />
-  <id>urn:rprimus:github:niwaka-ame:niwaka-ame.github.io</id>
-  <published>2022-07-03T09:55:45Z</published>
-  <updated>2022-07-03T09:55:45Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>AndreiD049: ad-emacs</title>
-  <author>
-   <name>AndreiD049</name>
-  </author>
-  <link href="https://github.com/AndreiD049/ad-emacs" />
-  <id>urn:rprimus:github:AndreiD049:ad-emacs</id>
-  <published>2022-07-03T09:11:17Z</published>
-  <updated>2022-07-03T09:11:17Z</updated>
-  <content type="html">
-   Emacs lisp customizations
-  </content>
- </entry>
- <entry>
-  <title>ny64: dump</title>
-  <author>
-   <name>ny64</name>
-  </author>
-  <link href="https://github.com/ny64/dump" />
-  <id>urn:rprimus:github:ny64:dump</id>
-  <published>2022-07-03T08:31:52Z</published>
-  <updated>2022-07-03T08:31:52Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>pointerish: .doom.d</title>
-  <author>
-   <name>pointerish</name>
-  </author>
-  <link href="https://github.com/pointerish/.doom.d" />
-  <id>urn:rprimus:github:pointerish:.doom.d</id>
-  <published>2022-07-03T06:08:51Z</published>
-  <updated>2022-07-03T06:08:51Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Gradecak: magit-ci</title>
-  <author>
-   <name>Gradecak</name>
-  </author>
-  <link href="https://github.com/Gradecak/magit-ci" />
-  <id>urn:rprimus:github:Gradecak:magit-ci</id>
-  <published>2022-07-03T06:02:57Z</published>
-  <updated>2022-07-03T06:02:57Z</updated>
-  <content type="html">
-   Add a CI section to magit buffer showing the current status of builds linked to remote origins
   </content>
  </entry>
 </feed>
