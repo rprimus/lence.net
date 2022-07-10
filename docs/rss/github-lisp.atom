@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-07-09T03:58:22Z</updated>
+<updated>2022-07-09T21:03:10Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>ghollisjr: sudoku</title>
+  <author>
+   <name>ghollisjr</name>
+  </author>
+  <link href="https://github.com/ghollisjr/sudoku" />
+  <id>urn:rprimus:github:ghollisjr:sudoku</id>
+  <published>2022-07-09T21:03:10Z</published>
+  <updated>2022-07-09T21:03:10Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>aykaramba: clog-contacts-tutorial</title>
+  <author>
+   <name>aykaramba</name>
+  </author>
+  <link href="https://github.com/aykaramba/clog-contacts-tutorial" />
+  <id>urn:rprimus:github:aykaramba:clog-contacts-tutorial</id>
+  <published>2022-07-09T12:00:31Z</published>
+  <updated>2022-07-09T12:00:31Z</updated>
+  <content type="html">
+   Trying to complete the CLOG Contacts App tutorial (Clog builder tutorial 4)
+  </content>
+ </entry>
  <entry>
   <title>michaeldelago: statusbar</title>
   <author>
@@ -54,123 +80,6 @@
   <updated>2022-07-08T06:21:19Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>juan-reynoso: easy-parcel</title>
-  <author>
-   <name>juan-reynoso</name>
-  </author>
-  <link href="https://github.com/juan-reynoso/easy-parcel" />
-  <id>urn:rprimus:github:juan-reynoso:easy-parcel</id>
-  <published>2022-07-07T19:25:38Z</published>
-  <updated>2022-07-07T19:25:38Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>sergiofenoll: kas-3536-repro</title>
-  <author>
-   <name>sergiofenoll</name>
-  </author>
-  <link href="https://github.com/sergiofenoll/kas-3536-repro" />
-  <id>urn:rprimus:github:sergiofenoll:kas-3536-repro</id>
-  <published>2022-07-07T12:44:32Z</published>
-  <updated>2022-07-07T12:44:32Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>dvush: cl-eth</title>
-  <author>
-   <name>dvush</name>
-  </author>
-  <link href="https://github.com/dvush/cl-eth" />
-  <id>urn:rprimus:github:dvush:cl-eth</id>
-  <published>2022-07-07T10:18:49Z</published>
-  <updated>2022-07-07T10:18:49Z</updated>
-  <content type="html">
-   Common Lisp library for interaction with Ethereum and compatible chains.
-  </content>
- </entry>
- <entry>
-  <title>johnlorentzson: filter-maker</title>
-  <author>
-   <name>johnlorentzson</name>
-  </author>
-  <link href="https://github.com/johnlorentzson/filter-maker" />
-  <id>urn:rprimus:github:johnlorentzson:filter-maker</id>
-  <published>2022-07-07T08:34:01Z</published>
-  <updated>2022-07-07T08:34:01Z</updated>
-  <content type="html">
-   CLIM program for letting users make filters out of predicates and keys.
-  </content>
- </entry>
- <entry>
-  <title>ecooler: ECS140A-hw3-handout</title>
-  <author>
-   <name>ecooler</name>
-  </author>
-  <link href="https://github.com/ecooler/ECS140A-hw3-handout" />
-  <id>urn:rprimus:github:ecooler:ECS140A-hw3-handout</id>
-  <published>2022-07-07T07:40:15Z</published>
-  <updated>2022-07-07T07:40:15Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Anomalocaridid: nx-router</title>
-  <author>
-   <name>Anomalocaridid</name>
-  </author>
-  <link href="https://github.com/Anomalocaridid/nx-router" />
-  <id>urn:rprimus:github:Anomalocaridid:nx-router</id>
-  <published>2022-07-07T02:30:09Z</published>
-  <updated>2022-07-07T02:30:09Z</updated>
-  <content type="html">
-   Clone of efimerspan&#039;s Nyxt browser extension nx-router, which appears to have been removed from Github by the original author
-  </content>
- </entry>
- <entry>
-  <title>Anomalocaridid: nx-tailor</title>
-  <author>
-   <name>Anomalocaridid</name>
-  </author>
-  <link href="https://github.com/Anomalocaridid/nx-tailor" />
-  <id>urn:rprimus:github:Anomalocaridid:nx-tailor</id>
-  <published>2022-07-07T02:25:11Z</published>
-  <updated>2022-07-07T02:25:11Z</updated>
-  <content type="html">
-   Clone of efimerspan&#039;s Nyxt browser extension nx-tailor, which appears to have been removed from Github by the original author
-  </content>
- </entry>
- <entry>
-  <title>fouric: fouric-charms</title>
-  <author>
-   <name>fouric</name>
-  </author>
-  <link href="https://github.com/fouric/fouric-charms" />
-  <id>urn:rprimus:github:fouric:fouric-charms</id>
-  <published>2022-07-07T00:58:58Z</published>
-  <updated>2022-07-07T00:58:58Z</updated>
-  <content type="html">
-   tower of abstractions on top of cl-charms
-  </content>
- </entry>
- <entry>
-  <title>nikitadanilov: 3-lisp</title>
-  <author>
-   <name>nikitadanilov</name>
-  </author>
-  <link href="https://github.com/nikitadanilov/3-lisp" />
-  <id>urn:rprimus:github:nikitadanilov:3-lisp</id>
-  <published>2022-07-07T00:53:15Z</published>
-  <updated>2022-07-07T00:53:15Z</updated>
-  <content type="html">
-   3-lisp implementation from Procedural Reflection in Programming Languages, volume i., Brian Cantwell Smith
   </content>
  </entry>
 </feed>
