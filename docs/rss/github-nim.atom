@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2022-07-17T05:53:20Z</updated>
+<updated>2022-07-18T09:07:48Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>srozb: entgrep</title>
+  <author>
+   <name>srozb</name>
+  </author>
+  <link href="https://github.com/srozb/entgrep" />
+  <id>urn:rprimus:github:srozb:entgrep</id>
+  <published>2022-07-18T09:07:48Z</published>
+  <updated>2022-07-18T09:07:48Z</updated>
+  <content type="html">
+   A Grep but for secrets (based on entropy)
+  </content>
+ </entry>
+ <entry>
+  <title>uga-rosa: njo</title>
+  <author>
+   <name>uga-rosa</name>
+  </author>
+  <link href="https://github.com/uga-rosa/njo" />
+  <id>urn:rprimus:github:uga-rosa:njo</id>
+  <published>2022-07-17T22:38:17Z</published>
+  <updated>2022-07-17T22:38:17Z</updated>
+  <content type="html">
+   jo written in Nim
+  </content>
+ </entry>
+ <entry>
+  <title>chrisecker: textmodelnim</title>
+  <author>
+   <name>chrisecker</name>
+  </author>
+  <link href="https://github.com/chrisecker/textmodelnim" />
+  <id>urn:rprimus:github:chrisecker:textmodelnim</id>
+  <published>2022-07-17T19:05:31Z</published>
+  <updated>2022-07-17T19:05:31Z</updated>
+  <content type="html">
+   An attemp to port textmodel to the nim programming language
+  </content>
+ </entry>
+ <entry>
+  <title>Tuatarian: nash</title>
+  <author>
+   <name>Tuatarian</name>
+  </author>
+  <link href="https://github.com/Tuatarian/nash" />
+  <id>urn:rprimus:github:Tuatarian:nash</id>
+  <published>2022-07-17T10:40:37Z</published>
+  <updated>2022-07-17T10:40:37Z</updated>
+  <content type="html">
+   An engine for playing the boardagame Hex
+  </content>
+ </entry>
  <entry>
   <title>Araq: mastering_nim</title>
   <author>
@@ -41,58 +93,6 @@
   <updated>2022-07-16T20:00:58Z</updated>
   <content type="html">
    Not Another Game Engine; CLI text adventure engine written in Nim
-  </content>
- </entry>
- <entry>
-  <title>davidmarcombes: nimquant</title>
-  <author>
-   <name>davidmarcombes</name>
-  </author>
-  <link href="https://github.com/davidmarcombes/nimquant" />
-  <id>urn:rprimus:github:davidmarcombes:nimquant</id>
-  <published>2022-07-15T21:18:25Z</published>
-  <updated>2022-07-15T21:18:25Z</updated>
-  <content type="html">
-   An attempt at financial quant tools in nim
-  </content>
- </entry>
- <entry>
-  <title>Rorkh: evgenia</title>
-  <author>
-   <name>Rorkh</name>
-  </author>
-  <link href="https://github.com/Rorkh/evgenia" />
-  <id>urn:rprimus:github:Rorkh:evgenia</id>
-  <published>2022-07-15T20:57:28Z</published>
-  <updated>2022-07-15T20:57:28Z</updated>
-  <content type="html">
-   Minecraft Classic/Classicube server software
-  </content>
- </entry>
- <entry>
-  <title>dirtboll: plaza</title>
-  <author>
-   <name>dirtboll</name>
-  </author>
-  <link href="https://github.com/dirtboll/plaza" />
-  <id>urn:rprimus:github:dirtboll:plaza</id>
-  <published>2022-07-15T07:31:27Z</published>
-  <updated>2022-07-15T07:31:27Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>AndrusK: Nim-REPL-Template</title>
-  <author>
-   <name>AndrusK</name>
-  </author>
-  <link href="https://github.com/AndrusK/Nim-REPL-Template" />
-  <id>urn:rprimus:github:AndrusK:Nim-REPL-Template</id>
-  <published>2022-07-15T02:16:42Z</published>
-  <updated>2022-07-15T02:16:42Z</updated>
-  <content type="html">
-   Just a template for implementing a REPL in Nim. Probably not optimal, but it works (on my system at least)
   </content>
  </entry>
 </feed>
