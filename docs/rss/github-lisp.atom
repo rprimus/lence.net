@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-07-20T21:59:25Z</updated>
+<updated>2022-07-22T19:01:04Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>theodrosmhaile: wpt_act</title>
+  <author>
+   <name>theodrosmhaile</name>
+  </author>
+  <link href="https://github.com/theodrosmhaile/wpt_act" />
+  <id>urn:rprimus:github:theodrosmhaile:wpt_act</id>
+  <published>2022-07-22T19:01:04Z</published>
+  <updated>2022-07-22T19:01:04Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>siliciusz: erratic-orator</title>
+  <author>
+   <name>siliciusz</name>
+  </author>
+  <link href="https://github.com/siliciusz/erratic-orator" />
+  <id>urn:rprimus:github:siliciusz:erratic-orator</id>
+  <published>2022-07-22T14:30:53Z</published>
+  <updated>2022-07-22T14:30:53Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>ghollisjr: prime-utils</title>
+  <author>
+   <name>ghollisjr</name>
+  </author>
+  <link href="https://github.com/ghollisjr/prime-utils" />
+  <id>urn:rprimus:github:ghollisjr:prime-utils</id>
+  <published>2022-07-22T00:49:40Z</published>
+  <updated>2022-07-22T00:49:40Z</updated>
+  <content type="html">
+   Prime number utilities for Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>T-recks: eval</title>
+  <author>
+   <name>T-recks</name>
+  </author>
+  <link href="https://github.com/T-recks/eval" />
+  <id>urn:rprimus:github:T-recks:eval</id>
+  <published>2022-07-22T00:17:46Z</published>
+  <updated>2022-07-22T00:17:46Z</updated>
+  <content type="html">
+   Interpreters for Scheme and other Lispy languages
+  </content>
+ </entry>
+ <entry>
+  <title>ghollisjr: intvec</title>
+  <author>
+   <name>ghollisjr</name>
+  </author>
+  <link href="https://github.com/ghollisjr/intvec" />
+  <id>urn:rprimus:github:ghollisjr:intvec</id>
+  <published>2022-07-21T23:29:29Z</published>
+  <updated>2022-07-21T23:29:29Z</updated>
+  <content type="html">
+   Common Lisp integer-as-bit-vector library
+  </content>
+ </entry>
+ <entry>
+  <title>akovalenko: bip0340</title>
+  <author>
+   <name>akovalenko</name>
+  </author>
+  <link href="https://github.com/akovalenko/bip0340" />
+  <id>urn:rprimus:github:akovalenko:bip0340</id>
+  <published>2022-07-21T15:29:11Z</published>
+  <updated>2022-07-21T15:29:11Z</updated>
+  <content type="html">
+   BIP-0340 signing and verification for Common Lisp
+  </content>
+ </entry>
  <entry>
   <title>Natan-Torres-0x0L: Common-Lisp-Console-ANSI-Colored-Library</title>
   <author>
@@ -54,71 +132,6 @@
   <updated>2022-07-20T14:28:12Z</updated>
   <content type="html">
    Some useful extensions for generic-cl, such as functional iterator API.
-  </content>
- </entry>
- <entry>
-  <title>kaveh808: Kaveh-Common-Lisp-Lessons</title>
-  <author>
-   <name>kaveh808</name>
-  </author>
-  <link href="https://github.com/kaveh808/Kaveh-Common-Lisp-Lessons" />
-  <id>urn:rprimus:github:kaveh808:Kaveh-Common-Lisp-Lessons</id>
-  <published>2022-07-19T23:18:43Z</published>
-  <updated>2022-07-19T23:18:43Z</updated>
-  <content type="html">
-   Common Lisp programming tutorials
-  </content>
- </entry>
- <entry>
-  <title>wesley7891: common-lisp</title>
-  <author>
-   <name>wesley7891</name>
-  </author>
-  <link href="https://github.com/wesley7891/common-lisp" />
-  <id>urn:rprimus:github:wesley7891:common-lisp</id>
-  <published>2022-07-19T23:06:25Z</published>
-  <updated>2022-07-19T23:06:25Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>pve1: compute-with-arrows</title>
-  <author>
-   <name>pve1</name>
-  </author>
-  <link href="https://github.com/pve1/compute-with-arrows" />
-  <id>urn:rprimus:github:pve1:compute-with-arrows</id>
-  <published>2022-07-19T15:49:04Z</published>
-  <updated>2022-07-19T15:49:04Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>walpurgisnatch: cl-config</title>
-  <author>
-   <name>walpurgisnatch</name>
-  </author>
-  <link href="https://github.com/walpurgisnatch/cl-config" />
-  <id>urn:rprimus:github:walpurgisnatch:cl-config</id>
-  <published>2022-07-19T10:14:28Z</published>
-  <updated>2022-07-19T10:14:28Z</updated>
-  <content type="html">
-   Configuring cl applications
-  </content>
- </entry>
- <entry>
-  <title>semilin: layoup</title>
-  <author>
-   <name>semilin</name>
-  </author>
-  <link href="https://github.com/semilin/layoup" />
-  <id>urn:rprimus:github:semilin:layoup</id>
-  <published>2022-07-19T01:02:38Z</published>
-  <updated>2022-07-19T01:02:38Z</updated>
-  <content type="html">
-   A declarative layout analyzer written in Common Lisp.
   </content>
  </entry>
 </feed>
