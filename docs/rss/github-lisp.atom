@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-07-22T19:01:04Z</updated>
+<updated>2022-07-23T20:11:08Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>SebastianKeller: AOC-2021</title>
+  <author>
+   <name>SebastianKeller</name>
+  </author>
+  <link href="https://github.com/SebastianKeller/AOC-2021" />
+  <id>urn:rprimus:github:SebastianKeller:AOC-2021</id>
+  <published>2022-07-23T20:11:08Z</published>
+  <updated>2022-07-23T20:11:08Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>atlas-engineer: ntemplate</title>
+  <author>
+   <name>atlas-engineer</name>
+  </author>
+  <link href="https://github.com/atlas-engineer/ntemplate" />
+  <id>urn:rprimus:github:atlas-engineer:ntemplate</id>
+  <published>2022-07-23T18:44:46Z</published>
+  <updated>2022-07-23T18:44:46Z</updated>
+  <content type="html">
+   A unified template for Atlas Engineer libraries. Using as easy as (quickproject:make-project #p&quot;/path/to/your/lib/&quot; :template-directory #p&quot;/path/to/ntemplate/&quot; :author &quot;Atlas Engineer LLC&quot; :license &quot;BSD-3 Clause&quot;)
+  </content>
+ </entry>
+ <entry>
+  <title>kcymo: Sonolisp</title>
+  <author>
+   <name>kcymo</name>
+  </author>
+  <link href="https://github.com/kcymo/Sonolisp" />
+  <id>urn:rprimus:github:kcymo:Sonolisp</id>
+  <published>2022-07-23T15:52:56Z</published>
+  <updated>2022-07-23T15:52:56Z</updated>
+  <content type="html">
+   A Sonolus scripting library for Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>hww: vmlc</title>
+  <author>
+   <name>hww</name>
+  </author>
+  <link href="https://github.com/hww/vmlc" />
+  <id>urn:rprimus:github:hww:vmlc</id>
+  <published>2022-07-23T13:18:01Z</published>
+  <updated>2022-07-23T13:18:01Z</updated>
+  <content type="html">
+   My experimental toy -- Lisp compiler 
+  </content>
+ </entry>
  <entry>
   <title>theodrosmhaile: wpt_act</title>
   <author>
@@ -67,45 +119,6 @@
   <updated>2022-07-22T00:17:46Z</updated>
   <content type="html">
    Interpreters for Scheme and other Lispy languages
-  </content>
- </entry>
- <entry>
-  <title>ghollisjr: intvec</title>
-  <author>
-   <name>ghollisjr</name>
-  </author>
-  <link href="https://github.com/ghollisjr/intvec" />
-  <id>urn:rprimus:github:ghollisjr:intvec</id>
-  <published>2022-07-21T23:29:29Z</published>
-  <updated>2022-07-21T23:29:29Z</updated>
-  <content type="html">
-   Common Lisp integer-as-bit-vector library
-  </content>
- </entry>
- <entry>
-  <title>yitzchak: blaze</title>
-  <author>
-   <name>yitzchak</name>
-  </author>
-  <link href="https://github.com/yitzchak/blaze" />
-  <id>urn:rprimus:github:yitzchak:blaze</id>
-  <published>2022-07-21T19:39:17Z</published>
-  <updated>2022-07-21T19:39:17Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>akovalenko: bip0340</title>
-  <author>
-   <name>akovalenko</name>
-  </author>
-  <link href="https://github.com/akovalenko/bip0340" />
-  <id>urn:rprimus:github:akovalenko:bip0340</id>
-  <published>2022-07-21T15:29:11Z</published>
-  <updated>2022-07-21T15:29:11Z</updated>
-  <content type="html">
-   BIP-0340 signing and verification for Common Lisp
   </content>
  </entry>
 </feed>
