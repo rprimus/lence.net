@@ -2,123 +2,188 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2022-07-23T22:39:39Z</updated>
+<updated>2022-07-29T14:36:43Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
  <entry>
-  <title>beef331: tinynimwl</title>
+  <title>nonimportant: govee-desktop</title>
   <author>
-   <name>beef331</name>
+   <name>nonimportant</name>
   </author>
-  <link href="https://github.com/beef331/tinynimwl" />
-  <id>urn:rprimus:github:beef331:tinynimwl</id>
-  <published>2022-07-23T22:39:39Z</published>
-  <updated>2022-07-23T22:39:39Z</updated>
+  <link href="https://github.com/nonimportant/govee-desktop" />
+  <id>urn:rprimus:github:nonimportant:govee-desktop</id>
+  <published>2022-07-29T14:36:43Z</published>
+  <updated>2022-07-29T14:36:43Z</updated>
   <content type="html">
-   Reimplementation of tinywl in Nim to test the wayland bindings
+   A desktop client for controlling Govee light strips.
   </content>
  </entry>
  <entry>
-  <title>FredTheDino: nim-tracer</title>
+  <title>d0rksh: psreplace</title>
   <author>
-   <name>FredTheDino</name>
+   <name>d0rksh</name>
   </author>
-  <link href="https://github.com/FredTheDino/nim-tracer" />
-  <id>urn:rprimus:github:FredTheDino:nim-tracer</id>
-  <published>2022-07-23T18:51:28Z</published>
-  <updated>2022-07-23T18:51:28Z</updated>
-  <content type="html">
-   I need something to distract me
-  </content>
- </entry>
- <entry>
-  <title>LotfiAghel: NimSrilizer</title>
-  <author>
-   <name>LotfiAghel</name>
-  </author>
-  <link href="https://github.com/LotfiAghel/NimSrilizer" />
-  <id>urn:rprimus:github:LotfiAghel:NimSrilizer</id>
-  <published>2022-07-23T18:35:21Z</published>
-  <updated>2022-07-23T18:35:21Z</updated>
+  <link href="https://github.com/d0rksh/psreplace" />
+  <id>urn:rprimus:github:d0rksh:psreplace</id>
+  <published>2022-07-29T11:25:05Z</published>
+  <updated>2022-07-29T11:25:05Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>Kaleidosium: HEXES</title>
+  <title>hdbg: mcscanner</title>
   <author>
-   <name>Kaleidosium</name>
+   <name>hdbg</name>
   </author>
-  <link href="https://github.com/Kaleidosium/HEXES" />
-  <id>urn:rprimus:github:Kaleidosium:HEXES</id>
-  <published>2022-07-23T12:56:27Z</published>
-  <updated>2022-07-23T12:56:27Z</updated>
+  <link href="https://github.com/hdbg/mcscanner" />
+  <id>urn:rprimus:github:hdbg:mcscanner</id>
+  <published>2022-07-29T06:01:00Z</published>
+  <updated>2022-07-29T06:01:00Z</updated>
+  <content type="html">
+   Shit minecraft anticheat
+  </content>
+ </entry>
+ <entry>
+  <title>Supercolbat: nimdle</title>
+  <author>
+   <name>Supercolbat</name>
+  </author>
+  <link href="https://github.com/Supercolbat/nimdle" />
+  <id>urn:rprimus:github:Supercolbat:nimdle</id>
+  <published>2022-07-28T19:13:08Z</published>
+  <updated>2022-07-28T19:13:08Z</updated>
+  <content type="html">
+   Wordle but in Nim
+  </content>
+ </entry>
+ <entry>
+  <title>thisago: kiwifyDownload</title>
+  <author>
+   <name>thisago</name>
+  </author>
+  <link href="https://github.com/thisago/kiwifyDownload" />
+  <id>urn:rprimus:github:thisago:kiwifyDownload</id>
+  <published>2022-07-28T14:43:40Z</published>
+  <updated>2022-07-28T14:43:40Z</updated>
+  <content type="html">
+   Downloads the kiwify videos from course JSON
+  </content>
+ </entry>
+ <entry>
+  <title>rymnc: ftx-tickers-nim</title>
+  <author>
+   <name>rymnc</name>
+  </author>
+  <link href="https://github.com/rymnc/ftx-tickers-nim" />
+  <id>urn:rprimus:github:rymnc:ftx-tickers-nim</id>
+  <published>2022-07-28T12:34:23Z</published>
+  <updated>2022-07-28T12:34:23Z</updated>
+  <content type="html">
+   Grab vwap of most commonly used tickers on ftx
+  </content>
+ </entry>
+ <entry>
+  <title>panno8M: getdict</title>
+  <author>
+   <name>panno8M</name>
+  </author>
+  <link href="https://github.com/panno8M/getdict" />
+  <id>urn:rprimus:github:panno8M:getdict</id>
+  <published>2022-07-28T09:26:04Z</published>
+  <updated>2022-07-28T09:26:04Z</updated>
+  <content type="html">
+   Look up arguments from the Cambridge learner&#039;s dictionary and output html.
+  </content>
+ </entry>
+ <entry>
+  <title>Phytolizer: porth-nim</title>
+  <author>
+   <name>Phytolizer</name>
+  </author>
+  <link href="https://github.com/Phytolizer/porth-nim" />
+  <id>urn:rprimus:github:Phytolizer:porth-nim</id>
+  <published>2022-07-27T21:51:37Z</published>
+  <updated>2022-07-27T21:51:37Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>NotFubukIl: NimHentaiDownloader</title>
+  <title>iffy: book-analysis</title>
   <author>
-   <name>NotFubukIl</name>
+   <name>iffy</name>
   </author>
-  <link href="https://github.com/NotFubukIl/NimHentaiDownloader" />
-  <id>urn:rprimus:github:NotFubukIl:NimHentaiDownloader</id>
-  <published>2022-07-23T10:52:26Z</published>
-  <updated>2022-07-23T10:52:26Z</updated>
+  <link href="https://github.com/iffy/book-analysis" />
+  <id>urn:rprimus:github:iffy:book-analysis</id>
+  <published>2022-07-27T16:22:32Z</published>
+  <updated>2022-07-27T16:22:32Z</updated>
   <content type="html">
-   Just a sped hentai downloader
+   Just doing things with books
   </content>
  </entry>
  <entry>
-  <title>avahe-kellenberger: array2d</title>
+  <title>MrPerux: snippets</title>
   <author>
-   <name>avahe-kellenberger</name>
+   <name>MrPerux</name>
   </author>
-  <link href="https://github.com/avahe-kellenberger/array2d" />
-  <id>urn:rprimus:github:avahe-kellenberger:array2d</id>
-  <published>2022-07-23T02:31:16Z</published>
-  <updated>2022-07-23T02:31:16Z</updated>
+  <link href="https://github.com/MrPerux/snippets" />
+  <id>urn:rprimus:github:MrPerux:snippets</id>
+  <published>2022-07-27T15:59:30Z</published>
+  <updated>2022-07-27T15:59:30Z</updated>
   <content type="html">
-   2D array implementation in Nim.
+   
   </content>
  </entry>
  <entry>
-  <title>frkngksl: NimicStack</title>
+  <title>itsumura-h: basolato-nginx</title>
   <author>
-   <name>frkngksl</name>
+   <name>itsumura-h</name>
   </author>
-  <link href="https://github.com/frkngksl/NimicStack" />
-  <id>urn:rprimus:github:frkngksl:NimicStack</id>
-  <published>2022-07-22T22:36:28Z</published>
-  <updated>2022-07-22T22:36:28Z</updated>
+  <link href="https://github.com/itsumura-h/basolato-nginx" />
+  <id>urn:rprimus:github:itsumura-h:basolato-nginx</id>
+  <published>2022-07-27T15:28:24Z</published>
+  <updated>2022-07-27T15:28:24Z</updated>
   <content type="html">
-   NimicStack is the pure Nim implementation of Call Stack Spoofing technique to mimic legitimate programs
+   
   </content>
  </entry>
  <entry>
-  <title>CatOverfl0w: nim2Pleak</title>
+  <title>yglukhov: yasync</title>
   <author>
-   <name>CatOverfl0w</name>
+   <name>yglukhov</name>
   </author>
-  <link href="https://github.com/CatOverfl0w/nim2Pleak" />
-  <id>urn:rprimus:github:CatOverfl0w:nim2Pleak</id>
-  <published>2022-07-22T16:07:45Z</published>
-  <updated>2022-07-22T16:07:45Z</updated>
+  <link href="https://github.com/yglukhov/yasync" />
+  <id>urn:rprimus:github:yglukhov:yasync</id>
+  <published>2022-07-27T15:04:18Z</published>
+  <updated>2022-07-27T15:04:18Z</updated>
   <content type="html">
-   Check if someone is leaking somes image you sent w/ steganography in nim
+   
   </content>
  </entry>
  <entry>
-  <title>ire4ever1190: termux-nim</title>
+  <title>thisago: checkif</title>
   <author>
-   <name>ire4ever1190</name>
+   <name>thisago</name>
   </author>
-  <link href="https://github.com/ire4ever1190/termux-nim" />
-  <id>urn:rprimus:github:ire4ever1190:termux-nim</id>
-  <published>2022-07-22T04:40:45Z</published>
-  <updated>2022-07-22T04:40:45Z</updated>
+  <link href="https://github.com/thisago/checkif" />
+  <id>urn:rprimus:github:thisago:checkif</id>
+  <published>2022-07-27T13:33:33Z</published>
+  <updated>2022-07-27T13:33:33Z</updated>
   <content type="html">
-   Wrapper around termux-api commands
+   A CLI tool to check files (and registry in Windows)
+  </content>
+ </entry>
+ <entry>
+  <title>strepito66: rps</title>
+  <author>
+   <name>strepito66</name>
+  </author>
+  <link href="https://github.com/strepito66/rps" />
+  <id>urn:rprimus:github:strepito66:rps</id>
+  <published>2022-07-27T09:42:51Z</published>
+  <updated>2022-07-27T09:42:51Z</updated>
+  <content type="html">
+   
   </content>
  </entry>
 </feed>

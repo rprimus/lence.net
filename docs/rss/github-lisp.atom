@@ -2,123 +2,201 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-07-23T20:11:08Z</updated>
+<updated>2022-07-29T15:19:20Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
  <entry>
-  <title>SebastianKeller: AOC-2021</title>
+  <title>Bike: cvm</title>
   <author>
-   <name>SebastianKeller</name>
+   <name>Bike</name>
   </author>
-  <link href="https://github.com/SebastianKeller/AOC-2021" />
-  <id>urn:rprimus:github:SebastianKeller:AOC-2021</id>
-  <published>2022-07-23T20:11:08Z</published>
-  <updated>2022-07-23T20:11:08Z</updated>
+  <link href="https://github.com/Bike/cvm" />
+  <id>urn:rprimus:github:Bike:cvm</id>
+  <published>2022-07-29T15:19:20Z</published>
+  <updated>2022-07-29T15:19:20Z</updated>
+  <content type="html">
+   Common Lisp VM prototype
+  </content>
+ </entry>
+ <entry>
+  <title>irwin08: dbmapper</title>
+  <author>
+   <name>irwin08</name>
+  </author>
+  <link href="https://github.com/irwin08/dbmapper" />
+  <id>urn:rprimus:github:irwin08:dbmapper</id>
+  <published>2022-07-29T13:49:55Z</published>
+  <updated>2022-07-29T13:49:55Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>atlas-engineer: ntemplate</title>
+  <title>shamazmazum: simpsons-rule</title>
   <author>
-   <name>atlas-engineer</name>
+   <name>shamazmazum</name>
   </author>
-  <link href="https://github.com/atlas-engineer/ntemplate" />
-  <id>urn:rprimus:github:atlas-engineer:ntemplate</id>
-  <published>2022-07-23T18:44:46Z</published>
-  <updated>2022-07-23T18:44:46Z</updated>
+  <link href="https://github.com/shamazmazum/simpsons-rule" />
+  <id>urn:rprimus:github:shamazmazum:simpsons-rule</id>
+  <published>2022-07-29T13:42:40Z</published>
+  <updated>2022-07-29T13:42:40Z</updated>
   <content type="html">
-   A unified template for Atlas Engineer libraries. Using as easy as (quickproject:make-project #p&quot;/path/to/your/lib/&quot; :template-directory #p&quot;/path/to/ntemplate/&quot; :author &quot;Atlas Engineer LLC&quot; :license &quot;BSD-3 Clause&quot;)
+   Numeric integration in Common Lisp using Simpson&#039;s rule
   </content>
  </entry>
  <entry>
-  <title>kcymo: Sonolisp</title>
+  <title>Shinmera: filesystem-utils</title>
   <author>
-   <name>kcymo</name>
+   <name>Shinmera</name>
   </author>
-  <link href="https://github.com/kcymo/Sonolisp" />
-  <id>urn:rprimus:github:kcymo:Sonolisp</id>
-  <published>2022-07-23T15:52:56Z</published>
-  <updated>2022-07-23T15:52:56Z</updated>
+  <link href="https://github.com/Shinmera/filesystem-utils" />
+  <id>urn:rprimus:github:Shinmera:filesystem-utils</id>
+  <published>2022-07-29T08:45:26Z</published>
+  <updated>2022-07-29T08:45:26Z</updated>
   <content type="html">
-   A Sonolus scripting library for Common Lisp
+   Utilities for interacting with the filesystem
   </content>
  </entry>
  <entry>
-  <title>hww: vmlc</title>
+  <title>RodrigoGarcia43: vrp-thesis</title>
   <author>
-   <name>hww</name>
+   <name>RodrigoGarcia43</name>
   </author>
-  <link href="https://github.com/hww/vmlc" />
-  <id>urn:rprimus:github:hww:vmlc</id>
-  <published>2022-07-23T13:18:01Z</published>
-  <updated>2022-07-23T13:18:01Z</updated>
-  <content type="html">
-   My experimental toy -- Lisp compiler 
-  </content>
- </entry>
- <entry>
-  <title>theodrosmhaile: wpt_act</title>
-  <author>
-   <name>theodrosmhaile</name>
-  </author>
-  <link href="https://github.com/theodrosmhaile/wpt_act" />
-  <id>urn:rprimus:github:theodrosmhaile:wpt_act</id>
-  <published>2022-07-22T19:01:04Z</published>
-  <updated>2022-07-22T19:01:04Z</updated>
+  <link href="https://github.com/RodrigoGarcia43/vrp-thesis" />
+  <id>urn:rprimus:github:RodrigoGarcia43:vrp-thesis</id>
+  <published>2022-07-29T08:05:39Z</published>
+  <updated>2022-07-29T08:05:39Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>siliciusz: erratic-orator</title>
+  <title>rpgoldman: cl-statistics</title>
   <author>
-   <name>siliciusz</name>
+   <name>rpgoldman</name>
   </author>
-  <link href="https://github.com/siliciusz/erratic-orator" />
-  <id>urn:rprimus:github:siliciusz:erratic-orator</id>
-  <published>2022-07-22T14:30:53Z</published>
-  <updated>2022-07-22T14:30:53Z</updated>
+  <link href="https://github.com/rpgoldman/cl-statistics" />
+  <id>urn:rprimus:github:rpgoldman:cl-statistics</id>
+  <published>2022-07-28T20:52:25Z</published>
+  <updated>2022-07-28T20:52:25Z</updated>
+  <content type="html">
+   Updated (somewhat) version of Larry Hunter&#039;s CL-Statistics library
+  </content>
+ </entry>
+ <entry>
+  <title>GitHubUser5376: AttributeImportExport</title>
+  <author>
+   <name>GitHubUser5376</name>
+  </author>
+  <link href="https://github.com/GitHubUser5376/AttributeImportExport" />
+  <id>urn:rprimus:github:GitHubUser5376:AttributeImportExport</id>
+  <published>2022-07-28T16:41:49Z</published>
+  <updated>2022-07-28T16:41:49Z</updated>
+  <content type="html">
+   Seemlessly transfer attributes between an external document (csv, txt, and xlsx) and cad software
+  </content>
+ </entry>
+ <entry>
+  <title>NrdyBhu1: mun</title>
+  <author>
+   <name>NrdyBhu1</name>
+  </author>
+  <link href="https://github.com/NrdyBhu1/mun" />
+  <id>urn:rprimus:github:NrdyBhu1:mun</id>
+  <published>2022-07-28T12:20:06Z</published>
+  <updated>2022-07-28T12:20:06Z</updated>
+  <content type="html">
+   A simple lisp game
+  </content>
+ </entry>
+ <entry>
+  <title>AfonsoRib: ug-dl</title>
+  <author>
+   <name>AfonsoRib</name>
+  </author>
+  <link href="https://github.com/AfonsoRib/ug-dl" />
+  <id>urn:rprimus:github:AfonsoRib:ug-dl</id>
+  <published>2022-07-28T10:53:33Z</published>
+  <updated>2022-07-28T10:53:33Z</updated>
+  <content type="html">
+   A ultimate guitar tab downloader. (Work In progress)
+  </content>
+ </entry>
+ <entry>
+  <title>Carnivorous-Beehive: css-parser</title>
+  <author>
+   <name>Carnivorous-Beehive</name>
+  </author>
+  <link href="https://github.com/Carnivorous-Beehive/css-parser" />
+  <id>urn:rprimus:github:Carnivorous-Beehive:css-parser</id>
+  <published>2022-07-28T04:17:23Z</published>
+  <updated>2022-07-28T04:17:23Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>barton-willis: gamma_product_simp</title>
+  <title>getgle: basedclisp</title>
   <author>
-   <name>barton-willis</name>
+   <name>getgle</name>
   </author>
-  <link href="https://github.com/barton-willis/gamma_product_simp" />
-  <id>urn:rprimus:github:barton-willis:gamma_product_simp</id>
-  <published>2022-07-22T12:27:47Z</published>
-  <updated>2022-07-22T12:27:47Z</updated>
+  <link href="https://github.com/getgle/basedclisp" />
+  <id>urn:rprimus:github:getgle:basedclisp</id>
+  <published>2022-07-28T03:14:58Z</published>
+  <updated>2022-07-28T03:14:58Z</updated>
   <content type="html">
-   Maxima code for simplifying expressions that involve products of gamma functions.
+   mirror of https://gitlab.com/Getgle/based-clisp
   </content>
  </entry>
  <entry>
-  <title>ghollisjr: prime-utils</title>
+  <title>ghollisjr: scripting</title>
   <author>
    <name>ghollisjr</name>
   </author>
-  <link href="https://github.com/ghollisjr/prime-utils" />
-  <id>urn:rprimus:github:ghollisjr:prime-utils</id>
-  <published>2022-07-22T00:49:40Z</published>
-  <updated>2022-07-22T00:49:40Z</updated>
+  <link href="https://github.com/ghollisjr/scripting" />
+  <id>urn:rprimus:github:ghollisjr:scripting</id>
+  <published>2022-07-28T02:50:09Z</published>
+  <updated>2022-07-28T02:50:09Z</updated>
   <content type="html">
-   Prime number utilities for Common Lisp
+   Common Lisp convenience ASDF system for creating a scripting core
   </content>
  </entry>
  <entry>
-  <title>T-recks: eval</title>
+  <title>AkashaP: cl-destruction</title>
   <author>
-   <name>T-recks</name>
+   <name>AkashaP</name>
   </author>
-  <link href="https://github.com/T-recks/eval" />
-  <id>urn:rprimus:github:T-recks:eval</id>
-  <published>2022-07-22T00:17:46Z</published>
-  <updated>2022-07-22T00:17:46Z</updated>
+  <link href="https://github.com/AkashaP/cl-destruction" />
+  <id>urn:rprimus:github:AkashaP:cl-destruction</id>
+  <published>2022-07-27T17:03:07Z</published>
+  <updated>2022-07-27T17:03:07Z</updated>
   <content type="html">
-   Interpreters for Scheme and other Lispy languages
+   
+  </content>
+ </entry>
+ <entry>
+  <title>littletsu: cl-vidstream</title>
+  <author>
+   <name>littletsu</name>
+  </author>
+  <link href="https://github.com/littletsu/cl-vidstream" />
+  <id>urn:rprimus:github:littletsu:cl-vidstream</id>
+  <published>2022-07-27T08:31:32Z</published>
+  <updated>2022-07-27T08:31:32Z</updated>
+  <content type="html">
+   Common Lisp functions to search and get m3u8 videos from vidstreaming
+  </content>
+ </entry>
+ <entry>
+  <title>digikar99: hunchentoot-simple-server</title>
+  <author>
+   <name>digikar99</name>
+  </author>
+  <link href="https://github.com/digikar99/hunchentoot-simple-server" />
+  <id>urn:rprimus:github:digikar99:hunchentoot-simple-server</id>
+  <published>2022-07-27T04:07:07Z</published>
+  <updated>2022-07-27T04:07:07Z</updated>
+  <content type="html">
+   
   </content>
  </entry>
 </feed>
