@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-08-01T05:12:13Z</updated>
+<updated>2022-08-02T09:01:51Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>veer66: stream-par-procs</title>
+  <author>
+   <name>veer66</name>
+  </author>
+  <link href="https://github.com/veer66/stream-par-procs" />
+  <id>urn:rprimus:github:veer66:stream-par-procs</id>
+  <published>2022-08-02T09:01:51Z</published>
+  <updated>2022-08-02T09:01:51Z</updated>
+  <content type="html">
+   Stream parallel processors for Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>ksixty: lox</title>
+  <author>
+   <name>ksixty</name>
+  </author>
+  <link href="https://github.com/ksixty/lox" />
+  <id>urn:rprimus:github:ksixty:lox</id>
+  <published>2022-08-02T03:01:33Z</published>
+  <updated>2022-08-02T03:01:33Z</updated>
+  <content type="html">
+   Untyped Î»-calculus interpreter
+  </content>
+ </entry>
+ <entry>
+  <title>rajasegar: cl-i18n-demo</title>
+  <author>
+   <name>rajasegar</name>
+  </author>
+  <link href="https://github.com/rajasegar/cl-i18n-demo" />
+  <id>urn:rprimus:github:rajasegar:cl-i18n-demo</id>
+  <published>2022-08-01T09:57:33Z</published>
+  <updated>2022-08-01T09:57:33Z</updated>
+  <content type="html">
+   i18n demo in CL with cl-locale
+  </content>
+ </entry>
  <entry>
   <title>infurl: cl-tree-diff</title>
   <author>
@@ -28,110 +67,6 @@
   <updated>2022-07-31T19:45:35Z</updated>
   <content type="html">
    Common Lisp roguelike engine and framework
-  </content>
- </entry>
- <entry>
-  <title>defaultxr: cl-wav-synth</title>
-  <author>
-   <name>defaultxr</name>
-  </author>
-  <link href="https://github.com/defaultxr/cl-wav-synth" />
-  <id>urn:rprimus:github:defaultxr:cl-wav-synth</id>
-  <published>2022-07-30T22:02:05Z</published>
-  <updated>2022-07-30T22:02:05Z</updated>
-  <content type="html">
-   Fork of Philippe Brochard&#039;s cl-wav-synth: manipulate wav files; express noises as you think.
-  </content>
- </entry>
- <entry>
-  <title>thanhvg: clisp-pg</title>
-  <author>
-   <name>thanhvg</name>
-  </author>
-  <link href="https://github.com/thanhvg/clisp-pg" />
-  <id>urn:rprimus:github:thanhvg:clisp-pg</id>
-  <published>2022-07-30T20:50:28Z</published>
-  <updated>2022-07-30T20:50:28Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>kconner: mess-with-lisp</title>
-  <author>
-   <name>kconner</name>
-  </author>
-  <link href="https://github.com/kconner/mess-with-lisp" />
-  <id>urn:rprimus:github:kconner:mess-with-lisp</id>
-  <published>2022-07-30T20:32:53Z</published>
-  <updated>2022-07-30T20:32:53Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>sirherrbatka: de-mock-racy</title>
-  <author>
-   <name>sirherrbatka</name>
-  </author>
-  <link href="https://github.com/sirherrbatka/de-mock-racy" />
-  <id>urn:rprimus:github:sirherrbatka:de-mock-racy</id>
-  <published>2022-07-30T20:13:19Z</published>
-  <updated>2022-07-30T20:13:19Z</updated>
-  <content type="html">
-   Common Lisp mocking library
-  </content>
- </entry>
- <entry>
-  <title>Shirakumo: cl-sf3</title>
-  <author>
-   <name>Shirakumo</name>
-  </author>
-  <link href="https://github.com/Shirakumo/cl-sf3" />
-  <id>urn:rprimus:github:Shirakumo:cl-sf3</id>
-  <published>2022-07-30T14:42:39Z</published>
-  <updated>2022-07-30T14:42:39Z</updated>
-  <content type="html">
-   Common Lisp library implementation of the SF3 file formats.
-  </content>
- </entry>
- <entry>
-  <title>nick-harley: Melch</title>
-  <author>
-   <name>nick-harley</name>
-  </author>
-  <link href="https://github.com/nick-harley/Melch" />
-  <id>urn:rprimus:github:nick-harley:Melch</id>
-  <published>2022-07-30T11:39:10Z</published>
-  <updated>2022-07-30T11:39:10Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>tianrui-huang: test</title>
-  <author>
-   <name>tianrui-huang</name>
-  </author>
-  <link href="https://github.com/tianrui-huang/test" />
-  <id>urn:rprimus:github:tianrui-huang:test</id>
-  <published>2022-07-30T09:56:19Z</published>
-  <updated>2022-07-30T09:56:19Z</updated>
-  <content type="html">
-   test
-  </content>
- </entry>
- <entry>
-  <title>elcih17: practical-common-lisp</title>
-  <author>
-   <name>elcih17</name>
-  </author>
-  <link href="https://github.com/elcih17/practical-common-lisp" />
-  <id>urn:rprimus:github:elcih17:practical-common-lisp</id>
-  <published>2022-07-30T03:58:05Z</published>
-  <updated>2022-07-30T03:58:05Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
