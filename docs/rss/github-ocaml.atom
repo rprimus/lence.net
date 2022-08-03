@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2022-08-02T08:02:27Z</updated>
+<updated>2022-08-02T21:46:51Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>cs3110: textbook-solutions</title>
+  <author>
+   <name>cs3110</name>
+  </author>
+  <link href="https://github.com/cs3110/textbook-solutions" />
+  <id>urn:rprimus:github:cs3110:textbook-solutions</id>
+  <published>2022-08-02T21:46:51Z</published>
+  <updated>2022-08-02T21:46:51Z</updated>
+  <content type="html">
+   Solutions to OCaml Programming
+  </content>
+ </entry>
+ <entry>
+  <title>rfro20: Interpreter</title>
+  <author>
+   <name>rfro20</name>
+  </author>
+  <link href="https://github.com/rfro20/Interpreter" />
+  <id>urn:rprimus:github:rfro20:Interpreter</id>
+  <published>2022-08-02T21:29:39Z</published>
+  <updated>2022-08-02T21:29:39Z</updated>
+  <content type="html">
+   Developed a program to tokenize, parse, and execute code given to it.
+  </content>
+ </entry>
+ <entry>
+  <title>llee454: ppx_profile</title>
+  <author>
+   <name>llee454</name>
+  </author>
+  <link href="https://github.com/llee454/ppx_profile" />
+  <id>urn:rprimus:github:llee454:ppx_profile</id>
+  <published>2022-08-02T21:28:27Z</published>
+  <updated>2022-08-02T21:28:27Z</updated>
+  <content type="html">
+   An OCaml PPX library to easily profile OCaml Code. The library defines a PPX annotation that can be appended to any OCaml expression. When added, this annotation causes the program to report how long it spent executing and the number of times it executed the marked lines of code.
+  </content>
+ </entry>
+ <entry>
+  <title>andonilc7: Valid-BST</title>
+  <author>
+   <name>andonilc7</name>
+  </author>
+  <link href="https://github.com/andonilc7/Valid-BST" />
+  <id>urn:rprimus:github:andonilc7:Valid-BST</id>
+  <published>2022-08-02T15:30:59Z</published>
+  <updated>2022-08-02T15:30:59Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>silloi: programming_fundamentals</title>
+  <author>
+   <name>silloi</name>
+  </author>
+  <link href="https://github.com/silloi/programming_fundamentals" />
+  <id>urn:rprimus:github:silloi:programming_fundamentals</id>
+  <published>2022-08-02T14:05:54Z</published>
+  <updated>2022-08-02T14:05:54Z</updated>
+  <content type="html">
+   http://pllab.is.ocha.ac.jp/~asai/book/Top.html
+  </content>
+ </entry>
  <entry>
   <title>grew-nlp: amr</title>
   <author>
@@ -158,71 +223,6 @@
   <updated>2022-08-01T11:21:27Z</updated>
   <content type="html">
    jsoo express backend with jsoo react frontend and shared business logic
-  </content>
- </entry>
- <entry>
-  <title>EduardoRFS: ml-lc</title>
-  <author>
-   <name>EduardoRFS</name>
-  </author>
-  <link href="https://github.com/EduardoRFS/ml-lc" />
-  <id>urn:rprimus:github:EduardoRFS:ml-lc</id>
-  <published>2022-07-31T22:02:33Z</published>
-  <updated>2022-07-31T22:02:33Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>rbardou: fungame2</title>
-  <author>
-   <name>rbardou</name>
-  </author>
-  <link href="https://github.com/rbardou/fungame2" />
-  <id>urn:rprimus:github:rbardou:fungame2</id>
-  <published>2022-07-31T09:55:40Z</published>
-  <updated>2022-07-31T09:55:40Z</updated>
-  <content type="html">
-   Wrapper around SDL, with a JS backend.
-  </content>
- </entry>
- <entry>
-  <title>usubalang: unit_tests</title>
-  <author>
-   <name>usubalang</name>
-  </author>
-  <link href="https://github.com/usubalang/unit_tests" />
-  <id>urn:rprimus:github:usubalang:unit_tests</id>
-  <published>2022-07-31T07:28:09Z</published>
-  <updated>2022-07-31T07:28:09Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>fraidev: hackml</title>
-  <author>
-   <name>fraidev</name>
-  </author>
-  <link href="https://github.com/fraidev/hackml" />
-  <id>urn:rprimus:github:fraidev:hackml</id>
-  <published>2022-07-31T02:23:07Z</published>
-  <updated>2022-07-31T02:23:07Z</updated>
-  <content type="html">
-   repo that I use to play with OCaml
-  </content>
- </entry>
- <entry>
-  <title>gweithio: derw</title>
-  <author>
-   <name>gweithio</name>
-  </author>
-  <link href="https://github.com/gweithio/derw" />
-  <id>urn:rprimus:github:gweithio:derw</id>
-  <published>2022-07-31T00:53:26Z</published>
-  <updated>2022-07-31T00:53:26Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>

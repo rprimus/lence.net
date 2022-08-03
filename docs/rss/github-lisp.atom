@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-08-02T09:01:51Z</updated>
+<updated>2022-08-02T20:47:39Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>BlueFlo0d: objet-petit-a</title>
+  <author>
+   <name>BlueFlo0d</name>
+  </author>
+  <link href="https://github.com/BlueFlo0d/objet-petit-a" />
+  <id>urn:rprimus:github:BlueFlo0d:objet-petit-a</id>
+  <published>2022-08-02T20:47:39Z</published>
+  <updated>2022-08-02T20:47:39Z</updated>
+  <content type="html">
+   Toolbox for nonconvex/noncontinuous/noisy optimization
+  </content>
+ </entry>
+ <entry>
+  <title>dryice10: ygoalstuff</title>
+  <author>
+   <name>dryice10</name>
+  </author>
+  <link href="https://github.com/dryice10/ygoalstuff" />
+  <id>urn:rprimus:github:dryice10:ygoalstuff</id>
+  <published>2022-08-02T15:47:01Z</published>
+  <updated>2022-08-02T15:47:01Z</updated>
+  <content type="html">
+   Tinkering with OpenGoal
+  </content>
+ </entry>
  <entry>
   <title>veer66: stream-par-procs</title>
   <author>
@@ -54,19 +80,6 @@
   <updated>2022-08-01T05:12:13Z</updated>
   <content type="html">
    Tree structure comparison using Levenshtein distance.
-  </content>
- </entry>
- <entry>
-  <title>BonSavage: RogueLisp</title>
-  <author>
-   <name>BonSavage</name>
-  </author>
-  <link href="https://github.com/BonSavage/RogueLisp" />
-  <id>urn:rprimus:github:BonSavage:RogueLisp</id>
-  <published>2022-07-31T19:45:35Z</published>
-  <updated>2022-07-31T19:45:35Z</updated>
-  <content type="html">
-   Common Lisp roguelike engine and framework
   </content>
  </entry>
 </feed>

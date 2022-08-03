@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2022-08-01T19:14:04Z</updated>
+<updated>2022-08-02T16:58:03Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>ysbaddaden: microtest.cr</title>
+  <author>
+   <name>ysbaddaden</name>
+  </author>
+  <link href="https://github.com/ysbaddaden/microtest.cr" />
+  <id>urn:rprimus:github:ysbaddaden:microtest.cr</id>
+  <published>2022-08-02T16:58:03Z</published>
+  <updated>2022-08-02T16:58:03Z</updated>
+  <content type="html">
+   A test framework for raw Crystal (empty prelude)
+  </content>
+ </entry>
  <entry>
   <title>toyboatcash: invidious-5Dm3</title>
   <author>
@@ -28,58 +41,6 @@
   <updated>2022-08-01T19:01:37Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>geocrystal: crystal-redis-geo-examples</title>
-  <author>
-   <name>geocrystal</name>
-  </author>
-  <link href="https://github.com/geocrystal/crystal-redis-geo-examples" />
-  <id>urn:rprimus:github:geocrystal:crystal-redis-geo-examples</id>
-  <published>2022-07-31T18:49:59Z</published>
-  <updated>2022-07-31T18:49:59Z</updated>
-  <content type="html">
-   Geo examples for crystal-redis 
-  </content>
- </entry>
- <entry>
-  <title>misleb: crystal_ray</title>
-  <author>
-   <name>misleb</name>
-  </author>
-  <link href="https://github.com/misleb/crystal_ray" />
-  <id>urn:rprimus:github:misleb:crystal_ray</id>
-  <published>2022-07-31T16:56:50Z</published>
-  <updated>2022-07-31T16:56:50Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>geocrystal: geohash</title>
-  <author>
-   <name>geocrystal</name>
-  </author>
-  <link href="https://github.com/geocrystal/geohash" />
-  <id>urn:rprimus:github:geocrystal:geohash</id>
-  <published>2022-07-31T12:48:02Z</published>
-  <updated>2022-07-31T12:48:02Z</updated>
-  <content type="html">
-   Geohash encode/decode library for pure Crystal
-  </content>
- </entry>
- <entry>
-  <title>zw963: baked_file_system_mounter</title>
-  <author>
-   <name>zw963</name>
-  </author>
-  <link href="https://github.com/zw963/baked_file_system_mounter" />
-  <id>urn:rprimus:github:zw963:baked_file_system_mounter</id>
-  <published>2022-07-31T11:22:25Z</published>
-  <updated>2022-07-31T11:22:25Z</updated>
-  <content type="html">
-   assemble files in assets folder into executable binary use `backed_file_system` at compile time, then mount it to new file system folder at runtime.
   </content>
  </entry>
 </feed>

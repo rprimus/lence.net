@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-racket.atom"/>
 <id>urn:rprimus:github:newracketrepos</id>
-<updated>2022-08-02T03:29:58Z</updated>
+<updated>2022-08-02T22:04:25Z</updated>
 <title type='text'>New GitHub Racket Repos</title>
+ <entry>
+  <title>soegaard: super</title>
+  <author>
+   <name>soegaard</name>
+  </author>
+  <link href="https://github.com/soegaard/super" />
+  <id>urn:rprimus:github:soegaard:super</id>
+  <published>2022-08-02T22:04:25Z</published>
+  <updated>2022-08-02T22:04:25Z</updated>
+  <content type="html">
+   Adds syntax to racket languages
+  </content>
+ </entry>
+ <entry>
+  <title>jcottrell: wordle-tools</title>
+  <author>
+   <name>jcottrell</name>
+  </author>
+  <link href="https://github.com/jcottrell/wordle-tools" />
+  <id>urn:rprimus:github:jcottrell:wordle-tools</id>
+  <published>2022-08-02T19:43:07Z</published>
+  <updated>2022-08-02T19:43:07Z</updated>
+  <content type="html">
+   Practice some racket-lang with wordle as a canvas
+  </content>
+ </entry>
  <entry>
   <title>ecooler: DrRacket-HW6</title>
   <author>
@@ -93,45 +119,6 @@
   <updated>2022-08-01T09:07:36Z</updated>
   <content type="html">
    implementation of a simple database in Dr. Racket
-  </content>
- </entry>
- <entry>
-  <title>steinuil: wondergabe-color</title>
-  <author>
-   <name>steinuil</name>
-  </author>
-  <link href="https://github.com/steinuil/wondergabe-color" />
-  <id>urn:rprimus:github:steinuil:wondergabe-color</id>
-  <published>2022-07-31T22:08:09Z</published>
-  <updated>2022-07-31T22:08:09Z</updated>
-  <content type="html">
-   [WIP] Fill in the artworks of your non-Steam games from SteamGridDB
-  </content>
- </entry>
- <entry>
-  <title>kremrik: simple-template-racket</title>
-  <author>
-   <name>kremrik</name>
-  </author>
-  <link href="https://github.com/kremrik/simple-template-racket" />
-  <id>urn:rprimus:github:kremrik:simple-template-racket</id>
-  <published>2022-07-31T20:54:52Z</published>
-  <updated>2022-07-31T20:54:52Z</updated>
-  <content type="html">
-   learning Racket by writing another implementation of a simple templating tool
-  </content>
- </entry>
- <entry>
-  <title>remelvic: FUP-Functional-Programming</title>
-  <author>
-   <name>remelvic</name>
-  </author>
-  <link href="https://github.com/remelvic/FUP-Functional-Programming" />
-  <id>urn:rprimus:github:remelvic:FUP-Functional-Programming</id>
-  <published>2022-07-31T18:17:29Z</published>
-  <updated>2022-07-31T18:17:29Z</updated>
-  <content type="html">
-   Fundamentals of Functional Programming in Racket and Haskell
   </content>
  </entry>
 </feed>
