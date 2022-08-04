@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2022-08-03T08:40:54Z</updated>
+<updated>2022-08-04T07:17:09Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>nloyola: emacs-config</title>
+  <author>
+   <name>nloyola</name>
+  </author>
+  <link href="https://github.com/nloyola/emacs-config" />
+  <id>urn:rprimus:github:nloyola:emacs-config</id>
+  <published>2022-08-04T07:17:09Z</published>
+  <updated>2022-08-04T07:17:09Z</updated>
+  <content type="html">
+   Configuration files for starting up Emacs
+  </content>
+ </entry>
+ <entry>
+  <title>katyfelkner: ktmacs</title>
+  <author>
+   <name>katyfelkner</name>
+  </author>
+  <link href="https://github.com/katyfelkner/ktmacs" />
+  <id>urn:rprimus:github:katyfelkner:ktmacs</id>
+  <published>2022-08-04T02:32:20Z</published>
+  <updated>2022-08-04T02:32:20Z</updated>
+  <content type="html">
+   My emacs config. This is a work in progress, so caveat emptor
+  </content>
+ </entry>
+ <entry>
+  <title>progfolio: boardak</title>
+  <author>
+   <name>progfolio</name>
+  </author>
+  <link href="https://github.com/progfolio/boardak" />
+  <id>urn:rprimus:github:progfolio:boardak</id>
+  <published>2022-08-04T00:58:15Z</published>
+  <updated>2022-08-04T00:58:15Z</updated>
+  <content type="html">
+   Dan&#039;s dashboard
+  </content>
+ </entry>
+ <entry>
+  <title>ibotha: emacs-config</title>
+  <author>
+   <name>ibotha</name>
+  </author>
+  <link href="https://github.com/ibotha/emacs-config" />
+  <id>urn:rprimus:github:ibotha:emacs-config</id>
+  <published>2022-08-03T18:29:51Z</published>
+  <updated>2022-08-03T18:29:51Z</updated>
+  <content type="html">
+   My emacs configuration
+  </content>
+ </entry>
+ <entry>
+  <title>kluge: .doom.d</title>
+  <author>
+   <name>kluge</name>
+  </author>
+  <link href="https://github.com/kluge/.doom.d" />
+  <id>urn:rprimus:github:kluge:.doom.d</id>
+  <published>2022-08-03T17:13:50Z</published>
+  <updated>2022-08-03T17:13:50Z</updated>
+  <content type="html">
+   Doom Emacs config
+  </content>
+ </entry>
+ <entry>
+  <title>kgeorgoudis: .emacs.d</title>
+  <author>
+   <name>kgeorgoudis</name>
+  </author>
+  <link href="https://github.com/kgeorgoudis/.emacs.d" />
+  <id>urn:rprimus:github:kgeorgoudis:.emacs.d</id>
+  <published>2022-08-03T15:24:46Z</published>
+  <updated>2022-08-03T15:24:46Z</updated>
+  <content type="html">
+   My emacs configuration
+  </content>
+ </entry>
  <entry>
   <title>astontanion: dot-files</title>
   <author>
@@ -79,7 +157,7 @@
   <published>2022-08-02T20:30:29Z</published>
   <updated>2022-08-02T20:30:29Z</updated>
   <content type="html">
-   Provides macros exposing immutable and mutable interfaces for working with structs in Elisp.
+   Macros exposing immutable and mutable interfaces for working with structs in Elisp.
   </content>
  </entry>
  <entry>
@@ -223,266 +301,6 @@
   <updated>2022-08-02T02:08:34Z</updated>
   <content type="html">
    My emacs configuration file that I using everyday. 
-  </content>
- </entry>
- <entry>
-  <title>CYALJE: emacs</title>
-  <author>
-   <name>CYALJE</name>
-  </author>
-  <link href="https://github.com/CYALJE/emacs" />
-  <id>urn:rprimus:github:CYALJE:emacs</id>
-  <published>2022-08-01T23:47:10Z</published>
-  <updated>2022-08-01T23:47:10Z</updated>
-  <content type="html">
-   Emacs config
-  </content>
- </entry>
- <entry>
-  <title>antogp24: emacs_config</title>
-  <author>
-   <name>antogp24</name>
-  </author>
-  <link href="https://github.com/antogp24/emacs_config" />
-  <id>urn:rprimus:github:antogp24:emacs_config</id>
-  <published>2022-08-01T23:40:20Z</published>
-  <updated>2022-08-01T23:40:20Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>enzuru: company-spell</title>
-  <author>
-   <name>enzuru</name>
-  </author>
-  <link href="https://github.com/enzuru/company-spell" />
-  <id>urn:rprimus:github:enzuru:company-spell</id>
-  <published>2022-08-01T22:24:23Z</published>
-  <updated>2022-08-01T22:24:23Z</updated>
-  <content type="html">
-   Emacs Company backend for the terminal spellchecker of your choice
-  </content>
- </entry>
- <entry>
-  <title>losttenko: .dotfiles</title>
-  <author>
-   <name>losttenko</name>
-  </author>
-  <link href="https://github.com/losttenko/.dotfiles" />
-  <id>urn:rprimus:github:losttenko:.dotfiles</id>
-  <published>2022-08-01T21:45:23Z</published>
-  <updated>2022-08-01T21:45:23Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>mpontus: doom.d</title>
-  <author>
-   <name>mpontus</name>
-  </author>
-  <link href="https://github.com/mpontus/doom.d" />
-  <id>urn:rprimus:github:mpontus:doom.d</id>
-  <published>2022-08-01T19:13:44Z</published>
-  <updated>2022-08-01T19:13:44Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>include-yy: yyorg-bookmark</title>
-  <author>
-   <name>include-yy</name>
-  </author>
-  <link href="https://github.com/include-yy/yyorg-bookmark" />
-  <id>urn:rprimus:github:include-yy:yyorg-bookmark</id>
-  <published>2022-08-01T17:47:18Z</published>
-  <updated>2022-08-01T17:47:18Z</updated>
-  <content type="html">
-   collect browser bookmark with org-mode
-  </content>
- </entry>
- <entry>
-  <title>hgp22: emacs-config</title>
-  <author>
-   <name>hgp22</name>
-  </author>
-  <link href="https://github.com/hgp22/emacs-config" />
-  <id>urn:rprimus:github:hgp22:emacs-config</id>
-  <published>2022-08-01T17:45:50Z</published>
-  <updated>2022-08-01T17:45:50Z</updated>
-  <content type="html">
-   My config files for emacs
-  </content>
- </entry>
- <entry>
-  <title>SunflowerFieldsForever: dotfiles</title>
-  <author>
-   <name>SunflowerFieldsForever</name>
-  </author>
-  <link href="https://github.com/SunflowerFieldsForever/dotfiles" />
-  <id>urn:rprimus:github:SunflowerFieldsForever:dotfiles</id>
-  <published>2022-08-01T16:40:10Z</published>
-  <updated>2022-08-01T16:40:10Z</updated>
-  <content type="html">
-   personal config files
-  </content>
- </entry>
- <entry>
-  <title>ginqi7: plantuml-emacs</title>
-  <author>
-   <name>ginqi7</name>
-  </author>
-  <link href="https://github.com/ginqi7/plantuml-emacs" />
-  <id>urn:rprimus:github:ginqi7:plantuml-emacs</id>
-  <published>2022-08-01T16:07:39Z</published>
-  <updated>2022-08-01T16:07:39Z</updated>
-  <content type="html">
-   A plantuml plugin for Emacs
-  </content>
- </entry>
- <entry>
-  <title>JakeRess: Jake-Doom</title>
-  <author>
-   <name>JakeRess</name>
-  </author>
-  <link href="https://github.com/JakeRess/Jake-Doom" />
-  <id>urn:rprimus:github:JakeRess:Jake-Doom</id>
-  <published>2022-08-01T14:59:39Z</published>
-  <updated>2022-08-01T14:59:39Z</updated>
-  <content type="html">
-   Jake&#039;s doom config
-  </content>
- </entry>
- <entry>
-  <title>KarimAziev: ivy-fd</title>
-  <author>
-   <name>KarimAziev</name>
-  </author>
-  <link href="https://github.com/KarimAziev/ivy-fd" />
-  <id>urn:rprimus:github:KarimAziev:ivy-fd</id>
-  <published>2022-08-01T10:56:45Z</published>
-  <updated>2022-08-01T10:56:45Z</updated>
-  <content type="html">
-   &quot;Ivy interface for fd (fdfind).&quot;
-  </content>
- </entry>
- <entry>
-  <title>zenMaya: gallina</title>
-  <author>
-   <name>zenMaya</name>
-  </author>
-  <link href="https://github.com/zenMaya/gallina" />
-  <id>urn:rprimus:github:zenMaya:gallina</id>
-  <published>2022-08-01T09:48:55Z</published>
-  <updated>2022-08-01T09:48:55Z</updated>
-  <content type="html">
-   Resurrection of the original coq-mode
-  </content>
- </entry>
- <entry>
-  <title>Jack126: redguardtoo-emacs</title>
-  <author>
-   <name>Jack126</name>
-  </author>
-  <link href="https://github.com/Jack126/redguardtoo-emacs" />
-  <id>urn:rprimus:github:Jack126:redguardtoo-emacs</id>
-  <published>2022-08-01T09:19:10Z</published>
-  <updated>2022-08-01T09:19:10Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>HumanoidSandvichDispenser: .emacs.d</title>
-  <author>
-   <name>HumanoidSandvichDispenser</name>
-  </author>
-  <link href="https://github.com/HumanoidSandvichDispenser/.emacs.d" />
-  <id>urn:rprimus:github:HumanoidSandvichDispenser:.emacs.d</id>
-  <published>2022-08-01T08:58:29Z</published>
-  <updated>2022-08-01T08:58:29Z</updated>
-  <content type="html">
-   Vanilla emacs configuration
-  </content>
- </entry>
- <entry>
-  <title>52617365: github_pages</title>
-  <author>
-   <name>52617365</name>
-  </author>
-  <link href="https://github.com/52617365/github_pages" />
-  <id>urn:rprimus:github:52617365:github_pages</id>
-  <published>2022-08-01T07:39:04Z</published>
-  <updated>2022-08-01T07:39:04Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>wine99: .doom.d</title>
-  <author>
-   <name>wine99</name>
-  </author>
-  <link href="https://github.com/wine99/.doom.d" />
-  <id>urn:rprimus:github:wine99:.doom.d</id>
-  <published>2022-08-01T07:29:53Z</published>
-  <updated>2022-08-01T07:29:53Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>johnjmolina: nano-emacs</title>
-  <author>
-   <name>johnjmolina</name>
-  </author>
-  <link href="https://github.com/johnjmolina/nano-emacs" />
-  <id>urn:rprimus:github:johnjmolina:nano-emacs</id>
-  <published>2022-08-01T05:10:31Z</published>
-  <updated>2022-08-01T05:10:31Z</updated>
-  <content type="html">
-   Fork of rougier/nano-emacs
-  </content>
- </entry>
- <entry>
-  <title>braudelan: my-doom-dir</title>
-  <author>
-   <name>braudelan</name>
-  </author>
-  <link href="https://github.com/braudelan/my-doom-dir" />
-  <id>urn:rprimus:github:braudelan:my-doom-dir</id>
-  <published>2022-08-01T04:33:52Z</published>
-  <updated>2022-08-01T04:33:52Z</updated>
-  <content type="html">
-   Doom configuration files
-  </content>
- </entry>
- <entry>
-  <title>Spamakin: config</title>
-  <author>
-   <name>Spamakin</name>
-  </author>
-  <link href="https://github.com/Spamakin/config" />
-  <id>urn:rprimus:github:Spamakin:config</id>
-  <published>2022-08-01T03:35:03Z</published>
-  <updated>2022-08-01T03:35:03Z</updated>
-  <content type="html">
-   My dotfiles for various things
-  </content>
- </entry>
- <entry>
-  <title>abougouffa: disaster</title>
-  <author>
-   <name>abougouffa</name>
-  </author>
-  <link href="https://github.com/abougouffa/disaster" />
-  <id>urn:rprimus:github:abougouffa:disaster</id>
-  <published>2022-08-01T01:50:37Z</published>
-  <updated>2022-08-01T01:50:37Z</updated>
-  <content type="html">
-    Disassemble C, C++ or Fortran code under cursor in Emacs
   </content>
  </entry>
 </feed>
