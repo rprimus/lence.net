@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-elixir.atom"/>
 <id>urn:rprimus:github:newelixirrepos</id>
-<updated>2022-08-05T03:32:10Z</updated>
+<updated>2022-08-05T08:28:25Z</updated>
 <title type='text'>New GitHub Elixir Repos</title>
+ <entry>
+  <title>corp-momenti: gitapp</title>
+  <author>
+   <name>corp-momenti</name>
+  </author>
+  <link href="https://github.com/corp-momenti/gitapp" />
+  <id>urn:rprimus:github:corp-momenti:gitapp</id>
+  <published>2022-08-05T08:28:25Z</published>
+  <updated>2022-08-05T08:28:25Z</updated>
+  <content type="html">
+   :book: backend assignment
+  </content>
+ </entry>
+ <entry>
+  <title>vblazenka: exercism</title>
+  <author>
+   <name>vblazenka</name>
+  </author>
+  <link href="https://github.com/vblazenka/exercism" />
+  <id>urn:rprimus:github:vblazenka:exercism</id>
+  <published>2022-08-05T06:16:27Z</published>
+  <updated>2022-08-05T06:16:27Z</updated>
+  <content type="html">
+   Solutions for Exercism programming languages tracks
+  </content>
+ </entry>
+ <entry>
+  <title>crertel: simple_stream</title>
+  <author>
+   <name>crertel</name>
+  </author>
+  <link href="https://github.com/crertel/simple_stream" />
+  <id>urn:rprimus:github:crertel:simple_stream</id>
+  <published>2022-08-05T04:09:37Z</published>
+  <updated>2022-08-05T04:09:37Z</updated>
+  <content type="html">
+       Simple stream provides a simple multiconsumer read-only partitioned stream service with pluggable backends.
+  </content>
+ </entry>
+ <entry>
+  <title>pojiro: rclex_mini</title>
+  <author>
+   <name>pojiro</name>
+  </author>
+  <link href="https://github.com/pojiro/rclex_mini" />
+  <id>urn:rprimus:github:pojiro:rclex_mini</id>
+  <published>2022-08-05T04:05:19Z</published>
+  <updated>2022-08-05T04:05:19Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>christopherlai: hustle</title>
   <author>
@@ -239,19 +291,6 @@
   </content>
  </entry>
  <entry>
-  <title>augyai: augy_core</title>
-  <author>
-   <name>augyai</name>
-  </author>
-  <link href="https://github.com/augyai/augy_core" />
-  <id>urn:rprimus:github:augyai:augy_core</id>
-  <published>2022-08-04T15:55:46Z</published>
-  <updated>2022-08-04T15:55:46Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
   <title>dominicletz: dets_plus</title>
   <author>
    <name>dominicletz</name>
@@ -382,6 +421,19 @@
   </content>
  </entry>
  <entry>
+  <title>QMalcolm: ex_rpg</title>
+  <author>
+   <name>QMalcolm</name>
+  </author>
+  <link href="https://github.com/QMalcolm/ex_rpg" />
+  <id>urn:rprimus:github:QMalcolm:ex_rpg</id>
+  <published>2022-08-04T07:02:04Z</published>
+  <updated>2022-08-04T07:02:04Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
   <title>pgvector: pgvector-elixir</title>
   <author>
    <name>pgvector</name>
@@ -391,7 +443,7 @@
   <published>2022-08-04T06:11:21Z</published>
   <updated>2022-08-04T06:11:21Z</updated>
   <content type="html">
-   pgvector examples for Elixir
+   pgvector support for Elixir
   </content>
  </entry>
  <entry>
@@ -525,6 +577,19 @@
   </content>
  </entry>
  <entry>
+  <title>AlanPoveda: brl_dollar</title>
+  <author>
+   <name>AlanPoveda</name>
+  </author>
+  <link href="https://github.com/AlanPoveda/brl_dollar" />
+  <id>urn:rprimus:github:AlanPoveda:brl_dollar</id>
+  <published>2022-08-03T22:27:51Z</published>
+  <updated>2022-08-03T22:27:51Z</updated>
+  <content type="html">
+   This is a project o get the value to dollar in the current date. Using Elixir, Phoenix and Postgres tecnologies
+  </content>
+ </entry>
+ <entry>
   <title>phelliperodrigues: pokemon-elixir</title>
   <author>
    <name>phelliperodrigues</name>
@@ -533,32 +598,6 @@
   <id>urn:rprimus:github:phelliperodrigues:pokemon-elixir</id>
   <published>2022-08-03T21:11:12Z</published>
   <updated>2022-08-03T21:11:12Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>BrunoSampaioDev: rockelivery</title>
-  <author>
-   <name>BrunoSampaioDev</name>
-  </author>
-  <link href="https://github.com/BrunoSampaioDev/rockelivery" />
-  <id>urn:rprimus:github:BrunoSampaioDev:rockelivery</id>
-  <published>2022-08-03T20:58:55Z</published>
-  <updated>2022-08-03T20:58:55Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>phelliperodrigues: fizz_buzz_elixir</title>
-  <author>
-   <name>phelliperodrigues</name>
-  </author>
-  <link href="https://github.com/phelliperodrigues/fizz_buzz_elixir" />
-  <id>urn:rprimus:github:phelliperodrigues:fizz_buzz_elixir</id>
-  <published>2022-08-03T20:53:47Z</published>
-  <updated>2022-08-03T20:53:47Z</updated>
   <content type="html">
    
   </content>
@@ -678,6 +717,19 @@
   <updated>2022-08-03T15:44:48Z</updated>
   <content type="html">
    Rockelivery- Projeto feito utilizando o Phoenix como framework e Elixir como linguagem de programaÃ§Ã£o
+  </content>
+ </entry>
+ <entry>
+  <title>Aduril: phoenix-on-uberspace</title>
+  <author>
+   <name>Aduril</name>
+  </author>
+  <link href="https://github.com/Aduril/phoenix-on-uberspace" />
+  <id>urn:rprimus:github:Aduril:phoenix-on-uberspace</id>
+  <published>2022-08-03T15:20:46Z</published>
+  <updated>2022-08-03T15:20:46Z</updated>
+  <content type="html">
+   
   </content>
  </entry>
  <entry>
