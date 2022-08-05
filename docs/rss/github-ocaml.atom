@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2022-08-04T18:30:08Z</updated>
+<updated>2022-08-04T19:12:04Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>Bannerets: bug-game</title>
+  <author>
+   <name>Bannerets</name>
+  </author>
+  <link href="https://github.com/Bannerets/bug-game" />
+  <id>urn:rprimus:github:Bannerets:bug-game</id>
+  <published>2022-08-04T19:12:04Z</published>
+  <updated>2022-08-04T19:12:04Z</updated>
+  <content type="html">
+   A console implementation of the Bug abstract game in OCaml
+  </content>
+ </entry>
  <entry>
   <title>llee454: ppx_record_stats</title>
   <author>
@@ -80,123 +93,6 @@
   <updated>2022-08-03T13:52:21Z</updated>
   <content type="html">
    ReScript static analysis tool, from https://github.com/rescript-association/reanalyze and extended upon by ROPAS@SNU
-  </content>
- </entry>
- <entry>
-  <title>cs3110: textbook-solutions</title>
-  <author>
-   <name>cs3110</name>
-  </author>
-  <link href="https://github.com/cs3110/textbook-solutions" />
-  <id>urn:rprimus:github:cs3110:textbook-solutions</id>
-  <published>2022-08-02T21:46:51Z</published>
-  <updated>2022-08-02T21:46:51Z</updated>
-  <content type="html">
-   Solutions to OCaml Programming
-  </content>
- </entry>
- <entry>
-  <title>rfro20: Interpreter</title>
-  <author>
-   <name>rfro20</name>
-  </author>
-  <link href="https://github.com/rfro20/Interpreter" />
-  <id>urn:rprimus:github:rfro20:Interpreter</id>
-  <published>2022-08-02T21:29:39Z</published>
-  <updated>2022-08-02T21:29:39Z</updated>
-  <content type="html">
-   Developed a program to tokenize, parse, and execute code given to it.
-  </content>
- </entry>
- <entry>
-  <title>llee454: ppx_profile</title>
-  <author>
-   <name>llee454</name>
-  </author>
-  <link href="https://github.com/llee454/ppx_profile" />
-  <id>urn:rprimus:github:llee454:ppx_profile</id>
-  <published>2022-08-02T21:28:27Z</published>
-  <updated>2022-08-02T21:28:27Z</updated>
-  <content type="html">
-   An OCaml PPX library to easily profile OCaml Code. The library defines a PPX annotation that can be appended to any OCaml expression. When added, this annotation causes the program to report how long it spent executing and the number of times it executed the marked lines of code.
-  </content>
- </entry>
- <entry>
-  <title>andonilc7: Valid-BST</title>
-  <author>
-   <name>andonilc7</name>
-  </author>
-  <link href="https://github.com/andonilc7/Valid-BST" />
-  <id>urn:rprimus:github:andonilc7:Valid-BST</id>
-  <published>2022-08-02T15:30:59Z</published>
-  <updated>2022-08-02T15:30:59Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>silloi: programming_fundamentals</title>
-  <author>
-   <name>silloi</name>
-  </author>
-  <link href="https://github.com/silloi/programming_fundamentals" />
-  <id>urn:rprimus:github:silloi:programming_fundamentals</id>
-  <published>2022-08-02T14:05:54Z</published>
-  <updated>2022-08-02T14:05:54Z</updated>
-  <content type="html">
-   http://pllab.is.ocha.ac.jp/~asai/book/Top.html
-  </content>
- </entry>
- <entry>
-  <title>grew-nlp: amr</title>
-  <author>
-   <name>grew-nlp</name>
-  </author>
-  <link href="https://github.com/grew-nlp/amr" />
-  <id>urn:rprimus:github:grew-nlp:amr</id>
-  <published>2022-08-02T08:02:27Z</published>
-  <updated>2022-08-02T08:02:27Z</updated>
-  <content type="html">
-   Parsing of Abstract Meaning Representation corpora
-  </content>
- </entry>
- <entry>
-  <title>jeong-sik: exercism_ocaml</title>
-  <author>
-   <name>jeong-sik</name>
-  </author>
-  <link href="https://github.com/jeong-sik/exercism_ocaml" />
-  <id>urn:rprimus:github:jeong-sik:exercism_ocaml</id>
-  <published>2022-08-02T06:47:26Z</published>
-  <updated>2022-08-02T06:47:26Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ecooler: CS320-Survey-Of-Programming-Languages-OCaml-A3-</title>
-  <author>
-   <name>ecooler</name>
-  </author>
-  <link href="https://github.com/ecooler/CS320-Survey-Of-Programming-Languages-OCaml-A3-" />
-  <id>urn:rprimus:github:ecooler:CS320-Survey-Of-Programming-Languages-OCaml-A3-</id>
-  <published>2022-08-02T04:15:59Z</published>
-  <updated>2022-08-02T04:15:59Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ecooler: CSI-3120-Assignment-3-OCaml</title>
-  <author>
-   <name>ecooler</name>
-  </author>
-  <link href="https://github.com/ecooler/CSI-3120-Assignment-3-OCaml" />
-  <id>urn:rprimus:github:ecooler:CSI-3120-Assignment-3-OCaml</id>
-  <published>2022-08-02T04:14:31Z</published>
-  <updated>2022-08-02T04:14:31Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>

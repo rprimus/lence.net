@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2022-08-04T14:21:52Z</updated>
+<updated>2022-08-05T03:23:43Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>VitorGoatman: geomancer</title>
+  <author>
+   <name>VitorGoatman</name>
+  </author>
+  <link href="https://github.com/VitorGoatman/geomancer" />
+  <id>urn:rprimus:github:VitorGoatman:geomancer</id>
+  <published>2022-08-05T03:23:43Z</published>
+  <updated>2022-08-05T03:23:43Z</updated>
+  <content type="html">
+   A program for getting geomancy charts and readings. Written in Nim.
+  </content>
+ </entry>
  <entry>
   <title>rektsu: nim</title>
   <author>
@@ -57,6 +70,19 @@
   </content>
  </entry>
  <entry>
+  <title>TynanGuenther: nimban</title>
+  <author>
+   <name>TynanGuenther</name>
+  </author>
+  <link href="https://github.com/TynanGuenther/nimban" />
+  <id>urn:rprimus:github:TynanGuenther:nimban</id>
+  <published>2022-08-03T21:13:15Z</published>
+  <updated>2022-08-03T21:13:15Z</updated>
+  <content type="html">
+   CLI Kanban board made with nim
+  </content>
+ </entry>
+ <entry>
   <title>botwayorg: discord-nim</title>
   <author>
    <name>botwayorg</name>
@@ -106,32 +132,6 @@
   <updated>2022-08-03T02:59:54Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>dadyarri: todo</title>
-  <author>
-   <name>dadyarri</name>
-  </author>
-  <link href="https://github.com/dadyarri/todo" />
-  <id>urn:rprimus:github:dadyarri:todo</id>
-  <published>2022-08-02T08:43:55Z</published>
-  <updated>2022-08-02T08:43:55Z</updated>
-  <content type="html">
-   CLI application for managing tasks
-  </content>
- </entry>
- <entry>
-  <title>srozb: certstream</title>
-  <author>
-   <name>srozb</name>
-  </author>
-  <link href="https://github.com/srozb/certstream" />
-  <id>urn:rprimus:github:srozb:certstream</id>
-  <published>2022-08-02T07:46:00Z</published>
-  <updated>2022-08-02T07:46:00Z</updated>
-  <content type="html">
-   Unofficial certstream library written in Nim.
   </content>
  </entry>
 </feed>
