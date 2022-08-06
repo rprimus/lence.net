@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-sml.atom"/>
 <id>urn:rprimus:github:newsmlrepos</id>
-<updated>2022-08-04T20:33:37Z</updated>
+<updated>2022-08-05T14:30:34Z</updated>
 <title type='text'>New GitHub Sml Repos</title>
+ <entry>
+  <title>Nessie-Compiler: ndp2gpu</title>
+  <author>
+   <name>Nessie-Compiler</name>
+  </author>
+  <link href="https://github.com/Nessie-Compiler/ndp2gpu" />
+  <id>urn:rprimus:github:Nessie-Compiler:ndp2gpu</id>
+  <published>2022-08-05T14:30:34Z</published>
+  <updated>2022-08-05T14:30:34Z</updated>
+  <content type="html">
+   Early implementation of NESL on GPUs
+  </content>
+ </entry>
  <entry>
   <title>abhishekgupta5: proglang</title>
   <author>
@@ -15,45 +28,6 @@
   <updated>2022-08-04T20:33:37Z</updated>
   <content type="html">
    Programming languages course by Dan Grossman
-  </content>
- </entry>
- <entry>
-  <title>JoeBarkley: Group3ProgrammingLanguage</title>
-  <author>
-   <name>JoeBarkley</name>
-  </author>
-  <link href="https://github.com/JoeBarkley/Group3ProgrammingLanguage" />
-  <id>urn:rprimus:github:JoeBarkley:Group3ProgrammingLanguage</id>
-  <published>2022-08-03T23:39:02Z</published>
-  <updated>2022-08-03T23:39:02Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>fluorke: coursera</title>
-  <author>
-   <name>fluorke</name>
-  </author>
-  <link href="https://github.com/fluorke/coursera" />
-  <id>urn:rprimus:github:fluorke:coursera</id>
-  <published>2022-08-03T20:23:45Z</published>
-  <updated>2022-08-03T20:23:45Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Ninilin666: ML_functions</title>
-  <author>
-   <name>Ninilin666</name>
-  </author>
-  <link href="https://github.com/Ninilin666/ML_functions" />
-  <id>urn:rprimus:github:Ninilin666:ML_functions</id>
-  <published>2022-08-03T20:07:53Z</published>
-  <updated>2022-08-03T20:07:53Z</updated>
-  <content type="html">
-   It consists of ten programs which implements different functions, such as lists and trees. All programs are written in ML, using SML/NJ system.
   </content>
  </entry>
 </feed>

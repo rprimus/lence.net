@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2022-08-05T06:24:40Z</updated>
+<updated>2022-08-06T02:24:18Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>Kadorath: SFI</title>
+  <author>
+   <name>Kadorath</name>
+  </author>
+  <link href="https://github.com/Kadorath/SFI" />
+  <id>urn:rprimus:github:Kadorath:SFI</id>
+  <published>2022-08-06T02:24:18Z</published>
+  <updated>2022-08-06T02:24:18Z</updated>
+  <content type="html">
+   Simple functional interpreter, written in OCaml
+  </content>
+ </entry>
+ <entry>
+  <title>Kadorath: Sunday-Puzzle</title>
+  <author>
+   <name>Kadorath</name>
+  </author>
+  <link href="https://github.com/Kadorath/Sunday-Puzzle" />
+  <id>urn:rprimus:github:Kadorath:Sunday-Puzzle</id>
+  <published>2022-08-06T01:45:20Z</published>
+  <updated>2022-08-06T01:45:20Z</updated>
+  <content type="html">
+   Provides functions that, given a list of words, find every possible solution to the NPR puzzle &quot;Find the Hidden Word&quot;
+  </content>
+ </entry>
+ <entry>
+  <title>Leocoding: Polynomes</title>
+  <author>
+   <name>Leocoding</name>
+  </author>
+  <link href="https://github.com/Leocoding/Polynomes" />
+  <id>urn:rprimus:github:Leocoding:Polynomes</id>
+  <published>2022-08-05T19:26:10Z</published>
+  <updated>2022-08-05T19:26:10Z</updated>
+  <content type="html">
+   Implantation des algorithmes Karatsuba et Toom-3 en langage Ocaml
+  </content>
+ </entry>
+ <entry>
+  <title>Chacon-Miguel: Snake-Game</title>
+  <author>
+   <name>Chacon-Miguel</name>
+  </author>
+  <link href="https://github.com/Chacon-Miguel/Snake-Game" />
+  <id>urn:rprimus:github:Chacon-Miguel:Snake-Game</id>
+  <published>2022-08-05T19:24:58Z</published>
+  <updated>2022-08-05T19:24:58Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>ecooler: CS-320-Language-Interpreter-Design-OCaml-Interpreter-</title>
   <author>
@@ -80,58 +132,6 @@
   <updated>2022-08-04T17:39:04Z</updated>
   <content type="html">
    tautology checker project for CSCI 2041 
-  </content>
- </entry>
- <entry>
-  <title>bitorhugo: problems</title>
-  <author>
-   <name>bitorhugo</name>
-  </author>
-  <link href="https://github.com/bitorhugo/problems" />
-  <id>urn:rprimus:github:bitorhugo:problems</id>
-  <published>2022-08-03T20:03:07Z</published>
-  <updated>2022-08-03T20:03:07Z</updated>
-  <content type="html">
-   ocaml problem set
-  </content>
- </entry>
- <entry>
-  <title>9playground: ocaml</title>
-  <author>
-   <name>9playground</name>
-  </author>
-  <link href="https://github.com/9playground/ocaml" />
-  <id>urn:rprimus:github:9playground:ocaml</id>
-  <published>2022-08-03T16:19:00Z</published>
-  <updated>2022-08-03T16:19:00Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Kakadu: test-ocaml-ci-docker</title>
-  <author>
-   <name>Kakadu</name>
-  </author>
-  <link href="https://github.com/Kakadu/test-ocaml-ci-docker" />
-  <id>urn:rprimus:github:Kakadu:test-ocaml-ci-docker</id>
-  <published>2022-08-03T15:52:00Z</published>
-  <updated>2022-08-03T15:52:00Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>LimitEpsilon: reanalyze-ropas</title>
-  <author>
-   <name>LimitEpsilon</name>
-  </author>
-  <link href="https://github.com/LimitEpsilon/reanalyze-ropas" />
-  <id>urn:rprimus:github:LimitEpsilon:reanalyze-ropas</id>
-  <published>2022-08-03T13:52:21Z</published>
-  <updated>2022-08-03T13:52:21Z</updated>
-  <content type="html">
-   ReScript static analysis tool, from https://github.com/rescript-association/reanalyze and extended upon by ROPAS@SNU
   </content>
  </entry>
 </feed>
