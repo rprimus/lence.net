@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2022-08-06T06:04:05Z</updated>
+<updated>2022-08-06T08:54:26Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>nickpogo: doom_config</title>
+  <author>
+   <name>nickpogo</name>
+  </author>
+  <link href="https://github.com/nickpogo/doom_config" />
+  <id>urn:rprimus:github:nickpogo:doom_config</id>
+  <published>2022-08-06T08:54:26Z</published>
+  <updated>2022-08-06T08:54:26Z</updated>
+  <content type="html">
+   My doom emacs configuration
+  </content>
+ </entry>
+ <entry>
+  <title>miabl: emacs-config</title>
+  <author>
+   <name>miabl</name>
+  </author>
+  <link href="https://github.com/miabl/emacs-config" />
+  <id>urn:rprimus:github:miabl:emacs-config</id>
+  <published>2022-08-06T08:14:16Z</published>
+  <updated>2022-08-06T08:14:16Z</updated>
+  <content type="html">
+   my config for doom emacs
+  </content>
+ </entry>
+ <entry>
+  <title>rougier: minibuffer-header</title>
+  <author>
+   <name>rougier</name>
+  </author>
+  <link href="https://github.com/rougier/minibuffer-header" />
+  <id>urn:rprimus:github:rougier:minibuffer-header</id>
+  <published>2022-08-06T08:00:34Z</published>
+  <updated>2022-08-06T08:00:34Z</updated>
+  <content type="html">
+   Minibuffer header for GNU/Emacs
+  </content>
+ </entry>
  <entry>
   <title>md-arif-shaikh: forex</title>
   <author>
@@ -53,7 +92,7 @@
   <published>2022-08-06T01:46:48Z</published>
   <updated>2022-08-06T01:46:48Z</updated>
   <content type="html">
-   An Emacs wrapper for qpdf
+   A transient Emacs wrapper for qpdf
   </content>
  </entry>
  <entry>
