@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-08-06T04:57:34Z</updated>
+<updated>2022-08-07T01:00:02Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>wjc2118: jsonp</title>
+  <author>
+   <name>wjc2118</name>
+  </author>
+  <link href="https://github.com/wjc2118/jsonp" />
+  <id>urn:rprimus:github:wjc2118:jsonp</id>
+  <published>2022-08-07T01:00:02Z</published>
+  <updated>2022-08-07T01:00:02Z</updated>
+  <content type="html">
+   a toy for parse JSON in common lisp based on parser combinators
+  </content>
+ </entry>
+ <entry>
+  <title>simonbrauner: aoc</title>
+  <author>
+   <name>simonbrauner</name>
+  </author>
+  <link href="https://github.com/simonbrauner/aoc" />
+  <id>urn:rprimus:github:simonbrauner:aoc</id>
+  <published>2022-08-06T20:06:45Z</published>
+  <updated>2022-08-06T20:06:45Z</updated>
+  <content type="html">
+   Advent of Code
+  </content>
+ </entry>
+ <entry>
+  <title>mark-watson: openai</title>
+  <author>
+   <name>mark-watson</name>
+  </author>
+  <link href="https://github.com/mark-watson/openai" />
+  <id>urn:rprimus:github:mark-watson:openai</id>
+  <published>2022-08-06T16:57:53Z</published>
+  <updated>2022-08-06T16:57:53Z</updated>
+  <content type="html">
+   Common Lisp library for using OpenAI&#039;s GPT3 APIs. From my book https://leanpub.com/lovinglisp
+  </content>
+ </entry>
+ <entry>
+  <title>mark-watson: kgsampler</title>
+  <author>
+   <name>mark-watson</name>
+  </author>
+  <link href="https://github.com/mark-watson/kgsampler" />
+  <id>urn:rprimus:github:mark-watson:kgsampler</id>
+  <published>2022-08-06T16:50:32Z</published>
+  <updated>2022-08-06T16:50:32Z</updated>
+  <content type="html">
+   Common Lisp library for sampling DBPedia to create small test Knowledge Graphs. From my book https://leanpub.com/lovinglisp
+  </content>
+ </entry>
+ <entry>
+  <title>mark-watson: entities_dbpedia</title>
+  <author>
+   <name>mark-watson</name>
+  </author>
+  <link href="https://github.com/mark-watson/entities_dbpedia" />
+  <id>urn:rprimus:github:mark-watson:entities_dbpedia</id>
+  <published>2022-08-06T16:44:49Z</published>
+  <updated>2022-08-06T16:44:49Z</updated>
+  <content type="html">
+   Common Lisp library to resolve entities in text to DBPedia URIs. From my book https://leanpub.com/lovinglisp
+  </content>
+ </entry>
+ <entry>
+  <title>rajasegar: cl-djula-tailwind</title>
+  <author>
+   <name>rajasegar</name>
+  </author>
+  <link href="https://github.com/rajasegar/cl-djula-tailwind" />
+  <id>urn:rprimus:github:rajasegar:cl-djula-tailwind</id>
+  <published>2022-08-06T10:38:50Z</published>
+  <updated>2022-08-06T10:38:50Z</updated>
+  <content type="html">
+   Tailwind classes for Djula templates
+  </content>
+ </entry>
  <entry>
   <title>Lisp-Stat: project-template</title>
   <author>
@@ -70,19 +148,6 @@
   </content>
  </entry>
  <entry>
-  <title>simonbrauner: aoc</title>
-  <author>
-   <name>simonbrauner</name>
-  </author>
-  <link href="https://github.com/simonbrauner/aoc" />
-  <id>urn:rprimus:github:simonbrauner:aoc</id>
-  <published>2022-08-05T17:39:14Z</published>
-  <updated>2022-08-05T17:39:14Z</updated>
-  <content type="html">
-   Advent of Code
-  </content>
- </entry>
- <entry>
   <title>iZarif: newlisp</title>
   <author>
    <name>iZarif</name>
@@ -93,45 +158,6 @@
   <updated>2022-08-05T13:36:23Z</updated>
   <content type="html">
    Various scripts written in Newlisp
-  </content>
- </entry>
- <entry>
-  <title>wdgitgub: cad-expensive-chajian</title>
-  <author>
-   <name>wdgitgub</name>
-  </author>
-  <link href="https://github.com/wdgitgub/cad-expensive-chajian" />
-  <id>urn:rprimus:github:wdgitgub:cad-expensive-chajian</id>
-  <published>2022-08-04T13:13:28Z</published>
-  <updated>2022-08-04T13:13:28Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>snauts: bug-island</title>
-  <author>
-   <name>snauts</name>
-  </author>
-  <link href="https://github.com/snauts/bug-island" />
-  <id>urn:rprimus:github:snauts:bug-island</id>
-  <published>2022-08-04T11:02:38Z</published>
-  <updated>2022-08-04T11:02:38Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>rajasegar: cl-djula-svg</title>
-  <author>
-   <name>rajasegar</name>
-  </author>
-  <link href="https://github.com/rajasegar/cl-djula-svg" />
-  <id>urn:rprimus:github:rajasegar:cl-djula-svg</id>
-  <published>2022-08-04T08:57:48Z</published>
-  <updated>2022-08-04T08:57:48Z</updated>
-  <content type="html">
-   Handle SVGs in Djula templates
   </content>
  </entry>
 </feed>
