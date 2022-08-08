@@ -2,8 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2022-08-07T04:13:56Z</updated>
+<updated>2022-08-08T00:57:15Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>bensmrs: timed-cache</title>
+  <author>
+   <name>bensmrs</name>
+  </author>
+  <link href="https://github.com/bensmrs/timed-cache" />
+  <id>urn:rprimus:github:bensmrs:timed-cache</id>
+  <published>2022-08-08T00:57:15Z</published>
+  <updated>2022-08-08T00:57:15Z</updated>
+  <content type="html">
+   This package implements a key-value store where an expiration check is scheduled using SIGALRM signals
+  </content>
+ </entry>
+ <entry>
+  <title>xsadia: OCaml_exercises</title>
+  <author>
+   <name>xsadia</name>
+  </author>
+  <link href="https://github.com/xsadia/OCaml_exercises" />
+  <id>urn:rprimus:github:xsadia:OCaml_exercises</id>
+  <published>2022-08-07T22:18:06Z</published>
+  <updated>2022-08-07T22:18:06Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>cos326-f22: a7-starter-code</title>
+  <author>
+   <name>cos326-f22</name>
+  </author>
+  <link href="https://github.com/cos326-f22/a7-starter-code" />
+  <id>urn:rprimus:github:cos326-f22:a7-starter-code</id>
+  <published>2022-08-07T19:26:08Z</published>
+  <updated>2022-08-07T19:26:08Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>ghuysmans: ppx_camel_case</title>
+  <author>
+   <name>ghuysmans</name>
+  </author>
+  <link href="https://github.com/ghuysmans/ppx_camel_case" />
+  <id>urn:rprimus:github:ghuysmans:ppx_camel_case</id>
+  <published>2022-08-07T16:23:17Z</published>
+  <updated>2022-08-07T16:23:17Z</updated>
+  <content type="html">
+   Generate camel-case [@name] and [@key] for use with other PPX derivers
+  </content>
+ </entry>
+ <entry>
+  <title>obrhubr: ocaml_routing</title>
+  <author>
+   <name>obrhubr</name>
+  </author>
+  <link href="https://github.com/obrhubr/ocaml_routing" />
+  <id>urn:rprimus:github:obrhubr:ocaml_routing</id>
+  <published>2022-08-07T13:53:59Z</published>
+  <updated>2022-08-07T13:53:59Z</updated>
+  <content type="html">
+   Simulating routing with ocaml.
+  </content>
+ </entry>
+ <entry>
+  <title>mimoo: nixbyexample</title>
+  <author>
+   <name>mimoo</name>
+  </author>
+  <link href="https://github.com/mimoo/nixbyexample" />
+  <id>urn:rprimus:github:mimoo:nixbyexample</id>
+  <published>2022-08-07T11:25:39Z</published>
+  <updated>2022-08-07T11:25:39Z</updated>
+  <content type="html">
+   Learn nix by example
+  </content>
+ </entry>
+ <entry>
+  <title>Remi-labbe: sudoku_solver</title>
+  <author>
+   <name>Remi-labbe</name>
+  </author>
+  <link href="https://github.com/Remi-labbe/sudoku_solver" />
+  <id>urn:rprimus:github:Remi-labbe:sudoku_solver</id>
+  <published>2022-08-07T10:57:42Z</published>
+  <updated>2022-08-07T10:57:42Z</updated>
+  <content type="html">
+   ocaml sudoku solver
+  </content>
+ </entry>
  <entry>
   <title>ribeirotomas1904: evaluation-strategies</title>
   <author>
@@ -132,84 +223,6 @@
   <updated>2022-08-06T01:45:20Z</updated>
   <content type="html">
    Provides functions that, given a list of words, find every possible solution to the NPR puzzle &quot;Find the Hidden Word&quot;
-  </content>
- </entry>
- <entry>
-  <title>Leocoding: Polynomes</title>
-  <author>
-   <name>Leocoding</name>
-  </author>
-  <link href="https://github.com/Leocoding/Polynomes" />
-  <id>urn:rprimus:github:Leocoding:Polynomes</id>
-  <published>2022-08-05T19:26:10Z</published>
-  <updated>2022-08-05T19:26:10Z</updated>
-  <content type="html">
-   Implantation des algorithmes Karatsuba et Toom-3 en langage Ocaml
-  </content>
- </entry>
- <entry>
-  <title>Chacon-Miguel: Snake-Game</title>
-  <author>
-   <name>Chacon-Miguel</name>
-  </author>
-  <link href="https://github.com/Chacon-Miguel/Snake-Game" />
-  <id>urn:rprimus:github:Chacon-Miguel:Snake-Game</id>
-  <published>2022-08-05T19:24:58Z</published>
-  <updated>2022-08-05T19:24:58Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>fraidev: ocaml-tcp-chat</title>
-  <author>
-   <name>fraidev</name>
-  </author>
-  <link href="https://github.com/fraidev/ocaml-tcp-chat" />
-  <id>urn:rprimus:github:fraidev:ocaml-tcp-chat</id>
-  <published>2022-08-05T18:42:47Z</published>
-  <updated>2022-08-05T18:42:47Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ecooler: CS-320-Language-Interpreter-Design-OCaml-Interpreter-</title>
-  <author>
-   <name>ecooler</name>
-  </author>
-  <link href="https://github.com/ecooler/CS-320-Language-Interpreter-Design-OCaml-Interpreter-" />
-  <id>urn:rprimus:github:ecooler:CS-320-Language-Interpreter-Design-OCaml-Interpreter-</id>
-  <published>2022-08-05T06:24:40Z</published>
-  <updated>2022-08-05T06:24:40Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>phaysaal: can_call</title>
-  <author>
-   <name>phaysaal</name>
-  </author>
-  <link href="https://github.com/phaysaal/can_call" />
-  <id>urn:rprimus:github:phaysaal:can_call</id>
-  <published>2022-08-05T05:38:27Z</published>
-  <updated>2022-08-05T05:38:27Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ecooler: CS-314-Project-2-Boolean-Satisfiability</title>
-  <author>
-   <name>ecooler</name>
-  </author>
-  <link href="https://github.com/ecooler/CS-314-Project-2-Boolean-Satisfiability" />
-  <id>urn:rprimus:github:ecooler:CS-314-Project-2-Boolean-Satisfiability</id>
-  <published>2022-08-05T04:33:28Z</published>
-  <updated>2022-08-05T04:33:28Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>

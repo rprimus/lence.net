@@ -2,8 +2,138 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-perl.atom"/>
 <id>urn:rprimus:github:newperlrepos</id>
-<updated>2022-08-07T06:21:49Z</updated>
+<updated>2022-08-08T03:03:51Z</updated>
 <title type='text'>New GitHub Perl Repos</title>
+ <entry>
+  <title>ltmbr: SQL-Load</title>
+  <author>
+   <name>ltmbr</name>
+  </author>
+  <link href="https://github.com/ltmbr/SQL-Load" />
+  <id>urn:rprimus:github:ltmbr:SQL-Load</id>
+  <published>2022-08-08T03:03:51Z</published>
+  <updated>2022-08-08T03:03:51Z</updated>
+  <content type="html">
+   Perl module to load SQL files
+  </content>
+ </entry>
+ <entry>
+  <title>perlancar: perl-Regexp-From-String</title>
+  <author>
+   <name>perlancar</name>
+  </author>
+  <link href="https://github.com/perlancar/perl-Regexp-From-String" />
+  <id>urn:rprimus:github:perlancar:perl-Regexp-From-String</id>
+  <published>2022-08-08T01:43:52Z</published>
+  <updated>2022-08-08T01:43:52Z</updated>
+  <content type="html">
+   (No description)
+  </content>
+ </entry>
+ <entry>
+  <title>EvanCarroll: p5-voo</title>
+  <author>
+   <name>EvanCarroll</name>
+  </author>
+  <link href="https://github.com/EvanCarroll/p5-voo" />
+  <id>urn:rprimus:github:EvanCarroll:p5-voo</id>
+  <published>2022-08-08T00:20:26Z</published>
+  <updated>2022-08-08T00:20:26Z</updated>
+  <content type="html">
+   Run perl5 subs in compile time!
+  </content>
+ </entry>
+ <entry>
+  <title>michal-josef-spacek: Data-HTML-Form</title>
+  <author>
+   <name>michal-josef-spacek</name>
+  </author>
+  <link href="https://github.com/michal-josef-spacek/Data-HTML-Form" />
+  <id>urn:rprimus:github:michal-josef-spacek:Data-HTML-Form</id>
+  <published>2022-08-07T13:28:03Z</published>
+  <updated>2022-08-07T13:28:03Z</updated>
+  <content type="html">
+   Data objects for HTML form.
+  </content>
+ </entry>
+ <entry>
+  <title>michal-josef-spacek: Data-HTML-Button</title>
+  <author>
+   <name>michal-josef-spacek</name>
+  </author>
+  <link href="https://github.com/michal-josef-spacek/Data-HTML-Button" />
+  <id>urn:rprimus:github:michal-josef-spacek:Data-HTML-Button</id>
+  <published>2022-08-07T12:33:19Z</published>
+  <updated>2022-08-07T12:33:19Z</updated>
+  <content type="html">
+   Data object for HTML button element.
+  </content>
+ </entry>
+ <entry>
+  <title>mxcheung: perl_kafka_docker</title>
+  <author>
+   <name>mxcheung</name>
+  </author>
+  <link href="https://github.com/mxcheung/perl_kafka_docker" />
+  <id>urn:rprimus:github:mxcheung:perl_kafka_docker</id>
+  <published>2022-08-07T12:21:43Z</published>
+  <updated>2022-08-07T12:21:43Z</updated>
+  <content type="html">
+   perl_kafka_docker
+  </content>
+ </entry>
+ <entry>
+  <title>codescalersinternships: IslamWalid-container</title>
+  <author>
+   <name>codescalersinternships</name>
+  </author>
+  <link href="https://github.com/codescalersinternships/IslamWalid-container" />
+  <id>urn:rprimus:github:codescalersinternships:IslamWalid-container</id>
+  <published>2022-08-07T11:37:39Z</published>
+  <updated>2022-08-07T11:37:39Z</updated>
+  <content type="html">
+   Go implementation for creation a new process namespace and cgroup.
+  </content>
+ </entry>
+ <entry>
+  <title>vgul: cacher</title>
+  <author>
+   <name>vgul</name>
+  </author>
+  <link href="https://github.com/vgul/cacher" />
+  <id>urn:rprimus:github:vgul:cacher</id>
+  <published>2022-08-07T10:58:36Z</published>
+  <updated>2022-08-07T10:58:36Z</updated>
+  <content type="html">
+   Library to cache cli stdout/stderr 
+  </content>
+ </entry>
+ <entry>
+  <title>bbrtj: perl-moosey-fieldbuilder</title>
+  <author>
+   <name>bbrtj</name>
+  </author>
+  <link href="https://github.com/bbrtj/perl-moosey-fieldbuilder" />
+  <id>urn:rprimus:github:bbrtj:perl-moosey-fieldbuilder</id>
+  <published>2022-08-07T10:17:51Z</published>
+  <updated>2022-08-07T10:17:51Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>meetmatt: homelab</title>
+  <author>
+   <name>meetmatt</name>
+  </author>
+  <link href="https://github.com/meetmatt/homelab" />
+  <id>urn:rprimus:github:meetmatt:homelab</id>
+  <published>2022-08-07T09:36:12Z</published>
+  <updated>2022-08-07T09:36:12Z</updated>
+  <content type="html">
+   Random scripts for home lab
+  </content>
+ </entry>
  <entry>
   <title>jocelyn66: ECRwGSL</title>
   <author>
@@ -28,19 +158,6 @@
   <updated>2022-08-07T05:29:28Z</updated>
   <content type="html">
    This perl script remove 100% identical duplicates with keeping one representative from FASTA sequences. 
-  </content>
- </entry>
- <entry>
-  <title>jochie: skeletons</title>
-  <author>
-   <name>jochie</name>
-  </author>
-  <link href="https://github.com/jochie/skeletons" />
-  <id>urn:rprimus:github:jochie:skeletons</id>
-  <published>2022-08-07T04:31:59Z</published>
-  <updated>2022-08-07T04:31:59Z</updated>
-  <content type="html">
-   Skeleton Code
   </content>
  </entry>
  <entry>
@@ -234,279 +351,6 @@
   <id>urn:rprimus:github:choigy:cookie1871</id>
   <published>2022-08-06T00:39:29Z</published>
   <updated>2022-08-06T00:39:29Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>nkatiyar: annotation_disordered_region_protein</title>
-  <author>
-   <name>nkatiyar</name>
-  </author>
-  <link href="https://github.com/nkatiyar/annotation_disordered_region_protein" />
-  <id>urn:rprimus:github:nkatiyar:annotation_disordered_region_protein</id>
-  <published>2022-08-05T23:38:53Z</published>
-  <updated>2022-08-05T23:38:53Z</updated>
-  <content type="html">
-   Script to integrate disordered regions of proteins for annotation pipeline.
-  </content>
- </entry>
- <entry>
-  <title>dyxfigni: PerlPP</title>
-  <author>
-   <name>dyxfigni</name>
-  </author>
-  <link href="https://github.com/dyxfigni/PerlPP" />
-  <id>urn:rprimus:github:dyxfigni:PerlPP</id>
-  <published>2022-08-05T23:17:16Z</published>
-  <updated>2022-08-05T23:17:16Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>shamrice: rpg_net_perl</title>
-  <author>
-   <name>shamrice</name>
-  </author>
-  <link href="https://github.com/shamrice/rpg_net_perl" />
-  <id>urn:rprimus:github:shamrice:rpg_net_perl</id>
-  <published>2022-08-05T20:05:50Z</published>
-  <updated>2022-08-05T20:05:50Z</updated>
-  <content type="html">
-   Somewhat of a Perl version of my other older &quot;rpg_net&quot; project. This will probably get renamed as time goes on.
-  </content>
- </entry>
- <entry>
-  <title>vic37get: Regex-com-Perl</title>
-  <author>
-   <name>vic37get</name>
-  </author>
-  <link href="https://github.com/vic37get/Regex-com-Perl" />
-  <id>urn:rprimus:github:vic37get:Regex-com-Perl</id>
-  <published>2022-08-05T19:27:30Z</published>
-  <updated>2022-08-05T19:27:30Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>LordWaif: tso_perl</title>
-  <author>
-   <name>LordWaif</name>
-  </author>
-  <link href="https://github.com/LordWaif/tso_perl" />
-  <id>urn:rprimus:github:LordWaif:tso_perl</id>
-  <published>2022-08-05T18:58:24Z</published>
-  <updated>2022-08-05T18:58:24Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>dyxfigni: VacAutoResponder</title>
-  <author>
-   <name>dyxfigni</name>
-  </author>
-  <link href="https://github.com/dyxfigni/VacAutoResponder" />
-  <id>urn:rprimus:github:dyxfigni:VacAutoResponder</id>
-  <published>2022-08-05T18:49:11Z</published>
-  <updated>2022-08-05T18:49:11Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>michal-josef-spacek: App-Schema-Data</title>
-  <author>
-   <name>michal-josef-spacek</name>
-  </author>
-  <link href="https://github.com/michal-josef-spacek/App-Schema-Data" />
-  <id>urn:rprimus:github:michal-josef-spacek:App-Schema-Data</id>
-  <published>2022-08-05T17:47:52Z</published>
-  <updated>2022-08-05T17:47:52Z</updated>
-  <content type="html">
-   Script for Schema data manipulation.
-  </content>
- </entry>
- <entry>
-  <title>Risae: Growlanser-6-English-Translation</title>
-  <author>
-   <name>Risae</name>
-  </author>
-  <link href="https://github.com/Risae/Growlanser-6-English-Translation" />
-  <id>urn:rprimus:github:Risae:Growlanser-6-English-Translation</id>
-  <published>2022-08-05T16:31:26Z</published>
-  <updated>2022-08-05T16:31:26Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>olaeriksson: leases-to-semaphore</title>
-  <author>
-   <name>olaeriksson</name>
-  </author>
-  <link href="https://github.com/olaeriksson/leases-to-semaphore" />
-  <id>urn:rprimus:github:olaeriksson:leases-to-semaphore</id>
-  <published>2022-08-05T16:26:12Z</published>
-  <updated>2022-08-05T16:26:12Z</updated>
-  <content type="html">
-   Small tool that can be used to populate Semaphore inventories from DHCP leases
-  </content>
- </entry>
- <entry>
-  <title>voegelas: Mail-Exim-ACL-Attachments</title>
-  <author>
-   <name>voegelas</name>
-  </author>
-  <link href="https://github.com/voegelas/Mail-Exim-ACL-Attachments" />
-  <id>urn:rprimus:github:voegelas:Mail-Exim-ACL-Attachments</id>
-  <published>2022-08-05T15:34:41Z</published>
-  <updated>2022-08-05T15:34:41Z</updated>
-  <content type="html">
-   Check email attachments for blocked and macro-enabled filenames
-  </content>
- </entry>
- <entry>
-  <title>splatage: deploy</title>
-  <author>
-   <name>splatage</name>
-  </author>
-  <link href="https://github.com/splatage/deploy" />
-  <id>urn:rprimus:github:splatage:deploy</id>
-  <published>2022-08-05T14:38:57Z</published>
-  <updated>2022-08-05T14:38:57Z</updated>
-  <content type="html">
-   Minecraft Server Management Interface
-  </content>
- </entry>
- <entry>
-  <title>gon-exp: check_oracle_health</title>
-  <author>
-   <name>gon-exp</name>
-  </author>
-  <link href="https://github.com/gon-exp/check_oracle_health" />
-  <id>urn:rprimus:github:gon-exp:check_oracle_health</id>
-  <published>2022-08-05T14:15:34Z</published>
-  <updated>2022-08-05T14:15:34Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>voegelas: Mojolicious-Plugin-Geolocation-MMDB</title>
-  <author>
-   <name>voegelas</name>
-  </author>
-  <link href="https://github.com/voegelas/Mojolicious-Plugin-Geolocation-MMDB" />
-  <id>urn:rprimus:github:voegelas:Mojolicious-Plugin-Geolocation-MMDB</id>
-  <published>2022-08-05T13:25:47Z</published>
-  <updated>2022-08-05T13:25:47Z</updated>
-  <content type="html">
-   Look up location information by IP address
-  </content>
- </entry>
- <entry>
-  <title>voegelas: Mail-Exim-ACL-Geolocation</title>
-  <author>
-   <name>voegelas</name>
-  </author>
-  <link href="https://github.com/voegelas/Mail-Exim-ACL-Geolocation" />
-  <id>urn:rprimus:github:voegelas:Mail-Exim-ACL-Geolocation</id>
-  <published>2022-08-05T12:52:49Z</published>
-  <updated>2022-08-05T12:52:49Z</updated>
-  <content type="html">
-   Map IP addresses to country codes
-  </content>
- </entry>
- <entry>
-  <title>capjamesg: indieweb-etherpad-archiver</title>
-  <author>
-   <name>capjamesg</name>
-  </author>
-  <link href="https://github.com/capjamesg/indieweb-etherpad-archiver" />
-  <id>urn:rprimus:github:capjamesg:indieweb-etherpad-archiver</id>
-  <published>2022-08-05T11:04:37Z</published>
-  <updated>2022-08-05T11:04:37Z</updated>
-  <content type="html">
-   Perl tool for archiving Etherpad links to the IndieWeb wiki.
-  </content>
- </entry>
- <entry>
-  <title>warthmann: Design-CRISPR-oligos</title>
-  <author>
-   <name>warthmann</name>
-  </author>
-  <link href="https://github.com/warthmann/Design-CRISPR-oligos" />
-  <id>urn:rprimus:github:warthmann:Design-CRISPR-oligos</id>
-  <published>2022-08-05T09:01:29Z</published>
-  <updated>2022-08-05T09:01:29Z</updated>
-  <content type="html">
-   Scripts for CRISPR GreenGate Cloning
-  </content>
- </entry>
- <entry>
-  <title>a112547: word</title>
-  <author>
-   <name>a112547</name>
-  </author>
-  <link href="https://github.com/a112547/word" />
-  <id>urn:rprimus:github:a112547:word</id>
-  <published>2022-08-05T07:58:26Z</published>
-  <updated>2022-08-05T07:58:26Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>robinmordasiewicz: basic-example</title>
-  <author>
-   <name>robinmordasiewicz</name>
-  </author>
-  <link href="https://github.com/robinmordasiewicz/basic-example" />
-  <id>urn:rprimus:github:robinmordasiewicz:basic-example</id>
-  <published>2022-08-05T06:40:56Z</published>
-  <updated>2022-08-05T06:40:56Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jatin3893: minified-git-execs</title>
-  <author>
-   <name>jatin3893</name>
-  </author>
-  <link href="https://github.com/jatin3893/minified-git-execs" />
-  <id>urn:rprimus:github:jatin3893:minified-git-execs</id>
-  <published>2022-08-05T05:37:02Z</published>
-  <updated>2022-08-05T05:37:02Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>movingpictures83: Truncate</title>
-  <author>
-   <name>movingpictures83</name>
-  </author>
-  <link href="https://github.com/movingpictures83/Truncate" />
-  <id>urn:rprimus:github:movingpictures83:Truncate</id>
-  <published>2022-08-05T04:03:30Z</published>
-  <updated>2022-08-05T04:03:30Z</updated>
-  <content type="html">
-   Truncate sequences (Quince et al, 2011)
-  </content>
- </entry>
- <entry>
-  <title>dende-h: cobol_sample</title>
-  <author>
-   <name>dende-h</name>
-  </author>
-  <link href="https://github.com/dende-h/cobol_sample" />
-  <id>urn:rprimus:github:dende-h:cobol_sample</id>
-  <published>2022-08-05T00:03:50Z</published>
-  <updated>2022-08-05T00:03:50Z</updated>
   <content type="html">
    
   </content>

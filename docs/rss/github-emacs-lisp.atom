@@ -2,8 +2,138 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2022-08-07T03:10:39Z</updated>
+<updated>2022-08-08T02:57:42Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>reedspool: export-org-mode-articles</title>
+  <author>
+   <name>reedspool</name>
+  </author>
+  <link href="https://github.com/reedspool/export-org-mode-articles" />
+  <id>urn:rprimus:github:reedspool:export-org-mode-articles</id>
+  <published>2022-08-08T02:57:42Z</published>
+  <updated>2022-08-08T02:57:42Z</updated>
+  <content type="html">
+   Export my Org Mode Articles to HTML, separate from my personal Emacs config as hopefully someday this could be achieved automatically in a GitHub action
+  </content>
+ </entry>
+ <entry>
+  <title>sellenth: doom.d</title>
+  <author>
+   <name>sellenth</name>
+  </author>
+  <link href="https://github.com/sellenth/doom.d" />
+  <id>urn:rprimus:github:sellenth:doom.d</id>
+  <published>2022-08-08T00:07:18Z</published>
+  <updated>2022-08-08T00:07:18Z</updated>
+  <content type="html">
+   doom emacs configuration that I don&#039;t want to lose
+  </content>
+ </entry>
+ <entry>
+  <title>erikbackman: .emacs.d</title>
+  <author>
+   <name>erikbackman</name>
+  </author>
+  <link href="https://github.com/erikbackman/.emacs.d" />
+  <id>urn:rprimus:github:erikbackman:.emacs.d</id>
+  <published>2022-08-08T00:02:31Z</published>
+  <updated>2022-08-08T00:02:31Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>erikbackman: nixenv</title>
+  <author>
+   <name>erikbackman</name>
+  </author>
+  <link href="https://github.com/erikbackman/nixenv" />
+  <id>urn:rprimus:github:erikbackman:nixenv</id>
+  <published>2022-08-07T18:18:15Z</published>
+  <updated>2022-08-07T18:18:15Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>zbraiterman: emacs-configurations</title>
+  <author>
+   <name>zbraiterman</name>
+  </author>
+  <link href="https://github.com/zbraiterman/emacs-configurations" />
+  <id>urn:rprimus:github:zbraiterman:emacs-configurations</id>
+  <published>2022-08-07T17:55:03Z</published>
+  <updated>2022-08-07T17:55:03Z</updated>
+  <content type="html">
+   In case anyone else finds these helpful
+  </content>
+ </entry>
+ <entry>
+  <title>hikmet517: cmake-mngr</title>
+  <author>
+   <name>hikmet517</name>
+  </author>
+  <link href="https://github.com/hikmet517/cmake-mngr" />
+  <id>urn:rprimus:github:hikmet517:cmake-mngr</id>
+  <published>2022-08-07T15:01:00Z</published>
+  <updated>2022-08-07T15:01:00Z</updated>
+  <content type="html">
+   Cmake command line interface for emacs
+  </content>
+ </entry>
+ <entry>
+  <title>Deg2v: emacsconf</title>
+  <author>
+   <name>Deg2v</name>
+  </author>
+  <link href="https://github.com/Deg2v/emacsconf" />
+  <id>urn:rprimus:github:Deg2v:emacsconf</id>
+  <published>2022-08-07T14:57:17Z</published>
+  <updated>2022-08-07T14:57:17Z</updated>
+  <content type="html">
+   emacs configuration
+  </content>
+ </entry>
+ <entry>
+  <title>jungon: emacs</title>
+  <author>
+   <name>jungon</name>
+  </author>
+  <link href="https://github.com/jungon/emacs" />
+  <id>urn:rprimus:github:jungon:emacs</id>
+  <published>2022-08-07T12:32:13Z</published>
+  <updated>2022-08-07T12:32:13Z</updated>
+  <content type="html">
+   Emacs Configurations
+  </content>
+ </entry>
+ <entry>
+  <title>anzzik: emacsconfig</title>
+  <author>
+   <name>anzzik</name>
+  </author>
+  <link href="https://github.com/anzzik/emacsconfig" />
+  <id>urn:rprimus:github:anzzik:emacsconfig</id>
+  <published>2022-08-07T12:04:43Z</published>
+  <updated>2022-08-07T12:04:43Z</updated>
+  <content type="html">
+   My config for Emacs
+  </content>
+ </entry>
+ <entry>
+  <title>KarimAziev: git-util</title>
+  <author>
+   <name>KarimAziev</name>
+  </author>
+  <link href="https://github.com/KarimAziev/git-util" />
+  <id>urn:rprimus:github:KarimAziev:git-util</id>
+  <published>2022-08-07T11:36:26Z</published>
+  <updated>2022-08-07T11:36:26Z</updated>
+  <content type="html">
+   Emacs git utils.
+  </content>
+ </entry>
  <entry>
   <title>ponpocoder: dotfiles</title>
   <author>
@@ -27,7 +157,7 @@
   <published>2022-08-07T00:05:49Z</published>
   <updated>2022-08-07T00:05:49Z</updated>
   <content type="html">
-   Mirror of the perl-doc package from GNU ELPA, current as of 2022-08-07
+   Mirror of the perl-doc package from GNU ELPA, current as of 2022-08-08
   </content>
  </entry>
  <entry>
@@ -40,7 +170,7 @@
   <published>2022-08-07T00:05:33Z</published>
   <updated>2022-08-07T00:05:33Z</updated>
   <content type="html">
-   Mirror of the minibuffer-header package from GNU ELPA, current as of 2022-08-07
+   Mirror of the minibuffer-header package from GNU ELPA, current as of 2022-08-08
   </content>
  </entry>
  <entry>
@@ -53,7 +183,7 @@
   <published>2022-08-07T00:04:59Z</published>
   <updated>2022-08-07T00:04:59Z</updated>
   <content type="html">
-   Mirror of the consult-recoll package from GNU ELPA, current as of 2022-08-07
+   Mirror of the consult-recoll package from GNU ELPA, current as of 2022-08-08
   </content>
  </entry>
  <entry>
@@ -249,188 +379,6 @@
   <updated>2022-08-06T01:46:48Z</updated>
   <content type="html">
    A transient Emacs wrapper for qpdf
-  </content>
- </entry>
- <entry>
-  <title>swflint: a2ps-transient</title>
-  <author>
-   <name>swflint</name>
-  </author>
-  <link href="https://github.com/swflint/a2ps-transient" />
-  <id>urn:rprimus:github:swflint:a2ps-transient</id>
-  <published>2022-08-05T22:55:20Z</published>
-  <updated>2022-08-05T22:55:20Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>semichuk: My-emacs</title>
-  <author>
-   <name>semichuk</name>
-  </author>
-  <link href="https://github.com/semichuk/My-emacs" />
-  <id>urn:rprimus:github:semichuk:My-emacs</id>
-  <published>2022-08-05T21:50:28Z</published>
-  <updated>2022-08-05T21:50:28Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>swedishembedded: develop</title>
-  <author>
-   <name>swedishembedded</name>
-  </author>
-  <link href="https://github.com/swedishembedded/develop" />
-  <id>urn:rprimus:github:swedishembedded:develop</id>
-  <published>2022-08-05T20:57:13Z</published>
-  <updated>2022-08-05T20:57:13Z</updated>
-  <content type="html">
-   Docker based development environment for coding, building and flashing embedded firmware.
-  </content>
- </entry>
- <entry>
-  <title>simisoft-exo: doom-emacs-config</title>
-  <author>
-   <name>simisoft-exo</name>
-  </author>
-  <link href="https://github.com/simisoft-exo/doom-emacs-config" />
-  <id>urn:rprimus:github:simisoft-exo:doom-emacs-config</id>
-  <published>2022-08-05T17:25:17Z</published>
-  <updated>2022-08-05T17:25:17Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>kisaragi-hiu: send-notification</title>
-  <author>
-   <name>kisaragi-hiu</name>
-  </author>
-  <link href="https://github.com/kisaragi-hiu/send-notification" />
-  <id>urn:rprimus:github:kisaragi-hiu:send-notification</id>
-  <published>2022-08-05T15:40:16Z</published>
-  <updated>2022-08-05T15:40:16Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>richardmoyer: emacs28</title>
-  <author>
-   <name>richardmoyer</name>
-  </author>
-  <link href="https://github.com/richardmoyer/emacs28" />
-  <id>urn:rprimus:github:richardmoyer:emacs28</id>
-  <published>2022-08-05T14:10:49Z</published>
-  <updated>2022-08-05T14:10:49Z</updated>
-  <content type="html">
-   Emacs 28 config from scratch
-  </content>
- </entry>
- <entry>
-  <title>mks9900: emacs_config_macos</title>
-  <author>
-   <name>mks9900</name>
-  </author>
-  <link href="https://github.com/mks9900/emacs_config_macos" />
-  <id>urn:rprimus:github:mks9900:emacs_config_macos</id>
-  <published>2022-08-05T12:57:43Z</published>
-  <updated>2022-08-05T12:57:43Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>luisbanez: .emacs.d</title>
-  <author>
-   <name>luisbanez</name>
-  </author>
-  <link href="https://github.com/luisbanez/.emacs.d" />
-  <id>urn:rprimus:github:luisbanez:.emacs.d</id>
-  <published>2022-08-05T11:14:29Z</published>
-  <updated>2022-08-05T11:14:29Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>rook88: elisp</title>
-  <author>
-   <name>rook88</name>
-  </author>
-  <link href="https://github.com/rook88/elisp" />
-  <id>urn:rprimus:github:rook88:elisp</id>
-  <published>2022-08-05T10:39:52Z</published>
-  <updated>2022-08-05T10:39:52Z</updated>
-  <content type="html">
-   Elisp modules for Emacs
-  </content>
- </entry>
- <entry>
-  <title>Pepito-source: emacsdotfiles</title>
-  <author>
-   <name>Pepito-source</name>
-  </author>
-  <link href="https://github.com/Pepito-source/emacsdotfiles" />
-  <id>urn:rprimus:github:Pepito-source:emacsdotfiles</id>
-  <published>2022-08-05T09:27:47Z</published>
-  <updated>2022-08-05T09:27:47Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>sham1: project-maven</title>
-  <author>
-   <name>sham1</name>
-  </author>
-  <link href="https://github.com/sham1/project-maven" />
-  <id>urn:rprimus:github:sham1:project-maven</id>
-  <published>2022-08-05T09:10:57Z</published>
-  <updated>2022-08-05T09:10:57Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>mlindsk: .emacs.d</title>
-  <author>
-   <name>mlindsk</name>
-  </author>
-  <link href="https://github.com/mlindsk/.emacs.d" />
-  <id>urn:rprimus:github:mlindsk:.emacs.d</id>
-  <published>2022-08-05T06:58:35Z</published>
-  <updated>2022-08-05T06:58:35Z</updated>
-  <content type="html">
-   My emacs config
-  </content>
- </entry>
- <entry>
-  <title>gwangjinkim: emacs-for-python-simple</title>
-  <author>
-   <name>gwangjinkim</name>
-  </author>
-  <link href="https://github.com/gwangjinkim/emacs-for-python-simple" />
-  <id>urn:rprimus:github:gwangjinkim:emacs-for-python-simple</id>
-  <published>2022-08-05T06:29:37Z</published>
-  <updated>2022-08-05T06:29:37Z</updated>
-  <content type="html">
-   simple setting for python in emacs
-  </content>
- </entry>
- <entry>
-  <title>RintaroNagano: config_files</title>
-  <author>
-   <name>RintaroNagano</name>
-  </author>
-  <link href="https://github.com/RintaroNagano/config_files" />
-  <id>urn:rprimus:github:RintaroNagano:config_files</id>
-  <published>2022-08-05T00:34:05Z</published>
-  <updated>2022-08-05T00:34:05Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
