@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2022-08-09T06:56:11Z</updated>
+<updated>2022-08-10T06:51:03Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>sano-jin: lambda-gt-alpha</title>
+  <author>
+   <name>sano-jin</name>
+  </author>
+  <link href="https://github.com/sano-jin/lambda-gt-alpha" />
+  <id>urn:rprimus:github:sano-jin:lambda-gt-alpha</id>
+  <published>2022-08-10T06:51:03Z</published>
+  <updated>2022-08-10T06:51:03Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Paperized: SetInterpreter</title>
+  <author>
+   <name>Paperized</name>
+  </author>
+  <link href="https://github.com/Paperized/SetInterpreter" />
+  <id>urn:rprimus:github:Paperized:SetInterpreter</id>
+  <published>2022-08-09T20:24:33Z</published>
+  <updated>2022-08-09T20:24:33Z</updated>
+  <content type="html">
+   Small interpreter written in OCaml with Sets and functionality to work with them (Map, Filter, etc...)
+  </content>
+ </entry>
+ <entry>
+  <title>thierry-martinez: clangml</title>
+  <author>
+   <name>thierry-martinez</name>
+  </author>
+  <link href="https://github.com/thierry-martinez/clangml" />
+  <id>urn:rprimus:github:thierry-martinez:clangml</id>
+  <published>2022-08-09T18:50:55Z</published>
+  <updated>2022-08-09T18:50:55Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>force-x: Chess</title>
+  <author>
+   <name>force-x</name>
+  </author>
+  <link href="https://github.com/force-x/Chess" />
+  <id>urn:rprimus:github:force-x:Chess</id>
+  <published>2022-08-09T14:32:12Z</published>
+  <updated>2022-08-09T14:32:12Z</updated>
+  <content type="html">
+   Worked with 2 others to reproduce the game of chess as part of a course project
+  </content>
+ </entry>
+ <entry>
+  <title>ShaneGaymon28: CPSC-3520</title>
+  <author>
+   <name>ShaneGaymon28</name>
+  </author>
+  <link href="https://github.com/ShaneGaymon28/CPSC-3520" />
+  <id>urn:rprimus:github:ShaneGaymon28:CPSC-3520</id>
+  <published>2022-08-09T14:24:24Z</published>
+  <updated>2022-08-09T14:24:24Z</updated>
+  <content type="html">
+   Two projects from CPSC 3520 - Programming Languages and Methodologies
+  </content>
+ </entry>
+ <entry>
+  <title>ecooler: CSI-3120-Programming-Language-Concepts-OCaml</title>
+  <author>
+   <name>ecooler</name>
+  </author>
+  <link href="https://github.com/ecooler/CSI-3120-Programming-Language-Concepts-OCaml" />
+  <id>urn:rprimus:github:ecooler:CSI-3120-Programming-Language-Concepts-OCaml</id>
+  <published>2022-08-09T13:03:07Z</published>
+  <updated>2022-08-09T13:03:07Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>AbhijeetSaha2142: Vortex</title>
   <author>
@@ -15,6 +93,32 @@
   <updated>2022-08-09T06:56:11Z</updated>
   <content type="html">
    
+  </content>
+ </entry>
+ <entry>
+  <title>davisuga: graaml</title>
+  <author>
+   <name>davisuga</name>
+  </author>
+  <link href="https://github.com/davisuga/graaml" />
+  <id>urn:rprimus:github:davisuga:graaml</id>
+  <published>2022-08-09T00:46:05Z</published>
+  <updated>2022-08-09T00:46:05Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>swissarmybox: problems</title>
+  <author>
+   <name>swissarmybox</name>
+  </author>
+  <link href="https://github.com/swissarmybox/problems" />
+  <id>urn:rprimus:github:swissarmybox:problems</id>
+  <published>2022-08-08T22:29:19Z</published>
+  <updated>2022-08-08T22:29:19Z</updated>
+  <content type="html">
+   Problems solving in OCaml
   </content>
  </entry>
  <entry>
@@ -44,6 +148,19 @@
   </content>
  </entry>
  <entry>
+  <title>yoskoshi: info_sci_exp_code3</title>
+  <author>
+   <name>yoskoshi</name>
+  </author>
+  <link href="https://github.com/yoskoshi/info_sci_exp_code3" />
+  <id>urn:rprimus:github:yoskoshi:info_sci_exp_code3</id>
+  <published>2022-08-08T15:19:52Z</published>
+  <updated>2022-08-08T15:19:52Z</updated>
+  <content type="html">
+   æå ±ç§å­¦å®é¨ã®èª²é¡ã®ã³ã¼ããéããã
+  </content>
+ </entry>
+ <entry>
   <title>drorgabay: Compilation</title>
   <author>
    <name>drorgabay</name>
@@ -67,97 +184,6 @@
   <updated>2022-08-08T00:57:15Z</updated>
   <content type="html">
    This package implements a key-value store where an expiration check is scheduled using SIGALRM signals
-  </content>
- </entry>
- <entry>
-  <title>xsadia: OCaml_exercises</title>
-  <author>
-   <name>xsadia</name>
-  </author>
-  <link href="https://github.com/xsadia/OCaml_exercises" />
-  <id>urn:rprimus:github:xsadia:OCaml_exercises</id>
-  <published>2022-08-07T22:18:06Z</published>
-  <updated>2022-08-07T22:18:06Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>cos326-f22: a7-starter-code</title>
-  <author>
-   <name>cos326-f22</name>
-  </author>
-  <link href="https://github.com/cos326-f22/a7-starter-code" />
-  <id>urn:rprimus:github:cos326-f22:a7-starter-code</id>
-  <published>2022-08-07T19:26:08Z</published>
-  <updated>2022-08-07T19:26:08Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ghuysmans: ppx_camel_case</title>
-  <author>
-   <name>ghuysmans</name>
-  </author>
-  <link href="https://github.com/ghuysmans/ppx_camel_case" />
-  <id>urn:rprimus:github:ghuysmans:ppx_camel_case</id>
-  <published>2022-08-07T16:23:17Z</published>
-  <updated>2022-08-07T16:23:17Z</updated>
-  <content type="html">
-   Generate camel-case [@name] and [@key] for use with other PPX derivers
-  </content>
- </entry>
- <entry>
-  <title>obrhubr: ocaml_routing</title>
-  <author>
-   <name>obrhubr</name>
-  </author>
-  <link href="https://github.com/obrhubr/ocaml_routing" />
-  <id>urn:rprimus:github:obrhubr:ocaml_routing</id>
-  <published>2022-08-07T13:53:59Z</published>
-  <updated>2022-08-07T13:53:59Z</updated>
-  <content type="html">
-   Simulating routing with ocaml.
-  </content>
- </entry>
- <entry>
-  <title>mimoo: nixbyexample</title>
-  <author>
-   <name>mimoo</name>
-  </author>
-  <link href="https://github.com/mimoo/nixbyexample" />
-  <id>urn:rprimus:github:mimoo:nixbyexample</id>
-  <published>2022-08-07T11:25:39Z</published>
-  <updated>2022-08-07T11:25:39Z</updated>
-  <content type="html">
-   Learn nix by example
-  </content>
- </entry>
- <entry>
-  <title>Remi-labbe: sudoku_solver</title>
-  <author>
-   <name>Remi-labbe</name>
-  </author>
-  <link href="https://github.com/Remi-labbe/sudoku_solver" />
-  <id>urn:rprimus:github:Remi-labbe:sudoku_solver</id>
-  <published>2022-08-07T10:57:42Z</published>
-  <updated>2022-08-07T10:57:42Z</updated>
-  <content type="html">
-   ocaml sudoku solver
-  </content>
- </entry>
- <entry>
-  <title>ribeirotomas1904: evaluation-strategies</title>
-  <author>
-   <name>ribeirotomas1904</name>
-  </author>
-  <link href="https://github.com/ribeirotomas1904/evaluation-strategies" />
-  <id>urn:rprimus:github:ribeirotomas1904:evaluation-strategies</id>
-  <published>2022-08-07T04:13:56Z</published>
-  <updated>2022-08-07T04:13:56Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
