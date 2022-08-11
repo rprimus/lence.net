@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2022-08-10T07:17:45Z</updated>
+<updated>2022-08-10T18:51:27Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>ptsalmon: Clash-Royale-Deck-Finder</title>
+  <author>
+   <name>ptsalmon</name>
+  </author>
+  <link href="https://github.com/ptsalmon/Clash-Royale-Deck-Finder" />
+  <id>urn:rprimus:github:ptsalmon:Clash-Royale-Deck-Finder</id>
+  <published>2022-08-10T18:51:27Z</published>
+  <updated>2022-08-10T18:51:27Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>asnewman: caveman_prose</title>
   <author>
@@ -44,6 +57,19 @@
   </content>
  </entry>
  <entry>
+  <title>tarot-cr: schema</title>
+  <author>
+   <name>tarot-cr</name>
+  </author>
+  <link href="https://github.com/tarot-cr/schema" />
+  <id>urn:rprimus:github:tarot-cr:schema</id>
+  <published>2022-08-09T15:50:40Z</published>
+  <updated>2022-08-09T15:50:40Z</updated>
+  <content type="html">
+   Schema validation for JSON structure in Crystal
+  </content>
+ </entry>
+ <entry>
   <title>Jeddi212: grid</title>
   <author>
    <name>Jeddi212</name>
@@ -67,19 +93,6 @@
   <updated>2022-08-09T01:56:35Z</updated>
   <content type="html">
    The Ultimate C Preprocessor
-  </content>
- </entry>
- <entry>
-  <title>PteroPackages: Eyrie</title>
-  <author>
-   <name>PteroPackages</name>
-  </author>
-  <link href="https://github.com/PteroPackages/Eyrie" />
-  <id>urn:rprimus:github:PteroPackages:Eyrie</id>
-  <published>2022-08-08T22:54:11Z</published>
-  <updated>2022-08-08T22:54:11Z</updated>
-  <content type="html">
-   Pterodactyl Module Manager (addons and themes)
   </content>
  </entry>
 </feed>
