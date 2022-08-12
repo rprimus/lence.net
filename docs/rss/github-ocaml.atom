@@ -2,15 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2022-08-11T08:31:54Z</updated>
+<updated>2022-08-11T16:57:18Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
  <entry>
-  <title>rajdakin: wasmer-ocaml</title>
+  <title>grimmelm: littleton</title>
   <author>
-   <name>rajdakin</name>
+   <name>grimmelm</name>
   </author>
-  <link href="https://github.com/rajdakin/wasmer-ocaml" />
-  <id>urn:rprimus:github:rajdakin:wasmer-ocaml</id>
+  <link href="https://github.com/grimmelm/littleton" />
+  <id>urn:rprimus:github:grimmelm:littleton</id>
+  <published>2022-08-11T16:57:18Z</published>
+  <updated>2022-08-11T16:57:18Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Boyne272: learn_ocaml</title>
+  <author>
+   <name>Boyne272</name>
+  </author>
+  <link href="https://github.com/Boyne272/learn_ocaml" />
+  <id>urn:rprimus:github:Boyne272:learn_ocaml</id>
+  <published>2022-08-11T15:33:10Z</published>
+  <updated>2022-08-11T15:33:10Z</updated>
+  <content type="html">
+   Toy problems for learning ocaml and getting to grips with dune
+  </content>
+ </entry>
+ <entry>
+  <title>wasmerio: wasmer-ocaml</title>
+  <author>
+   <name>wasmerio</name>
+  </author>
+  <link href="https://github.com/wasmerio/wasmer-ocaml" />
+  <id>urn:rprimus:github:wasmerio:wasmer-ocaml</id>
   <published>2022-08-11T08:31:54Z</published>
   <updated>2022-08-11T08:31:54Z</updated>
   <content type="html">
@@ -96,6 +122,19 @@
   </content>
  </entry>
  <entry>
+  <title>OCamlPro: ozulip</title>
+  <author>
+   <name>OCamlPro</name>
+  </author>
+  <link href="https://github.com/OCamlPro/ozulip" />
+  <id>urn:rprimus:github:OCamlPro:ozulip</id>
+  <published>2022-08-10T08:12:02Z</published>
+  <updated>2022-08-10T08:12:02Z</updated>
+  <content type="html">
+   OCaml bindings to Zulip API
+  </content>
+ </entry>
+ <entry>
   <title>sano-jin: lambda-gt-alpha</title>
   <author>
    <name>sano-jin</name>
@@ -104,110 +143,6 @@
   <id>urn:rprimus:github:sano-jin:lambda-gt-alpha</id>
   <published>2022-08-10T06:51:03Z</published>
   <updated>2022-08-10T06:51:03Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Paperized: SetInterpreter</title>
-  <author>
-   <name>Paperized</name>
-  </author>
-  <link href="https://github.com/Paperized/SetInterpreter" />
-  <id>urn:rprimus:github:Paperized:SetInterpreter</id>
-  <published>2022-08-09T20:24:33Z</published>
-  <updated>2022-08-09T20:24:33Z</updated>
-  <content type="html">
-   Small interpreter written in OCaml with Sets and functionality to work with them (Map, Filter, etc...)
-  </content>
- </entry>
- <entry>
-  <title>thierry-martinez: clangml</title>
-  <author>
-   <name>thierry-martinez</name>
-  </author>
-  <link href="https://github.com/thierry-martinez/clangml" />
-  <id>urn:rprimus:github:thierry-martinez:clangml</id>
-  <published>2022-08-09T18:50:55Z</published>
-  <updated>2022-08-09T18:50:55Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>anatcaramba: LTL-SAT-Solver-by-Reynolds-Tableaux</title>
-  <author>
-   <name>anatcaramba</name>
-  </author>
-  <link href="https://github.com/anatcaramba/LTL-SAT-Solver-by-Reynolds-Tableaux" />
-  <id>urn:rprimus:github:anatcaramba:LTL-SAT-Solver-by-Reynolds-Tableaux</id>
-  <published>2022-08-09T14:58:40Z</published>
-  <updated>2022-08-09T14:58:40Z</updated>
-  <content type="html">
-   This is part of my research internship at IRIF (Institut de Recherche Fondamentale en Informatique). I implemented Mark Reynolds&#039; algorithm to decide satisfiability  of LTL formulas without &quot;Until.&quot;
-  </content>
- </entry>
- <entry>
-  <title>force-x: Chess</title>
-  <author>
-   <name>force-x</name>
-  </author>
-  <link href="https://github.com/force-x/Chess" />
-  <id>urn:rprimus:github:force-x:Chess</id>
-  <published>2022-08-09T14:32:12Z</published>
-  <updated>2022-08-09T14:32:12Z</updated>
-  <content type="html">
-   Worked with 2 others to reproduce the game of chess as part of a course project
-  </content>
- </entry>
- <entry>
-  <title>ShaneGaymon28: CPSC-3520</title>
-  <author>
-   <name>ShaneGaymon28</name>
-  </author>
-  <link href="https://github.com/ShaneGaymon28/CPSC-3520" />
-  <id>urn:rprimus:github:ShaneGaymon28:CPSC-3520</id>
-  <published>2022-08-09T14:24:24Z</published>
-  <updated>2022-08-09T14:24:24Z</updated>
-  <content type="html">
-   Two projects from CPSC 3520 - Programming Languages and Methodologies
-  </content>
- </entry>
- <entry>
-  <title>ecooler: CSI-3120-Programming-Language-Concepts-OCaml</title>
-  <author>
-   <name>ecooler</name>
-  </author>
-  <link href="https://github.com/ecooler/CSI-3120-Programming-Language-Concepts-OCaml" />
-  <id>urn:rprimus:github:ecooler:CSI-3120-Programming-Language-Concepts-OCaml</id>
-  <published>2022-08-09T13:03:07Z</published>
-  <updated>2022-08-09T13:03:07Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>AbhijeetSaha2142: Vortex</title>
-  <author>
-   <name>AbhijeetSaha2142</name>
-  </author>
-  <link href="https://github.com/AbhijeetSaha2142/Vortex" />
-  <id>urn:rprimus:github:AbhijeetSaha2142:Vortex</id>
-  <published>2022-08-09T06:56:11Z</published>
-  <updated>2022-08-09T06:56:11Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>davisuga: graaml</title>
-  <author>
-   <name>davisuga</name>
-  </author>
-  <link href="https://github.com/davisuga/graaml" />
-  <id>urn:rprimus:github:davisuga:graaml</id>
-  <published>2022-08-09T00:46:05Z</published>
-  <updated>2022-08-09T00:46:05Z</updated>
   <content type="html">
    
   </content>
