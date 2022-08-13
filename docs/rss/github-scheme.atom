@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-scheme.atom"/>
 <id>urn:rprimus:github:newschemerepos</id>
-<updated>2022-08-12T16:15:42Z</updated>
+<updated>2022-08-13T09:05:00Z</updated>
 <title type='text'>New GitHub Scheme Repos</title>
+ <entry>
+  <title>arctenis: sicp-examples</title>
+  <author>
+   <name>arctenis</name>
+  </author>
+  <link href="https://github.com/arctenis/sicp-examples" />
+  <id>urn:rprimus:github:arctenis:sicp-examples</id>
+  <published>2022-08-13T09:05:00Z</published>
+  <updated>2022-08-13T09:05:00Z</updated>
+  <content type="html">
+   Structure and Interpretation of Computer Programs. Examples written in Guile/Scheme
+  </content>
+ </entry>
+ <entry>
+  <title>kristjanv001: sicp-exercises</title>
+  <author>
+   <name>kristjanv001</name>
+  </author>
+  <link href="https://github.com/kristjanv001/sicp-exercises" />
+  <id>urn:rprimus:github:kristjanv001:sicp-exercises</id>
+  <published>2022-08-13T08:30:33Z</published>
+  <updated>2022-08-13T08:30:33Z</updated>
+  <content type="html">
+   My solutions to the exercises in the book Structure and Interpretation of Computer Programs by Harold Abelson and Gerald Jay Sussman
+  </content>
+ </entry>
+ <entry>
+  <title>Flamesword33: scheme-projects</title>
+  <author>
+   <name>Flamesword33</name>
+  </author>
+  <link href="https://github.com/Flamesword33/scheme-projects" />
+  <id>urn:rprimus:github:Flamesword33:scheme-projects</id>
+  <published>2022-08-13T07:56:10Z</published>
+  <updated>2022-08-13T07:56:10Z</updated>
+  <content type="html">
+   These were 2 summer projects where I built massive switch tables and (very) inefficint databases in scheme with meta programming. It was fun :) It also contains the course I took in scheme in 2018
+  </content>
+ </entry>
  <entry>
   <title>fegnaon: scheme-interpreter</title>
   <author>

@@ -2,8 +2,112 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-elixir.atom"/>
 <id>urn:rprimus:github:newelixirrepos</id>
-<updated>2022-08-12T23:58:49Z</updated>
+<updated>2022-08-13T09:23:52Z</updated>
 <title type='text'>New GitHub Elixir Repos</title>
+ <entry>
+  <title>RobertDober: easy_params</title>
+  <author>
+   <name>RobertDober</name>
+  </author>
+  <link href="https://github.com/RobertDober/easy_params" />
+  <id>urn:rprimus:github:RobertDober:easy_params</id>
+  <published>2022-08-13T09:23:52Z</published>
+  <updated>2022-08-13T09:23:52Z</updated>
+  <content type="html">
+   Express complex command line arguments and logic in a descriptive way
+  </content>
+ </entry>
+ <entry>
+  <title>ponponwu: rate_limit_elixir</title>
+  <author>
+   <name>ponponwu</name>
+  </author>
+  <link href="https://github.com/ponponwu/rate_limit_elixir" />
+  <id>urn:rprimus:github:ponponwu:rate_limit_elixir</id>
+  <published>2022-08-13T09:08:07Z</published>
+  <updated>2022-08-13T09:08:07Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>konstantin-aa: gamesoflife</title>
+  <author>
+   <name>konstantin-aa</name>
+  </author>
+  <link href="https://github.com/konstantin-aa/gamesoflife" />
+  <id>urn:rprimus:github:konstantin-aa:gamesoflife</id>
+  <published>2022-08-13T05:55:54Z</published>
+  <updated>2022-08-13T05:55:54Z</updated>
+  <content type="html">
+   conway&#039;s game of life implemented in various languages
+  </content>
+ </entry>
+ <entry>
+  <title>daniikpando: deep-map-concept-test</title>
+  <author>
+   <name>daniikpando</name>
+  </author>
+  <link href="https://github.com/daniikpando/deep-map-concept-test" />
+  <id>urn:rprimus:github:daniikpando:deep-map-concept-test</id>
+  <published>2022-08-13T03:41:46Z</published>
+  <updated>2022-08-13T03:41:46Z</updated>
+  <content type="html">
+   Concept test to iterate and transform complex maps
+  </content>
+ </entry>
+ <entry>
+  <title>geeksilva97: clean-calculator</title>
+  <author>
+   <name>geeksilva97</name>
+  </author>
+  <link href="https://github.com/geeksilva97/clean-calculator" />
+  <id>urn:rprimus:github:geeksilva97:clean-calculator</id>
+  <published>2022-08-13T02:21:58Z</published>
+  <updated>2022-08-13T02:21:58Z</updated>
+  <content type="html">
+   A calculator implemented following Clean/Hexagonal Architecture
+  </content>
+ </entry>
+ <entry>
+  <title>axelson: example_app</title>
+  <author>
+   <name>axelson</name>
+  </author>
+  <link href="https://github.com/axelson/example_app" />
+  <id>urn:rprimus:github:axelson:example_app</id>
+  <published>2022-08-13T01:49:07Z</published>
+  <updated>2022-08-13T01:49:07Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>brookemitchell: macros</title>
+  <author>
+   <name>brookemitchell</name>
+  </author>
+  <link href="https://github.com/brookemitchell/macros" />
+  <id>urn:rprimus:github:brookemitchell:macros</id>
+  <published>2022-08-13T00:53:59Z</published>
+  <updated>2022-08-13T00:53:59Z</updated>
+  <content type="html">
+   run through of prag prog macros chapter
+  </content>
+ </entry>
+ <entry>
+  <title>devconker22: exercism</title>
+  <author>
+   <name>devconker22</name>
+  </author>
+  <link href="https://github.com/devconker22/exercism" />
+  <id>urn:rprimus:github:devconker22:exercism</id>
+  <published>2022-08-13T00:26:19Z</published>
+  <updated>2022-08-13T00:26:19Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>notnotdee: elixir_kv</title>
   <author>
@@ -15,6 +119,19 @@
   <updated>2022-08-12T23:58:49Z</updated>
   <content type="html">
    
+  </content>
+ </entry>
+ <entry>
+  <title>sdball: ex_duck</title>
+  <author>
+   <name>sdball</name>
+  </author>
+  <link href="https://github.com/sdball/ex_duck" />
+  <id>urn:rprimus:github:sdball:ex_duck</id>
+  <published>2022-08-12T23:17:36Z</published>
+  <updated>2022-08-12T23:17:36Z</updated>
+  <content type="html">
+   An Elixir client for the DuckDuckGo Instant Answer API
   </content>
  </entry>
  <entry>
@@ -184,19 +301,6 @@
   <updated>2022-08-12T14:03:15Z</updated>
   <content type="html">
    The Phoenix version of the OlympusBlog backend
-  </content>
- </entry>
- <entry>
-  <title>mudssrali: google_cloud_storage_ex</title>
-  <author>
-   <name>mudssrali</name>
-  </author>
-  <link href="https://github.com/mudssrali/google_cloud_storage_ex" />
-  <id>urn:rprimus:github:mudssrali:google_cloud_storage_ex</id>
-  <published>2022-08-12T12:46:23Z</published>
-  <updated>2022-08-12T12:46:23Z</updated>
-  <content type="html">
-   a simple elixir app for uploading objects on google cloud storage
   </content>
  </entry>
  <entry>
