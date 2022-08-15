@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2022-08-14T08:27:40Z</updated>
+<updated>2022-08-15T03:51:56Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>soya-daizu: bfcr</title>
+  <author>
+   <name>soya-daizu</name>
+  </author>
+  <link href="https://github.com/soya-daizu/bfcr" />
+  <id>urn:rprimus:github:soya-daizu:bfcr</id>
+  <published>2022-08-15T03:51:56Z</published>
+  <updated>2022-08-15T03:51:56Z</updated>
+  <content type="html">
+   Brainfuck interpreter&amp;compiler using LLVM written in Crystal
+  </content>
+ </entry>
+ <entry>
+  <title>devnote-dev: cli.cr</title>
+  <author>
+   <name>devnote-dev</name>
+  </author>
+  <link href="https://github.com/devnote-dev/cli.cr" />
+  <id>urn:rprimus:github:devnote-dev:cli.cr</id>
+  <published>2022-08-15T03:12:27Z</published>
+  <updated>2022-08-15T03:12:27Z</updated>
+  <content type="html">
+   Yet another Crystal CLI framework
+  </content>
+ </entry>
+ <entry>
+  <title>confact: sourcemap</title>
+  <author>
+   <name>confact</name>
+  </author>
+  <link href="https://github.com/confact/sourcemap" />
+  <id>urn:rprimus:github:confact:sourcemap</id>
+  <published>2022-08-14T15:59:05Z</published>
+  <updated>2022-08-14T15:59:05Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>HOMODELUNA: cr_compile</title>
   <author>
@@ -54,32 +93,6 @@
   <updated>2022-08-13T08:47:55Z</updated>
   <content type="html">
    WIP rewrite of beanbot using a Crystal backend
-  </content>
- </entry>
- <entry>
-  <title>mswieboda: bench_cr_allegro</title>
-  <author>
-   <name>mswieboda</name>
-  </author>
-  <link href="https://github.com/mswieboda/bench_cr_allegro" />
-  <id>urn:rprimus:github:mswieboda:bench_cr_allegro</id>
-  <published>2022-08-12T07:43:01Z</published>
-  <updated>2022-08-12T07:43:01Z</updated>
-  <content type="html">
-   benchmark test for crystal allegro
-  </content>
- </entry>
- <entry>
-  <title>mswieboda: works</title>
-  <author>
-   <name>mswieboda</name>
-  </author>
-  <link href="https://github.com/mswieboda/works" />
-  <id>urn:rprimus:github:mswieboda:works</id>
-  <published>2022-08-12T00:09:11Z</published>
-  <updated>2022-08-12T00:09:11Z</updated>
-  <content type="html">
-   factorio clone in Crystal and Allegro
   </content>
  </entry>
 </feed>
