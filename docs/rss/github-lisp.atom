@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-08-15T18:15:08Z</updated>
+<updated>2022-08-17T03:18:25Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>skeeterses: ElementsOfAI</title>
+  <author>
+   <name>skeeterses</name>
+  </author>
+  <link href="https://github.com/skeeterses/ElementsOfAI" />
+  <id>urn:rprimus:github:skeeterses:ElementsOfAI</id>
+  <published>2022-08-17T03:18:25Z</published>
+  <updated>2022-08-17T03:18:25Z</updated>
+  <content type="html">
+   Sample programs from the Elements of AI Book:  The code here is in Common LISP and possibly Java.
+  </content>
+ </entry>
+ <entry>
+  <title>shamazmazum: cube-viewer</title>
+  <author>
+   <name>shamazmazum</name>
+  </author>
+  <link href="https://github.com/shamazmazum/cube-viewer" />
+  <id>urn:rprimus:github:shamazmazum:cube-viewer</id>
+  <published>2022-08-16T14:44:24Z</published>
+  <updated>2022-08-16T14:44:24Z</updated>
+  <content type="html">
+   Visualization tool for porous media
+  </content>
+ </entry>
+ <entry>
+  <title>hu-dwim: hu.dwim.rdbms-oracle-fork</title>
+  <author>
+   <name>hu-dwim</name>
+  </author>
+  <link href="https://github.com/hu-dwim/hu.dwim.rdbms-oracle-fork" />
+  <id>urn:rprimus:github:hu-dwim:hu.dwim.rdbms-oracle-fork</id>
+  <published>2022-08-16T10:49:24Z</published>
+  <updated>2022-08-16T10:49:24Z</updated>
+  <content type="html">
+   Fork of hu.dwim.rdbms for Oracle
+  </content>
+ </entry>
  <entry>
   <title>JMC-design: font-zpb-ttf</title>
   <author>
@@ -28,45 +67,6 @@
   <updated>2022-08-15T18:09:40Z</updated>
   <content type="html">
    Generic protocols to deal with fonts and glyphs.
-  </content>
- </entry>
- <entry>
-  <title>IlfatKar: cl-brainfuck-interpreter</title>
-  <author>
-   <name>IlfatKar</name>
-  </author>
-  <link href="https://github.com/IlfatKar/cl-brainfuck-interpreter" />
-  <id>urn:rprimus:github:IlfatKar:cl-brainfuck-interpreter</id>
-  <published>2022-08-14T15:44:55Z</published>
-  <updated>2022-08-14T15:44:55Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>dmsurti: cl-game-models</title>
-  <author>
-   <name>dmsurti</name>
-  </author>
-  <link href="https://github.com/dmsurti/cl-game-models" />
-  <id>urn:rprimus:github:dmsurti:cl-game-models</id>
-  <published>2022-08-14T10:12:19Z</published>
-  <updated>2022-08-14T10:12:19Z</updated>
-  <content type="html">
-   A prototype, experimental 3D file format parser and viewer for Quake MD5 and Wavefront formats in Common Lisp.
-  </content>
- </entry>
- <entry>
-  <title>Geunuk: matching-cl</title>
-  <author>
-   <name>Geunuk</name>
-  </author>
-  <link href="https://github.com/Geunuk/matching-cl" />
-  <id>urn:rprimus:github:Geunuk:matching-cl</id>
-  <published>2022-08-14T05:51:32Z</published>
-  <updated>2022-08-14T05:51:32Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
