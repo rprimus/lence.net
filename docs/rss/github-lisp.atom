@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-08-19T04:35:14Z</updated>
+<updated>2022-08-19T21:24:56Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>nyarnalang: website</title>
+  <author>
+   <name>nyarnalang</name>
+  </author>
+  <link href="https://github.com/nyarnalang/website" />
+  <id>urn:rprimus:github:nyarnalang:website</id>
+  <published>2022-08-19T21:24:56Z</published>
+  <updated>2022-08-19T21:24:56Z</updated>
+  <content type="html">
+   nyarna.org
+  </content>
+ </entry>
+ <entry>
+  <title>jolby: mcclim-sdl2-backend</title>
+  <author>
+   <name>jolby</name>
+  </author>
+  <link href="https://github.com/jolby/mcclim-sdl2-backend" />
+  <id>urn:rprimus:github:jolby:mcclim-sdl2-backend</id>
+  <published>2022-08-19T17:21:10Z</published>
+  <updated>2022-08-19T17:21:10Z</updated>
+  <content type="html">
+   SDL2 Backend for McCLIM
+  </content>
+ </entry>
+ <entry>
+  <title>ultasun: foodstats</title>
+  <author>
+   <name>ultasun</name>
+  </author>
+  <link href="https://github.com/ultasun/foodstats" />
+  <id>urn:rprimus:github:ultasun:foodstats</id>
+  <published>2022-08-19T11:05:38Z</published>
+  <updated>2022-08-19T11:05:38Z</updated>
+  <content type="html">
+   Foodstats, in the functional programming paradigm, utilizing Common Lisp.
+  </content>
+ </entry>
  <entry>
   <title>terryc321: sbcl-tetris-ncurses-002</title>
   <author>
@@ -145,123 +184,6 @@
   <updated>2022-08-18T03:15:32Z</updated>
   <content type="html">
    ã¼ã­ããä½ããã£ã¼ãã©ã¼ãã³ã°å­¦ç¿ç¨
-  </content>
- </entry>
- <entry>
-  <title>samagior: acad-tools-aec</title>
-  <author>
-   <name>samagior</name>
-  </author>
-  <link href="https://github.com/samagior/acad-tools-aec" />
-  <id>urn:rprimus:github:samagior:acad-tools-aec</id>
-  <published>2022-08-17T20:03:19Z</published>
-  <updated>2022-08-17T20:03:19Z</updated>
-  <content type="html">
-   Tool packages to setup and use the default AutoCad AEC layer standard (based on NCS 5.0).
-  </content>
- </entry>
- <entry>
-  <title>EricZinda: docsproto</title>
-  <author>
-   <name>EricZinda</name>
-  </author>
-  <link href="https://github.com/EricZinda/docsproto" />
-  <id>urn:rprimus:github:EricZinda:docsproto</id>
-  <published>2022-08-17T18:50:25Z</published>
-  <updated>2022-08-17T18:50:25Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>reflektoin: heclcl</title>
-  <author>
-   <name>reflektoin</name>
-  </author>
-  <link href="https://github.com/reflektoin/heclcl" />
-  <id>urn:rprimus:github:reflektoin:heclcl</id>
-  <published>2022-08-17T18:47:53Z</published>
-  <updated>2022-08-17T18:47:53Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>JMC-design: point</title>
-  <author>
-   <name>JMC-design</name>
-  </author>
-  <link href="https://github.com/JMC-design/point" />
-  <id>urn:rprimus:github:JMC-design:point</id>
-  <published>2022-08-17T17:20:32Z</published>
-  <updated>2022-08-17T17:20:32Z</updated>
-  <content type="html">
-   Generic point protocol for 2d and 3d points.
-  </content>
- </entry>
- <entry>
-  <title>samagior: aec-layer-tools</title>
-  <author>
-   <name>samagior</name>
-  </author>
-  <link href="https://github.com/samagior/aec-layer-tools" />
-  <id>urn:rprimus:github:samagior:aec-layer-tools</id>
-  <published>2022-08-17T16:16:18Z</published>
-  <updated>2022-08-17T16:16:18Z</updated>
-  <content type="html">
-   The most adaptable AutoLisp routine to create and work with the default Autodesk AEC layers (based on NCS 5.0)
-  </content>
- </entry>
- <entry>
-  <title>dfmorrison: cava-actup</title>
-  <author>
-   <name>dfmorrison</name>
-  </author>
-  <link href="https://github.com/dfmorrison/cava-actup" />
-  <id>urn:rprimus:github:dfmorrison:cava-actup</id>
-  <published>2022-08-17T14:28:35Z</published>
-  <updated>2022-08-17T14:28:35Z</updated>
-  <content type="html">
-   ACT-UP model integration with CAVA project
-  </content>
- </entry>
- <entry>
-  <title>johnlorentzson: clos-calendar</title>
-  <author>
-   <name>johnlorentzson</name>
-  </author>
-  <link href="https://github.com/johnlorentzson/clos-calendar" />
-  <id>urn:rprimus:github:johnlorentzson:clos-calendar</id>
-  <published>2022-08-17T12:24:29Z</published>
-  <updated>2022-08-17T12:24:29Z</updated>
-  <content type="html">
-   Calendar library(?) making use of CLOS
-  </content>
- </entry>
- <entry>
-  <title>lblod: app-worship-decisions-database</title>
-  <author>
-   <name>lblod</name>
-  </author>
-  <link href="https://github.com/lblod/app-worship-decisions-database" />
-  <id>urn:rprimus:github:lblod:app-worship-decisions-database</id>
-  <published>2022-08-17T10:40:32Z</published>
-  <updated>2022-08-17T10:40:32Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>skeeterses: ElementsOfAI</title>
-  <author>
-   <name>skeeterses</name>
-  </author>
-  <link href="https://github.com/skeeterses/ElementsOfAI" />
-  <id>urn:rprimus:github:skeeterses:ElementsOfAI</id>
-  <published>2022-08-17T03:18:25Z</published>
-  <updated>2022-08-17T03:18:25Z</updated>
-  <content type="html">
-   Sample programs from the Elements of AI Book:  The code here is in Common LISP and possibly Java.
   </content>
  </entry>
 </feed>
