@@ -2,8 +2,125 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2022-08-20T09:25:00Z</updated>
+<updated>2022-08-21T02:06:12Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>Patrick-Poitras: bright-tungsten-theme</title>
+  <author>
+   <name>Patrick-Poitras</name>
+  </author>
+  <link href="https://github.com/Patrick-Poitras/bright-tungsten-theme" />
+  <id>urn:rprimus:github:Patrick-Poitras:bright-tungsten-theme</id>
+  <published>2022-08-21T02:06:12Z</published>
+  <updated>2022-08-21T02:06:12Z</updated>
+  <content type="html">
+   Theme for emacs. Blue background, contrasting colors. Is nice.
+  </content>
+ </entry>
+ <entry>
+  <title>seanfarley: tramp-yadm</title>
+  <author>
+   <name>seanfarley</name>
+  </author>
+  <link href="https://github.com/seanfarley/tramp-yadm" />
+  <id>urn:rprimus:github:seanfarley:tramp-yadm</id>
+  <published>2022-08-20T21:07:37Z</published>
+  <updated>2022-08-20T21:07:37Z</updated>
+  <content type="html">
+   TRAMP integration for yadm dotfiles
+  </content>
+ </entry>
+ <entry>
+  <title>stonewell: dotfile</title>
+  <author>
+   <name>stonewell</name>
+  </author>
+  <link href="https://github.com/stonewell/dotfile" />
+  <id>urn:rprimus:github:stonewell:dotfile</id>
+  <published>2022-08-20T18:34:08Z</published>
+  <updated>2022-08-20T18:34:08Z</updated>
+  <content type="html">
+   configuration files
+  </content>
+ </entry>
+ <entry>
+  <title>nyxkrage: doom</title>
+  <author>
+   <name>nyxkrage</name>
+  </author>
+  <link href="https://github.com/nyxkrage/doom" />
+  <id>urn:rprimus:github:nyxkrage:doom</id>
+  <published>2022-08-20T18:28:33Z</published>
+  <updated>2022-08-20T18:28:33Z</updated>
+  <content type="html">
+   My DoomEmacs config
+  </content>
+ </entry>
+ <entry>
+  <title>gutscdav000: emacs-init</title>
+  <author>
+   <name>gutscdav000</name>
+  </author>
+  <link href="https://github.com/gutscdav000/emacs-init" />
+  <id>urn:rprimus:github:gutscdav000:emacs-init</id>
+  <published>2022-08-20T17:34:19Z</published>
+  <updated>2022-08-20T17:34:19Z</updated>
+  <content type="html">
+   emacs init for scala
+  </content>
+ </entry>
+ <entry>
+  <title>darrenpicard25: emacs</title>
+  <author>
+   <name>darrenpicard25</name>
+  </author>
+  <link href="https://github.com/darrenpicard25/emacs" />
+  <id>urn:rprimus:github:darrenpicard25:emacs</id>
+  <published>2022-08-20T17:11:23Z</published>
+  <updated>2022-08-20T17:11:23Z</updated>
+  <content type="html">
+   Emacs config for personal work
+  </content>
+ </entry>
+ <entry>
+  <title>devcastroitalo: Emacs</title>
+  <author>
+   <name>devcastroitalo</name>
+  </author>
+  <link href="https://github.com/devcastroitalo/Emacs" />
+  <id>urn:rprimus:github:devcastroitalo:Emacs</id>
+  <published>2022-08-20T15:53:37Z</published>
+  <updated>2022-08-20T15:53:37Z</updated>
+  <content type="html">
+   My personal init.el config file
+  </content>
+ </entry>
+ <entry>
+  <title>nemo-omen: .doom.d</title>
+  <author>
+   <name>nemo-omen</name>
+  </author>
+  <link href="https://github.com/nemo-omen/.doom.d" />
+  <id>urn:rprimus:github:nemo-omen:.doom.d</id>
+  <published>2022-08-20T13:31:48Z</published>
+  <updated>2022-08-20T13:31:48Z</updated>
+  <content type="html">
+   My Doom Emacs config
+  </content>
+ </entry>
+ <entry>
+  <title>Flawless: dir-locals-issue</title>
+  <author>
+   <name>Flawless</name>
+  </author>
+  <link href="https://github.com/Flawless/dir-locals-issue" />
+  <id>urn:rprimus:github:Flawless:dir-locals-issue</id>
+  <published>2022-08-20T10:20:13Z</published>
+  <updated>2022-08-20T10:20:13Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>JaysenStark: .spacemacs.h</title>
   <author>
@@ -197,240 +314,6 @@
   <updated>2022-08-19T04:34:29Z</updated>
   <content type="html">
    My GNU Emacs configuration.
-  </content>
- </entry>
- <entry>
-  <title>mzacho: melrose-for-emacs</title>
-  <author>
-   <name>mzacho</name>
-  </author>
-  <link href="https://github.com/mzacho/melrose-for-emacs" />
-  <id>urn:rprimus:github:mzacho:melrose-for-emacs</id>
-  <published>2022-08-18T23:40:55Z</published>
-  <updated>2022-08-18T23:40:55Z</updated>
-  <content type="html">
-   Emacs extension for Melrose music programmable MIDI server
-  </content>
- </entry>
- <entry>
-  <title>elken: jira-workflow</title>
-  <author>
-   <name>elken</name>
-  </author>
-  <link href="https://github.com/elken/jira-workflow" />
-  <id>urn:rprimus:github:elken:jira-workflow</id>
-  <published>2022-08-18T21:51:23Z</published>
-  <updated>2022-08-18T21:51:23Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>daehyeok: doom</title>
-  <author>
-   <name>daehyeok</name>
-  </author>
-  <link href="https://github.com/daehyeok/doom" />
-  <id>urn:rprimus:github:daehyeok:doom</id>
-  <published>2022-08-18T19:17:45Z</published>
-  <updated>2022-08-18T19:17:45Z</updated>
-  <content type="html">
-   Personal doom emacs setting files.
-  </content>
- </entry>
- <entry>
-  <title>John0b1000: env_files</title>
-  <author>
-   <name>John0b1000</name>
-  </author>
-  <link href="https://github.com/John0b1000/env_files" />
-  <id>urn:rprimus:github:John0b1000:env_files</id>
-  <published>2022-08-18T19:16:09Z</published>
-  <updated>2022-08-18T19:16:09Z</updated>
-  <content type="html">
-   This repo contains environment files for Linux OS
-  </content>
- </entry>
- <entry>
-  <title>Enapiuz: config</title>
-  <author>
-   <name>Enapiuz</name>
-  </author>
-  <link href="https://github.com/Enapiuz/config" />
-  <id>urn:rprimus:github:Enapiuz:config</id>
-  <published>2022-08-18T17:27:13Z</published>
-  <updated>2022-08-18T17:27:13Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>namimisss: emacsCCConf</title>
-  <author>
-   <name>namimisss</name>
-  </author>
-  <link href="https://github.com/namimisss/emacsCCConf" />
-  <id>urn:rprimus:github:namimisss:emacsCCConf</id>
-  <published>2022-08-18T15:54:32Z</published>
-  <updated>2022-08-18T15:54:32Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>perlomeno: fedora-dotfiles</title>
-  <author>
-   <name>perlomeno</name>
-  </author>
-  <link href="https://github.com/perlomeno/fedora-dotfiles" />
-  <id>urn:rprimus:github:perlomeno:fedora-dotfiles</id>
-  <published>2022-08-18T14:50:32Z</published>
-  <updated>2022-08-18T14:50:32Z</updated>
-  <content type="html">
-   Dotfiles i use to configure my workstations running Fedora
-  </content>
- </entry>
- <entry>
-  <title>kevinjfoley: anki-emacs</title>
-  <author>
-   <name>kevinjfoley</name>
-  </author>
-  <link href="https://github.com/kevinjfoley/anki-emacs" />
-  <id>urn:rprimus:github:kevinjfoley:anki-emacs</id>
-  <published>2022-08-18T14:23:42Z</published>
-  <updated>2022-08-18T14:23:42Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>assistof: configEmacs</title>
-  <author>
-   <name>assistof</name>
-  </author>
-  <link href="https://github.com/assistof/configEmacs" />
-  <id>urn:rprimus:github:assistof:configEmacs</id>
-  <published>2022-08-18T14:08:37Z</published>
-  <updated>2022-08-18T14:08:37Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>WNQzhu: emacs.d</title>
-  <author>
-   <name>WNQzhu</name>
-  </author>
-  <link href="https://github.com/WNQzhu/emacs.d" />
-  <id>urn:rprimus:github:WNQzhu:emacs.d</id>
-  <published>2022-08-18T14:06:42Z</published>
-  <updated>2022-08-18T14:06:42Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>dani84bs: doomconfig</title>
-  <author>
-   <name>dani84bs</name>
-  </author>
-  <link href="https://github.com/dani84bs/doomconfig" />
-  <id>urn:rprimus:github:dani84bs:doomconfig</id>
-  <published>2022-08-18T13:36:18Z</published>
-  <updated>2022-08-18T13:36:18Z</updated>
-  <content type="html">
-   My doom emacs configuration
-  </content>
- </entry>
- <entry>
-  <title>springmelody: Dotfiles</title>
-  <author>
-   <name>springmelody</name>
-  </author>
-  <link href="https://github.com/springmelody/Dotfiles" />
-  <id>urn:rprimus:github:springmelody:Dotfiles</id>
-  <published>2022-08-18T12:38:39Z</published>
-  <updated>2022-08-18T12:38:39Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Pepito-source: emacs-config</title>
-  <author>
-   <name>Pepito-source</name>
-  </author>
-  <link href="https://github.com/Pepito-source/emacs-config" />
-  <id>urn:rprimus:github:Pepito-source:emacs-config</id>
-  <published>2022-08-18T09:53:20Z</published>
-  <updated>2022-08-18T09:53:20Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>coke-official: .emacs.d</title>
-  <author>
-   <name>coke-official</name>
-  </author>
-  <link href="https://github.com/coke-official/.emacs.d" />
-  <id>urn:rprimus:github:coke-official:.emacs.d</id>
-  <published>2022-08-18T08:32:47Z</published>
-  <updated>2022-08-18T08:32:47Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>chaiguolong: emacs_21dayfor_macpro</title>
-  <author>
-   <name>chaiguolong</name>
-  </author>
-  <link href="https://github.com/chaiguolong/emacs_21dayfor_macpro" />
-  <id>urn:rprimus:github:chaiguolong:emacs_21dayfor_macpro</id>
-  <published>2022-08-18T05:15:49Z</published>
-  <updated>2022-08-18T05:15:49Z</updated>
-  <content type="html">
-   emacs_macpro
-  </content>
- </entry>
- <entry>
-  <title>chaiguolong: emacs_21day_studay</title>
-  <author>
-   <name>chaiguolong</name>
-  </author>
-  <link href="https://github.com/chaiguolong/emacs_21day_studay" />
-  <id>urn:rprimus:github:chaiguolong:emacs_21day_studay</id>
-  <published>2022-08-18T01:27:32Z</published>
-  <updated>2022-08-18T01:27:32Z</updated>
-  <content type="html">
-   21å¤©å­¦ä¹ emacséç½®æä»¶
-  </content>
- </entry>
- <entry>
-  <title>kassi-savage: .emacs.d</title>
-  <author>
-   <name>kassi-savage</name>
-  </author>
-  <link href="https://github.com/kassi-savage/.emacs.d" />
-  <id>urn:rprimus:github:kassi-savage:.emacs.d</id>
-  <published>2022-08-18T01:22:22Z</published>
-  <updated>2022-08-18T01:22:22Z</updated>
-  <content type="html">
-   Emacs configuration
-  </content>
- </entry>
- <entry>
-  <title>guidao: move-mode</title>
-  <author>
-   <name>guidao</name>
-  </author>
-  <link href="https://github.com/guidao/move-mode" />
-  <id>urn:rprimus:github:guidao:move-mode</id>
-  <published>2022-08-18T01:06:56Z</published>
-  <updated>2022-08-18T01:06:56Z</updated>
-  <content type="html">
-   A emacs major mode for move-lang
   </content>
  </entry>
 </feed>

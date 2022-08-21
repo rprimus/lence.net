@@ -2,8 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2022-08-20T06:04:21Z</updated>
+<updated>2022-08-20T23:19:39Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>hany-yacoub: LispInterpreter</title>
+  <author>
+   <name>hany-yacoub</name>
+  </author>
+  <link href="https://github.com/hany-yacoub/LispInterpreter" />
+  <id>urn:rprimus:github:hany-yacoub:LispInterpreter</id>
+  <published>2022-08-20T23:19:39Z</published>
+  <updated>2022-08-20T23:19:39Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>d33d33l4bs: jubalisp</title>
+  <author>
+   <name>d33d33l4bs</name>
+  </author>
+  <link href="https://github.com/d33d33l4bs/jubalisp" />
+  <id>urn:rprimus:github:d33d33l4bs:jubalisp</id>
+  <published>2022-08-20T21:59:04Z</published>
+  <updated>2022-08-20T21:59:04Z</updated>
+  <content type="html">
+   A toy programming language
+  </content>
+ </entry>
+ <entry>
+  <title>OlaviAikas: otracer</title>
+  <author>
+   <name>OlaviAikas</name>
+  </author>
+  <link href="https://github.com/OlaviAikas/otracer" />
+  <id>urn:rprimus:github:OlaviAikas:otracer</id>
+  <published>2022-08-20T15:45:05Z</published>
+  <updated>2022-08-20T15:45:05Z</updated>
+  <content type="html">
+   Yet another raytracer, but written in ocaml to experience the glory of functional programming.
+  </content>
+ </entry>
+ <entry>
+  <title>rvineet02: ocaml-interpreter</title>
+  <author>
+   <name>rvineet02</name>
+  </author>
+  <link href="https://github.com/rvineet02/ocaml-interpreter" />
+  <id>urn:rprimus:github:rvineet02:ocaml-interpreter</id>
+  <published>2022-08-20T15:44:16Z</published>
+  <updated>2022-08-20T15:44:16Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>nogw: hindley-milner-lambda-calculus</title>
+  <author>
+   <name>nogw</name>
+  </author>
+  <link href="https://github.com/nogw/hindley-milner-lambda-calculus" />
+  <id>urn:rprimus:github:nogw:hindley-milner-lambda-calculus</id>
+  <published>2022-08-20T14:56:51Z</published>
+  <updated>2022-08-20T14:56:51Z</updated>
+  <content type="html">
+   a very simple implementation of the hindley-milner type system
+  </content>
+ </entry>
+ <entry>
+  <title>NielsMommen: ppx_parser</title>
+  <author>
+   <name>NielsMommen</name>
+  </author>
+  <link href="https://github.com/NielsMommen/ppx_parser" />
+  <id>urn:rprimus:github:NielsMommen:ppx_parser</id>
+  <published>2022-08-20T14:55:59Z</published>
+  <updated>2022-08-20T14:55:59Z</updated>
+  <content type="html">
+   Write stream parsers in OCaml using ppx extensions
+  </content>
+ </entry>
+ <entry>
+  <title>Artessay: the-road-to-ocaml</title>
+  <author>
+   <name>Artessay</name>
+  </author>
+  <link href="https://github.com/Artessay/the-road-to-ocaml" />
+  <id>urn:rprimus:github:Artessay:the-road-to-ocaml</id>
+  <published>2022-08-20T11:52:03Z</published>
+  <updated>2022-08-20T11:52:03Z</updated>
+  <content type="html">
+   The road to learn OCaml
+  </content>
+ </entry>
  <entry>
   <title>aditiv1008: Vortex</title>
   <author>
@@ -80,110 +171,6 @@
   <updated>2022-08-19T02:19:16Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>JeanGalte: ulam_spiral</title>
-  <author>
-   <name>JeanGalte</name>
-  </author>
-  <link href="https://github.com/JeanGalte/ulam_spiral" />
-  <id>urn:rprimus:github:JeanGalte:ulam_spiral</id>
-  <published>2022-08-18T23:43:58Z</published>
-  <updated>2022-08-18T23:43:58Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>marigold-dev: tezos-sidecar</title>
-  <author>
-   <name>marigold-dev</name>
-  </author>
-  <link href="https://github.com/marigold-dev/tezos-sidecar" />
-  <id>urn:rprimus:github:marigold-dev:tezos-sidecar</id>
-  <published>2022-08-18T22:05:38Z</published>
-  <updated>2022-08-18T22:05:38Z</updated>
-  <content type="html">
-   This is a simple sidecar healthchecker for Tezos Node
-  </content>
- </entry>
- <entry>
-  <title>mloet: Connect4</title>
-  <author>
-   <name>mloet</name>
-  </author>
-  <link href="https://github.com/mloet/Connect4" />
-  <id>urn:rprimus:github:mloet:Connect4</id>
-  <published>2022-08-18T21:20:01Z</published>
-  <updated>2022-08-18T21:20:01Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Red-Rapious: OCaml-CAS</title>
-  <author>
-   <name>Red-Rapious</name>
-  </author>
-  <link href="https://github.com/Red-Rapious/OCaml-CAS" />
-  <id>urn:rprimus:github:Red-Rapious:OCaml-CAS</id>
-  <published>2022-08-18T15:53:03Z</published>
-  <updated>2022-08-18T15:53:03Z</updated>
-  <content type="html">
-   A basic Computer Algebra System (CAS) made in OCaml
-  </content>
- </entry>
- <entry>
-  <title>WeizhenWang-1210: OCaml_Parser</title>
-  <author>
-   <name>WeizhenWang-1210</name>
-  </author>
-  <link href="https://github.com/WeizhenWang-1210/OCaml_Parser" />
-  <id>urn:rprimus:github:WeizhenWang-1210:OCaml_Parser</id>
-  <published>2022-08-18T14:27:55Z</published>
-  <updated>2022-08-18T14:27:55Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>dsiu: rescript-bag</title>
-  <author>
-   <name>dsiu</name>
-  </author>
-  <link href="https://github.com/dsiu/rescript-bag" />
-  <id>urn:rprimus:github:dsiu:rescript-bag</id>
-  <published>2022-08-18T07:44:55Z</published>
-  <updated>2022-08-18T07:44:55Z</updated>
-  <content type="html">
-   Port of OCaml backtracking/bag
-  </content>
- </entry>
- <entry>
-  <title>anmonteiro: eio-ssl</title>
-  <author>
-   <name>anmonteiro</name>
-  </author>
-  <link href="https://github.com/anmonteiro/eio-ssl" />
-  <id>urn:rprimus:github:anmonteiro:eio-ssl</id>
-  <published>2022-08-18T04:22:34Z</published>
-  <updated>2022-08-18T04:22:34Z</updated>
-  <content type="html">
-   OpenSSL bindings to OCaml EIO
-  </content>
- </entry>
- <entry>
-  <title>Carht: ocamlmisc</title>
-  <author>
-   <name>Carht</name>
-  </author>
-  <link href="https://github.com/Carht/ocamlmisc" />
-  <id>urn:rprimus:github:Carht:ocamlmisc</id>
-  <published>2022-08-18T01:19:56Z</published>
-  <updated>2022-08-18T01:19:56Z</updated>
-  <content type="html">
-   Learning Ocaml :D
   </content>
  </entry>
 </feed>

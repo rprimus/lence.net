@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-scheme.atom"/>
 <id>urn:rprimus:github:newschemerepos</id>
-<updated>2022-08-19T17:39:18Z</updated>
+<updated>2022-08-20T17:04:23Z</updated>
 <title type='text'>New GitHub Scheme Repos</title>
+ <entry>
+  <title>Zipheir: srfi-160-chicken</title>
+  <author>
+   <name>Zipheir</name>
+  </author>
+  <link href="https://github.com/Zipheir/srfi-160-chicken" />
+  <id>urn:rprimus:github:Zipheir:srfi-160-chicken</id>
+  <published>2022-08-20T17:04:23Z</published>
+  <updated>2022-08-20T17:04:23Z</updated>
+  <content type="html">
+   My clone of the srfi-160 egg for CHICKEN.
+  </content>
+ </entry>
+ <entry>
+  <title>WuShaoa: ScmUtils-Chez</title>
+  <author>
+   <name>WuShaoa</name>
+  </author>
+  <link href="https://github.com/WuShaoa/ScmUtils-Chez" />
+  <id>urn:rprimus:github:WuShaoa:ScmUtils-Chez</id>
+  <published>2022-08-20T13:59:28Z</published>
+  <updated>2022-08-20T13:59:28Z</updated>
+  <content type="html">
+   Migrate ScmUtils to Chez Scheme, tested in ms-windows.
+  </content>
+ </entry>
  <entry>
   <title>Jean-4k: bug-sbcl-guix</title>
   <author>
@@ -54,58 +80,6 @@
   <updated>2022-08-19T06:42:44Z</updated>
   <content type="html">
    Continuation of EOA mod
-  </content>
- </entry>
- <entry>
-  <title>fproverbio: baseline</title>
-  <author>
-   <name>fproverbio</name>
-  </author>
-  <link href="https://github.com/fproverbio/baseline" />
-  <id>urn:rprimus:github:fproverbio:baseline</id>
-  <published>2022-08-18T16:59:56Z</published>
-  <updated>2022-08-18T16:59:56Z</updated>
-  <content type="html">
-   personal guix channel for unpackaged software
-  </content>
- </entry>
- <entry>
-  <title>bromaniac: cat-age-calculator</title>
-  <author>
-   <name>bromaniac</name>
-  </author>
-  <link href="https://github.com/bromaniac/cat-age-calculator" />
-  <id>urn:rprimus:github:bromaniac:cat-age-calculator</id>
-  <published>2022-08-18T11:38:13Z</published>
-  <updated>2022-08-18T11:38:13Z</updated>
-  <content type="html">
-   Convert years to &quot;cat years&quot;.
-  </content>
- </entry>
- <entry>
-  <title>CaterinaGentili: MetaAnalysis_MultipleOutcomes</title>
-  <author>
-   <name>CaterinaGentili</name>
-  </author>
-  <link href="https://github.com/CaterinaGentili/MetaAnalysis_MultipleOutcomes" />
-  <id>urn:rprimus:github:CaterinaGentili:MetaAnalysis_MultipleOutcomes</id>
-  <published>2022-08-18T10:21:36Z</published>
-  <updated>2022-08-18T10:21:36Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>shinur93: lice</title>
-  <author>
-   <name>shinur93</name>
-  </author>
-  <link href="https://github.com/shinur93/lice" />
-  <id>urn:rprimus:github:shinur93:lice</id>
-  <published>2022-08-18T06:34:02Z</published>
-  <updated>2022-08-18T06:34:02Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
