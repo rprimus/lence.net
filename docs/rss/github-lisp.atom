@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-08-21T05:39:04Z</updated>
+<updated>2022-08-22T04:41:19Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>Gavinok: Clark</title>
+  <author>
+   <name>Gavinok</name>
+  </author>
+  <link href="https://github.com/Gavinok/Clark" />
+  <id>urn:rprimus:github:Gavinok:Clark</id>
+  <published>2022-08-22T04:41:19Z</published>
+  <updated>2022-08-22T04:41:19Z</updated>
+  <content type="html">
+   A Compojure clone in Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>3to5thpower: Suzutsuki</title>
+  <author>
+   <name>3to5thpower</name>
+  </author>
+  <link href="https://github.com/3to5thpower/Suzutsuki" />
+  <id>urn:rprimus:github:3to5thpower:Suzutsuki</id>
+  <published>2022-08-22T04:30:39Z</published>
+  <updated>2022-08-22T04:30:39Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>IAmRasputin: language-server</title>
+  <author>
+   <name>IAmRasputin</name>
+  </author>
+  <link href="https://github.com/IAmRasputin/language-server" />
+  <id>urn:rprimus:github:IAmRasputin:language-server</id>
+  <published>2022-08-22T03:03:56Z</published>
+  <updated>2022-08-22T03:03:56Z</updated>
+  <content type="html">
+   An LSP server for common lisp
+  </content>
+ </entry>
+ <entry>
+  <title>RyanBurnside: CAD-Plants</title>
+  <author>
+   <name>RyanBurnside</name>
+  </author>
+  <link href="https://github.com/RyanBurnside/CAD-Plants" />
+  <id>urn:rprimus:github:RyanBurnside:CAD-Plants</id>
+  <published>2022-08-21T23:16:08Z</published>
+  <updated>2022-08-21T23:16:08Z</updated>
+  <content type="html">
+   Some Visual LISP functions to render interactive fractal plants
+  </content>
+ </entry>
+ <entry>
+  <title>chip2n: trivial-file-watch</title>
+  <author>
+   <name>chip2n</name>
+  </author>
+  <link href="https://github.com/chip2n/trivial-file-watch" />
+  <id>urn:rprimus:github:chip2n:trivial-file-watch</id>
+  <published>2022-08-21T15:41:48Z</published>
+  <updated>2022-08-21T15:41:48Z</updated>
+  <content type="html">
+   Common Lisp library for watching files.
+  </content>
+ </entry>
+ <entry>
+  <title>byulparan: cl-nextstep</title>
+  <author>
+   <name>byulparan</name>
+  </author>
+  <link href="https://github.com/byulparan/cl-nextstep" />
+  <id>urn:rprimus:github:byulparan:cl-nextstep</id>
+  <published>2022-08-21T12:06:01Z</published>
+  <updated>2022-08-21T12:06:01Z</updated>
+  <content type="html">
+   Cocoa binding for Common Lisp on macOS
+  </content>
+ </entry>
  <entry>
   <title>joshroybal: sicp-streams</title>
   <author>
@@ -67,84 +145,6 @@
   <updated>2022-08-20T07:58:27Z</updated>
   <content type="html">
    two bored girls try to summon demons on the computer
-  </content>
- </entry>
- <entry>
-  <title>nyarnalang: website</title>
-  <author>
-   <name>nyarnalang</name>
-  </author>
-  <link href="https://github.com/nyarnalang/website" />
-  <id>urn:rprimus:github:nyarnalang:website</id>
-  <published>2022-08-19T21:24:56Z</published>
-  <updated>2022-08-19T21:24:56Z</updated>
-  <content type="html">
-   nyarna.org
-  </content>
- </entry>
- <entry>
-  <title>jolby: mcclim-sdl2-backend</title>
-  <author>
-   <name>jolby</name>
-  </author>
-  <link href="https://github.com/jolby/mcclim-sdl2-backend" />
-  <id>urn:rprimus:github:jolby:mcclim-sdl2-backend</id>
-  <published>2022-08-19T17:21:10Z</published>
-  <updated>2022-08-19T17:21:10Z</updated>
-  <content type="html">
-   SDL2 Backend for McCLIM
-  </content>
- </entry>
- <entry>
-  <title>ultasun: foodstats</title>
-  <author>
-   <name>ultasun</name>
-  </author>
-  <link href="https://github.com/ultasun/foodstats" />
-  <id>urn:rprimus:github:ultasun:foodstats</id>
-  <published>2022-08-19T11:05:38Z</published>
-  <updated>2022-08-19T11:05:38Z</updated>
-  <content type="html">
-   Foodstats, in the functional programming paradigm, utilizing Common Lisp.
-  </content>
- </entry>
- <entry>
-  <title>shakatoday: clog-lack-session</title>
-  <author>
-   <name>shakatoday</name>
-  </author>
-  <link href="https://github.com/shakatoday/clog-lack-session" />
-  <id>urn:rprimus:github:shakatoday:clog-lack-session</id>
-  <published>2022-08-19T08:58:19Z</published>
-  <updated>2022-08-19T08:58:19Z</updated>
-  <content type="html">
-   For using lack-middleware-session in CLOG
-  </content>
- </entry>
- <entry>
-  <title>terryc321: sbcl-tetris-ncurses-002</title>
-  <author>
-   <name>terryc321</name>
-  </author>
-  <link href="https://github.com/terryc321/sbcl-tetris-ncurses-002" />
-  <id>urn:rprimus:github:terryc321:sbcl-tetris-ncurses-002</id>
-  <published>2022-08-19T04:35:14Z</published>
-  <updated>2022-08-19T04:35:14Z</updated>
-  <content type="html">
-   learning sbcl ffi - loaded ncurses shared library  - declared foreign functions wanted -  it seems to work ok
-  </content>
- </entry>
- <entry>
-  <title>trevorjay: Bondis-Heaps-of-Air</title>
-  <author>
-   <name>trevorjay</name>
-  </author>
-  <link href="https://github.com/trevorjay/Bondis-Heaps-of-Air" />
-  <id>urn:rprimus:github:trevorjay:Bondis-Heaps-of-Air</id>
-  <published>2022-08-19T03:09:40Z</published>
-  <updated>2022-08-19T03:09:40Z</updated>
-  <content type="html">
-   Parenscript source code for &quot;Bondi&#039;s Heaps of Air&quot;, an endless runner for mobile web browsers.
   </content>
  </entry>
 </feed>
