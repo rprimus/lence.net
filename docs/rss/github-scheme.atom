@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-scheme.atom"/>
 <id>urn:rprimus:github:newschemerepos</id>
-<updated>2022-08-21T21:53:41Z</updated>
+<updated>2022-08-22T16:53:56Z</updated>
 <title type='text'>New GitHub Scheme Repos</title>
+ <entry>
+  <title>Matheritasiv: binaries</title>
+  <author>
+   <name>Matheritasiv</name>
+  </author>
+  <link href="https://github.com/Matheritasiv/binaries" />
+  <id>urn:rprimus:github:Matheritasiv:binaries</id>
+  <published>2022-08-22T16:53:56Z</published>
+  <updated>2022-08-22T16:53:56Z</updated>
+  <content type="html">
+   Arithmetic system of 2-adic numbers in scheme language
+  </content>
+ </entry>
+ <entry>
+  <title>the-man-with-a-golden-mind: parsers</title>
+  <author>
+   <name>the-man-with-a-golden-mind</name>
+  </author>
+  <link href="https://github.com/the-man-with-a-golden-mind/parsers" />
+  <id>urn:rprimus:github:the-man-with-a-golden-mind:parsers</id>
+  <published>2022-08-22T14:40:09Z</published>
+  <updated>2022-08-22T14:40:09Z</updated>
+  <content type="html">
+   Ol&#039;s ready to use parsers
+  </content>
+ </entry>
+ <entry>
+  <title>the-man-with-a-golden-mind: shot</title>
+  <author>
+   <name>the-man-with-a-golden-mind</name>
+  </author>
+  <link href="https://github.com/the-man-with-a-golden-mind/shot" />
+  <id>urn:rprimus:github:the-man-with-a-golden-mind:shot</id>
+  <published>2022-08-22T10:54:26Z</published>
+  <updated>2022-08-22T10:54:26Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>xf0r3m: xfcedebian</title>
   <author>
@@ -80,32 +119,6 @@
   <updated>2022-08-21T04:15:17Z</updated>
   <content type="html">
    Just using github as a cloud to store my configuration files.
-  </content>
- </entry>
- <entry>
-  <title>Zipheir: srfi-160-chicken</title>
-  <author>
-   <name>Zipheir</name>
-  </author>
-  <link href="https://github.com/Zipheir/srfi-160-chicken" />
-  <id>urn:rprimus:github:Zipheir:srfi-160-chicken</id>
-  <published>2022-08-20T17:04:23Z</published>
-  <updated>2022-08-20T17:04:23Z</updated>
-  <content type="html">
-   My clone of the srfi-160 egg for CHICKEN.
-  </content>
- </entry>
- <entry>
-  <title>WuShaoa: ScmUtils-Chez</title>
-  <author>
-   <name>WuShaoa</name>
-  </author>
-  <link href="https://github.com/WuShaoa/ScmUtils-Chez" />
-  <id>urn:rprimus:github:WuShaoa:ScmUtils-Chez</id>
-  <published>2022-08-20T13:59:28Z</published>
-  <updated>2022-08-20T13:59:28Z</updated>
-  <content type="html">
-   Migrate ScmUtils to Chez Scheme, tested in ms-windows.
   </content>
  </entry>
 </feed>
