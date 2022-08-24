@@ -2,8 +2,112 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-08-22T23:27:22Z</updated>
+<updated>2022-08-24T07:46:17Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>nalssee: rein</title>
+  <author>
+   <name>nalssee</name>
+  </author>
+  <link href="https://github.com/nalssee/rein" />
+  <id>urn:rprimus:github:nalssee:rein</id>
+  <published>2022-08-24T07:46:17Z</published>
+  <updated>2022-08-24T07:46:17Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>JMC-design: surface-glop</title>
+  <author>
+   <name>JMC-design</name>
+  </author>
+  <link href="https://github.com/JMC-design/surface-glop" />
+  <id>urn:rprimus:github:JMC-design:surface-glop</id>
+  <published>2022-08-23T20:22:29Z</published>
+  <updated>2022-08-23T20:22:29Z</updated>
+  <content type="html">
+   Surface implementation of GLOP
+  </content>
+ </entry>
+ <entry>
+  <title>FluxGenerator: cl-bootstrap5</title>
+  <author>
+   <name>FluxGenerator</name>
+  </author>
+  <link href="https://github.com/FluxGenerator/cl-bootstrap5" />
+  <id>urn:rprimus:github:FluxGenerator:cl-bootstrap5</id>
+  <published>2022-08-23T17:36:12Z</published>
+  <updated>2022-08-23T17:36:12Z</updated>
+  <content type="html">
+   Common lisp library for Bootstrap 5.
+  </content>
+ </entry>
+ <entry>
+  <title>wombathead: bernoulli-factories</title>
+  <author>
+   <name>wombathead</name>
+  </author>
+  <link href="https://github.com/wombathead/bernoulli-factories" />
+  <id>urn:rprimus:github:wombathead:bernoulli-factories</id>
+  <published>2022-08-23T16:48:08Z</published>
+  <updated>2022-08-23T16:48:08Z</updated>
+  <content type="html">
+   Exploring Bernoulli factories.
+  </content>
+ </entry>
+ <entry>
+  <title>thefossenjoyer: lisp-projects</title>
+  <author>
+   <name>thefossenjoyer</name>
+  </author>
+  <link href="https://github.com/thefossenjoyer/lisp-projects" />
+  <id>urn:rprimus:github:thefossenjoyer:lisp-projects</id>
+  <published>2022-08-23T16:16:39Z</published>
+  <updated>2022-08-23T16:16:39Z</updated>
+  <content type="html">
+   Little programmes made in Common Lisp.
+  </content>
+ </entry>
+ <entry>
+  <title>Carnivorous-Beehive: cl-test</title>
+  <author>
+   <name>Carnivorous-Beehive</name>
+  </author>
+  <link href="https://github.com/Carnivorous-Beehive/cl-test" />
+  <id>urn:rprimus:github:Carnivorous-Beehive:cl-test</id>
+  <published>2022-08-23T14:37:20Z</published>
+  <updated>2022-08-23T14:37:20Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>BohongHuang: cl-agbplay</title>
+  <author>
+   <name>BohongHuang</name>
+  </author>
+  <link href="https://github.com/BohongHuang/cl-agbplay" />
+  <id>urn:rprimus:github:BohongHuang:cl-agbplay</id>
+  <published>2022-08-23T14:24:26Z</published>
+  <updated>2022-08-23T14:24:26Z</updated>
+  <content type="html">
+   Play GBA game music in Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>ecooler: ECS-140A-HW3-GO</title>
+  <author>
+   <name>ecooler</name>
+  </author>
+  <link href="https://github.com/ecooler/ECS-140A-HW3-GO" />
+  <id>urn:rprimus:github:ecooler:ECS-140A-HW3-GO</id>
+  <published>2022-08-23T10:20:55Z</published>
+  <updated>2022-08-23T10:20:55Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>ultasun: word-warp</title>
   <author>
@@ -106,71 +210,6 @@
   <updated>2022-08-22T03:03:56Z</updated>
   <content type="html">
    An LSP server for common lisp
-  </content>
- </entry>
- <entry>
-  <title>RyanBurnside: CAD-Plants</title>
-  <author>
-   <name>RyanBurnside</name>
-  </author>
-  <link href="https://github.com/RyanBurnside/CAD-Plants" />
-  <id>urn:rprimus:github:RyanBurnside:CAD-Plants</id>
-  <published>2022-08-21T23:16:08Z</published>
-  <updated>2022-08-21T23:16:08Z</updated>
-  <content type="html">
-   Some Visual LISP functions to render interactive fractal plants
-  </content>
- </entry>
- <entry>
-  <title>chip2n: trivial-file-watch</title>
-  <author>
-   <name>chip2n</name>
-  </author>
-  <link href="https://github.com/chip2n/trivial-file-watch" />
-  <id>urn:rprimus:github:chip2n:trivial-file-watch</id>
-  <published>2022-08-21T15:41:48Z</published>
-  <updated>2022-08-21T15:41:48Z</updated>
-  <content type="html">
-   Common Lisp library for watching files.
-  </content>
- </entry>
- <entry>
-  <title>byulparan: cl-nextstep</title>
-  <author>
-   <name>byulparan</name>
-  </author>
-  <link href="https://github.com/byulparan/cl-nextstep" />
-  <id>urn:rprimus:github:byulparan:cl-nextstep</id>
-  <published>2022-08-21T12:06:01Z</published>
-  <updated>2022-08-21T12:06:01Z</updated>
-  <content type="html">
-   Cocoa binding for Common Lisp on macOS
-  </content>
- </entry>
- <entry>
-  <title>joshroybal: sicp-streams</title>
-  <author>
-   <name>joshroybal</name>
-  </author>
-  <link href="https://github.com/joshroybal/sicp-streams" />
-  <id>urn:rprimus:github:joshroybal:sicp-streams</id>
-  <published>2022-08-21T05:39:04Z</published>
-  <updated>2022-08-21T05:39:04Z</updated>
-  <content type="html">
-   SICP style streams implemented in Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>ryos36: MakeLSI</title>
-  <author>
-   <name>ryos36</name>
-  </author>
-  <link href="https://github.com/ryos36/MakeLSI" />
-  <id>urn:rprimus:github:ryos36:MakeLSI</id>
-  <published>2022-08-21T05:12:41Z</published>
-  <updated>2022-08-21T05:12:41Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
