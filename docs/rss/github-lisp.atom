@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-08-24T11:41:09Z</updated>
+<updated>2022-08-25T01:15:28Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>right-mouse: advent-of-code-2015</title>
+  <author>
+   <name>right-mouse</name>
+  </author>
+  <link href="https://github.com/right-mouse/advent-of-code-2015" />
+  <id>urn:rprimus:github:right-mouse:advent-of-code-2015</id>
+  <published>2022-08-25T01:15:28Z</published>
+  <updated>2022-08-25T01:15:28Z</updated>
+  <content type="html">
+   My attempt at https://adventofcode.com/2015 in Common Lisp.
+  </content>
+ </entry>
  <entry>
   <title>stackfield: dtj-fonts</title>
   <author>
@@ -132,110 +145,6 @@
   <updated>2022-08-23T10:20:55Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>ultasun: word-warp</title>
-  <author>
-   <name>ultasun</name>
-  </author>
-  <link href="https://github.com/ultasun/word-warp" />
-  <id>urn:rprimus:github:ultasun:word-warp</id>
-  <published>2022-08-22T23:27:22Z</published>
-  <updated>2022-08-22T23:27:22Z</updated>
-  <content type="html">
-   The game Word Warp written as a console I/O Common Lisp program.
-  </content>
- </entry>
- <entry>
-  <title>mnasoft: mnas-clock</title>
-  <author>
-   <name>mnasoft</name>
-  </author>
-  <link href="https://github.com/mnasoft/mnas-clock" />
-  <id>urn:rprimus:github:mnasoft:mnas-clock</id>
-  <published>2022-08-22T18:47:39Z</published>
-  <updated>2022-08-22T18:47:39Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>mnasoft: gases</title>
-  <author>
-   <name>mnasoft</name>
-  </author>
-  <link href="https://github.com/mnasoft/gases" />
-  <id>urn:rprimus:github:mnasoft:gases</id>
-  <published>2022-08-22T18:27:08Z</published>
-  <updated>2022-08-22T18:27:08Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>byulparan: cl-visual</title>
-  <author>
-   <name>byulparan</name>
-  </author>
-  <link href="https://github.com/byulparan/cl-visual" />
-  <id>urn:rprimus:github:byulparan:cl-visual</id>
-  <published>2022-08-22T15:25:59Z</published>
-  <updated>2022-08-22T15:25:59Z</updated>
-  <content type="html">
-   Visual System for CommonLisp/macOS
-  </content>
- </entry>
- <entry>
-  <title>woudshoo: cps</title>
-  <author>
-   <name>woudshoo</name>
-  </author>
-  <link href="https://github.com/woudshoo/cps" />
-  <id>urn:rprimus:github:woudshoo:cps</id>
-  <published>2022-08-22T14:33:00Z</published>
-  <updated>2022-08-22T14:33:00Z</updated>
-  <content type="html">
-   Constraint Programming Solver
-  </content>
- </entry>
- <entry>
-  <title>Gavinok: Clark</title>
-  <author>
-   <name>Gavinok</name>
-  </author>
-  <link href="https://github.com/Gavinok/Clark" />
-  <id>urn:rprimus:github:Gavinok:Clark</id>
-  <published>2022-08-22T04:41:19Z</published>
-  <updated>2022-08-22T04:41:19Z</updated>
-  <content type="html">
-   A Compojure clone in Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>3to5thpower: Suzutsuki</title>
-  <author>
-   <name>3to5thpower</name>
-  </author>
-  <link href="https://github.com/3to5thpower/Suzutsuki" />
-  <id>urn:rprimus:github:3to5thpower:Suzutsuki</id>
-  <published>2022-08-22T04:30:39Z</published>
-  <updated>2022-08-22T04:30:39Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>IAmRasputin: language-server</title>
-  <author>
-   <name>IAmRasputin</name>
-  </author>
-  <link href="https://github.com/IAmRasputin/language-server" />
-  <id>urn:rprimus:github:IAmRasputin:language-server</id>
-  <published>2022-08-22T03:03:56Z</published>
-  <updated>2022-08-22T03:03:56Z</updated>
-  <content type="html">
-   An LSP server for common lisp
   </content>
  </entry>
 </feed>

@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2022-08-24T17:38:15Z</updated>
+<updated>2022-08-25T07:57:23Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>EmileTrotignon: mlambda</title>
+  <author>
+   <name>EmileTrotignon</name>
+  </author>
+  <link href="https://github.com/EmileTrotignon/mlambda" />
+  <id>urn:rprimus:github:EmileTrotignon:mlambda</id>
+  <published>2022-08-25T07:57:23Z</published>
+  <updated>2022-08-25T07:57:23Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>liamdaniels: text_editor</title>
+  <author>
+   <name>liamdaniels</name>
+  </author>
+  <link href="https://github.com/liamdaniels/text_editor" />
+  <id>urn:rprimus:github:liamdaniels:text_editor</id>
+  <published>2022-08-25T05:29:32Z</published>
+  <updated>2022-08-25T05:29:32Z</updated>
+  <content type="html">
+   name is subject to change! fun text editor im making with thomas. inspired by 3110 &quot;final project ideas&quot; page
+  </content>
+ </entry>
+ <entry>
+  <title>kokic: camelus</title>
+  <author>
+   <name>kokic</name>
+  </author>
+  <link href="https://github.com/kokic/camelus" />
+  <id>urn:rprimus:github:kokic:camelus</id>
+  <published>2022-08-24T23:57:31Z</published>
+  <updated>2022-08-24T23:57:31Z</updated>
+  <content type="html">
+   Quisque venenatis suscipit accumsan. Etiam mattis ultricies arcu, eget feugiat odio facilisis in. Donec nec nulla faucibus, pretium elit in, imperdiet diam.
+  </content>
+ </entry>
  <entry>
   <title>derrickturk: keyguesser</title>
   <author>
@@ -132,123 +171,6 @@
   <updated>2022-08-23T09:30:07Z</updated>
   <content type="html">
    Write stream parser in OCaml using ppx extensions
-  </content>
- </entry>
- <entry>
-  <title>Avicus11: programiranje1_domaca_naloga</title>
-  <author>
-   <name>Avicus11</name>
-  </author>
-  <link href="https://github.com/Avicus11/programiranje1_domaca_naloga" />
-  <id>urn:rprimus:github:Avicus11:programiranje1_domaca_naloga</id>
-  <published>2022-08-22T18:15:58Z</published>
-  <updated>2022-08-22T18:15:58Z</updated>
-  <content type="html">
-   Tukaj naredim domaÄo nalogo pri predmetu programiranje 1, kjer implementiram reÅ¡evalec sudoku ugank. ReÅ¡evalec deluje na metodi, da najprej vsakemu polju priredi seznam vseh moÅ¾nih vrednosti, ki bi jih lahko to polje zavzelo, nato takoj izpolni vsaj tista polja, ki imajo samo eno moÅ¾nost ter nadaljuje proces na naÄin, da vedno vzame prvo polje, ki Å¡e ni izpolnjeno ter mu pripiÅ¡e prvo vrednost iz njemu prirejenega seznama in nadaljuje postopek, dokler lahko. Ko veÄ postopka ni moÅ¾no nadaljevati, se vraÄa nazaj toliko mest, dokler ne more neÄesa storiti .
-  </content>
- </entry>
- <entry>
-  <title>cshafer22: Gales</title>
-  <author>
-   <name>cshafer22</name>
-  </author>
-  <link href="https://github.com/cshafer22/Gales" />
-  <id>urn:rprimus:github:cshafer22:Gales</id>
-  <published>2022-08-22T16:35:07Z</published>
-  <updated>2022-08-22T16:35:07Z</updated>
-  <content type="html">
-   Beginning stages of OCaml library for probability, stochastic processes, statistics, and machine learning.
-  </content>
- </entry>
- <entry>
-  <title>firminm: interpreted-and-compiled-languages</title>
-  <author>
-   <name>firminm</name>
-  </author>
-  <link href="https://github.com/firminm/interpreted-and-compiled-languages" />
-  <id>urn:rprimus:github:firminm:interpreted-and-compiled-languages</id>
-  <published>2022-08-22T15:40:38Z</published>
-  <updated>2022-08-22T15:40:38Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>dannywillems: ocaml-bls12-381-signature</title>
-  <author>
-   <name>dannywillems</name>
-  </author>
-  <link href="https://github.com/dannywillems/ocaml-bls12-381-signature" />
-  <id>urn:rprimus:github:dannywillems:ocaml-bls12-381-signature</id>
-  <published>2022-08-22T15:31:24Z</published>
-  <updated>2022-08-22T15:31:24Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>dannywillems: ocaml-bls12-381-hash</title>
-  <author>
-   <name>dannywillems</name>
-  </author>
-  <link href="https://github.com/dannywillems/ocaml-bls12-381-hash" />
-  <id>urn:rprimus:github:dannywillems:ocaml-bls12-381-hash</id>
-  <published>2022-08-22T15:23:18Z</published>
-  <updated>2022-08-22T15:23:18Z</updated>
-  <content type="html">
-   Implementation of some cryptographic hash primitives using the scalar field of BLS12-381
-  </content>
- </entry>
- <entry>
-  <title>FrugBatt: web-fractal</title>
-  <author>
-   <name>FrugBatt</name>
-  </author>
-  <link href="https://github.com/FrugBatt/web-fractal" />
-  <id>urn:rprimus:github:FrugBatt:web-fractal</id>
-  <published>2022-08-22T14:34:56Z</published>
-  <updated>2022-08-22T14:34:56Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Mathieu-CS: AFIT</title>
-  <author>
-   <name>Mathieu-CS</name>
-  </author>
-  <link href="https://github.com/Mathieu-CS/AFIT" />
-  <id>urn:rprimus:github:Mathieu-CS:AFIT</id>
-  <published>2022-08-22T08:38:35Z</published>
-  <updated>2022-08-22T08:38:35Z</updated>
-  <content type="html">
-   Arithmetic For IT, first semester project in OCAML about arithmetic &amp; cryptography
-  </content>
- </entry>
- <entry>
-  <title>hosobe: speccp</title>
-  <author>
-   <name>hosobe</name>
-  </author>
-  <link href="https://github.com/hosobe/speccp" />
-  <id>urn:rprimus:github:hosobe:speccp</id>
-  <published>2022-08-22T06:05:23Z</published>
-  <updated>2022-08-22T06:05:23Z</updated>
-  <content type="html">
-   SpecCp: Speculative Constraint Processing for Multi-Agent Systems
-  </content>
- </entry>
- <entry>
-  <title>matthewc423: MiniML</title>
-  <author>
-   <name>matthewc423</name>
-  </author>
-  <link href="https://github.com/matthewc423/MiniML" />
-  <id>urn:rprimus:github:matthewc423:MiniML</id>
-  <published>2022-08-22T02:19:00Z</published>
-  <updated>2022-08-22T02:19:00Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
