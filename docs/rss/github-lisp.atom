@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-08-25T01:15:28Z</updated>
+<updated>2022-08-26T07:49:51Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>thefossenjoyer: todo-lisp</title>
+  <author>
+   <name>thefossenjoyer</name>
+  </author>
+  <link href="https://github.com/thefossenjoyer/todo-lisp" />
+  <id>urn:rprimus:github:thefossenjoyer:todo-lisp</id>
+  <published>2022-08-26T07:49:51Z</published>
+  <updated>2022-08-26T07:49:51Z</updated>
+  <content type="html">
+   A todo app written in Common Lisp.
+  </content>
+ </entry>
+ <entry>
+  <title>IisNuINu: kaveh808-lessons-in-cl-opengl</title>
+  <author>
+   <name>IisNuINu</name>
+  </author>
+  <link href="https://github.com/IisNuINu/kaveh808-lessons-in-cl-opengl" />
+  <id>urn:rprimus:github:IisNuINu:kaveh808-lessons-in-cl-opengl</id>
+  <published>2022-08-26T06:11:12Z</published>
+  <updated>2022-08-26T06:11:12Z</updated>
+  <content type="html">
+   Common Lisp lessons from keveh808 adapted for the cl-opengl library. They work on Linux and Windows
+  </content>
+ </entry>
+ <entry>
+  <title>OpenGOAL-Unofficial-Mods: opengoal-mod-base</title>
+  <author>
+   <name>OpenGOAL-Unofficial-Mods</name>
+  </author>
+  <link href="https://github.com/OpenGOAL-Unofficial-Mods/opengoal-mod-base" />
+  <id>urn:rprimus:github:OpenGOAL-Unofficial-Mods:opengoal-mod-base</id>
+  <published>2022-08-26T01:04:20Z</published>
+  <updated>2022-08-26T01:04:20Z</updated>
+  <content type="html">
+   A base openGOAL repo for mods that will be supported via opengoal-mod-launcher
+  </content>
+ </entry>
+ <entry>
+  <title>JMC-design: point-origin</title>
+  <author>
+   <name>JMC-design</name>
+  </author>
+  <link href="https://github.com/JMC-design/point-origin" />
+  <id>urn:rprimus:github:JMC-design:point-origin</id>
+  <published>2022-08-25T16:01:26Z</published>
+  <updated>2022-08-25T16:01:26Z</updated>
+  <content type="html">
+   Point protocol for mfiano&#039;s origin.
+  </content>
+ </entry>
+ <entry>
+  <title>timeolord: Common-Lisp-Kattis</title>
+  <author>
+   <name>timeolord</name>
+  </author>
+  <link href="https://github.com/timeolord/Common-Lisp-Kattis" />
+  <id>urn:rprimus:github:timeolord:Common-Lisp-Kattis</id>
+  <published>2022-08-25T14:18:38Z</published>
+  <updated>2022-08-25T14:18:38Z</updated>
+  <content type="html">
+   Kattis Problems solved in Common Lisp
+  </content>
+ </entry>
  <entry>
   <title>right-mouse: advent-of-code-2015</title>
   <author>
@@ -52,97 +117,6 @@
   <id>urn:rprimus:github:nalssee:rein</id>
   <published>2022-08-24T07:46:17Z</published>
   <updated>2022-08-24T07:46:17Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>JMC-design: surface-glop</title>
-  <author>
-   <name>JMC-design</name>
-  </author>
-  <link href="https://github.com/JMC-design/surface-glop" />
-  <id>urn:rprimus:github:JMC-design:surface-glop</id>
-  <published>2022-08-23T20:22:29Z</published>
-  <updated>2022-08-23T20:22:29Z</updated>
-  <content type="html">
-   Surface implementation of GLOP
-  </content>
- </entry>
- <entry>
-  <title>FluxGenerator: cl-bootstrap5</title>
-  <author>
-   <name>FluxGenerator</name>
-  </author>
-  <link href="https://github.com/FluxGenerator/cl-bootstrap5" />
-  <id>urn:rprimus:github:FluxGenerator:cl-bootstrap5</id>
-  <published>2022-08-23T17:36:12Z</published>
-  <updated>2022-08-23T17:36:12Z</updated>
-  <content type="html">
-   Common lisp library for Bootstrap 5.
-  </content>
- </entry>
- <entry>
-  <title>wombathead: bernoulli-factories</title>
-  <author>
-   <name>wombathead</name>
-  </author>
-  <link href="https://github.com/wombathead/bernoulli-factories" />
-  <id>urn:rprimus:github:wombathead:bernoulli-factories</id>
-  <published>2022-08-23T16:48:08Z</published>
-  <updated>2022-08-23T16:48:08Z</updated>
-  <content type="html">
-   Exploring Bernoulli factories.
-  </content>
- </entry>
- <entry>
-  <title>thefossenjoyer: lisp-projects</title>
-  <author>
-   <name>thefossenjoyer</name>
-  </author>
-  <link href="https://github.com/thefossenjoyer/lisp-projects" />
-  <id>urn:rprimus:github:thefossenjoyer:lisp-projects</id>
-  <published>2022-08-23T16:16:39Z</published>
-  <updated>2022-08-23T16:16:39Z</updated>
-  <content type="html">
-   Little programmes made in Common Lisp.
-  </content>
- </entry>
- <entry>
-  <title>Carnivorous-Beehive: cl-test</title>
-  <author>
-   <name>Carnivorous-Beehive</name>
-  </author>
-  <link href="https://github.com/Carnivorous-Beehive/cl-test" />
-  <id>urn:rprimus:github:Carnivorous-Beehive:cl-test</id>
-  <published>2022-08-23T14:37:20Z</published>
-  <updated>2022-08-23T14:37:20Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>BohongHuang: cl-agbplay</title>
-  <author>
-   <name>BohongHuang</name>
-  </author>
-  <link href="https://github.com/BohongHuang/cl-agbplay" />
-  <id>urn:rprimus:github:BohongHuang:cl-agbplay</id>
-  <published>2022-08-23T14:24:26Z</published>
-  <updated>2022-08-23T14:24:26Z</updated>
-  <content type="html">
-   Play GBA game music in Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>ecooler: ECS-140A-HW3-GO</title>
-  <author>
-   <name>ecooler</name>
-  </author>
-  <link href="https://github.com/ecooler/ECS-140A-HW3-GO" />
-  <id>urn:rprimus:github:ecooler:ECS-140A-HW3-GO</id>
-  <published>2022-08-23T10:20:55Z</published>
-  <updated>2022-08-23T10:20:55Z</updated>
   <content type="html">
    
   </content>

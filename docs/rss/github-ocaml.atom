@@ -2,8 +2,112 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2022-08-25T07:57:23Z</updated>
+<updated>2022-08-26T03:57:13Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>kgraney: cryptopals</title>
+  <author>
+   <name>kgraney</name>
+  </author>
+  <link href="https://github.com/kgraney/cryptopals" />
+  <id>urn:rprimus:github:kgraney:cryptopals</id>
+  <published>2022-08-26T03:57:13Z</published>
+  <updated>2022-08-26T03:57:13Z</updated>
+  <content type="html">
+   Solutions to https://cryptopals.com/
+  </content>
+ </entry>
+ <entry>
+  <title>SjKiy: CS-496</title>
+  <author>
+   <name>SjKiy</name>
+  </author>
+  <link href="https://github.com/SjKiy/CS-496" />
+  <id>urn:rprimus:github:SjKiy:CS-496</id>
+  <published>2022-08-26T03:27:07Z</published>
+  <updated>2022-08-26T03:27:07Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>poki-musi: ocamlox</title>
+  <author>
+   <name>poki-musi</name>
+  </author>
+  <link href="https://github.com/poki-musi/ocamlox" />
+  <id>urn:rprimus:github:poki-musi:ocamlox</id>
+  <published>2022-08-26T00:06:07Z</published>
+  <updated>2022-08-26T00:06:07Z</updated>
+  <content type="html">
+   Lox language (from Crafting Interpreters) implementation, in OCaml.
+  </content>
+ </entry>
+ <entry>
+  <title>grogalskyj: MultiWordle</title>
+  <author>
+   <name>grogalskyj</name>
+  </author>
+  <link href="https://github.com/grogalskyj/MultiWordle" />
+  <id>urn:rprimus:github:grogalskyj:MultiWordle</id>
+  <published>2022-08-25T23:19:55Z</published>
+  <updated>2022-08-25T23:19:55Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>joephr: trefoil_interpereter</title>
+  <author>
+   <name>joephr</name>
+  </author>
+  <link href="https://github.com/joephr/trefoil_interpereter" />
+  <id>urn:rprimus:github:joephr:trefoil_interpereter</id>
+  <published>2022-08-25T22:12:04Z</published>
+  <updated>2022-08-25T22:12:04Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>berkeley-cs164-2022: class-compiler-f22</title>
+  <author>
+   <name>berkeley-cs164-2022</name>
+  </author>
+  <link href="https://github.com/berkeley-cs164-2022/class-compiler-f22" />
+  <id>urn:rprimus:github:berkeley-cs164-2022:class-compiler-f22</id>
+  <published>2022-08-25T20:14:50Z</published>
+  <updated>2022-08-25T20:14:50Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>mitchdzugan: ocaml-ibad</title>
+  <author>
+   <name>mitchdzugan</name>
+  </author>
+  <link href="https://github.com/mitchdzugan/ocaml-ibad" />
+  <id>urn:rprimus:github:mitchdzugan:ocaml-ibad</id>
+  <published>2022-08-25T19:59:17Z</published>
+  <updated>2022-08-25T19:59:17Z</updated>
+  <content type="html">
+   profunctor lens library for ocaml
+  </content>
+ </entry>
+ <entry>
+  <title>pjmc-oliveira: ml-lang</title>
+  <author>
+   <name>pjmc-oliveira</name>
+  </author>
+  <link href="https://github.com/pjmc-oliveira/ml-lang" />
+  <id>urn:rprimus:github:pjmc-oliveira:ml-lang</id>
+  <published>2022-08-25T14:50:01Z</published>
+  <updated>2022-08-25T14:50:01Z</updated>
+  <content type="html">
+   Unnamed programming language
+  </content>
+ </entry>
  <entry>
   <title>EmileTrotignon: mlambda</title>
   <author>
@@ -18,12 +122,12 @@
   </content>
  </entry>
  <entry>
-  <title>liamdaniels: text_editor</title>
+  <title>miahdan: text_editor</title>
   <author>
-   <name>liamdaniels</name>
+   <name>miahdan</name>
   </author>
-  <link href="https://github.com/liamdaniels/text_editor" />
-  <id>urn:rprimus:github:liamdaniels:text_editor</id>
+  <link href="https://github.com/miahdan/text_editor" />
+  <id>urn:rprimus:github:miahdan:text_editor</id>
   <published>2022-08-25T05:29:32Z</published>
   <updated>2022-08-25T05:29:32Z</updated>
   <content type="html">
@@ -67,110 +171,6 @@
   <updated>2022-08-24T17:21:58Z</updated>
   <content type="html">
    Lambda Calculus interpreter written in ocaml
-  </content>
- </entry>
- <entry>
-  <title>EugeneChoi4: Optimized-Wordle-Generator-and-Solver</title>
-  <author>
-   <name>EugeneChoi4</name>
-  </author>
-  <link href="https://github.com/EugeneChoi4/Optimized-Wordle-Generator-and-Solver" />
-  <id>urn:rprimus:github:EugeneChoi4:Optimized-Wordle-Generator-and-Solver</id>
-  <published>2022-08-23T21:31:04Z</published>
-  <updated>2022-08-23T21:31:04Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>bibajz: cryptopals</title>
-  <author>
-   <name>bibajz</name>
-  </author>
-  <link href="https://github.com/bibajz/cryptopals" />
-  <id>urn:rprimus:github:bibajz:cryptopals</id>
-  <published>2022-08-23T21:00:57Z</published>
-  <updated>2022-08-23T21:00:57Z</updated>
-  <content type="html">
-   Solutions to Cryptopals challenge - https://cryptopals.com/
-  </content>
- </entry>
- <entry>
-  <title>usfca-cs345: live-coding</title>
-  <author>
-   <name>usfca-cs345</name>
-  </author>
-  <link href="https://github.com/usfca-cs345/live-coding" />
-  <id>urn:rprimus:github:usfca-cs345:live-coding</id>
-  <published>2022-08-23T19:08:50Z</published>
-  <updated>2022-08-23T19:08:50Z</updated>
-  <content type="html">
-   Code from the live coding sessions
-  </content>
- </entry>
- <entry>
-  <title>0xRyN: RynLang-Interpreter</title>
-  <author>
-   <name>0xRyN</name>
-  </author>
-  <link href="https://github.com/0xRyN/RynLang-Interpreter" />
-  <id>urn:rprimus:github:0xRyN:RynLang-Interpreter</id>
-  <published>2022-08-23T18:44:01Z</published>
-  <updated>2022-08-23T18:44:01Z</updated>
-  <content type="html">
-   An OCaml interpreter for an imperative all purpose programming language. (Personal project, all from scratch, WIP)
-  </content>
- </entry>
- <entry>
-  <title>BC-CSCI1103: f22</title>
-  <author>
-   <name>BC-CSCI1103</name>
-  </author>
-  <link href="https://github.com/BC-CSCI1103/f22" />
-  <id>urn:rprimus:github:BC-CSCI1103:f22</id>
-  <published>2022-08-23T14:41:27Z</published>
-  <updated>2022-08-23T14:41:27Z</updated>
-  <content type="html">
-   Home page for CSCI 1103 Computer Science 1 Honors, BC Fall 2022
-  </content>
- </entry>
- <entry>
-  <title>rand00: conntest</title>
-  <author>
-   <name>rand00</name>
-  </author>
-  <link href="https://github.com/rand00/conntest" />
-  <id>urn:rprimus:github:rand00:conntest</id>
-  <published>2022-08-23T13:47:36Z</published>
-  <updated>2022-08-23T13:47:36Z</updated>
-  <content type="html">
-   MirageOS unikernel to test networking setup
-  </content>
- </entry>
- <entry>
-  <title>placeholder-tld: privacy-team</title>
-  <author>
-   <name>placeholder-tld</name>
-  </author>
-  <link href="https://github.com/placeholder-tld/privacy-team" />
-  <id>urn:rprimus:github:placeholder-tld:privacy-team</id>
-  <published>2022-08-23T11:18:49Z</published>
-  <updated>2022-08-23T11:18:49Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>NielsMommen: ppx_parser</title>
-  <author>
-   <name>NielsMommen</name>
-  </author>
-  <link href="https://github.com/NielsMommen/ppx_parser" />
-  <id>urn:rprimus:github:NielsMommen:ppx_parser</id>
-  <published>2022-08-23T09:30:07Z</published>
-  <updated>2022-08-23T09:30:07Z</updated>
-  <content type="html">
-   Write stream parser in OCaml using ppx extensions
   </content>
  </entry>
 </feed>
