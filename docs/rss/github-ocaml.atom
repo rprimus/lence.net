@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2022-08-26T03:57:13Z</updated>
+<updated>2022-08-26T11:31:51Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>nemonemo314: ocaml_tutorial_ptg</title>
+  <author>
+   <name>nemonemo314</name>
+  </author>
+  <link href="https://github.com/nemonemo314/ocaml_tutorial_ptg" />
+  <id>urn:rprimus:github:nemonemo314:ocaml_tutorial_ptg</id>
+  <published>2022-08-26T11:31:51Z</published>
+  <updated>2022-08-26T11:31:51Z</updated>
+  <content type="html">
+   Codigos apresentados nos videos
+  </content>
+ </entry>
+ <entry>
+  <title>roglo: mlrogue</title>
+  <author>
+   <name>roglo</name>
+  </author>
+  <link href="https://github.com/roglo/mlrogue" />
+  <id>urn:rprimus:github:roglo:mlrogue</id>
+  <published>2022-08-26T11:30:33Z</published>
+  <updated>2022-08-26T11:30:33Z</updated>
+  <content type="html">
+   Rogue written in OCaml
+  </content>
+ </entry>
  <entry>
   <title>kgraney: cryptopals</title>
   <author>
@@ -132,45 +158,6 @@
   <updated>2022-08-25T05:29:32Z</updated>
   <content type="html">
    name is subject to change! fun text editor im making with thomas. inspired by 3110 &quot;final project ideas&quot; page
-  </content>
- </entry>
- <entry>
-  <title>kokic: camelus</title>
-  <author>
-   <name>kokic</name>
-  </author>
-  <link href="https://github.com/kokic/camelus" />
-  <id>urn:rprimus:github:kokic:camelus</id>
-  <published>2022-08-24T23:57:31Z</published>
-  <updated>2022-08-24T23:57:31Z</updated>
-  <content type="html">
-   Quisque venenatis suscipit accumsan. Etiam mattis ultricies arcu, eget feugiat odio facilisis in. Donec nec nulla faucibus, pretium elit in, imperdiet diam.
-  </content>
- </entry>
- <entry>
-  <title>derrickturk: keyguesser</title>
-  <author>
-   <name>derrickturk</name>
-  </author>
-  <link href="https://github.com/derrickturk/keyguesser" />
-  <id>urn:rprimus:github:derrickturk:keyguesser</id>
-  <published>2022-08-24T17:38:15Z</published>
-  <updated>2022-08-24T17:38:15Z</updated>
-  <content type="html">
-   Guess foreign keys between CSV tables
-  </content>
- </entry>
- <entry>
-  <title>x0tero: l-interprete</title>
-  <author>
-   <name>x0tero</name>
-  </author>
-  <link href="https://github.com/x0tero/l-interprete" />
-  <id>urn:rprimus:github:x0tero:l-interprete</id>
-  <published>2022-08-24T17:21:58Z</published>
-  <updated>2022-08-24T17:21:58Z</updated>
-  <content type="html">
-   Lambda Calculus interpreter written in ocaml
   </content>
  </entry>
 </feed>
