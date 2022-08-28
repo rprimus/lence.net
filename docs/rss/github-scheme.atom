@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-scheme.atom"/>
 <id>urn:rprimus:github:newschemerepos</id>
-<updated>2022-08-26T20:49:10Z</updated>
+<updated>2022-08-27T16:45:01Z</updated>
 <title type='text'>New GitHub Scheme Repos</title>
+ <entry>
+  <title>amirouche: letloop</title>
+  <author>
+   <name>amirouche</name>
+  </author>
+  <link href="https://github.com/amirouche/letloop" />
+  <id>urn:rprimus:github:amirouche:letloop</id>
+  <published>2022-08-27T16:45:01Z</published>
+  <updated>2022-08-27T16:45:01Z</updated>
+  <content type="html">
+   Opiniated wrapper on top Chez Scheme
+  </content>
+ </entry>
  <entry>
   <title>IvanDonat: scheming</title>
   <author>
@@ -67,45 +80,6 @@
   <updated>2022-08-26T08:34:35Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>schme: schemeray</title>
-  <author>
-   <name>schme</name>
-  </author>
-  <link href="https://github.com/schme/schemeray" />
-  <id>urn:rprimus:github:schme:schemeray</id>
-  <published>2022-08-25T22:18:47Z</published>
-  <updated>2022-08-25T22:18:47Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>takeokunn: takeguix</title>
-  <author>
-   <name>takeokunn</name>
-  </author>
-  <link href="https://github.com/takeokunn/takeguix" />
-  <id>urn:rprimus:github:takeokunn:takeguix</id>
-  <published>2022-08-25T19:25:33Z</published>
-  <updated>2022-08-25T19:25:33Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>mmai: guix-channel-rhumbs</title>
-  <author>
-   <name>mmai</name>
-  </author>
-  <link href="https://github.com/mmai/guix-channel-rhumbs" />
-  <id>urn:rprimus:github:mmai:guix-channel-rhumbs</id>
-  <published>2022-08-25T17:32:06Z</published>
-  <updated>2022-08-25T17:32:06Z</updated>
-  <content type="html">
-   My custom guix packages
   </content>
  </entry>
 </feed>

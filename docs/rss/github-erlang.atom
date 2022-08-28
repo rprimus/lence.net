@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-erlang.atom"/>
 <id>urn:rprimus:github:newerlangrepos</id>
-<updated>2022-08-27T05:04:12Z</updated>
+<updated>2022-08-28T02:19:29Z</updated>
 <title type='text'>New GitHub Erlang Repos</title>
+ <entry>
+  <title>k1complete: erlisp</title>
+  <author>
+   <name>k1complete</name>
+  </author>
+  <link href="https://github.com/k1complete/erlisp" />
+  <id>urn:rprimus:github:k1complete:erlisp</id>
+  <published>2022-08-28T02:19:29Z</published>
+  <updated>2022-08-28T02:19:29Z</updated>
+  <content type="html">
+   yet anothor lisp fravored erlang 
+  </content>
+ </entry>
+ <entry>
+  <title>ymdarake: erlang-for-great-good</title>
+  <author>
+   <name>ymdarake</name>
+  </author>
+  <link href="https://github.com/ymdarake/erlang-for-great-good" />
+  <id>urn:rprimus:github:ymdarake:erlang-for-great-good</id>
+  <published>2022-08-27T13:50:58Z</published>
+  <updated>2022-08-27T13:50:58Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>CloudI: cloudi_service_health_check</title>
   <author>
@@ -54,45 +80,6 @@
   <updated>2022-08-26T03:34:46Z</updated>
   <content type="html">
    libp2p-crypto-diy
-  </content>
- </entry>
- <entry>
-  <title>boomerlang: task_challenge</title>
-  <author>
-   <name>boomerlang</name>
-  </author>
-  <link href="https://github.com/boomerlang/task_challenge" />
-  <id>urn:rprimus:github:boomerlang:task_challenge</id>
-  <published>2022-08-25T07:58:40Z</published>
-  <updated>2022-08-25T07:58:40Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>QCute: pretty</title>
-  <author>
-   <name>QCute</name>
-  </author>
-  <link href="https://github.com/QCute/pretty" />
-  <id>urn:rprimus:github:QCute:pretty</id>
-  <published>2022-08-25T02:28:07Z</published>
-  <updated>2022-08-25T02:28:07Z</updated>
-  <content type="html">
-   A not intrusive pretty print tool
-  </content>
- </entry>
- <entry>
-  <title>QCute: color</title>
-  <author>
-   <name>QCute</name>
-  </author>
-  <link href="https://github.com/QCute/color" />
-  <id>urn:rprimus:github:QCute:color</id>
-  <published>2022-08-25T02:25:01Z</published>
-  <updated>2022-08-25T02:25:01Z</updated>
-  <content type="html">
-   Console Color Print Tool
   </content>
  </entry>
 </feed>
