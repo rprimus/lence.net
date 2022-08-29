@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-08-28T05:09:48Z</updated>
+<updated>2022-08-29T03:57:02Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>tojoqk: youtube-playlist</title>
+  <author>
+   <name>tojoqk</name>
+  </author>
+  <link href="https://github.com/tojoqk/youtube-playlist" />
+  <id>urn:rprimus:github:tojoqk:youtube-playlist</id>
+  <published>2022-08-29T03:57:02Z</published>
+  <updated>2022-08-29T03:57:02Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>ecooler: Assignment4-Lisp</title>
+  <author>
+   <name>ecooler</name>
+  </author>
+  <link href="https://github.com/ecooler/Assignment4-Lisp" />
+  <id>urn:rprimus:github:ecooler:Assignment4-Lisp</id>
+  <published>2022-08-29T02:57:02Z</published>
+  <updated>2022-08-29T02:57:02Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>kjnez: The-Hack-Virtual-Machine</title>
   <author>
@@ -11,23 +37,62 @@
   </author>
   <link href="https://github.com/kjnez/The-Hack-Virtual-Machine" />
   <id>urn:rprimus:github:kjnez:The-Hack-Virtual-Machine</id>
-  <published>2022-08-28T05:09:48Z</published>
-  <updated>2022-08-28T05:09:48Z</updated>
+  <published>2022-08-29T02:02:04Z</published>
+  <updated>2022-08-29T02:02:04Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>imadhui: understat</title>
+  <title>timotheosh: zfs-snapshot</title>
+  <author>
+   <name>timotheosh</name>
+  </author>
+  <link href="https://github.com/timotheosh/zfs-snapshot" />
+  <id>urn:rprimus:github:timotheosh:zfs-snapshot</id>
+  <published>2022-08-29T01:00:03Z</published>
+  <updated>2022-08-29T01:00:03Z</updated>
+  <content type="html">
+   A simple program for managing snapshots using the zfs commandline tools and Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>Shibachan1015: st88</title>
+  <author>
+   <name>Shibachan1015</name>
+  </author>
+  <link href="https://github.com/Shibachan1015/st88" />
+  <id>urn:rprimus:github:Shibachan1015:st88</id>
+  <published>2022-08-28T11:32:41Z</published>
+  <updated>2022-08-28T11:32:41Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>terryc321: sbcl-ncurses-tetris-003</title>
+  <author>
+   <name>terryc321</name>
+  </author>
+  <link href="https://github.com/terryc321/sbcl-ncurses-tetris-003" />
+  <id>urn:rprimus:github:terryc321:sbcl-ncurses-tetris-003</id>
+  <published>2022-08-28T09:42:28Z</published>
+  <updated>2022-08-28T09:42:28Z</updated>
+  <content type="html">
+   test the sbcl foreign function interface ffi to talk to ncurses and made a simple tetris game using colors
+  </content>
+ </entry>
+ <entry>
+  <title>imadhui: markr</title>
   <author>
    <name>imadhui</name>
   </author>
-  <link href="https://github.com/imadhui/understat" />
-  <id>urn:rprimus:github:imadhui:understat</id>
+  <link href="https://github.com/imadhui/markr" />
+  <id>urn:rprimus:github:imadhui:markr</id>
   <published>2022-08-28T03:53:20Z</published>
   <updated>2022-08-28T03:53:20Z</updated>
   <content type="html">
-   A text editor that just rocks!!!
+   A React like framework
   </content>
  </entry>
  <entry>
@@ -119,84 +184,6 @@
   <updated>2022-08-27T00:27:52Z</updated>
   <content type="html">
    Pinyin input method for CLIM. Developing.
-  </content>
- </entry>
- <entry>
-  <title>pokerdio: lisp</title>
-  <author>
-   <name>pokerdio</name>
-  </author>
-  <link href="https://github.com/pokerdio/lisp" />
-  <id>urn:rprimus:github:pokerdio:lisp</id>
-  <published>2022-08-26T12:04:48Z</published>
-  <updated>2022-08-26T12:04:48Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>engeljohnb: bio-game</title>
-  <author>
-   <name>engeljohnb</name>
-  </author>
-  <link href="https://github.com/engeljohnb/bio-game" />
-  <id>urn:rprimus:github:engeljohnb:bio-game</id>
-  <published>2022-08-26T09:57:53Z</published>
-  <updated>2022-08-26T09:57:53Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>engeljohnb: spill</title>
-  <author>
-   <name>engeljohnb</name>
-  </author>
-  <link href="https://github.com/engeljohnb/spill" />
-  <id>urn:rprimus:github:engeljohnb:spill</id>
-  <published>2022-08-26T09:48:13Z</published>
-  <updated>2022-08-26T09:48:13Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>thefossenjoyer: todo-lisp</title>
-  <author>
-   <name>thefossenjoyer</name>
-  </author>
-  <link href="https://github.com/thefossenjoyer/todo-lisp" />
-  <id>urn:rprimus:github:thefossenjoyer:todo-lisp</id>
-  <published>2022-08-26T07:49:51Z</published>
-  <updated>2022-08-26T07:49:51Z</updated>
-  <content type="html">
-   A todo app written in Common Lisp.
-  </content>
- </entry>
- <entry>
-  <title>IisNuINu: kaveh808-lessons-in-cl-opengl</title>
-  <author>
-   <name>IisNuINu</name>
-  </author>
-  <link href="https://github.com/IisNuINu/kaveh808-lessons-in-cl-opengl" />
-  <id>urn:rprimus:github:IisNuINu:kaveh808-lessons-in-cl-opengl</id>
-  <published>2022-08-26T06:11:12Z</published>
-  <updated>2022-08-26T06:11:12Z</updated>
-  <content type="html">
-   Common Lisp lessons from keveh808 adapted for the cl-opengl library. They work on Linux and Windows
-  </content>
- </entry>
- <entry>
-  <title>OpenGOAL-Unofficial-Mods: opengoal-mod-base</title>
-  <author>
-   <name>OpenGOAL-Unofficial-Mods</name>
-  </author>
-  <link href="https://github.com/OpenGOAL-Unofficial-Mods/opengoal-mod-base" />
-  <id>urn:rprimus:github:OpenGOAL-Unofficial-Mods:opengoal-mod-base</id>
-  <published>2022-08-26T01:04:20Z</published>
-  <updated>2022-08-26T01:04:20Z</updated>
-  <content type="html">
-   A base openGOAL repo for mods that will be supported via opengoal-mod-launcher
   </content>
  </entry>
 </feed>
