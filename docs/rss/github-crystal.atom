@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2022-08-28T20:50:41Z</updated>
+<updated>2022-08-30T02:16:11Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>compumike: idle-gc</title>
+  <author>
+   <name>compumike</name>
+  </author>
+  <link href="https://github.com/compumike/idle-gc" />
+  <id>urn:rprimus:github:compumike:idle-gc</id>
+  <published>2022-08-30T02:16:11Z</published>
+  <updated>2022-08-30T02:16:11Z</updated>
+  <content type="html">
+   Idle-period garbage collection for Crystal. Reduce memory usage.
+  </content>
+ </entry>
+ <entry>
+  <title>creadone: cbloom</title>
+  <author>
+   <name>creadone</name>
+  </author>
+  <link href="https://github.com/creadone/cbloom" />
+  <id>urn:rprimus:github:creadone:cbloom</id>
+  <published>2022-08-29T19:22:55Z</published>
+  <updated>2022-08-29T19:22:55Z</updated>
+  <content type="html">
+   Sharded Bloom Filter
+  </content>
+ </entry>
+ <entry>
+  <title>stamchris: Board-game-</title>
+  <author>
+   <name>stamchris</name>
+  </author>
+  <link href="https://github.com/stamchris/Board-game-" />
+  <id>urn:rprimus:github:stamchris:Board-game-</id>
+  <published>2022-08-29T16:06:11Z</published>
+  <updated>2022-08-29T16:06:11Z</updated>
+  <content type="html">
+   A group project with the goal to create a web version of a board game . My role : Front-end ( using QML )
+  </content>
+ </entry>
+ <entry>
+  <title>wyzlle: railway-bugs</title>
+  <author>
+   <name>wyzlle</name>
+  </author>
+  <link href="https://github.com/wyzlle/railway-bugs" />
+  <id>urn:rprimus:github:wyzlle:railway-bugs</id>
+  <published>2022-08-29T12:17:20Z</published>
+  <updated>2022-08-29T12:17:20Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>dscottboggs: log-json_formatter</title>
   <author>
@@ -15,19 +67,6 @@
   <updated>2022-08-28T20:50:41Z</updated>
   <content type="html">
    (Crystal) A formatter for JSON-encoded logs to an IO
-  </content>
- </entry>
- <entry>
-  <title>636f7374: railway-bugs</title>
-  <author>
-   <name>636f7374</name>
-  </author>
-  <link href="https://github.com/636f7374/railway-bugs" />
-  <id>urn:rprimus:github:636f7374:railway-bugs</id>
-  <published>2022-08-27T16:52:38Z</published>
-  <updated>2022-08-27T16:52:38Z</updated>
-  <content type="html">
-   railway-bugs #443
   </content>
  </entry>
 </feed>
