@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2022-09-01T04:31:51Z</updated>
+<updated>2022-09-01T05:32:15Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>Erik142: emacs-config</title>
+  <author>
+   <name>Erik142</name>
+  </author>
+  <link href="https://github.com/Erik142/emacs-config" />
+  <id>urn:rprimus:github:Erik142:emacs-config</id>
+  <published>2022-09-01T05:32:15Z</published>
+  <updated>2022-09-01T05:32:15Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>bholten: emacs.d</title>
   <author>
@@ -41,6 +54,19 @@
   <updated>2022-09-01T02:37:14Z</updated>
   <content type="html">
    My .emacs.d directory, used by myself, hope it can help others:)
+  </content>
+ </entry>
+ <entry>
+  <title>bigjackCN: .emacs.d</title>
+  <author>
+   <name>bigjackCN</name>
+  </author>
+  <link href="https://github.com/bigjackCN/.emacs.d" />
+  <id>urn:rprimus:github:bigjackCN:.emacs.d</id>
+  <published>2022-09-01T02:06:35Z</published>
+  <updated>2022-09-01T02:06:35Z</updated>
+  <content type="html">
+   
   </content>
  </entry>
  <entry>
@@ -96,12 +122,12 @@
   </content>
  </entry>
  <entry>
-  <title>agraul: doom-theme-alabaster</title>
+  <title>agraul: doom-alabaster-theme</title>
   <author>
    <name>agraul</name>
   </author>
-  <link href="https://github.com/agraul/doom-theme-alabaster" />
-  <id>urn:rprimus:github:agraul:doom-theme-alabaster</id>
+  <link href="https://github.com/agraul/doom-alabaster-theme" />
+  <id>urn:rprimus:github:agraul:doom-alabaster-theme</id>
   <published>2022-08-31T16:48:49Z</published>
   <updated>2022-08-31T16:48:49Z</updated>
   <content type="html">
@@ -118,7 +144,7 @@
   <published>2022-08-31T16:28:05Z</published>
   <updated>2022-08-31T16:28:05Z</updated>
   <content type="html">
-   a messy init file for now... mostly... :D
+   my emacs configurations.  a messy init file for now... mostly... :D
   </content>
  </entry>
  <entry>
