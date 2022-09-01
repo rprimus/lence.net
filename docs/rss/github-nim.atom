@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2022-08-31T07:50:54Z</updated>
+<updated>2022-09-01T01:25:47Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>Relyze: csnim</title>
+  <author>
+   <name>Relyze</name>
+  </author>
+  <link href="https://github.com/Relyze/csnim" />
+  <id>urn:rprimus:github:Relyze:csnim</id>
+  <published>2022-09-01T01:25:47Z</published>
+  <updated>2022-09-01T01:25:47Z</updated>
+  <content type="html">
+   basic external counterstrike cheat coded in nim.
+  </content>
+ </entry>
+ <entry>
+  <title>CircArgs: parsnim</title>
+  <author>
+   <name>CircArgs</name>
+  </author>
+  <link href="https://github.com/CircArgs/parsnim" />
+  <id>urn:rprimus:github:CircArgs:parsnim</id>
+  <published>2022-09-01T01:07:30Z</published>
+  <updated>2022-09-01T01:07:30Z</updated>
+  <content type="html">
+   a parser combinator in nim 
+  </content>
+ </entry>
+ <entry>
+  <title>Kava4: PyMPGH</title>
+  <author>
+   <name>Kava4</name>
+  </author>
+  <link href="https://github.com/Kava4/PyMPGH" />
+  <id>urn:rprimus:github:Kava4:PyMPGH</id>
+  <published>2022-08-31T21:46:35Z</published>
+  <updated>2022-08-31T21:46:35Z</updated>
+  <content type="html">
+   Cross platform (Windows / Linux) Python Library for external Game Hacking Combines many different libraries into one.
+  </content>
+ </entry>
+ <entry>
+  <title>thatrandomperson5: gitdist</title>
+  <author>
+   <name>thatrandomperson5</name>
+  </author>
+  <link href="https://github.com/thatrandomperson5/gitdist" />
+  <id>urn:rprimus:github:thatrandomperson5:gitdist</id>
+  <published>2022-08-31T15:26:31Z</published>
+  <updated>2022-08-31T15:26:31Z</updated>
+  <content type="html">
+   Easily distribute your CLI tools from GitHub!
+  </content>
+ </entry>
+ <entry>
+  <title>d4rckh: nim-tlv</title>
+  <author>
+   <name>d4rckh</name>
+  </author>
+  <link href="https://github.com/d4rckh/nim-tlv" />
+  <id>urn:rprimus:github:d4rckh:nim-tlv</id>
+  <published>2022-08-31T10:11:10Z</published>
+  <updated>2022-08-31T10:11:10Z</updated>
+  <content type="html">
+   tlv building and parsing in nim
+  </content>
+ </entry>
  <entry>
   <title>enthus1ast: nimStopwords</title>
   <author>
@@ -93,84 +158,6 @@
   <updated>2022-08-30T06:34:24Z</updated>
   <content type="html">
    An experiment with RNNs learning with evolution. Most simulations like these use flat neural networks, I wonder what will happen when memory can be learned?
-  </content>
- </entry>
- <entry>
-  <title>notsatvrn: block-it-all</title>
-  <author>
-   <name>notsatvrn</name>
-  </author>
-  <link href="https://github.com/notsatvrn/block-it-all" />
-  <id>urn:rprimus:github:notsatvrn:block-it-all</id>
-  <published>2022-08-29T22:35:09Z</published>
-  <updated>2022-08-29T22:35:09Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>alistairkeys: guessword</title>
-  <author>
-   <name>alistairkeys</name>
-  </author>
-  <link href="https://github.com/alistairkeys/guessword" />
-  <id>urn:rprimus:github:alistairkeys:guessword</id>
-  <published>2022-08-29T20:56:51Z</published>
-  <updated>2022-08-29T20:56:51Z</updated>
-  <content type="html">
-   A word guessing game written in Nim
-  </content>
- </entry>
- <entry>
-  <title>kudu-dynamics: teleidoscope</title>
-  <author>
-   <name>kudu-dynamics</name>
-  </author>
-  <link href="https://github.com/kudu-dynamics/teleidoscope" />
-  <id>urn:rprimus:github:kudu-dynamics:teleidoscope</id>
-  <published>2022-08-29T18:47:06Z</published>
-  <updated>2022-08-29T18:47:06Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>status-im: nim-binary-serialization</title>
-  <author>
-   <name>status-im</name>
-  </author>
-  <link href="https://github.com/status-im/nim-binary-serialization" />
-  <id>urn:rprimus:github:status-im:nim-binary-serialization</id>
-  <published>2022-08-29T15:10:27Z</published>
-  <updated>2022-08-29T15:10:27Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>dadyarri: dotversion</title>
-  <author>
-   <name>dadyarri</name>
-  </author>
-  <link href="https://github.com/dadyarri/dotversion" />
-  <id>urn:rprimus:github:dadyarri:dotversion</id>
-  <published>2022-08-29T07:48:41Z</published>
-  <updated>2022-08-29T07:48:41Z</updated>
-  <content type="html">
-   Dotversion is an application to increase version of .NET applications according to SemVer (https://semver.org)
-  </content>
- </entry>
- <entry>
-  <title>crosstyan: nim-agora-example</title>
-  <author>
-   <name>crosstyan</name>
-  </author>
-  <link href="https://github.com/crosstyan/nim-agora-example" />
-  <id>urn:rprimus:github:crosstyan:nim-agora-example</id>
-  <published>2022-08-29T05:00:38Z</published>
-  <updated>2022-08-29T05:00:38Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
