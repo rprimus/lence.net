@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-09-01T04:56:09Z</updated>
+<updated>2022-09-01T22:04:26Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>svetlyak40wt: trivial-signal-example</title>
+  <author>
+   <name>svetlyak40wt</name>
+  </author>
+  <link href="https://github.com/svetlyak40wt/trivial-signal-example" />
+  <id>urn:rprimus:github:svetlyak40wt:trivial-signal-example</id>
+  <published>2022-09-01T22:04:26Z</published>
+  <updated>2022-09-01T22:04:26Z</updated>
+  <content type="html">
+   This is a demo of TRIVIAL-SIGNAL Common Lisp library usage
+  </content>
+ </entry>
+ <entry>
+  <title>rudolfochrist: cl-manager</title>
+  <author>
+   <name>rudolfochrist</name>
+  </author>
+  <link href="https://github.com/rudolfochrist/cl-manager" />
+  <id>urn:rprimus:github:rudolfochrist:cl-manager</id>
+  <published>2022-09-01T19:38:02Z</published>
+  <updated>2022-09-01T19:38:02Z</updated>
+  <content type="html">
+   A Common Lisp Package/System/Project/Library Manager
+  </content>
+ </entry>
+ <entry>
+  <title>deftransform: common-setup</title>
+  <author>
+   <name>deftransform</name>
+  </author>
+  <link href="https://github.com/deftransform/common-setup" />
+  <id>urn:rprimus:github:deftransform:common-setup</id>
+  <published>2022-09-01T18:38:05Z</published>
+  <updated>2022-09-01T18:38:05Z</updated>
+  <content type="html">
+   Setup code for Common Lisp in editors
+  </content>
+ </entry>
  <entry>
   <title>littletsu: bullet-sim</title>
   <author>
@@ -54,32 +93,6 @@
   <updated>2022-08-31T03:29:32Z</updated>
   <content type="html">
    Git utilities
-  </content>
- </entry>
- <entry>
-  <title>Costigan: rp_driving_model</title>
-  <author>
-   <name>Costigan</name>
-  </author>
-  <link href="https://github.com/Costigan/rp_driving_model" />
-  <id>urn:rprimus:github:Costigan:rp_driving_model</id>
-  <published>2022-08-30T22:37:23Z</published>
-  <updated>2022-08-30T22:37:23Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ghollisjr: readpass</title>
-  <author>
-   <name>ghollisjr</name>
-  </author>
-  <link href="https://github.com/ghollisjr/readpass" />
-  <id>urn:rprimus:github:ghollisjr:readpass</id>
-  <published>2022-08-30T20:44:02Z</published>
-  <updated>2022-08-30T20:44:02Z</updated>
-  <content type="html">
-   Common Lisp LTK password reader
   </content>
  </entry>
 </feed>
