@@ -2,8 +2,138 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2022-09-02T08:38:49Z</updated>
+<updated>2022-09-03T03:12:47Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>DIGITVLPUTO: .dotfiles</title>
+  <author>
+   <name>DIGITVLPUTO</name>
+  </author>
+  <link href="https://github.com/DIGITVLPUTO/.dotfiles" />
+  <id>urn:rprimus:github:DIGITVLPUTO:.dotfiles</id>
+  <published>2022-09-03T03:12:47Z</published>
+  <updated>2022-09-03T03:12:47Z</updated>
+  <content type="html">
+   dot files
+  </content>
+ </entry>
+ <entry>
+  <title>emacs-straight: ement</title>
+  <author>
+   <name>emacs-straight</name>
+  </author>
+  <link href="https://github.com/emacs-straight/ement" />
+  <id>urn:rprimus:github:emacs-straight:ement</id>
+  <published>2022-09-03T00:05:31Z</published>
+  <updated>2022-09-03T00:05:31Z</updated>
+  <content type="html">
+   Mirror of the ement package from GNU ELPA, current as of 2022-09-03
+  </content>
+ </entry>
+ <entry>
+  <title>kisaragi-hiu: interris</title>
+  <author>
+   <name>kisaragi-hiu</name>
+  </author>
+  <link href="https://github.com/kisaragi-hiu/interris" />
+  <id>urn:rprimus:github:kisaragi-hiu:interris</id>
+  <published>2022-09-02T18:23:35Z</published>
+  <updated>2022-09-02T18:23:35Z</updated>
+  <content type="html">
+   An interactive replace-regexp-in-string previewer.
+  </content>
+ </entry>
+ <entry>
+  <title>DustyQuince: home-manager</title>
+  <author>
+   <name>DustyQuince</name>
+  </author>
+  <link href="https://github.com/DustyQuince/home-manager" />
+  <id>urn:rprimus:github:DustyQuince:home-manager</id>
+  <published>2022-09-02T15:03:11Z</published>
+  <updated>2022-09-02T15:03:11Z</updated>
+  <content type="html">
+   My home-manager configuration
+  </content>
+ </entry>
+ <entry>
+  <title>GabrielRavier: my-dotfiles</title>
+  <author>
+   <name>GabrielRavier</name>
+  </author>
+  <link href="https://github.com/GabrielRavier/my-dotfiles" />
+  <id>urn:rprimus:github:GabrielRavier:my-dotfiles</id>
+  <published>2022-09-02T14:30:32Z</published>
+  <updated>2022-09-02T14:30:32Z</updated>
+  <content type="html">
+   The dotfiles I use on my machine (and presumably on the machines I will use in the future)
+  </content>
+ </entry>
+ <entry>
+  <title>Zagyarakushi: website</title>
+  <author>
+   <name>Zagyarakushi</name>
+  </author>
+  <link href="https://github.com/Zagyarakushi/website" />
+  <id>urn:rprimus:github:Zagyarakushi:website</id>
+  <published>2022-09-02T13:53:04Z</published>
+  <updated>2022-09-02T13:53:04Z</updated>
+  <content type="html">
+   Mirror of website from GitLab
+  </content>
+ </entry>
+ <entry>
+  <title>bigjackCN: .emacs.d</title>
+  <author>
+   <name>bigjackCN</name>
+  </author>
+  <link href="https://github.com/bigjackCN/.emacs.d" />
+  <id>urn:rprimus:github:bigjackCN:.emacs.d</id>
+  <published>2022-09-02T13:17:24Z</published>
+  <updated>2022-09-02T13:17:24Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>beetleman: .doom.d</title>
+  <author>
+   <name>beetleman</name>
+  </author>
+  <link href="https://github.com/beetleman/.doom.d" />
+  <id>urn:rprimus:github:beetleman:.doom.d</id>
+  <published>2022-09-02T12:10:41Z</published>
+  <updated>2022-09-02T12:10:41Z</updated>
+  <content type="html">
+   doom emacs config
+  </content>
+ </entry>
+ <entry>
+  <title>artbristol: elisp</title>
+  <author>
+   <name>artbristol</name>
+  </author>
+  <link href="https://github.com/artbristol/elisp" />
+  <id>urn:rprimus:github:artbristol:elisp</id>
+  <published>2022-09-02T10:40:20Z</published>
+  <updated>2022-09-02T10:40:20Z</updated>
+  <content type="html">
+   lisp noodling
+  </content>
+ </entry>
+ <entry>
+  <title>clivemeister: configs</title>
+  <author>
+   <name>clivemeister</name>
+  </author>
+  <link href="https://github.com/clivemeister/configs" />
+  <id>urn:rprimus:github:clivemeister:configs</id>
+  <published>2022-09-02T09:58:53Z</published>
+  <updated>2022-09-02T09:58:53Z</updated>
+  <content type="html">
+   standard configuration files
+  </content>
+ </entry>
  <entry>
   <title>shutosheep: .emacs.d</title>
   <author>
@@ -14,7 +144,7 @@
   <published>2022-09-02T08:38:49Z</published>
   <updated>2022-09-02T08:38:49Z</updated>
   <content type="html">
-   
+   My emacs config
   </content>
  </entry>
  <entry>
@@ -135,19 +265,6 @@
   </content>
  </entry>
  <entry>
-  <title>bigjackCN: .emacs.d</title>
-  <author>
-   <name>bigjackCN</name>
-  </author>
-  <link href="https://github.com/bigjackCN/.emacs.d" />
-  <id>urn:rprimus:github:bigjackCN:.emacs.d</id>
-  <published>2022-09-01T02:06:35Z</published>
-  <updated>2022-09-01T02:06:35Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
   <title>glmas: emacsInit</title>
   <author>
    <name>glmas</name>
@@ -171,227 +288,6 @@
   <updated>2022-09-01T01:15:43Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>ericmeek: dotfiles</title>
-  <author>
-   <name>ericmeek</name>
-  </author>
-  <link href="https://github.com/ericmeek/dotfiles" />
-  <id>urn:rprimus:github:ericmeek:dotfiles</id>
-  <published>2022-08-31T23:20:52Z</published>
-  <updated>2022-08-31T23:20:52Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>andres19r: doom-config</title>
-  <author>
-   <name>andres19r</name>
-  </author>
-  <link href="https://github.com/andres19r/doom-config" />
-  <id>urn:rprimus:github:andres19r:doom-config</id>
-  <published>2022-08-31T23:16:53Z</published>
-  <updated>2022-08-31T23:16:53Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>agraul: doom-alabaster-theme</title>
-  <author>
-   <name>agraul</name>
-  </author>
-  <link href="https://github.com/agraul/doom-alabaster-theme" />
-  <id>urn:rprimus:github:agraul:doom-alabaster-theme</id>
-  <published>2022-08-31T16:48:49Z</published>
-  <updated>2022-08-31T16:48:49Z</updated>
-  <content type="html">
-   Port of Alabaster color scheme for Doom Emacs
-  </content>
- </entry>
- <entry>
-  <title>prometeh: emacs-dotfiles</title>
-  <author>
-   <name>prometeh</name>
-  </author>
-  <link href="https://github.com/prometeh/emacs-dotfiles" />
-  <id>urn:rprimus:github:prometeh:emacs-dotfiles</id>
-  <published>2022-08-31T16:28:05Z</published>
-  <updated>2022-08-31T16:28:05Z</updated>
-  <content type="html">
-   my emacs configurations.  a messy init file for now... mostly... :D
-  </content>
- </entry>
- <entry>
-  <title>ISouthRain: .doom.d</title>
-  <author>
-   <name>ISouthRain</name>
-  </author>
-  <link href="https://github.com/ISouthRain/.doom.d" />
-  <id>urn:rprimus:github:ISouthRain:.doom.d</id>
-  <published>2022-08-31T15:36:52Z</published>
-  <updated>2022-08-31T15:36:52Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>MooersLab: latex-emacs</title>
-  <author>
-   <name>MooersLab</name>
-  </author>
-  <link href="https://github.com/MooersLab/latex-emacs" />
-  <id>urn:rprimus:github:MooersLab:latex-emacs</id>
-  <published>2022-08-31T15:13:18Z</published>
-  <updated>2022-08-31T15:13:18Z</updated>
-  <content type="html">
-   Emacs profile for LaTeX.
-  </content>
- </entry>
- <entry>
-  <title>u32int: emacs</title>
-  <author>
-   <name>u32int</name>
-  </author>
-  <link href="https://github.com/u32int/emacs" />
-  <id>urn:rprimus:github:u32int:emacs</id>
-  <published>2022-08-31T14:19:28Z</published>
-  <updated>2022-08-31T14:19:28Z</updated>
-  <content type="html">
-   small GNU Emacs IDE config
-  </content>
- </entry>
- <entry>
-  <title>toyatch: .emacs.d</title>
-  <author>
-   <name>toyatch</name>
-  </author>
-  <link href="https://github.com/toyatch/.emacs.d" />
-  <id>urn:rprimus:github:toyatch:.emacs.d</id>
-  <published>2022-08-31T12:52:57Z</published>
-  <updated>2022-08-31T12:52:57Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>sarathc-git: dotfiles</title>
-  <author>
-   <name>sarathc-git</name>
-  </author>
-  <link href="https://github.com/sarathc-git/dotfiles" />
-  <id>urn:rprimus:github:sarathc-git:dotfiles</id>
-  <published>2022-08-31T12:34:02Z</published>
-  <updated>2022-08-31T12:34:02Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>mrolappe: amigaguide-mode</title>
-  <author>
-   <name>mrolappe</name>
-  </author>
-  <link href="https://github.com/mrolappe/amigaguide-mode" />
-  <id>urn:rprimus:github:mrolappe:amigaguide-mode</id>
-  <published>2022-08-31T10:30:15Z</published>
-  <updated>2022-08-31T10:30:15Z</updated>
-  <content type="html">
-   Emacs major mode for browsing AmigaGuide files
-  </content>
- </entry>
- <entry>
-  <title>MasterChief-kun: .doom.d</title>
-  <author>
-   <name>MasterChief-kun</name>
-  </author>
-  <link href="https://github.com/MasterChief-kun/.doom.d" />
-  <id>urn:rprimus:github:MasterChief-kun:.doom.d</id>
-  <published>2022-08-31T09:58:18Z</published>
-  <updated>2022-08-31T09:58:18Z</updated>
-  <content type="html">
-   Doom config files
-  </content>
- </entry>
- <entry>
-  <title>mrolappe: autodoc-mode</title>
-  <author>
-   <name>mrolappe</name>
-  </author>
-  <link href="https://github.com/mrolappe/autodoc-mode" />
-  <id>urn:rprimus:github:mrolappe:autodoc-mode</id>
-  <published>2022-08-31T09:28:50Z</published>
-  <updated>2022-08-31T09:28:50Z</updated>
-  <content type="html">
-   Emacs major mode for browsing Amiga autodocs
-  </content>
- </entry>
- <entry>
-  <title>Pepito-source: doomemacs-w--scimax</title>
-  <author>
-   <name>Pepito-source</name>
-  </author>
-  <link href="https://github.com/Pepito-source/doomemacs-w--scimax" />
-  <id>urn:rprimus:github:Pepito-source:doomemacs-w--scimax</id>
-  <published>2022-08-31T09:17:58Z</published>
-  <updated>2022-08-31T09:17:58Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>craigstjean: dotfiles</title>
-  <author>
-   <name>craigstjean</name>
-  </author>
-  <link href="https://github.com/craigstjean/dotfiles" />
-  <id>urn:rprimus:github:craigstjean:dotfiles</id>
-  <published>2022-08-31T06:25:58Z</published>
-  <updated>2022-08-31T06:25:58Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>FedericoPontoriero: doom-emacs-configs</title>
-  <author>
-   <name>FedericoPontoriero</name>
-  </author>
-  <link href="https://github.com/FedericoPontoriero/doom-emacs-configs" />
-  <id>urn:rprimus:github:FedericoPontoriero:doom-emacs-configs</id>
-  <published>2022-08-31T05:00:59Z</published>
-  <updated>2022-08-31T05:00:59Z</updated>
-  <content type="html">
-   Config files for doom emacs
-  </content>
- </entry>
- <entry>
-  <title>Yevgnen: org-fragtog-table</title>
-  <author>
-   <name>Yevgnen</name>
-  </author>
-  <link href="https://github.com/Yevgnen/org-fragtog-table" />
-  <id>urn:rprimus:github:Yevgnen:org-fragtog-table</id>
-  <published>2022-08-31T03:58:59Z</published>
-  <updated>2022-08-31T03:58:59Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>emacs-straight: zuul</title>
-  <author>
-   <name>emacs-straight</name>
-  </author>
-  <link href="https://github.com/emacs-straight/zuul" />
-  <id>urn:rprimus:github:emacs-straight:zuul</id>
-  <published>2022-08-31T00:07:54Z</published>
-  <updated>2022-08-31T00:07:54Z</updated>
-  <content type="html">
-   Mirror of the zuul package from GNU ELPA, current as of 2022-09-02
   </content>
  </entry>
 </feed>

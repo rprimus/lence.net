@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2022-09-02T07:30:18Z</updated>
+<updated>2022-09-03T00:14:41Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>metagn: smtp</title>
+  <author>
+   <name>metagn</name>
+  </author>
+  <link href="https://github.com/metagn/smtp" />
+  <id>urn:rprimus:github:metagn:smtp</id>
+  <published>2022-09-03T00:14:41Z</published>
+  <updated>2022-09-03T00:14:41Z</updated>
+  <content type="html">
+   SMTP client implementation, originally part of Nim standard library
+  </content>
+ </entry>
+ <entry>
+  <title>0xb4db01: Nimlang-IPAddressV4</title>
+  <author>
+   <name>0xb4db01</name>
+  </author>
+  <link href="https://github.com/0xb4db01/Nimlang-IPAddressV4" />
+  <id>urn:rprimus:github:0xb4db01:Nimlang-IPAddressV4</id>
+  <published>2022-09-02T22:08:18Z</published>
+  <updated>2022-09-02T22:08:18Z</updated>
+  <content type="html">
+   Simple IPv4 address module for calculating subnets, masks, network addresses, broadcast addresses, ...
+  </content>
+ </entry>
+ <entry>
+  <title>C-NERD: clown_limiter</title>
+  <author>
+   <name>C-NERD</name>
+  </author>
+  <link href="https://github.com/C-NERD/clown_limiter" />
+  <id>urn:rprimus:github:C-NERD:clown_limiter</id>
+  <published>2022-09-02T21:16:12Z</published>
+  <updated>2022-09-02T21:16:12Z</updated>
+  <content type="html">
+   Jester rate limiter plugin
+  </content>
+ </entry>
+ <entry>
+  <title>d4rckh: nim-coff</title>
+  <author>
+   <name>d4rckh</name>
+  </author>
+  <link href="https://github.com/d4rckh/nim-coff" />
+  <id>urn:rprimus:github:d4rckh:nim-coff</id>
+  <published>2022-09-02T17:12:53Z</published>
+  <updated>2022-09-02T17:12:53Z</updated>
+  <content type="html">
+   coff loader written in nim
+  </content>
+ </entry>
+ <entry>
+  <title>Paszxy: Nim-Lang-SFML-Game-Starter</title>
+  <author>
+   <name>Paszxy</name>
+  </author>
+  <link href="https://github.com/Paszxy/Nim-Lang-SFML-Game-Starter" />
+  <id>urn:rprimus:github:Paszxy:Nim-Lang-SFML-Game-Starter</id>
+  <published>2022-09-02T14:29:11Z</published>
+  <updated>2022-09-02T14:29:11Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>diljith369: nim4Pentest</title>
+  <author>
+   <name>diljith369</name>
+  </author>
+  <link href="https://github.com/diljith369/nim4Pentest" />
+  <id>urn:rprimus:github:diljith369:nim4Pentest</id>
+  <published>2022-09-02T10:52:43Z</published>
+  <updated>2022-09-02T10:52:43Z</updated>
+  <content type="html">
+   My nim learning experiments
+  </content>
+ </entry>
  <entry>
   <title>PMunch: deriveables</title>
   <author>
@@ -145,71 +223,6 @@
   <updated>2022-09-01T01:07:30Z</updated>
   <content type="html">
    a parser combinator in nim 
-  </content>
- </entry>
- <entry>
-  <title>Kava4: PyMPGH</title>
-  <author>
-   <name>Kava4</name>
-  </author>
-  <link href="https://github.com/Kava4/PyMPGH" />
-  <id>urn:rprimus:github:Kava4:PyMPGH</id>
-  <published>2022-08-31T21:46:35Z</published>
-  <updated>2022-08-31T21:46:35Z</updated>
-  <content type="html">
-   Cross platform (Windows / Linux) Python Library for external Game Hacking Combines many different libraries into one.
-  </content>
- </entry>
- <entry>
-  <title>thatrandomperson5: gitdist</title>
-  <author>
-   <name>thatrandomperson5</name>
-  </author>
-  <link href="https://github.com/thatrandomperson5/gitdist" />
-  <id>urn:rprimus:github:thatrandomperson5:gitdist</id>
-  <published>2022-08-31T15:26:31Z</published>
-  <updated>2022-08-31T15:26:31Z</updated>
-  <content type="html">
-   Easily distribute your CLI tools from GitHub!
-  </content>
- </entry>
- <entry>
-  <title>d4rckh: nim-tlv</title>
-  <author>
-   <name>d4rckh</name>
-  </author>
-  <link href="https://github.com/d4rckh/nim-tlv" />
-  <id>urn:rprimus:github:d4rckh:nim-tlv</id>
-  <published>2022-08-31T10:11:10Z</published>
-  <updated>2022-08-31T10:11:10Z</updated>
-  <content type="html">
-   tlv building and parsing in nim
-  </content>
- </entry>
- <entry>
-  <title>enthus1ast: nimStopwords</title>
-  <author>
-   <name>enthus1ast</name>
-  </author>
-  <link href="https://github.com/enthus1ast/nimStopwords" />
-  <id>urn:rprimus:github:enthus1ast:nimStopwords</id>
-  <published>2022-08-31T07:50:54Z</published>
-  <updated>2022-08-31T07:50:54Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>HelloLingC: Pear</title>
-  <author>
-   <name>HelloLingC</name>
-  </author>
-  <link href="https://github.com/HelloLingC/Pear" />
-  <id>urn:rprimus:github:HelloLingC:Pear</id>
-  <published>2022-08-31T05:57:47Z</published>
-  <updated>2022-08-31T05:57:47Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
