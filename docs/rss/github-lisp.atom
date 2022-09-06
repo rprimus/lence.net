@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-09-05T08:30:24Z</updated>
+<updated>2022-09-06T00:25:15Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>sbenitezb: atb</title>
+  <author>
+   <name>sbenitezb</name>
+  </author>
+  <link href="https://github.com/sbenitezb/atb" />
+  <id>urn:rprimus:github:sbenitezb:atb</id>
+  <published>2022-09-06T00:25:15Z</published>
+  <updated>2022-09-06T00:25:15Z</updated>
+  <content type="html">
+   Astronomer&#039;s ToolBox for Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>mctuva: ccl-armv8-early-experiments</title>
+  <author>
+   <name>mctuva</name>
+  </author>
+  <link href="https://github.com/mctuva/ccl-armv8-early-experiments" />
+  <id>urn:rprimus:github:mctuva:ccl-armv8-early-experiments</id>
+  <published>2022-09-05T21:09:34Z</published>
+  <updated>2022-09-05T21:09:34Z</updated>
+  <content type="html">
+   Simulators: subset of x86, 32- and 64-bit ARM, CCL compiler output: Lisp examples, hand-compiled: ARMv8 code
+  </content>
+ </entry>
  <entry>
   <title>atlas-engineer: cl-xmpp</title>
   <author>
@@ -67,58 +93,6 @@
   <updated>2022-09-04T04:42:41Z</updated>
   <content type="html">
    A video game music player written in Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>millejoh: cl-libpff</title>
-  <author>
-   <name>millejoh</name>
-  </author>
-  <link href="https://github.com/millejoh/cl-libpff" />
-  <id>urn:rprimus:github:millejoh:cl-libpff</id>
-  <published>2022-09-03T23:32:49Z</published>
-  <updated>2022-09-03T23:32:49Z</updated>
-  <content type="html">
-   Common Lisp wrapper for libpff.
-  </content>
- </entry>
- <entry>
-  <title>Junker: stumpwm-notifier</title>
-  <author>
-   <name>Junker</name>
-  </author>
-  <link href="https://github.com/Junker/stumpwm-notifier" />
-  <id>urn:rprimus:github:Junker:stumpwm-notifier</id>
-  <published>2022-09-03T09:13:49Z</published>
-  <updated>2022-09-03T09:13:49Z</updated>
-  <content type="html">
-   StumpWM module for sending desktop notifications
-  </content>
- </entry>
- <entry>
-  <title>nbljaved96: stumpwm-config</title>
-  <author>
-   <name>nbljaved96</name>
-  </author>
-  <link href="https://github.com/nbljaved96/stumpwm-config" />
-  <id>urn:rprimus:github:nbljaved96:stumpwm-config</id>
-  <published>2022-09-03T08:41:31Z</published>
-  <updated>2022-09-03T08:41:31Z</updated>
-  <content type="html">
-   My ~/.stumpwm.d
-  </content>
- </entry>
- <entry>
-  <title>wunki: cl-petar</title>
-  <author>
-   <name>wunki</name>
-  </author>
-  <link href="https://github.com/wunki/cl-petar" />
-  <id>urn:rprimus:github:wunki:cl-petar</id>
-  <published>2022-09-03T06:00:12Z</published>
-  <updated>2022-09-03T06:00:12Z</updated>
-  <content type="html">
-   Common Lisp utilities that I use a lot
   </content>
  </entry>
 </feed>
