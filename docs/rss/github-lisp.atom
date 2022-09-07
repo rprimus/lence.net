@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-09-06T05:51:46Z</updated>
+<updated>2022-09-07T06:03:57Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>chang-hs: commonlisp</title>
+  <author>
+   <name>chang-hs</name>
+  </author>
+  <link href="https://github.com/chang-hs/commonlisp" />
+  <id>urn:rprimus:github:chang-hs:commonlisp</id>
+  <published>2022-09-07T06:03:57Z</published>
+  <updated>2022-09-07T06:03:57Z</updated>
+  <content type="html">
+   Patient management system using common lisp
+  </content>
+ </entry>
+ <entry>
+  <title>afranson: Lisp-MCMC</title>
+  <author>
+   <name>afranson</name>
+  </author>
+  <link href="https://github.com/afranson/Lisp-MCMC" />
+  <id>urn:rprimus:github:afranson:Lisp-MCMC</id>
+  <published>2022-09-07T00:15:33Z</published>
+  <updated>2022-09-07T00:15:33Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>joanmarto: Canons</title>
+  <author>
+   <name>joanmarto</name>
+  </author>
+  <link href="https://github.com/joanmarto/Canons" />
+  <id>urn:rprimus:github:joanmarto:Canons</id>
+  <published>2022-09-06T19:11:22Z</published>
+  <updated>2022-09-06T19:11:22Z</updated>
+  <content type="html">
+   PrÃ¡ctica final de la asignatura Lenguajes de ProgramaciÃ³n, UIB curso 2020-2021
+  </content>
+ </entry>
+ <entry>
+  <title>cutching: Lisp-Project-401</title>
+  <author>
+   <name>cutching</name>
+  </author>
+  <link href="https://github.com/cutching/Lisp-Project-401" />
+  <id>urn:rprimus:github:cutching:Lisp-Project-401</id>
+  <published>2022-09-06T18:44:05Z</published>
+  <updated>2022-09-06T18:44:05Z</updated>
+  <content type="html">
+   Lisp Project Done in 401
+  </content>
+ </entry>
+ <entry>
+  <title>timeolord: infix-reader</title>
+  <author>
+   <name>timeolord</name>
+  </author>
+  <link href="https://github.com/timeolord/infix-reader" />
+  <id>urn:rprimus:github:timeolord:infix-reader</id>
+  <published>2022-09-06T17:53:10Z</published>
+  <updated>2022-09-06T17:53:10Z</updated>
+  <content type="html">
+   A reader macro that enables prefix notation in common lisp.
+  </content>
+ </entry>
  <entry>
   <title>RyanBurnside: rb-vec</title>
   <author>
@@ -28,19 +93,6 @@
   <updated>2022-09-06T03:30:40Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>sbenitezb: atb</title>
-  <author>
-   <name>sbenitezb</name>
-  </author>
-  <link href="https://github.com/sbenitezb/atb" />
-  <id>urn:rprimus:github:sbenitezb:atb</id>
-  <published>2022-09-06T00:25:15Z</published>
-  <updated>2022-09-06T00:25:15Z</updated>
-  <content type="html">
-   Astronomer&#039;s ToolBox for Common Lisp
   </content>
  </entry>
  <entry>
@@ -106,32 +158,6 @@
   <updated>2022-09-05T02:42:00Z</updated>
   <content type="html">
    My personal collection of utilities
-  </content>
- </entry>
- <entry>
-  <title>windflaag: oo-ext</title>
-  <author>
-   <name>windflaag</name>
-  </author>
-  <link href="https://github.com/windflaag/oo-ext" />
-  <id>urn:rprimus:github:windflaag:oo-ext</id>
-  <published>2022-09-04T17:12:14Z</published>
-  <updated>2022-09-04T17:12:14Z</updated>
-  <content type="html">
-   Object Oriented Extensions for Lisp and Prolog - University inspired project
-  </content>
- </entry>
- <entry>
-  <title>BohongHuang: vgmplay</title>
-  <author>
-   <name>BohongHuang</name>
-  </author>
-  <link href="https://github.com/BohongHuang/vgmplay" />
-  <id>urn:rprimus:github:BohongHuang:vgmplay</id>
-  <published>2022-09-04T04:42:41Z</published>
-  <updated>2022-09-04T04:42:41Z</updated>
-  <content type="html">
-   A video game music player written in Common Lisp
   </content>
  </entry>
 </feed>
