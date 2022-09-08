@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-09-08T02:45:04Z</updated>
+<updated>2022-09-08T07:03:18Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>rajasegar: cl-docker</title>
+  <author>
+   <name>rajasegar</name>
+  </author>
+  <link href="https://github.com/rajasegar/cl-docker" />
+  <id>urn:rprimus:github:rajasegar:cl-docker</id>
+  <published>2022-09-08T07:03:18Z</published>
+  <updated>2022-09-08T07:03:18Z</updated>
+  <content type="html">
+   Run your docker commands from your favorite Common Lisp REPLs
+  </content>
+ </entry>
+ <entry>
+  <title>sh-song: morai-niro</title>
+  <author>
+   <name>sh-song</name>
+  </author>
+  <link href="https://github.com/sh-song/morai-niro" />
+  <id>urn:rprimus:github:sh-song:morai-niro</id>
+  <published>2022-09-08T03:27:24Z</published>
+  <updated>2022-09-08T03:27:24Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>dubiousbreakfast: cl-latin-hc</title>
   <author>
@@ -118,7 +144,7 @@
   <published>2022-09-06T03:30:40Z</published>
   <updated>2022-09-06T03:30:40Z</updated>
   <content type="html">
-   
+   GestÃ£o de professores, alunos e matÃ©rias em linguagem Lisp.
   </content>
  </entry>
 </feed>
