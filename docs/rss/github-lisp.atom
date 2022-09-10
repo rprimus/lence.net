@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-09-08T07:03:18Z</updated>
+<updated>2022-09-09T16:46:25Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>tirimid: proset</title>
+  <author>
+   <name>tirimid</name>
+  </author>
+  <link href="https://github.com/tirimid/proset" />
+  <id>urn:rprimus:github:tirimid:proset</id>
+  <published>2022-09-09T16:46:25Z</published>
+  <updated>2022-09-09T16:46:25Z</updated>
+  <content type="html">
+   tool to setup projects the way i like
+  </content>
+ </entry>
+ <entry>
+  <title>atlas-engineer: njson</title>
+  <author>
+   <name>atlas-engineer</name>
+  </author>
+  <link href="https://github.com/atlas-engineer/njson" />
+  <id>urn:rprimus:github:atlas-engineer:njson</id>
+  <published>2022-09-09T16:28:26Z</published>
+  <updated>2022-09-09T16:28:26Z</updated>
+  <content type="html">
+   Common Lisp JSON handling library, with the aim for convenience and brevity.
+  </content>
+ </entry>
+ <entry>
+  <title>earl-ducaine: acl2-goedels-incompleteness-theorems</title>
+  <author>
+   <name>earl-ducaine</name>
+  </author>
+  <link href="https://github.com/earl-ducaine/acl2-goedels-incompleteness-theorems" />
+  <id>urn:rprimus:github:earl-ducaine:acl2-goedels-incompleteness-theorems</id>
+  <published>2022-09-09T06:25:03Z</published>
+  <updated>2022-09-09T06:25:03Z</updated>
+  <content type="html">
+   Shankar&#039;s NQTHM verification of GÃ¶del&#039;s incompleteness theorems, updated for ACL2
+  </content>
+ </entry>
+ <entry>
+  <title>majotigartua: CombSort</title>
+  <author>
+   <name>majotigartua</name>
+  </author>
+  <link href="https://github.com/majotigartua/CombSort" />
+  <id>urn:rprimus:github:majotigartua:CombSort</id>
+  <published>2022-09-08T16:34:36Z</published>
+  <updated>2022-09-08T16:34:36Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>fusuya: shin-mogeRPG</title>
+  <author>
+   <name>fusuya</name>
+  </author>
+  <link href="https://github.com/fusuya/shin-mogeRPG" />
+  <id>urn:rprimus:github:fusuya:shin-mogeRPG</id>
+  <published>2022-09-08T13:32:23Z</published>
+  <updated>2022-09-08T13:32:23Z</updated>
+  <content type="html">
+   mogeRPGãªã¡ã¤ã¯
+  </content>
+ </entry>
  <entry>
   <title>rajasegar: cl-docker</title>
   <author>
@@ -41,110 +106,6 @@
   <updated>2022-09-08T02:45:04Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>jbrry: conways-game-of-life</title>
-  <author>
-   <name>jbrry</name>
-  </author>
-  <link href="https://github.com/jbrry/conways-game-of-life" />
-  <id>urn:rprimus:github:jbrry:conways-game-of-life</id>
-  <published>2022-09-07T16:40:53Z</published>
-  <updated>2022-09-07T16:40:53Z</updated>
-  <content type="html">
-   Implementation of Conway&#039;s Game of Life, adapted from the Python version by Al Sweigart (https://www.youtube.com/watch?v=Vn8Mug5w7sw&amp;t=523s&amp;ab_channel=AlSweigart)
-  </content>
- </entry>
- <entry>
-  <title>chang-hs: commonlisp</title>
-  <author>
-   <name>chang-hs</name>
-  </author>
-  <link href="https://github.com/chang-hs/commonlisp" />
-  <id>urn:rprimus:github:chang-hs:commonlisp</id>
-  <published>2022-09-07T06:03:57Z</published>
-  <updated>2022-09-07T06:03:57Z</updated>
-  <content type="html">
-   Patient management system using common lisp
-  </content>
- </entry>
- <entry>
-  <title>afranson: Lisp-MCMC</title>
-  <author>
-   <name>afranson</name>
-  </author>
-  <link href="https://github.com/afranson/Lisp-MCMC" />
-  <id>urn:rprimus:github:afranson:Lisp-MCMC</id>
-  <published>2022-09-07T00:15:33Z</published>
-  <updated>2022-09-07T00:15:33Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>joanmarto: Canons</title>
-  <author>
-   <name>joanmarto</name>
-  </author>
-  <link href="https://github.com/joanmarto/Canons" />
-  <id>urn:rprimus:github:joanmarto:Canons</id>
-  <published>2022-09-06T19:11:22Z</published>
-  <updated>2022-09-06T19:11:22Z</updated>
-  <content type="html">
-   PrÃ¡ctica final de la asignatura Lenguajes de ProgramaciÃ³n, UIB curso 2020-2021
-  </content>
- </entry>
- <entry>
-  <title>cutching: Lisp-Project-401</title>
-  <author>
-   <name>cutching</name>
-  </author>
-  <link href="https://github.com/cutching/Lisp-Project-401" />
-  <id>urn:rprimus:github:cutching:Lisp-Project-401</id>
-  <published>2022-09-06T18:44:05Z</published>
-  <updated>2022-09-06T18:44:05Z</updated>
-  <content type="html">
-   Lisp Project Done in 401
-  </content>
- </entry>
- <entry>
-  <title>timeolord: infix-reader</title>
-  <author>
-   <name>timeolord</name>
-  </author>
-  <link href="https://github.com/timeolord/infix-reader" />
-  <id>urn:rprimus:github:timeolord:infix-reader</id>
-  <published>2022-09-06T17:53:10Z</published>
-  <updated>2022-09-06T17:53:10Z</updated>
-  <content type="html">
-   A reader macro that enables prefix notation in common lisp.
-  </content>
- </entry>
- <entry>
-  <title>RyanBurnside: rb-vec</title>
-  <author>
-   <name>RyanBurnside</name>
-  </author>
-  <link href="https://github.com/RyanBurnside/rb-vec" />
-  <id>urn:rprimus:github:RyanBurnside:rb-vec</id>
-  <published>2022-09-06T05:51:46Z</published>
-  <updated>2022-09-06T05:51:46Z</updated>
-  <content type="html">
-   The beginnings of a vector library for AutoLISP/VisualLISP
-  </content>
- </entry>
- <entry>
-  <title>RichardCLopes: Sistema-Escolar-Lisp</title>
-  <author>
-   <name>RichardCLopes</name>
-  </author>
-  <link href="https://github.com/RichardCLopes/Sistema-Escolar-Lisp" />
-  <id>urn:rprimus:github:RichardCLopes:Sistema-Escolar-Lisp</id>
-  <published>2022-09-06T03:30:40Z</published>
-  <updated>2022-09-06T03:30:40Z</updated>
-  <content type="html">
-   GestÃ£o de professores, alunos e matÃ©rias em linguagem Lisp.
   </content>
  </entry>
 </feed>
