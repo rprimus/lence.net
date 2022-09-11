@@ -2,8 +2,112 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2022-09-10T09:12:17Z</updated>
+<updated>2022-09-11T07:02:37Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>LittleJianCH: doom.d</title>
+  <author>
+   <name>LittleJianCH</name>
+  </author>
+  <link href="https://github.com/LittleJianCH/doom.d" />
+  <id>urn:rprimus:github:LittleJianCH:doom.d</id>
+  <published>2022-09-11T07:02:37Z</published>
+  <updated>2022-09-11T07:02:37Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Sose: .emacs.d</title>
+  <author>
+   <name>Sose</name>
+  </author>
+  <link href="https://github.com/Sose/.emacs.d" />
+  <id>urn:rprimus:github:Sose:.emacs.d</id>
+  <published>2022-09-11T06:22:43Z</published>
+  <updated>2022-09-11T06:22:43Z</updated>
+  <content type="html">
+   Emacs configuration
+  </content>
+ </entry>
+ <entry>
+  <title>Sirraide: algol-mode</title>
+  <author>
+   <name>Sirraide</name>
+  </author>
+  <link href="https://github.com/Sirraide/algol-mode" />
+  <id>urn:rprimus:github:Sirraide:algol-mode</id>
+  <published>2022-09-11T01:22:19Z</published>
+  <updated>2022-09-11T01:22:19Z</updated>
+  <content type="html">
+   Algol 68 mode for emacs. Incomplete and a bit scuffed
+  </content>
+ </entry>
+ <entry>
+  <title>geraldus: dot.spacemacs</title>
+  <author>
+   <name>geraldus</name>
+  </author>
+  <link href="https://github.com/geraldus/dot.spacemacs" />
+  <id>urn:rprimus:github:geraldus:dot.spacemacs</id>
+  <published>2022-09-11T01:00:34Z</published>
+  <updated>2022-09-11T01:00:34Z</updated>
+  <content type="html">
+   My Spacemacs dot file
+  </content>
+ </entry>
+ <entry>
+  <title>poppyer9: korean-ipa-romaja</title>
+  <author>
+   <name>poppyer9</name>
+  </author>
+  <link href="https://github.com/poppyer9/korean-ipa-romaja" />
+  <id>urn:rprimus:github:poppyer9:korean-ipa-romaja</id>
+  <published>2022-09-10T19:01:03Z</published>
+  <updated>2022-09-10T19:01:03Z</updated>
+  <content type="html">
+   An IPA enhanced romanization korean input method
+  </content>
+ </entry>
+ <entry>
+  <title>xFA25E: flymake-statix</title>
+  <author>
+   <name>xFA25E</name>
+  </author>
+  <link href="https://github.com/xFA25E/flymake-statix" />
+  <id>urn:rprimus:github:xFA25E:flymake-statix</id>
+  <published>2022-09-10T18:00:44Z</published>
+  <updated>2022-09-10T18:00:44Z</updated>
+  <content type="html">
+   Statix backend for Emacs flymake
+  </content>
+ </entry>
+ <entry>
+  <title>Matafou: landmark</title>
+  <author>
+   <name>Matafou</name>
+  </author>
+  <link href="https://github.com/Matafou/landmark" />
+  <id>urn:rprimus:github:Matafou:landmark</id>
+  <published>2022-09-10T15:24:36Z</published>
+  <updated>2022-09-10T15:24:36Z</updated>
+  <content type="html">
+   Emacs package provinding fast navigation between buffers/positions.
+  </content>
+ </entry>
+ <entry>
+  <title>wangduhu: deck</title>
+  <author>
+   <name>wangduhu</name>
+  </author>
+  <link href="https://github.com/wangduhu/deck" />
+  <id>urn:rprimus:github:wangduhu:deck</id>
+  <published>2022-09-10T14:40:02Z</published>
+  <updated>2022-09-10T14:40:02Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>alextserepov: alex</title>
   <author>
@@ -28,6 +132,19 @@
   <updated>2022-09-10T06:47:20Z</updated>
   <content type="html">
    Export from org-mode to pmwiki
+  </content>
+ </entry>
+ <entry>
+  <title>dixitdeveloper: emacs</title>
+  <author>
+   <name>dixitdeveloper</name>
+  </author>
+  <link href="https://github.com/dixitdeveloper/emacs" />
+  <id>urn:rprimus:github:dixitdeveloper:emacs</id>
+  <published>2022-09-10T04:41:17Z</published>
+  <updated>2022-09-10T04:41:17Z</updated>
+  <content type="html">
+   
   </content>
  </entry>
  <entry>
@@ -92,7 +209,7 @@
   <published>2022-09-10T00:09:18Z</published>
   <updated>2022-09-10T00:09:18Z</updated>
   <content type="html">
-   Mirror of the org-contacts package from GNU ELPA, current as of 2022-09-10
+   Mirror of the org-contacts package from GNU ELPA, current as of 2022-09-11
   </content>
  </entry>
  <entry>
@@ -249,240 +366,6 @@
   <updated>2022-09-09T00:45:56Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>Matafou: circul-mode</title>
-  <author>
-   <name>Matafou</name>
-  </author>
-  <link href="https://github.com/Matafou/circul-mode" />
-  <id>urn:rprimus:github:Matafou:circul-mode</id>
-  <published>2022-09-08T21:58:53Z</published>
-  <updated>2022-09-08T21:58:53Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>aehrlich1: emacs-2</title>
-  <author>
-   <name>aehrlich1</name>
-  </author>
-  <link href="https://github.com/aehrlich1/emacs-2" />
-  <id>urn:rprimus:github:aehrlich1:emacs-2</id>
-  <published>2022-09-08T20:58:07Z</published>
-  <updated>2022-09-08T20:58:07Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>solbloch: emacs-config</title>
-  <author>
-   <name>solbloch</name>
-  </author>
-  <link href="https://github.com/solbloch/emacs-config" />
-  <id>urn:rprimus:github:solbloch:emacs-config</id>
-  <published>2022-09-08T19:43:29Z</published>
-  <updated>2022-09-08T19:43:29Z</updated>
-  <content type="html">
-   My emacs config
-  </content>
- </entry>
- <entry>
-  <title>lmascelli: emacs</title>
-  <author>
-   <name>lmascelli</name>
-  </author>
-  <link href="https://github.com/lmascelli/emacs" />
-  <id>urn:rprimus:github:lmascelli:emacs</id>
-  <published>2022-09-08T19:05:18Z</published>
-  <updated>2022-09-08T19:05:18Z</updated>
-  <content type="html">
-   my emacs configuration
-  </content>
- </entry>
- <entry>
-  <title>skylar-kantor: dotfiles</title>
-  <author>
-   <name>skylar-kantor</name>
-  </author>
-  <link href="https://github.com/skylar-kantor/dotfiles" />
-  <id>urn:rprimus:github:skylar-kantor:dotfiles</id>
-  <published>2022-09-08T18:39:35Z</published>
-  <updated>2022-09-08T18:39:35Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Shammyshanks: emacs-org</title>
-  <author>
-   <name>Shammyshanks</name>
-  </author>
-  <link href="https://github.com/Shammyshanks/emacs-org" />
-  <id>urn:rprimus:github:Shammyshanks:emacs-org</id>
-  <published>2022-09-08T18:15:56Z</published>
-  <updated>2022-09-08T18:15:56Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>johanwiden: org-journal-search-result-to-transclude</title>
-  <author>
-   <name>johanwiden</name>
-  </author>
-  <link href="https://github.com/johanwiden/org-journal-search-result-to-transclude" />
-  <id>urn:rprimus:github:johanwiden:org-journal-search-result-to-transclude</id>
-  <published>2022-09-08T15:10:13Z</published>
-  <updated>2022-09-08T15:10:13Z</updated>
-  <content type="html">
-   Transform contents of org-journal-search buffer to transclude links.
-  </content>
- </entry>
- <entry>
-  <title>AranBorkum: Emacs</title>
-  <author>
-   <name>AranBorkum</name>
-  </author>
-  <link href="https://github.com/AranBorkum/Emacs" />
-  <id>urn:rprimus:github:AranBorkum:Emacs</id>
-  <published>2022-09-08T14:26:41Z</published>
-  <updated>2022-09-08T14:26:41Z</updated>
-  <content type="html">
-   My emacs configuration
-  </content>
- </entry>
- <entry>
-  <title>jyp: cnav</title>
-  <author>
-   <name>jyp</name>
-  </author>
-  <link href="https://github.com/jyp/cnav" />
-  <id>urn:rprimus:github:jyp:cnav</id>
-  <published>2022-09-08T14:05:39Z</published>
-  <updated>2022-09-08T14:05:39Z</updated>
-  <content type="html">
-   navigation to contextually relevant places
-  </content>
- </entry>
- <entry>
-  <title>bn-peters: dotfiles</title>
-  <author>
-   <name>bn-peters</name>
-  </author>
-  <link href="https://github.com/bn-peters/dotfiles" />
-  <id>urn:rprimus:github:bn-peters:dotfiles</id>
-  <published>2022-09-08T13:43:10Z</published>
-  <updated>2022-09-08T13:43:10Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>295: .doom.d</title>
-  <author>
-   <name>295</name>
-  </author>
-  <link href="https://github.com/295/.doom.d" />
-  <id>urn:rprimus:github:295:.doom.d</id>
-  <published>2022-09-08T12:51:36Z</published>
-  <updated>2022-09-08T12:51:36Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>emacs-eask: flymake-eask</title>
-  <author>
-   <name>emacs-eask</name>
-  </author>
-  <link href="https://github.com/emacs-eask/flymake-eask" />
-  <id>urn:rprimus:github:emacs-eask:flymake-eask</id>
-  <published>2022-09-08T11:47:48Z</published>
-  <updated>2022-09-08T11:47:48Z</updated>
-  <content type="html">
-   Eask support in Flymake
-  </content>
- </entry>
- <entry>
-  <title>VernonGrant: abbreviate.el</title>
-  <author>
-   <name>VernonGrant</name>
-  </author>
-  <link href="https://github.com/VernonGrant/abbreviate.el" />
-  <id>urn:rprimus:github:VernonGrant:abbreviate.el</id>
-  <published>2022-09-08T09:48:46Z</published>
-  <updated>2022-09-08T09:48:46Z</updated>
-  <content type="html">
-   Abbreviates the word at point, using a predefined list of common programming abbreviations.
-  </content>
- </entry>
- <entry>
-  <title>tanghongjun: nexus</title>
-  <author>
-   <name>tanghongjun</name>
-  </author>
-  <link href="https://github.com/tanghongjun/nexus" />
-  <id>urn:rprimus:github:tanghongjun:nexus</id>
-  <published>2022-09-08T08:56:14Z</published>
-  <updated>2022-09-08T08:56:14Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>QWYNG: .emacs.d</title>
-  <author>
-   <name>QWYNG</name>
-  </author>
-  <link href="https://github.com/QWYNG/.emacs.d" />
-  <id>urn:rprimus:github:QWYNG:.emacs.d</id>
-  <published>2022-09-08T07:15:20Z</published>
-  <updated>2022-09-08T07:15:20Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>sejgit: arduino-mode</title>
-  <author>
-   <name>sejgit</name>
-  </author>
-  <link href="https://github.com/sejgit/arduino-mode" />
-  <id>urn:rprimus:github:sejgit:arduino-mode</id>
-  <published>2022-09-08T02:06:20Z</published>
-  <updated>2022-09-08T02:06:20Z</updated>
-  <content type="html">
-   clone of Arduino mode
-  </content>
- </entry>
- <entry>
-  <title>bigjackCN: .emacs.d</title>
-  <author>
-   <name>bigjackCN</name>
-  </author>
-  <link href="https://github.com/bigjackCN/.emacs.d" />
-  <id>urn:rprimus:github:bigjackCN:.emacs.d</id>
-  <published>2022-09-08T01:32:58Z</published>
-  <updated>2022-09-08T01:32:58Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>BrentBoyMeBob: bingus-emacs</title>
-  <author>
-   <name>BrentBoyMeBob</name>
-  </author>
-  <link href="https://github.com/BrentBoyMeBob/bingus-emacs" />
-  <id>urn:rprimus:github:BrentBoyMeBob:bingus-emacs</id>
-  <published>2022-09-08T00:46:06Z</published>
-  <updated>2022-09-08T00:46:06Z</updated>
-  <content type="html">
-   A clean, fast, and productive Emacs configuration purely for editing. 
   </content>
  </entry>
 </feed>
