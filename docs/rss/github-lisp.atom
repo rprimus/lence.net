@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-09-15T07:31:58Z</updated>
+<updated>2022-09-16T03:32:23Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>Tass0sm: brine-shrimp-sim</title>
+  <author>
+   <name>Tass0sm</name>
+  </author>
+  <link href="https://github.com/Tass0sm/brine-shrimp-sim" />
+  <id>urn:rprimus:github:Tass0sm:brine-shrimp-sim</id>
+  <published>2022-09-16T03:32:23Z</published>
+  <updated>2022-09-16T03:32:23Z</updated>
+  <content type="html">
+   A gag game for learning about OpenGL, SDL2, CEPL, Common Lisp, game development, and more.
+  </content>
+ </entry>
+ <entry>
+  <title>bohonghuang: cl-gtk4</title>
+  <author>
+   <name>bohonghuang</name>
+  </author>
+  <link href="https://github.com/bohonghuang/cl-gtk4" />
+  <id>urn:rprimus:github:bohonghuang:cl-gtk4</id>
+  <published>2022-09-15T13:07:19Z</published>
+  <updated>2022-09-15T13:07:19Z</updated>
+  <content type="html">
+   GTK4 binding for Common Lisp, based on cl-gobject-introspection
+  </content>
+ </entry>
+ <entry>
+  <title>JayMellor: common-lisp-recipes</title>
+  <author>
+   <name>JayMellor</name>
+  </author>
+  <link href="https://github.com/JayMellor/common-lisp-recipes" />
+  <id>urn:rprimus:github:JayMellor:common-lisp-recipes</id>
+  <published>2022-09-15T12:42:42Z</published>
+  <updated>2022-09-15T12:42:42Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>Artem-Savin: Functional-and-logical-programming</title>
   <author>
@@ -119,32 +158,6 @@
   <updated>2022-09-14T05:43:57Z</updated>
   <content type="html">
    self-taught Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>ashermancinelli: bqn-lisp</title>
-  <author>
-   <name>ashermancinelli</name>
-  </author>
-  <link href="https://github.com/ashermancinelli/bqn-lisp" />
-  <id>urn:rprimus:github:ashermancinelli:bqn-lisp</id>
-  <published>2022-09-13T22:33:28Z</published>
-  <updated>2022-09-13T22:33:28Z</updated>
-  <content type="html">
-   Lisp-&gt;MLIR compiler in BQN
-  </content>
- </entry>
- <entry>
-  <title>altynbek132: catkin_ws</title>
-  <author>
-   <name>altynbek132</name>
-  </author>
-  <link href="https://github.com/altynbek132/catkin_ws" />
-  <id>urn:rprimus:github:altynbek132:catkin_ws</id>
-  <published>2022-09-13T06:58:31Z</published>
-  <updated>2022-09-13T06:58:31Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>

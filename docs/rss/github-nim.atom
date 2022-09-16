@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2022-09-14T16:57:46Z</updated>
+<updated>2022-09-15T20:31:19Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>joetifa2003: wind-nim</title>
+  <author>
+   <name>joetifa2003</name>
+  </author>
+  <link href="https://github.com/joetifa2003/wind-nim" />
+  <id>urn:rprimus:github:joetifa2003:wind-nim</id>
+  <published>2022-09-15T20:31:19Z</published>
+  <updated>2022-09-15T20:31:19Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>nimgram: tl-parser-api</title>
+  <author>
+   <name>nimgram</name>
+  </author>
+  <link href="https://github.com/nimgram/tl-parser-api" />
+  <id>urn:rprimus:github:nimgram:tl-parser-api</id>
+  <published>2022-09-15T17:25:23Z</published>
+  <updated>2022-09-15T17:25:23Z</updated>
+  <content type="html">
+   Parser for TDLib-compatible TL files
+  </content>
+ </entry>
  <entry>
   <title>z-------------: nim-anitomy</title>
   <author>
@@ -66,33 +92,7 @@
   <published>2022-09-14T01:52:00Z</published>
   <updated>2022-09-14T01:52:00Z</updated>
   <content type="html">
-   FTP client implementation (originally part of the Nim stdlib).
-  </content>
- </entry>
- <entry>
-  <title>RePRGM: Nimperiments</title>
-  <author>
-   <name>RePRGM</name>
-  </author>
-  <link href="https://github.com/RePRGM/Nimperiments" />
-  <id>urn:rprimus:github:RePRGM:Nimperiments</id>
-  <published>2022-09-13T12:42:13Z</published>
-  <updated>2022-09-13T12:42:13Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Koistinen: chess</title>
-  <author>
-   <name>Koistinen</name>
-  </author>
-  <link href="https://github.com/Koistinen/chess" />
-  <id>urn:rprimus:github:Koistinen:chess</id>
-  <published>2022-09-13T06:31:40Z</published>
-  <updated>2022-09-13T06:31:40Z</updated>
-  <content type="html">
-   Chess library written in Nim
+   FTP client implementation, adapted from the Nim standard library
   </content>
  </entry>
 </feed>
