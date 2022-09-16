@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-09-16T03:32:23Z</updated>
+<updated>2022-09-16T04:37:52Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>bohonghuang: cl-gio</title>
+  <author>
+   <name>bohonghuang</name>
+  </author>
+  <link href="https://github.com/bohonghuang/cl-gio" />
+  <id>urn:rprimus:github:bohonghuang:cl-gio</id>
+  <published>2022-09-16T04:37:52Z</published>
+  <updated>2022-09-16T04:37:52Z</updated>
+  <content type="html">
+   GIO binding for Common Lisp.
+  </content>
+ </entry>
+ <entry>
+  <title>bohonghuang: cl-glib</title>
+  <author>
+   <name>bohonghuang</name>
+  </author>
+  <link href="https://github.com/bohonghuang/cl-glib" />
+  <id>urn:rprimus:github:bohonghuang:cl-glib</id>
+  <published>2022-09-16T04:35:56Z</published>
+  <updated>2022-09-16T04:35:56Z</updated>
+  <content type="html">
+   GLib binding for Common Lisp.
+  </content>
+ </entry>
+ <entry>
+  <title>lukemayes1: LISP</title>
+  <author>
+   <name>lukemayes1</name>
+  </author>
+  <link href="https://github.com/lukemayes1/LISP" />
+  <id>urn:rprimus:github:lukemayes1:LISP</id>
+  <published>2022-09-16T03:46:16Z</published>
+  <updated>2022-09-16T03:46:16Z</updated>
+  <content type="html">
+   LISP examples from Concepts of Programming Languages
+  </content>
+ </entry>
  <entry>
   <title>Tass0sm: brine-shrimp-sim</title>
   <author>
@@ -18,6 +57,19 @@
   </content>
  </entry>
  <entry>
+  <title>bohonghuang: cl-gobject-introspection-wrapper</title>
+  <author>
+   <name>bohonghuang</name>
+  </author>
+  <link href="https://github.com/bohonghuang/cl-gobject-introspection-wrapper" />
+  <id>urn:rprimus:github:bohonghuang:cl-gobject-introspection-wrapper</id>
+  <published>2022-09-16T02:08:57Z</published>
+  <updated>2022-09-16T02:08:57Z</updated>
+  <content type="html">
+   Wrap and call GObject Introspection FFI function in LISP style.
+  </content>
+ </entry>
+ <entry>
   <title>bohonghuang: cl-gtk4</title>
   <author>
    <name>bohonghuang</name>
@@ -27,7 +79,7 @@
   <published>2022-09-15T13:07:19Z</published>
   <updated>2022-09-15T13:07:19Z</updated>
   <content type="html">
-   GTK4 binding for Common Lisp, based on cl-gobject-introspection
+   GTK4/libadwaita binding for Common Lisp.
   </content>
  </entry>
  <entry>
