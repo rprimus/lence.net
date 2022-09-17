@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-09-16T04:37:52Z</updated>
+<updated>2022-09-16T15:39:52Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>SonyCSLParis: frame-extractor-models</title>
+  <author>
+   <name>SonyCSLParis</name>
+  </author>
+  <link href="https://github.com/SonyCSLParis/frame-extractor-models" />
+  <id>urn:rprimus:github:SonyCSLParis:frame-extractor-models</id>
+  <published>2022-09-16T15:39:52Z</published>
+  <updated>2022-09-16T15:39:52Z</updated>
+  <content type="html">
+   Library of semantic frame extractors for the MUHAI project. Relies on the frame-extractor and fcg-hybrids libraries.
+  </content>
+ </entry>
+ <entry>
+  <title>cheeze2000: cl-fib</title>
+  <author>
+   <name>cheeze2000</name>
+  </author>
+  <link href="https://github.com/cheeze2000/cl-fib" />
+  <id>urn:rprimus:github:cheeze2000:cl-fib</id>
+  <published>2022-09-16T14:24:23Z</published>
+  <updated>2022-09-16T14:24:23Z</updated>
+  <content type="html">
+   A simple and fast fibonacci implementation in Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>delph-in: https-github.com-delph-in-</title>
+  <author>
+   <name>delph-in</name>
+  </author>
+  <link href="https://github.com/delph-in/https-github.com-delph-in-" />
+  <id>urn:rprimus:github:delph-in:https-github.com-delph-in-</id>
+  <published>2022-09-16T10:47:07Z</published>
+  <updated>2022-09-16T10:47:07Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>bohonghuang: cl-gio</title>
   <author>
@@ -171,45 +210,6 @@
   <updated>2022-09-15T01:10:16Z</updated>
   <content type="html">
    Toolkit for packaging software across formats and architectures using containers
-  </content>
- </entry>
- <entry>
-  <title>seletz: common-lisp-experiments</title>
-  <author>
-   <name>seletz</name>
-  </author>
-  <link href="https://github.com/seletz/common-lisp-experiments" />
-  <id>urn:rprimus:github:seletz:common-lisp-experiments</id>
-  <published>2022-09-14T16:08:19Z</published>
-  <updated>2022-09-14T16:08:19Z</updated>
-  <content type="html">
-   Experiments with CL
-  </content>
- </entry>
- <entry>
-  <title>Risto-Stevcev: comment-macro</title>
-  <author>
-   <name>Risto-Stevcev</name>
-  </author>
-  <link href="https://github.com/Risto-Stevcev/comment-macro" />
-  <id>urn:rprimus:github:Risto-Stevcev:comment-macro</id>
-  <published>2022-09-14T07:40:43Z</published>
-  <updated>2022-09-14T07:40:43Z</updated>
-  <content type="html">
-   Clojure-like common lisp macro (POC/WIP)
-  </content>
- </entry>
- <entry>
-  <title>Shynur: The-way-to-CLisp</title>
-  <author>
-   <name>Shynur</name>
-  </author>
-  <link href="https://github.com/Shynur/The-way-to-CLisp" />
-  <id>urn:rprimus:github:Shynur:The-way-to-CLisp</id>
-  <published>2022-09-14T05:43:57Z</published>
-  <updated>2022-09-14T05:43:57Z</updated>
-  <content type="html">
-   self-taught Common Lisp
   </content>
  </entry>
 </feed>
