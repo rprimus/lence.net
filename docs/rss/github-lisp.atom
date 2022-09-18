@@ -2,8 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-09-16T15:39:52Z</updated>
+<updated>2022-09-18T05:30:50Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>nathanvy: protohax</title>
+  <author>
+   <name>nathanvy</name>
+  </author>
+  <link href="https://github.com/nathanvy/protohax" />
+  <id>urn:rprimus:github:nathanvy:protohax</id>
+  <published>2022-09-18T05:30:50Z</published>
+  <updated>2022-09-18T05:30:50Z</updated>
+  <content type="html">
+   Solutions to the Protohackers challenges in Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>lizqwerscott: class-schedule</title>
+  <author>
+   <name>lizqwerscott</name>
+  </author>
+  <link href="https://github.com/lizqwerscott/class-schedule" />
+  <id>urn:rprimus:github:lizqwerscott:class-schedule</id>
+  <published>2022-09-18T05:08:51Z</published>
+  <updated>2022-09-18T05:08:51Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>spaderthomas: lows</title>
+  <author>
+   <name>spaderthomas</name>
+  </author>
+  <link href="https://github.com/spaderthomas/lows" />
+  <id>urn:rprimus:github:spaderthomas:lows</id>
+  <published>2022-09-17T22:42:46Z</published>
+  <updated>2022-09-17T22:42:46Z</updated>
+  <content type="html">
+   Lisp oriented wavedash simulator, or: I have fun making a fighting game prototype with Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>kjnez: The-Jack-Compiler</title>
+  <author>
+   <name>kjnez</name>
+  </author>
+  <link href="https://github.com/kjnez/The-Jack-Compiler" />
+  <id>urn:rprimus:github:kjnez:The-Jack-Compiler</id>
+  <published>2022-09-17T20:03:04Z</published>
+  <updated>2022-09-17T20:03:04Z</updated>
+  <content type="html">
+   A compiler for the Jack programming language.
+  </content>
+ </entry>
+ <entry>
+  <title>Gavinok: raylib-and-clpm-play</title>
+  <author>
+   <name>Gavinok</name>
+  </author>
+  <link href="https://github.com/Gavinok/raylib-and-clpm-play" />
+  <id>urn:rprimus:github:Gavinok:raylib-and-clpm-play</id>
+  <published>2022-09-17T18:15:35Z</published>
+  <updated>2022-09-17T18:15:35Z</updated>
+  <content type="html">
+   Just me playing with raylib and clpm
+  </content>
+ </entry>
+ <entry>
+  <title>einsiedlerspiel: cl-xrandr-dmenu</title>
+  <author>
+   <name>einsiedlerspiel</name>
+  </author>
+  <link href="https://github.com/einsiedlerspiel/cl-xrandr-dmenu" />
+  <id>urn:rprimus:github:einsiedlerspiel:cl-xrandr-dmenu</id>
+  <published>2022-09-17T18:00:50Z</published>
+  <updated>2022-09-17T18:00:50Z</updated>
+  <content type="html">
+   A dmenu interface for xrandr written in Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>mallinusm: clos</title>
+  <author>
+   <name>mallinusm</name>
+  </author>
+  <link href="https://github.com/mallinusm/clos" />
+  <id>urn:rprimus:github:mallinusm:clos</id>
+  <published>2022-09-17T16:49:48Z</published>
+  <updated>2022-09-17T16:49:48Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>SonyCSLParis: frame-extractor-models</title>
   <author>
@@ -31,12 +122,12 @@
   </content>
  </entry>
  <entry>
-  <title>delph-in: https-github.com-delph-in-</title>
+  <title>delph-in: burger</title>
   <author>
    <name>delph-in</name>
   </author>
-  <link href="https://github.com/delph-in/https-github.com-delph-in-" />
-  <id>urn:rprimus:github:delph-in:https-github.com-delph-in-</id>
+  <link href="https://github.com/delph-in/burger" />
+  <id>urn:rprimus:github:delph-in:burger</id>
   <published>2022-09-16T10:47:07Z</published>
   <updated>2022-09-16T10:47:07Z</updated>
   <content type="html">
@@ -106,110 +197,6 @@
   <updated>2022-09-16T02:08:57Z</updated>
   <content type="html">
    Wrap and call GObject Introspection FFI function in LISP style.
-  </content>
- </entry>
- <entry>
-  <title>bohonghuang: cl-gtk4</title>
-  <author>
-   <name>bohonghuang</name>
-  </author>
-  <link href="https://github.com/bohonghuang/cl-gtk4" />
-  <id>urn:rprimus:github:bohonghuang:cl-gtk4</id>
-  <published>2022-09-15T13:07:19Z</published>
-  <updated>2022-09-15T13:07:19Z</updated>
-  <content type="html">
-   GTK4/libadwaita binding for Common Lisp.
-  </content>
- </entry>
- <entry>
-  <title>JayMellor: common-lisp-recipes</title>
-  <author>
-   <name>JayMellor</name>
-  </author>
-  <link href="https://github.com/JayMellor/common-lisp-recipes" />
-  <id>urn:rprimus:github:JayMellor:common-lisp-recipes</id>
-  <published>2022-09-15T12:42:42Z</published>
-  <updated>2022-09-15T12:42:42Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Artem-Savin: Functional-and-logical-programming</title>
-  <author>
-   <name>Artem-Savin</name>
-  </author>
-  <link href="https://github.com/Artem-Savin/Functional-and-logical-programming" />
-  <id>urn:rprimus:github:Artem-Savin:Functional-and-logical-programming</id>
-  <published>2022-09-15T07:31:58Z</published>
-  <updated>2022-09-15T07:31:58Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>nathanvy: protohax</title>
-  <author>
-   <name>nathanvy</name>
-  </author>
-  <link href="https://github.com/nathanvy/protohax" />
-  <id>urn:rprimus:github:nathanvy:protohax</id>
-  <published>2022-09-15T06:55:54Z</published>
-  <updated>2022-09-15T06:55:54Z</updated>
-  <content type="html">
-   Protohackers challenges in Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>m365fw: vesc_m365_dash</title>
-  <author>
-   <name>m365fw</name>
-  </author>
-  <link href="https://github.com/m365fw/vesc_m365_dash" />
-  <id>urn:rprimus:github:m365fw:vesc_m365_dash</id>
-  <published>2022-09-15T06:35:23Z</published>
-  <updated>2022-09-15T06:35:23Z</updated>
-  <content type="html">
-   The VESC 6.0 Lisp implementation of the M365/NineBot BLE compability script
-  </content>
- </entry>
- <entry>
-  <title>Izaakwltn: holberg</title>
-  <author>
-   <name>Izaakwltn</name>
-  </author>
-  <link href="https://github.com/Izaakwltn/holberg" />
-  <id>urn:rprimus:github:Izaakwltn:holberg</id>
-  <published>2022-09-15T03:37:45Z</published>
-  <updated>2022-09-15T03:37:45Z</updated>
-  <content type="html">
-   Music Theory Library, built on Pitch Class Set Theory
-  </content>
- </entry>
- <entry>
-  <title>RReddy22: CS-161-Fundamentals-of-Artificial-Intelligence</title>
-  <author>
-   <name>RReddy22</name>
-  </author>
-  <link href="https://github.com/RReddy22/CS-161-Fundamentals-of-Artificial-Intelligence" />
-  <id>urn:rprimus:github:RReddy22:CS-161-Fundamentals-of-Artificial-Intelligence</id>
-  <published>2022-09-15T01:56:53Z</published>
-  <updated>2022-09-15T01:56:53Z</updated>
-  <content type="html">
-   Assignments from CS 161: Fundamentals of Artificial Intelligence, taught by Dr. Adnan Darwiche in Spring 2022
-  </content>
- </entry>
- <entry>
-  <title>jvdydev: mdcspt</title>
-  <author>
-   <name>jvdydev</name>
-  </author>
-  <link href="https://github.com/jvdydev/mdcspt" />
-  <id>urn:rprimus:github:jvdydev:mdcspt</id>
-  <published>2022-09-15T01:10:16Z</published>
-  <updated>2022-09-15T01:10:16Z</updated>
-  <content type="html">
-   Toolkit for packaging software across formats and architectures using containers
   </content>
  </entry>
 </feed>
