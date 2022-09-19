@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-09-18T05:30:50Z</updated>
+<updated>2022-09-19T01:45:58Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>timotheosh: emacs-update</title>
+  <author>
+   <name>timotheosh</name>
+  </author>
+  <link href="https://github.com/timotheosh/emacs-update" />
+  <id>urn:rprimus:github:timotheosh:emacs-update</id>
+  <published>2022-09-19T01:45:58Z</published>
+  <updated>2022-09-19T01:45:58Z</updated>
+  <content type="html">
+   Looks for git projects your Doom Emacs uses and notifies if the package has updates.
+  </content>
+ </entry>
+ <entry>
+  <title>josrr: type-30-display</title>
+  <author>
+   <name>josrr</name>
+  </author>
+  <link href="https://github.com/josrr/type-30-display" />
+  <id>urn:rprimus:github:josrr:type-30-display</id>
+  <published>2022-09-18T23:26:38Z</published>
+  <updated>2022-09-18T23:26:38Z</updated>
+  <content type="html">
+   minskytron using McCLIM
+  </content>
+ </entry>
+ <entry>
+  <title>plops: homework_rest_api</title>
+  <author>
+   <name>plops</name>
+  </author>
+  <link href="https://github.com/plops/homework_rest_api" />
+  <id>urn:rprimus:github:plops:homework_rest_api</id>
+  <published>2022-09-18T16:01:15Z</published>
+  <updated>2022-09-18T16:01:15Z</updated>
+  <content type="html">
+   minimal grocery list API with HTTP/JSON 
+  </content>
+ </entry>
+ <entry>
+  <title>Neos21: practice-common-lisp</title>
+  <author>
+   <name>Neos21</name>
+  </author>
+  <link href="https://github.com/Neos21/practice-common-lisp" />
+  <id>urn:rprimus:github:Neos21:practice-common-lisp</id>
+  <published>2022-09-18T15:36:22Z</published>
+  <updated>2022-09-18T15:36:22Z</updated>
+  <content type="html">
+   Practice Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>MarceColl: isen</title>
+  <author>
+   <name>MarceColl</name>
+  </author>
+  <link href="https://github.com/MarceColl/isen" />
+  <id>urn:rprimus:github:MarceColl:isen</id>
+  <published>2022-09-18T14:30:47Z</published>
+  <updated>2022-09-18T14:30:47Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>toracle: cl-ko-tax</title>
+  <author>
+   <name>toracle</name>
+  </author>
+  <link href="https://github.com/toracle/cl-ko-tax" />
+  <id>urn:rprimus:github:toracle:cl-ko-tax</id>
+  <published>2022-09-18T11:45:48Z</published>
+  <updated>2022-09-18T11:45:48Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>nathanvy: protohax</title>
   <author>
@@ -93,110 +171,6 @@
   <updated>2022-09-17T16:49:48Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>SonyCSLParis: frame-extractor-models</title>
-  <author>
-   <name>SonyCSLParis</name>
-  </author>
-  <link href="https://github.com/SonyCSLParis/frame-extractor-models" />
-  <id>urn:rprimus:github:SonyCSLParis:frame-extractor-models</id>
-  <published>2022-09-16T15:39:52Z</published>
-  <updated>2022-09-16T15:39:52Z</updated>
-  <content type="html">
-   Library of semantic frame extractors for the MUHAI project. Relies on the frame-extractor and fcg-hybrids libraries.
-  </content>
- </entry>
- <entry>
-  <title>cheeze2000: cl-fib</title>
-  <author>
-   <name>cheeze2000</name>
-  </author>
-  <link href="https://github.com/cheeze2000/cl-fib" />
-  <id>urn:rprimus:github:cheeze2000:cl-fib</id>
-  <published>2022-09-16T14:24:23Z</published>
-  <updated>2022-09-16T14:24:23Z</updated>
-  <content type="html">
-   A simple and fast fibonacci implementation in Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>delph-in: burger</title>
-  <author>
-   <name>delph-in</name>
-  </author>
-  <link href="https://github.com/delph-in/burger" />
-  <id>urn:rprimus:github:delph-in:burger</id>
-  <published>2022-09-16T10:47:07Z</published>
-  <updated>2022-09-16T10:47:07Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>bohonghuang: cl-gio</title>
-  <author>
-   <name>bohonghuang</name>
-  </author>
-  <link href="https://github.com/bohonghuang/cl-gio" />
-  <id>urn:rprimus:github:bohonghuang:cl-gio</id>
-  <published>2022-09-16T04:37:52Z</published>
-  <updated>2022-09-16T04:37:52Z</updated>
-  <content type="html">
-   GIO binding for Common Lisp.
-  </content>
- </entry>
- <entry>
-  <title>bohonghuang: cl-glib</title>
-  <author>
-   <name>bohonghuang</name>
-  </author>
-  <link href="https://github.com/bohonghuang/cl-glib" />
-  <id>urn:rprimus:github:bohonghuang:cl-glib</id>
-  <published>2022-09-16T04:35:56Z</published>
-  <updated>2022-09-16T04:35:56Z</updated>
-  <content type="html">
-   GLib binding for Common Lisp.
-  </content>
- </entry>
- <entry>
-  <title>lukemayes1: LISP</title>
-  <author>
-   <name>lukemayes1</name>
-  </author>
-  <link href="https://github.com/lukemayes1/LISP" />
-  <id>urn:rprimus:github:lukemayes1:LISP</id>
-  <published>2022-09-16T03:46:16Z</published>
-  <updated>2022-09-16T03:46:16Z</updated>
-  <content type="html">
-   LISP examples from Concepts of Programming Languages
-  </content>
- </entry>
- <entry>
-  <title>Tass0sm: brine-shrimp-sim</title>
-  <author>
-   <name>Tass0sm</name>
-  </author>
-  <link href="https://github.com/Tass0sm/brine-shrimp-sim" />
-  <id>urn:rprimus:github:Tass0sm:brine-shrimp-sim</id>
-  <published>2022-09-16T03:32:23Z</published>
-  <updated>2022-09-16T03:32:23Z</updated>
-  <content type="html">
-   A gag game for learning about OpenGL, SDL2, CEPL, Common Lisp, game development, and more.
-  </content>
- </entry>
- <entry>
-  <title>bohonghuang: cl-gobject-introspection-wrapper</title>
-  <author>
-   <name>bohonghuang</name>
-  </author>
-  <link href="https://github.com/bohonghuang/cl-gobject-introspection-wrapper" />
-  <id>urn:rprimus:github:bohonghuang:cl-gobject-introspection-wrapper</id>
-  <published>2022-09-16T02:08:57Z</published>
-  <updated>2022-09-16T02:08:57Z</updated>
-  <content type="html">
-   Wrap and call GObject Introspection FFI function in LISP style.
   </content>
  </entry>
 </feed>
