@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-09-19T01:45:58Z</updated>
+<updated>2022-09-20T07:03:00Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>dzangfan: lineva.lisp</title>
+  <author>
+   <name>dzangfan</name>
+  </author>
+  <link href="https://github.com/dzangfan/lineva.lisp" />
+  <id>urn:rprimus:github:dzangfan:lineva.lisp</id>
+  <published>2022-09-20T07:03:00Z</published>
+  <updated>2022-09-20T07:03:00Z</updated>
+  <content type="html">
+   Linear evaluation macro system for Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>moremagic: smta</title>
+  <author>
+   <name>moremagic</name>
+  </author>
+  <link href="https://github.com/moremagic/smta" />
+  <id>urn:rprimus:github:moremagic:smta</id>
+  <published>2022-09-20T01:02:31Z</published>
+  <updated>2022-09-20T01:02:31Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>qudrnr: qr</title>
+  <author>
+   <name>qudrnr</name>
+  </author>
+  <link href="https://github.com/qudrnr/qr" />
+  <id>urn:rprimus:github:qudrnr:qr</id>
+  <published>2022-09-20T00:24:36Z</published>
+  <updated>2022-09-20T00:24:36Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>asigdel29: Tethered-Goat-problem</title>
+  <author>
+   <name>asigdel29</name>
+  </author>
+  <link href="https://github.com/asigdel29/Tethered-Goat-problem" />
+  <id>urn:rprimus:github:asigdel29:Tethered-Goat-problem</id>
+  <published>2022-09-19T21:23:14Z</published>
+  <updated>2022-09-19T21:23:14Z</updated>
+  <content type="html">
+   Solve in Lisp - A goat is tethered to one corner of a barn that is isolated in a huge grassy field. In whatever units, the barn measures 62 x 44, and the rope is of length 88. What is the area of land on which the goat gets to graze?
+  </content>
+ </entry>
+ <entry>
+  <title>asigdel29: Percent-of-Die-that-is-White-problem</title>
+  <author>
+   <name>asigdel29</name>
+  </author>
+  <link href="https://github.com/asigdel29/Percent-of-Die-that-is-White-problem" />
+  <id>urn:rprimus:github:asigdel29:Percent-of-Die-that-is-White-problem</id>
+  <published>2022-09-19T21:20:36Z</published>
+  <updated>2022-09-19T21:20:36Z</updated>
+  <content type="html">
+   Solve in Lisp- Suppose a standard die measures 3.25cm on the edge of a face. Further, suppose that each dot on the die has a diameter of length one-fifth the edge of a face. What percent of the surface area of the die is white?
+  </content>
+ </entry>
+ <entry>
+  <title>zellerin: tz-utilities</title>
+  <author>
+   <name>zellerin</name>
+  </author>
+  <link href="https://github.com/zellerin/tz-utilities" />
+  <id>urn:rprimus:github:zellerin:tz-utilities</id>
+  <published>2022-09-19T20:10:13Z</published>
+  <updated>2022-09-19T20:10:13Z</updated>
+  <content type="html">
+   Random small utilities.
+  </content>
+ </entry>
  <entry>
   <title>timotheosh: emacs-update</title>
   <author>
@@ -104,71 +182,6 @@
   <id>urn:rprimus:github:lizqwerscott:class-schedule</id>
   <published>2022-09-18T05:08:51Z</published>
   <updated>2022-09-18T05:08:51Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>spaderthomas: lows</title>
-  <author>
-   <name>spaderthomas</name>
-  </author>
-  <link href="https://github.com/spaderthomas/lows" />
-  <id>urn:rprimus:github:spaderthomas:lows</id>
-  <published>2022-09-17T22:42:46Z</published>
-  <updated>2022-09-17T22:42:46Z</updated>
-  <content type="html">
-   Lisp oriented wavedash simulator, or: I have fun making a fighting game prototype with Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>kjnez: The-Jack-Compiler</title>
-  <author>
-   <name>kjnez</name>
-  </author>
-  <link href="https://github.com/kjnez/The-Jack-Compiler" />
-  <id>urn:rprimus:github:kjnez:The-Jack-Compiler</id>
-  <published>2022-09-17T20:03:04Z</published>
-  <updated>2022-09-17T20:03:04Z</updated>
-  <content type="html">
-   A compiler for the Jack programming language.
-  </content>
- </entry>
- <entry>
-  <title>Gavinok: raylib-and-clpm-play</title>
-  <author>
-   <name>Gavinok</name>
-  </author>
-  <link href="https://github.com/Gavinok/raylib-and-clpm-play" />
-  <id>urn:rprimus:github:Gavinok:raylib-and-clpm-play</id>
-  <published>2022-09-17T18:15:35Z</published>
-  <updated>2022-09-17T18:15:35Z</updated>
-  <content type="html">
-   Just me playing with raylib and clpm
-  </content>
- </entry>
- <entry>
-  <title>einsiedlerspiel: cl-xrandr-dmenu</title>
-  <author>
-   <name>einsiedlerspiel</name>
-  </author>
-  <link href="https://github.com/einsiedlerspiel/cl-xrandr-dmenu" />
-  <id>urn:rprimus:github:einsiedlerspiel:cl-xrandr-dmenu</id>
-  <published>2022-09-17T18:00:50Z</published>
-  <updated>2022-09-17T18:00:50Z</updated>
-  <content type="html">
-   A dmenu interface for xrandr written in Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>mallinusm: clos</title>
-  <author>
-   <name>mallinusm</name>
-  </author>
-  <link href="https://github.com/mallinusm/clos" />
-  <id>urn:rprimus:github:mallinusm:clos</id>
-  <published>2022-09-17T16:49:48Z</published>
-  <updated>2022-09-17T16:49:48Z</updated>
   <content type="html">
    
   </content>
