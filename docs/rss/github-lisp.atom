@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-09-20T07:03:00Z</updated>
+<updated>2022-09-21T11:59:39Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>capjamesg: lispDOT</title>
+  <author>
+   <name>capjamesg</name>
+  </author>
+  <link href="https://github.com/capjamesg/lispDOT" />
+  <id>urn:rprimus:github:capjamesg:lispDOT</id>
+  <published>2022-09-21T11:59:39Z</published>
+  <updated>2022-09-21T11:59:39Z</updated>
+  <content type="html">
+   A DOT DSL implemented in Common Lisp.
+  </content>
+ </entry>
+ <entry>
+  <title>Zedb0T: The-Zoomer-Legacy</title>
+  <author>
+   <name>Zedb0T</name>
+  </author>
+  <link href="https://github.com/Zedb0T/The-Zoomer-Legacy" />
+  <id>urn:rprimus:github:Zedb0T:The-Zoomer-Legacy</id>
+  <published>2022-09-20T21:41:43Z</published>
+  <updated>2022-09-20T21:41:43Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>K1D77A: lisp-pay</title>
+  <author>
+   <name>K1D77A</name>
+  </author>
+  <link href="https://github.com/K1D77A/lisp-pay" />
+  <id>urn:rprimus:github:K1D77A:lisp-pay</id>
+  <published>2022-09-20T21:28:42Z</published>
+  <updated>2022-09-20T21:28:42Z</updated>
+  <content type="html">
+   Wrappers around various Payment Processors
+  </content>
+ </entry>
+ <entry>
+  <title>glv2: cl-in-memory-streams</title>
+  <author>
+   <name>glv2</name>
+  </author>
+  <link href="https://github.com/glv2/cl-in-memory-streams" />
+  <id>urn:rprimus:github:glv2:cl-in-memory-streams</id>
+  <published>2022-09-20T09:39:51Z</published>
+  <updated>2022-09-20T09:39:51Z</updated>
+  <content type="html">
+   In-memory streams for any type of elements
+  </content>
+ </entry>
+ <entry>
+  <title>crmsnbleyd: cl-leetcode</title>
+  <author>
+   <name>crmsnbleyd</name>
+  </author>
+  <link href="https://github.com/crmsnbleyd/cl-leetcode" />
+  <id>urn:rprimus:github:crmsnbleyd:cl-leetcode</id>
+  <published>2022-09-20T09:34:51Z</published>
+  <updated>2022-09-20T09:34:51Z</updated>
+  <content type="html">
+   Doing leetcode questions in portable Common Lisp
+  </content>
+ </entry>
  <entry>
   <title>dzangfan: lineva.lisp</title>
   <author>
@@ -93,97 +158,6 @@
   <updated>2022-09-19T01:45:58Z</updated>
   <content type="html">
    Looks for git projects your Doom Emacs uses and notifies if the package has updates.
-  </content>
- </entry>
- <entry>
-  <title>josrr: type-30-display</title>
-  <author>
-   <name>josrr</name>
-  </author>
-  <link href="https://github.com/josrr/type-30-display" />
-  <id>urn:rprimus:github:josrr:type-30-display</id>
-  <published>2022-09-18T23:26:38Z</published>
-  <updated>2022-09-18T23:26:38Z</updated>
-  <content type="html">
-   minskytron using McCLIM
-  </content>
- </entry>
- <entry>
-  <title>plops: homework_rest_api</title>
-  <author>
-   <name>plops</name>
-  </author>
-  <link href="https://github.com/plops/homework_rest_api" />
-  <id>urn:rprimus:github:plops:homework_rest_api</id>
-  <published>2022-09-18T16:01:15Z</published>
-  <updated>2022-09-18T16:01:15Z</updated>
-  <content type="html">
-   minimal grocery list API with HTTP/JSON 
-  </content>
- </entry>
- <entry>
-  <title>Neos21: practice-common-lisp</title>
-  <author>
-   <name>Neos21</name>
-  </author>
-  <link href="https://github.com/Neos21/practice-common-lisp" />
-  <id>urn:rprimus:github:Neos21:practice-common-lisp</id>
-  <published>2022-09-18T15:36:22Z</published>
-  <updated>2022-09-18T15:36:22Z</updated>
-  <content type="html">
-   Practice Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>MarceColl: isen</title>
-  <author>
-   <name>MarceColl</name>
-  </author>
-  <link href="https://github.com/MarceColl/isen" />
-  <id>urn:rprimus:github:MarceColl:isen</id>
-  <published>2022-09-18T14:30:47Z</published>
-  <updated>2022-09-18T14:30:47Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>toracle: cl-ko-tax</title>
-  <author>
-   <name>toracle</name>
-  </author>
-  <link href="https://github.com/toracle/cl-ko-tax" />
-  <id>urn:rprimus:github:toracle:cl-ko-tax</id>
-  <published>2022-09-18T11:45:48Z</published>
-  <updated>2022-09-18T11:45:48Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>nathanvy: protohax</title>
-  <author>
-   <name>nathanvy</name>
-  </author>
-  <link href="https://github.com/nathanvy/protohax" />
-  <id>urn:rprimus:github:nathanvy:protohax</id>
-  <published>2022-09-18T05:30:50Z</published>
-  <updated>2022-09-18T05:30:50Z</updated>
-  <content type="html">
-   Solutions to the Protohackers challenges in Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>lizqwerscott: class-schedule</title>
-  <author>
-   <name>lizqwerscott</name>
-  </author>
-  <link href="https://github.com/lizqwerscott/class-schedule" />
-  <id>urn:rprimus:github:lizqwerscott:class-schedule</id>
-  <published>2022-09-18T05:08:51Z</published>
-  <updated>2022-09-18T05:08:51Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
