@@ -2,212 +2,160 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-01-01T23:13:40Z</updated>
+<updated>2022-09-22T06:10:15Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
  <entry>
-  <title>Cardiox12: PracticalCL</title>
+  <title>omesh-barhate: Learning-Common-Lisp--David-Touretzky</title>
   <author>
-   <name>Cardiox12</name>
+   <name>omesh-barhate</name>
   </author>
-  <link href="https://github.com/Cardiox12/PracticalCL" />
-  <id>urn:rprimus:github:Cardiox12:PracticalCL</id>
-  <published>2022-01-01T23:13:40Z</published>
-  <updated>2022-01-01T23:13:40Z</updated>
+  <link href="https://github.com/omesh-barhate/Learning-Common-Lisp--David-Touretzky" />
+  <id>urn:rprimus:github:omesh-barhate:Learning-Common-Lisp--David-Touretzky</id>
+  <published>2022-09-22T06:10:15Z</published>
+  <updated>2022-09-22T06:10:15Z</updated>
+  <content type="html">
+   Examples &amp; Excercises from &quot;Common Lisp, A Gentle Introduction to Symbolic Computation&quot;
+  </content>
+ </entry>
+ <entry>
+  <title>fiddlerwoaroof: reazon-cl</title>
+  <author>
+   <name>fiddlerwoaroof</name>
+  </author>
+  <link href="https://github.com/fiddlerwoaroof/reazon-cl" />
+  <id>urn:rprimus:github:fiddlerwoaroof:reazon-cl</id>
+  <published>2022-09-22T04:51:28Z</published>
+  <updated>2022-09-22T04:51:28Z</updated>
+  <content type="html">
+   A quick implementation of miniKanren in CL
+  </content>
+ </entry>
+ <entry>
+  <title>starkandwayne: shout</title>
+  <author>
+   <name>starkandwayne</name>
+  </author>
+  <link href="https://github.com/starkandwayne/shout" />
+  <id>urn:rprimus:github:starkandwayne:shout</id>
+  <published>2022-09-22T00:22:55Z</published>
+  <updated>2022-09-22T00:22:55Z</updated>
+  <content type="html">
+   Fork of jhunt/shout epic piece of amazing work &lt;3
+  </content>
+ </entry>
+ <entry>
+  <title>capjamesg: lisp-bigrams</title>
+  <author>
+   <name>capjamesg</name>
+  </author>
+  <link href="https://github.com/capjamesg/lisp-bigrams" />
+  <id>urn:rprimus:github:capjamesg:lisp-bigrams</id>
+  <published>2022-09-21T18:52:54Z</published>
+  <updated>2022-09-21T18:52:54Z</updated>
+  <content type="html">
+   A tool to retrieve and display the most commonly used bigrams in a text.
+  </content>
+ </entry>
+ <entry>
+  <title>capjamesg: lispDOT</title>
+  <author>
+   <name>capjamesg</name>
+  </author>
+  <link href="https://github.com/capjamesg/lispDOT" />
+  <id>urn:rprimus:github:capjamesg:lispDOT</id>
+  <published>2022-09-21T11:59:39Z</published>
+  <updated>2022-09-21T11:59:39Z</updated>
+  <content type="html">
+   A DOT DSL implemented in Common Lisp.
+  </content>
+ </entry>
+ <entry>
+  <title>Zedb0T: The-Zoomer-Legacy</title>
+  <author>
+   <name>Zedb0T</name>
+  </author>
+  <link href="https://github.com/Zedb0T/The-Zoomer-Legacy" />
+  <id>urn:rprimus:github:Zedb0T:The-Zoomer-Legacy</id>
+  <published>2022-09-20T21:41:43Z</published>
+  <updated>2022-09-20T21:41:43Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>40ants: reblocks-file-server</title>
+  <title>K1D77A: lisp-pay</title>
   <author>
-   <name>40ants</name>
+   <name>K1D77A</name>
   </author>
-  <link href="https://github.com/40ants/reblocks-file-server" />
-  <id>urn:rprimus:github:40ants:reblocks-file-server</id>
-  <published>2022-01-01T17:45:31Z</published>
-  <updated>2022-01-01T17:45:31Z</updated>
+  <link href="https://github.com/K1D77A/lisp-pay" />
+  <id>urn:rprimus:github:K1D77A:lisp-pay</id>
+  <published>2022-09-20T21:28:42Z</published>
+  <updated>2022-09-20T21:28:42Z</updated>
   <content type="html">
-   A file browser for Reblocks Common Lisp web framework.
+   Wrappers around various Payment Processors
   </content>
  </entry>
  <entry>
-  <title>40ants: reblocks-ui</title>
+  <title>glv2: cl-in-memory-streams</title>
   <author>
-   <name>40ants</name>
+   <name>glv2</name>
   </author>
-  <link href="https://github.com/40ants/reblocks-ui" />
-  <id>urn:rprimus:github:40ants:reblocks-ui</id>
-  <published>2022-01-01T17:41:22Z</published>
-  <updated>2022-01-01T17:41:22Z</updated>
+  <link href="https://github.com/glv2/cl-in-memory-streams" />
+  <id>urn:rprimus:github:glv2:cl-in-memory-streams</id>
+  <published>2022-09-20T09:39:51Z</published>
+  <updated>2022-09-20T09:39:51Z</updated>
   <content type="html">
-   A set of widget for Reblocks framework, to simplify UI elements creation. Based on Zurb&#039;s Foundation and jQuery.
+   In-memory streams for any type of elements
   </content>
  </entry>
  <entry>
-  <title>mrohne: sbcl-serial</title>
+  <title>crmsnbleyd: cl-leetcode</title>
   <author>
-   <name>mrohne</name>
+   <name>crmsnbleyd</name>
   </author>
-  <link href="https://github.com/mrohne/sbcl-serial" />
-  <id>urn:rprimus:github:mrohne:sbcl-serial</id>
-  <published>2022-01-01T17:24:54Z</published>
-  <updated>2022-01-01T17:24:54Z</updated>
+  <link href="https://github.com/crmsnbleyd/cl-leetcode" />
+  <id>urn:rprimus:github:crmsnbleyd:cl-leetcode</id>
+  <published>2022-09-20T09:34:51Z</published>
+  <updated>2022-09-20T09:34:51Z</updated>
   <content type="html">
-   
+   Doing leetcode questions in portable Common Lisp
   </content>
  </entry>
  <entry>
-  <title>evalwhen: cat-parser</title>
+  <title>dzangfan: lineva</title>
   <author>
-   <name>evalwhen</name>
+   <name>dzangfan</name>
   </author>
-  <link href="https://github.com/evalwhen/cat-parser" />
-  <id>urn:rprimus:github:evalwhen:cat-parser</id>
-  <published>2022-01-01T04:42:40Z</published>
-  <updated>2022-01-01T04:42:40Z</updated>
+  <link href="https://github.com/dzangfan/lineva" />
+  <id>urn:rprimus:github:dzangfan:lineva</id>
+  <published>2022-09-20T07:03:00Z</published>
+  <updated>2022-09-20T07:03:00Z</updated>
   <content type="html">
-   a cat parser
+   Linear evaluation macro system for Common Lisp
   </content>
  </entry>
  <entry>
-  <title>Aeryuu: pathtracer</title>
+  <title>moremagic: smta</title>
   <author>
-   <name>Aeryuu</name>
+   <name>moremagic</name>
   </author>
-  <link href="https://github.com/Aeryuu/pathtracer" />
-  <id>urn:rprimus:github:Aeryuu:pathtracer</id>
-  <published>2022-01-01T03:21:23Z</published>
-  <updated>2022-01-01T03:21:23Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>40ants: reblocks</title>
-  <author>
-   <name>40ants</name>
-  </author>
-  <link href="https://github.com/40ants/reblocks" />
-  <id>urn:rprimus:github:40ants:reblocks</id>
-  <published>2021-12-31T19:06:19Z</published>
-  <updated>2021-12-31T19:06:19Z</updated>
-  <content type="html">
-   A fork of Weblocks Common Lisp web framework
-  </content>
- </entry>
- <entry>
-  <title>aymanosman: norvig-paradigms</title>
-  <author>
-   <name>aymanosman</name>
-  </author>
-  <link href="https://github.com/aymanosman/norvig-paradigms" />
-  <id>urn:rprimus:github:aymanosman:norvig-paradigms</id>
-  <published>2021-12-31T16:08:03Z</published>
-  <updated>2021-12-31T16:08:03Z</updated>
+  <link href="https://github.com/moremagic/smta" />
+  <id>urn:rprimus:github:moremagic:smta</id>
+  <published>2022-09-20T01:02:31Z</published>
+  <updated>2022-09-20T01:02:31Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>CirrusClouds: conway-animation</title>
+  <title>qudrnr: qr</title>
   <author>
-   <name>CirrusClouds</name>
+   <name>qudrnr</name>
   </author>
-  <link href="https://github.com/CirrusClouds/conway-animation" />
-  <id>urn:rprimus:github:CirrusClouds:conway-animation</id>
-  <published>2021-12-31T03:25:27Z</published>
-  <updated>2021-12-31T03:25:27Z</updated>
-  <content type="html">
-   Conway&#039;s Game of Life written in Common Lisp and animated with SDL2 using CFFI bindings
-  </content>
- </entry>
- <entry>
-  <title>jcguu95: stumpwm-dynamic-float</title>
-  <author>
-   <name>jcguu95</name>
-  </author>
-  <link href="https://github.com/jcguu95/stumpwm-dynamic-float" />
-  <id>urn:rprimus:github:jcguu95:stumpwm-dynamic-float</id>
-  <published>2021-12-30T23:44:36Z</published>
-  <updated>2021-12-30T23:44:36Z</updated>
-  <content type="html">
-   An extension to StumpWM providing floating windows with dynamic tiling.
-  </content>
- </entry>
- <entry>
-  <title>salvipeter: advent2015</title>
-  <author>
-   <name>salvipeter</name>
-  </author>
-  <link href="https://github.com/salvipeter/advent2015" />
-  <id>urn:rprimus:github:salvipeter:advent2015</id>
-  <published>2021-12-30T23:12:46Z</published>
-  <updated>2021-12-30T23:12:46Z</updated>
-  <content type="html">
-   My solutions to the Advent of Code 2015
-  </content>
- </entry>
- <entry>
-  <title>agostonsipos: advent_of_code_2015</title>
-  <author>
-   <name>agostonsipos</name>
-  </author>
-  <link href="https://github.com/agostonsipos/advent_of_code_2015" />
-  <id>urn:rprimus:github:agostonsipos:advent_of_code_2015</id>
-  <published>2021-12-30T17:48:51Z</published>
-  <updated>2021-12-30T17:48:51Z</updated>
-  <content type="html">
-   Advent of code 2015 in Common Lisp (hopefully)
-  </content>
- </entry>
- <entry>
-  <title>msasaki666: land-of-lisp-prac</title>
-  <author>
-   <name>msasaki666</name>
-  </author>
-  <link href="https://github.com/msasaki666/land-of-lisp-prac" />
-  <id>urn:rprimus:github:msasaki666:land-of-lisp-prac</id>
-  <published>2021-12-30T14:32:56Z</published>
-  <updated>2021-12-30T14:32:56Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>kaanbozdogan: Lisp</title>
-  <author>
-   <name>kaanbozdogan</name>
-  </author>
-  <link href="https://github.com/kaanbozdogan/Lisp" />
-  <id>urn:rprimus:github:kaanbozdogan:Lisp</id>
-  <published>2021-12-30T12:02:57Z</published>
-  <updated>2021-12-30T12:02:57Z</updated>
-  <content type="html">
-   G++ lexer and interpreter implementation using lisp.
-  </content>
- </entry>
- <entry>
-  <title>jstoddard: observatory</title>
-  <author>
-   <name>jstoddard</name>
-  </author>
-  <link href="https://github.com/jstoddard/observatory" />
-  <id>urn:rprimus:github:jstoddard:observatory</id>
-  <published>2021-12-30T06:17:15Z</published>
-  <updated>2021-12-30T06:17:15Z</updated>
-  <content type="html">
-   A simple Gemini client written in Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>JARS3N: lisp-99</title>
-  <author>
-   <name>JARS3N</name>
-  </author>
-  <link href="https://github.com/JARS3N/lisp-99" />
-  <id>urn:rprimus:github:JARS3N:lisp-99</id>
-  <published>2021-12-30T03:14:55Z</published>
-  <updated>2021-12-30T03:14:55Z</updated>
+  <link href="https://github.com/qudrnr/qr" />
+  <id>urn:rprimus:github:qudrnr:qr</id>
+  <published>2022-09-20T00:24:36Z</published>
+  <updated>2022-09-20T00:24:36Z</updated>
   <content type="html">
    
   </content>
