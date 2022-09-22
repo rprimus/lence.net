@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2022-09-21T16:35:12Z</updated>
+<updated>2022-09-22T04:32:35Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>CEShahed: linear-barcode</title>
+  <author>
+   <name>CEShahed</name>
+  </author>
+  <link href="https://github.com/CEShahed/linear-barcode" />
+  <id>urn:rprimus:github:CEShahed:linear-barcode</id>
+  <published>2022-09-22T04:32:35Z</published>
+  <updated>2022-09-22T04:32:35Z</updated>
+  <content type="html">
+   a simple script to model and generate UPC-A barcode
+  </content>
+ </entry>
+ <entry>
+  <title>c-blake: ftab</title>
+  <author>
+   <name>c-blake</name>
+  </author>
+  <link href="https://github.com/c-blake/ftab" />
+  <id>urn:rprimus:github:c-blake:ftab</id>
+  <published>2022-09-21T20:13:16Z</published>
+  <updated>2022-09-21T20:13:16Z</updated>
+  <content type="html">
+   Native Nim File-Based Hash Table
+  </content>
+ </entry>
+ <entry>
+  <title>thisago: remote_nimscript</title>
+  <author>
+   <name>thisago</name>
+  </author>
+  <link href="https://github.com/thisago/remote_nimscript" />
+  <id>urn:rprimus:github:thisago:remote_nimscript</id>
+  <published>2022-09-21T17:54:01Z</published>
+  <updated>2022-09-21T17:54:01Z</updated>
+  <content type="html">
+   Run a remote Nimscript without Nim installed
+  </content>
+ </entry>
  <entry>
   <title>hdbg: lilvm</title>
   <author>
@@ -145,45 +184,6 @@
   <updated>2022-09-20T00:44:39Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>accodeing: dimage</title>
-  <author>
-   <name>accodeing</name>
-  </author>
-  <link href="https://github.com/accodeing/dimage" />
-  <id>urn:rprimus:github:accodeing:dimage</id>
-  <published>2022-09-19T14:32:14Z</published>
-  <updated>2022-09-19T14:32:14Z</updated>
-  <content type="html">
-   Pure Nim, no external dependencies, image mime type and dimension reader for images
-  </content>
- </entry>
- <entry>
-  <title>DanMurath: labs</title>
-  <author>
-   <name>DanMurath</name>
-  </author>
-  <link href="https://github.com/DanMurath/labs" />
-  <id>urn:rprimus:github:DanMurath:labs</id>
-  <published>2022-09-19T14:26:32Z</published>
-  <updated>2022-09-19T14:26:32Z</updated>
-  <content type="html">
-   University lab implementations in Nim
-  </content>
- </entry>
- <entry>
-  <title>xrfez: packy</title>
-  <author>
-   <name>xrfez</name>
-  </author>
-  <link href="https://github.com/xrfez/packy" />
-  <id>urn:rprimus:github:xrfez:packy</id>
-  <published>2022-09-19T00:00:29Z</published>
-  <updated>2022-09-19T00:00:29Z</updated>
-  <content type="html">
-   Nim dependency packer
   </content>
  </entry>
 </feed>
