@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2022-09-22T08:08:50Z</updated>
+<updated>2022-09-23T08:56:39Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>grkek: nozzle</title>
+  <author>
+   <name>grkek</name>
+  </author>
+  <link href="https://github.com/grkek/nozzle" />
+  <id>urn:rprimus:github:grkek:nozzle</id>
+  <published>2022-09-23T08:56:39Z</published>
+  <updated>2022-09-23T08:56:39Z</updated>
+  <content type="html">
+   A library to dispatch PostgreSQL events to Redis subscribers
+  </content>
+ </entry>
+ <entry>
+  <title>gmartsenkov: grip-honeybadger</title>
+  <author>
+   <name>gmartsenkov</name>
+  </author>
+  <link href="https://github.com/gmartsenkov/grip-honeybadger" />
+  <id>urn:rprimus:github:gmartsenkov:grip-honeybadger</id>
+  <published>2022-09-22T21:29:33Z</published>
+  <updated>2022-09-22T21:29:33Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>spider-gazelle: eventbus</title>
   <author>
@@ -15,19 +41,6 @@
   <updated>2022-09-22T08:08:50Z</updated>
   <content type="html">
    Listen for Postgres database change events and publish them to Redis cluster
-  </content>
- </entry>
- <entry>
-  <title>intel-qa: automata</title>
-  <author>
-   <name>intel-qa</name>
-  </author>
-  <link href="https://github.com/intel-qa/automata" />
-  <id>urn:rprimus:github:intel-qa:automata</id>
-  <published>2022-09-20T14:08:37Z</published>
-  <updated>2022-09-20T14:08:37Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
