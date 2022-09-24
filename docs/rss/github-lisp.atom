@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-09-23T20:37:37Z</updated>
+<updated>2022-09-24T07:37:45Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>tainguyenvanhachix: Dobot_ws</title>
+  <author>
+   <name>tainguyenvanhachix</name>
+  </author>
+  <link href="https://github.com/tainguyenvanhachix/Dobot_ws" />
+  <id>urn:rprimus:github:tainguyenvanhachix:Dobot_ws</id>
+  <published>2022-09-24T07:37:45Z</published>
+  <updated>2022-09-24T07:37:45Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>leolaporte: AOC-in-lisp</title>
+  <author>
+   <name>leolaporte</name>
+  </author>
+  <link href="https://github.com/leolaporte/AOC-in-lisp" />
+  <id>urn:rprimus:github:leolaporte:AOC-in-lisp</id>
+  <published>2022-09-23T23:37:39Z</published>
+  <updated>2022-09-23T23:37:39Z</updated>
+  <content type="html">
+   Lisp solutions to the Advent of Code challenges
+  </content>
+ </entry>
  <entry>
   <title>ahanikel: cl-nanomsg</title>
   <author>
@@ -15,6 +41,19 @@
   <updated>2022-09-23T20:37:37Z</updated>
   <content type="html">
    Common Lisp bindings for libnanomsg.
+  </content>
+ </entry>
+ <entry>
+  <title>capjamesg: lisp-scripts</title>
+  <author>
+   <name>capjamesg</name>
+  </author>
+  <link href="https://github.com/capjamesg/lisp-scripts" />
+  <id>urn:rprimus:github:capjamesg:lisp-scripts</id>
+  <published>2022-09-23T09:15:51Z</published>
+  <updated>2022-09-23T09:15:51Z</updated>
+  <content type="html">
+   One-off scripts and experiments written in Lisp.
   </content>
  </entry>
  <entry>
@@ -171,32 +210,6 @@
   <updated>2022-09-22T00:22:55Z</updated>
   <content type="html">
    Fork of jhunt/shout epic piece of amazing work &lt;3
-  </content>
- </entry>
- <entry>
-  <title>capjamesg: lisp-bigrams</title>
-  <author>
-   <name>capjamesg</name>
-  </author>
-  <link href="https://github.com/capjamesg/lisp-bigrams" />
-  <id>urn:rprimus:github:capjamesg:lisp-bigrams</id>
-  <published>2022-09-21T18:52:54Z</published>
-  <updated>2022-09-21T18:52:54Z</updated>
-  <content type="html">
-   A tool to retrieve and display the most commonly used bigrams in a text.
-  </content>
- </entry>
- <entry>
-  <title>capjamesg: lispDOT</title>
-  <author>
-   <name>capjamesg</name>
-  </author>
-  <link href="https://github.com/capjamesg/lispDOT" />
-  <id>urn:rprimus:github:capjamesg:lispDOT</id>
-  <published>2022-09-21T11:59:39Z</published>
-  <updated>2022-09-21T11:59:39Z</updated>
-  <content type="html">
-   A DOT DSL implemented in Common Lisp.
   </content>
  </entry>
 </feed>
