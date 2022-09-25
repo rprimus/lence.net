@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-racket.atom"/>
 <id>urn:rprimus:github:newracketrepos</id>
-<updated>2022-09-24T08:46:24Z</updated>
+<updated>2022-09-25T02:11:43Z</updated>
 <title type='text'>New GitHub Racket Repos</title>
+ <entry>
+  <title>sltovar: Basel-Series</title>
+  <author>
+   <name>sltovar</name>
+  </author>
+  <link href="https://github.com/sltovar/Basel-Series" />
+  <id>urn:rprimus:github:sltovar:Basel-Series</id>
+  <published>2022-09-25T02:11:43Z</published>
+  <updated>2022-09-25T02:11:43Z</updated>
+  <content type="html">
+   A recursive function that calculates the Basel series to 100 terms.
+  </content>
+ </entry>
+ <entry>
+  <title>sltovar: Polynomial-Bisection-Method</title>
+  <author>
+   <name>sltovar</name>
+  </author>
+  <link href="https://github.com/sltovar/Polynomial-Bisection-Method" />
+  <id>urn:rprimus:github:sltovar:Polynomial-Bisection-Method</id>
+  <published>2022-09-25T02:05:56Z</published>
+  <updated>2022-09-25T02:05:56Z</updated>
+  <content type="html">
+   A recursive function that finds the zero of a polynomial using the bisection method. 
+  </content>
+ </entry>
+ <entry>
+  <title>sltovar: Leibniz-Series</title>
+  <author>
+   <name>sltovar</name>
+  </author>
+  <link href="https://github.com/sltovar/Leibniz-Series" />
+  <id>urn:rprimus:github:sltovar:Leibniz-Series</id>
+  <published>2022-09-25T01:44:34Z</published>
+  <updated>2022-09-25T01:44:34Z</updated>
+  <content type="html">
+   A recursive function that calculates the Leibniz series to 100 terms. The sign of each term is determined with a named subprogram, findSign.
+  </content>
+ </entry>
+ <entry>
+  <title>sltovar: Binary-Sorted-Tree</title>
+  <author>
+   <name>sltovar</name>
+  </author>
+  <link href="https://github.com/sltovar/Binary-Sorted-Tree" />
+  <id>urn:rprimus:github:sltovar:Binary-Sorted-Tree</id>
+  <published>2022-09-24T23:28:34Z</published>
+  <updated>2022-09-24T23:28:34Z</updated>
+  <content type="html">
+   A function gives a number and a sorted binary tree and inserts the number into the tree.
+  </content>
+ </entry>
+ <entry>
+  <title>sltovar: Odd-and-Reversed-List</title>
+  <author>
+   <name>sltovar</name>
+  </author>
+  <link href="https://github.com/sltovar/Odd-and-Reversed-List" />
+  <id>urn:rprimus:github:sltovar:Odd-and-Reversed-List</id>
+  <published>2022-09-24T22:59:58Z</published>
+  <updated>2022-09-24T22:59:58Z</updated>
+  <content type="html">
+   This function takes a list of numbers as input and returns a list of the odd numbers in reverse order.
+  </content>
+ </entry>
+ <entry>
+  <title>sltovar: Quick-Sort</title>
+  <author>
+   <name>sltovar</name>
+  </author>
+  <link href="https://github.com/sltovar/Quick-Sort" />
+  <id>urn:rprimus:github:sltovar:Quick-Sort</id>
+  <published>2022-09-24T22:21:07Z</published>
+  <updated>2022-09-24T22:21:07Z</updated>
+  <content type="html">
+   This program takes a list of numbers as input and returns a list of the numbers in ascending order by using the quick sort algorithm and dividing the lists based upon the average value of a list.
+  </content>
+ </entry>
  <entry>
   <title>Compiladores2023-1: jelly-a-nanopass</title>
   <author>
@@ -130,84 +208,6 @@
   <id>urn:rprimus:github:avelliott-l:intro_to_cs_project</id>
   <published>2022-09-23T04:01:38Z</published>
   <updated>2022-09-23T04:01:38Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>o4lang: O4</title>
-  <author>
-   <name>o4lang</name>
-  </author>
-  <link href="https://github.com/o4lang/O4" />
-  <id>urn:rprimus:github:o4lang:O4</id>
-  <published>2022-09-22T21:12:21Z</published>
-  <updated>2022-09-22T21:12:21Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>freindst: language-interpreter</title>
-  <author>
-   <name>freindst</name>
-  </author>
-  <link href="https://github.com/freindst/language-interpreter" />
-  <id>urn:rprimus:github:freindst:language-interpreter</id>
-  <published>2022-09-22T16:02:42Z</published>
-  <updated>2022-09-22T16:02:42Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>dungladungbd: MiniScheme-Interpreter</title>
-  <author>
-   <name>dungladungbd</name>
-  </author>
-  <link href="https://github.com/dungladungbd/MiniScheme-Interpreter" />
-  <id>urn:rprimus:github:dungladungbd:MiniScheme-Interpreter</id>
-  <published>2022-09-22T14:13:03Z</published>
-  <updated>2022-09-22T14:13:03Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ShohKhan-dev: PP_assingment_1</title>
-  <author>
-   <name>ShohKhan-dev</name>
-  </author>
-  <link href="https://github.com/ShohKhan-dev/PP_assingment_1" />
-  <id>urn:rprimus:github:ShohKhan-dev:PP_assingment_1</id>
-  <published>2022-09-22T13:35:41Z</published>
-  <updated>2022-09-22T13:35:41Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>RicardoPontesS: Paradigmas-de-Linguagens-de-Programacao</title>
-  <author>
-   <name>RicardoPontesS</name>
-  </author>
-  <link href="https://github.com/RicardoPontesS/Paradigmas-de-Linguagens-de-Programacao" />
-  <id>urn:rprimus:github:RicardoPontesS:Paradigmas-de-Linguagens-de-Programacao</id>
-  <published>2022-09-22T13:29:14Z</published>
-  <updated>2022-09-22T13:29:14Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>KeziaR: 207-</title>
-  <author>
-   <name>KeziaR</name>
-  </author>
-  <link href="https://github.com/KeziaR/207-" />
-  <id>urn:rprimus:github:KeziaR:207-</id>
-  <published>2022-09-22T02:55:26Z</published>
-  <updated>2022-09-22T02:55:26Z</updated>
   <content type="html">
    
   </content>

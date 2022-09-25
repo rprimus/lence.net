@@ -2,19 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2022-09-23T18:39:15Z</updated>
+<updated>2022-09-24T18:38:39Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
  <entry>
-  <title>datawater: photon</title>
+  <title>mswieboda: shoot</title>
   <author>
-   <name>datawater</name>
+   <name>mswieboda</name>
   </author>
-  <link href="https://github.com/datawater/photon" />
-  <id>urn:rprimus:github:datawater:photon</id>
-  <published>2022-09-23T18:39:15Z</published>
-  <updated>2022-09-23T18:39:15Z</updated>
+  <link href="https://github.com/mswieboda/shoot" />
+  <id>urn:rprimus:github:mswieboda:shoot</id>
+  <published>2022-09-24T18:38:39Z</published>
+  <updated>2022-09-24T18:38:39Z</updated>
   <content type="html">
-   A stack based programming language written in crystal
+   CrSFML vertical shooter example
   </content>
  </entry>
  <entry>
@@ -28,32 +28,6 @@
   <updated>2022-09-23T08:56:39Z</updated>
   <content type="html">
    A library to dispatch PostgreSQL events to Redis subscribers
-  </content>
- </entry>
- <entry>
-  <title>gmartsenkov: grip-honeybadger</title>
-  <author>
-   <name>gmartsenkov</name>
-  </author>
-  <link href="https://github.com/gmartsenkov/grip-honeybadger" />
-  <id>urn:rprimus:github:gmartsenkov:grip-honeybadger</id>
-  <published>2022-09-22T21:29:33Z</published>
-  <updated>2022-09-22T21:29:33Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>spider-gazelle: eventbus</title>
-  <author>
-   <name>spider-gazelle</name>
-  </author>
-  <link href="https://github.com/spider-gazelle/eventbus" />
-  <id>urn:rprimus:github:spider-gazelle:eventbus</id>
-  <published>2022-09-22T08:08:50Z</published>
-  <updated>2022-09-22T08:08:50Z</updated>
-  <content type="html">
-   Listen for Postgres database change events and publish them to Redis cluster
   </content>
  </entry>
 </feed>

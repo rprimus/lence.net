@@ -2,8 +2,112 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2022-09-24T07:50:50Z</updated>
+<updated>2022-09-25T04:43:01Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>karthink: org-src-context</title>
+  <author>
+   <name>karthink</name>
+  </author>
+  <link href="https://github.com/karthink/org-src-context" />
+  <id>urn:rprimus:github:karthink:org-src-context</id>
+  <published>2022-09-25T04:43:01Z</published>
+  <updated>2022-09-25T04:43:01Z</updated>
+  <content type="html">
+   LSP support for Org source buffers.
+  </content>
+ </entry>
+ <entry>
+  <title>legalnonsense: mu4e-save-to-eml</title>
+  <author>
+   <name>legalnonsense</name>
+  </author>
+  <link href="https://github.com/legalnonsense/mu4e-save-to-eml" />
+  <id>urn:rprimus:github:legalnonsense:mu4e-save-to-eml</id>
+  <published>2022-09-25T03:12:10Z</published>
+  <updated>2022-09-25T03:12:10Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Trolbridge: .emacs.d</title>
+  <author>
+   <name>Trolbridge</name>
+  </author>
+  <link href="https://github.com/Trolbridge/.emacs.d" />
+  <id>urn:rprimus:github:Trolbridge:.emacs.d</id>
+  <published>2022-09-25T02:09:03Z</published>
+  <updated>2022-09-25T02:09:03Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>dustincys: corpus.el</title>
+  <author>
+   <name>dustincys</name>
+  </author>
+  <link href="https://github.com/dustincys/corpus.el" />
+  <id>urn:rprimus:github:dustincys:corpus.el</id>
+  <published>2022-09-24T23:01:00Z</published>
+  <updated>2022-09-24T23:01:00Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>taehyungkfr: .emacs.d</title>
+  <author>
+   <name>taehyungkfr</name>
+  </author>
+  <link href="https://github.com/taehyungkfr/.emacs.d" />
+  <id>urn:rprimus:github:taehyungkfr:.emacs.d</id>
+  <published>2022-09-24T21:18:08Z</published>
+  <updated>2022-09-24T21:18:08Z</updated>
+  <content type="html">
+   Emacs configuration
+  </content>
+ </entry>
+ <entry>
+  <title>svrana: doom</title>
+  <author>
+   <name>svrana</name>
+  </author>
+  <link href="https://github.com/svrana/doom" />
+  <id>urn:rprimus:github:svrana:doom</id>
+  <published>2022-09-24T20:15:12Z</published>
+  <updated>2022-09-24T20:15:12Z</updated>
+  <content type="html">
+   doom emacs config
+  </content>
+ </entry>
+ <entry>
+  <title>whood1: emacs-config</title>
+  <author>
+   <name>whood1</name>
+  </author>
+  <link href="https://github.com/whood1/emacs-config" />
+  <id>urn:rprimus:github:whood1:emacs-config</id>
+  <published>2022-09-24T18:20:30Z</published>
+  <updated>2022-09-24T18:20:30Z</updated>
+  <content type="html">
+   emacs ~/.config/emacs/init.el
+  </content>
+ </entry>
+ <entry>
+  <title>pestctrl: emacs-fast-selection</title>
+  <author>
+   <name>pestctrl</name>
+  </author>
+  <link href="https://github.com/pestctrl/emacs-fast-selection" />
+  <id>urn:rprimus:github:pestctrl:emacs-fast-selection</id>
+  <published>2022-09-24T17:29:36Z</published>
+  <updated>2022-09-24T17:29:36Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>gagbo: emacs-clapoto-themes</title>
   <author>
@@ -54,19 +158,6 @@
   <updated>2022-09-23T16:24:21Z</updated>
   <content type="html">
    This is my Emacs config, that I use for Programming
-  </content>
- </entry>
- <entry>
-  <title>Trolbridge: .emacs.d</title>
-  <author>
-   <name>Trolbridge</name>
-  </author>
-  <link href="https://github.com/Trolbridge/.emacs.d" />
-  <id>urn:rprimus:github:Trolbridge:.emacs.d</id>
-  <published>2022-09-23T15:46:12Z</published>
-  <updated>2022-09-23T15:46:12Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
  <entry>
@@ -210,201 +301,6 @@
   <updated>2022-09-23T02:03:48Z</updated>
   <content type="html">
    My spacemacs cofiguration
-  </content>
- </entry>
- <entry>
-  <title>juliocarreno: emacs-conf</title>
-  <author>
-   <name>juliocarreno</name>
-  </author>
-  <link href="https://github.com/juliocarreno/emacs-conf" />
-  <id>urn:rprimus:github:juliocarreno:emacs-conf</id>
-  <published>2022-09-22T22:46:49Z</published>
-  <updated>2022-09-22T22:46:49Z</updated>
-  <content type="html">
-   Emacs Config
-  </content>
- </entry>
- <entry>
-  <title>NateChat42: emacs-config</title>
-  <author>
-   <name>NateChat42</name>
-  </author>
-  <link href="https://github.com/NateChat42/emacs-config" />
-  <id>urn:rprimus:github:NateChat42:emacs-config</id>
-  <published>2022-09-22T21:07:48Z</published>
-  <updated>2022-09-22T21:07:48Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>gizmomogwai: org-tagged</title>
-  <author>
-   <name>gizmomogwai</name>
-  </author>
-  <link href="https://github.com/gizmomogwai/org-tagged" />
-  <id>urn:rprimus:github:gizmomogwai:org-tagged</id>
-  <published>2022-09-22T19:35:12Z</published>
-  <updated>2022-09-22T19:35:12Z</updated>
-  <content type="html">
-   Created tables from the tags on your tasks.
-  </content>
- </entry>
- <entry>
-  <title>QJoly: home.nix</title>
-  <author>
-   <name>QJoly</name>
-  </author>
-  <link href="https://github.com/QJoly/home.nix" />
-  <id>urn:rprimus:github:QJoly:home.nix</id>
-  <published>2022-09-22T17:46:50Z</published>
-  <updated>2022-09-22T17:46:50Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>MacPapo: ASD-ELISP</title>
-  <author>
-   <name>MacPapo</name>
-  </author>
-  <link href="https://github.com/MacPapo/ASD-ELISP" />
-  <id>urn:rprimus:github:MacPapo:ASD-ELISP</id>
-  <published>2022-09-22T17:05:03Z</published>
-  <updated>2022-09-22T17:05:03Z</updated>
-  <content type="html">
-   Mastering Data Structure and Algorithm in Elisp!
-  </content>
- </entry>
- <entry>
-  <title>mahteenbash: mbash-emacs-conf</title>
-  <author>
-   <name>mahteenbash</name>
-  </author>
-  <link href="https://github.com/mahteenbash/mbash-emacs-conf" />
-  <id>urn:rprimus:github:mahteenbash:mbash-emacs-conf</id>
-  <published>2022-09-22T16:54:03Z</published>
-  <updated>2022-09-22T16:54:03Z</updated>
-  <content type="html">
-   My personal emacs configuration.
-  </content>
- </entry>
- <entry>
-  <title>tyler-dodge: eglot-copilot</title>
-  <author>
-   <name>tyler-dodge</name>
-  </author>
-  <link href="https://github.com/tyler-dodge/eglot-copilot" />
-  <id>urn:rprimus:github:tyler-dodge:eglot-copilot</id>
-  <published>2022-09-22T15:21:07Z</published>
-  <updated>2022-09-22T15:21:07Z</updated>
-  <content type="html">
-   Emacs eglot integration for copilot
-  </content>
- </entry>
- <entry>
-  <title>XaydBayeck: emacs-elpaca</title>
-  <author>
-   <name>XaydBayeck</name>
-  </author>
-  <link href="https://github.com/XaydBayeck/emacs-elpaca" />
-  <id>urn:rprimus:github:XaydBayeck:emacs-elpaca</id>
-  <published>2022-09-22T15:01:59Z</published>
-  <updated>2022-09-22T15:01:59Z</updated>
-  <content type="html">
-   My emacs config files powerd by elpaca
-  </content>
- </entry>
- <entry>
-  <title>skangas: url-scgi</title>
-  <author>
-   <name>skangas</name>
-  </author>
-  <link href="https://github.com/skangas/url-scgi" />
-  <id>urn:rprimus:github:skangas:url-scgi</id>
-  <published>2022-09-22T14:43:10Z</published>
-  <updated>2022-09-22T14:43:10Z</updated>
-  <content type="html">
-   SCGI support for Emacs using url.el
-  </content>
- </entry>
- <entry>
-  <title>hbsd: my_emacs_config</title>
-  <author>
-   <name>hbsd</name>
-  </author>
-  <link href="https://github.com/hbsd/my_emacs_config" />
-  <id>urn:rprimus:github:hbsd:my_emacs_config</id>
-  <published>2022-09-22T10:18:58Z</published>
-  <updated>2022-09-22T10:18:58Z</updated>
-  <content type="html">
-   Config files of my text editor
-  </content>
- </entry>
- <entry>
-  <title>emacs-vs: ts-docstr</title>
-  <author>
-   <name>emacs-vs</name>
-  </author>
-  <link href="https://github.com/emacs-vs/ts-docstr" />
-  <id>urn:rprimus:github:emacs-vs:ts-docstr</id>
-  <published>2022-09-22T08:18:42Z</published>
-  <updated>2022-09-22T08:18:42Z</updated>
-  <content type="html">
-   A document string minor mode using tree-sitter
-  </content>
- </entry>
- <entry>
-  <title>nscherf: dotfiles</title>
-  <author>
-   <name>nscherf</name>
-  </author>
-  <link href="https://github.com/nscherf/dotfiles" />
-  <id>urn:rprimus:github:nscherf:dotfiles</id>
-  <published>2022-09-22T04:11:18Z</published>
-  <updated>2022-09-22T04:11:18Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>meistens: emacs</title>
-  <author>
-   <name>meistens</name>
-  </author>
-  <link href="https://github.com/meistens/emacs" />
-  <id>urn:rprimus:github:meistens:emacs</id>
-  <published>2022-09-22T02:07:33Z</published>
-  <updated>2022-09-22T02:07:33Z</updated>
-  <content type="html">
-   Configs for emacs
-  </content>
- </entry>
- <entry>
-  <title>PingalPie: emacs</title>
-  <author>
-   <name>PingalPie</name>
-  </author>
-  <link href="https://github.com/PingalPie/emacs" />
-  <id>urn:rprimus:github:PingalPie:emacs</id>
-  <published>2022-09-22T01:25:54Z</published>
-  <updated>2022-09-22T01:25:54Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>erickgnavar: flymake-sqlfluff</title>
-  <author>
-   <name>erickgnavar</name>
-  </author>
-  <link href="https://github.com/erickgnavar/flymake-sqlfluff" />
-  <id>urn:rprimus:github:erickgnavar:flymake-sqlfluff</id>
-  <published>2022-09-22T00:10:23Z</published>
-  <updated>2022-09-22T00:10:23Z</updated>
-  <content type="html">
-   flymake plugin for SQL using sqlfluff
   </content>
  </entry>
 </feed>

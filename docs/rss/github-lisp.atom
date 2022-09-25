@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-09-24T07:37:45Z</updated>
+<updated>2022-09-24T17:10:26Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>derch28: seedsplit-cl</title>
+  <author>
+   <name>derch28</name>
+  </author>
+  <link href="https://github.com/derch28/seedsplit-cl" />
+  <id>urn:rprimus:github:derch28:seedsplit-cl</id>
+  <published>2022-09-24T17:10:26Z</published>
+  <updated>2022-09-24T17:10:26Z</updated>
+  <content type="html">
+   A simple and information-theoretic secure seed phrase splitting scheme. Written in Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>veer66: nd-sexp</title>
+  <author>
+   <name>veer66</name>
+  </author>
+  <link href="https://github.com/veer66/nd-sexp" />
+  <id>urn:rprimus:github:veer66:nd-sexp</id>
+  <published>2022-09-24T16:10:12Z</published>
+  <updated>2022-09-24T16:10:12Z</updated>
+  <content type="html">
+   newline delimited s-expressions
+  </content>
+ </entry>
  <entry>
   <title>tainguyenvanhachix: Dobot_ws</title>
   <author>
@@ -67,149 +93,6 @@
   <updated>2022-09-23T01:17:37Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>neiljackson1984: acad_environment</title>
-  <author>
-   <name>neiljackson1984</name>
-  </author>
-  <link href="https://github.com/neiljackson1984/acad_environment" />
-  <id>urn:rprimus:github:neiljackson1984:acad_environment</id>
-  <published>2022-09-22T23:01:53Z</published>
-  <updated>2022-09-22T23:01:53Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>mark-watson: huggingface</title>
-  <author>
-   <name>mark-watson</name>
-  </author>
-  <link href="https://github.com/mark-watson/huggingface" />
-  <id>urn:rprimus:github:mark-watson:huggingface</id>
-  <published>2022-09-22T19:50:29Z</published>
-  <updated>2022-09-22T19:50:29Z</updated>
-  <content type="html">
-   Common Lisp library for using Hugging Face NLP APIs. From my book https://leanpub.com/lovinglisp
-  </content>
- </entry>
- <entry>
-  <title>protaxY: FP_labs</title>
-  <author>
-   <name>protaxY</name>
-  </author>
-  <link href="https://github.com/protaxY/FP_labs" />
-  <id>urn:rprimus:github:protaxY:FP_labs</id>
-  <published>2022-09-22T18:28:03Z</published>
-  <updated>2022-09-22T18:28:03Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>minsungc: carhw</title>
-  <author>
-   <name>minsungc</name>
-  </author>
-  <link href="https://github.com/minsungc/carhw" />
-  <id>urn:rprimus:github:minsungc:carhw</id>
-  <published>2022-09-22T17:10:18Z</published>
-  <updated>2022-09-22T17:10:18Z</updated>
-  <content type="html">
-   Computer Aided Reasoning HW NEU F22
-  </content>
- </entry>
- <entry>
-  <title>shuyec: uri-parser</title>
-  <author>
-   <name>shuyec</name>
-  </author>
-  <link href="https://github.com/shuyec/uri-parser" />
-  <id>urn:rprimus:github:shuyec:uri-parser</id>
-  <published>2022-09-22T16:16:00Z</published>
-  <updated>2022-09-22T16:16:00Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>juniornsantos: lisp_funcoes</title>
-  <author>
-   <name>juniornsantos</name>
-  </author>
-  <link href="https://github.com/juniornsantos/lisp_funcoes" />
-  <id>urn:rprimus:github:juniornsantos:lisp_funcoes</id>
-  <published>2022-09-22T13:52:17Z</published>
-  <updated>2022-09-22T13:52:17Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>senaozb: Lisp_Examples</title>
-  <author>
-   <name>senaozb</name>
-  </author>
-  <link href="https://github.com/senaozb/Lisp_Examples" />
-  <id>urn:rprimus:github:senaozb:Lisp_Examples</id>
-  <published>2022-09-22T11:44:04Z</published>
-  <updated>2022-09-22T11:44:04Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>yagizHakkiAydin: Lisp-Examples</title>
-  <author>
-   <name>yagizHakkiAydin</name>
-  </author>
-  <link href="https://github.com/yagizHakkiAydin/Lisp-Examples" />
-  <id>urn:rprimus:github:yagizHakkiAydin:Lisp-Examples</id>
-  <published>2022-09-22T11:42:14Z</published>
-  <updated>2022-09-22T11:42:14Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>omesh-barhate: Learning-Common-Lisp--David-Touretzky</title>
-  <author>
-   <name>omesh-barhate</name>
-  </author>
-  <link href="https://github.com/omesh-barhate/Learning-Common-Lisp--David-Touretzky" />
-  <id>urn:rprimus:github:omesh-barhate:Learning-Common-Lisp--David-Touretzky</id>
-  <published>2022-09-22T06:10:15Z</published>
-  <updated>2022-09-22T06:10:15Z</updated>
-  <content type="html">
-   Examples &amp; Excercises from &quot;Common Lisp, A Gentle Introduction to Symbolic Computation&quot;
-  </content>
- </entry>
- <entry>
-  <title>fiddlerwoaroof: reazon-cl</title>
-  <author>
-   <name>fiddlerwoaroof</name>
-  </author>
-  <link href="https://github.com/fiddlerwoaroof/reazon-cl" />
-  <id>urn:rprimus:github:fiddlerwoaroof:reazon-cl</id>
-  <published>2022-09-22T04:51:28Z</published>
-  <updated>2022-09-22T04:51:28Z</updated>
-  <content type="html">
-   A quick implementation of miniKanren in CL
-  </content>
- </entry>
- <entry>
-  <title>starkandwayne: shout</title>
-  <author>
-   <name>starkandwayne</name>
-  </author>
-  <link href="https://github.com/starkandwayne/shout" />
-  <id>urn:rprimus:github:starkandwayne:shout</id>
-  <published>2022-09-22T00:22:55Z</published>
-  <updated>2022-09-22T00:22:55Z</updated>
-  <content type="html">
-   Fork of jhunt/shout epic piece of amazing work &lt;3
   </content>
  </entry>
 </feed>
