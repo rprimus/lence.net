@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-erlang.atom"/>
 <id>urn:rprimus:github:newerlangrepos</id>
-<updated>2022-09-27T19:40:48Z</updated>
+<updated>2022-09-28T09:27:11Z</updated>
 <title type='text'>New GitHub Erlang Repos</title>
+ <entry>
+  <title>lauramcastro: client_seller_bank</title>
+  <author>
+   <name>lauramcastro</name>
+  </author>
+  <link href="https://github.com/lauramcastro/client_seller_bank" />
+  <id>urn:rprimus:github:lauramcastro:client_seller_bank</id>
+  <published>2022-09-28T09:27:11Z</published>
+  <updated>2022-09-28T09:27:11Z</updated>
+  <content type="html">
+   Sample project to demonstrate the use of a session type checker for Erlang
+  </content>
+ </entry>
+ <entry>
+  <title>lauramcastro: sessiontypechecker</title>
+  <author>
+   <name>lauramcastro</name>
+  </author>
+  <link href="https://github.com/lauramcastro/sessiontypechecker" />
+  <id>urn:rprimus:github:lauramcastro:sessiontypechecker</id>
+  <published>2022-09-28T09:05:40Z</published>
+  <updated>2022-09-28T09:05:40Z</updated>
+  <content type="html">
+   This is a rebar3 plugin to typecheck multiparty sessions in Erlang projects to ensure conformance to the system global type that specifies its expected global protocol.
+  </content>
+ </entry>
  <entry>
   <title>ReechaKhanal: DOSP-Project-2</title>
   <author>
