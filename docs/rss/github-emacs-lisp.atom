@@ -2,8 +2,138 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2022-09-28T09:13:05Z</updated>
+<updated>2022-09-29T00:04:14Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>emacs-straight: agitate</title>
+  <author>
+   <name>emacs-straight</name>
+  </author>
+  <link href="https://github.com/emacs-straight/agitate" />
+  <id>urn:rprimus:github:emacs-straight:agitate</id>
+  <published>2022-09-29T00:04:14Z</published>
+  <updated>2022-09-29T00:04:14Z</updated>
+  <content type="html">
+   Mirror of the agitate package from GNU ELPA, current as of 2022-09-29
+  </content>
+ </entry>
+ <entry>
+  <title>com4: flymake-mypy</title>
+  <author>
+   <name>com4</name>
+  </author>
+  <link href="https://github.com/com4/flymake-mypy" />
+  <id>urn:rprimus:github:com4:flymake-mypy</id>
+  <published>2022-09-28T22:14:27Z</published>
+  <updated>2022-09-28T22:14:27Z</updated>
+  <content type="html">
+   flymake checker for mypy
+  </content>
+ </entry>
+ <entry>
+  <title>johannesCmayer: org-roam-spacemacs-layer</title>
+  <author>
+   <name>johannesCmayer</name>
+  </author>
+  <link href="https://github.com/johannesCmayer/org-roam-spacemacs-layer" />
+  <id>urn:rprimus:github:johannesCmayer:org-roam-spacemacs-layer</id>
+  <published>2022-09-28T22:11:50Z</published>
+  <updated>2022-09-28T22:11:50Z</updated>
+  <content type="html">
+   Add a layer for org-roam V2 and supporting packages
+  </content>
+ </entry>
+ <entry>
+  <title>keevindoherty: copilot</title>
+  <author>
+   <name>keevindoherty</name>
+  </author>
+  <link href="https://github.com/keevindoherty/copilot" />
+  <id>urn:rprimus:github:keevindoherty:copilot</id>
+  <published>2022-09-28T21:25:08Z</published>
+  <updated>2022-09-28T21:25:08Z</updated>
+  <content type="html">
+   Copilot layer wrapping copilot.el for Spacemacs
+  </content>
+ </entry>
+ <entry>
+  <title>benanoob: .emacs.d</title>
+  <author>
+   <name>benanoob</name>
+  </author>
+  <link href="https://github.com/benanoob/.emacs.d" />
+  <id>urn:rprimus:github:benanoob:.emacs.d</id>
+  <published>2022-09-28T20:54:35Z</published>
+  <updated>2022-09-28T20:54:35Z</updated>
+  <content type="html">
+   emacs tentative config
+  </content>
+ </entry>
+ <entry>
+  <title>arturfabriciohahaedgy: snitch-to-org</title>
+  <author>
+   <name>arturfabriciohahaedgy</name>
+  </author>
+  <link href="https://github.com/arturfabriciohahaedgy/snitch-to-org" />
+  <id>urn:rprimus:github:arturfabriciohahaedgy:snitch-to-org</id>
+  <published>2022-09-28T15:52:52Z</published>
+  <updated>2022-09-28T15:52:52Z</updated>
+  <content type="html">
+   WORK IN PROGRESS - Elisp function to read the TODOs in a source directory and add them to a Org Agenda file
+  </content>
+ </entry>
+ <entry>
+  <title>ellerh: pg</title>
+  <author>
+   <name>ellerh</name>
+  </author>
+  <link href="https://github.com/ellerh/pg" />
+  <id>urn:rprimus:github:ellerh:pg</id>
+  <published>2022-09-28T13:03:51Z</published>
+  <updated>2022-09-28T13:03:51Z</updated>
+  <content type="html">
+   Emacs Lisp API to PostgreSQL
+  </content>
+ </entry>
+ <entry>
+  <title>MacPapo: unimanual-tools</title>
+  <author>
+   <name>MacPapo</name>
+  </author>
+  <link href="https://github.com/MacPapo/unimanual-tools" />
+  <id>urn:rprimus:github:MacPapo:unimanual-tools</id>
+  <published>2022-09-28T12:56:34Z</published>
+  <updated>2022-09-28T12:56:34Z</updated>
+  <content type="html">
+   Emacs Package for UniManual project team!
+  </content>
+ </entry>
+ <entry>
+  <title>cezarcruz: dotfiles</title>
+  <author>
+   <name>cezarcruz</name>
+  </author>
+  <link href="https://github.com/cezarcruz/dotfiles" />
+  <id>urn:rprimus:github:cezarcruz:dotfiles</id>
+  <published>2022-09-28T11:48:47Z</published>
+  <updated>2022-09-28T11:48:47Z</updated>
+  <content type="html">
+   my home
+  </content>
+ </entry>
+ <entry>
+  <title>mchenwang: EmacsConfig</title>
+  <author>
+   <name>mchenwang</name>
+  </author>
+  <link href="https://github.com/mchenwang/EmacsConfig" />
+  <id>urn:rprimus:github:mchenwang:EmacsConfig</id>
+  <published>2022-09-28T09:31:35Z</published>
+  <updated>2022-09-28T09:31:35Z</updated>
+  <content type="html">
+   My personal configuration for Emacs.
+  </content>
+ </entry>
  <entry>
   <title>eliphazbouye: emacs.d</title>
   <author>
@@ -352,189 +482,7 @@
   <published>2022-09-27T00:06:31Z</published>
   <updated>2022-09-27T00:06:31Z</updated>
   <content type="html">
-   Mirror of the doc-toc package from GNU ELPA, current as of 2022-09-28
-  </content>
- </entry>
- <entry>
-  <title>bopjiang: emacs.d</title>
-  <author>
-   <name>bopjiang</name>
-  </author>
-  <link href="https://github.com/bopjiang/emacs.d" />
-  <id>urn:rprimus:github:bopjiang:emacs.d</id>
-  <published>2022-09-26T23:22:05Z</published>
-  <updated>2022-09-26T23:22:05Z</updated>
-  <content type="html">
-   emacs.d
-  </content>
- </entry>
- <entry>
-  <title>ahbna: emacs.config</title>
-  <author>
-   <name>ahbna</name>
-  </author>
-  <link href="https://github.com/ahbna/emacs.config" />
-  <id>urn:rprimus:github:ahbna:emacs.config</id>
-  <published>2022-09-26T21:15:55Z</published>
-  <updated>2022-09-26T21:15:55Z</updated>
-  <content type="html">
-   configuraÃ§Ãµes bÃ¡sicas emacs
-  </content>
- </entry>
- <entry>
-  <title>AshtonCross: emacs</title>
-  <author>
-   <name>AshtonCross</name>
-  </author>
-  <link href="https://github.com/AshtonCross/emacs" />
-  <id>urn:rprimus:github:AshtonCross:emacs</id>
-  <published>2022-09-26T20:53:23Z</published>
-  <updated>2022-09-26T20:53:23Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>NickKibish: DoomEmacsConfig</title>
-  <author>
-   <name>NickKibish</name>
-  </author>
-  <link href="https://github.com/NickKibish/DoomEmacsConfig" />
-  <id>urn:rprimus:github:NickKibish:DoomEmacsConfig</id>
-  <published>2022-09-26T19:51:14Z</published>
-  <updated>2022-09-26T19:51:14Z</updated>
-  <content type="html">
-   My Doom Emacs config
-  </content>
- </entry>
- <entry>
-  <title>ThangSuperMan: .doom.d</title>
-  <author>
-   <name>ThangSuperMan</name>
-  </author>
-  <link href="https://github.com/ThangSuperMan/.doom.d" />
-  <id>urn:rprimus:github:ThangSuperMan:.doom.d</id>
-  <published>2022-09-26T14:50:33Z</published>
-  <updated>2022-09-26T14:50:33Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>yo-boy: emacs-config</title>
-  <author>
-   <name>yo-boy</name>
-  </author>
-  <link href="https://github.com/yo-boy/emacs-config" />
-  <id>urn:rprimus:github:yo-boy:emacs-config</id>
-  <published>2022-09-26T13:36:36Z</published>
-  <updated>2022-09-26T13:36:36Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>dalanicolai: doc-tools-mupdf</title>
-  <author>
-   <name>dalanicolai</name>
-  </author>
-  <link href="https://github.com/dalanicolai/doc-tools-mupdf" />
-  <id>urn:rprimus:github:dalanicolai:doc-tools-mupdf</id>
-  <published>2022-09-26T12:16:49Z</published>
-  <updated>2022-09-26T12:16:49Z</updated>
-  <content type="html">
-   Tools for inspecting pdf files with mupdf
-  </content>
- </entry>
- <entry>
-  <title>dalanicolai: doc-tools-djvu</title>
-  <author>
-   <name>dalanicolai</name>
-  </author>
-  <link href="https://github.com/dalanicolai/doc-tools-djvu" />
-  <id>urn:rprimus:github:dalanicolai:doc-tools-djvu</id>
-  <published>2022-09-26T12:11:31Z</published>
-  <updated>2022-09-26T12:11:31Z</updated>
-  <content type="html">
-   Tools for inspecting and manipulating djvu files
-  </content>
- </entry>
- <entry>
-  <title>liushihao456: company-tip</title>
-  <author>
-   <name>liushihao456</name>
-  </author>
-  <link href="https://github.com/liushihao456/company-tip" />
-  <id>urn:rprimus:github:liushihao456:company-tip</id>
-  <published>2022-09-26T05:44:31Z</published>
-  <updated>2022-09-26T05:44:31Z</updated>
-  <content type="html">
-   Company docstring popup tooltip that works in terminal.
-  </content>
- </entry>
- <entry>
-  <title>dalanicolai: doc-tools-toc</title>
-  <author>
-   <name>dalanicolai</name>
-  </author>
-  <link href="https://github.com/dalanicolai/doc-tools-toc" />
-  <id>urn:rprimus:github:dalanicolai:doc-tools-toc</id>
-  <published>2022-09-26T05:38:41Z</published>
-  <updated>2022-09-26T05:38:41Z</updated>
-  <content type="html">
-   Create, cleanup, add and manage Table Of Contents (TOC) of pdf and djvu documents with Emacs
-  </content>
- </entry>
- <entry>
-  <title>Mercurius-Lee: test001</title>
-  <author>
-   <name>Mercurius-Lee</name>
-  </author>
-  <link href="https://github.com/Mercurius-Lee/test001" />
-  <id>urn:rprimus:github:Mercurius-Lee:test001</id>
-  <published>2022-09-26T03:25:23Z</published>
-  <updated>2022-09-26T03:25:23Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Kab1r: elsa-lambda-calculus-mode</title>
-  <author>
-   <name>Kab1r</name>
-  </author>
-  <link href="https://github.com/Kab1r/elsa-lambda-calculus-mode" />
-  <id>urn:rprimus:github:Kab1r:elsa-lambda-calculus-mode</id>
-  <published>2022-09-26T00:44:58Z</published>
-  <updated>2022-09-26T00:44:58Z</updated>
-  <content type="html">
-   Major Mode for Elsa, a tiny Lambda Caclulus Evaluator
-  </content>
- </entry>
- <entry>
-  <title>abbudao: doom-config</title>
-  <author>
-   <name>abbudao</name>
-  </author>
-  <link href="https://github.com/abbudao/doom-config" />
-  <id>urn:rprimus:github:abbudao:doom-config</id>
-  <published>2022-09-26T00:39:35Z</published>
-  <updated>2022-09-26T00:39:35Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>gummypopcat: emacs-dot</title>
-  <author>
-   <name>gummypopcat</name>
-  </author>
-  <link href="https://github.com/gummypopcat/emacs-dot" />
-  <id>urn:rprimus:github:gummypopcat:emacs-dot</id>
-  <published>2022-09-26T00:21:24Z</published>
-  <updated>2022-09-26T00:21:24Z</updated>
-  <content type="html">
-   my emacs dot file
+   Mirror of the doc-toc package from GNU ELPA, current as of 2022-09-29
   </content>
  </entry>
 </feed>
