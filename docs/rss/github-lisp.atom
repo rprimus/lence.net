@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-10-02T03:18:43Z</updated>
+<updated>2022-10-03T07:31:17Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>jetmonk: usocket-timeout-sbcl-ccl</title>
+  <author>
+   <name>jetmonk</name>
+  </author>
+  <link href="https://github.com/jetmonk/usocket-timeout-sbcl-ccl" />
+  <id>urn:rprimus:github:jetmonk:usocket-timeout-sbcl-ccl</id>
+  <published>2022-10-03T07:31:17Z</published>
+  <updated>2022-10-03T07:31:17Z</updated>
+  <content type="html">
+   Changes to lisp usocket to provide better timeout for SOCKET-CONNECT in USOCKET for ECL and SBCL
+  </content>
+ </entry>
+ <entry>
+  <title>walpurgisnatch: fsw</title>
+  <author>
+   <name>walpurgisnatch</name>
+  </author>
+  <link href="https://github.com/walpurgisnatch/fsw" />
+  <id>urn:rprimus:github:walpurgisnatch:fsw</id>
+  <published>2022-10-03T03:34:41Z</published>
+  <updated>2022-10-03T03:34:41Z</updated>
+  <content type="html">
+   File system operation library
+  </content>
+ </entry>
+ <entry>
+  <title>oitzujoey: minecraft-storage-system</title>
+  <author>
+   <name>oitzujoey</name>
+  </author>
+  <link href="https://github.com/oitzujoey/minecraft-storage-system" />
+  <id>urn:rprimus:github:oitzujoey:minecraft-storage-system</id>
+  <published>2022-10-02T23:24:09Z</published>
+  <updated>2022-10-02T23:24:09Z</updated>
+  <content type="html">
+   Minecraft storage system managed by turtles.
+  </content>
+ </entry>
  <entry>
   <title>calm2d: meditator</title>
   <author>
@@ -119,71 +158,6 @@
   <updated>2022-10-01T05:27:36Z</updated>
   <content type="html">
    English version of KAGEX 
-  </content>
- </entry>
- <entry>
-  <title>aartaka: pd-playground</title>
-  <author>
-   <name>aartaka</name>
-  </author>
-  <link href="https://github.com/aartaka/pd-playground" />
-  <id>urn:rprimus:github:aartaka:pd-playground</id>
-  <published>2022-09-30T17:22:16Z</published>
-  <updated>2022-09-30T17:22:16Z</updated>
-  <content type="html">
-   My experiments with samples, cl-pure-data, and algorithmic composition in general.
-  </content>
- </entry>
- <entry>
-  <title>VitoVan: calm</title>
-  <author>
-   <name>VitoVan</name>
-  </author>
-  <link href="https://github.com/VitoVan/calm" />
-  <id>urn:rprimus:github:VitoVan:calm</id>
-  <published>2022-09-30T10:29:19Z</published>
-  <updated>2022-09-30T10:29:19Z</updated>
-  <content type="html">
-   Calm down and draw something, in Lisp.
-  </content>
- </entry>
- <entry>
-  <title>luksamuk: techimera-k8s</title>
-  <author>
-   <name>luksamuk</name>
-  </author>
-  <link href="https://github.com/luksamuk/techimera-k8s" />
-  <id>urn:rprimus:github:luksamuk:techimera-k8s</id>
-  <published>2022-09-30T04:11:46Z</published>
-  <updated>2022-09-30T04:11:46Z</updated>
-  <content type="html">
-   AplicaÃ§Ã£o REST rÃ¡pida feita em Common Lisp para apresentar conceitos de Kubernetes
-  </content>
- </entry>
- <entry>
-  <title>hxzrx: easy-websocket</title>
-  <author>
-   <name>hxzrx</name>
-  </author>
-  <link href="https://github.com/hxzrx/easy-websocket" />
-  <id>urn:rprimus:github:hxzrx:easy-websocket</id>
-  <published>2022-09-30T02:11:39Z</published>
-  <updated>2022-09-30T02:11:39Z</updated>
-  <content type="html">
-   A websocket-driver wrapper to make it easy to setup a websocket server.
-  </content>
- </entry>
- <entry>
-  <title>terryc321: lisp-to-javascript-toy</title>
-  <author>
-   <name>terryc321</name>
-  </author>
-  <link href="https://github.com/terryc321/lisp-to-javascript-toy" />
-  <id>urn:rprimus:github:terryc321:lisp-to-javascript-toy</id>
-  <published>2022-09-30T02:01:20Z</published>
-  <updated>2022-09-30T02:01:20Z</updated>
-  <content type="html">
-   more like lisp prefix to infix conversion 
   </content>
  </entry>
 </feed>

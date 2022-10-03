@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-racket.atom"/>
 <id>urn:rprimus:github:newracketrepos</id>
-<updated>2022-10-02T07:51:37Z</updated>
+<updated>2022-10-03T09:35:40Z</updated>
 <title type='text'>New GitHub Racket Repos</title>
+ <entry>
+  <title>evalwhen: iu_compiler</title>
+  <author>
+   <name>evalwhen</name>
+  </author>
+  <link href="https://github.com/evalwhen/iu_compiler" />
+  <id>urn:rprimus:github:evalwhen:iu_compiler</id>
+  <published>2022-10-03T09:35:40Z</published>
+  <updated>2022-10-03T09:35:40Z</updated>
+  <content type="html">
+   rewrite some pass from https://github.com/IUCompilerCourse/Essentials-of-Compilation
+  </content>
+ </entry>
+ <entry>
+  <title>ReeceMcMillin: CS441ParserProject</title>
+  <author>
+   <name>ReeceMcMillin</name>
+  </author>
+  <link href="https://github.com/ReeceMcMillin/CS441ParserProject" />
+  <id>urn:rprimus:github:ReeceMcMillin:CS441ParserProject</id>
+  <published>2022-10-03T00:48:09Z</published>
+  <updated>2022-10-03T00:48:09Z</updated>
+  <content type="html">
+   A simple Racket-based parser for a small textbook language.
+  </content>
+ </entry>
+ <entry>
+  <title>wtee: hoot</title>
+  <author>
+   <name>wtee</name>
+  </author>
+  <link href="https://github.com/wtee/hoot" />
+  <id>urn:rprimus:github:wtee:hoot</id>
+  <published>2022-10-02T13:13:43Z</published>
+  <updated>2022-10-02T13:13:43Z</updated>
+  <content type="html">
+   A dark theme for DrRacket inspired by Sarah Drasner&#039;s night-owl theme for VS Code
+  </content>
+ </entry>
  <entry>
   <title>madoomino: OSSU</title>
   <author>
@@ -53,7 +92,7 @@
   <published>2022-10-01T20:15:50Z</published>
   <updated>2022-10-01T20:15:50Z</updated>
   <content type="html">
-   
+   Some laboratories made in the course Fundamentals of Programming at the Universidad del Valle
   </content>
  </entry>
  <entry>
@@ -106,58 +145,6 @@
   <updated>2022-10-01T03:14:13Z</updated>
   <content type="html">
    flappy bird trusts the natural recursion, do you?
-  </content>
- </entry>
- <entry>
-  <title>josephgu2003: jsonic_racket</title>
-  <author>
-   <name>josephgu2003</name>
-  </author>
-  <link href="https://github.com/josephgu2003/jsonic_racket" />
-  <id>urn:rprimus:github:josephgu2003:jsonic_racket</id>
-  <published>2022-09-30T22:17:19Z</published>
-  <updated>2022-09-30T22:17:19Z</updated>
-  <content type="html">
-   Implementation of jsonic Domain-Specific-Language using Racket&#039;s macro system, based on the tutorial at https://beautifulracket.com/jsonic/intro.html, but using racket/base instead of the author&#039;s DSL.
-  </content>
- </entry>
- <entry>
-  <title>Benno6560: Fundies-1</title>
-  <author>
-   <name>Benno6560</name>
-  </author>
-  <link href="https://github.com/Benno6560/Fundies-1" />
-  <id>urn:rprimus:github:Benno6560:Fundies-1</id>
-  <published>2022-09-30T21:50:28Z</published>
-  <updated>2022-09-30T21:50:28Z</updated>
-  <content type="html">
-   My work for Fundamentals of Computer Science 1 at Northeastern University.
-  </content>
- </entry>
- <entry>
-  <title>Ananidaniel: Donkey-Kong</title>
-  <author>
-   <name>Ananidaniel</name>
-  </author>
-  <link href="https://github.com/Ananidaniel/Donkey-Kong" />
-  <id>urn:rprimus:github:Ananidaniel:Donkey-Kong</id>
-  <published>2022-09-30T18:19:46Z</published>
-  <updated>2022-09-30T18:19:46Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Hamza-ibz: RockPaperScissorsRacketGame</title>
-  <author>
-   <name>Hamza-ibz</name>
-  </author>
-  <link href="https://github.com/Hamza-ibz/RockPaperScissorsRacketGame" />
-  <id>urn:rprimus:github:Hamza-ibz:RockPaperScissorsRacketGame</id>
-  <published>2022-09-30T11:11:23Z</published>
-  <updated>2022-09-30T11:11:23Z</updated>
-  <content type="html">
-   A simple rock paper scissors game made using racket. Note this is the first project i have made.
   </content>
  </entry>
 </feed>
