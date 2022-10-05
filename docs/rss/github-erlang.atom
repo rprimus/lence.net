@@ -2,8 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-erlang.atom"/>
 <id>urn:rprimus:github:newerlangrepos</id>
-<updated>2022-10-03T04:44:28Z</updated>
+<updated>2022-10-05T14:05:19Z</updated>
 <title type='text'>New GitHub Erlang Repos</title>
+ <entry>
+  <title>kjnilsson: hiloq</title>
+  <author>
+   <name>kjnilsson</name>
+  </author>
+  <link href="https://github.com/kjnilsson/hiloq" />
+  <id>urn:rprimus:github:kjnilsson:hiloq</id>
+  <published>2022-10-05T14:05:19Z</published>
+  <updated>2022-10-05T14:05:19Z</updated>
+  <content type="html">
+   basic high / low priority queue for erlang
+  </content>
+ </entry>
+ <entry>
+  <title>lpc0503: UF_Erlang</title>
+  <author>
+   <name>lpc0503</name>
+  </author>
+  <link href="https://github.com/lpc0503/UF_Erlang" />
+  <id>urn:rprimus:github:lpc0503:UF_Erlang</id>
+  <published>2022-10-04T20:19:02Z</published>
+  <updated>2022-10-04T20:19:02Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>chi-lambda: erlwizlight</title>
+  <author>
+   <name>chi-lambda</name>
+  </author>
+  <link href="https://github.com/chi-lambda/erlwizlight" />
+  <id>urn:rprimus:github:chi-lambda:erlwizlight</id>
+  <published>2022-10-04T19:43:28Z</published>
+  <updated>2022-10-04T19:43:28Z</updated>
+  <content type="html">
+   Pywizlight, but in Erlang
+  </content>
+ </entry>
+ <entry>
+  <title>ChrystianMSC: Erl_cover</title>
+  <author>
+   <name>ChrystianMSC</name>
+  </author>
+  <link href="https://github.com/ChrystianMSC/Erl_cover" />
+  <id>urn:rprimus:github:ChrystianMSC:Erl_cover</id>
+  <published>2022-10-04T19:08:19Z</published>
+  <updated>2022-10-04T19:08:19Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>emqx: erl-secret</title>
+  <author>
+   <name>emqx</name>
+  </author>
+  <link href="https://github.com/emqx/erl-secret" />
+  <id>urn:rprimus:github:emqx:erl-secret</id>
+  <published>2022-10-04T14:37:13Z</published>
+  <updated>2022-10-04T14:37:13Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>verdude: shooby</title>
+  <author>
+   <name>verdude</name>
+  </author>
+  <link href="https://github.com/verdude/shooby" />
+  <id>urn:rprimus:github:verdude:shooby</id>
+  <published>2022-10-03T18:14:47Z</published>
+  <updated>2022-10-03T18:14:47Z</updated>
+  <content type="html">
+   doobie
+  </content>
+ </entry>
+ <entry>
+  <title>sg2342: ekeyx</title>
+  <author>
+   <name>sg2342</name>
+  </author>
+  <link href="https://github.com/sg2342/ekeyx" />
+  <id>urn:rprimus:github:sg2342:ekeyx</id>
+  <published>2022-10-03T10:36:46Z</published>
+  <updated>2022-10-03T10:36:46Z</updated>
+  <content type="html">
+   Erlang (re-)implementation of elcritch/keyx Shamir&#039;s Secret Sharing
+  </content>
+ </entry>
  <entry>
   <title>RawX18: ErlangProjects</title>
   <author>
@@ -15,110 +106,6 @@
   <updated>2022-10-03T04:44:28Z</updated>
   <content type="html">
    UF Fall22 erlang projects
-  </content>
- </entry>
- <entry>
-  <title>dobrolybova: DbcWebServerHanler</title>
-  <author>
-   <name>dobrolybova</name>
-  </author>
-  <link href="https://github.com/dobrolybova/DbcWebServerHanler" />
-  <id>urn:rprimus:github:dobrolybova:DbcWebServerHanler</id>
-  <published>2022-10-02T16:31:34Z</published>
-  <updated>2022-10-02T16:31:34Z</updated>
-  <content type="html">
-   Web server to handle dbc files
-  </content>
- </entry>
- <entry>
-  <title>warp-build: tools.warp.build</title>
-  <author>
-   <name>warp-build</name>
-  </author>
-  <link href="https://github.com/warp-build/tools.warp.build" />
-  <id>urn:rprimus:github:warp-build:tools.warp.build</id>
-  <published>2022-10-02T11:28:15Z</published>
-  <updated>2022-10-02T11:28:15Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jiaxiangwang: rabbit_metronome</title>
-  <author>
-   <name>jiaxiangwang</name>
-  </author>
-  <link href="https://github.com/jiaxiangwang/rabbit_metronome" />
-  <id>urn:rprimus:github:jiaxiangwang:rabbit_metronome</id>
-  <published>2022-10-02T00:43:55Z</published>
-  <updated>2022-10-02T00:43:55Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>felixd3v: erlang-learning</title>
-  <author>
-   <name>felixd3v</name>
-  </author>
-  <link href="https://github.com/felixd3v/erlang-learning" />
-  <id>urn:rprimus:github:felixd3v:erlang-learning</id>
-  <published>2022-10-01T22:40:55Z</published>
-  <updated>2022-10-01T22:40:55Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>olegzil: star_watch</title>
-  <author>
-   <name>olegzil</name>
-  </author>
-  <link href="https://github.com/olegzil/star_watch" />
-  <id>urn:rprimus:github:olegzil:star_watch</id>
-  <published>2022-10-01T22:26:48Z</published>
-  <updated>2022-10-01T22:26:48Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>fridayy: aks-node-termination-handler</title>
-  <author>
-   <name>fridayy</name>
-  </author>
-  <link href="https://github.com/fridayy/aks-node-termination-handler" />
-  <id>urn:rprimus:github:fridayy:aks-node-termination-handler</id>
-  <published>2022-10-01T18:40:21Z</published>
-  <updated>2022-10-01T18:40:21Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>akhilkumaramarneni: dosp</title>
-  <author>
-   <name>akhilkumaramarneni</name>
-  </author>
-  <link href="https://github.com/akhilkumaramarneni/dosp" />
-  <id>urn:rprimus:github:akhilkumaramarneni:dosp</id>
-  <published>2022-10-01T06:23:21Z</published>
-  <updated>2022-10-01T06:23:21Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>anyisoft: study_on_git</title>
-  <author>
-   <name>anyisoft</name>
-  </author>
-  <link href="https://github.com/anyisoft/study_on_git" />
-  <id>urn:rprimus:github:anyisoft:study_on_git</id>
-  <published>2022-10-01T02:18:15Z</published>
-  <updated>2022-10-01T02:18:15Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
