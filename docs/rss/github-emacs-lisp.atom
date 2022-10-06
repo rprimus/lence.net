@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2022-10-05T13:50:10Z</updated>
+<updated>2022-10-06T07:28:18Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>muqiuhan: .emacs.d</title>
+  <author>
+   <name>muqiuhan</name>
+  </author>
+  <link href="https://github.com/muqiuhan/.emacs.d" />
+  <id>urn:rprimus:github:muqiuhan:.emacs.d</id>
+  <published>2022-10-06T07:28:18Z</published>
+  <updated>2022-10-06T07:28:18Z</updated>
+  <content type="html">
+   My emacs configuration
+  </content>
+ </entry>
+ <entry>
+  <title>PlanetsFuture: danny-emacs</title>
+  <author>
+   <name>PlanetsFuture</name>
+  </author>
+  <link href="https://github.com/PlanetsFuture/danny-emacs" />
+  <id>urn:rprimus:github:PlanetsFuture:danny-emacs</id>
+  <published>2022-10-06T05:31:11Z</published>
+  <updated>2022-10-06T05:31:11Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>nicflores: dotfiles</title>
+  <author>
+   <name>nicflores</name>
+  </author>
+  <link href="https://github.com/nicflores/dotfiles" />
+  <id>urn:rprimus:github:nicflores:dotfiles</id>
+  <published>2022-10-06T04:46:46Z</published>
+  <updated>2022-10-06T04:46:46Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>eshrh: matsurika-mode</title>
+  <author>
+   <name>eshrh</name>
+  </author>
+  <link href="https://github.com/eshrh/matsurika-mode" />
+  <id>urn:rprimus:github:eshrh:matsurika-mode</id>
+  <published>2022-10-06T01:36:40Z</published>
+  <updated>2022-10-06T01:36:40Z</updated>
+  <content type="html">
+   spinoff repo for an emacs mode for matsurika, which is my fork of janet.
+  </content>
+ </entry>
+ <entry>
+  <title>sangjeedondrub: commons</title>
+  <author>
+   <name>sangjeedondrub</name>
+  </author>
+  <link href="https://github.com/sangjeedondrub/commons" />
+  <id>urn:rprimus:github:sangjeedondrub:commons</id>
+  <published>2022-10-06T00:41:42Z</published>
+  <updated>2022-10-06T00:41:42Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>jcs-elpa: ff-guard</title>
+  <author>
+   <name>jcs-elpa</name>
+  </author>
+  <link href="https://github.com/jcs-elpa/ff-guard" />
+  <id>urn:rprimus:github:jcs-elpa:ff-guard</id>
+  <published>2022-10-05T18:29:54Z</published>
+  <updated>2022-10-05T18:29:54Z</updated>
+  <content type="html">
+    Create parent directory for non-existent file
+  </content>
+ </entry>
  <entry>
   <title>lizqwerscott: lazy-emacs-terminal</title>
   <author>
@@ -39,6 +117,19 @@
   <id>urn:rprimus:github:alfredojoseneto:Emacs_Linux</id>
   <published>2022-10-05T10:12:39Z</published>
   <updated>2022-10-05T10:12:39Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Shinkumons: ShinkEmacs</title>
+  <author>
+   <name>Shinkumons</name>
+  </author>
+  <link href="https://github.com/Shinkumons/ShinkEmacs" />
+  <id>urn:rprimus:github:Shinkumons:ShinkEmacs</id>
+  <published>2022-10-05T09:14:41Z</published>
+  <updated>2022-10-05T09:14:41Z</updated>
   <content type="html">
    
   </content>
@@ -184,266 +275,6 @@
   <updated>2022-10-04T05:02:11Z</updated>
   <content type="html">
    My config for Doom
-  </content>
- </entry>
- <entry>
-  <title>aviaviavi: link-preview.el</title>
-  <author>
-   <name>aviaviavi</name>
-  </author>
-  <link href="https://github.com/aviaviavi/link-preview.el" />
-  <id>urn:rprimus:github:aviaviavi:link-preview.el</id>
-  <published>2022-10-03T22:45:58Z</published>
-  <updated>2022-10-03T22:45:58Z</updated>
-  <content type="html">
-   Fetch and inject link previews in emacs
-  </content>
- </entry>
- <entry>
-  <title>jpantao: dotfiles</title>
-  <author>
-   <name>jpantao</name>
-  </author>
-  <link href="https://github.com/jpantao/dotfiles" />
-  <id>urn:rprimus:github:jpantao:dotfiles</id>
-  <published>2022-10-03T22:37:12Z</published>
-  <updated>2022-10-03T22:37:12Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>topikettunen: dotfiles</title>
-  <author>
-   <name>topikettunen</name>
-  </author>
-  <link href="https://github.com/topikettunen/dotfiles" />
-  <id>urn:rprimus:github:topikettunen:dotfiles</id>
-  <published>2022-10-03T20:32:44Z</published>
-  <updated>2022-10-03T20:32:44Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>topikettunen: theme-dump</title>
-  <author>
-   <name>topikettunen</name>
-  </author>
-  <link href="https://github.com/topikettunen/theme-dump" />
-  <id>urn:rprimus:github:topikettunen:theme-dump</id>
-  <published>2022-10-03T19:08:25Z</published>
-  <updated>2022-10-03T19:08:25Z</updated>
-  <content type="html">
-   Simple tool for dumping all the current theme&#039;s faces to file.
-  </content>
- </entry>
- <entry>
-  <title>topikettunen: tok-theme</title>
-  <author>
-   <name>topikettunen</name>
-  </author>
-  <link href="https://github.com/topikettunen/tok-theme" />
-  <id>urn:rprimus:github:topikettunen:tok-theme</id>
-  <published>2022-10-03T19:08:05Z</published>
-  <updated>2022-10-03T19:08:05Z</updated>
-  <content type="html">
-   Comfy dark monochromatic theme
-  </content>
- </entry>
- <entry>
-  <title>meistens: .emacs.android</title>
-  <author>
-   <name>meistens</name>
-  </author>
-  <link href="https://github.com/meistens/.emacs.android" />
-  <id>urn:rprimus:github:meistens:.emacs.android</id>
-  <published>2022-10-03T15:32:38Z</published>
-  <updated>2022-10-03T15:32:38Z</updated>
-  <content type="html">
-   Emacs configuration for android devices
-  </content>
- </entry>
- <entry>
-  <title>amnn: move-mode</title>
-  <author>
-   <name>amnn</name>
-  </author>
-  <link href="https://github.com/amnn/move-mode" />
-  <id>urn:rprimus:github:amnn:move-mode</id>
-  <published>2022-10-03T13:44:39Z</published>
-  <updated>2022-10-03T13:44:39Z</updated>
-  <content type="html">
-   Emacs major mode for Move smart contract programming language.
-  </content>
- </entry>
- <entry>
-  <title>aeghn: dired-pdp</title>
-  <author>
-   <name>aeghn</name>
-  </author>
-  <link href="https://github.com/aeghn/dired-pdp" />
-  <id>urn:rprimus:github:aeghn:dired-pdp</id>
-  <published>2022-10-03T13:36:54Z</published>
-  <updated>2022-10-03T13:36:54Z</updated>
-  <content type="html">
-   [WIP] Dired with parent-directory-preview view.
-  </content>
- </entry>
- <entry>
-  <title>yuvraj42: EmacsConfig</title>
-  <author>
-   <name>yuvraj42</name>
-  </author>
-  <link href="https://github.com/yuvraj42/EmacsConfig" />
-  <id>urn:rprimus:github:yuvraj42:EmacsConfig</id>
-  <published>2022-10-03T13:29:00Z</published>
-  <updated>2022-10-03T13:29:00Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>lcoder: .doom.d</title>
-  <author>
-   <name>lcoder</name>
-  </author>
-  <link href="https://github.com/lcoder/.doom.d" />
-  <id>urn:rprimus:github:lcoder:.doom.d</id>
-  <published>2022-10-03T12:47:22Z</published>
-  <updated>2022-10-03T12:47:22Z</updated>
-  <content type="html">
-   the config file of doom emacs
-  </content>
- </entry>
- <entry>
-  <title>rafal11ck: dots</title>
-  <author>
-   <name>rafal11ck</name>
-  </author>
-  <link href="https://github.com/rafal11ck/dots" />
-  <id>urn:rprimus:github:rafal11ck:dots</id>
-  <published>2022-10-03T11:54:01Z</published>
-  <updated>2022-10-03T11:54:01Z</updated>
-  <content type="html">
-   dot files
-  </content>
- </entry>
- <entry>
-  <title>dlukes: org-html-a-sync-export-syntax-highlighting</title>
-  <author>
-   <name>dlukes</name>
-  </author>
-  <link href="https://github.com/dlukes/org-html-a-sync-export-syntax-highlighting" />
-  <id>urn:rprimus:github:dlukes:org-html-a-sync-export-syntax-highlighting</id>
-  <published>2022-10-03T11:11:53Z</published>
-  <updated>2022-10-03T11:11:53Z</updated>
-  <content type="html">
-   An MWE for differences in syntax highlighting between sync and async Org Mode HTML export.
-  </content>
- </entry>
- <entry>
-  <title>marcoorban: spacemacs</title>
-  <author>
-   <name>marcoorban</name>
-  </author>
-  <link href="https://github.com/marcoorban/spacemacs" />
-  <id>urn:rprimus:github:marcoorban:spacemacs</id>
-  <published>2022-10-03T10:56:46Z</published>
-  <updated>2022-10-03T10:56:46Z</updated>
-  <content type="html">
-   Repo for storing spacemacs config file
-  </content>
- </entry>
- <entry>
-  <title>jcs-elpa: undo-tree-vf</title>
-  <author>
-   <name>jcs-elpa</name>
-  </author>
-  <link href="https://github.com/jcs-elpa/undo-tree-vf" />
-  <id>urn:rprimus:github:jcs-elpa:undo-tree-vf</id>
-  <published>2022-10-03T10:55:15Z</published>
-  <updated>2022-10-03T10:55:15Z</updated>
-  <content type="html">
-   visualizer follow mode for undo-tree
-  </content>
- </entry>
- <entry>
-  <title>EmKian: emacs-config</title>
-  <author>
-   <name>EmKian</name>
-  </author>
-  <link href="https://github.com/EmKian/emacs-config" />
-  <id>urn:rprimus:github:EmKian:emacs-config</id>
-  <published>2022-10-03T10:22:09Z</published>
-  <updated>2022-10-03T10:22:09Z</updated>
-  <content type="html">
-   My emacs config
-  </content>
- </entry>
- <entry>
-  <title>ProgrammersChoice: ProgrammersChoice.github.io</title>
-  <author>
-   <name>ProgrammersChoice</name>
-  </author>
-  <link href="https://github.com/ProgrammersChoice/ProgrammersChoice.github.io" />
-  <id>urn:rprimus:github:ProgrammersChoice:ProgrammersChoice.github.io</id>
-  <published>2022-10-03T09:56:46Z</published>
-  <updated>2022-10-03T09:56:46Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>yenfeng-shetiko: emacs.d</title>
-  <author>
-   <name>yenfeng-shetiko</name>
-  </author>
-  <link href="https://github.com/yenfeng-shetiko/emacs.d" />
-  <id>urn:rprimus:github:yenfeng-shetiko:emacs.d</id>
-  <published>2022-10-03T09:10:27Z</published>
-  <updated>2022-10-03T09:10:27Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Rubusch: ansible__rpi3b</title>
-  <author>
-   <name>Rubusch</name>
-  </author>
-  <link href="https://github.com/Rubusch/ansible__rpi3b" />
-  <id>urn:rprimus:github:Rubusch:ansible__rpi3b</id>
-  <published>2022-10-03T07:01:32Z</published>
-  <updated>2022-10-03T07:01:32Z</updated>
-  <content type="html">
-   bootstrap and labgrid setup, rpi3b provisioning with ansible demo
-  </content>
- </entry>
- <entry>
-  <title>agzam: youtube-sub-extractor.el</title>
-  <author>
-   <name>agzam</name>
-  </author>
-  <link href="https://github.com/agzam/youtube-sub-extractor.el" />
-  <id>urn:rprimus:github:agzam:youtube-sub-extractor.el</id>
-  <published>2022-10-03T05:24:39Z</published>
-  <updated>2022-10-03T05:24:39Z</updated>
-  <content type="html">
-   Extract YouTube video subtitles
-  </content>
- </entry>
- <entry>
-  <title>lrnz-au: emacs-config</title>
-  <author>
-   <name>lrnz-au</name>
-  </author>
-  <link href="https://github.com/lrnz-au/emacs-config" />
-  <id>urn:rprimus:github:lrnz-au:emacs-config</id>
-  <published>2022-10-03T00:14:10Z</published>
-  <updated>2022-10-03T00:14:10Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
