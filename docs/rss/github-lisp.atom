@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-10-07T06:21:06Z</updated>
+<updated>2022-10-07T12:00:18Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>LiamHowley: stw-html-parse</title>
+  <author>
+   <name>LiamHowley</name>
+  </author>
+  <link href="https://github.com/LiamHowley/stw-html-parse" />
+  <id>urn:rprimus:github:LiamHowley:stw-html-parse</id>
+  <published>2022-10-07T12:00:18Z</published>
+  <updated>2022-10-07T12:00:18Z</updated>
+  <content type="html">
+   A HTML to DOM style parser; parsing elements and attributes into CLOS objects.
+  </content>
+ </entry>
  <entry>
   <title>noxowl: lisp-exercises</title>
   <author>
@@ -53,7 +66,7 @@
   <published>2022-10-06T23:46:33Z</published>
   <updated>2022-10-06T23:46:33Z</updated>
   <content type="html">
-   
+   An XML to DOM style parser; parsing elements and attributes into CLOS objects.
   </content>
  </entry>
  <entry>
