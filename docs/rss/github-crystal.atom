@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2022-10-06T07:39:58Z</updated>
+<updated>2022-10-06T09:44:24Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>crystal-garage: crystal-zip64</title>
+  <author>
+   <name>crystal-garage</name>
+  </author>
+  <link href="https://github.com/crystal-garage/crystal-zip64" />
+  <id>urn:rprimus:github:crystal-garage:crystal-zip64</id>
+  <published>2022-10-06T09:44:24Z</published>
+  <updated>2022-10-06T09:44:24Z</updated>
+  <content type="html">
+   An alternate ZIP reader and writer for Crystal.
+  </content>
+ </entry>
  <entry>
   <title>Dmdv: opensea-crystal</title>
   <author>
@@ -14,7 +27,7 @@
   <published>2022-10-06T07:39:58Z</published>
   <updated>2022-10-06T07:39:58Z</updated>
   <content type="html">
-   
+   Simple API which uses crystal, local cache to fetch information about NFT token using Opensea API
   </content>
  </entry>
  <entry>
