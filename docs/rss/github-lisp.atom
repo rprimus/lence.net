@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-10-08T05:04:03Z</updated>
+<updated>2022-10-09T01:07:50Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>evanhe1: CS161</title>
+  <author>
+   <name>evanhe1</name>
+  </author>
+  <link href="https://github.com/evanhe1/CS161" />
+  <id>urn:rprimus:github:evanhe1:CS161</id>
+  <published>2022-10-09T01:07:50Z</published>
+  <updated>2022-10-09T01:07:50Z</updated>
+  <content type="html">
+   UCLA Spring 2022 CS161
+  </content>
+ </entry>
+ <entry>
+  <title>Zeptogram: OOL</title>
+  <author>
+   <name>Zeptogram</name>
+  </author>
+  <link href="https://github.com/Zeptogram/OOL" />
+  <id>urn:rprimus:github:Zeptogram:OOL</id>
+  <published>2022-10-08T22:38:19Z</published>
+  <updated>2022-10-08T22:38:19Z</updated>
+  <content type="html">
+   Object Oriented Lisp extension, made for an university project.
+  </content>
+ </entry>
+ <entry>
+  <title>ak-coram: wayflan-mirror</title>
+  <author>
+   <name>ak-coram</name>
+  </author>
+  <link href="https://github.com/ak-coram/wayflan-mirror" />
+  <id>urn:rprimus:github:ak-coram:wayflan-mirror</id>
+  <published>2022-10-08T21:03:30Z</published>
+  <updated>2022-10-08T21:03:30Z</updated>
+  <content type="html">
+   https://git.sr.ht/~shunter/wayflan
+  </content>
+ </entry>
  <entry>
   <title>jl2: congress</title>
   <author>
@@ -93,45 +132,6 @@
   <updated>2022-10-07T00:21:57Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>LiamHowley: stw-xml-parse</title>
-  <author>
-   <name>LiamHowley</name>
-  </author>
-  <link href="https://github.com/LiamHowley/stw-xml-parse" />
-  <id>urn:rprimus:github:LiamHowley:stw-xml-parse</id>
-  <published>2022-10-06T23:46:33Z</published>
-  <updated>2022-10-06T23:46:33Z</updated>
-  <content type="html">
-   An XML to DOM style parser; parsing elements and attributes into CLOS objects.
-  </content>
- </entry>
- <entry>
-  <title>LinhToBK: Check-Join-Autolisp</title>
-  <author>
-   <name>LinhToBK</name>
-  </author>
-  <link href="https://github.com/LinhToBK/Check-Join-Autolisp" />
-  <id>urn:rprimus:github:LinhToBK:Check-Join-Autolisp</id>
-  <published>2022-10-06T09:10:43Z</published>
-  <updated>2022-10-06T09:10:43Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>thekaigonzalez: test-package</title>
-  <author>
-   <name>thekaigonzalez</name>
-  </author>
-  <link href="https://github.com/thekaigonzalez/test-package" />
-  <id>urn:rprimus:github:thekaigonzalez:test-package</id>
-  <published>2022-10-06T00:29:13Z</published>
-  <updated>2022-10-06T00:29:13Z</updated>
-  <content type="html">
-   SPI test.
   </content>
  </entry>
 </feed>

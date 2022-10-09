@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2022-10-08T16:45:38Z</updated>
+<updated>2022-10-09T03:01:56Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>huhub: emacs.d</title>
+  <author>
+   <name>huhub</name>
+  </author>
+  <link href="https://github.com/huhub/emacs.d" />
+  <id>urn:rprimus:github:huhub:emacs.d</id>
+  <published>2022-10-09T03:01:56Z</published>
+  <updated>2022-10-09T03:01:56Z</updated>
+  <content type="html">
+   my emacs config
+  </content>
+ </entry>
+ <entry>
+  <title>BlueFlo0d: insecure-lock</title>
+  <author>
+   <name>BlueFlo0d</name>
+  </author>
+  <link href="https://github.com/BlueFlo0d/insecure-lock" />
+  <id>urn:rprimus:github:BlueFlo0d:insecure-lock</id>
+  <published>2022-10-08T22:34:22Z</published>
+  <updated>2022-10-08T22:34:22Z</updated>
+  <content type="html">
+   Screen locker in pure Emacs Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>SebastianHalbig: latex-goodies-for-emacs</title>
+  <author>
+   <name>SebastianHalbig</name>
+  </author>
+  <link href="https://github.com/SebastianHalbig/latex-goodies-for-emacs" />
+  <id>urn:rprimus:github:SebastianHalbig:latex-goodies-for-emacs</id>
+  <published>2022-10-08T21:31:06Z</published>
+  <updated>2022-10-08T21:31:06Z</updated>
+  <content type="html">
+   A bit of elisp code for smarter &lt;tab&gt; and &lt;return&gt; handling in emacs (in combination with auctex).
+  </content>
+ </entry>
+ <entry>
+  <title>Rubusch: docker__petalinux</title>
+  <author>
+   <name>Rubusch</name>
+  </author>
+  <link href="https://github.com/Rubusch/docker__petalinux" />
+  <id>urn:rprimus:github:Rubusch:docker__petalinux</id>
+  <published>2022-10-08T18:42:29Z</published>
+  <updated>2022-10-08T18:42:29Z</updated>
+  <content type="html">
+   AMD/Xilinx Petalinux build enviornment to build AMD/Xilnix SoC FPGA boards support packages.
+  </content>
+ </entry>
+ <entry>
+  <title>erickgnavar: cloak-mode</title>
+  <author>
+   <name>erickgnavar</name>
+  </author>
+  <link href="https://github.com/erickgnavar/cloak-mode" />
+  <id>urn:rprimus:github:erickgnavar:cloak-mode</id>
+  <published>2022-10-08T17:55:20Z</published>
+  <updated>2022-10-08T17:55:20Z</updated>
+  <content type="html">
+   A minor mode to hide sensitive values in buffers
+  </content>
+ </entry>
  <entry>
   <title>TABTHETEXTOUTFORWIMPS: apk-mode</title>
   <author>
@@ -317,6 +382,19 @@
   </content>
  </entry>
  <entry>
+  <title>farixco: init.el</title>
+  <author>
+   <name>farixco</name>
+  </author>
+  <link href="https://github.com/farixco/init.el" />
+  <id>urn:rprimus:github:farixco:init.el</id>
+  <published>2022-10-07T13:20:22Z</published>
+  <updated>2022-10-07T13:20:22Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
   <title>RaphaeleL: .emacs.d</title>
   <author>
    <name>RaphaeleL</name>
@@ -418,188 +496,6 @@
   <updated>2022-10-07T02:42:45Z</updated>
   <content type="html">
    Dotfiles for Editor MACroS
-  </content>
- </entry>
- <entry>
-  <title>johan-bolmsjo: emacs.d</title>
-  <author>
-   <name>johan-bolmsjo</name>
-  </author>
-  <link href="https://github.com/johan-bolmsjo/emacs.d" />
-  <id>urn:rprimus:github:johan-bolmsjo:emacs.d</id>
-  <published>2022-10-06T22:35:04Z</published>
-  <updated>2022-10-06T22:35:04Z</updated>
-  <content type="html">
-   GNU Emacs Configuration
-  </content>
- </entry>
- <entry>
-  <title>LeeSwindell: myemacs</title>
-  <author>
-   <name>LeeSwindell</name>
-  </author>
-  <link href="https://github.com/LeeSwindell/myemacs" />
-  <id>urn:rprimus:github:LeeSwindell:myemacs</id>
-  <published>2022-10-06T21:28:58Z</published>
-  <updated>2022-10-06T21:28:58Z</updated>
-  <content type="html">
-   its my emacs configs
-  </content>
- </entry>
- <entry>
-  <title>wkok: emacs-config</title>
-  <author>
-   <name>wkok</name>
-  </author>
-  <link href="https://github.com/wkok/emacs-config" />
-  <id>urn:rprimus:github:wkok:emacs-config</id>
-  <published>2022-10-06T20:28:50Z</published>
-  <updated>2022-10-06T20:28:50Z</updated>
-  <content type="html">
-   My emacs config (from scratch)
-  </content>
- </entry>
- <entry>
-  <title>abhishekamralkar: untangle-emacs</title>
-  <author>
-   <name>abhishekamralkar</name>
-  </author>
-  <link href="https://github.com/abhishekamralkar/untangle-emacs" />
-  <id>urn:rprimus:github:abhishekamralkar:untangle-emacs</id>
-  <published>2022-10-06T17:18:15Z</published>
-  <updated>2022-10-06T17:18:15Z</updated>
-  <content type="html">
-   My Emacs Config in Org Mode
-  </content>
- </entry>
- <entry>
-  <title>DynamicDry: dot-files</title>
-  <author>
-   <name>DynamicDry</name>
-  </author>
-  <link href="https://github.com/DynamicDry/dot-files" />
-  <id>urn:rprimus:github:DynamicDry:dot-files</id>
-  <published>2022-10-06T13:05:13Z</published>
-  <updated>2022-10-06T13:05:13Z</updated>
-  <content type="html">
-   personal config files
-  </content>
- </entry>
- <entry>
-  <title>emacs-vs: vs-electric-spacing</title>
-  <author>
-   <name>emacs-vs</name>
-  </author>
-  <link href="https://github.com/emacs-vs/vs-electric-spacing" />
-  <id>urn:rprimus:github:emacs-vs:vs-electric-spacing</id>
-  <published>2022-10-06T12:00:42Z</published>
-  <updated>2022-10-06T12:00:42Z</updated>
-  <content type="html">
-   Add spacing around operators like Visual Studio
-  </content>
- </entry>
- <entry>
-  <title>XingZhiang: emacs.d</title>
-  <author>
-   <name>XingZhiang</name>
-  </author>
-  <link href="https://github.com/XingZhiang/emacs.d" />
-  <id>urn:rprimus:github:XingZhiang:emacs.d</id>
-  <published>2022-10-06T11:51:05Z</published>
-  <updated>2022-10-06T11:51:05Z</updated>
-  <content type="html">
-   my emacs config
-  </content>
- </entry>
- <entry>
-  <title>MacPapo: statistic-elisp</title>
-  <author>
-   <name>MacPapo</name>
-  </author>
-  <link href="https://github.com/MacPapo/statistic-elisp" />
-  <id>urn:rprimus:github:MacPapo:statistic-elisp</id>
-  <published>2022-10-06T11:31:59Z</published>
-  <updated>2022-10-06T11:31:59Z</updated>
-  <content type="html">
-   Little package with some statistic formulas
-  </content>
- </entry>
- <entry>
-  <title>KarimAziev: md-edit-org</title>
-  <author>
-   <name>KarimAziev</name>
-  </author>
-  <link href="https://github.com/KarimAziev/md-edit-org" />
-  <id>urn:rprimus:github:KarimAziev:md-edit-org</id>
-  <published>2022-10-06T11:12:57Z</published>
-  <updated>2022-10-06T11:12:57Z</updated>
-  <content type="html">
-   Edit markdown in org mode.
-  </content>
- </entry>
- <entry>
-  <title>muqiuhan: .emacs.d</title>
-  <author>
-   <name>muqiuhan</name>
-  </author>
-  <link href="https://github.com/muqiuhan/.emacs.d" />
-  <id>urn:rprimus:github:muqiuhan:.emacs.d</id>
-  <published>2022-10-06T07:28:18Z</published>
-  <updated>2022-10-06T07:28:18Z</updated>
-  <content type="html">
-   My emacs configuration
-  </content>
- </entry>
- <entry>
-  <title>PlanetsFuture: danny-emacs</title>
-  <author>
-   <name>PlanetsFuture</name>
-  </author>
-  <link href="https://github.com/PlanetsFuture/danny-emacs" />
-  <id>urn:rprimus:github:PlanetsFuture:danny-emacs</id>
-  <published>2022-10-06T05:31:11Z</published>
-  <updated>2022-10-06T05:31:11Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>nicflores: dotfiles</title>
-  <author>
-   <name>nicflores</name>
-  </author>
-  <link href="https://github.com/nicflores/dotfiles" />
-  <id>urn:rprimus:github:nicflores:dotfiles</id>
-  <published>2022-10-06T04:46:46Z</published>
-  <updated>2022-10-06T04:46:46Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>eshrh: matsurika-mode</title>
-  <author>
-   <name>eshrh</name>
-  </author>
-  <link href="https://github.com/eshrh/matsurika-mode" />
-  <id>urn:rprimus:github:eshrh:matsurika-mode</id>
-  <published>2022-10-06T01:36:40Z</published>
-  <updated>2022-10-06T01:36:40Z</updated>
-  <content type="html">
-   spinoff repo for an emacs mode for matsurika, which is my fork of janet.
-  </content>
- </entry>
- <entry>
-  <title>sangjeedondrub: commons</title>
-  <author>
-   <name>sangjeedondrub</name>
-  </author>
-  <link href="https://github.com/sangjeedondrub/commons" />
-  <id>urn:rprimus:github:sangjeedondrub:commons</id>
-  <published>2022-10-06T00:41:42Z</published>
-  <updated>2022-10-06T00:41:42Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
