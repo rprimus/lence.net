@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2022-10-09T07:27:49Z</updated>
+<updated>2022-10-10T01:59:06Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>robcole: concierge</title>
+  <author>
+   <name>robcole</name>
+  </author>
+  <link href="https://github.com/robcole/concierge" />
+  <id>urn:rprimus:github:robcole:concierge</id>
+  <published>2022-10-10T01:59:06Z</published>
+  <updated>2022-10-10T01:59:06Z</updated>
+  <content type="html">
+   crystal 1.6 + lucky 1.0 + full stack default app
+  </content>
+ </entry>
+ <entry>
+  <title>robcole: findit</title>
+  <author>
+   <name>robcole</name>
+  </author>
+  <link href="https://github.com/robcole/findit" />
+  <id>urn:rprimus:github:robcole:findit</id>
+  <published>2022-10-10T01:41:11Z</published>
+  <updated>2022-10-10T01:41:11Z</updated>
+  <content type="html">
+   lucky api app + crystal 1.6
+  </content>
+ </entry>
+ <entry>
+  <title>davidrunger: skedjewel</title>
+  <author>
+   <name>davidrunger</name>
+  </author>
+  <link href="https://github.com/davidrunger/skedjewel" />
+  <id>urn:rprimus:github:davidrunger:skedjewel</id>
+  <published>2022-10-09T20:43:37Z</published>
+  <updated>2022-10-09T20:43:37Z</updated>
+  <content type="html">
+   A scheduled Sidekiq job runner written in Crystal
+  </content>
+ </entry>
  <entry>
   <title>unn4m3d: vtb_thing</title>
   <author>

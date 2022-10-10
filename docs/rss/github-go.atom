@@ -2,69 +2,654 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-go.atom"/>
 <id>urn:rprimus:github:newgorepos</id>
-<updated>2022-10-09T09:30:41Z</updated>
+<updated>2022-10-10T09:13:01Z</updated>
 <title type='text'>New GitHub Go Repos</title>
  <entry>
-  <title>mashiike: aslconv</title>
+  <title>pyihe: go-alias</title>
   <author>
-   <name>mashiike</name>
+   <name>pyihe</name>
   </author>
-  <link href="https://github.com/mashiike/aslconv" />
-  <id>urn:rprimus:github:mashiike:aslconv</id>
-  <published>2022-10-09T09:30:41Z</published>
-  <updated>2022-10-09T09:30:41Z</updated>
+  <link href="https://github.com/pyihe/go-alias" />
+  <id>urn:rprimus:github:pyihe:go-alias</id>
+  <published>2022-10-10T09:13:01Z</published>
+  <updated>2022-10-10T09:13:01Z</updated>
   <content type="html">
-   ASL (Amazon States Language) converter
+   Alias Method algorithm written in Go.
   </content>
  </entry>
  <entry>
-  <title>likjou: TBitTorrent</title>
+  <title>kenTT0903: go</title>
   <author>
-   <name>likjou</name>
+   <name>kenTT0903</name>
   </author>
-  <link href="https://github.com/likjou/TBitTorrent" />
-  <id>urn:rprimus:github:likjou:TBitTorrent</id>
-  <published>2022-10-09T09:06:11Z</published>
-  <updated>2022-10-09T09:06:11Z</updated>
+  <link href="https://github.com/kenTT0903/go" />
+  <id>urn:rprimus:github:kenTT0903:go</id>
+  <published>2022-10-10T09:12:19Z</published>
+  <updated>2022-10-10T09:12:19Z</updated>
   <content type="html">
-    BitTorrent client with terminal UI written in Go
+   
   </content>
  </entry>
  <entry>
-  <title>jinhyo-dev: gbsw-bustimetable-backend</title>
+  <title>omarcosr: teleport</title>
   <author>
-   <name>jinhyo-dev</name>
+   <name>omarcosr</name>
   </author>
-  <link href="https://github.com/jinhyo-dev/gbsw-bustimetable-backend" />
-  <id>urn:rprimus:github:jinhyo-dev:gbsw-bustimetable-backend</id>
-  <published>2022-10-09T08:48:52Z</published>
-  <updated>2022-10-09T08:48:52Z</updated>
+  <link href="https://github.com/omarcosr/teleport" />
+  <id>urn:rprimus:github:omarcosr:teleport</id>
+  <published>2022-10-10T09:07:09Z</published>
+  <updated>2022-10-10T09:07:09Z</updated>
   <content type="html">
-   gbsw-BusTimeTable-backend with Go
+   
   </content>
  </entry>
  <entry>
-  <title>geekbim: Go-CDC</title>
+  <title>DeluxeOwl: pcre</title>
   <author>
-   <name>geekbim</name>
+   <name>DeluxeOwl</name>
   </author>
-  <link href="https://github.com/geekbim/Go-CDC" />
-  <id>urn:rprimus:github:geekbim:Go-CDC</id>
-  <published>2022-10-09T08:35:25Z</published>
-  <updated>2022-10-09T08:35:25Z</updated>
+  <link href="https://github.com/DeluxeOwl/pcre" />
+  <id>urn:rprimus:github:DeluxeOwl:pcre</id>
+  <published>2022-10-10T08:32:23Z</published>
+  <updated>2022-10-10T08:32:23Z</updated>
   <content type="html">
-   Sample CDC with Go, PostgreSQL, Debezium, and Kafka
+   This package provides a CGo-free port of the PCRE2 regular expression library. The lib directory contains source code automatically translated from PCRE2&#039;s C source. This package wraps that code and provides an interface as close as possible to Go&#039;s stdlib regexp package. Mirror of https://gitea.arsenm.dev/Arsen6331/pcre
   </content>
  </entry>
  <entry>
-  <title>Bekheit: docker-go</title>
+  <title>Ekenzy-101: InfluxDB-IOT-App</title>
   <author>
-   <name>Bekheit</name>
+   <name>Ekenzy-101</name>
   </author>
-  <link href="https://github.com/Bekheit/docker-go" />
-  <id>urn:rprimus:github:Bekheit:docker-go</id>
-  <published>2022-10-09T08:12:41Z</published>
-  <updated>2022-10-09T08:12:41Z</updated>
+  <link href="https://github.com/Ekenzy-101/InfluxDB-IOT-App" />
+  <id>urn:rprimus:github:Ekenzy-101:InfluxDB-IOT-App</id>
+  <published>2022-10-10T08:26:08Z</published>
+  <updated>2022-10-10T08:26:08Z</updated>
+  <content type="html">
+   This project provides a NextJS Web App and Golang server-side REST API that interacts with InfluxDB.
+  </content>
+ </entry>
+ <entry>
+  <title>guilhem: csi-driver-git</title>
+  <author>
+   <name>guilhem</name>
+  </author>
+  <link href="https://github.com/guilhem/csi-driver-git" />
+  <id>urn:rprimus:github:guilhem:csi-driver-git</id>
+  <published>2022-10-10T08:15:52Z</published>
+  <updated>2022-10-10T08:15:52Z</updated>
+  <content type="html">
+   A CSI driver to manipulate git repositories
+  </content>
+ </entry>
+ <entry>
+  <title>Adiutant: webscrapper</title>
+  <author>
+   <name>Adiutant</name>
+  </author>
+  <link href="https://github.com/Adiutant/webscrapper" />
+  <id>urn:rprimus:github:Adiutant:webscrapper</id>
+  <published>2022-10-10T08:06:28Z</published>
+  <updated>2022-10-10T08:06:28Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>WangMuchun: alist</title>
+  <author>
+   <name>WangMuchun</name>
+  </author>
+  <link href="https://github.com/WangMuchun/alist" />
+  <id>urn:rprimus:github:WangMuchun:alist</id>
+  <published>2022-10-10T07:57:27Z</published>
+  <updated>2022-10-10T07:57:27Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>ruraomsk: dbcanon</title>
+  <author>
+   <name>ruraomsk</name>
+  </author>
+  <link href="https://github.com/ruraomsk/dbcanon" />
+  <id>urn:rprimus:github:ruraomsk:dbcanon</id>
+  <published>2022-10-10T07:48:26Z</published>
+  <updated>2022-10-10T07:48:26Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>mnt-ltd: moredoc</title>
+  <author>
+   <name>mnt-ltd</name>
+  </author>
+  <link href="https://github.com/mnt-ltd/moredoc" />
+  <id>urn:rprimus:github:mnt-ltd:moredoc</id>
+  <published>2022-10-10T07:41:45Z</published>
+  <updated>2022-10-10T07:41:45Z</updated>
+  <content type="html">
+   moredocï¼é­åæåºï¼åºäºgolangå¼åçç±»ä¼¼ç¾åº¦æåºçå¼æºæåºç³»ç»ï¼dochubæåºçéæçæ¬ã
+  </content>
+ </entry>
+ <entry>
+  <title>webees: hdwallet</title>
+  <author>
+   <name>webees</name>
+  </author>
+  <link href="https://github.com/webees/hdwallet" />
+  <id>urn:rprimus:github:webees:hdwallet</id>
+  <published>2022-10-10T07:31:44Z</published>
+  <updated>2022-10-10T07:31:44Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>fessy1der: go-web-scraper</title>
+  <author>
+   <name>fessy1der</name>
+  </author>
+  <link href="https://github.com/fessy1der/go-web-scraper" />
+  <id>urn:rprimus:github:fessy1der:go-web-scraper</id>
+  <published>2022-10-10T07:13:08Z</published>
+  <updated>2022-10-10T07:13:08Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>trever-io: go-bitbuy</title>
+  <author>
+   <name>trever-io</name>
+  </author>
+  <link href="https://github.com/trever-io/go-bitbuy" />
+  <id>urn:rprimus:github:trever-io:go-bitbuy</id>
+  <published>2022-10-10T06:38:06Z</published>
+  <updated>2022-10-10T06:38:06Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>tvntsr: workerpool</title>
+  <author>
+   <name>tvntsr</name>
+  </author>
+  <link href="https://github.com/tvntsr/workerpool" />
+  <id>urn:rprimus:github:tvntsr:workerpool</id>
+  <published>2022-10-10T06:00:34Z</published>
+  <updated>2022-10-10T06:00:34Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>sirzzang: go-with-tuckers</title>
+  <author>
+   <name>sirzzang</name>
+  </author>
+  <link href="https://github.com/sirzzang/go-with-tuckers" />
+  <id>urn:rprimus:github:sirzzang:go-with-tuckers</id>
+  <published>2022-10-10T05:19:07Z</published>
+  <updated>2022-10-10T05:19:07Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>RafaelZasas: rpiSystemMonitor</title>
+  <author>
+   <name>RafaelZasas</name>
+  </author>
+  <link href="https://github.com/RafaelZasas/rpiSystemMonitor" />
+  <id>urn:rprimus:github:RafaelZasas:rpiSystemMonitor</id>
+  <published>2022-10-10T05:13:59Z</published>
+  <updated>2022-10-10T05:13:59Z</updated>
+  <content type="html">
+   Raspberry Pi System Monitor API
+  </content>
+ </entry>
+ <entry>
+  <title>AgusDharmaUDEL93: simple_rest_api_golang</title>
+  <author>
+   <name>AgusDharmaUDEL93</name>
+  </author>
+  <link href="https://github.com/AgusDharmaUDEL93/simple_rest_api_golang" />
+  <id>urn:rprimus:github:AgusDharmaUDEL93:simple_rest_api_golang</id>
+  <published>2022-10-10T03:59:19Z</published>
+  <updated>2022-10-10T03:59:19Z</updated>
+  <content type="html">
+   Simple API using go language and only with sql driver package. API specifications can be found in APISpec.json
+  </content>
+ </entry>
+ <entry>
+  <title>pvtamh2bg: Goapp-MVC</title>
+  <author>
+   <name>pvtamh2bg</name>
+  </author>
+  <link href="https://github.com/pvtamh2bg/Goapp-MVC" />
+  <id>urn:rprimus:github:pvtamh2bg:Goapp-MVC</id>
+  <published>2022-10-10T03:50:40Z</published>
+  <updated>2022-10-10T03:50:40Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>dclib: gameutil</title>
+  <author>
+   <name>dclib</name>
+  </author>
+  <link href="https://github.com/dclib/gameutil" />
+  <id>urn:rprimus:github:dclib:gameutil</id>
+  <published>2022-10-10T03:36:46Z</published>
+  <updated>2022-10-10T03:36:46Z</updated>
+  <content type="html">
+   game utils
+  </content>
+ </entry>
+ <entry>
+  <title>saucesteals: betterjson</title>
+  <author>
+   <name>saucesteals</name>
+  </author>
+  <link href="https://github.com/saucesteals/betterjson" />
+  <id>urn:rprimus:github:saucesteals:betterjson</id>
+  <published>2022-10-10T03:14:55Z</published>
+  <updated>2022-10-10T03:14:55Z</updated>
+  <content type="html">
+   encoding/json without its quirks
+  </content>
+ </entry>
+ <entry>
+  <title>iotaaxel: producer-consumer</title>
+  <author>
+   <name>iotaaxel</name>
+  </author>
+  <link href="https://github.com/iotaaxel/producer-consumer" />
+  <id>urn:rprimus:github:iotaaxel:producer-consumer</id>
+  <published>2022-10-10T03:09:52Z</published>
+  <updated>2022-10-10T03:09:52Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>voluntas: webapp-sqlite-template</title>
+  <author>
+   <name>voluntas</name>
+  </author>
+  <link href="https://github.com/voluntas/webapp-sqlite-template" />
+  <id>urn:rprimus:github:voluntas:webapp-sqlite-template</id>
+  <published>2022-10-10T02:40:35Z</published>
+  <updated>2022-10-10T02:40:35Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>craigatron: go-nhl-simulator</title>
+  <author>
+   <name>craigatron</name>
+  </author>
+  <link href="https://github.com/craigatron/go-nhl-simulator" />
+  <id>urn:rprimus:github:craigatron:go-nhl-simulator</id>
+  <published>2022-10-10T01:37:27Z</published>
+  <updated>2022-10-10T01:37:27Z</updated>
+  <content type="html">
+   NHL simulator based on 538
+  </content>
+ </entry>
+ <entry>
+  <title>finestweber: SQL-GO</title>
+  <author>
+   <name>finestweber</name>
+  </author>
+  <link href="https://github.com/finestweber/SQL-GO" />
+  <id>urn:rprimus:github:finestweber:SQL-GO</id>
+  <published>2022-10-10T01:25:09Z</published>
+  <updated>2022-10-10T01:25:09Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>shunsuke-tamura: sagasugoi_back</title>
+  <author>
+   <name>shunsuke-tamura</name>
+  </author>
+  <link href="https://github.com/shunsuke-tamura/sagasugoi_back" />
+  <id>urn:rprimus:github:shunsuke-tamura:sagasugoi_back</id>
+  <published>2022-10-10T01:00:39Z</published>
+  <updated>2022-10-10T01:00:39Z</updated>
+  <content type="html">
+   ãããé¯ããã¯ã¨ã³ã
+  </content>
+ </entry>
+ <entry>
+  <title>vladimirok5959: golang-donatello</title>
+  <author>
+   <name>vladimirok5959</name>
+  </author>
+  <link href="https://github.com/vladimirok5959/golang-donatello" />
+  <id>urn:rprimus:github:vladimirok5959:golang-donatello</id>
+  <published>2022-10-10T00:58:16Z</published>
+  <updated>2022-10-10T00:58:16Z</updated>
+  <content type="html">
+   Go API client for ukrainian donate platform donatello.to
+  </content>
+ </entry>
+ <entry>
+  <title>manifoldfinance: venom-capacity</title>
+  <author>
+   <name>manifoldfinance</name>
+  </author>
+  <link href="https://github.com/manifoldfinance/venom-capacity" />
+  <id>urn:rprimus:github:manifoldfinance:venom-capacity</id>
+  <published>2022-10-10T00:45:29Z</published>
+  <updated>2022-10-10T00:45:29Z</updated>
+  <content type="html">
+   V.E.N.O.M Mempool example 
+  </content>
+ </entry>
+ <entry>
+  <title>DiabeticOwl: learning-ebitengine</title>
+  <author>
+   <name>DiabeticOwl</name>
+  </author>
+  <link href="https://github.com/DiabeticOwl/learning-ebitengine" />
+  <id>urn:rprimus:github:DiabeticOwl:learning-ebitengine</id>
+  <published>2022-10-10T00:36:45Z</published>
+  <updated>2022-10-10T00:36:45Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>mondiniit: database_golang</title>
+  <author>
+   <name>mondiniit</name>
+  </author>
+  <link href="https://github.com/mondiniit/database_golang" />
+  <id>urn:rprimus:github:mondiniit:database_golang</id>
+  <published>2022-10-10T00:18:00Z</published>
+  <updated>2022-10-10T00:18:00Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>alelaca: review-manager-mirror</title>
+  <author>
+   <name>alelaca</name>
+  </author>
+  <link href="https://github.com/alelaca/review-manager-mirror" />
+  <id>urn:rprimus:github:alelaca:review-manager-mirror</id>
+  <published>2022-10-10T00:14:35Z</published>
+  <updated>2022-10-10T00:14:35Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>gmaldona: github-view-poller</title>
+  <author>
+   <name>gmaldona</name>
+  </author>
+  <link href="https://github.com/gmaldona/github-view-poller" />
+  <id>urn:rprimus:github:gmaldona:github-view-poller</id>
+  <published>2022-10-09T22:58:43Z</published>
+  <updated>2022-10-09T22:58:43Z</updated>
+  <content type="html">
+   A go poller for displaying the views of the most popular repos on your account 
+  </content>
+ </entry>
+ <entry>
+  <title>minhtran241: gRPC-introduction</title>
+  <author>
+   <name>minhtran241</name>
+  </author>
+  <link href="https://github.com/minhtran241/gRPC-introduction" />
+  <id>urn:rprimus:github:minhtran241:gRPC-introduction</id>
+  <published>2022-10-09T21:28:23Z</published>
+  <updated>2022-10-09T21:28:23Z</updated>
+  <content type="html">
+   Implementation of gRPC with Go
+  </content>
+ </entry>
+ <entry>
+  <title>circa10a: go-mailform</title>
+  <author>
+   <name>circa10a</name>
+  </author>
+  <link href="https://github.com/circa10a/go-mailform" />
+  <id>urn:rprimus:github:circa10a:go-mailform</id>
+  <published>2022-10-09T20:23:58Z</published>
+  <updated>2022-10-09T20:23:58Z</updated>
+  <content type="html">
+   A small library to send physical mail from your Go applications using https://mailform.io
+  </content>
+ </entry>
+ <entry>
+  <title>tabbed: sqlc-gen-python</title>
+  <author>
+   <name>tabbed</name>
+  </author>
+  <link href="https://github.com/tabbed/sqlc-gen-python" />
+  <id>urn:rprimus:github:tabbed:sqlc-gen-python</id>
+  <published>2022-10-09T18:59:50Z</published>
+  <updated>2022-10-09T18:59:50Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>abatilo: github-ratelimit-metrics</title>
+  <author>
+   <name>abatilo</name>
+  </author>
+  <link href="https://github.com/abatilo/github-ratelimit-metrics" />
+  <id>urn:rprimus:github:abatilo:github-ratelimit-metrics</id>
+  <published>2022-10-09T17:10:08Z</published>
+  <updated>2022-10-09T17:10:08Z</updated>
+  <content type="html">
+   Expose GitHub App rate limits as Prometheus metrics
+  </content>
+ </entry>
+ <entry>
+  <title>saufiroja: fiber-graphql</title>
+  <author>
+   <name>saufiroja</name>
+  </author>
+  <link href="https://github.com/saufiroja/fiber-graphql" />
+  <id>urn:rprimus:github:saufiroja:fiber-graphql</id>
+  <published>2022-10-09T16:20:22Z</published>
+  <updated>2022-10-09T16:20:22Z</updated>
+  <content type="html">
+   Learn fiber go framework  with graphql
+  </content>
+ </entry>
+ <entry>
+  <title>CiroLee: bf-go</title>
+  <author>
+   <name>CiroLee</name>
+  </author>
+  <link href="https://github.com/CiroLee/bf-go" />
+  <id>urn:rprimus:github:CiroLee:bf-go</id>
+  <published>2022-10-09T16:16:16Z</published>
+  <updated>2022-10-09T16:16:16Z</updated>
+  <content type="html">
+   cli bf implemented by go 
+  </content>
+ </entry>
+ <entry>
+  <title>rishiwardhan: GO-Movies-CRUD-API</title>
+  <author>
+   <name>rishiwardhan</name>
+  </author>
+  <link href="https://github.com/rishiwardhan/GO-Movies-CRUD-API" />
+  <id>urn:rprimus:github:rishiwardhan:GO-Movies-CRUD-API</id>
+  <published>2022-10-09T15:23:05Z</published>
+  <updated>2022-10-09T15:23:05Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>teensee: currency</title>
+  <author>
+   <name>teensee</name>
+  </author>
+  <link href="https://github.com/teensee/currency" />
+  <id>urn:rprimus:github:teensee:currency</id>
+  <published>2022-10-09T14:37:41Z</published>
+  <updated>2022-10-09T14:37:41Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>keecon: pkg-go</title>
+  <author>
+   <name>keecon</name>
+  </author>
+  <link href="https://github.com/keecon/pkg-go" />
+  <id>urn:rprimus:github:keecon:pkg-go</id>
+  <published>2022-10-09T14:10:22Z</published>
+  <updated>2022-10-09T14:10:22Z</updated>
+  <content type="html">
+   Keecon common packages
+  </content>
+ </entry>
+ <entry>
+  <title>emptycan1010: novelai-image-info</title>
+  <author>
+   <name>emptycan1010</name>
+  </author>
+  <link href="https://github.com/emptycan1010/novelai-image-info" />
+  <id>urn:rprimus:github:emptycan1010:novelai-image-info</id>
+  <published>2022-10-09T14:08:25Z</published>
+  <updated>2022-10-09T14:08:25Z</updated>
+  <content type="html">
+   NovelAI get Image info using Golang
+  </content>
+ </entry>
+ <entry>
+  <title>NickCao: ipsec-playground</title>
+  <author>
+   <name>NickCao</name>
+  </author>
+  <link href="https://github.com/NickCao/ipsec-playground" />
+  <id>urn:rprimus:github:NickCao:ipsec-playground</id>
+  <published>2022-10-09T13:59:33Z</published>
+  <updated>2022-10-09T13:59:33Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>chrnin: libinpibilan</title>
+  <author>
+   <name>chrnin</name>
+  </author>
+  <link href="https://github.com/chrnin/libinpibilan" />
+  <id>urn:rprimus:github:chrnin:libinpibilan</id>
+  <published>2022-10-09T13:16:14Z</published>
+  <updated>2022-10-09T13:16:14Z</updated>
+  <content type="html">
+   go module aimed to read INPI bilan XML files
+  </content>
+ </entry>
+ <entry>
+  <title>gitynity: Boogle</title>
+  <author>
+   <name>gitynity</name>
+  </author>
+  <link href="https://github.com/gitynity/Boogle" />
+  <id>urn:rprimus:github:gitynity:Boogle</id>
+  <published>2022-10-09T13:13:31Z</published>
+  <updated>2022-10-09T13:13:31Z</updated>
+  <content type="html">
+   App to search books with google
+  </content>
+ </entry>
+ <entry>
+  <title>Kioubit: chownshift</title>
+  <author>
+   <name>Kioubit</name>
+  </author>
+  <link href="https://github.com/Kioubit/chownshift" />
+  <id>urn:rprimus:github:Kioubit:chownshift</id>
+  <published>2022-10-09T12:30:50Z</published>
+  <updated>2022-10-09T12:30:50Z</updated>
+  <content type="html">
+   Shift UIDs,GIDs of directories or files by a specified amount
+  </content>
+ </entry>
+ <entry>
+  <title>CharmingDev777: Go-Game-Server-master</title>
+  <author>
+   <name>CharmingDev777</name>
+  </author>
+  <link href="https://github.com/CharmingDev777/Go-Game-Server-master" />
+  <id>urn:rprimus:github:CharmingDev777:Go-Game-Server-master</id>
+  <published>2022-10-09T12:19:50Z</published>
+  <updated>2022-10-09T12:19:50Z</updated>
+  <content type="html">
+   A tool programmed in Go to automatically restart &#039;hung&#039; game servers/containers via a Pterodactyl API.
+  </content>
+ </entry>
+ <entry>
+  <title>markuslindenberg: iphook</title>
+  <author>
+   <name>markuslindenberg</name>
+  </author>
+  <link href="https://github.com/markuslindenberg/iphook" />
+  <id>urn:rprimus:github:markuslindenberg:iphook</id>
+  <published>2022-10-09T11:31:02Z</published>
+  <updated>2022-10-09T11:31:02Z</updated>
+  <content type="html">
+   Minimal DynDNS client daemon supporting dual stack IPv4 + IPv6 and changing IPs
+  </content>
+ </entry>
+ <entry>
+  <title>mjarkk: decode-vanmoof-blt-packages</title>
+  <author>
+   <name>mjarkk</name>
+  </author>
+  <link href="https://github.com/mjarkk/decode-vanmoof-blt-packages" />
+  <id>urn:rprimus:github:mjarkk:decode-vanmoof-blt-packages</id>
+  <published>2022-10-09T10:36:03Z</published>
+  <updated>2022-10-09T10:36:03Z</updated>
+  <content type="html">
+   A helper program for inspecting bluetooth sniff files when communicating with vanmoof bikes
+  </content>
+ </entry>
+ <entry>
+  <title>ilhamnopi: Rest-API-sederhana-CRUD-gin</title>
+  <author>
+   <name>ilhamnopi</name>
+  </author>
+  <link href="https://github.com/ilhamnopi/Rest-API-sederhana-CRUD-gin" />
+  <id>urn:rprimus:github:ilhamnopi:Rest-API-sederhana-CRUD-gin</id>
+  <published>2022-10-09T10:01:48Z</published>
+  <updated>2022-10-09T10:01:48Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>MYK12397: user</title>
+  <author>
+   <name>MYK12397</name>
+  </author>
+  <link href="https://github.com/MYK12397/user" />
+  <id>urn:rprimus:github:MYK12397:user</id>
+  <published>2022-10-09T09:50:16Z</published>
+  <updated>2022-10-09T09:50:16Z</updated>
   <content type="html">
    
   </content>
@@ -96,19 +681,6 @@
   </content>
  </entry>
  <entry>
-  <title>Zhuchengyu04: open-local</title>
-  <author>
-   <name>Zhuchengyu04</name>
-  </author>
-  <link href="https://github.com/Zhuchengyu04/open-local" />
-  <id>urn:rprimus:github:Zhuchengyu04:open-local</id>
-  <published>2022-10-09T07:46:27Z</published>
-  <updated>2022-10-09T07:46:27Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
   <title>zakaria-chahboun: genmessage</title>
   <author>
    <name>zakaria-chahboun</name>
@@ -122,71 +694,6 @@
   </content>
  </entry>
  <entry>
-  <title>Terandial: src</title>
-  <author>
-   <name>Terandial</name>
-  </author>
-  <link href="https://github.com/Terandial/src" />
-  <id>urn:rprimus:github:Terandial:src</id>
-  <published>2022-10-09T07:02:41Z</published>
-  <updated>2022-10-09T07:02:41Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>frezes: whizard-adapter</title>
-  <author>
-   <name>frezes</name>
-  </author>
-  <link href="https://github.com/frezes/whizard-adapter" />
-  <id>urn:rprimus:github:frezes:whizard-adapter</id>
-  <published>2022-10-09T06:42:17Z</published>
-  <updated>2022-10-09T06:42:17Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Mynoveloper: mongopaginator</title>
-  <author>
-   <name>Mynoveloper</name>
-  </author>
-  <link href="https://github.com/Mynoveloper/mongopaginator" />
-  <id>urn:rprimus:github:Mynoveloper:mongopaginator</id>
-  <published>2022-10-09T06:34:51Z</published>
-  <updated>2022-10-09T06:34:51Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>lamboJw: go_test</title>
-  <author>
-   <name>lamboJw</name>
-  </author>
-  <link href="https://github.com/lamboJw/go_test" />
-  <id>urn:rprimus:github:lamboJw:go_test</id>
-  <published>2022-10-09T06:29:06Z</published>
-  <updated>2022-10-09T06:29:06Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Emin5001: learning_go</title>
-  <author>
-   <name>Emin5001</name>
-  </author>
-  <link href="https://github.com/Emin5001/learning_go" />
-  <id>urn:rprimus:github:Emin5001:learning_go</id>
-  <published>2022-10-09T05:48:41Z</published>
-  <updated>2022-10-09T05:48:41Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
   <title>crispgm: read-track</title>
   <author>
    <name>crispgm</name>
@@ -197,19 +704,6 @@
   <updated>2022-10-09T05:20:20Z</updated>
   <content type="html">
    Personal reading list
-  </content>
- </entry>
- <entry>
-  <title>ykun-lab: go-average</title>
-  <author>
-   <name>ykun-lab</name>
-  </author>
-  <link href="https://github.com/ykun-lab/go-average" />
-  <id>urn:rprimus:github:ykun-lab:go-average</id>
-  <published>2022-10-09T05:07:05Z</published>
-  <updated>2022-10-09T05:07:05Z</updated>
-  <content type="html">
-   Goã§å¹³åãåºãã ãã®ã³ã¼ã
   </content>
  </entry>
  <entry>
@@ -239,19 +733,6 @@
   </content>
  </entry>
  <entry>
-  <title>Danielwpt: booking-app</title>
-  <author>
-   <name>Danielwpt</name>
-  </author>
-  <link href="https://github.com/Danielwpt/booking-app" />
-  <id>urn:rprimus:github:Danielwpt:booking-app</id>
-  <published>2022-10-09T03:32:56Z</published>
-  <updated>2022-10-09T03:32:56Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
   <title>cloud-org: sample</title>
   <author>
    <name>cloud-org</name>
@@ -262,71 +743,6 @@
   <updated>2022-10-09T03:17:00Z</updated>
   <content type="html">
    many minimum viable demo
-  </content>
- </entry>
- <entry>
-  <title>eduardoths: pub-sub</title>
-  <author>
-   <name>eduardoths</name>
-  </author>
-  <link href="https://github.com/eduardoths/pub-sub" />
-  <id>urn:rprimus:github:eduardoths:pub-sub</id>
-  <published>2022-10-09T03:15:37Z</published>
-  <updated>2022-10-09T03:15:37Z</updated>
-  <content type="html">
-   A lightweight micro framework to handle simple pub subs
-  </content>
- </entry>
- <entry>
-  <title>endang-ismaya: edspertid-golang-tugas1</title>
-  <author>
-   <name>endang-ismaya</name>
-  </author>
-  <link href="https://github.com/endang-ismaya/edspertid-golang-tugas1" />
-  <id>urn:rprimus:github:endang-ismaya:edspertid-golang-tugas1</id>
-  <published>2022-10-09T02:46:29Z</published>
-  <updated>2022-10-09T02:46:29Z</updated>
-  <content type="html">
-   Edspert.id Golang - Tugas Pertemuan Ke-1
-  </content>
- </entry>
- <entry>
-  <title>americanstone: goTricks</title>
-  <author>
-   <name>americanstone</name>
-  </author>
-  <link href="https://github.com/americanstone/goTricks" />
-  <id>urn:rprimus:github:americanstone:goTricks</id>
-  <published>2022-10-09T02:40:35Z</published>
-  <updated>2022-10-09T02:40:35Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>fredgyoung: go-server</title>
-  <author>
-   <name>fredgyoung</name>
-  </author>
-  <link href="https://github.com/fredgyoung/go-server" />
-  <id>urn:rprimus:github:fredgyoung:go-server</id>
-  <published>2022-10-09T02:38:11Z</published>
-  <updated>2022-10-09T02:38:11Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>finddiff: nutsDBMDHttp</title>
-  <author>
-   <name>finddiff</name>
-  </author>
-  <link href="https://github.com/finddiff/nutsDBMDHttp" />
-  <id>urn:rprimus:github:finddiff:nutsDBMDHttp</id>
-  <published>2022-10-09T02:21:38Z</published>
-  <updated>2022-10-09T02:21:38Z</updated>
-  <content type="html">
-   An http server for nutsDBMD
   </content>
  </entry>
  <entry>
@@ -343,42 +759,16 @@
   </content>
  </entry>
  <entry>
-  <title>pneb: GoLang</title>
+  <title>xpfo-go: defaults</title>
   <author>
-   <name>pneb</name>
+   <name>xpfo-go</name>
   </author>
-  <link href="https://github.com/pneb/GoLang" />
-  <id>urn:rprimus:github:pneb:GoLang</id>
-  <published>2022-10-09T02:06:18Z</published>
-  <updated>2022-10-09T02:06:18Z</updated>
+  <link href="https://github.com/xpfo-go/defaults" />
+  <id>urn:rprimus:github:xpfo-go:defaults</id>
+  <published>2022-10-09T01:22:00Z</published>
+  <updated>2022-10-09T01:22:00Z</updated>
   <content type="html">
-   List of my random projects made using Go
-  </content>
- </entry>
- <entry>
-  <title>leafney: rose-notice</title>
-  <author>
-   <name>leafney</name>
-  </author>
-  <link href="https://github.com/leafney/rose-notice" />
-  <id>urn:rprimus:github:leafney:rose-notice</id>
-  <published>2022-10-09T01:30:49Z</published>
-  <updated>2022-10-09T01:30:49Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>zulkarnen-force: assignment-kedua</title>
-  <author>
-   <name>zulkarnen-force</name>
-  </author>
-  <link href="https://github.com/zulkarnen-force/assignment-kedua" />
-  <id>urn:rprimus:github:zulkarnen-force:assignment-kedua</id>
-  <published>2022-10-09T01:25:39Z</published>
-  <updated>2022-10-09T01:25:39Z</updated>
-  <content type="html">
-   
+   Set  default value of golang.
   </content>
  </entry>
  <entry>
@@ -408,19 +798,6 @@
   </content>
  </entry>
  <entry>
-  <title>myl7: fproxy</title>
-  <author>
-   <name>myl7</name>
-  </author>
-  <link href="https://github.com/myl7/fproxy" />
-  <id>urn:rprimus:github:myl7:fproxy</id>
-  <published>2022-10-08T22:00:56Z</published>
-  <updated>2022-10-08T22:00:56Z</updated>
-  <content type="html">
-   HTTP reverse proxy forwarding file access with local file persistence (a.k.a. cache but separated by file)
-  </content>
- </entry>
- <entry>
   <title>atomicgo: list</title>
   <author>
    <name>atomicgo</name>
@@ -434,16 +811,29 @@
   </content>
  </entry>
  <entry>
-  <title>johngualteros: golang_rest_api</title>
+  <title>wcraigjones: wazero-stream-demo</title>
   <author>
-   <name>johngualteros</name>
+   <name>wcraigjones</name>
   </author>
-  <link href="https://github.com/johngualteros/golang_rest_api" />
-  <id>urn:rprimus:github:johngualteros:golang_rest_api</id>
-  <published>2022-10-08T21:41:57Z</published>
-  <updated>2022-10-08T21:41:57Z</updated>
+  <link href="https://github.com/wcraigjones/wazero-stream-demo" />
+  <id>urn:rprimus:github:wcraigjones:wazero-stream-demo</id>
+  <published>2022-10-08T21:12:38Z</published>
+  <updated>2022-10-08T21:12:38Z</updated>
   <content type="html">
-   rest api in go
+   
+  </content>
+ </entry>
+ <entry>
+  <title>blueprismo: 100-golang-exercices</title>
+  <author>
+   <name>blueprismo</name>
+  </author>
+  <link href="https://github.com/blueprismo/100-golang-exercices" />
+  <id>urn:rprimus:github:blueprismo:100-golang-exercices</id>
+  <published>2022-10-08T20:41:56Z</published>
+  <updated>2022-10-08T20:41:56Z</updated>
+  <content type="html">
+   Get better and practice some Go programming language 
   </content>
  </entry>
  <entry>
@@ -512,19 +902,6 @@
   </content>
  </entry>
  <entry>
-  <title>Professor833: bookings</title>
-  <author>
-   <name>Professor833</name>
-  </author>
-  <link href="https://github.com/Professor833/bookings" />
-  <id>urn:rprimus:github:Professor833:bookings</id>
-  <published>2022-10-08T18:35:19Z</published>
-  <updated>2022-10-08T18:35:19Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
   <title>Igo-Cigo: nsc</title>
   <author>
    <name>Igo-Cigo</name>
@@ -548,6 +925,19 @@
   <updated>2022-10-08T18:17:04Z</updated>
   <content type="html">
    mindswapme
+  </content>
+ </entry>
+ <entry>
+  <title>zncoder: qad</title>
+  <author>
+   <name>zncoder</name>
+  </author>
+  <link href="https://github.com/zncoder/qad" />
+  <id>urn:rprimus:github:zncoder:qad</id>
+  <published>2022-10-08T16:24:05Z</published>
+  <updated>2022-10-08T16:24:05Z</updated>
+  <content type="html">
+   quick and dirty go funcs
   </content>
  </entry>
  <entry>
@@ -577,6 +967,19 @@
   </content>
  </entry>
  <entry>
+  <title>piotreknow02: twojsomsiad-backend</title>
+  <author>
+   <name>piotreknow02</name>
+  </author>
+  <link href="https://github.com/piotreknow02/twojsomsiad-backend" />
+  <id>urn:rprimus:github:piotreknow02:twojsomsiad-backend</id>
+  <published>2022-10-08T15:57:04Z</published>
+  <updated>2022-10-08T15:57:04Z</updated>
+  <content type="html">
+   twojsomsiad.ml website backend
+  </content>
+ </entry>
+ <entry>
   <title>ChristoWolf: go-middleware</title>
   <author>
    <name>ChristoWolf</name>
@@ -587,6 +990,19 @@
   <updated>2022-10-08T15:54:11Z</updated>
   <content type="html">
    A collection of simple Go middleware based on `net/http`.
+  </content>
+ </entry>
+ <entry>
+  <title>barn-lang: barn</title>
+  <author>
+   <name>barn-lang</name>
+  </author>
+  <link href="https://github.com/barn-lang/barn" />
+  <id>urn:rprimus:github:barn-lang:barn</id>
+  <published>2022-10-08T15:51:18Z</published>
+  <updated>2022-10-08T15:51:18Z</updated>
+  <content type="html">
+   Barn i&#039;ts a simple programming language written in Go that is compiler to C.
   </content>
  </entry>
  <entry>
@@ -616,19 +1032,6 @@
   </content>
  </entry>
  <entry>
-  <title>huso51: BTK_Akademi_GO_ile_Programlamaya_Giris</title>
-  <author>
-   <name>huso51</name>
-  </author>
-  <link href="https://github.com/huso51/BTK_Akademi_GO_ile_Programlamaya_Giris" />
-  <id>urn:rprimus:github:huso51:BTK_Akademi_GO_ile_Programlamaya_Giris</id>
-  <published>2022-10-08T14:08:52Z</published>
-  <updated>2022-10-08T14:08:52Z</updated>
-  <content type="html">
-   Engin DemiroÄ GO ile Programlamaya GiriÅ
-  </content>
- </entry>
- <entry>
   <title>uk0: fameview_fmtcp_golang_plugin</title>
   <author>
    <name>uk0</name>
@@ -652,6 +1055,19 @@
   <updated>2022-10-08T11:18:45Z</updated>
   <content type="html">
    mp3 visualizer player 
+  </content>
+ </entry>
+ <entry>
+  <title>mond77: linc</title>
+  <author>
+   <name>mond77</name>
+  </author>
+  <link href="https://github.com/mond77/linc" />
+  <id>urn:rprimus:github:mond77:linc</id>
+  <published>2022-10-08T11:16:33Z</published>
+  <updated>2022-10-08T11:16:33Z</updated>
+  <content type="html">
+   a docker toy created for learning the principles of Docker.
   </content>
  </entry>
  <entry>
@@ -681,16 +1097,16 @@
   </content>
  </entry>
  <entry>
-  <title>diskcat: ACAutomatic</title>
+  <title>octopus20: golang</title>
   <author>
-   <name>diskcat</name>
+   <name>octopus20</name>
   </author>
-  <link href="https://github.com/diskcat/ACAutomatic" />
-  <id>urn:rprimus:github:diskcat:ACAutomatic</id>
-  <published>2022-10-08T08:46:17Z</published>
-  <updated>2022-10-08T08:46:17Z</updated>
+  <link href="https://github.com/octopus20/golang" />
+  <id>urn:rprimus:github:octopus20:golang</id>
+  <published>2022-10-08T08:58:52Z</published>
+  <updated>2022-10-08T08:58:52Z</updated>
   <content type="html">
-   åºäºACèªå¨æºçææè¯æ¿æ¢
+   Learn Go!
   </content>
  </entry>
  <entry>
@@ -704,19 +1120,6 @@
   <updated>2022-10-08T08:42:50Z</updated>
   <content type="html">
    CobaltStrike beacon written in golang
-  </content>
- </entry>
- <entry>
-  <title>xmh19936688: go-seeker</title>
-  <author>
-   <name>xmh19936688</name>
-  </author>
-  <link href="https://github.com/xmh19936688/go-seeker" />
-  <id>urn:rprimus:github:xmh19936688:go-seeker</id>
-  <published>2022-10-08T07:29:13Z</published>
-  <updated>2022-10-08T07:29:13Z</updated>
-  <content type="html">
-   go-seekerç¨äºéè¡å¤çå­ç¬¦ä¸²
   </content>
  </entry>
  <entry>
@@ -746,19 +1149,6 @@
   </content>
  </entry>
  <entry>
-  <title>JuneQQQ: IM-Server</title>
-  <author>
-   <name>JuneQQQ</name>
-  </author>
-  <link href="https://github.com/JuneQQQ/IM-Server" />
-  <id>urn:rprimus:github:JuneQQQ:IM-Server</id>
-  <published>2022-10-08T03:40:24Z</published>
-  <updated>2022-10-08T03:40:24Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
   <title>lithDevv: gocolor</title>
   <author>
    <name>lithDevv</name>
@@ -782,396 +1172,6 @@
   <updated>2022-10-08T01:29:07Z</updated>
   <content type="html">
    urlscan.io API library for Go
-  </content>
- </entry>
- <entry>
-  <title>TheLoGgI: authentication-service</title>
-  <author>
-   <name>TheLoGgI</name>
-  </author>
-  <link href="https://github.com/TheLoGgI/authentication-service" />
-  <id>urn:rprimus:github:TheLoGgI:authentication-service</id>
-  <published>2022-10-07T23:30:04Z</published>
-  <updated>2022-10-07T23:30:04Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>adg: sync</title>
-  <author>
-   <name>adg</name>
-  </author>
-  <link href="https://github.com/adg/sync" />
-  <id>urn:rprimus:github:adg:sync</id>
-  <published>2022-10-07T22:59:22Z</published>
-  <updated>2022-10-07T22:59:22Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ANDERSON1808: validate_nudity</title>
-  <author>
-   <name>ANDERSON1808</name>
-  </author>
-  <link href="https://github.com/ANDERSON1808/validate_nudity" />
-  <id>urn:rprimus:github:ANDERSON1808:validate_nudity</id>
-  <published>2022-10-07T21:42:51Z</published>
-  <updated>2022-10-07T21:42:51Z</updated>
-  <content type="html">
-   library to validate nudes from any image
-  </content>
- </entry>
- <entry>
-  <title>Yorvoration: GoLang-patners-App</title>
-  <author>
-   <name>Yorvoration</name>
-  </author>
-  <link href="https://github.com/Yorvoration/GoLang-patners-App" />
-  <id>urn:rprimus:github:Yorvoration:GoLang-patners-App</id>
-  <published>2022-10-07T20:24:11Z</published>
-  <updated>2022-10-07T20:24:11Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>leon332157: replnet</title>
-  <author>
-   <name>leon332157</name>
-  </author>
-  <link href="https://github.com/leon332157/replnet" />
-  <id>urn:rprimus:github:leon332157:replnet</id>
-  <published>2022-10-07T20:14:40Z</published>
-  <updated>2022-10-07T20:14:40Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>bibishkind: vtb-hack</title>
-  <author>
-   <name>bibishkind</name>
-  </author>
-  <link href="https://github.com/bibishkind/vtb-hack" />
-  <id>urn:rprimus:github:bibishkind:vtb-hack</id>
-  <published>2022-10-07T19:25:25Z</published>
-  <updated>2022-10-07T19:25:25Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>isacikgoz: mmsync</title>
-  <author>
-   <name>isacikgoz</name>
-  </author>
-  <link href="https://github.com/isacikgoz/mmsync" />
-  <id>urn:rprimus:github:isacikgoz:mmsync</id>
-  <published>2022-10-07T16:32:35Z</published>
-  <updated>2022-10-07T16:32:35Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>AkaAny: ql-router</title>
-  <author>
-   <name>AkaAny</name>
-  </author>
-  <link href="https://github.com/AkaAny/ql-router" />
-  <id>urn:rprimus:github:AkaAny:ql-router</id>
-  <published>2022-10-07T14:42:07Z</published>
-  <updated>2022-10-07T14:42:07Z</updated>
-  <content type="html">
-   A much more easy and friendly way to make a GraphQL http service
-  </content>
- </entry>
- <entry>
-  <title>hashicorp-dev-advocates: nomad-falco-plugin</title>
-  <author>
-   <name>hashicorp-dev-advocates</name>
-  </author>
-  <link href="https://github.com/hashicorp-dev-advocates/nomad-falco-plugin" />
-  <id>urn:rprimus:github:hashicorp-dev-advocates:nomad-falco-plugin</id>
-  <published>2022-10-07T13:50:43Z</published>
-  <updated>2022-10-07T13:50:43Z</updated>
-  <content type="html">
-   A HashiCorp Nomad plugin for Falco
-  </content>
- </entry>
- <entry>
-  <title>ACM-VIT: golly-bot</title>
-  <author>
-   <name>ACM-VIT</name>
-  </author>
-  <link href="https://github.com/ACM-VIT/golly-bot" />
-  <id>urn:rprimus:github:ACM-VIT:golly-bot</id>
-  <published>2022-10-07T13:44:08Z</published>
-  <updated>2022-10-07T13:44:08Z</updated>
-  <content type="html">
-   A general purpose discord bot, written in GO!
-  </content>
- </entry>
- <entry>
-  <title>huseyinbabal: botkube-plugins-playground</title>
-  <author>
-   <name>huseyinbabal</name>
-  </author>
-  <link href="https://github.com/huseyinbabal/botkube-plugins-playground" />
-  <id>urn:rprimus:github:huseyinbabal:botkube-plugins-playground</id>
-  <published>2022-10-07T13:41:18Z</published>
-  <updated>2022-10-07T13:41:18Z</updated>
-  <content type="html">
-   Botkube Plugin System Showcase
-  </content>
- </entry>
- <entry>
-  <title>FurkanSamaraz: Golang-Ticket-Application</title>
-  <author>
-   <name>FurkanSamaraz</name>
-  </author>
-  <link href="https://github.com/FurkanSamaraz/Golang-Ticket-Application" />
-  <id>urn:rprimus:github:FurkanSamaraz:Golang-Ticket-Application</id>
-  <published>2022-10-07T13:38:02Z</published>
-  <updated>2022-10-07T13:38:02Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>beihai0xff: pudding</title>
-  <author>
-   <name>beihai0xff</name>
-  </author>
-  <link href="https://github.com/beihai0xff/pudding" />
-  <id>urn:rprimus:github:beihai0xff:pudding</id>
-  <published>2022-10-07T11:13:15Z</published>
-  <updated>2022-10-07T11:13:15Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>danie1sullivan: go-tfe-bulk</title>
-  <author>
-   <name>danie1sullivan</name>
-  </author>
-  <link href="https://github.com/danie1sullivan/go-tfe-bulk" />
-  <id>urn:rprimus:github:danie1sullivan:go-tfe-bulk</id>
-  <published>2022-10-07T11:03:06Z</published>
-  <updated>2022-10-07T11:03:06Z</updated>
-  <content type="html">
-   Bulk operations on Terraform Cloud
-  </content>
- </entry>
- <entry>
-  <title>Richelieu42: go-scales</title>
-  <author>
-   <name>Richelieu42</name>
-  </author>
-  <link href="https://github.com/Richelieu42/go-scales" />
-  <id>urn:rprimus:github:Richelieu42:go-scales</id>
-  <published>2022-10-07T10:40:42Z</published>
-  <updated>2022-10-07T10:40:42Z</updated>
-  <content type="html">
-   Golangå·¥å·ç±»
-  </content>
- </entry>
- <entry>
-  <title>5amu: CVE-2021-29156</title>
-  <author>
-   <name>5amu</name>
-  </author>
-  <link href="https://github.com/5amu/CVE-2021-29156" />
-  <id>urn:rprimus:github:5amu:CVE-2021-29156</id>
-  <published>2022-10-07T10:18:44Z</published>
-  <updated>2022-10-07T10:18:44Z</updated>
-  <content type="html">
-   Exploit for CVE-2021-29156
-  </content>
- </entry>
- <entry>
-  <title>ox-y: GoGmailnator</title>
-  <author>
-   <name>ox-y</name>
-  </author>
-  <link href="https://github.com/ox-y/GoGmailnator" />
-  <id>urn:rprimus:github:ox-y:GoGmailnator</id>
-  <published>2022-10-07T09:43:31Z</published>
-  <updated>2022-10-07T09:43:31Z</updated>
-  <content type="html">
-   Simple emailnator.com wrapper made in Go.
-  </content>
- </entry>
- <entry>
-  <title>long2ice: s3web</title>
-  <author>
-   <name>long2ice</name>
-  </author>
-  <link href="https://github.com/long2ice/s3web" />
-  <id>urn:rprimus:github:long2ice:s3web</id>
-  <published>2022-10-07T06:44:00Z</published>
-  <updated>2022-10-07T06:44:00Z</updated>
-  <content type="html">
-   Serve static files from any S3 compatible object storage endpoints
-  </content>
- </entry>
- <entry>
-  <title>fy0: syncopy</title>
-  <author>
-   <name>fy0</name>
-  </author>
-  <link href="https://github.com/fy0/syncopy" />
-  <id>urn:rprimus:github:fy0:syncopy</id>
-  <published>2022-10-07T06:33:26Z</published>
-  <updated>2022-10-07T06:33:26Z</updated>
-  <content type="html">
-   Sync files from directory src to directory dest, skip same files and preserve all timestamps.
-  </content>
- </entry>
- <entry>
-  <title>mawangdan: 6.824</title>
-  <author>
-   <name>mawangdan</name>
-  </author>
-  <link href="https://github.com/mawangdan/6.824" />
-  <id>urn:rprimus:github:mawangdan:6.824</id>
-  <published>2022-10-07T06:25:02Z</published>
-  <updated>2022-10-07T06:25:02Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jashfeer: weatherApp</title>
-  <author>
-   <name>jashfeer</name>
-  </author>
-  <link href="https://github.com/jashfeer/weatherApp" />
-  <id>urn:rprimus:github:jashfeer:weatherApp</id>
-  <published>2022-10-07T06:23:35Z</published>
-  <updated>2022-10-07T06:23:35Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Ja7ad: forker</title>
-  <author>
-   <name>Ja7ad</name>
-  </author>
-  <link href="https://github.com/Ja7ad/forker" />
-  <id>urn:rprimus:github:Ja7ad:forker</id>
-  <published>2022-10-07T05:10:32Z</published>
-  <updated>2022-10-07T05:10:32Z</updated>
-  <content type="html">
-   Get high performance http requests with fork process
-  </content>
- </entry>
- <entry>
-  <title>jackkweyunga: telmon</title>
-  <author>
-   <name>jackkweyunga</name>
-  </author>
-  <link href="https://github.com/jackkweyunga/telmon" />
-  <id>urn:rprimus:github:jackkweyunga:telmon</id>
-  <published>2022-10-07T04:53:47Z</published>
-  <updated>2022-10-07T04:53:47Z</updated>
-  <content type="html">
-   Monitor a telnet connection and report any failed connections via email.
-  </content>
- </entry>
- <entry>
-  <title>skerkour: libs</title>
-  <author>
-   <name>skerkour</name>
-  </author>
-  <link href="https://github.com/skerkour/libs" />
-  <id>urn:rprimus:github:skerkour:libs</id>
-  <published>2022-10-07T04:19:29Z</published>
-  <updated>2022-10-07T04:19:29Z</updated>
-  <content type="html">
-   Go libraries that I reuse across my projects. NOT SAFE FOR PUBLIC USE â¢ï¸
-  </content>
- </entry>
- <entry>
-  <title>devproje: kuma-engine</title>
-  <author>
-   <name>devproje</name>
-  </author>
-  <link href="https://github.com/devproje/kuma-engine" />
-  <id>urn:rprimus:github:devproje:kuma-engine</id>
-  <published>2022-10-07T03:11:57Z</published>
-  <updated>2022-10-07T03:11:57Z</updated>
-  <content type="html">
-   Personal discordgo extend library
-  </content>
- </entry>
- <entry>
-  <title>ijt: go-anytime</title>
-  <author>
-   <name>ijt</name>
-  </author>
-  <link href="https://github.com/ijt/go-anytime" />
-  <id>urn:rprimus:github:ijt:go-anytime</id>
-  <published>2022-10-07T03:02:09Z</published>
-  <updated>2022-10-07T03:02:09Z</updated>
-  <content type="html">
-   Parse natural and standardized dates/times and ranges in Go without knowing the format in advance
-  </content>
- </entry>
- <entry>
-  <title>paidaxingzhashuimu: Url_scan</title>
-  <author>
-   <name>paidaxingzhashuimu</name>
-  </author>
-  <link href="https://github.com/paidaxingzhashuimu/Url_scan" />
-  <id>urn:rprimus:github:paidaxingzhashuimu:Url_scan</id>
-  <published>2022-10-07T02:31:40Z</published>
-  <updated>2022-10-07T02:31:40Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>saika2k: venus-market-lite</title>
-  <author>
-   <name>saika2k</name>
-  </author>
-  <link href="https://github.com/saika2k/venus-market-lite" />
-  <id>urn:rprimus:github:saika2k:venus-market-lite</id>
-  <published>2022-10-07T02:00:52Z</published>
-  <updated>2022-10-07T02:00:52Z</updated>
-  <content type="html">
-   a lite impl of the venus market, add the support for the file increment to save in the filecoin network
-  </content>
- </entry>
- <entry>
-  <title>haimgel: slack-status-go</title>
-  <author>
-   <name>haimgel</name>
-  </author>
-  <link href="https://github.com/haimgel/slack-status-go" />
-  <id>urn:rprimus:github:haimgel:slack-status-go</id>
-  <published>2022-10-07T01:13:02Z</published>
-  <updated>2022-10-07T01:13:02Z</updated>
-  <content type="html">
-   Set Slack status to predefined values from a command line, for multiple accounts at once.
-  </content>
- </entry>
- <entry>
-  <title>Tayloraki: SRN_Letters</title>
-  <author>
-   <name>Tayloraki</name>
-  </author>
-  <link href="https://github.com/Tayloraki/SRN_Letters" />
-  <id>urn:rprimus:github:Tayloraki:SRN_Letters</id>
-  <published>2022-10-07T00:45:08Z</published>
-  <updated>2022-10-07T00:45:08Z</updated>
-  <content type="html">
-   This project uses a simple recurrent network (SRN) to learn and predict sequences. It was built for my Neural Network Models of Social and Cognitive Processes course and forks off a template provided to me by Professor Stephen J. Read. The purpose of this program is (for example) given the input &#039;ABCB&#039;, the system would output &#039;D&#039;. This requires the system to discern between the &#039;context&#039; of A-B-&gt;C and C-B-&gt;D. This program takes this simple premise and extends into second order dependencies.
   </content>
  </entry>
 </feed>
