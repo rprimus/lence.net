@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2022-10-09T21:18:56Z</updated>
+<updated>2022-10-11T00:04:51Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>kevindotklein: dotfiles</title>
+  <author>
+   <name>kevindotklein</name>
+  </author>
+  <link href="https://github.com/kevindotklein/dotfiles" />
+  <id>urn:rprimus:github:kevindotklein:dotfiles</id>
+  <published>2022-10-11T00:04:51Z</published>
+  <updated>2022-10-11T00:04:51Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>qhga: nixos</title>
+  <author>
+   <name>qhga</name>
+  </author>
+  <link href="https://github.com/qhga/nixos" />
+  <id>urn:rprimus:github:qhga:nixos</id>
+  <published>2022-10-10T23:34:34Z</published>
+  <updated>2022-10-10T23:34:34Z</updated>
+  <content type="html">
+   My personal NixOS configuration &amp; dotfiles.
+  </content>
+ </entry>
+ <entry>
+  <title>darkoob12: emacsd</title>
+  <author>
+   <name>darkoob12</name>
+  </author>
+  <link href="https://github.com/darkoob12/emacsd" />
+  <id>urn:rprimus:github:darkoob12:emacsd</id>
+  <published>2022-10-10T17:40:37Z</published>
+  <updated>2022-10-10T17:40:37Z</updated>
+  <content type="html">
+   My Emacs Config - Mostly Copied From Other Sources
+  </content>
+ </entry>
+ <entry>
+  <title>baeddavid: emacs-master</title>
+  <author>
+   <name>baeddavid</name>
+  </author>
+  <link href="https://github.com/baeddavid/emacs-master" />
+  <id>urn:rprimus:github:baeddavid:emacs-master</id>
+  <published>2022-10-10T17:32:33Z</published>
+  <updated>2022-10-10T17:32:33Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>emacsattic: arc-dark-theme</title>
+  <author>
+   <name>emacsattic</name>
+  </author>
+  <link href="https://github.com/emacsattic/arc-dark-theme" />
+  <id>urn:rprimus:github:emacsattic:arc-dark-theme</id>
+  <published>2022-10-10T13:36:44Z</published>
+  <updated>2022-10-10T13:36:44Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>huhub: best_practice_emacs.d</title>
+  <author>
+   <name>huhub</name>
+  </author>
+  <link href="https://github.com/huhub/best_practice_emacs.d" />
+  <id>urn:rprimus:github:huhub:best_practice_emacs.d</id>
+  <published>2022-10-10T10:09:11Z</published>
+  <updated>2022-10-10T10:09:11Z</updated>
+  <content type="html">
+   lsp mode is ok to use
+  </content>
+ </entry>
  <entry>
   <title>ahyatt: ekg</title>
   <author>
@@ -28,6 +106,19 @@
   <updated>2022-10-09T21:05:39Z</updated>
   <content type="html">
    Phar file support for Emacs archive-mode
+  </content>
+ </entry>
+ <entry>
+  <title>Spilios06: Dot-Files</title>
+  <author>
+   <name>Spilios06</name>
+  </author>
+  <link href="https://github.com/Spilios06/Dot-Files" />
+  <id>urn:rprimus:github:Spilios06:Dot-Files</id>
+  <published>2022-10-09T20:43:45Z</published>
+  <updated>2022-10-09T20:43:45Z</updated>
+  <content type="html">
+   
   </content>
  </entry>
  <entry>
@@ -210,214 +301,6 @@
   <updated>2022-10-09T03:01:56Z</updated>
   <content type="html">
    my emacs config
-  </content>
- </entry>
- <entry>
-  <title>BlueFlo0d: insecure-lock</title>
-  <author>
-   <name>BlueFlo0d</name>
-  </author>
-  <link href="https://github.com/BlueFlo0d/insecure-lock" />
-  <id>urn:rprimus:github:BlueFlo0d:insecure-lock</id>
-  <published>2022-10-08T22:34:22Z</published>
-  <updated>2022-10-08T22:34:22Z</updated>
-  <content type="html">
-   Screen locker in pure Emacs Lisp
-  </content>
- </entry>
- <entry>
-  <title>SebastianHalbig: latex-goodies-for-emacs</title>
-  <author>
-   <name>SebastianHalbig</name>
-  </author>
-  <link href="https://github.com/SebastianHalbig/latex-goodies-for-emacs" />
-  <id>urn:rprimus:github:SebastianHalbig:latex-goodies-for-emacs</id>
-  <published>2022-10-08T21:31:06Z</published>
-  <updated>2022-10-08T21:31:06Z</updated>
-  <content type="html">
-   A bit of elisp code for smarter &lt;tab&gt; and &lt;return&gt; handling in emacs (in combination with auctex).
-  </content>
- </entry>
- <entry>
-  <title>Rubusch: docker__petalinux</title>
-  <author>
-   <name>Rubusch</name>
-  </author>
-  <link href="https://github.com/Rubusch/docker__petalinux" />
-  <id>urn:rprimus:github:Rubusch:docker__petalinux</id>
-  <published>2022-10-08T18:42:29Z</published>
-  <updated>2022-10-08T18:42:29Z</updated>
-  <content type="html">
-   AMD/Xilinx Petalinux build enviornment to build AMD/Xilnix SoC FPGA boards support packages.
-  </content>
- </entry>
- <entry>
-  <title>erickgnavar: cloak-mode</title>
-  <author>
-   <name>erickgnavar</name>
-  </author>
-  <link href="https://github.com/erickgnavar/cloak-mode" />
-  <id>urn:rprimus:github:erickgnavar:cloak-mode</id>
-  <published>2022-10-08T17:55:20Z</published>
-  <updated>2022-10-08T17:55:20Z</updated>
-  <content type="html">
-   A minor mode to hide sensitive values in buffers
-  </content>
- </entry>
- <entry>
-  <title>TABTHETEXTOUTFORWIMPS: apk-mode</title>
-  <author>
-   <name>TABTHETEXTOUTFORWIMPS</name>
-  </author>
-  <link href="https://github.com/TABTHETEXTOUTFORWIMPS/apk-mode" />
-  <id>urn:rprimus:github:TABTHETEXTOUTFORWIMPS:apk-mode</id>
-  <published>2022-10-08T16:45:38Z</published>
-  <updated>2022-10-08T16:45:38Z</updated>
-  <content type="html">
-   Emacs major mode for reverse engineering Android applications
-  </content>
- </entry>
- <entry>
-  <title>Alnilam: emacs</title>
-  <author>
-   <name>Alnilam</name>
-  </author>
-  <link href="https://github.com/Alnilam/emacs" />
-  <id>urn:rprimus:github:Alnilam:emacs</id>
-  <published>2022-10-08T15:35:20Z</published>
-  <updated>2022-10-08T15:35:20Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Rubusch: docker__ubu</title>
-  <author>
-   <name>Rubusch</name>
-  </author>
-  <link href="https://github.com/Rubusch/docker__ubu" />
-  <id>urn:rprimus:github:Rubusch:docker__ubu</id>
-  <published>2022-10-08T14:58:20Z</published>
-  <updated>2022-10-08T14:58:20Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>JianerCong: hub</title>
-  <author>
-   <name>JianerCong</name>
-  </author>
-  <link href="https://github.com/JianerCong/hub" />
-  <id>urn:rprimus:github:JianerCong:hub</id>
-  <published>2022-10-08T14:50:39Z</published>
-  <updated>2022-10-08T14:50:39Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>tkusukawa: .emacs.d</title>
-  <author>
-   <name>tkusukawa</name>
-  </author>
-  <link href="https://github.com/tkusukawa/.emacs.d" />
-  <id>urn:rprimus:github:tkusukawa:.emacs.d</id>
-  <published>2022-10-08T12:21:48Z</published>
-  <updated>2022-10-08T12:21:48Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>alenalexninan: Doom-Configuration</title>
-  <author>
-   <name>alenalexninan</name>
-  </author>
-  <link href="https://github.com/alenalexninan/Doom-Configuration" />
-  <id>urn:rprimus:github:alenalexninan:Doom-Configuration</id>
-  <published>2022-10-08T10:31:44Z</published>
-  <updated>2022-10-08T10:31:44Z</updated>
-  <content type="html">
-   My doom emacs configuration
-  </content>
- </entry>
- <entry>
-  <title>dylanbmorgan: dylan-doom-config</title>
-  <author>
-   <name>dylanbmorgan</name>
-  </author>
-  <link href="https://github.com/dylanbmorgan/dylan-doom-config" />
-  <id>urn:rprimus:github:dylanbmorgan:dylan-doom-config</id>
-  <published>2022-10-08T10:12:23Z</published>
-  <updated>2022-10-08T10:12:23Z</updated>
-  <content type="html">
-   Not another Doom emacs config...except this one is blatantly plagiarised from tecosaur 
-  </content>
- </entry>
- <entry>
-  <title>five-dots: dotfiles</title>
-  <author>
-   <name>five-dots</name>
-  </author>
-  <link href="https://github.com/five-dots/dotfiles" />
-  <id>urn:rprimus:github:five-dots:dotfiles</id>
-  <published>2022-10-08T09:01:54Z</published>
-  <updated>2022-10-08T09:01:54Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>av-maslov: rc_emacs.d_cpp</title>
-  <author>
-   <name>av-maslov</name>
-  </author>
-  <link href="https://github.com/av-maslov/rc_emacs.d_cpp" />
-  <id>urn:rprimus:github:av-maslov:rc_emacs.d_cpp</id>
-  <published>2022-10-08T08:50:08Z</published>
-  <updated>2022-10-08T08:50:08Z</updated>
-  <content type="html">
-   Emacs C++ IDE set up
-  </content>
- </entry>
- <entry>
-  <title>shayanaqvi: emacs-config</title>
-  <author>
-   <name>shayanaqvi</name>
-  </author>
-  <link href="https://github.com/shayanaqvi/emacs-config" />
-  <id>urn:rprimus:github:shayanaqvi:emacs-config</id>
-  <published>2022-10-08T06:44:16Z</published>
-  <updated>2022-10-08T06:44:16Z</updated>
-  <content type="html">
-   Personal configuration for emacs
-  </content>
- </entry>
- <entry>
-  <title>jcs-elpa: fof</title>
-  <author>
-   <name>jcs-elpa</name>
-  </author>
-  <link href="https://github.com/jcs-elpa/fof" />
-  <id>urn:rprimus:github:jcs-elpa:fof</id>
-  <published>2022-10-08T06:00:19Z</published>
-  <updated>2022-10-08T06:00:19Z</updated>
-  <content type="html">
-   Default configuration for `ff-find-other-file&#039;
-  </content>
- </entry>
- <entry>
-  <title>jcs-elpa: ffpc</title>
-  <author>
-   <name>jcs-elpa</name>
-  </author>
-  <link href="https://github.com/jcs-elpa/ffpc" />
-  <id>urn:rprimus:github:jcs-elpa:ffpc</id>
-  <published>2022-10-08T04:06:17Z</published>
-  <updated>2022-10-08T04:06:17Z</updated>
-  <content type="html">
-   Find file in project or current directory
   </content>
  </entry>
 </feed>

@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2022-10-10T01:59:06Z</updated>
+<updated>2022-10-11T03:55:19Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>chillfox: nothing_driver</title>
+  <author>
+   <name>chillfox</name>
+  </author>
+  <link href="https://github.com/chillfox/nothing_driver" />
+  <id>urn:rprimus:github:chillfox:nothing_driver</id>
+  <published>2022-10-11T03:55:19Z</published>
+  <updated>2022-10-11T03:55:19Z</updated>
+  <content type="html">
+   For testing how PlaceOS handles branches being deleted and recreated
+  </content>
+ </entry>
+ <entry>
+  <title>weirdbricks: crystal_quiz</title>
+  <author>
+   <name>weirdbricks</name>
+  </author>
+  <link href="https://github.com/weirdbricks/crystal_quiz" />
+  <id>urn:rprimus:github:weirdbricks:crystal_quiz</id>
+  <published>2022-10-11T01:23:47Z</published>
+  <updated>2022-10-11T01:23:47Z</updated>
+  <content type="html">
+   A simple CLI Quiz written in Crystal
+  </content>
+ </entry>
  <entry>
   <title>robcole: concierge</title>
   <author>
@@ -28,6 +54,19 @@
   <updated>2022-10-10T01:41:11Z</updated>
   <content type="html">
    lucky api app + crystal 1.6
+  </content>
+ </entry>
+ <entry>
+  <title>wwalker: tsl</title>
+  <author>
+   <name>wwalker</name>
+  </author>
+  <link href="https://github.com/wwalker/tsl" />
+  <id>urn:rprimus:github:wwalker:tsl</id>
+  <published>2022-10-09T23:45:35Z</published>
+  <updated>2022-10-09T23:45:35Z</updated>
+  <content type="html">
+   time-stamped-logs
   </content>
  </entry>
  <entry>
