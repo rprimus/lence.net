@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2022-10-10T16:53:48Z</updated>
+<updated>2022-10-11T19:14:32Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>levshx: nim-chip8</title>
+  <author>
+   <name>levshx</name>
+  </author>
+  <link href="https://github.com/levshx/nim-chip8" />
+  <id>urn:rprimus:github:levshx:nim-chip8</id>
+  <published>2022-10-11T19:14:32Z</published>
+  <updated>2022-10-11T19:14:32Z</updated>
+  <content type="html">
+   chip8 emulator written on nim-lang
+  </content>
+ </entry>
+ <entry>
+  <title>u1and0: jtr</title>
+  <author>
+   <name>u1and0</name>
+  </author>
+  <link href="https://github.com/u1and0/jtr" />
+  <id>urn:rprimus:github:u1and0:jtr</id>
+  <published>2022-10-11T12:27:15Z</published>
+  <updated>2022-10-11T12:27:15Z</updated>
+  <content type="html">
+   JSON tree view with type
+  </content>
+ </entry>
+ <entry>
+  <title>offbeat-stuff: Quilt-Mod-Generator</title>
+  <author>
+   <name>offbeat-stuff</name>
+  </author>
+  <link href="https://github.com/offbeat-stuff/Quilt-Mod-Generator" />
+  <id>urn:rprimus:github:offbeat-stuff:Quilt-Mod-Generator</id>
+  <published>2022-10-11T10:28:00Z</published>
+  <updated>2022-10-11T10:28:00Z</updated>
+  <content type="html">
+   A nim program to generate mods from mod template (wip)
+  </content>
+ </entry>
  <entry>
   <title>SpotlightKid: jacket</title>
   <author>
@@ -28,84 +67,6 @@
   <updated>2022-10-10T10:29:21Z</updated>
   <content type="html">
    SoA structs wrapper for Nim
-  </content>
- </entry>
- <entry>
-  <title>gdelazzari: AutoTetris</title>
-  <author>
-   <name>gdelazzari</name>
-  </author>
-  <link href="https://github.com/gdelazzari/AutoTetris" />
-  <id>urn:rprimus:github:gdelazzari:AutoTetris</id>
-  <published>2022-10-09T23:31:42Z</published>
-  <updated>2022-10-09T23:31:42Z</updated>
-  <content type="html">
-   Optimization of a simple Tetris AI with a genetic algorithm, with multithreaded evaluation engine.
-  </content>
- </entry>
- <entry>
-  <title>stefan-zobel: Nimmm</title>
-  <author>
-   <name>stefan-zobel</name>
-  </author>
-  <link href="https://github.com/stefan-zobel/Nimmm" />
-  <id>urn:rprimus:github:stefan-zobel:Nimmm</id>
-  <published>2022-10-09T20:07:33Z</published>
-  <updated>2022-10-09T20:07:33Z</updated>
-  <content type="html">
-   Nimmm - a Nim matrix module
-  </content>
- </entry>
- <entry>
-  <title>DeceptiveFold: dond22-nim</title>
-  <author>
-   <name>DeceptiveFold</name>
-  </author>
-  <link href="https://github.com/DeceptiveFold/dond22-nim" />
-  <id>urn:rprimus:github:DeceptiveFold:dond22-nim</id>
-  <published>2022-10-09T13:43:06Z</published>
-  <updated>2022-10-09T13:43:06Z</updated>
-  <content type="html">
-   deal or no deal written in Nim.
-  </content>
- </entry>
- <entry>
-  <title>S3cur3Th1sSh1t: NimShellcodeFluctuation</title>
-  <author>
-   <name>S3cur3Th1sSh1t</name>
-  </author>
-  <link href="https://github.com/S3cur3Th1sSh1t/NimShellcodeFluctuation" />
-  <id>urn:rprimus:github:S3cur3Th1sSh1t:NimShellcodeFluctuation</id>
-  <published>2022-10-09T12:18:09Z</published>
-  <updated>2022-10-09T12:18:09Z</updated>
-  <content type="html">
-   ShellcodeFluctuation PoC ported to Nim
-  </content>
- </entry>
- <entry>
-  <title>BlackShell256: Amsi-Nim</title>
-  <author>
-   <name>BlackShell256</name>
-  </author>
-  <link href="https://github.com/BlackShell256/Amsi-Nim" />
-  <id>urn:rprimus:github:BlackShell256:Amsi-Nim</id>
-  <published>2022-10-09T07:29:24Z</published>
-  <updated>2022-10-09T07:29:24Z</updated>
-  <content type="html">
-   Bypass AmsiScanBuffer con Nim/ Bypass AmsiScanBuffer with Nim
-  </content>
- </entry>
- <entry>
-  <title>beef331: recyclable</title>
-  <author>
-   <name>beef331</name>
-  </author>
-  <link href="https://github.com/beef331/recyclable" />
-  <id>urn:rprimus:github:beef331:recyclable</id>
-  <published>2022-10-09T00:22:35Z</published>
-  <updated>2022-10-09T00:22:35Z</updated>
-  <content type="html">
-   yet another repo due to bordem mixed with motivation.
   </content>
  </entry>
 </feed>

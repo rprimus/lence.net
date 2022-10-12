@@ -2,45 +2,604 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-go.atom"/>
 <id>urn:rprimus:github:newgorepos</id>
-<updated>2022-10-11T09:00:27Z</updated>
+<updated>2022-10-12T06:50:06Z</updated>
 <title type='text'>New GitHub Go Repos</title>
  <entry>
-  <title>bytejedi: obscure</title>
+  <title>pidario: pbmrotate</title>
   <author>
-   <name>bytejedi</name>
+   <name>pidario</name>
   </author>
-  <link href="https://github.com/bytejedi/obscure" />
-  <id>urn:rprimus:github:bytejedi:obscure</id>
-  <published>2022-10-11T09:00:27Z</published>
-  <updated>2022-10-11T09:00:27Z</updated>
+  <link href="https://github.com/pidario/pbmrotate" />
+  <id>urn:rprimus:github:pidario:pbmrotate</id>
+  <published>2022-10-12T06:50:06Z</published>
+  <updated>2022-10-12T06:50:06Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>bytejedi: balloon</title>
+  <title>bergren: module</title>
   <author>
-   <name>bytejedi</name>
+   <name>bergren</name>
   </author>
-  <link href="https://github.com/bytejedi/balloon" />
-  <id>urn:rprimus:github:bytejedi:balloon</id>
-  <published>2022-10-11T08:32:47Z</published>
-  <updated>2022-10-11T08:32:47Z</updated>
+  <link href="https://github.com/bergren/module" />
+  <id>urn:rprimus:github:bergren:module</id>
+  <published>2022-10-12T06:27:57Z</published>
+  <updated>2022-10-12T06:27:57Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>gonutz: zoom_emote</title>
+  <title>kiankw: gotoy</title>
   <author>
-   <name>gonutz</name>
+   <name>kiankw</name>
   </author>
-  <link href="https://github.com/gonutz/zoom_emote" />
-  <id>urn:rprimus:github:gonutz:zoom_emote</id>
-  <published>2022-10-11T07:48:04Z</published>
-  <updated>2022-10-11T07:48:04Z</updated>
+  <link href="https://github.com/kiankw/gotoy" />
+  <id>urn:rprimus:github:kiankw:gotoy</id>
+  <published>2022-10-12T06:23:50Z</published>
+  <updated>2022-10-12T06:23:50Z</updated>
   <content type="html">
-   Windows program to click Zoom emojis with keyboard shortcuts
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Webklex: wappalyzer</title>
+  <author>
+   <name>Webklex</name>
+  </author>
+  <link href="https://github.com/Webklex/wappalyzer" />
+  <id>urn:rprimus:github:Webklex:wappalyzer</id>
+  <published>2022-10-12T06:19:54Z</published>
+  <updated>2022-10-12T06:19:54Z</updated>
+  <content type="html">
+   Cli app based upon https://github.com/projectdiscovery/wappalyzergo
+  </content>
+ </entry>
+ <entry>
+  <title>ZacatovAndrei: pr1-minimal</title>
+  <author>
+   <name>ZacatovAndrei</name>
+  </author>
+  <link href="https://github.com/ZacatovAndrei/pr1-minimal" />
+  <id>urn:rprimus:github:ZacatovAndrei:pr1-minimal</id>
+  <published>2022-10-12T05:58:19Z</published>
+  <updated>2022-10-12T05:58:19Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>drakodarpan81: postgresgo</title>
+  <author>
+   <name>drakodarpan81</name>
+  </author>
+  <link href="https://github.com/drakodarpan81/postgresgo" />
+  <id>urn:rprimus:github:drakodarpan81:postgresgo</id>
+  <published>2022-10-12T05:29:42Z</published>
+  <updated>2022-10-12T05:29:42Z</updated>
+  <content type="html">
+   Prueba golang y postgresql
+  </content>
+ </entry>
+ <entry>
+  <title>PeacenPark: codenames</title>
+  <author>
+   <name>PeacenPark</name>
+  </author>
+  <link href="https://github.com/PeacenPark/codenames" />
+  <id>urn:rprimus:github:PeacenPark:codenames</id>
+  <published>2022-10-12T05:02:48Z</published>
+  <updated>2022-10-12T05:02:48Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>zginkgo: ginkgo_keyauth</title>
+  <author>
+   <name>zginkgo</name>
+  </author>
+  <link href="https://github.com/zginkgo/ginkgo_keyauth" />
+  <id>urn:rprimus:github:zginkgo:ginkgo_keyauth</id>
+  <published>2022-10-12T04:26:22Z</published>
+  <updated>2022-10-12T04:26:22Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>zhaoyshine: go-docker-k3s-example</title>
+  <author>
+   <name>zhaoyshine</name>
+  </author>
+  <link href="https://github.com/zhaoyshine/go-docker-k3s-example" />
+  <id>urn:rprimus:github:zhaoyshine:go-docker-k3s-example</id>
+  <published>2022-10-12T04:16:52Z</published>
+  <updated>2022-10-12T04:16:52Z</updated>
+  <content type="html">
+   An example project to quickly deploy go services to k3s, build docker image, push to the local docker image repository, start k3s with single-node, and then deploy to k3s
+  </content>
+ </entry>
+ <entry>
+  <title>dhany007: learn-golang-udemy</title>
+  <author>
+   <name>dhany007</name>
+  </author>
+  <link href="https://github.com/dhany007/learn-golang-udemy" />
+  <id>urn:rprimus:github:dhany007:learn-golang-udemy</id>
+  <published>2022-10-12T04:10:39Z</published>
+  <updated>2022-10-12T04:10:39Z</updated>
+  <content type="html">
+   https://www.udemy.com/course/pemrograman-go-lang-pemula-sampai-mahir/
+  </content>
+ </entry>
+ <entry>
+  <title>mritd: bandwagonmon</title>
+  <author>
+   <name>mritd</name>
+  </author>
+  <link href="https://github.com/mritd/bandwagonmon" />
+  <id>urn:rprimus:github:mritd:bandwagonmon</id>
+  <published>2022-10-12T04:03:43Z</published>
+  <updated>2022-10-12T04:03:43Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>vernandodev: go-db-mysql</title>
+  <author>
+   <name>vernandodev</name>
+  </author>
+  <link href="https://github.com/vernandodev/go-db-mysql" />
+  <id>urn:rprimus:github:vernandodev:go-db-mysql</id>
+  <published>2022-10-12T03:52:31Z</published>
+  <updated>2022-10-12T03:52:31Z</updated>
+  <content type="html">
+   go-db-mysql
+  </content>
+ </entry>
+ <entry>
+  <title>whs-dot-hk: cdk-parameter-store-test</title>
+  <author>
+   <name>whs-dot-hk</name>
+  </author>
+  <link href="https://github.com/whs-dot-hk/cdk-parameter-store-test" />
+  <id>urn:rprimus:github:whs-dot-hk:cdk-parameter-store-test</id>
+  <published>2022-10-12T03:45:27Z</published>
+  <updated>2022-10-12T03:45:27Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>xiabee: pd-security-test</title>
+  <author>
+   <name>xiabee</name>
+  </author>
+  <link href="https://github.com/xiabee/pd-security-test" />
+  <id>urn:rprimus:github:xiabee:pd-security-test</id>
+  <published>2022-10-12T03:31:00Z</published>
+  <updated>2022-10-12T03:31:00Z</updated>
+  <content type="html">
+   Security test
+  </content>
+ </entry>
+ <entry>
+  <title>paulochiaradia: gobyexample</title>
+  <author>
+   <name>paulochiaradia</name>
+  </author>
+  <link href="https://github.com/paulochiaradia/gobyexample" />
+  <id>urn:rprimus:github:paulochiaradia:gobyexample</id>
+  <published>2022-10-12T03:22:33Z</published>
+  <updated>2022-10-12T03:22:33Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>jay0134: eagleeye-pushgateway</title>
+  <author>
+   <name>jay0134</name>
+  </author>
+  <link href="https://github.com/jay0134/eagleeye-pushgateway" />
+  <id>urn:rprimus:github:jay0134:eagleeye-pushgateway</id>
+  <published>2022-10-12T02:56:13Z</published>
+  <updated>2022-10-12T02:56:13Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>bstraehle: vault-plugin-secrets-apigee</title>
+  <author>
+   <name>bstraehle</name>
+  </author>
+  <link href="https://github.com/bstraehle/vault-plugin-secrets-apigee" />
+  <id>urn:rprimus:github:bstraehle:vault-plugin-secrets-apigee</id>
+  <published>2022-10-12T02:49:04Z</published>
+  <updated>2022-10-12T02:49:04Z</updated>
+  <content type="html">
+   The Vault Apigee secrets engine generates dynamic, short-lived consumer keys and secrets, enabling frequent rotation
+  </content>
+ </entry>
+ <entry>
+  <title>timwhitez: Doge-CLRLoad</title>
+  <author>
+   <name>timwhitez</name>
+  </author>
+  <link href="https://github.com/timwhitez/Doge-CLRLoad" />
+  <id>urn:rprimus:github:timwhitez:Doge-CLRLoad</id>
+  <published>2022-10-12T02:38:26Z</published>
+  <updated>2022-10-12T02:38:26Z</updated>
+  <content type="html">
+   load assembly executable file in memory
+  </content>
+ </entry>
+ <entry>
+  <title>byebyebruce: ghsearch</title>
+  <author>
+   <name>byebyebruce</name>
+  </author>
+  <link href="https://github.com/byebyebruce/ghsearch" />
+  <id>urn:rprimus:github:byebyebruce:ghsearch</id>
+  <published>2022-10-12T02:05:57Z</published>
+  <updated>2022-10-12T02:05:57Z</updated>
+  <content type="html">
+   search  repository or code in github
+  </content>
+ </entry>
+ <entry>
+  <title>wan-nan: Golang_Instant_Messaging_System</title>
+  <author>
+   <name>wan-nan</name>
+  </author>
+  <link href="https://github.com/wan-nan/Golang_Instant_Messaging_System" />
+  <id>urn:rprimus:github:wan-nan:Golang_Instant_Messaging_System</id>
+  <published>2022-10-12T02:03:00Z</published>
+  <updated>2022-10-12T02:03:00Z</updated>
+  <content type="html">
+   Instant messaging system based on Golang language.
+  </content>
+ </entry>
+ <entry>
+  <title>ZeroBl21: learn-go-with-test</title>
+  <author>
+   <name>ZeroBl21</name>
+  </author>
+  <link href="https://github.com/ZeroBl21/learn-go-with-test" />
+  <id>urn:rprimus:github:ZeroBl21:learn-go-with-test</id>
+  <published>2022-10-12T02:00:01Z</published>
+  <updated>2022-10-12T02:00:01Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>zkJames: zkMapReduce</title>
+  <author>
+   <name>zkJames</name>
+  </author>
+  <link href="https://github.com/zkJames/zkMapReduce" />
+  <id>urn:rprimus:github:zkJames:zkMapReduce</id>
+  <published>2022-10-12T01:53:36Z</published>
+  <updated>2022-10-12T01:53:36Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>hartsfield: fd</title>
+  <author>
+   <name>hartsfield</name>
+  </author>
+  <link href="https://github.com/hartsfield/fd" />
+  <id>urn:rprimus:github:hartsfield:fd</id>
+  <published>2022-10-12T01:46:33Z</published>
+  <updated>2022-10-12T01:46:33Z</updated>
+  <content type="html">
+   fd
+  </content>
+ </entry>
+ <entry>
+  <title>rs: local-ip</title>
+  <author>
+   <name>rs</name>
+  </author>
+  <link href="https://github.com/rs/local-ip" />
+  <id>urn:rprimus:github:rs:local-ip</id>
+  <published>2022-10-12T01:42:05Z</published>
+  <updated>2022-10-12T01:42:05Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>ptadiputra: Assignment_2</title>
+  <author>
+   <name>ptadiputra</name>
+  </author>
+  <link href="https://github.com/ptadiputra/Assignment_2" />
+  <id>urn:rprimus:github:ptadiputra:Assignment_2</id>
+  <published>2022-10-12T01:37:49Z</published>
+  <updated>2022-10-12T01:37:49Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>IucassacuI: chip8</title>
+  <author>
+   <name>IucassacuI</name>
+  </author>
+  <link href="https://github.com/IucassacuI/chip8" />
+  <id>urn:rprimus:github:IucassacuI:chip8</id>
+  <published>2022-10-12T01:17:42Z</published>
+  <updated>2022-10-12T01:17:42Z</updated>
+  <content type="html">
+   Um emulador de Chip-8
+  </content>
+ </entry>
+ <entry>
+  <title>jochumdev: orb</title>
+  <author>
+   <name>jochumdev</name>
+  </author>
+  <link href="https://github.com/jochumdev/orb" />
+  <id>urn:rprimus:github:jochumdev:orb</id>
+  <published>2022-10-12T01:12:12Z</published>
+  <updated>2022-10-12T01:12:12Z</updated>
+  <content type="html">
+   Orb yet another micro services framework in go.
+  </content>
+ </entry>
+ <entry>
+  <title>bstraehle: apigee-client-go</title>
+  <author>
+   <name>bstraehle</name>
+  </author>
+  <link href="https://github.com/bstraehle/apigee-client-go" />
+  <id>urn:rprimus:github:bstraehle:apigee-client-go</id>
+  <published>2022-10-12T01:11:12Z</published>
+  <updated>2022-10-12T01:11:12Z</updated>
+  <content type="html">
+   Apigee client library
+  </content>
+ </entry>
+ <entry>
+  <title>saki-oikawa-lvgs: gqlgen_tutorial</title>
+  <author>
+   <name>saki-oikawa-lvgs</name>
+  </author>
+  <link href="https://github.com/saki-oikawa-lvgs/gqlgen_tutorial" />
+  <id>urn:rprimus:github:saki-oikawa-lvgs:gqlgen_tutorial</id>
+  <published>2022-10-12T01:00:05Z</published>
+  <updated>2022-10-12T01:00:05Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>9dl: GoSecure</title>
+  <author>
+   <name>9dl</name>
+  </author>
+  <link href="https://github.com/9dl/GoSecure" />
+  <id>urn:rprimus:github:9dl:GoSecure</id>
+  <published>2022-10-12T00:02:06Z</published>
+  <updated>2022-10-12T00:02:06Z</updated>
+  <content type="html">
+   Simple Golang Security
+  </content>
+ </entry>
+ <entry>
+  <title>infratographer: x</title>
+  <author>
+   <name>infratographer</name>
+  </author>
+  <link href="https://github.com/infratographer/x" />
+  <id>urn:rprimus:github:infratographer:x</id>
+  <published>2022-10-11T22:55:07Z</published>
+  <updated>2022-10-11T22:55:07Z</updated>
+  <content type="html">
+   Infratographer specific shared extensions and libraries
+  </content>
+ </entry>
+ <entry>
+  <title>mateendev3: lets_chat_go_server</title>
+  <author>
+   <name>mateendev3</name>
+  </author>
+  <link href="https://github.com/mateendev3/lets_chat_go_server" />
+  <id>urn:rprimus:github:mateendev3:lets_chat_go_server</id>
+  <published>2022-10-11T16:26:39Z</published>
+  <updated>2022-10-11T16:26:39Z</updated>
+  <content type="html">
+   GoLang server for LetsChat app Calling Feature
+  </content>
+ </entry>
+ <entry>
+  <title>sembh1998: golang-rest-api-mysql-with-redis</title>
+  <author>
+   <name>sembh1998</name>
+  </author>
+  <link href="https://github.com/sembh1998/golang-rest-api-mysql-with-redis" />
+  <id>urn:rprimus:github:sembh1998:golang-rest-api-mysql-with-redis</id>
+  <published>2022-10-11T16:12:45Z</published>
+  <updated>2022-10-11T16:12:45Z</updated>
+  <content type="html">
+   my logic of how to work with mysql and redis
+  </content>
+ </entry>
+ <entry>
+  <title>untder: rsz-gif-exp</title>
+  <author>
+   <name>untder</name>
+  </author>
+  <link href="https://github.com/untder/rsz-gif-exp" />
+  <id>urn:rprimus:github:untder:rsz-gif-exp</id>
+  <published>2022-10-11T14:19:21Z</published>
+  <updated>2022-10-11T14:19:21Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>pcjun97: nand2tetris</title>
+  <author>
+   <name>pcjun97</name>
+  </author>
+  <link href="https://github.com/pcjun97/nand2tetris" />
+  <id>urn:rprimus:github:pcjun97:nand2tetris</id>
+  <published>2022-10-11T14:01:05Z</published>
+  <updated>2022-10-11T14:01:05Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>vladopajic: go-super-actor</title>
+  <author>
+   <name>vladopajic</name>
+  </author>
+  <link href="https://github.com/vladopajic/go-super-actor" />
+  <id>urn:rprimus:github:vladopajic:go-super-actor</id>
+  <published>2022-10-11T13:08:17Z</published>
+  <updated>2022-10-11T13:08:17Z</updated>
+  <content type="html">
+   go-super-actor is experimental abstraction build on top of go-actor
+  </content>
+ </entry>
+ <entry>
+  <title>i0Ek3: loach</title>
+  <author>
+   <name>i0Ek3</name>
+  </author>
+  <link href="https://github.com/i0Ek3/loach" />
+  <id>urn:rprimus:github:i0Ek3:loach</id>
+  <published>2022-10-11T12:48:05Z</published>
+  <updated>2022-10-11T12:48:05Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>AkisaRazbu: Cointoss</title>
+  <author>
+   <name>AkisaRazbu</name>
+  </author>
+  <link href="https://github.com/AkisaRazbu/Cointoss" />
+  <id>urn:rprimus:github:AkisaRazbu:Cointoss</id>
+  <published>2022-10-11T11:24:45Z</published>
+  <updated>2022-10-11T11:24:45Z</updated>
+  <content type="html">
+   Cointoss game in Go, flips a coin one million times and lets you see the difference in which side was gotten more times.
+  </content>
+ </entry>
+ <entry>
+  <title>netsys-lab: pan-lua</title>
+  <author>
+   <name>netsys-lab</name>
+  </author>
+  <link href="https://github.com/netsys-lab/pan-lua" />
+  <id>urn:rprimus:github:netsys-lab:pan-lua</id>
+  <published>2022-10-11T10:57:37Z</published>
+  <updated>2022-10-11T10:57:37Z</updated>
+  <content type="html">
+   A RPC selector for the SCION PAN library, with a scriptable Lua backend
+  </content>
+ </entry>
+ <entry>
+  <title>andeya: mysql-aes</title>
+  <author>
+   <name>andeya</name>
+  </author>
+  <link href="https://github.com/andeya/mysql-aes" />
+  <id>urn:rprimus:github:andeya:mysql-aes</id>
+  <published>2022-10-11T10:51:33Z</published>
+  <updated>2022-10-11T10:51:33Z</updated>
+  <content type="html">
+   MySQL Transparent Data Encryption
+  </content>
+ </entry>
+ <entry>
+  <title>xudezhou: fast-develop</title>
+  <author>
+   <name>xudezhou</name>
+  </author>
+  <link href="https://github.com/xudezhou/fast-develop" />
+  <id>urn:rprimus:github:xudezhou:fast-develop</id>
+  <published>2022-10-11T10:38:56Z</published>
+  <updated>2022-10-11T10:38:56Z</updated>
+  <content type="html">
+   cpp struct to go struct
+  </content>
+ </entry>
+ <entry>
+  <title>wk331100: MerkleTree</title>
+  <author>
+   <name>wk331100</name>
+  </author>
+  <link href="https://github.com/wk331100/MerkleTree" />
+  <id>urn:rprimus:github:wk331100:MerkleTree</id>
+  <published>2022-10-11T10:28:52Z</published>
+  <updated>2022-10-11T10:28:52Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Yenuo: llinux_go_proxy</title>
+  <author>
+   <name>Yenuo</name>
+  </author>
+  <link href="https://github.com/Yenuo/llinux_go_proxy" />
+  <id>urn:rprimus:github:Yenuo:llinux_go_proxy</id>
+  <published>2022-10-11T10:26:52Z</published>
+  <updated>2022-10-11T10:26:52Z</updated>
+  <content type="html">
+   å¼å¯ä»£çtcp
+  </content>
+ </entry>
+ <entry>
+  <title>ysbbswork: urlparam</title>
+  <author>
+   <name>ysbbswork</name>
+  </author>
+  <link href="https://github.com/ysbbswork/urlparam" />
+  <id>urn:rprimus:github:ysbbswork:urlparam</id>
+  <published>2022-10-11T09:12:10Z</published>
+  <updated>2022-10-11T09:12:10Z</updated>
+  <content type="html">
+   urlparam provides url.Value to Struct and Struct to url.Value, and support protobuf struct.
+  </content>
+ </entry>
+ <entry>
+  <title>zekhoi: gotolo</title>
+  <author>
+   <name>zekhoi</name>
+  </author>
+  <link href="https://github.com/zekhoi/gotolo" />
+  <id>urn:rprimus:github:zekhoi:gotolo</id>
+  <published>2022-10-11T08:51:47Z</published>
+  <updated>2022-10-11T08:51:47Z</updated>
+  <content type="html">
+   Bingung
+  </content>
+ </entry>
+ <entry>
+  <title>reddec: keycloak-ext-operator</title>
+  <author>
+   <name>reddec</name>
+  </author>
+  <link href="https://github.com/reddec/keycloak-ext-operator" />
+  <id>urn:rprimus:github:reddec:keycloak-ext-operator</id>
+  <published>2022-10-11T08:02:08Z</published>
+  <updated>2022-10-11T08:02:08Z</updated>
+  <content type="html">
+   Creates OAuth clients in Keycloak and creates corresponding secrets in kubernetes
   </content>
  </entry>
  <entry>
@@ -57,68 +616,29 @@
   </content>
  </entry>
  <entry>
-  <title>marcelobruzetti: golang-study</title>
+  <title>Coolpy7: Coolpy7_Community</title>
   <author>
-   <name>marcelobruzetti</name>
+   <name>Coolpy7</name>
   </author>
-  <link href="https://github.com/marcelobruzetti/golang-study" />
-  <id>urn:rprimus:github:marcelobruzetti:golang-study</id>
-  <published>2022-10-11T07:24:17Z</published>
-  <updated>2022-10-11T07:24:17Z</updated>
+  <link href="https://github.com/Coolpy7/Coolpy7_Community" />
+  <id>urn:rprimus:github:Coolpy7:Coolpy7_Community</id>
+  <published>2022-10-11T07:14:28Z</published>
+  <updated>2022-10-11T07:14:28Z</updated>
   <content type="html">
-   Golang studies
+   Coolpy7ç¤¾åºç
   </content>
  </entry>
  <entry>
-  <title>Juggernautbotmx: fiber</title>
+  <title>aidansteele: awsdial</title>
   <author>
-   <name>Juggernautbotmx</name>
+   <name>aidansteele</name>
   </author>
-  <link href="https://github.com/Juggernautbotmx/fiber" />
-  <id>urn:rprimus:github:Juggernautbotmx:fiber</id>
-  <published>2022-10-11T06:57:34Z</published>
-  <updated>2022-10-11T06:57:34Z</updated>
+  <link href="https://github.com/aidansteele/awsdial" />
+  <id>urn:rprimus:github:aidansteele:awsdial</id>
+  <published>2022-10-11T07:07:04Z</published>
+  <updated>2022-10-11T07:07:04Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>szczynk: Assignment2</title>
-  <author>
-   <name>szczynk</name>
-  </author>
-  <link href="https://github.com/szczynk/Assignment2" />
-  <id>urn:rprimus:github:szczynk:Assignment2</id>
-  <published>2022-10-11T06:55:09Z</published>
-  <updated>2022-10-11T06:55:09Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>scottraio: go-utils</title>
-  <author>
-   <name>scottraio</name>
-  </author>
-  <link href="https://github.com/scottraio/go-utils" />
-  <id>urn:rprimus:github:scottraio:go-utils</id>
-  <published>2022-10-11T06:46:42Z</published>
-  <updated>2022-10-11T06:46:42Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>dyfire: proxy</title>
-  <author>
-   <name>dyfire</name>
-  </author>
-  <link href="https://github.com/dyfire/proxy" />
-  <id>urn:rprimus:github:dyfire:proxy</id>
-  <published>2022-10-11T06:29:00Z</published>
-  <updated>2022-10-11T06:29:00Z</updated>
-  <content type="html">
-   Service forwards the message
   </content>
  </entry>
  <entry>
@@ -161,29 +681,16 @@
   </content>
  </entry>
  <entry>
-  <title>yemiwebby: gin-gorm-restful-api</title>
+  <title>zeroflucs-given: charybdis</title>
   <author>
-   <name>yemiwebby</name>
+   <name>zeroflucs-given</name>
   </author>
-  <link href="https://github.com/yemiwebby/gin-gorm-restful-api" />
-  <id>urn:rprimus:github:yemiwebby:gin-gorm-restful-api</id>
-  <published>2022-10-11T04:47:16Z</published>
-  <updated>2022-10-11T04:47:16Z</updated>
+  <link href="https://github.com/zeroflucs-given/charybdis" />
+  <id>urn:rprimus:github:zeroflucs-given:charybdis</id>
+  <published>2022-10-11T04:38:52Z</published>
+  <updated>2022-10-11T04:38:52Z</updated>
   <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>parroquiano: todoist</title>
-  <author>
-   <name>parroquiano</name>
-  </author>
-  <link href="https://github.com/parroquiano/todoist" />
-  <id>urn:rprimus:github:parroquiano:todoist</id>
-  <published>2022-10-11T04:39:19Z</published>
-  <updated>2022-10-11T04:39:19Z</updated>
-  <content type="html">
-   Golang client library for the v8 Todoist Sync API. Forked from ides15/todoist
+   The charybdis package provides helpers for low-code integration with ScyllaDB. 
   </content>
  </entry>
  <entry>
@@ -200,55 +707,16 @@
   </content>
  </entry>
  <entry>
-  <title>rismank2: crud-go-api-sql</title>
+  <title>Litmee: glock</title>
   <author>
-   <name>rismank2</name>
+   <name>Litmee</name>
   </author>
-  <link href="https://github.com/rismank2/crud-go-api-sql" />
-  <id>urn:rprimus:github:rismank2:crud-go-api-sql</id>
-  <published>2022-10-11T04:25:01Z</published>
-  <updated>2022-10-11T04:25:01Z</updated>
+  <link href="https://github.com/Litmee/glock" />
+  <id>urn:rprimus:github:Litmee:glock</id>
+  <published>2022-10-11T03:14:12Z</published>
+  <updated>2022-10-11T03:14:12Z</updated>
   <content type="html">
-   crud go dengan API databse SQL untuk assigment 2 KOMINFO GOLANG 01
-  </content>
- </entry>
- <entry>
-  <title>Taossi: distributed-lock-redis</title>
-  <author>
-   <name>Taossi</name>
-  </author>
-  <link href="https://github.com/Taossi/distributed-lock-redis" />
-  <id>urn:rprimus:github:Taossi:distributed-lock-redis</id>
-  <published>2022-10-11T03:54:02Z</published>
-  <updated>2022-10-11T03:54:02Z</updated>
-  <content type="html">
-   distributed lock by redis
-  </content>
- </entry>
- <entry>
-  <title>rencalo770: hellosql</title>
-  <author>
-   <name>rencalo770</name>
-  </author>
-  <link href="https://github.com/rencalo770/hellosql" />
-  <id>urn:rprimus:github:rencalo770:hellosql</id>
-  <published>2022-10-11T03:45:38Z</published>
-  <updated>2022-10-11T03:45:38Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>sonnt85: gofilepath</title>
-  <author>
-   <name>sonnt85</name>
-  </author>
-  <link href="https://github.com/sonnt85/gofilepath" />
-  <id>urn:rprimus:github:sonnt85:gofilepath</id>
-  <published>2022-10-11T03:26:13Z</published>
-  <updated>2022-10-11T03:26:13Z</updated>
-  <content type="html">
-   
+   Distributed lock developed based on Golang
   </content>
  </entry>
  <entry>
@@ -265,19 +733,6 @@
   </content>
  </entry>
  <entry>
-  <title>ParthTri: Creo</title>
-  <author>
-   <name>ParthTri</name>
-  </author>
-  <link href="https://github.com/ParthTri/Creo" />
-  <id>urn:rprimus:github:ParthTri:Creo</id>
-  <published>2022-10-11T02:46:53Z</published>
-  <updated>2022-10-11T02:46:53Z</updated>
-  <content type="html">
-   A command line based project generation utility
-  </content>
- </entry>
- <entry>
   <title>night556: pdftable</title>
   <author>
    <name>night556</name>
@@ -291,19 +746,6 @@
   </content>
  </entry>
  <entry>
-  <title>tomtwinkle: utfbomremover</title>
-  <author>
-   <name>tomtwinkle</name>
-  </author>
-  <link href="https://github.com/tomtwinkle/utfbomremover" />
-  <id>urn:rprimus:github:tomtwinkle:utfbomremover</id>
-  <published>2022-10-11T02:15:01Z</published>
-  <updated>2022-10-11T02:15:01Z</updated>
-  <content type="html">
-   golang transform.Transformer to remove UTF BOM
-  </content>
- </entry>
- <entry>
   <title>rashtell: golang-web-dev-demo</title>
   <author>
    <name>rashtell</name>
@@ -312,19 +754,6 @@
   <id>urn:rprimus:github:rashtell:golang-web-dev-demo</id>
   <published>2022-10-11T02:06:35Z</published>
   <updated>2022-10-11T02:06:35Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>FarmerChillax: glib</title>
-  <author>
-   <name>FarmerChillax</name>
-  </author>
-  <link href="https://github.com/FarmerChillax/glib" />
-  <id>urn:rprimus:github:FarmerChillax:glib</id>
-  <published>2022-10-11T01:46:30Z</published>
-  <updated>2022-10-11T01:46:30Z</updated>
   <content type="html">
    
   </content>
@@ -343,19 +772,6 @@
   </content>
  </entry>
  <entry>
-  <title>dchung117: slackbot_file_golang</title>
-  <author>
-   <name>dchung117</name>
-  </author>
-  <link href="https://github.com/dchung117/slackbot_file_golang" />
-  <id>urn:rprimus:github:dchung117:slackbot_file_golang</id>
-  <published>2022-10-11T01:36:50Z</published>
-  <updated>2022-10-11T01:36:50Z</updated>
-  <content type="html">
-   Slackbot that uploads a file in Golang
-  </content>
- </entry>
- <entry>
   <title>766800551: mopler</title>
   <author>
    <name>766800551</name>
@@ -366,32 +782,6 @@
   <updated>2022-10-11T01:20:40Z</updated>
   <content type="html">
    ç¾åº¦ç½çï¼baidu netdiskï¼SDK 
-  </content>
- </entry>
- <entry>
-  <title>ediogama: search-cep-golang-http</title>
-  <author>
-   <name>ediogama</name>
-  </author>
-  <link href="https://github.com/ediogama/search-cep-golang-http" />
-  <id>urn:rprimus:github:ediogama:search-cep-golang-http</id>
-  <published>2022-10-11T00:31:56Z</published>
-  <updated>2022-10-11T00:31:56Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>List412: twitter-preview-tg-bot</title>
-  <author>
-   <name>List412</name>
-  </author>
-  <link href="https://github.com/List412/twitter-preview-tg-bot" />
-  <id>urn:rprimus:github:List412:twitter-preview-tg-bot</id>
-  <published>2022-10-11T00:05:23Z</published>
-  <updated>2022-10-11T00:05:23Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
  <entry>
@@ -434,19 +824,6 @@
   </content>
  </entry>
  <entry>
-  <title>crazyc4t: cryptgo</title>
-  <author>
-   <name>crazyc4t</name>
-  </author>
-  <link href="https://github.com/crazyc4t/cryptgo" />
-  <id>urn:rprimus:github:crazyc4t:cryptgo</id>
-  <published>2022-10-10T21:56:52Z</published>
-  <updated>2022-10-10T21:56:52Z</updated>
-  <content type="html">
-   CLI tool that lets you know live prices of crypto!
-  </content>
- </entry>
- <entry>
   <title>enrichman: gong</title>
   <author>
    <name>enrichman</name>
@@ -460,6 +837,19 @@
   </content>
  </entry>
  <entry>
+  <title>enmity-mod: altstore</title>
+  <author>
+   <name>enmity-mod</name>
+  </author>
+  <link href="https://github.com/enmity-mod/altstore" />
+  <id>urn:rprimus:github:enmity-mod:altstore</id>
+  <published>2022-10-10T20:47:29Z</published>
+  <updated>2022-10-10T20:47:29Z</updated>
+  <content type="html">
+   Script used to automatically update our altstore repo when a new release is published.
+  </content>
+ </entry>
+ <entry>
   <title>luanlary: goMinimalOs</title>
   <author>
    <name>luanlary</name>
@@ -470,6 +860,19 @@
   <updated>2022-10-10T20:03:05Z</updated>
   <content type="html">
    A minimal OS build with Go and Assembly
+  </content>
+ </entry>
+ <entry>
+  <title>Maruf656: Maruf656</title>
+  <author>
+   <name>Maruf656</name>
+  </author>
+  <link href="https://github.com/Maruf656/Maruf656" />
+  <id>urn:rprimus:github:Maruf656:Maruf656</id>
+  <published>2022-10-10T20:02:01Z</published>
+  <updated>2022-10-10T20:02:01Z</updated>
+  <content type="html">
+   Config files for my GitHub profile.
   </content>
  </entry>
  <entry>
@@ -496,6 +899,19 @@
   <updated>2022-10-10T19:20:58Z</updated>
   <content type="html">
    A go module made for Swift mangling
+  </content>
+ </entry>
+ <entry>
+  <title>aditya-K2: brow</title>
+  <author>
+   <name>aditya-K2</name>
+  </author>
+  <link href="https://github.com/aditya-K2/brow" />
+  <id>urn:rprimus:github:aditya-K2:brow</id>
+  <published>2022-10-10T19:06:10Z</published>
+  <updated>2022-10-10T19:06:10Z</updated>
+  <content type="html">
+   Access your browser history through terminal
   </content>
  </entry>
  <entry>
@@ -535,19 +951,6 @@
   <updated>2022-10-10T17:17:58Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>jostgrant: grunt</title>
-  <author>
-   <name>jostgrant</name>
-  </author>
-  <link href="https://github.com/jostgrant/grunt" />
-  <id>urn:rprimus:github:jostgrant:grunt</id>
-  <published>2022-10-10T17:04:08Z</published>
-  <updated>2022-10-10T17:04:08Z</updated>
-  <content type="html">
-     Personal Discord &amp; Matrix Bot. 
   </content>
  </entry>
  <entry>
@@ -603,16 +1006,16 @@
   </content>
  </entry>
  <entry>
-  <title>dzikal45: GO_CRUD</title>
+  <title>tuanvuPresent: go-gin-rest-api</title>
   <author>
-   <name>dzikal45</name>
+   <name>tuanvuPresent</name>
   </author>
-  <link href="https://github.com/dzikal45/GO_CRUD" />
-  <id>urn:rprimus:github:dzikal45:GO_CRUD</id>
-  <published>2022-10-10T10:51:35Z</published>
-  <updated>2022-10-10T10:51:35Z</updated>
+  <link href="https://github.com/tuanvuPresent/go-gin-rest-api" />
+  <id>urn:rprimus:github:tuanvuPresent:go-gin-rest-api</id>
+  <published>2022-10-10T10:08:28Z</published>
+  <updated>2022-10-10T10:08:28Z</updated>
   <content type="html">
-   
+   Golang gin rest api
   </content>
  </entry>
  <entry>
@@ -681,29 +1084,16 @@
   </content>
  </entry>
  <entry>
-  <title>webees: hdwallet</title>
+  <title>Sorrow446: KHInsider-Downloader</title>
   <author>
-   <name>webees</name>
+   <name>Sorrow446</name>
   </author>
-  <link href="https://github.com/webees/hdwallet" />
-  <id>urn:rprimus:github:webees:hdwallet</id>
-  <published>2022-10-10T07:31:44Z</published>
-  <updated>2022-10-10T07:31:44Z</updated>
+  <link href="https://github.com/Sorrow446/KHInsider-Downloader" />
+  <id>urn:rprimus:github:Sorrow446:KHInsider-Downloader</id>
+  <published>2022-10-10T04:36:21Z</published>
+  <updated>2022-10-10T04:36:21Z</updated>
   <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>bloc-Chain: go-blocChain</title>
-  <author>
-   <name>bloc-Chain</name>
-  </author>
-  <link href="https://github.com/bloc-Chain/go-blocChain" />
-  <id>urn:rprimus:github:bloc-Chain:go-blocChain</id>
-  <published>2022-10-10T05:41:46Z</published>
-  <updated>2022-10-10T05:41:46Z</updated>
-  <content type="html">
-   Go-blocChain the official source code repository of BlocChain project
+   KHInsider downloader written in Go.
   </content>
  </entry>
  <entry>
@@ -717,19 +1107,6 @@
   <updated>2022-10-10T02:48:05Z</updated>
   <content type="html">
    Start with API server back-end Golang
-  </content>
- </entry>
- <entry>
-  <title>voluntas: webapp-sqlite-template</title>
-  <author>
-   <name>voluntas</name>
-  </author>
-  <link href="https://github.com/voluntas/webapp-sqlite-template" />
-  <id>urn:rprimus:github:voluntas:webapp-sqlite-template</id>
-  <published>2022-10-10T02:40:35Z</published>
-  <updated>2022-10-10T02:40:35Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
  <entry>
@@ -785,393 +1162,16 @@
   </content>
  </entry>
  <entry>
-  <title>gamemann: tmc-servers-engine</title>
-  <author>
-   <name>gamemann</name>
-  </author>
-  <link href="https://github.com/gamemann/tmc-servers-engine" />
-  <id>urn:rprimus:github:gamemann:tmc-servers-engine</id>
-  <published>2022-10-09T23:57:12Z</published>
-  <updated>2022-10-09T23:57:12Z</updated>
-  <content type="html">
-   An engine that updates all servers from @modcommunity via an API, but can be used anywhere.
-  </content>
- </entry>
- <entry>
-  <title>gmaldona: github-view-poller</title>
-  <author>
-   <name>gmaldona</name>
-  </author>
-  <link href="https://github.com/gmaldona/github-view-poller" />
-  <id>urn:rprimus:github:gmaldona:github-view-poller</id>
-  <published>2022-10-09T22:58:43Z</published>
-  <updated>2022-10-09T22:58:43Z</updated>
-  <content type="html">
-   A go poller for displaying the views of the most popular repos on your account 
-  </content>
- </entry>
- <entry>
-  <title>rseroter: go-workflow-callback</title>
-  <author>
-   <name>rseroter</name>
-  </author>
-  <link href="https://github.com/rseroter/go-workflow-callback" />
-  <id>urn:rprimus:github:rseroter:go-workflow-callback</id>
-  <published>2022-10-09T22:43:35Z</published>
-  <updated>2022-10-09T22:43:35Z</updated>
-  <content type="html">
-   Go-based callback handler for long-running Google Cloud Workflows
-  </content>
- </entry>
- <entry>
-  <title>minhtran241: gRPC-introduction</title>
-  <author>
-   <name>minhtran241</name>
-  </author>
-  <link href="https://github.com/minhtran241/gRPC-introduction" />
-  <id>urn:rprimus:github:minhtran241:gRPC-introduction</id>
-  <published>2022-10-09T21:28:23Z</published>
-  <updated>2022-10-09T21:28:23Z</updated>
-  <content type="html">
-   Implementation of gRPC with Go
-  </content>
- </entry>
- <entry>
-  <title>circa10a: go-mailform</title>
-  <author>
-   <name>circa10a</name>
-  </author>
-  <link href="https://github.com/circa10a/go-mailform" />
-  <id>urn:rprimus:github:circa10a:go-mailform</id>
-  <published>2022-10-09T20:23:58Z</published>
-  <updated>2022-10-09T20:23:58Z</updated>
-  <content type="html">
-   A small library to send physical mail from your Go applications using https://mailform.io
-  </content>
- </entry>
- <entry>
-  <title>kataras: httpclient</title>
-  <author>
-   <name>kataras</name>
-  </author>
-  <link href="https://github.com/kataras/httpclient" />
-  <id>urn:rprimus:github:kataras:httpclient</id>
-  <published>2022-10-09T18:43:51Z</published>
-  <updated>2022-10-09T18:43:51Z</updated>
-  <content type="html">
-   HTTP/2 Client for Go Programming Language #golang #http
-  </content>
- </entry>
- <entry>
-  <title>abatilo: github-ratelimit-metrics</title>
-  <author>
-   <name>abatilo</name>
-  </author>
-  <link href="https://github.com/abatilo/github-ratelimit-metrics" />
-  <id>urn:rprimus:github:abatilo:github-ratelimit-metrics</id>
-  <published>2022-10-09T17:10:08Z</published>
-  <updated>2022-10-09T17:10:08Z</updated>
-  <content type="html">
-   Expose GitHub App rate limits as Prometheus metrics
-  </content>
- </entry>
- <entry>
-  <title>mattn: ocilogs-for-fluent-bit</title>
-  <author>
-   <name>mattn</name>
-  </author>
-  <link href="https://github.com/mattn/ocilogs-for-fluent-bit" />
-  <id>urn:rprimus:github:mattn:ocilogs-for-fluent-bit</id>
-  <published>2022-10-09T16:43:57Z</published>
-  <updated>2022-10-09T16:43:57Z</updated>
-  <content type="html">
-   Fluent Bit Plugin for Oracle Cloud Infrastructure
-  </content>
- </entry>
- <entry>
-  <title>saufiroja: fiber-graphql</title>
-  <author>
-   <name>saufiroja</name>
-  </author>
-  <link href="https://github.com/saufiroja/fiber-graphql" />
-  <id>urn:rprimus:github:saufiroja:fiber-graphql</id>
-  <published>2022-10-09T16:20:22Z</published>
-  <updated>2022-10-09T16:20:22Z</updated>
-  <content type="html">
-   Learn fiber go framework  with graphql
-  </content>
- </entry>
- <entry>
-  <title>CiroLee: bf-go</title>
-  <author>
-   <name>CiroLee</name>
-  </author>
-  <link href="https://github.com/CiroLee/bf-go" />
-  <id>urn:rprimus:github:CiroLee:bf-go</id>
-  <published>2022-10-09T16:16:16Z</published>
-  <updated>2022-10-09T16:16:16Z</updated>
-  <content type="html">
-   cli bf implemented by go 
-  </content>
- </entry>
- <entry>
-  <title>Nelwhix: go_loginSystem</title>
-  <author>
-   <name>Nelwhix</name>
-  </author>
-  <link href="https://github.com/Nelwhix/go_loginSystem" />
-  <id>urn:rprimus:github:Nelwhix:go_loginSystem</id>
-  <published>2022-10-09T15:16:04Z</published>
-  <updated>2022-10-09T15:16:04Z</updated>
-  <content type="html">
-   Authentication system with mux router and schema
-  </content>
- </entry>
- <entry>
-  <title>keecon: pkg-go</title>
-  <author>
-   <name>keecon</name>
-  </author>
-  <link href="https://github.com/keecon/pkg-go" />
-  <id>urn:rprimus:github:keecon:pkg-go</id>
-  <published>2022-10-09T14:10:22Z</published>
-  <updated>2022-10-09T14:10:22Z</updated>
-  <content type="html">
-   Keecon common packages
-  </content>
- </entry>
- <entry>
-  <title>emptycan1010: novelai-image-info</title>
-  <author>
-   <name>emptycan1010</name>
-  </author>
-  <link href="https://github.com/emptycan1010/novelai-image-info" />
-  <id>urn:rprimus:github:emptycan1010:novelai-image-info</id>
-  <published>2022-10-09T14:08:25Z</published>
-  <updated>2022-10-09T14:08:25Z</updated>
-  <content type="html">
-   NovelAI get Image info using Golang
-  </content>
- </entry>
- <entry>
-  <title>NickCao: ipsec-playground</title>
-  <author>
-   <name>NickCao</name>
-  </author>
-  <link href="https://github.com/NickCao/ipsec-playground" />
-  <id>urn:rprimus:github:NickCao:ipsec-playground</id>
-  <published>2022-10-09T13:59:33Z</published>
-  <updated>2022-10-09T13:59:33Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>chrnin: libinpibilan</title>
-  <author>
-   <name>chrnin</name>
-  </author>
-  <link href="https://github.com/chrnin/libinpibilan" />
-  <id>urn:rprimus:github:chrnin:libinpibilan</id>
-  <published>2022-10-09T13:16:14Z</published>
-  <updated>2022-10-09T13:16:14Z</updated>
-  <content type="html">
-   go module aimed to read INPI bilan XML files
-  </content>
- </entry>
- <entry>
-  <title>codertjay: snapchat-clone</title>
-  <author>
-   <name>codertjay</name>
-  </author>
-  <link href="https://github.com/codertjay/snapchat-clone" />
-  <id>urn:rprimus:github:codertjay:snapchat-clone</id>
-  <published>2022-10-09T12:39:59Z</published>
-  <updated>2022-10-09T12:39:59Z</updated>
-  <content type="html">
-   Golang snapchat backend (Implementing websocket, GRPC and more)
-  </content>
- </entry>
- <entry>
-  <title>Kioubit: chownshift</title>
-  <author>
-   <name>Kioubit</name>
-  </author>
-  <link href="https://github.com/Kioubit/chownshift" />
-  <id>urn:rprimus:github:Kioubit:chownshift</id>
-  <published>2022-10-09T12:30:50Z</published>
-  <updated>2022-10-09T12:30:50Z</updated>
-  <content type="html">
-   Shift UIDs,GIDs of directories or files by a specified amount
-  </content>
- </entry>
- <entry>
-  <title>CharmingDev777: Go-Game-Server-master</title>
-  <author>
-   <name>CharmingDev777</name>
-  </author>
-  <link href="https://github.com/CharmingDev777/Go-Game-Server-master" />
-  <id>urn:rprimus:github:CharmingDev777:Go-Game-Server-master</id>
-  <published>2022-10-09T12:19:50Z</published>
-  <updated>2022-10-09T12:19:50Z</updated>
-  <content type="html">
-   A tool programmed in Go to automatically restart &#039;hung&#039; game servers/containers via a Pterodactyl API.
-  </content>
- </entry>
- <entry>
-  <title>mjarkk: decode-vanmoof-blt-packages</title>
-  <author>
-   <name>mjarkk</name>
-  </author>
-  <link href="https://github.com/mjarkk/decode-vanmoof-blt-packages" />
-  <id>urn:rprimus:github:mjarkk:decode-vanmoof-blt-packages</id>
-  <published>2022-10-09T10:36:03Z</published>
-  <updated>2022-10-09T10:36:03Z</updated>
-  <content type="html">
-   A helper program for inspecting bluetooth sniff files when communicating with vanmoof bikes
-  </content>
- </entry>
- <entry>
-  <title>ilhamnopi: Rest-API-sederhana-CRUD-gin</title>
-  <author>
-   <name>ilhamnopi</name>
-  </author>
-  <link href="https://github.com/ilhamnopi/Rest-API-sederhana-CRUD-gin" />
-  <id>urn:rprimus:github:ilhamnopi:Rest-API-sederhana-CRUD-gin</id>
-  <published>2022-10-09T10:01:48Z</published>
-  <updated>2022-10-09T10:01:48Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>MYK12397: user</title>
-  <author>
-   <name>MYK12397</name>
-  </author>
-  <link href="https://github.com/MYK12397/user" />
-  <id>urn:rprimus:github:MYK12397:user</id>
-  <published>2022-10-09T09:50:16Z</published>
-  <updated>2022-10-09T09:50:16Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>rishiwardhan: GO-server</title>
-  <author>
-   <name>rishiwardhan</name>
-  </author>
-  <link href="https://github.com/rishiwardhan/GO-server" />
-  <id>urn:rprimus:github:rishiwardhan:GO-server</id>
-  <published>2022-10-09T08:11:12Z</published>
-  <updated>2022-10-09T08:11:12Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>zakaria-chahboun: genmessage</title>
+  <title>zakaria-chahboun: cute</title>
   <author>
    <name>zakaria-chahboun</name>
   </author>
-  <link href="https://github.com/zakaria-chahboun/genmessage" />
-  <id>urn:rprimus:github:zakaria-chahboun:genmessage</id>
-  <published>2022-10-09T07:41:36Z</published>
-  <updated>2022-10-09T07:41:36Z</updated>
+  <link href="https://github.com/zakaria-chahboun/cute" />
+  <id>urn:rprimus:github:zakaria-chahboun:cute</id>
+  <published>2022-10-10T00:08:07Z</published>
+  <updated>2022-10-10T00:08:07Z</updated>
   <content type="html">
-   an easy way to generate translations for your Go app
-  </content>
- </entry>
- <entry>
-  <title>jikwan0327: studyGo</title>
-  <author>
-   <name>jikwan0327</name>
-  </author>
-  <link href="https://github.com/jikwan0327/studyGo" />
-  <id>urn:rprimus:github:jikwan0327:studyGo</id>
-  <published>2022-10-09T04:29:41Z</published>
-  <updated>2022-10-09T04:29:41Z</updated>
-  <content type="html">
-   Goë¥¼ ê³µë¶íë ë í¬ìëë¤
-  </content>
- </entry>
- <entry>
-  <title>pangum: ft</title>
-  <author>
-   <name>pangum</name>
-  </author>
-  <link href="https://github.com/pangum/ft" />
-  <id>urn:rprimus:github:pangum:ft</id>
-  <published>2022-10-09T04:29:23Z</published>
-  <updated>2022-10-09T04:29:23Z</updated>
-  <content type="html">
-   å½å52å·æä¿¡æè´·ç¸å³æ¥å£çå¤æ¡æ¶éæ
-  </content>
- </entry>
- <entry>
-  <title>aobt: goskiplist</title>
-  <author>
-   <name>aobt</name>
-  </author>
-  <link href="https://github.com/aobt/goskiplist" />
-  <id>urn:rprimus:github:aobt:goskiplist</id>
-  <published>2022-10-09T03:48:13Z</published>
-  <updated>2022-10-09T03:48:13Z</updated>
-  <content type="html">
-   Skiplist implemented by golang with generics, concurrent safe and simple
-  </content>
- </entry>
- <entry>
-  <title>cloud-org: sample</title>
-  <author>
-   <name>cloud-org</name>
-  </author>
-  <link href="https://github.com/cloud-org/sample" />
-  <id>urn:rprimus:github:cloud-org:sample</id>
-  <published>2022-10-09T03:17:00Z</published>
-  <updated>2022-10-09T03:17:00Z</updated>
-  <content type="html">
-   many minimum viable demo
-  </content>
- </entry>
- <entry>
-  <title>atomicgo: assert</title>
-  <author>
-   <name>atomicgo</name>
-  </author>
-  <link href="https://github.com/atomicgo/assert" />
-  <id>urn:rprimus:github:atomicgo:assert</id>
-  <published>2022-10-09T02:20:36Z</published>
-  <updated>2022-10-09T02:20:36Z</updated>
-  <content type="html">
-   â Go package with tons of assertions!
-  </content>
- </entry>
- <entry>
-  <title>xpfo-go: defaults</title>
-  <author>
-   <name>xpfo-go</name>
-  </author>
-  <link href="https://github.com/xpfo-go/defaults" />
-  <id>urn:rprimus:github:xpfo-go:defaults</id>
-  <published>2022-10-09T01:22:00Z</published>
-  <updated>2022-10-09T01:22:00Z</updated>
-  <content type="html">
-   Set  default value of golang.
-  </content>
- </entry>
- <entry>
-  <title>ItalyPaleAle: dapr-sqlite-statestore</title>
-  <author>
-   <name>ItalyPaleAle</name>
-  </author>
-  <link href="https://github.com/ItalyPaleAle/dapr-sqlite-statestore" />
-  <id>urn:rprimus:github:ItalyPaleAle:dapr-sqlite-statestore</id>
-  <published>2022-10-09T00:00:23Z</published>
-  <updated>2022-10-09T00:00:23Z</updated>
-  <content type="html">
-   
+   a simple beautiful go print
   </content>
  </entry>
 </feed>
