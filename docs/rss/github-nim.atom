@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2022-10-11T19:14:32Z</updated>
+<updated>2022-10-12T20:58:07Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>vandot: lodns</title>
+  <author>
+   <name>vandot</name>
+  </author>
+  <link href="https://github.com/vandot/lodns" />
+  <id>urn:rprimus:github:vandot:lodns</id>
+  <published>2022-10-12T20:58:07Z</published>
+  <updated>2022-10-12T20:58:07Z</updated>
+  <content type="html">
+   Simple DNS server for local development
+  </content>
+ </entry>
+ <entry>
+  <title>Mythical-Forest-Collective: NimLox</title>
+  <author>
+   <name>Mythical-Forest-Collective</name>
+  </author>
+  <link href="https://github.com/Mythical-Forest-Collective/NimLox" />
+  <id>urn:rprimus:github:Mythical-Forest-Collective:NimLox</id>
+  <published>2022-10-12T20:50:23Z</published>
+  <updated>2022-10-12T20:50:23Z</updated>
+  <content type="html">
+   Just a W.I.P Lox interpreter for Nim
+  </content>
+ </entry>
+ <entry>
+  <title>disruptek: cligen</title>
+  <author>
+   <name>disruptek</name>
+  </author>
+  <link href="https://github.com/disruptek/cligen" />
+  <id>urn:rprimus:github:disruptek:cligen</id>
+  <published>2022-10-12T17:42:34Z</published>
+  <updated>2022-10-12T17:42:34Z</updated>
+  <content type="html">
+   CLI generator
+  </content>
+ </entry>
+ <entry>
+  <title>nick-telsan: nimage</title>
+  <author>
+   <name>nick-telsan</name>
+  </author>
+  <link href="https://github.com/nick-telsan/nimage" />
+  <id>urn:rprimus:github:nick-telsan:nimage</id>
+  <published>2022-10-12T15:51:26Z</published>
+  <updated>2022-10-12T15:51:26Z</updated>
+  <content type="html">
+   nim image thing
+  </content>
+ </entry>
  <entry>
   <title>levshx: nim-chip8</title>
   <author>
@@ -44,29 +96,16 @@
   </content>
  </entry>
  <entry>
-  <title>SpotlightKid: jacket</title>
+  <title>shoyu777: wcwidth-nim</title>
   <author>
-   <name>SpotlightKid</name>
+   <name>shoyu777</name>
   </author>
-  <link href="https://github.com/SpotlightKid/jacket" />
-  <id>urn:rprimus:github:SpotlightKid:jacket</id>
-  <published>2022-10-10T16:53:48Z</published>
-  <updated>2022-10-10T16:53:48Z</updated>
+  <link href="https://github.com/shoyu777/wcwidth-nim" />
+  <id>urn:rprimus:github:shoyu777:wcwidth-nim</id>
+  <published>2022-10-11T08:00:04Z</published>
+  <updated>2022-10-11T08:00:04Z</updated>
   <content type="html">
-    A Nim wrapper for the JACK C API
-  </content>
- </entry>
- <entry>
-  <title>inv2004: soa</title>
-  <author>
-   <name>inv2004</name>
-  </author>
-  <link href="https://github.com/inv2004/soa" />
-  <id>urn:rprimus:github:inv2004:soa</id>
-  <published>2022-10-10T10:29:21Z</published>
-  <updated>2022-10-10T10:29:21Z</updated>
-  <content type="html">
-   SoA structs wrapper for Nim
+   Implementation of wcwidth with Nim.
   </content>
  </entry>
 </feed>
