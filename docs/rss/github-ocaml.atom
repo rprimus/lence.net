@@ -2,8 +2,177 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2022-10-13T01:21:42Z</updated>
+<updated>2022-10-14T09:21:22Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>kkshinkai: kona-lang</title>
+  <author>
+   <name>kkshinkai</name>
+  </author>
+  <link href="https://github.com/kkshinkai/kona-lang" />
+  <id>urn:rprimus:github:kkshinkai:kona-lang</id>
+  <published>2022-10-14T09:21:22Z</published>
+  <updated>2022-10-14T09:21:22Z</updated>
+  <content type="html">
+   [WIP] A static-typed functional programming language of the ML family.
+  </content>
+ </entry>
+ <entry>
+  <title>air-wreck: ocamltex</title>
+  <author>
+   <name>air-wreck</name>
+  </author>
+  <link href="https://github.com/air-wreck/ocamltex" />
+  <id>urn:rprimus:github:air-wreck:ocamltex</id>
+  <published>2022-10-14T06:31:37Z</published>
+  <updated>2022-10-14T06:31:37Z</updated>
+  <content type="html">
+   LaTeX math rendering in OCaml
+  </content>
+ </entry>
+ <entry>
+  <title>ArcheMcDonnell: Cow</title>
+  <author>
+   <name>ArcheMcDonnell</name>
+  </author>
+  <link href="https://github.com/ArcheMcDonnell/Cow" />
+  <id>urn:rprimus:github:ArcheMcDonnell:Cow</id>
+  <published>2022-10-14T00:49:34Z</published>
+  <updated>2022-10-14T00:49:34Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>TheLortex: protocaml</title>
+  <author>
+   <name>TheLortex</name>
+  </author>
+  <link href="https://github.com/TheLortex/protocaml" />
+  <id>urn:rprimus:github:TheLortex:protocaml</id>
+  <published>2022-10-13T21:03:24Z</published>
+  <updated>2022-10-13T21:03:24Z</updated>
+  <content type="html">
+   Protohackers is a server programming challenge. Here is an implementation using OCaml 5 and the effects-based IO library Eio
+  </content>
+ </entry>
+ <entry>
+  <title>OCamlPro: stracer</title>
+  <author>
+   <name>OCamlPro</name>
+  </author>
+  <link href="https://github.com/OCamlPro/stracer" />
+  <id>urn:rprimus:github:OCamlPro:stracer</id>
+  <published>2022-10-13T18:26:44Z</published>
+  <updated>2022-10-13T18:26:44Z</updated>
+  <content type="html">
+   A simple tool to parse strace log files.
+  </content>
+ </entry>
+ <entry>
+  <title>zenfey: yojson-update-function</title>
+  <author>
+   <name>zenfey</name>
+  </author>
+  <link href="https://github.com/zenfey/yojson-update-function" />
+  <id>urn:rprimus:github:zenfey:yojson-update-function</id>
+  <published>2022-10-13T13:49:45Z</published>
+  <updated>2022-10-13T13:49:45Z</updated>
+  <content type="html">
+   from https://github.com/ocaml-community/yojson/issues/54#issuecomment-442688732
+  </content>
+ </entry>
+ <entry>
+  <title>clementinegrethen: functional-programming</title>
+  <author>
+   <name>clementinegrethen</name>
+  </author>
+  <link href="https://github.com/clementinegrethen/functional-programming" />
+  <id>urn:rprimus:github:clementinegrethen:functional-programming</id>
+  <published>2022-10-13T13:48:08Z</published>
+  <updated>2022-10-13T13:48:08Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>janestreet: stored_reversed</title>
+  <author>
+   <name>janestreet</name>
+  </author>
+  <link href="https://github.com/janestreet/stored_reversed" />
+  <id>urn:rprimus:github:janestreet:stored_reversed</id>
+  <published>2022-10-13T10:02:23Z</published>
+  <updated>2022-10-13T10:02:23Z</updated>
+  <content type="html">
+   A library for representing a list temporarily stored in reverse order.
+  </content>
+ </entry>
+ <entry>
+  <title>janestreet: ordinal_abbreviation</title>
+  <author>
+   <name>janestreet</name>
+  </author>
+  <link href="https://github.com/janestreet/ordinal_abbreviation" />
+  <id>urn:rprimus:github:janestreet:ordinal_abbreviation</id>
+  <published>2022-10-13T10:01:43Z</published>
+  <updated>2022-10-13T10:01:43Z</updated>
+  <content type="html">
+   A minimal library for generating ordinal names of integers.
+  </content>
+ </entry>
+ <entry>
+  <title>janestreet: js_of_ocaml_patches</title>
+  <author>
+   <name>janestreet</name>
+  </author>
+  <link href="https://github.com/janestreet/js_of_ocaml_patches" />
+  <id>urn:rprimus:github:janestreet:js_of_ocaml_patches</id>
+  <published>2022-10-13T09:59:52Z</published>
+  <updated>2022-10-13T09:59:52Z</updated>
+  <content type="html">
+   Additions to js_of_ocaml&#039;s standard library that are required by Jane Street libraries.
+  </content>
+ </entry>
+ <entry>
+  <title>janestreet: indentation_buffer</title>
+  <author>
+   <name>janestreet</name>
+  </author>
+  <link href="https://github.com/janestreet/indentation_buffer" />
+  <id>urn:rprimus:github:janestreet:indentation_buffer</id>
+  <published>2022-10-13T09:58:46Z</published>
+  <updated>2022-10-13T09:58:46Z</updated>
+  <content type="html">
+   A library for building strings with indentation
+  </content>
+ </entry>
+ <entry>
+  <title>janestreet: diffable</title>
+  <author>
+   <name>janestreet</name>
+  </author>
+  <link href="https://github.com/janestreet/diffable" />
+  <id>urn:rprimus:github:janestreet:diffable</id>
+  <published>2022-10-13T09:52:00Z</published>
+  <updated>2022-10-13T09:52:00Z</updated>
+  <content type="html">
+   An interface for diffs.
+  </content>
+ </entry>
+ <entry>
+  <title>darrenldl: tamgram</title>
+  <author>
+   <name>darrenldl</name>
+  </author>
+  <link href="https://github.com/darrenldl/tamgram" />
+  <id>urn:rprimus:github:darrenldl:tamgram</id>
+  <published>2022-10-13T01:37:07Z</published>
+  <updated>2022-10-13T01:37:07Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>ip2location: ip2location-ocaml</title>
   <author>
@@ -15,19 +184,6 @@
   <updated>2022-10-13T01:21:42Z</updated>
   <content type="html">
    IP2Location IP Geolocation OCaml module enables you to get your visitors&#039; country, region, city, latitude, longitude, ZIP code, ISP, domain name, timezone, connection speed, IDD code, area code, weather station code, weather station name, MCC, MNC, mobile brand name, elevation, usage type, address type and IAB category based on IP address.
-  </content>
- </entry>
- <entry>
-  <title>darklang: tablecloth-fsharp</title>
-  <author>
-   <name>darklang</name>
-  </author>
-  <link href="https://github.com/darklang/tablecloth-fsharp" />
-  <id>urn:rprimus:github:darklang:tablecloth-fsharp</id>
-  <published>2022-10-13T01:20:37Z</published>
-  <updated>2022-10-13T01:20:37Z</updated>
-  <content type="html">
-   F# implementation of tablecloth
   </content>
  </entry>
  <entry>
@@ -70,19 +226,6 @@
   </content>
  </entry>
  <entry>
-  <title>kkshinkai: kona-lang</title>
-  <author>
-   <name>kkshinkai</name>
-  </author>
-  <link href="https://github.com/kkshinkai/kona-lang" />
-  <id>urn:rprimus:github:kkshinkai:kona-lang</id>
-  <published>2022-10-12T10:16:38Z</published>
-  <updated>2022-10-12T10:16:38Z</updated>
-  <content type="html">
-   [WIP] A static-typed functional programming language of the ML family.
-  </content>
- </entry>
- <entry>
   <title>deepin-community: lwt</title>
   <author>
    <name>deepin-community</name>
@@ -91,175 +234,6 @@
   <id>urn:rprimus:github:deepin-community:lwt</id>
   <published>2022-10-12T05:17:30Z</published>
   <updated>2022-10-12T05:17:30Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>hesterjeng: ocaml-elo</title>
-  <author>
-   <name>hesterjeng</name>
-  </author>
-  <link href="https://github.com/hesterjeng/ocaml-elo" />
-  <id>urn:rprimus:github:hesterjeng:ocaml-elo</id>
-  <published>2022-10-11T22:46:20Z</published>
-  <updated>2022-10-11T22:46:20Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>usenix-security-23-fall-submission-372: treesync-artifact</title>
-  <author>
-   <name>usenix-security-23-fall-submission-372</name>
-  </author>
-  <link href="https://github.com/usenix-security-23-fall-submission-372/treesync-artifact" />
-  <id>urn:rprimus:github:usenix-security-23-fall-submission-372:treesync-artifact</id>
-  <published>2022-10-11T21:05:44Z</published>
-  <updated>2022-10-11T21:05:44Z</updated>
-  <content type="html">
-   Artifact for the submission 372 of USENIX Security &#039;23 Fall
-  </content>
- </entry>
- <entry>
-  <title>jamilelleite: PF-INFO4</title>
-  <author>
-   <name>jamilelleite</name>
-  </author>
-  <link href="https://github.com/jamilelleite/PF-INFO4" />
-  <id>urn:rprimus:github:jamilelleite:PF-INFO4</id>
-  <published>2022-10-11T16:54:40Z</published>
-  <updated>2022-10-11T16:54:40Z</updated>
-  <content type="html">
-   Programmation Fonctionnelle - INFO4 - Polytech Grenoble
-  </content>
- </entry>
- <entry>
-  <title>Emmettlsc: context-free-grammar-parser</title>
-  <author>
-   <name>Emmettlsc</name>
-  </author>
-  <link href="https://github.com/Emmettlsc/context-free-grammar-parser" />
-  <id>urn:rprimus:github:Emmettlsc:context-free-grammar-parser</id>
-  <published>2022-10-11T16:31:52Z</published>
-  <updated>2022-10-11T16:31:52Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>michalfica: University</title>
-  <author>
-   <name>michalfica</name>
-  </author>
-  <link href="https://github.com/michalfica/University" />
-  <id>urn:rprimus:github:michalfica:University</id>
-  <published>2022-10-11T16:21:36Z</published>
-  <updated>2022-10-11T16:21:36Z</updated>
-  <content type="html">
-   listy zadaÅ z wybranych kursÃ³w jakie robiÅem podczas studiÃ³w
-  </content>
- </entry>
- <entry>
-  <title>AlexandreKrantz: dune-example</title>
-  <author>
-   <name>AlexandreKrantz</name>
-  </author>
-  <link href="https://github.com/AlexandreKrantz/dune-example" />
-  <id>urn:rprimus:github:AlexandreKrantz:dune-example</id>
-  <published>2022-10-11T15:55:01Z</published>
-  <updated>2022-10-11T15:55:01Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>OCamlPro: benchtop</title>
-  <author>
-   <name>OCamlPro</name>
-  </author>
-  <link href="https://github.com/OCamlPro/benchtop" />
-  <id>urn:rprimus:github:OCamlPro:benchtop</id>
-  <published>2022-10-11T13:53:36Z</published>
-  <updated>2022-10-11T13:53:36Z</updated>
-  <content type="html">
-   A web interface for Benchpress
-  </content>
- </entry>
- <entry>
-  <title>erikmd: learn-ocaml-meetup-demo-repository</title>
-  <author>
-   <name>erikmd</name>
-  </author>
-  <link href="https://github.com/erikmd/learn-ocaml-meetup-demo-repository" />
-  <id>urn:rprimus:github:erikmd:learn-ocaml-meetup-demo-repository</id>
-  <published>2022-10-11T13:43:24Z</published>
-  <updated>2022-10-11T13:43:24Z</updated>
-  <content type="html">
-   Minimal working example of a learn-ocaml source repo (slides : https://www.irit.fr/~Erik.Martin-Dorel/exposes/2022-W41_learn-ocaml_meetup.pdf)
-  </content>
- </entry>
- <entry>
-  <title>deepali2806: eio</title>
-  <author>
-   <name>deepali2806</name>
-  </author>
-  <link href="https://github.com/deepali2806/eio" />
-  <id>urn:rprimus:github:deepali2806:eio</id>
-  <published>2022-10-11T09:53:06Z</published>
-  <updated>2022-10-11T09:53:06Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>MrE-Fog: krb5lib</title>
-  <author>
-   <name>MrE-Fog</name>
-  </author>
-  <link href="https://github.com/MrE-Fog/krb5lib" />
-  <id>urn:rprimus:github:MrE-Fog:krb5lib</id>
-  <published>2022-10-11T07:17:02Z</published>
-  <updated>2022-10-11T07:17:02Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>notJoon: camel_case</title>
-  <author>
-   <name>notJoon</name>
-  </author>
-  <link href="https://github.com/notJoon/camel_case" />
-  <id>urn:rprimus:github:notJoon:camel_case</id>
-  <published>2022-10-11T06:49:19Z</published>
-  <updated>2022-10-11T06:49:19Z</updated>
-  <content type="html">
-   OCaml ìë ¨  
-  </content>
- </entry>
- <entry>
-  <title>albertqi: miniml</title>
-  <author>
-   <name>albertqi</name>
-  </author>
-  <link href="https://github.com/albertqi/miniml" />
-  <id>urn:rprimus:github:albertqi:miniml</id>
-  <published>2022-10-11T00:51:31Z</published>
-  <updated>2022-10-11T00:51:31Z</updated>
-  <content type="html">
-   Final project for CS 51 @ Harvard
-  </content>
- </entry>
- <entry>
-  <title>OCADml: ppx_deriving_cad</title>
-  <author>
-   <name>OCADml</name>
-  </author>
-  <link href="https://github.com/OCADml/ppx_deriving_cad" />
-  <id>urn:rprimus:github:OCADml:ppx_deriving_cad</id>
-  <published>2022-10-11T00:01:05Z</published>
-  <updated>2022-10-11T00:01:05Z</updated>
   <content type="html">
    
   </content>
