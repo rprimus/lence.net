@@ -2,15 +2,132 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-perl.atom"/>
 <id>urn:rprimus:github:newperlrepos</id>
-<updated>2022-10-14T14:52:15Z</updated>
+<updated>2022-10-15T04:15:49Z</updated>
 <title type='text'>New GitHub Perl Repos</title>
  <entry>
-  <title>jwilk: informant</title>
+  <title>ltmbr: Data-Page-Nav</title>
+  <author>
+   <name>ltmbr</name>
+  </author>
+  <link href="https://github.com/ltmbr/Data-Page-Nav" />
+  <id>urn:rprimus:github:ltmbr:Data-Page-Nav</id>
+  <published>2022-10-15T04:15:49Z</published>
+  <updated>2022-10-15T04:15:49Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>RichardScireGrainger: JIRA-REST</title>
+  <author>
+   <name>RichardScireGrainger</name>
+  </author>
+  <link href="https://github.com/RichardScireGrainger/JIRA-REST" />
+  <id>urn:rprimus:github:RichardScireGrainger:JIRA-REST</id>
+  <published>2022-10-14T22:49:25Z</published>
+  <updated>2022-10-14T22:49:25Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>foozbat: megaboard-pl</title>
+  <author>
+   <name>foozbat</name>
+  </author>
+  <link href="https://github.com/foozbat/megaboard-pl" />
+  <id>urn:rprimus:github:foozbat:megaboard-pl</id>
+  <published>2022-10-14T20:48:42Z</published>
+  <updated>2022-10-14T20:48:42Z</updated>
+  <content type="html">
+   Configurable message board written in Perl 5 (archive)
+  </content>
+ </entry>
+ <entry>
+  <title>f-ell: Scripts</title>
+  <author>
+   <name>f-ell</name>
+  </author>
+  <link href="https://github.com/f-ell/Scripts" />
+  <id>urn:rprimus:github:f-ell:Scripts</id>
+  <published>2022-10-14T20:06:16Z</published>
+  <updated>2022-10-14T20:06:16Z</updated>
+  <content type="html">
+   Collection on (mainly) Perl and Shell scripts. This is a mirror repository.
+  </content>
+ </entry>
+ <entry>
+  <title>ildgz: concordancing</title>
+  <author>
+   <name>ildgz</name>
+  </author>
+  <link href="https://github.com/ildgz/concordancing" />
+  <id>urn:rprimus:github:ildgz:concordancing</id>
+  <published>2022-10-14T19:42:58Z</published>
+  <updated>2022-10-14T19:42:58Z</updated>
+  <content type="html">
+   Baby steps on text mining
+  </content>
+ </entry>
+ <entry>
+  <title>michal-josef-spacek: Tags-HTML-Table-View</title>
+  <author>
+   <name>michal-josef-spacek</name>
+  </author>
+  <link href="https://github.com/michal-josef-spacek/Tags-HTML-Table-View" />
+  <id>urn:rprimus:github:michal-josef-spacek:Tags-HTML-Table-View</id>
+  <published>2022-10-14T17:50:34Z</published>
+  <updated>2022-10-14T17:50:34Z</updated>
+  <content type="html">
+   Tags helper for table view.
+  </content>
+ </entry>
+ <entry>
+  <title>amvarani: Plant_Annotation_TEs</title>
+  <author>
+   <name>amvarani</name>
+  </author>
+  <link href="https://github.com/amvarani/Plant_Annotation_TEs" />
+  <id>urn:rprimus:github:amvarani:Plant_Annotation_TEs</id>
+  <published>2022-10-14T17:41:43Z</published>
+  <updated>2022-10-14T17:41:43Z</updated>
+  <content type="html">
+   Plant Genome Annotation Methods and Recipes - Transposable Elements
+  </content>
+ </entry>
+ <entry>
+  <title>keslerm: palm-mail</title>
+  <author>
+   <name>keslerm</name>
+  </author>
+  <link href="https://github.com/keslerm/palm-mail" />
+  <id>urn:rprimus:github:keslerm:palm-mail</id>
+  <published>2022-10-14T17:31:15Z</published>
+  <updated>2022-10-14T17:31:15Z</updated>
+  <content type="html">
+    A quick hack n slash bit of code to sync your IMAP email down onto your old PalmOS device
+  </content>
+ </entry>
+ <entry>
+  <title>abeltje: Perl5-CoreSmokeDB-API</title>
+  <author>
+   <name>abeltje</name>
+  </author>
+  <link href="https://github.com/abeltje/Perl5-CoreSmokeDB-API" />
+  <id>urn:rprimus:github:abeltje:Perl5-CoreSmokeDB-API</id>
+  <published>2022-10-14T16:00:15Z</published>
+  <updated>2022-10-14T16:00:15Z</updated>
+  <content type="html">
+   API service for the Perl5::CoreSmokeDB project
+  </content>
+ </entry>
+ <entry>
+  <title>jwilk: informan</title>
   <author>
    <name>jwilk</name>
   </author>
-  <link href="https://github.com/jwilk/informant" />
-  <id>urn:rprimus:github:jwilk:informant</id>
+  <link href="https://github.com/jwilk/informan" />
+  <id>urn:rprimus:github:jwilk:informan</id>
   <published>2022-10-14T14:52:15Z</published>
   <updated>2022-10-14T14:52:15Z</updated>
   <content type="html">
@@ -403,396 +520,6 @@
   <id>urn:rprimus:github:VTRJex:ircstats</id>
   <published>2022-10-13T00:33:07Z</published>
   <updated>2022-10-13T00:33:07Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>dengcao3: ngfftools</title>
-  <author>
-   <name>dengcao3</name>
-  </author>
-  <link href="https://github.com/dengcao3/ngfftools" />
-  <id>urn:rprimus:github:dengcao3:ngfftools</id>
-  <published>2022-10-12T19:40:38Z</published>
-  <updated>2022-10-12T19:40:38Z</updated>
-  <content type="html">
-   The next-generation genomic feature format and ngfftools
-  </content>
- </entry>
- <entry>
-  <title>laudemirjunior: sbin</title>
-  <author>
-   <name>laudemirjunior</name>
-  </author>
-  <link href="https://github.com/laudemirjunior/sbin" />
-  <id>urn:rprimus:github:laudemirjunior:sbin</id>
-  <published>2022-10-12T15:23:55Z</published>
-  <updated>2022-10-12T15:23:55Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>humbertocsjr: HUSIS</title>
-  <author>
-   <name>humbertocsjr</name>
-  </author>
-  <link href="https://github.com/humbertocsjr/HUSIS" />
-  <id>urn:rprimus:github:humbertocsjr:HUSIS</id>
-  <published>2022-10-12T14:01:27Z</published>
-  <updated>2022-10-12T14:01:27Z</updated>
-  <content type="html">
-   Operating System for IBM PC or Compatibles
-  </content>
- </entry>
- <entry>
-  <title>open-innovations: geography-bits-osm</title>
-  <author>
-   <name>open-innovations</name>
-  </author>
-  <link href="https://github.com/open-innovations/geography-bits-osm" />
-  <id>urn:rprimus:github:open-innovations:geography-bits-osm</id>
-  <published>2022-10-12T09:12:11Z</published>
-  <updated>2022-10-12T09:12:11Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Brophy77: Pentest-Tools-and-Links</title>
-  <author>
-   <name>Brophy77</name>
-  </author>
-  <link href="https://github.com/Brophy77/Pentest-Tools-and-Links" />
-  <id>urn:rprimus:github:Brophy77:Pentest-Tools-and-Links</id>
-  <published>2022-10-12T07:42:38Z</published>
-  <updated>2022-10-12T07:42:38Z</updated>
-  <content type="html">
-   Personal copies of various Penetration Testing Tools and Links for ease of locating.
-  </content>
- </entry>
- <entry>
-  <title>deepin-community: markdown</title>
-  <author>
-   <name>deepin-community</name>
-  </author>
-  <link href="https://github.com/deepin-community/markdown" />
-  <id>urn:rprimus:github:deepin-community:markdown</id>
-  <published>2022-10-12T05:40:40Z</published>
-  <updated>2022-10-12T05:40:40Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>deepin-community: libyaml-pp-perl</title>
-  <author>
-   <name>deepin-community</name>
-  </author>
-  <link href="https://github.com/deepin-community/libyaml-pp-perl" />
-  <id>urn:rprimus:github:deepin-community:libyaml-pp-perl</id>
-  <published>2022-10-12T03:07:32Z</published>
-  <updated>2022-10-12T03:07:32Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>deepin-community: libyaml-perl</title>
-  <author>
-   <name>deepin-community</name>
-  </author>
-  <link href="https://github.com/deepin-community/libyaml-perl" />
-  <id>urn:rprimus:github:deepin-community:libyaml-perl</id>
-  <published>2022-10-12T03:07:19Z</published>
-  <updated>2022-10-12T03:07:19Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>deepin-community: libxstring-perl</title>
-  <author>
-   <name>deepin-community</name>
-  </author>
-  <link href="https://github.com/deepin-community/libxstring-perl" />
-  <id>urn:rprimus:github:deepin-community:libxstring-perl</id>
-  <published>2022-10-12T03:06:25Z</published>
-  <updated>2022-10-12T03:06:25Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>deepin-community: libxml-xpath-perl</title>
-  <author>
-   <name>deepin-community</name>
-  </author>
-  <link href="https://github.com/deepin-community/libxml-xpath-perl" />
-  <id>urn:rprimus:github:deepin-community:libxml-xpath-perl</id>
-  <published>2022-10-12T03:04:30Z</published>
-  <updated>2022-10-12T03:04:30Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>deepin-community: libxml-sax-expat-perl</title>
-  <author>
-   <name>deepin-community</name>
-  </author>
-  <link href="https://github.com/deepin-community/libxml-sax-expat-perl" />
-  <id>urn:rprimus:github:deepin-community:libxml-sax-expat-perl</id>
-  <published>2022-10-12T03:02:36Z</published>
-  <updated>2022-10-12T03:02:36Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>deepin-community: libxml-namespacesupport-perl</title>
-  <author>
-   <name>deepin-community</name>
-  </author>
-  <link href="https://github.com/deepin-community/libxml-namespacesupport-perl" />
-  <id>urn:rprimus:github:deepin-community:libxml-namespacesupport-perl</id>
-  <published>2022-10-12T03:01:36Z</published>
-  <updated>2022-10-12T03:01:36Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>deepin-community: libxml-libxml-simple-perl</title>
-  <author>
-   <name>deepin-community</name>
-  </author>
-  <link href="https://github.com/deepin-community/libxml-libxml-simple-perl" />
-  <id>urn:rprimus:github:deepin-community:libxml-libxml-simple-perl</id>
-  <published>2022-10-12T03:01:15Z</published>
-  <updated>2022-10-12T03:01:15Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>deepin-community: libxml-handler-yawriter-perl</title>
-  <author>
-   <name>deepin-community</name>
-  </author>
-  <link href="https://github.com/deepin-community/libxml-handler-yawriter-perl" />
-  <id>urn:rprimus:github:deepin-community:libxml-handler-yawriter-perl</id>
-  <published>2022-10-12T03:00:42Z</published>
-  <updated>2022-10-12T03:00:42Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>deepin-community: libxml-filter-buffertext-perl</title>
-  <author>
-   <name>deepin-community</name>
-  </author>
-  <link href="https://github.com/deepin-community/libxml-filter-buffertext-perl" />
-  <id>urn:rprimus:github:deepin-community:libxml-filter-buffertext-perl</id>
-  <published>2022-10-12T03:00:32Z</published>
-  <updated>2022-10-12T03:00:32Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>deepin-community: libx11-protocol-perl</title>
-  <author>
-   <name>deepin-community</name>
-  </author>
-  <link href="https://github.com/deepin-community/libx11-protocol-perl" />
-  <id>urn:rprimus:github:deepin-community:libx11-protocol-perl</id>
-  <published>2022-10-12T02:57:35Z</published>
-  <updated>2022-10-12T02:57:35Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>deepin-community: libutf8-all-perl</title>
-  <author>
-   <name>deepin-community</name>
-  </author>
-  <link href="https://github.com/deepin-community/libutf8-all-perl" />
-  <id>urn:rprimus:github:deepin-community:libutf8-all-perl</id>
-  <published>2022-10-12T01:53:23Z</published>
-  <updated>2022-10-12T01:53:23Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>deepin-community: libunix-syslog-perl</title>
-  <author>
-   <name>deepin-community</name>
-  </author>
-  <link href="https://github.com/deepin-community/libunix-syslog-perl" />
-  <id>urn:rprimus:github:deepin-community:libunix-syslog-perl</id>
-  <published>2022-10-12T01:52:04Z</published>
-  <updated>2022-10-12T01:52:04Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>deepin-community: libunicode-linebreak-perl</title>
-  <author>
-   <name>deepin-community</name>
-  </author>
-  <link href="https://github.com/deepin-community/libunicode-linebreak-perl" />
-  <id>urn:rprimus:github:deepin-community:libunicode-linebreak-perl</id>
-  <published>2022-10-12T01:50:37Z</published>
-  <updated>2022-10-12T01:50:37Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>deepin-community: libtoml-parser-perl</title>
-  <author>
-   <name>deepin-community</name>
-  </author>
-  <link href="https://github.com/deepin-community/libtoml-parser-perl" />
-  <id>urn:rprimus:github:deepin-community:libtoml-parser-perl</id>
-  <published>2022-10-12T01:47:34Z</published>
-  <updated>2022-10-12T01:47:34Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>deepin-community: libtime-piece-mysql-perl</title>
-  <author>
-   <name>deepin-community</name>
-  </author>
-  <link href="https://github.com/deepin-community/libtime-piece-mysql-perl" />
-  <id>urn:rprimus:github:deepin-community:libtime-piece-mysql-perl</id>
-  <published>2022-10-12T01:46:58Z</published>
-  <updated>2022-10-12T01:46:58Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>deepin-community: libtext-unidecode-perl</title>
-  <author>
-   <name>deepin-community</name>
-  </author>
-  <link href="https://github.com/deepin-community/libtext-unidecode-perl" />
-  <id>urn:rprimus:github:deepin-community:libtext-unidecode-perl</id>
-  <published>2022-10-12T01:44:56Z</published>
-  <updated>2022-10-12T01:44:56Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>deepin-community: libtext-template-perl</title>
-  <author>
-   <name>deepin-community</name>
-  </author>
-  <link href="https://github.com/deepin-community/libtext-template-perl" />
-  <id>urn:rprimus:github:deepin-community:libtext-template-perl</id>
-  <published>2022-10-12T01:44:37Z</published>
-  <updated>2022-10-12T01:44:37Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>deepin-community: libtext-recordparser-perl</title>
-  <author>
-   <name>deepin-community</name>
-  </author>
-  <link href="https://github.com/deepin-community/libtext-recordparser-perl" />
-  <id>urn:rprimus:github:deepin-community:libtext-recordparser-perl</id>
-  <published>2022-10-12T01:43:47Z</published>
-  <updated>2022-10-12T01:43:47Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>deepin-community: libtext-hogan-perl</title>
-  <author>
-   <name>deepin-community</name>
-  </author>
-  <link href="https://github.com/deepin-community/libtext-hogan-perl" />
-  <id>urn:rprimus:github:deepin-community:libtext-hogan-perl</id>
-  <published>2022-10-12T01:43:00Z</published>
-  <updated>2022-10-12T01:43:00Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>deepin-community: libtext-format-perl</title>
-  <author>
-   <name>deepin-community</name>
-  </author>
-  <link href="https://github.com/deepin-community/libtext-format-perl" />
-  <id>urn:rprimus:github:deepin-community:libtext-format-perl</id>
-  <published>2022-10-12T01:42:38Z</published>
-  <updated>2022-10-12T01:42:38Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>deepin-community: libtest-yaml-perl</title>
-  <author>
-   <name>deepin-community</name>
-  </author>
-  <link href="https://github.com/deepin-community/libtest-yaml-perl" />
-  <id>urn:rprimus:github:deepin-community:libtest-yaml-perl</id>
-  <published>2022-10-12T01:41:27Z</published>
-  <updated>2022-10-12T01:41:27Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>deepin-community: libtest-warnings-perl</title>
-  <author>
-   <name>deepin-community</name>
-  </author>
-  <link href="https://github.com/deepin-community/libtest-warnings-perl" />
-  <id>urn:rprimus:github:deepin-community:libtest-warnings-perl</id>
-  <published>2022-10-12T01:41:00Z</published>
-  <updated>2022-10-12T01:41:00Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>deepin-community: libtest-subcalls-perl</title>
-  <author>
-   <name>deepin-community</name>
-  </author>
-  <link href="https://github.com/deepin-community/libtest-subcalls-perl" />
-  <id>urn:rprimus:github:deepin-community:libtest-subcalls-perl</id>
-  <published>2022-10-12T01:39:49Z</published>
-  <updated>2022-10-12T01:39:49Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>deepin-community: libtest-sharedfork-perl</title>
-  <author>
-   <name>deepin-community</name>
-  </author>
-  <link href="https://github.com/deepin-community/libtest-sharedfork-perl" />
-  <id>urn:rprimus:github:deepin-community:libtest-sharedfork-perl</id>
-  <published>2022-10-12T01:39:16Z</published>
-  <updated>2022-10-12T01:39:16Z</updated>
   <content type="html">
    
   </content>
