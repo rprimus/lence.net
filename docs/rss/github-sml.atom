@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-sml.atom"/>
 <id>urn:rprimus:github:newsmlrepos</id>
-<updated>2022-10-15T08:11:37Z</updated>
+<updated>2022-10-15T17:46:20Z</updated>
 <title type='text'>New GitHub Sml Repos</title>
+ <entry>
+  <title>eshan-292: Compiler-for-a-C-like-Programming-Language</title>
+  <author>
+   <name>eshan-292</name>
+  </author>
+  <link href="https://github.com/eshan-292/Compiler-for-a-C-like-Programming-Language" />
+  <id>urn:rprimus:github:eshan-292:Compiler-for-a-C-like-Programming-Language</id>
+  <published>2022-10-15T17:46:20Z</published>
+  <updated>2022-10-15T17:46:20Z</updated>
+  <content type="html">
+   Built the AST of a given program by following the language&#039;s rules for lexing, parsing, type checking, and semantics. Implemented a VMC machine for running a program using the AST, with support for scope rules and error handling
+  </content>
+ </entry>
  <entry>
   <title>ghwang-cnu: Inverse-Kinematics-of-Dexterous</title>
   <author>
@@ -41,32 +54,6 @@
   <updated>2022-10-14T11:21:57Z</updated>
   <content type="html">
    evergo-user 12 SP1A.210812.016 V13.0.5.0.SGBINXM release-keys
-  </content>
- </entry>
- <entry>
-  <title>Nicholas-Vo: sml</title>
-  <author>
-   <name>Nicholas-Vo</name>
-  </author>
-  <link href="https://github.com/Nicholas-Vo/sml" />
-  <id>urn:rprimus:github:Nicholas-Vo:sml</id>
-  <published>2022-10-13T23:30:46Z</published>
-  <updated>2022-10-13T23:30:46Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>JAM2199562: op-compile-upload-test</title>
-  <author>
-   <name>JAM2199562</name>
-  </author>
-  <link href="https://github.com/JAM2199562/op-compile-upload-test" />
-  <id>urn:rprimus:github:JAM2199562:op-compile-upload-test</id>
-  <published>2022-10-13T12:26:12Z</published>
-  <updated>2022-10-13T12:26:12Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
