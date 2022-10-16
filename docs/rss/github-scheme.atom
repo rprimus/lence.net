@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-scheme.atom"/>
 <id>urn:rprimus:github:newschemerepos</id>
-<updated>2022-10-16T01:34:32Z</updated>
+<updated>2022-10-16T04:17:36Z</updated>
 <title type='text'>New GitHub Scheme Repos</title>
+ <entry>
+  <title>colbyn: all-school-notes</title>
+  <author>
+   <name>colbyn</name>
+  </author>
+  <link href="https://github.com/colbyn/all-school-notes" />
+  <id>urn:rprimus:github:colbyn:all-school-notes</id>
+  <published>2022-10-16T04:17:36Z</published>
+  <updated>2022-10-16T04:17:36Z</updated>
+  <content type="html">
+   The dumping ground for all my notes. 
+  </content>
+ </entry>
  <entry>
   <title>SMproductive: nordic-channel</title>
   <author>
@@ -27,7 +40,7 @@
   <published>2022-10-16T01:34:17Z</published>
   <updated>2022-10-16T01:34:17Z</updated>
   <content type="html">
-   Basically I symlink folders from `~` like `.config` and `.vim` to this repo
+   Just run the included `backup-dotfiles.sh` script to make it work
   </content>
  </entry>
  <entry>
