@@ -2,8 +2,138 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2022-10-16T09:06:32Z</updated>
+<updated>2022-10-16T22:12:18Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>GnusinPavel: emacs-cfg</title>
+  <author>
+   <name>GnusinPavel</name>
+  </author>
+  <link href="https://github.com/GnusinPavel/emacs-cfg" />
+  <id>urn:rprimus:github:GnusinPavel:emacs-cfg</id>
+  <published>2022-10-16T22:12:18Z</published>
+  <updated>2022-10-16T22:12:18Z</updated>
+  <content type="html">
+   My emacs config
+  </content>
+ </entry>
+ <entry>
+  <title>abbaswasim: simple-debug</title>
+  <author>
+   <name>abbaswasim</name>
+  </author>
+  <link href="https://github.com/abbaswasim/simple-debug" />
+  <id>urn:rprimus:github:abbaswasim:simple-debug</id>
+  <published>2022-10-16T20:19:38Z</published>
+  <updated>2022-10-16T20:19:38Z</updated>
+  <content type="html">
+   Simple way to set and unset breakpoints from emacs that lldb can parse and set
+  </content>
+ </entry>
+ <entry>
+  <title>BryanRi: website</title>
+  <author>
+   <name>BryanRi</name>
+  </author>
+  <link href="https://github.com/BryanRi/website" />
+  <id>urn:rprimus:github:BryanRi:website</id>
+  <published>2022-10-16T18:19:49Z</published>
+  <updated>2022-10-16T18:19:49Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>marvhus: dot-emacs</title>
+  <author>
+   <name>marvhus</name>
+  </author>
+  <link href="https://github.com/marvhus/dot-emacs" />
+  <id>urn:rprimus:github:marvhus:dot-emacs</id>
+  <published>2022-10-16T17:08:27Z</published>
+  <updated>2022-10-16T17:08:27Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Sinthoras7: dotfiles</title>
+  <author>
+   <name>Sinthoras7</name>
+  </author>
+  <link href="https://github.com/Sinthoras7/dotfiles" />
+  <id>urn:rprimus:github:Sinthoras7:dotfiles</id>
+  <published>2022-10-16T16:25:46Z</published>
+  <updated>2022-10-16T16:25:46Z</updated>
+  <content type="html">
+   My dotfiles
+  </content>
+ </entry>
+ <entry>
+  <title>dcgentile: config</title>
+  <author>
+   <name>dcgentile</name>
+  </author>
+  <link href="https://github.com/dcgentile/config" />
+  <id>urn:rprimus:github:dcgentile:config</id>
+  <published>2022-10-16T16:15:17Z</published>
+  <updated>2022-10-16T16:15:17Z</updated>
+  <content type="html">
+   my personal config
+  </content>
+ </entry>
+ <entry>
+  <title>hsnotebook: emacs.d</title>
+  <author>
+   <name>hsnotebook</name>
+  </author>
+  <link href="https://github.com/hsnotebook/emacs.d" />
+  <id>urn:rprimus:github:hsnotebook:emacs.d</id>
+  <published>2022-10-16T15:07:58Z</published>
+  <updated>2022-10-16T15:07:58Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>welandx: auto-scroll</title>
+  <author>
+   <name>welandx</name>
+  </author>
+  <link href="https://github.com/welandx/auto-scroll" />
+  <id>urn:rprimus:github:welandx:auto-scroll</id>
+  <published>2022-10-16T14:41:18Z</published>
+  <updated>2022-10-16T14:41:18Z</updated>
+  <content type="html">
+   auto scroll in emacs
+  </content>
+ </entry>
+ <entry>
+  <title>benwoosley: .doom.d</title>
+  <author>
+   <name>benwoosley</name>
+  </author>
+  <link href="https://github.com/benwoosley/.doom.d" />
+  <id>urn:rprimus:github:benwoosley:.doom.d</id>
+  <published>2022-10-16T14:27:51Z</published>
+  <updated>2022-10-16T14:27:51Z</updated>
+  <content type="html">
+   Doom emacs configuration files
+  </content>
+ </entry>
+ <entry>
+  <title>telephonist95: t-margins.el</title>
+  <author>
+   <name>telephonist95</name>
+  </author>
+  <link href="https://github.com/telephonist95/t-margins.el" />
+  <id>urn:rprimus:github:telephonist95:t-margins.el</id>
+  <published>2022-10-16T12:02:18Z</published>
+  <updated>2022-10-16T12:02:18Z</updated>
+  <content type="html">
+   minor mode for setting margins in windows displaying current buffer
+  </content>
+ </entry>
  <entry>
   <title>ROCKTAKEY: emacs-info-jp</title>
   <author>
@@ -132,19 +262,6 @@
   <updated>2022-10-15T18:45:15Z</updated>
   <content type="html">
    Configuration files for my PCs running Fedora
-  </content>
- </entry>
- <entry>
-  <title>quinn-dougherty: configuration.nix</title>
-  <author>
-   <name>quinn-dougherty</name>
-  </author>
-  <link href="https://github.com/quinn-dougherty/configuration.nix" />
-  <id>urn:rprimus:github:quinn-dougherty:configuration.nix</id>
-  <published>2022-10-15T17:56:06Z</published>
-  <updated>2022-10-15T17:56:06Z</updated>
-  <content type="html">
-   My NixOS build
   </content>
  </entry>
  <entry>
@@ -301,214 +418,6 @@
   <updated>2022-10-15T00:35:02Z</updated>
   <content type="html">
    My Doom emacs config
-  </content>
- </entry>
- <entry>
-  <title>hnvy: hnvy.github.io</title>
-  <author>
-   <name>hnvy</name>
-  </author>
-  <link href="https://github.com/hnvy/hnvy.github.io" />
-  <id>urn:rprimus:github:hnvy:hnvy.github.io</id>
-  <published>2022-10-14T23:29:13Z</published>
-  <updated>2022-10-14T23:29:13Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>cmleinz: booberry-theme</title>
-  <author>
-   <name>cmleinz</name>
-  </author>
-  <link href="https://github.com/cmleinz/booberry-theme" />
-  <id>urn:rprimus:github:cmleinz:booberry-theme</id>
-  <published>2022-10-14T22:30:34Z</published>
-  <updated>2022-10-14T22:30:34Z</updated>
-  <content type="html">
-   Emacs theme emulating the Booberry theme from Helix
-  </content>
- </entry>
- <entry>
-  <title>alejandrogallo: ob-p5js</title>
-  <author>
-   <name>alejandrogallo</name>
-  </author>
-  <link href="https://github.com/alejandrogallo/ob-p5js" />
-  <id>urn:rprimus:github:alejandrogallo:ob-p5js</id>
-  <published>2022-10-14T21:06:02Z</published>
-  <updated>2022-10-14T21:06:02Z</updated>
-  <content type="html">
-   An org-babel plugin for p5js
-  </content>
- </entry>
- <entry>
-  <title>Logravia: doom-config</title>
-  <author>
-   <name>Logravia</name>
-  </author>
-  <link href="https://github.com/Logravia/doom-config" />
-  <id>urn:rprimus:github:Logravia:doom-config</id>
-  <published>2022-10-14T20:56:35Z</published>
-  <updated>2022-10-14T20:56:35Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>NewHorizons01: emacs.d</title>
-  <author>
-   <name>NewHorizons01</name>
-  </author>
-  <link href="https://github.com/NewHorizons01/emacs.d" />
-  <id>urn:rprimus:github:NewHorizons01:emacs.d</id>
-  <published>2022-10-14T20:20:29Z</published>
-  <updated>2022-10-14T20:20:29Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Juggeli: doom-emacs-private</title>
-  <author>
-   <name>Juggeli</name>
-  </author>
-  <link href="https://github.com/Juggeli/doom-emacs-private" />
-  <id>urn:rprimus:github:Juggeli:doom-emacs-private</id>
-  <published>2022-10-14T16:41:56Z</published>
-  <updated>2022-10-14T16:41:56Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>nicklanasa: dotfiles</title>
-  <author>
-   <name>nicklanasa</name>
-  </author>
-  <link href="https://github.com/nicklanasa/dotfiles" />
-  <id>urn:rprimus:github:nicklanasa:dotfiles</id>
-  <published>2022-10-14T14:30:58Z</published>
-  <updated>2022-10-14T14:30:58Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>cfclrk: envars</title>
-  <author>
-   <name>cfclrk</name>
-  </author>
-  <link href="https://github.com/cfclrk/envars" />
-  <id>urn:rprimus:github:cfclrk:envars</id>
-  <published>2022-10-14T13:37:48Z</published>
-  <updated>2022-10-14T13:37:48Z</updated>
-  <content type="html">
-   Utilities for setting and unsetting environment variables in Emacs
-  </content>
- </entry>
- <entry>
-  <title>WingDust: pegasus</title>
-  <author>
-   <name>WingDust</name>
-  </author>
-  <link href="https://github.com/WingDust/pegasus" />
-  <id>urn:rprimus:github:WingDust:pegasus</id>
-  <published>2022-10-14T13:15:28Z</published>
-  <updated>2022-10-14T13:15:28Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jdbaldry: river-mode</title>
-  <author>
-   <name>jdbaldry</name>
-  </author>
-  <link href="https://github.com/jdbaldry/river-mode" />
-  <id>urn:rprimus:github:jdbaldry:river-mode</id>
-  <published>2022-10-14T11:26:14Z</published>
-  <updated>2022-10-14T11:26:14Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>hellwolf: .emacs.d</title>
-  <author>
-   <name>hellwolf</name>
-  </author>
-  <link href="https://github.com/hellwolf/.emacs.d" />
-  <id>urn:rprimus:github:hellwolf:.emacs.d</id>
-  <published>2022-10-14T10:47:32Z</published>
-  <updated>2022-10-14T10:47:32Z</updated>
-  <content type="html">
-     Hellwolf&#039;s dot emacs configuration 
-  </content>
- </entry>
- <entry>
-  <title>KarimAziev: colorcomp</title>
-  <author>
-   <name>KarimAziev</name>
-  </author>
-  <link href="https://github.com/KarimAziev/colorcomp" />
-  <id>urn:rprimus:github:KarimAziev:colorcomp</id>
-  <published>2022-10-14T10:09:20Z</published>
-  <updated>2022-10-14T10:09:20Z</updated>
-  <content type="html">
-   Example using functions of the ewoc package to implement a color components display.
-  </content>
- </entry>
- <entry>
-  <title>artuaa: doom</title>
-  <author>
-   <name>artuaa</name>
-  </author>
-  <link href="https://github.com/artuaa/doom" />
-  <id>urn:rprimus:github:artuaa:doom</id>
-  <published>2022-10-14T08:07:24Z</published>
-  <updated>2022-10-14T08:07:24Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>alugocp: emacs.d</title>
-  <author>
-   <name>alugocp</name>
-  </author>
-  <link href="https://github.com/alugocp/emacs.d" />
-  <id>urn:rprimus:github:alugocp:emacs.d</id>
-  <published>2022-10-14T02:34:02Z</published>
-  <updated>2022-10-14T02:34:02Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>bryandmc: elisp-fun</title>
-  <author>
-   <name>bryandmc</name>
-  </author>
-  <link href="https://github.com/bryandmc/elisp-fun" />
-  <id>urn:rprimus:github:bryandmc:elisp-fun</id>
-  <published>2022-10-14T00:48:15Z</published>
-  <updated>2022-10-14T00:48:15Z</updated>
-  <content type="html">
-   Functions and tools loaded and used by my personal emacs setup
-  </content>
- </entry>
- <entry>
-  <title>diegovdc: doom-config</title>
-  <author>
-   <name>diegovdc</name>
-  </author>
-  <link href="https://github.com/diegovdc/doom-config" />
-  <id>urn:rprimus:github:diegovdc:doom-config</id>
-  <published>2022-10-14T00:29:41Z</published>
-  <updated>2022-10-14T00:29:41Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
