@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-sml.atom"/>
 <id>urn:rprimus:github:newsmlrepos</id>
-<updated>2022-10-17T06:31:16Z</updated>
+<updated>2022-10-18T06:14:38Z</updated>
 <title type='text'>New GitHub Sml Repos</title>
+ <entry>
+  <title>azdavis: sml-libs</title>
+  <author>
+   <name>azdavis</name>
+  </author>
+  <link href="https://github.com/azdavis/sml-libs" />
+  <id>urn:rprimus:github:azdavis:sml-libs</id>
+  <published>2022-10-18T06:14:38Z</published>
+  <updated>2022-10-18T06:14:38Z</updated>
+  <content type="html">
+   Signatures for SML libraries
+  </content>
+ </entry>
+ <entry>
+  <title>ROM-Dump: redmi_olivewood_dump</title>
+  <author>
+   <name>ROM-Dump</name>
+  </author>
+  <link href="https://github.com/ROM-Dump/redmi_olivewood_dump" />
+  <id>urn:rprimus:github:ROM-Dump:redmi_olivewood_dump</id>
+  <published>2022-10-17T09:58:09Z</published>
+  <updated>2022-10-17T09:58:09Z</updated>
+  <content type="html">
+   olivewood-user 10 QKQ1.191014.001 V12.5.4.0.QCQIDXM release-keys
+  </content>
+ </entry>
+ <entry>
+  <title>ROM-Dump: xiaomi_olive_dump</title>
+  <author>
+   <name>ROM-Dump</name>
+  </author>
+  <link href="https://github.com/ROM-Dump/xiaomi_olive_dump" />
+  <id>urn:rprimus:github:ROM-Dump:xiaomi_olive_dump</id>
+  <published>2022-10-17T09:41:34Z</published>
+  <updated>2022-10-17T09:41:34Z</updated>
+  <content type="html">
+   olive-user 10 QKQ1.191014.001 V12.5.3.0.QCNIDXM release-keys
+  </content>
+ </entry>
  <entry>
   <title>Wongkeren: repoku</title>
   <author>
@@ -15,45 +54,6 @@
   <updated>2022-10-17T06:31:16Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>eshan-292: Compiler-for-a-C-like-Programming-Language</title>
-  <author>
-   <name>eshan-292</name>
-  </author>
-  <link href="https://github.com/eshan-292/Compiler-for-a-C-like-Programming-Language" />
-  <id>urn:rprimus:github:eshan-292:Compiler-for-a-C-like-Programming-Language</id>
-  <published>2022-10-15T17:46:20Z</published>
-  <updated>2022-10-15T17:46:20Z</updated>
-  <content type="html">
-   Built the AST of a given program by following the language&#039;s rules for lexing, parsing, type checking, and semantics. Implemented a VMC machine for running a program using the AST, with support for scope rules and error handling
-  </content>
- </entry>
- <entry>
-  <title>ghwang-cnu: Inverse-Kinematics-of-Dexterous</title>
-  <author>
-   <name>ghwang-cnu</name>
-  </author>
-  <link href="https://github.com/ghwang-cnu/Inverse-Kinematics-of-Dexterous" />
-  <id>urn:rprimus:github:ghwang-cnu:Inverse-Kinematics-of-Dexterous</id>
-  <published>2022-10-15T08:11:37Z</published>
-  <updated>2022-10-15T08:11:37Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>magnetty: openwrt-21.02.4</title>
-  <author>
-   <name>magnetty</name>
-  </author>
-  <link href="https://github.com/magnetty/openwrt-21.02.4" />
-  <id>urn:rprimus:github:magnetty:openwrt-21.02.4</id>
-  <published>2022-10-15T06:11:37Z</published>
-  <updated>2022-10-15T06:11:37Z</updated>
-  <content type="html">
-   ð¦ Package repo for OpenWrt 21.02.4
   </content>
  </entry>
 </feed>
