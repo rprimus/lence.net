@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-10-19T08:32:46Z</updated>
+<updated>2022-10-20T01:44:38Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>bkane2: gpt3-shell</title>
+  <author>
+   <name>bkane2</name>
+  </author>
+  <link href="https://github.com/bkane2/gpt3-shell" />
+  <id>urn:rprimus:github:bkane2:gpt3-shell</id>
+  <published>2022-10-20T01:44:38Z</published>
+  <updated>2022-10-20T01:44:38Z</updated>
+  <content type="html">
+   A simple Lisp shell for generating text from GPT-3
+  </content>
+ </entry>
+ <entry>
+  <title>Jason94: cl-effects</title>
+  <author>
+   <name>Jason94</name>
+  </author>
+  <link href="https://github.com/Jason94/cl-effects" />
+  <id>urn:rprimus:github:Jason94:cl-effects</id>
+  <published>2022-10-19T23:48:22Z</published>
+  <updated>2022-10-19T23:48:22Z</updated>
+  <content type="html">
+   Partial implementation of algebraic effects using Common Lisp signals and restarts
+  </content>
+ </entry>
+ <entry>
+  <title>stalecu: Lidaro</title>
+  <author>
+   <name>stalecu</name>
+  </author>
+  <link href="https://github.com/stalecu/Lidaro" />
+  <id>urn:rprimus:github:stalecu:Lidaro</id>
+  <published>2022-10-19T22:33:10Z</published>
+  <updated>2022-10-19T22:33:10Z</updated>
+  <content type="html">
+   A programming language made for Romanian high-schools and universities
+  </content>
+ </entry>
  <entry>
   <title>Richard-Szabo: Autocad</title>
   <author>
@@ -195,97 +234,6 @@
   <id>urn:rprimus:github:hermanodecastro:learning-lisp</id>
   <published>2022-10-18T00:14:21Z</published>
   <updated>2022-10-18T00:14:21Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>awolven: krma</title>
-  <author>
-   <name>awolven</name>
-  </author>
-  <link href="https://github.com/awolven/krma" />
-  <id>urn:rprimus:github:awolven:krma</id>
-  <published>2022-10-17T22:58:01Z</published>
-  <updated>2022-10-17T22:58:01Z</updated>
-  <content type="html">
-   A 2d and 3d graphics toolkit aiming to be efficient and cross platform
-  </content>
- </entry>
- <entry>
-  <title>skyizwhite: funcallable</title>
-  <author>
-   <name>skyizwhite</name>
-  </author>
-  <link href="https://github.com/skyizwhite/funcallable" />
-  <id>urn:rprimus:github:skyizwhite:funcallable</id>
-  <published>2022-10-17T19:44:18Z</published>
-  <updated>2022-10-17T19:44:18Z</updated>
-  <content type="html">
-   Common Lisp utility for defining funcallable objects
-  </content>
- </entry>
- <entry>
-  <title>atlas618: vapor-retarder</title>
-  <author>
-   <name>atlas618</name>
-  </author>
-  <link href="https://github.com/atlas618/vapor-retarder" />
-  <id>urn:rprimus:github:atlas618:vapor-retarder</id>
-  <published>2022-10-17T18:23:38Z</published>
-  <updated>2022-10-17T18:23:38Z</updated>
-  <content type="html">
-   Lisp to create a vapor retarder from a polyline.
-  </content>
- </entry>
- <entry>
-  <title>LiamHowley: stw-svg-parse</title>
-  <author>
-   <name>LiamHowley</name>
-  </author>
-  <link href="https://github.com/LiamHowley/stw-svg-parse" />
-  <id>urn:rprimus:github:LiamHowley:stw-svg-parse</id>
-  <published>2022-10-17T13:12:09Z</published>
-  <updated>2022-10-17T13:12:09Z</updated>
-  <content type="html">
-   An SVG to DOM style parser; parsing elements and attributes into CLOS objects. 
-  </content>
- </entry>
- <entry>
-  <title>Henry00572: Joy</title>
-  <author>
-   <name>Henry00572</name>
-  </author>
-  <link href="https://github.com/Henry00572/Joy" />
-  <id>urn:rprimus:github:Henry00572:Joy</id>
-  <published>2022-10-17T12:18:25Z</published>
-  <updated>2022-10-17T12:18:25Z</updated>
-  <content type="html">
-   My own attempt at an interpreter that converts Joy code to Lisp
-  </content>
- </entry>
- <entry>
-  <title>aminaDziriexpertise: -MAPFactory-3D-to-2D</title>
-  <author>
-   <name>aminaDziriexpertise</name>
-  </author>
-  <link href="https://github.com/aminaDziriexpertise/-MAPFactory-3D-to-2D" />
-  <id>urn:rprimus:github:aminaDziriexpertise:-MAPFactory-3D-to-2D</id>
-  <published>2022-10-17T09:28:14Z</published>
-  <updated>2022-10-17T09:28:14Z</updated>
-  <content type="html">
-   Mise Ã  zÃ©ro des plans 3D
-  </content>
- </entry>
- <entry>
-  <title>rokasgarmasukis: Land-of-lisp</title>
-  <author>
-   <name>rokasgarmasukis</name>
-  </author>
-  <link href="https://github.com/rokasgarmasukis/Land-of-lisp" />
-  <id>urn:rprimus:github:rokasgarmasukis:Land-of-lisp</id>
-  <published>2022-10-17T02:59:12Z</published>
-  <updated>2022-10-17T02:59:12Z</updated>
   <content type="html">
    
   </content>
