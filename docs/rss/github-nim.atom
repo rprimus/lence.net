@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2022-10-20T02:44:18Z</updated>
+<updated>2022-10-21T01:33:18Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>nomissbowling: nim_zbar</title>
+  <author>
+   <name>nomissbowling</name>
+  </author>
+  <link href="https://github.com/nomissbowling/nim_zbar" />
+  <id>urn:rprimus:github:nomissbowling:nim_zbar</id>
+  <published>2022-10-21T01:33:18Z</published>
+  <updated>2022-10-21T01:33:18Z</updated>
+  <content type="html">
+   Nim QR code generator scanner lib zbar
+  </content>
+ </entry>
+ <entry>
+  <title>kuri65536: gtk3samples_nim</title>
+  <author>
+   <name>kuri65536</name>
+  </author>
+  <link href="https://github.com/kuri65536/gtk3samples_nim" />
+  <id>urn:rprimus:github:kuri65536:gtk3samples_nim</id>
+  <published>2022-10-20T23:41:59Z</published>
+  <updated>2022-10-20T23:41:59Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>python357-1: ciphergame</title>
   <author>
@@ -41,32 +67,6 @@
   <updated>2022-10-19T17:12:26Z</updated>
   <content type="html">
    the minimal HTTP server (but not really) that runs Kreato Linux&#039;s binary repository
-  </content>
- </entry>
- <entry>
-  <title>zimawhit3: Bitmancer</title>
-  <author>
-   <name>zimawhit3</name>
-  </author>
-  <link href="https://github.com/zimawhit3/Bitmancer" />
-  <id>urn:rprimus:github:zimawhit3:Bitmancer</id>
-  <published>2022-10-18T15:47:38Z</published>
-  <updated>2022-10-18T15:47:38Z</updated>
-  <content type="html">
-   Nim Library for Offensive Security Development
-  </content>
- </entry>
- <entry>
-  <title>enthus1ast: nimNats</title>
-  <author>
-   <name>enthus1ast</name>
-  </author>
-  <link href="https://github.com/enthus1ast/nimNats" />
-  <id>urn:rprimus:github:enthus1ast:nimNats</id>
-  <published>2022-10-18T12:59:56Z</published>
-  <updated>2022-10-18T12:59:56Z</updated>
-  <content type="html">
-   A https://nats.io/ client in pure Nim.
   </content>
  </entry>
 </feed>
