@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-10-23T05:45:00Z</updated>
+<updated>2022-10-23T14:30:20Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>X01XX: Print-Regions</title>
+  <author>
+   <name>X01XX</name>
+  </author>
+  <link href="https://github.com/X01XX/Print-Regions" />
+  <id>urn:rprimus:github:X01XX:Print-Regions</id>
+  <published>2022-10-23T14:30:20Z</published>
+  <updated>2022-10-23T14:30:20Z</updated>
+  <content type="html">
+   Print all the possible regions of a K-Map.  Just for fun.
+  </content>
+ </entry>
+ <entry>
+  <title>klungo-wq: StumpWM-Configurations</title>
+  <author>
+   <name>klungo-wq</name>
+  </author>
+  <link href="https://github.com/klungo-wq/StumpWM-Configurations" />
+  <id>urn:rprimus:github:klungo-wq:StumpWM-Configurations</id>
+  <published>2022-10-23T14:24:29Z</published>
+  <updated>2022-10-23T14:24:29Z</updated>
+  <content type="html">
+   Personal Configurations for the Stump Window Manager (WIP)
+  </content>
+ </entry>
  <entry>
   <title>jvdydev: cl-lxc</title>
   <author>
@@ -54,84 +80,6 @@
   <updated>2022-10-22T00:12:34Z</updated>
   <content type="html">
    An MATHML to DOM style parser; parsing elements and attributes into CLOS objects. 
-  </content>
- </entry>
- <entry>
-  <title>jeffshrager: raymond</title>
-  <author>
-   <name>jeffshrager</name>
-  </author>
-  <link href="https://github.com/jeffshrager/raymond" />
-  <id>urn:rprimus:github:jeffshrager:raymond</id>
-  <published>2022-10-21T20:37:15Z</published>
-  <updated>2022-10-21T20:37:15Z</updated>
-  <content type="html">
-   Knights and Knaves
-  </content>
- </entry>
- <entry>
-  <title>tJuette: Cpp-Class-Writer</title>
-  <author>
-   <name>tJuette</name>
-  </author>
-  <link href="https://github.com/tJuette/Cpp-Class-Writer" />
-  <id>urn:rprimus:github:tJuette:Cpp-Class-Writer</id>
-  <published>2022-10-21T16:18:40Z</published>
-  <updated>2022-10-21T16:18:40Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>skyefreeman: cl-project-skeletons</title>
-  <author>
-   <name>skyefreeman</name>
-  </author>
-  <link href="https://github.com/skyefreeman/cl-project-skeletons" />
-  <id>urn:rprimus:github:skyefreeman:cl-project-skeletons</id>
-  <published>2022-10-21T15:17:45Z</published>
-  <updated>2022-10-21T15:17:45Z</updated>
-  <content type="html">
-   Collection of project templates for use with cl-project
-  </content>
- </entry>
- <entry>
-  <title>fonol: parrot</title>
-  <author>
-   <name>fonol</name>
-  </author>
-  <link href="https://github.com/fonol/parrot" />
-  <id>urn:rprimus:github:fonol:parrot</id>
-  <published>2022-10-21T13:53:35Z</published>
-  <updated>2022-10-21T13:53:35Z</updated>
-  <content type="html">
-   A cross-platform Common Lisp editor
-  </content>
- </entry>
- <entry>
-  <title>skyizwhite: snn</title>
-  <author>
-   <name>skyizwhite</name>
-  </author>
-  <link href="https://github.com/skyizwhite/snn" />
-  <id>urn:rprimus:github:skyizwhite:snn</id>
-  <published>2022-10-21T04:49:55Z</published>
-  <updated>2022-10-21T04:49:55Z</updated>
-  <content type="html">
-   Simulations of spiking neural network
-  </content>
- </entry>
- <entry>
-  <title>andy2mrqz: siclp</title>
-  <author>
-   <name>andy2mrqz</name>
-  </author>
-  <link href="https://github.com/andy2mrqz/siclp" />
-  <id>urn:rprimus:github:andy2mrqz:siclp</id>
-  <published>2022-10-21T02:08:35Z</published>
-  <updated>2022-10-21T02:08:35Z</updated>
-  <content type="html">
-   Solutions to SICP in Common Lisp
   </content>
  </entry>
 </feed>

@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2022-10-23T03:02:05Z</updated>
+<updated>2022-10-24T01:17:35Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>AlexandrosKap: plegma</title>
+  <author>
+   <name>AlexandrosKap</name>
+  </author>
+  <link href="https://github.com/AlexandrosKap/plegma" />
+  <id>urn:rprimus:github:AlexandrosKap:plegma</id>
+  <published>2022-10-24T01:17:35Z</published>
+  <updated>2022-10-24T01:17:35Z</updated>
+  <content type="html">
+   A 2D grid data structure for Nim.
+  </content>
+ </entry>
+ <entry>
+  <title>olmeca: kvc</title>
+  <author>
+   <name>olmeca</name>
+  </author>
+  <link href="https://github.com/olmeca/kvc" />
+  <id>urn:rprimus:github:olmeca:kvc</id>
+  <published>2022-10-23T14:02:31Z</published>
+  <updated>2022-10-23T14:02:31Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>marvhus: pfp_gen</title>
+  <author>
+   <name>marvhus</name>
+  </author>
+  <link href="https://github.com/marvhus/pfp_gen" />
+  <id>urn:rprimus:github:marvhus:pfp_gen</id>
+  <published>2022-10-23T11:49:13Z</published>
+  <updated>2022-10-23T11:49:13Z</updated>
+  <content type="html">
+   Program written in nim to generate a pfp and banner using math
+  </content>
+ </entry>
  <entry>
   <title>B-Zz: GoPracticeGin</title>
   <author>
@@ -93,45 +132,6 @@
   <updated>2022-10-22T02:16:31Z</updated>
   <content type="html">
    standard library
-  </content>
- </entry>
- <entry>
-  <title>kreatolinux: jumpstart</title>
-  <author>
-   <name>kreatolinux</name>
-  </author>
-  <link href="https://github.com/kreatolinux/jumpstart" />
-  <id>urn:rprimus:github:kreatolinux:jumpstart</id>
-  <published>2022-10-21T12:05:46Z</published>
-  <updated>2022-10-21T12:05:46Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>sls1005: nim-casting</title>
-  <author>
-   <name>sls1005</name>
-  </author>
-  <link href="https://github.com/sls1005/nim-casting" />
-  <id>urn:rprimus:github:sls1005:nim-casting</id>
-  <published>2022-10-21T09:47:43Z</published>
-  <updated>2022-10-21T09:47:43Z</updated>
-  <content type="html">
-   A wrapper of the C++ cast operators
-  </content>
- </entry>
- <entry>
-  <title>nomissbowling: nim_zbar</title>
-  <author>
-   <name>nomissbowling</name>
-  </author>
-  <link href="https://github.com/nomissbowling/nim_zbar" />
-  <id>urn:rprimus:github:nomissbowling:nim_zbar</id>
-  <published>2022-10-21T01:33:18Z</published>
-  <updated>2022-10-21T01:33:18Z</updated>
-  <content type="html">
-   Nim QR code generator scanner lib zbar
   </content>
  </entry>
 </feed>
