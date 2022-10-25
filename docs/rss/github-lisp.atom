@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-10-23T14:30:20Z</updated>
+<updated>2022-10-24T16:55:32Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>LiamHowley: stw-templates</title>
+  <author>
+   <name>LiamHowley</name>
+  </author>
+  <link href="https://github.com/LiamHowley/stw-templates" />
+  <id>urn:rprimus:github:LiamHowley:stw-templates</id>
+  <published>2022-10-24T16:55:32Z</published>
+  <updated>2022-10-24T16:55:32Z</updated>
+  <content type="html">
+   Bind string templates and CLOS objects within defined contexts.
+  </content>
+ </entry>
+ <entry>
+  <title>ntrocado: music-spelling</title>
+  <author>
+   <name>ntrocado</name>
+  </author>
+  <link href="https://github.com/ntrocado/music-spelling" />
+  <id>urn:rprimus:github:ntrocado:music-spelling</id>
+  <published>2022-10-24T13:15:37Z</published>
+  <updated>2022-10-24T13:15:37Z</updated>
+  <content type="html">
+   Implements an algorithm for the spelling of enharmonics and dealing with ties and dots in rhythm notation.
+  </content>
+ </entry>
+ <entry>
+  <title>0xBECEDA: automatisation</title>
+  <author>
+   <name>0xBECEDA</name>
+  </author>
+  <link href="https://github.com/0xBECEDA/automatisation" />
+  <id>urn:rprimus:github:0xBECEDA:automatisation</id>
+  <published>2022-10-24T11:57:49Z</published>
+  <updated>2022-10-24T11:57:49Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>agentlans: sbind</title>
+  <author>
+   <name>agentlans</name>
+  </author>
+  <link href="https://github.com/agentlans/sbind" />
+  <id>urn:rprimus:github:agentlans:sbind</id>
+  <published>2022-10-24T11:31:48Z</published>
+  <updated>2022-10-24T11:31:48Z</updated>
+  <content type="html">
+   A more sophisticated version of DESTRUCTURING-BIND
+  </content>
+ </entry>
  <entry>
   <title>X01XX: Print-Regions</title>
   <author>
@@ -28,58 +80,6 @@
   <updated>2022-10-23T14:24:29Z</updated>
   <content type="html">
    Personal Configurations for the Stump Window Manager (WIP)
-  </content>
- </entry>
- <entry>
-  <title>jvdydev: cl-lxc</title>
-  <author>
-   <name>jvdydev</name>
-  </author>
-  <link href="https://github.com/jvdydev/cl-lxc" />
-  <id>urn:rprimus:github:jvdydev:cl-lxc</id>
-  <published>2022-10-23T05:45:00Z</published>
-  <updated>2022-10-23T05:45:00Z</updated>
-  <content type="html">
-   Unofficial Common Lisp CFFI bindings for liblxc
-  </content>
- </entry>
- <entry>
-  <title>larsen: advent2022</title>
-  <author>
-   <name>larsen</name>
-  </author>
-  <link href="https://github.com/larsen/advent2022" />
-  <id>urn:rprimus:github:larsen:advent2022</id>
-  <published>2022-10-22T13:36:56Z</published>
-  <updated>2022-10-22T13:36:56Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>mxvish: lispExamples</title>
-  <author>
-   <name>mxvish</name>
-  </author>
-  <link href="https://github.com/mxvish/lispExamples" />
-  <id>urn:rprimus:github:mxvish:lispExamples</id>
-  <published>2022-10-22T05:06:20Z</published>
-  <updated>2022-10-22T05:06:20Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>LiamHowley: stw-mathml-parse</title>
-  <author>
-   <name>LiamHowley</name>
-  </author>
-  <link href="https://github.com/LiamHowley/stw-mathml-parse" />
-  <id>urn:rprimus:github:LiamHowley:stw-mathml-parse</id>
-  <published>2022-10-22T00:12:34Z</published>
-  <updated>2022-10-22T00:12:34Z</updated>
-  <content type="html">
-   An MATHML to DOM style parser; parsing elements and attributes into CLOS objects. 
   </content>
  </entry>
 </feed>

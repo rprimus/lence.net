@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-scheme.atom"/>
 <id>urn:rprimus:github:newschemerepos</id>
-<updated>2022-10-23T19:02:47Z</updated>
+<updated>2022-10-24T15:18:57Z</updated>
 <title type='text'>New GitHub Scheme Repos</title>
+ <entry>
+  <title>notflask: nvim-treesitter</title>
+  <author>
+   <name>notflask</name>
+  </author>
+  <link href="https://github.com/notflask/nvim-treesitter" />
+  <id>urn:rprimus:github:notflask:nvim-treesitter</id>
+  <published>2022-10-24T15:18:57Z</published>
+  <updated>2022-10-24T15:18:57Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>tacoda: scm-init</title>
+  <author>
+   <name>tacoda</name>
+  </author>
+  <link href="https://github.com/tacoda/scm-init" />
+  <id>urn:rprimus:github:tacoda:scm-init</id>
+  <published>2022-10-24T13:20:16Z</published>
+  <updated>2022-10-24T13:20:16Z</updated>
+  <content type="html">
+   A scheme project builder
+  </content>
+ </entry>
  <entry>
   <title>ItzSelenux: cereus-mate-dotfiles</title>
   <author>
@@ -41,19 +67,6 @@
   <updated>2022-10-23T00:03:46Z</updated>
   <content type="html">
    structure and interpretation of computer programs
-  </content>
- </entry>
- <entry>
-  <title>Yunoinsky: chez-xml</title>
-  <author>
-   <name>Yunoinsky</name>
-  </author>
-  <link href="https://github.com/Yunoinsky/chez-xml" />
-  <id>urn:rprimus:github:Yunoinsky:chez-xml</id>
-  <published>2022-10-22T02:58:49Z</published>
-  <updated>2022-10-22T02:58:49Z</updated>
-  <content type="html">
-   A lite xml parser in Chez Scheme
   </content>
  </entry>
 </feed>
