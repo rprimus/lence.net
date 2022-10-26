@@ -2,8 +2,125 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-10-25T08:33:19Z</updated>
+<updated>2022-10-25T23:01:20Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>Gleefre: lispiano</title>
+  <author>
+   <name>Gleefre</name>
+  </author>
+  <link href="https://github.com/Gleefre/lispiano" />
+  <id>urn:rprimus:github:Gleefre:lispiano</id>
+  <published>2022-10-25T23:01:20Z</published>
+  <updated>2022-10-25T23:01:20Z</updated>
+  <content type="html">
+   Piano for you keyboard written in CL
+  </content>
+ </entry>
+ <entry>
+  <title>ntrocado: cl-lilypond</title>
+  <author>
+   <name>ntrocado</name>
+  </author>
+  <link href="https://github.com/ntrocado/cl-lilypond" />
+  <id>urn:rprimus:github:ntrocado:cl-lilypond</id>
+  <published>2022-10-25T21:59:03Z</published>
+  <updated>2022-10-25T21:59:03Z</updated>
+  <content type="html">
+   Common Lisp library to produce and run LilyPond code
+  </content>
+ </entry>
+ <entry>
+  <title>EthanPoe323: Stack.lisp</title>
+  <author>
+   <name>EthanPoe323</name>
+  </author>
+  <link href="https://github.com/EthanPoe323/Stack.lisp" />
+  <id>urn:rprimus:github:EthanPoe323:Stack.lisp</id>
+  <published>2022-10-25T19:24:10Z</published>
+  <updated>2022-10-25T19:24:10Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Shinmera: action-list</title>
+  <author>
+   <name>Shinmera</name>
+  </author>
+  <link href="https://github.com/Shinmera/action-list" />
+  <id>urn:rprimus:github:Shinmera:action-list</id>
+  <published>2022-10-25T18:47:53Z</published>
+  <updated>2022-10-25T18:47:53Z</updated>
+  <content type="html">
+   An implementation of the action list data structure
+  </content>
+ </entry>
+ <entry>
+  <title>kat0liml: clatwork</title>
+  <author>
+   <name>kat0liml</name>
+  </author>
+  <link href="https://github.com/kat0liml/clatwork" />
+  <id>urn:rprimus:github:kat0liml:clatwork</id>
+  <published>2022-10-25T16:48:04Z</published>
+  <updated>2022-10-25T16:48:04Z</updated>
+  <content type="html">
+   clatwork
+  </content>
+ </entry>
+ <entry>
+  <title>agentlans: ref</title>
+  <author>
+   <name>agentlans</name>
+  </author>
+  <link href="https://github.com/agentlans/ref" />
+  <id>urn:rprimus:github:agentlans:ref</id>
+  <published>2022-10-25T14:09:34Z</published>
+  <updated>2022-10-25T14:09:34Z</updated>
+  <content type="html">
+   Easily access arrays, lists, hash tables, and objects
+  </content>
+ </entry>
+ <entry>
+  <title>CirrusClouds: Minmod</title>
+  <author>
+   <name>CirrusClouds</name>
+  </author>
+  <link href="https://github.com/CirrusClouds/Minmod" />
+  <id>urn:rprimus:github:CirrusClouds:Minmod</id>
+  <published>2022-10-25T13:57:44Z</published>
+  <updated>2022-10-25T13:57:44Z</updated>
+  <content type="html">
+   A Symbolic Theorem Prover
+  </content>
+ </entry>
+ <entry>
+  <title>mizuruRL: IA-lisp</title>
+  <author>
+   <name>mizuruRL</name>
+  </author>
+  <link href="https://github.com/mizuruRL/IA-lisp" />
+  <id>urn:rprimus:github:mizuruRL:IA-lisp</id>
+  <published>2022-10-25T13:31:04Z</published>
+  <updated>2022-10-25T13:31:04Z</updated>
+  <content type="html">
+   General repo for AI classes. Includes LAB exercises and projects.
+  </content>
+ </entry>
+ <entry>
+  <title>nakib: N-phonon-interaction</title>
+  <author>
+   <name>nakib</name>
+  </author>
+  <link href="https://github.com/nakib/N-phonon-interaction" />
+  <id>urn:rprimus:github:nakib:N-phonon-interaction</id>
+  <published>2022-10-25T11:03:29Z</published>
+  <updated>2022-10-25T11:03:29Z</updated>
+  <content type="html">
+   A calculator for the phase space of N interacting phonons.
+  </content>
+ </entry>
  <entry>
   <title>robert-strandh: Clonedijk</title>
   <author>
@@ -15,19 +132,6 @@
   <updated>2022-10-25T08:33:19Z</updated>
   <content type="html">
    Simple library for cloning instances of standard classes according to client descriptions
-  </content>
- </entry>
- <entry>
-  <title>lblod: app-ldes-endpoint</title>
-  <author>
-   <name>lblod</name>
-  </author>
-  <link href="https://github.com/lblod/app-ldes-endpoint" />
-  <id>urn:rprimus:github:lblod:app-ldes-endpoint</id>
-  <published>2022-10-25T07:39:26Z</published>
-  <updated>2022-10-25T07:39:26Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
  <entry>
@@ -93,32 +197,6 @@
   <updated>2022-10-24T11:31:48Z</updated>
   <content type="html">
    A more sophisticated version of DESTRUCTURING-BIND
-  </content>
- </entry>
- <entry>
-  <title>X01XX: Print-Regions</title>
-  <author>
-   <name>X01XX</name>
-  </author>
-  <link href="https://github.com/X01XX/Print-Regions" />
-  <id>urn:rprimus:github:X01XX:Print-Regions</id>
-  <published>2022-10-23T14:30:20Z</published>
-  <updated>2022-10-23T14:30:20Z</updated>
-  <content type="html">
-   Print all the possible regions of a K-Map.  Just for fun.
-  </content>
- </entry>
- <entry>
-  <title>klungo-wq: StumpWM-Configurations</title>
-  <author>
-   <name>klungo-wq</name>
-  </author>
-  <link href="https://github.com/klungo-wq/StumpWM-Configurations" />
-  <id>urn:rprimus:github:klungo-wq:StumpWM-Configurations</id>
-  <published>2022-10-23T14:24:29Z</published>
-  <updated>2022-10-23T14:24:29Z</updated>
-  <content type="html">
-   Personal Configurations for the Stump Window Manager (WIP)
   </content>
  </entry>
 </feed>
