@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-10-28T06:38:24Z</updated>
+<updated>2022-10-28T19:23:45Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>dtbutts: rsaEncryption_functional_lisp</title>
+  <author>
+   <name>dtbutts</name>
+  </author>
+  <link href="https://github.com/dtbutts/rsaEncryption_functional_lisp" />
+  <id>urn:rprimus:github:dtbutts:rsaEncryption_functional_lisp</id>
+  <published>2022-10-28T19:23:45Z</published>
+  <updated>2022-10-28T19:23:45Z</updated>
+  <content type="html">
+   Classwork - concepts of encryption and testing
+  </content>
+ </entry>
  <entry>
   <title>dallmeyer: opengoal-sm64</title>
   <author>
@@ -92,7 +105,7 @@
   <published>2022-10-27T10:28:55Z</published>
   <updated>2022-10-27T10:28:55Z</updated>
   <content type="html">
-   
+   A DWIM-ish mechanism - or query language of sorts - to query hierarchical data structures in Common Lisp. Or, CL:GETF on steroids!
   </content>
  </entry>
  <entry>
@@ -119,123 +132,6 @@
   <updated>2022-10-27T01:14:29Z</updated>
   <content type="html">
    Replace the shell with a CL REPL. Because I don&#039;t want to learn bash.
-  </content>
- </entry>
- <entry>
-  <title>juan-reynoso: ningle-example</title>
-  <author>
-   <name>juan-reynoso</name>
-  </author>
-  <link href="https://github.com/juan-reynoso/ningle-example" />
-  <id>urn:rprimus:github:juan-reynoso:ningle-example</id>
-  <published>2022-10-26T22:22:57Z</published>
-  <updated>2022-10-26T22:22:57Z</updated>
-  <content type="html">
-   Getting started with Ningle
-  </content>
- </entry>
- <entry>
-  <title>SP-1206: Fall-2022</title>
-  <author>
-   <name>SP-1206</name>
-  </author>
-  <link href="https://github.com/SP-1206/Fall-2022" />
-  <id>urn:rprimus:github:SP-1206:Fall-2022</id>
-  <published>2022-10-26T20:21:28Z</published>
-  <updated>2022-10-26T20:21:28Z</updated>
-  <content type="html">
-   -
-  </content>
- </entry>
- <entry>
-  <title>zaferaltay: Programming-Languages</title>
-  <author>
-   <name>zaferaltay</name>
-  </author>
-  <link href="https://github.com/zaferaltay/Programming-Languages" />
-  <id>urn:rprimus:github:zaferaltay:Programming-Languages</id>
-  <published>2022-10-26T19:27:57Z</published>
-  <updated>2022-10-26T19:27:57Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>m-rcussilva: lisp</title>
-  <author>
-   <name>m-rcussilva</name>
-  </author>
-  <link href="https://github.com/m-rcussilva/lisp" />
-  <id>urn:rprimus:github:m-rcussilva:lisp</id>
-  <published>2022-10-26T16:12:00Z</published>
-  <updated>2022-10-26T16:12:00Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>RTesseract: fp</title>
-  <author>
-   <name>RTesseract</name>
-  </author>
-  <link href="https://github.com/RTesseract/fp" />
-  <id>urn:rprimus:github:RTesseract:fp</id>
-  <published>2022-10-26T14:16:10Z</published>
-  <updated>2022-10-26T14:16:10Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>40ants: openrpc</title>
-  <author>
-   <name>40ants</name>
-  </author>
-  <link href="https://github.com/40ants/openrpc" />
-  <id>urn:rprimus:github:40ants:openrpc</id>
-  <published>2022-10-26T13:46:23Z</published>
-  <updated>2022-10-26T13:46:23Z</updated>
-  <content type="html">
-   OpenRPC implementation for Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>xvan: lispTraining</title>
-  <author>
-   <name>xvan</name>
-  </author>
-  <link href="https://github.com/xvan/lispTraining" />
-  <id>urn:rprimus:github:xvan:lispTraining</id>
-  <published>2022-10-26T13:17:01Z</published>
-  <updated>2022-10-26T13:17:01Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>tempuyax: autolisp</title>
-  <author>
-   <name>tempuyax</name>
-  </author>
-  <link href="https://github.com/tempuyax/autolisp" />
-  <id>urn:rprimus:github:tempuyax:autolisp</id>
-  <published>2022-10-26T06:34:38Z</published>
-  <updated>2022-10-26T06:34:38Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>timotheosh: getshells</title>
-  <author>
-   <name>timotheosh</name>
-  </author>
-  <link href="https://github.com/timotheosh/getshells" />
-  <id>urn:rprimus:github:timotheosh:getshells</id>
-  <published>2022-10-26T01:46:29Z</published>
-  <updated>2022-10-26T01:46:29Z</updated>
-  <content type="html">
-   Runs frequency shells show up in a passwd file
   </content>
  </entry>
 </feed>
