@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2022-10-30T00:04:25Z</updated>
+<updated>2022-10-30T09:07:05Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>shiopon01: emacs.d</title>
+  <author>
+   <name>shiopon01</name>
+  </author>
+  <link href="https://github.com/shiopon01/emacs.d" />
+  <id>urn:rprimus:github:shiopon01:emacs.d</id>
+  <published>2022-10-30T09:07:05Z</published>
+  <updated>2022-10-30T09:07:05Z</updated>
+  <content type="html">
+   emacs.d
+  </content>
+ </entry>
+ <entry>
+  <title>DamienCassou: related-files</title>
+  <author>
+   <name>DamienCassou</name>
+  </author>
+  <link href="https://github.com/DamienCassou/related-files" />
+  <id>urn:rprimus:github:DamienCassou:related-files</id>
+  <published>2022-10-30T07:28:20Z</published>
+  <updated>2022-10-30T07:28:20Z</updated>
+  <content type="html">
+   Emacs package to easily find files related to the current one
+  </content>
+ </entry>
  <entry>
   <title>emacs-straight: url-scgi</title>
   <author>
@@ -54,6 +80,19 @@
   <updated>2022-10-29T16:33:28Z</updated>
   <content type="html">
    emacs configuration
+  </content>
+ </entry>
+ <entry>
+  <title>ivangladius: emacs</title>
+  <author>
+   <name>ivangladius</name>
+  </author>
+  <link href="https://github.com/ivangladius/emacs" />
+  <id>urn:rprimus:github:ivangladius:emacs</id>
+  <published>2022-10-29T16:27:49Z</published>
+  <updated>2022-10-29T16:27:49Z</updated>
+  <content type="html">
+   Emacs Config
   </content>
  </entry>
  <entry>
@@ -313,7 +352,7 @@
   <published>2022-10-28T15:41:48Z</published>
   <updated>2022-10-28T15:41:48Z</updated>
   <content type="html">
-   
+   Setup load-path for flymake on Emacs Lisp mode
   </content>
  </entry>
  <entry>
