@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2022-11-04T06:50:46Z</updated>
+<updated>2022-11-05T03:29:21Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>bord-o: caml_corner</title>
+  <author>
+   <name>bord-o</name>
+  </author>
+  <link href="https://github.com/bord-o/caml_corner" />
+  <id>urn:rprimus:github:bord-o:caml_corner</id>
+  <published>2022-11-05T03:29:21Z</published>
+  <updated>2022-11-05T03:29:21Z</updated>
+  <content type="html">
+   the bouncy dvd logo thing except its written in ocaml in 45 minutes
+  </content>
+ </entry>
+ <entry>
+  <title>lisztlang: ferenc</title>
+  <author>
+   <name>lisztlang</name>
+  </author>
+  <link href="https://github.com/lisztlang/ferenc" />
+  <id>urn:rprimus:github:lisztlang:ferenc</id>
+  <published>2022-11-05T00:40:47Z</published>
+  <updated>2022-11-05T00:40:47Z</updated>
+  <content type="html">
+   Bytecode compiler for the Liszt Programming Language
+  </content>
+ </entry>
+ <entry>
+  <title>blakegallay: infer-codelab</title>
+  <author>
+   <name>blakegallay</name>
+  </author>
+  <link href="https://github.com/blakegallay/infer-codelab" />
+  <id>urn:rprimus:github:blakegallay:infer-codelab</id>
+  <published>2022-11-04T23:49:35Z</published>
+  <updated>2022-11-04T23:49:35Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>caufab: OCaml-Interpreter</title>
+  <author>
+   <name>caufab</name>
+  </author>
+  <link href="https://github.com/caufab/OCaml-Interpreter" />
+  <id>urn:rprimus:github:caufab:OCaml-Interpreter</id>
+  <published>2022-11-04T20:07:31Z</published>
+  <updated>2022-11-04T20:07:31Z</updated>
+  <content type="html">
+   Didactic project for PR2 course @ Unipi: Interpreter of OCaml language
+  </content>
+ </entry>
+ <entry>
+  <title>Pootouf: Arbres-rouges-noirs-intervalles</title>
+  <author>
+   <name>Pootouf</name>
+  </author>
+  <link href="https://github.com/Pootouf/Arbres-rouges-noirs-intervalles" />
+  <id>urn:rprimus:github:Pootouf:Arbres-rouges-noirs-intervalles</id>
+  <published>2022-11-04T13:57:37Z</published>
+  <updated>2022-11-04T13:57:37Z</updated>
+  <content type="html">
+   Implantation d&#039;un foncteur en OCaml sur les arbres rouges noirs, pouvant prendre n&#039;importe quel type d&#039;objet.  CrÃ©ation d&#039;un type Intervalle, pouvant prendre n&#039;importe quel type d&#039;objet et crÃ©ant des intervalles (dans le sens mathÃ©matiques) sur ces objets. Puis crÃ©ation d&#039;un type Arbre Rouges Noirs d&#039;intervalles
+  </content>
+ </entry>
  <entry>
   <title>jonathandoyle58: toy_dune_project</title>
   <author>
@@ -70,6 +135,19 @@
   </content>
  </entry>
  <entry>
+  <title>ocsigen: lwt_domain</title>
+  <author>
+   <name>ocsigen</name>
+  </author>
+  <link href="https://github.com/ocsigen/lwt_domain" />
+  <id>urn:rprimus:github:ocsigen:lwt_domain</id>
+  <published>2022-11-03T12:51:36Z</published>
+  <updated>2022-11-03T12:51:36Z</updated>
+  <content type="html">
+   Parallelism in Lwt using domainslib
+  </content>
+ </entry>
+ <entry>
   <title>nathanfarlow: ocaml_experiments</title>
   <author>
    <name>nathanfarlow</name>
@@ -106,162 +184,6 @@
   <updated>2022-11-03T01:03:50Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>justesen: word-occurrence</title>
-  <author>
-   <name>justesen</name>
-  </author>
-  <link href="https://github.com/justesen/word-occurrence" />
-  <id>urn:rprimus:github:justesen:word-occurrence</id>
-  <published>2022-11-02T20:41:24Z</published>
-  <updated>2022-11-02T20:41:24Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>qexat: w-tmp-vscode</title>
-  <author>
-   <name>qexat</name>
-  </author>
-  <link href="https://github.com/qexat/w-tmp-vscode" />
-  <id>urn:rprimus:github:qexat:w-tmp-vscode</id>
-  <published>2022-11-02T18:25:38Z</published>
-  <updated>2022-11-02T18:25:38Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>andreacarotti99: PLD</title>
-  <author>
-   <name>andreacarotti99</name>
-  </author>
-  <link href="https://github.com/andreacarotti99/PLD" />
-  <id>urn:rprimus:github:andreacarotti99:PLD</id>
-  <published>2022-11-02T15:06:06Z</published>
-  <updated>2022-11-02T15:06:06Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>yarukha: stable-fluids-ocaml</title>
-  <author>
-   <name>yarukha</name>
-  </author>
-  <link href="https://github.com/yarukha/stable-fluids-ocaml" />
-  <id>urn:rprimus:github:yarukha:stable-fluids-ocaml</id>
-  <published>2022-11-02T12:31:35Z</published>
-  <updated>2022-11-02T12:31:35Z</updated>
-  <content type="html">
-   implementation of stable fluids in OCaml
-  </content>
- </entry>
- <entry>
-  <title>KY00KIM: COSE212_PL</title>
-  <author>
-   <name>KY00KIM</name>
-  </author>
-  <link href="https://github.com/KY00KIM/COSE212_PL" />
-  <id>urn:rprimus:github:KY00KIM:COSE212_PL</id>
-  <published>2022-11-02T07:08:50Z</published>
-  <updated>2022-11-02T07:08:50Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Chris00: ocaml-archimedes</title>
-  <author>
-   <name>Chris00</name>
-  </author>
-  <link href="https://github.com/Chris00/ocaml-archimedes" />
-  <id>urn:rprimus:github:Chris00:ocaml-archimedes</id>
-  <published>2022-11-02T06:38:53Z</published>
-  <updated>2022-11-02T06:38:53Z</updated>
-  <content type="html">
-   Plotting library for OCaml
-  </content>
- </entry>
- <entry>
-  <title>Fay06: programming_hw</title>
-  <author>
-   <name>Fay06</name>
-  </author>
-  <link href="https://github.com/Fay06/programming_hw" />
-  <id>urn:rprimus:github:Fay06:programming_hw</id>
-  <published>2022-11-02T06:00:10Z</published>
-  <updated>2022-11-02T06:00:10Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>geoffder: meshviz</title>
-  <author>
-   <name>geoffder</name>
-  </author>
-  <link href="https://github.com/geoffder/meshviz" />
-  <id>urn:rprimus:github:geoffder:meshviz</id>
-  <published>2022-11-02T05:51:10Z</published>
-  <updated>2022-11-02T05:51:10Z</updated>
-  <content type="html">
-   experimenting with raylib for mesh visualization
-  </content>
- </entry>
- <entry>
-  <title>Alicia-Sun: GUI-Library-and-Paint</title>
-  <author>
-   <name>Alicia-Sun</name>
-  </author>
-  <link href="https://github.com/Alicia-Sun/GUI-Library-and-Paint" />
-  <id>urn:rprimus:github:Alicia-Sun:GUI-Library-and-Paint</id>
-  <published>2022-11-02T03:18:09Z</published>
-  <updated>2022-11-02T03:18:09Z</updated>
-  <content type="html">
-   Using OCaml to build a paint program, as well as the GUI toolkit that supports it.
-  </content>
- </entry>
- <entry>
-  <title>MrE-Fog: krb5lib2</title>
-  <author>
-   <name>MrE-Fog</name>
-  </author>
-  <link href="https://github.com/MrE-Fog/krb5lib2" />
-  <id>urn:rprimus:github:MrE-Fog:krb5lib2</id>
-  <published>2022-11-02T02:20:50Z</published>
-  <updated>2022-11-02T02:20:50Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>contificate: algorithm-d-ocaml</title>
-  <author>
-   <name>contificate</name>
-  </author>
-  <link href="https://github.com/contificate/algorithm-d-ocaml" />
-  <id>urn:rprimus:github:contificate:algorithm-d-ocaml</id>
-  <published>2022-11-02T02:03:31Z</published>
-  <updated>2022-11-02T02:03:31Z</updated>
-  <content type="html">
-   Implementation of &quot;Pattern Matching in Trees&quot;, in OCaml.
-  </content>
- </entry>
- <entry>
-  <title>robertsderek: CS320_language_interpreter</title>
-  <author>
-   <name>robertsderek</name>
-  </author>
-  <link href="https://github.com/robertsderek/CS320_language_interpreter" />
-  <id>urn:rprimus:github:robertsderek:CS320_language_interpreter</id>
-  <published>2022-11-02T01:30:47Z</published>
-  <updated>2022-11-02T01:30:47Z</updated>
-  <content type="html">
-   An in class project for my CS320 class during the spring of 2022. This was written entirely in OCaml and was given an input txt file of basic high-level language instructions, and converted it into machine code. 
   </content>
  </entry>
 </feed>

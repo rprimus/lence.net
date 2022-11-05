@@ -2,8 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2022-11-04T08:38:35Z</updated>
+<updated>2022-11-05T04:16:30Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>noalias: .emacs.d</title>
+  <author>
+   <name>noalias</name>
+  </author>
+  <link href="https://github.com/noalias/.emacs.d" />
+  <id>urn:rprimus:github:noalias:.emacs.d</id>
+  <published>2022-11-05T04:16:30Z</published>
+  <updated>2022-11-05T04:16:30Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>dratushnyy: emacs</title>
+  <author>
+   <name>dratushnyy</name>
+  </author>
+  <link href="https://github.com/dratushnyy/emacs" />
+  <id>urn:rprimus:github:dratushnyy:emacs</id>
+  <published>2022-11-04T22:16:34Z</published>
+  <updated>2022-11-04T22:16:34Z</updated>
+  <content type="html">
+   Emacs related suff
+  </content>
+ </entry>
+ <entry>
+  <title>rickfeldschau: doomemacs-dotfiles</title>
+  <author>
+   <name>rickfeldschau</name>
+  </author>
+  <link href="https://github.com/rickfeldschau/doomemacs-dotfiles" />
+  <id>urn:rprimus:github:rickfeldschau:doomemacs-dotfiles</id>
+  <published>2022-11-04T20:26:36Z</published>
+  <updated>2022-11-04T20:26:36Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>jcs-elpa: company-elisp-keywords</title>
+  <author>
+   <name>jcs-elpa</name>
+  </author>
+  <link href="https://github.com/jcs-elpa/company-elisp-keywords" />
+  <id>urn:rprimus:github:jcs-elpa:company-elisp-keywords</id>
+  <published>2022-11-04T14:13:09Z</published>
+  <updated>2022-11-04T14:13:09Z</updated>
+  <content type="html">
+   Company completion for `finder-known-keywords`
+  </content>
+ </entry>
+ <entry>
+  <title>MooersLab: crafted-emacs-config</title>
+  <author>
+   <name>MooersLab</name>
+  </author>
+  <link href="https://github.com/MooersLab/crafted-emacs-config" />
+  <id>urn:rprimus:github:MooersLab:crafted-emacs-config</id>
+  <published>2022-11-04T11:43:50Z</published>
+  <updated>2022-11-04T11:43:50Z</updated>
+  <content type="html">
+   Blaine&#039;s configuration file for crafted-emacs--a smart framework on which to build
+  </content>
+ </entry>
+ <entry>
+  <title>psychicalcoder: experiment-emacs-config</title>
+  <author>
+   <name>psychicalcoder</name>
+  </author>
+  <link href="https://github.com/psychicalcoder/experiment-emacs-config" />
+  <id>urn:rprimus:github:psychicalcoder:experiment-emacs-config</id>
+  <published>2022-11-04T11:25:23Z</published>
+  <updated>2022-11-04T11:25:23Z</updated>
+  <content type="html">
+   quelpa + vertico + consult experiment
+  </content>
+ </entry>
+ <entry>
+  <title>gicrisf: tochemfig</title>
+  <author>
+   <name>gicrisf</name>
+  </author>
+  <link href="https://github.com/gicrisf/tochemfig" />
+  <id>urn:rprimus:github:gicrisf:tochemfig</id>
+  <published>2022-11-04T10:03:05Z</published>
+  <updated>2022-11-04T10:03:05Z</updated>
+  <content type="html">
+   Make Emacs write chemfig code from molfile or SMILES.
+  </content>
+ </entry>
  <entry>
   <title>kronikpillow: doom</title>
   <author>
@@ -70,19 +161,6 @@
   </content>
  </entry>
  <entry>
-  <title>jurgen-kluft: dotfiles</title>
-  <author>
-   <name>jurgen-kluft</name>
-  </author>
-  <link href="https://github.com/jurgen-kluft/dotfiles" />
-  <id>urn:rprimus:github:jurgen-kluft:dotfiles</id>
-  <published>2022-11-04T04:05:13Z</published>
-  <updated>2022-11-04T04:05:13Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
   <title>qwars: stylus-mode.el</title>
   <author>
    <name>qwars</name>
@@ -117,19 +195,6 @@
   <id>urn:rprimus:github:micaelps:emacs</id>
   <published>2022-11-04T00:18:06Z</published>
   <updated>2022-11-04T00:18:06Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>xretaxeous: emacs</title>
-  <author>
-   <name>xretaxeous</name>
-  </author>
-  <link href="https://github.com/xretaxeous/emacs" />
-  <id>urn:rprimus:github:xretaxeous:emacs</id>
-  <published>2022-11-04T00:14:47Z</published>
-  <updated>2022-11-04T00:14:47Z</updated>
   <content type="html">
    
   </content>
@@ -353,396 +418,6 @@
   <updated>2022-11-03T07:05:07Z</updated>
   <content type="html">
    Ring mode for Emacs.
-  </content>
- </entry>
- <entry>
-  <title>emacsattic: pallet</title>
-  <author>
-   <name>emacsattic</name>
-  </author>
-  <link href="https://github.com/emacsattic/pallet" />
-  <id>urn:rprimus:github:emacsattic:pallet</id>
-  <published>2022-11-02T21:54:19Z</published>
-  <updated>2022-11-02T21:54:19Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>emacsattic: cask</title>
-  <author>
-   <name>emacsattic</name>
-  </author>
-  <link href="https://github.com/emacsattic/cask" />
-  <id>urn:rprimus:github:emacsattic:cask</id>
-  <published>2022-11-02T21:53:50Z</published>
-  <updated>2022-11-02T21:53:50Z</updated>
-  <content type="html">
-   Cask: Project management for package development
-  </content>
- </entry>
- <entry>
-  <title>emacsattic: journalctl-mode</title>
-  <author>
-   <name>emacsattic</name>
-  </author>
-  <link href="https://github.com/emacsattic/journalctl-mode" />
-  <id>urn:rprimus:github:emacsattic:journalctl-mode</id>
-  <published>2022-11-02T21:39:18Z</published>
-  <updated>2022-11-02T21:39:18Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>emacsmirror: zuul</title>
-  <author>
-   <name>emacsmirror</name>
-  </author>
-  <link href="https://github.com/emacsmirror/zuul" />
-  <id>urn:rprimus:github:emacsmirror:zuul</id>
-  <published>2022-11-02T21:32:51Z</published>
-  <updated>2022-11-02T21:32:51Z</updated>
-  <content type="html">
-   Interface to Zuul
-  </content>
- </entry>
- <entry>
-  <title>emacsmirror: notmuch-indicator</title>
-  <author>
-   <name>emacsmirror</name>
-  </author>
-  <link href="https://github.com/emacsmirror/notmuch-indicator" />
-  <id>urn:rprimus:github:emacsmirror:notmuch-indicator</id>
-  <published>2022-11-02T21:32:21Z</published>
-  <updated>2022-11-02T21:32:21Z</updated>
-  <content type="html">
-   Display mode line indicator with notmuch-count(1) output
-  </content>
- </entry>
- <entry>
-  <title>emacsmirror: luwak</title>
-  <author>
-   <name>emacsmirror</name>
-  </author>
-  <link href="https://github.com/emacsmirror/luwak" />
-  <id>urn:rprimus:github:emacsmirror:luwak</id>
-  <published>2022-11-02T21:30:54Z</published>
-  <updated>2022-11-02T21:30:54Z</updated>
-  <content type="html">
-   Web browser based on lynx -dump
-  </content>
- </entry>
- <entry>
-  <title>emacsmirror: hcel</title>
-  <author>
-   <name>emacsmirror</name>
-  </author>
-  <link href="https://github.com/emacsmirror/hcel" />
-  <id>urn:rprimus:github:emacsmirror:hcel</id>
-  <published>2022-11-02T21:30:17Z</published>
-  <updated>2022-11-02T21:30:17Z</updated>
-  <content type="html">
-   Haskell codebase explorer / cross referencer
-  </content>
- </entry>
- <entry>
-  <title>emacsmirror: gnat-compiler</title>
-  <author>
-   <name>emacsmirror</name>
-  </author>
-  <link href="https://github.com/emacsmirror/gnat-compiler" />
-  <id>urn:rprimus:github:emacsmirror:gnat-compiler</id>
-  <published>2022-11-02T21:27:32Z</published>
-  <updated>2022-11-02T21:27:32Z</updated>
-  <content type="html">
-   Support for running GNAT tools
-  </content>
- </entry>
- <entry>
-  <title>emacsmirror: agitate</title>
-  <author>
-   <name>emacsmirror</name>
-  </author>
-  <link href="https://github.com/emacsmirror/agitate" />
-  <id>urn:rprimus:github:emacsmirror:agitate</id>
-  <published>2022-11-02T21:24:33Z</published>
-  <updated>2022-11-02T21:24:33Z</updated>
-  <content type="html">
-   Extras for diff-mode, vc-git, log-edit, log-view
-  </content>
- </entry>
- <entry>
-  <title>bitorhugo: emacsconfig</title>
-  <author>
-   <name>bitorhugo</name>
-  </author>
-  <link href="https://github.com/bitorhugo/emacsconfig" />
-  <id>urn:rprimus:github:bitorhugo:emacsconfig</id>
-  <published>2022-11-02T18:45:03Z</published>
-  <updated>2022-11-02T18:45:03Z</updated>
-  <content type="html">
-   dotfile for emacs 
-  </content>
- </entry>
- <entry>
-  <title>janelia-kicad: trinamic_wiring</title>
-  <author>
-   <name>janelia-kicad</name>
-  </author>
-  <link href="https://github.com/janelia-kicad/trinamic_wiring" />
-  <id>urn:rprimus:github:janelia-kicad:trinamic_wiring</id>
-  <published>2022-11-02T18:26:28Z</published>
-  <updated>2022-11-02T18:26:28Z</updated>
-  <content type="html">
-   Wiring documentation for various Trinamic devices and ICs.
-  </content>
- </entry>
- <entry>
-  <title>fersilva16: .doom.d</title>
-  <author>
-   <name>fersilva16</name>
-  </author>
-  <link href="https://github.com/fersilva16/.doom.d" />
-  <id>urn:rprimus:github:fersilva16:.doom.d</id>
-  <published>2022-11-02T17:37:12Z</published>
-  <updated>2022-11-02T17:37:12Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>celsobonutti: macos-dotfiles</title>
-  <author>
-   <name>celsobonutti</name>
-  </author>
-  <link href="https://github.com/celsobonutti/macos-dotfiles" />
-  <id>urn:rprimus:github:celsobonutti:macos-dotfiles</id>
-  <published>2022-11-02T16:44:26Z</published>
-  <updated>2022-11-02T16:44:26Z</updated>
-  <content type="html">
-   my dotfiles for mac~
-  </content>
- </entry>
- <entry>
-  <title>kuma35: tramp-docs-ja</title>
-  <author>
-   <name>kuma35</name>
-  </author>
-  <link href="https://github.com/kuma35/tramp-docs-ja" />
-  <id>urn:rprimus:github:kuma35:tramp-docs-ja</id>
-  <published>2022-11-02T16:33:38Z</published>
-  <updated>2022-11-02T16:33:38Z</updated>
-  <content type="html">
-   Emacs TRAMP document Japanese translation.
-  </content>
- </entry>
- <entry>
-  <title>juergenhoetzel: flymake-pyre</title>
-  <author>
-   <name>juergenhoetzel</name>
-  </author>
-  <link href="https://github.com/juergenhoetzel/flymake-pyre" />
-  <id>urn:rprimus:github:juergenhoetzel:flymake-pyre</id>
-  <published>2022-11-02T16:33:27Z</published>
-  <updated>2022-11-02T16:33:27Z</updated>
-  <content type="html">
-   An Emacs flymake handler for syntax-checking assemlby source code using pyre
-  </content>
- </entry>
- <entry>
-  <title>dedenbangkit: .emacs.d</title>
-  <author>
-   <name>dedenbangkit</name>
-  </author>
-  <link href="https://github.com/dedenbangkit/.emacs.d" />
-  <id>urn:rprimus:github:dedenbangkit:.emacs.d</id>
-  <published>2022-11-02T16:19:06Z</published>
-  <updated>2022-11-02T16:19:06Z</updated>
-  <content type="html">
-   Thank you Neovim ð | Hi Emacs  ð¤
-  </content>
- </entry>
- <entry>
-  <title>caioportela: doom-emacs-config</title>
-  <author>
-   <name>caioportela</name>
-  </author>
-  <link href="https://github.com/caioportela/doom-emacs-config" />
-  <id>urn:rprimus:github:caioportela:doom-emacs-config</id>
-  <published>2022-11-02T14:14:04Z</published>
-  <updated>2022-11-02T14:14:04Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>emacsattic: unkillable-scratch</title>
-  <author>
-   <name>emacsattic</name>
-  </author>
-  <link href="https://github.com/emacsattic/unkillable-scratch" />
-  <id>urn:rprimus:github:emacsattic:unkillable-scratch</id>
-  <published>2022-11-02T13:29:01Z</published>
-  <updated>2022-11-02T13:29:01Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>emacsattic: qt-pro-mode</title>
-  <author>
-   <name>emacsattic</name>
-  </author>
-  <link href="https://github.com/emacsattic/qt-pro-mode" />
-  <id>urn:rprimus:github:emacsattic:qt-pro-mode</id>
-  <published>2022-11-02T13:28:28Z</published>
-  <updated>2022-11-02T13:28:28Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>emacsattic: help-find-org-mode</title>
-  <author>
-   <name>emacsattic</name>
-  </author>
-  <link href="https://github.com/emacsattic/help-find-org-mode" />
-  <id>urn:rprimus:github:emacsattic:help-find-org-mode</id>
-  <published>2022-11-02T13:28:03Z</published>
-  <updated>2022-11-02T13:28:03Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>emacsattic: bury-successful-compilation</title>
-  <author>
-   <name>emacsattic</name>
-  </author>
-  <link href="https://github.com/emacsattic/bury-successful-compilation" />
-  <id>urn:rprimus:github:emacsattic:bury-successful-compilation</id>
-  <published>2022-11-02T13:27:24Z</published>
-  <updated>2022-11-02T13:27:24Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>emacsattic: darkburn-theme</title>
-  <author>
-   <name>emacsattic</name>
-  </author>
-  <link href="https://github.com/emacsattic/darkburn-theme" />
-  <id>urn:rprimus:github:emacsattic:darkburn-theme</id>
-  <published>2022-11-02T13:21:54Z</published>
-  <updated>2022-11-02T13:21:54Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>emacsattic: flycheck-gometalinter</title>
-  <author>
-   <name>emacsattic</name>
-  </author>
-  <link href="https://github.com/emacsattic/flycheck-gometalinter" />
-  <id>urn:rprimus:github:emacsattic:flycheck-gometalinter</id>
-  <published>2022-11-02T13:20:40Z</published>
-  <updated>2022-11-02T13:20:40Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>emacsattic: evil-ediff</title>
-  <author>
-   <name>emacsattic</name>
-  </author>
-  <link href="https://github.com/emacsattic/evil-ediff" />
-  <id>urn:rprimus:github:emacsattic:evil-ediff</id>
-  <published>2022-11-02T13:18:47Z</published>
-  <updated>2022-11-02T13:18:47Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>emacsmirror: ddate</title>
-  <author>
-   <name>emacsmirror</name>
-  </author>
-  <link href="https://github.com/emacsmirror/ddate" />
-  <id>urn:rprimus:github:emacsmirror:ddate</id>
-  <published>2022-11-02T12:17:18Z</published>
-  <updated>2022-11-02T12:17:18Z</updated>
-  <content type="html">
-   Manage Discordian dates with ddate
-  </content>
- </entry>
- <entry>
-  <title>hexingb: emacs.d</title>
-  <author>
-   <name>hexingb</name>
-  </author>
-  <link href="https://github.com/hexingb/emacs.d" />
-  <id>urn:rprimus:github:hexingb:emacs.d</id>
-  <published>2022-11-02T11:57:12Z</published>
-  <updated>2022-11-02T11:57:12Z</updated>
-  <content type="html">
-   My Emacs configuration
-  </content>
- </entry>
- <entry>
-  <title>watsonism: .doom.d</title>
-  <author>
-   <name>watsonism</name>
-  </author>
-  <link href="https://github.com/watsonism/.doom.d" />
-  <id>urn:rprimus:github:watsonism:.doom.d</id>
-  <published>2022-11-02T05:09:21Z</published>
-  <updated>2022-11-02T05:09:21Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>michalslaski: .emacs.d</title>
-  <author>
-   <name>michalslaski</name>
-  </author>
-  <link href="https://github.com/michalslaski/.emacs.d" />
-  <id>urn:rprimus:github:michalslaski:.emacs.d</id>
-  <published>2022-11-02T02:40:06Z</published>
-  <updated>2022-11-02T02:40:06Z</updated>
-  <content type="html">
-   Emacs configuration
-  </content>
- </entry>
- <entry>
-  <title>rxvc: dotfiles</title>
-  <author>
-   <name>rxvc</name>
-  </author>
-  <link href="https://github.com/rxvc/dotfiles" />
-  <id>urn:rprimus:github:rxvc:dotfiles</id>
-  <published>2022-11-02T00:56:07Z</published>
-  <updated>2022-11-02T00:56:07Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>emacs-straight: gnat-compiler</title>
-  <author>
-   <name>emacs-straight</name>
-  </author>
-  <link href="https://github.com/emacs-straight/gnat-compiler" />
-  <id>urn:rprimus:github:emacs-straight:gnat-compiler</id>
-  <published>2022-11-02T00:02:54Z</published>
-  <updated>2022-11-02T00:02:54Z</updated>
-  <content type="html">
-   Mirror of the gnat-compiler package from GNU ELPA, current as of 2022-11-04
   </content>
  </entry>
 </feed>
