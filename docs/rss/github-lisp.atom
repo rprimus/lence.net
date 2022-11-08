@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-11-07T05:56:13Z</updated>
+<updated>2022-11-08T02:17:29Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>K1D77A: clory</title>
+  <author>
+   <name>K1D77A</name>
+  </author>
+  <link href="https://github.com/K1D77A/clory" />
+  <id>urn:rprimus:github:K1D77A:clory</id>
+  <published>2022-11-08T02:17:29Z</published>
+  <updated>2022-11-08T02:17:29Z</updated>
+  <content type="html">
+   Common Lisp Ory Wrapper
+  </content>
+ </entry>
+ <entry>
+  <title>mokrates: cl-waves</title>
+  <author>
+   <name>mokrates</name>
+  </author>
+  <link href="https://github.com/mokrates/cl-waves" />
+  <id>urn:rprimus:github:mokrates:cl-waves</id>
+  <published>2022-11-08T00:11:30Z</published>
+  <updated>2022-11-08T00:11:30Z</updated>
+  <content type="html">
+   A finger exercise in Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>g000001: TaoWorks</title>
+  <author>
+   <name>g000001</name>
+  </author>
+  <link href="https://github.com/g000001/TaoWorks" />
+  <id>urn:rprimus:github:g000001:TaoWorks</id>
+  <published>2022-11-07T20:43:43Z</published>
+  <updated>2022-11-07T20:43:43Z</updated>
+  <content type="html">
+   TaoWorks
+  </content>
+ </entry>
+ <entry>
+  <title>svetlyak40wt: asdf-just-done-bug</title>
+  <author>
+   <name>svetlyak40wt</name>
+  </author>
+  <link href="https://github.com/svetlyak40wt/asdf-just-done-bug" />
+  <id>urn:rprimus:github:svetlyak40wt:asdf-just-done-bug</id>
+  <published>2022-11-07T13:26:35Z</published>
+  <updated>2022-11-07T13:26:35Z</updated>
+  <content type="html">
+   An example how to reproduce a subtle ASDF bug related to &quot;Computing just-done stamp  for action ..., but dependency ... wasn&#039;t done yet!&quot; error
+  </content>
+ </entry>
  <entry>
   <title>Jobhdez: zettapy</title>
   <author>
@@ -106,97 +158,6 @@
   <updated>2022-11-06T09:07:06Z</updated>
   <content type="html">
    Common lisp library for fusing writing functions with writing tests for it.
-  </content>
- </entry>
- <entry>
-  <title>xTriixrx: Project-Euler</title>
-  <author>
-   <name>xTriixrx</name>
-  </author>
-  <link href="https://github.com/xTriixrx/Project-Euler" />
-  <id>urn:rprimus:github:xTriixrx:Project-Euler</id>
-  <published>2022-11-05T23:51:37Z</published>
-  <updated>2022-11-05T23:51:37Z</updated>
-  <content type="html">
-   Project Euler problems written in Common Lisp with solutions. Please do not steal solutions or just take answers, defeats the purpose of Project Euler.
-  </content>
- </entry>
- <entry>
-  <title>ashyuuu: SimpleLISP</title>
-  <author>
-   <name>ashyuuu</name>
-  </author>
-  <link href="https://github.com/ashyuuu/SimpleLISP" />
-  <id>urn:rprimus:github:ashyuuu:SimpleLISP</id>
-  <published>2022-11-05T17:38:41Z</published>
-  <updated>2022-11-05T17:38:41Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>someguynamedmatt: rogue-cl</title>
-  <author>
-   <name>someguynamedmatt</name>
-  </author>
-  <link href="https://github.com/someguynamedmatt/rogue-cl" />
-  <id>urn:rprimus:github:someguynamedmatt:rogue-cl</id>
-  <published>2022-11-05T15:55:06Z</published>
-  <updated>2022-11-05T15:55:06Z</updated>
-  <content type="html">
-   Roguelike in Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>tatsukamijo: robot-arm</title>
-  <author>
-   <name>tatsukamijo</name>
-  </author>
-  <link href="https://github.com/tatsukamijo/robot-arm" />
-  <id>urn:rprimus:github:tatsukamijo:robot-arm</id>
-  <published>2022-11-05T15:21:22Z</published>
-  <updated>2022-11-05T15:21:22Z</updated>
-  <content type="html">
-   Robot arm model with beam written in EusLisp.
-  </content>
- </entry>
- <entry>
-  <title>AsePlayer: Principles-of-Programming-Languages</title>
-  <author>
-   <name>AsePlayer</name>
-  </author>
-  <link href="https://github.com/AsePlayer/Principles-of-Programming-Languages" />
-  <id>urn:rprimus:github:AsePlayer:Principles-of-Programming-Languages</id>
-  <published>2022-11-05T01:47:31Z</published>
-  <updated>2022-11-05T01:47:31Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>PSTumuluri: evolutionary-computing</title>
-  <author>
-   <name>PSTumuluri</name>
-  </author>
-  <link href="https://github.com/PSTumuluri/evolutionary-computing" />
-  <id>urn:rprimus:github:PSTumuluri:evolutionary-computing</id>
-  <published>2022-11-05T00:48:15Z</published>
-  <updated>2022-11-05T00:48:15Z</updated>
-  <content type="html">
-   Common Lisp implementations of functions to help implement evolutionary computing algorithms.
-  </content>
- </entry>
- <entry>
-  <title>stothardj: cl-blackjack</title>
-  <author>
-   <name>stothardj</name>
-  </author>
-  <link href="https://github.com/stothardj/cl-blackjack" />
-  <id>urn:rprimus:github:stothardj:cl-blackjack</id>
-  <published>2022-11-05T00:23:44Z</published>
-  <updated>2022-11-05T00:23:44Z</updated>
-  <content type="html">
-   Common Lisp blackjack
   </content>
  </entry>
 </feed>
