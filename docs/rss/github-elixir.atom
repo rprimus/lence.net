@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-elixir.atom"/>
 <id>urn:rprimus:github:newelixirrepos</id>
-<updated>2022-11-08T10:09:50Z</updated>
+<updated>2022-11-08T16:56:40Z</updated>
 <title type='text'>New GitHub Elixir Repos</title>
+ <entry>
+  <title>alligatormonday: phoenix_website</title>
+  <author>
+   <name>alligatormonday</name>
+  </author>
+  <link href="https://github.com/alligatormonday/phoenix_website" />
+  <id>urn:rprimus:github:alligatormonday:phoenix_website</id>
+  <published>2022-11-08T16:56:40Z</published>
+  <updated>2022-11-08T16:56:40Z</updated>
+  <content type="html">
+   portfolio build with Phoenix Framework
+  </content>
+ </entry>
  <entry>
   <title>alekpopovic: pfaker</title>
   <author>
@@ -11,8 +24,73 @@
   </author>
   <link href="https://github.com/alekpopovic/pfaker" />
   <id>urn:rprimus:github:alekpopovic:pfaker</id>
-  <published>2022-11-08T10:09:50Z</published>
-  <updated>2022-11-08T10:09:50Z</updated>
+  <published>2022-11-08T16:47:17Z</published>
+  <updated>2022-11-08T16:47:17Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Tychron: pepper_http</title>
+  <author>
+   <name>Tychron</name>
+  </author>
+  <link href="https://github.com/Tychron/pepper_http" />
+  <id>urn:rprimus:github:Tychron:pepper_http</id>
+  <published>2022-11-08T15:38:58Z</published>
+  <updated>2022-11-08T15:38:58Z</updated>
+  <content type="html">
+   HTTP Client based on mint
+  </content>
+ </entry>
+ <entry>
+  <title>kingshalaby1: tic_tac_toe</title>
+  <author>
+   <name>kingshalaby1</name>
+  </author>
+  <link href="https://github.com/kingshalaby1/tic_tac_toe" />
+  <id>urn:rprimus:github:kingshalaby1:tic_tac_toe</id>
+  <published>2022-11-08T15:34:51Z</published>
+  <updated>2022-11-08T15:34:51Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>MichaelAnckaert: mastapi</title>
+  <author>
+   <name>MichaelAnckaert</name>
+  </author>
+  <link href="https://github.com/MichaelAnckaert/mastapi" />
+  <id>urn:rprimus:github:MichaelAnckaert:mastapi</id>
+  <published>2022-11-08T12:05:31Z</published>
+  <updated>2022-11-08T12:05:31Z</updated>
+  <content type="html">
+   Mastodon API experiments in Elixir
+  </content>
+ </entry>
+ <entry>
+  <title>groupher: groupher_server</title>
+  <author>
+   <name>groupher</name>
+  </author>
+  <link href="https://github.com/groupher/groupher_server" />
+  <id>urn:rprimus:github:groupher:groupher_server</id>
+  <published>2022-11-08T11:27:10Z</published>
+  <updated>2022-11-08T11:27:10Z</updated>
+  <content type="html">
+   backend for https://groupher.com
+  </content>
+ </entry>
+ <entry>
+  <title>linuxcodelove: kodai-elixir</title>
+  <author>
+   <name>linuxcodelove</name>
+  </author>
+  <link href="https://github.com/linuxcodelove/kodai-elixir" />
+  <id>urn:rprimus:github:linuxcodelove:kodai-elixir</id>
+  <published>2022-11-08T11:09:39Z</published>
+  <updated>2022-11-08T11:09:39Z</updated>
   <content type="html">
    
   </content>
@@ -286,6 +364,19 @@
   <id>urn:rprimus:github:cmnstmntmn:elixir-now-and-beyond</id>
   <published>2022-11-07T20:17:34Z</published>
   <updated>2022-11-07T20:17:34Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>liveviewnative: live_view_native_swift_ui</title>
+  <author>
+   <name>liveviewnative</name>
+  </author>
+  <link href="https://github.com/liveviewnative/live_view_native_swift_ui" />
+  <id>urn:rprimus:github:liveviewnative:live_view_native_swift_ui</id>
+  <published>2022-11-07T19:35:45Z</published>
+  <updated>2022-11-07T19:35:45Z</updated>
   <content type="html">
    
   </content>
@@ -577,19 +668,6 @@
   </content>
  </entry>
  <entry>
-  <title>blennopardim: fizz_buzz_elixir</title>
-  <author>
-   <name>blennopardim</name>
-  </author>
-  <link href="https://github.com/blennopardim/fizz_buzz_elixir" />
-  <id>urn:rprimus:github:blennopardim:fizz_buzz_elixir</id>
-  <published>2022-11-07T07:27:24Z</published>
-  <updated>2022-11-07T07:27:24Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
   <title>kelvintaywl-cci: cimg-elixir-explore</title>
   <author>
    <name>kelvintaywl-cci</name>
@@ -665,6 +743,19 @@
   <updated>2022-11-06T21:24:47Z</updated>
   <content type="html">
    Just me trying out elixir stuff by writing a discord bot
+  </content>
+ </entry>
+ <entry>
+  <title>jwright: gotcha-api-techbash</title>
+  <author>
+   <name>jwright</name>
+  </author>
+  <link href="https://github.com/jwright/gotcha-api-techbash" />
+  <id>urn:rprimus:github:jwright:gotcha-api-techbash</id>
+  <published>2022-11-06T19:50:43Z</published>
+  <updated>2022-11-06T19:50:43Z</updated>
+  <content type="html">
+   The API for the Gotcha game. Gotcha where I want âcha  Topics Resources
   </content>
  </entry>
  <entry>
