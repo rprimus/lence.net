@@ -2,1124 +2,669 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-haskell.atom"/>
 <id>urn:rprimus:github:newhaskellrepos</id>
-<updated>2022-01-01T23:39:17Z</updated>
+<updated>2022-11-12T04:17:20Z</updated>
 <title type='text'>New GitHub Haskell Repos</title>
  <entry>
-  <title>Melefo: HAL</title>
+  <title>0x706b: lpm</title>
   <author>
-   <name>Melefo</name>
+   <name>0x706b</name>
   </author>
-  <link href="https://github.com/Melefo/HAL" />
-  <id>urn:rprimus:github:Melefo:HAL</id>
-  <published>2022-01-01T23:39:17Z</published>
-  <updated>2022-01-01T23:39:17Z</updated>
+  <link href="https://github.com/0x706b/lpm" />
+  <id>urn:rprimus:github:0x706b:lpm</id>
+  <published>2022-11-12T04:17:20Z</published>
+  <updated>2022-11-12T04:17:20Z</updated>
   <content type="html">
-   An HAskell Lisp interpreter
+   Lambda Package Manager: a package manager for NPM projects written in Haskell with Nix integration in mind
   </content>
  </entry>
  <entry>
-  <title>pedroendm: Milner-s-type-inference-algorithm</title>
+  <title>KentuLiveAccount: bbqsim</title>
   <author>
-   <name>pedroendm</name>
+   <name>KentuLiveAccount</name>
   </author>
-  <link href="https://github.com/pedroendm/Milner-s-type-inference-algorithm" />
-  <id>urn:rprimus:github:pedroendm:Milner-s-type-inference-algorithm</id>
-  <published>2022-01-01T23:34:35Z</published>
-  <updated>2022-01-01T23:34:35Z</updated>
-  <content type="html">
-   Implementation of the Milner&#039;s type-inference algorithm, that given a term M (from the Lambda calculus), returns the principal typing of M.
-  </content>
- </entry>
- <entry>
-  <title>mpetruska: ihp-blog</title>
-  <author>
-   <name>mpetruska</name>
-  </author>
-  <link href="https://github.com/mpetruska/ihp-blog" />
-  <id>urn:rprimus:github:mpetruska:ihp-blog</id>
-  <published>2022-01-01T23:08:07Z</published>
-  <updated>2022-01-01T23:08:07Z</updated>
+  <link href="https://github.com/KentuLiveAccount/bbqsim" />
+  <id>urn:rprimus:github:KentuLiveAccount:bbqsim</id>
+  <published>2022-11-12T03:24:45Z</published>
+  <updated>2022-11-12T03:24:45Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>jiriklepl: NSWI164</title>
+  <title>barbafh3: raylib-apecs</title>
   <author>
-   <name>jiriklepl</name>
+   <name>barbafh3</name>
   </author>
-  <link href="https://github.com/jiriklepl/NSWI164" />
-  <id>urn:rprimus:github:jiriklepl:NSWI164</id>
-  <published>2022-01-01T22:45:38Z</published>
-  <updated>2022-01-01T22:45:38Z</updated>
+  <link href="https://github.com/barbafh3/raylib-apecs" />
+  <id>urn:rprimus:github:barbafh3:raylib-apecs</id>
+  <published>2022-11-12T03:03:40Z</published>
+  <updated>2022-11-12T03:03:40Z</updated>
   <content type="html">
-   This project implements the term project of NSWI164 at MFF-UK
+   Haskell test using apecs and raylib
   </content>
  </entry>
  <entry>
-  <title>Morendil: AdventOfCode2015</title>
+  <title>zouppen: lnd_stats</title>
   <author>
-   <name>Morendil</name>
+   <name>zouppen</name>
   </author>
-  <link href="https://github.com/Morendil/AdventOfCode2015" />
-  <id>urn:rprimus:github:Morendil:AdventOfCode2015</id>
-  <published>2022-01-01T20:52:16Z</published>
-  <updated>2022-01-01T20:52:16Z</updated>
+  <link href="https://github.com/zouppen/lnd_stats" />
+  <id>urn:rprimus:github:zouppen:lnd_stats</id>
+  <published>2022-11-12T01:33:19Z</published>
+  <updated>2022-11-12T01:33:19Z</updated>
   <content type="html">
-   
+   LND stats
   </content>
  </entry>
  <entry>
-  <title>SwarnimWalavalkar: haskell-scheme</title>
+  <title>DavidForsberg: OthelloAI</title>
   <author>
-   <name>SwarnimWalavalkar</name>
+   <name>DavidForsberg</name>
   </author>
-  <link href="https://github.com/SwarnimWalavalkar/haskell-scheme" />
-  <id>urn:rprimus:github:SwarnimWalavalkar:haskell-scheme</id>
-  <published>2022-01-01T20:20:29Z</published>
-  <updated>2022-01-01T20:20:29Z</updated>
-  <content type="html">
-   A Scheme implementation in Haskell
-  </content>
- </entry>
- <entry>
-  <title>9ziggy9: hutton_solutions</title>
-  <author>
-   <name>9ziggy9</name>
-  </author>
-  <link href="https://github.com/9ziggy9/hutton_solutions" />
-  <id>urn:rprimus:github:9ziggy9:hutton_solutions</id>
-  <published>2022-01-01T19:08:37Z</published>
-  <updated>2022-01-01T19:08:37Z</updated>
-  <content type="html">
-   Solutions to Hutton&#039;s Haskell text
-  </content>
- </entry>
- <entry>
-  <title>BrunoLustenberger: hsConvexHull</title>
-  <author>
-   <name>BrunoLustenberger</name>
-  </author>
-  <link href="https://github.com/BrunoLustenberger/hsConvexHull" />
-  <id>urn:rprimus:github:BrunoLustenberger:hsConvexHull</id>
-  <published>2022-01-01T18:42:32Z</published>
-  <updated>2022-01-01T18:42:32Z</updated>
-  <content type="html">
-   Haskell functions for computing the convex hull.
-  </content>
- </entry>
- <entry>
-  <title>futhark14: haskell</title>
-  <author>
-   <name>futhark14</name>
-  </author>
-  <link href="https://github.com/futhark14/haskell" />
-  <id>urn:rprimus:github:futhark14:haskell</id>
-  <published>2022-01-01T17:32:28Z</published>
-  <updated>2022-01-01T17:32:28Z</updated>
+  <link href="https://github.com/DavidForsberg/OthelloAI" />
+  <id>urn:rprimus:github:DavidForsberg:OthelloAI</id>
+  <published>2022-11-12T01:32:33Z</published>
+  <updated>2022-11-12T01:32:33Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>lfborjas: ecliptic.surf</title>
+  <title>LuckyZacha: haskell-dp-recursive</title>
   <author>
-   <name>lfborjas</name>
+   <name>LuckyZacha</name>
   </author>
-  <link href="https://github.com/lfborjas/ecliptic.surf" />
-  <id>urn:rprimus:github:lfborjas:ecliptic.surf</id>
-  <published>2022-01-01T16:57:46Z</published>
-  <updated>2022-01-01T16:57:46Z</updated>
-  <content type="html">
-   Surf charts for planetary transits
-  </content>
- </entry>
- <entry>
-  <title>HeinrichApfelmus: chebyshev</title>
-  <author>
-   <name>HeinrichApfelmus</name>
-  </author>
-  <link href="https://github.com/HeinrichApfelmus/chebyshev" />
-  <id>urn:rprimus:github:HeinrichApfelmus:chebyshev</id>
-  <published>2022-01-01T16:53:20Z</published>
-  <updated>2022-01-01T16:53:20Z</updated>
-  <content type="html">
-   Efficient approximation using Chebyshev polynomials
-  </content>
- </entry>
- <entry>
-  <title>Jdrqs: xmonad</title>
-  <author>
-   <name>Jdrqs</name>
-  </author>
-  <link href="https://github.com/Jdrqs/xmonad" />
-  <id>urn:rprimus:github:Jdrqs:xmonad</id>
-  <published>2022-01-01T15:59:35Z</published>
-  <updated>2022-01-01T15:59:35Z</updated>
-  <content type="html">
-   Personal xmoand config file, copy from DT.
-  </content>
- </entry>
- <entry>
-  <title>fpclass: fp1-exercises</title>
-  <author>
-   <name>fpclass</name>
-  </author>
-  <link href="https://github.com/fpclass/fp1-exercises" />
-  <id>urn:rprimus:github:fpclass:fp1-exercises</id>
-  <published>2022-01-01T15:42:21Z</published>
-  <updated>2022-01-01T15:42:21Z</updated>
-  <content type="html">
-   Skeleton codes for functional programming exercises
-  </content>
- </entry>
- <entry>
-  <title>RaresMihalache: programareFunctionala</title>
-  <author>
-   <name>RaresMihalache</name>
-  </author>
-  <link href="https://github.com/RaresMihalache/programareFunctionala" />
-  <id>urn:rprimus:github:RaresMihalache:programareFunctionala</id>
-  <published>2022-01-01T15:12:49Z</published>
-  <updated>2022-01-01T15:12:49Z</updated>
-  <content type="html">
-   Laboratory problems
-  </content>
- </entry>
- <entry>
-  <title>BeniersD: IdeasProject</title>
-  <author>
-   <name>BeniersD</name>
-  </author>
-  <link href="https://github.com/BeniersD/IdeasProject" />
-  <id>urn:rprimus:github:BeniersD:IdeasProject</id>
-  <published>2022-01-01T15:08:17Z</published>
-  <updated>2022-01-01T15:08:17Z</updated>
+  <link href="https://github.com/LuckyZacha/haskell-dp-recursive" />
+  <id>urn:rprimus:github:LuckyZacha:haskell-dp-recursive</id>
+  <published>2022-11-12T00:10:02Z</published>
+  <updated>2022-11-12T00:10:02Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>Arnab42444: hython</title>
+  <title>eZWALT: UPC-LP</title>
   <author>
-   <name>Arnab42444</name>
+   <name>eZWALT</name>
   </author>
-  <link href="https://github.com/Arnab42444/hython" />
-  <id>urn:rprimus:github:Arnab42444:hython</id>
-  <published>2022-01-01T14:49:02Z</published>
-  <updated>2022-01-01T14:49:02Z</updated>
+  <link href="https://github.com/eZWALT/UPC-LP" />
+  <id>urn:rprimus:github:eZWALT:UPC-LP</id>
+  <published>2022-11-11T23:38:06Z</published>
+  <updated>2022-11-11T23:38:06Z</updated>
+  <content type="html">
+   Programming Languages subject (3rd), deep dive at haskell, python, antlr and compilers
+  </content>
+ </entry>
+ <entry>
+  <title>rvLMdE7: advent-of-code-2017</title>
+  <author>
+   <name>rvLMdE7</name>
+  </author>
+  <link href="https://github.com/rvLMdE7/advent-of-code-2017" />
+  <id>urn:rprimus:github:rvLMdE7:advent-of-code-2017</id>
+  <published>2022-11-11T23:01:35Z</published>
+  <updated>2022-11-11T23:01:35Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>8n8: haskell-c-ffi-minimal</title>
+  <title>vladov3000: nvmdb_hs</title>
   <author>
-   <name>8n8</name>
+   <name>vladov3000</name>
   </author>
-  <link href="https://github.com/8n8/haskell-c-ffi-minimal" />
-  <id>urn:rprimus:github:8n8:haskell-c-ffi-minimal</id>
-  <published>2022-01-01T14:46:41Z</published>
-  <updated>2022-01-01T14:46:41Z</updated>
-  <content type="html">
-   A minimal example of not being able to get FFI working in Haskell
-  </content>
- </entry>
- <entry>
-  <title>jimbarrett27: haskell-euler</title>
-  <author>
-   <name>jimbarrett27</name>
-  </author>
-  <link href="https://github.com/jimbarrett27/haskell-euler" />
-  <id>urn:rprimus:github:jimbarrett27:haskell-euler</id>
-  <published>2022-01-01T14:36:58Z</published>
-  <updated>2022-01-01T14:36:58Z</updated>
-  <content type="html">
-   Solutions to the Project Euler problems in Haskell
-  </content>
- </entry>
- <entry>
-  <title>eltix: AdventOfCode2021</title>
-  <author>
-   <name>eltix</name>
-  </author>
-  <link href="https://github.com/eltix/AdventOfCode2021" />
-  <id>urn:rprimus:github:eltix:AdventOfCode2021</id>
-  <published>2022-01-01T13:45:19Z</published>
-  <updated>2022-01-01T13:45:19Z</updated>
+  <link href="https://github.com/vladov3000/nvmdb_hs" />
+  <id>urn:rprimus:github:vladov3000:nvmdb_hs</id>
+  <published>2022-11-11T22:27:10Z</published>
+  <updated>2022-11-11T22:27:10Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>martijnbastiaan: import-issues-cabal</title>
+  <title>soupi: sqlite-easy-example-todo</title>
   <author>
-   <name>martijnbastiaan</name>
+   <name>soupi</name>
   </author>
-  <link href="https://github.com/martijnbastiaan/import-issues-cabal" />
-  <id>urn:rprimus:github:martijnbastiaan:import-issues-cabal</id>
-  <published>2022-01-01T13:17:25Z</published>
-  <updated>2022-01-01T13:17:25Z</updated>
+  <link href="https://github.com/soupi/sqlite-easy-example-todo" />
+  <id>urn:rprimus:github:soupi:sqlite-easy-example-todo</id>
+  <published>2022-11-11T20:24:56Z</published>
+  <updated>2022-11-11T20:24:56Z</updated>
+  <content type="html">
+   A primitive todo list app as an example of sqlite-easy.
+  </content>
+ </entry>
+ <entry>
+  <title>jmckinny: braces</title>
+  <author>
+   <name>jmckinny</name>
+  </author>
+  <link href="https://github.com/jmckinny/braces" />
+  <id>urn:rprimus:github:jmckinny:braces</id>
+  <published>2022-11-11T19:03:16Z</published>
+  <updated>2022-11-11T19:03:16Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>luis-caldas: authenter</title>
+  <title>Ligny: EvalExpr</title>
   <author>
-   <name>luis-caldas</name>
+   <name>Ligny</name>
   </author>
-  <link href="https://github.com/luis-caldas/authenter" />
-  <id>urn:rprimus:github:luis-caldas:authenter</id>
-  <published>2022-01-01T13:01:33Z</published>
-  <updated>2022-01-01T13:01:33Z</updated>
-  <content type="html">
-   Creates a authentication table
-  </content>
- </entry>
- <entry>
-  <title>piyushthapa: monad-exercise</title>
-  <author>
-   <name>piyushthapa</name>
-  </author>
-  <link href="https://github.com/piyushthapa/monad-exercise" />
-  <id>urn:rprimus:github:piyushthapa:monad-exercise</id>
-  <published>2022-01-01T12:47:01Z</published>
-  <updated>2022-01-01T12:47:01Z</updated>
-  <content type="html">
-   Learning Haskell Monad
-  </content>
- </entry>
- <entry>
-  <title>advancebsd: utlose-init</title>
-  <author>
-   <name>advancebsd</name>
-  </author>
-  <link href="https://github.com/advancebsd/utlose-init" />
-  <id>urn:rprimus:github:advancebsd:utlose-init</id>
-  <published>2022-01-01T12:27:32Z</published>
-  <updated>2022-01-01T12:27:32Z</updated>
-  <content type="html">
-   UtlÃ¸se Init. A BSD licensed init system
-  </content>
- </entry>
- <entry>
-  <title>primalkz: xmonad</title>
-  <author>
-   <name>primalkz</name>
-  </author>
-  <link href="https://github.com/primalkz/xmonad" />
-  <id>urn:rprimus:github:primalkz:xmonad</id>
-  <published>2022-01-01T07:58:22Z</published>
-  <updated>2022-01-01T07:58:22Z</updated>
-  <content type="html">
-   My xmonad configuration dotfiles
-  </content>
- </entry>
- <entry>
-  <title>tonyday567: color-adjust</title>
-  <author>
-   <name>tonyday567</name>
-  </author>
-  <link href="https://github.com/tonyday567/color-adjust" />
-  <id>urn:rprimus:github:tonyday567:color-adjust</id>
-  <published>2022-01-01T05:35:17Z</published>
-  <updated>2022-01-01T05:35:17Z</updated>
+  <link href="https://github.com/Ligny/EvalExpr" />
+  <id>urn:rprimus:github:Ligny:EvalExpr</id>
+  <published>2022-11-11T14:32:50Z</published>
+  <updated>2022-11-11T14:32:50Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>deaurn: spider</title>
+  <title>nsreeen: hasp</title>
   <author>
-   <name>deaurn</name>
+   <name>nsreeen</name>
   </author>
-  <link href="https://github.com/deaurn/spider" />
-  <id>urn:rprimus:github:deaurn:spider</id>
-  <published>2022-01-01T05:05:37Z</published>
-  <updated>2022-01-01T05:05:37Z</updated>
+  <link href="https://github.com/nsreeen/hasp" />
+  <id>urn:rprimus:github:nsreeen:hasp</id>
+  <published>2022-11-11T13:54:20Z</published>
+  <updated>2022-11-11T13:54:20Z</updated>
   <content type="html">
-   spider
+   A lisp written in Haskell.
   </content>
  </entry>
  <entry>
-  <title>jaspergeer: jumcc</title>
+  <title>lsund: mini-state</title>
   <author>
-   <name>jaspergeer</name>
+   <name>lsund</name>
   </author>
-  <link href="https://github.com/jaspergeer/jumcc" />
-  <id>urn:rprimus:github:jaspergeer:jumcc</id>
-  <published>2022-01-01T01:40:30Z</published>
-  <updated>2022-01-01T01:40:30Z</updated>
+  <link href="https://github.com/lsund/mini-state" />
+  <id>urn:rprimus:github:lsund:mini-state</id>
+  <published>2022-11-11T10:53:25Z</published>
+  <updated>2022-11-11T10:53:25Z</updated>
   <content type="html">
-   Compiler for C-like language targeting umasm
+   Minimal Persisted State
   </content>
  </entry>
  <entry>
-  <title>bly587: CPSC354_Final</title>
+  <title>20squares: ftx</title>
   <author>
-   <name>bly587</name>
+   <name>20squares</name>
   </author>
-  <link href="https://github.com/bly587/CPSC354_Final" />
-  <id>urn:rprimus:github:bly587:CPSC354_Final</id>
-  <published>2022-01-01T00:14:59Z</published>
-  <updated>2022-01-01T00:14:59Z</updated>
+  <link href="https://github.com/20squares/ftx" />
+  <id>urn:rprimus:github:20squares:ftx</id>
+  <published>2022-11-11T10:51:46Z</published>
+  <updated>2022-11-11T10:51:46Z</updated>
+  <content type="html">
+   Withdrawl analysis ftx
+  </content>
+ </entry>
+ <entry>
+  <title>well-typed: borsh</title>
+  <author>
+   <name>well-typed</name>
+  </author>
+  <link href="https://github.com/well-typed/borsh" />
+  <id>urn:rprimus:github:well-typed:borsh</id>
+  <published>2022-11-11T10:43:09Z</published>
+  <updated>2022-11-11T10:43:09Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>tonyday567: tonyday567</title>
+  <title>denissscare: HaskellLabs</title>
   <author>
-   <name>tonyday567</name>
+   <name>denissscare</name>
   </author>
-  <link href="https://github.com/tonyday567/tonyday567" />
-  <id>urn:rprimus:github:tonyday567:tonyday567</id>
-  <published>2021-12-31T23:53:52Z</published>
-  <updated>2021-12-31T23:53:52Z</updated>
+  <link href="https://github.com/denissscare/HaskellLabs" />
+  <id>urn:rprimus:github:denissscare:HaskellLabs</id>
+  <published>2022-11-11T08:17:30Z</published>
+  <updated>2022-11-11T08:17:30Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>neekonsu: haskell-learning</title>
+  <title>CarstenKoenig: DOS2022</title>
   <author>
-   <name>neekonsu</name>
+   <name>CarstenKoenig</name>
   </author>
-  <link href="https://github.com/neekonsu/haskell-learning" />
-  <id>urn:rprimus:github:neekonsu:haskell-learning</id>
-  <published>2021-12-31T23:30:52Z</published>
-  <updated>2021-12-31T23:30:52Z</updated>
-  <content type="html">
-   Exercises used to learn haskell
-  </content>
- </entry>
- <entry>
-  <title>sheaf: large-anon</title>
-  <author>
-   <name>sheaf</name>
-  </author>
-  <link href="https://github.com/sheaf/large-anon" />
-  <id>urn:rprimus:github:sheaf:large-anon</id>
-  <published>2021-12-31T23:04:38Z</published>
-  <updated>2021-12-31T23:04:38Z</updated>
-  <content type="html">
-   Scalable anonymous records
-  </content>
- </entry>
- <entry>
-  <title>Fabus1184: H99</title>
-  <author>
-   <name>Fabus1184</name>
-  </author>
-  <link href="https://github.com/Fabus1184/H99" />
-  <id>urn:rprimus:github:Fabus1184:H99</id>
-  <published>2021-12-31T22:55:59Z</published>
-  <updated>2021-12-31T22:55:59Z</updated>
-  <content type="html">
-   My solutions for &quot;Ninety-Nine Haskell Problems&quot;
-  </content>
- </entry>
- <entry>
-  <title>Boarders: sebastian</title>
-  <author>
-   <name>Boarders</name>
-  </author>
-  <link href="https://github.com/Boarders/sebastian" />
-  <id>urn:rprimus:github:Boarders:sebastian</id>
-  <published>2021-12-31T21:12:30Z</published>
-  <updated>2021-12-31T21:12:30Z</updated>
+  <link href="https://github.com/CarstenKoenig/DOS2022" />
+  <id>urn:rprimus:github:CarstenKoenig:DOS2022</id>
+  <published>2022-11-11T05:33:25Z</published>
+  <updated>2022-11-11T05:33:25Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>pcrbrandao: haskell-learning</title>
+  <title>malob: hydra-tools</title>
   <author>
-   <name>pcrbrandao</name>
+   <name>malob</name>
   </author>
-  <link href="https://github.com/pcrbrandao/haskell-learning" />
-  <id>urn:rprimus:github:pcrbrandao:haskell-learning</id>
-  <published>2021-12-31T20:46:15Z</published>
-  <updated>2021-12-31T20:46:15Z</updated>
+  <link href="https://github.com/malob/hydra-tools" />
+  <id>urn:rprimus:github:malob:hydra-tools</id>
+  <published>2022-11-11T03:47:04Z</published>
+  <updated>2022-11-11T03:47:04Z</updated>
   <content type="html">
-   Learning Haskell language
+   Early WIP package for extracting useful information from Hydra.
   </content>
  </entry>
  <entry>
-  <title>beezee: json-persistent-filter</title>
+  <title>whittle: foundry-ai</title>
   <author>
-   <name>beezee</name>
+   <name>whittle</name>
   </author>
-  <link href="https://github.com/beezee/json-persistent-filter" />
-  <id>urn:rprimus:github:beezee:json-persistent-filter</id>
-  <published>2021-12-31T16:37:22Z</published>
-  <updated>2021-12-31T16:37:22Z</updated>
+  <link href="https://github.com/whittle/foundry-ai" />
+  <id>urn:rprimus:github:whittle:foundry-ai</id>
+  <published>2022-11-11T02:48:34Z</published>
+  <updated>2022-11-11T02:48:34Z</updated>
   <content type="html">
-   persistent filters go to and from json using aeson
+   Control Foundry from a Haskell process
   </content>
  </entry>
  <entry>
-  <title>MollyCK: minesweeper</title>
+  <title>owensmurray: squeal-postgresql-qq</title>
   <author>
-   <name>MollyCK</name>
+   <name>owensmurray</name>
   </author>
-  <link href="https://github.com/MollyCK/minesweeper" />
-  <id>urn:rprimus:github:MollyCK:minesweeper</id>
-  <published>2021-12-31T16:31:57Z</published>
-  <updated>2021-12-31T16:31:57Z</updated>
+  <link href="https://github.com/owensmurray/squeal-postgresql-qq" />
+  <id>urn:rprimus:github:owensmurray:squeal-postgresql-qq</id>
+  <published>2022-11-11T00:42:56Z</published>
+  <updated>2022-11-11T00:42:56Z</updated>
   <content type="html">
-   An auto-playing implementation of the game minesweeper in Haskell with Threepenny GUI
+   QuasiQuoter transforming raw sql into Squeal expressions.
   </content>
  </entry>
  <entry>
-  <title>toni057: euler-in-haskell</title>
+  <title>mau5mat: starcraft-rest-api-v1</title>
   <author>
-   <name>toni057</name>
+   <name>mau5mat</name>
   </author>
-  <link href="https://github.com/toni057/euler-in-haskell" />
-  <id>urn:rprimus:github:toni057:euler-in-haskell</id>
-  <published>2021-12-31T14:43:00Z</published>
-  <updated>2021-12-31T14:43:00Z</updated>
+  <link href="https://github.com/mau5mat/starcraft-rest-api-v1" />
+  <id>urn:rprimus:github:mau5mat:starcraft-rest-api-v1</id>
+  <published>2022-11-10T23:56:11Z</published>
+  <updated>2022-11-10T23:56:11Z</updated>
+  <content type="html">
+   RESTful API with Terran units from StarCraft 2 with Haskell + Scotty + Selda + Aeson
+  </content>
+ </entry>
+ <entry>
+  <title>biancacpacheco: plp-uno</title>
+  <author>
+   <name>biancacpacheco</name>
+  </author>
+  <link href="https://github.com/biancacpacheco/plp-uno" />
+  <id>urn:rprimus:github:biancacpacheco:plp-uno</id>
+  <published>2022-11-10T23:16:02Z</published>
+  <updated>2022-11-10T23:16:02Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>likwid: haskell-in-depth</title>
+  <title>azazak123: simplex-method</title>
   <author>
-   <name>likwid</name>
+   <name>azazak123</name>
   </author>
-  <link href="https://github.com/likwid/haskell-in-depth" />
-  <id>urn:rprimus:github:likwid:haskell-in-depth</id>
-  <published>2021-12-31T14:28:32Z</published>
-  <updated>2021-12-31T14:28:32Z</updated>
+  <link href="https://github.com/azazak123/simplex-method" />
+  <id>urn:rprimus:github:azazak123:simplex-method</id>
+  <published>2022-11-10T22:25:12Z</published>
+  <updated>2022-11-10T22:25:12Z</updated>
   <content type="html">
-   Haskell in Depth book
+   Simplex method implemented on haskell
   </content>
  </entry>
  <entry>
-  <title>mohich: FunctionalProgramming</title>
+  <title>eskaton: hs-tcpproxy</title>
   <author>
-   <name>mohich</name>
+   <name>eskaton</name>
   </author>
-  <link href="https://github.com/mohich/FunctionalProgramming" />
-  <id>urn:rprimus:github:mohich:FunctionalProgramming</id>
-  <published>2021-12-31T14:19:09Z</published>
-  <updated>2021-12-31T14:19:09Z</updated>
+  <link href="https://github.com/eskaton/hs-tcpproxy" />
+  <id>urn:rprimus:github:eskaton:hs-tcpproxy</id>
+  <published>2022-11-10T21:52:09Z</published>
+  <updated>2022-11-10T21:52:09Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>dtsaryov: csc-haskell-fp</title>
+  <title>crissalves: BattleJack</title>
   <author>
-   <name>dtsaryov</name>
+   <name>crissalves</name>
   </author>
-  <link href="https://github.com/dtsaryov/csc-haskell-fp" />
-  <id>urn:rprimus:github:dtsaryov:csc-haskell-fp</id>
-  <published>2021-12-31T14:10:40Z</published>
-  <updated>2021-12-31T14:10:40Z</updated>
-  <content type="html">
-   The repository contains lecture notes and practical task implementations from FP with Haskell course
-  </content>
- </entry>
- <entry>
-  <title>stoychoX: File-System</title>
-  <author>
-   <name>stoychoX</name>
-  </author>
-  <link href="https://github.com/stoychoX/File-System" />
-  <id>urn:rprimus:github:stoychoX:File-System</id>
-  <published>2021-12-31T14:05:32Z</published>
-  <updated>2021-12-31T14:05:32Z</updated>
-  <content type="html">
-   Project made for passing the functional programming course at FMI Sofia
-  </content>
- </entry>
- <entry>
-  <title>jhrcek: htype</title>
-  <author>
-   <name>jhrcek</name>
-  </author>
-  <link href="https://github.com/jhrcek/htype" />
-  <id>urn:rprimus:github:jhrcek:htype</id>
-  <published>2021-12-31T13:49:30Z</published>
-  <updated>2021-12-31T13:49:30Z</updated>
+  <link href="https://github.com/crissalves/BattleJack" />
+  <id>urn:rprimus:github:crissalves:BattleJack</id>
+  <published>2022-11-10T20:48:03Z</published>
+  <updated>2022-11-10T20:48:03Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>solenyaPickleman: trianglesolver</title>
+  <title>Ahmad-mtos: Conway-s-game-of-life</title>
   <author>
-   <name>solenyaPickleman</name>
+   <name>Ahmad-mtos</name>
   </author>
-  <link href="https://github.com/solenyaPickleman/trianglesolver" />
-  <id>urn:rprimus:github:solenyaPickleman:trianglesolver</id>
-  <published>2021-12-31T13:11:55Z</published>
-  <updated>2021-12-31T13:11:55Z</updated>
-  <content type="html">
-   A solution to the Triangle Peg Solitaire game using Haskell 
-  </content>
- </entry>
- <entry>
-  <title>marcoperg: advent</title>
-  <author>
-   <name>marcoperg</name>
-  </author>
-  <link href="https://github.com/marcoperg/advent" />
-  <id>urn:rprimus:github:marcoperg:advent</id>
-  <published>2021-12-31T12:32:08Z</published>
-  <updated>2021-12-31T12:32:08Z</updated>
+  <link href="https://github.com/Ahmad-mtos/Conway-s-game-of-life" />
+  <id>urn:rprimus:github:Ahmad-mtos:Conway-s-game-of-life</id>
+  <published>2022-11-10T20:35:38Z</published>
+  <updated>2022-11-10T20:35:38Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>martijnbastiaan: import-issues</title>
+  <title>wuan: haskell-workshop</title>
   <author>
-   <name>martijnbastiaan</name>
+   <name>wuan</name>
   </author>
-  <link href="https://github.com/martijnbastiaan/import-issues" />
-  <id>urn:rprimus:github:martijnbastiaan:import-issues</id>
-  <published>2021-12-31T11:48:32Z</published>
-  <updated>2021-12-31T11:48:32Z</updated>
+  <link href="https://github.com/wuan/haskell-workshop" />
+  <id>urn:rprimus:github:wuan:haskell-workshop</id>
+  <published>2022-11-10T17:03:20Z</published>
+  <updated>2022-11-10T17:03:20Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>bonyuta0204: ghtools</title>
+  <title>Matseslats: 1D-Frogger-Easy-Haskell</title>
   <author>
-   <name>bonyuta0204</name>
+   <name>Matseslats</name>
   </author>
-  <link href="https://github.com/bonyuta0204/ghtools" />
-  <id>urn:rprimus:github:bonyuta0204:ghtools</id>
-  <published>2021-12-31T09:12:40Z</published>
-  <updated>2021-12-31T09:12:40Z</updated>
+  <link href="https://github.com/Matseslats/1D-Frogger-Easy-Haskell" />
+  <id>urn:rprimus:github:Matseslats:1D-Frogger-Easy-Haskell</id>
+  <published>2022-11-10T14:20:50Z</published>
+  <updated>2022-11-10T14:20:50Z</updated>
   <content type="html">
-   github tools written in haskell
+   Solution to the Kattis problem 1-D Frogger (Easy) written in Haskell
   </content>
  </entry>
  <entry>
-  <title>nkly: adventofcode2021</title>
+  <title>Diamondy4: haerospike</title>
   <author>
-   <name>nkly</name>
+   <name>Diamondy4</name>
   </author>
-  <link href="https://github.com/nkly/adventofcode2021" />
-  <id>urn:rprimus:github:nkly:adventofcode2021</id>
-  <published>2021-12-31T09:01:15Z</published>
-  <updated>2021-12-31T09:01:15Z</updated>
+  <link href="https://github.com/Diamondy4/haerospike" />
+  <id>urn:rprimus:github:Diamondy4:haerospike</id>
+  <published>2022-11-10T14:13:33Z</published>
+  <updated>2022-11-10T14:13:33Z</updated>
   <content type="html">
-   Solutions to all puzzles from Advent of Code 2021
+   Aerospike Haskell client - WIP
   </content>
  </entry>
  <entry>
-  <title>3noch: haskell-gitpod-template</title>
+  <title>jy14898: plutus-scripts</title>
   <author>
-   <name>3noch</name>
+   <name>jy14898</name>
   </author>
-  <link href="https://github.com/3noch/haskell-gitpod-template" />
-  <id>urn:rprimus:github:3noch:haskell-gitpod-template</id>
-  <published>2021-12-31T05:17:49Z</published>
-  <updated>2021-12-31T05:17:49Z</updated>
-  <content type="html">
-   Haskell Gitpod Template
-  </content>
- </entry>
- <entry>
-  <title>cdjwilson: Universal-Turing-Machine</title>
-  <author>
-   <name>cdjwilson</name>
-  </author>
-  <link href="https://github.com/cdjwilson/Universal-Turing-Machine" />
-  <id>urn:rprimus:github:cdjwilson:Universal-Turing-Machine</id>
-  <published>2021-12-31T04:51:19Z</published>
-  <updated>2021-12-31T04:51:19Z</updated>
+  <link href="https://github.com/jy14898/plutus-scripts" />
+  <id>urn:rprimus:github:jy14898:plutus-scripts</id>
+  <published>2022-11-10T14:03:43Z</published>
+  <updated>2022-11-10T14:03:43Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>saurabh111233212: Ludicrous</title>
+  <title>LucaGawa: ArchConfig</title>
   <author>
-   <name>saurabh111233212</name>
+   <name>LucaGawa</name>
   </author>
-  <link href="https://github.com/saurabh111233212/Ludicrous" />
-  <id>urn:rprimus:github:saurabh111233212:Ludicrous</id>
-  <published>2021-12-31T04:37:50Z</published>
-  <updated>2021-12-31T04:37:50Z</updated>
+  <link href="https://github.com/LucaGawa/ArchConfig" />
+  <id>urn:rprimus:github:LucaGawa:ArchConfig</id>
+  <published>2022-11-10T08:46:50Z</published>
+  <updated>2022-11-10T08:46:50Z</updated>
   <content type="html">
-   Fully Functional/pure text editor for the Lu language. Built with David Xu
+   ArchLinux Config Files
   </content>
  </entry>
  <entry>
-  <title>adaboys: plutus-master</title>
+  <title>Kantis: advent-of-haskell</title>
   <author>
-   <name>adaboys</name>
+   <name>Kantis</name>
   </author>
-  <link href="https://github.com/adaboys/plutus-master" />
-  <id>urn:rprimus:github:adaboys:plutus-master</id>
-  <published>2021-12-31T04:25:51Z</published>
-  <updated>2021-12-31T04:25:51Z</updated>
-  <content type="html">
-   simple plutus master
-  </content>
- </entry>
- <entry>
-  <title>cdjwilson: Basic-Language-Interpreter</title>
-  <author>
-   <name>cdjwilson</name>
-  </author>
-  <link href="https://github.com/cdjwilson/Basic-Language-Interpreter" />
-  <id>urn:rprimus:github:cdjwilson:Basic-Language-Interpreter</id>
-  <published>2021-12-31T03:45:52Z</published>
-  <updated>2021-12-31T03:45:52Z</updated>
+  <link href="https://github.com/Kantis/advent-of-haskell" />
+  <id>urn:rprimus:github:Kantis:advent-of-haskell</id>
+  <published>2022-11-10T07:47:59Z</published>
+  <updated>2022-11-10T07:47:59Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>DKurilo: crest-18-puzzle</title>
+  <title>rasmus-kirk: toyblockchain</title>
   <author>
-   <name>DKurilo</name>
+   <name>rasmus-kirk</name>
   </author>
-  <link href="https://github.com/DKurilo/crest-18-puzzle" />
-  <id>urn:rprimus:github:DKurilo:crest-18-puzzle</id>
-  <published>2021-12-31T03:31:18Z</published>
-  <updated>2021-12-31T03:31:18Z</updated>
-  <content type="html">
-   Here is program to find solution for puzzle. Haskell
-  </content>
- </entry>
- <entry>
-  <title>luke9kim8: weekly-rust-webscraper</title>
-  <author>
-   <name>luke9kim8</name>
-  </author>
-  <link href="https://github.com/luke9kim8/weekly-rust-webscraper" />
-  <id>urn:rprimus:github:luke9kim8:weekly-rust-webscraper</id>
-  <published>2021-12-31T02:34:01Z</published>
-  <updated>2021-12-31T02:34:01Z</updated>
-  <content type="html">
-   Web scraper to get all comments from beginner questions on r/rust
-  </content>
- </entry>
- <entry>
-  <title>jakewilson: jot</title>
-  <author>
-   <name>jakewilson</name>
-  </author>
-  <link href="https://github.com/jakewilson/jot" />
-  <id>urn:rprimus:github:jakewilson:jot</id>
-  <published>2021-12-31T02:26:26Z</published>
-  <updated>2021-12-31T02:26:26Z</updated>
-  <content type="html">
-   command-line note-taking
-  </content>
- </entry>
- <entry>
-  <title>minhtriet2k9dev-pas: My-haskell-project</title>
-  <author>
-   <name>minhtriet2k9dev-pas</name>
-  </author>
-  <link href="https://github.com/minhtriet2k9dev-pas/My-haskell-project" />
-  <id>urn:rprimus:github:minhtriet2k9dev-pas:My-haskell-project</id>
-  <published>2021-12-31T01:59:35Z</published>
-  <updated>2021-12-31T01:59:35Z</updated>
+  <link href="https://github.com/rasmus-kirk/toyblockchain" />
+  <id>urn:rprimus:github:rasmus-kirk:toyblockchain</id>
+  <published>2022-11-10T07:05:06Z</published>
+  <updated>2022-11-10T07:05:06Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>christopherfanning: xmonad.config</title>
+  <title>functionally: kafka-device-leap</title>
   <author>
-   <name>christopherfanning</name>
+   <name>functionally</name>
   </author>
-  <link href="https://github.com/christopherfanning/xmonad.config" />
-  <id>urn:rprimus:github:christopherfanning:xmonad.config</id>
-  <published>2021-12-31T01:04:46Z</published>
-  <updated>2021-12-31T01:04:46Z</updated>
+  <link href="https://github.com/functionally/kafka-device-leap" />
+  <id>urn:rprimus:github:functionally:kafka-device-leap</id>
+  <published>2022-11-10T07:04:47Z</published>
+  <updated>2022-11-10T07:04:47Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>tangboxuan: haskell_pyp</title>
+  <title>functionally: plutus-trace</title>
   <author>
-   <name>tangboxuan</name>
+   <name>functionally</name>
   </author>
-  <link href="https://github.com/tangboxuan/haskell_pyp" />
-  <id>urn:rprimus:github:tangboxuan:haskell_pyp</id>
-  <published>2021-12-30T22:09:46Z</published>
-  <updated>2021-12-30T22:09:46Z</updated>
+  <link href="https://github.com/functionally/plutus-trace" />
+  <id>urn:rprimus:github:functionally:plutus-trace</id>
+  <published>2022-11-10T06:39:27Z</published>
+  <updated>2022-11-10T06:39:27Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>fersilva16: exercism-haskell</title>
+  <title>bwbush: sera</title>
   <author>
-   <name>fersilva16</name>
+   <name>bwbush</name>
   </author>
-  <link href="https://github.com/fersilva16/exercism-haskell" />
-  <id>urn:rprimus:github:fersilva16:exercism-haskell</id>
-  <published>2021-12-30T21:30:23Z</published>
-  <updated>2021-12-30T21:30:23Z</updated>
-  <content type="html">
-   My solutions for Exercism&#039;s Haskell Track
-  </content>
- </entry>
- <entry>
-  <title>rdwebster: rdwAdventOfCode2021</title>
-  <author>
-   <name>rdwebster</name>
-  </author>
-  <link href="https://github.com/rdwebster/rdwAdventOfCode2021" />
-  <id>urn:rprimus:github:rdwebster:rdwAdventOfCode2021</id>
-  <published>2021-12-30T18:28:03Z</published>
-  <updated>2021-12-30T18:28:03Z</updated>
+  <link href="https://github.com/bwbush/sera" />
+  <id>urn:rprimus:github:bwbush:sera</id>
+  <published>2022-11-10T06:38:48Z</published>
+  <updated>2022-11-10T06:38:48Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>guibou: repro_hls_base_no_prelude</title>
+  <title>functionally: infovis-parallel</title>
   <author>
-   <name>guibou</name>
+   <name>functionally</name>
   </author>
-  <link href="https://github.com/guibou/repro_hls_base_no_prelude" />
-  <id>urn:rprimus:github:guibou:repro_hls_base_no_prelude</id>
-  <published>2021-12-30T17:07:15Z</published>
-  <updated>2021-12-30T17:07:15Z</updated>
+  <link href="https://github.com/functionally/infovis-parallel" />
+  <id>urn:rprimus:github:functionally:infovis-parallel</id>
+  <published>2022-11-10T06:38:30Z</published>
+  <updated>2022-11-10T06:38:30Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>supremejohnny: haskell_learning</title>
+  <title>functionally: haquil</title>
   <author>
-   <name>supremejohnny</name>
+   <name>functionally</name>
   </author>
-  <link href="https://github.com/supremejohnny/haskell_learning" />
-  <id>urn:rprimus:github:supremejohnny:haskell_learning</id>
-  <published>2021-12-30T16:51:22Z</published>
-  <updated>2021-12-30T16:51:22Z</updated>
-  <content type="html">
-   The way of haskell learning
-  </content>
- </entry>
- <entry>
-  <title>cardinal-II: ihp-blog</title>
-  <author>
-   <name>cardinal-II</name>
-  </author>
-  <link href="https://github.com/cardinal-II/ihp-blog" />
-  <id>urn:rprimus:github:cardinal-II:ihp-blog</id>
-  <published>2021-12-30T15:57:01Z</published>
-  <updated>2021-12-30T15:57:01Z</updated>
+  <link href="https://github.com/functionally/haquil" />
+  <id>urn:rprimus:github:functionally:haquil</id>
+  <published>2022-11-10T06:36:54Z</published>
+  <updated>2022-11-10T06:36:54Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>therosbif: HAL</title>
+  <title>functionally: daft</title>
   <author>
-   <name>therosbif</name>
+   <name>functionally</name>
   </author>
-  <link href="https://github.com/therosbif/HAL" />
-  <id>urn:rprimus:github:therosbif:HAL</id>
-  <published>2021-12-30T15:54:04Z</published>
-  <updated>2021-12-30T15:54:04Z</updated>
-  <content type="html">
-   Haskell LISP Interpreter
-  </content>
- </entry>
- <entry>
-  <title>RileyEv: truelayer</title>
-  <author>
-   <name>RileyEv</name>
-  </author>
-  <link href="https://github.com/RileyEv/truelayer" />
-  <id>urn:rprimus:github:RileyEv:truelayer</id>
-  <published>2021-12-30T15:47:00Z</published>
-  <updated>2021-12-30T15:47:00Z</updated>
-  <content type="html">
-   Haskell TrueLayer Data API client
-  </content>
- </entry>
- <entry>
-  <title>dylan-thinnes: afternoon-lisp</title>
-  <author>
-   <name>dylan-thinnes</name>
-  </author>
-  <link href="https://github.com/dylan-thinnes/afternoon-lisp" />
-  <id>urn:rprimus:github:dylan-thinnes:afternoon-lisp</id>
-  <published>2021-12-30T15:04:18Z</published>
-  <updated>2021-12-30T15:04:18Z</updated>
-  <content type="html">
-   A lisp I threw together over an afternoon, originally looking at SectorLISP
-  </content>
- </entry>
- <entry>
-  <title>ynishi: tmux-save</title>
-  <author>
-   <name>ynishi</name>
-  </author>
-  <link href="https://github.com/ynishi/tmux-save" />
-  <id>urn:rprimus:github:ynishi:tmux-save</id>
-  <published>2021-12-30T14:43:33Z</published>
-  <updated>2021-12-30T14:43:33Z</updated>
+  <link href="https://github.com/functionally/daft" />
+  <id>urn:rprimus:github:functionally:daft</id>
+  <published>2022-11-10T06:36:34Z</published>
+  <updated>2022-11-10T06:36:34Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>Cebulllaaa: Compiler</title>
+  <title>functionally: graft</title>
   <author>
-   <name>Cebulllaaa</name>
+   <name>functionally</name>
   </author>
-  <link href="https://github.com/Cebulllaaa/Compiler" />
-  <id>urn:rprimus:github:Cebulllaaa:Compiler</id>
-  <published>2021-12-30T13:54:41Z</published>
-  <updated>2021-12-30T13:54:41Z</updated>
+  <link href="https://github.com/functionally/graft" />
+  <id>urn:rprimus:github:functionally:graft</id>
+  <published>2022-11-10T06:36:17Z</published>
+  <updated>2022-11-10T06:36:17Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>DeeveshBeegun: turing-machine-implementation</title>
+  <title>functionally: kafka-device-joystick</title>
   <author>
-   <name>DeeveshBeegun</name>
+   <name>functionally</name>
   </author>
-  <link href="https://github.com/DeeveshBeegun/turing-machine-implementation" />
-  <id>urn:rprimus:github:DeeveshBeegun:turing-machine-implementation</id>
-  <published>2021-12-30T13:39:25Z</published>
-  <updated>2021-12-30T13:39:25Z</updated>
+  <link href="https://github.com/functionally/kafka-device-joystick" />
+  <id>urn:rprimus:github:functionally:kafka-device-joystick</id>
+  <published>2022-11-10T06:35:14Z</published>
+  <updated>2022-11-10T06:35:14Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>h9h: cses-fi</title>
+  <title>bhaktishh: coq-to-lean</title>
   <author>
-   <name>h9h</name>
+   <name>bhaktishh</name>
   </author>
-  <link href="https://github.com/h9h/cses-fi" />
-  <id>urn:rprimus:github:h9h:cses-fi</id>
-  <published>2021-12-30T13:35:37Z</published>
-  <updated>2021-12-30T13:35:37Z</updated>
+  <link href="https://github.com/bhaktishh/coq-to-lean" />
+  <id>urn:rprimus:github:bhaktishh:coq-to-lean</id>
+  <published>2022-11-10T06:33:17Z</published>
+  <updated>2022-11-10T06:33:17Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>sukovanej: HaskellMonadTransformersExample</title>
+  <title>functionally: opengl-dlp-stereo</title>
   <author>
-   <name>sukovanej</name>
+   <name>functionally</name>
   </author>
-  <link href="https://github.com/sukovanej/HaskellMonadTransformersExample" />
-  <id>urn:rprimus:github:sukovanej:HaskellMonadTransformersExample</id>
-  <published>2021-12-30T13:04:52Z</published>
-  <updated>2021-12-30T13:04:52Z</updated>
+  <link href="https://github.com/functionally/opengl-dlp-stereo" />
+  <id>urn:rprimus:github:functionally:opengl-dlp-stereo</id>
+  <published>2022-11-10T06:31:51Z</published>
+  <updated>2022-11-10T06:31:51Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>Project-Dark-Math: RrefListGen</title>
+  <title>functionally: opengl-spacenavigator</title>
   <author>
-   <name>Project-Dark-Math</name>
+   <name>functionally</name>
   </author>
-  <link href="https://github.com/Project-Dark-Math/RrefListGen" />
-  <id>urn:rprimus:github:Project-Dark-Math:RrefListGen</id>
-  <published>2021-12-30T11:38:16Z</published>
-  <updated>2021-12-30T11:38:16Z</updated>
-  <content type="html">
-   A generator of ref with printing a list of elementary row operations
-  </content>
- </entry>
- <entry>
-  <title>ShadowCurse: scheme</title>
-  <author>
-   <name>ShadowCurse</name>
-  </author>
-  <link href="https://github.com/ShadowCurse/scheme" />
-  <id>urn:rprimus:github:ShadowCurse:scheme</id>
-  <published>2021-12-30T11:28:57Z</published>
-  <updated>2021-12-30T11:28:57Z</updated>
-  <content type="html">
-   implementation of &quot;Write You A Scheme V2&quot;
-  </content>
- </entry>
- <entry>
-  <title>drybas: fp-course</title>
-  <author>
-   <name>drybas</name>
-  </author>
-  <link href="https://github.com/drybas/fp-course" />
-  <id>urn:rprimus:github:drybas:fp-course</id>
-  <published>2021-12-30T11:26:05Z</published>
-  <updated>2021-12-30T11:26:05Z</updated>
-  <content type="html">
-   Tasks for the course Functional Programming on Haskell (stepik.org)
-  </content>
- </entry>
- <entry>
-  <title>alepih: Account-app-hs</title>
-  <author>
-   <name>alepih</name>
-  </author>
-  <link href="https://github.com/alepih/Account-app-hs" />
-  <id>urn:rprimus:github:alepih:Account-app-hs</id>
-  <published>2021-12-30T10:09:35Z</published>
-  <updated>2021-12-30T10:09:35Z</updated>
+  <link href="https://github.com/functionally/opengl-spacenavigator" />
+  <id>urn:rprimus:github:functionally:opengl-spacenavigator</id>
+  <published>2022-11-10T06:31:30Z</published>
+  <updated>2022-11-10T06:31:30Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>nmjr-311: coexponential-renshu</title>
+  <title>functionally: handa-opengl</title>
   <author>
-   <name>nmjr-311</name>
+   <name>functionally</name>
   </author>
-  <link href="https://github.com/nmjr-311/coexponential-renshu" />
-  <id>urn:rprimus:github:nmjr-311:coexponential-renshu</id>
-  <published>2021-12-30T08:40:49Z</published>
-  <updated>2021-12-30T08:40:49Z</updated>
+  <link href="https://github.com/functionally/handa-opengl" />
+  <id>urn:rprimus:github:functionally:handa-opengl</id>
+  <published>2022-11-10T06:26:36Z</published>
+  <updated>2022-11-10T06:26:36Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>Hawzen: Haskell-99-Problems</title>
+  <title>functionally: vrpn</title>
   <author>
-   <name>Hawzen</name>
+   <name>functionally</name>
   </author>
-  <link href="https://github.com/Hawzen/Haskell-99-Problems" />
-  <id>urn:rprimus:github:Hawzen:Haskell-99-Problems</id>
-  <published>2021-12-30T07:25:39Z</published>
-  <updated>2021-12-30T07:25:39Z</updated>
-  <content type="html">
-   My solutions for https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems. Just for fun
-  </content>
- </entry>
- <entry>
-  <title>tczerwinski2020: Tautology-Checker</title>
-  <author>
-   <name>tczerwinski2020</name>
-  </author>
-  <link href="https://github.com/tczerwinski2020/Tautology-Checker" />
-  <id>urn:rprimus:github:tczerwinski2020:Tautology-Checker</id>
-  <published>2021-12-30T05:26:23Z</published>
-  <updated>2021-12-30T05:26:23Z</updated>
+  <link href="https://github.com/functionally/vrpn" />
+  <id>urn:rprimus:github:functionally:vrpn</id>
+  <published>2022-11-10T06:24:32Z</published>
+  <updated>2022-11-10T06:24:32Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>zacwood9: ihp-cabal-nix</title>
+  <title>functionally: kafka-device-vrpn</title>
   <author>
-   <name>zacwood9</name>
+   <name>functionally</name>
   </author>
-  <link href="https://github.com/zacwood9/ihp-cabal-nix" />
-  <id>urn:rprimus:github:zacwood9:ihp-cabal-nix</id>
-  <published>2021-12-30T05:25:05Z</published>
-  <updated>2021-12-30T05:25:05Z</updated>
-  <content type="html">
-   An example for how to build an IHP project with Cabal and Nix.
-  </content>
- </entry>
- <entry>
-  <title>jbedo: PureR</title>
-  <author>
-   <name>jbedo</name>
-  </author>
-  <link href="https://github.com/jbedo/PureR" />
-  <id>urn:rprimus:github:jbedo:PureR</id>
-  <published>2021-12-30T04:50:43Z</published>
-  <updated>2021-12-30T04:50:43Z</updated>
+  <link href="https://github.com/functionally/kafka-device-vrpn" />
+  <id>urn:rprimus:github:functionally:kafka-device-vrpn</id>
+  <published>2022-11-10T06:21:24Z</published>
+  <updated>2022-11-10T06:21:24Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>aguxez: htw</title>
+  <title>functionally: color-counter</title>
   <author>
-   <name>aguxez</name>
+   <name>functionally</name>
   </author>
-  <link href="https://github.com/aguxez/htw" />
-  <id>urn:rprimus:github:aguxez:htw</id>
-  <published>2021-12-30T03:42:07Z</published>
-  <updated>2021-12-30T03:42:07Z</updated>
-  <content type="html">
-   Super simple Twitter thread shrinking CLI
-  </content>
- </entry>
- <entry>
-  <title>damianstone: COMS10016_Haskell</title>
-  <author>
-   <name>damianstone</name>
-  </author>
-  <link href="https://github.com/damianstone/COMS10016_Haskell" />
-  <id>urn:rprimus:github:damianstone:COMS10016_Haskell</id>
-  <published>2021-12-30T03:39:47Z</published>
-  <updated>2021-12-30T03:39:47Z</updated>
-  <content type="html">
-   Notes and labs of the Functional Programming class in Haskell
-  </content>
- </entry>
- <entry>
-  <title>ken-scarf: servant-api-doc-experiment</title>
-  <author>
-   <name>ken-scarf</name>
-  </author>
-  <link href="https://github.com/ken-scarf/servant-api-doc-experiment" />
-  <id>urn:rprimus:github:ken-scarf:servant-api-doc-experiment</id>
-  <published>2021-12-30T03:37:00Z</published>
-  <updated>2021-12-30T03:37:00Z</updated>
+  <link href="https://github.com/functionally/color-counter" />
+  <id>urn:rprimus:github:functionally:color-counter</id>
+  <published>2022-11-10T06:20:11Z</published>
+  <updated>2022-11-10T06:20:11Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>jiduque: wordscape</title>
+  <title>bwbush: plutus-pioneers</title>
   <author>
-   <name>jiduque</name>
+   <name>bwbush</name>
   </author>
-  <link href="https://github.com/jiduque/wordscape" />
-  <id>urn:rprimus:github:jiduque:wordscape</id>
-  <published>2021-12-30T02:52:09Z</published>
-  <updated>2021-12-30T02:52:09Z</updated>
+  <link href="https://github.com/bwbush/plutus-pioneers" />
+  <id>urn:rprimus:github:bwbush:plutus-pioneers</id>
+  <published>2022-11-10T05:41:36Z</published>
+  <updated>2022-11-10T05:41:36Z</updated>
   <content type="html">
-   Small app that helps me cheat at wordscape. This was really just for me to get familiar with Haskell. 
+   
   </content>
  </entry>
  <entry>
-  <title>dylan-thinnes: lambda-calculus</title>
+  <title>balacij: ProtoChunkDB</title>
   <author>
-   <name>dylan-thinnes</name>
+   <name>balacij</name>
   </author>
-  <link href="https://github.com/dylan-thinnes/lambda-calculus" />
-  <id>urn:rprimus:github:dylan-thinnes:lambda-calculus</id>
-  <published>2021-12-30T01:00:15Z</published>
-  <updated>2021-12-30T01:00:15Z</updated>
+  <link href="https://github.com/balacij/ProtoChunkDB" />
+  <id>urn:rprimus:github:balacij:ProtoChunkDB</id>
+  <published>2022-11-10T01:09:31Z</published>
+  <updated>2022-11-10T01:09:31Z</updated>
   <content type="html">
-   Tinkering with Lambda Calculus (Binary representations, DeBruijn indices, Automatic Church encoding)
-  </content>
- </entry>
- <entry>
-  <title>BenjaminSnyder: pargrep</title>
-  <author>
-   <name>BenjaminSnyder</name>
-  </author>
-  <link href="https://github.com/BenjaminSnyder/pargrep" />
-  <id>urn:rprimus:github:BenjaminSnyder:pargrep</id>
-  <published>2021-12-30T00:47:14Z</published>
-  <updated>2021-12-30T00:47:14Z</updated>
-  <content type="html">
-   a parallel implementation of grep written in haskell
+   
   </content>
  </entry>
 </feed>
