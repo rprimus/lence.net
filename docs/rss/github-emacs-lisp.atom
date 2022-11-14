@@ -2,8 +2,112 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2022-11-13T07:17:35Z</updated>
+<updated>2022-11-14T02:02:57Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>ewantown: dotfiles</title>
+  <author>
+   <name>ewantown</name>
+  </author>
+  <link href="https://github.com/ewantown/dotfiles" />
+  <id>urn:rprimus:github:ewantown:dotfiles</id>
+  <published>2022-11-14T02:02:57Z</published>
+  <updated>2022-11-14T02:02:57Z</updated>
+  <content type="html">
+   Basic UI and VCS bits of my config.
+  </content>
+ </entry>
+ <entry>
+  <title>jdpage: groovy-splash.el</title>
+  <author>
+   <name>jdpage</name>
+  </author>
+  <link href="https://github.com/jdpage/groovy-splash.el" />
+  <id>urn:rprimus:github:jdpage:groovy-splash.el</id>
+  <published>2022-11-14T00:54:35Z</published>
+  <updated>2022-11-14T00:54:35Z</updated>
+  <content type="html">
+   A groovy little splash screen for Emacs
+  </content>
+ </entry>
+ <entry>
+  <title>luigidcsoares: .doom.d</title>
+  <author>
+   <name>luigidcsoares</name>
+  </author>
+  <link href="https://github.com/luigidcsoares/.doom.d" />
+  <id>urn:rprimus:github:luigidcsoares:.doom.d</id>
+  <published>2022-11-14T00:30:18Z</published>
+  <updated>2022-11-14T00:30:18Z</updated>
+  <content type="html">
+   My private config for Doom Emacs
+  </content>
+ </entry>
+ <entry>
+  <title>joshcho: ob-bigquery</title>
+  <author>
+   <name>joshcho</name>
+  </author>
+  <link href="https://github.com/joshcho/ob-bigquery" />
+  <id>urn:rprimus:github:joshcho:ob-bigquery</id>
+  <published>2022-11-13T20:42:52Z</published>
+  <updated>2022-11-13T20:42:52Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Jousimies: Emacs</title>
+  <author>
+   <name>Jousimies</name>
+  </author>
+  <link href="https://github.com/Jousimies/Emacs" />
+  <id>urn:rprimus:github:Jousimies:Emacs</id>
+  <published>2022-11-13T15:47:27Z</published>
+  <updated>2022-11-13T15:47:27Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>sumit0x0d: .emacs.d</title>
+  <author>
+   <name>sumit0x0d</name>
+  </author>
+  <link href="https://github.com/sumit0x0d/.emacs.d" />
+  <id>urn:rprimus:github:sumit0x0d:.emacs.d</id>
+  <published>2022-11-13T15:42:30Z</published>
+  <updated>2022-11-13T15:42:30Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>mdlc96: mdlc96_emacs_config</title>
+  <author>
+   <name>mdlc96</name>
+  </author>
+  <link href="https://github.com/mdlc96/mdlc96_emacs_config" />
+  <id>urn:rprimus:github:mdlc96:mdlc96_emacs_config</id>
+  <published>2022-11-13T13:25:39Z</published>
+  <updated>2022-11-13T13:25:39Z</updated>
+  <content type="html">
+   My Emacs init configuration
+  </content>
+ </entry>
+ <entry>
+  <title>shishimaru: helm-find-project-files.el</title>
+  <author>
+   <name>shishimaru</name>
+  </author>
+  <link href="https://github.com/shishimaru/helm-find-project-files.el" />
+  <id>urn:rprimus:github:shishimaru:helm-find-project-files.el</id>
+  <published>2022-11-13T12:47:33Z</published>
+  <updated>2022-11-13T12:47:33Z</updated>
+  <content type="html">
+   Emacs package to extend helm-find to recursively find files of the current working project identified by .git.
+  </content>
+ </entry>
  <entry>
   <title>pxel8063: mylisp</title>
   <author>
@@ -92,7 +196,7 @@
   <published>2022-11-13T00:06:09Z</published>
   <updated>2022-11-13T00:06:09Z</updated>
   <content type="html">
-   Mirror of the jarchive package from GNU ELPA, current as of 2022-11-13
+   Mirror of the jarchive package from GNU ELPA, current as of 2022-11-14
   </content>
  </entry>
  <entry>
@@ -171,6 +275,19 @@
   <updated>2022-11-12T15:58:46Z</updated>
   <content type="html">
    Major modes for editing Beans-related files.
+  </content>
+ </entry>
+ <entry>
+  <title>Cletip: discussionTheSystem</title>
+  <author>
+   <name>Cletip</name>
+  </author>
+  <link href="https://github.com/Cletip/discussionTheSystem" />
+  <id>urn:rprimus:github:Cletip:discussionTheSystem</id>
+  <published>2022-11-12T15:34:04Z</published>
+  <updated>2022-11-12T15:34:04Z</updated>
+  <content type="html">
+   
   </content>
  </entry>
  <entry>
@@ -262,84 +379,6 @@
   <updated>2022-11-12T00:58:11Z</updated>
   <content type="html">
    My personal config files
-  </content>
- </entry>
- <entry>
-  <title>caseythart: rolodex</title>
-  <author>
-   <name>caseythart</name>
-  </author>
-  <link href="https://github.com/caseythart/rolodex" />
-  <id>urn:rprimus:github:caseythart:rolodex</id>
-  <published>2022-11-11T18:41:48Z</published>
-  <updated>2022-11-11T18:41:48Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>gnudad: dotfiles</title>
-  <author>
-   <name>gnudad</name>
-  </author>
-  <link href="https://github.com/gnudad/dotfiles" />
-  <id>urn:rprimus:github:gnudad:dotfiles</id>
-  <published>2022-11-11T15:23:20Z</published>
-  <updated>2022-11-11T15:23:20Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Ionsto: linux_setp</title>
-  <author>
-   <name>Ionsto</name>
-  </author>
-  <link href="https://github.com/Ionsto/linux_setp" />
-  <id>urn:rprimus:github:Ionsto:linux_setp</id>
-  <published>2022-11-11T14:20:06Z</published>
-  <updated>2022-11-11T14:20:06Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Yescafe: .emacs.d</title>
-  <author>
-   <name>Yescafe</name>
-  </author>
-  <link href="https://github.com/Yescafe/.emacs.d" />
-  <id>urn:rprimus:github:Yescafe:.emacs.d</id>
-  <published>2022-11-11T09:37:16Z</published>
-  <updated>2022-11-11T09:37:16Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jizhiwen: .emacs.d</title>
-  <author>
-   <name>jizhiwen</name>
-  </author>
-  <link href="https://github.com/jizhiwen/.emacs.d" />
-  <id>urn:rprimus:github:jizhiwen:.emacs.d</id>
-  <published>2022-11-11T03:38:56Z</published>
-  <updated>2022-11-11T03:38:56Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>stuhlmueller: gpt.el</title>
-  <author>
-   <name>stuhlmueller</name>
-  </author>
-  <link href="https://github.com/stuhlmueller/gpt.el" />
-  <id>urn:rprimus:github:stuhlmueller:gpt.el</id>
-  <published>2022-11-11T02:27:22Z</published>
-  <updated>2022-11-11T02:27:22Z</updated>
-  <content type="html">
-   An Emacs package for calling instruction-following language models
   </content>
  </entry>
 </feed>
