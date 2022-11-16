@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-11-15T05:45:38Z</updated>
+<updated>2022-11-16T21:23:25Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>s-expressionists: Invistra</title>
+  <author>
+   <name>s-expressionists</name>
+  </author>
+  <link href="https://github.com/s-expressionists/Invistra" />
+  <id>urn:rprimus:github:s-expressionists:Invistra</id>
+  <published>2022-11-16T21:23:25Z</published>
+  <updated>2022-11-16T21:23:25Z</updated>
+  <content type="html">
+   A portable and extensible Common Lisp FORMAT implementation 
+  </content>
+ </entry>
+ <entry>
+  <title>selwynsimsek: integral</title>
+  <author>
+   <name>selwynsimsek</name>
+  </author>
+  <link href="https://github.com/selwynsimsek/integral" />
+  <id>urn:rprimus:github:selwynsimsek:integral</id>
+  <published>2022-11-16T19:41:00Z</published>
+  <updated>2022-11-16T19:41:00Z</updated>
+  <content type="html">
+   Signed integer conversion with Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>joshcho: slix</title>
+  <author>
+   <name>joshcho</name>
+  </author>
+  <link href="https://github.com/joshcho/slix" />
+  <id>urn:rprimus:github:joshcho:slix</id>
+  <published>2022-11-15T23:32:25Z</published>
+  <updated>2022-11-15T23:32:25Z</updated>
+  <content type="html">
+   Psychological Programming Environment
+  </content>
+ </entry>
+ <entry>
+  <title>fade: flowsifter</title>
+  <author>
+   <name>fade</name>
+  </author>
+  <link href="https://github.com/fade/flowsifter" />
+  <id>urn:rprimus:github:fade:flowsifter</id>
+  <published>2022-11-15T19:27:24Z</published>
+  <updated>2022-11-15T19:27:24Z</updated>
+  <content type="html">
+   Knife tricks for finance. Absynthe not necessary.
+  </content>
+ </entry>
+ <entry>
+  <title>B0bbycode: Linconstore-greek</title>
+  <author>
+   <name>B0bbycode</name>
+  </author>
+  <link href="https://github.com/B0bbycode/Linconstore-greek" />
+  <id>urn:rprimus:github:B0bbycode:Linconstore-greek</id>
+  <published>2022-11-15T11:21:16Z</published>
+  <updated>2022-11-15T11:21:16Z</updated>
+  <content type="html">
+   greek email
+  </content>
+ </entry>
+ <entry>
+  <title>Strafred: LISP</title>
+  <author>
+   <name>Strafred</name>
+  </author>
+  <link href="https://github.com/Strafred/LISP" />
+  <id>urn:rprimus:github:Strafred:LISP</id>
+  <published>2022-11-15T10:56:37Z</published>
+  <updated>2022-11-15T10:56:37Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>cha2501: CMSC124Lab5</title>
   <author>
@@ -14,7 +92,7 @@
   <published>2022-11-15T05:45:38Z</published>
   <updated>2022-11-15T05:45:38Z</updated>
   <content type="html">
-   Common lisp program to check prime numbers from 1 to 1000.
+   Common lisp program that generates prime numbers between the range of 1 and 1000 and the greatest number between three given values.
   </content>
  </entry>
  <entry>
@@ -132,97 +210,6 @@
   <updated>2022-11-14T07:59:24Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>bplx: flappy-lisp</title>
-  <author>
-   <name>bplx</name>
-  </author>
-  <link href="https://github.com/bplx/flappy-lisp" />
-  <id>urn:rprimus:github:bplx:flappy-lisp</id>
-  <published>2022-11-13T20:06:11Z</published>
-  <updated>2022-11-13T20:06:11Z</updated>
-  <content type="html">
-   My first game in Lisp!
-  </content>
- </entry>
- <entry>
-  <title>Gleefre: waterdoor</title>
-  <author>
-   <name>Gleefre</name>
-  </author>
-  <link href="https://github.com/Gleefre/waterdoor" />
-  <id>urn:rprimus:github:Gleefre:waterdoor</id>
-  <published>2022-11-13T19:43:02Z</published>
-  <updated>2022-11-13T19:43:02Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>skglas: tweetarchive-to-sqlite</title>
-  <author>
-   <name>skglas</name>
-  </author>
-  <link href="https://github.com/skglas/tweetarchive-to-sqlite" />
-  <id>urn:rprimus:github:skglas:tweetarchive-to-sqlite</id>
-  <published>2022-11-13T11:09:10Z</published>
-  <updated>2022-11-13T11:09:10Z</updated>
-  <content type="html">
-   Transform Twitter JSON Archive file to SQLite
-  </content>
- </entry>
- <entry>
-  <title>fiddlerwoaroof: siuta</title>
-  <author>
-   <name>fiddlerwoaroof</name>
-  </author>
-  <link href="https://github.com/fiddlerwoaroof/siuta" />
-  <id>urn:rprimus:github:fiddlerwoaroof:siuta</id>
-  <published>2022-11-13T08:13:22Z</published>
-  <updated>2022-11-13T08:13:22Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>sebasasa: lisp-ltk-template</title>
-  <author>
-   <name>sebasasa</name>
-  </author>
-  <link href="https://github.com/sebasasa/lisp-ltk-template" />
-  <id>urn:rprimus:github:sebasasa:lisp-ltk-template</id>
-  <published>2022-11-13T03:49:51Z</published>
-  <updated>2022-11-13T03:49:51Z</updated>
-  <content type="html">
-   Starter tempalte for using LTK for Common Lisp GUI apps. The ideas is just to clone the repo and start codding
-  </content>
- </entry>
- <entry>
-  <title>janegwaww: cl-portable-pathname-library</title>
-  <author>
-   <name>janegwaww</name>
-  </author>
-  <link href="https://github.com/janegwaww/cl-portable-pathname-library" />
-  <id>urn:rprimus:github:janegwaww:cl-portable-pathname-library</id>
-  <published>2022-11-13T01:14:45Z</published>
-  <updated>2022-11-13T01:14:45Z</updated>
-  <content type="html">
-   common lisp portable pathname library
-  </content>
- </entry>
- <entry>
-  <title>sebasasa: Quicle</title>
-  <author>
-   <name>sebasasa</name>
-  </author>
-  <link href="https://github.com/sebasasa/Quicle" />
-  <id>urn:rprimus:github:sebasasa:Quicle</id>
-  <published>2022-11-13T00:44:19Z</published>
-  <updated>2022-11-13T00:44:19Z</updated>
-  <content type="html">
-   A Processing Inspired graphic library for Common Lisp. Built on top of SDL. It&#039;s still in early development
   </content>
  </entry>
 </feed>

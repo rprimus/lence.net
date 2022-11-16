@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2022-11-14T16:44:06Z</updated>
+<updated>2022-11-16T23:22:08Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>plambert: prices.cr</title>
+  <author>
+   <name>plambert</name>
+  </author>
+  <link href="https://github.com/plambert/prices.cr" />
+  <id>urn:rprimus:github:plambert:prices.cr</id>
+  <published>2022-11-16T23:22:08Z</published>
+  <updated>2022-11-16T23:22:08Z</updated>
+  <content type="html">
+   calculate per-unit prices
+  </content>
+ </entry>
+ <entry>
+  <title>franciscoGPS: pg_full_text_search</title>
+  <author>
+   <name>franciscoGPS</name>
+  </author>
+  <link href="https://github.com/franciscoGPS/pg_full_text_search" />
+  <id>urn:rprimus:github:franciscoGPS:pg_full_text_search</id>
+  <published>2022-11-16T17:26:06Z</published>
+  <updated>2022-11-16T17:26:06Z</updated>
+  <content type="html">
+   Test project to test lucky full text search
+  </content>
+ </entry>
+ <entry>
+  <title>RHallberg: clover</title>
+  <author>
+   <name>RHallberg</name>
+  </author>
+  <link href="https://github.com/RHallberg/clover" />
+  <id>urn:rprimus:github:RHallberg:clover</id>
+  <published>2022-11-16T14:42:25Z</published>
+  <updated>2022-11-16T14:42:25Z</updated>
+  <content type="html">
+   The tutorial project in the lucky framework for crystal
+  </content>
+ </entry>
+ <entry>
+  <title>spider-gazelle: tensorflow_lite</title>
+  <author>
+   <name>spider-gazelle</name>
+  </author>
+  <link href="https://github.com/spider-gazelle/tensorflow_lite" />
+  <id>urn:rprimus:github:spider-gazelle:tensorflow_lite</id>
+  <published>2022-11-15T23:19:05Z</published>
+  <updated>2022-11-15T23:19:05Z</updated>
+  <content type="html">
+   tensorflow lite bindings for crystal lang
+  </content>
+ </entry>
+ <entry>
+  <title>hamros1: dwm</title>
+  <author>
+   <name>hamros1</name>
+  </author>
+  <link href="https://github.com/hamros1/dwm" />
+  <id>urn:rprimus:github:hamros1:dwm</id>
+  <published>2022-11-15T17:30:06Z</published>
+  <updated>2022-11-15T17:30:06Z</updated>
+  <content type="html">
+   dwm rewrite in crystal
+  </content>
+ </entry>
+ <entry>
+  <title>kolesar-andras: geos.cr</title>
+  <author>
+   <name>kolesar-andras</name>
+  </author>
+  <link href="https://github.com/kolesar-andras/geos.cr" />
+  <id>urn:rprimus:github:kolesar-andras:geos.cr</id>
+  <published>2022-11-15T14:34:27Z</published>
+  <updated>2022-11-15T14:34:27Z</updated>
+  <content type="html">
+   Crystal binding to GEOS geometry library
+  </content>
+ </entry>
  <entry>
   <title>rafapolo: renda</title>
   <author>
@@ -54,84 +132,6 @@
   <updated>2022-11-14T01:12:11Z</updated>
   <content type="html">
    The (Milky Way/Solar System) Neptune map center for the SNU Universe project (in 3D mode)
-  </content>
- </entry>
- <entry>
-  <title>SleepingInsomniac: pigpio-cr</title>
-  <author>
-   <name>SleepingInsomniac</name>
-  </author>
-  <link href="https://github.com/SleepingInsomniac/pigpio-cr" />
-  <id>urn:rprimus:github:SleepingInsomniac:pigpio-cr</id>
-  <published>2022-11-13T19:19:44Z</published>
-  <updated>2022-11-13T19:19:44Z</updated>
-  <content type="html">
-   Crystal bindings to pigpio for GPIO control on raspberry pi
-  </content>
- </entry>
- <entry>
-  <title>dammer: protocol</title>
-  <author>
-   <name>dammer</name>
-  </author>
-  <link href="https://github.com/dammer/protocol" />
-  <id>urn:rprimus:github:dammer:protocol</id>
-  <published>2022-11-13T17:45:52Z</published>
-  <updated>2022-11-13T17:45:52Z</updated>
-  <content type="html">
-   Crystal converted Chrome DevTools Protocol
-  </content>
- </entry>
- <entry>
-  <title>sourceweaver: x.cr</title>
-  <author>
-   <name>sourceweaver</name>
-  </author>
-  <link href="https://github.com/sourceweaver/x.cr" />
-  <id>urn:rprimus:github:sourceweaver:x.cr</id>
-  <published>2022-11-13T17:16:56Z</published>
-  <updated>2022-11-13T17:16:56Z</updated>
-  <content type="html">
-   experimental Crystal utilities
-  </content>
- </entry>
- <entry>
-  <title>axvm: libsecp256k1.cr</title>
-  <author>
-   <name>axvm</name>
-  </author>
-  <link href="https://github.com/axvm/libsecp256k1.cr" />
-  <id>urn:rprimus:github:axvm:libsecp256k1.cr</id>
-  <published>2022-11-13T12:47:56Z</published>
-  <updated>2022-11-13T12:47:56Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>neenjaw: advent-of-crystal</title>
-  <author>
-   <name>neenjaw</name>
-  </author>
-  <link href="https://github.com/neenjaw/advent-of-crystal" />
-  <id>urn:rprimus:github:neenjaw:advent-of-crystal</id>
-  <published>2022-11-13T03:47:20Z</published>
-  <updated>2022-11-13T03:47:20Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>davidkellis: runenv</title>
-  <author>
-   <name>davidkellis</name>
-  </author>
-  <link href="https://github.com/davidkellis/runenv" />
-  <id>urn:rprimus:github:davidkellis:runenv</id>
-  <published>2022-11-13T00:28:59Z</published>
-  <updated>2022-11-13T00:28:59Z</updated>
-  <content type="html">
-   Run a command in an environment that includes environment variables specified in a file
   </content>
  </entry>
 </feed>
