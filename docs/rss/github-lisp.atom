@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-11-16T21:23:25Z</updated>
+<updated>2022-11-17T09:06:29Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>skyizwhite: ena</title>
+  <author>
+   <name>skyizwhite</name>
+  </author>
+  <link href="https://github.com/skyizwhite/ena" />
+  <id>urn:rprimus:github:skyizwhite:ena</id>
+  <published>2022-11-17T09:06:29Z</published>
+  <updated>2022-11-17T09:06:29Z</updated>
+  <content type="html">
+   (WIP) Array manipulation utilities for Petalisp
+  </content>
+ </entry>
  <entry>
   <title>s-expressionists: Invistra</title>
   <author>
@@ -28,6 +41,19 @@
   <updated>2022-11-16T19:41:00Z</updated>
   <content type="html">
    Signed integer conversion with Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>cloghin: TicTacToe</title>
+  <author>
+   <name>cloghin</name>
+  </author>
+  <link href="https://github.com/cloghin/TicTacToe" />
+  <id>urn:rprimus:github:cloghin:TicTacToe</id>
+  <published>2022-11-16T12:42:00Z</published>
+  <updated>2022-11-16T12:42:00Z</updated>
+  <content type="html">
+   ai project for playing tictactoe
   </content>
  </entry>
  <entry>
@@ -104,110 +130,6 @@
   <id>urn:rprimus:github:vajrabisj:mblispweb</id>
   <published>2022-11-15T02:39:25Z</published>
   <updated>2022-11-15T02:39:25Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>elchinbaba: homework2</title>
-  <author>
-   <name>elchinbaba</name>
-  </author>
-  <link href="https://github.com/elchinbaba/homework2" />
-  <id>urn:rprimus:github:elchinbaba:homework2</id>
-  <published>2022-11-14T21:19:02Z</published>
-  <updated>2022-11-14T21:19:02Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>GhislottiGianluca: Prim-Graph-Algorithms-MST</title>
-  <author>
-   <name>GhislottiGianluca</name>
-  </author>
-  <link href="https://github.com/GhislottiGianluca/Prim-Graph-Algorithms-MST" />
-  <id>urn:rprimus:github:GhislottiGianluca:Prim-Graph-Algorithms-MST</id>
-  <published>2022-11-14T20:59:54Z</published>
-  <updated>2022-11-14T20:59:54Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>elchinbaba: KR-pitt-2007-p2</title>
-  <author>
-   <name>elchinbaba</name>
-  </author>
-  <link href="https://github.com/elchinbaba/KR-pitt-2007-p2" />
-  <id>urn:rprimus:github:elchinbaba:KR-pitt-2007-p2</id>
-  <published>2022-11-14T20:32:08Z</published>
-  <updated>2022-11-14T20:32:08Z</updated>
-  <content type="html">
-   Solution for Lisp-related question of problem 2 in course CS2740 Knowledge Representation (ISSP 3712) of University of Pittsburgh instructed by Milos Hauskrecht.
-  </content>
- </entry>
- <entry>
-  <title>elchinbaba: KR-pitt-2007-p1</title>
-  <author>
-   <name>elchinbaba</name>
-  </author>
-  <link href="https://github.com/elchinbaba/KR-pitt-2007-p1" />
-  <id>urn:rprimus:github:elchinbaba:KR-pitt-2007-p1</id>
-  <published>2022-11-14T20:28:42Z</published>
-  <updated>2022-11-14T20:28:42Z</updated>
-  <content type="html">
-   Solutions for Lisp-related questions of problem 1 in course CS2740 Knowledge Representation (ISSP 3712) of University of Pittsburgh instructed by Milos Hauskrecht.
-  </content>
- </entry>
- <entry>
-  <title>MocanuAlinD: Lisp</title>
-  <author>
-   <name>MocanuAlinD</name>
-  </author>
-  <link href="https://github.com/MocanuAlinD/Lisp" />
-  <id>urn:rprimus:github:MocanuAlinD:Lisp</id>
-  <published>2022-11-14T13:03:14Z</published>
-  <updated>2022-11-14T13:03:14Z</updated>
-  <content type="html">
-   Some personal lisp projects
-  </content>
- </entry>
- <entry>
-  <title>gburkert: functional-cl</title>
-  <author>
-   <name>gburkert</name>
-  </author>
-  <link href="https://github.com/gburkert/functional-cl" />
-  <id>urn:rprimus:github:gburkert:functional-cl</id>
-  <published>2022-11-14T10:14:49Z</published>
-  <updated>2022-11-14T10:14:49Z</updated>
-  <content type="html">
-   More functional Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>kuny: 24rhythms</title>
-  <author>
-   <name>kuny</name>
-  </author>
-  <link href="https://github.com/kuny/24rhythms" />
-  <id>urn:rprimus:github:kuny:24rhythms</id>
-  <published>2022-11-14T09:13:21Z</published>
-  <updated>2022-11-14T09:13:21Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>nsva404: GildedRose-Refactoring-Kata</title>
-  <author>
-   <name>nsva404</name>
-  </author>
-  <link href="https://github.com/nsva404/GildedRose-Refactoring-Kata" />
-  <id>urn:rprimus:github:nsva404:GildedRose-Refactoring-Kata</id>
-  <published>2022-11-14T07:59:24Z</published>
-  <updated>2022-11-14T07:59:24Z</updated>
   <content type="html">
    
   </content>
