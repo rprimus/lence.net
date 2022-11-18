@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2022-11-17T10:26:43Z</updated>
+<updated>2022-11-18T06:49:41Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>matt6frey: game-of-life</title>
+  <author>
+   <name>matt6frey</name>
+  </author>
+  <link href="https://github.com/matt6frey/game-of-life" />
+  <id>urn:rprimus:github:matt6frey:game-of-life</id>
+  <published>2022-11-18T06:49:41Z</published>
+  <updated>2022-11-18T06:49:41Z</updated>
+  <content type="html">
+   This is a simple project using Nim that demonstrates Conway&#039;s Game of Life. 
+  </content>
+ </entry>
+ <entry>
+  <title>zevv: nimsafesend</title>
+  <author>
+   <name>zevv</name>
+  </author>
+  <link href="https://github.com/zevv/nimsafesend" />
+  <id>urn:rprimus:github:zevv:nimsafesend</id>
+  <published>2022-11-17T13:55:34Z</published>
+  <updated>2022-11-17T13:55:34Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>cacapouh: jsonfmt</title>
   <author>
@@ -18,6 +44,19 @@
   </content>
  </entry>
  <entry>
+  <title>aquova: AdventofCode2022</title>
+  <author>
+   <name>aquova</name>
+  </author>
+  <link href="https://github.com/aquova/AdventofCode2022" />
+  <id>urn:rprimus:github:aquova:AdventofCode2022</id>
+  <published>2022-11-16T19:38:45Z</published>
+  <updated>2022-11-16T19:38:45Z</updated>
+  <content type="html">
+   My solutions for Advent of Code 2022
+  </content>
+ </entry>
+ <entry>
   <title>AlexandrosKap: lalia</title>
   <author>
    <name>AlexandrosKap</name>
@@ -28,110 +67,6 @@
   <updated>2022-11-16T08:47:11Z</updated>
   <content type="html">
    A dialogue system for Nim.
-  </content>
- </entry>
- <entry>
-  <title>jyapayne: wxcnim</title>
-  <author>
-   <name>jyapayne</name>
-  </author>
-  <link href="https://github.com/jyapayne/wxcnim" />
-  <id>urn:rprimus:github:jyapayne:wxcnim</id>
-  <published>2022-11-15T20:06:04Z</published>
-  <updated>2022-11-15T20:06:04Z</updated>
-  <content type="html">
-   Bindings to wxWidgets using wxc
-  </content>
- </entry>
- <entry>
-  <title>tatjam: aemet-rosavientos</title>
-  <author>
-   <name>tatjam</name>
-  </author>
-  <link href="https://github.com/tatjam/aemet-rosavientos" />
-  <id>urn:rprimus:github:tatjam:aemet-rosavientos</id>
-  <published>2022-11-15T17:06:58Z</published>
-  <updated>2022-11-15T17:06:58Z</updated>
-  <content type="html">
-   Un generador de rosa de los vientos para diseÃ±o de aeropuertos, partiendo de datos AEMET
-  </content>
- </entry>
- <entry>
-  <title>Phytolizer: nim-jsonpatch</title>
-  <author>
-   <name>Phytolizer</name>
-  </author>
-  <link href="https://github.com/Phytolizer/nim-jsonpatch" />
-  <id>urn:rprimus:github:Phytolizer:nim-jsonpatch</id>
-  <published>2022-11-15T15:16:30Z</published>
-  <updated>2022-11-15T15:16:30Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>RileySeaburg: nim-tweets</title>
-  <author>
-   <name>RileySeaburg</name>
-  </author>
-  <link href="https://github.com/RileySeaburg/nim-tweets" />
-  <id>urn:rprimus:github:RileySeaburg:nim-tweets</id>
-  <published>2022-11-15T13:03:45Z</published>
-  <updated>2022-11-15T13:03:45Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>davidfigo: nim</title>
-  <author>
-   <name>davidfigo</name>
-  </author>
-  <link href="https://github.com/davidfigo/nim" />
-  <id>urn:rprimus:github:davidfigo:nim</id>
-  <published>2022-11-15T12:25:20Z</published>
-  <updated>2022-11-15T12:25:20Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>j-james: misc</title>
-  <author>
-   <name>j-james</name>
-  </author>
-  <link href="https://github.com/j-james/misc" />
-  <id>urn:rprimus:github:j-james:misc</id>
-  <published>2022-11-15T07:48:41Z</published>
-  <updated>2022-11-15T07:48:41Z</updated>
-  <content type="html">
-   short little programs
-  </content>
- </entry>
- <entry>
-  <title>XenonLog01: NeuralNetwork</title>
-  <author>
-   <name>XenonLog01</name>
-  </author>
-  <link href="https://github.com/XenonLog01/NeuralNetwork" />
-  <id>urn:rprimus:github:XenonLog01:NeuralNetwork</id>
-  <published>2022-11-15T04:57:38Z</published>
-  <updated>2022-11-15T04:57:38Z</updated>
-  <content type="html">
-   A simple neural network written in nim
-  </content>
- </entry>
- <entry>
-  <title>RileySeaburg: nim-chat</title>
-  <author>
-   <name>RileySeaburg</name>
-  </author>
-  <link href="https://github.com/RileySeaburg/nim-chat" />
-  <id>urn:rprimus:github:RileySeaburg:nim-chat</id>
-  <published>2022-11-15T02:25:17Z</published>
-  <updated>2022-11-15T02:25:17Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
