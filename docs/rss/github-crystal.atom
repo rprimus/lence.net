@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2022-11-18T05:36:27Z</updated>
+<updated>2022-11-19T09:44:19Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>crystal-cache: redis_legacy_cache_store</title>
+  <author>
+   <name>crystal-cache</name>
+  </author>
+  <link href="https://github.com/crystal-cache/redis_legacy_cache_store" />
+  <id>urn:rprimus:github:crystal-cache:redis_legacy_cache_store</id>
+  <published>2022-11-19T09:44:19Z</published>
+  <updated>2022-11-19T09:44:19Z</updated>
+  <content type="html">
+   A cache store implementation that stores data in Redis  Topics
+  </content>
+ </entry>
+ <entry>
+  <title>GrottoPress: dude</title>
+  <author>
+   <name>GrottoPress</name>
+  </author>
+  <link href="https://github.com/GrottoPress/dude" />
+  <id>urn:rprimus:github:GrottoPress:dude</id>
+  <published>2022-11-18T19:01:20Z</published>
+  <updated>2022-11-18T19:01:20Z</updated>
+  <content type="html">
+   A dead simple Redis cache
+  </content>
+ </entry>
  <entry>
   <title>place-technology: webex</title>
   <author>
@@ -28,45 +54,6 @@
   <updated>2022-11-17T00:39:42Z</updated>
   <content type="html">
    tiny app to demonstrate Crystal error message
-  </content>
- </entry>
- <entry>
-  <title>plambert: prices.cr</title>
-  <author>
-   <name>plambert</name>
-  </author>
-  <link href="https://github.com/plambert/prices.cr" />
-  <id>urn:rprimus:github:plambert:prices.cr</id>
-  <published>2022-11-16T23:22:08Z</published>
-  <updated>2022-11-16T23:22:08Z</updated>
-  <content type="html">
-   calculate per-unit prices
-  </content>
- </entry>
- <entry>
-  <title>franciscoGPS: pg_full_text_search</title>
-  <author>
-   <name>franciscoGPS</name>
-  </author>
-  <link href="https://github.com/franciscoGPS/pg_full_text_search" />
-  <id>urn:rprimus:github:franciscoGPS:pg_full_text_search</id>
-  <published>2022-11-16T17:26:06Z</published>
-  <updated>2022-11-16T17:26:06Z</updated>
-  <content type="html">
-   Test project to test lucky full text search
-  </content>
- </entry>
- <entry>
-  <title>RHallberg: clover</title>
-  <author>
-   <name>RHallberg</name>
-  </author>
-  <link href="https://github.com/RHallberg/clover" />
-  <id>urn:rprimus:github:RHallberg:clover</id>
-  <published>2022-11-16T14:42:25Z</published>
-  <updated>2022-11-16T14:42:25Z</updated>
-  <content type="html">
-   The tutorial project in the lucky framework for crystal
   </content>
  </entry>
 </feed>
