@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2022-11-20T06:04:47Z</updated>
+<updated>2022-11-21T03:20:07Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>itwasalwaysyou: OCaml-collection</title>
+  <author>
+   <name>itwasalwaysyou</name>
+  </author>
+  <link href="https://github.com/itwasalwaysyou/OCaml-collection" />
+  <id>urn:rprimus:github:itwasalwaysyou:OCaml-collection</id>
+  <published>2022-11-21T03:20:07Z</published>
+  <updated>2022-11-21T03:20:07Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>lubaiying: OCaml-RUMMIKUB</title>
+  <author>
+   <name>lubaiying</name>
+  </author>
+  <link href="https://github.com/lubaiying/OCaml-RUMMIKUB" />
+  <id>urn:rprimus:github:lubaiying:OCaml-RUMMIKUB</id>
+  <published>2022-11-20T19:34:18Z</published>
+  <updated>2022-11-20T19:34:18Z</updated>
+  <content type="html">
+   Jeu cartes
+  </content>
+ </entry>
+ <entry>
+  <title>benmandrew: ci-test-repo</title>
+  <author>
+   <name>benmandrew</name>
+  </author>
+  <link href="https://github.com/benmandrew/ci-test-repo" />
+  <id>urn:rprimus:github:benmandrew:ci-test-repo</id>
+  <published>2022-11-20T16:35:14Z</published>
+  <updated>2022-11-20T16:35:14Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>powcoder: OCaml-Big-Step-hw4</title>
+  <author>
+   <name>powcoder</name>
+  </author>
+  <link href="https://github.com/powcoder/OCaml-Big-Step-hw4" />
+  <id>urn:rprimus:github:powcoder:OCaml-Big-Step-hw4</id>
+  <published>2022-11-20T11:46:36Z</published>
+  <updated>2022-11-20T11:46:36Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>189569400: BinaryAnalysisPlatform</title>
   <author>
@@ -54,162 +106,6 @@
   <updated>2022-11-19T02:45:53Z</updated>
   <content type="html">
    an experimental optic library for OCaml
-  </content>
- </entry>
- <entry>
-  <title>JulienPeyrache: Compiler</title>
-  <author>
-   <name>JulienPeyrache</name>
-  </author>
-  <link href="https://github.com/JulienPeyrache/Compiler" />
-  <id>urn:rprimus:github:JulienPeyrache:Compiler</id>
-  <published>2022-11-18T20:55:31Z</published>
-  <updated>2022-11-18T20:55:31Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>teochauvin: projet_graph</title>
-  <author>
-   <name>teochauvin</name>
-  </author>
-  <link href="https://github.com/teochauvin/projet_graph" />
-  <id>urn:rprimus:github:teochauvin:projet_graph</id>
-  <published>2022-11-18T18:23:15Z</published>
-  <updated>2022-11-18T18:23:15Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>janestreet: polling_state_rpc</title>
-  <author>
-   <name>janestreet</name>
-  </author>
-  <link href="https://github.com/janestreet/polling_state_rpc" />
-  <id>urn:rprimus:github:janestreet:polling_state_rpc</id>
-  <published>2022-11-18T15:23:39Z</published>
-  <updated>2022-11-18T15:23:39Z</updated>
-  <content type="html">
-   An RPC which tracks state on the client and server so it only needs to send diffs across the wire.
-  </content>
- </entry>
- <entry>
-  <title>janestreet: semantic_version</title>
-  <author>
-   <name>janestreet</name>
-  </author>
-  <link href="https://github.com/janestreet/semantic_version" />
-  <id>urn:rprimus:github:janestreet:semantic_version</id>
-  <published>2022-11-18T15:21:35Z</published>
-  <updated>2022-11-18T15:21:35Z</updated>
-  <content type="html">
-   Semantic versioning
-  </content>
- </entry>
- <entry>
-  <title>silune: NanoGoProjet</title>
-  <author>
-   <name>silune</name>
-  </author>
-  <link href="https://github.com/silune/NanoGoProjet" />
-  <id>urn:rprimus:github:silune:NanoGoProjet</id>
-  <published>2022-11-18T14:06:49Z</published>
-  <updated>2022-11-18T14:06:49Z</updated>
-  <content type="html">
-   Rendu final du ProjetProg1
-  </content>
- </entry>
- <entry>
-  <title>mefyl: ocaml-deep-lense</title>
-  <author>
-   <name>mefyl</name>
-  </author>
-  <link href="https://github.com/mefyl/ocaml-deep-lense" />
-  <id>urn:rprimus:github:mefyl:ocaml-deep-lense</id>
-  <published>2022-11-18T13:18:49Z</published>
-  <updated>2022-11-18T13:18:49Z</updated>
-  <content type="html">
-   OCaml PPX rewriter for deep functional record lenses
-  </content>
- </entry>
- <entry>
-  <title>joelimgu: ocaml-maxflow-project</title>
-  <author>
-   <name>joelimgu</name>
-  </author>
-  <link href="https://github.com/joelimgu/ocaml-maxflow-project" />
-  <id>urn:rprimus:github:joelimgu:ocaml-maxflow-project</id>
-  <published>2022-11-18T13:06:50Z</published>
-  <updated>2022-11-18T13:06:50Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Matra202: ProgFonc</title>
-  <author>
-   <name>Matra202</name>
-  </author>
-  <link href="https://github.com/Matra202/ProgFonc" />
-  <id>urn:rprimus:github:Matra202:ProgFonc</id>
-  <published>2022-11-18T13:05:40Z</published>
-  <updated>2022-11-18T13:05:40Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>sachoman: ocamlProject</title>
-  <author>
-   <name>sachoman</name>
-  </author>
-  <link href="https://github.com/sachoman/ocamlProject" />
-  <id>urn:rprimus:github:sachoman:ocamlProject</id>
-  <published>2022-11-18T13:05:34Z</published>
-  <updated>2022-11-18T13:05:34Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Newglear: PF_Project</title>
-  <author>
-   <name>Newglear</name>
-  </author>
-  <link href="https://github.com/Newglear/PF_Project" />
-  <id>urn:rprimus:github:Newglear:PF_Project</id>
-  <published>2022-11-18T13:05:31Z</published>
-  <updated>2022-11-18T13:05:31Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Tymitri: n7_7s_Proj_tdl</title>
-  <author>
-   <name>Tymitri</name>
-  </author>
-  <link href="https://github.com/Tymitri/n7_7s_Proj_tdl" />
-  <id>urn:rprimus:github:Tymitri:n7_7s_Proj_tdl</id>
-  <published>2022-11-18T13:04:46Z</published>
-  <updated>2022-11-18T13:04:46Z</updated>
-  <content type="html">
-   Traduction des langages
-  </content>
- </entry>
- <entry>
-  <title>dghosef: qdbp</title>
-  <author>
-   <name>dghosef</name>
-  </author>
-  <link href="https://github.com/dghosef/qdbp" />
-  <id>urn:rprimus:github:dghosef:qdbp</id>
-  <published>2022-11-18T09:31:24Z</published>
-  <updated>2022-11-18T09:31:24Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
