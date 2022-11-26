@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2022-11-25T20:59:58Z</updated>
+<updated>2022-11-26T09:15:05Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>thechampagne: chaos-mode</title>
+  <author>
+   <name>thechampagne</name>
+  </author>
+  <link href="https://github.com/thechampagne/chaos-mode" />
+  <id>urn:rprimus:github:thechampagne:chaos-mode</id>
+  <published>2022-11-26T09:15:05Z</published>
+  <updated>2022-11-26T09:15:05Z</updated>
+  <content type="html">
+   Chaos mode for Emacs.
+  </content>
+ </entry>
+ <entry>
+  <title>emolucy: dotfiles</title>
+  <author>
+   <name>emolucy</name>
+  </author>
+  <link href="https://github.com/emolucy/dotfiles" />
+  <id>urn:rprimus:github:emolucy:dotfiles</id>
+  <published>2022-11-26T06:12:27Z</published>
+  <updated>2022-11-26T06:12:27Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>protesilaos: altcaps</title>
+  <author>
+   <name>protesilaos</name>
+  </author>
+  <link href="https://github.com/protesilaos/altcaps" />
+  <id>urn:rprimus:github:protesilaos:altcaps</id>
+  <published>2022-11-26T05:06:32Z</published>
+  <updated>2022-11-26T05:06:32Z</updated>
+  <content type="html">
+   Apply alternating letter casing to convey sarcasm or mockery
+  </content>
+ </entry>
+ <entry>
+  <title>purplg: share-path.el</title>
+  <author>
+   <name>purplg</name>
+  </author>
+  <link href="https://github.com/purplg/share-path.el" />
+  <id>urn:rprimus:github:purplg:share-path.el</id>
+  <published>2022-11-25T23:46:15Z</published>
+  <updated>2022-11-25T23:46:15Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>YorkZ: speck.el</title>
   <author>
@@ -187,6 +239,19 @@
   </content>
  </entry>
  <entry>
+  <title>suliveevil: emacs.d</title>
+  <author>
+   <name>suliveevil</name>
+  </author>
+  <link href="https://github.com/suliveevil/emacs.d" />
+  <id>urn:rprimus:github:suliveevil:emacs.d</id>
+  <published>2022-11-24T11:25:18Z</published>
+  <updated>2022-11-24T11:25:18Z</updated>
+  <content type="html">
+   Personal Emacs on macOS
+  </content>
+ </entry>
+ <entry>
   <title>thechampagne: wren-mode</title>
   <author>
    <name>thechampagne</name>
@@ -301,240 +366,6 @@
   <updated>2022-11-24T02:52:34Z</updated>
   <content type="html">
    Imported repo
-  </content>
- </entry>
- <entry>
-  <title>mgmarlow: rubyfmt-emacs</title>
-  <author>
-   <name>mgmarlow</name>
-  </author>
-  <link href="https://github.com/mgmarlow/rubyfmt-emacs" />
-  <id>urn:rprimus:github:mgmarlow:rubyfmt-emacs</id>
-  <published>2022-11-23T23:17:31Z</published>
-  <updated>2022-11-23T23:17:31Z</updated>
-  <content type="html">
-   Format Ruby code with rubyfmt in emacs
-  </content>
- </entry>
- <entry>
-  <title>cocl2625: org-roam-anki</title>
-  <author>
-   <name>cocl2625</name>
-  </author>
-  <link href="https://github.com/cocl2625/org-roam-anki" />
-  <id>urn:rprimus:github:cocl2625:org-roam-anki</id>
-  <published>2022-11-23T22:03:48Z</published>
-  <updated>2022-11-23T22:03:48Z</updated>
-  <content type="html">
-   Flashcard generator for org-roam
-  </content>
- </entry>
- <entry>
-  <title>arijit79: deep-ocean-theme</title>
-  <author>
-   <name>arijit79</name>
-  </author>
-  <link href="https://github.com/arijit79/deep-ocean-theme" />
-  <id>urn:rprimus:github:arijit79:deep-ocean-theme</id>
-  <published>2022-11-23T20:20:34Z</published>
-  <updated>2022-11-23T20:20:34Z</updated>
-  <content type="html">
-   Port of Deep Ocean theme for emacs
-  </content>
- </entry>
- <entry>
-  <title>SnichOne: dotemacs</title>
-  <author>
-   <name>SnichOne</name>
-  </author>
-  <link href="https://github.com/SnichOne/dotemacs" />
-  <id>urn:rprimus:github:SnichOne:dotemacs</id>
-  <published>2022-11-23T19:33:14Z</published>
-  <updated>2022-11-23T19:33:14Z</updated>
-  <content type="html">
-   Simple Emacs configuration
-  </content>
- </entry>
- <entry>
-  <title>dmacvicar: ob-d2</title>
-  <author>
-   <name>dmacvicar</name>
-  </author>
-  <link href="https://github.com/dmacvicar/ob-d2" />
-  <id>urn:rprimus:github:dmacvicar:ob-d2</id>
-  <published>2022-11-23T19:06:57Z</published>
-  <updated>2022-11-23T19:06:57Z</updated>
-  <content type="html">
-   Generate d2 diagrams within Emacs org-mode babel
-  </content>
- </entry>
- <entry>
-  <title>nexhero: mydoom</title>
-  <author>
-   <name>nexhero</name>
-  </author>
-  <link href="https://github.com/nexhero/mydoom" />
-  <id>urn:rprimus:github:nexhero:mydoom</id>
-  <published>2022-11-23T17:53:08Z</published>
-  <updated>2022-11-23T17:53:08Z</updated>
-  <content type="html">
-   My Doom emacs conf
-  </content>
- </entry>
- <entry>
-  <title>mstemm: flycheck-falco-rules</title>
-  <author>
-   <name>mstemm</name>
-  </author>
-  <link href="https://github.com/mstemm/flycheck-falco-rules" />
-  <id>urn:rprimus:github:mstemm:flycheck-falco-rules</id>
-  <published>2022-11-23T17:14:53Z</published>
-  <updated>2022-11-23T17:14:53Z</updated>
-  <content type="html">
-   Flycheck for Falco Rules Files
-  </content>
- </entry>
- <entry>
-  <title>prgn-i: prgn-emacs</title>
-  <author>
-   <name>prgn-i</name>
-  </author>
-  <link href="https://github.com/prgn-i/prgn-emacs" />
-  <id>urn:rprimus:github:prgn-i:prgn-emacs</id>
-  <published>2022-11-23T15:21:58Z</published>
-  <updated>2022-11-23T15:21:58Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>DerArzt515: emacs-dots</title>
-  <author>
-   <name>DerArzt515</name>
-  </author>
-  <link href="https://github.com/DerArzt515/emacs-dots" />
-  <id>urn:rprimus:github:DerArzt515:emacs-dots</id>
-  <published>2022-11-23T14:19:43Z</published>
-  <updated>2022-11-23T14:19:43Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>yuchunzhou: .emacs.d</title>
-  <author>
-   <name>yuchunzhou</name>
-  </author>
-  <link href="https://github.com/yuchunzhou/.emacs.d" />
-  <id>urn:rprimus:github:yuchunzhou:.emacs.d</id>
-  <published>2022-11-23T13:54:03Z</published>
-  <updated>2022-11-23T13:54:03Z</updated>
-  <content type="html">
-   My Emacs configuration
-  </content>
- </entry>
- <entry>
-  <title>prdnr: dotfiles</title>
-  <author>
-   <name>prdnr</name>
-  </author>
-  <link href="https://github.com/prdnr/dotfiles" />
-  <id>urn:rprimus:github:prdnr:dotfiles</id>
-  <published>2022-11-23T13:11:12Z</published>
-  <updated>2022-11-23T13:11:12Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>artemisYo: personalStuff</title>
-  <author>
-   <name>artemisYo</name>
-  </author>
-  <link href="https://github.com/artemisYo/personalStuff" />
-  <id>urn:rprimus:github:artemisYo:personalStuff</id>
-  <published>2022-11-23T10:39:51Z</published>
-  <updated>2022-11-23T10:39:51Z</updated>
-  <content type="html">
-   this is just a bunch of person stuff, configs, fun little notes idk
-  </content>
- </entry>
- <entry>
-  <title>tu10ng: emacs.d</title>
-  <author>
-   <name>tu10ng</name>
-  </author>
-  <link href="https://github.com/tu10ng/emacs.d" />
-  <id>urn:rprimus:github:tu10ng:emacs.d</id>
-  <published>2022-11-23T08:09:08Z</published>
-  <updated>2022-11-23T08:09:08Z</updated>
-  <content type="html">
-   my emacs configuration
-  </content>
- </entry>
- <entry>
-  <title>brsponge: emacs.d</title>
-  <author>
-   <name>brsponge</name>
-  </author>
-  <link href="https://github.com/brsponge/emacs.d" />
-  <id>urn:rprimus:github:brsponge:emacs.d</id>
-  <published>2022-11-23T06:22:33Z</published>
-  <updated>2022-11-23T06:22:33Z</updated>
-  <content type="html">
-   The best emacs configuration for people that are me.
-  </content>
- </entry>
- <entry>
-  <title>nyannmaru: npex</title>
-  <author>
-   <name>nyannmaru</name>
-  </author>
-  <link href="https://github.com/nyannmaru/npex" />
-  <id>urn:rprimus:github:nyannmaru:npex</id>
-  <published>2022-11-23T05:46:45Z</published>
-  <updated>2022-11-23T05:46:45Z</updated>
-  <content type="html">
-   Emacs minor-mode provides expanded version of abbrev-expansion
-  </content>
- </entry>
- <entry>
-  <title>forsakenfirer: thin-emacs</title>
-  <author>
-   <name>forsakenfirer</name>
-  </author>
-  <link href="https://github.com/forsakenfirer/thin-emacs" />
-  <id>urn:rprimus:github:forsakenfirer:thin-emacs</id>
-  <published>2022-11-23T03:07:48Z</published>
-  <updated>2022-11-23T03:07:48Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>diasbruno: d2-emacs</title>
-  <author>
-   <name>diasbruno</name>
-  </author>
-  <link href="https://github.com/diasbruno/d2-emacs" />
-  <id>urn:rprimus:github:diasbruno:d2-emacs</id>
-  <published>2022-11-23T00:37:37Z</published>
-  <updated>2022-11-23T00:37:37Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>lwright-net: emacsconfig</title>
-  <author>
-   <name>lwright-net</name>
-  </author>
-  <link href="https://github.com/lwright-net/emacsconfig" />
-  <id>urn:rprimus:github:lwright-net:emacsconfig</id>
-  <published>2022-11-23T00:15:26Z</published>
-  <updated>2022-11-23T00:15:26Z</updated>
-  <content type="html">
-   My person emacs config
   </content>
  </entry>
 </feed>
