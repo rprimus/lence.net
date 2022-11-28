@@ -2,8 +2,112 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2022-11-27T09:40:13Z</updated>
+<updated>2022-11-28T09:25:13Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>nim-lang: cgi</title>
+  <author>
+   <name>nim-lang</name>
+  </author>
+  <link href="https://github.com/nim-lang/cgi" />
+  <id>urn:rprimus:github:nim-lang:cgi</id>
+  <published>2022-11-28T09:25:13Z</published>
+  <updated>2022-11-28T09:25:13Z</updated>
+  <content type="html">
+   Helper procs for CGI applications in Nim.
+  </content>
+ </entry>
+ <entry>
+  <title>technichron: butane-nim</title>
+  <author>
+   <name>technichron</name>
+  </author>
+  <link href="https://github.com/technichron/butane-nim" />
+  <id>urn:rprimus:github:technichron:butane-nim</id>
+  <published>2022-11-27T20:18:38Z</published>
+  <updated>2022-11-27T20:18:38Z</updated>
+  <content type="html">
+   horrendously coded 3d renderer (but in nim)
+  </content>
+ </entry>
+ <entry>
+  <title>JessaTehCrow: NimColor</title>
+  <author>
+   <name>JessaTehCrow</name>
+  </author>
+  <link href="https://github.com/JessaTehCrow/NimColor" />
+  <id>urn:rprimus:github:JessaTehCrow:NimColor</id>
+  <published>2022-11-27T18:38:39Z</published>
+  <updated>2022-11-27T18:38:39Z</updated>
+  <content type="html">
+   An easy to use module to print colors to the terminal
+  </content>
+ </entry>
+ <entry>
+  <title>romariorios: mastoarchive</title>
+  <author>
+   <name>romariorios</name>
+  </author>
+  <link href="https://github.com/romariorios/mastoarchive" />
+  <id>urn:rprimus:github:romariorios:mastoarchive</id>
+  <published>2022-11-27T18:33:15Z</published>
+  <updated>2022-11-27T18:33:15Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>vitality-lang: vital</title>
+  <author>
+   <name>vitality-lang</name>
+  </author>
+  <link href="https://github.com/vitality-lang/vital" />
+  <id>urn:rprimus:github:vitality-lang:vital</id>
+  <published>2022-11-27T16:36:44Z</published>
+  <updated>2022-11-27T16:36:44Z</updated>
+  <content type="html">
+   Main compiler for vitality
+  </content>
+ </entry>
+ <entry>
+  <title>soniccyclone: NimInActionChat</title>
+  <author>
+   <name>soniccyclone</name>
+  </author>
+  <link href="https://github.com/soniccyclone/NimInActionChat" />
+  <id>urn:rprimus:github:soniccyclone:NimInActionChat</id>
+  <published>2022-11-27T14:01:52Z</published>
+  <updated>2022-11-27T14:01:52Z</updated>
+  <content type="html">
+   Chat application from Nim in Action.
+  </content>
+ </entry>
+ <entry>
+  <title>sls1005: cpptuples</title>
+  <author>
+   <name>sls1005</name>
+  </author>
+  <link href="https://github.com/sls1005/cpptuples" />
+  <id>urn:rprimus:github:sls1005:cpptuples</id>
+  <published>2022-11-27T12:47:07Z</published>
+  <updated>2022-11-27T12:47:07Z</updated>
+  <content type="html">
+   A Nim wrapper for C++&#039;s tuple
+  </content>
+ </entry>
+ <entry>
+  <title>mantielero: coolprop.nim</title>
+  <author>
+   <name>mantielero</name>
+  </author>
+  <link href="https://github.com/mantielero/coolprop.nim" />
+  <id>urn:rprimus:github:mantielero:coolprop.nim</id>
+  <published>2022-11-27T10:51:29Z</published>
+  <updated>2022-11-27T10:51:29Z</updated>
+  <content type="html">
+   CoolProp wrapper for Nim language
+  </content>
+ </entry>
  <entry>
   <title>LainLayer: gui-thing</title>
   <author>
@@ -44,6 +148,19 @@
   </content>
  </entry>
  <entry>
+  <title>SirStone: RTR-nim-botApi</title>
+  <author>
+   <name>SirStone</name>
+  </author>
+  <link href="https://github.com/SirStone/RTR-nim-botApi" />
+  <id>urn:rprimus:github:SirStone:RTR-nim-botApi</id>
+  <published>2022-11-26T15:07:15Z</published>
+  <updated>2022-11-26T15:07:15Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
   <title>digital-loukoum: mastrio</title>
   <author>
    <name>digital-loukoum</name>
@@ -54,19 +171,6 @@
   <updated>2022-11-26T13:50:34Z</updated>
   <content type="html">
    The maestro of ast generators. Fast and concise grammar syntax with built-in syntax error handling.
-  </content>
- </entry>
- <entry>
-  <title>mfiers: mus</title>
-  <author>
-   <name>mfiers</name>
-  </author>
-  <link href="https://github.com/mfiers/mus" />
-  <id>urn:rprimus:github:mfiers:mus</id>
-  <published>2022-11-25T07:41:07Z</published>
-  <updated>2022-11-25T07:41:07Z</updated>
-  <content type="html">
-   random logging utilities
   </content>
  </entry>
 </feed>
