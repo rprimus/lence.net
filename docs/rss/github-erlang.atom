@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-erlang.atom"/>
 <id>urn:rprimus:github:newerlangrepos</id>
-<updated>2022-11-28T03:43:25Z</updated>
+<updated>2022-11-29T10:12:03Z</updated>
 <title type='text'>New GitHub Erlang Repos</title>
+ <entry>
+  <title>srhoulam: chronos</title>
+  <author>
+   <name>srhoulam</name>
+  </author>
+  <link href="https://github.com/srhoulam/chronos" />
+  <id>urn:rprimus:github:srhoulam:chronos</id>
+  <published>2022-11-29T10:12:03Z</published>
+  <updated>2022-11-29T10:12:03Z</updated>
+  <content type="html">
+   An Erlang timeout management server with disk persistence.
+  </content>
+ </entry>
+ <entry>
+  <title>novaframework: nova_chat_cluster</title>
+  <author>
+   <name>novaframework</name>
+  </author>
+  <link href="https://github.com/novaframework/nova_chat_cluster" />
+  <id>urn:rprimus:github:novaframework:nova_chat_cluster</id>
+  <published>2022-11-28T23:55:43Z</published>
+  <updated>2022-11-28T23:55:43Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>lgmfred: job_center</title>
+  <author>
+   <name>lgmfred</name>
+  </author>
+  <link href="https://github.com/lgmfred/job_center" />
+  <id>urn:rprimus:github:lgmfred:job_center</id>
+  <published>2022-11-28T15:29:20Z</published>
+  <updated>2022-11-28T15:29:20Z</updated>
+  <content type="html">
+   A simple job management service
+  </content>
+ </entry>
+ <entry>
+  <title>bdoner: erlang-game-of-life</title>
+  <author>
+   <name>bdoner</name>
+  </author>
+  <link href="https://github.com/bdoner/erlang-game-of-life" />
+  <id>urn:rprimus:github:bdoner:erlang-game-of-life</id>
+  <published>2022-11-28T13:41:46Z</published>
+  <updated>2022-11-28T13:41:46Z</updated>
+  <content type="html">
+   Conways Game of Life in erlang
+  </content>
+ </entry>
  <entry>
   <title>struong12: test1</title>
   <author>
@@ -31,12 +83,12 @@
   </content>
  </entry>
  <entry>
-  <title>gordonguthrie: laika-router</title>
+  <title>gordonguthrie: belka-router</title>
   <author>
    <name>gordonguthrie</name>
   </author>
-  <link href="https://github.com/gordonguthrie/laika-router" />
-  <id>urn:rprimus:github:gordonguthrie:laika-router</id>
+  <link href="https://github.com/gordonguthrie/belka-router" />
+  <id>urn:rprimus:github:gordonguthrie:belka-router</id>
   <published>2022-11-27T18:01:44Z</published>
   <updated>2022-11-27T18:01:44Z</updated>
   <content type="html">
@@ -67,110 +119,6 @@
   <updated>2022-11-27T03:33:57Z</updated>
   <content type="html">
    Chord Algorithm to give average hop count of the nodes which are to be traversed for the message to be delivered.
-  </content>
- </entry>
- <entry>
-  <title>Polexy: erlang_optimizer</title>
-  <author>
-   <name>Polexy</name>
-  </author>
-  <link href="https://github.com/Polexy/erlang_optimizer" />
-  <id>urn:rprimus:github:Polexy:erlang_optimizer</id>
-  <published>2022-11-26T17:44:43Z</published>
-  <updated>2022-11-26T17:44:43Z</updated>
-  <content type="html">
-   Tool for analyzing erlang code and give advises for optimization
-  </content>
- </entry>
- <entry>
-  <title>flmath: formal_concept_analysis_pixi</title>
-  <author>
-   <name>flmath</name>
-  </author>
-  <link href="https://github.com/flmath/formal_concept_analysis_pixi" />
-  <id>urn:rprimus:github:flmath:formal_concept_analysis_pixi</id>
-  <published>2022-11-26T17:07:49Z</published>
-  <updated>2022-11-26T17:07:49Z</updated>
-  <content type="html">
-   Translating  json formated properrty table into lattice visualisaation with Erlanga and PixiJs
-  </content>
- </entry>
- <entry>
-  <title>fabjan: example_cth</title>
-  <author>
-   <name>fabjan</name>
-  </author>
-  <link href="https://github.com/fabjan/example_cth" />
-  <id>urn:rprimus:github:fabjan:example_cth</id>
-  <published>2022-11-26T16:32:33Z</published>
-  <updated>2022-11-26T16:32:33Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>alexandercalva: erlang_project</title>
-  <author>
-   <name>alexandercalva</name>
-  </author>
-  <link href="https://github.com/alexandercalva/erlang_project" />
-  <id>urn:rprimus:github:alexandercalva:erlang_project</id>
-  <published>2022-11-26T14:36:58Z</published>
-  <updated>2022-11-26T14:36:58Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>flmath: erl_limits</title>
-  <author>
-   <name>flmath</name>
-  </author>
-  <link href="https://github.com/flmath/erl_limits" />
-  <id>urn:rprimus:github:flmath:erl_limits</id>
-  <published>2022-11-26T14:31:48Z</published>
-  <updated>2022-11-26T14:31:48Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>powcoder: CS-511-Homework-Assignment-3-Erlang</title>
-  <author>
-   <name>powcoder</name>
-  </author>
-  <link href="https://github.com/powcoder/CS-511-Homework-Assignment-3-Erlang" />
-  <id>urn:rprimus:github:powcoder:CS-511-Homework-Assignment-3-Erlang</id>
-  <published>2022-11-26T12:33:31Z</published>
-  <updated>2022-11-26T12:33:31Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>lh-latif: chitchat_erlang</title>
-  <author>
-   <name>lh-latif</name>
-  </author>
-  <link href="https://github.com/lh-latif/chitchat_erlang" />
-  <id>urn:rprimus:github:lh-latif:chitchat_erlang</id>
-  <published>2022-11-26T09:48:43Z</published>
-  <updated>2022-11-26T09:48:43Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>gordonguthrie: vega_and_altair</title>
-  <author>
-   <name>gordonguthrie</name>
-  </author>
-  <link href="https://github.com/gordonguthrie/vega_and_altair" />
-  <id>urn:rprimus:github:gordonguthrie:vega_and_altair</id>
-  <published>2022-11-26T08:54:56Z</published>
-  <updated>2022-11-26T08:54:56Z</updated>
-  <content type="html">
-   the star crossed lovers
   </content>
  </entry>
 </feed>
