@@ -2,8 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2022-11-29T10:17:15Z</updated>
+<updated>2022-11-30T06:15:28Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>sls1005: cppany</title>
+  <author>
+   <name>sls1005</name>
+  </author>
+  <link href="https://github.com/sls1005/cppany" />
+  <id>urn:rprimus:github:sls1005:cppany</id>
+  <published>2022-11-30T06:15:28Z</published>
+  <updated>2022-11-30T06:15:28Z</updated>
+  <content type="html">
+   A Nim wrapper for C++&#039;s std::any
+  </content>
+ </entry>
+ <entry>
+  <title>praetoriannero: nim-pcap</title>
+  <author>
+   <name>praetoriannero</name>
+  </author>
+  <link href="https://github.com/praetoriannero/nim-pcap" />
+  <id>urn:rprimus:github:praetoriannero:nim-pcap</id>
+  <published>2022-11-30T04:14:08Z</published>
+  <updated>2022-11-30T04:14:08Z</updated>
+  <content type="html">
+   Pcap file reader in pure nim
+  </content>
+ </entry>
+ <entry>
+  <title>lfanew: nimds</title>
+  <author>
+   <name>lfanew</name>
+  </author>
+  <link href="https://github.com/lfanew/nimds" />
+  <id>urn:rprimus:github:lfanew:nimds</id>
+  <published>2022-11-30T02:55:17Z</published>
+  <updated>2022-11-30T02:55:17Z</updated>
+  <content type="html">
+   Various, useful Nim datastructures
+  </content>
+ </entry>
+ <entry>
+  <title>SciNim: runtimeGrad</title>
+  <author>
+   <name>SciNim</name>
+  </author>
+  <link href="https://github.com/SciNim/runtimeGrad" />
+  <id>urn:rprimus:github:SciNim:runtimeGrad</id>
+  <published>2022-11-30T00:11:18Z</published>
+  <updated>2022-11-30T00:11:18Z</updated>
+  <content type="html">
+   A playground for different runtime based automatic differentiation implementations
+  </content>
+ </entry>
+ <entry>
+  <title>sc4rfurry: nimd4-ng</title>
+  <author>
+   <name>sc4rfurry</name>
+  </author>
+  <link href="https://github.com/sc4rfurry/nimd4-ng" />
+  <id>urn:rprimus:github:sc4rfurry:nimd4-ng</id>
+  <published>2022-11-29T19:40:26Z</published>
+  <updated>2022-11-29T19:40:26Z</updated>
+  <content type="html">
+   A Simple port scanner written in nim lang.
+  </content>
+ </entry>
+ <entry>
+  <title>hightemp: capp_broadcast_detector</title>
+  <author>
+   <name>hightemp</name>
+  </author>
+  <link href="https://github.com/hightemp/capp_broadcast_detector" />
+  <id>urn:rprimus:github:hightemp:capp_broadcast_detector</id>
+  <published>2022-11-29T19:10:43Z</published>
+  <updated>2022-11-29T19:10:43Z</updated>
+  <content type="html">
+   ÐÐ»Ð¸ÐµÐ½Ñ-ÑÐµÑÐ²ÐµÑÐ½Ð¾Ðµ Ð¿ÑÐ¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ðµ Ð´Ð»Ñ Ð¾ÑÑÐ»ÐµÐ¶Ð¸Ð²Ð°Ð½Ð¸Ñ ip Ð¼Ð°ÑÐ¸Ð½ Ð² Ð»Ð¾ÐºÐ°Ð»ÑÐ½Ð¾Ð¹ ÑÐµÑÐ¸ Ð¸ Ð²ÑÐµÐ¼Ñ ÑÐ°Ð±Ð¾ÑÑ Ð¸ Ð¿Ð¾Ð´ÐºÐ»ÑÑÐµÐ½Ð¸Ñ Ð½Ð° nim
+  </content>
+ </entry>
+ <entry>
+  <title>chronomatopoeia: entrenched</title>
+  <author>
+   <name>chronomatopoeia</name>
+  </author>
+  <link href="https://github.com/chronomatopoeia/entrenched" />
+  <id>urn:rprimus:github:chronomatopoeia:entrenched</id>
+  <published>2022-11-29T13:36:32Z</published>
+  <updated>2022-11-29T13:36:32Z</updated>
+  <content type="html">
+   text game for jam
+  </content>
+ </entry>
  <entry>
   <title>ShalokShalom: nim-pipexp</title>
   <author>
@@ -118,7 +209,7 @@
   <published>2022-11-29T02:21:29Z</published>
   <updated>2022-11-29T02:21:29Z</updated>
   <content type="html">
-   Entity Component System
+   Entity Component System library for Nim-Proteus
   </content>
  </entry>
  <entry>
@@ -210,110 +301,6 @@
   <updated>2022-11-28T09:25:13Z</updated>
   <content type="html">
    Helper procs for CGI applications in Nim.
-  </content>
- </entry>
- <entry>
-  <title>technichron: butane-nim</title>
-  <author>
-   <name>technichron</name>
-  </author>
-  <link href="https://github.com/technichron/butane-nim" />
-  <id>urn:rprimus:github:technichron:butane-nim</id>
-  <published>2022-11-27T20:18:38Z</published>
-  <updated>2022-11-27T20:18:38Z</updated>
-  <content type="html">
-   horrendously coded 3d renderer (but in nim)
-  </content>
- </entry>
- <entry>
-  <title>JessaTehCrow: NimColor</title>
-  <author>
-   <name>JessaTehCrow</name>
-  </author>
-  <link href="https://github.com/JessaTehCrow/NimColor" />
-  <id>urn:rprimus:github:JessaTehCrow:NimColor</id>
-  <published>2022-11-27T18:38:39Z</published>
-  <updated>2022-11-27T18:38:39Z</updated>
-  <content type="html">
-   An easy to use module to print colors to the terminal
-  </content>
- </entry>
- <entry>
-  <title>romariorios: mastoarchive</title>
-  <author>
-   <name>romariorios</name>
-  </author>
-  <link href="https://github.com/romariorios/mastoarchive" />
-  <id>urn:rprimus:github:romariorios:mastoarchive</id>
-  <published>2022-11-27T18:33:15Z</published>
-  <updated>2022-11-27T18:33:15Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>vitality-lang: vital</title>
-  <author>
-   <name>vitality-lang</name>
-  </author>
-  <link href="https://github.com/vitality-lang/vital" />
-  <id>urn:rprimus:github:vitality-lang:vital</id>
-  <published>2022-11-27T16:36:44Z</published>
-  <updated>2022-11-27T16:36:44Z</updated>
-  <content type="html">
-   Main compiler for vitality
-  </content>
- </entry>
- <entry>
-  <title>soniccyclone: NimInActionChat</title>
-  <author>
-   <name>soniccyclone</name>
-  </author>
-  <link href="https://github.com/soniccyclone/NimInActionChat" />
-  <id>urn:rprimus:github:soniccyclone:NimInActionChat</id>
-  <published>2022-11-27T14:01:52Z</published>
-  <updated>2022-11-27T14:01:52Z</updated>
-  <content type="html">
-   Chat application from Nim in Action.
-  </content>
- </entry>
- <entry>
-  <title>sls1005: cpptuples</title>
-  <author>
-   <name>sls1005</name>
-  </author>
-  <link href="https://github.com/sls1005/cpptuples" />
-  <id>urn:rprimus:github:sls1005:cpptuples</id>
-  <published>2022-11-27T12:47:07Z</published>
-  <updated>2022-11-27T12:47:07Z</updated>
-  <content type="html">
-   A Nim wrapper for C++&#039;s tuple
-  </content>
- </entry>
- <entry>
-  <title>mantielero: coolprop.nim</title>
-  <author>
-   <name>mantielero</name>
-  </author>
-  <link href="https://github.com/mantielero/coolprop.nim" />
-  <id>urn:rprimus:github:mantielero:coolprop.nim</id>
-  <published>2022-11-27T10:51:29Z</published>
-  <updated>2022-11-27T10:51:29Z</updated>
-  <content type="html">
-   CoolProp wrapper for Nim language
-  </content>
- </entry>
- <entry>
-  <title>LainLayer: gui-thing</title>
-  <author>
-   <name>LainLayer</name>
-  </author>
-  <link href="https://github.com/LainLayer/gui-thing" />
-  <id>urn:rprimus:github:LainLayer:gui-thing</id>
-  <published>2022-11-27T09:40:13Z</published>
-  <updated>2022-11-27T09:40:13Z</updated>
-  <content type="html">
-   An attempt at a GUI library for raylib (nim)
   </content>
  </entry>
 </feed>
