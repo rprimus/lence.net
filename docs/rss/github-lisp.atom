@@ -2,8 +2,177 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-12-04T07:49:43Z</updated>
+<updated>2022-12-05T09:47:31Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>omarbassam88: aoc2022-cl</title>
+  <author>
+   <name>omarbassam88</name>
+  </author>
+  <link href="https://github.com/omarbassam88/aoc2022-cl" />
+  <id>urn:rprimus:github:omarbassam88:aoc2022-cl</id>
+  <published>2022-12-05T09:47:31Z</published>
+  <updated>2022-12-05T09:47:31Z</updated>
+  <content type="html">
+   Advent Of Code 2022 in Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>hraban: aoc-2022-cl-nix</title>
+  <author>
+   <name>hraban</name>
+  </author>
+  <link href="https://github.com/hraban/aoc-2022-cl-nix" />
+  <id>urn:rprimus:github:hraban:aoc-2022-cl-nix</id>
+  <published>2022-12-05T03:36:26Z</published>
+  <updated>2022-12-05T03:36:26Z</updated>
+  <content type="html">
+   Litmus test for lispPackagesLite in Nix
+  </content>
+ </entry>
+ <entry>
+  <title>xvan: adventofcode-2022</title>
+  <author>
+   <name>xvan</name>
+  </author>
+  <link href="https://github.com/xvan/adventofcode-2022" />
+  <id>urn:rprimus:github:xvan:adventofcode-2022</id>
+  <published>2022-12-05T02:17:36Z</published>
+  <updated>2022-12-05T02:17:36Z</updated>
+  <content type="html">
+   Advent of Code 2022 lisp solutions
+  </content>
+ </entry>
+ <entry>
+  <title>Kahmue: aoc2022</title>
+  <author>
+   <name>Kahmue</name>
+  </author>
+  <link href="https://github.com/Kahmue/aoc2022" />
+  <id>urn:rprimus:github:Kahmue:aoc2022</id>
+  <published>2022-12-05T00:44:20Z</published>
+  <updated>2022-12-05T00:44:20Z</updated>
+  <content type="html">
+   Solution for the Advent of Code Challenge 2022
+  </content>
+ </entry>
+ <entry>
+  <title>jason-chandler: js-clos-utilities</title>
+  <author>
+   <name>jason-chandler</name>
+  </author>
+  <link href="https://github.com/jason-chandler/js-clos-utilities" />
+  <id>urn:rprimus:github:jason-chandler:js-clos-utilities</id>
+  <published>2022-12-05T00:09:02Z</published>
+  <updated>2022-12-05T00:09:02Z</updated>
+  <content type="html">
+   valtan semi-auto js class to CLOS wrapper
+  </content>
+ </entry>
+ <entry>
+  <title>gaelanmcmillan: cl-treeview</title>
+  <author>
+   <name>gaelanmcmillan</name>
+  </author>
+  <link href="https://github.com/gaelanmcmillan/cl-treeview" />
+  <id>urn:rprimus:github:gaelanmcmillan:cl-treeview</id>
+  <published>2022-12-04T22:53:24Z</published>
+  <updated>2022-12-04T22:53:24Z</updated>
+  <content type="html">
+   Rendering tree structures from Common Lisp into .dot files to be viewed with graphviz
+  </content>
+ </entry>
+ <entry>
+  <title>haroldbrinkhof: adventofcode2022</title>
+  <author>
+   <name>haroldbrinkhof</name>
+  </author>
+  <link href="https://github.com/haroldbrinkhof/adventofcode2022" />
+  <id>urn:rprimus:github:haroldbrinkhof:adventofcode2022</id>
+  <published>2022-12-04T22:50:42Z</published>
+  <updated>2022-12-04T22:50:42Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>asigdel29: Traveling-Salesperson</title>
+  <author>
+   <name>asigdel29</name>
+  </author>
+  <link href="https://github.com/asigdel29/Traveling-Salesperson" />
+  <id>urn:rprimus:github:asigdel29:Traveling-Salesperson</id>
+  <published>2022-12-04T21:58:39Z</published>
+  <updated>2022-12-04T21:58:39Z</updated>
+  <content type="html">
+   Implemented a genetic algorithm in LISP for the traveling salesman problem.  The traveling salesman problem (TSP) is the problem of determining the shortest path through a set of cities which begins and ends at one of the cities.
+  </content>
+ </entry>
+ <entry>
+  <title>asigdel29: RBG-String</title>
+  <author>
+   <name>asigdel29</name>
+  </author>
+  <link href="https://github.com/asigdel29/RBG-String" />
+  <id>urn:rprimus:github:asigdel29:RBG-String</id>
+  <published>2022-12-04T21:30:03Z</published>
+  <updated>2022-12-04T21:30:03Z</updated>
+  <content type="html">
+   RBG genetic algorithm. This manipulates lists of the atoms R, B and G and incorporates fitness metrics favoring on atom over the other two, crossovers to combine elements of two lists, and mutations to change one atom in a list to one of the others.
+  </content>
+ </entry>
+ <entry>
+  <title>nateglims: aoc2022</title>
+  <author>
+   <name>nateglims</name>
+  </author>
+  <link href="https://github.com/nateglims/aoc2022" />
+  <id>urn:rprimus:github:nateglims:aoc2022</id>
+  <published>2022-12-04T20:56:47Z</published>
+  <updated>2022-12-04T20:56:47Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Slids: hw-grpc</title>
+  <author>
+   <name>Slids</name>
+  </author>
+  <link href="https://github.com/Slids/hw-grpc" />
+  <id>urn:rprimus:github:Slids:hw-grpc</id>
+  <published>2022-12-04T19:06:04Z</published>
+  <updated>2022-12-04T19:06:04Z</updated>
+  <content type="html">
+   Hello World code for Lisp gRPC
+  </content>
+ </entry>
+ <entry>
+  <title>cameronwp: advent-of-code-2022</title>
+  <author>
+   <name>cameronwp</name>
+  </author>
+  <link href="https://github.com/cameronwp/advent-of-code-2022" />
+  <id>urn:rprimus:github:cameronwp:advent-of-code-2022</id>
+  <published>2022-12-04T16:57:52Z</published>
+  <updated>2022-12-04T16:57:52Z</updated>
+  <content type="html">
+   https://adventofcode.com/2022 in Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>anastasop: aoc2022</title>
+  <author>
+   <name>anastasop</name>
+  </author>
+  <link href="https://github.com/anastasop/aoc2022" />
+  <id>urn:rprimus:github:anastasop:aoc2022</id>
+  <published>2022-12-04T11:36:56Z</published>
+  <updated>2022-12-04T11:36:56Z</updated>
+  <content type="html">
+   Code for the 2022 edition of Advent of Code
+  </content>
+ </entry>
  <entry>
   <title>Uthar: rb-vector</title>
   <author>
@@ -28,6 +197,19 @@
   <updated>2022-12-04T06:30:49Z</updated>
   <content type="html">
    build for mac m1
+  </content>
+ </entry>
+ <entry>
+  <title>dmgk: aoc-2022</title>
+  <author>
+   <name>dmgk</name>
+  </author>
+  <link href="https://github.com/dmgk/aoc-2022" />
+  <id>urn:rprimus:github:dmgk:aoc-2022</id>
+  <published>2022-12-04T00:40:28Z</published>
+  <updated>2022-12-04T00:40:28Z</updated>
+  <content type="html">
+   
   </content>
  </entry>
  <entry>
@@ -262,240 +444,6 @@
   <updated>2022-12-03T01:02:51Z</updated>
   <content type="html">
    An implementation of root of lisp in Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>RoyArne: advent-of-code</title>
-  <author>
-   <name>RoyArne</name>
-  </author>
-  <link href="https://github.com/RoyArne/advent-of-code" />
-  <id>urn:rprimus:github:RoyArne:advent-of-code</id>
-  <published>2022-12-02T22:56:10Z</published>
-  <updated>2022-12-02T22:56:10Z</updated>
-  <content type="html">
-   Code for https://adventofcode.com/.
-  </content>
- </entry>
- <entry>
-  <title>xddq: advent-of-code-22</title>
-  <author>
-   <name>xddq</name>
-  </author>
-  <link href="https://github.com/xddq/advent-of-code-22" />
-  <id>urn:rprimus:github:xddq:advent-of-code-22</id>
-  <published>2022-12-02T21:26:16Z</published>
-  <updated>2022-12-02T21:26:16Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>IAmRasputin: aoc22</title>
-  <author>
-   <name>IAmRasputin</name>
-  </author>
-  <link href="https://github.com/IAmRasputin/aoc22" />
-  <id>urn:rprimus:github:IAmRasputin:aoc22</id>
-  <published>2022-12-02T20:14:48Z</published>
-  <updated>2022-12-02T20:14:48Z</updated>
-  <content type="html">
-   Advent of Code &#039;22
-  </content>
- </entry>
- <entry>
-  <title>hraban: leetcode-1657-cl-nix</title>
-  <author>
-   <name>hraban</name>
-  </author>
-  <link href="https://github.com/hraban/leetcode-1657-cl-nix" />
-  <id>urn:rprimus:github:hraban:leetcode-1657-cl-nix</id>
-  <published>2022-12-02T19:30:25Z</published>
-  <updated>2022-12-02T19:30:25Z</updated>
-  <content type="html">
-   Common Lisp &amp; Nix &amp; lispPackagesLite POC app: leetcode 1657
-  </content>
- </entry>
- <entry>
-  <title>foretspaisibles: advent-of-code-2022</title>
-  <author>
-   <name>foretspaisibles</name>
-  </author>
-  <link href="https://github.com/foretspaisibles/advent-of-code-2022" />
-  <id>urn:rprimus:github:foretspaisibles:advent-of-code-2022</id>
-  <published>2022-12-02T18:01:27Z</published>
-  <updated>2022-12-02T18:01:27Z</updated>
-  <content type="html">
-   Puzzles from advent of code 2022
-  </content>
- </entry>
- <entry>
-  <title>HighriseHub: hhubplatform</title>
-  <author>
-   <name>HighriseHub</name>
-  </author>
-  <link href="https://github.com/HighriseHub/hhubplatform" />
-  <id>urn:rprimus:github:HighriseHub:hhubplatform</id>
-  <published>2022-12-02T17:53:05Z</published>
-  <updated>2022-12-02T17:53:05Z</updated>
-  <content type="html">
-   HighriseHub Platform
-  </content>
- </entry>
- <entry>
-  <title>jg20019: advent-of-code-2022</title>
-  <author>
-   <name>jg20019</name>
-  </author>
-  <link href="https://github.com/jg20019/advent-of-code-2022" />
-  <id>urn:rprimus:github:jg20019:advent-of-code-2022</id>
-  <published>2022-12-02T15:44:19Z</published>
-  <updated>2022-12-02T15:44:19Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>christopherthomas55: advent_of_code</title>
-  <author>
-   <name>christopherthomas55</name>
-  </author>
-  <link href="https://github.com/christopherthomas55/advent_of_code" />
-  <id>urn:rprimus:github:christopherthomas55:advent_of_code</id>
-  <published>2022-12-02T15:08:06Z</published>
-  <updated>2022-12-02T15:08:06Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>xxmyc: advent-of-code-2022-common-lisp</title>
-  <author>
-   <name>xxmyc</name>
-  </author>
-  <link href="https://github.com/xxmyc/advent-of-code-2022-common-lisp" />
-  <id>urn:rprimus:github:xxmyc:advent-of-code-2022-common-lisp</id>
-  <published>2022-12-02T14:47:13Z</published>
-  <updated>2022-12-02T14:47:13Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jonathannerat: aoc2022</title>
-  <author>
-   <name>jonathannerat</name>
-  </author>
-  <link href="https://github.com/jonathannerat/aoc2022" />
-  <id>urn:rprimus:github:jonathannerat:aoc2022</id>
-  <published>2022-12-02T14:45:27Z</published>
-  <updated>2022-12-02T14:45:27Z</updated>
-  <content type="html">
-   Solutions for AdventOfCode 2022 in Lisp
-  </content>
- </entry>
- <entry>
-  <title>blogscot: advent-of-code-2022</title>
-  <author>
-   <name>blogscot</name>
-  </author>
-  <link href="https://github.com/blogscot/advent-of-code-2022" />
-  <id>urn:rprimus:github:blogscot:advent-of-code-2022</id>
-  <published>2022-12-02T14:02:33Z</published>
-  <updated>2022-12-02T14:02:33Z</updated>
-  <content type="html">
-   My solutions to Advent of Code 2022
-  </content>
- </entry>
- <entry>
-  <title>leozamboni: aoc-2022</title>
-  <author>
-   <name>leozamboni</name>
-  </author>
-  <link href="https://github.com/leozamboni/aoc-2022" />
-  <id>urn:rprimus:github:leozamboni:aoc-2022</id>
-  <published>2022-12-02T13:07:34Z</published>
-  <updated>2022-12-02T13:07:34Z</updated>
-  <content type="html">
-   ð
-  </content>
- </entry>
- <entry>
-  <title>Gopiandcode: emacs-viewer</title>
-  <author>
-   <name>Gopiandcode</name>
-  </author>
-  <link href="https://github.com/Gopiandcode/emacs-viewer" />
-  <id>urn:rprimus:github:Gopiandcode:emacs-viewer</id>
-  <published>2022-12-02T12:56:33Z</published>
-  <updated>2022-12-02T12:56:33Z</updated>
-  <content type="html">
-   A web frontend for your Org-files (100% faithful to GNU+Emacs!)
-  </content>
- </entry>
- <entry>
-  <title>maruks: advent-of-code-2022-lisp</title>
-  <author>
-   <name>maruks</name>
-  </author>
-  <link href="https://github.com/maruks/advent-of-code-2022-lisp" />
-  <id>urn:rprimus:github:maruks:advent-of-code-2022-lisp</id>
-  <published>2022-12-02T11:27:40Z</published>
-  <updated>2022-12-02T11:27:40Z</updated>
-  <content type="html">
-   Advent of code 2022
-  </content>
- </entry>
- <entry>
-  <title>vindvaki: advent-of-code-2022</title>
-  <author>
-   <name>vindvaki</name>
-  </author>
-  <link href="https://github.com/vindvaki/advent-of-code-2022" />
-  <id>urn:rprimus:github:vindvaki:advent-of-code-2022</id>
-  <published>2022-12-02T11:14:56Z</published>
-  <updated>2022-12-02T11:14:56Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>kwplummer: AdventOfCode</title>
-  <author>
-   <name>kwplummer</name>
-  </author>
-  <link href="https://github.com/kwplummer/AdventOfCode" />
-  <id>urn:rprimus:github:kwplummer:AdventOfCode</id>
-  <published>2022-12-02T06:03:19Z</published>
-  <updated>2022-12-02T06:03:19Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>michaeldelago: aoc-2022</title>
-  <author>
-   <name>michaeldelago</name>
-  </author>
-  <link href="https://github.com/michaeldelago/aoc-2022" />
-  <id>urn:rprimus:github:michaeldelago:aoc-2022</id>
-  <published>2022-12-02T00:38:41Z</published>
-  <updated>2022-12-02T00:38:41Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>PatrickNorton: AOC2022</title>
-  <author>
-   <name>PatrickNorton</name>
-  </author>
-  <link href="https://github.com/PatrickNorton/AOC2022" />
-  <id>urn:rprimus:github:PatrickNorton:AOC2022</id>
-  <published>2022-12-02T00:09:37Z</published>
-  <updated>2022-12-02T00:09:37Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
