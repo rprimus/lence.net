@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-12-06T07:21:24Z</updated>
+<updated>2022-12-07T10:12:24Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>Joh11: aoc2022</title>
+  <author>
+   <name>Joh11</name>
+  </author>
+  <link href="https://github.com/Joh11/aoc2022" />
+  <id>urn:rprimus:github:Joh11:aoc2022</id>
+  <published>2022-12-07T10:12:24Z</published>
+  <updated>2022-12-07T10:12:24Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>powcoder: ECS140A-hw3-handout</title>
+  <author>
+   <name>powcoder</name>
+  </author>
+  <link href="https://github.com/powcoder/ECS140A-hw3-handout" />
+  <id>urn:rprimus:github:powcoder:ECS140A-hw3-handout</id>
+  <published>2022-12-07T02:57:13Z</published>
+  <updated>2022-12-07T02:57:13Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>op2-platforms: lsp-layers</title>
+  <author>
+   <name>op2-platforms</name>
+  </author>
+  <link href="https://github.com/op2-platforms/lsp-layers" />
+  <id>urn:rprimus:github:op2-platforms:lsp-layers</id>
+  <published>2022-12-07T02:01:22Z</published>
+  <updated>2022-12-07T02:01:22Z</updated>
+  <content type="html">
+   Set of AutoLisp projects to work with standard AutoCAD AEC layers (based on NCS 5.0)
+  </content>
+ </entry>
+ <entry>
+  <title>gefjon: journey-of-the-hive</title>
+  <author>
+   <name>gefjon</name>
+  </author>
+  <link href="https://github.com/gefjon/journey-of-the-hive" />
+  <id>urn:rprimus:github:gefjon:journey-of-the-hive</id>
+  <published>2022-12-06T13:15:59Z</published>
+  <updated>2022-12-06T13:15:59Z</updated>
+  <content type="html">
+   A game I&#039;m building for a creative writing course
+  </content>
+ </entry>
+ <entry>
+  <title>ranmaru22: aoc2022</title>
+  <author>
+   <name>ranmaru22</name>
+  </author>
+  <link href="https://github.com/ranmaru22/aoc2022" />
+  <id>urn:rprimus:github:ranmaru22:aoc2022</id>
+  <published>2022-12-06T08:08:20Z</published>
+  <updated>2022-12-06T08:08:20Z</updated>
+  <content type="html">
+   Advent of Code 2022
+  </content>
+ </entry>
  <entry>
   <title>mint-citrus: dice</title>
   <author>
@@ -197,149 +262,6 @@
   <updated>2022-12-05T00:09:02Z</updated>
   <content type="html">
    valtan semi-auto js class to CLOS wrapper
-  </content>
- </entry>
- <entry>
-  <title>gaelanmcmillan: cl-treeview</title>
-  <author>
-   <name>gaelanmcmillan</name>
-  </author>
-  <link href="https://github.com/gaelanmcmillan/cl-treeview" />
-  <id>urn:rprimus:github:gaelanmcmillan:cl-treeview</id>
-  <published>2022-12-04T22:53:24Z</published>
-  <updated>2022-12-04T22:53:24Z</updated>
-  <content type="html">
-   Rendering tree structures from Common Lisp into .dot files to be viewed with graphviz
-  </content>
- </entry>
- <entry>
-  <title>haroldbrinkhof: adventofcode2022</title>
-  <author>
-   <name>haroldbrinkhof</name>
-  </author>
-  <link href="https://github.com/haroldbrinkhof/adventofcode2022" />
-  <id>urn:rprimus:github:haroldbrinkhof:adventofcode2022</id>
-  <published>2022-12-04T22:50:42Z</published>
-  <updated>2022-12-04T22:50:42Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>asigdel29: Traveling-Salesperson</title>
-  <author>
-   <name>asigdel29</name>
-  </author>
-  <link href="https://github.com/asigdel29/Traveling-Salesperson" />
-  <id>urn:rprimus:github:asigdel29:Traveling-Salesperson</id>
-  <published>2022-12-04T21:58:39Z</published>
-  <updated>2022-12-04T21:58:39Z</updated>
-  <content type="html">
-   Implemented a genetic algorithm in LISP for the traveling salesman problem.  The traveling salesman problem (TSP) is the problem of determining the shortest path through a set of cities which begins and ends at one of the cities.
-  </content>
- </entry>
- <entry>
-  <title>asigdel29: RBG-String</title>
-  <author>
-   <name>asigdel29</name>
-  </author>
-  <link href="https://github.com/asigdel29/RBG-String" />
-  <id>urn:rprimus:github:asigdel29:RBG-String</id>
-  <published>2022-12-04T21:30:03Z</published>
-  <updated>2022-12-04T21:30:03Z</updated>
-  <content type="html">
-   RBG genetic algorithm. This manipulates lists of the atoms R, B and G and incorporates fitness metrics favoring on atom over the other two, crossovers to combine elements of two lists, and mutations to change one atom in a list to one of the others.
-  </content>
- </entry>
- <entry>
-  <title>nateglims: aoc2022</title>
-  <author>
-   <name>nateglims</name>
-  </author>
-  <link href="https://github.com/nateglims/aoc2022" />
-  <id>urn:rprimus:github:nateglims:aoc2022</id>
-  <published>2022-12-04T20:56:47Z</published>
-  <updated>2022-12-04T20:56:47Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Slids: hw-grpc</title>
-  <author>
-   <name>Slids</name>
-  </author>
-  <link href="https://github.com/Slids/hw-grpc" />
-  <id>urn:rprimus:github:Slids:hw-grpc</id>
-  <published>2022-12-04T19:06:04Z</published>
-  <updated>2022-12-04T19:06:04Z</updated>
-  <content type="html">
-   Hello World code for Lisp gRPC
-  </content>
- </entry>
- <entry>
-  <title>cameronwp: advent-of-code-2022</title>
-  <author>
-   <name>cameronwp</name>
-  </author>
-  <link href="https://github.com/cameronwp/advent-of-code-2022" />
-  <id>urn:rprimus:github:cameronwp:advent-of-code-2022</id>
-  <published>2022-12-04T16:57:52Z</published>
-  <updated>2022-12-04T16:57:52Z</updated>
-  <content type="html">
-   https://adventofcode.com/2022 in Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>anastasop: aoc2022</title>
-  <author>
-   <name>anastasop</name>
-  </author>
-  <link href="https://github.com/anastasop/aoc2022" />
-  <id>urn:rprimus:github:anastasop:aoc2022</id>
-  <published>2022-12-04T11:36:56Z</published>
-  <updated>2022-12-04T11:36:56Z</updated>
-  <content type="html">
-   Code for the 2022 edition of Advent of Code
-  </content>
- </entry>
- <entry>
-  <title>Uthar: rb-vector</title>
-  <author>
-   <name>Uthar</name>
-  </author>
-  <link href="https://github.com/Uthar/rb-vector" />
-  <id>urn:rprimus:github:Uthar:rb-vector</id>
-  <published>2022-12-04T07:49:43Z</published>
-  <updated>2022-12-04T07:49:43Z</updated>
-  <content type="html">
-   Common Lisp immutable vector
-  </content>
- </entry>
- <entry>
-  <title>tiwe0: portacle-m1</title>
-  <author>
-   <name>tiwe0</name>
-  </author>
-  <link href="https://github.com/tiwe0/portacle-m1" />
-  <id>urn:rprimus:github:tiwe0:portacle-m1</id>
-  <published>2022-12-04T06:30:49Z</published>
-  <updated>2022-12-04T06:30:49Z</updated>
-  <content type="html">
-   build for mac m1
-  </content>
- </entry>
- <entry>
-  <title>dmgk: aoc-2022</title>
-  <author>
-   <name>dmgk</name>
-  </author>
-  <link href="https://github.com/dmgk/aoc-2022" />
-  <id>urn:rprimus:github:dmgk:aoc-2022</id>
-  <published>2022-12-04T00:40:28Z</published>
-  <updated>2022-12-04T00:40:28Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
