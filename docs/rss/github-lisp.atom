@@ -2,8 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-12-07T10:12:24Z</updated>
+<updated>2022-12-08T06:28:46Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>fatimp: diff-boundary-corrfn</title>
+  <author>
+   <name>fatimp</name>
+  </author>
+  <link href="https://github.com/fatimp/diff-boundary-corrfn" />
+  <id>urn:rprimus:github:fatimp:diff-boundary-corrfn</id>
+  <published>2022-12-08T06:28:46Z</published>
+  <updated>2022-12-08T06:28:46Z</updated>
+  <content type="html">
+   Computation of surface-surface function for two-dimensional sets with differentiable boundary
+  </content>
+ </entry>
+ <entry>
+  <title>FlavioAmurrioCS: CS685_Final_Project</title>
+  <author>
+   <name>FlavioAmurrioCS</name>
+  </author>
+  <link href="https://github.com/FlavioAmurrioCS/CS685_Final_Project" />
+  <id>urn:rprimus:github:FlavioAmurrioCS:CS685_Final_Project</id>
+  <published>2022-12-07T23:42:58Z</published>
+  <updated>2022-12-07T23:42:58Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>PSTumuluri: evolutionary-computing</title>
+  <author>
+   <name>PSTumuluri</name>
+  </author>
+  <link href="https://github.com/PSTumuluri/evolutionary-computing" />
+  <id>urn:rprimus:github:PSTumuluri:evolutionary-computing</id>
+  <published>2022-12-07T16:51:23Z</published>
+  <updated>2022-12-07T16:51:23Z</updated>
+  <content type="html">
+   An evolutionary computing library implemented in Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>saivignesh-bassure: common-lisp</title>
+  <author>
+   <name>saivignesh-bassure</name>
+  </author>
+  <link href="https://github.com/saivignesh-bassure/common-lisp" />
+  <id>urn:rprimus:github:saivignesh-bassure:common-lisp</id>
+  <published>2022-12-07T16:09:11Z</published>
+  <updated>2022-12-07T16:09:11Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>op2-platforms: laymake</title>
+  <author>
+   <name>op2-platforms</name>
+  </author>
+  <link href="https://github.com/op2-platforms/laymake" />
+  <id>urn:rprimus:github:op2-platforms:laymake</id>
+  <published>2022-12-07T15:28:18Z</published>
+  <updated>2022-12-07T15:28:18Z</updated>
+  <content type="html">
+   Set of AutoCAD commands in AutoLisp to create NCS layers
+  </content>
+ </entry>
+ <entry>
+  <title>mattfeller: Knight</title>
+  <author>
+   <name>mattfeller</name>
+  </author>
+  <link href="https://github.com/mattfeller/Knight" />
+  <id>urn:rprimus:github:mattfeller:Knight</id>
+  <published>2022-12-07T12:19:59Z</published>
+  <updated>2022-12-07T12:19:59Z</updated>
+  <content type="html">
+   Finds a knight&#039;s tour on a small board, or returns nil if none are possible.
+  </content>
+ </entry>
+ <entry>
+  <title>juliannemosca: lispin-around</title>
+  <author>
+   <name>juliannemosca</name>
+  </author>
+  <link href="https://github.com/juliannemosca/lispin-around" />
+  <id>urn:rprimus:github:juliannemosca:lispin-around</id>
+  <published>2022-12-07T11:56:03Z</published>
+  <updated>2022-12-07T11:56:03Z</updated>
+  <content type="html">
+   a personal repo for misc. LISP stuff. this is mostly for myself and a total disorganized mess ð, i choose to keep it public tho, but really not so much to see here!
+  </content>
+ </entry>
  <entry>
   <title>Joh11: aoc2022</title>
   <author>
@@ -31,16 +122,16 @@
   </content>
  </entry>
  <entry>
-  <title>op2-platforms: lsp-layers</title>
+  <title>op2-platforms: lsp-layer-tools</title>
   <author>
    <name>op2-platforms</name>
   </author>
-  <link href="https://github.com/op2-platforms/lsp-layers" />
-  <id>urn:rprimus:github:op2-platforms:lsp-layers</id>
+  <link href="https://github.com/op2-platforms/lsp-layer-tools" />
+  <id>urn:rprimus:github:op2-platforms:lsp-layer-tools</id>
   <published>2022-12-07T02:01:22Z</published>
   <updated>2022-12-07T02:01:22Z</updated>
   <content type="html">
-   Set of AutoLisp projects to work with standard AutoCAD AEC layers (based on NCS 5.0)
+   Set AutoCAD commands in AutoLisp to work with the NCS standard layers
   </content>
  </entry>
  <entry>
@@ -93,175 +184,6 @@
   <updated>2022-12-06T06:26:35Z</updated>
   <content type="html">
    Architectural Information System, a prototype modeling system for my doctoral research since 2003.
-  </content>
- </entry>
- <entry>
-  <title>jonathan-duffel: aoc</title>
-  <author>
-   <name>jonathan-duffel</name>
-  </author>
-  <link href="https://github.com/jonathan-duffel/aoc" />
-  <id>urn:rprimus:github:jonathan-duffel:aoc</id>
-  <published>2022-12-05T23:17:37Z</published>
-  <updated>2022-12-05T23:17:37Z</updated>
-  <content type="html">
-   advent of code
-  </content>
- </entry>
- <entry>
-  <title>jcguy: aoc2022</title>
-  <author>
-   <name>jcguy</name>
-  </author>
-  <link href="https://github.com/jcguy/aoc2022" />
-  <id>urn:rprimus:github:jcguy:aoc2022</id>
-  <published>2022-12-05T18:33:46Z</published>
-  <updated>2022-12-05T18:33:46Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>kinderferraz: advent-of-code</title>
-  <author>
-   <name>kinderferraz</name>
-  </author>
-  <link href="https://github.com/kinderferraz/advent-of-code" />
-  <id>urn:rprimus:github:kinderferraz:advent-of-code</id>
-  <published>2022-12-05T17:31:35Z</published>
-  <updated>2022-12-05T17:31:35Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>samuelfr19: LR_201901723_SR_201901387_P1</title>
-  <author>
-   <name>samuelfr19</name>
-  </author>
-  <link href="https://github.com/samuelfr19/LR_201901723_SR_201901387_P1" />
-  <id>urn:rprimus:github:samuelfr19:LR_201901723_SR_201901387_P1</id>
-  <published>2022-12-05T17:03:55Z</published>
-  <updated>2022-12-05T17:03:55Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>IsraelWald: edwf</title>
-  <author>
-   <name>IsraelWald</name>
-  </author>
-  <link href="https://github.com/IsraelWald/edwf" />
-  <id>urn:rprimus:github:IsraelWald:edwf</id>
-  <published>2022-12-05T16:49:42Z</published>
-  <updated>2022-12-05T16:49:42Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>formula-spectre: dotfiles</title>
-  <author>
-   <name>formula-spectre</name>
-  </author>
-  <link href="https://github.com/formula-spectre/dotfiles" />
-  <id>urn:rprimus:github:formula-spectre:dotfiles</id>
-  <published>2022-12-05T13:59:30Z</published>
-  <updated>2022-12-05T13:59:30Z</updated>
-  <content type="html">
-   mirror of my configs
-  </content>
- </entry>
- <entry>
-  <title>Rellikeht: advent-of-code</title>
-  <author>
-   <name>Rellikeht</name>
-  </author>
-  <link href="https://github.com/Rellikeht/advent-of-code" />
-  <id>urn:rprimus:github:Rellikeht:advent-of-code</id>
-  <published>2022-12-05T13:26:23Z</published>
-  <updated>2022-12-05T13:26:23Z</updated>
-  <content type="html">
-   My solutions to different editions of advent of code
-  </content>
- </entry>
- <entry>
-  <title>mint-citrus: guess-number</title>
-  <author>
-   <name>mint-citrus</name>
-  </author>
-  <link href="https://github.com/mint-citrus/guess-number" />
-  <id>urn:rprimus:github:mint-citrus:guess-number</id>
-  <published>2022-12-05T11:35:42Z</published>
-  <updated>2022-12-05T11:35:42Z</updated>
-  <content type="html">
-   guess number written in lisp
-  </content>
- </entry>
- <entry>
-  <title>omarbassam88: aoc2022-cl</title>
-  <author>
-   <name>omarbassam88</name>
-  </author>
-  <link href="https://github.com/omarbassam88/aoc2022-cl" />
-  <id>urn:rprimus:github:omarbassam88:aoc2022-cl</id>
-  <published>2022-12-05T09:47:31Z</published>
-  <updated>2022-12-05T09:47:31Z</updated>
-  <content type="html">
-   Advent Of Code 2022 in Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>hraban: aoc-2022-cl-nix</title>
-  <author>
-   <name>hraban</name>
-  </author>
-  <link href="https://github.com/hraban/aoc-2022-cl-nix" />
-  <id>urn:rprimus:github:hraban:aoc-2022-cl-nix</id>
-  <published>2022-12-05T03:36:26Z</published>
-  <updated>2022-12-05T03:36:26Z</updated>
-  <content type="html">
-   Litmus test for lispPackagesLite in Nix
-  </content>
- </entry>
- <entry>
-  <title>xvan: adventofcode-2022</title>
-  <author>
-   <name>xvan</name>
-  </author>
-  <link href="https://github.com/xvan/adventofcode-2022" />
-  <id>urn:rprimus:github:xvan:adventofcode-2022</id>
-  <published>2022-12-05T02:17:36Z</published>
-  <updated>2022-12-05T02:17:36Z</updated>
-  <content type="html">
-   Advent of Code 2022 lisp solutions
-  </content>
- </entry>
- <entry>
-  <title>Kahmue: aoc2022</title>
-  <author>
-   <name>Kahmue</name>
-  </author>
-  <link href="https://github.com/Kahmue/aoc2022" />
-  <id>urn:rprimus:github:Kahmue:aoc2022</id>
-  <published>2022-12-05T00:44:20Z</published>
-  <updated>2022-12-05T00:44:20Z</updated>
-  <content type="html">
-   Solution for the Advent of Code Challenge 2022
-  </content>
- </entry>
- <entry>
-  <title>jason-chandler: js-clos-utilities</title>
-  <author>
-   <name>jason-chandler</name>
-  </author>
-  <link href="https://github.com/jason-chandler/js-clos-utilities" />
-  <id>urn:rprimus:github:jason-chandler:js-clos-utilities</id>
-  <published>2022-12-05T00:09:02Z</published>
-  <updated>2022-12-05T00:09:02Z</updated>
-  <content type="html">
-   valtan semi-auto js class to CLOS wrapper
   </content>
  </entry>
 </feed>
