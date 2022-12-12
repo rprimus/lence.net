@@ -2,8 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-scheme.atom"/>
 <id>urn:rprimus:github:newschemerepos</id>
-<updated>2022-12-11T04:56:53Z</updated>
+<updated>2022-12-12T10:12:26Z</updated>
 <title type='text'>New GitHub Scheme Repos</title>
+ <entry>
+  <title>USA-RedDragon: mes</title>
+  <author>
+   <name>USA-RedDragon</name>
+  </author>
+  <link href="https://github.com/USA-RedDragon/mes" />
+  <id>urn:rprimus:github:USA-RedDragon:mes</id>
+  <published>2022-12-12T10:12:26Z</published>
+  <updated>2022-12-12T10:12:26Z</updated>
+  <content type="html">
+   GNU mes fork
+  </content>
+ </entry>
+ <entry>
+  <title>konst-aa: tetris</title>
+  <author>
+   <name>konst-aa</name>
+  </author>
+  <link href="https://github.com/konst-aa/tetris" />
+  <id>urn:rprimus:github:konst-aa:tetris</id>
+  <published>2022-12-12T01:08:04Z</published>
+  <updated>2022-12-12T01:08:04Z</updated>
+  <content type="html">
+   tetris in chicken scheme
+  </content>
+ </entry>
+ <entry>
+  <title>TheBlueRuby: dotfiles</title>
+  <author>
+   <name>TheBlueRuby</name>
+  </author>
+  <link href="https://github.com/TheBlueRuby/dotfiles" />
+  <id>urn:rprimus:github:TheBlueRuby:dotfiles</id>
+  <published>2022-12-12T00:29:22Z</published>
+  <updated>2022-12-12T00:29:22Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>tadhgmister: dotfiles</title>
+  <author>
+   <name>tadhgmister</name>
+  </author>
+  <link href="https://github.com/tadhgmister/dotfiles" />
+  <id>urn:rprimus:github:tadhgmister:dotfiles</id>
+  <published>2022-12-11T19:35:56Z</published>
+  <updated>2022-12-11T19:35:56Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>junyeong01: Exodus-Movement-Wallet-Api-Source-Payment-Geteway</title>
+  <author>
+   <name>junyeong01</name>
+  </author>
+  <link href="https://github.com/junyeong01/Exodus-Movement-Wallet-Api-Source-Payment-Geteway" />
+  <id>urn:rprimus:github:junyeong01:Exodus-Movement-Wallet-Api-Source-Payment-Geteway</id>
+  <published>2022-12-11T15:42:26Z</published>
+  <updated>2022-12-11T15:42:26Z</updated>
+  <content type="html">
+        Within your C++ project, create &quot;Plugins&quot; folder if it does not already exist.     Copy or SymLink &quot;ExodusImport&quot; folder there.     Reload the project.     Go to &quot;Plugins&quot; menu in unreal editor, find &quot;ExodusImport&quot; under &quot;Other&quot; category, and enable it. The project will be restarted.     Recompile the project if necessary.     Once successfull
+  </content>
+ </entry>
+ <entry>
+  <title>augustfengd: guile-things</title>
+  <author>
+   <name>augustfengd</name>
+  </author>
+  <link href="https://github.com/augustfengd/guile-things" />
+  <id>urn:rprimus:github:augustfengd:guile-things</id>
+  <published>2022-12-11T14:50:40Z</published>
+  <updated>2022-12-11T14:50:40Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Chris-B33: FOCS1</title>
+  <author>
+   <name>Chris-B33</name>
+  </author>
+  <link href="https://github.com/Chris-B33/FOCS1" />
+  <id>urn:rprimus:github:Chris-B33:FOCS1</id>
+  <published>2022-12-11T11:50:54Z</published>
+  <updated>2022-12-11T11:50:54Z</updated>
+  <content type="html">
+   Final Project for module: Foundations of Computer Science 1
+  </content>
+ </entry>
  <entry>
   <title>jimmy1010ww: CS4001301-ProgrammingLanguage-Program-HW2</title>
   <author>
@@ -18,19 +109,6 @@
   </content>
  </entry>
  <entry>
-  <title>kiyoon: test-indent-object</title>
-  <author>
-   <name>kiyoon</name>
-  </author>
-  <link href="https://github.com/kiyoon/test-indent-object" />
-  <id>urn:rprimus:github:kiyoon:test-indent-object</id>
-  <published>2022-12-10T14:01:42Z</published>
-  <updated>2022-12-10T14:01:42Z</updated>
-  <content type="html">
-   test-indent-object
-  </content>
- </entry>
- <entry>
   <title>OrchidRock: SchemeLisp</title>
   <author>
    <name>OrchidRock</name>
@@ -41,84 +119,6 @@
   <updated>2022-12-10T08:38:20Z</updated>
   <content type="html">
    The Lisp interpreter implement by Scheme which is a dialect of Lisp.
-  </content>
- </entry>
- <entry>
-  <title>camrynfriedman: eliminateAndSort_Scheme</title>
-  <author>
-   <name>camrynfriedman</name>
-  </author>
-  <link href="https://github.com/camrynfriedman/eliminateAndSort_Scheme" />
-  <id>urn:rprimus:github:camrynfriedman:eliminateAndSort_Scheme</id>
-  <published>2022-12-09T20:53:42Z</published>
-  <updated>2022-12-09T20:53:42Z</updated>
-  <content type="html">
-   Project written in Scheme that takes two lists of integers and returns a sorted list containing all the elements of L1 except those that are in L2.
-  </content>
- </entry>
- <entry>
-  <title>sioonhho: myguix</title>
-  <author>
-   <name>sioonhho</name>
-  </author>
-  <link href="https://github.com/sioonhho/myguix" />
-  <id>urn:rprimus:github:sioonhho:myguix</id>
-  <published>2022-12-09T18:46:54Z</published>
-  <updated>2022-12-09T18:46:54Z</updated>
-  <content type="html">
-   personal guix channel
-  </content>
- </entry>
- <entry>
-  <title>h-akira: ubuntu-config</title>
-  <author>
-   <name>h-akira</name>
-  </author>
-  <link href="https://github.com/h-akira/ubuntu-config" />
-  <id>urn:rprimus:github:h-akira:ubuntu-config</id>
-  <published>2022-12-09T14:19:30Z</published>
-  <updated>2022-12-09T14:19:30Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Tucos: advent-of-code-2022</title>
-  <author>
-   <name>Tucos</name>
-  </author>
-  <link href="https://github.com/Tucos/advent-of-code-2022" />
-  <id>urn:rprimus:github:Tucos:advent-of-code-2022</id>
-  <published>2022-12-09T12:29:33Z</published>
-  <updated>2022-12-09T12:29:33Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>samiularnob12: 335-project</title>
-  <author>
-   <name>samiularnob12</name>
-  </author>
-  <link href="https://github.com/samiularnob12/335-project" />
-  <id>urn:rprimus:github:samiularnob12:335-project</id>
-  <published>2022-12-09T02:48:13Z</published>
-  <updated>2022-12-09T02:48:13Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>garbados: distributed-storage-mesh</title>
-  <author>
-   <name>garbados</name>
-  </author>
-  <link href="https://github.com/garbados/distributed-storage-mesh" />
-  <id>urn:rprimus:github:garbados:distributed-storage-mesh</id>
-  <published>2022-12-09T02:28:10Z</published>
-  <updated>2022-12-09T02:28:10Z</updated>
-  <content type="html">
-   An encrypted distributed storage system, built with Goblins.
   </content>
  </entry>
 </feed>
