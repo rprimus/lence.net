@@ -2,19 +2,97 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-12-12T03:41:47Z</updated>
+<updated>2022-12-13T09:04:38Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
  <entry>
-  <title>wangshaojie98: learn-sicp</title>
+  <title>skglas: trivial-mailserver-monitor</title>
   <author>
-   <name>wangshaojie98</name>
+   <name>skglas</name>
   </author>
-  <link href="https://github.com/wangshaojie98/learn-sicp" />
-  <id>urn:rprimus:github:wangshaojie98:learn-sicp</id>
-  <published>2022-12-12T03:41:47Z</published>
-  <updated>2022-12-12T03:41:47Z</updated>
+  <link href="https://github.com/skglas/trivial-mailserver-monitor" />
+  <id>urn:rprimus:github:skglas:trivial-mailserver-monitor</id>
+  <published>2022-12-13T09:04:38Z</published>
+  <updated>2022-12-13T09:04:38Z</updated>
   <content type="html">
    
+  </content>
+ </entry>
+ <entry>
+  <title>shamazmazum: yaft</title>
+  <author>
+   <name>shamazmazum</name>
+  </author>
+  <link href="https://github.com/shamazmazum/yaft" />
+  <id>urn:rprimus:github:shamazmazum:yaft</id>
+  <published>2022-12-13T05:54:08Z</published>
+  <updated>2022-12-13T05:54:08Z</updated>
+  <content type="html">
+   Yet another FFT library for Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>dnizzolo: aoc2022</title>
+  <author>
+   <name>dnizzolo</name>
+  </author>
+  <link href="https://github.com/dnizzolo/aoc2022" />
+  <id>urn:rprimus:github:dnizzolo:aoc2022</id>
+  <published>2022-12-12T21:17:47Z</published>
+  <updated>2022-12-12T21:17:47Z</updated>
+  <content type="html">
+   Advent of Code 2022
+  </content>
+ </entry>
+ <entry>
+  <title>haxala1r: cl-http-daemon</title>
+  <author>
+   <name>haxala1r</name>
+  </author>
+  <link href="https://github.com/haxala1r/cl-http-daemon" />
+  <id>urn:rprimus:github:haxala1r:cl-http-daemon</id>
+  <published>2022-12-12T17:09:38Z</published>
+  <updated>2022-12-12T17:09:38Z</updated>
+  <content type="html">
+   A HTTP/1.1 Daemon written in Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>ScubaAnon: learning-lisp</title>
+  <author>
+   <name>ScubaAnon</name>
+  </author>
+  <link href="https://github.com/ScubaAnon/learning-lisp" />
+  <id>urn:rprimus:github:ScubaAnon:learning-lisp</id>
+  <published>2022-12-12T14:19:49Z</published>
+  <updated>2022-12-12T14:19:49Z</updated>
+  <content type="html">
+   Just going through the book Common Lisp: A Gentle Introduction to Symbolic Computation
+  </content>
+ </entry>
+ <entry>
+  <title>RERobbins: build</title>
+  <author>
+   <name>RERobbins</name>
+  </author>
+  <link href="https://github.com/RERobbins/build" />
+  <id>urn:rprimus:github:RERobbins:build</id>
+  <published>2022-12-12T11:07:08Z</published>
+  <updated>2022-12-12T11:07:08Z</updated>
+  <content type="html">
+   BUILD -- A System Construction Tool
+  </content>
+ </entry>
+ <entry>
+  <title>Denperidge: rarwe-backend</title>
+  <author>
+   <name>Denperidge</name>
+  </author>
+  <link href="https://github.com/Denperidge/rarwe-backend" />
+  <id>urn:rprimus:github:Denperidge:rarwe-backend</id>
+  <published>2022-12-12T10:46:50Z</published>
+  <updated>2022-12-12T10:46:50Z</updated>
+  <content type="html">
+   An attempt at using mu-semtech to create a local copy of the database used in rarwe !
   </content>
  </entry>
  <entry>
@@ -70,6 +148,19 @@
   </content>
  </entry>
  <entry>
+  <title>pve1: capitalized-export</title>
+  <author>
+   <name>pve1</name>
+  </author>
+  <link href="https://github.com/pve1/capitalized-export" />
+  <id>urn:rprimus:github:pve1:capitalized-export</id>
+  <published>2022-12-11T14:42:38Z</published>
+  <updated>2022-12-11T14:42:38Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
   <title>fxhxyz4: cycle-lisp</title>
   <author>
    <name>fxhxyz4</name>
@@ -117,58 +208,6 @@
   <id>urn:rprimus:github:MMagueta:Teapot</id>
   <published>2022-12-11T00:50:40Z</published>
   <updated>2022-12-11T00:50:40Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>GhideonZorn: adventOfLisp</title>
-  <author>
-   <name>GhideonZorn</name>
-  </author>
-  <link href="https://github.com/GhideonZorn/adventOfLisp" />
-  <id>urn:rprimus:github:GhideonZorn:adventOfLisp</id>
-  <published>2022-12-10T16:25:56Z</published>
-  <updated>2022-12-10T16:25:56Z</updated>
-  <content type="html">
-   Making advent of code 2022 in Common Lisp to learn this language.
-  </content>
- </entry>
- <entry>
-  <title>cristian-george: Functional-Programming</title>
-  <author>
-   <name>cristian-george</name>
-  </author>
-  <link href="https://github.com/cristian-george/Functional-Programming" />
-  <id>urn:rprimus:github:cristian-george:Functional-Programming</id>
-  <published>2022-12-10T12:08:38Z</published>
-  <updated>2022-12-10T12:08:38Z</updated>
-  <content type="html">
-   Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>muhammedsinan18: CSE341-Programming-Languages</title>
-  <author>
-   <name>muhammedsinan18</name>
-  </author>
-  <link href="https://github.com/muhammedsinan18/CSE341-Programming-Languages" />
-  <id>urn:rprimus:github:muhammedsinan18:CSE341-Programming-Languages</id>
-  <published>2022-12-10T10:00:32Z</published>
-  <updated>2022-12-10T10:00:32Z</updated>
-  <content type="html">
-   PL COURSE
-  </content>
- </entry>
- <entry>
-  <title>michaeldelago: aoc-2022</title>
-  <author>
-   <name>michaeldelago</name>
-  </author>
-  <link href="https://github.com/michaeldelago/aoc-2022" />
-  <id>urn:rprimus:github:michaeldelago:aoc-2022</id>
-  <published>2022-12-10T02:44:48Z</published>
-  <updated>2022-12-10T02:44:48Z</updated>
   <content type="html">
    
   </content>
