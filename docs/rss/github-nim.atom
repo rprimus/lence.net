@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2022-12-13T03:47:39Z</updated>
+<updated>2022-12-13T23:17:39Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>Kowagatte: braise</title>
+  <author>
+   <name>Kowagatte</name>
+  </author>
+  <link href="https://github.com/Kowagatte/braise" />
+  <id>urn:rprimus:github:Kowagatte:braise</id>
+  <published>2022-12-13T23:17:39Z</published>
+  <updated>2022-12-13T23:17:39Z</updated>
+  <content type="html">
+   Tool to automate exploitation of Minecraft RCON protocol
+  </content>
+ </entry>
+ <entry>
+  <title>wamserma: flake-programs-sqlite</title>
+  <author>
+   <name>wamserma</name>
+  </author>
+  <link href="https://github.com/wamserma/flake-programs-sqlite" />
+  <id>urn:rprimus:github:wamserma:flake-programs-sqlite</id>
+  <published>2022-12-13T22:11:28Z</published>
+  <updated>2022-12-13T22:11:28Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>iagocq: advent-of-code</title>
   <author>
@@ -31,19 +57,6 @@
   </content>
  </entry>
  <entry>
-  <title>sour-skittle: zathura</title>
-  <author>
-   <name>sour-skittle</name>
-  </author>
-  <link href="https://github.com/sour-skittle/zathura" />
-  <id>urn:rprimus:github:sour-skittle:zathura</id>
-  <published>2022-12-12T13:04:53Z</published>
-  <updated>2022-12-12T13:04:53Z</updated>
-  <content type="html">
-   a space adventure
-  </content>
- </entry>
- <entry>
   <title>maddenvvs: advent-of-code-2022</title>
   <author>
    <name>maddenvvs</name>
@@ -67,97 +80,6 @@
   <updated>2022-12-12T01:57:29Z</updated>
   <content type="html">
    A cute game development toolkit for Nim.
-  </content>
- </entry>
- <entry>
-  <title>NicoDblc: qrutil</title>
-  <author>
-   <name>NicoDblc</name>
-  </author>
-  <link href="https://github.com/NicoDblc/qrutil" />
-  <id>urn:rprimus:github:NicoDblc:qrutil</id>
-  <published>2022-12-11T23:29:44Z</published>
-  <updated>2022-12-11T23:29:44Z</updated>
-  <content type="html">
-   quick cli for qrcodes
-  </content>
- </entry>
- <entry>
-  <title>kreatolinux: nyaa3</title>
-  <author>
-   <name>kreatolinux</name>
-  </author>
-  <link href="https://github.com/kreatolinux/nyaa3" />
-  <id>urn:rprimus:github:kreatolinux:nyaa3</id>
-  <published>2022-12-11T16:06:05Z</published>
-  <updated>2022-12-11T16:06:05Z</updated>
-  <content type="html">
-   Next version of nyaa.
-  </content>
- </entry>
- <entry>
-  <title>ajusa: rowdy</title>
-  <author>
-   <name>ajusa</name>
-  </author>
-  <link href="https://github.com/ajusa/rowdy" />
-  <id>urn:rprimus:github:ajusa:rowdy</id>
-  <published>2022-12-11T13:16:40Z</published>
-  <updated>2022-12-11T13:16:40Z</updated>
-  <content type="html">
-   Some sugar for the mummy http server
-  </content>
- </entry>
- <entry>
-  <title>HACCKKER: gptcli</title>
-  <author>
-   <name>HACCKKER</name>
-  </author>
-  <link href="https://github.com/HACCKKER/gptcli" />
-  <id>urn:rprimus:github:HACCKKER:gptcli</id>
-  <published>2022-12-11T10:47:36Z</published>
-  <updated>2022-12-11T10:47:36Z</updated>
-  <content type="html">
-   OpenAI GPTs cli client written in nim
-  </content>
- </entry>
- <entry>
-  <title>nirokay: gitman</title>
-  <author>
-   <name>nirokay</name>
-  </author>
-  <link href="https://github.com/nirokay/gitman" />
-  <id>urn:rprimus:github:nirokay:gitman</id>
-  <published>2022-12-11T07:05:00Z</published>
-  <updated>2022-12-11T07:05:00Z</updated>
-  <content type="html">
-   A cross-platform git repository manager. Easily keep track of your cloned repositories.
-  </content>
- </entry>
- <entry>
-  <title>Olyno: advent-of-code-2022</title>
-  <author>
-   <name>Olyno</name>
-  </author>
-  <link href="https://github.com/Olyno/advent-of-code-2022" />
-  <id>urn:rprimus:github:Olyno:advent-of-code-2022</id>
-  <published>2022-12-11T01:58:38Z</published>
-  <updated>2022-12-11T01:58:38Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>kreatolinux: depper</title>
-  <author>
-   <name>kreatolinux</name>
-  </author>
-  <link href="https://github.com/kreatolinux/depper" />
-  <id>urn:rprimus:github:kreatolinux:depper</id>
-  <published>2022-12-11T01:45:33Z</published>
-  <updated>2022-12-11T01:45:33Z</updated>
-  <content type="html">
-   Dependency handler for nyaa.
   </content>
  </entry>
 </feed>
