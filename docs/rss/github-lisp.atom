@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-12-16T15:03:43Z</updated>
+<updated>2022-12-17T08:44:29Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>dram: cl-jdwp</title>
+  <author>
+   <name>dram</name>
+  </author>
+  <link href="https://github.com/dram/cl-jdwp" />
+  <id>urn:rprimus:github:dram:cl-jdwp</id>
+  <published>2022-12-17T08:44:29Z</published>
+  <updated>2022-12-17T08:44:29Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Izaakwltn: hectares</title>
+  <author>
+   <name>Izaakwltn</name>
+  </author>
+  <link href="https://github.com/Izaakwltn/hectares" />
+  <id>urn:rprimus:github:Izaakwltn:hectares</id>
+  <published>2022-12-17T08:24:15Z</published>
+  <updated>2022-12-17T08:24:15Z</updated>
+  <content type="html">
+   An IMSLP API library in Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>Kevinpgalligan: sketches</title>
+  <author>
+   <name>Kevinpgalligan</name>
+  </author>
+  <link href="https://github.com/Kevinpgalligan/sketches" />
+  <id>urn:rprimus:github:Kevinpgalligan:sketches</id>
+  <published>2022-12-16T20:16:29Z</published>
+  <updated>2022-12-16T20:16:29Z</updated>
+  <content type="html">
+   Experiments in generative art using the Common Lisp sketch library.
+  </content>
+ </entry>
+ <entry>
+  <title>mogamoga1024: cl-tui-matrix</title>
+  <author>
+   <name>mogamoga1024</name>
+  </author>
+  <link href="https://github.com/mogamoga1024/cl-tui-matrix" />
+  <id>urn:rprimus:github:mogamoga1024:cl-tui-matrix</id>
+  <published>2022-12-16T18:31:04Z</published>
+  <updated>2022-12-16T18:31:04Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>PSTumuluri: lisp-algorithms</title>
+  <author>
+   <name>PSTumuluri</name>
+  </author>
+  <link href="https://github.com/PSTumuluri/lisp-algorithms" />
+  <id>urn:rprimus:github:PSTumuluri:lisp-algorithms</id>
+  <published>2022-12-16T18:10:43Z</published>
+  <updated>2022-12-16T18:10:43Z</updated>
+  <content type="html">
+   Algorithms implemented in Common Lisp
+  </content>
+ </entry>
  <entry>
   <title>daniel-lachkeev: IA-Projeto-Dots-And-Boxes</title>
   <author>
@@ -106,84 +171,6 @@
   <updated>2022-12-15T03:13:07Z</updated>
   <content type="html">
    Small package that wraps JiachuanDENG&#039;s combine-multiple-channels-of-audio-files into Common Lisp, so you can use Common Lisp to make a multichanel audio file from the CLI.
-  </content>
- </entry>
- <entry>
-  <title>PSTumuluri: k-bit-multiplexer</title>
-  <author>
-   <name>PSTumuluri</name>
-  </author>
-  <link href="https://github.com/PSTumuluri/k-bit-multiplexer" />
-  <id>urn:rprimus:github:PSTumuluri:k-bit-multiplexer</id>
-  <published>2022-12-14T19:41:36Z</published>
-  <updated>2022-12-14T19:41:36Z</updated>
-  <content type="html">
-   Learning Classifier System for the k-bit multiplexer problem.
-  </content>
- </entry>
- <entry>
-  <title>Marin2705: depression-diagnostic-expert-system</title>
-  <author>
-   <name>Marin2705</name>
-  </author>
-  <link href="https://github.com/Marin2705/depression-diagnostic-expert-system" />
-  <id>urn:rprimus:github:Marin2705:depression-diagnostic-expert-system</id>
-  <published>2022-12-14T16:28:53Z</published>
-  <updated>2022-12-14T16:28:53Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>cyrwus: AutoLISP</title>
-  <author>
-   <name>cyrwus</name>
-  </author>
-  <link href="https://github.com/cyrwus/AutoLISP" />
-  <id>urn:rprimus:github:cyrwus:AutoLISP</id>
-  <published>2022-12-14T10:35:46Z</published>
-  <updated>2022-12-14T10:35:46Z</updated>
-  <content type="html">
-   My lisp library
-  </content>
- </entry>
- <entry>
-  <title>eudoxia0: astro-eog581</title>
-  <author>
-   <name>eudoxia0</name>
-  </author>
-  <link href="https://github.com/eudoxia0/astro-eog581" />
-  <id>urn:rprimus:github:eudoxia0:astro-eog581</id>
-  <published>2022-12-14T09:11:29Z</published>
-  <updated>2022-12-14T09:11:29Z</updated>
-  <content type="html">
-   Astronomical calculations for The Epiphany of Gliese 581.
-  </content>
- </entry>
- <entry>
-  <title>agandar1: utils</title>
-  <author>
-   <name>agandar1</name>
-  </author>
-  <link href="https://github.com/agandar1/utils" />
-  <id>urn:rprimus:github:agandar1:utils</id>
-  <published>2022-12-14T04:44:51Z</published>
-  <updated>2022-12-14T04:44:51Z</updated>
-  <content type="html">
-   General utility functions and marcos for Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>agandar1: advent-of-code-solutions</title>
-  <author>
-   <name>agandar1</name>
-  </author>
-  <link href="https://github.com/agandar1/advent-of-code-solutions" />
-  <id>urn:rprimus:github:agandar1:advent-of-code-solutions</id>
-  <published>2022-12-14T04:36:27Z</published>
-  <updated>2022-12-14T04:36:27Z</updated>
-  <content type="html">
-   My solutions to the yearly advent of code puzzles, starting in 2022
   </content>
  </entry>
 </feed>

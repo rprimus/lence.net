@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2022-12-16T16:09:28Z</updated>
+<updated>2022-12-17T08:49:34Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>OCamlPro: ocamlup</title>
+  <author>
+   <name>OCamlPro</name>
+  </author>
+  <link href="https://github.com/OCamlPro/ocamlup" />
+  <id>urn:rprimus:github:OCamlPro:ocamlup</id>
+  <published>2022-12-17T08:49:34Z</published>
+  <updated>2022-12-17T08:49:34Z</updated>
+  <content type="html">
+   Easy installation tool for OCaml in the spirit of rustup (status: Work In Progress)
+  </content>
+ </entry>
+ <entry>
+  <title>mkhan45: ocaml_canvas_pong</title>
+  <author>
+   <name>mkhan45</name>
+  </author>
+  <link href="https://github.com/mkhan45/ocaml_canvas_pong" />
+  <id>urn:rprimus:github:mkhan45:ocaml_canvas_pong</id>
+  <published>2022-12-17T05:44:54Z</published>
+  <updated>2022-12-17T05:44:54Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>jdpmk: jenga</title>
+  <author>
+   <name>jdpmk</name>
+  </author>
+  <link href="https://github.com/jdpmk/jenga" />
+  <id>urn:rprimus:github:jdpmk:jenga</id>
+  <published>2022-12-17T03:10:54Z</published>
+  <updated>2022-12-17T03:10:54Z</updated>
+  <content type="html">
+   A stack-oriented, concatenative language, for fun.
+  </content>
+ </entry>
+ <entry>
+  <title>Dpbm: testing-ocaml</title>
+  <author>
+   <name>Dpbm</name>
+  </author>
+  <link href="https://github.com/Dpbm/testing-ocaml" />
+  <id>urn:rprimus:github:Dpbm:testing-ocaml</id>
+  <published>2022-12-16T21:04:04Z</published>
+  <updated>2022-12-16T21:04:04Z</updated>
+  <content type="html">
+   testing ocaml language
+  </content>
+ </entry>
  <entry>
   <title>Raphael138: Poker</title>
   <author>
@@ -41,6 +93,19 @@
   <updated>2022-12-16T11:48:08Z</updated>
   <content type="html">
    Random tests done around epoll / polly
+  </content>
+ </entry>
+ <entry>
+  <title>timmyjose-study: learning-ocaml</title>
+  <author>
+   <name>timmyjose-study</name>
+  </author>
+  <link href="https://github.com/timmyjose-study/learning-ocaml" />
+  <id>urn:rprimus:github:timmyjose-study:learning-ocaml</id>
+  <published>2022-12-16T11:20:55Z</published>
+  <updated>2022-12-16T11:20:55Z</updated>
+  <content type="html">
+   Mastering vanilla OCaml fundamentals using various resources.
   </content>
  </entry>
  <entry>
@@ -314,175 +379,6 @@
   <updated>2022-12-15T03:30:22Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>divyaakkiraju: battleship-ocaml</title>
-  <author>
-   <name>divyaakkiraju</name>
-  </author>
-  <link href="https://github.com/divyaakkiraju/battleship-ocaml" />
-  <id>urn:rprimus:github:divyaakkiraju:battleship-ocaml</id>
-  <published>2022-12-14T23:15:52Z</published>
-  <updated>2022-12-14T23:15:52Z</updated>
-  <content type="html">
-   Battleshipâinspired by the classic board game, Battleshipâwritten in OCaml. 
-  </content>
- </entry>
- <entry>
-  <title>RoiTief: Compi_HW2_tester</title>
-  <author>
-   <name>RoiTief</name>
-  </author>
-  <link href="https://github.com/RoiTief/Compi_HW2_tester" />
-  <id>urn:rprimus:github:RoiTief:Compi_HW2_tester</id>
-  <published>2022-12-14T21:44:23Z</published>
-  <updated>2022-12-14T21:44:23Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>iiuwr-cc: pracownia22-4</title>
-  <author>
-   <name>iiuwr-cc</name>
-  </author>
-  <link href="https://github.com/iiuwr-cc/pracownia22-4" />
-  <id>urn:rprimus:github:iiuwr-cc:pracownia22-4</id>
-  <published>2022-12-14T19:12:21Z</published>
-  <updated>2022-12-14T19:12:21Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>fangyi-zhou: advent-of-code-ocaml-starter</title>
-  <author>
-   <name>fangyi-zhou</name>
-  </author>
-  <link href="https://github.com/fangyi-zhou/advent-of-code-ocaml-starter" />
-  <id>urn:rprimus:github:fangyi-zhou:advent-of-code-ocaml-starter</id>
-  <published>2022-12-14T14:28:56Z</published>
-  <updated>2022-12-14T14:28:56Z</updated>
-  <content type="html">
-   Starter code for doing Advent of Code in OCaml
-  </content>
- </entry>
- <entry>
-  <title>reynir: ppx_optint</title>
-  <author>
-   <name>reynir</name>
-  </author>
-  <link href="https://github.com/reynir/ppx_optint" />
-  <id>urn:rprimus:github:reynir:ppx_optint</id>
-  <published>2022-12-14T11:48:18Z</published>
-  <updated>2022-12-14T11:48:18Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>abhilashagowda4241: TAPL.</title>
-  <author>
-   <name>abhilashagowda4241</name>
-  </author>
-  <link href="https://github.com/abhilashagowda4241/TAPL." />
-  <id>urn:rprimus:github:abhilashagowda4241:TAPL.</id>
-  <published>2022-12-14T11:38:53Z</published>
-  <updated>2022-12-14T11:38:53Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ShadowproofGamer: PaP_lista7_Cw</title>
-  <author>
-   <name>ShadowproofGamer</name>
-  </author>
-  <link href="https://github.com/ShadowproofGamer/PaP_lista7_Cw" />
-  <id>urn:rprimus:github:ShadowproofGamer:PaP_lista7_Cw</id>
-  <published>2022-12-14T11:22:01Z</published>
-  <updated>2022-12-14T11:22:01Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>timmyjose-study: ocaml-from-the-very-beginning</title>
-  <author>
-   <name>timmyjose-study</name>
-  </author>
-  <link href="https://github.com/timmyjose-study/ocaml-from-the-very-beginning" />
-  <id>urn:rprimus:github:timmyjose-study:ocaml-from-the-very-beginning</id>
-  <published>2022-12-14T11:16:51Z</published>
-  <updated>2022-12-14T11:16:51Z</updated>
-  <content type="html">
-   Learning vanilla Ocaml from the eponymous book by Whitingdon.
-  </content>
- </entry>
- <entry>
-  <title>abhilashagowda4241: TAPL</title>
-  <author>
-   <name>abhilashagowda4241</name>
-  </author>
-  <link href="https://github.com/abhilashagowda4241/TAPL" />
-  <id>urn:rprimus:github:abhilashagowda4241:TAPL</id>
-  <published>2022-12-14T11:14:33Z</published>
-  <updated>2022-12-14T11:14:33Z</updated>
-  <content type="html">
-   TAPL
-  </content>
- </entry>
- <entry>
-  <title>MarcoPerson: INSA_FordFulkersonAlgorithmProject</title>
-  <author>
-   <name>MarcoPerson</name>
-  </author>
-  <link href="https://github.com/MarcoPerson/INSA_FordFulkersonAlgorithmProject" />
-  <id>urn:rprimus:github:MarcoPerson:INSA_FordFulkersonAlgorithmProject</id>
-  <published>2022-12-14T09:40:59Z</published>
-  <updated>2022-12-14T09:40:59Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>craff: simple_httpd</title>
-  <author>
-   <name>craff</name>
-  </author>
-  <link href="https://github.com/craff/simple_httpd" />
-  <id>urn:rprimus:github:craff:simple_httpd</id>
-  <published>2022-12-14T06:07:16Z</published>
-  <updated>2022-12-14T06:07:16Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>roodni: lambda_d</title>
-  <author>
-   <name>roodni</name>
-  </author>
-  <link href="https://github.com/roodni/lambda_d" />
-  <id>urn:rprimus:github:roodni:lambda_d</id>
-  <published>2022-12-14T03:26:17Z</published>
-  <updated>2022-12-14T03:26:17Z</updated>
-  <content type="html">
-   ææ¥­ç¨
-  </content>
- </entry>
- <entry>
-  <title>dmgamboa: aoc2022</title>
-  <author>
-   <name>dmgamboa</name>
-  </author>
-  <link href="https://github.com/dmgamboa/aoc2022" />
-  <id>urn:rprimus:github:dmgamboa:aoc2022</id>
-  <published>2022-12-14T03:09:53Z</published>
-  <updated>2022-12-14T03:09:53Z</updated>
-  <content type="html">
-   advent of code 2022
   </content>
  </entry>
 </feed>
