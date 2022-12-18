@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2022-12-17T04:07:32Z</updated>
+<updated>2022-12-18T05:42:26Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>stakach: imagine</title>
+  <author>
+   <name>stakach</name>
+  </author>
+  <link href="https://github.com/stakach/imagine" />
+  <id>urn:rprimus:github:stakach:imagine</id>
+  <published>2022-12-18T05:42:26Z</published>
+  <updated>2022-12-18T05:42:26Z</updated>
+  <content type="html">
+   a crystal lang AI video toolkit
+  </content>
+ </entry>
  <entry>
   <title>noqisofon: cr-sdl2-example</title>
   <author>
@@ -28,45 +41,6 @@
   <updated>2022-12-16T19:13:33Z</updated>
   <content type="html">
    FizzBuzz in Wasmer
-  </content>
- </entry>
- <entry>
-  <title>GrottoPress: samba</title>
-  <author>
-   <name>GrottoPress</name>
-  </author>
-  <link href="https://github.com/GrottoPress/samba" />
-  <id>urn:rprimus:github:GrottoPress:samba</id>
-  <published>2022-12-15T21:55:57Z</published>
-  <updated>2022-12-15T21:55:57Z</updated>
-  <content type="html">
-   Single Sign On authentication for Lucky framework
-  </content>
- </entry>
- <entry>
-  <title>qualterz: hello-wasmer-cr</title>
-  <author>
-   <name>qualterz</name>
-  </author>
-  <link href="https://github.com/qualterz/hello-wasmer-cr" />
-  <id>urn:rprimus:github:qualterz:hello-wasmer-cr</id>
-  <published>2022-12-15T14:45:00Z</published>
-  <updated>2022-12-15T14:45:00Z</updated>
-  <content type="html">
-   Hello, Wasmer!
-  </content>
- </entry>
- <entry>
-  <title>NeuraLegion: restharter</title>
-  <author>
-   <name>NeuraLegion</name>
-  </author>
-  <link href="https://github.com/NeuraLegion/restharter" />
-  <id>urn:rprimus:github:NeuraLegion:restharter</id>
-  <published>2022-12-15T07:58:22Z</published>
-  <updated>2022-12-15T07:58:22Z</updated>
-  <content type="html">
-   Restart a scan using a HAR
   </content>
  </entry>
 </feed>

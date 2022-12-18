@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2022-12-17T08:42:52Z</updated>
+<updated>2022-12-17T21:57:14Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>xTeKc: saynim</title>
+  <author>
+   <name>xTeKc</name>
+  </author>
+  <link href="https://github.com/xTeKc/saynim" />
+  <id>urn:rprimus:github:xTeKc:saynim</id>
+  <published>2022-12-17T21:57:14Z</published>
+  <updated>2022-12-17T21:57:14Z</updated>
+  <content type="html">
+   Nim project reference
+  </content>
+ </entry>
+ <entry>
+  <title>deniosm: denios-menu</title>
+  <author>
+   <name>deniosm</name>
+  </author>
+  <link href="https://github.com/deniosm/denios-menu" />
+  <id>urn:rprimus:github:deniosm:denios-menu</id>
+  <published>2022-12-17T21:30:03Z</published>
+  <updated>2022-12-17T21:30:03Z</updated>
+  <content type="html">
+   denios-menu source
+  </content>
+ </entry>
+ <entry>
+  <title>SkyVault: tweenim</title>
+  <author>
+   <name>SkyVault</name>
+  </author>
+  <link href="https://github.com/SkyVault/tweenim" />
+  <id>urn:rprimus:github:SkyVault:tweenim</id>
+  <published>2022-12-17T17:52:27Z</published>
+  <updated>2022-12-17T17:52:27Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>Arkaneel: wallpaper-io</title>
   <author>
@@ -66,7 +105,7 @@
   <published>2022-12-17T01:49:10Z</published>
   <updated>2022-12-17T01:49:10Z</updated>
   <content type="html">
-   
+   Web utilities - HTTP headers, query parsing etc
   </content>
  </entry>
  <entry>
@@ -118,98 +157,7 @@
   <published>2022-12-16T09:32:23Z</published>
   <updated>2022-12-16T09:32:23Z</updated>
   <content type="html">
-   Low level binding to the Wren scripting language API.
-  </content>
- </entry>
- <entry>
-  <title>antonsakhanovych: adventOfCode-2022</title>
-  <author>
-   <name>antonsakhanovych</name>
-  </author>
-  <link href="https://github.com/antonsakhanovych/adventOfCode-2022" />
-  <id>urn:rprimus:github:antonsakhanovych:adventOfCode-2022</id>
-  <published>2022-12-15T22:58:02Z</published>
-  <updated>2022-12-15T22:58:02Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>fsh: integers</title>
-  <author>
-   <name>fsh</name>
-  </author>
-  <link href="https://github.com/fsh/integers" />
-  <id>urn:rprimus:github:fsh:integers</id>
-  <published>2022-12-15T22:24:33Z</published>
-  <updated>2022-12-15T22:24:33Z</updated>
-  <content type="html">
-   Ergonomic GMP Integers for Nim
-  </content>
- </entry>
- <entry>
-  <title>scemino: nglib</title>
-  <author>
-   <name>scemino</name>
-  </author>
-  <link href="https://github.com/scemino/nglib" />
-  <id>urn:rprimus:github:scemino:nglib</id>
-  <published>2022-12-15T21:53:42Z</published>
-  <updated>2022-12-15T21:53:42Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>pynappo: advent2022</title>
-  <author>
-   <name>pynappo</name>
-  </author>
-  <link href="https://github.com/pynappo/advent2022" />
-  <id>urn:rprimus:github:pynappo:advent2022</id>
-  <published>2022-12-15T12:40:12Z</published>
-  <updated>2022-12-15T12:40:12Z</updated>
-  <content type="html">
-   Solutions for adventofcode.com/2022 using a variety of languages :)
-  </content>
- </entry>
- <entry>
-  <title>EmbeddedNim: rclnim</title>
-  <author>
-   <name>EmbeddedNim</name>
-  </author>
-  <link href="https://github.com/EmbeddedNim/rclnim" />
-  <id>urn:rprimus:github:EmbeddedNim:rclnim</id>
-  <published>2022-12-15T08:01:33Z</published>
-  <updated>2022-12-15T08:01:33Z</updated>
-  <content type="html">
-   Wrappers for core ROS2 RCL Layer
-  </content>
- </entry>
- <entry>
-  <title>jmgomez: NimTemplate</title>
-  <author>
-   <name>jmgomez</name>
-  </author>
-  <link href="https://github.com/jmgomez/NimTemplate" />
-  <id>urn:rprimus:github:jmgomez:NimTemplate</id>
-  <published>2022-12-15T04:34:21Z</published>
-  <updated>2022-12-15T04:34:21Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>IanSapp128: PLACES-Shift</title>
-  <author>
-   <name>IanSapp128</name>
-  </author>
-  <link href="https://github.com/IanSapp128/PLACES-Shift" />
-  <id>urn:rprimus:github:IanSapp128:PLACES-Shift</id>
-  <published>2022-12-15T04:32:18Z</published>
-  <updated>2022-12-15T04:32:18Z</updated>
-  <content type="html">
-   
+   Nim low level binding to the Wren scripting language API.
   </content>
  </entry>
 </feed>
