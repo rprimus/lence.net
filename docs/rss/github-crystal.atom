@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2022-12-18T05:42:26Z</updated>
+<updated>2022-12-19T01:56:27Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>hamros1: dwm</title>
+  <author>
+   <name>hamros1</name>
+  </author>
+  <link href="https://github.com/hamros1/dwm" />
+  <id>urn:rprimus:github:hamros1:dwm</id>
+  <published>2022-12-19T01:56:27Z</published>
+  <updated>2022-12-19T01:56:27Z</updated>
+  <content type="html">
+   my dwm rewrite in crystal
+  </content>
+ </entry>
+ <entry>
+  <title>TheGnarCo: cloudwatch2sqlite</title>
+  <author>
+   <name>TheGnarCo</name>
+  </author>
+  <link href="https://github.com/TheGnarCo/cloudwatch2sqlite" />
+  <id>urn:rprimus:github:TheGnarCo:cloudwatch2sqlite</id>
+  <published>2022-12-18T19:49:28Z</published>
+  <updated>2022-12-18T19:49:28Z</updated>
+  <content type="html">
+   CLI utility for inserting cloudwatch generated NGINX log entries into a sqlite database.
+  </content>
+ </entry>
  <entry>
   <title>stakach: imagine</title>
   <author>
@@ -28,19 +54,6 @@
   <updated>2022-12-17T04:07:32Z</updated>
   <content type="html">
    SDL2-Crystal ãä½¿ã£ããã¹ãï¼ç¨ãªãã¸ããª
-  </content>
- </entry>
- <entry>
-  <title>qualterz: fizzbuzz-wasmer-cr</title>
-  <author>
-   <name>qualterz</name>
-  </author>
-  <link href="https://github.com/qualterz/fizzbuzz-wasmer-cr" />
-  <id>urn:rprimus:github:qualterz:fizzbuzz-wasmer-cr</id>
-  <published>2022-12-16T19:13:33Z</published>
-  <updated>2022-12-16T19:13:33Z</updated>
-  <content type="html">
-   FizzBuzz in Wasmer
   </content>
  </entry>
 </feed>
