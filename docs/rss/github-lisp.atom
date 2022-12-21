@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-12-20T01:12:23Z</updated>
+<updated>2022-12-21T05:13:35Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>srishtygandhi-kgp: trading_backend</title>
+  <author>
+   <name>srishtygandhi-kgp</name>
+  </author>
+  <link href="https://github.com/srishtygandhi-kgp/trading_backend" />
+  <id>urn:rprimus:github:srishtygandhi-kgp:trading_backend</id>
+  <published>2022-12-21T05:13:35Z</published>
+  <updated>2022-12-21T05:13:35Z</updated>
+  <content type="html">
+   Implemented the trading platform discussed in the book: Professional Automated Trading: Theory and Practice by Eugene A. Durenard.
+  </content>
+ </entry>
+ <entry>
+  <title>guitarvydas: dty</title>
+  <author>
+   <name>guitarvydas</name>
+  </author>
+  <link href="https://github.com/guitarvydas/dty" />
+  <id>urn:rprimus:github:guitarvydas:dty</id>
+  <published>2022-12-21T03:32:22Z</published>
+  <updated>2022-12-21T03:32:22Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>genenetwork: cl-gn</title>
+  <author>
+   <name>genenetwork</name>
+  </author>
+  <link href="https://github.com/genenetwork/cl-gn" />
+  <id>urn:rprimus:github:genenetwork:cl-gn</id>
+  <published>2022-12-20T23:42:27Z</published>
+  <updated>2022-12-20T23:42:27Z</updated>
+  <content type="html">
+   Common Lisp GeneNetwork
+  </content>
+ </entry>
+ <entry>
+  <title>ranmaru22: natsukashii</title>
+  <author>
+   <name>ranmaru22</name>
+  </author>
+  <link href="https://github.com/ranmaru22/natsukashii" />
+  <id>urn:rprimus:github:ranmaru22:natsukashii</id>
+  <published>2022-12-20T20:27:48Z</published>
+  <updated>2022-12-20T20:27:48Z</updated>
+  <content type="html">
+   Simple automated Wayback Machine scraper.
+  </content>
+ </entry>
+ <entry>
+  <title>kennytilton: robocells</title>
+  <author>
+   <name>kennytilton</name>
+  </author>
+  <link href="https://github.com/kennytilton/robocells" />
+  <id>urn:rprimus:github:kennytilton:robocells</id>
+  <published>2022-12-20T16:57:12Z</published>
+  <updated>2022-12-20T16:57:12Z</updated>
+  <content type="html">
+   Common Lisp Matrix (ne Cells) applied to the RoboCup Simulation League
+  </content>
+ </entry>
  <entry>
   <title>jgerrish: kaitai-struct-clisp-runtime</title>
   <author>
@@ -28,6 +93,19 @@
   <updated>2022-12-19T16:41:39Z</updated>
   <content type="html">
    Attempting Advent of Code 2022 using Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>NoorKhan: advent-of-code-2022</title>
+  <author>
+   <name>NoorKhan</name>
+  </author>
+  <link href="https://github.com/NoorKhan/advent-of-code-2022" />
+  <id>urn:rprimus:github:NoorKhan:advent-of-code-2022</id>
+  <published>2022-12-19T14:26:19Z</published>
+  <updated>2022-12-19T14:26:19Z</updated>
+  <content type="html">
+   
   </content>
  </entry>
  <entry>
@@ -78,84 +156,6 @@
   <id>urn:rprimus:github:Kevinpgalligan:RewindRSS</id>
   <published>2022-12-19T02:27:57Z</published>
   <updated>2022-12-19T02:27:57Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>dreac0nic: advent-of-code-2022</title>
-  <author>
-   <name>dreac0nic</name>
-  </author>
-  <link href="https://github.com/dreac0nic/advent-of-code-2022" />
-  <id>urn:rprimus:github:dreac0nic:advent-of-code-2022</id>
-  <published>2022-12-18T23:37:34Z</published>
-  <updated>2022-12-18T23:37:34Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>paule32: Kurt_Goedel_Experiment</title>
-  <author>
-   <name>paule32</name>
-  </author>
-  <link href="https://github.com/paule32/Kurt_Goedel_Experiment" />
-  <id>urn:rprimus:github:paule32:Kurt_Goedel_Experiment</id>
-  <published>2022-12-18T15:51:29Z</published>
-  <updated>2022-12-18T15:51:29Z</updated>
-  <content type="html">
-   This is just a fun Project that is faced from the &quot;Kurt Goedel&quot; Therom of incomplete sentences. Produced with SBCL - a Common Lisp implementation. Free for non-profit usage.
-  </content>
- </entry>
- <entry>
-  <title>rue92: advent-of-code</title>
-  <author>
-   <name>rue92</name>
-  </author>
-  <link href="https://github.com/rue92/advent-of-code" />
-  <id>urn:rprimus:github:rue92:advent-of-code</id>
-  <published>2022-12-18T02:00:07Z</published>
-  <updated>2022-12-18T02:00:07Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>RUMirNul: LispEduPractice</title>
-  <author>
-   <name>RUMirNul</name>
-  </author>
-  <link href="https://github.com/RUMirNul/LispEduPractice" />
-  <id>urn:rprimus:github:RUMirNul:LispEduPractice</id>
-  <published>2022-12-18T01:27:17Z</published>
-  <updated>2022-12-18T01:27:17Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>wlharvey4: Lisp-Data-Structures</title>
-  <author>
-   <name>wlharvey4</name>
-  </author>
-  <link href="https://github.com/wlharvey4/Lisp-Data-Structures" />
-  <id>urn:rprimus:github:wlharvey4:Lisp-Data-Structures</id>
-  <published>2022-12-18T00:36:49Z</published>
-  <updated>2022-12-18T00:36:49Z</updated>
-  <content type="html">
-   A collection of Common Lisp data structures
-  </content>
- </entry>
- <entry>
-  <title>rili0214: Credit-Card-Approval-Analysis-Research</title>
-  <author>
-   <name>rili0214</name>
-  </author>
-  <link href="https://github.com/rili0214/Credit-Card-Approval-Analysis-Research" />
-  <id>urn:rprimus:github:rili0214:Credit-Card-Approval-Analysis-Research</id>
-  <published>2022-12-18T00:34:42Z</published>
-  <updated>2022-12-18T00:34:42Z</updated>
   <content type="html">
    
   </content>
