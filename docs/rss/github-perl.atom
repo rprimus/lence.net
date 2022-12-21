@@ -2,576 +2,485 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-perl.atom"/>
 <id>urn:rprimus:github:newperlrepos</id>
-<updated>2022-01-01T22:03:29Z</updated>
+<updated>2022-12-21T14:55:06Z</updated>
 <title type='text'>New GitHub Perl Repos</title>
  <entry>
-  <title>pudgenuts: nmapSwarm</title>
+  <title>niclan: check_smart</title>
   <author>
-   <name>pudgenuts</name>
+   <name>niclan</name>
   </author>
-  <link href="https://github.com/pudgenuts/nmapSwarm" />
-  <id>urn:rprimus:github:pudgenuts:nmapSwarm</id>
-  <published>2022-01-01T22:03:29Z</published>
-  <updated>2022-01-01T22:03:29Z</updated>
+  <link href="https://github.com/niclan/check_smart" />
+  <id>urn:rprimus:github:niclan:check_smart</id>
+  <published>2022-12-21T14:55:06Z</published>
+  <updated>2022-12-21T14:55:06Z</updated>
   <content type="html">
-   frame work to create and manage a swarm of nmap scans
+   check_smart: nagios plugin to check health of disk devices with S.M.A.R.T. support
   </content>
  </entry>
  <entry>
-  <title>brothanb: MC_Waypoint_Converter</title>
+  <title>kit-la: ratconfig</title>
   <author>
-   <name>brothanb</name>
+   <name>kit-la</name>
   </author>
-  <link href="https://github.com/brothanb/MC_Waypoint_Converter" />
-  <id>urn:rprimus:github:brothanb:MC_Waypoint_Converter</id>
-  <published>2022-01-01T20:38:01Z</published>
-  <updated>2022-01-01T20:38:01Z</updated>
-  <content type="html">
-   Scripts for converting waypoints for various Minecraft Mods.
-  </content>
- </entry>
- <entry>
-  <title>normundsneimanis: unibackup</title>
-  <author>
-   <name>normundsneimanis</name>
-  </author>
-  <link href="https://github.com/normundsneimanis/unibackup" />
-  <id>urn:rprimus:github:normundsneimanis:unibackup</id>
-  <published>2022-01-01T12:25:35Z</published>
-  <updated>2022-01-01T12:25:35Z</updated>
-  <content type="html">
-   Backup/Restore scripts collection. Automatically backup Unix-like server system using ftp/sftp/rsync/ssh/rdiff/samba as transport protocol.
-  </content>
- </entry>
- <entry>
-  <title>nickhilliard: search-irr-graph</title>
-  <author>
-   <name>nickhilliard</name>
-  </author>
-  <link href="https://github.com/nickhilliard/search-irr-graph" />
-  <id>urn:rprimus:github:nickhilliard:search-irr-graph</id>
-  <published>2022-01-01T12:21:22Z</published>
-  <updated>2022-01-01T12:21:22Z</updated>
-  <content type="html">
-   Code to find out how an AS is hierarchically included in an AS-SET
-  </content>
- </entry>
- <entry>
-  <title>normundsneimanis: Convert-Age</title>
-  <author>
-   <name>normundsneimanis</name>
-  </author>
-  <link href="https://github.com/normundsneimanis/Convert-Age" />
-  <id>urn:rprimus:github:normundsneimanis:Convert-Age</id>
-  <published>2022-01-01T12:12:18Z</published>
-  <updated>2022-01-01T12:12:18Z</updated>
-  <content type="html">
-   Perl module for converting between a kind of interval representation.
-  </content>
- </entry>
- <entry>
-  <title>shimamu: fswiki-plugin-shortlastmodified</title>
-  <author>
-   <name>shimamu</name>
-  </author>
-  <link href="https://github.com/shimamu/fswiki-plugin-shortlastmodified" />
-  <id>urn:rprimus:github:shimamu:fswiki-plugin-shortlastmodified</id>
-  <published>2022-01-01T10:11:06Z</published>
-  <updated>2022-01-01T10:11:06Z</updated>
+  <link href="https://github.com/kit-la/ratconfig" />
+  <id>urn:rprimus:github:kit-la:ratconfig</id>
+  <published>2022-12-21T13:03:08Z</published>
+  <updated>2022-12-21T13:03:08Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>shuuji3: openssl-cookbook-lab</title>
+  <title>CultOfDionysus: nmap-grepper</title>
   <author>
-   <name>shuuji3</name>
+   <name>CultOfDionysus</name>
   </author>
-  <link href="https://github.com/shuuji3/openssl-cookbook-lab" />
-  <id>urn:rprimus:github:shuuji3:openssl-cookbook-lab</id>
-  <published>2022-01-01T06:33:17Z</published>
-  <updated>2022-01-01T06:33:17Z</updated>
+  <link href="https://github.com/CultOfDionysus/nmap-grepper" />
+  <id>urn:rprimus:github:CultOfDionysus:nmap-grepper</id>
+  <published>2022-12-21T10:44:35Z</published>
+  <updated>2022-12-21T10:44:35Z</updated>
   <content type="html">
-   ð Experimental lab for OpenSSL Cookbook
+   Turns Nmap &quot;greppable&quot; output into a tab-delimited table, making it easy to search and select from a large number of .gnmap files
   </content>
  </entry>
  <entry>
-  <title>dinksetter: diversions</title>
+  <title>flohoff: check_fs_writable</title>
   <author>
-   <name>dinksetter</name>
+   <name>flohoff</name>
   </author>
-  <link href="https://github.com/dinksetter/diversions" />
-  <id>urn:rprimus:github:dinksetter:diversions</id>
-  <published>2022-01-01T05:35:07Z</published>
-  <updated>2022-01-01T05:35:07Z</updated>
+  <link href="https://github.com/flohoff/check_fs_writable" />
+  <id>urn:rprimus:github:flohoff:check_fs_writable</id>
+  <published>2022-12-21T10:09:48Z</published>
+  <updated>2022-12-21T10:09:48Z</updated>
   <content type="html">
-   
+   Icinga2 check for read writeability of filesystems
   </content>
  </entry>
  <entry>
-  <title>pencuricode: bprute</title>
+  <title>biomarble: onekeyRef</title>
   <author>
-   <name>pencuricode</name>
+   <name>biomarble</name>
   </author>
-  <link href="https://github.com/pencuricode/bprute" />
-  <id>urn:rprimus:github:pencuricode:bprute</id>
-  <published>2022-01-01T02:10:45Z</published>
-  <updated>2022-01-01T02:10:45Z</updated>
-  <content type="html">
-   Brute Force Tool WordPress , Joomla , DruPal , OpenCart , Magento
-  </content>
- </entry>
- <entry>
-  <title>ctarbide: perl5nacre</title>
-  <author>
-   <name>ctarbide</name>
-  </author>
-  <link href="https://github.com/ctarbide/perl5nacre" />
-  <id>urn:rprimus:github:ctarbide:perl5nacre</id>
-  <published>2021-12-31T23:08:25Z</published>
-  <updated>2021-12-31T23:08:25Z</updated>
-  <content type="html">
-   perl5 nacre edition
-  </content>
- </entry>
- <entry>
-  <title>adeylab: sciMETv2</title>
-  <author>
-   <name>adeylab</name>
-  </author>
-  <link href="https://github.com/adeylab/sciMETv2" />
-  <id>urn:rprimus:github:adeylab:sciMETv2</id>
-  <published>2021-12-31T19:32:00Z</published>
-  <updated>2021-12-31T19:32:00Z</updated>
+  <link href="https://github.com/biomarble/onekeyRef" />
+  <id>urn:rprimus:github:biomarble:onekeyRef</id>
+  <published>2022-12-21T08:57:52Z</published>
+  <updated>2022-12-21T08:57:52Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>expectingtofly: LMS_Radio_Favourites_Plugin</title>
+  <title>KohaSuomi: Koha-22.x</title>
   <author>
-   <name>expectingtofly</name>
+   <name>KohaSuomi</name>
   </author>
-  <link href="https://github.com/expectingtofly/LMS_Radio_Favourites_Plugin" />
-  <id>urn:rprimus:github:expectingtofly:LMS_Radio_Favourites_Plugin</id>
-  <published>2021-12-31T17:39:58Z</published>
-  <updated>2021-12-31T17:39:58Z</updated>
+  <link href="https://github.com/KohaSuomi/Koha-22.x" />
+  <id>urn:rprimus:github:KohaSuomi:Koha-22.x</id>
+  <published>2022-12-21T08:53:20Z</published>
+  <updated>2022-12-21T08:53:20Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>anhbka: AnalyzePostfixLogs</title>
+  <title>TeknosQuet: dotfiles</title>
   <author>
-   <name>anhbka</name>
+   <name>TeknosQuet</name>
   </author>
-  <link href="https://github.com/anhbka/AnalyzePostfixLogs" />
-  <id>urn:rprimus:github:anhbka:AnalyzePostfixLogs</id>
-  <published>2021-12-31T17:07:40Z</published>
-  <updated>2021-12-31T17:07:40Z</updated>
+  <link href="https://github.com/TeknosQuet/dotfiles" />
+  <id>urn:rprimus:github:TeknosQuet:dotfiles</id>
+  <published>2022-12-21T04:08:07Z</published>
+  <updated>2022-12-21T04:08:07Z</updated>
+  <content type="html">
+   icanhazdotfiles?
+  </content>
+ </entry>
+ <entry>
+  <title>ology: Mojo-OpenAI</title>
+  <author>
+   <name>ology</name>
+  </author>
+  <link href="https://github.com/ology/Mojo-OpenAI" />
+  <id>urn:rprimus:github:ology:Mojo-OpenAI</id>
+  <published>2022-12-21T03:18:21Z</published>
+  <updated>2022-12-21T03:18:21Z</updated>
+  <content type="html">
+   Simple Mojolicious Web UI for OpenAI::API
+  </content>
+ </entry>
+ <entry>
+  <title>mmcclimon: advent-2022</title>
+  <author>
+   <name>mmcclimon</name>
+  </author>
+  <link href="https://github.com/mmcclimon/advent-2022" />
+  <id>urn:rprimus:github:mmcclimon:advent-2022</id>
+  <published>2022-12-21T02:50:45Z</published>
+  <updated>2022-12-21T02:50:45Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>hungn15012000: InstrumentAndSensorFinalProject</title>
+  <title>Satwik290896: LinuxOS_indent_tester</title>
   <author>
-   <name>hungn15012000</name>
+   <name>Satwik290896</name>
   </author>
-  <link href="https://github.com/hungn15012000/InstrumentAndSensorFinalProject" />
-  <id>urn:rprimus:github:hungn15012000:InstrumentAndSensorFinalProject</id>
-  <published>2021-12-31T12:30:02Z</published>
-  <updated>2021-12-31T12:30:02Z</updated>
-  <content type="html">
-   This project is a demonstration of proteus and mosquito MQTT
-  </content>
- </entry>
- <entry>
-  <title>mschlenstedt: LoxBerry-Plugin-MotionEye</title>
-  <author>
-   <name>mschlenstedt</name>
-  </author>
-  <link href="https://github.com/mschlenstedt/LoxBerry-Plugin-MotionEye" />
-  <id>urn:rprimus:github:mschlenstedt:LoxBerry-Plugin-MotionEye</id>
-  <published>2021-12-31T08:55:03Z</published>
-  <updated>2021-12-31T08:55:03Z</updated>
-  <content type="html">
-   A LoxBerry Plugin
-  </content>
- </entry>
- <entry>
-  <title>zr-tex8r: genbros</title>
-  <author>
-   <name>zr-tex8r</name>
-  </author>
-  <link href="https://github.com/zr-tex8r/genbros" />
-  <id>urn:rprimus:github:zr-tex8r:genbros</id>
-  <published>2021-12-31T08:11:05Z</published>
-  <updated>2021-12-31T08:11:05Z</updated>
+  <link href="https://github.com/Satwik290896/LinuxOS_indent_tester" />
+  <id>urn:rprimus:github:Satwik290896:LinuxOS_indent_tester</id>
+  <published>2022-12-20T22:48:34Z</published>
+  <updated>2022-12-20T22:48:34Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>yto: simpii</title>
+  <title>Satwik290896: LinuxOS_P6_sol</title>
   <author>
-   <name>yto</name>
+   <name>Satwik290896</name>
   </author>
-  <link href="https://github.com/yto/simpii" />
-  <id>urn:rprimus:github:yto:simpii</id>
-  <published>2021-12-31T07:34:10Z</published>
-  <updated>2021-12-31T07:34:10Z</updated>
-  <content type="html">
-   Simple Inverted Index Search
-  </content>
- </entry>
- <entry>
-  <title>jsoref: k8s-apis</title>
-  <author>
-   <name>jsoref</name>
-  </author>
-  <link href="https://github.com/jsoref/k8s-apis" />
-  <id>urn:rprimus:github:jsoref:k8s-apis</id>
-  <published>2021-12-31T07:20:19Z</published>
-  <updated>2021-12-31T07:20:19Z</updated>
-  <content type="html">
-   Introspecting k8s apis to generate a word list for check-spelling
-  </content>
- </entry>
- <entry>
-  <title>chiahsien: sort-Xcode-project-file</title>
-  <author>
-   <name>chiahsien</name>
-  </author>
-  <link href="https://github.com/chiahsien/sort-Xcode-project-file" />
-  <id>urn:rprimus:github:chiahsien:sort-Xcode-project-file</id>
-  <published>2021-12-31T06:50:52Z</published>
-  <updated>2021-12-31T06:50:52Z</updated>
-  <content type="html">
-   A script to sort Xcode project file.
-  </content>
- </entry>
- <entry>
-  <title>yxnwh: checkin</title>
-  <author>
-   <name>yxnwh</name>
-  </author>
-  <link href="https://github.com/yxnwh/checkin" />
-  <id>urn:rprimus:github:yxnwh:checkin</id>
-  <published>2021-12-31T06:40:41Z</published>
-  <updated>2021-12-31T06:40:41Z</updated>
+  <link href="https://github.com/Satwik290896/LinuxOS_P6_sol" />
+  <id>urn:rprimus:github:Satwik290896:LinuxOS_P6_sol</id>
+  <published>2022-12-20T22:47:07Z</published>
+  <updated>2022-12-20T22:47:07Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>Shenwei625: LearningPerl</title>
+  <title>Satwik290896: LinuxOS_Project6_BuildFileSystem</title>
   <author>
-   <name>Shenwei625</name>
+   <name>Satwik290896</name>
   </author>
-  <link href="https://github.com/Shenwei625/LearningPerl" />
-  <id>urn:rprimus:github:Shenwei625:LearningPerl</id>
-  <published>2021-12-31T06:33:28Z</published>
-  <updated>2021-12-31T06:33:28Z</updated>
+  <link href="https://github.com/Satwik290896/LinuxOS_Project6_BuildFileSystem" />
+  <id>urn:rprimus:github:Satwik290896:LinuxOS_Project6_BuildFileSystem</id>
+  <published>2022-12-20T22:17:03Z</published>
+  <updated>2022-12-20T22:17:03Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>dchesters: traitblast</title>
+  <title>joshburnsxyz: ghdl</title>
   <author>
-   <name>dchesters</name>
+   <name>joshburnsxyz</name>
   </author>
-  <link href="https://github.com/dchesters/traitblast" />
-  <id>urn:rprimus:github:dchesters:traitblast</id>
-  <published>2021-12-31T02:23:28Z</published>
-  <updated>2021-12-31T02:23:28Z</updated>
+  <link href="https://github.com/joshburnsxyz/ghdl" />
+  <id>urn:rprimus:github:joshburnsxyz:ghdl</id>
+  <published>2022-12-20T21:27:47Z</published>
+  <updated>2022-12-20T21:27:47Z</updated>
   <content type="html">
-   Simple Blast-based tool for taxon-independent assignment of traits to DNA barcodes
+   Download files from github repos using git trees
   </content>
  </entry>
  <entry>
-  <title>mrdvt92: perl-Power-Outlet</title>
+  <title>PauloUNSA: parte2</title>
   <author>
-   <name>mrdvt92</name>
+   <name>PauloUNSA</name>
   </author>
-  <link href="https://github.com/mrdvt92/perl-Power-Outlet" />
-  <id>urn:rprimus:github:mrdvt92:perl-Power-Outlet</id>
-  <published>2021-12-31T01:33:39Z</published>
-  <updated>2021-12-31T01:33:39Z</updated>
-  <content type="html">
-   Perl API to control and query network attached power outlets
-  </content>
- </entry>
- <entry>
-  <title>bishoy-zakaria: Class_Managment_system</title>
-  <author>
-   <name>bishoy-zakaria</name>
-  </author>
-  <link href="https://github.com/bishoy-zakaria/Class_Managment_system" />
-  <id>urn:rprimus:github:bishoy-zakaria:Class_Managment_system</id>
-  <published>2021-12-31T01:14:40Z</published>
-  <updated>2021-12-31T01:14:40Z</updated>
+  <link href="https://github.com/PauloUNSA/parte2" />
+  <id>urn:rprimus:github:PauloUNSA:parte2</id>
+  <published>2022-12-20T20:56:02Z</published>
+  <updated>2022-12-20T20:56:02Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>elenlefoll: MultiFeatureTaggerEnglish</title>
+  <title>grawity: treeify</title>
   <author>
-   <name>elenlefoll</name>
+   <name>grawity</name>
   </author>
-  <link href="https://github.com/elenlefoll/MultiFeatureTaggerEnglish" />
-  <id>urn:rprimus:github:elenlefoll:MultiFeatureTaggerEnglish</id>
-  <published>2021-12-30T23:49:03Z</published>
-  <updated>2021-12-30T23:49:03Z</updated>
-  <content type="html">
-   A Multi-Feature Tagger of English originally designed for multi-feature/multi-dimensional analysis (MDA) (Biber 1988; 1995) of situational variation in standard written and spoken English
-  </content>
- </entry>
- <entry>
-  <title>swthemathwiz: openscad-actions</title>
-  <author>
-   <name>swthemathwiz</name>
-  </author>
-  <link href="https://github.com/swthemathwiz/openscad-actions" />
-  <id>urn:rprimus:github:swthemathwiz:openscad-actions</id>
-  <published>2021-12-30T23:26:43Z</published>
-  <updated>2021-12-30T23:26:43Z</updated>
-  <content type="html">
-   Github Workflow Actions used to automate my OpenSCAD projects
-  </content>
- </entry>
- <entry>
-  <title>vpelss: Tarot_Master_3</title>
-  <author>
-   <name>vpelss</name>
-  </author>
-  <link href="https://github.com/vpelss/Tarot_Master_3" />
-  <id>urn:rprimus:github:vpelss:Tarot_Master_3</id>
-  <published>2021-12-30T22:01:21Z</published>
-  <updated>2021-12-30T22:01:21Z</updated>
+  <link href="https://github.com/grawity/treeify" />
+  <id>urn:rprimus:github:grawity:treeify</id>
+  <published>2022-12-20T20:53:52Z</published>
+  <updated>2022-12-20T20:53:52Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>rjpcasalino: bss</title>
+  <title>trhacknon: davtest</title>
   <author>
-   <name>rjpcasalino</name>
+   <name>trhacknon</name>
   </author>
-  <link href="https://github.com/rjpcasalino/bss" />
-  <id>urn:rprimus:github:rjpcasalino:bss</id>
-  <published>2021-12-30T21:12:09Z</published>
-  <updated>2021-12-30T21:12:09Z</updated>
-  <content type="html">
-   a boring static site generator
-  </content>
- </entry>
- <entry>
-  <title>lindberg-m: gpg_transfer</title>
-  <author>
-   <name>lindberg-m</name>
-  </author>
-  <link href="https://github.com/lindberg-m/gpg_transfer" />
-  <id>urn:rprimus:github:lindberg-m:gpg_transfer</id>
-  <published>2021-12-30T20:54:04Z</published>
-  <updated>2021-12-30T20:54:04Z</updated>
-  <content type="html">
-   De- and re-encrypt files
-  </content>
- </entry>
- <entry>
-  <title>talia-backman: Ps1524_tailocin</title>
-  <author>
-   <name>talia-backman</name>
-  </author>
-  <link href="https://github.com/talia-backman/Ps1524_tailocin" />
-  <id>urn:rprimus:github:talia-backman:Ps1524_tailocin</id>
-  <published>2021-12-30T18:13:59Z</published>
-  <updated>2021-12-30T18:13:59Z</updated>
+  <link href="https://github.com/trhacknon/davtest" />
+  <id>urn:rprimus:github:trhacknon:davtest</id>
+  <published>2022-12-20T20:47:51Z</published>
+  <updated>2022-12-20T20:47:51Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>rahul-rna: RNA-seq_scripts</title>
+  <title>trhacknon: nikto</title>
   <author>
-   <name>rahul-rna</name>
+   <name>trhacknon</name>
   </author>
-  <link href="https://github.com/rahul-rna/RNA-seq_scripts" />
-  <id>urn:rprimus:github:rahul-rna:RNA-seq_scripts</id>
-  <published>2021-12-30T17:01:42Z</published>
-  <updated>2021-12-30T17:01:42Z</updated>
+  <link href="https://github.com/trhacknon/nikto" />
+  <id>urn:rprimus:github:trhacknon:nikto</id>
+  <published>2022-12-20T20:46:42Z</published>
+  <updated>2022-12-20T20:46:42Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>zr-tex8r: gennom</title>
+  <title>Maupyhon: mau_rep2</title>
   <author>
-   <name>zr-tex8r</name>
+   <name>Maupyhon</name>
   </author>
-  <link href="https://github.com/zr-tex8r/gennom" />
-  <id>urn:rprimus:github:zr-tex8r:gennom</id>
-  <published>2021-12-30T15:11:12Z</published>
-  <updated>2021-12-30T15:11:12Z</updated>
-  <content type="html">
-   LaTeXï¼ãæºæãã³ãã«ããã©ã³ããLaTeXã§ä½¿ã
-  </content>
- </entry>
- <entry>
-  <title>sedconet: log4jrem</title>
-  <author>
-   <name>sedconet</name>
-  </author>
-  <link href="https://github.com/sedconet/log4jrem" />
-  <id>urn:rprimus:github:sedconet:log4jrem</id>
-  <published>2021-12-30T14:47:47Z</published>
-  <updated>2021-12-30T14:47:47Z</updated>
+  <link href="https://github.com/Maupyhon/mau_rep2" />
+  <id>urn:rprimus:github:Maupyhon:mau_rep2</id>
+  <published>2022-12-20T16:41:33Z</published>
+  <updated>2022-12-20T16:41:33Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>barmst02: medio</title>
+  <title>davorg: webservice-chatgpt</title>
   <author>
-   <name>barmst02</name>
+   <name>davorg</name>
   </author>
-  <link href="https://github.com/barmst02/medio" />
-  <id>urn:rprimus:github:barmst02:medio</id>
-  <published>2021-12-30T14:41:48Z</published>
-  <updated>2021-12-30T14:41:48Z</updated>
+  <link href="https://github.com/davorg/webservice-chatgpt" />
+  <id>urn:rprimus:github:davorg:webservice-chatgpt</id>
+  <published>2022-12-20T16:34:48Z</published>
+  <updated>2022-12-20T16:34:48Z</updated>
+  <content type="html">
+   Perl module for talking to ChatGPT
+  </content>
+ </entry>
+ <entry>
+  <title>manoharnaga: Rock-Paper-Scissors</title>
+  <author>
+   <name>manoharnaga</name>
+  </author>
+  <link href="https://github.com/manoharnaga/Rock-Paper-Scissors" />
+  <id>urn:rprimus:github:manoharnaga:Rock-Paper-Scissors</id>
+  <published>2022-12-20T15:32:27Z</published>
+  <updated>2022-12-20T15:32:27Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>PTFS-Europe: koha-plugin-logistics</title>
+  <title>xileF1337: RNAhelper</title>
   <author>
-   <name>PTFS-Europe</name>
+   <name>xileF1337</name>
   </author>
-  <link href="https://github.com/PTFS-Europe/koha-plugin-logistics" />
-  <id>urn:rprimus:github:PTFS-Europe:koha-plugin-logistics</id>
-  <published>2021-12-30T13:29:45Z</published>
-  <updated>2021-12-30T13:29:45Z</updated>
+  <link href="https://github.com/xileF1337/RNAhelper" />
+  <id>urn:rprimus:github:xileF1337:RNAhelper</id>
+  <published>2022-12-20T15:18:44Z</published>
+  <updated>2022-12-20T15:18:44Z</updated>
+  <content type="html">
+   Collection of random utility functions for everything concerning RNA folding etc. in Perl.
+  </content>
+ </entry>
+ <entry>
+  <title>BlacksilverConsulting: O365-Outlook-OAuth2-Tools</title>
+  <author>
+   <name>BlacksilverConsulting</name>
+  </author>
+  <link href="https://github.com/BlacksilverConsulting/O365-Outlook-OAuth2-Tools" />
+  <id>urn:rprimus:github:BlacksilverConsulting:O365-Outlook-OAuth2-Tools</id>
+  <published>2022-12-20T14:30:17Z</published>
+  <updated>2022-12-20T14:30:17Z</updated>
+  <content type="html">
+   Utilities for working with O365 Outlook and OAuth2
+  </content>
+ </entry>
+ <entry>
+  <title>MailCleaner: Mail-SpamAssassin-KeywordRuleGenerator</title>
+  <author>
+   <name>MailCleaner</name>
+  </author>
+  <link href="https://github.com/MailCleaner/Mail-SpamAssassin-KeywordRuleGenerator" />
+  <id>urn:rprimus:github:MailCleaner:Mail-SpamAssassin-KeywordRuleGenerator</id>
+  <published>2022-12-20T13:47:48Z</published>
+  <updated>2022-12-20T13:47:48Z</updated>
+  <content type="html">
+   Tool to make meta rules from much simpler config files
+  </content>
+ </entry>
+ <entry>
+  <title>hacktrackgnulinux: tnscmd10g</title>
+  <author>
+   <name>hacktrackgnulinux</name>
+  </author>
+  <link href="https://github.com/hacktrackgnulinux/tnscmd10g" />
+  <id>urn:rprimus:github:hacktrackgnulinux:tnscmd10g</id>
+  <published>2022-12-20T11:22:43Z</published>
+  <updated>2022-12-20T11:22:43Z</updated>
+  <content type="html">
+   [Tools] tnscmd10g - a lame tool to prod the oracle tnslsnr process (1521/tcp)
+  </content>
+ </entry>
+ <entry>
+  <title>beloveugenii: simple-sport</title>
+  <author>
+   <name>beloveugenii</name>
+  </author>
+  <link href="https://github.com/beloveugenii/simple-sport" />
+  <id>urn:rprimus:github:beloveugenii:simple-sport</id>
+  <published>2022-12-20T11:20:18Z</published>
+  <updated>2022-12-20T11:20:18Z</updated>
+  <content type="html">
+   This small app will help you to do sport everytime and everythere
+  </content>
+ </entry>
+ <entry>
+  <title>sagagu: csw1</title>
+  <author>
+   <name>sagagu</name>
+  </author>
+  <link href="https://github.com/sagagu/csw1" />
+  <id>urn:rprimus:github:sagagu:csw1</id>
+  <published>2022-12-20T10:47:03Z</published>
+  <updated>2022-12-20T10:47:03Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>ytnobody: p5-Acme-TourDe-Hokkaido</title>
+  <title>perlancar: perl-App-BPOMUtils-NutritionFacts</title>
   <author>
-   <name>ytnobody</name>
+   <name>perlancar</name>
   </author>
-  <link href="https://github.com/ytnobody/p5-Acme-TourDe-Hokkaido" />
-  <id>urn:rprimus:github:ytnobody:p5-Acme-TourDe-Hokkaido</id>
-  <published>2021-12-30T12:54:13Z</published>
-  <updated>2021-12-30T12:54:13Z</updated>
+  <link href="https://github.com/perlancar/perl-App-BPOMUtils-NutritionFacts" />
+  <id>urn:rprimus:github:perlancar:perl-App-BPOMUtils-NutritionFacts</id>
+  <published>2022-12-20T07:33:44Z</published>
+  <updated>2022-12-20T07:33:44Z</updated>
+  <content type="html">
+   (No description)
+  </content>
+ </entry>
+ <entry>
+  <title>chenjh0216: pyPipeline</title>
+  <author>
+   <name>chenjh0216</name>
+  </author>
+  <link href="https://github.com/chenjh0216/pyPipeline" />
+  <id>urn:rprimus:github:chenjh0216:pyPipeline</id>
+  <published>2022-12-20T07:28:15Z</published>
+  <updated>2022-12-20T07:28:15Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>jnterry: zonemod</title>
+  <title>EdwinAguilarT: cccc</title>
   <author>
-   <name>jnterry</name>
+   <name>EdwinAguilarT</name>
   </author>
-  <link href="https://github.com/jnterry/zonemod" />
-  <id>urn:rprimus:github:jnterry:zonemod</id>
-  <published>2021-12-30T12:28:00Z</published>
-  <updated>2021-12-30T12:28:00Z</updated>
-  <content type="html">
-   Rsync for DNS
-  </content>
- </entry>
- <entry>
-  <title>wannapeace: test</title>
-  <author>
-   <name>wannapeace</name>
-  </author>
-  <link href="https://github.com/wannapeace/test" />
-  <id>urn:rprimus:github:wannapeace:test</id>
-  <published>2021-12-30T12:10:10Z</published>
-  <updated>2021-12-30T12:10:10Z</updated>
+  <link href="https://github.com/EdwinAguilarT/cccc" />
+  <id>urn:rprimus:github:EdwinAguilarT:cccc</id>
+  <published>2022-12-20T03:16:36Z</published>
+  <updated>2022-12-20T03:16:36Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>geshamahendra: C_project</title>
+  <title>Grinnz: twitch-clips-searcher</title>
   <author>
-   <name>geshamahendra</name>
+   <name>Grinnz</name>
   </author>
-  <link href="https://github.com/geshamahendra/C_project" />
-  <id>urn:rprimus:github:geshamahendra:C_project</id>
-  <published>2021-12-30T12:00:31Z</published>
-  <updated>2021-12-30T12:00:31Z</updated>
+  <link href="https://github.com/Grinnz/twitch-clips-searcher" />
+  <id>urn:rprimus:github:Grinnz:twitch-clips-searcher</id>
+  <published>2022-12-20T00:49:08Z</published>
+  <updated>2022-12-20T00:49:08Z</updated>
   <content type="html">
-   C Project for ATMega128 &amp; Arduino Uno 
+   
   </content>
  </entry>
  <entry>
-  <title>langjidong: MAECI</title>
+  <title>Keepsedge: One-DBI</title>
   <author>
-   <name>langjidong</name>
+   <name>Keepsedge</name>
   </author>
-  <link href="https://github.com/langjidong/MAECI" />
-  <id>urn:rprimus:github:langjidong:MAECI</id>
-  <published>2021-12-30T08:07:42Z</published>
-  <updated>2021-12-30T08:07:42Z</updated>
+  <link href="https://github.com/Keepsedge/One-DBI" />
+  <id>urn:rprimus:github:Keepsedge:One-DBI</id>
+  <published>2022-12-19T13:53:22Z</published>
+  <updated>2022-12-19T13:53:22Z</updated>
   <content type="html">
-   MAECI: A Tool For Integrating Multiple Assemblies Into A Consensus Sequence Base On Nanopore Sequencing Data
+   Unified Database Abstraction Layer
   </content>
  </entry>
  <entry>
-  <title>a-pocock: thesis-scripts</title>
+  <title>maarten-boot: atom-rom</title>
   <author>
-   <name>a-pocock</name>
+   <name>maarten-boot</name>
   </author>
-  <link href="https://github.com/a-pocock/thesis-scripts" />
-  <id>urn:rprimus:github:a-pocock:thesis-scripts</id>
-  <published>2021-12-30T07:31:07Z</published>
-  <updated>2021-12-30T07:31:07Z</updated>
+  <link href="https://github.com/maarten-boot/atom-rom" />
+  <id>urn:rprimus:github:maarten-boot:atom-rom</id>
+  <published>2022-12-19T11:36:57Z</published>
+  <updated>2022-12-19T11:36:57Z</updated>
   <content type="html">
-   This is a list of scripts used for analysis during my thesis. 
+   
   </content>
  </entry>
  <entry>
-  <title>a-pocock: miRcurio</title>
+  <title>Fillsu: test_git</title>
   <author>
-   <name>a-pocock</name>
+   <name>Fillsu</name>
   </author>
-  <link href="https://github.com/a-pocock/miRcurio" />
-  <id>urn:rprimus:github:a-pocock:miRcurio</id>
-  <published>2021-12-30T07:17:31Z</published>
-  <updated>2021-12-30T07:17:31Z</updated>
+  <link href="https://github.com/Fillsu/test_git" />
+  <id>urn:rprimus:github:Fillsu:test_git</id>
+  <published>2022-12-19T06:10:23Z</published>
+  <updated>2022-12-19T06:10:23Z</updated>
   <content type="html">
-   Scripts for predicting miRNA using sRNA and degradome data.
+   study for git 
   </content>
  </entry>
  <entry>
-  <title>YongLiedu: FrameShiftFixer</title>
+  <title>jacknvu: key_multivalues</title>
   <author>
-   <name>YongLiedu</name>
+   <name>jacknvu</name>
   </author>
-  <link href="https://github.com/YongLiedu/FrameShiftFixer" />
-  <id>urn:rprimus:github:YongLiedu:FrameShiftFixer</id>
-  <published>2021-12-30T06:10:04Z</published>
-  <updated>2021-12-30T06:10:04Z</updated>
+  <link href="https://github.com/jacknvu/key_multivalues" />
+  <id>urn:rprimus:github:jacknvu:key_multivalues</id>
+  <published>2022-12-19T05:33:42Z</published>
+  <updated>2022-12-19T05:33:42Z</updated>
   <content type="html">
-   Correct frameshifts in genome sequences using protein alignment and vcf file.
+   
   </content>
  </entry>
  <entry>
-  <title>agentjsmith: image_cleaner</title>
+  <title>Jorgezx42513: Inventory</title>
   <author>
-   <name>agentjsmith</name>
+   <name>Jorgezx42513</name>
   </author>
-  <link href="https://github.com/agentjsmith/image_cleaner" />
-  <id>urn:rprimus:github:agentjsmith:image_cleaner</id>
-  <published>2021-12-30T00:21:14Z</published>
-  <updated>2021-12-30T00:21:14Z</updated>
+  <link href="https://github.com/Jorgezx42513/Inventory" />
+  <id>urn:rprimus:github:Jorgezx42513:Inventory</id>
+  <published>2022-12-19T04:18:08Z</published>
+  <updated>2022-12-19T04:18:08Z</updated>
+  <content type="html">
+   rep aplicaction inventory 
+  </content>
+ </entry>
+ <entry>
+  <title>inj3ction: -Blind-SQL-Injection</title>
+  <author>
+   <name>inj3ction</name>
+  </author>
+  <link href="https://github.com/inj3ction/-Blind-SQL-Injection" />
+  <id>urn:rprimus:github:inj3ction:-Blind-SQL-Injection</id>
+  <published>2022-12-19T00:46:51Z</published>
+  <updated>2022-12-19T00:46:51Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>rerichardjr: RPT2PDF</title>
+  <author>
+   <name>rerichardjr</name>
+  </author>
+  <link href="https://github.com/rerichardjr/RPT2PDF" />
+  <id>urn:rprimus:github:rerichardjr:RPT2PDF</id>
+  <published>2022-12-19T00:37:40Z</published>
+  <updated>2022-12-19T00:37:40Z</updated>
   <content type="html">
    
   </content>
