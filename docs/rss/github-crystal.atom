@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2022-12-21T11:25:44Z</updated>
+<updated>2022-12-22T01:00:53Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>SteffanPerry: MineTrain</title>
+  <author>
+   <name>SteffanPerry</name>
+  </author>
+  <link href="https://github.com/SteffanPerry/MineTrain" />
+  <id>urn:rprimus:github:SteffanPerry:MineTrain</id>
+  <published>2022-12-22T01:00:53Z</published>
+  <updated>2022-12-22T01:00:53Z</updated>
+  <content type="html">
+   AWS Lambda runtime for Crystal Lang
+  </content>
+ </entry>
  <entry>
   <title>mamantoha: time_by_example</title>
   <author>
@@ -15,32 +28,6 @@
   <updated>2022-12-21T11:25:44Z</updated>
   <content type="html">
    Provides a Crystal implementation of Go-style time formatting by example.
-  </content>
- </entry>
- <entry>
-  <title>leonardoreiss: crystal</title>
-  <author>
-   <name>leonardoreiss</name>
-  </author>
-  <link href="https://github.com/leonardoreiss/crystal" />
-  <id>urn:rprimus:github:leonardoreiss:crystal</id>
-  <published>2022-12-19T20:42:00Z</published>
-  <updated>2022-12-19T20:42:00Z</updated>
-  <content type="html">
-   Aprendendo a linguagem Crystal
-  </content>
- </entry>
- <entry>
-  <title>hamros1: dwm</title>
-  <author>
-   <name>hamros1</name>
-  </author>
-  <link href="https://github.com/hamros1/dwm" />
-  <id>urn:rprimus:github:hamros1:dwm</id>
-  <published>2022-12-19T01:56:27Z</published>
-  <updated>2022-12-19T01:56:27Z</updated>
-  <content type="html">
-   my dwm rewrite in crystal
   </content>
  </entry>
 </feed>

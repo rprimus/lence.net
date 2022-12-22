@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2022-12-21T13:38:00Z</updated>
+<updated>2022-12-22T00:09:22Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>hortinstein: nimServe</title>
+  <author>
+   <name>hortinstein</name>
+  </author>
+  <link href="https://github.com/hortinstein/nimServe" />
+  <id>urn:rprimus:github:hortinstein:nimServe</id>
+  <published>2022-12-22T00:09:22Z</published>
+  <updated>2022-12-22T00:09:22Z</updated>
+  <content type="html">
+   example of a test http server
+  </content>
+ </entry>
+ <entry>
+  <title>hdbg: pape</title>
+  <author>
+   <name>hdbg</name>
+  </author>
+  <link href="https://github.com/hdbg/pape" />
+  <id>urn:rprimus:github:hdbg:pape</id>
+  <published>2022-12-21T21:02:08Z</published>
+  <updated>2022-12-21T21:02:08Z</updated>
+  <content type="html">
+   Pure nim PE parsing library
+  </content>
+ </entry>
+ <entry>
+  <title>weskerfoot: NimPath</title>
+  <author>
+   <name>weskerfoot</name>
+  </author>
+  <link href="https://github.com/weskerfoot/NimPath" />
+  <id>urn:rprimus:github:weskerfoot:NimPath</id>
+  <published>2022-12-21T20:14:16Z</published>
+  <updated>2022-12-21T20:14:16Z</updated>
+  <content type="html">
+   Interface to libxml2&#039;s XPath engine for Nim
+  </content>
+ </entry>
+ <entry>
+  <title>Yandall: HTest</title>
+  <author>
+   <name>Yandall</name>
+  </author>
+  <link href="https://github.com/Yandall/HTest" />
+  <id>urn:rprimus:github:Yandall:HTest</id>
+  <published>2022-12-21T19:50:08Z</published>
+  <updated>2022-12-21T19:50:08Z</updated>
+  <content type="html">
+   Library to test html strings using css query selectors
+  </content>
+ </entry>
+ <entry>
+  <title>MrPerux: something-something</title>
+  <author>
+   <name>MrPerux</name>
+  </author>
+  <link href="https://github.com/MrPerux/something-something" />
+  <id>urn:rprimus:github:MrPerux:something-something</id>
+  <published>2022-12-21T16:33:36Z</published>
+  <updated>2022-12-21T16:33:36Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>blaze-arch: kittyfetch</title>
   <author>
@@ -28,136 +93,6 @@
   <updated>2022-12-20T04:38:52Z</updated>
   <content type="html">
    Dodge the Creeps, ported to Nim+SDL2
-  </content>
- </entry>
- <entry>
-  <title>tednaleid: nim_scratch</title>
-  <author>
-   <name>tednaleid</name>
-  </author>
-  <link href="https://github.com/tednaleid/nim_scratch" />
-  <id>urn:rprimus:github:tednaleid:nim_scratch</id>
-  <published>2022-12-19T19:09:17Z</published>
-  <updated>2022-12-19T19:09:17Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ThomasTJdev: nim_openai</title>
-  <author>
-   <name>ThomasTJdev</name>
-  </author>
-  <link href="https://github.com/ThomasTJdev/nim_openai" />
-  <id>urn:rprimus:github:ThomasTJdev:nim_openai</id>
-  <published>2022-12-19T16:47:34Z</published>
-  <updated>2022-12-19T16:47:34Z</updated>
-  <content type="html">
-   API for openAI
-  </content>
- </entry>
- <entry>
-  <title>jakobfriedl: nim-bot</title>
-  <author>
-   <name>jakobfriedl</name>
-  </author>
-  <link href="https://github.com/jakobfriedl/nim-bot" />
-  <id>urn:rprimus:github:jakobfriedl:nim-bot</id>
-  <published>2022-12-19T16:46:04Z</published>
-  <updated>2022-12-19T16:46:04Z</updated>
-  <content type="html">
-   Discord bot written in Nim using the dimscord-library.
-  </content>
- </entry>
- <entry>
-  <title>doongjohn: nim-pong</title>
-  <author>
-   <name>doongjohn</name>
-  </author>
-  <link href="https://github.com/doongjohn/nim-pong" />
-  <id>urn:rprimus:github:doongjohn:nim-pong</id>
-  <published>2022-12-19T12:35:04Z</published>
-  <updated>2022-12-19T12:35:04Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>mineqwwe: nim-learning</title>
-  <author>
-   <name>mineqwwe</name>
-  </author>
-  <link href="https://github.com/mineqwwe/nim-learning" />
-  <id>urn:rprimus:github:mineqwwe:nim-learning</id>
-  <published>2022-12-19T11:25:23Z</published>
-  <updated>2022-12-19T11:25:23Z</updated>
-  <content type="html">
-   record time with nim
-  </content>
- </entry>
- <entry>
-  <title>0x454d505459: nimSh</title>
-  <author>
-   <name>0x454d505459</name>
-  </author>
-  <link href="https://github.com/0x454d505459/nimSh" />
-  <id>urn:rprimus:github:0x454d505459:nimSh</id>
-  <published>2022-12-19T10:36:25Z</published>
-  <updated>2022-12-19T10:36:25Z</updated>
-  <content type="html">
-   A poorly written shell made in Nim (yeah who would have guessed ?)
-  </content>
- </entry>
- <entry>
-  <title>0x454d505459: utilities-nim</title>
-  <author>
-   <name>0x454d505459</name>
-  </author>
-  <link href="https://github.com/0x454d505459/utilities-nim" />
-  <id>urn:rprimus:github:0x454d505459:utilities-nim</id>
-  <published>2022-12-19T10:33:27Z</published>
-  <updated>2022-12-19T10:33:27Z</updated>
-  <content type="html">
-   My utility package containing stuff I oftenly use like TLIB (my own terminal lib)
-  </content>
- </entry>
- <entry>
-  <title>benjaminheath238: MinecraftAssetMaker</title>
-  <author>
-   <name>benjaminheath238</name>
-  </author>
-  <link href="https://github.com/benjaminheath238/MinecraftAssetMaker" />
-  <id>urn:rprimus:github:benjaminheath238:MinecraftAssetMaker</id>
-  <published>2022-12-19T09:12:56Z</published>
-  <updated>2022-12-19T09:12:56Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>termermc: arch-caching-mirror</title>
-  <author>
-   <name>termermc</name>
-  </author>
-  <link href="https://github.com/termermc/arch-caching-mirror" />
-  <id>urn:rprimus:github:termermc:arch-caching-mirror</id>
-  <published>2022-12-19T08:26:36Z</published>
-  <updated>2022-12-19T08:26:36Z</updated>
-  <content type="html">
-   An Arch Linux mirror server that proxies packages from other mirrors and caches them locally
-  </content>
- </entry>
- <entry>
-  <title>SaeedBaig: saved-searcher-for-reddit</title>
-  <author>
-   <name>SaeedBaig</name>
-  </author>
-  <link href="https://github.com/SaeedBaig/saved-searcher-for-reddit" />
-  <id>urn:rprimus:github:SaeedBaig:saved-searcher-for-reddit</id>
-  <published>2022-12-19T01:00:13Z</published>
-  <updated>2022-12-19T01:00:13Z</updated>
-  <content type="html">
-   A simple app to search your saved Reddit posts
   </content>
  </entry>
 </feed>
