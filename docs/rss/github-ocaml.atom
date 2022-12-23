@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2022-12-22T05:11:12Z</updated>
+<updated>2022-12-23T01:40:22Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>nmittu: incr-wordle</title>
+  <author>
+   <name>nmittu</name>
+  </author>
+  <link href="https://github.com/nmittu/incr-wordle" />
+  <id>urn:rprimus:github:nmittu:incr-wordle</id>
+  <published>2022-12-23T01:40:22Z</published>
+  <updated>2022-12-23T01:40:22Z</updated>
+  <content type="html">
+   A wordle like game written with Incr-dom
+  </content>
+ </entry>
+ <entry>
+  <title>feihong: dream-quickstart</title>
+  <author>
+   <name>feihong</name>
+  </author>
+  <link href="https://github.com/feihong/dream-quickstart" />
+  <id>urn:rprimus:github:feihong:dream-quickstart</id>
+  <published>2022-12-22T23:52:16Z</published>
+  <updated>2022-12-22T23:52:16Z</updated>
+  <content type="html">
+   Feihong&#039;s Dream quickstart
+  </content>
+ </entry>
+ <entry>
+  <title>daisyyedda: OCaml-Stuff</title>
+  <author>
+   <name>daisyyedda</name>
+  </author>
+  <link href="https://github.com/daisyyedda/OCaml-Stuff" />
+  <id>urn:rprimus:github:daisyyedda:OCaml-Stuff</id>
+  <published>2022-12-22T18:41:01Z</published>
+  <updated>2022-12-22T18:41:01Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Cad-MB: Detection-De-Plagiat-Flagrant</title>
+  <author>
+   <name>Cad-MB</name>
+  </author>
+  <link href="https://github.com/Cad-MB/Detection-De-Plagiat-Flagrant" />
+  <id>urn:rprimus:github:Cad-MB:Detection-De-Plagiat-Flagrant</id>
+  <published>2022-12-22T17:09:08Z</published>
+  <updated>2022-12-22T17:09:08Z</updated>
+  <content type="html">
+   Sorbonne University - UE MU4IN511 OUV (Ouverture)
+  </content>
+ </entry>
+ <entry>
+  <title>izebb: polish_calculator</title>
+  <author>
+   <name>izebb</name>
+  </author>
+  <link href="https://github.com/izebb/polish_calculator" />
+  <id>urn:rprimus:github:izebb:polish_calculator</id>
+  <published>2022-12-22T16:50:19Z</published>
+  <updated>2022-12-22T16:50:19Z</updated>
+  <content type="html">
+   Evaluate calculation Polish way
+  </content>
+ </entry>
+ <entry>
+  <title>SupTarr: learnOCaml</title>
+  <author>
+   <name>SupTarr</name>
+  </author>
+  <link href="https://github.com/SupTarr/learnOCaml" />
+  <id>urn:rprimus:github:SupTarr:learnOCaml</id>
+  <published>2022-12-22T16:02:43Z</published>
+  <updated>2022-12-22T16:02:43Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>JohnBortotti: ocaml_monads</title>
   <author>
@@ -135,6 +213,19 @@
   </content>
  </entry>
  <entry>
+  <title>cara-lang: compiler</title>
+  <author>
+   <name>cara-lang</name>
+  </author>
+  <link href="https://github.com/cara-lang/compiler" />
+  <id>urn:rprimus:github:cara-lang:compiler</id>
+  <published>2022-12-21T11:05:32Z</published>
+  <updated>2022-12-21T11:05:32Z</updated>
+  <content type="html">
+   Cara language compiler
+  </content>
+ </entry>
+ <entry>
   <title>sanette: oplot-graphics</title>
   <author>
    <name>sanette</name>
@@ -184,110 +275,6 @@
   <updated>2022-12-21T00:56:32Z</updated>
   <content type="html">
    The completely laZy language
-  </content>
- </entry>
- <entry>
-  <title>nogw: ppx_deriving_variant_record</title>
-  <author>
-   <name>nogw</name>
-  </author>
-  <link href="https://github.com/nogw/ppx_deriving_variant_record" />
-  <id>urn:rprimus:github:nogw:ppx_deriving_variant_record</id>
-  <published>2022-12-20T22:54:11Z</published>
-  <updated>2022-12-20T22:54:11Z</updated>
-  <content type="html">
-   Generate constructors for variant records
-  </content>
- </entry>
- <entry>
-  <title>mattxwang: advent-of-code-22</title>
-  <author>
-   <name>mattxwang</name>
-  </author>
-  <link href="https://github.com/mattxwang/advent-of-code-22" />
-  <id>urn:rprimus:github:mattxwang:advent-of-code-22</id>
-  <published>2022-12-20T22:32:03Z</published>
-  <updated>2022-12-20T22:32:03Z</updated>
-  <content type="html">
-   it&#039;s ocaml time :sunglasses:
-  </content>
- </entry>
- <entry>
-  <title>dlesbre: coq-prettier-makefile</title>
-  <author>
-   <name>dlesbre</name>
-  </author>
-  <link href="https://github.com/dlesbre/coq-prettier-makefile" />
-  <id>urn:rprimus:github:dlesbre:coq-prettier-makefile</id>
-  <published>2022-12-20T22:05:42Z</published>
-  <updated>2022-12-20T22:05:42Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ShadowproofGamer: PaP_lista10_Lab_Expired</title>
-  <author>
-   <name>ShadowproofGamer</name>
-  </author>
-  <link href="https://github.com/ShadowproofGamer/PaP_lista10_Lab_Expired" />
-  <id>urn:rprimus:github:ShadowproofGamer:PaP_lista10_Lab_Expired</id>
-  <published>2022-12-20T17:14:44Z</published>
-  <updated>2022-12-20T17:14:44Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>bgraf: swplayer</title>
-  <author>
-   <name>bgraf</name>
-  </author>
-  <link href="https://github.com/bgraf/swplayer" />
-  <id>urn:rprimus:github:bgraf:swplayer</id>
-  <published>2022-12-20T13:02:19Z</published>
-  <updated>2022-12-20T13:02:19Z</updated>
-  <content type="html">
-   Reimplementation of the sleep-well player
-  </content>
- </entry>
- <entry>
-  <title>Hephaisto-dev: afit</title>
-  <author>
-   <name>Hephaisto-dev</name>
-  </author>
-  <link href="https://github.com/Hephaisto-dev/afit" />
-  <id>urn:rprimus:github:Hephaisto-dev:afit</id>
-  <published>2022-12-20T06:12:35Z</published>
-  <updated>2022-12-20T06:12:35Z</updated>
-  <content type="html">
-   Afit project at EPITA first semester
-  </content>
- </entry>
- <entry>
-  <title>sjboc: homemade_type_theory</title>
-  <author>
-   <name>sjboc</name>
-  </author>
-  <link href="https://github.com/sjboc/homemade_type_theory" />
-  <id>urn:rprimus:github:sjboc:homemade_type_theory</id>
-  <published>2022-12-20T05:16:00Z</published>
-  <updated>2022-12-20T05:16:00Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>seancav03: Texas-Holdem-OCaml</title>
-  <author>
-   <name>seancav03</name>
-  </author>
-  <link href="https://github.com/seancav03/Texas-Holdem-OCaml" />
-  <id>urn:rprimus:github:seancav03:Texas-Holdem-OCaml</id>
-  <published>2022-12-20T02:04:21Z</published>
-  <updated>2022-12-20T02:04:21Z</updated>
-  <content type="html">
-   A Texas Holdem Poker game implemented in OCaml (Functional Programming) as a group final project for Cornell CS 3110.
   </content>
  </entry>
 </feed>
