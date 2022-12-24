@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-racket.atom"/>
 <id>urn:rprimus:github:newracketrepos</id>
-<updated>2022-12-23T16:05:12Z</updated>
+<updated>2022-12-23T17:30:04Z</updated>
 <title type='text'>New GitHub Racket Repos</title>
+ <entry>
+  <title>John-Georgesen: ParsingBooleanExpressionToAbstractSyntaxTree</title>
+  <author>
+   <name>John-Georgesen</name>
+  </author>
+  <link href="https://github.com/John-Georgesen/ParsingBooleanExpressionToAbstractSyntaxTree" />
+  <id>urn:rprimus:github:John-Georgesen:ParsingBooleanExpressionToAbstractSyntaxTree</id>
+  <published>2022-12-23T17:30:04Z</published>
+  <updated>2022-12-23T17:30:04Z</updated>
+  <content type="html">
+   This is a program written in the functional programming language Scheme. It parses a boolean expression entered by the user and puts it into an AST then evualates and outputs the expression.
+  </content>
+ </entry>
+ <entry>
+  <title>hunkyjimpjorps: drracket-hicontrast</title>
+  <author>
+   <name>hunkyjimpjorps</name>
+  </author>
+  <link href="https://github.com/hunkyjimpjorps/drracket-hicontrast" />
+  <id>urn:rprimus:github:hunkyjimpjorps:drracket-hicontrast</id>
+  <published>2022-12-23T17:21:00Z</published>
+  <updated>2022-12-23T17:21:00Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>TinyRedCat: trc-adventure</title>
+  <author>
+   <name>TinyRedCat</name>
+  </author>
+  <link href="https://github.com/TinyRedCat/trc-adventure" />
+  <id>urn:rprimus:github:TinyRedCat:trc-adventure</id>
+  <published>2022-12-23T17:12:34Z</published>
+  <updated>2022-12-23T17:12:34Z</updated>
+  <content type="html">
+   Side scroller
+  </content>
+ </entry>
+ <entry>
+  <title>dougfort: wubfing</title>
+  <author>
+   <name>dougfort</name>
+  </author>
+  <link href="https://github.com/dougfort/wubfing" />
+  <id>urn:rprimus:github:dougfort:wubfing</id>
+  <published>2022-12-23T16:18:51Z</published>
+  <updated>2022-12-23T16:18:51Z</updated>
+  <content type="html">
+   Play with the (Mastodon) WebFinger protocol
+  </content>
+ </entry>
  <entry>
   <title>damien-mattei: racket-srfi-171-transducers</title>
   <author>
@@ -158,97 +210,6 @@
   <updated>2022-12-22T03:40:13Z</updated>
   <content type="html">
    tiling the courtyard puzzle in lisp (racket)
-  </content>
- </entry>
- <entry>
-  <title>Come1LLF00: graphsdf</title>
-  <author>
-   <name>Come1LLF00</name>
-  </author>
-  <link href="https://github.com/Come1LLF00/graphsdf" />
-  <id>urn:rprimus:github:Come1LLF00:graphsdf</id>
-  <published>2022-12-21T22:07:59Z</published>
-  <updated>2022-12-21T22:07:59Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>AustinFinell: Connect-4-AI</title>
-  <author>
-   <name>AustinFinell</name>
-  </author>
-  <link href="https://github.com/AustinFinell/Connect-4-AI" />
-  <id>urn:rprimus:github:AustinFinell:Connect-4-AI</id>
-  <published>2022-12-21T21:02:31Z</published>
-  <updated>2022-12-21T21:02:31Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>el-pato: space-invaders-racket</title>
-  <author>
-   <name>el-pato</name>
-  </author>
-  <link href="https://github.com/el-pato/space-invaders-racket" />
-  <id>urn:rprimus:github:el-pato:space-invaders-racket</id>
-  <published>2022-12-21T20:20:26Z</published>
-  <updated>2022-12-21T20:20:26Z</updated>
-  <content type="html">
-   Final project for https://www.edx.org/course/how-to-code-simple-data
-  </content>
- </entry>
- <entry>
-  <title>Bogdanp: racket-json-lexer</title>
-  <author>
-   <name>Bogdanp</name>
-  </author>
-  <link href="https://github.com/Bogdanp/racket-json-lexer" />
-  <id>urn:rprimus:github:Bogdanp:racket-json-lexer</id>
-  <published>2022-12-21T17:34:35Z</published>
-  <updated>2022-12-21T17:34:35Z</updated>
-  <content type="html">
-   This package provides an implementation of a JSON lexer and pretty printer for Racket.
-  </content>
- </entry>
- <entry>
-  <title>prozion: dataviz-racket</title>
-  <author>
-   <name>prozion</name>
-  </author>
-  <link href="https://github.com/prozion/dataviz-racket" />
-  <id>urn:rprimus:github:prozion:dataviz-racket</id>
-  <published>2022-12-21T12:59:02Z</published>
-  <updated>2022-12-21T12:59:02Z</updated>
-  <content type="html">
-   Data visualization snippets, based on odysseus
-  </content>
- </entry>
- <entry>
-  <title>prozion: esri-racket</title>
-  <author>
-   <name>prozion</name>
-  </author>
-  <link href="https://github.com/prozion/esri-racket" />
-  <id>urn:rprimus:github:prozion:esri-racket</id>
-  <published>2022-12-21T12:55:40Z</published>
-  <updated>2022-12-21T12:55:40Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Michaelgathara: rack</title>
-  <author>
-   <name>Michaelgathara</name>
-  </author>
-  <link href="https://github.com/Michaelgathara/rack" />
-  <id>urn:rprimus:github:Michaelgathara:rack</id>
-  <published>2022-12-21T01:04:27Z</published>
-  <updated>2022-12-21T01:04:27Z</updated>
-  <content type="html">
-   Michael Gathara&#039;s Personal Racket Playground
   </content>
  </entry>
 </feed>
