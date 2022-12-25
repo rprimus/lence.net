@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2022-12-23T18:08:41Z</updated>
+<updated>2022-12-25T06:22:13Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>yaochie: AdventOfCode2022</title>
+  <author>
+   <name>yaochie</name>
+  </author>
+  <link href="https://github.com/yaochie/AdventOfCode2022" />
+  <id>urn:rprimus:github:yaochie:AdventOfCode2022</id>
+  <published>2022-12-25T06:22:13Z</published>
+  <updated>2022-12-25T06:22:13Z</updated>
+  <content type="html">
+   Advent of Code 2022 solutions, written in Nim
+  </content>
+ </entry>
+ <entry>
+  <title>SomethingGeneric: postlogue</title>
+  <author>
+   <name>SomethingGeneric</name>
+  </author>
+  <link href="https://github.com/SomethingGeneric/postlogue" />
+  <id>urn:rprimus:github:SomethingGeneric:postlogue</id>
+  <published>2022-12-24T22:09:22Z</published>
+  <updated>2022-12-24T22:09:22Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>mantielero: mupdf.nim</title>
+  <author>
+   <name>mantielero</name>
+  </author>
+  <link href="https://github.com/mantielero/mupdf.nim" />
+  <id>urn:rprimus:github:mantielero:mupdf.nim</id>
+  <published>2022-12-24T17:16:36Z</published>
+  <updated>2022-12-24T17:16:36Z</updated>
+  <content type="html">
+   bindings
+  </content>
+ </entry>
+ <entry>
+  <title>jjv360: nim-yagui</title>
+  <author>
+   <name>jjv360</name>
+  </author>
+  <link href="https://github.com/jjv360/nim-yagui" />
+  <id>urn:rprimus:github:jjv360:nim-yagui</id>
+  <published>2022-12-24T12:23:26Z</published>
+  <updated>2022-12-24T12:23:26Z</updated>
+  <content type="html">
+   Yet Another GUI lib for Nim
+  </content>
+ </entry>
  <entry>
   <title>furtidev: brainfrick</title>
   <author>
@@ -18,12 +70,12 @@
   </content>
  </entry>
  <entry>
-  <title>thatrandomperson5: BOE</title>
+  <title>thatrandomperson5: intenc</title>
   <author>
    <name>thatrandomperson5</name>
   </author>
-  <link href="https://github.com/thatrandomperson5/BOE" />
-  <id>urn:rprimus:github:thatrandomperson5:BOE</id>
+  <link href="https://github.com/thatrandomperson5/intenc" />
+  <id>urn:rprimus:github:thatrandomperson5:intenc</id>
   <published>2022-12-23T17:52:37Z</published>
   <updated>2022-12-23T17:52:37Z</updated>
   <content type="html">
@@ -80,71 +132,6 @@
   <updated>2022-12-23T09:45:31Z</updated>
   <content type="html">
    Renders a video of code through pixie, bat and ffmpeg
-  </content>
- </entry>
- <entry>
-  <title>mantielero: poppler_glib.nim</title>
-  <author>
-   <name>mantielero</name>
-  </author>
-  <link href="https://github.com/mantielero/poppler_glib.nim" />
-  <id>urn:rprimus:github:mantielero:poppler_glib.nim</id>
-  <published>2022-12-22T17:20:34Z</published>
-  <updated>2022-12-22T17:20:34Z</updated>
-  <content type="html">
-   Bindings for Nim lang
-  </content>
- </entry>
- <entry>
-  <title>nqeron: DitakticBot</title>
-  <author>
-   <name>nqeron</name>
-  </author>
-  <link href="https://github.com/nqeron/DitakticBot" />
-  <id>urn:rprimus:github:nqeron:DitakticBot</id>
-  <published>2022-12-22T17:19:17Z</published>
-  <updated>2022-12-22T17:19:17Z</updated>
-  <content type="html">
-   Bot for Tak written in nim
-  </content>
- </entry>
- <entry>
-  <title>Smarcy: AoC2022</title>
-  <author>
-   <name>Smarcy</name>
-  </author>
-  <link href="https://github.com/Smarcy/AoC2022" />
-  <id>urn:rprimus:github:Smarcy:AoC2022</id>
-  <published>2022-12-22T16:10:47Z</published>
-  <updated>2022-12-22T16:10:47Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>saemideluxe: vulkan</title>
-  <author>
-   <name>saemideluxe</name>
-  </author>
-  <link href="https://github.com/saemideluxe/vulkan" />
-  <id>urn:rprimus:github:saemideluxe:vulkan</id>
-  <published>2022-12-22T12:30:55Z</published>
-  <updated>2022-12-22T12:30:55Z</updated>
-  <content type="html">
-   My hobby vulkan rendering engine
-  </content>
- </entry>
- <entry>
-  <title>hortinstein: nimServe</title>
-  <author>
-   <name>hortinstein</name>
-  </author>
-  <link href="https://github.com/hortinstein/nimServe" />
-  <id>urn:rprimus:github:hortinstein:nimServe</id>
-  <published>2022-12-22T00:09:22Z</published>
-  <updated>2022-12-22T00:09:22Z</updated>
-  <content type="html">
-   example of a test http server
   </content>
  </entry>
 </feed>
