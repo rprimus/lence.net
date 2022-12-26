@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-racket.atom"/>
 <id>urn:rprimus:github:newracketrepos</id>
-<updated>2022-12-25T05:54:33Z</updated>
+<updated>2022-12-26T05:03:29Z</updated>
 <title type='text'>New GitHub Racket Repos</title>
+ <entry>
+  <title>ndNovaDev: SICP-rkt</title>
+  <author>
+   <name>ndNovaDev</name>
+  </author>
+  <link href="https://github.com/ndNovaDev/SICP-rkt" />
+  <id>urn:rprimus:github:ndNovaDev:SICP-rkt</id>
+  <published>2022-12-26T05:03:29Z</published>
+  <updated>2022-12-26T05:03:29Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>kartesus: racket-fun</title>
+  <author>
+   <name>kartesus</name>
+  </author>
+  <link href="https://github.com/kartesus/racket-fun" />
+  <id>urn:rprimus:github:kartesus:racket-fun</id>
+  <published>2022-12-25T20:47:56Z</published>
+  <updated>2022-12-25T20:47:56Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>1e1001: advent-of-code</title>
   <author>
@@ -39,149 +65,6 @@
   <id>urn:rprimus:github:geyu210:lisp_sicp</id>
   <published>2022-12-24T09:27:21Z</published>
   <updated>2022-12-24T09:27:21Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>John-Georgesen: ParsingBooleanExpressionToAbstractSyntaxTree</title>
-  <author>
-   <name>John-Georgesen</name>
-  </author>
-  <link href="https://github.com/John-Georgesen/ParsingBooleanExpressionToAbstractSyntaxTree" />
-  <id>urn:rprimus:github:John-Georgesen:ParsingBooleanExpressionToAbstractSyntaxTree</id>
-  <published>2022-12-23T17:30:04Z</published>
-  <updated>2022-12-23T17:30:04Z</updated>
-  <content type="html">
-   This is a program written in the functional programming language Scheme. It parses a boolean expression entered by the user and puts it into an AST then evualates and outputs the expression.
-  </content>
- </entry>
- <entry>
-  <title>hunkyjimpjorps: drracket-hicontrast</title>
-  <author>
-   <name>hunkyjimpjorps</name>
-  </author>
-  <link href="https://github.com/hunkyjimpjorps/drracket-hicontrast" />
-  <id>urn:rprimus:github:hunkyjimpjorps:drracket-hicontrast</id>
-  <published>2022-12-23T17:21:00Z</published>
-  <updated>2022-12-23T17:21:00Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>TinyRedCat: trc-adventure</title>
-  <author>
-   <name>TinyRedCat</name>
-  </author>
-  <link href="https://github.com/TinyRedCat/trc-adventure" />
-  <id>urn:rprimus:github:TinyRedCat:trc-adventure</id>
-  <published>2022-12-23T17:12:34Z</published>
-  <updated>2022-12-23T17:12:34Z</updated>
-  <content type="html">
-   Side scroller
-  </content>
- </entry>
- <entry>
-  <title>dougfort: wubfing</title>
-  <author>
-   <name>dougfort</name>
-  </author>
-  <link href="https://github.com/dougfort/wubfing" />
-  <id>urn:rprimus:github:dougfort:wubfing</id>
-  <published>2022-12-23T16:18:51Z</published>
-  <updated>2022-12-23T16:18:51Z</updated>
-  <content type="html">
-   Play with the (Mastodon) WebFinger protocol
-  </content>
- </entry>
- <entry>
-  <title>damien-mattei: racket-srfi-171-transducers</title>
-  <author>
-   <name>damien-mattei</name>
-  </author>
-  <link href="https://github.com/damien-mattei/racket-srfi-171-transducers" />
-  <id>urn:rprimus:github:damien-mattei:racket-srfi-171-transducers</id>
-  <published>2022-12-23T16:05:12Z</published>
-  <updated>2022-12-23T16:05:12Z</updated>
-  <content type="html">
-   racket-srfi-171-transducers
-  </content>
- </entry>
- <entry>
-  <title>Haupti: periodict-rkt</title>
-  <author>
-   <name>Haupti</name>
-  </author>
-  <link href="https://github.com/Haupti/periodict-rkt" />
-  <id>urn:rprimus:github:Haupti:periodict-rkt</id>
-  <published>2022-12-23T10:25:53Z</published>
-  <updated>2022-12-23T10:25:53Z</updated>
-  <content type="html">
-   request info of elements of the periodic table by atomic order number
-  </content>
- </entry>
- <entry>
-  <title>aangel-ivanov: ball-sort</title>
-  <author>
-   <name>aangel-ivanov</name>
-  </author>
-  <link href="https://github.com/aangel-ivanov/ball-sort" />
-  <id>urn:rprimus:github:aangel-ivanov:ball-sort</id>
-  <published>2022-12-23T06:59:31Z</published>
-  <updated>2022-12-23T06:59:31Z</updated>
-  <content type="html">
-   Functional solution (Racket) to a sorting puzzle using a graph search algorithm (final UWaterloo CS 135 assignment).
-  </content>
- </entry>
- <entry>
-  <title>TheEasyLemon: PizzaLang</title>
-  <author>
-   <name>TheEasyLemon</name>
-  </author>
-  <link href="https://github.com/TheEasyLemon/PizzaLang" />
-  <id>urn:rprimus:github:TheEasyLemon:PizzaLang</id>
-  <published>2022-12-23T03:27:42Z</published>
-  <updated>2022-12-23T03:27:42Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jamesdupark: cs1730-typeinference</title>
-  <author>
-   <name>jamesdupark</name>
-  </author>
-  <link href="https://github.com/jamesdupark/cs1730-typeinference" />
-  <id>urn:rprimus:github:jamesdupark:cs1730-typeinference</id>
-  <published>2022-12-23T01:12:58Z</published>
-  <updated>2022-12-23T01:12:58Z</updated>
-  <content type="html">
-   Implementation of a type inference algorithm for a basic untyped programming language
-  </content>
- </entry>
- <entry>
-  <title>9ziggy9: racket-sandbox</title>
-  <author>
-   <name>9ziggy9</name>
-  </author>
-  <link href="https://github.com/9ziggy9/racket-sandbox" />
-  <id>urn:rprimus:github:9ziggy9:racket-sandbox</id>
-  <published>2022-12-23T01:11:27Z</published>
-  <updated>2022-12-23T01:11:27Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Jackie6238: study-archive</title>
-  <author>
-   <name>Jackie6238</name>
-  </author>
-  <link href="https://github.com/Jackie6238/study-archive" />
-  <id>urn:rprimus:github:Jackie6238:study-archive</id>
-  <published>2022-12-23T01:06:47Z</published>
-  <updated>2022-12-23T01:06:47Z</updated>
   <content type="html">
    
   </content>
