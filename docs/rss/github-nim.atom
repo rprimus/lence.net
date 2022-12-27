@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2022-12-26T06:57:21Z</updated>
+<updated>2022-12-27T03:06:13Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>praetoriannero: nim_libpcap</title>
+  <author>
+   <name>praetoriannero</name>
+  </author>
+  <link href="https://github.com/praetoriannero/nim_libpcap" />
+  <id>urn:rprimus:github:praetoriannero:nim_libpcap</id>
+  <published>2022-12-27T03:06:13Z</published>
+  <updated>2022-12-27T03:06:13Z</updated>
+  <content type="html">
+   A nim wrapper for the excellent libpcap library.
+  </content>
+ </entry>
+ <entry>
+  <title>WalkerRout: nimnet</title>
+  <author>
+   <name>WalkerRout</name>
+  </author>
+  <link href="https://github.com/WalkerRout/nimnet" />
+  <id>urn:rprimus:github:WalkerRout:nimnet</id>
+  <published>2022-12-26T23:29:29Z</published>
+  <updated>2022-12-26T23:29:29Z</updated>
+  <content type="html">
+   A neural network implemented in Nim
+  </content>
+ </entry>
+ <entry>
+  <title>Airscripts: devine</title>
+  <author>
+   <name>Airscripts</name>
+  </author>
+  <link href="https://github.com/Airscripts/devine" />
+  <id>urn:rprimus:github:Airscripts:devine</id>
+  <published>2022-12-26T20:39:13Z</published>
+  <updated>2022-12-26T20:39:13Z</updated>
+  <content type="html">
+   A command line interface used to parse and validate development containers config files, enforcing the open specification. 
+  </content>
+ </entry>
+ <entry>
+  <title>Tormund: nim_mpq</title>
+  <author>
+   <name>Tormund</name>
+  </author>
+  <link href="https://github.com/Tormund/nim_mpq" />
+  <id>urn:rprimus:github:Tormund:nim_mpq</id>
+  <published>2022-12-26T11:15:52Z</published>
+  <updated>2022-12-26T11:15:52Z</updated>
+  <content type="html">
+   WIP: Blizzards MPQ archive parsing
+  </content>
+ </entry>
  <entry>
   <title>nirokay: Nimwit</title>
   <author>
@@ -28,6 +80,19 @@
   <updated>2022-12-26T06:56:59Z</updated>
   <content type="html">
    bitables in nim
+  </content>
+ </entry>
+ <entry>
+  <title>zendbit: nim.couchdbapi</title>
+  <author>
+   <name>zendbit</name>
+  </author>
+  <link href="https://github.com/zendbit/nim.couchdbapi" />
+  <id>urn:rprimus:github:zendbit:nim.couchdbapi</id>
+  <published>2022-12-26T04:01:10Z</published>
+  <updated>2022-12-26T04:01:10Z</updated>
+  <content type="html">
+   CouchDb rest api driver for nim programming language
   </content>
  </entry>
  <entry>
@@ -106,45 +171,6 @@
   <updated>2022-12-25T06:22:13Z</updated>
   <content type="html">
    Advent of Code 2022 solutions, written in Nim
-  </content>
- </entry>
- <entry>
-  <title>SomethingGeneric: postlogue</title>
-  <author>
-   <name>SomethingGeneric</name>
-  </author>
-  <link href="https://github.com/SomethingGeneric/postlogue" />
-  <id>urn:rprimus:github:SomethingGeneric:postlogue</id>
-  <published>2022-12-24T22:09:22Z</published>
-  <updated>2022-12-24T22:09:22Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>mantielero: mupdf.nim</title>
-  <author>
-   <name>mantielero</name>
-  </author>
-  <link href="https://github.com/mantielero/mupdf.nim" />
-  <id>urn:rprimus:github:mantielero:mupdf.nim</id>
-  <published>2022-12-24T17:16:36Z</published>
-  <updated>2022-12-24T17:16:36Z</updated>
-  <content type="html">
-   bindings
-  </content>
- </entry>
- <entry>
-  <title>jjv360: nim-yagui</title>
-  <author>
-   <name>jjv360</name>
-  </author>
-  <link href="https://github.com/jjv360/nim-yagui" />
-  <id>urn:rprimus:github:jjv360:nim-yagui</id>
-  <published>2022-12-24T12:23:26Z</published>
-  <updated>2022-12-24T12:23:26Z</updated>
-  <content type="html">
-   Yet Another GUI lib for Nim
   </content>
  </entry>
 </feed>

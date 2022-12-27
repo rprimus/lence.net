@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-scheme.atom"/>
 <id>urn:rprimus:github:newschemerepos</id>
-<updated>2022-12-26T06:42:10Z</updated>
+<updated>2022-12-26T22:04:09Z</updated>
 <title type='text'>New GitHub Scheme Repos</title>
+ <entry>
+  <title>glyh: guix-packages</title>
+  <author>
+   <name>glyh</name>
+  </author>
+  <link href="https://github.com/glyh/guix-packages" />
+  <id>urn:rprimus:github:glyh:guix-packages</id>
+  <published>2022-12-26T22:04:09Z</published>
+  <updated>2022-12-26T22:04:09Z</updated>
+  <content type="html">
+   My guix package channel
+  </content>
+ </entry>
+ <entry>
+  <title>kborling: guix-asahi</title>
+  <author>
+   <name>kborling</name>
+  </author>
+  <link href="https://github.com/kborling/guix-asahi" />
+  <id>urn:rprimus:github:kborling:guix-asahi</id>
+  <published>2022-12-26T19:45:08Z</published>
+  <updated>2022-12-26T19:45:08Z</updated>
+  <content type="html">
+   Experimenting with custom Asahi Linux kernel on Guix System.
+  </content>
+ </entry>
+ <entry>
+  <title>cetfor: TheLittleSchemer</title>
+  <author>
+   <name>cetfor</name>
+  </author>
+  <link href="https://github.com/cetfor/TheLittleSchemer" />
+  <id>urn:rprimus:github:cetfor:TheLittleSchemer</id>
+  <published>2022-12-26T16:36:02Z</published>
+  <updated>2022-12-26T16:36:02Z</updated>
+  <content type="html">
+   Notes and code from The Little Schemer (4th ed.)
+  </content>
+ </entry>
  <entry>
   <title>LuminousPath: guix-packages</title>
   <author>
@@ -18,6 +57,19 @@
   </content>
  </entry>
  <entry>
+  <title>ForceGamer: dotfiles</title>
+  <author>
+   <name>ForceGamer</name>
+  </author>
+  <link href="https://github.com/ForceGamer/dotfiles" />
+  <id>urn:rprimus:github:ForceGamer:dotfiles</id>
+  <published>2022-12-25T22:25:44Z</published>
+  <updated>2022-12-25T22:25:44Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
   <title>edigonzales: geoserver-tests</title>
   <author>
    <name>edigonzales</name>
@@ -28,32 +80,6 @@
   <updated>2022-12-25T16:22:50Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>Vijay290197: SPSS_Data_Analysis</title>
-  <author>
-   <name>Vijay290197</name>
-  </author>
-  <link href="https://github.com/Vijay290197/SPSS_Data_Analysis" />
-  <id>urn:rprimus:github:Vijay290197:SPSS_Data_Analysis</id>
-  <published>2022-12-24T12:44:41Z</published>
-  <updated>2022-12-24T12:44:41Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>lreis2415: WatershedModelingData</title>
-  <author>
-   <name>lreis2415</name>
-  </author>
-  <link href="https://github.com/lreis2415/WatershedModelingData" />
-  <id>urn:rprimus:github:lreis2415:WatershedModelingData</id>
-  <published>2022-12-24T00:57:26Z</published>
-  <updated>2022-12-24T00:57:26Z</updated>
-  <content type="html">
-   Collection of watershed data for modeling hydrology, erosion, nutrient cycling, etc.
   </content>
  </entry>
 </feed>
