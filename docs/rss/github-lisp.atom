@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-12-26T19:03:02Z</updated>
+<updated>2022-12-27T08:52:22Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>danorel: clisp-roller</title>
+  <author>
+   <name>danorel</name>
+  </author>
+  <link href="https://github.com/danorel/clisp-roller" />
+  <id>urn:rprimus:github:danorel:clisp-roller</id>
+  <published>2022-12-27T08:52:22Z</published>
+  <updated>2022-12-27T08:52:22Z</updated>
+  <content type="html">
+   Dice roller using Lisp
+  </content>
+ </entry>
  <entry>
   <title>kartesus: coin-toss.cl</title>
   <author>
