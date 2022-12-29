@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-12-28T01:01:31Z</updated>
+<updated>2022-12-28T17:13:52Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>compufox: df-bug-bot</title>
+  <author>
+   <name>compufox</name>
+  </author>
+  <link href="https://github.com/compufox/df-bug-bot" />
+  <id>urn:rprimus:github:compufox:df-bug-bot</id>
+  <published>2022-12-28T17:13:52Z</published>
+  <updated>2022-12-28T17:13:52Z</updated>
+  <content type="html">
+   mastodon bot that posts dwarf fortress bugs
+  </content>
+ </entry>
  <entry>
   <title>oomaschloom: ooma-math</title>
   <author>
@@ -80,97 +93,6 @@
   <updated>2022-12-27T08:52:22Z</updated>
   <content type="html">
    Dice roller using Lisp
-  </content>
- </entry>
- <entry>
-  <title>kartesus: coin-toss.cl</title>
-  <author>
-   <name>kartesus</name>
-  </author>
-  <link href="https://github.com/kartesus/coin-toss.cl" />
-  <id>urn:rprimus:github:kartesus:coin-toss.cl</id>
-  <published>2022-12-26T19:03:02Z</published>
-  <updated>2022-12-26T19:03:02Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>kartesus: webserver.cl</title>
-  <author>
-   <name>kartesus</name>
-  </author>
-  <link href="https://github.com/kartesus/webserver.cl" />
-  <id>urn:rprimus:github:kartesus:webserver.cl</id>
-  <published>2022-12-26T18:55:05Z</published>
-  <updated>2022-12-26T18:55:05Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>GoldenPolo: blood-test-expert-AI</title>
-  <author>
-   <name>GoldenPolo</name>
-  </author>
-  <link href="https://github.com/GoldenPolo/blood-test-expert-AI" />
-  <id>urn:rprimus:github:GoldenPolo:blood-test-expert-AI</id>
-  <published>2022-12-26T16:33:17Z</published>
-  <updated>2022-12-26T16:33:17Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>davidferex: AI-search</title>
-  <author>
-   <name>davidferex</name>
-  </author>
-  <link href="https://github.com/davidferex/AI-search" />
-  <id>urn:rprimus:github:davidferex:AI-search</id>
-  <published>2022-12-26T15:50:09Z</published>
-  <updated>2022-12-26T15:50:09Z</updated>
-  <content type="html">
-   AI search homework, covering A*, BFS and greedy search with both, tree and graph search. This homework was done using LISP as programming language.
-  </content>
- </entry>
- <entry>
-  <title>guitarvydas: compile</title>
-  <author>
-   <name>guitarvydas</name>
-  </author>
-  <link href="https://github.com/guitarvydas/compile" />
-  <id>urn:rprimus:github:guitarvydas:compile</id>
-  <published>2022-12-26T15:22:48Z</published>
-  <updated>2022-12-26T15:22:48Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Hectarea1996: clith</title>
-  <author>
-   <name>Hectarea1996</name>
-  </author>
-  <link href="https://github.com/Hectarea1996/clith" />
-  <id>urn:rprimus:github:Hectarea1996:clith</id>
-  <published>2022-12-26T11:43:07Z</published>
-  <updated>2022-12-26T11:43:07Z</updated>
-  <content type="html">
-   Common Lisp wITH macro.
-  </content>
- </entry>
- <entry>
-  <title>aslemen: gudaguda</title>
-  <author>
-   <name>aslemen</name>
-  </author>
-  <link href="https://github.com/aslemen/gudaguda" />
-  <id>urn:rprimus:github:aslemen:gudaguda</id>
-  <published>2022-12-26T07:52:24Z</published>
-  <updated>2022-12-26T07:52:24Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>

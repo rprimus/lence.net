@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2022-12-28T07:17:24Z</updated>
+<updated>2022-12-29T03:39:11Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>dinau: nimPioArduino</title>
+  <author>
+   <name>dinau</name>
+  </author>
+  <link href="https://github.com/dinau/nimPioArduino" />
+  <id>urn:rprimus:github:dinau:nimPioArduino</id>
+  <published>2022-12-29T03:39:11Z</published>
+  <updated>2022-12-29T03:39:11Z</updated>
+  <content type="html">
+   Nim language demo with Arduino Library using Platformio CLI.
+  </content>
+ </entry>
+ <entry>
+  <title>guzba: bossy</title>
+  <author>
+   <name>guzba</name>
+  </author>
+  <link href="https://github.com/guzba/bossy" />
+  <id>urn:rprimus:github:guzba:bossy</id>
+  <published>2022-12-29T02:59:48Z</published>
+  <updated>2022-12-29T02:59:48Z</updated>
+  <content type="html">
+   A simpler way to work with command line arguments.
+  </content>
+ </entry>
+ <entry>
+  <title>yuanweixin: lexbase</title>
+  <author>
+   <name>yuanweixin</name>
+  </author>
+  <link href="https://github.com/yuanweixin/lexbase" />
+  <id>urn:rprimus:github:yuanweixin:lexbase</id>
+  <published>2022-12-28T14:27:02Z</published>
+  <updated>2022-12-28T14:27:02Z</updated>
+  <content type="html">
+   Modification of [std/lexbase](https://nim-lang.org/docs/lexbase.html#BaseLexer) that incorporates last accepted position (buffered chars before this point can be safely discarded), compacting (clear out buffered chars before last accepted position), and resizing (if we need more space for new characters after compacting). 
+  </content>
+ </entry>
  <entry>
   <title>freespace: tinyrenderer-nim</title>
   <author>
@@ -80,84 +119,6 @@
   <updated>2022-12-27T03:06:13Z</updated>
   <content type="html">
    A nim wrapper for the excellent libpcap library.
-  </content>
- </entry>
- <entry>
-  <title>WalkerRout: nimnet</title>
-  <author>
-   <name>WalkerRout</name>
-  </author>
-  <link href="https://github.com/WalkerRout/nimnet" />
-  <id>urn:rprimus:github:WalkerRout:nimnet</id>
-  <published>2022-12-26T23:29:29Z</published>
-  <updated>2022-12-26T23:29:29Z</updated>
-  <content type="html">
-   A neural network implemented in Nim
-  </content>
- </entry>
- <entry>
-  <title>Airscripts: devine</title>
-  <author>
-   <name>Airscripts</name>
-  </author>
-  <link href="https://github.com/Airscripts/devine" />
-  <id>urn:rprimus:github:Airscripts:devine</id>
-  <published>2022-12-26T20:39:13Z</published>
-  <updated>2022-12-26T20:39:13Z</updated>
-  <content type="html">
-   A command line interface used to parse and validate development containers config files, enforcing the open specification. 
-  </content>
- </entry>
- <entry>
-  <title>Tormund: nim_mpq</title>
-  <author>
-   <name>Tormund</name>
-  </author>
-  <link href="https://github.com/Tormund/nim_mpq" />
-  <id>urn:rprimus:github:Tormund:nim_mpq</id>
-  <published>2022-12-26T11:15:52Z</published>
-  <updated>2022-12-26T11:15:52Z</updated>
-  <content type="html">
-   WIP: Blizzards MPQ archive parsing
-  </content>
- </entry>
- <entry>
-  <title>nirokay: Nimwit</title>
-  <author>
-   <name>nirokay</name>
-  </author>
-  <link href="https://github.com/nirokay/Nimwit" />
-  <id>urn:rprimus:github:nirokay:Nimwit</id>
-  <published>2022-12-26T06:57:21Z</published>
-  <updated>2022-12-26T06:57:21Z</updated>
-  <content type="html">
-   An open-source, general-purpose discord bot written in Nim.
-  </content>
- </entry>
- <entry>
-  <title>Retkid: bitables</title>
-  <author>
-   <name>Retkid</name>
-  </author>
-  <link href="https://github.com/Retkid/bitables" />
-  <id>urn:rprimus:github:Retkid:bitables</id>
-  <published>2022-12-26T06:56:59Z</published>
-  <updated>2022-12-26T06:56:59Z</updated>
-  <content type="html">
-   bitables in nim
-  </content>
- </entry>
- <entry>
-  <title>zendbit: nim.couchdbapi</title>
-  <author>
-   <name>zendbit</name>
-  </author>
-  <link href="https://github.com/zendbit/nim.couchdbapi" />
-  <id>urn:rprimus:github:zendbit:nim.couchdbapi</id>
-  <published>2022-12-26T04:01:10Z</published>
-  <updated>2022-12-26T04:01:10Z</updated>
-  <content type="html">
-   CouchDb rest api driver for nim programming language
   </content>
  </entry>
 </feed>
