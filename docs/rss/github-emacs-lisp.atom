@@ -2,8 +2,112 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2022-12-30T08:46:14Z</updated>
+<updated>2022-12-31T08:45:59Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>minorugh: evil-easy-hugo</title>
+  <author>
+   <name>minorugh</name>
+  </author>
+  <link href="https://github.com/minorugh/evil-easy-hugo" />
+  <id>urn:rprimus:github:minorugh:evil-easy-hugo</id>
+  <published>2022-12-31T08:45:59Z</published>
+  <updated>2022-12-31T08:45:59Z</updated>
+  <content type="html">
+   Emacs major mode for managing hugo in evil-mode
+  </content>
+ </entry>
+ <entry>
+  <title>ywangmy: yasupp.el</title>
+  <author>
+   <name>ywangmy</name>
+  </author>
+  <link href="https://github.com/ywangmy/yasupp.el" />
+  <id>urn:rprimus:github:ywangmy:yasupp.el</id>
+  <published>2022-12-31T06:58:52Z</published>
+  <updated>2022-12-31T06:58:52Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>wickedjargon: sensible-minimal-emacs</title>
+  <author>
+   <name>wickedjargon</name>
+  </author>
+  <link href="https://github.com/wickedjargon/sensible-minimal-emacs" />
+  <id>urn:rprimus:github:wickedjargon:sensible-minimal-emacs</id>
+  <published>2022-12-31T05:33:08Z</published>
+  <updated>2022-12-31T05:33:08Z</updated>
+  <content type="html">
+   a sensible minimal emacs without evil 
+  </content>
+ </entry>
+ <entry>
+  <title>paul-kang-1: doom-emacs-config</title>
+  <author>
+   <name>paul-kang-1</name>
+  </author>
+  <link href="https://github.com/paul-kang-1/doom-emacs-config" />
+  <id>urn:rprimus:github:paul-kang-1:doom-emacs-config</id>
+  <published>2022-12-30T23:58:26Z</published>
+  <updated>2022-12-30T23:58:26Z</updated>
+  <content type="html">
+   Configuration for Doom Emacs
+  </content>
+ </entry>
+ <entry>
+  <title>javacommons: add2</title>
+  <author>
+   <name>javacommons</name>
+  </author>
+  <link href="https://github.com/javacommons/add2" />
+  <id>urn:rprimus:github:javacommons:add2</id>
+  <published>2022-12-30T20:22:24Z</published>
+  <updated>2022-12-30T20:22:24Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>andreprolo: doom.d</title>
+  <author>
+   <name>andreprolo</name>
+  </author>
+  <link href="https://github.com/andreprolo/doom.d" />
+  <id>urn:rprimus:github:andreprolo:doom.d</id>
+  <published>2022-12-30T19:21:02Z</published>
+  <updated>2022-12-30T19:21:02Z</updated>
+  <content type="html">
+   My doom emacs configs
+  </content>
+ </entry>
+ <entry>
+  <title>thefossenjoyer: nightfox.el</title>
+  <author>
+   <name>thefossenjoyer</name>
+  </author>
+  <link href="https://github.com/thefossenjoyer/nightfox.el" />
+  <id>urn:rprimus:github:thefossenjoyer:nightfox.el</id>
+  <published>2022-12-30T11:57:11Z</published>
+  <updated>2022-12-30T11:57:11Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>kvvba: pomorg</title>
+  <author>
+   <name>kvvba</name>
+  </author>
+  <link href="https://github.com/kvvba/pomorg" />
+  <id>urn:rprimus:github:kvvba:pomorg</id>
+  <published>2022-12-30T11:08:22Z</published>
+  <updated>2022-12-30T11:08:22Z</updated>
+  <content type="html">
+   Pomodoro timer for Emacs using org-clock
+  </content>
+ </entry>
  <entry>
   <title>qihangL: .doom.d</title>
   <author>
@@ -304,19 +408,6 @@
   </content>
  </entry>
  <entry>
-  <title>yuizho: dotfiles</title>
-  <author>
-   <name>yuizho</name>
-  </author>
-  <link href="https://github.com/yuizho/dotfiles" />
-  <id>urn:rprimus:github:yuizho:dotfiles</id>
-  <published>2022-12-29T08:39:13Z</published>
-  <updated>2022-12-29T08:39:13Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
   <title>dongyinghua: Blog</title>
   <author>
    <name>dongyinghua</name>
@@ -391,7 +482,7 @@
   <published>2022-12-29T00:48:05Z</published>
   <updated>2022-12-29T00:48:05Z</updated>
   <content type="html">
-   Transparent age encryption/decryption for Emacs modeled after EPG/EPA
+   Transparent age encryption support for Emacs modeled after EPG/EPA
   </content>
  </entry>
  <entry>
@@ -405,318 +496,6 @@
   <updated>2022-12-29T00:14:03Z</updated>
   <content type="html">
    Emacs support for the Kitty Keyboard Protocol
-  </content>
- </entry>
- <entry>
-  <title>emilyseville7cfg-better-emacs: generators</title>
-  <author>
-   <name>emilyseville7cfg-better-emacs</name>
-  </author>
-  <link href="https://github.com/emilyseville7cfg-better-emacs/generators" />
-  <id>urn:rprimus:github:emilyseville7cfg-better-emacs:generators</id>
-  <published>2022-12-28T22:53:02Z</published>
-  <updated>2022-12-28T22:53:02Z</updated>
-  <content type="html">
-   Functions to generate data structures
-  </content>
- </entry>
- <entry>
-  <title>emilyseville7cfg-better-emacs: random-generators</title>
-  <author>
-   <name>emilyseville7cfg-better-emacs</name>
-  </author>
-  <link href="https://github.com/emilyseville7cfg-better-emacs/random-generators" />
-  <id>urn:rprimus:github:emilyseville7cfg-better-emacs:random-generators</id>
-  <published>2022-12-28T22:51:51Z</published>
-  <updated>2022-12-28T22:51:51Z</updated>
-  <content type="html">
-   Functions to generate random numbers and data structures
-  </content>
- </entry>
- <entry>
-  <title>emilyseville7cfg-better-emacs: range-pattern</title>
-  <author>
-   <name>emilyseville7cfg-better-emacs</name>
-  </author>
-  <link href="https://github.com/emilyseville7cfg-better-emacs/range-pattern" />
-  <id>urn:rprimus:github:emilyseville7cfg-better-emacs:range-pattern</id>
-  <published>2022-12-28T22:48:11Z</published>
-  <updated>2022-12-28T22:48:11Z</updated>
-  <content type="html">
-   Range pattern for pcase
-  </content>
- </entry>
- <entry>
-  <title>YesSeri: sorting-algorithms</title>
-  <author>
-   <name>YesSeri</name>
-  </author>
-  <link href="https://github.com/YesSeri/sorting-algorithms" />
-  <id>urn:rprimus:github:YesSeri:sorting-algorithms</id>
-  <published>2022-12-28T22:16:51Z</published>
-  <updated>2022-12-28T22:16:51Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>eskaton: dotfiles-spacemacs</title>
-  <author>
-   <name>eskaton</name>
-  </author>
-  <link href="https://github.com/eskaton/dotfiles-spacemacs" />
-  <id>urn:rprimus:github:eskaton:dotfiles-spacemacs</id>
-  <published>2022-12-28T22:11:17Z</published>
-  <updated>2022-12-28T22:11:17Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>j-estr: biosyntax-emacs</title>
-  <author>
-   <name>j-estr</name>
-  </author>
-  <link href="https://github.com/j-estr/biosyntax-emacs" />
-  <id>urn:rprimus:github:j-estr:biosyntax-emacs</id>
-  <published>2022-12-28T22:01:49Z</published>
-  <updated>2022-12-28T22:01:49Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>padawanphysicist: tiddler-mode</title>
-  <author>
-   <name>padawanphysicist</name>
-  </author>
-  <link href="https://github.com/padawanphysicist/tiddler-mode" />
-  <id>urn:rprimus:github:padawanphysicist:tiddler-mode</id>
-  <published>2022-12-28T21:54:48Z</published>
-  <updated>2022-12-28T21:54:48Z</updated>
-  <content type="html">
-   Emacs major mode for editing TiddlyWiki5 tiddlers
-  </content>
- </entry>
- <entry>
-  <title>akshaykarle: nix-setup</title>
-  <author>
-   <name>akshaykarle</name>
-  </author>
-  <link href="https://github.com/akshaykarle/nix-setup" />
-  <id>urn:rprimus:github:akshaykarle:nix-setup</id>
-  <published>2022-12-28T21:19:20Z</published>
-  <updated>2022-12-28T21:19:20Z</updated>
-  <content type="html">
-   Declarative system configurations using Nix package manager
-  </content>
- </entry>
- <entry>
-  <title>Asmodai: legacy.emacs.d</title>
-  <author>
-   <name>Asmodai</name>
-  </author>
-  <link href="https://github.com/Asmodai/legacy.emacs.d" />
-  <id>urn:rprimus:github:Asmodai:legacy.emacs.d</id>
-  <published>2022-12-28T20:12:16Z</published>
-  <updated>2022-12-28T20:12:16Z</updated>
-  <content type="html">
-   Legacy Emacs configs for ancient hosts.
-  </content>
- </entry>
- <entry>
-  <title>mrgalopes: dotfiles</title>
-  <author>
-   <name>mrgalopes</name>
-  </author>
-  <link href="https://github.com/mrgalopes/dotfiles" />
-  <id>urn:rprimus:github:mrgalopes:dotfiles</id>
-  <published>2022-12-28T19:23:44Z</published>
-  <updated>2022-12-28T19:23:44Z</updated>
-  <content type="html">
-   My dotfiles, backed up using chezmoi
-  </content>
- </entry>
- <entry>
-  <title>monkey-w1n5t0n: monkey-business</title>
-  <author>
-   <name>monkey-w1n5t0n</name>
-  </author>
-  <link href="https://github.com/monkey-w1n5t0n/monkey-business" />
-  <id>urn:rprimus:github:monkey-w1n5t0n:monkey-business</id>
-  <published>2022-12-28T18:15:34Z</published>
-  <updated>2022-12-28T18:15:34Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>perkss: .emacs.d</title>
-  <author>
-   <name>perkss</name>
-  </author>
-  <link href="https://github.com/perkss/.emacs.d" />
-  <id>urn:rprimus:github:perkss:.emacs.d</id>
-  <published>2022-12-28T16:49:53Z</published>
-  <updated>2022-12-28T16:49:53Z</updated>
-  <content type="html">
-   My emacs config based on EXORDIUM
-  </content>
- </entry>
- <entry>
-  <title>fpatz: dotfiles</title>
-  <author>
-   <name>fpatz</name>
-  </author>
-  <link href="https://github.com/fpatz/dotfiles" />
-  <id>urn:rprimus:github:fpatz:dotfiles</id>
-  <published>2022-12-28T16:18:37Z</published>
-  <updated>2022-12-28T16:18:37Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>olafor: min-doom-emacs-config</title>
-  <author>
-   <name>olafor</name>
-  </author>
-  <link href="https://github.com/olafor/min-doom-emacs-config" />
-  <id>urn:rprimus:github:olafor:min-doom-emacs-config</id>
-  <published>2022-12-28T15:46:28Z</published>
-  <updated>2022-12-28T15:46:28Z</updated>
-  <content type="html">
-   Did I ever tell you that this here config represents a symbol of my individuality and my belief in personal freedom? 
-  </content>
- </entry>
- <entry>
-  <title>tiudvek: .emacs.d</title>
-  <author>
-   <name>tiudvek</name>
-  </author>
-  <link href="https://github.com/tiudvek/.emacs.d" />
-  <id>urn:rprimus:github:tiudvek:.emacs.d</id>
-  <published>2022-12-28T15:43:54Z</published>
-  <updated>2022-12-28T15:43:54Z</updated>
-  <content type="html">
-   My Emacs configuration
-  </content>
- </entry>
- <entry>
-  <title>danielnemenyi: mu4e-filters</title>
-  <author>
-   <name>danielnemenyi</name>
-  </author>
-  <link href="https://github.com/danielnemenyi/mu4e-filters" />
-  <id>urn:rprimus:github:danielnemenyi:mu4e-filters</id>
-  <published>2022-12-28T15:12:56Z</published>
-  <updated>2022-12-28T15:12:56Z</updated>
-  <content type="html">
-   Filter your Mu4e hosepipe
-  </content>
- </entry>
- <entry>
-  <title>kamoii: emacs-ccc-evil</title>
-  <author>
-   <name>kamoii</name>
-  </author>
-  <link href="https://github.com/kamoii/emacs-ccc-evil" />
-  <id>urn:rprimus:github:kamoii:emacs-ccc-evil</id>
-  <published>2022-12-28T14:56:38Z</published>
-  <updated>2022-12-28T14:56:38Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>emacs-pkg: get-feature</title>
-  <author>
-   <name>emacs-pkg</name>
-  </author>
-  <link href="https://github.com/emacs-pkg/get-feature" />
-  <id>urn:rprimus:github:emacs-pkg:get-feature</id>
-  <published>2022-12-28T13:57:24Z</published>
-  <updated>2022-12-28T13:57:24Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>cyaccyyaa: dots</title>
-  <author>
-   <name>cyaccyyaa</name>
-  </author>
-  <link href="https://github.com/cyaccyyaa/dots" />
-  <id>urn:rprimus:github:cyaccyyaa:dots</id>
-  <published>2022-12-28T12:57:40Z</published>
-  <updated>2022-12-28T12:57:40Z</updated>
-  <content type="html">
-   My personal dotfiles!!!
-  </content>
- </entry>
- <entry>
-  <title>MimiValsi: My-Emacs</title>
-  <author>
-   <name>MimiValsi</name>
-  </author>
-  <link href="https://github.com/MimiValsi/My-Emacs" />
-  <id>urn:rprimus:github:MimiValsi:My-Emacs</id>
-  <published>2022-12-28T07:32:33Z</published>
-  <updated>2022-12-28T07:32:33Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>zonuexe: yurugoji.el</title>
-  <author>
-   <name>zonuexe</name>
-  </author>
-  <link href="https://github.com/zonuexe/yurugoji.el" />
-  <id>urn:rprimus:github:zonuexe:yurugoji.el</id>
-  <published>2022-12-28T06:17:09Z</published>
-  <updated>2022-12-28T06:17:09Z</updated>
-  <content type="html">
-   ãè¨èªæ²¼ãã®åå·ã®ã«ããå¾©åï¼åç¾
-  </content>
- </entry>
- <entry>
-  <title>SunskyXH: .doom.d</title>
-  <author>
-   <name>SunskyXH</name>
-  </author>
-  <link href="https://github.com/SunskyXH/.doom.d" />
-  <id>urn:rprimus:github:SunskyXH:.doom.d</id>
-  <published>2022-12-28T05:34:23Z</published>
-  <updated>2022-12-28T05:34:23Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>pcs155251: .doom.d</title>
-  <author>
-   <name>pcs155251</name>
-  </author>
-  <link href="https://github.com/pcs155251/.doom.d" />
-  <id>urn:rprimus:github:pcs155251:.doom.d</id>
-  <published>2022-12-28T03:36:26Z</published>
-  <updated>2022-12-28T03:36:26Z</updated>
-  <content type="html">
-   doom emacs configs
-  </content>
- </entry>
- <entry>
-  <title>oomaschloom: oomacs</title>
-  <author>
-   <name>oomaschloom</name>
-  </author>
-  <link href="https://github.com/oomaschloom/oomacs" />
-  <id>urn:rprimus:github:oomaschloom:oomacs</id>
-  <published>2022-12-28T02:44:56Z</published>
-  <updated>2022-12-28T02:44:56Z</updated>
-  <content type="html">
-   My emacs config
   </content>
  </entry>
 </feed>

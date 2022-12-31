@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2022-12-30T07:53:51Z</updated>
+<updated>2022-12-30T23:27:51Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>deignacio: the-game-bot</title>
+  <author>
+   <name>deignacio</name>
+  </author>
+  <link href="https://github.com/deignacio/the-game-bot" />
+  <id>urn:rprimus:github:deignacio:the-game-bot</id>
+  <published>2022-12-30T23:27:51Z</published>
+  <updated>2022-12-30T23:27:51Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>lost-rob0t: starintel-doc.nim</title>
   <author>
@@ -41,6 +54,19 @@
   <updated>2022-12-30T04:03:42Z</updated>
   <content type="html">
    pretty print json
+  </content>
+ </entry>
+ <entry>
+  <title>hortinstein: nimServeClientTest</title>
+  <author>
+   <name>hortinstein</name>
+  </author>
+  <link href="https://github.com/hortinstein/nimServeClientTest" />
+  <id>urn:rprimus:github:hortinstein:nimServeClientTest</id>
+  <published>2022-12-29T23:16:07Z</published>
+  <updated>2022-12-29T23:16:07Z</updated>
+  <content type="html">
+   toy code that reproduces an issue I have been having
   </content>
  </entry>
  <entry>
@@ -93,32 +119,6 @@
   <updated>2022-12-29T02:59:48Z</updated>
   <content type="html">
    A simpler way to work with command line arguments.
-  </content>
- </entry>
- <entry>
-  <title>yuanweixin: lexbase</title>
-  <author>
-   <name>yuanweixin</name>
-  </author>
-  <link href="https://github.com/yuanweixin/lexbase" />
-  <id>urn:rprimus:github:yuanweixin:lexbase</id>
-  <published>2022-12-28T14:27:02Z</published>
-  <updated>2022-12-28T14:27:02Z</updated>
-  <content type="html">
-   Modification of [std/lexbase](https://nim-lang.org/docs/lexbase.html#BaseLexer) that incorporates last accepted position (buffered chars before this point can be safely discarded), compacting (clear out buffered chars before last accepted position), and resizing (if we need more space for new characters after compacting). 
-  </content>
- </entry>
- <entry>
-  <title>freespace: tinyrenderer-nim</title>
-  <author>
-   <name>freespace</name>
-  </author>
-  <link href="https://github.com/freespace/tinyrenderer-nim" />
-  <id>urn:rprimus:github:freespace:tinyrenderer-nim</id>
-  <published>2022-12-28T07:17:24Z</published>
-  <updated>2022-12-28T07:17:24Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
