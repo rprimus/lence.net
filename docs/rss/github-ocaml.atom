@@ -2,162 +2,227 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2022-01-01T22:50:58Z</updated>
+<updated>2022-12-31T18:47:40Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
  <entry>
-  <title>JamesScharf: FunctionalBPE</title>
+  <title>pixilcode: datalog-interpreter-ocaml</title>
   <author>
-   <name>JamesScharf</name>
+   <name>pixilcode</name>
   </author>
-  <link href="https://github.com/JamesScharf/FunctionalBPE" />
-  <id>urn:rprimus:github:JamesScharf:FunctionalBPE</id>
-  <published>2022-01-01T22:50:58Z</published>
-  <updated>2022-01-01T22:50:58Z</updated>
+  <link href="https://github.com/pixilcode/datalog-interpreter-ocaml" />
+  <id>urn:rprimus:github:pixilcode:datalog-interpreter-ocaml</id>
+  <published>2022-12-31T18:47:40Z</published>
+  <updated>2022-12-31T18:47:40Z</updated>
   <content type="html">
-   This is my attempt at implementing BPE in a functional programming language
+   A reimplementation of the datalog interpreter, done in OCaml
   </content>
  </entry>
  <entry>
-  <title>roddyyaga: plank</title>
+  <title>kennybop: MiniML-Interpreter</title>
   <author>
-   <name>roddyyaga</name>
+   <name>kennybop</name>
   </author>
-  <link href="https://github.com/roddyyaga/plank" />
-  <id>urn:rprimus:github:roddyyaga:plank</id>
-  <published>2022-01-01T20:25:28Z</published>
-  <updated>2022-01-01T20:25:28Z</updated>
+  <link href="https://github.com/kennybop/MiniML-Interpreter" />
+  <id>urn:rprimus:github:kennybop:MiniML-Interpreter</id>
+  <published>2022-12-31T18:08:16Z</published>
+  <updated>2022-12-31T18:08:16Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>joelburget: brr-web-tree-sitter</title>
+  <title>danielkarl888: ex3_pl</title>
   <author>
-   <name>joelburget</name>
+   <name>danielkarl888</name>
   </author>
-  <link href="https://github.com/joelburget/brr-web-tree-sitter" />
-  <id>urn:rprimus:github:joelburget:brr-web-tree-sitter</id>
-  <published>2022-01-01T19:28:54Z</published>
-  <updated>2022-01-01T19:28:54Z</updated>
-  <content type="html">
-   Ocaml (Brr) bindings to web-tree-sitter
-  </content>
- </entry>
- <entry>
-  <title>youz: lazyk.grass</title>
-  <author>
-   <name>youz</name>
-  </author>
-  <link href="https://github.com/youz/lazyk.grass" />
-  <id>urn:rprimus:github:youz:lazyk.grass</id>
-  <published>2022-01-01T12:42:48Z</published>
-  <updated>2022-01-01T12:42:48Z</updated>
-  <content type="html">
-   Lazy K interpreter in Grass language
-  </content>
- </entry>
- <entry>
-  <title>wenhuizhang: ProVerif</title>
-  <author>
-   <name>wenhuizhang</name>
-  </author>
-  <link href="https://github.com/wenhuizhang/ProVerif" />
-  <id>urn:rprimus:github:wenhuizhang:ProVerif</id>
-  <published>2022-01-01T09:40:29Z</published>
-  <updated>2022-01-01T09:40:29Z</updated>
-  <content type="html">
-   Mirror of ProVerif: Cryptographic protocol verifier in the formal model, https://bblanche.gitlabpages.inria.fr/proverif/
-  </content>
- </entry>
- <entry>
-  <title>ricxi: algos</title>
-  <author>
-   <name>ricxi</name>
-  </author>
-  <link href="https://github.com/ricxi/algos" />
-  <id>urn:rprimus:github:ricxi:algos</id>
-  <published>2021-12-30T20:37:24Z</published>
-  <updated>2021-12-30T20:37:24Z</updated>
+  <link href="https://github.com/danielkarl888/ex3_pl" />
+  <id>urn:rprimus:github:danielkarl888:ex3_pl</id>
+  <published>2022-12-31T17:36:18Z</published>
+  <updated>2022-12-31T17:36:18Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>andersfugmann: ogrep</title>
+  <title>Harim-H: Chess</title>
   <author>
-   <name>andersfugmann</name>
+   <name>Harim-H</name>
   </author>
-  <link href="https://github.com/andersfugmann/ogrep" />
-  <id>urn:rprimus:github:andersfugmann:ogrep</id>
-  <published>2021-12-30T16:54:08Z</published>
-  <updated>2021-12-30T16:54:08Z</updated>
-  <content type="html">
-   Recursive grep implemented using ocaml multicore and eio
-  </content>
- </entry>
- <entry>
-  <title>andersfugmann: ocaml-non-empty-list</title>
-  <author>
-   <name>andersfugmann</name>
-  </author>
-  <link href="https://github.com/andersfugmann/ocaml-non-empty-list" />
-  <id>urn:rprimus:github:andersfugmann:ocaml-non-empty-list</id>
-  <published>2021-12-30T16:47:48Z</published>
-  <updated>2021-12-30T16:47:48Z</updated>
-  <content type="html">
-   Non-empty list implementation for ocaml
-  </content>
- </entry>
- <entry>
-  <title>nobinson20: panamx</title>
-  <author>
-   <name>nobinson20</name>
-  </author>
-  <link href="https://github.com/nobinson20/panamx" />
-  <id>urn:rprimus:github:nobinson20:panamx</id>
-  <published>2021-12-30T16:31:12Z</published>
-  <updated>2021-12-30T16:31:12Z</updated>
+  <link href="https://github.com/Harim-H/Chess" />
+  <id>urn:rprimus:github:Harim-H:Chess</id>
+  <published>2022-12-31T06:47:33Z</published>
+  <updated>2022-12-31T06:47:33Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>dinosaure: chamonix</title>
+  <title>ksrky: tiger</title>
   <author>
-   <name>dinosaure</name>
+   <name>ksrky</name>
   </author>
-  <link href="https://github.com/dinosaure/chamonix" />
-  <id>urn:rprimus:github:dinosaure:chamonix</id>
-  <published>2021-12-30T16:07:41Z</published>
-  <updated>2021-12-30T16:07:41Z</updated>
+  <link href="https://github.com/ksrky/tiger" />
+  <id>urn:rprimus:github:ksrky:tiger</id>
+  <published>2022-12-31T06:00:24Z</published>
+  <updated>2022-12-31T06:00:24Z</updated>
   <content type="html">
-   Chamo, Chamoni, Chamonix
+   OCaml implementation of Andrew Appel&#039;s &quot;Modern Compiler Implementation in ML&quot;.
   </content>
  </entry>
  <entry>
-  <title>darioteixeira: ox</title>
+  <title>jnguyen02: Prolog-Interpreter</title>
   <author>
-   <name>darioteixeira</name>
+   <name>jnguyen02</name>
   </author>
-  <link href="https://github.com/darioteixeira/ox" />
-  <id>urn:rprimus:github:darioteixeira:ox</id>
-  <published>2021-12-30T11:38:59Z</published>
-  <updated>2021-12-30T11:38:59Z</updated>
+  <link href="https://github.com/jnguyen02/Prolog-Interpreter" />
+  <id>urn:rprimus:github:jnguyen02:Prolog-Interpreter</id>
+  <published>2022-12-31T05:20:02Z</published>
+  <updated>2022-12-31T05:20:02Z</updated>
   <content type="html">
-   An OCaml implementation of the XCS learning classifier system
+   Prolog Interpreter coded in OCaml
   </content>
  </entry>
  <entry>
-  <title>HikaruEgashira: sat-solver</title>
+  <title>Gabulhas: aoc2022</title>
   <author>
-   <name>HikaruEgashira</name>
+   <name>Gabulhas</name>
   </author>
-  <link href="https://github.com/HikaruEgashira/sat-solver" />
-  <id>urn:rprimus:github:HikaruEgashira:sat-solver</id>
-  <published>2021-12-30T07:40:37Z</published>
-  <updated>2021-12-30T07:40:37Z</updated>
+  <link href="https://github.com/Gabulhas/aoc2022" />
+  <id>urn:rprimus:github:Gabulhas:aoc2022</id>
+  <published>2022-12-30T23:53:59Z</published>
+  <updated>2022-12-30T23:53:59Z</updated>
   <content type="html">
-   fp + DevOps + QA
+   My Advent of Code 2022 solutions
+  </content>
+ </entry>
+ <entry>
+  <title>lithium: ocaml-exercises</title>
+  <author>
+   <name>lithium</name>
+  </author>
+  <link href="https://github.com/lithium/ocaml-exercises" />
+  <id>urn:rprimus:github:lithium:ocaml-exercises</id>
+  <published>2022-12-30T23:19:49Z</published>
+  <updated>2022-12-30T23:19:49Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>akai54: compiler</title>
+  <author>
+   <name>akai54</name>
+  </author>
+  <link href="https://github.com/akai54/compiler" />
+  <id>urn:rprimus:github:akai54:compiler</id>
+  <published>2022-12-30T20:05:22Z</published>
+  <updated>2022-12-30T20:05:22Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>mrojasb2000: Ocaml</title>
+  <author>
+   <name>mrojasb2000</name>
+  </author>
+  <link href="https://github.com/mrojasb2000/Ocaml" />
+  <id>urn:rprimus:github:mrojasb2000:Ocaml</id>
+  <published>2022-12-30T17:47:36Z</published>
+  <updated>2022-12-30T17:47:36Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Hughshine: VPL</title>
+  <author>
+   <name>Hughshine</name>
+  </author>
+  <link href="https://github.com/Hughshine/VPL" />
+  <id>urn:rprimus:github:Hughshine:VPL</id>
+  <published>2022-12-30T17:01:43Z</published>
+  <updated>2022-12-30T17:01:43Z</updated>
+  <content type="html">
+   for coq 8.13.2
+  </content>
+ </entry>
+ <entry>
+  <title>lamg: twitter_scanner</title>
+  <author>
+   <name>lamg</name>
+  </author>
+  <link href="https://github.com/lamg/twitter_scanner" />
+  <id>urn:rprimus:github:lamg:twitter_scanner</id>
+  <published>2022-12-30T16:43:54Z</published>
+  <updated>2022-12-30T16:43:54Z</updated>
+  <content type="html">
+   Stores tweets and user profiles in an Sqlite DB.
+  </content>
+ </entry>
+ <entry>
+  <title>lamg: io_layer</title>
+  <author>
+   <name>lamg</name>
+  </author>
+  <link href="https://github.com/lamg/io_layer" />
+  <id>urn:rprimus:github:lamg:io_layer</id>
+  <published>2022-12-30T16:41:40Z</published>
+  <updated>2022-12-30T16:41:40Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>jnguyen02: OCaml-Interpreter</title>
+  <author>
+   <name>jnguyen02</name>
+  </author>
+  <link href="https://github.com/jnguyen02/OCaml-Interpreter" />
+  <id>urn:rprimus:github:jnguyen02:OCaml-Interpreter</id>
+  <published>2022-12-30T16:17:38Z</published>
+  <updated>2022-12-30T16:17:38Z</updated>
+  <content type="html">
+   An interpreter coded in OCaml
+  </content>
+ </entry>
+ <entry>
+  <title>UPS-ILU: ilu1-project-example</title>
+  <author>
+   <name>UPS-ILU</name>
+  </author>
+  <link href="https://github.com/UPS-ILU/ilu1-project-example" />
+  <id>urn:rprimus:github:UPS-ILU:ilu1-project-example</id>
+  <published>2022-12-30T14:21:41Z</published>
+  <updated>2022-12-30T14:21:41Z</updated>
+  <content type="html">
+   ElÃ©ments d&#039;aide pour le projet ILU1 en dÃ©cembre 2022
+  </content>
+ </entry>
+ <entry>
+  <title>sam571128: OCaml_CP_Template</title>
+  <author>
+   <name>sam571128</name>
+  </author>
+  <link href="https://github.com/sam571128/OCaml_CP_Template" />
+  <id>urn:rprimus:github:sam571128:OCaml_CP_Template</id>
+  <published>2022-12-30T08:45:02Z</published>
+  <updated>2022-12-30T08:45:02Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Tgolden-19: terminal-chess</title>
+  <author>
+   <name>Tgolden-19</name>
+  </author>
+  <link href="https://github.com/Tgolden-19/terminal-chess" />
+  <id>urn:rprimus:github:Tgolden-19:terminal-chess</id>
+  <published>2022-12-30T07:35:09Z</published>
+  <updated>2022-12-30T07:35:09Z</updated>
+  <content type="html">
+   Chess in the terminal designed in ocaml
   </content>
  </entry>
 </feed>
