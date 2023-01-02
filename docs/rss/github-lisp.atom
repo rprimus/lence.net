@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2022-12-31T20:54:32Z</updated>
+<updated>2023-01-02T05:23:01Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>semilin: aoc2023</title>
+  <author>
+   <name>semilin</name>
+  </author>
+  <link href="https://github.com/semilin/aoc2023" />
+  <id>urn:rprimus:github:semilin:aoc2023</id>
+  <published>2023-01-02T05:23:01Z</published>
+  <updated>2023-01-02T05:23:01Z</updated>
+  <content type="html">
+   Some solutions to AOC 2023 in Common Lisp.
+  </content>
+ </entry>
+ <entry>
+  <title>PortableTamil: AudaCity</title>
+  <author>
+   <name>PortableTamil</name>
+  </author>
+  <link href="https://github.com/PortableTamil/AudaCity" />
+  <id>urn:rprimus:github:PortableTamil:AudaCity</id>
+  <published>2023-01-01T23:47:26Z</published>
+  <updated>2023-01-01T23:47:26Z</updated>
+  <content type="html">
+   à®à®à®¾à®à®¿à®à¯à®à®¿
+  </content>
+ </entry>
+ <entry>
+  <title>danielostling: AoC-2022</title>
+  <author>
+   <name>danielostling</name>
+  </author>
+  <link href="https://github.com/danielostling/AoC-2022" />
+  <id>urn:rprimus:github:danielostling:AoC-2022</id>
+  <published>2023-01-01T20:40:32Z</published>
+  <updated>2023-01-01T20:40:32Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>glallen01: aoc</title>
   <author>
@@ -28,6 +67,32 @@
   <updated>2022-12-31T20:42:11Z</updated>
   <content type="html">
    My solutions for advent of code
+  </content>
+ </entry>
+ <entry>
+  <title>p3h3: vesc_sam_ev_ii_integration</title>
+  <author>
+   <name>p3h3</name>
+  </author>
+  <link href="https://github.com/p3h3/vesc_sam_ev_ii_integration" />
+  <id>urn:rprimus:github:p3h3:vesc_sam_ev_ii_integration</id>
+  <published>2022-12-31T18:35:22Z</published>
+  <updated>2022-12-31T18:35:22Z</updated>
+  <content type="html">
+   LispBM Script for Canbus integration of a VESC 100/250 into a SAM EV II
+  </content>
+ </entry>
+ <entry>
+  <title>gregoryg: cl-cryptogrammer</title>
+  <author>
+   <name>gregoryg</name>
+  </author>
+  <link href="https://github.com/gregoryg/cl-cryptogrammer" />
+  <id>urn:rprimus:github:gregoryg:cl-cryptogrammer</id>
+  <published>2022-12-31T17:53:51Z</published>
+  <updated>2022-12-31T17:53:51Z</updated>
+  <content type="html">
+   Cryptogram generator in Common Lisp
   </content>
  </entry>
  <entry>
@@ -57,68 +122,16 @@
   </content>
  </entry>
  <entry>
-  <title>nkocsis27: Recursion</title>
+  <title>nkocsis27: Recursion-Functions-Lisp</title>
   <author>
    <name>nkocsis27</name>
   </author>
-  <link href="https://github.com/nkocsis27/Recursion" />
-  <id>urn:rprimus:github:nkocsis27:Recursion</id>
+  <link href="https://github.com/nkocsis27/Recursion-Functions-Lisp" />
+  <id>urn:rprimus:github:nkocsis27:Recursion-Functions-Lisp</id>
   <published>2022-12-31T00:20:39Z</published>
   <updated>2022-12-31T00:20:39Z</updated>
   <content type="html">
    Recursive functions in Lisp
-  </content>
- </entry>
- <entry>
-  <title>juliojimenez: clickhouse-cl</title>
-  <author>
-   <name>juliojimenez</name>
-  </author>
-  <link href="https://github.com/juliojimenez/clickhouse-cl" />
-  <id>urn:rprimus:github:juliojimenez:clickhouse-cl</id>
-  <published>2022-12-30T23:55:57Z</published>
-  <updated>2022-12-30T23:55:57Z</updated>
-  <content type="html">
-   Common Lisp ClickHouse Client Library
-  </content>
- </entry>
- <entry>
-  <title>lexisother: alyxia.dev-lisp</title>
-  <author>
-   <name>lexisother</name>
-  </author>
-  <link href="https://github.com/lexisother/alyxia.dev-lisp" />
-  <id>urn:rprimus:github:lexisother:alyxia.dev-lisp</id>
-  <published>2022-12-30T22:01:06Z</published>
-  <updated>2022-12-30T22:01:06Z</updated>
-  <content type="html">
-   lips
-  </content>
- </entry>
- <entry>
-  <title>fade: stumpwm-d</title>
-  <author>
-   <name>fade</name>
-  </author>
-  <link href="https://github.com/fade/stumpwm-d" />
-  <id>urn:rprimus:github:fade:stumpwm-d</id>
-  <published>2022-12-30T17:05:13Z</published>
-  <updated>2022-12-30T17:05:13Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jaszczur: advent-2022</title>
-  <author>
-   <name>jaszczur</name>
-  </author>
-  <link href="https://github.com/jaszczur/advent-2022" />
-  <id>urn:rprimus:github:jaszczur:advent-2022</id>
-  <published>2022-12-30T09:11:20Z</published>
-  <updated>2022-12-30T09:11:20Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
