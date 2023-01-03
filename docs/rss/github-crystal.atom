@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2023-01-02T03:57:25Z</updated>
+<updated>2023-01-02T17:38:07Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>wout: policy_miner</title>
+  <author>
+   <name>wout</name>
+  </author>
+  <link href="https://github.com/wout/policy_miner" />
+  <id>urn:rprimus:github:wout:policy_miner</id>
+  <published>2023-01-02T17:38:07Z</published>
+  <updated>2023-01-02T17:38:07Z</updated>
+  <content type="html">
+   An app to mine policy ids on Cardano
+  </content>
+ </entry>
  <entry>
   <title>tbeseda: crystal_kemal_test</title>
   <author>
@@ -54,32 +67,6 @@
   <updated>2023-01-01T01:25:04Z</updated>
   <content type="html">
    A Pterodactyl API library in Crystal
-  </content>
- </entry>
- <entry>
-  <title>jbox-web: thunderbird-autoconfig</title>
-  <author>
-   <name>jbox-web</name>
-  </author>
-  <link href="https://github.com/jbox-web/thunderbird-autoconfig" />
-  <id>urn:rprimus:github:jbox-web:thunderbird-autoconfig</id>
-  <published>2022-12-31T16:26:24Z</published>
-  <updated>2022-12-31T16:26:24Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>duber000: fuzzy-octo-chainsaw</title>
-  <author>
-   <name>duber000</name>
-  </author>
-  <link href="https://github.com/duber000/fuzzy-octo-chainsaw" />
-  <id>urn:rprimus:github:duber000:fuzzy-octo-chainsaw</id>
-  <published>2022-12-31T00:38:15Z</published>
-  <updated>2022-12-31T00:38:15Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>

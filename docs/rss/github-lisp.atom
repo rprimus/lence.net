@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2023-01-02T05:23:01Z</updated>
+<updated>2023-01-03T03:58:50Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>defaultxr: wave-editor</title>
+  <author>
+   <name>defaultxr</name>
+  </author>
+  <link href="https://github.com/defaultxr/wave-editor" />
+  <id>urn:rprimus:github:defaultxr:wave-editor</id>
+  <published>2023-01-03T03:58:50Z</published>
+  <updated>2023-01-03T03:58:50Z</updated>
+  <content type="html">
+   Nodgui-based Common Lisp audio file editor.
+  </content>
+ </entry>
+ <entry>
+  <title>tomoyukim: giteki</title>
+  <author>
+   <name>tomoyukim</name>
+  </author>
+  <link href="https://github.com/tomoyukim/giteki" />
+  <id>urn:rprimus:github:tomoyukim:giteki</id>
+  <published>2023-01-03T03:19:47Z</published>
+  <updated>2023-01-03T03:19:47Z</updated>
+  <content type="html">
+   trial common lisp project for learning using giteki web search
+  </content>
+ </entry>
+ <entry>
+  <title>strojacek: maxima-stat</title>
+  <author>
+   <name>strojacek</name>
+  </author>
+  <link href="https://github.com/strojacek/maxima-stat" />
+  <id>urn:rprimus:github:strojacek:maxima-stat</id>
+  <published>2023-01-02T20:11:04Z</published>
+  <updated>2023-01-02T20:11:04Z</updated>
+  <content type="html">
+   A statistics library for the Maxima Computer Algebra System
+  </content>
+ </entry>
+ <entry>
+  <title>Stasenko-Konstantin: mmd</title>
+  <author>
+   <name>Stasenko-Konstantin</name>
+  </author>
+  <link href="https://github.com/Stasenko-Konstantin/mmd" />
+  <id>urn:rprimus:github:Stasenko-Konstantin:mmd</id>
+  <published>2023-01-02T16:28:02Z</published>
+  <updated>2023-01-02T16:28:02Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>danorel: clisp-99</title>
+  <author>
+   <name>danorel</name>
+  </author>
+  <link href="https://github.com/danorel/clisp-99" />
+  <id>urn:rprimus:github:danorel:clisp-99</id>
+  <published>2023-01-02T11:42:15Z</published>
+  <updated>2023-01-02T11:42:15Z</updated>
+  <content type="html">
+   L-99: Ninety-Nine Lisp Problems
+  </content>
+ </entry>
+ <entry>
+  <title>skyizwhite: resba</title>
+  <author>
+   <name>skyizwhite</name>
+  </author>
+  <link href="https://github.com/skyizwhite/resba" />
+  <id>urn:rprimus:github:skyizwhite:resba</id>
+  <published>2023-01-02T11:35:46Z</published>
+  <updated>2023-01-02T11:35:46Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>semilin: aoc2023</title>
   <author>
@@ -44,94 +122,16 @@
   </content>
  </entry>
  <entry>
-  <title>glallen01: aoc</title>
+  <title>lem-project: lsp-backend</title>
   <author>
-   <name>glallen01</name>
+   <name>lem-project</name>
   </author>
-  <link href="https://github.com/glallen01/aoc" />
-  <id>urn:rprimus:github:glallen01:aoc</id>
-  <published>2022-12-31T20:54:32Z</published>
-  <updated>2022-12-31T20:54:32Z</updated>
-  <content type="html">
-   Advent of Code
-  </content>
- </entry>
- <entry>
-  <title>Ryan-B-W: advent-of-code</title>
-  <author>
-   <name>Ryan-B-W</name>
-  </author>
-  <link href="https://github.com/Ryan-B-W/advent-of-code" />
-  <id>urn:rprimus:github:Ryan-B-W:advent-of-code</id>
-  <published>2022-12-31T20:42:11Z</published>
-  <updated>2022-12-31T20:42:11Z</updated>
-  <content type="html">
-   My solutions for advent of code
-  </content>
- </entry>
- <entry>
-  <title>p3h3: vesc_sam_ev_ii_integration</title>
-  <author>
-   <name>p3h3</name>
-  </author>
-  <link href="https://github.com/p3h3/vesc_sam_ev_ii_integration" />
-  <id>urn:rprimus:github:p3h3:vesc_sam_ev_ii_integration</id>
-  <published>2022-12-31T18:35:22Z</published>
-  <updated>2022-12-31T18:35:22Z</updated>
-  <content type="html">
-   LispBM Script for Canbus integration of a VESC 100/250 into a SAM EV II
-  </content>
- </entry>
- <entry>
-  <title>gregoryg: cl-cryptogrammer</title>
-  <author>
-   <name>gregoryg</name>
-  </author>
-  <link href="https://github.com/gregoryg/cl-cryptogrammer" />
-  <id>urn:rprimus:github:gregoryg:cl-cryptogrammer</id>
-  <published>2022-12-31T17:53:51Z</published>
-  <updated>2022-12-31T17:53:51Z</updated>
-  <content type="html">
-   Cryptogram generator in Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>PressStart10: lisp-things</title>
-  <author>
-   <name>PressStart10</name>
-  </author>
-  <link href="https://github.com/PressStart10/lisp-things" />
-  <id>urn:rprimus:github:PressStart10:lisp-things</id>
-  <published>2022-12-31T04:19:04Z</published>
-  <updated>2022-12-31T04:19:04Z</updated>
-  <content type="html">
-   a repo of lisp stuff for clickallthebuttons.space
-  </content>
- </entry>
- <entry>
-  <title>tobyWorland: cl-simple-animation-demo</title>
-  <author>
-   <name>tobyWorland</name>
-  </author>
-  <link href="https://github.com/tobyWorland/cl-simple-animation-demo" />
-  <id>urn:rprimus:github:tobyWorland:cl-simple-animation-demo</id>
-  <published>2022-12-31T01:20:41Z</published>
-  <updated>2022-12-31T01:20:41Z</updated>
+  <link href="https://github.com/lem-project/lsp-backend" />
+  <id>urn:rprimus:github:lem-project:lsp-backend</id>
+  <published>2023-01-01T12:53:06Z</published>
+  <updated>2023-01-01T12:53:06Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>nkocsis27: Recursion-Functions-Lisp</title>
-  <author>
-   <name>nkocsis27</name>
-  </author>
-  <link href="https://github.com/nkocsis27/Recursion-Functions-Lisp" />
-  <id>urn:rprimus:github:nkocsis27:Recursion-Functions-Lisp</id>
-  <published>2022-12-31T00:20:39Z</published>
-  <updated>2022-12-31T00:20:39Z</updated>
-  <content type="html">
-   Recursive functions in Lisp
   </content>
  </entry>
 </feed>
