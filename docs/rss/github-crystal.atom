@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2023-01-02T17:38:07Z</updated>
+<updated>2023-01-04T02:11:57Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>first-try-software: replicator</title>
+  <author>
+   <name>first-try-software</name>
+  </author>
+  <link href="https://github.com/first-try-software/replicator" />
+  <id>urn:rprimus:github:first-try-software:replicator</id>
+  <published>2023-01-04T02:11:57Z</published>
+  <updated>2023-01-04T02:11:57Z</updated>
+  <content type="html">
+   Replicator is a class registry and factory
+  </content>
+ </entry>
+ <entry>
+  <title>fujikawahiroaki: fujikawa-diet</title>
+  <author>
+   <name>fujikawahiroaki</name>
+  </author>
+  <link href="https://github.com/fujikawahiroaki/fujikawa-diet" />
+  <id>urn:rprimus:github:fujikawahiroaki:fujikawa-diet</id>
+  <published>2023-01-03T14:00:10Z</published>
+  <updated>2023-01-03T14:00:10Z</updated>
+  <content type="html">
+   ä¿ºã®ç«¶ãã­ç²¾é²ãã¤ã¨ããç¨ã¯ã½ã³ãã³ã
+  </content>
+ </entry>
  <entry>
   <title>wout: policy_miner</title>
   <author>
@@ -28,45 +54,6 @@
   <updated>2023-01-02T03:57:25Z</updated>
   <content type="html">
    Just me getting a Kemal (Crystal) app deployed with a Dockerfile
-  </content>
- </entry>
- <entry>
-  <title>bit4bit: tox.cr</title>
-  <author>
-   <name>bit4bit</name>
-  </author>
-  <link href="https://github.com/bit4bit/tox.cr" />
-  <id>urn:rprimus:github:bit4bit:tox.cr</id>
-  <published>2023-01-01T23:14:27Z</published>
-  <updated>2023-01-01T23:14:27Z</updated>
-  <content type="html">
-   Crystal Lang bindings for toxcore
-  </content>
- </entry>
- <entry>
-  <title>mdwagner: fedi_sports</title>
-  <author>
-   <name>mdwagner</name>
-  </author>
-  <link href="https://github.com/mdwagner/fedi_sports" />
-  <id>urn:rprimus:github:mdwagner:fedi_sports</id>
-  <published>2023-01-01T18:04:01Z</published>
-  <updated>2023-01-01T18:04:01Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>PteroPackages: Ptero.cr</title>
-  <author>
-   <name>PteroPackages</name>
-  </author>
-  <link href="https://github.com/PteroPackages/Ptero.cr" />
-  <id>urn:rprimus:github:PteroPackages:Ptero.cr</id>
-  <published>2023-01-01T01:25:04Z</published>
-  <updated>2023-01-01T01:25:04Z</updated>
-  <content type="html">
-   A Pterodactyl API library in Crystal
   </content>
  </entry>
 </feed>
