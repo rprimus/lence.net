@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2023-01-04T02:11:57Z</updated>
+<updated>2023-01-06T07:27:12Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>HertzDevil: crystal-android-hello-world</title>
+  <author>
+   <name>HertzDevil</name>
+  </author>
+  <link href="https://github.com/HertzDevil/crystal-android-hello-world" />
+  <id>urn:rprimus:github:HertzDevil:crystal-android-hello-world</id>
+  <published>2023-01-06T07:27:12Z</published>
+  <updated>2023-01-06T07:27:12Z</updated>
+  <content type="html">
+   Sample native Android app written in pure Crystal
+  </content>
+ </entry>
+ <entry>
+  <title>HertzDevil: android-ndk.cr</title>
+  <author>
+   <name>HertzDevil</name>
+  </author>
+  <link href="https://github.com/HertzDevil/android-ndk.cr" />
+  <id>urn:rprimus:github:HertzDevil:android-ndk.cr</id>
+  <published>2023-01-06T07:08:23Z</published>
+  <updated>2023-01-06T07:08:23Z</updated>
+  <content type="html">
+   Crystal bindings for the Android NDK
+  </content>
+ </entry>
+ <entry>
+  <title>drhuffman12: crystal-web-example</title>
+  <author>
+   <name>drhuffman12</name>
+  </author>
+  <link href="https://github.com/drhuffman12/crystal-web-example" />
+  <id>urn:rprimus:github:drhuffman12:crystal-web-example</id>
+  <published>2023-01-06T05:16:57Z</published>
+  <updated>2023-01-06T05:16:57Z</updated>
+  <content type="html">
+   example using https://github.com/lbguilherme/crystal-web
+  </content>
+ </entry>
+ <entry>
+  <title>edmilsonefs: po2invoice</title>
+  <author>
+   <name>edmilsonefs</name>
+  </author>
+  <link href="https://github.com/edmilsonefs/po2invoice" />
+  <id>urn:rprimus:github:edmilsonefs:po2invoice</id>
+  <published>2023-01-04T16:47:02Z</published>
+  <updated>2023-01-04T16:47:02Z</updated>
+  <content type="html">
+   Convert a purchase order inside a PDF to an Invoice.
+  </content>
+ </entry>
  <entry>
   <title>first-try-software: replicator</title>
   <author>
@@ -15,19 +67,6 @@
   <updated>2023-01-04T02:11:57Z</updated>
   <content type="html">
    Replicator is a factory and class registry that allows classes to declaratively register themselves.
-  </content>
- </entry>
- <entry>
-  <title>fujikawahiroaki: fujikawa-diet</title>
-  <author>
-   <name>fujikawahiroaki</name>
-  </author>
-  <link href="https://github.com/fujikawahiroaki/fujikawa-diet" />
-  <id>urn:rprimus:github:fujikawahiroaki:fujikawa-diet</id>
-  <published>2023-01-03T14:00:10Z</published>
-  <updated>2023-01-03T14:00:10Z</updated>
-  <content type="html">
-   ä¿ºã®ç«¶ãã­ç²¾é²ãã¤ã¨ããç¨ã¯ã½ã³ãã³ã
   </content>
  </entry>
 </feed>
