@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2023-01-07T14:06:31Z</updated>
+<updated>2023-01-08T09:20:35Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>elias94: file-backup</title>
+  <author>
+   <name>elias94</name>
+  </author>
+  <link href="https://github.com/elias94/file-backup" />
+  <id>urn:rprimus:github:elias94:file-backup</id>
+  <published>2023-01-08T09:20:35Z</published>
+  <updated>2023-01-08T09:20:35Z</updated>
+  <content type="html">
+   Emacs extension for backup current buffer in a new file
+  </content>
+ </entry>
+ <entry>
+  <title>ajarara: my-own-passwords.el</title>
+  <author>
+   <name>ajarara</name>
+  </author>
+  <link href="https://github.com/ajarara/my-own-passwords.el" />
+  <id>urn:rprimus:github:ajarara:my-own-passwords.el</id>
+  <published>2023-01-08T02:13:17Z</published>
+  <updated>2023-01-08T02:13:17Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>zkry: go-sea.el</title>
+  <author>
+   <name>zkry</name>
+  </author>
+  <link href="https://github.com/zkry/go-sea.el" />
+  <id>urn:rprimus:github:zkry:go-sea.el</id>
+  <published>2023-01-08T01:08:50Z</published>
+  <updated>2023-01-08T01:08:50Z</updated>
+  <content type="html">
+   Advanced IDE features for editing Go. Why Go by Land when you can Go by Sea?
+  </content>
+ </entry>
+ <entry>
+  <title>edenir-anschau: .emacs.d</title>
+  <author>
+   <name>edenir-anschau</name>
+  </author>
+  <link href="https://github.com/edenir-anschau/.emacs.d" />
+  <id>urn:rprimus:github:edenir-anschau:.emacs.d</id>
+  <published>2023-01-07T22:28:45Z</published>
+  <updated>2023-01-07T22:28:45Z</updated>
+  <content type="html">
+   My personal Emacs configuration
+  </content>
+ </entry>
+ <entry>
+  <title>jakergrossman: kernel-mode</title>
+  <author>
+   <name>jakergrossman</name>
+  </author>
+  <link href="https://github.com/jakergrossman/kernel-mode" />
+  <id>urn:rprimus:github:jakergrossman:kernel-mode</id>
+  <published>2023-01-07T19:04:25Z</published>
+  <updated>2023-01-07T19:04:25Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>easbarba: mx</title>
+  <author>
+   <name>easbarba</name>
+  </author>
+  <link href="https://github.com/easbarba/mx" />
+  <id>urn:rprimus:github:easbarba:mx</id>
+  <published>2023-01-07T18:08:36Z</published>
+  <updated>2023-01-07T18:08:36Z</updated>
+  <content type="html">
+   emacs configuration dotfiles
+  </content>
+ </entry>
  <entry>
   <title>emacsattic: alore-mode</title>
   <author>
@@ -53,7 +131,7 @@
   <published>2023-01-07T12:46:27Z</published>
   <updated>2023-01-07T12:46:27Z</updated>
   <content type="html">
-   Convert between csv and org
+   Export/import Emacs Org mode entries to/from csv-files
   </content>
  </entry>
  <entry>
@@ -70,6 +148,19 @@
   </content>
  </entry>
  <entry>
+  <title>galdor: emacs</title>
+  <author>
+   <name>galdor</name>
+  </author>
+  <link href="https://github.com/galdor/emacs" />
+  <id>urn:rprimus:github:galdor:emacs</id>
+  <published>2023-01-07T11:27:03Z</published>
+  <updated>2023-01-07T11:27:03Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
   <title>AlexanderMaxRanabel: dotfiles</title>
   <author>
    <name>AlexanderMaxRanabel</name>
@@ -80,6 +171,19 @@
   <updated>2023-01-07T04:30:57Z</updated>
   <content type="html">
    dotfiles of mine
+  </content>
+ </entry>
+ <entry>
+  <title>Just-Insane: dotfiles</title>
+  <author>
+   <name>Just-Insane</name>
+  </author>
+  <link href="https://github.com/Just-Insane/dotfiles" />
+  <id>urn:rprimus:github:Just-Insane:dotfiles</id>
+  <published>2023-01-07T04:12:54Z</published>
+  <updated>2023-01-07T04:12:54Z</updated>
+  <content type="html">
+   
   </content>
  </entry>
  <entry>
@@ -197,6 +301,19 @@
   <updated>2023-01-06T18:42:44Z</updated>
   <content type="html">
    An Emacs configuration
+  </content>
+ </entry>
+ <entry>
+  <title>tracfren: dotfiles</title>
+  <author>
+   <name>tracfren</name>
+  </author>
+  <link href="https://github.com/tracfren/dotfiles" />
+  <id>urn:rprimus:github:tracfren:dotfiles</id>
+  <published>2023-01-06T17:37:39Z</published>
+  <updated>2023-01-06T17:37:39Z</updated>
+  <content type="html">
+   
   </content>
  </entry>
  <entry>
@@ -366,240 +483,6 @@
   <updated>2023-01-06T02:12:44Z</updated>
   <content type="html">
    forked by https://codeberg.org/rgherdt/emacs-lsp-scheme
-  </content>
- </entry>
- <entry>
-  <title>anticomputer: with-wireguard.el</title>
-  <author>
-   <name>anticomputer</name>
-  </author>
-  <link href="https://github.com/anticomputer/with-wireguard.el" />
-  <id>urn:rprimus:github:anticomputer:with-wireguard.el</id>
-  <published>2023-01-05T21:41:37Z</published>
-  <updated>2023-01-05T21:41:37Z</updated>
-  <content type="html">
-   Wireguard network namespace management for Emacs.
-  </content>
- </entry>
- <entry>
-  <title>ckoch786: .emacs.d</title>
-  <author>
-   <name>ckoch786</name>
-  </author>
-  <link href="https://github.com/ckoch786/.emacs.d" />
-  <id>urn:rprimus:github:ckoch786:.emacs.d</id>
-  <published>2023-01-05T19:31:12Z</published>
-  <updated>2023-01-05T19:31:12Z</updated>
-  <content type="html">
-   YA copy of my .emacs.d
-  </content>
- </entry>
- <entry>
-  <title>suliveevil: org-mac-link</title>
-  <author>
-   <name>suliveevil</name>
-  </author>
-  <link href="https://github.com/suliveevil/org-mac-link" />
-  <id>urn:rprimus:github:suliveevil:org-mac-link</id>
-  <published>2023-01-05T18:48:25Z</published>
-  <updated>2023-01-05T18:48:25Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>klementievdmitry: dot-emacs-dot-d</title>
-  <author>
-   <name>klementievdmitry</name>
-  </author>
-  <link href="https://github.com/klementievdmitry/dot-emacs-dot-d" />
-  <id>urn:rprimus:github:klementievdmitry:dot-emacs-dot-d</id>
-  <published>2023-01-05T18:16:34Z</published>
-  <updated>2023-01-05T18:16:34Z</updated>
-  <content type="html">
-   Emacs configuration
-  </content>
- </entry>
- <entry>
-  <title>kemdict: kemdict-data</title>
-  <author>
-   <name>kemdict</name>
-  </author>
-  <link href="https://github.com/kemdict/kemdict-data" />
-  <id>urn:rprimus:github:kemdict:kemdict-data</id>
-  <published>2023-01-05T18:09:39Z</published>
-  <updated>2023-01-05T18:09:39Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>rougier: persid</title>
-  <author>
-   <name>rougier</name>
-  </author>
-  <link href="https://github.com/rougier/persid" />
-  <id>urn:rprimus:github:rougier:persid</id>
-  <published>2023-01-05T18:09:17Z</published>
-  <updated>2023-01-05T18:09:17Z</updated>
-  <content type="html">
-   Persistent identifier library for GNU Emacs
-  </content>
- </entry>
- <entry>
-  <title>efimerspan: fdroid.el</title>
-  <author>
-   <name>efimerspan</name>
-  </author>
-  <link href="https://github.com/efimerspan/fdroid.el" />
-  <id>urn:rprimus:github:efimerspan:fdroid.el</id>
-  <published>2023-01-05T16:48:06Z</published>
-  <updated>2023-01-05T16:48:06Z</updated>
-  <content type="html">
-   Manage F-Droid packages from Emacs
-  </content>
- </entry>
- <entry>
-  <title>efimerspan: nyxt.el</title>
-  <author>
-   <name>efimerspan</name>
-  </author>
-  <link href="https://github.com/efimerspan/nyxt.el" />
-  <id>urn:rprimus:github:efimerspan:nyxt.el</id>
-  <published>2023-01-05T16:43:15Z</published>
-  <updated>2023-01-05T16:43:15Z</updated>
-  <content type="html">
-   Interact with Nyxt from Emacs
-  </content>
- </entry>
- <entry>
-  <title>svjson: 64tass.el</title>
-  <author>
-   <name>svjson</name>
-  </author>
-  <link href="https://github.com/svjson/64tass.el" />
-  <id>urn:rprimus:github:svjson:64tass.el</id>
-  <published>2023-01-05T15:05:12Z</published>
-  <updated>2023-01-05T15:05:12Z</updated>
-  <content type="html">
-   Small elisp library for interacting with 64tass
-  </content>
- </entry>
- <entry>
-  <title>StaffEngineer: emacs-config</title>
-  <author>
-   <name>StaffEngineer</name>
-  </author>
-  <link href="https://github.com/StaffEngineer/emacs-config" />
-  <id>urn:rprimus:github:StaffEngineer:emacs-config</id>
-  <published>2023-01-05T14:55:33Z</published>
-  <updated>2023-01-05T14:55:33Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>katanallama: .doom.d</title>
-  <author>
-   <name>katanallama</name>
-  </author>
-  <link href="https://github.com/katanallama/.doom.d" />
-  <id>urn:rprimus:github:katanallama:.doom.d</id>
-  <published>2023-01-05T13:28:21Z</published>
-  <updated>2023-01-05T13:28:21Z</updated>
-  <content type="html">
-   Doom emacs configuration
-  </content>
- </entry>
- <entry>
-  <title>geokkjer: geokkjer.eu</title>
-  <author>
-   <name>geokkjer</name>
-  </author>
-  <link href="https://github.com/geokkjer/geokkjer.eu" />
-  <id>urn:rprimus:github:geokkjer:geokkjer.eu</id>
-  <published>2023-01-05T11:16:05Z</published>
-  <updated>2023-01-05T11:16:05Z</updated>
-  <content type="html">
-   Static website made with Emacs and org-mode
-  </content>
- </entry>
- <entry>
-  <title>RIPm: doom-emacs-private</title>
-  <author>
-   <name>RIPm</name>
-  </author>
-  <link href="https://github.com/RIPm/doom-emacs-private" />
-  <id>urn:rprimus:github:RIPm:doom-emacs-private</id>
-  <published>2023-01-05T07:07:07Z</published>
-  <updated>2023-01-05T07:07:07Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>OctaneOolong: doom_emacs_configs</title>
-  <author>
-   <name>OctaneOolong</name>
-  </author>
-  <link href="https://github.com/OctaneOolong/doom_emacs_configs" />
-  <id>urn:rprimus:github:OctaneOolong:doom_emacs_configs</id>
-  <published>2023-01-05T07:01:25Z</published>
-  <updated>2023-01-05T07:01:25Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jladdjr: emacs.d</title>
-  <author>
-   <name>jladdjr</name>
-  </author>
-  <link href="https://github.com/jladdjr/emacs.d" />
-  <id>urn:rprimus:github:jladdjr:emacs.d</id>
-  <published>2023-01-05T05:43:36Z</published>
-  <updated>2023-01-05T05:43:36Z</updated>
-  <content type="html">
-   My emacs config
-  </content>
- </entry>
- <entry>
-  <title>Aspectsides: archfiles</title>
-  <author>
-   <name>Aspectsides</name>
-  </author>
-  <link href="https://github.com/Aspectsides/archfiles" />
-  <id>urn:rprimus:github:Aspectsides:archfiles</id>
-  <published>2023-01-05T05:34:44Z</published>
-  <updated>2023-01-05T05:34:44Z</updated>
-  <content type="html">
-   The dotfiles for my Arch Linux system.
-  </content>
- </entry>
- <entry>
-  <title>championeer: xyu.doomemacs.d</title>
-  <author>
-   <name>championeer</name>
-  </author>
-  <link href="https://github.com/championeer/xyu.doomemacs.d" />
-  <id>urn:rprimus:github:championeer:xyu.doomemacs.d</id>
-  <published>2023-01-05T04:46:48Z</published>
-  <updated>2023-01-05T04:46:48Z</updated>
-  <content type="html">
-   my doom emacs config
-  </content>
- </entry>
- <entry>
-  <title>ewestbrook: emacs</title>
-  <author>
-   <name>ewestbrook</name>
-  </author>
-  <link href="https://github.com/ewestbrook/emacs" />
-  <id>urn:rprimus:github:ewestbrook:emacs</id>
-  <published>2023-01-05T00:04:12Z</published>
-  <updated>2023-01-05T00:04:12Z</updated>
-  <content type="html">
-   Emacs configuration files
   </content>
  </entry>
 </feed>
