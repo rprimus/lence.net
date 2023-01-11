@@ -2,19 +2,84 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2023-01-10T09:46:10Z</updated>
+<updated>2023-01-11T09:06:09Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
  <entry>
-  <title>SAMSONPierre: projet-pf5</title>
+  <title>mronconis: amqstreams-perf-tests</title>
+  <author>
+   <name>mronconis</name>
+  </author>
+  <link href="https://github.com/mronconis/amqstreams-perf-tests" />
+  <id>urn:rprimus:github:mronconis:amqstreams-perf-tests</id>
+  <published>2023-01-11T09:06:09Z</published>
+  <updated>2023-01-11T09:06:09Z</updated>
+  <content type="html">
+   Red Hat AMQ Streams perf tests
+  </content>
+ </entry>
+ <entry>
+  <title>andrewmackin: contact-bridge</title>
+  <author>
+   <name>andrewmackin</name>
+  </author>
+  <link href="https://github.com/andrewmackin/contact-bridge" />
+  <id>urn:rprimus:github:andrewmackin:contact-bridge</id>
+  <published>2023-01-11T04:30:17Z</published>
+  <updated>2023-01-11T04:30:17Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>NTajalli: MicroCamlEvaluator</title>
+  <author>
+   <name>NTajalli</name>
+  </author>
+  <link href="https://github.com/NTajalli/MicroCamlEvaluator" />
+  <id>urn:rprimus:github:NTajalli:MicroCamlEvaluator</id>
+  <published>2023-01-10T23:18:58Z</published>
+  <updated>2023-01-10T23:18:58Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>geoffder: ocaml-clipper2</title>
+  <author>
+   <name>geoffder</name>
+  </author>
+  <link href="https://github.com/geoffder/ocaml-clipper2" />
+  <id>urn:rprimus:github:geoffder:ocaml-clipper2</id>
+  <published>2023-01-10T20:34:19Z</published>
+  <updated>2023-01-10T20:34:19Z</updated>
+  <content type="html">
+   OCaml bindings to the polygon clipping and offseting library Clipper2
+  </content>
+ </entry>
+ <entry>
+  <title>jasonsteiner: blackjack</title>
+  <author>
+   <name>jasonsteiner</name>
+  </author>
+  <link href="https://github.com/jasonsteiner/blackjack" />
+  <id>urn:rprimus:github:jasonsteiner:blackjack</id>
+  <published>2023-01-10T16:23:49Z</published>
+  <updated>2023-01-10T16:23:49Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>SAMSONPierre: Polish</title>
   <author>
    <name>SAMSONPierre</name>
   </author>
-  <link href="https://github.com/SAMSONPierre/projet-pf5" />
-  <id>urn:rprimus:github:SAMSONPierre:projet-pf5</id>
-  <published>2023-01-10T09:46:10Z</published>
-  <updated>2023-01-10T09:46:10Z</updated>
+  <link href="https://github.com/SAMSONPierre/Polish" />
+  <id>urn:rprimus:github:SAMSONPierre:Polish</id>
+  <published>2023-01-10T11:16:31Z</published>
+  <updated>2023-01-10T11:16:31Z</updated>
   <content type="html">
-   
+   Projet de L2 en ocaml visant Ã  faire de l&#039;analyse statique dâun mini-langage en programmation fonctionnelle
   </content>
  </entry>
  <entry>
@@ -27,7 +92,7 @@
   <published>2023-01-10T09:44:45Z</published>
   <updated>2023-01-10T09:44:45Z</updated>
   <content type="html">
-   
+   Projet de L3 visant Ã  lexer et parser des dÃ©finitions d&#039;automates et Ã  faire quelques opÃ©rations dessus comme dire si il est dÃ©terministe etc..
   </content>
  </entry>
  <entry>
@@ -40,7 +105,7 @@
   <published>2023-01-10T09:36:08Z</published>
   <updated>2023-01-10T09:36:08Z</updated>
   <content type="html">
-   
+   Projet de M1 en Ocaml visant Ã  faire un compilateur pour un &quot;petit&quot; langage ressemblant trÃ¨s fortement Ã  Ocaml. On a pu voir diffÃ©rentes Ã©tapes comme le lexing, le parsing, l&#039;interprÃ©teur, le typeur et d&#039;autres au fur et Ã  mesure des jalons.
   </content>
  </entry>
  <entry>
@@ -122,6 +187,19 @@
   </content>
  </entry>
  <entry>
+  <title>Hasnep: plumblist</title>
+  <author>
+   <name>Hasnep</name>
+  </author>
+  <link href="https://github.com/Hasnep/plumblist" />
+  <id>urn:rprimus:github:Hasnep:plumblist</id>
+  <published>2023-01-09T06:37:50Z</published>
+  <updated>2023-01-09T06:37:50Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
   <title>agreen254: cs3110</title>
   <author>
    <name>agreen254</name>
@@ -145,97 +223,6 @@
   <updated>2023-01-09T01:47:54Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>janahayaly: paint22fall</title>
-  <author>
-   <name>janahayaly</name>
-  </author>
-  <link href="https://github.com/janahayaly/paint22fall" />
-  <id>urn:rprimus:github:janahayaly:paint22fall</id>
-  <published>2023-01-08T22:41:30Z</published>
-  <updated>2023-01-08T22:41:30Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>janahayaly: queues22fall</title>
-  <author>
-   <name>janahayaly</name>
-  </author>
-  <link href="https://github.com/janahayaly/queues22fall" />
-  <id>urn:rprimus:github:janahayaly:queues22fall</id>
-  <published>2023-01-08T22:40:33Z</published>
-  <updated>2023-01-08T22:40:33Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>vespertine-org: vespertine</title>
-  <author>
-   <name>vespertine-org</name>
-  </author>
-  <link href="https://github.com/vespertine-org/vespertine" />
-  <id>urn:rprimus:github:vespertine-org:vespertine</id>
-  <published>2023-01-08T22:33:43Z</published>
-  <updated>2023-01-08T22:33:43Z</updated>
-  <content type="html">
-   A small extensible functional programming language designed for mere mortals
-  </content>
- </entry>
- <entry>
-  <title>tmattio: device-detector</title>
-  <author>
-   <name>tmattio</name>
-  </author>
-  <link href="https://github.com/tmattio/device-detector" />
-  <id>urn:rprimus:github:tmattio:device-detector</id>
-  <published>2023-01-08T19:25:22Z</published>
-  <updated>2023-01-08T19:25:22Z</updated>
-  <content type="html">
-   User-agent and referer parser for HTTP queries.
-  </content>
- </entry>
- <entry>
-  <title>SagyBle: ass3-compi</title>
-  <author>
-   <name>SagyBle</name>
-  </author>
-  <link href="https://github.com/SagyBle/ass3-compi" />
-  <id>urn:rprimus:github:SagyBle:ass3-compi</id>
-  <published>2023-01-08T17:43:09Z</published>
-  <updated>2023-01-08T17:43:09Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Zhang-Liao: tree_diff1</title>
-  <author>
-   <name>Zhang-Liao</name>
-  </author>
-  <link href="https://github.com/Zhang-Liao/tree_diff1" />
-  <id>urn:rprimus:github:Zhang-Liao:tree_diff1</id>
-  <published>2023-01-08T09:19:41Z</published>
-  <updated>2023-01-08T09:19:41Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>aronlebani: gitcheck</title>
-  <author>
-   <name>aronlebani</name>
-  </author>
-  <link href="https://github.com/aronlebani/gitcheck" />
-  <id>urn:rprimus:github:aronlebani:gitcheck</id>
-  <published>2023-01-08T06:23:51Z</published>
-  <updated>2023-01-08T06:23:51Z</updated>
-  <content type="html">
-   Find uncommitted changes in git repositories
   </content>
  </entry>
 </feed>

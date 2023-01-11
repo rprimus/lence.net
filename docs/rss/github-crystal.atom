@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2023-01-09T16:58:44Z</updated>
+<updated>2023-01-10T19:00:16Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>MoriGM: slf-cli</title>
+  <author>
+   <name>MoriGM</name>
+  </author>
+  <link href="https://github.com/MoriGM/slf-cli" />
+  <id>urn:rprimus:github:MoriGM:slf-cli</id>
+  <published>2023-01-10T19:00:16Z</published>
+  <updated>2023-01-10T19:00:16Z</updated>
+  <content type="html">
+   A command line interface for the german game stadt land fluss
+  </content>
+ </entry>
  <entry>
   <title>duducharapa: stardew-bot</title>
   <author>
@@ -15,32 +28,6 @@
   <updated>2023-01-09T16:58:44Z</updated>
   <content type="html">
    Bot available to Discord where users can find principal info about items and people on Stardew Valley game
-  </content>
- </entry>
- <entry>
-  <title>Rorkh: Multidimensional-MUD</title>
-  <author>
-   <name>Rorkh</name>
-  </author>
-  <link href="https://github.com/Rorkh/Multidimensional-MUD" />
-  <id>urn:rprimus:github:Rorkh:Multidimensional-MUD</id>
-  <published>2023-01-08T20:46:57Z</published>
-  <updated>2023-01-08T20:46:57Z</updated>
-  <content type="html">
-   WIP MUD written in Crystal lang
-  </content>
- </entry>
- <entry>
-  <title>sol-vin: wireland</title>
-  <author>
-   <name>sol-vin</name>
-  </author>
-  <link href="https://github.com/sol-vin/wireland" />
-  <id>urn:rprimus:github:sol-vin:wireland</id>
-  <published>2023-01-08T11:46:09Z</published>
-  <updated>2023-01-08T11:46:09Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
