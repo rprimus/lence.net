@@ -2,8 +2,372 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-elixir.atom"/>
 <id>urn:rprimus:github:newelixirrepos</id>
-<updated>2023-01-12T09:42:51Z</updated>
+<updated>2023-01-13T09:11:29Z</updated>
 <title type='text'>New GitHub Elixir Repos</title>
+ <entry>
+  <title>sherbondy: ahref_bug</title>
+  <author>
+   <name>sherbondy</name>
+  </author>
+  <link href="https://github.com/sherbondy/ahref_bug" />
+  <id>urn:rprimus:github:sherbondy:ahref_bug</id>
+  <published>2023-01-13T09:11:29Z</published>
+  <updated>2023-01-13T09:11:29Z</updated>
+  <content type="html">
+   Regression in Phoenix LiveView &gt;=0.18.4 with Noop Anchor Tags Disconnecting
+  </content>
+ </entry>
+ <entry>
+  <title>xaviRodri: coverage-test</title>
+  <author>
+   <name>xaviRodri</name>
+  </author>
+  <link href="https://github.com/xaviRodri/coverage-test" />
+  <id>urn:rprimus:github:xaviRodri:coverage-test</id>
+  <published>2023-01-13T08:21:14Z</published>
+  <updated>2023-01-13T08:21:14Z</updated>
+  <content type="html">
+   Repo to test CodeCov with Elixir
+  </content>
+ </entry>
+ <entry>
+  <title>krysceejay: codeslack</title>
+  <author>
+   <name>krysceejay</name>
+  </author>
+  <link href="https://github.com/krysceejay/codeslack" />
+  <id>urn:rprimus:github:krysceejay:codeslack</id>
+  <published>2023-01-13T08:07:23Z</published>
+  <updated>2023-01-13T08:07:23Z</updated>
+  <content type="html">
+   A Phoenix/Elixir app that sends incident messages to a slack channel
+  </content>
+ </entry>
+ <entry>
+  <title>brettbeatty: games</title>
+  <author>
+   <name>brettbeatty</name>
+  </author>
+  <link href="https://github.com/brettbeatty/games" />
+  <id>urn:rprimus:github:brettbeatty:games</id>
+  <published>2023-01-13T03:59:56Z</published>
+  <updated>2023-01-13T03:59:56Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>tinyelixir: tinyelixir_tools</title>
+  <author>
+   <name>tinyelixir</name>
+  </author>
+  <link href="https://github.com/tinyelixir/tinyelixir_tools" />
+  <id>urn:rprimus:github:tinyelixir:tinyelixir_tools</id>
+  <published>2023-01-13T03:32:08Z</published>
+  <updated>2023-01-13T03:32:08Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>antoinerc: centrex</title>
+  <author>
+   <name>antoinerc</name>
+  </author>
+  <link href="https://github.com/antoinerc/centrex" />
+  <id>urn:rprimus:github:antoinerc:centrex</id>
+  <published>2023-01-13T02:36:05Z</published>
+  <updated>2023-01-13T02:36:05Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>carlosrobertosalgueiro: smart_git</title>
+  <author>
+   <name>carlosrobertosalgueiro</name>
+  </author>
+  <link href="https://github.com/carlosrobertosalgueiro/smart_git" />
+  <id>urn:rprimus:github:carlosrobertosalgueiro:smart_git</id>
+  <published>2023-01-13T01:59:31Z</published>
+  <updated>2023-01-13T01:59:31Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>girordo: caterpillar</title>
+  <author>
+   <name>girordo</name>
+  </author>
+  <link href="https://github.com/girordo/caterpillar" />
+  <id>urn:rprimus:github:girordo:caterpillar</id>
+  <published>2023-01-13T01:52:25Z</published>
+  <updated>2023-01-13T01:52:25Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>jeftenunes: mailbox</title>
+  <author>
+   <name>jeftenunes</name>
+  </author>
+  <link href="https://github.com/jeftenunes/mailbox" />
+  <id>urn:rprimus:github:jeftenunes:mailbox</id>
+  <published>2023-01-13T01:34:48Z</published>
+  <updated>2023-01-13T01:34:48Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>jeftenunes: processes</title>
+  <author>
+   <name>jeftenunes</name>
+  </author>
+  <link href="https://github.com/jeftenunes/processes" />
+  <id>urn:rprimus:github:jeftenunes:processes</id>
+  <published>2023-01-13T01:33:13Z</published>
+  <updated>2023-01-13T01:33:13Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>viniciusmuller: observable-todolist</title>
+  <author>
+   <name>viniciusmuller</name>
+  </author>
+  <link href="https://github.com/viniciusmuller/observable-todolist" />
+  <id>urn:rprimus:github:viniciusmuller:observable-todolist</id>
+  <published>2023-01-13T00:39:58Z</published>
+  <updated>2023-01-13T00:39:58Z</updated>
+  <content type="html">
+   Example of a Phoenix application using OpenTelemetry to export logs and traces to Grafana (Loki, Tempo) and PromEx for metrics
+  </content>
+ </entry>
+ <entry>
+  <title>zengasiwingwa: snitch</title>
+  <author>
+   <name>zengasiwingwa</name>
+  </author>
+  <link href="https://github.com/zengasiwingwa/snitch" />
+  <id>urn:rprimus:github:zengasiwingwa:snitch</id>
+  <published>2023-01-12T23:09:55Z</published>
+  <updated>2023-01-12T23:09:55Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>jgchristopher: retro_board</title>
+  <author>
+   <name>jgchristopher</name>
+  </author>
+  <link href="https://github.com/jgchristopher/retro_board" />
+  <id>urn:rprimus:github:jgchristopher:retro_board</id>
+  <published>2023-01-12T22:46:41Z</published>
+  <updated>2023-01-12T22:46:41Z</updated>
+  <content type="html">
+   Omaha Elixir Mixer Talk Retro Board
+  </content>
+ </entry>
+ <entry>
+  <title>baezanat: programming_phoenix_book</title>
+  <author>
+   <name>baezanat</name>
+  </author>
+  <link href="https://github.com/baezanat/programming_phoenix_book" />
+  <id>urn:rprimus:github:baezanat:programming_phoenix_book</id>
+  <published>2023-01-12T21:36:01Z</published>
+  <updated>2023-01-12T21:36:01Z</updated>
+  <content type="html">
+   Working through the book /Programming Phoenix/ by Chris McCord, Bruce Tate and JosÃ© Valim
+  </content>
+ </entry>
+ <entry>
+  <title>ZeLarpMaster: CredoMultiAliasExample</title>
+  <author>
+   <name>ZeLarpMaster</name>
+  </author>
+  <link href="https://github.com/ZeLarpMaster/CredoMultiAliasExample" />
+  <id>urn:rprimus:github:ZeLarpMaster:CredoMultiAliasExample</id>
+  <published>2023-01-12T20:57:08Z</published>
+  <updated>2023-01-12T20:57:08Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>libitx: eddy</title>
+  <author>
+   <name>libitx</name>
+  </author>
+  <link href="https://github.com/libitx/eddy" />
+  <id>urn:rprimus:github:libitx:eddy</id>
+  <published>2023-01-12T20:31:26Z</published>
+  <updated>2023-01-12T20:31:26Z</updated>
+  <content type="html">
+   A steady little Ed25519 library for Elixir.
+  </content>
+ </entry>
+ <entry>
+  <title>alejandrodevs: boruta</title>
+  <author>
+   <name>alejandrodevs</name>
+  </author>
+  <link href="https://github.com/alejandrodevs/boruta" />
+  <id>urn:rprimus:github:alejandrodevs:boruta</id>
+  <published>2023-01-12T19:42:00Z</published>
+  <updated>2023-01-12T19:42:00Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>devin-mitchell: Programming_Ecto</title>
+  <author>
+   <name>devin-mitchell</name>
+  </author>
+  <link href="https://github.com/devin-mitchell/Programming_Ecto" />
+  <id>urn:rprimus:github:devin-mitchell:Programming_Ecto</id>
+  <published>2023-01-12T19:21:30Z</published>
+  <updated>2023-01-12T19:21:30Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>minay07softapp: react_project</title>
+  <author>
+   <name>minay07softapp</name>
+  </author>
+  <link href="https://github.com/minay07softapp/react_project" />
+  <id>urn:rprimus:github:minay07softapp:react_project</id>
+  <published>2023-01-12T18:50:14Z</published>
+  <updated>2023-01-12T18:50:14Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>samir-dewan: elixir-learning</title>
+  <author>
+   <name>samir-dewan</name>
+  </author>
+  <link href="https://github.com/samir-dewan/elixir-learning" />
+  <id>urn:rprimus:github:samir-dewan:elixir-learning</id>
+  <published>2023-01-12T18:45:53Z</published>
+  <updated>2023-01-12T18:45:53Z</updated>
+  <content type="html">
+   Learning Elixir
+  </content>
+ </entry>
+ <entry>
+  <title>Official-MetaChain: Block-Exploler</title>
+  <author>
+   <name>Official-MetaChain</name>
+  </author>
+  <link href="https://github.com/Official-MetaChain/Block-Exploler" />
+  <id>urn:rprimus:github:Official-MetaChain:Block-Exploler</id>
+  <published>2023-01-12T18:29:37Z</published>
+  <updated>2023-01-12T18:29:37Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>paulanthonywilson: ds18b20</title>
+  <author>
+   <name>paulanthonywilson</name>
+  </author>
+  <link href="https://github.com/paulanthonywilson/ds18b20" />
+  <id>urn:rprimus:github:paulanthonywilson:ds18b20</id>
+  <published>2023-01-12T16:55:06Z</published>
+  <updated>2023-01-12T16:55:06Z</updated>
+  <content type="html">
+   Supports reading a connected ds18b20 thermometer over 1Wire
+  </content>
+ </entry>
+ <entry>
+  <title>paulanthonywilson: simplest_pub_sub</title>
+  <author>
+   <name>paulanthonywilson</name>
+  </author>
+  <link href="https://github.com/paulanthonywilson/simplest_pub_sub" />
+  <id>urn:rprimus:github:paulanthonywilson:simplest_pub_sub</id>
+  <published>2023-01-12T15:48:32Z</published>
+  <updated>2023-01-12T15:48:32Z</updated>
+  <content type="html">
+   Arguably pointessly thin wrapper over Elixir&#039;s Registry for a simple Pub Sub
+  </content>
+ </entry>
+ <entry>
+  <title>aruZeta: leetcode</title>
+  <author>
+   <name>aruZeta</name>
+  </author>
+  <link href="https://github.com/aruZeta/leetcode" />
+  <id>urn:rprimus:github:aruZeta:leetcode</id>
+  <published>2023-01-12T15:13:14Z</published>
+  <updated>2023-01-12T15:13:14Z</updated>
+  <content type="html">
+   My solutions to leetcode problems
+  </content>
+ </entry>
+ <entry>
+  <title>ByeongUkChoi: i18n_ex</title>
+  <author>
+   <name>ByeongUkChoi</name>
+  </author>
+  <link href="https://github.com/ByeongUkChoi/i18n_ex" />
+  <id>urn:rprimus:github:ByeongUkChoi:i18n_ex</id>
+  <published>2023-01-12T14:40:17Z</published>
+  <updated>2023-01-12T14:40:17Z</updated>
+  <content type="html">
+   Easy-to-use and localized formatting library for numbers, currencies and dates with options and locales support for internationalization in Elixir projects.
+  </content>
+ </entry>
+ <entry>
+  <title>mrkaspa: ex_twitter</title>
+  <author>
+   <name>mrkaspa</name>
+  </author>
+  <link href="https://github.com/mrkaspa/ex_twitter" />
+  <id>urn:rprimus:github:mrkaspa:ex_twitter</id>
+  <published>2023-01-12T13:53:36Z</published>
+  <updated>2023-01-12T13:53:36Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>okothkongo: not_so_jarvis</title>
+  <author>
+   <name>okothkongo</name>
+  </author>
+  <link href="https://github.com/okothkongo/not_so_jarvis" />
+  <id>urn:rprimus:github:okothkongo:not_so_jarvis</id>
+  <published>2023-01-12T12:54:13Z</published>
+  <updated>2023-01-12T12:54:13Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>mithereal: terminator_uuid</title>
+  <author>
+   <name>mithereal</name>
+  </author>
+  <link href="https://github.com/mithereal/terminator_uuid" />
+  <id>urn:rprimus:github:mithereal:terminator_uuid</id>
+  <published>2023-01-12T11:03:01Z</published>
+  <updated>2023-01-12T11:03:01Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>dementopro: Elixir_trial</title>
   <author>
@@ -13,6 +377,19 @@
   <id>urn:rprimus:github:dementopro:Elixir_trial</id>
   <published>2023-01-12T09:42:51Z</published>
   <updated>2023-01-12T09:42:51Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>emmy0x1: alpha</title>
+  <author>
+   <name>emmy0x1</name>
+  </author>
+  <link href="https://github.com/emmy0x1/alpha" />
+  <id>urn:rprimus:github:emmy0x1:alpha</id>
+  <published>2023-01-12T09:11:07Z</published>
+  <updated>2023-01-12T09:11:07Z</updated>
   <content type="html">
    
   </content>
@@ -41,6 +418,19 @@
   <updated>2023-01-12T07:32:40Z</updated>
   <content type="html">
    
+  </content>
+ </entry>
+ <entry>
+  <title>sFractal-Podii: Blinky_haha_new</title>
+  <author>
+   <name>sFractal-Podii</name>
+  </author>
+  <link href="https://github.com/sFractal-Podii/Blinky_haha_new" />
+  <id>urn:rprimus:github:sFractal-Podii:Blinky_haha_new</id>
+  <published>2023-01-12T06:12:55Z</published>
+  <updated>2023-01-12T06:12:55Z</updated>
+  <content type="html">
+   Demo code for talk on IoT Safety. Blinky - the &quot;Hello World&quot; of IoT. HaHa - the &quot;Hello World&quot; of OpenC2 . Updated version of BlinkyHaha
   </content>
  </entry>
  <entry>
@@ -208,6 +598,19 @@
   <id>urn:rprimus:github:andridus:httpmock</id>
   <published>2023-01-11T20:24:10Z</published>
   <updated>2023-01-11T20:24:10Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>zoedsoupe: lucide_icons</title>
+  <author>
+   <name>zoedsoupe</name>
+  </author>
+  <link href="https://github.com/zoedsoupe/lucide_icons" />
+  <id>urn:rprimus:github:zoedsoupe:lucide_icons</id>
+  <published>2023-01-11T19:43:28Z</published>
+  <updated>2023-01-11T19:43:28Z</updated>
   <content type="html">
    
   </content>
@@ -447,19 +850,6 @@
   </content>
  </entry>
  <entry>
-  <title>krysceejay: codeslack</title>
-  <author>
-   <name>krysceejay</name>
-  </author>
-  <link href="https://github.com/krysceejay/codeslack" />
-  <id>urn:rprimus:github:krysceejay:codeslack</id>
-  <published>2023-01-11T10:18:59Z</published>
-  <updated>2023-01-11T10:18:59Z</updated>
-  <content type="html">
-   An app that sends messages to a slack channel
-  </content>
- </entry>
- <entry>
   <title>jeryldev: helpdesk</title>
   <author>
    <name>jeryldev</name>
@@ -507,396 +897,6 @@
   <id>urn:rprimus:github:chrisdambrosio:testdrive</id>
   <published>2023-01-11T00:01:46Z</published>
   <updated>2023-01-11T00:01:46Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>bbhoss: protohackers</title>
-  <author>
-   <name>bbhoss</name>
-  </author>
-  <link href="https://github.com/bbhoss/protohackers" />
-  <id>urn:rprimus:github:bbhoss:protohackers</id>
-  <published>2023-01-10T23:48:21Z</published>
-  <updated>2023-01-10T23:48:21Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>HadrielWonda: TodoApi</title>
-  <author>
-   <name>HadrielWonda</name>
-  </author>
-  <link href="https://github.com/HadrielWonda/TodoApi" />
-  <id>urn:rprimus:github:HadrielWonda:TodoApi</id>
-  <published>2023-01-10T23:33:54Z</published>
-  <updated>2023-01-10T23:33:54Z</updated>
-  <content type="html">
-   ToDo Api using Elixr,Phoenix,ElixrScript and React
-  </content>
- </entry>
- <entry>
-  <title>jacobmishkin: oakHealth</title>
-  <author>
-   <name>jacobmishkin</name>
-  </author>
-  <link href="https://github.com/jacobmishkin/oakHealth" />
-  <id>urn:rprimus:github:jacobmishkin:oakHealth</id>
-  <published>2023-01-10T23:30:29Z</published>
-  <updated>2023-01-10T23:30:29Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>gb1: pod_backend</title>
-  <author>
-   <name>gb1</name>
-  </author>
-  <link href="https://github.com/gb1/pod_backend" />
-  <id>urn:rprimus:github:gb1:pod_backend</id>
-  <published>2023-01-10T23:30:18Z</published>
-  <updated>2023-01-10T23:30:18Z</updated>
-  <content type="html">
-   POD backend
-  </content>
- </entry>
- <entry>
-  <title>derhackler: protohacker</title>
-  <author>
-   <name>derhackler</name>
-  </author>
-  <link href="https://github.com/derhackler/protohacker" />
-  <id>urn:rprimus:github:derhackler:protohacker</id>
-  <published>2023-01-10T22:42:57Z</published>
-  <updated>2023-01-10T22:42:57Z</updated>
-  <content type="html">
-   Implementation of the protohacker challenges
-  </content>
- </entry>
- <entry>
-  <title>norbu09: free_code_camp_blog</title>
-  <author>
-   <name>norbu09</name>
-  </author>
-  <link href="https://github.com/norbu09/free_code_camp_blog" />
-  <id>urn:rprimus:github:norbu09:free_code_camp_blog</id>
-  <published>2023-01-10T22:16:53Z</published>
-  <updated>2023-01-10T22:16:53Z</updated>
-  <content type="html">
-   code for the freecodecamp meetup Loule
-  </content>
- </entry>
- <entry>
-  <title>ojhp: cart</title>
-  <author>
-   <name>ojhp</name>
-  </author>
-  <link href="https://github.com/ojhp/cart" />
-  <id>urn:rprimus:github:ojhp:cart</id>
-  <published>2023-01-10T22:16:19Z</published>
-  <updated>2023-01-10T22:16:19Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Arzamendiaariel: Discuss</title>
-  <author>
-   <name>Arzamendiaariel</name>
-  </author>
-  <link href="https://github.com/Arzamendiaariel/Discuss" />
-  <id>urn:rprimus:github:Arzamendiaariel:Discuss</id>
-  <published>2023-01-10T21:32:28Z</published>
-  <updated>2023-01-10T21:32:28Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>eddyraz: light_studio</title>
-  <author>
-   <name>eddyraz</name>
-  </author>
-  <link href="https://github.com/eddyraz/light_studio" />
-  <id>urn:rprimus:github:eddyraz:light_studio</id>
-  <published>2023-01-10T16:56:19Z</published>
-  <updated>2023-01-10T16:56:19Z</updated>
-  <content type="html">
-   Test elixir Phoenix app for learning
-  </content>
- </entry>
- <entry>
-  <title>rkenzhebekov: snake_game</title>
-  <author>
-   <name>rkenzhebekov</name>
-  </author>
-  <link href="https://github.com/rkenzhebekov/snake_game" />
-  <id>urn:rprimus:github:rkenzhebekov:snake_game</id>
-  <published>2023-01-10T16:53:06Z</published>
-  <updated>2023-01-10T16:53:06Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>andyl: mazex</title>
-  <author>
-   <name>andyl</name>
-  </author>
-  <link href="https://github.com/andyl/mazex" />
-  <id>urn:rprimus:github:andyl:mazex</id>
-  <published>2023-01-10T16:01:17Z</published>
-  <updated>2023-01-10T16:01:17Z</updated>
-  <content type="html">
-   Maze Elixir
-  </content>
- </entry>
- <entry>
-  <title>PragTob: minimal_cowboy_tester</title>
-  <author>
-   <name>PragTob</name>
-  </author>
-  <link href="https://github.com/PragTob/minimal_cowboy_tester" />
-  <id>urn:rprimus:github:PragTob:minimal_cowboy_tester</id>
-  <published>2023-01-10T15:31:44Z</published>
-  <updated>2023-01-10T15:31:44Z</updated>
-  <content type="html">
-   Another script to show client connection closing killing the process in cowboy (or its deps).
-  </content>
- </entry>
- <entry>
-  <title>gnanavardhani: elixir_sample-webpage</title>
-  <author>
-   <name>gnanavardhani</name>
-  </author>
-  <link href="https://github.com/gnanavardhani/elixir_sample-webpage" />
-  <id>urn:rprimus:github:gnanavardhani:elixir_sample-webpage</id>
-  <published>2023-01-10T15:22:42Z</published>
-  <updated>2023-01-10T15:22:42Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>dsdshcym: protohackers</title>
-  <author>
-   <name>dsdshcym</name>
-  </author>
-  <link href="https://github.com/dsdshcym/protohackers" />
-  <id>urn:rprimus:github:dsdshcym:protohackers</id>
-  <published>2023-01-10T15:00:47Z</published>
-  <updated>2023-01-10T15:00:47Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>r-lawrence: elixir_refactor</title>
-  <author>
-   <name>r-lawrence</name>
-  </author>
-  <link href="https://github.com/r-lawrence/elixir_refactor" />
-  <id>urn:rprimus:github:r-lawrence:elixir_refactor</id>
-  <published>2023-01-10T14:13:36Z</published>
-  <updated>2023-01-10T14:13:36Z</updated>
-  <content type="html">
-   refactor performed for job assessment
-  </content>
- </entry>
- <entry>
-  <title>MICHAELMUNAVU83: password_generator</title>
-  <author>
-   <name>MICHAELMUNAVU83</name>
-  </author>
-  <link href="https://github.com/MICHAELMUNAVU83/password_generator" />
-  <id>urn:rprimus:github:MICHAELMUNAVU83:password_generator</id>
-  <published>2023-01-10T11:54:27Z</published>
-  <updated>2023-01-10T11:54:27Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>bobstoic: hangman</title>
-  <author>
-   <name>bobstoic</name>
-  </author>
-  <link href="https://github.com/bobstoic/hangman" />
-  <id>urn:rprimus:github:bobstoic:hangman</id>
-  <published>2023-01-10T11:37:42Z</published>
-  <updated>2023-01-10T11:37:42Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>membraneframework: membrane_audio_filler_plugin</title>
-  <author>
-   <name>membraneframework</name>
-  </author>
-  <link href="https://github.com/membraneframework/membrane_audio_filler_plugin" />
-  <id>urn:rprimus:github:membraneframework:membrane_audio_filler_plugin</id>
-  <published>2023-01-10T11:17:57Z</published>
-  <updated>2023-01-10T11:17:57Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Anita219: stunning-fortnight</title>
-  <author>
-   <name>Anita219</name>
-  </author>
-  <link href="https://github.com/Anita219/stunning-fortnight" />
-  <id>urn:rprimus:github:Anita219:stunning-fortnight</id>
-  <published>2023-01-10T09:24:45Z</published>
-  <updated>2023-01-10T09:24:45Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>lukigarazus: elixir-hangman</title>
-  <author>
-   <name>lukigarazus</name>
-  </author>
-  <link href="https://github.com/lukigarazus/elixir-hangman" />
-  <id>urn:rprimus:github:lukigarazus:elixir-hangman</id>
-  <published>2023-01-10T09:11:59Z</published>
-  <updated>2023-01-10T09:11:59Z</updated>
-  <content type="html">
-   Code for Coding Gnome&#039;s Elixir course
-  </content>
- </entry>
- <entry>
-  <title>cozy-elixir: cozy_case</title>
-  <author>
-   <name>cozy-elixir</name>
-  </author>
-  <link href="https://github.com/cozy-elixir/cozy_case" />
-  <id>urn:rprimus:github:cozy-elixir:cozy_case</id>
-  <published>2023-01-10T08:45:46Z</published>
-  <updated>2023-01-10T08:45:46Z</updated>
-  <content type="html">
-   Convert data between common naming conventions, such as snake case, kebab case, camel case and pascal case.
-  </content>
- </entry>
- <entry>
-  <title>ExCommerce: ex_commerce</title>
-  <author>
-   <name>ExCommerce</name>
-  </author>
-  <link href="https://github.com/ExCommerce/ex_commerce" />
-  <id>urn:rprimus:github:ExCommerce:ex_commerce</id>
-  <published>2023-01-10T08:31:19Z</published>
-  <updated>2023-01-10T08:31:19Z</updated>
-  <content type="html">
-   An e-commerce site powered by Elixir and Phoenix Framework
-  </content>
- </entry>
- <entry>
-  <title>HannaMariaMagi: AgileExam2023</title>
-  <author>
-   <name>HannaMariaMagi</name>
-  </author>
-  <link href="https://github.com/HannaMariaMagi/AgileExam2023" />
-  <id>urn:rprimus:github:HannaMariaMagi:AgileExam2023</id>
-  <published>2023-01-10T07:33:55Z</published>
-  <updated>2023-01-10T07:33:55Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>akatch: wx</title>
-  <author>
-   <name>akatch</name>
-  </author>
-  <link href="https://github.com/akatch/wx" />
-  <id>urn:rprimus:github:akatch:wx</id>
-  <published>2023-01-10T04:15:03Z</published>
-  <updated>2023-01-10T04:15:03Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>someonewithdream: coins</title>
-  <author>
-   <name>someonewithdream</name>
-  </author>
-  <link href="https://github.com/someonewithdream/coins" />
-  <id>urn:rprimus:github:someonewithdream:coins</id>
-  <published>2023-01-10T04:02:22Z</published>
-  <updated>2023-01-10T04:02:22Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Auroville: chartJS</title>
-  <author>
-   <name>Auroville</name>
-  </author>
-  <link href="https://github.com/Auroville/chartJS" />
-  <id>urn:rprimus:github:Auroville:chartJS</id>
-  <published>2023-01-10T03:51:06Z</published>
-  <updated>2023-01-10T03:51:06Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>eqalbat: getting-started-elixir</title>
-  <author>
-   <name>eqalbat</name>
-  </author>
-  <link href="https://github.com/eqalbat/getting-started-elixir" />
-  <id>urn:rprimus:github:eqalbat:getting-started-elixir</id>
-  <published>2023-01-10T03:49:34Z</published>
-  <updated>2023-01-10T03:49:34Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>woleadetiba: elixir-rumbl</title>
-  <author>
-   <name>woleadetiba</name>
-  </author>
-  <link href="https://github.com/woleadetiba/elixir-rumbl" />
-  <id>urn:rprimus:github:woleadetiba:elixir-rumbl</id>
-  <published>2023-01-10T03:13:30Z</published>
-  <updated>2023-01-10T03:13:30Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>pedro-ivo-molina: slack_clone</title>
-  <author>
-   <name>pedro-ivo-molina</name>
-  </author>
-  <link href="https://github.com/pedro-ivo-molina/slack_clone" />
-  <id>urn:rprimus:github:pedro-ivo-molina:slack_clone</id>
-  <published>2023-01-10T01:45:39Z</published>
-  <updated>2023-01-10T01:45:39Z</updated>
-  <content type="html">
-   A phoenix based slack clone using tailwind css and other libs
-  </content>
- </entry>
- <entry>
-  <title>nosnaws: monitor</title>
-  <author>
-   <name>nosnaws</name>
-  </author>
-  <link href="https://github.com/nosnaws/monitor" />
-  <id>urn:rprimus:github:nosnaws:monitor</id>
-  <published>2023-01-10T00:26:03Z</published>
-  <updated>2023-01-10T00:26:03Z</updated>
   <content type="html">
    
   </content>
