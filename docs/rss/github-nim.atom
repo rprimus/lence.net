@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2023-01-13T09:05:41Z</updated>
+<updated>2023-01-14T07:13:05Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>diablo-lang: diablo-ast</title>
+  <author>
+   <name>diablo-lang</name>
+  </author>
+  <link href="https://github.com/diablo-lang/diablo-ast" />
+  <id>urn:rprimus:github:diablo-lang:diablo-ast</id>
+  <published>2023-01-14T07:13:05Z</published>
+  <updated>2023-01-14T07:13:05Z</updated>
+  <content type="html">
+   Diablo Tree-Walk Interpreter
+  </content>
+ </entry>
+ <entry>
+  <title>andreas-wilm: quad</title>
+  <author>
+   <name>andreas-wilm</name>
+  </author>
+  <link href="https://github.com/andreas-wilm/quad" />
+  <id>urn:rprimus:github:andreas-wilm:quad</id>
+  <published>2023-01-14T03:06:15Z</published>
+  <updated>2023-01-14T03:06:15Z</updated>
+  <content type="html">
+   Base quality mapping in BAM files
+  </content>
+ </entry>
+ <entry>
+  <title>4zv4l: mmap-payload</title>
+  <author>
+   <name>4zv4l</name>
+  </author>
+  <link href="https://github.com/4zv4l/mmap-payload" />
+  <id>urn:rprimus:github:4zv4l:mmap-payload</id>
+  <published>2023-01-13T16:32:55Z</published>
+  <updated>2023-01-13T16:32:55Z</updated>
+  <content type="html">
+   Nim program that allocate memory on the heap as executable and execute a payload inside
+  </content>
+ </entry>
+ <entry>
+  <title>JohnyDope: Discord-Malware</title>
+  <author>
+   <name>JohnyDope</name>
+  </author>
+  <link href="https://github.com/JohnyDope/Discord-Malware" />
+  <id>urn:rprimus:github:JohnyDope:Discord-Malware</id>
+  <published>2023-01-13T15:18:00Z</published>
+  <updated>2023-01-13T15:18:00Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>tanelso2: yanyl</title>
   <author>
@@ -119,71 +171,6 @@
   <updated>2023-01-12T00:05:14Z</updated>
   <content type="html">
    Makes using libcurl efficiently easy.
-  </content>
- </entry>
- <entry>
-  <title>777shuang: Lim</title>
-  <author>
-   <name>777shuang</name>
-  </author>
-  <link href="https://github.com/777shuang/Lim" />
-  <id>urn:rprimus:github:777shuang:Lim</id>
-  <published>2023-01-11T23:15:41Z</published>
-  <updated>2023-01-11T23:15:41Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>rajelcohen: nand2tetris</title>
-  <author>
-   <name>rajelcohen</name>
-  </author>
-  <link href="https://github.com/rajelcohen/nand2tetris" />
-  <id>urn:rprimus:github:rajelcohen:nand2tetris</id>
-  <published>2023-01-11T13:00:01Z</published>
-  <updated>2023-01-11T13:00:01Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ko-mill: NimCrypt</title>
-  <author>
-   <name>ko-mill</name>
-  </author>
-  <link href="https://github.com/ko-mill/NimCrypt" />
-  <id>urn:rprimus:github:ko-mill:NimCrypt</id>
-  <published>2023-01-11T02:13:27Z</published>
-  <updated>2023-01-11T02:13:27Z</updated>
-  <content type="html">
-   Beginner friendly implementation of @Jangko&#039;s nimAES library
-  </content>
- </entry>
- <entry>
-  <title>Yepoleb: nim-wintun</title>
-  <author>
-   <name>Yepoleb</name>
-  </author>
-  <link href="https://github.com/Yepoleb/nim-wintun" />
-  <id>urn:rprimus:github:Yepoleb:nim-wintun</id>
-  <published>2023-01-11T00:34:35Z</published>
-  <updated>2023-01-11T00:34:35Z</updated>
-  <content type="html">
-   Nim module for the Wintun TUN driver.
-  </content>
- </entry>
- <entry>
-  <title>Yepoleb: nim-linuxtun</title>
-  <author>
-   <name>Yepoleb</name>
-  </author>
-  <link href="https://github.com/Yepoleb/nim-linuxtun" />
-  <id>urn:rprimus:github:Yepoleb:nim-linuxtun</id>
-  <published>2023-01-11T00:32:50Z</published>
-  <updated>2023-01-11T00:32:50Z</updated>
-  <content type="html">
-   Nim module for Linux TUN devices
   </content>
  </entry>
 </feed>
