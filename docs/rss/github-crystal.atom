@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2023-01-13T20:30:03Z</updated>
+<updated>2023-01-14T23:24:59Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>UX-01: donut</title>
+  <author>
+   <name>UX-01</name>
+  </author>
+  <link href="https://github.com/UX-01/donut" />
+  <id>urn:rprimus:github:UX-01:donut</id>
+  <published>2023-01-14T23:24:59Z</published>
+  <updated>2023-01-14T23:24:59Z</updated>
+  <content type="html">
+   Crystal based utility for generating usable passwords
+  </content>
+ </entry>
+ <entry>
+  <title>bit4bit: bobo</title>
+  <author>
+   <name>bit4bit</name>
+  </author>
+  <link href="https://github.com/bit4bit/bobo" />
+  <id>urn:rprimus:github:bit4bit:bobo</id>
+  <published>2023-01-14T18:22:04Z</published>
+  <updated>2023-01-14T18:22:04Z</updated>
+  <content type="html">
+   mob programming support tool
+  </content>
+ </entry>
  <entry>
   <title>GSlagell: horseshoe</title>
   <author>
@@ -41,58 +67,6 @@
   <updated>2023-01-13T12:48:36Z</updated>
   <content type="html">
    PowerDNS pipe backend using Redis as a datastore
-  </content>
- </entry>
- <entry>
-  <title>juturnas: raw_http</title>
-  <author>
-   <name>juturnas</name>
-  </author>
-  <link href="https://github.com/juturnas/raw_http" />
-  <id>urn:rprimus:github:juturnas:raw_http</id>
-  <published>2023-01-12T20:05:08Z</published>
-  <updated>2023-01-12T20:05:08Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>oatmealine: gd-icon-renderer</title>
-  <author>
-   <name>oatmealine</name>
-  </author>
-  <link href="https://github.com/oatmealine/gd-icon-renderer" />
-  <id>urn:rprimus:github:oatmealine:gd-icon-renderer</id>
-  <published>2023-01-12T17:21:39Z</published>
-  <updated>2023-01-12T17:21:39Z</updated>
-  <content type="html">
-   A Crystal Geometry Dash icon renderer library
-  </content>
- </entry>
- <entry>
-  <title>phenopolis: thumbnailer</title>
-  <author>
-   <name>phenopolis</name>
-  </author>
-  <link href="https://github.com/phenopolis/thumbnailer" />
-  <id>urn:rprimus:github:phenopolis:thumbnailer</id>
-  <published>2023-01-12T09:34:03Z</published>
-  <updated>2023-01-12T09:34:03Z</updated>
-  <content type="html">
-   A simple CLI tool to create image thumbnails
-  </content>
- </entry>
- <entry>
-  <title>vushu: pratt_parser_bantam</title>
-  <author>
-   <name>vushu</name>
-  </author>
-  <link href="https://github.com/vushu/pratt_parser_bantam" />
-  <id>urn:rprimus:github:vushu:pratt_parser_bantam</id>
-  <published>2023-01-12T06:35:08Z</published>
-  <updated>2023-01-12T06:35:08Z</updated>
-  <content type="html">
-   Port of https://github.com/munificent/bantam
   </content>
  </entry>
 </feed>
