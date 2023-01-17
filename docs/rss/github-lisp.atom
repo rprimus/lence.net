@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2023-01-15T22:50:49Z</updated>
+<updated>2023-01-17T03:42:18Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>C-Teo: Data-Structures</title>
+  <author>
+   <name>C-Teo</name>
+  </author>
+  <link href="https://github.com/C-Teo/Data-Structures" />
+  <id>urn:rprimus:github:C-Teo:Data-Structures</id>
+  <published>2023-01-17T03:42:18Z</published>
+  <updated>2023-01-17T03:42:18Z</updated>
+  <content type="html">
+   This repository is for the labs I completed through my University Data Structures course. This course was taught in the LISP programming languages so all labs are coded as such. The theory and curriculum stays rather consistent with other Data Structure sources.
+  </content>
+ </entry>
+ <entry>
+  <title>l-o-l-h: Lisp-Data-Structures</title>
+  <author>
+   <name>l-o-l-h</name>
+  </author>
+  <link href="https://github.com/l-o-l-h/Lisp-Data-Structures" />
+  <id>urn:rprimus:github:l-o-l-h:Lisp-Data-Structures</id>
+  <published>2023-01-16T21:58:28Z</published>
+  <updated>2023-01-16T21:58:28Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>l-o-l-h: CL-Work</title>
+  <author>
+   <name>l-o-l-h</name>
+  </author>
+  <link href="https://github.com/l-o-l-h/CL-Work" />
+  <id>urn:rprimus:github:l-o-l-h:CL-Work</id>
+  <published>2023-01-16T20:16:08Z</published>
+  <updated>2023-01-16T20:16:08Z</updated>
+  <content type="html">
+   Common Lisp Work files repository
+  </content>
+ </entry>
+ <entry>
+  <title>andyvision001: Lisp-Covid-19-Diagnosis-Expert-System</title>
+  <author>
+   <name>andyvision001</name>
+  </author>
+  <link href="https://github.com/andyvision001/Lisp-Covid-19-Diagnosis-Expert-System" />
+  <id>urn:rprimus:github:andyvision001:Lisp-Covid-19-Diagnosis-Expert-System</id>
+  <published>2023-01-16T20:03:27Z</published>
+  <updated>2023-01-16T20:03:27Z</updated>
+  <content type="html">
+   This program is an implementation of Covid-19 diagnosis expert system. It contains some recursive macros and functions. 
+  </content>
+ </entry>
+ <entry>
+  <title>takeoverjp: lisp_sandbox</title>
+  <author>
+   <name>takeoverjp</name>
+  </author>
+  <link href="https://github.com/takeoverjp/lisp_sandbox" />
+  <id>urn:rprimus:github:takeoverjp:lisp_sandbox</id>
+  <published>2023-01-16T13:40:25Z</published>
+  <updated>2023-01-16T13:40:25Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>jg20019: hn</title>
   <author>
@@ -41,97 +106,6 @@
   <updated>2023-01-15T01:00:56Z</updated>
   <content type="html">
    An implementation of cat in Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>fskolodny: ebay</title>
-  <author>
-   <name>fskolodny</name>
-  </author>
-  <link href="https://github.com/fskolodny/ebay" />
-  <id>urn:rprimus:github:fskolodny:ebay</id>
-  <published>2023-01-14T23:32:27Z</published>
-  <updated>2023-01-14T23:32:27Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>MauDagos: advent-of-code-2022</title>
-  <author>
-   <name>MauDagos</name>
-  </author>
-  <link href="https://github.com/MauDagos/advent-of-code-2022" />
-  <id>urn:rprimus:github:MauDagos:advent-of-code-2022</id>
-  <published>2023-01-14T23:26:50Z</published>
-  <updated>2023-01-14T23:26:50Z</updated>
-  <content type="html">
-   My own solutions to Advent of Code 2022 https://adventofcode.com/2022
-  </content>
- </entry>
- <entry>
-  <title>cando-developers: topology</title>
-  <author>
-   <name>cando-developers</name>
-  </author>
-  <link href="https://github.com/cando-developers/topology" />
-  <id>urn:rprimus:github:cando-developers:topology</id>
-  <published>2023-01-14T20:53:13Z</published>
-  <updated>2023-01-14T20:53:13Z</updated>
-  <content type="html">
-   Build molecules from fragments
-  </content>
- </entry>
- <entry>
-  <title>lao8n: book_communicating_sequential_processes</title>
-  <author>
-   <name>lao8n</name>
-  </author>
-  <link href="https://github.com/lao8n/book_communicating_sequential_processes" />
-  <id>urn:rprimus:github:lao8n:book_communicating_sequential_processes</id>
-  <published>2023-01-14T20:01:33Z</published>
-  <updated>2023-01-14T20:01:33Z</updated>
-  <content type="html">
-   examples and exercises from hoare&#039;s communicating sequential processes
-  </content>
- </entry>
- <entry>
-  <title>larsen: my-quickproject-template</title>
-  <author>
-   <name>larsen</name>
-  </author>
-  <link href="https://github.com/larsen/my-quickproject-template" />
-  <id>urn:rprimus:github:larsen:my-quickproject-template</id>
-  <published>2023-01-14T09:18:22Z</published>
-  <updated>2023-01-14T09:18:22Z</updated>
-  <content type="html">
-   Personal default Quickproject template
-  </content>
- </entry>
- <entry>
-  <title>d0p1s4m4: Damona</title>
-  <author>
-   <name>d0p1s4m4</name>
-  </author>
-  <link href="https://github.com/d0p1s4m4/Damona" />
-  <id>urn:rprimus:github:d0p1s4m4:Damona</id>
-  <published>2023-01-14T08:13:40Z</published>
-  <updated>2023-01-14T08:13:40Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>MrJCraft: cl-nbt</title>
-  <author>
-   <name>MrJCraft</name>
-  </author>
-  <link href="https://github.com/MrJCraft/cl-nbt" />
-  <id>urn:rprimus:github:MrJCraft:cl-nbt</id>
-  <published>2023-01-14T00:47:08Z</published>
-  <updated>2023-01-14T00:47:08Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
