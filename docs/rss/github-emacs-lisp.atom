@@ -2,8 +2,112 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2023-01-18T10:37:01Z</updated>
+<updated>2023-01-19T08:26:55Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>sleepyeye: .emacs.d</title>
+  <author>
+   <name>sleepyeye</name>
+  </author>
+  <link href="https://github.com/sleepyeye/.emacs.d" />
+  <id>urn:rprimus:github:sleepyeye:.emacs.d</id>
+  <published>2023-01-19T08:26:55Z</published>
+  <updated>2023-01-19T08:26:55Z</updated>
+  <content type="html">
+   personal emacs setup
+  </content>
+ </entry>
+ <entry>
+  <title>proilline: init.el</title>
+  <author>
+   <name>proilline</name>
+  </author>
+  <link href="https://github.com/proilline/init.el" />
+  <id>urn:rprimus:github:proilline:init.el</id>
+  <published>2023-01-19T05:49:19Z</published>
+  <updated>2023-01-19T05:49:19Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>cullan: doom-elixir-ts-module</title>
+  <author>
+   <name>cullan</name>
+  </author>
+  <link href="https://github.com/cullan/doom-elixir-ts-module" />
+  <id>urn:rprimus:github:cullan:doom-elixir-ts-module</id>
+  <published>2023-01-19T02:07:01Z</published>
+  <updated>2023-01-19T02:07:01Z</updated>
+  <content type="html">
+   Doom Elixir module that uses emacs 29 treesit support
+  </content>
+ </entry>
+ <entry>
+  <title>ericrobolson: dot_files</title>
+  <author>
+   <name>ericrobolson</name>
+  </author>
+  <link href="https://github.com/ericrobolson/dot_files" />
+  <id>urn:rprimus:github:ericrobolson:dot_files</id>
+  <published>2023-01-19T01:10:43Z</published>
+  <updated>2023-01-19T01:10:43Z</updated>
+  <content type="html">
+   Collection of dot files that can be used at your root. E.g. emacs configuration.
+  </content>
+ </entry>
+ <entry>
+  <title>isaacos: emacs-config2</title>
+  <author>
+   <name>isaacos</name>
+  </author>
+  <link href="https://github.com/isaacos/emacs-config2" />
+  <id>urn:rprimus:github:isaacos:emacs-config2</id>
+  <published>2023-01-18T22:19:37Z</published>
+  <updated>2023-01-18T22:19:37Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>samraytian: emacs.d</title>
+  <author>
+   <name>samraytian</name>
+  </author>
+  <link href="https://github.com/samraytian/emacs.d" />
+  <id>urn:rprimus:github:samraytian:emacs.d</id>
+  <published>2023-01-18T20:58:26Z</published>
+  <updated>2023-01-18T20:58:26Z</updated>
+  <content type="html">
+   Samray&#039;s personal emacs configuration.
+  </content>
+ </entry>
+ <entry>
+  <title>Artawower: file-info.el</title>
+  <author>
+   <name>Artawower</name>
+  </author>
+  <link href="https://github.com/Artawower/file-info.el" />
+  <id>urn:rprimus:github:Artawower:file-info.el</id>
+  <published>2023-01-18T19:12:25Z</published>
+  <updated>2023-01-18T19:12:25Z</updated>
+  <content type="html">
+   All necessary information about current file in hydra + posframe
+  </content>
+ </entry>
+ <entry>
+  <title>vifon: fretboard.el</title>
+  <author>
+   <name>vifon</name>
+  </author>
+  <link href="https://github.com/vifon/fretboard.el" />
+  <id>urn:rprimus:github:vifon:fretboard.el</id>
+  <published>2023-01-18T18:42:24Z</published>
+  <updated>2023-01-18T18:42:24Z</updated>
+  <content type="html">
+   A guitar fretboard visualization in Emacs
+  </content>
+ </entry>
  <entry>
   <title>KarimAziev: fido-preview</title>
   <author>
@@ -28,6 +132,19 @@
   <updated>2023-01-18T09:54:13Z</updated>
   <content type="html">
    LaTeX previews everywhere in Emacs
+  </content>
+ </entry>
+ <entry>
+  <title>KarimAziev: minibuffer-auto</title>
+  <author>
+   <name>KarimAziev</name>
+  </author>
+  <link href="https://github.com/KarimAziev/minibuffer-auto" />
+  <id>urn:rprimus:github:KarimAziev:minibuffer-auto</id>
+  <published>2023-01-18T09:43:46Z</published>
+  <updated>2023-01-18T09:43:46Z</updated>
+  <content type="html">
+   Enhancers for default minibuffer functions
   </content>
  </entry>
  <entry>
@@ -119,6 +236,19 @@
   <updated>2023-01-18T00:48:19Z</updated>
   <content type="html">
    Doom Emacs config
+  </content>
+ </entry>
+ <entry>
+  <title>NapoleonWils0n: nixos-dotfiles</title>
+  <author>
+   <name>NapoleonWils0n</name>
+  </author>
+  <link href="https://github.com/NapoleonWils0n/nixos-dotfiles" />
+  <id>urn:rprimus:github:NapoleonWils0n:nixos-dotfiles</id>
+  <published>2023-01-17T21:38:31Z</published>
+  <updated>2023-01-17T21:38:31Z</updated>
+  <content type="html">
+   nixos dotfiles
   </content>
  </entry>
  <entry>
@@ -356,19 +486,6 @@
   </content>
  </entry>
  <entry>
-  <title>lravaglia: dotfiles</title>
-  <author>
-   <name>lravaglia</name>
-  </author>
-  <link href="https://github.com/lravaglia/dotfiles" />
-  <id>urn:rprimus:github:lravaglia:dotfiles</id>
-  <published>2023-01-17T13:36:25Z</published>
-  <updated>2023-01-17T13:36:25Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
   <title>Daiane-b: doom-files</title>
   <author>
    <name>Daiane-b</name>
@@ -434,6 +551,19 @@
   </content>
  </entry>
  <entry>
+  <title>k32: snabbkaffe-mode</title>
+  <author>
+   <name>k32</name>
+  </author>
+  <link href="https://github.com/k32/snabbkaffe-mode" />
+  <id>urn:rprimus:github:k32:snabbkaffe-mode</id>
+  <published>2023-01-17T10:19:36Z</published>
+  <updated>2023-01-17T10:19:36Z</updated>
+  <content type="html">
+   An interactive tool for filtering snabbkaffe logs
+  </content>
+ </entry>
+ <entry>
   <title>elektito: dot-doom-dot-d</title>
   <author>
    <name>elektito</name>
@@ -494,240 +624,6 @@
   <id>urn:rprimus:github:gilgameshone:emacs-config</id>
   <published>2023-01-17T06:16:13Z</published>
   <updated>2023-01-17T06:16:13Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>aaronjensen: evil-little-word</title>
-  <author>
-   <name>aaronjensen</name>
-  </author>
-  <link href="https://github.com/aaronjensen/evil-little-word" />
-  <id>urn:rprimus:github:aaronjensen:evil-little-word</id>
-  <published>2023-01-17T00:07:50Z</published>
-  <updated>2023-01-17T00:07:50Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>BenedictHW: ox-rss</title>
-  <author>
-   <name>BenedictHW</name>
-  </author>
-  <link href="https://github.com/BenedictHW/ox-rss" />
-  <id>urn:rprimus:github:BenedictHW:ox-rss</id>
-  <published>2023-01-16T21:50:17Z</published>
-  <updated>2023-01-16T21:50:17Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>emacsmirror: xeft</title>
-  <author>
-   <name>emacsmirror</name>
-  </author>
-  <link href="https://github.com/emacsmirror/xeft" />
-  <id>urn:rprimus:github:emacsmirror:xeft</id>
-  <published>2023-01-16T20:52:49Z</published>
-  <updated>2023-01-16T20:52:49Z</updated>
-  <content type="html">
-   Deft feat. Xapian
-  </content>
- </entry>
- <entry>
-  <title>emacsmirror: substitute</title>
-  <author>
-   <name>emacsmirror</name>
-  </author>
-  <link href="https://github.com/emacsmirror/substitute" />
-  <id>urn:rprimus:github:emacsmirror:substitute</id>
-  <published>2023-01-16T20:52:31Z</published>
-  <updated>2023-01-16T20:52:31Z</updated>
-  <content type="html">
-   Efficiently replace targets in the buffer or context
-  </content>
- </entry>
- <entry>
-  <title>drocha87: emacs</title>
-  <author>
-   <name>drocha87</name>
-  </author>
-  <link href="https://github.com/drocha87/emacs" />
-  <id>urn:rprimus:github:drocha87:emacs</id>
-  <published>2023-01-16T20:49:13Z</published>
-  <updated>2023-01-16T20:49:13Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Simon-Lin: inspire.el</title>
-  <author>
-   <name>Simon-Lin</name>
-  </author>
-  <link href="https://github.com/Simon-Lin/inspire.el" />
-  <id>urn:rprimus:github:Simon-Lin:inspire.el</id>
-  <published>2023-01-16T20:09:18Z</published>
-  <updated>2023-01-16T20:09:18Z</updated>
-  <content type="html">
-   Emacs interface for inspirehep.net
-  </content>
- </entry>
- <entry>
-  <title>nryotaro: mpc-binds</title>
-  <author>
-   <name>nryotaro</name>
-  </author>
-  <link href="https://github.com/nryotaro/mpc-binds" />
-  <id>urn:rprimus:github:nryotaro:mpc-binds</id>
-  <published>2023-01-16T17:27:32Z</published>
-  <updated>2023-01-16T17:27:32Z</updated>
-  <content type="html">
-   key bindings of mpc-modes
-  </content>
- </entry>
- <entry>
-  <title>swensong: swensong-emacs-config</title>
-  <author>
-   <name>swensong</name>
-  </author>
-  <link href="https://github.com/swensong/swensong-emacs-config" />
-  <id>urn:rprimus:github:swensong:swensong-emacs-config</id>
-  <published>2023-01-16T17:05:49Z</published>
-  <updated>2023-01-16T17:05:49Z</updated>
-  <content type="html">
-   emacs config
-  </content>
- </entry>
- <entry>
-  <title>sbuczkowski: emacs.d</title>
-  <author>
-   <name>sbuczkowski</name>
-  </author>
-  <link href="https://github.com/sbuczkowski/emacs.d" />
-  <id>urn:rprimus:github:sbuczkowski:emacs.d</id>
-  <published>2023-01-16T16:57:59Z</published>
-  <updated>2023-01-16T16:57:59Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>yuchunzhou: .emacs.d</title>
-  <author>
-   <name>yuchunzhou</name>
-  </author>
-  <link href="https://github.com/yuchunzhou/.emacs.d" />
-  <id>urn:rprimus:github:yuchunzhou:.emacs.d</id>
-  <published>2023-01-16T14:30:57Z</published>
-  <updated>2023-01-16T14:30:57Z</updated>
-  <content type="html">
-   My Emacs configuration
-  </content>
- </entry>
- <entry>
-  <title>yuchunzhou: stylua</title>
-  <author>
-   <name>yuchunzhou</name>
-  </author>
-  <link href="https://github.com/yuchunzhou/stylua" />
-  <id>urn:rprimus:github:yuchunzhou:stylua</id>
-  <published>2023-01-16T14:13:58Z</published>
-  <updated>2023-01-16T14:13:58Z</updated>
-  <content type="html">
-   Format Lua code in Emacs
-  </content>
- </entry>
- <entry>
-  <title>kephale: emacs-eat</title>
-  <author>
-   <name>kephale</name>
-  </author>
-  <link href="https://github.com/kephale/emacs-eat" />
-  <id>urn:rprimus:github:kephale:emacs-eat</id>
-  <published>2023-01-16T13:20:25Z</published>
-  <updated>2023-01-16T13:20:25Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jthorpe6: init.el</title>
-  <author>
-   <name>jthorpe6</name>
-  </author>
-  <link href="https://github.com/jthorpe6/init.el" />
-  <id>urn:rprimus:github:jthorpe6:init.el</id>
-  <published>2023-01-16T08:33:08Z</published>
-  <updated>2023-01-16T08:33:08Z</updated>
-  <content type="html">
-   emacs config
-  </content>
- </entry>
- <entry>
-  <title>Bhanukamax: emacs.d</title>
-  <author>
-   <name>Bhanukamax</name>
-  </author>
-  <link href="https://github.com/Bhanukamax/emacs.d" />
-  <id>urn:rprimus:github:Bhanukamax:emacs.d</id>
-  <published>2023-01-16T07:17:21Z</published>
-  <updated>2023-01-16T07:17:21Z</updated>
-  <content type="html">
-   Emacs configuration
-  </content>
- </entry>
- <entry>
-  <title>ivine: .doom.d</title>
-  <author>
-   <name>ivine</name>
-  </author>
-  <link href="https://github.com/ivine/.doom.d" />
-  <id>urn:rprimus:github:ivine:.doom.d</id>
-  <published>2023-01-16T02:23:52Z</published>
-  <updated>2023-01-16T02:23:52Z</updated>
-  <content type="html">
-   doom emacs
-  </content>
- </entry>
- <entry>
-  <title>JC0nde: .doom.d</title>
-  <author>
-   <name>JC0nde</name>
-  </author>
-  <link href="https://github.com/JC0nde/.doom.d" />
-  <id>urn:rprimus:github:JC0nde:.doom.d</id>
-  <published>2023-01-16T01:53:42Z</published>
-  <updated>2023-01-16T01:53:42Z</updated>
-  <content type="html">
-   My &quot;working&quot; doom emacs config
-  </content>
- </entry>
- <entry>
-  <title>haritkapadia: ts-movement</title>
-  <author>
-   <name>haritkapadia</name>
-  </author>
-  <link href="https://github.com/haritkapadia/ts-movement" />
-  <id>urn:rprimus:github:haritkapadia:ts-movement</id>
-  <published>2023-01-16T01:46:38Z</published>
-  <updated>2023-01-16T01:46:38Z</updated>
-  <content type="html">
-   Emacs 29+ minor mode for syntax tree navigation using Tree Sitter
-  </content>
- </entry>
- <entry>
-  <title>qdhaiqiang: .emacs.d</title>
-  <author>
-   <name>qdhaiqiang</name>
-  </author>
-  <link href="https://github.com/qdhaiqiang/.emacs.d" />
-  <id>urn:rprimus:github:qdhaiqiang:.emacs.d</id>
-  <published>2023-01-16T00:17:33Z</published>
-  <updated>2023-01-16T00:17:33Z</updated>
   <content type="html">
    
   </content>
