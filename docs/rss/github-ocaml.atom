@@ -2,8 +2,112 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2023-01-18T23:07:11Z</updated>
+<updated>2023-01-20T06:21:55Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>gridbugs: vendredi</title>
+  <author>
+   <name>gridbugs</name>
+  </author>
+  <link href="https://github.com/gridbugs/vendredi" />
+  <id>urn:rprimus:github:gridbugs:vendredi</id>
+  <published>2023-01-20T06:21:55Z</published>
+  <updated>2023-01-20T06:21:55Z</updated>
+  <content type="html">
+   Tool for generating dune projects which vendor given packages for the purpose of testing that their dependencies are vendor-friendly
+  </content>
+ </entry>
+ <entry>
+  <title>tanaythan: cryptopals</title>
+  <author>
+   <name>tanaythan</name>
+  </author>
+  <link href="https://github.com/tanaythan/cryptopals" />
+  <id>urn:rprimus:github:tanaythan:cryptopals</id>
+  <published>2023-01-20T05:37:46Z</published>
+  <updated>2023-01-20T05:37:46Z</updated>
+  <content type="html">
+   cryptopals solutions as a learning tool for OCaml.
+  </content>
+ </entry>
+ <entry>
+  <title>stschaef: ivy_semantics</title>
+  <author>
+   <name>stschaef</name>
+  </author>
+  <link href="https://github.com/stschaef/ivy_semantics" />
+  <id>urn:rprimus:github:stschaef:ivy_semantics</id>
+  <published>2023-01-20T01:12:41Z</published>
+  <updated>2023-01-20T01:12:41Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>samyhaff: Turtle</title>
+  <author>
+   <name>samyhaff</name>
+  </author>
+  <link href="https://github.com/samyhaff/Turtle" />
+  <id>urn:rprimus:github:samyhaff:Turtle</id>
+  <published>2023-01-19T20:48:01Z</published>
+  <updated>2023-01-19T20:48:01Z</updated>
+  <content type="html">
+   Coding a turtle graphics interpreter in OCamL
+  </content>
+ </entry>
+ <entry>
+  <title>johnyob: ppx-matches</title>
+  <author>
+   <name>johnyob</name>
+  </author>
+  <link href="https://github.com/johnyob/ppx-matches" />
+  <id>urn:rprimus:github:johnyob:ppx-matches</id>
+  <published>2023-01-19T20:44:19Z</published>
+  <updated>2023-01-19T20:44:19Z</updated>
+  <content type="html">
+   PPX syntax for Rust&#039;s `matches!` in OCaml ðª
+  </content>
+ </entry>
+ <entry>
+  <title>gargaranza: Pacman-revisit-</title>
+  <author>
+   <name>gargaranza</name>
+  </author>
+  <link href="https://github.com/gargaranza/Pacman-revisit-" />
+  <id>urn:rprimus:github:gargaranza:Pacman-revisit-</id>
+  <published>2023-01-19T18:57:58Z</published>
+  <updated>2023-01-19T18:57:58Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Armael: pixels</title>
+  <author>
+   <name>Armael</name>
+  </author>
+  <link href="https://github.com/Armael/pixels" />
+  <id>urn:rprimus:github:Armael:pixels</id>
+  <published>2023-01-19T18:01:03Z</published>
+  <updated>2023-01-19T18:01:03Z</updated>
+  <content type="html">
+   a shared pixel display controllable via UDP
+  </content>
+ </entry>
+ <entry>
+  <title>lambe-lang: mitch</title>
+  <author>
+   <name>lambe-lang</name>
+  </author>
+  <link href="https://github.com/lambe-lang/mitch" />
+  <id>urn:rprimus:github:lambe-lang:mitch</id>
+  <published>2023-01-19T07:17:12Z</published>
+  <updated>2023-01-19T07:17:12Z</updated>
+  <content type="html">
+   POC for compilation to Michelson
+  </content>
+ </entry>
  <entry>
   <title>michaelsjoeberg: ocaml-playground</title>
   <author>
@@ -122,6 +226,19 @@
   </content>
  </entry>
  <entry>
+  <title>deepali2806: Benchmarks</title>
+  <author>
+   <name>deepali2806</name>
+  </author>
+  <link href="https://github.com/deepali2806/Benchmarks" />
+  <id>urn:rprimus:github:deepali2806:Benchmarks</id>
+  <published>2023-01-18T17:02:36Z</published>
+  <updated>2023-01-18T17:02:36Z</updated>
+  <content type="html">
+   Benchmarks for unified interface
+  </content>
+ </entry>
+ <entry>
   <title>khemii: bootcamp_projects</title>
   <author>
    <name>khemii</name>
@@ -210,97 +327,6 @@
   <updated>2023-01-18T00:44:15Z</updated>
   <content type="html">
    Pure OCaml library for working with TIFF files
-  </content>
- </entry>
- <entry>
-  <title>samyhaff: interp</title>
-  <author>
-   <name>samyhaff</name>
-  </author>
-  <link href="https://github.com/samyhaff/interp" />
-  <id>urn:rprimus:github:samyhaff:interp</id>
-  <published>2023-01-17T21:32:22Z</published>
-  <updated>2023-01-17T21:32:22Z</updated>
-  <content type="html">
-   Writing a calculator in OCaml
-  </content>
- </entry>
- <entry>
-  <title>jwilk-archive: origami</title>
-  <author>
-   <name>jwilk-archive</name>
-  </author>
-  <link href="https://github.com/jwilk-archive/origami" />
-  <id>urn:rprimus:github:jwilk-archive:origami</id>
-  <published>2023-01-17T19:44:53Z</published>
-  <updated>2023-01-17T19:44:53Z</updated>
-  <content type="html">
-   silly paper folding
-  </content>
- </entry>
- <entry>
-  <title>hazaali2: Portfolium</title>
-  <author>
-   <name>hazaali2</name>
-  </author>
-  <link href="https://github.com/hazaali2/Portfolium" />
-  <id>urn:rprimus:github:hazaali2:Portfolium</id>
-  <published>2023-01-17T18:33:38Z</published>
-  <updated>2023-01-17T18:33:38Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>mooreryan: tiny_config</title>
-  <author>
-   <name>mooreryan</name>
-  </author>
-  <link href="https://github.com/mooreryan/tiny_config" />
-  <id>urn:rprimus:github:mooreryan:tiny_config</id>
-  <published>2023-01-17T18:18:40Z</published>
-  <updated>2023-01-17T18:18:40Z</updated>
-  <content type="html">
-   A tiny library for config file parsing
-  </content>
- </entry>
- <entry>
-  <title>luke36: QCaml</title>
-  <author>
-   <name>luke36</name>
-  </author>
-  <link href="https://github.com/luke36/QCaml" />
-  <id>urn:rprimus:github:luke36:QCaml</id>
-  <published>2023-01-17T16:23:55Z</published>
-  <updated>2023-01-17T16:23:55Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>edd255: mocaml</title>
-  <author>
-   <name>edd255</name>
-  </author>
-  <link href="https://github.com/edd255/mocaml" />
-  <id>urn:rprimus:github:edd255:mocaml</id>
-  <published>2023-01-17T16:00:35Z</published>
-  <updated>2023-01-17T16:00:35Z</updated>
-  <content type="html">
-   A Mini-OCaml interpreter.
-  </content>
- </entry>
- <entry>
-  <title>fusaty: Monitoring-tool-for-OS-attacks</title>
-  <author>
-   <name>fusaty</name>
-  </author>
-  <link href="https://github.com/fusaty/Monitoring-tool-for-OS-attacks" />
-  <id>urn:rprimus:github:fusaty:Monitoring-tool-for-OS-attacks</id>
-  <published>2023-01-17T15:05:18Z</published>
-  <updated>2023-01-17T15:05:18Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>

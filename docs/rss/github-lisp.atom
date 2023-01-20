@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2023-01-19T07:05:51Z</updated>
+<updated>2023-01-20T07:20:35Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>atakan: game-boards</title>
+  <author>
+   <name>atakan</name>
+  </author>
+  <link href="https://github.com/atakan/game-boards" />
+  <id>urn:rprimus:github:atakan:game-boards</id>
+  <published>2023-01-20T07:20:35Z</published>
+  <updated>2023-01-20T07:20:35Z</updated>
+  <content type="html">
+   Tools for making boards for games
+  </content>
+ </entry>
+ <entry>
+  <title>Uthar: solar-system</title>
+  <author>
+   <name>Uthar</name>
+  </author>
+  <link href="https://github.com/Uthar/solar-system" />
+  <id>urn:rprimus:github:Uthar:solar-system</id>
+  <published>2023-01-20T00:23:53Z</published>
+  <updated>2023-01-20T00:23:53Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>macnod: dc-trixie</title>
+  <author>
+   <name>macnod</name>
+  </author>
+  <link href="https://github.com/macnod/dc-trixie" />
+  <id>urn:rprimus:github:macnod:dc-trixie</id>
+  <published>2023-01-20T00:17:37Z</published>
+  <updated>2023-01-20T00:17:37Z</updated>
+  <content type="html">
+   Latest incarnation of Donnie&#039;s bad-ass artificial neural network experiment
+  </content>
+ </entry>
+ <entry>
+  <title>tmtvl: cl-kanren</title>
+  <author>
+   <name>tmtvl</name>
+  </author>
+  <link href="https://github.com/tmtvl/cl-kanren" />
+  <id>urn:rprimus:github:tmtvl:cl-kanren</id>
+  <published>2023-01-19T21:15:09Z</published>
+  <updated>2023-01-19T21:15:09Z</updated>
+  <content type="html">
+   WORK IN PROGRESS - DO NOT USE!!
+  </content>
+ </entry>
+ <entry>
+  <title>bigos: gir</title>
+  <author>
+   <name>bigos</name>
+  </author>
+  <link href="https://github.com/bigos/gir" />
+  <id>urn:rprimus:github:bigos:gir</id>
+  <published>2023-01-19T17:00:25Z</published>
+  <updated>2023-01-19T17:00:25Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>keeb: learning-lisp</title>
   <author>
@@ -67,110 +132,6 @@
   <updated>2023-01-18T03:42:26Z</updated>
   <content type="html">
    A tool for Emacs configuration setup
-  </content>
- </entry>
- <entry>
-  <title>LiamHowley: stw-sanitize</title>
-  <author>
-   <name>LiamHowley</name>
-  </author>
-  <link href="https://github.com/LiamHowley/stw-sanitize" />
-  <id>urn:rprimus:github:LiamHowley:stw-sanitize</id>
-  <published>2023-01-17T23:05:51Z</published>
-  <updated>2023-01-17T23:05:51Z</updated>
-  <content type="html">
-   A whitelisting library for sanitizing user input.
-  </content>
- </entry>
- <entry>
-  <title>GitHubUser5376: AutoLisp_Debugger</title>
-  <author>
-   <name>GitHubUser5376</name>
-  </author>
-  <link href="https://github.com/GitHubUser5376/AutoLisp_Debugger" />
-  <id>urn:rprimus:github:GitHubUser5376:AutoLisp_Debugger</id>
-  <published>2023-01-17T20:58:07Z</published>
-  <updated>2023-01-17T20:58:07Z</updated>
-  <content type="html">
-   This is a template method for printing issues in cad software while using AutoLisp.
-  </content>
- </entry>
- <entry>
-  <title>GitHubUser5376: AutoLisp_Find_Value</title>
-  <author>
-   <name>GitHubUser5376</name>
-  </author>
-  <link href="https://github.com/GitHubUser5376/AutoLisp_Find_Value" />
-  <id>urn:rprimus:github:GitHubUser5376:AutoLisp_Find_Value</id>
-  <published>2023-01-17T20:28:37Z</published>
-  <updated>2023-01-17T20:28:37Z</updated>
-  <content type="html">
-   If there&#039;s a value that you know your cad software has, but you don&#039;t know where to look, then this code will look through each VLA-OBJECT variable for all everything that matches it.
-  </content>
- </entry>
- <entry>
-  <title>imaltont: simple-cl-markov-chain</title>
-  <author>
-   <name>imaltont</name>
-  </author>
-  <link href="https://github.com/imaltont/simple-cl-markov-chain" />
-  <id>urn:rprimus:github:imaltont:simple-cl-markov-chain</id>
-  <published>2023-01-17T20:14:57Z</published>
-  <updated>2023-01-17T20:14:57Z</updated>
-  <content type="html">
-   Simple markov chain written in CL
-  </content>
- </entry>
- <entry>
-  <title>merry-mouse: 12in23</title>
-  <author>
-   <name>merry-mouse</name>
-  </author>
-  <link href="https://github.com/merry-mouse/12in23" />
-  <id>urn:rprimus:github:merry-mouse:12in23</id>
-  <published>2023-01-17T13:55:15Z</published>
-  <updated>2023-01-17T13:55:15Z</updated>
-  <content type="html">
-   My progress in #12in23 challenge by Exercism where the goal is to introduce yourself to 12 new languages during year 2023
-  </content>
- </entry>
- <entry>
-  <title>jonathanabennett: alphastrike</title>
-  <author>
-   <name>jonathanabennett</name>
-  </author>
-  <link href="https://github.com/jonathanabennett/alphastrike" />
-  <id>urn:rprimus:github:jonathanabennett:alphastrike</id>
-  <published>2023-01-17T13:19:30Z</published>
-  <updated>2023-01-17T13:19:30Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>owlantz: dotfiles</title>
-  <author>
-   <name>owlantz</name>
-  </author>
-  <link href="https://github.com/owlantz/dotfiles" />
-  <id>urn:rprimus:github:owlantz:dotfiles</id>
-  <published>2023-01-17T05:40:27Z</published>
-  <updated>2023-01-17T05:40:27Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>C-Teo: Data-Structures</title>
-  <author>
-   <name>C-Teo</name>
-  </author>
-  <link href="https://github.com/C-Teo/Data-Structures" />
-  <id>urn:rprimus:github:C-Teo:Data-Structures</id>
-  <published>2023-01-17T03:42:18Z</published>
-  <updated>2023-01-17T03:42:18Z</updated>
-  <content type="html">
-   This repository is for the labs I completed through my University Data Structures course. This course was taught in the LISP programming languages so all labs are coded as such. The theory and curriculum stays rather consistent with other Data Structure sources.
   </content>
  </entry>
 </feed>

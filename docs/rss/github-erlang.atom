@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-erlang.atom"/>
 <id>urn:rprimus:github:newerlangrepos</id>
-<updated>2023-01-18T23:54:58Z</updated>
+<updated>2023-01-19T20:12:47Z</updated>
 <title type='text'>New GitHub Erlang Repos</title>
+ <entry>
+  <title>nw14943: Learning-Erlang</title>
+  <author>
+   <name>nw14943</name>
+  </author>
+  <link href="https://github.com/nw14943/Learning-Erlang" />
+  <id>urn:rprimus:github:nw14943:Learning-Erlang</id>
+  <published>2023-01-19T20:12:47Z</published>
+  <updated>2023-01-19T20:12:47Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>fhunleth: see-experiments</title>
   <author>
@@ -44,6 +57,19 @@
   </content>
  </entry>
  <entry>
+  <title>rustkas: factorial</title>
+  <author>
+   <name>rustkas</name>
+  </author>
+  <link href="https://github.com/rustkas/factorial" />
+  <id>urn:rprimus:github:rustkas:factorial</id>
+  <published>2023-01-18T16:18:53Z</published>
+  <updated>2023-01-18T16:18:53Z</updated>
+  <content type="html">
+   Caclulate factorial using all machine Cores
+  </content>
+ </entry>
+ <entry>
   <title>raineduc: erlang_p2p_file_sharing</title>
   <author>
    <name>raineduc</name>
@@ -54,97 +80,6 @@
   <updated>2023-01-18T14:20:08Z</updated>
   <content type="html">
    Bittorrent-like protocol implementation on Erlang nodes
-  </content>
- </entry>
- <entry>
-  <title>philipcristiano: erlds</title>
-  <author>
-   <name>philipcristiano</name>
-  </author>
-  <link href="https://github.com/philipcristiano/erlds" />
-  <id>urn:rprimus:github:philipcristiano:erlds</id>
-  <published>2023-01-17T23:56:25Z</published>
-  <updated>2023-01-17T23:56:25Z</updated>
-  <content type="html">
-   Erlang wrapper for GCP Datastore
-  </content>
- </entry>
- <entry>
-  <title>cimpeanvasile: taskhandler</title>
-  <author>
-   <name>cimpeanvasile</name>
-  </author>
-  <link href="https://github.com/cimpeanvasile/taskhandler" />
-  <id>urn:rprimus:github:cimpeanvasile:taskhandler</id>
-  <published>2023-01-17T21:30:14Z</published>
-  <updated>2023-01-17T21:30:14Z</updated>
-  <content type="html">
-   A little demo Erlang project
-  </content>
- </entry>
- <entry>
-  <title>Farukest: minereferance</title>
-  <author>
-   <name>Farukest</name>
-  </author>
-  <link href="https://github.com/Farukest/minereferance" />
-  <id>urn:rprimus:github:Farukest:minereferance</id>
-  <published>2023-01-17T18:43:19Z</published>
-  <updated>2023-01-17T18:43:19Z</updated>
-  <content type="html">
-   minereferance
-  </content>
- </entry>
- <entry>
-  <title>lpil: pushover-error-logger</title>
-  <author>
-   <name>lpil</name>
-  </author>
-  <link href="https://github.com/lpil/pushover-error-logger" />
-  <id>urn:rprimus:github:lpil:pushover-error-logger</id>
-  <published>2023-01-17T13:31:35Z</published>
-  <updated>2023-01-17T13:31:35Z</updated>
-  <content type="html">
-   An Erlang/OTP logger handler that sends error logs to Pushover
-  </content>
- </entry>
- <entry>
-  <title>olegkozlov: tasks_queue</title>
-  <author>
-   <name>olegkozlov</name>
-  </author>
-  <link href="https://github.com/olegkozlov/tasks_queue" />
-  <id>urn:rprimus:github:olegkozlov:tasks_queue</id>
-  <published>2023-01-17T11:02:36Z</published>
-  <updated>2023-01-17T11:02:36Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>javiergarea: practicas_as</title>
-  <author>
-   <name>javiergarea</name>
-  </author>
-  <link href="https://github.com/javiergarea/practicas_as" />
-  <id>urn:rprimus:github:javiergarea:practicas_as</id>
-  <published>2023-01-17T10:51:07Z</published>
-  <updated>2023-01-17T10:51:07Z</updated>
-  <content type="html">
-   FORKED FROM https://bitbucket.org/cabrero/practicas-as
-  </content>
- </entry>
- <entry>
-  <title>bachlq01: divega_mqtt</title>
-  <author>
-   <name>bachlq01</name>
-  </author>
-  <link href="https://github.com/bachlq01/divega_mqtt" />
-  <id>urn:rprimus:github:bachlq01:divega_mqtt</id>
-  <published>2023-01-17T02:27:38Z</published>
-  <updated>2023-01-17T02:27:38Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
