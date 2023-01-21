@@ -2,8 +2,112 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2023-01-20T10:16:08Z</updated>
+<updated>2023-01-20T22:41:21Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>indigoviolet: org-colored-text</title>
+  <author>
+   <name>indigoviolet</name>
+  </author>
+  <link href="https://github.com/indigoviolet/org-colored-text" />
+  <id>urn:rprimus:github:indigoviolet:org-colored-text</id>
+  <published>2023-01-20T22:41:21Z</published>
+  <updated>2023-01-20T22:41:21Z</updated>
+  <content type="html">
+   org-colored-text
+  </content>
+ </entry>
+ <entry>
+  <title>MicahElliott: cider-transient</title>
+  <author>
+   <name>MicahElliott</name>
+  </author>
+  <link href="https://github.com/MicahElliott/cider-transient" />
+  <id>urn:rprimus:github:MicahElliott:cider-transient</id>
+  <published>2023-01-20T21:11:03Z</published>
+  <updated>2023-01-20T21:11:03Z</updated>
+  <content type="html">
+   Collect the most useful/common cider (and clojure) commands into a transient menu
+  </content>
+ </entry>
+ <entry>
+  <title>AutoAFK: EmacsConfig</title>
+  <author>
+   <name>AutoAFK</name>
+  </author>
+  <link href="https://github.com/AutoAFK/EmacsConfig" />
+  <id>urn:rprimus:github:AutoAFK:EmacsConfig</id>
+  <published>2023-01-20T19:03:17Z</published>
+  <updated>2023-01-20T19:03:17Z</updated>
+  <content type="html">
+   My emacs config
+  </content>
+ </entry>
+ <entry>
+  <title>fuzzycode: lang-mode</title>
+  <author>
+   <name>fuzzycode</name>
+  </author>
+  <link href="https://github.com/fuzzycode/lang-mode" />
+  <id>urn:rprimus:github:fuzzycode:lang-mode</id>
+  <published>2023-01-20T18:40:31Z</published>
+  <updated>2023-01-20T18:40:31Z</updated>
+  <content type="html">
+   An Emacs major-mode for editing Minecraft lang files
+  </content>
+ </entry>
+ <entry>
+  <title>BURISTUS: dotfiles</title>
+  <author>
+   <name>BURISTUS</name>
+  </author>
+  <link href="https://github.com/BURISTUS/dotfiles" />
+  <id>urn:rprimus:github:BURISTUS:dotfiles</id>
+  <published>2023-01-20T18:29:01Z</published>
+  <updated>2023-01-20T18:29:01Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Miloas: emacs-mac</title>
+  <author>
+   <name>Miloas</name>
+  </author>
+  <link href="https://github.com/Miloas/emacs-mac" />
+  <id>urn:rprimus:github:Miloas:emacs-mac</id>
+  <published>2023-01-20T12:04:53Z</published>
+  <updated>2023-01-20T12:04:53Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>dev-mkrause: blog</title>
+  <author>
+   <name>dev-mkrause</name>
+  </author>
+  <link href="https://github.com/dev-mkrause/blog" />
+  <id>urn:rprimus:github:dev-mkrause:blog</id>
+  <published>2023-01-20T11:40:24Z</published>
+  <updated>2023-01-20T11:40:24Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>CoderTT1123: .spacemacs.d</title>
+  <author>
+   <name>CoderTT1123</name>
+  </author>
+  <link href="https://github.com/CoderTT1123/.spacemacs.d" />
+  <id>urn:rprimus:github:CoderTT1123:.spacemacs.d</id>
+  <published>2023-01-20T10:32:14Z</published>
+  <updated>2023-01-20T10:32:14Z</updated>
+  <content type="html">
+   my spacemacs config
+  </content>
+ </entry>
  <entry>
   <title>xenodium: org-block-capf</title>
   <author>
@@ -278,12 +382,12 @@
   </content>
  </entry>
  <entry>
-  <title>cullan: doom-elixir-ts-module</title>
+  <title>cullan: doom-elixir-ts</title>
   <author>
    <name>cullan</name>
   </author>
-  <link href="https://github.com/cullan/doom-elixir-ts-module" />
-  <id>urn:rprimus:github:cullan:doom-elixir-ts-module</id>
+  <link href="https://github.com/cullan/doom-elixir-ts" />
+  <id>urn:rprimus:github:cullan:doom-elixir-ts</id>
   <published>2023-01-19T02:07:01Z</published>
   <updated>2023-01-19T02:07:01Z</updated>
   <content type="html">
@@ -301,201 +405,6 @@
   <updated>2023-01-19T01:10:43Z</updated>
   <content type="html">
    Collection of dot files that can be used at your root. E.g. emacs configuration.
-  </content>
- </entry>
- <entry>
-  <title>connorfeeley: kasa.el</title>
-  <author>
-   <name>connorfeeley</name>
-  </author>
-  <link href="https://github.com/connorfeeley/kasa.el" />
-  <id>urn:rprimus:github:connorfeeley:kasa.el</id>
-  <published>2023-01-18T23:24:03Z</published>
-  <updated>2023-01-18T23:24:03Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>isaacos: emacs-config2</title>
-  <author>
-   <name>isaacos</name>
-  </author>
-  <link href="https://github.com/isaacos/emacs-config2" />
-  <id>urn:rprimus:github:isaacos:emacs-config2</id>
-  <published>2023-01-18T22:19:37Z</published>
-  <updated>2023-01-18T22:19:37Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>samraytian: emacs.d</title>
-  <author>
-   <name>samraytian</name>
-  </author>
-  <link href="https://github.com/samraytian/emacs.d" />
-  <id>urn:rprimus:github:samraytian:emacs.d</id>
-  <published>2023-01-18T20:58:26Z</published>
-  <updated>2023-01-18T20:58:26Z</updated>
-  <content type="html">
-   Samray&#039;s personal emacs configuration.
-  </content>
- </entry>
- <entry>
-  <title>Artawower: file-info.el</title>
-  <author>
-   <name>Artawower</name>
-  </author>
-  <link href="https://github.com/Artawower/file-info.el" />
-  <id>urn:rprimus:github:Artawower:file-info.el</id>
-  <published>2023-01-18T19:12:25Z</published>
-  <updated>2023-01-18T19:12:25Z</updated>
-  <content type="html">
-   All necessary information about current file in hydra + posframe
-  </content>
- </entry>
- <entry>
-  <title>vifon: fretboard.el</title>
-  <author>
-   <name>vifon</name>
-  </author>
-  <link href="https://github.com/vifon/fretboard.el" />
-  <id>urn:rprimus:github:vifon:fretboard.el</id>
-  <published>2023-01-18T18:42:24Z</published>
-  <updated>2023-01-18T18:42:24Z</updated>
-  <content type="html">
-   A guitar fretboard visualization in Emacs
-  </content>
- </entry>
- <entry>
-  <title>KarimAziev: fido-preview</title>
-  <author>
-   <name>KarimAziev</name>
-  </author>
-  <link href="https://github.com/KarimAziev/fido-preview" />
-  <id>urn:rprimus:github:KarimAziev:fido-preview</id>
-  <published>2023-01-18T10:37:01Z</published>
-  <updated>2023-01-18T10:37:01Z</updated>
-  <content type="html">
-   File preview for fido.
-  </content>
- </entry>
- <entry>
-  <title>karthink: latex-preview</title>
-  <author>
-   <name>karthink</name>
-  </author>
-  <link href="https://github.com/karthink/latex-preview" />
-  <id>urn:rprimus:github:karthink:latex-preview</id>
-  <published>2023-01-18T09:54:13Z</published>
-  <updated>2023-01-18T09:54:13Z</updated>
-  <content type="html">
-   LaTeX previews everywhere in Emacs
-  </content>
- </entry>
- <entry>
-  <title>KarimAziev: minibuffer-auto</title>
-  <author>
-   <name>KarimAziev</name>
-  </author>
-  <link href="https://github.com/KarimAziev/minibuffer-auto" />
-  <id>urn:rprimus:github:KarimAziev:minibuffer-auto</id>
-  <published>2023-01-18T09:43:46Z</published>
-  <updated>2023-01-18T09:43:46Z</updated>
-  <content type="html">
-   Enhancers for default minibuffer functions
-  </content>
- </entry>
- <entry>
-  <title>bg117: dotfiles</title>
-  <author>
-   <name>bg117</name>
-  </author>
-  <link href="https://github.com/bg117/dotfiles" />
-  <id>urn:rprimus:github:bg117:dotfiles</id>
-  <published>2023-01-18T08:40:12Z</published>
-  <updated>2023-01-18T08:40:12Z</updated>
-  <content type="html">
-   my dotfiles
-  </content>
- </entry>
- <entry>
-  <title>ISouthRain: .doom.d</title>
-  <author>
-   <name>ISouthRain</name>
-  </author>
-  <link href="https://github.com/ISouthRain/.doom.d" />
-  <id>urn:rprimus:github:ISouthRain:.doom.d</id>
-  <published>2023-01-18T05:29:53Z</published>
-  <updated>2023-01-18T05:29:53Z</updated>
-  <content type="html">
-   My doom emacs config
-  </content>
- </entry>
- <entry>
-  <title>typesAreSpaces: .emacs-cs-357-config</title>
-  <author>
-   <name>typesAreSpaces</name>
-  </author>
-  <link href="https://github.com/typesAreSpaces/.emacs-cs-357-config" />
-  <id>urn:rprimus:github:typesAreSpaces:.emacs-cs-357-config</id>
-  <published>2023-01-18T02:18:27Z</published>
-  <updated>2023-01-18T02:18:27Z</updated>
-  <content type="html">
-   Template and example init files for CS 357
-  </content>
- </entry>
- <entry>
-  <title>YasuhiroABE: emacs.d</title>
-  <author>
-   <name>YasuhiroABE</name>
-  </author>
-  <link href="https://github.com/YasuhiroABE/emacs.d" />
-  <id>urn:rprimus:github:YasuhiroABE:emacs.d</id>
-  <published>2023-01-18T01:55:18Z</published>
-  <updated>2023-01-18T01:55:18Z</updated>
-  <content type="html">
-   My personal .emacs.d directory mirror.
-  </content>
- </entry>
- <entry>
-  <title>nc-bar: emacs.d</title>
-  <author>
-   <name>nc-bar</name>
-  </author>
-  <link href="https://github.com/nc-bar/emacs.d" />
-  <id>urn:rprimus:github:nc-bar:emacs.d</id>
-  <published>2023-01-18T01:02:59Z</published>
-  <updated>2023-01-18T01:02:59Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>DawsonJS: pythia</title>
-  <author>
-   <name>DawsonJS</name>
-  </author>
-  <link href="https://github.com/DawsonJS/pythia" />
-  <id>urn:rprimus:github:DawsonJS:pythia</id>
-  <published>2023-01-18T01:02:02Z</published>
-  <updated>2023-01-18T01:02:02Z</updated>
-  <content type="html">
-   my personal experimental emacs config
-  </content>
- </entry>
- <entry>
-  <title>mukor: doom-config</title>
-  <author>
-   <name>mukor</name>
-  </author>
-  <link href="https://github.com/mukor/doom-config" />
-  <id>urn:rprimus:github:mukor:doom-config</id>
-  <published>2023-01-18T00:48:19Z</published>
-  <updated>2023-01-18T00:48:19Z</updated>
-  <content type="html">
-   Doom Emacs config
   </content>
  </entry>
 </feed>
