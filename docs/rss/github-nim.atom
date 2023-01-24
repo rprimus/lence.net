@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2023-01-24T03:13:10Z</updated>
+<updated>2023-01-24T06:00:30Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>pysan3: Nim-Rotating-Cube</title>
+  <author>
+   <name>pysan3</name>
+  </author>
+  <link href="https://github.com/pysan3/Nim-Rotating-Cube" />
+  <id>urn:rprimus:github:pysan3:Nim-Rotating-Cube</id>
+  <published>2023-01-24T06:00:30Z</published>
+  <updated>2023-01-24T06:00:30Z</updated>
+  <content type="html">
+   A rotating cube written in nim language.
+  </content>
+ </entry>
  <entry>
   <title>ire4ever1190: ponairi</title>
   <author>
@@ -15,6 +28,19 @@
   <updated>2023-01-24T03:13:10Z</updated>
   <content type="html">
    SQLite ORM built for cruddy tasks
+  </content>
+ </entry>
+ <entry>
+  <title>termermc: nim-ffmpeg-cli</title>
+  <author>
+   <name>termermc</name>
+  </author>
+  <link href="https://github.com/termermc/nim-ffmpeg-cli" />
+  <id>urn:rprimus:github:termermc:nim-ffmpeg-cli</id>
+  <published>2023-01-24T02:55:16Z</published>
+  <updated>2023-01-24T02:55:16Z</updated>
+  <content type="html">
+   Nim library for interfacing with the FFmpeg CLI to start, observe and terminate encode jobs with an intuitive API
   </content>
  </entry>
  <entry>
