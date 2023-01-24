@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2023-01-23T10:23:04Z</updated>
+<updated>2023-01-23T20:07:38Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>nin93: talgene</title>
+  <author>
+   <name>nin93</name>
+  </author>
+  <link href="https://github.com/nin93/talgene" />
+  <id>urn:rprimus:github:nin93:talgene</id>
+  <published>2023-01-23T20:07:38Z</published>
+  <updated>2023-01-23T20:07:38Z</updated>
+  <content type="html">
+   Simple abstraction layer over genetic algorithms implementations
+  </content>
+ </entry>
+ <entry>
+  <title>MineBartekSA: async-http</title>
+  <author>
+   <name>MineBartekSA</name>
+  </author>
+  <link href="https://github.com/MineBartekSA/async-http" />
+  <id>urn:rprimus:github:MineBartekSA:async-http</id>
+  <published>2023-01-23T15:41:31Z</published>
+  <updated>2023-01-23T15:41:31Z</updated>
+  <content type="html">
+   Allows you to use HTTP::Client in concurrent fibers
+  </content>
+ </entry>
+ <entry>
+  <title>wout: cardano-cip08</title>
+  <author>
+   <name>wout</name>
+  </author>
+  <link href="https://github.com/wout/cardano-cip08" />
+  <id>urn:rprimus:github:wout:cardano-cip08</id>
+  <published>2023-01-23T11:56:55Z</published>
+  <updated>2023-01-23T11:56:55Z</updated>
+  <content type="html">
+   A Crystal implementation of CIP08 for wallet signature verification on Cardano.
+  </content>
+ </entry>
  <entry>
   <title>Odebe: crysnake</title>
   <author>

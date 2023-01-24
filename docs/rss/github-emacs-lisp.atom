@@ -2,19 +2,149 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2023-01-23T04:32:08Z</updated>
+<updated>2023-01-24T01:18:25Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
  <entry>
-  <title>toto-yousyo: dotfiles</title>
+  <title>sergueison: .emacs.d</title>
   <author>
-   <name>toto-yousyo</name>
+   <name>sergueison</name>
   </author>
-  <link href="https://github.com/toto-yousyo/dotfiles" />
-  <id>urn:rprimus:github:toto-yousyo:dotfiles</id>
-  <published>2023-01-23T04:32:08Z</published>
-  <updated>2023-01-23T04:32:08Z</updated>
+  <link href="https://github.com/sergueison/.emacs.d" />
+  <id>urn:rprimus:github:sergueison:.emacs.d</id>
+  <published>2023-01-24T01:18:25Z</published>
+  <updated>2023-01-24T01:18:25Z</updated>
   <content type="html">
-   dotofiles
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Zacalot: ykman-query</title>
+  <author>
+   <name>Zacalot</name>
+  </author>
+  <link href="https://github.com/Zacalot/ykman-query" />
+  <id>urn:rprimus:github:Zacalot:ykman-query</id>
+  <published>2023-01-24T00:55:38Z</published>
+  <updated>2023-01-24T00:55:38Z</updated>
+  <content type="html">
+   An Emacs package for copying OATH codes from a YubiKey.
+  </content>
+ </entry>
+ <entry>
+  <title>hacknightly: config</title>
+  <author>
+   <name>hacknightly</name>
+  </author>
+  <link href="https://github.com/hacknightly/config" />
+  <id>urn:rprimus:github:hacknightly:config</id>
+  <published>2023-01-23T20:57:49Z</published>
+  <updated>2023-01-23T20:57:49Z</updated>
+  <content type="html">
+   My config files
+  </content>
+ </entry>
+ <entry>
+  <title>floatfoo: dot-files</title>
+  <author>
+   <name>floatfoo</name>
+  </author>
+  <link href="https://github.com/floatfoo/dot-files" />
+  <id>urn:rprimus:github:floatfoo:dot-files</id>
+  <published>2023-01-23T20:06:26Z</published>
+  <updated>2023-01-23T20:06:26Z</updated>
+  <content type="html">
+   My linux dot files
+  </content>
+ </entry>
+ <entry>
+  <title>ProgKea: windows_config</title>
+  <author>
+   <name>ProgKea</name>
+  </author>
+  <link href="https://github.com/ProgKea/windows_config" />
+  <id>urn:rprimus:github:ProgKea:windows_config</id>
+  <published>2023-01-23T19:36:39Z</published>
+  <updated>2023-01-23T19:36:39Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>JackHunt: .doom.d</title>
+  <author>
+   <name>JackHunt</name>
+  </author>
+  <link href="https://github.com/JackHunt/.doom.d" />
+  <id>urn:rprimus:github:JackHunt:.doom.d</id>
+  <published>2023-01-23T19:12:17Z</published>
+  <updated>2023-01-23T19:12:17Z</updated>
+  <content type="html">
+   Doom Emacs config.
+  </content>
+ </entry>
+ <entry>
+  <title>dakra: org-mode</title>
+  <author>
+   <name>dakra</name>
+  </author>
+  <link href="https://github.com/dakra/org-mode" />
+  <id>urn:rprimus:github:dakra:org-mode</id>
+  <published>2023-01-23T18:20:28Z</published>
+  <updated>2023-01-23T18:20:28Z</updated>
+  <content type="html">
+   Personal mirror of GNU Emacs org-mode
+  </content>
+ </entry>
+ <entry>
+  <title>emacsmirror: protobuf-ts-mode</title>
+  <author>
+   <name>emacsmirror</name>
+  </author>
+  <link href="https://github.com/emacsmirror/protobuf-ts-mode" />
+  <id>urn:rprimus:github:emacsmirror:protobuf-ts-mode</id>
+  <published>2023-01-23T12:50:02Z</published>
+  <updated>2023-01-23T12:50:02Z</updated>
+  <content type="html">
+   Tree sitter support for Protocol Buffers (proto3 only)
+  </content>
+ </entry>
+ <entry>
+  <title>bbenne10: emacs_themes</title>
+  <author>
+   <name>bbenne10</name>
+  </author>
+  <link href="https://github.com/bbenne10/emacs_themes" />
+  <id>urn:rprimus:github:bbenne10:emacs_themes</id>
+  <published>2023-01-23T12:41:40Z</published>
+  <updated>2023-01-23T12:41:40Z</updated>
+  <content type="html">
+   Poor attempts at theming emacs
+  </content>
+ </entry>
+ <entry>
+  <title>samraytian: emacs.d</title>
+  <author>
+   <name>samraytian</name>
+  </author>
+  <link href="https://github.com/samraytian/emacs.d" />
+  <id>urn:rprimus:github:samraytian:emacs.d</id>
+  <published>2023-01-23T12:29:10Z</published>
+  <updated>2023-01-23T12:29:10Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>eval-exec: crazy-theme.el</title>
+  <author>
+   <name>eval-exec</name>
+  </author>
+  <link href="https://github.com/eval-exec/crazy-theme.el" />
+  <id>urn:rprimus:github:eval-exec:crazy-theme.el</id>
+  <published>2023-01-23T10:48:01Z</published>
+  <updated>2023-01-23T10:48:01Z</updated>
+  <content type="html">
+   A Crazy Emacs theme for crazy people, it will generate random colors everytime
   </content>
  </entry>
  <entry>
@@ -41,6 +171,19 @@
   <updated>2023-01-23T03:55:03Z</updated>
   <content type="html">
    My doom config
+  </content>
+ </entry>
+ <entry>
+  <title>emilyseville7cfg-better-tldr: syntax</title>
+  <author>
+   <name>emilyseville7cfg-better-tldr</name>
+  </author>
+  <link href="https://github.com/emilyseville7cfg-better-tldr/syntax" />
+  <id>urn:rprimus:github:emilyseville7cfg-better-tldr:syntax</id>
+  <published>2023-01-23T03:53:31Z</published>
+  <updated>2023-01-23T03:53:31Z</updated>
+  <content type="html">
+   Syntax highlighting for different editors.
   </content>
  </entry>
  <entry>
@@ -161,6 +304,19 @@
   </content>
  </entry>
  <entry>
+  <title>intermet: guix-config</title>
+  <author>
+   <name>intermet</name>
+  </author>
+  <link href="https://github.com/intermet/guix-config" />
+  <id>urn:rprimus:github:intermet:guix-config</id>
+  <published>2023-01-22T14:30:11Z</published>
+  <updated>2023-01-22T14:30:11Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
   <title>tomrss: emacs.d</title>
   <author>
    <name>tomrss</name>
@@ -223,110 +379,6 @@
   <updated>2023-01-22T02:16:30Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>dprandle: emacs_config</title>
-  <author>
-   <name>dprandle</name>
-  </author>
-  <link href="https://github.com/dprandle/emacs_config" />
-  <id>urn:rprimus:github:dprandle:emacs_config</id>
-  <published>2023-01-21T21:33:29Z</published>
-  <updated>2023-01-21T21:33:29Z</updated>
-  <content type="html">
-   Config files and other things related to emacs configuration
-  </content>
- </entry>
- <entry>
-  <title>Tdback: Tdback-Mint</title>
-  <author>
-   <name>Tdback</name>
-  </author>
-  <link href="https://github.com/Tdback/Tdback-Mint" />
-  <id>urn:rprimus:github:Tdback:Tdback-Mint</id>
-  <published>2023-01-21T21:08:30Z</published>
-  <updated>2023-01-21T21:08:30Z</updated>
-  <content type="html">
-   My current configuration using Linux Mint.
-  </content>
- </entry>
- <entry>
-  <title>dakra: babashka.el</title>
-  <author>
-   <name>dakra</name>
-  </author>
-  <link href="https://github.com/dakra/babashka.el" />
-  <id>urn:rprimus:github:dakra:babashka.el</id>
-  <published>2023-01-21T20:13:36Z</published>
-  <updated>2023-01-21T20:13:36Z</updated>
-  <content type="html">
-   Utilities for working with babashka
-  </content>
- </entry>
- <entry>
-  <title>or: ormail</title>
-  <author>
-   <name>or</name>
-  </author>
-  <link href="https://github.com/or/ormail" />
-  <id>urn:rprimus:github:or:ormail</id>
-  <published>2023-01-21T17:37:39Z</published>
-  <updated>2023-01-21T17:37:39Z</updated>
-  <content type="html">
-   Mail with notmuch, isync, msmtp, and emacs
-  </content>
- </entry>
- <entry>
-  <title>kaveeken: werkmacs</title>
-  <author>
-   <name>kaveeken</name>
-  </author>
-  <link href="https://github.com/kaveeken/werkmacs" />
-  <id>urn:rprimus:github:kaveeken:werkmacs</id>
-  <published>2023-01-21T17:24:07Z</published>
-  <updated>2023-01-21T17:24:07Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>cqo-git: dot_emacs</title>
-  <author>
-   <name>cqo-git</name>
-  </author>
-  <link href="https://github.com/cqo-git/dot_emacs" />
-  <id>urn:rprimus:github:cqo-git:dot_emacs</id>
-  <published>2023-01-21T16:56:46Z</published>
-  <updated>2023-01-21T16:56:46Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>hachetman: emacs.d</title>
-  <author>
-   <name>hachetman</name>
-  </author>
-  <link href="https://github.com/hachetman/emacs.d" />
-  <id>urn:rprimus:github:hachetman:emacs.d</id>
-  <published>2023-01-21T10:02:44Z</published>
-  <updated>2023-01-21T10:02:44Z</updated>
-  <content type="html">
-   Emacs configuration
-  </content>
- </entry>
- <entry>
-  <title>positron-solutions: champagne</title>
-  <author>
-   <name>positron-solutions</name>
-  </author>
-  <link href="https://github.com/positron-solutions/champagne" />
-  <id>urn:rprimus:github:positron-solutions:champagne</id>
-  <published>2023-01-21T07:24:48Z</published>
-  <updated>2023-01-21T07:24:48Z</updated>
-  <content type="html">
-   Countdown timer for bubbly events
   </content>
  </entry>
 </feed>
