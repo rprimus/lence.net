@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2023-01-28T04:29:29Z</updated>
+<updated>2023-01-29T02:36:03Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>harastw: simple-web</title>
+  <author>
+   <name>harastw</name>
+  </author>
+  <link href="https://github.com/harastw/simple-web" />
+  <id>urn:rprimus:github:harastw:simple-web</id>
+  <published>2023-01-29T02:36:03Z</published>
+  <updated>2023-01-29T02:36:03Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>kasimirmoilanen: byte-temple</title>
+  <author>
+   <name>kasimirmoilanen</name>
+  </author>
+  <link href="https://github.com/kasimirmoilanen/byte-temple" />
+  <id>urn:rprimus:github:kasimirmoilanen:byte-temple</id>
+  <published>2023-01-29T00:15:08Z</published>
+  <updated>2023-01-29T00:15:08Z</updated>
+  <content type="html">
+   Host files from the local storage, accessible through a HTML page. Written in Common Lisp.
+  </content>
+ </entry>
+ <entry>
+  <title>ormf: cl-jack-transport</title>
+  <author>
+   <name>ormf</name>
+  </author>
+  <link href="https://github.com/ormf/cl-jack-transport" />
+  <id>urn:rprimus:github:ormf:cl-jack-transport</id>
+  <published>2023-01-28T17:29:04Z</published>
+  <updated>2023-01-28T17:29:04Z</updated>
+  <content type="html">
+   jacktransport client for Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>philnik: gcode-snippets</title>
+  <author>
+   <name>philnik</name>
+  </author>
+  <link href="https://github.com/philnik/gcode-snippets" />
+  <id>urn:rprimus:github:philnik:gcode-snippets</id>
+  <published>2023-01-28T17:11:29Z</published>
+  <updated>2023-01-28T17:11:29Z</updated>
+  <content type="html">
+   gcode for trochoidal cutting of circles, helical drilling of point, perforated sheets etc
+  </content>
+ </entry>
  <entry>
   <title>t-tea-leaf: cl-my-utils</title>
   <author>
@@ -41,45 +93,6 @@
   <updated>2023-01-27T15:49:11Z</updated>
   <content type="html">
    Password crack display pattern in LISP.
-  </content>
- </entry>
- <entry>
-  <title>sivertjoe: todo</title>
-  <author>
-   <name>sivertjoe</name>
-  </author>
-  <link href="https://github.com/sivertjoe/todo" />
-  <id>urn:rprimus:github:sivertjoe:todo</id>
-  <published>2023-01-26T20:36:37Z</published>
-  <updated>2023-01-26T20:36:37Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>DavidDansel: LISP_CODES</title>
-  <author>
-   <name>DavidDansel</name>
-  </author>
-  <link href="https://github.com/DavidDansel/LISP_CODES" />
-  <id>urn:rprimus:github:DavidDansel:LISP_CODES</id>
-  <published>2023-01-26T13:21:45Z</published>
-  <updated>2023-01-26T13:21:45Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>tutorcs: Lisp-Problems</title>
-  <author>
-   <name>tutorcs</name>
-  </author>
-  <link href="https://github.com/tutorcs/Lisp-Problems" />
-  <id>urn:rprimus:github:tutorcs:Lisp-Problems</id>
-  <published>2023-01-26T08:38:40Z</published>
-  <updated>2023-01-26T08:38:40Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
