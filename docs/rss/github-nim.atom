@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2023-02-01T03:35:25Z</updated>
+<updated>2023-02-02T03:02:23Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>yuanweixin: tiger-land</title>
+  <author>
+   <name>yuanweixin</name>
+  </author>
+  <link href="https://github.com/yuanweixin/tiger-land" />
+  <id>urn:rprimus:github:yuanweixin:tiger-land</id>
+  <published>2023-02-02T03:02:23Z</published>
+  <updated>2023-02-02T03:02:23Z</updated>
+  <content type="html">
+   Implementation of the tiger language specified in Modern Compiler Implementation in ML, using the Nim language. 
+  </content>
+ </entry>
+ <entry>
+  <title>NiChrosia: alphableed</title>
+  <author>
+   <name>NiChrosia</name>
+  </author>
+  <link href="https://github.com/NiChrosia/alphableed" />
+  <id>urn:rprimus:github:NiChrosia:alphableed</id>
+  <published>2023-02-01T17:33:02Z</published>
+  <updated>2023-02-01T17:33:02Z</updated>
+  <content type="html">
+   Pure-nim implementation of alpha bleeding. 
+  </content>
+ </entry>
+ <entry>
+  <title>z-kk: colortest</title>
+  <author>
+   <name>z-kk</name>
+  </author>
+  <link href="https://github.com/z-kk/colortest" />
+  <id>urn:rprimus:github:z-kk:colortest</id>
+  <published>2023-02-01T13:05:57Z</published>
+  <updated>2023-02-01T13:05:57Z</updated>
+  <content type="html">
+   color test program by Nim
+  </content>
+ </entry>
  <entry>
   <title>crpr777: NimLoaders</title>
   <author>
@@ -80,110 +119,6 @@
   <updated>2023-01-31T02:55:34Z</updated>
   <content type="html">
    Nim frontend framework backed with Preact
-  </content>
- </entry>
- <entry>
-  <title>orgTestCodacy11KRepos110MB: repo-2809-faster-than-requests</title>
-  <author>
-   <name>orgTestCodacy11KRepos110MB</name>
-  </author>
-  <link href="https://github.com/orgTestCodacy11KRepos110MB/repo-2809-faster-than-requests" />
-  <id>urn:rprimus:github:orgTestCodacy11KRepos110MB:repo-2809-faster-than-requests</id>
-  <published>2023-01-30T19:55:55Z</published>
-  <updated>2023-01-30T19:55:55Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>benjaminheath238: YAPL</title>
-  <author>
-   <name>benjaminheath238</name>
-  </author>
-  <link href="https://github.com/benjaminheath238/YAPL" />
-  <id>urn:rprimus:github:benjaminheath238:YAPL</id>
-  <published>2023-01-30T18:36:20Z</published>
-  <updated>2023-01-30T18:36:20Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Swarchal: nim_crud</title>
-  <author>
-   <name>Swarchal</name>
-  </author>
-  <link href="https://github.com/Swarchal/nim_crud" />
-  <id>urn:rprimus:github:Swarchal:nim_crud</id>
-  <published>2023-01-30T18:25:40Z</published>
-  <updated>2023-01-30T18:25:40Z</updated>
-  <content type="html">
-   Minimal example of a CRUD app in nim
-  </content>
- </entry>
- <entry>
-  <title>openpeep: valido</title>
-  <author>
-   <name>openpeep</name>
-  </author>
-  <link href="https://github.com/openpeep/valido" />
-  <id>urn:rprimus:github:openpeep:valido</id>
-  <published>2023-01-30T12:45:47Z</published>
-  <updated>2023-01-30T12:45:47Z</updated>
-  <content type="html">
-   A library of string validators and sanitizers.
-  </content>
- </entry>
- <entry>
-  <title>lil-doudou: Proxmox_web_bruteforce</title>
-  <author>
-   <name>lil-doudou</name>
-  </author>
-  <link href="https://github.com/lil-doudou/Proxmox_web_bruteforce" />
-  <id>urn:rprimus:github:lil-doudou:Proxmox_web_bruteforce</id>
-  <published>2023-01-30T12:34:00Z</published>
-  <updated>2023-01-30T12:34:00Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ilmanzo: containertools</title>
-  <author>
-   <name>ilmanzo</name>
-  </author>
-  <link href="https://github.com/ilmanzo/containertools" />
-  <id>urn:rprimus:github:ilmanzo:containertools</id>
-  <published>2023-01-30T08:20:29Z</published>
-  <updated>2023-01-30T08:20:29Z</updated>
-  <content type="html">
-   a library and a DSL to handle container spec files
-  </content>
- </entry>
- <entry>
-  <title>patrick-skamarak: uf2lib</title>
-  <author>
-   <name>patrick-skamarak</name>
-  </author>
-  <link href="https://github.com/patrick-skamarak/uf2lib" />
-  <id>urn:rprimus:github:patrick-skamarak:uf2lib</id>
-  <published>2023-01-30T01:02:53Z</published>
-  <updated>2023-01-30T01:02:53Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>wokibe: primes</title>
-  <author>
-   <name>wokibe</name>
-  </author>
-  <link href="https://github.com/wokibe/primes" />
-  <id>urn:rprimus:github:wokibe:primes</id>
-  <published>2023-01-30T00:28:37Z</published>
-  <updated>2023-01-30T00:28:37Z</updated>
-  <content type="html">
-   Utilities for prime numbers
   </content>
  </entry>
 </feed>
