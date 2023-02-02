@@ -2,43 +2,95 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2023-02-02T01:38:14Z</updated>
+<updated>2023-02-02T09:49:07Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
  <entry>
-  <title>yejianfengblue: emacs-undo-fu-session</title>
+  <title>lsiksous: ox-chatgpt</title>
   <author>
-   <name>yejianfengblue</name>
+   <name>lsiksous</name>
   </author>
-  <link href="https://github.com/yejianfengblue/emacs-undo-fu-session" />
-  <id>urn:rprimus:github:yejianfengblue:emacs-undo-fu-session</id>
-  <published>2023-02-02T01:38:14Z</published>
-  <updated>2023-02-02T01:38:14Z</updated>
+  <link href="https://github.com/lsiksous/ox-chatgpt" />
+  <id>urn:rprimus:github:lsiksous:ox-chatgpt</id>
+  <published>2023-02-02T09:49:07Z</published>
+  <updated>2023-02-02T09:49:07Z</updated>
+  <content type="html">
+   org babel mode for openai api
+  </content>
+ </entry>
+ <entry>
+  <title>hoodiemoder: ...</title>
+  <author>
+   <name>hoodiemoder</name>
+  </author>
+  <link href="https://github.com/hoodiemoder/..." />
+  <id>urn:rprimus:github:hoodiemoder:...</id>
+  <published>2023-02-02T09:28:30Z</published>
+  <updated>2023-02-02T09:28:30Z</updated>
+  <content type="html">
+   dotfiles
+  </content>
+ </entry>
+ <entry>
+  <title>ifitzpat: ob-arq</title>
+  <author>
+   <name>ifitzpat</name>
+  </author>
+  <link href="https://github.com/ifitzpat/ob-arq" />
+  <id>urn:rprimus:github:ifitzpat:ob-arq</id>
+  <published>2023-02-02T09:18:38Z</published>
+  <updated>2023-02-02T09:18:38Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>yejianfengblue: emacs-undo-fu</title>
+  <title>dcunited001: .emacs.guix</title>
   <author>
-   <name>yejianfengblue</name>
+   <name>dcunited001</name>
   </author>
-  <link href="https://github.com/yejianfengblue/emacs-undo-fu" />
-  <id>urn:rprimus:github:yejianfengblue:emacs-undo-fu</id>
-  <published>2023-02-02T01:37:31Z</published>
-  <updated>2023-02-02T01:37:31Z</updated>
+  <link href="https://github.com/dcunited001/.emacs.guix" />
+  <id>urn:rprimus:github:dcunited001:.emacs.guix</id>
+  <published>2023-02-02T09:11:37Z</published>
+  <updated>2023-02-02T09:11:37Z</updated>
   <content type="html">
-   
+   A new emacs configuration that&#039;s guix-home friendly and hopefully more portable/manageable. From https://github.com/daviwil/dotfiles
   </content>
  </entry>
  <entry>
-  <title>yejianfengblue: shrink-path.el</title>
+  <title>devon-g: emacs</title>
   <author>
-   <name>yejianfengblue</name>
+   <name>devon-g</name>
   </author>
-  <link href="https://github.com/yejianfengblue/shrink-path.el" />
-  <id>urn:rprimus:github:yejianfengblue:shrink-path.el</id>
-  <published>2023-02-02T01:19:22Z</published>
-  <updated>2023-02-02T01:19:22Z</updated>
+  <link href="https://github.com/devon-g/emacs" />
+  <id>urn:rprimus:github:devon-g:emacs</id>
+  <published>2023-02-02T07:18:44Z</published>
+  <updated>2023-02-02T07:18:44Z</updated>
+  <content type="html">
+   My emacs config
+  </content>
+ </entry>
+ <entry>
+  <title>protesilaos: framed-buffers</title>
+  <author>
+   <name>protesilaos</name>
+  </author>
+  <link href="https://github.com/protesilaos/framed-buffers" />
+  <id>urn:rprimus:github:protesilaos:framed-buffers</id>
+  <published>2023-02-02T06:19:21Z</published>
+  <updated>2023-02-02T06:19:21Z</updated>
+  <content type="html">
+   Isolate Emacs buffers per frame WORK-IN-PROGRESS. 
+  </content>
+ </entry>
+ <entry>
+  <title>ThanosApollo: EXWM-Firefox-holyK</title>
+  <author>
+   <name>ThanosApollo</name>
+  </author>
+  <link href="https://github.com/ThanosApollo/EXWM-Firefox-holyK" />
+  <id>urn:rprimus:github:ThanosApollo:EXWM-Firefox-holyK</id>
+  <published>2023-02-02T04:27:40Z</published>
+  <updated>2023-02-02T04:27:40Z</updated>
   <content type="html">
    
   </content>
@@ -314,6 +366,19 @@
   <updated>2023-01-31T16:32:20Z</updated>
   <content type="html">
    
+  </content>
+ </entry>
+ <entry>
+  <title>mikepjb: texts</title>
+  <author>
+   <name>mikepjb</name>
+  </author>
+  <link href="https://github.com/mikepjb/texts" />
+  <id>urn:rprimus:github:mikepjb:texts</id>
+  <published>2023-01-31T15:42:09Z</published>
+  <updated>2023-01-31T15:42:09Z</updated>
+  <content type="html">
+   :book: configuration &amp; setup files for software development.
   </content>
  </entry>
  <entry>
