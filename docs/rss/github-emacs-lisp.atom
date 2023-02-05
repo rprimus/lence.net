@@ -2,8 +2,125 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2023-02-04T12:52:53Z</updated>
+<updated>2023-02-05T00:37:02Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>vdikan: org-roam-blog</title>
+  <author>
+   <name>vdikan</name>
+  </author>
+  <link href="https://github.com/vdikan/org-roam-blog" />
+  <id>urn:rprimus:github:vdikan:org-roam-blog</id>
+  <published>2023-02-05T00:37:02Z</published>
+  <updated>2023-02-05T00:37:02Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>khalidnadem: emacs</title>
+  <author>
+   <name>khalidnadem</name>
+  </author>
+  <link href="https://github.com/khalidnadem/emacs" />
+  <id>urn:rprimus:github:khalidnadem:emacs</id>
+  <published>2023-02-04T23:36:33Z</published>
+  <updated>2023-02-04T23:36:33Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>wmedrano: emacs-config</title>
+  <author>
+   <name>wmedrano</name>
+  </author>
+  <link href="https://github.com/wmedrano/emacs-config" />
+  <id>urn:rprimus:github:wmedrano:emacs-config</id>
+  <published>2023-02-04T22:46:17Z</published>
+  <updated>2023-02-04T22:46:17Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>DrAtomic: hl-wrapper</title>
+  <author>
+   <name>DrAtomic</name>
+  </author>
+  <link href="https://github.com/DrAtomic/hl-wrapper" />
+  <id>urn:rprimus:github:DrAtomic:hl-wrapper</id>
+  <published>2023-02-04T22:33:33Z</published>
+  <updated>2023-02-04T22:33:33Z</updated>
+  <content type="html">
+   wrapper for highlight.el
+  </content>
+ </entry>
+ <entry>
+  <title>Luladjiev: .emacs.d</title>
+  <author>
+   <name>Luladjiev</name>
+  </author>
+  <link href="https://github.com/Luladjiev/.emacs.d" />
+  <id>urn:rprimus:github:Luladjiev:.emacs.d</id>
+  <published>2023-02-04T20:32:14Z</published>
+  <updated>2023-02-04T20:32:14Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>wi11dey: auth-source-recfile</title>
+  <author>
+   <name>wi11dey</name>
+  </author>
+  <link href="https://github.com/wi11dey/auth-source-recfile" />
+  <id>urn:rprimus:github:wi11dey:auth-source-recfile</id>
+  <published>2023-02-04T17:58:34Z</published>
+  <updated>2023-02-04T17:58:34Z</updated>
+  <content type="html">
+   Emacs auth-source using (optionally encrypted) GNU Recfile databases
+  </content>
+ </entry>
+ <entry>
+  <title>wi11dey: E-Bus</title>
+  <author>
+   <name>wi11dey</name>
+  </author>
+  <link href="https://github.com/wi11dey/E-Bus" />
+  <id>urn:rprimus:github:wi11dey:E-Bus</id>
+  <published>2023-02-04T17:52:11Z</published>
+  <updated>2023-02-04T17:52:11Z</updated>
+  <content type="html">
+   D-Bus using only Emacs
+  </content>
+ </entry>
+ <entry>
+  <title>EricaLinaG: ericas-emacs</title>
+  <author>
+   <name>EricaLinaG</name>
+  </author>
+  <link href="https://github.com/EricaLinaG/ericas-emacs" />
+  <id>urn:rprimus:github:EricaLinaG:ericas-emacs</id>
+  <published>2023-02-04T17:29:30Z</published>
+  <updated>2023-02-04T17:29:30Z</updated>
+  <content type="html">
+   My emacs configuration
+  </content>
+ </entry>
+ <entry>
+  <title>ghomai: dotfiles</title>
+  <author>
+   <name>ghomai</name>
+  </author>
+  <link href="https://github.com/ghomai/dotfiles" />
+  <id>urn:rprimus:github:ghomai:dotfiles</id>
+  <published>2023-02-04T16:07:08Z</published>
+  <updated>2023-02-04T16:07:08Z</updated>
+  <content type="html">
+   My Configuration Files
+  </content>
+ </entry>
  <entry>
   <title>Kinneyzhang: zksummary</title>
   <author>
@@ -40,7 +157,7 @@
   <published>2023-02-04T11:28:59Z</published>
   <updated>2023-02-04T11:28:59Z</updated>
   <content type="html">
-   Tree-sitter support for Nushell
+   A major mode for editing Nushell code, powered by tree-sitter.
   </content>
  </entry>
  <entry>
@@ -353,162 +470,6 @@
   <updated>2023-02-03T01:29:35Z</updated>
   <content type="html">
    This repo contains my emacs configuration.
-  </content>
- </entry>
- <entry>
-  <title>jason0kenyon: gnu-emacs</title>
-  <author>
-   <name>jason0kenyon</name>
-  </author>
-  <link href="https://github.com/jason0kenyon/gnu-emacs" />
-  <id>urn:rprimus:github:jason0kenyon:gnu-emacs</id>
-  <published>2023-02-02T23:21:17Z</published>
-  <updated>2023-02-02T23:21:17Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>aabiji: dotfiles</title>
-  <author>
-   <name>aabiji</name>
-  </author>
-  <link href="https://github.com/aabiji/dotfiles" />
-  <id>urn:rprimus:github:aabiji:dotfiles</id>
-  <published>2023-02-02T22:04:04Z</published>
-  <updated>2023-02-02T22:04:04Z</updated>
-  <content type="html">
-   Some config files to make setting up a new environment streamlined
-  </content>
- </entry>
- <entry>
-  <title>GLYurek3: dot-doom-dot-d</title>
-  <author>
-   <name>GLYurek3</name>
-  </author>
-  <link href="https://github.com/GLYurek3/dot-doom-dot-d" />
-  <id>urn:rprimus:github:GLYurek3:dot-doom-dot-d</id>
-  <published>2023-02-02T19:29:41Z</published>
-  <updated>2023-02-02T19:29:41Z</updated>
-  <content type="html">
-   My literate config for doom emacs
-  </content>
- </entry>
- <entry>
-  <title>djang0reinhardt: .emacs.d</title>
-  <author>
-   <name>djang0reinhardt</name>
-  </author>
-  <link href="https://github.com/djang0reinhardt/.emacs.d" />
-  <id>urn:rprimus:github:djang0reinhardt:.emacs.d</id>
-  <published>2023-02-02T16:54:29Z</published>
-  <updated>2023-02-02T16:54:29Z</updated>
-  <content type="html">
-   emacs config
-  </content>
- </entry>
- <entry>
-  <title>roman-kashitsyn: flycheck-bazel</title>
-  <author>
-   <name>roman-kashitsyn</name>
-  </author>
-  <link href="https://github.com/roman-kashitsyn/flycheck-bazel" />
-  <id>urn:rprimus:github:roman-kashitsyn:flycheck-bazel</id>
-  <published>2023-02-02T16:24:05Z</published>
-  <updated>2023-02-02T16:24:05Z</updated>
-  <content type="html">
-   Flycheck + Bazel = â¤ï¸
-  </content>
- </entry>
- <entry>
-  <title>lsiksous: ox-chatgpt</title>
-  <author>
-   <name>lsiksous</name>
-  </author>
-  <link href="https://github.com/lsiksous/ox-chatgpt" />
-  <id>urn:rprimus:github:lsiksous:ox-chatgpt</id>
-  <published>2023-02-02T09:49:07Z</published>
-  <updated>2023-02-02T09:49:07Z</updated>
-  <content type="html">
-   org babel mode for openai api
-  </content>
- </entry>
- <entry>
-  <title>hoodiemoder: ...</title>
-  <author>
-   <name>hoodiemoder</name>
-  </author>
-  <link href="https://github.com/hoodiemoder/..." />
-  <id>urn:rprimus:github:hoodiemoder:...</id>
-  <published>2023-02-02T09:28:30Z</published>
-  <updated>2023-02-02T09:28:30Z</updated>
-  <content type="html">
-   dotfiles
-  </content>
- </entry>
- <entry>
-  <title>ifitzpat: ob-arq</title>
-  <author>
-   <name>ifitzpat</name>
-  </author>
-  <link href="https://github.com/ifitzpat/ob-arq" />
-  <id>urn:rprimus:github:ifitzpat:ob-arq</id>
-  <published>2023-02-02T09:18:38Z</published>
-  <updated>2023-02-02T09:18:38Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>dcunited001: .emacs.guix</title>
-  <author>
-   <name>dcunited001</name>
-  </author>
-  <link href="https://github.com/dcunited001/.emacs.guix" />
-  <id>urn:rprimus:github:dcunited001:.emacs.guix</id>
-  <published>2023-02-02T09:11:37Z</published>
-  <updated>2023-02-02T09:11:37Z</updated>
-  <content type="html">
-   A new emacs configuration that&#039;s guix-home friendly and hopefully more portable/manageable. From https://github.com/daviwil/dotfiles
-  </content>
- </entry>
- <entry>
-  <title>devon-g: emacs</title>
-  <author>
-   <name>devon-g</name>
-  </author>
-  <link href="https://github.com/devon-g/emacs" />
-  <id>urn:rprimus:github:devon-g:emacs</id>
-  <published>2023-02-02T07:18:44Z</published>
-  <updated>2023-02-02T07:18:44Z</updated>
-  <content type="html">
-   My emacs config
-  </content>
- </entry>
- <entry>
-  <title>protesilaos: framed-buffers</title>
-  <author>
-   <name>protesilaos</name>
-  </author>
-  <link href="https://github.com/protesilaos/framed-buffers" />
-  <id>urn:rprimus:github:protesilaos:framed-buffers</id>
-  <published>2023-02-02T06:19:21Z</published>
-  <updated>2023-02-02T06:19:21Z</updated>
-  <content type="html">
-   Isolate Emacs buffers per frame WORK-IN-PROGRESS. 
-  </content>
- </entry>
- <entry>
-  <title>ThanosApollo: exwm-firefox-holyk</title>
-  <author>
-   <name>ThanosApollo</name>
-  </author>
-  <link href="https://github.com/ThanosApollo/exwm-firefox-holyk" />
-  <id>urn:rprimus:github:ThanosApollo:exwm-firefox-holyk</id>
-  <published>2023-02-02T04:27:40Z</published>
-  <updated>2023-02-02T04:27:40Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
