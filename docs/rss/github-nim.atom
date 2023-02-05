@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2023-02-05T01:55:50Z</updated>
+<updated>2023-02-05T08:13:18Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>WeebNetsu: nim-learning-material</title>
+  <author>
+   <name>WeebNetsu</name>
+  </author>
+  <link href="https://github.com/WeebNetsu/nim-learning-material" />
+  <id>urn:rprimus:github:WeebNetsu:nim-learning-material</id>
+  <published>2023-02-05T08:13:18Z</published>
+  <updated>2023-02-05T08:13:18Z</updated>
+  <content type="html">
+   The learning material used for my Nim course
+  </content>
+ </entry>
+ <entry>
+  <title>momeemt: ffmpeg-mach-o-relocationer</title>
+  <author>
+   <name>momeemt</name>
+  </author>
+  <link href="https://github.com/momeemt/ffmpeg-mach-o-relocationer" />
+  <id>urn:rprimus:github:momeemt:ffmpeg-mach-o-relocationer</id>
+  <published>2023-02-05T06:08:24Z</published>
+  <updated>2023-02-05T06:08:24Z</updated>
+  <content type="html">
+   Homebrewã§ã¤ã³ã¹ãã¼ã«ããFFmpegé¢é£ã®åçã©ã¤ãã©ãªï¼*.dylibï¼ãåéç½®ãããã¼ã«
+  </content>
+ </entry>
  <entry>
   <title>iliketwertles: crimson-moon</title>
   <author>
@@ -27,7 +53,7 @@
   <published>2023-02-04T23:09:33Z</published>
   <updated>2023-02-04T23:09:33Z</updated>
   <content type="html">
-   A Forth dialect for audio generation
+   A Forth-like DSL for non-realtime audio synthesis
   </content>
  </entry>
  <entry>
