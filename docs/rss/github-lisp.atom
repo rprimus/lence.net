@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2023-02-05T08:56:45Z</updated>
+<updated>2023-02-06T02:19:06Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>Pitossomo: ScriptsAutoCAD</title>
+  <author>
+   <name>Pitossomo</name>
+  </author>
+  <link href="https://github.com/Pitossomo/ScriptsAutoCAD" />
+  <id>urn:rprimus:github:Pitossomo:ScriptsAutoCAD</id>
+  <published>2023-02-06T02:19:06Z</published>
+  <updated>2023-02-06T02:19:06Z</updated>
+  <content type="html">
+   ColetÃ¢nea de arquivos AutoLISP para uso no software AutoCAD
+  </content>
+ </entry>
+ <entry>
+  <title>40ants: 40ants-project-templates</title>
+  <author>
+   <name>40ants</name>
+  </author>
+  <link href="https://github.com/40ants/40ants-project-templates" />
+  <id>urn:rprimus:github:40ants:40ants-project-templates</id>
+  <published>2023-02-05T23:00:44Z</published>
+  <updated>2023-02-05T23:00:44Z</updated>
+  <content type="html">
+   A bunch of Mystic templates to create CL library, web-project, API microservice and CLI command.
+  </content>
+ </entry>
+ <entry>
+  <title>fatherShafiu: projectile_lisp</title>
+  <author>
+   <name>fatherShafiu</name>
+  </author>
+  <link href="https://github.com/fatherShafiu/projectile_lisp" />
+  <id>urn:rprimus:github:fatherShafiu:projectile_lisp</id>
+  <published>2023-02-05T22:54:31Z</published>
+  <updated>2023-02-05T22:54:31Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>carjorvaz: learning-lisp</title>
+  <author>
+   <name>carjorvaz</name>
+  </author>
+  <link href="https://github.com/carjorvaz/learning-lisp" />
+  <id>urn:rprimus:github:carjorvaz:learning-lisp</id>
+  <published>2023-02-05T21:16:32Z</published>
+  <updated>2023-02-05T21:16:32Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>philnik: fluidized_bed</title>
+  <author>
+   <name>philnik</name>
+  </author>
+  <link href="https://github.com/philnik/fluidized_bed" />
+  <id>urn:rprimus:github:philnik:fluidized_bed</id>
+  <published>2023-02-05T17:20:11Z</published>
+  <updated>2023-02-05T17:20:11Z</updated>
+  <content type="html">
+   fluidized_bed
+  </content>
+ </entry>
  <entry>
   <title>fbmnds: rx</title>
   <author>
@@ -119,71 +184,6 @@
   <updated>2023-02-04T01:22:07Z</updated>
   <content type="html">
    Common Lisp functions
-  </content>
- </entry>
- <entry>
-  <title>prxq2: clbleepblop</title>
-  <author>
-   <name>prxq2</name>
-  </author>
-  <link href="https://github.com/prxq2/clbleepblop" />
-  <id>urn:rprimus:github:prxq2:clbleepblop</id>
-  <published>2023-02-03T20:26:36Z</published>
-  <updated>2023-02-03T20:26:36Z</updated>
-  <content type="html">
-   Telegram Bot API for Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>joshroybal: simple-graphs-common-lisp</title>
-  <author>
-   <name>joshroybal</name>
-  </author>
-  <link href="https://github.com/joshroybal/simple-graphs-common-lisp" />
-  <id>urn:rprimus:github:joshroybal:simple-graphs-common-lisp</id>
-  <published>2023-02-03T12:56:19Z</published>
-  <updated>2023-02-03T12:56:19Z</updated>
-  <content type="html">
-   Basic simple graph creation using CL
-  </content>
- </entry>
- <entry>
-  <title>antonioRVR: Master_AI</title>
-  <author>
-   <name>antonioRVR</name>
-  </author>
-  <link href="https://github.com/antonioRVR/Master_AI" />
-  <id>urn:rprimus:github:antonioRVR:Master_AI</id>
-  <published>2023-02-03T11:47:21Z</published>
-  <updated>2023-02-03T11:47:21Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>hmxmilohax: greenday-rock-band-deluxe</title>
-  <author>
-   <name>hmxmilohax</name>
-  </author>
-  <link href="https://github.com/hmxmilohax/greenday-rock-band-deluxe" />
-  <id>urn:rprimus:github:hmxmilohax:greenday-rock-band-deluxe</id>
-  <published>2023-02-03T01:49:12Z</published>
-  <updated>2023-02-03T01:49:12Z</updated>
-  <content type="html">
-   WIP Project
-  </content>
- </entry>
- <entry>
-  <title>hmxmilohax: beatles-rock-band-deluxe</title>
-  <author>
-   <name>hmxmilohax</name>
-  </author>
-  <link href="https://github.com/hmxmilohax/beatles-rock-band-deluxe" />
-  <id>urn:rprimus:github:hmxmilohax:beatles-rock-band-deluxe</id>
-  <published>2023-02-03T00:59:03Z</published>
-  <updated>2023-02-03T00:59:03Z</updated>
-  <content type="html">
-   QoL enhancements and additions to The Beatles Rock Band
   </content>
  </entry>
 </feed>

@@ -2,8 +2,112 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2023-02-05T08:13:18Z</updated>
+<updated>2023-02-06T00:12:27Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>lewis262626: nocker</title>
+  <author>
+   <name>lewis262626</name>
+  </author>
+  <link href="https://github.com/lewis262626/nocker" />
+  <id>urn:rprimus:github:lewis262626:nocker</id>
+  <published>2023-02-06T00:12:27Z</published>
+  <updated>2023-02-06T00:12:27Z</updated>
+  <content type="html">
+   A Docker clone in Nim
+  </content>
+ </entry>
+ <entry>
+  <title>enthus1ast: fromSoup</title>
+  <author>
+   <name>enthus1ast</name>
+  </author>
+  <link href="https://github.com/enthus1ast/fromSoup" />
+  <id>urn:rprimus:github:enthus1ast:fromSoup</id>
+  <published>2023-02-05T23:10:10Z</published>
+  <updated>2023-02-05T23:10:10Z</updated>
+  <content type="html">
+   various parsers that extract information from text (soup)
+  </content>
+ </entry>
+ <entry>
+  <title>thatrandomperson5: Quill</title>
+  <author>
+   <name>thatrandomperson5</name>
+  </author>
+  <link href="https://github.com/thatrandomperson5/Quill" />
+  <id>urn:rprimus:github:thatrandomperson5:Quill</id>
+  <published>2023-02-05T22:54:59Z</published>
+  <updated>2023-02-05T22:54:59Z</updated>
+  <content type="html">
+   A nim js library for making text editors
+  </content>
+ </entry>
+ <entry>
+  <title>Nycto: bezier-nim</title>
+  <author>
+   <name>Nycto</name>
+  </author>
+  <link href="https://github.com/Nycto/bezier-nim" />
+  <id>urn:rprimus:github:Nycto:bezier-nim</id>
+  <published>2023-02-05T18:57:15Z</published>
+  <updated>2023-02-05T18:57:15Z</updated>
+  <content type="html">
+   Bezier curve tools for nim
+  </content>
+ </entry>
+ <entry>
+  <title>4zv4l: nhook</title>
+  <author>
+   <name>4zv4l</name>
+  </author>
+  <link href="https://github.com/4zv4l/nhook" />
+  <id>urn:rprimus:github:4zv4l:nhook</id>
+  <published>2023-02-05T18:31:01Z</published>
+  <updated>2023-02-05T18:31:01Z</updated>
+  <content type="html">
+   basic hooking example using Nim
+  </content>
+ </entry>
+ <entry>
+  <title>alexgustafson: nimclap</title>
+  <author>
+   <name>alexgustafson</name>
+  </author>
+  <link href="https://github.com/alexgustafson/nimclap" />
+  <id>urn:rprimus:github:alexgustafson:nimclap</id>
+  <published>2023-02-05T17:14:54Z</published>
+  <updated>2023-02-05T17:14:54Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Cramblioni: lamcal</title>
+  <author>
+   <name>Cramblioni</name>
+  </author>
+  <link href="https://github.com/Cramblioni/lamcal" />
+  <id>urn:rprimus:github:Cramblioni:lamcal</id>
+  <published>2023-02-05T13:08:57Z</published>
+  <updated>2023-02-05T13:08:57Z</updated>
+  <content type="html">
+   greedy lambda calculus solver
+  </content>
+ </entry>
+ <entry>
+  <title>aMOPel: nosey.nim</title>
+  <author>
+   <name>aMOPel</name>
+  </author>
+  <link href="https://github.com/aMOPel/nosey.nim" />
+  <id>urn:rprimus:github:aMOPel:nosey.nim</id>
+  <published>2023-02-05T09:48:03Z</published>
+  <updated>2023-02-05T09:48:03Z</updated>
+  <content type="html">
+   A minimal file watcher library, specialized on applying a state to a directory based on another directory.
+  </content>
+ </entry>
  <entry>
   <title>WeebNetsu: nim-learning-material</title>
   <author>
@@ -132,45 +236,6 @@
   <updated>2023-02-04T05:45:13Z</updated>
   <content type="html">
    Tiny neural network inference engine for TinyML written in Nim. Portable to custom accelerators.
-  </content>
- </entry>
- <entry>
-  <title>mildred: stalwart-gw</title>
-  <author>
-   <name>mildred</name>
-  </author>
-  <link href="https://github.com/mildred/stalwart-gw" />
-  <id>urn:rprimus:github:mildred:stalwart-gw</id>
-  <published>2023-02-03T21:42:30Z</published>
-  <updated>2023-02-03T21:42:30Z</updated>
-  <content type="html">
-   Gateway for stalwart accounts
-  </content>
- </entry>
- <entry>
-  <title>jmgomez: nimforue-examples</title>
-  <author>
-   <name>jmgomez</name>
-  </author>
-  <link href="https://github.com/jmgomez/nimforue-examples" />
-  <id>urn:rprimus:github:jmgomez:nimforue-examples</id>
-  <published>2023-02-03T15:06:30Z</published>
-  <updated>2023-02-03T15:06:30Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>uname-n: nim</title>
-  <author>
-   <name>uname-n</name>
-  </author>
-  <link href="https://github.com/uname-n/nim" />
-  <id>urn:rprimus:github:uname-n:nim</id>
-  <published>2023-02-03T06:00:29Z</published>
-  <updated>2023-02-03T06:00:29Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
