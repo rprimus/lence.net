@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2023-02-05T18:45:57Z</updated>
+<updated>2023-02-07T01:23:44Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>devnote-dev: pubgrub</title>
+  <author>
+   <name>devnote-dev</name>
+  </author>
+  <link href="https://github.com/devnote-dev/pubgrub" />
+  <id>urn:rprimus:github:devnote-dev:pubgrub</id>
+  <published>2023-02-07T01:23:44Z</published>
+  <updated>2023-02-07T01:23:44Z</updated>
+  <content type="html">
+   Pubgrub version resolution algorithm implemented in Crystal
+  </content>
+ </entry>
  <entry>
   <title>mdwagner: avery</title>
   <author>
@@ -15,6 +28,19 @@
   <updated>2023-02-05T18:45:57Z</updated>
   <content type="html">
    Asset Pipeline library for Crystal web applications
+  </content>
+ </entry>
+ <entry>
+  <title>kadalu: volgen</title>
+  <author>
+   <name>kadalu</name>
+  </author>
+  <link href="https://github.com/kadalu/volgen" />
+  <id>urn:rprimus:github:kadalu:volgen</id>
+  <published>2023-02-05T18:26:39Z</published>
+  <updated>2023-02-05T18:26:39Z</updated>
+  <content type="html">
+   Template based Kadalu Storage or GlusterFS Volfile generation
   </content>
  </entry>
  <entry>
@@ -41,45 +67,6 @@
   <updated>2023-02-05T03:15:39Z</updated>
   <content type="html">
    a library to validate data using schemas
-  </content>
- </entry>
- <entry>
-  <title>seanpm2001: Bliss_Browser_Crystal</title>
-  <author>
-   <name>seanpm2001</name>
-  </author>
-  <link href="https://github.com/seanpm2001/Bliss_Browser_Crystal" />
-  <id>urn:rprimus:github:seanpm2001:Bliss_Browser_Crystal</id>
-  <published>2023-02-04T21:46:50Z</published>
-  <updated>2023-02-04T21:46:50Z</updated>
-  <content type="html">
-   ð³ï¸ðï¸#ï¸â£ï¸ The Bliss Browser Crystal language support module, allowing Crystal programs to be written in and ran within the browser.
-  </content>
- </entry>
- <entry>
-  <title>Fulgurance: NetworkingSoftwares-Main</title>
-  <author>
-   <name>Fulgurance</name>
-  </author>
-  <link href="https://github.com/Fulgurance/NetworkingSoftwares-Main" />
-  <id>urn:rprimus:github:Fulgurance:NetworkingSoftwares-Main</id>
-  <published>2023-02-04T12:25:45Z</published>
-  <updated>2023-02-04T12:25:45Z</updated>
-  <content type="html">
-   NetworkingSoftwares-Main port for ISM.
-  </content>
- </entry>
- <entry>
-  <title>jkthorne: calendar</title>
-  <author>
-   <name>jkthorne</name>
-  </author>
-  <link href="https://github.com/jkthorne/calendar" />
-  <id>urn:rprimus:github:jkthorne:calendar</id>
-  <published>2023-02-04T04:47:56Z</published>
-  <updated>2023-02-04T04:47:56Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
