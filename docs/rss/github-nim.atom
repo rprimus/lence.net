@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2023-02-07T10:32:00Z</updated>
+<updated>2023-02-08T05:24:11Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>Bui-Christopher: dotfiles</title>
+  <author>
+   <name>Bui-Christopher</name>
+  </author>
+  <link href="https://github.com/Bui-Christopher/dotfiles" />
+  <id>urn:rprimus:github:Bui-Christopher:dotfiles</id>
+  <published>2023-02-08T05:24:11Z</published>
+  <updated>2023-02-08T05:24:11Z</updated>
+  <content type="html">
+   My personal config/dotfiles
+  </content>
+ </entry>
+ <entry>
+  <title>heysokam: nstd</title>
+  <author>
+   <name>heysokam</name>
+  </author>
+  <link href="https://github.com/heysokam/nstd" />
+  <id>urn:rprimus:github:heysokam:nstd</id>
+  <published>2023-02-08T02:00:48Z</published>
+  <updated>2023-02-08T02:00:48Z</updated>
+  <content type="html">
+   Nim Non-Standard stdlib Extensions
+  </content>
+ </entry>
+ <entry>
+  <title>the-argus: obsidian-tasks-ntfy</title>
+  <author>
+   <name>the-argus</name>
+  </author>
+  <link href="https://github.com/the-argus/obsidian-tasks-ntfy" />
+  <id>urn:rprimus:github:the-argus:obsidian-tasks-ntfy</id>
+  <published>2023-02-07T19:57:07Z</published>
+  <updated>2023-02-07T19:57:07Z</updated>
+  <content type="html">
+   A server which analyzes an obsidian vault and sends notifications to your devices based on TODOs. Uses the obsidian-tasks TODO format.
+  </content>
+ </entry>
+ <entry>
+  <title>samdze: spriterot</title>
+  <author>
+   <name>samdze</name>
+  </author>
+  <link href="https://github.com/samdze/spriterot" />
+  <id>urn:rprimus:github:samdze:spriterot</id>
+  <published>2023-02-07T17:46:36Z</published>
+  <updated>2023-02-07T17:46:36Z</updated>
+  <content type="html">
+   Command line utility to create spritesheets of rotated sprites.
+  </content>
+ </entry>
+ <entry>
+  <title>heysokam: nfx</title>
+  <author>
+   <name>heysokam</name>
+  </author>
+  <link href="https://github.com/heysokam/nfx" />
+  <id>urn:rprimus:github:heysokam:nfx</id>
+  <published>2023-02-07T11:25:23Z</published>
+  <updated>2023-02-07T11:25:23Z</updated>
+  <content type="html">
+   Deterministic Fixed Point math for Nim
+  </content>
+ </entry>
  <entry>
   <title>vandot: locert</title>
   <author>
@@ -80,136 +145,6 @@
   <updated>2023-02-06T00:12:27Z</updated>
   <content type="html">
    A Docker clone in Nim
-  </content>
- </entry>
- <entry>
-  <title>enthus1ast: fromSoup</title>
-  <author>
-   <name>enthus1ast</name>
-  </author>
-  <link href="https://github.com/enthus1ast/fromSoup" />
-  <id>urn:rprimus:github:enthus1ast:fromSoup</id>
-  <published>2023-02-05T23:10:10Z</published>
-  <updated>2023-02-05T23:10:10Z</updated>
-  <content type="html">
-   various parsers that extract information from text (soup)
-  </content>
- </entry>
- <entry>
-  <title>thatrandomperson5: Quill</title>
-  <author>
-   <name>thatrandomperson5</name>
-  </author>
-  <link href="https://github.com/thatrandomperson5/Quill" />
-  <id>urn:rprimus:github:thatrandomperson5:Quill</id>
-  <published>2023-02-05T22:54:59Z</published>
-  <updated>2023-02-05T22:54:59Z</updated>
-  <content type="html">
-   A nim js library for making text editors
-  </content>
- </entry>
- <entry>
-  <title>Nycto: bezier-nim</title>
-  <author>
-   <name>Nycto</name>
-  </author>
-  <link href="https://github.com/Nycto/bezier-nim" />
-  <id>urn:rprimus:github:Nycto:bezier-nim</id>
-  <published>2023-02-05T18:57:15Z</published>
-  <updated>2023-02-05T18:57:15Z</updated>
-  <content type="html">
-   Bezier curve tools for nim
-  </content>
- </entry>
- <entry>
-  <title>4zv4l: nhook</title>
-  <author>
-   <name>4zv4l</name>
-  </author>
-  <link href="https://github.com/4zv4l/nhook" />
-  <id>urn:rprimus:github:4zv4l:nhook</id>
-  <published>2023-02-05T18:31:01Z</published>
-  <updated>2023-02-05T18:31:01Z</updated>
-  <content type="html">
-   basic hooking example using Nim
-  </content>
- </entry>
- <entry>
-  <title>alexgustafson: nimclap</title>
-  <author>
-   <name>alexgustafson</name>
-  </author>
-  <link href="https://github.com/alexgustafson/nimclap" />
-  <id>urn:rprimus:github:alexgustafson:nimclap</id>
-  <published>2023-02-05T17:14:54Z</published>
-  <updated>2023-02-05T17:14:54Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Cramblioni: lamcal</title>
-  <author>
-   <name>Cramblioni</name>
-  </author>
-  <link href="https://github.com/Cramblioni/lamcal" />
-  <id>urn:rprimus:github:Cramblioni:lamcal</id>
-  <published>2023-02-05T13:08:57Z</published>
-  <updated>2023-02-05T13:08:57Z</updated>
-  <content type="html">
-   greedy lambda calculus solver
-  </content>
- </entry>
- <entry>
-  <title>aMOPel: nosey.nim</title>
-  <author>
-   <name>aMOPel</name>
-  </author>
-  <link href="https://github.com/aMOPel/nosey.nim" />
-  <id>urn:rprimus:github:aMOPel:nosey.nim</id>
-  <published>2023-02-05T09:48:03Z</published>
-  <updated>2023-02-05T09:48:03Z</updated>
-  <content type="html">
-   A minimal file watcher library, specialized on applying a state to a directory based on another directory.
-  </content>
- </entry>
- <entry>
-  <title>WeebNetsu: nim-learning-material</title>
-  <author>
-   <name>WeebNetsu</name>
-  </author>
-  <link href="https://github.com/WeebNetsu/nim-learning-material" />
-  <id>urn:rprimus:github:WeebNetsu:nim-learning-material</id>
-  <published>2023-02-05T08:13:18Z</published>
-  <updated>2023-02-05T08:13:18Z</updated>
-  <content type="html">
-   The learning material used for my Nim course
-  </content>
- </entry>
- <entry>
-  <title>momeemt: ffmpeg-mach-o-relocationer</title>
-  <author>
-   <name>momeemt</name>
-  </author>
-  <link href="https://github.com/momeemt/ffmpeg-mach-o-relocationer" />
-  <id>urn:rprimus:github:momeemt:ffmpeg-mach-o-relocationer</id>
-  <published>2023-02-05T06:08:24Z</published>
-  <updated>2023-02-05T06:08:24Z</updated>
-  <content type="html">
-   Homebrewã§ã¤ã³ã¹ãã¼ã«ããFFmpegé¢é£ã®åçã©ã¤ãã©ãªï¼*.dylibï¼ãåéç½®ãããã¼ã«
-  </content>
- </entry>
- <entry>
-  <title>iliketwertles: crimson-moon</title>
-  <author>
-   <name>iliketwertles</name>
-  </author>
-  <link href="https://github.com/iliketwertles/crimson-moon" />
-  <id>urn:rprimus:github:iliketwertles:crimson-moon</id>
-  <published>2023-02-05T01:55:50Z</published>
-  <updated>2023-02-05T01:55:50Z</updated>
-  <content type="html">
-   **WIP** chromeos modification tool
   </content>
  </entry>
 </feed>
