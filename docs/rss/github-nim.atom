@@ -2,19 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2023-02-08T05:24:11Z</updated>
+<updated>2023-02-09T09:31:41Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
  <entry>
-  <title>Bui-Christopher: dotfiles</title>
+  <title>z-kk: keyGenie</title>
   <author>
-   <name>Bui-Christopher</name>
+   <name>z-kk</name>
   </author>
-  <link href="https://github.com/Bui-Christopher/dotfiles" />
-  <id>urn:rprimus:github:Bui-Christopher:dotfiles</id>
-  <published>2023-02-08T05:24:11Z</published>
-  <updated>2023-02-08T05:24:11Z</updated>
+  <link href="https://github.com/z-kk/keyGenie" />
+  <id>urn:rprimus:github:z-kk:keyGenie</id>
+  <published>2023-02-09T09:31:41Z</published>
+  <updated>2023-02-09T09:31:41Z</updated>
   <content type="html">
-   My personal config/dotfiles
+   Handle strings through encryption.
+  </content>
+ </entry>
+ <entry>
+  <title>status-im: nim-kzg4844</title>
+  <author>
+   <name>status-im</name>
+  </author>
+  <link href="https://github.com/status-im/nim-kzg4844" />
+  <id>urn:rprimus:github:status-im:nim-kzg4844</id>
+  <published>2023-02-09T03:12:19Z</published>
+  <updated>2023-02-09T03:12:19Z</updated>
+  <content type="html">
+   c-kzg-4844 wrapper in Nim
+  </content>
+ </entry>
+ <entry>
+  <title>patrick-skamarak: elf2uf2</title>
+  <author>
+   <name>patrick-skamarak</name>
+  </author>
+  <link href="https://github.com/patrick-skamarak/elf2uf2" />
+  <id>urn:rprimus:github:patrick-skamarak:elf2uf2</id>
+  <published>2023-02-08T21:53:35Z</published>
+  <updated>2023-02-08T21:53:35Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>openpeep: bag</title>
+  <author>
+   <name>openpeep</name>
+  </author>
+  <link href="https://github.com/openpeep/bag" />
+  <id>urn:rprimus:github:openpeep:bag</id>
+  <published>2023-02-08T13:55:12Z</published>
+  <updated>2023-02-08T13:55:12Z</updated>
+  <content type="html">
+   Validate form input data in a fancy way. Written in Nim language
+  </content>
+ </entry>
+ <entry>
+  <title>planetis-m: app</title>
+  <author>
+   <name>planetis-m</name>
+  </author>
+  <link href="https://github.com/planetis-m/app" />
+  <id>urn:rprimus:github:planetis-m:app</id>
+  <published>2023-02-08T11:48:33Z</published>
+  <updated>2023-02-08T11:48:33Z</updated>
+  <content type="html">
+   
   </content>
  </entry>
  <entry>
@@ -93,58 +145,6 @@
   <updated>2023-02-07T03:29:27Z</updated>
   <content type="html">
    Geolocation Nimble module
-  </content>
- </entry>
- <entry>
-  <title>UnknownTravelers: Wh40kRoller</title>
-  <author>
-   <name>UnknownTravelers</name>
-  </author>
-  <link href="https://github.com/UnknownTravelers/Wh40kRoller" />
-  <id>urn:rprimus:github:UnknownTravelers:Wh40kRoller</id>
-  <published>2023-02-06T19:05:53Z</published>
-  <updated>2023-02-06T19:05:53Z</updated>
-  <content type="html">
-   App to roll dice for warhammer 40k
-  </content>
- </entry>
- <entry>
-  <title>barelyhuman: delif</title>
-  <author>
-   <name>barelyhuman</name>
-  </author>
-  <link href="https://github.com/barelyhuman/delif" />
-  <id>urn:rprimus:github:barelyhuman:delif</id>
-  <published>2023-02-06T12:18:37Z</published>
-  <updated>2023-02-06T12:18:37Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>nobodybusiness: SearchFiles</title>
-  <author>
-   <name>nobodybusiness</name>
-  </author>
-  <link href="https://github.com/nobodybusiness/SearchFiles" />
-  <id>urn:rprimus:github:nobodybusiness:SearchFiles</id>
-  <published>2023-02-06T04:49:20Z</published>
-  <updated>2023-02-06T04:49:20Z</updated>
-  <content type="html">
-   Simple Windows searching tool using cmd 
-  </content>
- </entry>
- <entry>
-  <title>lewis262626: nocker</title>
-  <author>
-   <name>lewis262626</name>
-  </author>
-  <link href="https://github.com/lewis262626/nocker" />
-  <id>urn:rprimus:github:lewis262626:nocker</id>
-  <published>2023-02-06T00:12:27Z</published>
-  <updated>2023-02-06T00:12:27Z</updated>
-  <content type="html">
-   A Docker clone in Nim
   </content>
  </entry>
 </feed>
