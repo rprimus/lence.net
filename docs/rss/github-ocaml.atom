@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2023-02-10T00:33:21Z</updated>
+<updated>2023-02-11T01:10:53Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>ProgramingIsTheFuture: TypedLisp</title>
+  <author>
+   <name>ProgramingIsTheFuture</name>
+  </author>
+  <link href="https://github.com/ProgramingIsTheFuture/TypedLisp" />
+  <id>urn:rprimus:github:ProgramingIsTheFuture:TypedLisp</id>
+  <published>2023-02-11T01:10:53Z</published>
+  <updated>2023-02-11T01:10:53Z</updated>
+  <content type="html">
+   Lisp but typed and it compiles to LLVM
+  </content>
+ </entry>
+ <entry>
+  <title>clef-men: parabstr</title>
+  <author>
+   <name>clef-men</name>
+  </author>
+  <link href="https://github.com/clef-men/parabstr" />
+  <id>urn:rprimus:github:clef-men:parabstr</id>
+  <published>2023-02-10T21:56:48Z</published>
+  <updated>2023-02-10T21:56:48Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>n-osborne: gospel-odoc-example</title>
+  <author>
+   <name>n-osborne</name>
+  </author>
+  <link href="https://github.com/n-osborne/gospel-odoc-example" />
+  <id>urn:rprimus:github:n-osborne:gospel-odoc-example</id>
+  <published>2023-02-10T17:22:12Z</published>
+  <updated>2023-02-10T17:22:12Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>coco33920: ocaml-while</title>
+  <author>
+   <name>coco33920</name>
+  </author>
+  <link href="https://github.com/coco33920/ocaml-while" />
+  <id>urn:rprimus:github:coco33920:ocaml-while</id>
+  <published>2023-02-10T11:05:17Z</published>
+  <updated>2023-02-10T11:05:17Z</updated>
+  <content type="html">
+   OCaml implementation of the While Programming Language (CAL UnivRennes L2 Info S4)
+  </content>
+ </entry>
+ <entry>
+  <title>AiglonDore: ackermann</title>
+  <author>
+   <name>AiglonDore</name>
+  </author>
+  <link href="https://github.com/AiglonDore/ackermann" />
+  <id>urn:rprimus:github:AiglonDore:ackermann</id>
+  <published>2023-02-10T09:29:55Z</published>
+  <updated>2023-02-10T09:29:55Z</updated>
+  <content type="html">
+   Computes the Ackermann function
+  </content>
+ </entry>
  <entry>
   <title>wendyln: Shogi</title>
   <author>
@@ -26,6 +91,19 @@
   <id>urn:rprimus:github:vburmus:Programing-Paradigms</id>
   <published>2023-02-09T23:25:21Z</published>
   <updated>2023-02-09T23:25:21Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>BranislavLazic: chessvalidator</title>
+  <author>
+   <name>BranislavLazic</name>
+  </author>
+  <link href="https://github.com/BranislavLazic/chessvalidator" />
+  <id>urn:rprimus:github:BranislavLazic:chessvalidator</id>
+  <published>2023-02-09T20:54:56Z</published>
+  <updated>2023-02-09T20:54:56Z</updated>
   <content type="html">
    
   </content>
@@ -70,6 +148,19 @@
   </content>
  </entry>
  <entry>
+  <title>OCamlPro: niagara-lang</title>
+  <author>
+   <name>OCamlPro</name>
+  </author>
+  <link href="https://github.com/OCamlPro/niagara-lang" />
+  <id>urn:rprimus:github:OCamlPro:niagara-lang</id>
+  <published>2023-02-09T15:57:23Z</published>
+  <updated>2023-02-09T15:57:23Z</updated>
+  <content type="html">
+   Compiler for the Niagara language
+  </content>
+ </entry>
+ <entry>
   <title>sws-lab: aktsp2023</title>
   <author>
    <name>sws-lab</name>
@@ -106,71 +197,6 @@
   <updated>2023-02-09T05:26:12Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>yadej: miniml</title>
-  <author>
-   <name>yadej</name>
-  </author>
-  <link href="https://github.com/yadej/miniml" />
-  <id>urn:rprimus:github:yadej:miniml</id>
-  <published>2023-02-08T18:22:28Z</published>
-  <updated>2023-02-08T18:22:28Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>georgejkaye: clearooms-app</title>
-  <author>
-   <name>georgejkaye</name>
-  </author>
-  <link href="https://github.com/georgejkaye/clearooms-app" />
-  <id>urn:rprimus:github:georgejkaye:clearooms-app</id>
-  <published>2023-02-08T17:24:07Z</published>
-  <updated>2023-02-08T17:24:07Z</updated>
-  <content type="html">
-   App for interacting with the Clearooms API
-  </content>
- </entry>
- <entry>
-  <title>GuilhermeTeixeira13: FiniteAutomataExecution</title>
-  <author>
-   <name>GuilhermeTeixeira13</name>
-  </author>
-  <link href="https://github.com/GuilhermeTeixeira13/FiniteAutomataExecution" />
-  <id>urn:rprimus:github:GuilhermeTeixeira13:FiniteAutomataExecution</id>
-  <published>2023-02-08T12:07:40Z</published>
-  <updated>2023-02-08T12:07:40Z</updated>
-  <content type="html">
-   Computer Theory challenge. Automata recognition analysis.
-  </content>
- </entry>
- <entry>
-  <title>GuilhermeTeixeira13: CYK</title>
-  <author>
-   <name>GuilhermeTeixeira13</name>
-  </author>
-  <link href="https://github.com/GuilhermeTeixeira13/CYK" />
-  <id>urn:rprimus:github:GuilhermeTeixeira13:CYK</id>
-  <published>2023-02-08T12:03:03Z</published>
-  <updated>2023-02-08T12:03:03Z</updated>
-  <content type="html">
-   Computer Theory challenge. CYK Algorithm in Python and Ocaml.
-  </content>
- </entry>
- <entry>
-  <title>solswe: find-hidden-word</title>
-  <author>
-   <name>solswe</name>
-  </author>
-  <link href="https://github.com/solswe/find-hidden-word" />
-  <id>urn:rprimus:github:solswe:find-hidden-word</id>
-  <published>2023-02-08T06:23:14Z</published>
-  <updated>2023-02-08T06:23:14Z</updated>
-  <content type="html">
-   Find word combinations from sample word banks using OCaml
   </content>
  </entry>
 </feed>

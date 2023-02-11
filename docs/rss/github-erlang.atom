@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-erlang.atom"/>
 <id>urn:rprimus:github:newerlangrepos</id>
-<updated>2023-02-10T07:55:10Z</updated>
+<updated>2023-02-11T03:40:38Z</updated>
 <title type='text'>New GitHub Erlang Repos</title>
+ <entry>
+  <title>ccagml: statistics_server</title>
+  <author>
+   <name>ccagml</name>
+  </author>
+  <link href="https://github.com/ccagml/statistics_server" />
+  <id>urn:rprimus:github:ccagml:statistics_server</id>
+  <published>2023-02-11T03:40:38Z</published>
+  <updated>2023-02-11T03:40:38Z</updated>
+  <content type="html">
+   http server for statistics
+  </content>
+ </entry>
+ <entry>
+  <title>hackerjones: lithium</title>
+  <author>
+   <name>hackerjones</name>
+  </author>
+  <link href="https://github.com/hackerjones/lithium" />
+  <id>urn:rprimus:github:hackerjones:lithium</id>
+  <published>2023-02-10T21:52:09Z</published>
+  <updated>2023-02-10T21:52:09Z</updated>
+  <content type="html">
+   Batteries for Erlang
+  </content>
+ </entry>
+ <entry>
+  <title>GurraBern: CChat</title>
+  <author>
+   <name>GurraBern</name>
+  </author>
+  <link href="https://github.com/GurraBern/CChat" />
+  <id>urn:rprimus:github:GurraBern:CChat</id>
+  <published>2023-02-10T11:27:46Z</published>
+  <updated>2023-02-10T11:27:46Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>abhavk: chitfund-math</title>
   <author>
@@ -28,6 +67,19 @@
   <updated>2023-02-09T21:07:51Z</updated>
   <content type="html">
    
+  </content>
+ </entry>
+ <entry>
+  <title>nuxy: netsock_ping_pong</title>
+  <author>
+   <name>nuxy</name>
+  </author>
+  <link href="https://github.com/nuxy/netsock_ping_pong" />
+  <id>urn:rprimus:github:nuxy:netsock_ping_pong</id>
+  <published>2023-02-09T20:51:52Z</published>
+  <updated>2023-02-09T20:51:52Z</updated>
+  <content type="html">
+   Ping Pong(ing) within a network using Erlang/OTP. :warning: In progress :warning:
   </content>
  </entry>
  <entry>
@@ -65,97 +117,6 @@
   <id>urn:rprimus:github:jhb1005:ESstydy</id>
   <published>2023-02-09T01:56:06Z</published>
   <updated>2023-02-09T01:56:06Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>emqx: emqx_ctl</title>
-  <author>
-   <name>emqx</name>
-  </author>
-  <link href="https://github.com/emqx/emqx_ctl" />
-  <id>urn:rprimus:github:emqx:emqx_ctl</id>
-  <published>2023-02-08T21:31:56Z</published>
-  <updated>2023-02-08T21:31:56Z</updated>
-  <content type="html">
-   CLI handler for EMQX
-  </content>
- </entry>
- <entry>
-  <title>cutestPumpkin: ErlangRoom</title>
-  <author>
-   <name>cutestPumpkin</name>
-  </author>
-  <link href="https://github.com/cutestPumpkin/ErlangRoom" />
-  <id>urn:rprimus:github:cutestPumpkin:ErlangRoom</id>
-  <published>2023-02-08T19:08:24Z</published>
-  <updated>2023-02-08T19:08:24Z</updated>
-  <content type="html">
-   erlang  ç®æå®ç¨èå¤©å®¤
-  </content>
- </entry>
- <entry>
-  <title>emqx: optvar</title>
-  <author>
-   <name>emqx</name>
-  </author>
-  <link href="https://github.com/emqx/optvar" />
-  <id>urn:rprimus:github:emqx:optvar</id>
-  <published>2023-02-08T11:37:09Z</published>
-  <updated>2023-02-08T11:37:09Z</updated>
-  <content type="html">
-   Fast condition variable primitive for Erlang
-  </content>
- </entry>
- <entry>
-  <title>tczy183: docker-compose</title>
-  <author>
-   <name>tczy183</name>
-  </author>
-  <link href="https://github.com/tczy183/docker-compose" />
-  <id>urn:rprimus:github:tczy183:docker-compose</id>
-  <published>2023-02-08T09:35:03Z</published>
-  <updated>2023-02-08T09:35:03Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jesperes: timetracker</title>
-  <author>
-   <name>jesperes</name>
-  </author>
-  <link href="https://github.com/jesperes/timetracker" />
-  <id>urn:rprimus:github:jesperes:timetracker</id>
-  <published>2023-02-08T07:27:48Z</published>
-  <updated>2023-02-08T07:27:48Z</updated>
-  <content type="html">
-   Simple automatic timetracker application in Erlang
-  </content>
- </entry>
- <entry>
-  <title>admin9966: mysql-emqx</title>
-  <author>
-   <name>admin9966</name>
-  </author>
-  <link href="https://github.com/admin9966/mysql-emqx" />
-  <id>urn:rprimus:github:admin9966:mysql-emqx</id>
-  <published>2023-02-08T01:26:19Z</published>
-  <updated>2023-02-08T01:26:19Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>admin9966: emqx-mysql</title>
-  <author>
-   <name>admin9966</name>
-  </author>
-  <link href="https://github.com/admin9966/emqx-mysql" />
-  <id>urn:rprimus:github:admin9966:emqx-mysql</id>
-  <published>2023-02-08T01:09:17Z</published>
-  <updated>2023-02-08T01:09:17Z</updated>
   <content type="html">
    
   </content>
