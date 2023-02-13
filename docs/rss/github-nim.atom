@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2023-02-12T09:45:21Z</updated>
+<updated>2023-02-12T17:33:21Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>eclairevoyant: pacclean</title>
+  <author>
+   <name>eclairevoyant</name>
+  </author>
+  <link href="https://github.com/eclairevoyant/pacclean" />
+  <id>urn:rprimus:github:eclairevoyant:pacclean</id>
+  <published>2023-02-12T17:33:21Z</published>
+  <updated>2023-02-12T17:33:21Z</updated>
+  <content type="html">
+   Identify duplicate Arch Linux packages in a given directory, similar to paccache
+  </content>
+ </entry>
+ <entry>
+  <title>filvyb: cunimnurse-bot</title>
+  <author>
+   <name>filvyb</name>
+  </author>
+  <link href="https://github.com/filvyb/cunimnurse-bot" />
+  <id>urn:rprimus:github:filvyb:cunimnurse-bot</id>
+  <published>2023-02-12T15:45:06Z</published>
+  <updated>2023-02-12T15:45:06Z</updated>
+  <content type="html">
+   Discord bot for 1LFCUNI written in Nim
+  </content>
+ </entry>
  <entry>
   <title>mode80: nimzbot</title>
   <author>
@@ -15,6 +41,19 @@
   <updated>2023-02-12T09:45:21Z</updated>
   <content type="html">
    a yahtzee bot written in Nim
+  </content>
+ </entry>
+ <entry>
+  <title>ringabout: fastnim</title>
+  <author>
+   <name>ringabout</name>
+  </author>
+  <link href="https://github.com/ringabout/fastnim" />
+  <id>urn:rprimus:github:ringabout:fastnim</id>
+  <published>2023-02-12T07:08:10Z</published>
+  <updated>2023-02-12T07:08:10Z</updated>
+  <content type="html">
+   A collection of ideas to make Nim and nimscript faster and a monitoring benchmark.
   </content>
  </entry>
  <entry>
@@ -106,84 +145,6 @@
   <updated>2023-02-11T05:23:31Z</updated>
   <content type="html">
    Anonymization toolkit 
-  </content>
- </entry>
- <entry>
-  <title>openpeep: iconim</title>
-  <author>
-   <name>openpeep</name>
-  </author>
-  <link href="https://github.com/openpeep/iconim" />
-  <id>urn:rprimus:github:openpeep:iconim</id>
-  <published>2023-02-10T23:13:37Z</published>
-  <updated>2023-02-10T23:13:37Z</updated>
-  <content type="html">
-   ð SVG Icon library manager for server-side rendering. ð Written in Nim language
-  </content>
- </entry>
- <entry>
-  <title>MichalMarsalek: kuboble-solver</title>
-  <author>
-   <name>MichalMarsalek</name>
-  </author>
-  <link href="https://github.com/MichalMarsalek/kuboble-solver" />
-  <id>urn:rprimus:github:MichalMarsalek:kuboble-solver</id>
-  <published>2023-02-10T18:52:21Z</published>
-  <updated>2023-02-10T18:52:21Z</updated>
-  <content type="html">
-   https://kuboble.com/
-  </content>
- </entry>
- <entry>
-  <title>choltreppe: unroll</title>
-  <author>
-   <name>choltreppe</name>
-  </author>
-  <link href="https://github.com/choltreppe/unroll" />
-  <id>urn:rprimus:github:choltreppe:unroll</id>
-  <published>2023-02-10T14:56:46Z</published>
-  <updated>2023-02-10T14:56:46Z</updated>
-  <content type="html">
-   unroll for-loops at compile-time in nim
-  </content>
- </entry>
- <entry>
-  <title>hamidb80: labeledtypes</title>
-  <author>
-   <name>hamidb80</name>
-  </author>
-  <link href="https://github.com/hamidb80/labeledtypes" />
-  <id>urn:rprimus:github:hamidb80:labeledtypes</id>
-  <published>2023-02-10T05:30:31Z</published>
-  <updated>2023-02-10T05:30:31Z</updated>
-  <content type="html">
-   label your types - a convention for self-documented and more readable code
-  </content>
- </entry>
- <entry>
-  <title>tstraus13: systool</title>
-  <author>
-   <name>tstraus13</name>
-  </author>
-  <link href="https://github.com/tstraus13/systool" />
-  <id>urn:rprimus:github:tstraus13:systool</id>
-  <published>2023-02-10T01:03:37Z</published>
-  <updated>2023-02-10T01:03:37Z</updated>
-  <content type="html">
-   A tool for doing common Linux system tasks but on any distro.
-  </content>
- </entry>
- <entry>
-  <title>ostanton: NimSimpleGuessingGame</title>
-  <author>
-   <name>ostanton</name>
-  </author>
-  <link href="https://github.com/ostanton/NimSimpleGuessingGame" />
-  <id>urn:rprimus:github:ostanton:NimSimpleGuessingGame</id>
-  <published>2023-02-10T00:56:53Z</published>
-  <updated>2023-02-10T00:56:53Z</updated>
-  <content type="html">
-   GUI-based simple guessing game made in Nim
   </content>
  </entry>
 </feed>
