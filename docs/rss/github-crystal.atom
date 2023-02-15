@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2023-02-13T20:08:21Z</updated>
+<updated>2023-02-15T08:45:48Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>LolsonX: ASDFGui</title>
+  <author>
+   <name>LolsonX</name>
+  </author>
+  <link href="https://github.com/LolsonX/ASDFGui" />
+  <id>urn:rprimus:github:LolsonX:ASDFGui</id>
+  <published>2023-02-15T08:45:48Z</published>
+  <updated>2023-02-15T08:45:48Z</updated>
+  <content type="html">
+   Simple (and incomplete) ASDF GUI
+  </content>
+ </entry>
+ <entry>
+  <title>gitb8: MicroBench_Crystal</title>
+  <author>
+   <name>gitb8</name>
+  </author>
+  <link href="https://github.com/gitb8/MicroBench_Crystal" />
+  <id>urn:rprimus:github:gitb8:MicroBench_Crystal</id>
+  <published>2023-02-14T22:33:01Z</published>
+  <updated>2023-02-14T22:33:01Z</updated>
+  <content type="html">
+   Command line application to test and compare the speed of two functions/implementations. Crystal version.
+  </content>
+ </entry>
+ <entry>
+  <title>fgouvea: darwin.cr</title>
+  <author>
+   <name>fgouvea</name>
+  </author>
+  <link href="https://github.com/fgouvea/darwin.cr" />
+  <id>urn:rprimus:github:fgouvea:darwin.cr</id>
+  <published>2023-02-14T16:02:46Z</published>
+  <updated>2023-02-14T16:02:46Z</updated>
+  <content type="html">
+   Genetic Algorithm library in Crystal
+  </content>
+ </entry>
  <entry>
   <title>hostari: pterodactyl_panel_client</title>
   <author>
@@ -28,19 +67,6 @@
   <updated>2023-02-13T14:51:14Z</updated>
   <content type="html">
    Security-Main port for ISM.
-  </content>
- </entry>
- <entry>
-  <title>taupiqueur: chrome-shell</title>
-  <author>
-   <name>taupiqueur</name>
-  </author>
-  <link href="https://github.com/taupiqueur/chrome-shell" />
-  <id>urn:rprimus:github:taupiqueur:chrome-shell</id>
-  <published>2023-02-12T20:41:42Z</published>
-  <updated>2023-02-12T20:41:42Z</updated>
-  <content type="html">
-   A native messaging host for executing shell commands.
   </content>
  </entry>
 </feed>

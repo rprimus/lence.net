@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2023-02-14T04:28:08Z</updated>
+<updated>2023-02-14T18:50:01Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>galdor: sbcl</title>
+  <author>
+   <name>galdor</name>
+  </author>
+  <link href="https://github.com/galdor/sbcl" />
+  <id>urn:rprimus:github:galdor:sbcl</id>
+  <published>2023-02-14T18:50:01Z</published>
+  <updated>2023-02-14T18:50:01Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>t-tea-leaf: .lem</title>
   <author>
@@ -223,110 +236,6 @@
   <updated>2023-02-13T01:34:24Z</updated>
   <content type="html">
    Autolisp å­¦ä¹ ï¼ä¸æççä»£ç 
-  </content>
- </entry>
- <entry>
-  <title>s-kro: aoc-2019</title>
-  <author>
-   <name>s-kro</name>
-  </author>
-  <link href="https://github.com/s-kro/aoc-2019" />
-  <id>urn:rprimus:github:s-kro:aoc-2019</id>
-  <published>2023-02-12T20:26:27Z</published>
-  <updated>2023-02-12T20:26:27Z</updated>
-  <content type="html">
-   Advent of Code 2019 in Lisp
-  </content>
- </entry>
- <entry>
-  <title>ApogeeConsultancy: aggregator</title>
-  <author>
-   <name>ApogeeConsultancy</name>
-  </author>
-  <link href="https://github.com/ApogeeConsultancy/aggregator" />
-  <id>urn:rprimus:github:ApogeeConsultancy:aggregator</id>
-  <published>2023-02-12T17:52:06Z</published>
-  <updated>2023-02-12T17:52:06Z</updated>
-  <content type="html">
-   CQRS/ES framework for Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>davidebarzio: MST-Prim-Lisp</title>
-  <author>
-   <name>davidebarzio</name>
-  </author>
-  <link href="https://github.com/davidebarzio/MST-Prim-Lisp" />
-  <id>urn:rprimus:github:davidebarzio:MST-Prim-Lisp</id>
-  <published>2023-02-12T16:41:40Z</published>
-  <updated>2023-02-12T16:41:40Z</updated>
-  <content type="html">
-   Lisp implementation of Prim alghoritm on non direct and connected graphs with non negative edges.
-  </content>
- </entry>
- <entry>
-  <title>DaniBoie: Lisp_Interpreter_Eval</title>
-  <author>
-   <name>DaniBoie</name>
-  </author>
-  <link href="https://github.com/DaniBoie/Lisp_Interpreter_Eval" />
-  <id>urn:rprimus:github:DaniBoie:Lisp_Interpreter_Eval</id>
-  <published>2023-02-12T16:38:56Z</published>
-  <updated>2023-02-12T16:38:56Z</updated>
-  <content type="html">
-   Implementation and Testing of a hand written eval function for a Lisp Interpreter
-  </content>
- </entry>
- <entry>
-  <title>Baalza: MST</title>
-  <author>
-   <name>Baalza</name>
-  </author>
-  <link href="https://github.com/Baalza/MST" />
-  <id>urn:rprimus:github:Baalza:MST</id>
-  <published>2023-02-12T15:58:05Z</published>
-  <updated>2023-02-12T15:58:05Z</updated>
-  <content type="html">
-   Progetto minimum spanning tree Lisp/Prolog
-  </content>
- </entry>
- <entry>
-  <title>yoshida2koji: swterm</title>
-  <author>
-   <name>yoshida2koji</name>
-  </author>
-  <link href="https://github.com/yoshida2koji/swterm" />
-  <id>urn:rprimus:github:yoshida2koji:swterm</id>
-  <published>2023-02-12T13:01:58Z</published>
-  <updated>2023-02-12T13:01:58Z</updated>
-  <content type="html">
-   Somewhat of terminal emulator
-  </content>
- </entry>
- <entry>
-  <title>alex4321: commonlisp-brainfuck</title>
-  <author>
-   <name>alex4321</name>
-  </author>
-  <link href="https://github.com/alex4321/commonlisp-brainfuck" />
-  <id>urn:rprimus:github:alex4321:commonlisp-brainfuck</id>
-  <published>2023-02-12T10:07:16Z</published>
-  <updated>2023-02-12T10:07:16Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>CirrusClouds: Tactile</title>
-  <author>
-   <name>CirrusClouds</name>
-  </author>
-  <link href="https://github.com/CirrusClouds/Tactile" />
-  <id>urn:rprimus:github:CirrusClouds:Tactile</id>
-  <published>2023-02-12T01:33:42Z</published>
-  <updated>2023-02-12T01:33:42Z</updated>
-  <content type="html">
-   Tacit programming combinators
   </content>
  </entry>
 </feed>
