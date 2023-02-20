@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2023-02-19T10:21:49Z</updated>
+<updated>2023-02-20T01:02:37Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>sammite: wireshark-wars</title>
+  <author>
+   <name>sammite</name>
+  </author>
+  <link href="https://github.com/sammite/wireshark-wars" />
+  <id>urn:rprimus:github:sammite:wireshark-wars</id>
+  <published>2023-02-20T01:02:37Z</published>
+  <updated>2023-02-20T01:02:37Z</updated>
+  <content type="html">
+   source code for presentation at city college of Chicago
+  </content>
+ </entry>
+ <entry>
+  <title>Yu-Vitaqua-fer-Chronos: Napkins</title>
+  <author>
+   <name>Yu-Vitaqua-fer-Chronos</name>
+  </author>
+  <link href="https://github.com/Yu-Vitaqua-fer-Chronos/Napkins" />
+  <id>urn:rprimus:github:Yu-Vitaqua-fer-Chronos:Napkins</id>
+  <published>2023-02-19T21:06:42Z</published>
+  <updated>2023-02-19T21:06:42Z</updated>
+  <content type="html">
+   Napkins is a library which has the goal to wrap Minecraft packets into Nim types!
+  </content>
+ </entry>
+ <entry>
+  <title>kamkow1: nd</title>
+  <author>
+   <name>kamkow1</name>
+  </author>
+  <link href="https://github.com/kamkow1/nd" />
+  <id>urn:rprimus:github:kamkow1:nd</id>
+  <published>2023-02-19T21:01:17Z</published>
+  <updated>2023-02-19T21:01:17Z</updated>
+  <content type="html">
+   nd - Nim eDitor
+  </content>
+ </entry>
+ <entry>
+  <title>nicoeinsidler: new-note</title>
+  <author>
+   <name>nicoeinsidler</name>
+  </author>
+  <link href="https://github.com/nicoeinsidler/new-note" />
+  <id>urn:rprimus:github:nicoeinsidler:new-note</id>
+  <published>2023-02-19T18:33:46Z</published>
+  <updated>2023-02-19T18:33:46Z</updated>
+  <content type="html">
+   New note (nn) quick note taking aid for quick generation of markdown files.
+  </content>
+ </entry>
+ <entry>
+  <title>Ecorous: packnim_gui</title>
+  <author>
+   <name>Ecorous</name>
+  </author>
+  <link href="https://github.com/Ecorous/packnim_gui" />
+  <id>urn:rprimus:github:Ecorous:packnim_gui</id>
+  <published>2023-02-19T13:55:26Z</published>
+  <updated>2023-02-19T13:55:26Z</updated>
+  <content type="html">
+   h
+  </content>
+ </entry>
  <entry>
   <title>sova-software: seve</title>
   <author>
@@ -15,19 +80,6 @@
   <updated>2023-02-19T10:21:49Z</updated>
   <content type="html">
    text editor
-  </content>
- </entry>
- <entry>
-  <title>SnowzNZ: EPUBFixer</title>
-  <author>
-   <name>SnowzNZ</name>
-  </author>
-  <link href="https://github.com/SnowzNZ/EPUBFixer" />
-  <id>urn:rprimus:github:SnowzNZ:EPUBFixer</id>
-  <published>2023-02-19T08:37:14Z</published>
-  <updated>2023-02-19T08:37:14Z</updated>
-  <content type="html">
-   Converts .EPUBs to the UTF-8 encode, fixing malformed formatting errors for special characters.
   </content>
  </entry>
  <entry>
@@ -44,6 +96,19 @@
   </content>
  </entry>
  <entry>
+  <title>imflikk: Nim-Stuff</title>
+  <author>
+   <name>imflikk</name>
+  </author>
+  <link href="https://github.com/imflikk/Nim-Stuff" />
+  <id>urn:rprimus:github:imflikk:Nim-Stuff</id>
+  <published>2023-02-19T03:53:18Z</published>
+  <updated>2023-02-19T03:53:18Z</updated>
+  <content type="html">
+   Random projects  while learning Nim for offensive tool/malware development.
+  </content>
+ </entry>
+ <entry>
   <title>nekoding: nim-101</title>
   <author>
    <name>nekoding</name>
@@ -57,16 +122,16 @@
   </content>
  </entry>
  <entry>
-  <title>kamkow1: Angel</title>
+  <title>dusmarcel: bubo</title>
   <author>
-   <name>kamkow1</name>
+   <name>dusmarcel</name>
   </author>
-  <link href="https://github.com/kamkow1/Angel" />
-  <id>urn:rprimus:github:kamkow1:Angel</id>
-  <published>2023-02-18T15:14:47Z</published>
-  <updated>2023-02-18T15:14:47Z</updated>
+  <link href="https://github.com/dusmarcel/bubo" />
+  <id>urn:rprimus:github:dusmarcel:bubo</id>
+  <published>2023-02-18T22:26:46Z</published>
+  <updated>2023-02-18T22:26:46Z</updated>
   <content type="html">
-   Angel - Awesome Nim Game Engine Library 
+   playing around with Mastodon
   </content>
  </entry>
  <entry>
@@ -145,84 +210,6 @@
   <updated>2023-02-18T07:50:01Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>konsumer: libretro-nim</title>
-  <author>
-   <name>konsumer</name>
-  </author>
-  <link href="https://github.com/konsumer/libretro-nim" />
-  <id>urn:rprimus:github:konsumer:libretro-nim</id>
-  <published>2023-02-17T22:01:14Z</published>
-  <updated>2023-02-17T22:01:14Z</updated>
-  <content type="html">
-   An example nim libretro core
-  </content>
- </entry>
- <entry>
-  <title>Azumabashi: play-audio-with-list</title>
-  <author>
-   <name>Azumabashi</name>
-  </author>
-  <link href="https://github.com/Azumabashi/play-audio-with-list" />
-  <id>urn:rprimus:github:Azumabashi:play-audio-with-list</id>
-  <published>2023-02-17T20:46:23Z</published>
-  <updated>2023-02-17T20:46:23Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>CardealRusso: TinyPM</title>
-  <author>
-   <name>CardealRusso</name>
-  </author>
-  <link href="https://github.com/CardealRusso/TinyPM" />
-  <id>urn:rprimus:github:CardealRusso:TinyPM</id>
-  <published>2023-02-17T20:14:04Z</published>
-  <updated>2023-02-17T20:14:04Z</updated>
-  <content type="html">
-   A tiny password manager
-  </content>
- </entry>
- <entry>
-  <title>Yu-Vitaqua-fer-Chronos: nimpluginsystem</title>
-  <author>
-   <name>Yu-Vitaqua-fer-Chronos</name>
-  </author>
-  <link href="https://github.com/Yu-Vitaqua-fer-Chronos/nimpluginsystem" />
-  <id>urn:rprimus:github:Yu-Vitaqua-fer-Chronos:nimpluginsystem</id>
-  <published>2023-02-17T18:55:40Z</published>
-  <updated>2023-02-17T18:55:40Z</updated>
-  <content type="html">
-   nimpluginsystem
-  </content>
- </entry>
- <entry>
-  <title>ryukoposting: kroutes</title>
-  <author>
-   <name>ryukoposting</name>
-  </author>
-  <link href="https://github.com/ryukoposting/kroutes" />
-  <id>urn:rprimus:github:ryukoposting:kroutes</id>
-  <published>2023-02-17T15:08:19Z</published>
-  <updated>2023-02-17T15:08:19Z</updated>
-  <content type="html">
-   Client-side routing for Karax
-  </content>
- </entry>
- <entry>
-  <title>ikasoba: tropica</title>
-  <author>
-   <name>ikasoba</name>
-  </author>
-  <link href="https://github.com/ikasoba/tropica" />
-  <id>urn:rprimus:github:ikasoba:tropica</id>
-  <published>2023-02-17T07:19:18Z</published>
-  <updated>2023-02-17T07:19:18Z</updated>
-  <content type="html">
-   a tiny frontend framework for nim
   </content>
  </entry>
 </feed>
