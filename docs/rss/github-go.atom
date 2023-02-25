@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-go.atom"/>
 <id>urn:rprimus:github:newgorepos</id>
-<updated>2023-02-25T09:10:20Z</updated>
+<updated>2023-02-25T09:34:08Z</updated>
 <title type='text'>New GitHub Go Repos</title>
+ <entry>
+  <title>hvchien216: golang-ecommerce</title>
+  <author>
+   <name>hvchien216</name>
+  </author>
+  <link href="https://github.com/hvchien216/golang-ecommerce" />
+  <id>urn:rprimus:github:hvchien216:golang-ecommerce</id>
+  <published>2023-02-25T09:34:08Z</published>
+  <updated>2023-02-25T09:34:08Z</updated>
+  <content type="html">
+   E-commerce backend project inspired by Shopee. Technologies: Golang, GraphQL, Postgre, Docker, AWS S3, Redis. Status: Working in progress....
+  </content>
+ </entry>
+ <entry>
+  <title>tachunwu: producekv</title>
+  <author>
+   <name>tachunwu</name>
+  </author>
+  <link href="https://github.com/tachunwu/producekv" />
+  <id>urn:rprimus:github:tachunwu:producekv</id>
+  <published>2023-02-25T09:11:22Z</published>
+  <updated>2023-02-25T09:11:22Z</updated>
+  <content type="html">
+   Produce key-value []byte for testing low-level database
+  </content>
+ </entry>
  <entry>
   <title>G33kPlux: hmwallet</title>
   <author>
@@ -18,32 +44,6 @@
   </content>
  </entry>
  <entry>
-  <title>Rambobobo: TestSystem</title>
-  <author>
-   <name>Rambobobo</name>
-  </author>
-  <link href="https://github.com/Rambobobo/TestSystem" />
-  <id>urn:rprimus:github:Rambobobo:TestSystem</id>
-  <published>2023-02-25T09:04:36Z</published>
-  <updated>2023-02-25T09:04:36Z</updated>
-  <content type="html">
-   æ¯ä¸è®¾è®¡
-  </content>
- </entry>
- <entry>
-  <title>tsksandeep: influxdb-golang-sample</title>
-  <author>
-   <name>tsksandeep</name>
-  </author>
-  <link href="https://github.com/tsksandeep/influxdb-golang-sample" />
-  <id>urn:rprimus:github:tsksandeep:influxdb-golang-sample</id>
-  <published>2023-02-25T09:03:26Z</published>
-  <updated>2023-02-25T09:03:26Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
   <title>kirkalynsantos: go-custom-github-action</title>
   <author>
    <name>kirkalynsantos</name>
@@ -54,6 +54,19 @@
   <updated>2023-02-25T09:02:58Z</updated>
   <content type="html">
    Custom Github Action with Go
+  </content>
+ </entry>
+ <entry>
+  <title>kvneight: tg-wechat</title>
+  <author>
+   <name>kvneight</name>
+  </author>
+  <link href="https://github.com/kvneight/tg-wechat" />
+  <id>urn:rprimus:github:kvneight:tg-wechat</id>
+  <published>2023-02-25T08:55:25Z</published>
+  <updated>2023-02-25T08:55:25Z</updated>
+  <content type="html">
+   This is a wechat-go plugin to forward messages between telegram and wechat
   </content>
  </entry>
  <entry>
@@ -132,19 +145,6 @@
   <updated>2023-02-25T06:24:26Z</updated>
   <content type="html">
    ð² ä¸æ¬¾æ»¡è¶³ä½ çå¤ç§åééæ±çç­ä¿¡åéç»ä»¶ï¼åèeasy-smså®ç°ç Go çæ¬ https://github.com/overtrue/easy-sms
-  </content>
- </entry>
- <entry>
-  <title>kortschak: ardilla</title>
-  <author>
-   <name>kortschak</name>
-  </author>
-  <link href="https://github.com/kortschak/ardilla" />
-  <id>urn:rprimus:github:kortschak:ardilla</id>
-  <published>2023-02-25T06:14:57Z</published>
-  <updated>2023-02-25T06:14:57Z</updated>
-  <content type="html">
-   La Ardilla de Tierra for El Gato Stream Deck
   </content>
  </entry>
  <entry>
@@ -798,6 +798,19 @@
   </content>
  </entry>
  <entry>
+  <title>kingstar0126: golang_restful_json_API</title>
+  <author>
+   <name>kingstar0126</name>
+  </author>
+  <link href="https://github.com/kingstar0126/golang_restful_json_API" />
+  <id>urn:rprimus:github:kingstar0126:golang_restful_json_API</id>
+  <published>2023-02-23T21:59:14Z</published>
+  <updated>2023-02-23T21:59:14Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
   <title>gabor-boros: go-oauth2-arangodb</title>
   <author>
    <name>gabor-boros</name>
@@ -1159,19 +1172,6 @@
   <updated>2023-02-23T01:48:06Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>wangking1: CVE-2023-23752-poc</title>
-  <author>
-   <name>wangking1</name>
-  </author>
-  <link href="https://github.com/wangking1/CVE-2023-23752-poc" />
-  <id>urn:rprimus:github:wangking1:CVE-2023-23752-poc</id>
-  <published>2023-02-23T01:40:38Z</published>
-  <updated>2023-02-23T01:40:38Z</updated>
-  <content type="html">
-   CVE-2023-23752 poc
   </content>
  </entry>
 </feed>
