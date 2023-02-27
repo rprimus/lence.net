@@ -2,8 +2,125 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2023-02-26T09:35:56Z</updated>
+<updated>2023-02-27T08:50:23Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>tu10ng: cllox</title>
+  <author>
+   <name>tu10ng</name>
+  </author>
+  <link href="https://github.com/tu10ng/cllox" />
+  <id>urn:rprimus:github:tu10ng:cllox</id>
+  <published>2023-02-27T08:50:23Z</published>
+  <updated>2023-02-27T08:50:23Z</updated>
+  <content type="html">
+   craftinginterpreters&#039; lox language implementation in common lisp
+  </content>
+ </entry>
+ <entry>
+  <title>drea8: tsetlin-machine</title>
+  <author>
+   <name>drea8</name>
+  </author>
+  <link href="https://github.com/drea8/tsetlin-machine" />
+  <id>urn:rprimus:github:drea8:tsetlin-machine</id>
+  <published>2023-02-27T00:26:37Z</published>
+  <updated>2023-02-27T00:26:37Z</updated>
+  <content type="html">
+   Tsetlin Machines and other Tsetlin Automata inspired learning algorithms
+  </content>
+ </entry>
+ <entry>
+  <title>Baluta-Lucian: PLF</title>
+  <author>
+   <name>Baluta-Lucian</name>
+  </author>
+  <link href="https://github.com/Baluta-Lucian/PLF" />
+  <id>urn:rprimus:github:Baluta-Lucian:PLF</id>
+  <published>2023-02-26T22:15:09Z</published>
+  <updated>2023-02-26T22:15:09Z</updated>
+  <content type="html">
+   Logical and Functional Programming courses and exercises
+  </content>
+ </entry>
+ <entry>
+  <title>sweatshirt0: portfolio</title>
+  <author>
+   <name>sweatshirt0</name>
+  </author>
+  <link href="https://github.com/sweatshirt0/portfolio" />
+  <id>urn:rprimus:github:sweatshirt0:portfolio</id>
+  <published>2023-02-26T20:42:04Z</published>
+  <updated>2023-02-26T20:42:04Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>ormf: incudine-gui</title>
+  <author>
+   <name>ormf</name>
+  </author>
+  <link href="https://github.com/ormf/incudine-gui" />
+  <id>urn:rprimus:github:ormf:incudine-gui</id>
+  <published>2023-02-26T18:59:32Z</published>
+  <updated>2023-02-26T18:59:32Z</updated>
+  <content type="html">
+   gui addon for incudine using qt
+  </content>
+ </entry>
+ <entry>
+  <title>LukasZumvorde: prezento-cl</title>
+  <author>
+   <name>LukasZumvorde</name>
+  </author>
+  <link href="https://github.com/LukasZumvorde/prezento-cl" />
+  <id>urn:rprimus:github:LukasZumvorde:prezento-cl</id>
+  <published>2023-02-26T15:53:38Z</published>
+  <updated>2023-02-26T15:53:38Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>ormf: luftstrom</title>
+  <author>
+   <name>ormf</name>
+  </author>
+  <link href="https://github.com/ormf/luftstrom" />
+  <id>urn:rprimus:github:ormf:luftstrom</id>
+  <published>2023-02-26T15:37:08Z</published>
+  <updated>2023-02-26T15:37:08Z</updated>
+  <content type="html">
+   boids base repo
+  </content>
+ </entry>
+ <entry>
+  <title>ormf: boids-nmn</title>
+  <author>
+   <name>ormf</name>
+  </author>
+  <link href="https://github.com/ormf/boids-nmn" />
+  <id>urn:rprimus:github:ormf:boids-nmn</id>
+  <published>2023-02-26T14:41:13Z</published>
+  <updated>2023-02-26T14:41:13Z</updated>
+  <content type="html">
+   site specific package for boids performance 2023 at HfMDK 
+  </content>
+ </entry>
+ <entry>
+  <title>Shinmera: wg-manager</title>
+  <author>
+   <name>Shinmera</name>
+  </author>
+  <link href="https://github.com/Shinmera/wg-manager" />
+  <id>urn:rprimus:github:Shinmera:wg-manager</id>
+  <published>2023-02-26T14:22:00Z</published>
+  <updated>2023-02-26T14:22:00Z</updated>
+  <content type="html">
+   WireGuard management server and client
+  </content>
+ </entry>
  <entry>
   <title>tankjb: little-steam-memory-saver</title>
   <author>
@@ -28,19 +145,6 @@
   <updated>2023-02-26T04:35:08Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>ulmalana: ansi-cl</title>
-  <author>
-   <name>ulmalana</name>
-  </author>
-  <link href="https://github.com/ulmalana/ansi-cl" />
-  <id>urn:rprimus:github:ulmalana:ansi-cl</id>
-  <published>2023-02-26T04:26:19Z</published>
-  <updated>2023-02-26T04:26:19Z</updated>
-  <content type="html">
-   Learn ANSI Common Lisp
   </content>
  </entry>
  <entry>
@@ -80,97 +184,6 @@
   <updated>2023-02-25T00:09:28Z</updated>
   <content type="html">
    Scripts in Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>kilianmh: openapi-generator</title>
-  <author>
-   <name>kilianmh</name>
-  </author>
-  <link href="https://github.com/kilianmh/openapi-generator" />
-  <id>urn:rprimus:github:kilianmh:openapi-generator</id>
-  <published>2023-02-24T19:57:31Z</published>
-  <updated>2023-02-24T19:57:31Z</updated>
-  <content type="html">
-   OpenAPI-generator is an api client system generator.
-  </content>
- </entry>
- <entry>
-  <title>TamoToo: IA01_TPs</title>
-  <author>
-   <name>TamoToo</name>
-  </author>
-  <link href="https://github.com/TamoToo/IA01_TPs" />
-  <id>urn:rprimus:github:TamoToo:IA01_TPs</id>
-  <published>2023-02-24T17:20:14Z</published>
-  <updated>2023-02-24T17:20:14Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>chee: common-lisp</title>
-  <author>
-   <name>chee</name>
-  </author>
-  <link href="https://github.com/chee/common-lisp" />
-  <id>urn:rprimus:github:chee:common-lisp</id>
-  <published>2023-02-24T15:34:07Z</published>
-  <updated>2023-02-24T15:34:07Z</updated>
-  <content type="html">
-   MIRROR: main repo at https://git.sr.ht/~chee/common-lisp
-  </content>
- </entry>
- <entry>
-  <title>Carht: generics-tips-lisp</title>
-  <author>
-   <name>Carht</name>
-  </author>
-  <link href="https://github.com/Carht/generics-tips-lisp" />
-  <id>urn:rprimus:github:Carht:generics-tips-lisp</id>
-  <published>2023-02-24T14:13:46Z</published>
-  <updated>2023-02-24T14:13:46Z</updated>
-  <content type="html">
-   Some generics tips in Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>o-fir: treerex-hydra</title>
-  <author>
-   <name>o-fir</name>
-  </author>
-  <link href="https://github.com/o-fir/treerex-hydra" />
-  <id>urn:rprimus:github:o-fir:treerex-hydra</id>
-  <published>2023-02-24T10:54:26Z</published>
-  <updated>2023-02-24T10:54:26Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>AKeybladeMaster: uri_parser</title>
-  <author>
-   <name>AKeybladeMaster</name>
-  </author>
-  <link href="https://github.com/AKeybladeMaster/uri_parser" />
-  <id>urn:rprimus:github:AKeybladeMaster:uri_parser</id>
-  <published>2023-02-24T10:26:07Z</published>
-  <updated>2023-02-24T10:26:07Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Durb0: Systeme-Expert_GROS_VATE</title>
-  <author>
-   <name>Durb0</name>
-  </author>
-  <link href="https://github.com/Durb0/Systeme-Expert_GROS_VATE" />
-  <id>urn:rprimus:github:Durb0:Systeme-Expert_GROS_VATE</id>
-  <published>2023-02-24T09:18:28Z</published>
-  <updated>2023-02-24T09:18:28Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
