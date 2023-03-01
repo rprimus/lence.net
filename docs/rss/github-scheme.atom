@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-scheme.atom"/>
 <id>urn:rprimus:github:newschemerepos</id>
-<updated>2023-02-28T03:22:31Z</updated>
+<updated>2023-02-28T23:57:20Z</updated>
 <title type='text'>New GitHub Scheme Repos</title>
+ <entry>
+  <title>lad6558: sussman</title>
+  <author>
+   <name>lad6558</name>
+  </author>
+  <link href="https://github.com/lad6558/sussman" />
+  <id>urn:rprimus:github:lad6558:sussman</id>
+  <published>2023-02-28T23:57:20Z</published>
+  <updated>2023-02-28T23:57:20Z</updated>
+  <content type="html">
+   Scheme codes for Large Symbolic Systems
+  </content>
+ </entry>
+ <entry>
+  <title>saschanaz: pubstrate</title>
+  <author>
+   <name>saschanaz</name>
+  </author>
+  <link href="https://github.com/saschanaz/pubstrate" />
+  <id>urn:rprimus:github:saschanaz:pubstrate</id>
+  <published>2023-02-28T17:26:19Z</published>
+  <updated>2023-02-28T17:26:19Z</updated>
+  <content type="html">
+   Solely to run Pubstrate on Guile 3.0.7 because its current 8sync dependency is faulty in b11b7df5e7ffefa45c5859b868d8125c4d939418.
+  </content>
+ </entry>
+ <entry>
+  <title>saschanaz: 8sync</title>
+  <author>
+   <name>saschanaz</name>
+  </author>
+  <link href="https://github.com/saschanaz/8sync" />
+  <id>urn:rprimus:github:saschanaz:8sync</id>
+  <published>2023-02-28T16:03:25Z</published>
+  <updated>2023-02-28T16:03:25Z</updated>
+  <content type="html">
+   A fork just to try to run Pubstrate on Guile 3.0.7, because 8sync&#039;s f9b4a94202aa20c68cd6babd3fb2a9449f201b02 fails its tests on it.
+  </content>
+ </entry>
  <entry>
   <title>konst-aa: scheme-lsp</title>
   <author>
@@ -54,110 +93,6 @@
   <updated>2023-02-27T00:51:59Z</updated>
   <content type="html">
    Example project showcasing GNU Guix for meta project management
-  </content>
- </entry>
- <entry>
-  <title>Confaa: archlinux-dots</title>
-  <author>
-   <name>Confaa</name>
-  </author>
-  <link href="https://github.com/Confaa/archlinux-dots" />
-  <id>urn:rprimus:github:Confaa:archlinux-dots</id>
-  <published>2023-02-26T22:09:24Z</published>
-  <updated>2023-02-26T22:09:24Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>entiolliko: Advanced-Compiler-Construction</title>
-  <author>
-   <name>entiolliko</name>
-  </author>
-  <link href="https://github.com/entiolliko/Advanced-Compiler-Construction" />
-  <id>urn:rprimus:github:entiolliko:Advanced-Compiler-Construction</id>
-  <published>2023-02-26T21:09:51Z</published>
-  <updated>2023-02-26T21:09:51Z</updated>
-  <content type="html">
-   Repo for the compiler wrote for the EPFL course CS-420
-  </content>
- </entry>
- <entry>
-  <title>TheComputerM: dotfiles</title>
-  <author>
-   <name>TheComputerM</name>
-  </author>
-  <link href="https://github.com/TheComputerM/dotfiles" />
-  <id>urn:rprimus:github:TheComputerM:dotfiles</id>
-  <published>2023-02-26T12:56:02Z</published>
-  <updated>2023-02-26T12:56:02Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jessedog: sicp</title>
-  <author>
-   <name>jessedog</name>
-  </author>
-  <link href="https://github.com/jessedog/sicp" />
-  <id>urn:rprimus:github:jessedog:sicp</id>
-  <published>2023-02-26T12:48:50Z</published>
-  <updated>2023-02-26T12:48:50Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>schemeorg-community: man.scheme.org</title>
-  <author>
-   <name>schemeorg-community</name>
-  </author>
-  <link href="https://github.com/schemeorg-community/man.scheme.org" />
-  <id>urn:rprimus:github:schemeorg-community:man.scheme.org</id>
-  <published>2023-02-26T11:35:28Z</published>
-  <updated>2023-02-26T11:35:28Z</updated>
-  <content type="html">
-   Scheme Programmer&#039;s Manual
-  </content>
- </entry>
- <entry>
-  <title>sigmaSd: nim-nvim-basic</title>
-  <author>
-   <name>sigmaSd</name>
-  </author>
-  <link href="https://github.com/sigmaSd/nim-nvim-basic" />
-  <id>urn:rprimus:github:sigmaSd:nim-nvim-basic</id>
-  <published>2023-02-26T11:12:24Z</published>
-  <updated>2023-02-26T11:12:24Z</updated>
-  <content type="html">
-   Add nim syntax highlighting to nvim via tree sitter
-  </content>
- </entry>
- <entry>
-  <title>Harlan2001: mit-6.001</title>
-  <author>
-   <name>Harlan2001</name>
-  </author>
-  <link href="https://github.com/Harlan2001/mit-6.001" />
-  <id>urn:rprimus:github:Harlan2001:mit-6.001</id>
-  <published>2023-02-26T07:58:40Z</published>
-  <updated>2023-02-26T07:58:40Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>BlameTroi: SchemingEssentialLisp</title>
-  <author>
-   <name>BlameTroi</name>
-  </author>
-  <link href="https://github.com/BlameTroi/SchemingEssentialLisp" />
-  <id>urn:rprimus:github:BlameTroi:SchemingEssentialLisp</id>
-  <published>2023-02-26T03:14:15Z</published>
-  <updated>2023-02-26T03:14:15Z</updated>
-  <content type="html">
-   Notes and worked problems from the 1987 text Essential Lisp.
   </content>
  </entry>
 </feed>

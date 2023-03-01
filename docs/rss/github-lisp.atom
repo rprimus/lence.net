@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2023-02-28T03:42:01Z</updated>
+<updated>2023-02-28T19:54:31Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>MichaelAnckaert: lisp-executable</title>
+  <author>
+   <name>MichaelAnckaert</name>
+  </author>
+  <link href="https://github.com/MichaelAnckaert/lisp-executable" />
+  <id>urn:rprimus:github:MichaelAnckaert:lisp-executable</id>
+  <published>2023-02-28T19:54:31Z</published>
+  <updated>2023-02-28T19:54:31Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>SabaSabaXYZ: git-repl</title>
+  <author>
+   <name>SabaSabaXYZ</name>
+  </author>
+  <link href="https://github.com/SabaSabaXYZ/git-repl" />
+  <id>urn:rprimus:github:SabaSabaXYZ:git-repl</id>
+  <published>2023-02-28T19:12:01Z</published>
+  <updated>2023-02-28T19:12:01Z</updated>
+  <content type="html">
+   A Common Lisp REPL with custom Git commands
+  </content>
+ </entry>
+ <entry>
+  <title>Lukhell: website</title>
+  <author>
+   <name>Lukhell</name>
+  </author>
+  <link href="https://github.com/Lukhell/website" />
+  <id>urn:rprimus:github:Lukhell:website</id>
+  <published>2023-02-28T18:08:34Z</published>
+  <updated>2023-02-28T18:08:34Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>vrx: rpi-configs</title>
+  <author>
+   <name>vrx</name>
+  </author>
+  <link href="https://github.com/vrx/rpi-configs" />
+  <id>urn:rprimus:github:vrx:rpi-configs</id>
+  <published>2023-02-28T14:21:32Z</published>
+  <updated>2023-02-28T14:21:32Z</updated>
+  <content type="html">
+   scripts, notes for rpi installations
+  </content>
+ </entry>
  <entry>
   <title>PuellaeMagicae: unix-in-lisp</title>
   <author>
@@ -106,123 +158,6 @@
   <updated>2023-02-27T00:26:37Z</updated>
   <content type="html">
    Tsetlin Machines and other Tsetlin Automata inspired learning algorithms
-  </content>
- </entry>
- <entry>
-  <title>Baluta-Lucian: PLF</title>
-  <author>
-   <name>Baluta-Lucian</name>
-  </author>
-  <link href="https://github.com/Baluta-Lucian/PLF" />
-  <id>urn:rprimus:github:Baluta-Lucian:PLF</id>
-  <published>2023-02-26T22:15:09Z</published>
-  <updated>2023-02-26T22:15:09Z</updated>
-  <content type="html">
-   Logical and Functional Programming courses and exercises
-  </content>
- </entry>
- <entry>
-  <title>sweatshirt0: portfolio</title>
-  <author>
-   <name>sweatshirt0</name>
-  </author>
-  <link href="https://github.com/sweatshirt0/portfolio" />
-  <id>urn:rprimus:github:sweatshirt0:portfolio</id>
-  <published>2023-02-26T20:42:04Z</published>
-  <updated>2023-02-26T20:42:04Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ormf: incudine-gui</title>
-  <author>
-   <name>ormf</name>
-  </author>
-  <link href="https://github.com/ormf/incudine-gui" />
-  <id>urn:rprimus:github:ormf:incudine-gui</id>
-  <published>2023-02-26T18:59:32Z</published>
-  <updated>2023-02-26T18:59:32Z</updated>
-  <content type="html">
-   gui addon for incudine using qt
-  </content>
- </entry>
- <entry>
-  <title>LukasZumvorde: prezento-cl</title>
-  <author>
-   <name>LukasZumvorde</name>
-  </author>
-  <link href="https://github.com/LukasZumvorde/prezento-cl" />
-  <id>urn:rprimus:github:LukasZumvorde:prezento-cl</id>
-  <published>2023-02-26T15:53:38Z</published>
-  <updated>2023-02-26T15:53:38Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ormf: luftstrom</title>
-  <author>
-   <name>ormf</name>
-  </author>
-  <link href="https://github.com/ormf/luftstrom" />
-  <id>urn:rprimus:github:ormf:luftstrom</id>
-  <published>2023-02-26T15:37:08Z</published>
-  <updated>2023-02-26T15:37:08Z</updated>
-  <content type="html">
-   boids base repo
-  </content>
- </entry>
- <entry>
-  <title>ormf: boids-nmn</title>
-  <author>
-   <name>ormf</name>
-  </author>
-  <link href="https://github.com/ormf/boids-nmn" />
-  <id>urn:rprimus:github:ormf:boids-nmn</id>
-  <published>2023-02-26T14:41:13Z</published>
-  <updated>2023-02-26T14:41:13Z</updated>
-  <content type="html">
-   site specific package for boids performance 2023 at HfMDK 
-  </content>
- </entry>
- <entry>
-  <title>Shinmera: wg-manager</title>
-  <author>
-   <name>Shinmera</name>
-  </author>
-  <link href="https://github.com/Shinmera/wg-manager" />
-  <id>urn:rprimus:github:Shinmera:wg-manager</id>
-  <published>2023-02-26T14:22:00Z</published>
-  <updated>2023-02-26T14:22:00Z</updated>
-  <content type="html">
-   WireGuard management server and client
-  </content>
- </entry>
- <entry>
-  <title>tankjb: little-steam-memory-saver</title>
-  <author>
-   <name>tankjb</name>
-  </author>
-  <link href="https://github.com/tankjb/little-steam-memory-saver" />
-  <id>urn:rprimus:github:tankjb:little-steam-memory-saver</id>
-  <published>2023-02-26T09:35:56Z</published>
-  <updated>2023-02-26T09:35:56Z</updated>
-  <content type="html">
-   Save some memory usage by using minigamelist and getting rid of webhelper after login.
-  </content>
- </entry>
- <entry>
-  <title>elektito: dot-stumpwm-dot-d</title>
-  <author>
-   <name>elektito</name>
-  </author>
-  <link href="https://github.com/elektito/dot-stumpwm-dot-d" />
-  <id>urn:rprimus:github:elektito:dot-stumpwm-dot-d</id>
-  <published>2023-02-26T04:35:08Z</published>
-  <updated>2023-02-26T04:35:08Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>

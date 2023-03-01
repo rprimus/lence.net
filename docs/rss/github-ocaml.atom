@@ -2,8 +2,177 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2023-02-28T03:41:47Z</updated>
+<updated>2023-03-01T04:08:25Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>janestreet: ppx_globalize</title>
+  <author>
+   <name>janestreet</name>
+  </author>
+  <link href="https://github.com/janestreet/ppx_globalize" />
+  <id>urn:rprimus:github:janestreet:ppx_globalize</id>
+  <published>2023-03-01T04:08:25Z</published>
+  <updated>2023-03-01T04:08:25Z</updated>
+  <content type="html">
+   A ppx rewriter that generates functions to copy local values to the global heap
+  </content>
+ </entry>
+ <entry>
+  <title>janestreet: ppx_demo</title>
+  <author>
+   <name>janestreet</name>
+  </author>
+  <link href="https://github.com/janestreet/ppx_demo" />
+  <id>urn:rprimus:github:janestreet:ppx_demo</id>
+  <published>2023-03-01T04:08:24Z</published>
+  <updated>2023-03-01T04:08:24Z</updated>
+  <content type="html">
+   PPX that exposes the source code string of an expression/module structure.
+  </content>
+ </entry>
+ <entry>
+  <title>janestreet: man_in_the_middle_debugger</title>
+  <author>
+   <name>janestreet</name>
+  </author>
+  <link href="https://github.com/janestreet/man_in_the_middle_debugger" />
+  <id>urn:rprimus:github:janestreet:man_in_the_middle_debugger</id>
+  <published>2023-03-01T04:08:22Z</published>
+  <updated>2023-03-01T04:08:22Z</updated>
+  <content type="html">
+   Man-in-the-middle debugging library
+  </content>
+ </entry>
+ <entry>
+  <title>janestreet: jane_rope</title>
+  <author>
+   <name>janestreet</name>
+  </author>
+  <link href="https://github.com/janestreet/jane_rope" />
+  <id>urn:rprimus:github:janestreet:jane_rope</id>
+  <published>2023-03-01T04:08:20Z</published>
+  <updated>2023-03-01T04:08:20Z</updated>
+  <content type="html">
+   String representation with cheap concatenation.
+  </content>
+ </entry>
+ <entry>
+  <title>janestreet: dedent</title>
+  <author>
+   <name>janestreet</name>
+  </author>
+  <link href="https://github.com/janestreet/dedent" />
+  <id>urn:rprimus:github:janestreet:dedent</id>
+  <published>2023-03-01T04:08:18Z</published>
+  <updated>2023-03-01T04:08:18Z</updated>
+  <content type="html">
+   A library for improving redability of multi-line string constants in code.
+  </content>
+ </entry>
+ <entry>
+  <title>janestreet: regex_parser_intf</title>
+  <author>
+   <name>janestreet</name>
+  </author>
+  <link href="https://github.com/janestreet/regex_parser_intf" />
+  <id>urn:rprimus:github:janestreet:regex_parser_intf</id>
+  <published>2023-03-01T02:42:34Z</published>
+  <updated>2023-03-01T02:42:34Z</updated>
+  <content type="html">
+   Interface shared by Re_parser and Re2.Parser
+  </content>
+ </entry>
+ <entry>
+  <title>janestreet: re_parser</title>
+  <author>
+   <name>janestreet</name>
+  </author>
+  <link href="https://github.com/janestreet/re_parser" />
+  <id>urn:rprimus:github:janestreet:re_parser</id>
+  <published>2023-03-01T02:42:32Z</published>
+  <updated>2023-03-01T02:42:32Z</updated>
+  <content type="html">
+   Typed parsing using regular expressions.
+  </content>
+ </entry>
+ <entry>
+  <title>janestreet: hardcaml_handshake</title>
+  <author>
+   <name>janestreet</name>
+  </author>
+  <link href="https://github.com/janestreet/hardcaml_handshake" />
+  <id>urn:rprimus:github:janestreet:hardcaml_handshake</id>
+  <published>2023-03-01T02:42:31Z</published>
+  <updated>2023-03-01T02:42:31Z</updated>
+  <content type="html">
+   Hardcaml Handshake
+  </content>
+ </entry>
+ <entry>
+  <title>janestreet: hardcaml_axi</title>
+  <author>
+   <name>janestreet</name>
+  </author>
+  <link href="https://github.com/janestreet/hardcaml_axi" />
+  <id>urn:rprimus:github:janestreet:hardcaml_axi</id>
+  <published>2023-03-01T02:42:29Z</published>
+  <updated>2023-03-01T02:42:29Z</updated>
+  <content type="html">
+   Hardcaml AXI Interface Types
+  </content>
+ </entry>
+ <entry>
+  <title>Gabulhas: Tezos</title>
+  <author>
+   <name>Gabulhas</name>
+  </author>
+  <link href="https://github.com/Gabulhas/Tezos" />
+  <id>urn:rprimus:github:Gabulhas:Tezos</id>
+  <published>2023-02-28T23:20:33Z</published>
+  <updated>2023-02-28T23:20:33Z</updated>
+  <content type="html">
+   Mirror to my Msc dissertation work
+  </content>
+ </entry>
+ <entry>
+  <title>maxper4: M1-MPRI-Compilation</title>
+  <author>
+   <name>maxper4</name>
+  </author>
+  <link href="https://github.com/maxper4/M1-MPRI-Compilation" />
+  <id>urn:rprimus:github:maxper4:M1-MPRI-Compilation</id>
+  <published>2023-02-28T18:54:20Z</published>
+  <updated>2023-02-28T18:54:20Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>askshahkhan: ballot-system</title>
+  <author>
+   <name>askshahkhan</name>
+  </author>
+  <link href="https://github.com/askshahkhan/ballot-system" />
+  <id>urn:rprimus:github:askshahkhan:ballot-system</id>
+  <published>2023-02-28T18:07:23Z</published>
+  <updated>2023-02-28T18:07:23Z</updated>
+  <content type="html">
+   Ballot and ranking system coded with OCaml 
+  </content>
+ </entry>
+ <entry>
+  <title>Ashitaka06: API-PT-Scala</title>
+  <author>
+   <name>Ashitaka06</name>
+  </author>
+  <link href="https://github.com/Ashitaka06/API-PT-Scala" />
+  <id>urn:rprimus:github:Ashitaka06:API-PT-Scala</id>
+  <published>2023-02-28T10:37:48Z</published>
+  <updated>2023-02-28T10:37:48Z</updated>
+  <content type="html">
+   Mise en place d&#039;une API simplifiÃ©e de property testing en respectant des consignes donnÃ©es.
+  </content>
+ </entry>
  <entry>
   <title>Laid41798175: ocaml</title>
   <author>
@@ -41,19 +210,6 @@
   <updated>2023-02-27T21:52:48Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>darklang: stable-dark</title>
-  <author>
-   <name>darklang</name>
-  </author>
-  <link href="https://github.com/darklang/stable-dark" />
-  <id>urn:rprimus:github:darklang:stable-dark</id>
-  <published>2023-02-27T18:37:06Z</published>
-  <updated>2023-02-27T18:37:06Z</updated>
-  <content type="html">
-   Darklang stable version - currently on darklang.com
   </content>
  </entry>
  <entry>
@@ -118,7 +274,7 @@
   <published>2023-02-27T11:13:23Z</published>
   <updated>2023-02-27T11:13:23Z</updated>
   <content type="html">
-   
+   A compiler for a subset of the C language
   </content>
  </entry>
  <entry>
@@ -158,136 +314,6 @@
   <updated>2023-02-27T07:54:41Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>mark-beck: static-forth</title>
-  <author>
-   <name>mark-beck</name>
-  </author>
-  <link href="https://github.com/mark-beck/static-forth" />
-  <id>urn:rprimus:github:mark-beck:static-forth</id>
-  <published>2023-02-26T21:39:25Z</published>
-  <updated>2023-02-26T21:39:25Z</updated>
-  <content type="html">
-   A wip Forth implementation.
-  </content>
- </entry>
- <entry>
-  <title>lukstafi: ppx_minidebug_pp</title>
-  <author>
-   <name>lukstafi</name>
-  </author>
-  <link href="https://github.com/lukstafi/ppx_minidebug_pp" />
-  <id>urn:rprimus:github:lukstafi:ppx_minidebug_pp</id>
-  <published>2023-02-26T19:32:21Z</published>
-  <updated>2023-02-26T19:32:21Z</updated>
-  <content type="html">
-   A non-`sexplib` poor man&#039;s version of `ppx_debug`: trace selected code if it has type annotations, without JaneStreet dependencies
-  </content>
- </entry>
- <entry>
-  <title>NathanGros: Solitaire-project</title>
-  <author>
-   <name>NathanGros</name>
-  </author>
-  <link href="https://github.com/NathanGros/Solitaire-project" />
-  <id>urn:rprimus:github:NathanGros:Solitaire-project</id>
-  <published>2023-02-26T17:32:26Z</published>
-  <updated>2023-02-26T17:32:26Z</updated>
-  <content type="html">
-   Our first game ever !
-  </content>
- </entry>
- <entry>
-  <title>kodyvajjha: propa</title>
-  <author>
-   <name>kodyvajjha</name>
-  </author>
-  <link href="https://github.com/kodyvajjha/propa" />
-  <id>urn:rprimus:github:kodyvajjha:propa</id>
-  <published>2023-02-26T16:13:10Z</published>
-  <updated>2023-02-26T16:13:10Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Enz0GUERIN: projet_info_mp2i_de_falco</title>
-  <author>
-   <name>Enz0GUERIN</name>
-  </author>
-  <link href="https://github.com/Enz0GUERIN/projet_info_mp2i_de_falco" />
-  <id>urn:rprimus:github:Enz0GUERIN:projet_info_mp2i_de_falco</id>
-  <published>2023-02-26T13:22:40Z</published>
-  <updated>2023-02-26T13:22:40Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>chettabyacine: synthese-d-invariants</title>
-  <author>
-   <name>chettabyacine</name>
-  </author>
-  <link href="https://github.com/chettabyacine/synthese-d-invariants" />
-  <id>urn:rprimus:github:chettabyacine:synthese-d-invariants</id>
-  <published>2023-02-26T12:53:41Z</published>
-  <updated>2023-02-26T12:53:41Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>chettabyacine: Solveur-DPLL</title>
-  <author>
-   <name>chettabyacine</name>
-  </author>
-  <link href="https://github.com/chettabyacine/Solveur-DPLL" />
-  <id>urn:rprimus:github:chettabyacine:Solveur-DPLL</id>
-  <published>2023-02-26T12:43:32Z</published>
-  <updated>2023-02-26T12:43:32Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>chettabyacine: Solitaire-en-Ocaml</title>
-  <author>
-   <name>chettabyacine</name>
-  </author>
-  <link href="https://github.com/chettabyacine/Solitaire-en-Ocaml" />
-  <id>urn:rprimus:github:chettabyacine:Solitaire-en-Ocaml</id>
-  <published>2023-02-26T12:33:26Z</published>
-  <updated>2023-02-26T12:33:26Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>yulucat: TapisVert</title>
-  <author>
-   <name>yulucat</name>
-  </author>
-  <link href="https://github.com/yulucat/TapisVert" />
-  <id>urn:rprimus:github:yulucat:TapisVert</id>
-  <published>2023-02-26T07:25:07Z</published>
-  <updated>2023-02-26T07:25:07Z</updated>
-  <content type="html">
-   Set of 18x18 ERP .PNG Icons
-  </content>
- </entry>
- <entry>
-  <title>puotina: admod_basic_banner</title>
-  <author>
-   <name>puotina</name>
-  </author>
-  <link href="https://github.com/puotina/admod_basic_banner" />
-  <id>urn:rprimus:github:puotina:admod_basic_banner</id>
-  <published>2023-02-26T03:32:42Z</published>
-  <updated>2023-02-26T03:32:42Z</updated>
-  <content type="html">
-   hektifet
   </content>
  </entry>
 </feed>
