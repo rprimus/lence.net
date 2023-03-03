@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-scheme.atom"/>
 <id>urn:rprimus:github:newschemerepos</id>
-<updated>2023-03-02T04:30:59Z</updated>
+<updated>2023-03-02T21:24:38Z</updated>
 <title type='text'>New GitHub Scheme Repos</title>
+ <entry>
+  <title>kristianlm: chicken-debugwire</title>
+  <author>
+   <name>kristianlm</name>
+  </author>
+  <link href="https://github.com/kristianlm/chicken-debugwire" />
+  <id>urn:rprimus:github:kristianlm:chicken-debugwire</id>
+  <published>2023-03-02T21:24:38Z</published>
+  <updated>2023-03-02T21:24:38Z</updated>
+  <content type="html">
+   REPL-firendly debugWIRE library
+  </content>
+ </entry>
+ <entry>
+  <title>matajupi: fast-list-for-functional-programming</title>
+  <author>
+   <name>matajupi</name>
+  </author>
+  <link href="https://github.com/matajupi/fast-list-for-functional-programming" />
+  <id>urn:rprimus:github:matajupi:fast-list-for-functional-programming</id>
+  <published>2023-03-02T19:11:29Z</published>
+  <updated>2023-03-02T19:11:29Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Mugsend: Memeify---A-GIMP-FU-Script</title>
+  <author>
+   <name>Mugsend</name>
+  </author>
+  <link href="https://github.com/Mugsend/Memeify---A-GIMP-FU-Script" />
+  <id>urn:rprimus:github:Mugsend:Memeify---A-GIMP-FU-Script</id>
+  <published>2023-03-02T16:09:54Z</published>
+  <updated>2023-03-02T16:09:54Z</updated>
+  <content type="html">
+   Memeify is a GIMP FU-Script written in Scheme Lisp that automates the process of creating a meme by allowing the user to input the text they want to add to the image, along with the image itself.
+  </content>
+ </entry>
  <entry>
   <title>nitishvijai: EECS390_P3</title>
   <author>
@@ -44,19 +83,6 @@
   </content>
  </entry>
  <entry>
-  <title>LucyRcs: Exodus-Movement-Wallet-Api-Source-Payment-Geteway</title>
-  <author>
-   <name>LucyRcs</name>
-  </author>
-  <link href="https://github.com/LucyRcs/Exodus-Movement-Wallet-Api-Source-Payment-Geteway" />
-  <id>urn:rprimus:github:LucyRcs:Exodus-Movement-Wallet-Api-Source-Payment-Geteway</id>
-  <published>2023-03-01T18:22:15Z</published>
-  <updated>2023-03-01T18:22:15Z</updated>
-  <content type="html">
-   Please disregard buttons that are not marked &quot;Import&quot;, if such buttons are present. Those are test cases.
-  </content>
- </entry>
- <entry>
   <title>rogerturner: check-examples</title>
   <author>
    <name>rogerturner</name>
@@ -67,84 +93,6 @@
   <updated>2023-03-01T15:47:15Z</updated>
   <content type="html">
    Chez Scheme library providing `example:` syntax for in-line documentation and simple tests
-  </content>
- </entry>
- <entry>
-  <title>adam-kandur: guix-channel</title>
-  <author>
-   <name>adam-kandur</name>
-  </author>
-  <link href="https://github.com/adam-kandur/guix-channel" />
-  <id>urn:rprimus:github:adam-kandur:guix-channel</id>
-  <published>2023-02-28T23:57:43Z</published>
-  <updated>2023-02-28T23:57:43Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>lad6558: sussman</title>
-  <author>
-   <name>lad6558</name>
-  </author>
-  <link href="https://github.com/lad6558/sussman" />
-  <id>urn:rprimus:github:lad6558:sussman</id>
-  <published>2023-02-28T23:57:20Z</published>
-  <updated>2023-02-28T23:57:20Z</updated>
-  <content type="html">
-   Scheme codes for Large Symbolic Systems
-  </content>
- </entry>
- <entry>
-  <title>saschanaz: pubstrate</title>
-  <author>
-   <name>saschanaz</name>
-  </author>
-  <link href="https://github.com/saschanaz/pubstrate" />
-  <id>urn:rprimus:github:saschanaz:pubstrate</id>
-  <published>2023-02-28T17:26:19Z</published>
-  <updated>2023-02-28T17:26:19Z</updated>
-  <content type="html">
-   Solely to run Pubstrate on Guile 3.0.7 because its current 8sync dependency is faulty in b11b7df5e7ffefa45c5859b868d8125c4d939418.
-  </content>
- </entry>
- <entry>
-  <title>saschanaz: 8sync</title>
-  <author>
-   <name>saschanaz</name>
-  </author>
-  <link href="https://github.com/saschanaz/8sync" />
-  <id>urn:rprimus:github:saschanaz:8sync</id>
-  <published>2023-02-28T16:03:25Z</published>
-  <updated>2023-02-28T16:03:25Z</updated>
-  <content type="html">
-   A fork just to try to run Pubstrate on Guile 3.0.7, because 8sync&#039;s f9b4a94202aa20c68cd6babd3fb2a9449f201b02 fails its tests on it.
-  </content>
- </entry>
- <entry>
-  <title>konst-aa: scheme-lsp</title>
-  <author>
-   <name>konst-aa</name>
-  </author>
-  <link href="https://github.com/konst-aa/scheme-lsp" />
-  <id>urn:rprimus:github:konst-aa:scheme-lsp</id>
-  <published>2023-02-28T03:22:31Z</published>
-  <updated>2023-02-28T03:22:31Z</updated>
-  <content type="html">
-   WORK IN PROGRESS
-  </content>
- </entry>
- <entry>
-  <title>carolain3472: FLP</title>
-  <author>
-   <name>carolain3472</name>
-  </author>
-  <link href="https://github.com/carolain3472/FLP" />
-  <id>urn:rprimus:github:carolain3472:FLP</id>
-  <published>2023-02-28T02:52:49Z</published>
-  <updated>2023-02-28T02:52:49Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
