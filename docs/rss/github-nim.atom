@@ -2,8 +2,112 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2023-03-03T00:59:36Z</updated>
+<updated>2023-03-04T02:55:13Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>wbadart: av2hledger</title>
+  <author>
+   <name>wbadart</name>
+  </author>
+  <link href="https://github.com/wbadart/av2hledger" />
+  <id>urn:rprimus:github:wbadart:av2hledger</id>
+  <published>2023-03-04T02:55:13Z</published>
+  <updated>2023-03-04T02:55:13Z</updated>
+  <content type="html">
+   Get hledger price directives from alpha vantage
+  </content>
+ </entry>
+ <entry>
+  <title>mk-fg: incremetal-disk-compare-and-sync</title>
+  <author>
+   <name>mk-fg</name>
+  </author>
+  <link href="https://github.com/mk-fg/incremetal-disk-compare-and-sync" />
+  <id>urn:rprimus:github:mk-fg:incremetal-disk-compare-and-sync</id>
+  <published>2023-03-04T02:49:57Z</published>
+  <updated>2023-03-04T02:49:57Z</updated>
+  <content type="html">
+   Tool to build/maintain hash-map of source file/dev/image blocks and incrementally sync those with least reads/writes
+  </content>
+ </entry>
+ <entry>
+  <title>etra0: fujiset</title>
+  <author>
+   <name>etra0</name>
+  </author>
+  <link href="https://github.com/etra0/fujiset" />
+  <id>urn:rprimus:github:etra0:fujiset</id>
+  <published>2023-03-04T02:18:17Z</published>
+  <updated>2023-03-04T02:18:17Z</updated>
+  <content type="html">
+   A tool to set profiles in Fujifilm cameras.
+  </content>
+ </entry>
+ <entry>
+  <title>jpalomaki: nim-app</title>
+  <author>
+   <name>jpalomaki</name>
+  </author>
+  <link href="https://github.com/jpalomaki/nim-app" />
+  <id>urn:rprimus:github:jpalomaki:nim-app</id>
+  <published>2023-03-03T20:26:43Z</published>
+  <updated>2023-03-03T20:26:43Z</updated>
+  <content type="html">
+   Example Nim application powered by Prologue
+  </content>
+ </entry>
+ <entry>
+  <title>WeebNetsu: nor-poc</title>
+  <author>
+   <name>WeebNetsu</name>
+  </author>
+  <link href="https://github.com/WeebNetsu/nor-poc" />
+  <id>urn:rprimus:github:WeebNetsu:nor-poc</id>
+  <published>2023-03-03T18:32:24Z</published>
+  <updated>2023-03-03T18:32:24Z</updated>
+  <content type="html">
+   Nim on Rails project proof of concept
+  </content>
+ </entry>
+ <entry>
+  <title>Cramblioni: gyfnewidol</title>
+  <author>
+   <name>Cramblioni</name>
+  </author>
+  <link href="https://github.com/Cramblioni/gyfnewidol" />
+  <id>urn:rprimus:github:Cramblioni:gyfnewidol</id>
+  <published>2023-03-03T17:40:50Z</published>
+  <updated>2023-03-03T17:40:50Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Haunted-Banshee: Nim-Bypass-ETW-NtTraceEvent</title>
+  <author>
+   <name>Haunted-Banshee</name>
+  </author>
+  <link href="https://github.com/Haunted-Banshee/Nim-Bypass-ETW-NtTraceEvent" />
+  <id>urn:rprimus:github:Haunted-Banshee:Nim-Bypass-ETW-NtTraceEvent</id>
+  <published>2023-03-03T12:12:13Z</published>
+  <updated>2023-03-03T12:12:13Z</updated>
+  <content type="html">
+   Nim  Bypass  etw For   NtTraceEvent
+  </content>
+ </entry>
+ <entry>
+  <title>dinau: imguin</title>
+  <author>
+   <name>dinau</name>
+  </author>
+  <link href="https://github.com/dinau/imguin" />
+  <id>urn:rprimus:github:dinau:imguin</id>
+  <published>2023-03-03T08:46:13Z</published>
+  <updated>2023-03-03T08:46:13Z</updated>
+  <content type="html">
+   Dear Imgui wrapper for Nim language
+  </content>
+ </entry>
  <entry>
   <title>Yepoleb: packagescanner2</title>
   <author>
@@ -44,81 +148,16 @@
   </content>
  </entry>
  <entry>
-  <title>Vindaar: sorted_seq</title>
+  <title>SirNickolas: asyncIters</title>
   <author>
-   <name>Vindaar</name>
+   <name>SirNickolas</name>
   </author>
-  <link href="https://github.com/Vindaar/sorted_seq" />
-  <id>urn:rprimus:github:Vindaar:sorted_seq</id>
-  <published>2023-03-01T16:42:26Z</published>
-  <updated>2023-03-01T16:42:26Z</updated>
+  <link href="https://github.com/SirNickolas/asyncIters" />
+  <id>urn:rprimus:github:SirNickolas:asyncIters</id>
+  <published>2023-03-02T07:05:57Z</published>
+  <updated>2023-03-02T07:05:57Z</updated>
   <content type="html">
-   A trivial `seq[T]` type that keeps data in sorted order
-  </content>
- </entry>
- <entry>
-  <title>rizkybaihaqy: doi2yaml</title>
-  <author>
-   <name>rizkybaihaqy</name>
-  </author>
-  <link href="https://github.com/rizkybaihaqy/doi2yaml" />
-  <id>urn:rprimus:github:rizkybaihaqy:doi2yaml</id>
-  <published>2023-03-01T16:06:11Z</published>
-  <updated>2023-03-01T16:06:11Z</updated>
-  <content type="html">
-   Converts BibTeX data fetched from a DOI to YAML format
-  </content>
- </entry>
- <entry>
-  <title>lantos1618: revision_ds</title>
-  <author>
-   <name>lantos1618</name>
-  </author>
-  <link href="https://github.com/lantos1618/revision_ds" />
-  <id>urn:rprimus:github:lantos1618:revision_ds</id>
-  <published>2023-03-01T16:04:29Z</published>
-  <updated>2023-03-01T16:04:29Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>mrtkp9993: nim-mcmc</title>
-  <author>
-   <name>mrtkp9993</name>
-  </author>
-  <link href="https://github.com/mrtkp9993/nim-mcmc" />
-  <id>urn:rprimus:github:mrtkp9993:nim-mcmc</id>
-  <published>2023-03-01T14:55:48Z</published>
-  <updated>2023-03-01T14:55:48Z</updated>
-  <content type="html">
-   Simple Markov Chain Monte Carlo (MCMC) sampler in Nim.
-  </content>
- </entry>
- <entry>
-  <title>rockcavera: nim-dnsstamps2</title>
-  <author>
-   <name>rockcavera</name>
-  </author>
-  <link href="https://github.com/rockcavera/nim-dnsstamps2" />
-  <id>urn:rprimus:github:rockcavera:nim-dnsstamps2</id>
-  <published>2023-03-01T14:49:08Z</published>
-  <updated>2023-03-01T14:49:08Z</updated>
-  <content type="html">
-   DNS Stamps package for Nim
-  </content>
- </entry>
- <entry>
-  <title>hortinstein: cross_compile</title>
-  <author>
-   <name>hortinstein</name>
-  </author>
-  <link href="https://github.com/hortinstein/cross_compile" />
-  <id>urn:rprimus:github:hortinstein:cross_compile</id>
-  <published>2023-03-01T00:56:06Z</published>
-  <updated>2023-03-01T00:56:06Z</updated>
-  <content type="html">
-   
+   Async iterators for Nim. WIP; not usable yet
   </content>
  </entry>
 </feed>

@@ -2,19 +2,97 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2023-03-03T05:15:27Z</updated>
+<updated>2023-03-04T06:05:03Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
  <entry>
-  <title>mark8769: CS450LightsOut</title>
+  <title>cerealmatinal: lisp-calc</title>
+  <author>
+   <name>cerealmatinal</name>
+  </author>
+  <link href="https://github.com/cerealmatinal/lisp-calc" />
+  <id>urn:rprimus:github:cerealmatinal:lisp-calc</id>
+  <published>2023-03-04T06:05:03Z</published>
+  <updated>2023-03-04T06:05:03Z</updated>
+  <content type="html">
+   Basic Lisp interpreter for math expressions using eval and input processing functions.
+  </content>
+ </entry>
+ <entry>
+  <title>chee: cl-sdl2-ttf</title>
+  <author>
+   <name>chee</name>
+  </author>
+  <link href="https://github.com/chee/cl-sdl2-ttf" />
+  <id>urn:rprimus:github:chee:cl-sdl2-ttf</id>
+  <published>2023-03-03T23:57:01Z</published>
+  <updated>2023-03-03T23:57:01Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>chee: cl-sdl2</title>
+  <author>
+   <name>chee</name>
+  </author>
+  <link href="https://github.com/chee/cl-sdl2" />
+  <id>urn:rprimus:github:chee:cl-sdl2</id>
+  <published>2023-03-03T23:56:29Z</published>
+  <updated>2023-03-03T23:56:29Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Bike: compile-bench</title>
+  <author>
+   <name>Bike</name>
+  </author>
+  <link href="https://github.com/Bike/compile-bench" />
+  <id>urn:rprimus:github:Bike:compile-bench</id>
+  <published>2023-03-03T20:02:03Z</published>
+  <updated>2023-03-03T20:02:03Z</updated>
+  <content type="html">
+   Utilities for benchmarking compilers
+  </content>
+ </entry>
+ <entry>
+  <title>aminaDziriexpertise: pluginSDP_v01</title>
+  <author>
+   <name>aminaDziriexpertise</name>
+  </author>
+  <link href="https://github.com/aminaDziriexpertise/pluginSDP_v01" />
+  <id>urn:rprimus:github:aminaDziriexpertise:pluginSDP_v01</id>
+  <published>2023-03-03T10:18:02Z</published>
+  <updated>2023-03-03T10:18:02Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>mark8769: LightsOut</title>
   <author>
    <name>mark8769</name>
   </author>
-  <link href="https://github.com/mark8769/CS450LightsOut" />
-  <id>urn:rprimus:github:mark8769:CS450LightsOut</id>
+  <link href="https://github.com/mark8769/LightsOut" />
+  <id>urn:rprimus:github:mark8769:LightsOut</id>
   <published>2023-03-03T05:15:27Z</published>
   <updated>2023-03-03T05:15:27Z</updated>
   <content type="html">
    Lights out game implemented in Lisp, part of the CS450 course.
+  </content>
+ </entry>
+ <entry>
+  <title>tonymillion: VescNinebotDash</title>
+  <author>
+   <name>tonymillion</name>
+  </author>
+  <link href="https://github.com/tonymillion/VescNinebotDash" />
+  <id>urn:rprimus:github:tonymillion:VescNinebotDash</id>
+  <published>2023-03-03T04:38:30Z</published>
+  <updated>2023-03-03T04:38:30Z</updated>
+  <content type="html">
+   Vesc based Lisp script to use a Ninebot protocol dashboard (either G30 or ES2/ES4 based) 
   </content>
  </entry>
  <entry>
@@ -41,6 +119,19 @@
   <updated>2023-03-02T19:38:35Z</updated>
   <content type="html">
    LISP codes for sem-VI tutorials
+  </content>
+ </entry>
+ <entry>
+  <title>skyizwhite: cl-web-starter</title>
+  <author>
+   <name>skyizwhite</name>
+  </author>
+  <link href="https://github.com/skyizwhite/cl-web-starter" />
+  <id>urn:rprimus:github:skyizwhite:cl-web-starter</id>
+  <published>2023-03-02T13:27:17Z</published>
+  <updated>2023-03-02T13:27:17Z</updated>
+  <content type="html">
+   Starter kit for web development using Common Lisp
   </content>
  </entry>
  <entry>
@@ -80,84 +171,6 @@
   <updated>2023-03-02T00:39:44Z</updated>
   <content type="html">
    basic functions in Lisp with a REPL
-  </content>
- </entry>
- <entry>
-  <title>no-defun-allowed: freddie-laker</title>
-  <author>
-   <name>no-defun-allowed</name>
-  </author>
-  <link href="https://github.com/no-defun-allowed/freddie-laker" />
-  <id>urn:rprimus:github:no-defun-allowed:freddie-laker</id>
-  <published>2023-03-01T22:20:59Z</published>
-  <updated>2023-03-01T22:20:59Z</updated>
-  <content type="html">
-   Low-effort high-reliability (hopefully) Discord bot API for Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>martincrz: TP3_IA01</title>
-  <author>
-   <name>martincrz</name>
-  </author>
-  <link href="https://github.com/martincrz/TP3_IA01" />
-  <id>urn:rprimus:github:martincrz:TP3_IA01</id>
-  <published>2023-03-01T10:24:58Z</published>
-  <updated>2023-03-01T10:24:58Z</updated>
-  <content type="html">
-   CrÃ©ation d&#039;un systÃ¨me Expert
-  </content>
- </entry>
- <entry>
-  <title>martincrz: TP2_IA01</title>
-  <author>
-   <name>martincrz</name>
-  </author>
-  <link href="https://github.com/martincrz/TP2_IA01" />
-  <id>urn:rprimus:github:martincrz:TP2_IA01</id>
-  <published>2023-03-01T10:24:31Z</published>
-  <updated>2023-03-01T10:24:31Z</updated>
-  <content type="html">
-   CrÃ©ation d&#039;un systÃ¨me Expert
-  </content>
- </entry>
- <entry>
-  <title>Andrepol-afk: JsonParser</title>
-  <author>
-   <name>Andrepol-afk</name>
-  </author>
-  <link href="https://github.com/Andrepol-afk/JsonParser" />
-  <id>urn:rprimus:github:Andrepol-afk:JsonParser</id>
-  <published>2023-03-01T09:48:18Z</published>
-  <updated>2023-03-01T09:48:18Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>makolon: Multimodal_Siamese_Network</title>
-  <author>
-   <name>makolon</name>
-  </author>
-  <link href="https://github.com/makolon/Multimodal_Siamese_Network" />
-  <id>urn:rprimus:github:makolon:Multimodal_Siamese_Network</id>
-  <published>2023-03-01T08:16:44Z</published>
-  <updated>2023-03-01T08:16:44Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>zoeclyatt: cs161-hw3</title>
-  <author>
-   <name>zoeclyatt</name>
-  </author>
-  <link href="https://github.com/zoeclyatt/cs161-hw3" />
-  <id>urn:rprimus:github:zoeclyatt:cs161-hw3</id>
-  <published>2023-03-01T07:35:47Z</published>
-  <updated>2023-03-01T07:35:47Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
