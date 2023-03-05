@@ -2,8 +2,138 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2023-03-04T06:05:03Z</updated>
+<updated>2023-03-05T10:19:38Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>40ants: logging</title>
+  <author>
+   <name>40ants</name>
+  </author>
+  <link href="https://github.com/40ants/logging" />
+  <id>urn:rprimus:github:40ants:logging</id>
+  <published>2023-03-05T10:19:38Z</published>
+  <updated>2023-03-05T10:19:38Z</updated>
+  <content type="html">
+   Functions to configure log4cl for different contexts: REPL, Backend, Command Line Application.
+  </content>
+ </entry>
+ <entry>
+  <title>zoek99: Grammar-Engineering</title>
+  <author>
+   <name>zoek99</name>
+  </author>
+  <link href="https://github.com/zoek99/Grammar-Engineering" />
+  <id>urn:rprimus:github:zoek99:Grammar-Engineering</id>
+  <published>2023-03-05T07:48:26Z</published>
+  <updated>2023-03-05T07:48:26Z</updated>
+  <content type="html">
+   Grammar Engineering
+  </content>
+ </entry>
+ <entry>
+  <title>ellieleep: landOfLisp</title>
+  <author>
+   <name>ellieleep</name>
+  </author>
+  <link href="https://github.com/ellieleep/landOfLisp" />
+  <id>urn:rprimus:github:ellieleep:landOfLisp</id>
+  <published>2023-03-05T05:05:02Z</published>
+  <updated>2023-03-05T05:05:02Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>vindvaki: advent-of-code-2019</title>
+  <author>
+   <name>vindvaki</name>
+  </author>
+  <link href="https://github.com/vindvaki/advent-of-code-2019" />
+  <id>urn:rprimus:github:vindvaki:advent-of-code-2019</id>
+  <published>2023-03-05T02:17:40Z</published>
+  <updated>2023-03-05T02:17:40Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>kuberlog: cyber-logos</title>
+  <author>
+   <name>kuberlog</name>
+  </author>
+  <link href="https://github.com/kuberlog/cyber-logos" />
+  <id>urn:rprimus:github:kuberlog:cyber-logos</id>
+  <published>2023-03-04T21:31:56Z</published>
+  <updated>2023-03-04T21:31:56Z</updated>
+  <content type="html">
+   kuberlog&#039;s Logos de Holon
+  </content>
+ </entry>
+ <entry>
+  <title>davidcristian: SWI-Prolog-CLISP</title>
+  <author>
+   <name>davidcristian</name>
+  </author>
+  <link href="https://github.com/davidcristian/SWI-Prolog-CLISP" />
+  <id>urn:rprimus:github:davidcristian:SWI-Prolog-CLISP</id>
+  <published>2023-03-04T20:49:40Z</published>
+  <updated>2023-03-04T20:49:40Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>ikolesnikes: lisp-exercises</title>
+  <author>
+   <name>ikolesnikes</name>
+  </author>
+  <link href="https://github.com/ikolesnikes/lisp-exercises" />
+  <id>urn:rprimus:github:ikolesnikes:lisp-exercises</id>
+  <published>2023-03-04T20:44:11Z</published>
+  <updated>2023-03-04T20:44:11Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>killermouse0: LearningLisp</title>
+  <author>
+   <name>killermouse0</name>
+  </author>
+  <link href="https://github.com/killermouse0/LearningLisp" />
+  <id>urn:rprimus:github:killermouse0:LearningLisp</id>
+  <published>2023-03-04T17:43:32Z</published>
+  <updated>2023-03-04T17:43:32Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>jbaskeyfield: sbgp</title>
+  <author>
+   <name>jbaskeyfield</name>
+  </author>
+  <link href="https://github.com/jbaskeyfield/sbgp" />
+  <id>urn:rprimus:github:jbaskeyfield:sbgp</id>
+  <published>2023-03-04T16:38:36Z</published>
+  <updated>2023-03-04T16:38:36Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>hikettei: cl-tqdm</title>
+  <author>
+   <name>hikettei</name>
+  </author>
+  <link href="https://github.com/hikettei/cl-tqdm" />
+  <id>urn:rprimus:github:hikettei:cl-tqdm</id>
+  <published>2023-03-04T13:10:24Z</published>
+  <updated>2023-03-04T13:10:24Z</updated>
+  <content type="html">
+   Simple and Fast ProgressBar Library for Common Lisp. (Reimplementation of cl-cram)
+  </content>
+ </entry>
  <entry>
   <title>cerealmatinal: lisp-calc</title>
   <author>
@@ -106,71 +236,6 @@
   <updated>2023-03-03T00:43:08Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>arscode: Lisp_tutoial_codes_2023</title>
-  <author>
-   <name>arscode</name>
-  </author>
-  <link href="https://github.com/arscode/Lisp_tutoial_codes_2023" />
-  <id>urn:rprimus:github:arscode:Lisp_tutoial_codes_2023</id>
-  <published>2023-03-02T19:38:35Z</published>
-  <updated>2023-03-02T19:38:35Z</updated>
-  <content type="html">
-   LISP codes for sem-VI tutorials
-  </content>
- </entry>
- <entry>
-  <title>skyizwhite: cl-web-starter</title>
-  <author>
-   <name>skyizwhite</name>
-  </author>
-  <link href="https://github.com/skyizwhite/cl-web-starter" />
-  <id>urn:rprimus:github:skyizwhite:cl-web-starter</id>
-  <published>2023-03-02T13:27:17Z</published>
-  <updated>2023-03-02T13:27:17Z</updated>
-  <content type="html">
-   Starter kit for web development using Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>funk443: cl-discord</title>
-  <author>
-   <name>funk443</name>
-  </author>
-  <link href="https://github.com/funk443/cl-discord" />
-  <id>urn:rprimus:github:funk443:cl-discord</id>
-  <published>2023-03-02T10:04:46Z</published>
-  <updated>2023-03-02T10:04:46Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>robert-strandh: Iconoclast</title>
-  <author>
-   <name>robert-strandh</name>
-  </author>
-  <link href="https://github.com/robert-strandh/Iconoclast" />
-  <id>urn:rprimus:github:robert-strandh:Iconoclast</id>
-  <published>2023-03-02T08:05:36Z</published>
-  <updated>2023-03-02T08:05:36Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>eanderson15: Lisp-Fun</title>
-  <author>
-   <name>eanderson15</name>
-  </author>
-  <link href="https://github.com/eanderson15/Lisp-Fun" />
-  <id>urn:rprimus:github:eanderson15:Lisp-Fun</id>
-  <published>2023-03-02T00:39:44Z</published>
-  <updated>2023-03-02T00:39:44Z</updated>
-  <content type="html">
-   basic functions in Lisp with a REPL
   </content>
  </entry>
 </feed>
