@@ -2,8 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2023-03-05T10:19:38Z</updated>
+<updated>2023-03-06T09:12:44Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>common-lisp-gui-example: clanki-core</title>
+  <author>
+   <name>common-lisp-gui-example</name>
+  </author>
+  <link href="https://github.com/common-lisp-gui-example/clanki-core" />
+  <id>urn:rprimus:github:common-lisp-gui-example:clanki-core</id>
+  <published>2023-03-06T09:12:44Z</published>
+  <updated>2023-03-06T09:12:44Z</updated>
+  <content type="html">
+   Core of the Clanki app
+  </content>
+ </entry>
+ <entry>
+  <title>svspire: cheap-patmatch</title>
+  <author>
+   <name>svspire</name>
+  </author>
+  <link href="https://github.com/svspire/cheap-patmatch" />
+  <id>urn:rprimus:github:svspire:cheap-patmatch</id>
+  <published>2023-03-06T07:16:33Z</published>
+  <updated>2023-03-06T07:16:33Z</updated>
+  <content type="html">
+   regexp match that makes sense
+  </content>
+ </entry>
+ <entry>
+  <title>g9191hc: LISP</title>
+  <author>
+   <name>g9191hc</name>
+  </author>
+  <link href="https://github.com/g9191hc/LISP" />
+  <id>urn:rprimus:github:g9191hc:LISP</id>
+  <published>2023-03-06T06:07:00Z</published>
+  <updated>2023-03-06T06:07:00Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>biofermin2: blog-tools</title>
+  <author>
+   <name>biofermin2</name>
+  </author>
+  <link href="https://github.com/biofermin2/blog-tools" />
+  <id>urn:rprimus:github:biofermin2:blog-tools</id>
+  <published>2023-03-06T02:19:09Z</published>
+  <updated>2023-03-06T02:19:09Z</updated>
+  <content type="html">
+   a suite of tools to build my blog
+  </content>
+ </entry>
+ <entry>
+  <title>shamazmazum: stateless-iterators</title>
+  <author>
+   <name>shamazmazum</name>
+  </author>
+  <link href="https://github.com/shamazmazum/stateless-iterators" />
+  <id>urn:rprimus:github:shamazmazum:stateless-iterators</id>
+  <published>2023-03-05T17:51:28Z</published>
+  <updated>2023-03-05T17:51:28Z</updated>
+  <content type="html">
+   Lua-like stateless iterators for Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>DavidSe7enLynch: mixed_mode_vlsi</title>
+  <author>
+   <name>DavidSe7enLynch</name>
+  </author>
+  <link href="https://github.com/DavidSe7enLynch/mixed_mode_vlsi" />
+  <id>urn:rprimus:github:DavidSe7enLynch:mixed_mode_vlsi</id>
+  <published>2023-03-05T16:56:15Z</published>
+  <updated>2023-03-05T16:56:15Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>40ants: slynk</title>
+  <author>
+   <name>40ants</name>
+  </author>
+  <link href="https://github.com/40ants/slynk" />
+  <id>urn:rprimus:github:40ants:slynk</id>
+  <published>2023-03-05T10:52:44Z</published>
+  <updated>2023-03-05T10:52:44Z</updated>
+  <content type="html">
+   Utilities to start SLYNK if needed and to track active connections.
+  </content>
+ </entry>
  <entry>
   <title>40ants: logging</title>
   <author>
@@ -52,6 +143,19 @@
   <id>urn:rprimus:github:vindvaki:advent-of-code-2019</id>
   <published>2023-03-05T02:17:40Z</published>
   <updated>2023-03-05T02:17:40Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>arutonee: slshrc</title>
+  <author>
+   <name>arutonee</name>
+  </author>
+  <link href="https://github.com/arutonee/slshrc" />
+  <id>urn:rprimus:github:arutonee:slshrc</id>
+  <published>2023-03-05T02:12:54Z</published>
+  <updated>2023-03-05T02:12:54Z</updated>
   <content type="html">
    
   </content>
@@ -145,97 +249,6 @@
   <updated>2023-03-04T06:05:03Z</updated>
   <content type="html">
    Basic Lisp interpreter for math expressions using eval and input processing functions.
-  </content>
- </entry>
- <entry>
-  <title>chee: cl-sdl2-ttf</title>
-  <author>
-   <name>chee</name>
-  </author>
-  <link href="https://github.com/chee/cl-sdl2-ttf" />
-  <id>urn:rprimus:github:chee:cl-sdl2-ttf</id>
-  <published>2023-03-03T23:57:01Z</published>
-  <updated>2023-03-03T23:57:01Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>chee: cl-sdl2</title>
-  <author>
-   <name>chee</name>
-  </author>
-  <link href="https://github.com/chee/cl-sdl2" />
-  <id>urn:rprimus:github:chee:cl-sdl2</id>
-  <published>2023-03-03T23:56:29Z</published>
-  <updated>2023-03-03T23:56:29Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Bike: compile-bench</title>
-  <author>
-   <name>Bike</name>
-  </author>
-  <link href="https://github.com/Bike/compile-bench" />
-  <id>urn:rprimus:github:Bike:compile-bench</id>
-  <published>2023-03-03T20:02:03Z</published>
-  <updated>2023-03-03T20:02:03Z</updated>
-  <content type="html">
-   Utilities for benchmarking compilers
-  </content>
- </entry>
- <entry>
-  <title>aminaDziriexpertise: pluginSDP_v01</title>
-  <author>
-   <name>aminaDziriexpertise</name>
-  </author>
-  <link href="https://github.com/aminaDziriexpertise/pluginSDP_v01" />
-  <id>urn:rprimus:github:aminaDziriexpertise:pluginSDP_v01</id>
-  <published>2023-03-03T10:18:02Z</published>
-  <updated>2023-03-03T10:18:02Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>mark8769: LightsOut</title>
-  <author>
-   <name>mark8769</name>
-  </author>
-  <link href="https://github.com/mark8769/LightsOut" />
-  <id>urn:rprimus:github:mark8769:LightsOut</id>
-  <published>2023-03-03T05:15:27Z</published>
-  <updated>2023-03-03T05:15:27Z</updated>
-  <content type="html">
-   Lights out game implemented in Lisp, part of the CS450 course.
-  </content>
- </entry>
- <entry>
-  <title>tonymillion: VescNinebotDash</title>
-  <author>
-   <name>tonymillion</name>
-  </author>
-  <link href="https://github.com/tonymillion/VescNinebotDash" />
-  <id>urn:rprimus:github:tonymillion:VescNinebotDash</id>
-  <published>2023-03-03T04:38:30Z</published>
-  <updated>2023-03-03T04:38:30Z</updated>
-  <content type="html">
-   Vesc based Lisp script to use a Ninebot protocol dashboard (either G30 or ES2/ES4 based) 
-  </content>
- </entry>
- <entry>
-  <title>jadabonnett: 280_Back_Chain</title>
-  <author>
-   <name>jadabonnett</name>
-  </author>
-  <link href="https://github.com/jadabonnett/280_Back_Chain" />
-  <id>urn:rprimus:github:jadabonnett:280_Back_Chain</id>
-  <published>2023-03-03T00:43:08Z</published>
-  <updated>2023-03-03T00:43:08Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
