@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2023-03-07T07:08:27Z</updated>
+<updated>2023-03-07T17:37:14Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>cluffa: learning-exercises</title>
+  <author>
+   <name>cluffa</name>
+  </author>
+  <link href="https://github.com/cluffa/learning-exercises" />
+  <id>urn:rprimus:github:cluffa:learning-exercises</id>
+  <published>2023-03-07T17:37:14Z</published>
+  <updated>2023-03-07T17:37:14Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>ariaghora: nim-polars</title>
+  <author>
+   <name>ariaghora</name>
+  </author>
+  <link href="https://github.com/ariaghora/nim-polars" />
+  <id>urn:rprimus:github:ariaghora:nim-polars</id>
+  <published>2023-03-07T14:22:43Z</published>
+  <updated>2023-03-07T14:22:43Z</updated>
+  <content type="html">
+   DataFrame for Nim powered by Polars
+  </content>
+ </entry>
  <entry>
   <title>aerphanas: Advent-of-Code</title>
   <author>
@@ -14,7 +40,7 @@
   <published>2023-03-07T07:08:27Z</published>
   <updated>2023-03-07T07:08:27Z</updated>
   <content type="html">
-   
+   my attempts solving problem on Advent Of Code
   </content>
  </entry>
  <entry>
@@ -132,71 +158,6 @@
   <updated>2023-03-06T00:58:03Z</updated>
   <content type="html">
    wrapper of rosidl_runtime_c 
-  </content>
- </entry>
- <entry>
-  <title>choltreppe: unibs</title>
-  <author>
-   <name>choltreppe</name>
-  </author>
-  <link href="https://github.com/choltreppe/unibs" />
-  <id>urn:rprimus:github:choltreppe:unibs</id>
-  <published>2023-03-05T22:38:47Z</published>
-  <updated>2023-03-05T22:38:47Z</updated>
-  <content type="html">
-   binary de-/serialization that works on js, c and comp-time
-  </content>
- </entry>
- <entry>
-  <title>Ivansete: nim_crypto</title>
-  <author>
-   <name>Ivansete</name>
-  </author>
-  <link href="https://github.com/Ivansete/nim_crypto" />
-  <id>urn:rprimus:github:Ivansete:nim_crypto</id>
-  <published>2023-03-05T22:34:56Z</published>
-  <updated>2023-03-05T22:34:56Z</updated>
-  <content type="html">
-   Nim code with encryption algorithm(s)
-  </content>
- </entry>
- <entry>
-  <title>itaymigdal: GetSystem</title>
-  <author>
-   <name>itaymigdal</name>
-  </author>
-  <link href="https://github.com/itaymigdal/GetSystem" />
-  <id>urn:rprimus:github:itaymigdal:GetSystem</id>
-  <published>2023-03-05T20:53:33Z</published>
-  <updated>2023-03-05T20:53:33Z</updated>
-  <content type="html">
-   Spawn SYSTEM shells like a PRO!
-  </content>
- </entry>
- <entry>
-  <title>SirNickolas: let-utils-nim</title>
-  <author>
-   <name>SirNickolas</name>
-  </author>
-  <link href="https://github.com/SirNickolas/let-utils-nim" />
-  <id>urn:rprimus:github:SirNickolas:let-utils-nim</id>
-  <published>2023-03-05T16:25:28Z</published>
-  <updated>2023-03-05T16:25:28Z</updated>
-  <content type="html">
-   A few handy macros for those who prefer `let` over `var`
-  </content>
- </entry>
- <entry>
-  <title>Wraith29: Parsers</title>
-  <author>
-   <name>Wraith29</name>
-  </author>
-  <link href="https://github.com/Wraith29/Parsers" />
-  <id>urn:rprimus:github:Wraith29:Parsers</id>
-  <published>2023-03-05T00:25:53Z</published>
-  <updated>2023-03-05T00:25:53Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>

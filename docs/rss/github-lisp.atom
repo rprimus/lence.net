@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2023-03-07T04:50:31Z</updated>
+<updated>2023-03-08T01:22:34Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>WillForan: aagui</title>
+  <author>
+   <name>WillForan</name>
+  </author>
+  <link href="https://github.com/WillForan/aagui" />
+  <id>urn:rprimus:github:WillForan:aagui</id>
+  <published>2023-03-08T01:22:34Z</published>
+  <updated>2023-03-08T01:22:34Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>anranyicheng: alexandria</title>
+  <author>
+   <name>anranyicheng</name>
+  </author>
+  <link href="https://github.com/anranyicheng/alexandria" />
+  <id>urn:rprimus:github:anranyicheng:alexandria</id>
+  <published>2023-03-08T00:26:32Z</published>
+  <updated>2023-03-08T00:26:32Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>svspire: ccl-code-mining</title>
+  <author>
+   <name>svspire</name>
+  </author>
+  <link href="https://github.com/svspire/ccl-code-mining" />
+  <id>urn:rprimus:github:svspire:ccl-code-mining</id>
+  <published>2023-03-07T22:23:54Z</published>
+  <updated>2023-03-07T22:23:54Z</updated>
+  <content type="html">
+   Code to mine the ccl source code. Maybe insights will ensue.
+  </content>
+ </entry>
+ <entry>
+  <title>ClaudiaIoana: Lisp</title>
+  <author>
+   <name>ClaudiaIoana</name>
+  </author>
+  <link href="https://github.com/ClaudiaIoana/Lisp" />
+  <id>urn:rprimus:github:ClaudiaIoana:Lisp</id>
+  <published>2023-03-07T20:47:02Z</published>
+  <updated>2023-03-07T20:47:02Z</updated>
+  <content type="html">
+   Lisp projects
+  </content>
+ </entry>
  <entry>
   <title>jetmonk: sbcl-web-backtrace-mem-crash</title>
   <author>
@@ -106,110 +158,6 @@
   <updated>2023-03-06T02:19:09Z</updated>
   <content type="html">
    a suite of tools to build my blog
-  </content>
- </entry>
- <entry>
-  <title>shamazmazum: stateless-iterators</title>
-  <author>
-   <name>shamazmazum</name>
-  </author>
-  <link href="https://github.com/shamazmazum/stateless-iterators" />
-  <id>urn:rprimus:github:shamazmazum:stateless-iterators</id>
-  <published>2023-03-05T17:51:28Z</published>
-  <updated>2023-03-05T17:51:28Z</updated>
-  <content type="html">
-   Lua-like stateless iterators for Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>DavidSe7enLynch: mixed_mode_vlsi</title>
-  <author>
-   <name>DavidSe7enLynch</name>
-  </author>
-  <link href="https://github.com/DavidSe7enLynch/mixed_mode_vlsi" />
-  <id>urn:rprimus:github:DavidSe7enLynch:mixed_mode_vlsi</id>
-  <published>2023-03-05T16:56:15Z</published>
-  <updated>2023-03-05T16:56:15Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>40ants: slynk</title>
-  <author>
-   <name>40ants</name>
-  </author>
-  <link href="https://github.com/40ants/slynk" />
-  <id>urn:rprimus:github:40ants:slynk</id>
-  <published>2023-03-05T10:52:44Z</published>
-  <updated>2023-03-05T10:52:44Z</updated>
-  <content type="html">
-   Utilities to start SLYNK if needed and to track active connections.
-  </content>
- </entry>
- <entry>
-  <title>40ants: logging</title>
-  <author>
-   <name>40ants</name>
-  </author>
-  <link href="https://github.com/40ants/logging" />
-  <id>urn:rprimus:github:40ants:logging</id>
-  <published>2023-03-05T10:19:38Z</published>
-  <updated>2023-03-05T10:19:38Z</updated>
-  <content type="html">
-   Functions to configure log4cl for different contexts: REPL, Backend, Command Line Application.
-  </content>
- </entry>
- <entry>
-  <title>zoek99: Grammar-Engineering</title>
-  <author>
-   <name>zoek99</name>
-  </author>
-  <link href="https://github.com/zoek99/Grammar-Engineering" />
-  <id>urn:rprimus:github:zoek99:Grammar-Engineering</id>
-  <published>2023-03-05T07:48:26Z</published>
-  <updated>2023-03-05T07:48:26Z</updated>
-  <content type="html">
-   Grammar Engineering
-  </content>
- </entry>
- <entry>
-  <title>ellieleep: landOfLisp</title>
-  <author>
-   <name>ellieleep</name>
-  </author>
-  <link href="https://github.com/ellieleep/landOfLisp" />
-  <id>urn:rprimus:github:ellieleep:landOfLisp</id>
-  <published>2023-03-05T05:05:02Z</published>
-  <updated>2023-03-05T05:05:02Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>vindvaki: advent-of-code-2019</title>
-  <author>
-   <name>vindvaki</name>
-  </author>
-  <link href="https://github.com/vindvaki/advent-of-code-2019" />
-  <id>urn:rprimus:github:vindvaki:advent-of-code-2019</id>
-  <published>2023-03-05T02:17:40Z</published>
-  <updated>2023-03-05T02:17:40Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>arutonee: slshrc</title>
-  <author>
-   <name>arutonee</name>
-  </author>
-  <link href="https://github.com/arutonee/slshrc" />
-  <id>urn:rprimus:github:arutonee:slshrc</id>
-  <published>2023-03-05T02:12:54Z</published>
-  <updated>2023-03-05T02:12:54Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
