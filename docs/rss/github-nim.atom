@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2023-03-09T08:57:46Z</updated>
+<updated>2023-03-09T14:02:41Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>AnotherPillow: winalias-installer</title>
+  <author>
+   <name>AnotherPillow</name>
+  </author>
+  <link href="https://github.com/AnotherPillow/winalias-installer" />
+  <id>urn:rprimus:github:AnotherPillow:winalias-installer</id>
+  <published>2023-03-09T14:02:41Z</published>
+  <updated>2023-03-09T14:02:41Z</updated>
+  <content type="html">
+   Installer for https://github.com/AnotherPillow/winalias
+  </content>
+ </entry>
+ <entry>
+  <title>neroist: webview</title>
+  <author>
+   <name>neroist</name>
+  </author>
+  <link href="https://github.com/neroist/webview" />
+  <id>urn:rprimus:github:neroist:webview</id>
+  <published>2023-03-09T12:28:14Z</published>
+  <updated>2023-03-09T12:28:14Z</updated>
+  <content type="html">
+   Updated bindings for Webview for Nim.
+  </content>
+ </entry>
  <entry>
   <title>Athlon64: paginate</title>
   <author>
@@ -93,58 +119,6 @@
   <updated>2023-03-08T11:16:16Z</updated>
   <content type="html">
    frontend github gist for terminal (WIP)
-  </content>
- </entry>
- <entry>
-  <title>ariaghora: nim-polars</title>
-  <author>
-   <name>ariaghora</name>
-  </author>
-  <link href="https://github.com/ariaghora/nim-polars" />
-  <id>urn:rprimus:github:ariaghora:nim-polars</id>
-  <published>2023-03-07T14:22:43Z</published>
-  <updated>2023-03-07T14:22:43Z</updated>
-  <content type="html">
-   DataFrame for Nim powered by Polars
-  </content>
- </entry>
- <entry>
-  <title>aerphanas: Advent-of-Code</title>
-  <author>
-   <name>aerphanas</name>
-  </author>
-  <link href="https://github.com/aerphanas/Advent-of-Code" />
-  <id>urn:rprimus:github:aerphanas:Advent-of-Code</id>
-  <published>2023-03-07T07:08:27Z</published>
-  <updated>2023-03-07T07:08:27Z</updated>
-  <content type="html">
-   my attempts solving problem on Advent Of Code
-  </content>
- </entry>
- <entry>
-  <title>nekoding: wilayahindonesia-nim</title>
-  <author>
-   <name>nekoding</name>
-  </author>
-  <link href="https://github.com/nekoding/wilayahindonesia-nim" />
-  <id>urn:rprimus:github:nekoding:wilayahindonesia-nim</id>
-  <published>2023-03-07T04:31:19Z</published>
-  <updated>2023-03-07T04:31:19Z</updated>
-  <content type="html">
-   Library data wilayah indonesia
-  </content>
- </entry>
- <entry>
-  <title>neroist: csvtbl</title>
-  <author>
-   <name>neroist</name>
-  </author>
-  <link href="https://github.com/neroist/csvtbl" />
-  <id>urn:rprimus:github:neroist:csvtbl</id>
-  <published>2023-03-07T03:57:54Z</published>
-  <updated>2023-03-07T03:57:54Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
