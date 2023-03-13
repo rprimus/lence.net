@@ -2,8 +2,138 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2023-03-12T07:04:34Z</updated>
+<updated>2023-03-13T07:03:09Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>iwasemman: vimacs</title>
+  <author>
+   <name>iwasemman</name>
+  </author>
+  <link href="https://github.com/iwasemman/vimacs" />
+  <id>urn:rprimus:github:iwasemman:vimacs</id>
+  <published>2023-03-13T07:03:09Z</published>
+  <updated>2023-03-13T07:03:09Z</updated>
+  <content type="html">
+   Emman&#039;s personal emacs config
+  </content>
+ </entry>
+ <entry>
+  <title>zerolfx: .doom.d</title>
+  <author>
+   <name>zerolfx</name>
+  </author>
+  <link href="https://github.com/zerolfx/.doom.d" />
+  <id>urn:rprimus:github:zerolfx:.doom.d</id>
+  <published>2023-03-13T06:37:00Z</published>
+  <updated>2023-03-13T06:37:00Z</updated>
+  <content type="html">
+   Personal configuration for Doom Emacs.
+  </content>
+ </entry>
+ <entry>
+  <title>parmar1857: config-files</title>
+  <author>
+   <name>parmar1857</name>
+  </author>
+  <link href="https://github.com/parmar1857/config-files" />
+  <id>urn:rprimus:github:parmar1857:config-files</id>
+  <published>2023-03-13T06:15:24Z</published>
+  <updated>2023-03-13T06:15:24Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>hsuanhsu: emacs.d</title>
+  <author>
+   <name>hsuanhsu</name>
+  </author>
+  <link href="https://github.com/hsuanhsu/emacs.d" />
+  <id>urn:rprimus:github:hsuanhsu:emacs.d</id>
+  <published>2023-03-13T02:39:26Z</published>
+  <updated>2023-03-13T02:39:26Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>rkallio: ol-straight</title>
+  <author>
+   <name>rkallio</name>
+  </author>
+  <link href="https://github.com/rkallio/ol-straight" />
+  <id>urn:rprimus:github:rkallio:ol-straight</id>
+  <published>2023-03-12T20:02:47Z</published>
+  <updated>2023-03-12T20:02:47Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>nshan651: emacs.d</title>
+  <author>
+   <name>nshan651</name>
+  </author>
+  <link href="https://github.com/nshan651/emacs.d" />
+  <id>urn:rprimus:github:nshan651:emacs.d</id>
+  <published>2023-03-12T18:48:55Z</published>
+  <updated>2023-03-12T18:48:55Z</updated>
+  <content type="html">
+   My emacs config (WiP)
+  </content>
+ </entry>
+ <entry>
+  <title>nukoseer: emacs-config</title>
+  <author>
+   <name>nukoseer</name>
+  </author>
+  <link href="https://github.com/nukoseer/emacs-config" />
+  <id>urn:rprimus:github:nukoseer:emacs-config</id>
+  <published>2023-03-12T17:57:42Z</published>
+  <updated>2023-03-12T17:57:42Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>jthing: apl-mode</title>
+  <author>
+   <name>jthing</name>
+  </author>
+  <link href="https://github.com/jthing/apl-mode" />
+  <id>urn:rprimus:github:jthing:apl-mode</id>
+  <published>2023-03-12T17:19:50Z</published>
+  <updated>2023-03-12T17:19:50Z</updated>
+  <content type="html">
+   A APL minor mode for april
+  </content>
+ </entry>
+ <entry>
+  <title>zoliky: playground</title>
+  <author>
+   <name>zoliky</name>
+  </author>
+  <link href="https://github.com/zoliky/playground" />
+  <id>urn:rprimus:github:zoliky:playground</id>
+  <published>2023-03-12T17:10:53Z</published>
+  <updated>2023-03-12T17:10:53Z</updated>
+  <content type="html">
+   A modular GNU Emacs configuration. Work in progress.
+  </content>
+ </entry>
+ <entry>
+  <title>Violacie: dots</title>
+  <author>
+   <name>Violacie</name>
+  </author>
+  <link href="https://github.com/Violacie/dots" />
+  <id>urn:rprimus:github:Violacie:dots</id>
+  <published>2023-03-12T09:42:46Z</published>
+  <updated>2023-03-12T09:42:46Z</updated>
+  <content type="html">
+   Settings for apps I use
+  </content>
+ </entry>
  <entry>
   <title>bobeemer: emacs.d</title>
   <author>
@@ -57,19 +187,6 @@
   </content>
  </entry>
  <entry>
-  <title>org-noter: org-noter</title>
-  <author>
-   <name>org-noter</name>
-  </author>
-  <link href="https://github.com/org-noter/org-noter" />
-  <id>urn:rprimus:github:org-noter:org-noter</id>
-  <published>2023-03-12T02:06:08Z</published>
-  <updated>2023-03-12T02:06:08Z</updated>
-  <content type="html">
-   An Emacs document annotator using Org-mode.
-  </content>
- </entry>
- <entry>
   <title>duien: caves-of-qud-theme</title>
   <author>
    <name>duien</name>
@@ -105,7 +222,7 @@
   <published>2023-03-12T00:03:19Z</published>
   <updated>2023-03-12T00:03:19Z</updated>
   <content type="html">
-   Mirror of the denote-menu package from GNU ELPA, current as of 2023-03-12
+   Mirror of the denote-menu package from GNU ELPA, current as of 2023-03-13
   </content>
  </entry>
  <entry>
@@ -118,7 +235,20 @@
   <published>2023-03-12T00:02:39Z</published>
   <updated>2023-03-12T00:02:39Z</updated>
   <content type="html">
-   Mirror of the beardbolt package from GNU ELPA, current as of 2023-03-12
+   Mirror of the beardbolt package from GNU ELPA, current as of 2023-03-13
+  </content>
+ </entry>
+ <entry>
+  <title>9ziggy9: x220-dotfiles</title>
+  <author>
+   <name>9ziggy9</name>
+  </author>
+  <link href="https://github.com/9ziggy9/x220-dotfiles" />
+  <id>urn:rprimus:github:9ziggy9:x220-dotfiles</id>
+  <published>2023-03-11T23:06:13Z</published>
+  <updated>2023-03-11T23:06:13Z</updated>
+  <content type="html">
+   
   </content>
  </entry>
  <entry>
@@ -132,6 +262,19 @@
   <updated>2023-03-11T21:12:05Z</updated>
   <content type="html">
    my emacs config
+  </content>
+ </entry>
+ <entry>
+  <title>gwejones: dotfiles</title>
+  <author>
+   <name>gwejones</name>
+  </author>
+  <link href="https://github.com/gwejones/dotfiles" />
+  <id>urn:rprimus:github:gwejones:dotfiles</id>
+  <published>2023-03-11T18:16:32Z</published>
+  <updated>2023-03-11T18:16:32Z</updated>
+  <content type="html">
+   My Linux Config Files
   </content>
  </entry>
  <entry>
@@ -249,318 +392,6 @@
   <updated>2023-03-11T02:01:12Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>Aspectsides: dotfiles</title>
-  <author>
-   <name>Aspectsides</name>
-  </author>
-  <link href="https://github.com/Aspectsides/dotfiles" />
-  <id>urn:rprimus:github:Aspectsides:dotfiles</id>
-  <published>2023-03-11T00:47:31Z</published>
-  <updated>2023-03-11T00:47:31Z</updated>
-  <content type="html">
-   My dotfiles using Chezmoi.
-  </content>
- </entry>
- <entry>
-  <title>jeffkreeftmeijer: ox-md-title.el</title>
-  <author>
-   <name>jeffkreeftmeijer</name>
-  </author>
-  <link href="https://github.com/jeffkreeftmeijer/ox-md-title.el" />
-  <id>urn:rprimus:github:jeffkreeftmeijer:ox-md-title.el</id>
-  <published>2023-03-10T23:18:14Z</published>
-  <updated>2023-03-10T23:18:14Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>charmitro: .emacs.d</title>
-  <author>
-   <name>charmitro</name>
-  </author>
-  <link href="https://github.com/charmitro/.emacs.d" />
-  <id>urn:rprimus:github:charmitro:.emacs.d</id>
-  <published>2023-03-10T21:22:36Z</published>
-  <updated>2023-03-10T21:22:36Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ikapo: treemacs-material-icons</title>
-  <author>
-   <name>ikapo</name>
-  </author>
-  <link href="https://github.com/ikapo/treemacs-material-icons" />
-  <id>urn:rprimus:github:ikapo:treemacs-material-icons</id>
-  <published>2023-03-10T20:26:55Z</published>
-  <updated>2023-03-10T20:26:55Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>mmlindeboom: doom.d</title>
-  <author>
-   <name>mmlindeboom</name>
-  </author>
-  <link href="https://github.com/mmlindeboom/doom.d" />
-  <id>urn:rprimus:github:mmlindeboom:doom.d</id>
-  <published>2023-03-10T19:20:11Z</published>
-  <updated>2023-03-10T19:20:11Z</updated>
-  <content type="html">
-   Doom emacs config
-  </content>
- </entry>
- <entry>
-  <title>nchapon: .emacs.d</title>
-  <author>
-   <name>nchapon</name>
-  </author>
-  <link href="https://github.com/nchapon/.emacs.d" />
-  <id>urn:rprimus:github:nchapon:.emacs.d</id>
-  <published>2023-03-10T17:43:14Z</published>
-  <updated>2023-03-10T17:43:14Z</updated>
-  <content type="html">
-   New emacs.d (prototype)
-  </content>
- </entry>
- <entry>
-  <title>czqhurricnae: emacs-azure-tts</title>
-  <author>
-   <name>czqhurricnae</name>
-  </author>
-  <link href="https://github.com/czqhurricnae/emacs-azure-tts" />
-  <id>urn:rprimus:github:czqhurricnae:emacs-azure-tts</id>
-  <published>2023-03-10T17:21:25Z</published>
-  <updated>2023-03-10T17:21:25Z</updated>
-  <content type="html">
-   Emacs azure TTS (Text-to-Speak).
-  </content>
- </entry>
- <entry>
-  <title>Grant-S-Z: .emacs.a</title>
-  <author>
-   <name>Grant-S-Z</name>
-  </author>
-  <link href="https://github.com/Grant-S-Z/.emacs.a" />
-  <id>urn:rprimus:github:Grant-S-Z:.emacs.a</id>
-  <published>2023-03-10T17:03:44Z</published>
-  <updated>2023-03-10T17:03:44Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Fuco1: emacs-lex-format</title>
-  <author>
-   <name>Fuco1</name>
-  </author>
-  <link href="https://github.com/Fuco1/emacs-lex-format" />
-  <id>urn:rprimus:github:Fuco1:emacs-lex-format</id>
-  <published>2023-03-10T16:21:08Z</published>
-  <updated>2023-03-10T16:21:08Z</updated>
-  <content type="html">
-   Lexical scope aware format strings with {{mustache}} templating
-  </content>
- </entry>
- <entry>
-  <title>Fuco1: emacs-lgr</title>
-  <author>
-   <name>Fuco1</name>
-  </author>
-  <link href="https://github.com/Fuco1/emacs-lgr" />
-  <id>urn:rprimus:github:Fuco1:emacs-lgr</id>
-  <published>2023-03-10T16:09:31Z</published>
-  <updated>2023-03-10T16:09:31Z</updated>
-  <content type="html">
-   A fully featured logging framework for Emacs
-  </content>
- </entry>
- <entry>
-  <title>alextsigilis: emacs-config</title>
-  <author>
-   <name>alextsigilis</name>
-  </author>
-  <link href="https://github.com/alextsigilis/emacs-config" />
-  <id>urn:rprimus:github:alextsigilis:emacs-config</id>
-  <published>2023-03-10T16:06:01Z</published>
-  <updated>2023-03-10T16:06:01Z</updated>
-  <content type="html">
-   Me emacs configuration
-  </content>
- </entry>
- <entry>
-  <title>Servallou: my_emacs</title>
-  <author>
-   <name>Servallou</name>
-  </author>
-  <link href="https://github.com/Servallou/my_emacs" />
-  <id>urn:rprimus:github:Servallou:my_emacs</id>
-  <published>2023-03-10T13:57:37Z</published>
-  <updated>2023-03-10T13:57:37Z</updated>
-  <content type="html">
-   emacs profile for me
-  </content>
- </entry>
- <entry>
-  <title>RobertPlant: time-uuid-mode</title>
-  <author>
-   <name>RobertPlant</name>
-  </author>
-  <link href="https://github.com/RobertPlant/time-uuid-mode" />
-  <id>urn:rprimus:github:RobertPlant:time-uuid-mode</id>
-  <published>2023-03-10T13:34:57Z</published>
-  <updated>2023-03-10T13:34:57Z</updated>
-  <content type="html">
-   Emacs Minor mode to overlay the date contained within a UUID v1
-  </content>
- </entry>
- <entry>
-  <title>Microservant: FLICKER-PRACTICE</title>
-  <author>
-   <name>Microservant</name>
-  </author>
-  <link href="https://github.com/Microservant/FLICKER-PRACTICE" />
-  <id>urn:rprimus:github:Microservant:FLICKER-PRACTICE</id>
-  <published>2023-03-10T11:00:52Z</published>
-  <updated>2023-03-10T11:00:52Z</updated>
-  <content type="html">
-   :exclamation:Â ThisÂ isÂ aÂ read-onlyÂ mirrorÂ ofÂ theÂ CRANÂ RÂ packageÂ repository.  catfunÂ âÂ CategoricalÂ DataÂ Analysis
-  </content>
- </entry>
- <entry>
-  <title>sergiolib: emacs.d</title>
-  <author>
-   <name>sergiolib</name>
-  </author>
-  <link href="https://github.com/sergiolib/emacs.d" />
-  <id>urn:rprimus:github:sergiolib:emacs.d</id>
-  <published>2023-03-10T10:56:18Z</published>
-  <updated>2023-03-10T10:56:18Z</updated>
-  <content type="html">
-   My emacs configuration
-  </content>
- </entry>
- <entry>
-  <title>KarimAziev: typedoc</title>
-  <author>
-   <name>KarimAziev</name>
-  </author>
-  <link href="https://github.com/KarimAziev/typedoc" />
-  <id>urn:rprimus:github:KarimAziev:typedoc</id>
-  <published>2023-03-10T10:31:19Z</published>
-  <updated>2023-03-10T10:31:19Z</updated>
-  <content type="html">
-   Typedoc utils.
-  </content>
- </entry>
- <entry>
-  <title>Hectarea1996: emacs-windows</title>
-  <author>
-   <name>Hectarea1996</name>
-  </author>
-  <link href="https://github.com/Hectarea1996/emacs-windows" />
-  <id>urn:rprimus:github:Hectarea1996:emacs-windows</id>
-  <published>2023-03-10T09:53:04Z</published>
-  <updated>2023-03-10T09:53:04Z</updated>
-  <content type="html">
-   Emacs conf file for windows
-  </content>
- </entry>
- <entry>
-  <title>pjarra: emacsd</title>
-  <author>
-   <name>pjarra</name>
-  </author>
-  <link href="https://github.com/pjarra/emacsd" />
-  <id>urn:rprimus:github:pjarra:emacsd</id>
-  <published>2023-03-10T09:35:24Z</published>
-  <updated>2023-03-10T09:35:24Z</updated>
-  <content type="html">
-   Emacs configuration (based on corgi)
-  </content>
- </entry>
- <entry>
-  <title>42LoCo42: emacs-config</title>
-  <author>
-   <name>42LoCo42</name>
-  </author>
-  <link href="https://github.com/42LoCo42/emacs-config" />
-  <id>urn:rprimus:github:42LoCo42:emacs-config</id>
-  <published>2023-03-10T08:56:10Z</published>
-  <updated>2023-03-10T08:56:10Z</updated>
-  <content type="html">
-   My own Emacs configuration. Inspired by Doom Emacs.
-  </content>
- </entry>
- <entry>
-  <title>nivassai03: .doom.d</title>
-  <author>
-   <name>nivassai03</name>
-  </author>
-  <link href="https://github.com/nivassai03/.doom.d" />
-  <id>urn:rprimus:github:nivassai03:.doom.d</id>
-  <published>2023-03-10T08:13:19Z</published>
-  <updated>2023-03-10T08:13:19Z</updated>
-  <content type="html">
-   Doom Emacs Config
-  </content>
- </entry>
- <entry>
-  <title>thwh: emacs.d</title>
-  <author>
-   <name>thwh</name>
-  </author>
-  <link href="https://github.com/thwh/emacs.d" />
-  <id>urn:rprimus:github:thwh:emacs.d</id>
-  <published>2023-03-10T04:36:28Z</published>
-  <updated>2023-03-10T04:36:28Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>luotuoqingshan: .emacs.d</title>
-  <author>
-   <name>luotuoqingshan</name>
-  </author>
-  <link href="https://github.com/luotuoqingshan/.emacs.d" />
-  <id>urn:rprimus:github:luotuoqingshan:.emacs.d</id>
-  <published>2023-03-10T02:45:07Z</published>
-  <updated>2023-03-10T02:45:07Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>linux-club-umd: presentations</title>
-  <author>
-   <name>linux-club-umd</name>
-  </author>
-  <link href="https://github.com/linux-club-umd/presentations" />
-  <id>urn:rprimus:github:linux-club-umd:presentations</id>
-  <published>2023-03-10T02:25:05Z</published>
-  <updated>2023-03-10T02:25:05Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jeremyblacker: dotfiles</title>
-  <author>
-   <name>jeremyblacker</name>
-  </author>
-  <link href="https://github.com/jeremyblacker/dotfiles" />
-  <id>urn:rprimus:github:jeremyblacker:dotfiles</id>
-  <published>2023-03-10T01:15:39Z</published>
-  <updated>2023-03-10T01:15:39Z</updated>
-  <content type="html">
-   My configuration files
   </content>
  </entry>
 </feed>

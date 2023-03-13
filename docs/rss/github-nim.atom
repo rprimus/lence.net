@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2023-03-12T06:36:27Z</updated>
+<updated>2023-03-13T06:58:23Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>nekoding-labs: caesarnim</title>
+  <author>
+   <name>nekoding-labs</name>
+  </author>
+  <link href="https://github.com/nekoding-labs/caesarnim" />
+  <id>urn:rprimus:github:nekoding-labs:caesarnim</id>
+  <published>2023-03-13T06:58:23Z</published>
+  <updated>2023-03-13T06:58:23Z</updated>
+  <content type="html">
+   Simple implementation caesar cipher written in nim
+  </content>
+ </entry>
+ <entry>
+  <title>Wraith29: nimfmt</title>
+  <author>
+   <name>Wraith29</name>
+  </author>
+  <link href="https://github.com/Wraith29/nimfmt" />
+  <id>urn:rprimus:github:Wraith29:nimfmt</id>
+  <published>2023-03-12T23:08:20Z</published>
+  <updated>2023-03-12T23:08:20Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>jadenhensley: nim_raylib_template</title>
+  <author>
+   <name>jadenhensley</name>
+  </author>
+  <link href="https://github.com/jadenhensley/nim_raylib_template" />
+  <id>urn:rprimus:github:jadenhensley:nim_raylib_template</id>
+  <published>2023-03-12T20:50:20Z</published>
+  <updated>2023-03-12T20:50:20Z</updated>
+  <content type="html">
+   Nim Game Project Template using Raylib.
+  </content>
+ </entry>
+ <entry>
+  <title>gitb8: MicroBench_Nim</title>
+  <author>
+   <name>gitb8</name>
+  </author>
+  <link href="https://github.com/gitb8/MicroBench_Nim" />
+  <id>urn:rprimus:github:gitb8:MicroBench_Nim</id>
+  <published>2023-03-12T12:38:10Z</published>
+  <updated>2023-03-12T12:38:10Z</updated>
+  <content type="html">
+   Command line application to test and compare the speed of two functions/implementations. Nim version.
+  </content>
+ </entry>
  <entry>
   <title>TaxMachine: nim-webhook-spammer</title>
   <author>
@@ -83,16 +135,16 @@
   </content>
  </entry>
  <entry>
-  <title>darkcharmander: ffmpeg-track-metadata-generator</title>
+  <title>wpaivine: mandelbrot</title>
   <author>
-   <name>darkcharmander</name>
+   <name>wpaivine</name>
   </author>
-  <link href="https://github.com/darkcharmander/ffmpeg-track-metadata-generator" />
-  <id>urn:rprimus:github:darkcharmander:ffmpeg-track-metadata-generator</id>
-  <published>2023-03-11T20:50:04Z</published>
-  <updated>2023-03-11T20:50:04Z</updated>
+  <link href="https://github.com/wpaivine/mandelbrot" />
+  <id>urn:rprimus:github:wpaivine:mandelbrot</id>
+  <published>2023-03-11T04:58:26Z</published>
+  <updated>2023-03-11T04:58:26Z</updated>
   <content type="html">
-   This small tool generates FFMETADATA based on a list of tracks.
+   mandelbrot image generation written in nim
   </content>
  </entry>
  <entry>
@@ -106,45 +158,6 @@
   <updated>2023-03-11T04:08:20Z</updated>
   <content type="html">
    Show version of SDL1 adn SDL2 
-  </content>
- </entry>
- <entry>
-  <title>waotzi: kasaival</title>
-  <author>
-   <name>waotzi</name>
-  </author>
-  <link href="https://github.com/waotzi/kasaival" />
-  <id>urn:rprimus:github:waotzi:kasaival</id>
-  <published>2023-03-10T22:30:33Z</published>
-  <updated>2023-03-10T22:30:33Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>filvyb: dhash</title>
-  <author>
-   <name>filvyb</name>
-  </author>
-  <link href="https://github.com/filvyb/dhash" />
-  <id>urn:rprimus:github:filvyb:dhash</id>
-  <published>2023-03-10T21:31:37Z</published>
-  <updated>2023-03-10T21:31:37Z</updated>
-  <content type="html">
-   Implementation of Neal Krawetzâs dHash algorithm in Nim
-  </content>
- </entry>
- <entry>
-  <title>cmd410: ore</title>
-  <author>
-   <name>cmd410</name>
-  </author>
-  <link href="https://github.com/cmd410/ore" />
-  <id>urn:rprimus:github:cmd410:ore</id>
-  <published>2023-03-10T14:40:15Z</published>
-  <updated>2023-03-10T14:40:15Z</updated>
-  <content type="html">
-   A runtime capable string templating engine for nim language.
   </content>
  </entry>
 </feed>
