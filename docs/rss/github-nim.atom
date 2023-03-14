@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2023-03-13T06:58:23Z</updated>
+<updated>2023-03-14T09:43:50Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>4zv4l: nclip</title>
+  <author>
+   <name>4zv4l</name>
+  </author>
+  <link href="https://github.com/4zv4l/nclip" />
+  <id>urn:rprimus:github:4zv4l:nclip</id>
+  <published>2023-03-14T09:43:50Z</published>
+  <updated>2023-03-14T09:43:50Z</updated>
+  <content type="html">
+   nim wrapper around the winapi to control the clipboard
+  </content>
+ </entry>
+ <entry>
+  <title>beef331: fungus</title>
+  <author>
+   <name>beef331</name>
+  </author>
+  <link href="https://github.com/beef331/fungus" />
+  <id>urn:rprimus:github:beef331:fungus</id>
+  <published>2023-03-14T06:42:54Z</published>
+  <updated>2023-03-14T06:42:54Z</updated>
+  <content type="html">
+   Rust-like tuple enums
+  </content>
+ </entry>
  <entry>
   <title>nekoding-labs: caesarnim</title>
   <author>
@@ -119,58 +145,6 @@
   <updated>2023-03-12T00:42:33Z</updated>
   <content type="html">
    Simple tool to plot input piped to it
-  </content>
- </entry>
- <entry>
-  <title>neroist: webui</title>
-  <author>
-   <name>neroist</name>
-  </author>
-  <link href="https://github.com/neroist/webui" />
-  <id>urn:rprimus:github:neroist:webui</id>
-  <published>2023-03-11T22:20:06Z</published>
-  <updated>2023-03-11T22:20:06Z</updated>
-  <content type="html">
-   Nim wrapper and bindings for WebUI!
-  </content>
- </entry>
- <entry>
-  <title>Argantor91: Nitter</title>
-  <author>
-   <name>Argantor91</name>
-  </author>
-  <link href="https://github.com/Argantor91/Nitter" />
-  <id>urn:rprimus:github:Argantor91:Nitter</id>
-  <published>2023-03-11T21:05:24Z</published>
-  <updated>2023-03-11T21:05:24Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>wpaivine: mandelbrot</title>
-  <author>
-   <name>wpaivine</name>
-  </author>
-  <link href="https://github.com/wpaivine/mandelbrot" />
-  <id>urn:rprimus:github:wpaivine:mandelbrot</id>
-  <published>2023-03-11T04:58:26Z</published>
-  <updated>2023-03-11T04:58:26Z</updated>
-  <content type="html">
-   mandelbrot image generation written in nim
-  </content>
- </entry>
- <entry>
-  <title>dinau: sdlver</title>
-  <author>
-   <name>dinau</name>
-  </author>
-  <link href="https://github.com/dinau/sdlver" />
-  <id>urn:rprimus:github:dinau:sdlver</id>
-  <published>2023-03-11T04:08:20Z</published>
-  <updated>2023-03-11T04:08:20Z</updated>
-  <content type="html">
-   Show version of SDL1 adn SDL2 
   </content>
  </entry>
 </feed>
