@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2023-03-16T08:39:12Z</updated>
+<updated>2023-03-17T01:49:41Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>Echriser: raycast_test_naylib</title>
+  <author>
+   <name>Echriser</name>
+  </author>
+  <link href="https://github.com/Echriser/raycast_test_naylib" />
+  <id>urn:rprimus:github:Echriser:raycast_test_naylib</id>
+  <published>2023-03-17T01:49:41Z</published>
+  <updated>2023-03-17T01:49:41Z</updated>
+  <content type="html">
+   Testing raycasting in Nim using the Naylib wrapper for Raylib
+  </content>
+ </entry>
+ <entry>
+  <title>Mekelaina: AOC2022</title>
+  <author>
+   <name>Mekelaina</name>
+  </author>
+  <link href="https://github.com/Mekelaina/AOC2022" />
+  <id>urn:rprimus:github:Mekelaina:AOC2022</id>
+  <published>2023-03-16T23:28:28Z</published>
+  <updated>2023-03-16T23:28:28Z</updated>
+  <content type="html">
+   Advent of Code 2022 Solutions in Nim
+  </content>
+ </entry>
+ <entry>
+  <title>turbocat2001: lsl</title>
+  <author>
+   <name>turbocat2001</name>
+  </author>
+  <link href="https://github.com/turbocat2001/lsl" />
+  <id>urn:rprimus:github:turbocat2001:lsl</id>
+  <published>2023-03-16T12:56:20Z</published>
+  <updated>2023-03-16T12:56:20Z</updated>
+  <content type="html">
+   An analogue of ls -l written by me for fun
+  </content>
+ </entry>
  <entry>
   <title>tobealive: nimpretty_t</title>
   <author>
@@ -53,7 +92,7 @@
   <published>2023-03-16T01:14:58Z</published>
   <updated>2023-03-16T01:14:58Z</updated>
   <content type="html">
-   You can use this Nim template to jump start your Nim library or project.
+   Nim project template with some CI/CD workflows
   </content>
  </entry>
  <entry>
@@ -93,32 +132,6 @@
   <updated>2023-03-15T05:30:29Z</updated>
   <content type="html">
    Nim wrapper for Cheerp (experimental)
-  </content>
- </entry>
- <entry>
-  <title>4zv4l: nclip</title>
-  <author>
-   <name>4zv4l</name>
-  </author>
-  <link href="https://github.com/4zv4l/nclip" />
-  <id>urn:rprimus:github:4zv4l:nclip</id>
-  <published>2023-03-14T09:43:50Z</published>
-  <updated>2023-03-14T09:43:50Z</updated>
-  <content type="html">
-   nim wrapper around the winapi to control the clipboard
-  </content>
- </entry>
- <entry>
-  <title>beef331: fungus</title>
-  <author>
-   <name>beef331</name>
-  </author>
-  <link href="https://github.com/beef331/fungus" />
-  <id>urn:rprimus:github:beef331:fungus</id>
-  <published>2023-03-14T06:42:54Z</published>
-  <updated>2023-03-14T06:42:54Z</updated>
-  <content type="html">
-   Rust-like tuple enums
   </content>
  </entry>
 </feed>
