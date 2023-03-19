@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2023-03-17T18:28:49Z</updated>
+<updated>2023-03-19T09:35:09Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>masatoi: clog-notebook</title>
+  <author>
+   <name>masatoi</name>
+  </author>
+  <link href="https://github.com/masatoi/clog-notebook" />
+  <id>urn:rprimus:github:masatoi:clog-notebook</id>
+  <published>2023-03-19T09:35:09Z</published>
+  <updated>2023-03-19T09:35:09Z</updated>
+  <content type="html">
+   Common Lisp programming environment like Jupyter-notebook
+  </content>
+ </entry>
+ <entry>
+  <title>ralph-schleicher: rs-json</title>
+  <author>
+   <name>ralph-schleicher</name>
+  </author>
+  <link href="https://github.com/ralph-schleicher/rs-json" />
+  <id>urn:rprimus:github:ralph-schleicher:rs-json</id>
+  <published>2023-03-18T18:49:48Z</published>
+  <updated>2023-03-18T18:49:48Z</updated>
+  <content type="html">
+   Yet another JSON decoder/encoder for Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>zihikido: web-app-practice</title>
+  <author>
+   <name>zihikido</name>
+  </author>
+  <link href="https://github.com/zihikido/web-app-practice" />
+  <id>urn:rprimus:github:zihikido:web-app-practice</id>
+  <published>2023-03-18T13:14:52Z</published>
+  <updated>2023-03-18T13:14:52Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>MauDagos: cl-jschema</title>
+  <author>
+   <name>MauDagos</name>
+  </author>
+  <link href="https://github.com/MauDagos/cl-jschema" />
+  <id>urn:rprimus:github:MauDagos:cl-jschema</id>
+  <published>2023-03-17T19:50:24Z</published>
+  <updated>2023-03-17T19:50:24Z</updated>
+  <content type="html">
+   Common Lisp implementation of JSON Schema
+  </content>
+ </entry>
  <entry>
   <title>Shirakumo: 3d-spaces</title>
   <author>
@@ -67,19 +119,6 @@
   <updated>2023-03-17T02:19:38Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>awolven: cl-gpt</title>
-  <author>
-   <name>awolven</name>
-  </author>
-  <link href="https://github.com/awolven/cl-gpt" />
-  <id>urn:rprimus:github:awolven:cl-gpt</id>
-  <published>2023-03-16T21:26:30Z</published>
-  <updated>2023-03-16T21:26:30Z</updated>
-  <content type="html">
-   A client for OpenAI&#039;s GPT models in Common Lisp
   </content>
  </entry>
 </feed>

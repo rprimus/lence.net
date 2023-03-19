@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2023-03-18T07:23:51Z</updated>
+<updated>2023-03-19T05:16:05Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>Ros2Nim: rclc</title>
+  <author>
+   <name>Ros2Nim</name>
+  </author>
+  <link href="https://github.com/Ros2Nim/rclc" />
+  <id>urn:rprimus:github:Ros2Nim:rclc</id>
+  <published>2023-03-19T05:16:05Z</published>
+  <updated>2023-03-19T05:16:05Z</updated>
+  <content type="html">
+   wrapper for rclc
+  </content>
+ </entry>
+ <entry>
+  <title>epilif3sotnas: learn-multithreading-async</title>
+  <author>
+   <name>epilif3sotnas</name>
+  </author>
+  <link href="https://github.com/epilif3sotnas/learn-multithreading-async" />
+  <id>urn:rprimus:github:epilif3sotnas:learn-multithreading-async</id>
+  <published>2023-03-18T19:43:56Z</published>
+  <updated>2023-03-18T19:43:56Z</updated>
+  <content type="html">
+   Learn Multithreading and Async.
+  </content>
+ </entry>
+ <entry>
+  <title>kld87: nimssl</title>
+  <author>
+   <name>kld87</name>
+  </author>
+  <link href="https://github.com/kld87/nimssl" />
+  <id>urn:rprimus:github:kld87:nimssl</id>
+  <published>2023-03-18T15:47:17Z</published>
+  <updated>2023-03-18T15:47:17Z</updated>
+  <content type="html">
+   PoC for statically-linked OpenSSL for nim EXE/DLL files
+  </content>
+ </entry>
  <entry>
   <title>wezm: classic-mac-nim</title>
   <author>
@@ -80,84 +119,6 @@
   <updated>2023-03-17T01:49:41Z</updated>
   <content type="html">
    Testing raycasting in Nim using the Naylib wrapper for Raylib
-  </content>
- </entry>
- <entry>
-  <title>Mekelaina: AOC2022</title>
-  <author>
-   <name>Mekelaina</name>
-  </author>
-  <link href="https://github.com/Mekelaina/AOC2022" />
-  <id>urn:rprimus:github:Mekelaina:AOC2022</id>
-  <published>2023-03-16T23:28:28Z</published>
-  <updated>2023-03-16T23:28:28Z</updated>
-  <content type="html">
-   Advent of Code 2022 Solutions in Nim
-  </content>
- </entry>
- <entry>
-  <title>turbocat2001: lsl</title>
-  <author>
-   <name>turbocat2001</name>
-  </author>
-  <link href="https://github.com/turbocat2001/lsl" />
-  <id>urn:rprimus:github:turbocat2001:lsl</id>
-  <published>2023-03-16T12:56:20Z</published>
-  <updated>2023-03-16T12:56:20Z</updated>
-  <content type="html">
-   An analogue of ls -l written by me for fun
-  </content>
- </entry>
- <entry>
-  <title>tobealive: nimpretty_t</title>
-  <author>
-   <name>tobealive</name>
-  </author>
-  <link href="https://github.com/tobealive/nimpretty_t" />
-  <id>urn:rprimus:github:tobealive:nimpretty_t</id>
-  <published>2023-03-16T08:39:12Z</published>
-  <updated>2023-03-16T08:39:12Z</updated>
-  <content type="html">
-   Use nimpretty with tab indentation.
-  </content>
- </entry>
- <entry>
-  <title>notnullgames: null0-cart-nim</title>
-  <author>
-   <name>notnullgames</name>
-  </author>
-  <link href="https://github.com/notnullgames/null0-cart-nim" />
-  <id>urn:rprimus:github:notnullgames:null0-cart-nim</id>
-  <published>2023-03-16T07:03:48Z</published>
-  <updated>2023-03-16T07:03:48Z</updated>
-  <content type="html">
-   A template project for making a null0 cart in nim
-  </content>
- </entry>
- <entry>
-  <title>ostanton: NimGenericVisualCalculator</title>
-  <author>
-   <name>ostanton</name>
-  </author>
-  <link href="https://github.com/ostanton/NimGenericVisualCalculator" />
-  <id>urn:rprimus:github:ostanton:NimGenericVisualCalculator</id>
-  <published>2023-03-16T01:18:24Z</published>
-  <updated>2023-03-16T01:18:24Z</updated>
-  <content type="html">
-   A generic visual calculator written in Nim and NiGui
-  </content>
- </entry>
- <entry>
-  <title>Gruruya: nimtemplate</title>
-  <author>
-   <name>Gruruya</name>
-  </author>
-  <link href="https://github.com/Gruruya/nimtemplate" />
-  <id>urn:rprimus:github:Gruruya:nimtemplate</id>
-  <published>2023-03-16T01:14:58Z</published>
-  <updated>2023-03-16T01:14:58Z</updated>
-  <content type="html">
-   Nim project template with some CI/CD workflows
   </content>
  </entry>
 </feed>
