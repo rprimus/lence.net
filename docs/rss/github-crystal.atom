@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2023-03-20T10:35:12Z</updated>
+<updated>2023-03-20T11:39:16Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>uncomfyhalomacro: wayland.cr</title>
+  <author>
+   <name>uncomfyhalomacro</name>
+  </author>
+  <link href="https://github.com/uncomfyhalomacro/wayland.cr" />
+  <id>urn:rprimus:github:uncomfyhalomacro:wayland.cr</id>
+  <published>2023-03-20T11:39:16Z</published>
+  <updated>2023-03-20T11:39:16Z</updated>
+  <content type="html">
+   Wayland bindings for Crystal language.
+  </content>
+ </entry>
  <entry>
   <title>kappagaev: org-moon</title>
   <author>
@@ -28,19 +41,6 @@
   <updated>2023-03-19T17:21:53Z</updated>
   <content type="html">
    Client library for openai built in crystal lang
-  </content>
- </entry>
- <entry>
-  <title>geopjr-forks: snap-xdg-dekstop-portal-test</title>
-  <author>
-   <name>geopjr-forks</name>
-  </author>
-  <link href="https://github.com/geopjr-forks/snap-xdg-dekstop-portal-test" />
-  <id>urn:rprimus:github:geopjr-forks:snap-xdg-dekstop-portal-test</id>
-  <published>2023-03-18T14:19:29Z</published>
-  <updated>2023-03-18T14:19:29Z</updated>
-  <content type="html">
-   minimal reproduction for a snap bug
   </content>
  </entry>
 </feed>
