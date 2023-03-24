@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-scheme.atom"/>
 <id>urn:rprimus:github:newschemerepos</id>
-<updated>2023-03-23T01:54:32Z</updated>
+<updated>2023-03-24T09:00:10Z</updated>
 <title type='text'>New GitHub Scheme Repos</title>
+ <entry>
+  <title>citypilgrim: erasmo</title>
+  <author>
+   <name>citypilgrim</name>
+  </author>
+  <link href="https://github.com/citypilgrim/erasmo" />
+  <id>urn:rprimus:github:citypilgrim:erasmo</id>
+  <published>2023-03-24T09:00:10Z</published>
+  <updated>2023-03-24T09:00:10Z</updated>
+  <content type="html">
+   A guile module for building guix configurations.
+  </content>
+ </entry>
  <entry>
   <title>c4dr01d: guix-misc</title>
   <author>
@@ -57,42 +70,16 @@
   </content>
  </entry>
  <entry>
-  <title>kinmic: FISH555-Stock-synthesis</title>
+  <title>ab3250: gambitNQueens</title>
   <author>
-   <name>kinmic</name>
+   <name>ab3250</name>
   </author>
-  <link href="https://github.com/kinmic/FISH555-Stock-synthesis" />
-  <id>urn:rprimus:github:kinmic:FISH555-Stock-synthesis</id>
-  <published>2023-03-21T19:00:23Z</published>
-  <updated>2023-03-21T19:00:23Z</updated>
+  <link href="https://github.com/ab3250/gambitNQueens" />
+  <id>urn:rprimus:github:ab3250:gambitNQueens</id>
+  <published>2023-03-22T00:00:57Z</published>
+  <updated>2023-03-22T00:00:57Z</updated>
   <content type="html">
-   Intensive week long class for Age structured Stock Assessment ( Fish 555) at SAFS, UW. 
-  </content>
- </entry>
- <entry>
-  <title>IrisTheSoft: book-exercises</title>
-  <author>
-   <name>IrisTheSoft</name>
-  </author>
-  <link href="https://github.com/IrisTheSoft/book-exercises" />
-  <id>urn:rprimus:github:IrisTheSoft:book-exercises</id>
-  <published>2023-03-21T11:42:46Z</published>
-  <updated>2023-03-21T11:42:46Z</updated>
-  <content type="html">
-   My answers to exercises of various books
-  </content>
- </entry>
- <entry>
-  <title>Atillart-One: licentia</title>
-  <author>
-   <name>Atillart-One</name>
-  </author>
-  <link href="https://github.com/Atillart-One/licentia" />
-  <id>urn:rprimus:github:Atillart-One:licentia</id>
-  <published>2023-03-21T07:43:13Z</published>
-  <updated>2023-03-21T07:43:13Z</updated>
-  <content type="html">
-   guix dotfiles
+   
   </content>
  </entry>
 </feed>

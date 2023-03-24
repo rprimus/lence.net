@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2023-03-23T04:51:01Z</updated>
+<updated>2023-03-24T01:38:00Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>nivrrex: url2file</title>
+  <author>
+   <name>nivrrex</name>
+  </author>
+  <link href="https://github.com/nivrrex/url2file" />
+  <id>urn:rprimus:github:nivrrex:url2file</id>
+  <published>2023-03-24T01:38:00Z</published>
+  <updated>2023-03-24T01:38:00Z</updated>
+  <content type="html">
+   Download files from http and https networks and save to files
+  </content>
+ </entry>
+ <entry>
+  <title>TaxMachine: nodejs-packer</title>
+  <author>
+   <name>TaxMachine</name>
+  </author>
+  <link href="https://github.com/TaxMachine/nodejs-packer" />
+  <id>urn:rprimus:github:TaxMachine:nodejs-packer</id>
+  <published>2023-03-23T13:25:47Z</published>
+  <updated>2023-03-23T13:25:47Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>me7: getArgs</title>
   <author>
@@ -93,84 +119,6 @@
   <updated>2023-03-22T00:55:12Z</updated>
   <content type="html">
    A tool for standardizing and linting commits.
-  </content>
- </entry>
- <entry>
-  <title>silent-observer: chess_app</title>
-  <author>
-   <name>silent-observer</name>
-  </author>
-  <link href="https://github.com/silent-observer/chess_app" />
-  <id>urn:rprimus:github:silent-observer:chess_app</id>
-  <published>2023-03-21T20:38:15Z</published>
-  <updated>2023-03-21T20:38:15Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>DancinParrot: shredder</title>
-  <author>
-   <name>DancinParrot</name>
-  </author>
-  <link href="https://github.com/DancinParrot/shredder" />
-  <id>urn:rprimus:github:DancinParrot:shredder</id>
-  <published>2023-03-21T16:30:14Z</published>
-  <updated>2023-03-21T16:30:14Z</updated>
-  <content type="html">
-   A file shredder written in Nim.
-  </content>
- </entry>
- <entry>
-  <title>kubo39: d-to-nim</title>
-  <author>
-   <name>kubo39</name>
-  </author>
-  <link href="https://github.com/kubo39/d-to-nim" />
-  <id>urn:rprimus:github:kubo39:d-to-nim</id>
-  <published>2023-03-21T15:48:49Z</published>
-  <updated>2023-03-21T15:48:49Z</updated>
-  <content type="html">
-   learning how nim works
-  </content>
- </entry>
- <entry>
-  <title>the-argus: rrule_nim</title>
-  <author>
-   <name>the-argus</name>
-  </author>
-  <link href="https://github.com/the-argus/rrule_nim" />
-  <id>urn:rprimus:github:the-argus:rrule_nim</id>
-  <published>2023-03-21T15:33:06Z</published>
-  <updated>2023-03-21T15:33:06Z</updated>
-  <content type="html">
-   Nim implementation of the rrule npm package - A library for working with recurrence rules for calendar dates as defined in the iCalendar RFC.
-  </content>
- </entry>
- <entry>
-  <title>sajiljosephs: nitter</title>
-  <author>
-   <name>sajiljosephs</name>
-  </author>
-  <link href="https://github.com/sajiljosephs/nitter" />
-  <id>urn:rprimus:github:sajiljosephs:nitter</id>
-  <published>2023-03-21T09:10:33Z</published>
-  <updated>2023-03-21T09:10:33Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>chancyk: nimcsv</title>
-  <author>
-   <name>chancyk</name>
-  </author>
-  <link href="https://github.com/chancyk/nimcsv" />
-  <id>urn:rprimus:github:chancyk:nimcsv</id>
-  <published>2023-03-21T03:51:41Z</published>
-  <updated>2023-03-21T03:51:41Z</updated>
-  <content type="html">
-   SIMD CSV Parser
   </content>
  </entry>
 </feed>

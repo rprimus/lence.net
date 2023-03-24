@@ -2,15 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-racket.atom"/>
 <id>urn:rprimus:github:newracketrepos</id>
-<updated>2023-03-23T06:34:31Z</updated>
+<updated>2023-03-23T19:33:27Z</updated>
 <title type='text'>New GitHub Racket Repos</title>
  <entry>
-  <title>DannyJr08: IMECO-SP2-Parte1_Simulacion-Maquina-Expendedora</title>
+  <title>eckertliam: bf</title>
+  <author>
+   <name>eckertliam</name>
+  </author>
+  <link href="https://github.com/eckertliam/bf" />
+  <id>urn:rprimus:github:eckertliam:bf</id>
+  <published>2023-03-23T19:33:27Z</published>
+  <updated>2023-03-23T19:33:27Z</updated>
+  <content type="html">
+   A brainfuck written in Racket which compiles to C
+  </content>
+ </entry>
+ <entry>
+  <title>caadams96: roman-numerals-racket</title>
+  <author>
+   <name>caadams96</name>
+  </author>
+  <link href="https://github.com/caadams96/roman-numerals-racket" />
+  <id>urn:rprimus:github:caadams96:roman-numerals-racket</id>
+  <published>2023-03-23T18:17:53Z</published>
+  <updated>2023-03-23T18:17:53Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>gkaganov: nix-terminator</title>
+  <author>
+   <name>gkaganov</name>
+  </author>
+  <link href="https://github.com/gkaganov/nix-terminator" />
+  <id>urn:rprimus:github:gkaganov:nix-terminator</id>
+  <published>2023-03-23T10:30:55Z</published>
+  <updated>2023-03-23T10:30:55Z</updated>
+  <content type="html">
+   Travel back in time and view all past versions of a nix package
+  </content>
+ </entry>
+ <entry>
+  <title>DannyJr08: IMECO-SP2-Parte1_Simulador-Maquina-Expendedora</title>
   <author>
    <name>DannyJr08</name>
   </author>
-  <link href="https://github.com/DannyJr08/IMECO-SP2-Parte1_Simulacion-Maquina-Expendedora" />
-  <id>urn:rprimus:github:DannyJr08:IMECO-SP2-Parte1_Simulacion-Maquina-Expendedora</id>
+  <link href="https://github.com/DannyJr08/IMECO-SP2-Parte1_Simulador-Maquina-Expendedora" />
+  <id>urn:rprimus:github:DannyJr08:IMECO-SP2-Parte1_Simulador-Maquina-Expendedora</id>
   <published>2023-03-23T06:34:31Z</published>
   <updated>2023-03-23T06:34:31Z</updated>
   <content type="html">
@@ -79,7 +118,7 @@
   <published>2023-03-22T14:53:24Z</published>
   <updated>2023-03-22T14:53:24Z</updated>
   <content type="html">
-   python-style list conprehension
+   python-style list comprehension
   </content>
  </entry>
  <entry>
@@ -119,71 +158,6 @@
   <updated>2023-03-22T03:37:29Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>skeeterses: SAINT</title>
-  <author>
-   <name>skeeterses</name>
-  </author>
-  <link href="https://github.com/skeeterses/SAINT" />
-  <id>urn:rprimus:github:skeeterses:SAINT</id>
-  <published>2023-03-21T18:47:33Z</published>
-  <updated>2023-03-21T18:47:33Z</updated>
-  <content type="html">
-   An implementation of the elf functions as described by the original Saint papers.
-  </content>
- </entry>
- <entry>
-  <title>rmculpepper: racket-mrlog</title>
-  <author>
-   <name>rmculpepper</name>
-  </author>
-  <link href="https://github.com/rmculpepper/racket-mrlog" />
-  <id>urn:rprimus:github:rmculpepper:racket-mrlog</id>
-  <published>2023-03-21T17:48:23Z</published>
-  <updated>2023-03-21T17:48:23Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>DevinLin2: Scheme-Interpreter</title>
-  <author>
-   <name>DevinLin2</name>
-  </author>
-  <link href="https://github.com/DevinLin2/Scheme-Interpreter" />
-  <id>urn:rprimus:github:DevinLin2:Scheme-Interpreter</id>
-  <published>2023-03-21T15:48:35Z</published>
-  <updated>2023-03-21T15:48:35Z</updated>
-  <content type="html">
-   A simple language interpreter in Scheme.
-  </content>
- </entry>
- <entry>
-  <title>cristhoper-usach: TDA-FUNCIONAL</title>
-  <author>
-   <name>cristhoper-usach</name>
-  </author>
-  <link href="https://github.com/cristhoper-usach/TDA-FUNCIONAL" />
-  <id>urn:rprimus:github:cristhoper-usach:TDA-FUNCIONAL</id>
-  <published>2023-03-21T15:28:56Z</published>
-  <updated>2023-03-21T15:28:56Z</updated>
-  <content type="html">
-   DiseÃ±o del TDA FUNCIONAL
-  </content>
- </entry>
- <entry>
-  <title>PeterCsik: HtDP2-Solutions</title>
-  <author>
-   <name>PeterCsik</name>
-  </author>
-  <link href="https://github.com/PeterCsik/HtDP2-Solutions" />
-  <id>urn:rprimus:github:PeterCsik:HtDP2-Solutions</id>
-  <published>2023-03-21T08:04:58Z</published>
-  <updated>2023-03-21T08:04:58Z</updated>
-  <content type="html">
-   Solutions to the exercises in the book How to Design Programs, Second Edition
   </content>
  </entry>
 </feed>
