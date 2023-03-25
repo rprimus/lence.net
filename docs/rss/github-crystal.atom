@@ -2,8 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2023-03-23T09:13:55Z</updated>
+<updated>2023-03-25T00:51:14Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>Andriamanitra: crbot</title>
+  <author>
+   <name>Andriamanitra</name>
+  </author>
+  <link href="https://github.com/Andriamanitra/crbot" />
+  <id>urn:rprimus:github:Andriamanitra:crbot</id>
+  <published>2023-03-25T00:51:14Z</published>
+  <updated>2023-03-25T00:51:14Z</updated>
+  <content type="html">
+   scuffed twitch/irc bot written in Crystal
+  </content>
+ </entry>
+ <entry>
+  <title>ben-forster: flow</title>
+  <author>
+   <name>ben-forster</name>
+  </author>
+  <link href="https://github.com/ben-forster/flow" />
+  <id>urn:rprimus:github:ben-forster:flow</id>
+  <published>2023-03-24T22:55:14Z</published>
+  <updated>2023-03-24T22:55:14Z</updated>
+  <content type="html">
+   A Lavalink wrapper written in Crystal for discordcr.
+  </content>
+ </entry>
+ <entry>
+  <title>watzon: paste69</title>
+  <author>
+   <name>watzon</name>
+  </author>
+  <link href="https://github.com/watzon/paste69" />
+  <id>urn:rprimus:github:watzon:paste69</id>
+  <published>2023-03-24T19:56:15Z</published>
+  <updated>2023-03-24T19:56:15Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>uncomfyhalomacro: qoi.cr</title>
+  <author>
+   <name>uncomfyhalomacro</name>
+  </author>
+  <link href="https://github.com/uncomfyhalomacro/qoi.cr" />
+  <id>urn:rprimus:github:uncomfyhalomacro:qoi.cr</id>
+  <published>2023-03-24T15:01:39Z</published>
+  <updated>2023-03-24T15:01:39Z</updated>
+  <content type="html">
+   Quick OK Image implementation in Crystal.
+  </content>
+ </entry>
+ <entry>
+  <title>Hadeweka: Crystal2Day</title>
+  <author>
+   <name>Hadeweka</name>
+  </author>
+  <link href="https://github.com/Hadeweka/Crystal2Day" />
+  <id>urn:rprimus:github:Hadeweka:Crystal2Day</id>
+  <published>2023-03-24T14:08:43Z</published>
+  <updated>2023-03-24T14:08:43Z</updated>
+  <content type="html">
+   Simple 2D game framework in Crystal
+  </content>
+ </entry>
+ <entry>
+  <title>mdwagner: screen.cr</title>
+  <author>
+   <name>mdwagner</name>
+  </author>
+  <link href="https://github.com/mdwagner/screen.cr" />
+  <id>urn:rprimus:github:mdwagner:screen.cr</id>
+  <published>2023-03-24T13:25:28Z</published>
+  <updated>2023-03-24T13:25:28Z</updated>
+  <content type="html">
+   Crystal port of screen package (Go) to provide a cross-platform way for clearing the screen.
+  </content>
+ </entry>
+ <entry>
+  <title>place-technology: twenty-five-live-pro</title>
+  <author>
+   <name>place-technology</name>
+  </author>
+  <link href="https://github.com/place-technology/twenty-five-live-pro" />
+  <id>urn:rprimus:github:place-technology:twenty-five-live-pro</id>
+  <published>2023-03-24T10:46:43Z</published>
+  <updated>2023-03-24T10:46:43Z</updated>
+  <content type="html">
+   Wrapper for the 25 Live Pro API specification
+  </content>
+ </entry>
  <entry>
   <title>DrunkCROW: note.ask8ng.com.md</title>
   <author>
@@ -13,58 +104,6 @@
   <id>urn:rprimus:github:DrunkCROW:note.ask8ng.com.md</id>
   <published>2023-03-23T09:13:55Z</published>
   <updated>2023-03-23T09:13:55Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>nickthecook: crops</title>
-  <author>
-   <name>nickthecook</name>
-  </author>
-  <link href="https://github.com/nickthecook/crops" />
-  <id>urn:rprimus:github:nickthecook:crops</id>
-  <published>2023-03-22T21:51:20Z</published>
-  <updated>2023-03-22T21:51:20Z</updated>
-  <content type="html">
-   ops in crystal
-  </content>
- </entry>
- <entry>
-  <title>errordeck: errordeck-cli</title>
-  <author>
-   <name>errordeck</name>
-  </author>
-  <link href="https://github.com/errordeck/errordeck-cli" />
-  <id>urn:rprimus:github:errordeck:errordeck-cli</id>
-  <published>2023-03-22T21:47:28Z</published>
-  <updated>2023-03-22T21:47:28Z</updated>
-  <content type="html">
-   The CLI for errordeck
-  </content>
- </entry>
- <entry>
-  <title>Andriamanitra: horlang</title>
-  <author>
-   <name>Andriamanitra</name>
-  </author>
-  <link href="https://github.com/Andriamanitra/horlang" />
-  <id>urn:rprimus:github:Andriamanitra:horlang</id>
-  <published>2023-03-22T21:05:35Z</published>
-  <updated>2023-03-22T21:05:35Z</updated>
-  <content type="html">
-   stack-based 2-dimensional toy programming language
-  </content>
- </entry>
- <entry>
-  <title>kalinon: mtg-models</title>
-  <author>
-   <name>kalinon</name>
-  </author>
-  <link href="https://github.com/kalinon/mtg-models" />
-  <id>urn:rprimus:github:kalinon:mtg-models</id>
-  <published>2023-03-22T14:18:51Z</published>
-  <updated>2023-03-22T14:18:51Z</updated>
   <content type="html">
    
   </content>

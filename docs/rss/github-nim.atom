@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2023-03-24T01:38:00Z</updated>
+<updated>2023-03-25T04:08:34Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>Lafolie: gobbo</title>
+  <author>
+   <name>Lafolie</name>
+  </author>
+  <link href="https://github.com/Lafolie/gobbo" />
+  <id>urn:rprimus:github:Lafolie:gobbo</id>
+  <published>2023-03-25T04:08:34Z</published>
+  <updated>2023-03-25T04:08:34Z</updated>
+  <content type="html">
+   An interpreted programming langauge based on Lox, written in Nim.
+  </content>
+ </entry>
+ <entry>
+  <title>vandot: lodev</title>
+  <author>
+   <name>vandot</name>
+  </author>
+  <link href="https://github.com/vandot/lodev" />
+  <id>urn:rprimus:github:vandot:lodev</id>
+  <published>2023-03-24T19:28:35Z</published>
+  <updated>2023-03-24T19:28:35Z</updated>
+  <content type="html">
+   Simple reverse proxy server for local development
+  </content>
+ </entry>
  <entry>
   <title>nivrrex: url2file</title>
   <author>
@@ -41,84 +67,6 @@
   <updated>2023-03-23T04:51:01Z</updated>
   <content type="html">
    getArgs is a simple repo for working with command line arguments.
-  </content>
- </entry>
- <entry>
-  <title>C-NERD: dan_magaji</title>
-  <author>
-   <name>C-NERD</name>
-  </author>
-  <link href="https://github.com/C-NERD/dan_magaji" />
-  <id>urn:rprimus:github:C-NERD:dan_magaji</id>
-  <published>2023-03-22T21:19:04Z</published>
-  <updated>2023-03-22T21:19:04Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jackvandrunen: spiking</title>
-  <author>
-   <name>jackvandrunen</name>
-  </author>
-  <link href="https://github.com/jackvandrunen/spiking" />
-  <id>urn:rprimus:github:jackvandrunen:spiking</id>
-  <published>2023-03-22T20:13:58Z</published>
-  <updated>2023-03-22T20:13:58Z</updated>
-  <content type="html">
-   Hodgkin-Huxley neurons in Nim!
-  </content>
- </entry>
- <entry>
-  <title>iffy: nim-embedfs</title>
-  <author>
-   <name>iffy</name>
-  </author>
-  <link href="https://github.com/iffy/nim-embedfs" />
-  <id>urn:rprimus:github:iffy:nim-embedfs</id>
-  <published>2023-03-22T16:59:58Z</published>
-  <updated>2023-03-22T16:59:58Z</updated>
-  <content type="html">
-   Nim library to embed directories in your executable
-  </content>
- </entry>
- <entry>
-  <title>andreas-hofmann: exercism-nim-solutions</title>
-  <author>
-   <name>andreas-hofmann</name>
-  </author>
-  <link href="https://github.com/andreas-hofmann/exercism-nim-solutions" />
-  <id>urn:rprimus:github:andreas-hofmann:exercism-nim-solutions</id>
-  <published>2023-03-22T14:32:37Z</published>
-  <updated>2023-03-22T14:32:37Z</updated>
-  <content type="html">
-   Solutions to the nim language track on exercism.io
-  </content>
- </entry>
- <entry>
-  <title>shujidev: direct</title>
-  <author>
-   <name>shujidev</name>
-  </author>
-  <link href="https://github.com/shujidev/direct" />
-  <id>urn:rprimus:github:shujidev:direct</id>
-  <published>2023-03-22T02:42:17Z</published>
-  <updated>2023-03-22T02:42:17Z</updated>
-  <content type="html">
-   Nim bindings for direct 2d
-  </content>
- </entry>
- <entry>
-  <title>Diogenesoftoronto: nimit</title>
-  <author>
-   <name>Diogenesoftoronto</name>
-  </author>
-  <link href="https://github.com/Diogenesoftoronto/nimit" />
-  <id>urn:rprimus:github:Diogenesoftoronto:nimit</id>
-  <published>2023-03-22T00:55:12Z</published>
-  <updated>2023-03-22T00:55:12Z</updated>
-  <content type="html">
-   A tool for standardizing and linting commits.
   </content>
  </entry>
 </feed>
