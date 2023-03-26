@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2023-03-25T04:08:34Z</updated>
+<updated>2023-03-26T01:17:29Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>neroist: nimitheme</title>
+  <author>
+   <name>neroist</name>
+  </author>
+  <link href="https://github.com/neroist/nimitheme" />
+  <id>urn:rprimus:github:neroist:nimitheme</id>
+  <published>2023-03-26T01:17:29Z</published>
+  <updated>2023-03-26T01:17:29Z</updated>
+  <content type="html">
+   Different themes for nimib
+  </content>
+ </entry>
+ <entry>
+  <title>redrededredred: nimcatscrape</title>
+  <author>
+   <name>redrededredred</name>
+  </author>
+  <link href="https://github.com/redrededredred/nimcatscrape" />
+  <id>urn:rprimus:github:redrededredred:nimcatscrape</id>
+  <published>2023-03-25T18:53:23Z</published>
+  <updated>2023-03-25T18:53:23Z</updated>
+  <content type="html">
+   a bad scraper for the catbox
+  </content>
+ </entry>
  <entry>
   <title>Lafolie: gobbo</title>
   <author>
@@ -41,32 +67,6 @@
   <updated>2023-03-24T01:38:00Z</updated>
   <content type="html">
    Download files from http and https networks and save to files
-  </content>
- </entry>
- <entry>
-  <title>TaxMachine: nodejs-packer</title>
-  <author>
-   <name>TaxMachine</name>
-  </author>
-  <link href="https://github.com/TaxMachine/nodejs-packer" />
-  <id>urn:rprimus:github:TaxMachine:nodejs-packer</id>
-  <published>2023-03-23T13:25:47Z</published>
-  <updated>2023-03-23T13:25:47Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>me7: getArgs</title>
-  <author>
-   <name>me7</name>
-  </author>
-  <link href="https://github.com/me7/getArgs" />
-  <id>urn:rprimus:github:me7:getArgs</id>
-  <published>2023-03-23T04:51:01Z</published>
-  <updated>2023-03-23T04:51:01Z</updated>
-  <content type="html">
-   getArgs is a simple repo for working with command line arguments.
   </content>
  </entry>
 </feed>
