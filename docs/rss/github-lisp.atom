@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2023-03-27T01:35:30Z</updated>
+<updated>2023-03-27T08:51:00Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>lexivanx: proxylex</title>
+  <author>
+   <name>lexivanx</name>
+  </author>
+  <link href="https://github.com/lexivanx/proxylex" />
+  <id>urn:rprimus:github:lexivanx:proxylex</id>
+  <published>2023-03-27T08:51:00Z</published>
+  <updated>2023-03-27T08:51:00Z</updated>
+  <content type="html">
+   A reverse proxy and load balancer written in Lisp. Customizable and lightweight
+  </content>
+ </entry>
  <entry>
   <title>bkane2: information-retrieval</title>
   <author>
@@ -144,7 +157,7 @@
   <published>2023-03-25T13:07:48Z</published>
   <updated>2023-03-25T13:07:48Z</updated>
   <content type="html">
-   Measuring some tree-traversing function in Common Lisp
+   Measuring some tree-traversing functions in Common Lisp
   </content>
  </entry>
  <entry>
