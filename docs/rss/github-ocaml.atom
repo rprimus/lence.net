@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2023-03-26T07:55:57Z</updated>
+<updated>2023-03-26T21:28:56Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>thomaslim6793: cs6410_final_project</title>
+  <author>
+   <name>thomaslim6793</name>
+  </author>
+  <link href="https://github.com/thomaslim6793/cs6410_final_project" />
+  <id>urn:rprimus:github:thomaslim6793:cs6410_final_project</id>
+  <published>2023-03-26T21:28:56Z</published>
+  <updated>2023-03-26T21:28:56Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>jtcoolen: ocaml-pari</title>
+  <author>
+   <name>jtcoolen</name>
+  </author>
+  <link href="https://github.com/jtcoolen/ocaml-pari" />
+  <id>urn:rprimus:github:jtcoolen:ocaml-pari</id>
+  <published>2023-03-26T19:10:12Z</published>
+  <updated>2023-03-26T19:10:12Z</updated>
+  <content type="html">
+   OCaml bindings to the PARI library (https://pari.math.u-bordeaux.fr/)
+  </content>
+ </entry>
  <entry>
   <title>atparkweb: melon</title>
   <author>
@@ -67,19 +93,6 @@
   <updated>2023-03-26T01:09:21Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>EliasGit2017: camelwhale</title>
-  <author>
-   <name>EliasGit2017</name>
-  </author>
-  <link href="https://github.com/EliasGit2017/camelwhale" />
-  <id>urn:rprimus:github:EliasGit2017:camelwhale</id>
-  <published>2023-03-25T21:08:43Z</published>
-  <updated>2023-03-25T21:08:43Z</updated>
-  <content type="html">
-   An Ocaml Docker SDK
   </content>
  </entry>
  <entry>
@@ -158,110 +171,6 @@
   <updated>2023-03-25T08:26:41Z</updated>
   <content type="html">
    DNS client library test
-  </content>
- </entry>
- <entry>
-  <title>negrutaadrian7: OGIT</title>
-  <author>
-   <name>negrutaadrian7</name>
-  </author>
-  <link href="https://github.com/negrutaadrian7/OGIT" />
-  <id>urn:rprimus:github:negrutaadrian7:OGIT</id>
-  <published>2023-03-24T22:10:46Z</published>
-  <updated>2023-03-24T22:10:46Z</updated>
-  <content type="html">
-   The goal of this project is to implement the minimal core of a software similar to Git, which allows for managing versions of a set of files. This Git will only work locally for a single user.
-  </content>
- </entry>
- <entry>
-  <title>tobil4sk: pcre2-ocaml</title>
-  <author>
-   <name>tobil4sk</name>
-  </author>
-  <link href="https://github.com/tobil4sk/pcre2-ocaml" />
-  <id>urn:rprimus:github:tobil4sk:pcre2-ocaml</id>
-  <published>2023-03-24T21:44:48Z</published>
-  <updated>2023-03-24T21:44:48Z</updated>
-  <content type="html">
-   OCaml bindings to PCRE (Perl Compatibility Regular Expressions)
-  </content>
- </entry>
- <entry>
-  <title>hamzamooraj99: OCaml-CW</title>
-  <author>
-   <name>hamzamooraj99</name>
-  </author>
-  <link href="https://github.com/hamzamooraj99/OCaml-CW" />
-  <id>urn:rprimus:github:hamzamooraj99:OCaml-CW</id>
-  <published>2023-03-24T21:22:26Z</published>
-  <updated>2023-03-24T21:22:26Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>grew-nlp: grewlib</title>
-  <author>
-   <name>grew-nlp</name>
-  </author>
-  <link href="https://github.com/grew-nlp/grewlib" />
-  <id>urn:rprimus:github:grew-nlp:grewlib</id>
-  <published>2023-03-24T20:28:35Z</published>
-  <updated>2023-03-24T20:28:35Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>gavin-bloom: compiler-c2</title>
-  <author>
-   <name>gavin-bloom</name>
-  </author>
-  <link href="https://github.com/gavin-bloom/compiler-c2" />
-  <id>urn:rprimus:github:gavin-bloom:compiler-c2</id>
-  <published>2023-03-24T19:59:47Z</published>
-  <updated>2023-03-24T19:59:47Z</updated>
-  <content type="html">
-   Compiler for a small C-like language C2. Built with OCaml 4
-  </content>
- </entry>
- <entry>
-  <title>benlloyd50: nfa_dfa_regex</title>
-  <author>
-   <name>benlloyd50</name>
-  </author>
-  <link href="https://github.com/benlloyd50/nfa_dfa_regex" />
-  <id>urn:rprimus:github:benlloyd50:nfa_dfa_regex</id>
-  <published>2023-03-24T11:42:03Z</published>
-  <updated>2023-03-24T11:42:03Z</updated>
-  <content type="html">
-   A school project to understand the foundations of the regex engine
-  </content>
- </entry>
- <entry>
-  <title>zinzero: UPL_CNU2023</title>
-  <author>
-   <name>zinzero</name>
-  </author>
-  <link href="https://github.com/zinzero/UPL_CNU2023" />
-  <id>urn:rprimus:github:zinzero:UPL_CNU2023</id>
-  <published>2023-03-24T11:32:38Z</published>
-  <updated>2023-03-24T11:32:38Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>gridbugs: hello-dune-rpc</title>
-  <author>
-   <name>gridbugs</name>
-  </author>
-  <link href="https://github.com/gridbugs/hello-dune-rpc" />
-  <id>urn:rprimus:github:gridbugs:hello-dune-rpc</id>
-  <published>2023-03-24T04:48:47Z</published>
-  <updated>2023-03-24T04:48:47Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
