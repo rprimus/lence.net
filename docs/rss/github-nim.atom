@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2023-03-29T11:25:24Z</updated>
+<updated>2023-03-29T21:09:03Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>TheoCorn: fun</title>
+  <author>
+   <name>TheoCorn</name>
+  </author>
+  <link href="https://github.com/TheoCorn/fun" />
+  <id>urn:rprimus:github:TheoCorn:fun</id>
+  <published>2023-03-29T21:09:03Z</published>
+  <updated>2023-03-29T21:09:03Z</updated>
+  <content type="html">
+   scripts accessible only thru child directories
+  </content>
+ </entry>
  <entry>
   <title>kcvinker: Nimforms</title>
   <author>
@@ -83,6 +96,19 @@
   </content>
  </entry>
  <entry>
+  <title>Angluca: tigr-nim</title>
+  <author>
+   <name>Angluca</name>
+  </author>
+  <link href="https://github.com/Angluca/tigr-nim" />
+  <id>urn:rprimus:github:Angluca:tigr-nim</id>
+  <published>2023-03-28T15:52:45Z</published>
+  <updated>2023-03-28T15:52:45Z</updated>
+  <content type="html">
+   TIGR - the TIny GRaphics library for Windows, macOS, Linux, iOS and Android.
+  </content>
+ </entry>
+ <entry>
   <title>endlmk: nimdays</title>
   <author>
    <name>endlmk</name>
@@ -119,32 +145,6 @@
   <updated>2023-03-28T08:02:59Z</updated>
   <content type="html">
    A simple tool to explore prometheus exporter metrics
-  </content>
- </entry>
- <entry>
-  <title>system64MC: tfe</title>
-  <author>
-   <name>system64MC</name>
-  </author>
-  <link href="https://github.com/system64MC/tfe" />
-  <id>urn:rprimus:github:system64MC:tfe</id>
-  <published>2023-03-27T19:54:25Z</published>
-  <updated>2023-03-27T19:54:25Z</updated>
-  <content type="html">
-   My git repository for my final school work
-  </content>
- </entry>
- <entry>
-  <title>HapticX: happyx</title>
-  <author>
-   <name>HapticX</name>
-  </author>
-  <link href="https://github.com/HapticX/happyx" />
-  <id>urn:rprimus:github:HapticX:happyx</id>
-  <published>2023-03-27T04:47:32Z</published>
-  <updated>2023-03-27T04:47:32Z</updated>
-  <content type="html">
-   Asynchronous web-framework written in Nim with â¥
   </content>
  </entry>
 </feed>

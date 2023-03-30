@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2023-03-28T21:27:13Z</updated>
+<updated>2023-03-30T03:51:39Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>RAIRLab: snark</title>
+  <author>
+   <name>RAIRLab</name>
+  </author>
+  <link href="https://github.com/RAIRLab/snark" />
+  <id>urn:rprimus:github:RAIRLab:snark</id>
+  <published>2023-03-30T03:51:39Z</published>
+  <updated>2023-03-30T03:51:39Z</updated>
+  <content type="html">
+   Modified version of SNARK version 20120808r02
+  </content>
+ </entry>
+ <entry>
+  <title>RAIRLab: Spectra</title>
+  <author>
+   <name>RAIRLab</name>
+  </author>
+  <link href="https://github.com/RAIRLab/Spectra" />
+  <id>urn:rprimus:github:RAIRLab:Spectra</id>
+  <published>2023-03-30T01:48:46Z</published>
+  <updated>2023-03-30T01:48:46Z</updated>
+  <content type="html">
+   Modified Spectra
+  </content>
+ </entry>
+ <entry>
+  <title>KunchengFeng: CSC466-Artificial-Intelligence-and-Heuristics</title>
+  <author>
+   <name>KunchengFeng</name>
+  </author>
+  <link href="https://github.com/KunchengFeng/CSC466-Artificial-Intelligence-and-Heuristics" />
+  <id>urn:rprimus:github:KunchengFeng:CSC466-Artificial-Intelligence-and-Heuristics</id>
+  <published>2023-03-29T23:55:39Z</published>
+  <updated>2023-03-29T23:55:39Z</updated>
+  <content type="html">
+   In this course, we learned about symbolic and subsymbolic AI. In accompany of this learning, I also modeled a symbolic AI that plays the board game battleship.
+  </content>
+ </entry>
+ <entry>
+  <title>KunchengFeng: CSC416-Artificl-Intell-Prog-Languages</title>
+  <author>
+   <name>KunchengFeng</name>
+  </author>
+  <link href="https://github.com/KunchengFeng/CSC416-Artificl-Intell-Prog-Languages" />
+  <id>urn:rprimus:github:KunchengFeng:CSC416-Artificl-Intell-Prog-Languages</id>
+  <published>2023-03-29T23:25:54Z</published>
+  <updated>2023-03-29T23:25:54Z</updated>
+  <content type="html">
+   In this course we learned some basic artificial intelligence and Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>robert-strandh: Clearcut</title>
+  <author>
+   <name>robert-strandh</name>
+  </author>
+  <link href="https://github.com/robert-strandh/Clearcut" />
+  <id>urn:rprimus:github:robert-strandh:Clearcut</id>
+  <published>2023-03-29T15:21:45Z</published>
+  <updated>2023-03-29T15:21:45Z</updated>
+  <content type="html">
+   Library for abstracting representation of expressions.
+  </content>
+ </entry>
  <entry>
   <title>zeroplissken: cl-terrapin</title>
   <author>
@@ -28,6 +93,19 @@
   <updated>2023-03-28T21:00:57Z</updated>
   <content type="html">
    uLisp functions for using mpr121 capacitive touch controller
+  </content>
+ </entry>
+ <entry>
+  <title>p6nj: chromalisp</title>
+  <author>
+   <name>p6nj</name>
+  </author>
+  <link href="https://github.com/p6nj/chromalisp" />
+  <id>urn:rprimus:github:p6nj:chromalisp</id>
+  <published>2023-03-28T18:24:34Z</published>
+  <updated>2023-03-28T18:24:34Z</updated>
+  <content type="html">
+   MLL (Music Lisp Language) interpreter (MML spin-off).
   </content>
  </entry>
  <entry>
@@ -80,136 +158,6 @@
   <updated>2023-03-28T00:03:15Z</updated>
   <content type="html">
    An old version of Skippy to be compatible with signbot
-  </content>
- </entry>
- <entry>
-  <title>redlibrarian: common_lisp_euler</title>
-  <author>
-   <name>redlibrarian</name>
-  </author>
-  <link href="https://github.com/redlibrarian/common_lisp_euler" />
-  <id>urn:rprimus:github:redlibrarian:common_lisp_euler</id>
-  <published>2023-03-27T23:42:42Z</published>
-  <updated>2023-03-27T23:42:42Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ZBaker11: Rush-hour-SSPS</title>
-  <author>
-   <name>ZBaker11</name>
-  </author>
-  <link href="https://github.com/ZBaker11/Rush-hour-SSPS" />
-  <id>urn:rprimus:github:ZBaker11:Rush-hour-SSPS</id>
-  <published>2023-03-27T23:20:41Z</published>
-  <updated>2023-03-27T23:20:41Z</updated>
-  <content type="html">
-   State space problem solver for the game rush hour, written in common lisp
-  </content>
- </entry>
- <entry>
-  <title>selwynsimsek: one-dollar-recognizer</title>
-  <author>
-   <name>selwynsimsek</name>
-  </author>
-  <link href="https://github.com/selwynsimsek/one-dollar-recognizer" />
-  <id>urn:rprimus:github:selwynsimsek:one-dollar-recognizer</id>
-  <published>2023-03-27T19:15:21Z</published>
-  <updated>2023-03-27T19:15:21Z</updated>
-  <content type="html">
-   Implementation of the $1 gesture recognizer in Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>rearman: dotlem</title>
-  <author>
-   <name>rearman</name>
-  </author>
-  <link href="https://github.com/rearman/dotlem" />
-  <id>urn:rprimus:github:rearman:dotlem</id>
-  <published>2023-03-27T17:47:56Z</published>
-  <updated>2023-03-27T17:47:56Z</updated>
-  <content type="html">
-   .lem files
-  </content>
- </entry>
- <entry>
-  <title>danielhaden: Lantern</title>
-  <author>
-   <name>danielhaden</name>
-  </author>
-  <link href="https://github.com/danielhaden/Lantern" />
-  <id>urn:rprimus:github:danielhaden:Lantern</id>
-  <published>2023-03-27T17:22:09Z</published>
-  <updated>2023-03-27T17:22:09Z</updated>
-  <content type="html">
-   A tool for design and pattern languages
-  </content>
- </entry>
- <entry>
-  <title>gavlooth: pseudoincels</title>
-  <author>
-   <name>gavlooth</name>
-  </author>
-  <link href="https://github.com/gavlooth/pseudoincels" />
-  <id>urn:rprimus:github:gavlooth:pseudoincels</id>
-  <published>2023-03-27T12:07:55Z</published>
-  <updated>2023-03-27T12:07:55Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>permo-io: permo</title>
-  <author>
-   <name>permo-io</name>
-  </author>
-  <link href="https://github.com/permo-io/permo" />
-  <id>urn:rprimus:github:permo-io:permo</id>
-  <published>2023-03-27T09:54:00Z</published>
-  <updated>2023-03-27T09:54:00Z</updated>
-  <content type="html">
-   Permo the Performance-Testing Robot
-  </content>
- </entry>
- <entry>
-  <title>lexivanx: proxylex</title>
-  <author>
-   <name>lexivanx</name>
-  </author>
-  <link href="https://github.com/lexivanx/proxylex" />
-  <id>urn:rprimus:github:lexivanx:proxylex</id>
-  <published>2023-03-27T08:51:00Z</published>
-  <updated>2023-03-27T08:51:00Z</updated>
-  <content type="html">
-   A reverse proxy and load balancer written in Lisp. Customizable and lightweight
-  </content>
- </entry>
- <entry>
-  <title>bkane2: information-retrieval</title>
-  <author>
-   <name>bkane2</name>
-  </author>
-  <link href="https://github.com/bkane2/information-retrieval" />
-  <id>urn:rprimus:github:bkane2:information-retrieval</id>
-  <published>2023-03-27T01:35:30Z</published>
-  <updated>2023-03-27T01:35:30Z</updated>
-  <content type="html">
-   A simple Lisp package for information-retrieval using the Python sentence_transformers library
-  </content>
- </entry>
- <entry>
-  <title>nmunro: malaga-drift-trader</title>
-  <author>
-   <name>nmunro</name>
-  </author>
-  <link href="https://github.com/nmunro/malaga-drift-trader" />
-  <id>urn:rprimus:github:nmunro:malaga-drift-trader</id>
-  <published>2023-03-27T00:26:39Z</published>
-  <updated>2023-03-27T00:26:39Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
