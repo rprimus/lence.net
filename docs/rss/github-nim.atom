@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2023-03-30T19:46:41Z</updated>
+<updated>2023-04-01T03:15:08Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>adamcstephens: flakestrap</title>
+  <author>
+   <name>adamcstephens</name>
+  </author>
+  <link href="https://github.com/adamcstephens/flakestrap" />
+  <id>urn:rprimus:github:adamcstephens:flakestrap</id>
+  <published>2023-04-01T03:15:08Z</published>
+  <updated>2023-04-01T03:15:08Z</updated>
+  <content type="html">
+   flakestrap
+  </content>
+ </entry>
+ <entry>
+  <title>thechampagne: jsonnet-nim</title>
+  <author>
+   <name>thechampagne</name>
+  </author>
+  <link href="https://github.com/thechampagne/jsonnet-nim" />
+  <id>urn:rprimus:github:thechampagne:jsonnet-nim</id>
+  <published>2023-03-31T22:08:23Z</published>
+  <updated>2023-03-31T22:08:23Z</updated>
+  <content type="html">
+   Nim binding for Jsonnet the data templating language.
+  </content>
+ </entry>
+ <entry>
+  <title>choltreppe: sneltim</title>
+  <author>
+   <name>choltreppe</name>
+  </author>
+  <link href="https://github.com/choltreppe/sneltim" />
+  <id>urn:rprimus:github:choltreppe:sneltim</id>
+  <published>2023-03-31T21:29:16Z</published>
+  <updated>2023-03-31T21:29:16Z</updated>
+  <content type="html">
+   A svelte-like web-frontend framework for nim
+  </content>
+ </entry>
+ <entry>
+  <title>lost-rob0t: star-config</title>
+  <author>
+   <name>lost-rob0t</name>
+  </author>
+  <link href="https://github.com/lost-rob0t/star-config" />
+  <id>urn:rprimus:github:lost-rob0t:star-config</id>
+  <published>2023-03-31T19:44:14Z</published>
+  <updated>2023-03-31T19:44:14Z</updated>
+  <content type="html">
+   Common Configuration for starintel related tools
+  </content>
+ </entry>
+ <entry>
+  <title>lost-rob0t: shabbos</title>
+  <author>
+   <name>lost-rob0t</name>
+  </author>
+  <link href="https://github.com/lost-rob0t/shabbos" />
+  <id>urn:rprimus:github:lost-rob0t:shabbos</id>
+  <published>2023-03-31T18:35:03Z</published>
+  <updated>2023-03-31T18:35:03Z</updated>
+  <content type="html">
+   Nim task queues
+  </content>
+ </entry>
  <entry>
   <title>andrealicheri: KaraxSP</title>
   <author>
@@ -28,84 +93,6 @@
   <updated>2023-03-30T10:50:58Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>TheoCorn: fun</title>
-  <author>
-   <name>TheoCorn</name>
-  </author>
-  <link href="https://github.com/TheoCorn/fun" />
-  <id>urn:rprimus:github:TheoCorn:fun</id>
-  <published>2023-03-29T21:09:03Z</published>
-  <updated>2023-03-29T21:09:03Z</updated>
-  <content type="html">
-   scripts accessible only thru child directories
-  </content>
- </entry>
- <entry>
-  <title>mk-9jira: conway</title>
-  <author>
-   <name>mk-9jira</name>
-  </author>
-  <link href="https://github.com/mk-9jira/conway" />
-  <id>urn:rprimus:github:mk-9jira:conway</id>
-  <published>2023-03-29T15:40:58Z</published>
-  <updated>2023-03-29T15:40:58Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>kcvinker: Nimforms</title>
-  <author>
-   <name>kcvinker</name>
-  </author>
-  <link href="https://github.com/kcvinker/Nimforms" />
-  <id>urn:rprimus:github:kcvinker:Nimforms</id>
-  <published>2023-03-29T11:25:24Z</published>
-  <updated>2023-03-29T11:25:24Z</updated>
-  <content type="html">
-   A simple gui library for Nim programming language based on Windows API
-  </content>
- </entry>
- <entry>
-  <title>gpicron: nim_node_binding</title>
-  <author>
-   <name>gpicron</name>
-  </author>
-  <link href="https://github.com/gpicron/nim_node_binding" />
-  <id>urn:rprimus:github:gpicron:nim_node_binding</id>
-  <published>2023-03-29T06:24:10Z</published>
-  <updated>2023-03-29T06:24:10Z</updated>
-  <content type="html">
-   API to build NodeJS module in Nim
-  </content>
- </entry>
- <entry>
-  <title>morganholly: cinnimon</title>
-  <author>
-   <name>morganholly</name>
-  </author>
-  <link href="https://github.com/morganholly/cinnimon" />
-  <id>urn:rprimus:github:morganholly:cinnimon</id>
-  <published>2023-03-29T06:07:39Z</published>
-  <updated>2023-03-29T06:07:39Z</updated>
-  <content type="html">
-   Pure Nim circuit simulation, intended for analog circuits (wip)
-  </content>
- </entry>
- <entry>
-  <title>redrededredred: winfun</title>
-  <author>
-   <name>redrededredred</name>
-  </author>
-  <link href="https://github.com/redrededredred/winfun" />
-  <id>urn:rprimus:github:redrededredred:winfun</id>
-  <published>2023-03-29T05:15:39Z</published>
-  <updated>2023-03-29T05:15:39Z</updated>
-  <content type="html">
-   funny windows program
   </content>
  </entry>
 </feed>
