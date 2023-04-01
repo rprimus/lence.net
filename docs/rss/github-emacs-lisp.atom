@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2023-04-01T09:02:06Z</updated>
+<updated>2023-04-01T15:22:38Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>thefossenjoyer: org-site</title>
+  <author>
+   <name>thefossenjoyer</name>
+  </author>
+  <link href="https://github.com/thefossenjoyer/org-site" />
+  <id>urn:rprimus:github:thefossenjoyer:org-site</id>
+  <published>2023-04-01T15:22:38Z</published>
+  <updated>2023-04-01T15:22:38Z</updated>
+  <content type="html">
+   A site written in Org mode.
+  </content>
+ </entry>
+ <entry>
+  <title>yuzu-eva: yuzu-emacs</title>
+  <author>
+   <name>yuzu-eva</name>
+  </author>
+  <link href="https://github.com/yuzu-eva/yuzu-emacs" />
+  <id>urn:rprimus:github:yuzu-eva:yuzu-emacs</id>
+  <published>2023-04-01T14:16:24Z</published>
+  <updated>2023-04-01T14:16:24Z</updated>
+  <content type="html">
+   My emacs configuration
+  </content>
+ </entry>
  <entry>
   <title>frabazz: .emacs.d</title>
   <author>
@@ -135,12 +161,12 @@
   </content>
  </entry>
  <entry>
-  <title>DylanRitchings: spacemacs</title>
+  <title>DylanRitchings: .spacemacs.d</title>
   <author>
    <name>DylanRitchings</name>
   </author>
-  <link href="https://github.com/DylanRitchings/spacemacs" />
-  <id>urn:rprimus:github:DylanRitchings:spacemacs</id>
+  <link href="https://github.com/DylanRitchings/.spacemacs.d" />
+  <id>urn:rprimus:github:DylanRitchings:.spacemacs.d</id>
   <published>2023-03-31T16:37:06Z</published>
   <updated>2023-03-31T16:37:06Z</updated>
   <content type="html">
@@ -210,6 +236,19 @@
   <updated>2023-03-31T11:15:23Z</updated>
   <content type="html">
    The emacs config I personally use.
+  </content>
+ </entry>
+ <entry>
+  <title>improve100: doom</title>
+  <author>
+   <name>improve100</name>
+  </author>
+  <link href="https://github.com/improve100/doom" />
+  <id>urn:rprimus:github:improve100:doom</id>
+  <published>2023-03-31T10:35:35Z</published>
+  <updated>2023-03-31T10:35:35Z</updated>
+  <content type="html">
+   doom personal configure
   </content>
  </entry>
  <entry>
