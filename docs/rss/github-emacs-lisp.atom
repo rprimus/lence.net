@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2023-04-01T15:22:38Z</updated>
+<updated>2023-04-02T00:13:39Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>256k: .emacs.d</title>
+  <author>
+   <name>256k</name>
+  </author>
+  <link href="https://github.com/256k/.emacs.d" />
+  <id>urn:rprimus:github:256k:.emacs.d</id>
+  <published>2023-04-02T00:13:39Z</published>
+  <updated>2023-04-02T00:13:39Z</updated>
+  <content type="html">
+   GNU emacs config
+  </content>
+ </entry>
+ <entry>
+  <title>ulleandre: .files</title>
+  <author>
+   <name>ulleandre</name>
+  </author>
+  <link href="https://github.com/ulleandre/.files" />
+  <id>urn:rprimus:github:ulleandre:.files</id>
+  <published>2023-04-01T19:04:14Z</published>
+  <updated>2023-04-01T19:04:14Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>thefossenjoyer: org-site</title>
   <author>
@@ -28,6 +54,19 @@
   <updated>2023-04-01T14:16:24Z</updated>
   <content type="html">
    My emacs configuration
+  </content>
+ </entry>
+ <entry>
+  <title>0kate: dotfiles</title>
+  <author>
+   <name>0kate</name>
+  </author>
+  <link href="https://github.com/0kate/dotfiles" />
+  <id>urn:rprimus:github:0kate:dotfiles</id>
+  <published>2023-04-01T11:32:09Z</published>
+  <updated>2023-04-01T11:32:09Z</updated>
+  <content type="html">
+   My personal dotfiles.
   </content>
  </entry>
  <entry>
@@ -300,189 +339,7 @@
   <published>2023-03-31T06:03:06Z</published>
   <updated>2023-03-31T06:03:06Z</updated>
   <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>fitzgibbon: igor</title>
-  <author>
-   <name>fitzgibbon</name>
-  </author>
-  <link href="https://github.com/fitzgibbon/igor" />
-  <id>urn:rprimus:github:fitzgibbon:igor</id>
-  <published>2023-03-30T22:43:00Z</published>
-  <updated>2023-03-30T22:43:00Z</updated>
-  <content type="html">
-   LLM-powered Emacs assistant.
-  </content>
- </entry>
- <entry>
-  <title>KaranAhlawat: dotfiles</title>
-  <author>
-   <name>KaranAhlawat</name>
-  </author>
-  <link href="https://github.com/KaranAhlawat/dotfiles" />
-  <id>urn:rprimus:github:KaranAhlawat:dotfiles</id>
-  <published>2023-03-30T19:11:13Z</published>
-  <updated>2023-03-30T19:11:13Z</updated>
-  <content type="html">
-   Dotfiles managed by yadm
-  </content>
- </entry>
- <entry>
-  <title>darius: swot</title>
-  <author>
-   <name>darius</name>
-  </author>
-  <link href="https://github.com/darius/swot" />
-  <id>urn:rprimus:github:darius:swot</id>
-  <published>2023-03-30T17:53:09Z</published>
-  <updated>2023-03-30T17:53:09Z</updated>
-  <content type="html">
-   An Emacs mode for spaced-repetition study
-  </content>
- </entry>
- <entry>
-  <title>pank-su: ox-gost</title>
-  <author>
-   <name>pank-su</name>
-  </author>
-  <link href="https://github.com/pank-su/ox-gost" />
-  <id>urn:rprimus:github:pank-su:ox-gost</id>
-  <published>2023-03-30T17:27:01Z</published>
-  <updated>2023-03-30T17:27:01Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>kressnerd: org-roam-logseq</title>
-  <author>
-   <name>kressnerd</name>
-  </author>
-  <link href="https://github.com/kressnerd/org-roam-logseq" />
-  <id>urn:rprimus:github:kressnerd:org-roam-logseq</id>
-  <published>2023-03-30T16:58:12Z</published>
-  <updated>2023-03-30T16:58:12Z</updated>
-  <content type="html">
-   Adds missing headers and IDs to org files
-  </content>
- </entry>
- <entry>
-  <title>shouya: ancilla.el</title>
-  <author>
-   <name>shouya</name>
-  </author>
-  <link href="https://github.com/shouya/ancilla.el" />
-  <id>urn:rprimus:github:shouya:ancilla.el</id>
-  <published>2023-03-30T14:07:00Z</published>
-  <updated>2023-03-30T14:07:00Z</updated>
-  <content type="html">
-   AI assisted code generation/refactory in Emacs
-  </content>
- </entry>
- <entry>
-  <title>Cletip: .emacs.dMateo</title>
-  <author>
-   <name>Cletip</name>
-  </author>
-  <link href="https://github.com/Cletip/.emacs.dMateo" />
-  <id>urn:rprimus:github:Cletip:.emacs.dMateo</id>
-  <published>2023-03-30T11:33:37Z</published>
-  <updated>2023-03-30T11:33:37Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>locutus3009: dotfiles</title>
-  <author>
-   <name>locutus3009</name>
-  </author>
-  <link href="https://github.com/locutus3009/dotfiles" />
-  <id>urn:rprimus:github:locutus3009:dotfiles</id>
-  <published>2023-03-30T09:10:44Z</published>
-  <updated>2023-03-30T09:10:44Z</updated>
-  <content type="html">
-   Personal dotfiles. Everybody has it so do I
-  </content>
- </entry>
- <entry>
-  <title>ExalDraen: emacs-config</title>
-  <author>
-   <name>ExalDraen</name>
-  </author>
-  <link href="https://github.com/ExalDraen/emacs-config" />
-  <id>urn:rprimus:github:ExalDraen:emacs-config</id>
-  <published>2023-03-30T09:09:42Z</published>
-  <updated>2023-03-30T09:09:42Z</updated>
-  <content type="html">
-   Emacs config files
-  </content>
- </entry>
- <entry>
-  <title>MitchMarq42: notibox.el</title>
-  <author>
-   <name>MitchMarq42</name>
-  </author>
-  <link href="https://github.com/MitchMarq42/notibox.el" />
-  <id>urn:rprimus:github:MitchMarq42:notibox.el</id>
-  <published>2023-03-30T08:59:25Z</published>
-  <updated>2023-03-30T08:59:25Z</updated>
-  <content type="html">
-   Posframe-based notification UI for Emacs
-  </content>
- </entry>
- <entry>
-  <title>daehwannam: emacs-library</title>
-  <author>
-   <name>daehwannam</name>
-  </author>
-  <link href="https://github.com/daehwannam/emacs-library" />
-  <id>urn:rprimus:github:daehwannam:emacs-library</id>
-  <published>2023-03-30T08:48:31Z</published>
-  <updated>2023-03-30T08:48:31Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>zawatton21: ddskk-test</title>
-  <author>
-   <name>zawatton21</name>
-  </author>
-  <link href="https://github.com/zawatton21/ddskk-test" />
-  <id>urn:rprimus:github:zawatton21:ddskk-test</id>
-  <published>2023-03-30T02:25:05Z</published>
-  <updated>2023-03-30T02:25:05Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>clearloop: .doom.d</title>
-  <author>
-   <name>clearloop</name>
-  </author>
-  <link href="https://github.com/clearloop/.doom.d" />
-  <id>urn:rprimus:github:clearloop:.doom.d</id>
-  <published>2023-03-30T01:37:59Z</published>
-  <updated>2023-03-30T01:37:59Z</updated>
-  <content type="html">
-   goodbye spacemacs
-  </content>
- </entry>
- <entry>
-  <title>discofocx: dotfiles</title>
-  <author>
-   <name>discofocx</name>
-  </author>
-  <link href="https://github.com/discofocx/dotfiles" />
-  <id>urn:rprimus:github:discofocx:dotfiles</id>
-  <published>2023-03-30T01:10:16Z</published>
-  <updated>2023-03-30T01:10:16Z</updated>
-  <content type="html">
-   My dotfiles
+   Stable IDs for ox-html.el
   </content>
  </entry>
 </feed>
