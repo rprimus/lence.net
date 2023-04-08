@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-erlang.atom"/>
 <id>urn:rprimus:github:newerlangrepos</id>
-<updated>2023-04-07T09:29:02Z</updated>
+<updated>2023-04-07T18:49:09Z</updated>
 <title type='text'>New GitHub Erlang Repos</title>
+ <entry>
+  <title>greyqwilson: cs4080_erlangproject</title>
+  <author>
+   <name>greyqwilson</name>
+  </author>
+  <link href="https://github.com/greyqwilson/cs4080_erlangproject" />
+  <id>urn:rprimus:github:greyqwilson:cs4080_erlangproject</id>
+  <published>2023-04-07T18:49:09Z</published>
+  <updated>2023-04-07T18:49:09Z</updated>
+  <content type="html">
+   This program implements a toy distributed data store to demonstrate the features of Erlang OTP. This project was made for CS4080 - Programming Languages
+  </content>
+ </entry>
+ <entry>
+  <title>lvsz: DecentBlog</title>
+  <author>
+   <name>lvsz</name>
+  </author>
+  <link href="https://github.com/lvsz/DecentBlog" />
+  <id>urn:rprimus:github:lvsz:DecentBlog</id>
+  <published>2023-04-07T17:45:21Z</published>
+  <updated>2023-04-07T17:45:21Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>codeadict: fs_watcher</title>
+  <author>
+   <name>codeadict</name>
+  </author>
+  <link href="https://github.com/codeadict/fs_watcher" />
+  <id>urn:rprimus:github:codeadict:fs_watcher</id>
+  <published>2023-04-07T16:05:12Z</published>
+  <updated>2023-04-07T16:05:12Z</updated>
+  <content type="html">
+   Erlang/Elixir filesystem monitor
+  </content>
+ </entry>
  <entry>
   <title>joq62: api</title>
   <author>
@@ -96,29 +135,16 @@
   </content>
  </entry>
  <entry>
-  <title>AndMikh: lab4</title>
+  <title>silviucpp: esmpplib</title>
   <author>
-   <name>AndMikh</name>
+   <name>silviucpp</name>
   </author>
-  <link href="https://github.com/AndMikh/lab4" />
-  <id>urn:rprimus:github:AndMikh:lab4</id>
-  <published>2023-04-05T19:36:54Z</published>
-  <updated>2023-04-05T19:36:54Z</updated>
+  <link href="https://github.com/silviucpp/esmpplib" />
+  <id>urn:rprimus:github:silviucpp:esmpplib</id>
+  <published>2023-04-06T10:42:11Z</published>
+  <updated>2023-04-06T10:42:11Z</updated>
   <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>amoein: elf</title>
-  <author>
-   <name>amoein</name>
-  </author>
-  <link href="https://github.com/amoein/elf" />
-  <id>urn:rprimus:github:amoein:elf</id>
-  <published>2023-04-05T12:39:18Z</published>
-  <updated>2023-04-05T12:39:18Z</updated>
-  <content type="html">
-   Efficient Unique Sorted ID
+   Erlang SMPP client
   </content>
  </entry>
 </feed>
