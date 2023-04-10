@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2023-04-08T23:08:21Z</updated>
+<updated>2023-04-10T03:50:49Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>carlomunguia: ocaml_wayz</title>
+  <author>
+   <name>carlomunguia</name>
+  </author>
+  <link href="https://github.com/carlomunguia/ocaml_wayz" />
+  <id>urn:rprimus:github:carlomunguia:ocaml_wayz</id>
+  <published>2023-04-10T03:50:49Z</published>
+  <updated>2023-04-10T03:50:49Z</updated>
+  <content type="html">
+   learning repo for the wayz of OCaml
+  </content>
+ </entry>
+ <entry>
+  <title>alanssitis: security_games</title>
+  <author>
+   <name>alanssitis</name>
+  </author>
+  <link href="https://github.com/alanssitis/security_games" />
+  <id>urn:rprimus:github:alanssitis:security_games</id>
+  <published>2023-04-10T01:20:36Z</published>
+  <updated>2023-04-10T01:20:36Z</updated>
+  <content type="html">
+   ECE 302 Project
+  </content>
+ </entry>
+ <entry>
+  <title>Gopiandcode: ppx_meta_elpi</title>
+  <author>
+   <name>Gopiandcode</name>
+  </author>
+  <link href="https://github.com/Gopiandcode/ppx_meta_elpi" />
+  <id>urn:rprimus:github:Gopiandcode:ppx_meta_elpi</id>
+  <published>2023-04-09T20:01:25Z</published>
+  <updated>2023-04-09T20:01:25Z</updated>
+  <content type="html">
+   PPX using elpi
+  </content>
+ </entry>
+ <entry>
+  <title>ayadav313: EXPLICIT-REFS-MF</title>
+  <author>
+   <name>ayadav313</name>
+  </author>
+  <link href="https://github.com/ayadav313/EXPLICIT-REFS-MF" />
+  <id>urn:rprimus:github:ayadav313:EXPLICIT-REFS-MF</id>
+  <published>2023-04-09T19:07:08Z</published>
+  <updated>2023-04-09T19:07:08Z</updated>
+  <content type="html">
+   This assignment has two parts. Part I consist in adding records with mutable fields to EXPLICIT-REFS to obtain EXPLICIT-REFS-MF. Part II consists in writing a series of programs in the language EXPLICIT-REFS-MF that make use of this new language construct.
+  </content>
+ </entry>
+ <entry>
+  <title>murbard: blc</title>
+  <author>
+   <name>murbard</name>
+  </author>
+  <link href="https://github.com/murbard/blc" />
+  <id>urn:rprimus:github:murbard:blc</id>
+  <published>2023-04-09T12:51:28Z</published>
+  <updated>2023-04-09T12:51:28Z</updated>
+  <content type="html">
+   Binary lambda calculus experiments
+  </content>
+ </entry>
+ <entry>
+  <title>elzibus: Ocaban</title>
+  <author>
+   <name>elzibus</name>
+  </author>
+  <link href="https://github.com/elzibus/Ocaban" />
+  <id>urn:rprimus:github:elzibus:Ocaban</id>
+  <published>2023-04-09T12:08:13Z</published>
+  <updated>2023-04-09T12:08:13Z</updated>
+  <content type="html">
+   Sokoban game in OCaml
+  </content>
+ </entry>
  <entry>
   <title>richard-zhang: little_learner</title>
   <author>
@@ -13,6 +91,19 @@
   <id>urn:rprimus:github:richard-zhang:little_learner</id>
   <published>2023-04-08T23:08:21Z</published>
   <updated>2023-04-08T23:08:21Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>GuilhermeAQOS: LAP-P1</title>
+  <author>
+   <name>GuilhermeAQOS</name>
+  </author>
+  <link href="https://github.com/GuilhermeAQOS/LAP-P1" />
+  <id>urn:rprimus:github:GuilhermeAQOS:LAP-P1</id>
+  <published>2023-04-08T22:34:46Z</published>
+  <updated>2023-04-08T22:34:46Z</updated>
   <content type="html">
    
   </content>
@@ -119,45 +210,6 @@
   <updated>2023-04-08T04:51:20Z</updated>
   <content type="html">
    A solution to a decision problem: given a room represented by a two-dimensional rectilinear polygon, implement a robot that cleans all the tiles in as few moves as possible.
-  </content>
- </entry>
- <entry>
-  <title>JustABadCoder: cmsc330</title>
-  <author>
-   <name>JustABadCoder</name>
-  </author>
-  <link href="https://github.com/JustABadCoder/cmsc330" />
-  <id>urn:rprimus:github:JustABadCoder:cmsc330</id>
-  <published>2023-04-07T19:16:12Z</published>
-  <updated>2023-04-07T19:16:12Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>XFFS: json-data-encoding</title>
-  <author>
-   <name>XFFS</name>
-  </author>
-  <link href="https://github.com/XFFS/json-data-encoding" />
-  <id>urn:rprimus:github:XFFS:json-data-encoding</id>
-  <published>2023-04-07T18:25:12Z</published>
-  <updated>2023-04-07T18:25:12Z</updated>
-  <content type="html">
-   Fork of https://gitlab.com/nomadic-labs/json-data-encoding
-  </content>
- </entry>
- <entry>
-  <title>elijahei: functional-programming</title>
-  <author>
-   <name>elijahei</name>
-  </author>
-  <link href="https://github.com/elijahei/functional-programming" />
-  <id>urn:rprimus:github:elijahei:functional-programming</id>
-  <published>2023-04-07T00:42:16Z</published>
-  <updated>2023-04-07T00:42:16Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>

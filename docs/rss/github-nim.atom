@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2023-04-09T05:26:31Z</updated>
+<updated>2023-04-10T00:23:22Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>GeeLeonidas: julito</title>
+  <author>
+   <name>GeeLeonidas</name>
+  </author>
+  <link href="https://github.com/GeeLeonidas/julito" />
+  <id>urn:rprimus:github:GeeLeonidas:julito</id>
+  <published>2023-04-10T00:23:22Z</published>
+  <updated>2023-04-10T00:23:22Z</updated>
+  <content type="html">
+   Discord Bot that plays songs on voice chat, acting as an interface to yt-dlp
+  </content>
+ </entry>
+ <entry>
+  <title>indiscipline: rearchiver</title>
+  <author>
+   <name>indiscipline</name>
+  </author>
+  <link href="https://github.com/indiscipline/rearchiver" />
+  <id>urn:rprimus:github:indiscipline:rearchiver</id>
+  <published>2023-04-09T19:04:27Z</published>
+  <updated>2023-04-09T19:04:27Z</updated>
+  <content type="html">
+   Prepare your Reaper project for archiving, converting WAV to FLAC and changing the RPP file accordingly
+  </content>
+ </entry>
+ <entry>
+  <title>indiscipline: cozytaskpool</title>
+  <author>
+   <name>indiscipline</name>
+  </author>
+  <link href="https://github.com/indiscipline/cozytaskpool" />
+  <id>urn:rprimus:github:indiscipline:cozytaskpool</id>
+  <published>2023-04-09T16:02:54Z</published>
+  <updated>2023-04-09T16:02:54Z</updated>
+  <content type="html">
+   Cozy Task Pool for threaded concurrency with Nim&#039;s channels
+  </content>
+ </entry>
+ <entry>
+  <title>miicrosoft: nim-webhook-base</title>
+  <author>
+   <name>miicrosoft</name>
+  </author>
+  <link href="https://github.com/miicrosoft/nim-webhook-base" />
+  <id>urn:rprimus:github:miicrosoft:nim-webhook-base</id>
+  <published>2023-04-09T15:14:13Z</published>
+  <updated>2023-04-09T15:14:13Z</updated>
+  <content type="html">
+   Base for using discord webhooks in nim
+  </content>
+ </entry>
+ <entry>
+  <title>gbroxey: blog</title>
+  <author>
+   <name>gbroxey</name>
+  </author>
+  <link href="https://github.com/gbroxey/blog" />
+  <id>urn:rprimus:github:gbroxey:blog</id>
+  <published>2023-04-09T07:25:40Z</published>
+  <updated>2023-04-09T07:25:40Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>avahe-kellenberger: ufd</title>
   <author>
@@ -28,84 +93,6 @@
   <updated>2023-04-08T11:37:13Z</updated>
   <content type="html">
    Experiments with MIDI in the Nim language
-  </content>
- </entry>
- <entry>
-  <title>epilif3sotnas: learn-source-code-documentation</title>
-  <author>
-   <name>epilif3sotnas</name>
-  </author>
-  <link href="https://github.com/epilif3sotnas/learn-source-code-documentation" />
-  <id>urn:rprimus:github:epilif3sotnas:learn-source-code-documentation</id>
-  <published>2023-04-08T10:39:40Z</published>
-  <updated>2023-04-08T10:39:40Z</updated>
-  <content type="html">
-   Learn source code documentation.
-  </content>
- </entry>
- <entry>
-  <title>benjaminheath238: Compiler-components</title>
-  <author>
-   <name>benjaminheath238</name>
-  </author>
-  <link href="https://github.com/benjaminheath238/Compiler-components" />
-  <id>urn:rprimus:github:benjaminheath238:Compiler-components</id>
-  <published>2023-04-07T22:50:22Z</published>
-  <updated>2023-04-07T22:50:22Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>epilif3sotnas: learn-python-extensions</title>
-  <author>
-   <name>epilif3sotnas</name>
-  </author>
-  <link href="https://github.com/epilif3sotnas/learn-python-extensions" />
-  <id>urn:rprimus:github:epilif3sotnas:learn-python-extensions</id>
-  <published>2023-04-07T18:36:44Z</published>
-  <updated>2023-04-07T18:36:44Z</updated>
-  <content type="html">
-   A project to learn Python extensions
-  </content>
- </entry>
- <entry>
-  <title>benjaminheath238: RS-Lang</title>
-  <author>
-   <name>benjaminheath238</name>
-  </author>
-  <link href="https://github.com/benjaminheath238/RS-Lang" />
-  <id>urn:rprimus:github:benjaminheath238:RS-Lang</id>
-  <published>2023-04-07T17:49:26Z</published>
-  <updated>2023-04-07T17:49:26Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>can-lehmann: owlkettle-crud</title>
-  <author>
-   <name>can-lehmann</name>
-  </author>
-  <link href="https://github.com/can-lehmann/owlkettle-crud" />
-  <id>urn:rprimus:github:can-lehmann:owlkettle-crud</id>
-  <published>2023-04-07T15:39:53Z</published>
-  <updated>2023-04-07T15:39:53Z</updated>
-  <content type="html">
-   An example of a simple CRUD application in owlkettle
-  </content>
- </entry>
- <entry>
-  <title>mtup21: Nim</title>
-  <author>
-   <name>mtup21</name>
-  </author>
-  <link href="https://github.com/mtup21/Nim" />
-  <id>urn:rprimus:github:mtup21:Nim</id>
-  <published>2023-04-07T06:55:45Z</published>
-  <updated>2023-04-07T06:55:45Z</updated>
-  <content type="html">
-   Nim Projects
   </content>
  </entry>
 </feed>
