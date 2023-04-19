@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-scheme.atom"/>
 <id>urn:rprimus:github:newschemerepos</id>
-<updated>2023-04-18T01:28:22Z</updated>
+<updated>2023-04-19T07:12:09Z</updated>
 <title type='text'>New GitHub Scheme Repos</title>
+ <entry>
+  <title>shawnw: chicken-srfi-227</title>
+  <author>
+   <name>shawnw</name>
+  </author>
+  <link href="https://github.com/shawnw/chicken-srfi-227" />
+  <id>urn:rprimus:github:shawnw:chicken-srfi-227</id>
+  <published>2023-04-19T07:12:09Z</published>
+  <updated>2023-04-19T07:12:09Z</updated>
+  <content type="html">
+   SRFI-227 for Chicken Scheme
+  </content>
+ </entry>
+ <entry>
+  <title>arksys-os: arksys-post-install</title>
+  <author>
+   <name>arksys-os</name>
+  </author>
+  <link href="https://github.com/arksys-os/arksys-post-install" />
+  <id>urn:rprimus:github:arksys-os:arksys-post-install</id>
+  <published>2023-04-18T16:23:55Z</published>
+  <updated>2023-04-18T16:23:55Z</updated>
+  <content type="html">
+   ArkSys Post Installation and config files.
+  </content>
+ </entry>
+ <entry>
+  <title>rauschzach: school-loneliness-syntax-PISA</title>
+  <author>
+   <name>rauschzach</name>
+  </author>
+  <link href="https://github.com/rauschzach/school-loneliness-syntax-PISA" />
+  <id>urn:rprimus:github:rauschzach:school-loneliness-syntax-PISA</id>
+  <published>2023-04-18T16:09:16Z</published>
+  <updated>2023-04-18T16:09:16Z</updated>
+  <content type="html">
+   SPSS syntax to re-rerun analyses on school loneliness that I write about in The Mental Illness Epidemic is International, Part 2: The Nordic Nations. 
+  </content>
+ </entry>
  <entry>
   <title>ab3250: Gambit-Permutations</title>
   <author>
@@ -18,16 +57,16 @@
   </content>
  </entry>
  <entry>
-  <title>gesellkammer: lilyponddist</title>
+  <title>newluhux: guix-config</title>
   <author>
-   <name>gesellkammer</name>
+   <name>newluhux</name>
   </author>
-  <link href="https://github.com/gesellkammer/lilyponddist" />
-  <id>urn:rprimus:github:gesellkammer:lilyponddist</id>
-  <published>2023-04-17T21:55:49Z</published>
-  <updated>2023-04-17T21:55:49Z</updated>
+  <link href="https://github.com/newluhux/guix-config" />
+  <id>urn:rprimus:github:newluhux:guix-config</id>
+  <published>2023-04-17T13:19:53Z</published>
+  <updated>2023-04-17T13:19:53Z</updated>
   <content type="html">
-   Install lilypond as a python package
+   MY GNU GUIX SYSTEM CONFIGURATION FILE
   </content>
  </entry>
  <entry>
@@ -54,71 +93,6 @@
   <updated>2023-04-17T03:27:53Z</updated>
   <content type="html">
    A mutable stream library for Scheme, inspired by Java&#039;s 8 stream API. Process data streams in a functional and declarative style with ease!
-  </content>
- </entry>
- <entry>
-  <title>ghostarchist: guix-bitcoin</title>
-  <author>
-   <name>ghostarchist</name>
-  </author>
-  <link href="https://github.com/ghostarchist/guix-bitcoin" />
-  <id>urn:rprimus:github:ghostarchist:guix-bitcoin</id>
-  <published>2023-04-17T03:18:47Z</published>
-  <updated>2023-04-17T03:18:47Z</updated>
-  <content type="html">
-   Guix Channel for bitcoin related packages and services
-  </content>
- </entry>
- <entry>
-  <title>YanikaD: Leaflet-Webmap</title>
-  <author>
-   <name>YanikaD</name>
-  </author>
-  <link href="https://github.com/YanikaD/Leaflet-Webmap" />
-  <id>urn:rprimus:github:YanikaD:Leaflet-Webmap</id>
-  <published>2023-04-16T18:40:31Z</published>
-  <updated>2023-04-16T18:40:31Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>nmeum: edward-contrib</title>
-  <author>
-   <name>nmeum</name>
-  </author>
-  <link href="https://github.com/nmeum/edward-contrib" />
-  <id>urn:rprimus:github:nmeum:edward-contrib</id>
-  <published>2023-04-16T14:56:53Z</published>
-  <updated>2023-04-16T14:56:53Z</updated>
-  <content type="html">
-   Extra commands for the extensible edward text editor
-  </content>
- </entry>
- <entry>
-  <title>natimerry: wayland-dots</title>
-  <author>
-   <name>natimerry</name>
-  </author>
-  <link href="https://github.com/natimerry/wayland-dots" />
-  <id>urn:rprimus:github:natimerry:wayland-dots</id>
-  <published>2023-04-16T12:01:52Z</published>
-  <updated>2023-04-16T12:01:52Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>lyrra: guile-tdgammon</title>
-  <author>
-   <name>lyrra</name>
-  </author>
-  <link href="https://github.com/lyrra/guile-tdgammon" />
-  <id>urn:rprimus:github:lyrra:guile-tdgammon</id>
-  <published>2023-04-16T09:13:36Z</published>
-  <updated>2023-04-16T09:13:36Z</updated>
-  <content type="html">
-   Recreation of Tesauro 1992 Seminal work of td-gammon
   </content>
  </entry>
 </feed>
