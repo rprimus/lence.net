@@ -2,19 +2,149 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-go.atom"/>
 <id>urn:rprimus:github:newgorepos</id>
-<updated>2023-04-22T05:47:45Z</updated>
+<updated>2023-04-22T09:25:58Z</updated>
 <title type='text'>New GitHub Go Repos</title>
  <entry>
-  <title>theghostmac: functional</title>
+  <title>adkr38: native-api-soccer</title>
   <author>
-   <name>theghostmac</name>
+   <name>adkr38</name>
   </author>
-  <link href="https://github.com/theghostmac/functional" />
-  <id>urn:rprimus:github:theghostmac:functional</id>
-  <published>2023-04-22T05:47:45Z</published>
-  <updated>2023-04-22T05:47:45Z</updated>
+  <link href="https://github.com/adkr38/native-api-soccer" />
+  <id>urn:rprimus:github:adkr38:native-api-soccer</id>
+  <published>2023-04-22T09:25:58Z</published>
+  <updated>2023-04-22T09:25:58Z</updated>
   <content type="html">
-   Exploring Functional Programming concepts with my favorite languages
+   Golang native API for soccer players and teams (In progress)
+  </content>
+ </entry>
+ <entry>
+  <title>fabriziopandini: cluster-api-provider-goofy</title>
+  <author>
+   <name>fabriziopandini</name>
+  </author>
+  <link href="https://github.com/fabriziopandini/cluster-api-provider-goofy" />
+  <id>urn:rprimus:github:fabriziopandini:cluster-api-provider-goofy</id>
+  <published>2023-04-22T08:28:27Z</published>
+  <updated>2023-04-22T08:28:27Z</updated>
+  <content type="html">
+   experimenting on some idea discussed at KubeCon EU23
+  </content>
+ </entry>
+ <entry>
+  <title>Phattarapon4927: Golang</title>
+  <author>
+   <name>Phattarapon4927</name>
+  </author>
+  <link href="https://github.com/Phattarapon4927/Golang" />
+  <id>urn:rprimus:github:Phattarapon4927:Golang</id>
+  <published>2023-04-22T08:27:24Z</published>
+  <updated>2023-04-22T08:27:24Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>GwangIl-Park: ethereum-explorer</title>
+  <author>
+   <name>GwangIl-Park</name>
+  </author>
+  <link href="https://github.com/GwangIl-Park/ethereum-explorer" />
+  <id>urn:rprimus:github:GwangIl-Park:ethereum-explorer</id>
+  <published>2023-04-22T08:09:47Z</published>
+  <updated>2023-04-22T08:09:47Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>vlady0505: Golang-web-app</title>
+  <author>
+   <name>vlady0505</name>
+  </author>
+  <link href="https://github.com/vlady0505/Golang-web-app" />
+  <id>urn:rprimus:github:vlady0505:Golang-web-app</id>
+  <published>2023-04-22T07:45:42Z</published>
+  <updated>2023-04-22T07:45:42Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Shravan-1908: tusk</title>
+  <author>
+   <name>Shravan-1908</name>
+  </author>
+  <link href="https://github.com/Shravan-1908/tusk" />
+  <id>urn:rprimus:github:Shravan-1908:tusk</id>
+  <published>2023-04-22T07:35:46Z</published>
+  <updated>2023-04-22T07:35:46Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>DmitySH: go-auth-service</title>
+  <author>
+   <name>DmitySH</name>
+  </author>
+  <link href="https://github.com/DmitySH/go-auth-service" />
+  <id>urn:rprimus:github:DmitySH:go-auth-service</id>
+  <published>2023-04-22T07:28:29Z</published>
+  <updated>2023-04-22T07:28:29Z</updated>
+  <content type="html">
+   Authentication service written in Go
+  </content>
+ </entry>
+ <entry>
+  <title>moznion: aws-lambda-go-dynamodb-type-bridge</title>
+  <author>
+   <name>moznion</name>
+  </author>
+  <link href="https://github.com/moznion/aws-lambda-go-dynamodb-type-bridge" />
+  <id>urn:rprimus:github:moznion:aws-lambda-go-dynamodb-type-bridge</id>
+  <published>2023-04-22T06:42:55Z</published>
+  <updated>2023-04-22T06:42:55Z</updated>
+  <content type="html">
+   A library that makes it easier to unmarshal the `map[string]events.DynamoDBAttributeValue` which comes from `aws/aws-lambda-go/events` into a target struct that uses `dynamodbav` custom tags.
+  </content>
+ </entry>
+ <entry>
+  <title>Zhang-Zhenning: MapReduce-framework</title>
+  <author>
+   <name>Zhang-Zhenning</name>
+  </author>
+  <link href="https://github.com/Zhang-Zhenning/MapReduce-framework" />
+  <id>urn:rprimus:github:Zhang-Zhenning:MapReduce-framework</id>
+  <published>2023-04-22T06:38:37Z</published>
+  <updated>2023-04-22T06:38:37Z</updated>
+  <content type="html">
+   Self-designed MapReduce framework in GO
+  </content>
+ </entry>
+ <entry>
+  <title>Bash-Clevin: go-website</title>
+  <author>
+   <name>Bash-Clevin</name>
+  </author>
+  <link href="https://github.com/Bash-Clevin/go-website" />
+  <id>urn:rprimus:github:Bash-Clevin:go-website</id>
+  <published>2023-04-22T06:25:12Z</published>
+  <updated>2023-04-22T06:25:12Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Ranjithdr2021: Todo-app</title>
+  <author>
+   <name>Ranjithdr2021</name>
+  </author>
+  <link href="https://github.com/Ranjithdr2021/Todo-app" />
+  <id>urn:rprimus:github:Ranjithdr2021:Todo-app</id>
+  <published>2023-04-22T06:22:27Z</published>
+  <updated>2023-04-22T06:22:27Z</updated>
+  <content type="html">
+   Todo operations
   </content>
  </entry>
  <entry>
@@ -31,14 +161,14 @@
   </content>
  </entry>
  <entry>
-  <title>Dharitri-org: me-core</title>
+  <title>IskanderSh: todo-app</title>
   <author>
-   <name>Dharitri-org</name>
+   <name>IskanderSh</name>
   </author>
-  <link href="https://github.com/Dharitri-org/me-core" />
-  <id>urn:rprimus:github:Dharitri-org:me-core</id>
-  <published>2023-04-22T05:27:07Z</published>
-  <updated>2023-04-22T05:27:07Z</updated>
+  <link href="https://github.com/IskanderSh/todo-app" />
+  <id>urn:rprimus:github:IskanderSh:todo-app</id>
+  <published>2023-04-22T05:07:33Z</published>
+  <updated>2023-04-22T05:07:33Z</updated>
   <content type="html">
    
   </content>
@@ -83,16 +213,16 @@
   </content>
  </entry>
  <entry>
-  <title>ashishdock: go_benchmark_grpc</title>
+  <title>behrouz-rfa: nilmapper</title>
   <author>
-   <name>ashishdock</name>
+   <name>behrouz-rfa</name>
   </author>
-  <link href="https://github.com/ashishdock/go_benchmark_grpc" />
-  <id>urn:rprimus:github:ashishdock:go_benchmark_grpc</id>
-  <published>2023-04-22T04:32:24Z</published>
-  <updated>2023-04-22T04:32:24Z</updated>
+  <link href="https://github.com/behrouz-rfa/nilmapper" />
+  <id>urn:rprimus:github:behrouz-rfa:nilmapper</id>
+  <published>2023-04-22T04:39:20Z</published>
+  <updated>2023-04-22T04:39:20Z</updated>
   <content type="html">
-   
+   nilmapper is a Go library that provides a way to map values from one struct to another, while also handling nil values.
   </content>
  </entry>
  <entry>
@@ -135,32 +265,6 @@
   </content>
  </entry>
  <entry>
-  <title>Sandhya9743: cc_project</title>
-  <author>
-   <name>Sandhya9743</name>
-  </author>
-  <link href="https://github.com/Sandhya9743/cc_project" />
-  <id>urn:rprimus:github:Sandhya9743:cc_project</id>
-  <published>2023-04-22T03:50:45Z</published>
-  <updated>2023-04-22T03:50:45Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>cloudfours: go</title>
-  <author>
-   <name>cloudfours</name>
-  </author>
-  <link href="https://github.com/cloudfours/go" />
-  <id>urn:rprimus:github:cloudfours:go</id>
-  <published>2023-04-22T03:48:30Z</published>
-  <updated>2023-04-22T03:48:30Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
   <title>alextanhongpin: go-oauth2</title>
   <author>
    <name>alextanhongpin</name>
@@ -171,19 +275,6 @@
   <updated>2023-04-22T03:40:02Z</updated>
   <content type="html">
    Testing out oauth2
-  </content>
- </entry>
- <entry>
-  <title>hengli-coder: golang-designpattern</title>
-  <author>
-   <name>hengli-coder</name>
-  </author>
-  <link href="https://github.com/hengli-coder/golang-designpattern" />
-  <id>urn:rprimus:github:hengli-coder:golang-designpattern</id>
-  <published>2023-04-22T03:35:34Z</published>
-  <updated>2023-04-22T03:35:34Z</updated>
-  <content type="html">
-   this repo store some examples of design pattern that are used written by golang.
   </content>
  </entry>
  <entry>
@@ -213,19 +304,6 @@
   </content>
  </entry>
  <entry>
-  <title>tomvodi: banduslib</title>
-  <author>
-   <name>tomvodi</name>
-  </author>
-  <link href="https://github.com/tomvodi/banduslib" />
-  <id>urn:rprimus:github:tomvodi:banduslib</id>
-  <published>2023-04-22T02:49:46Z</published>
-  <updated>2023-04-22T02:49:46Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
   <title>Cantincy: quic-simple-example</title>
   <author>
    <name>Cantincy</name>
@@ -249,19 +327,6 @@
   <updated>2023-04-22T02:37:33Z</updated>
   <content type="html">
    If you&#039;re looking to streamline your workflow and take your Discord experience to the next level, our Discord account generator is the perfect solution for you. Our generator allows you to easily create and manage multiple accounts, saving you time and effort. 
-  </content>
- </entry>
- <entry>
-  <title>sanLimbu: microsrvice</title>
-  <author>
-   <name>sanLimbu</name>
-  </author>
-  <link href="https://github.com/sanLimbu/microsrvice" />
-  <id>urn:rprimus:github:sanLimbu:microsrvice</id>
-  <published>2023-04-22T02:34:52Z</published>
-  <updated>2023-04-22T02:34:52Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
  <entry>
@@ -291,19 +356,6 @@
   </content>
  </entry>
  <entry>
-  <title>joeyzhao123: 161proj2</title>
-  <author>
-   <name>joeyzhao123</name>
-  </author>
-  <link href="https://github.com/joeyzhao123/161proj2" />
-  <id>urn:rprimus:github:joeyzhao123:161proj2</id>
-  <published>2023-04-22T01:03:26Z</published>
-  <updated>2023-04-22T01:03:26Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
   <title>5late: bytetrack-API</title>
   <author>
    <name>5late</name>
@@ -314,45 +366,6 @@
   <updated>2023-04-22T00:55:14Z</updated>
   <content type="html">
    API and database manager for ByteTrack
-  </content>
- </entry>
- <entry>
-  <title>Sangwan70: Go-Templates</title>
-  <author>
-   <name>Sangwan70</name>
-  </author>
-  <link href="https://github.com/Sangwan70/Go-Templates" />
-  <id>urn:rprimus:github:Sangwan70:Go-Templates</id>
-  <published>2023-04-22T00:49:20Z</published>
-  <updated>2023-04-22T00:49:20Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>JuliaPinheiro: Aprenda-Go</title>
-  <author>
-   <name>JuliaPinheiro</name>
-  </author>
-  <link href="https://github.com/JuliaPinheiro/Aprenda-Go" />
-  <id>urn:rprimus:github:JuliaPinheiro:Aprenda-Go</id>
-  <published>2023-04-22T00:43:49Z</published>
-  <updated>2023-04-22T00:43:49Z</updated>
-  <content type="html">
-   starting my studies in go through the channel Aprenda Go  in April 2023
-  </content>
- </entry>
- <entry>
-  <title>takashi-uchida: post-to-dev-to</title>
-  <author>
-   <name>takashi-uchida</name>
-  </author>
-  <link href="https://github.com/takashi-uchida/post-to-dev-to" />
-  <id>urn:rprimus:github:takashi-uchida:post-to-dev-to</id>
-  <published>2023-04-22T00:42:40Z</published>
-  <updated>2023-04-22T00:42:40Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
  <entry>
@@ -379,19 +392,6 @@
   <updated>2023-04-22T00:28:25Z</updated>
   <content type="html">
    Russian Card game engine I hope to use to teach an AI to play.
-  </content>
- </entry>
- <entry>
-  <title>ralvarez90: bgp</title>
-  <author>
-   <name>ralvarez90</name>
-  </author>
-  <link href="https://github.com/ralvarez90/bgp" />
-  <id>urn:rprimus:github:ralvarez90:bgp</id>
-  <published>2023-04-22T00:03:53Z</published>
-  <updated>2023-04-22T00:03:53Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
  <entry>
@@ -837,19 +837,6 @@
   </content>
  </entry>
  <entry>
-  <title>walkccc: go-clean-arch</title>
-  <author>
-   <name>walkccc</name>
-  </author>
-  <link href="https://github.com/walkccc/go-clean-arch" />
-  <id>urn:rprimus:github:walkccc:go-clean-arch</id>
-  <published>2023-04-20T21:52:58Z</published>
-  <updated>2023-04-20T21:52:58Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
   <title>nocodeleaks: quepasa</title>
   <author>
    <name>nocodeleaks</name>
@@ -1016,6 +1003,19 @@
   <updated>2023-04-20T08:53:19Z</updated>
   <content type="html">
    Sentry-tunnel written on Golang
+  </content>
+ </entry>
+ <entry>
+  <title>ravilushqa: gpt-pullrequest-updater</title>
+  <author>
+   <name>ravilushqa</name>
+  </author>
+  <link href="https://github.com/ravilushqa/gpt-pullrequest-updater" />
+  <id>urn:rprimus:github:ravilushqa:gpt-pullrequest-updater</id>
+  <published>2023-04-20T08:00:51Z</published>
+  <updated>2023-04-20T08:00:51Z</updated>
+  <content type="html">
+   Generate pull request description or create a review using chatgpt
   </content>
  </entry>
  <entry>
