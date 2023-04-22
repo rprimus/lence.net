@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2023-04-21T03:58:20Z</updated>
+<updated>2023-04-21T21:06:20Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>threez: oidc.cr</title>
+  <author>
+   <name>threez</name>
+  </author>
+  <link href="https://github.com/threez/oidc.cr" />
+  <id>urn:rprimus:github:threez:oidc.cr</id>
+  <published>2023-04-21T21:06:20Z</published>
+  <updated>2023-04-21T21:06:20Z</updated>
+  <content type="html">
+   OIDC client for crystal
+  </content>
+ </entry>
  <entry>
   <title>kernelk14: cr-test</title>
   <author>
@@ -67,45 +80,6 @@
   <updated>2023-04-20T14:30:54Z</updated>
   <content type="html">
    crystal port of muffin
-  </content>
- </entry>
- <entry>
-  <title>isaeviv: sunbonizer</title>
-  <author>
-   <name>isaeviv</name>
-  </author>
-  <link href="https://github.com/isaeviv/sunbonizer" />
-  <id>urn:rprimus:github:isaeviv:sunbonizer</id>
-  <published>2023-04-19T15:19:10Z</published>
-  <updated>2023-04-19T15:19:10Z</updated>
-  <content type="html">
-   Crystal shard for strings sunbonizing
-  </content>
- </entry>
- <entry>
-  <title>codestlover: scpsl_dos</title>
-  <author>
-   <name>codestlover</name>
-  </author>
-  <link href="https://github.com/codestlover/scpsl_dos" />
-  <id>urn:rprimus:github:codestlover:scpsl_dos</id>
-  <published>2023-04-19T12:37:05Z</published>
-  <updated>2023-04-19T12:37:05Z</updated>
-  <content type="html">
-   DoS methods for SCP: Secret Laboratory (SCP:SL)
-  </content>
- </entry>
- <entry>
-  <title>NeuraLegion: scheme_filler</title>
-  <author>
-   <name>NeuraLegion</name>
-  </author>
-  <link href="https://github.com/NeuraLegion/scheme_filler" />
-  <id>urn:rprimus:github:NeuraLegion:scheme_filler</id>
-  <published>2023-04-19T09:08:07Z</published>
-  <updated>2023-04-19T09:08:07Z</updated>
-  <content type="html">
-   A simple CLI tool for populating an OpenAPI scheme from HAR
   </content>
  </entry>
 </feed>
