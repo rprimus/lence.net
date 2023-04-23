@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2023-04-22T06:59:23Z</updated>
+<updated>2023-04-22T23:03:49Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>leocelente: vesc-rs485-lispbm</title>
+  <author>
+   <name>leocelente</name>
+  </author>
+  <link href="https://github.com/leocelente/vesc-rs485-lispbm" />
+  <id>urn:rprimus:github:leocelente:vesc-rs485-lispbm</id>
+  <published>2023-04-22T23:03:49Z</published>
+  <updated>2023-04-22T23:03:49Z</updated>
+  <content type="html">
+   RS485 interface to the VESC controller, written in LispBM
+  </content>
+ </entry>
+ <entry>
+  <title>diasbruno: cl-slugify</title>
+  <author>
+   <name>diasbruno</name>
+  </author>
+  <link href="https://github.com/diasbruno/cl-slugify" />
+  <id>urn:rprimus:github:diasbruno:cl-slugify</id>
+  <published>2023-04-22T20:04:08Z</published>
+  <updated>2023-04-22T20:04:08Z</updated>
+  <content type="html">
+   convert string into a slug representation.
+  </content>
+ </entry>
+ <entry>
+  <title>dnizzolo: advent-of-code</title>
+  <author>
+   <name>dnizzolo</name>
+  </author>
+  <link href="https://github.com/dnizzolo/advent-of-code" />
+  <id>urn:rprimus:github:dnizzolo:advent-of-code</id>
+  <published>2023-04-22T20:02:28Z</published>
+  <updated>2023-04-22T20:02:28Z</updated>
+  <content type="html">
+   Advent of Code
+  </content>
+ </entry>
+ <entry>
+  <title>diasbruno: cl-unac</title>
+  <author>
+   <name>diasbruno</name>
+  </author>
+  <link href="https://github.com/diasbruno/cl-unac" />
+  <id>urn:rprimus:github:diasbruno:cl-unac</id>
+  <published>2023-04-22T16:23:26Z</published>
+  <updated>2023-04-22T16:23:26Z</updated>
+  <content type="html">
+   unac(3) bindings for common lisp.
+  </content>
+ </entry>
+ <entry>
+  <title>shamazmazum: cl-beads</title>
+  <author>
+   <name>shamazmazum</name>
+  </author>
+  <link href="https://github.com/shamazmazum/cl-beads" />
+  <id>urn:rprimus:github:shamazmazum:cl-beads</id>
+  <published>2023-04-22T15:56:39Z</published>
+  <updated>2023-04-22T15:56:39Z</updated>
+  <content type="html">
+   Editing tool for schemes of beaded crochet rope
+  </content>
+ </entry>
  <entry>
   <title>K1D77A: lisp-in-small-pieces</title>
   <author>
@@ -67,84 +132,6 @@
   <updated>2023-04-21T18:01:57Z</updated>
   <content type="html">
    A library for dealing with Windows bitmaps (BMP, DIB, ICO, CUR)
-  </content>
- </entry>
- <entry>
-  <title>ivbit: lol</title>
-  <author>
-   <name>ivbit</name>
-  </author>
-  <link href="https://github.com/ivbit/lol" />
-  <id>urn:rprimus:github:ivbit:lol</id>
-  <published>2023-04-20T18:07:51Z</published>
-  <updated>2023-04-20T18:07:51Z</updated>
-  <content type="html">
-   lol
-  </content>
- </entry>
- <entry>
-  <title>moshouhot: batch-Find-Replace</title>
-  <author>
-   <name>moshouhot</name>
-  </author>
-  <link href="https://github.com/moshouhot/batch-Find-Replace" />
-  <id>urn:rprimus:github:moshouhot:batch-Find-Replace</id>
-  <published>2023-04-20T14:45:58Z</published>
-  <updated>2023-04-20T14:45:58Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Zemux1613: EKI</title>
-  <author>
-   <name>Zemux1613</name>
-  </author>
-  <link href="https://github.com/Zemux1613/EKI" />
-  <id>urn:rprimus:github:Zemux1613:EKI</id>
-  <published>2023-04-20T11:12:01Z</published>
-  <updated>2023-04-20T11:12:01Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>satoshi-2000: lisp_study</title>
-  <author>
-   <name>satoshi-2000</name>
-  </author>
-  <link href="https://github.com/satoshi-2000/lisp_study" />
-  <id>urn:rprimus:github:satoshi-2000:lisp_study</id>
-  <published>2023-04-20T07:21:10Z</published>
-  <updated>2023-04-20T07:21:10Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>mukund-kri: Learn-Common-Lisp</title>
-  <author>
-   <name>mukund-kri</name>
-  </author>
-  <link href="https://github.com/mukund-kri/Learn-Common-Lisp" />
-  <id>urn:rprimus:github:mukund-kri:Learn-Common-Lisp</id>
-  <published>2023-04-20T06:53:26Z</published>
-  <updated>2023-04-20T06:53:26Z</updated>
-  <content type="html">
-   Code I used to learn common lisp
-  </content>
- </entry>
- <entry>
-  <title>codr7: cl-dom</title>
-  <author>
-   <name>codr7</name>
-  </author>
-  <link href="https://github.com/codr7/cl-dom" />
-  <id>urn:rprimus:github:codr7:cl-dom</id>
-  <published>2023-04-20T04:16:34Z</published>
-  <updated>2023-04-20T04:16:34Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>

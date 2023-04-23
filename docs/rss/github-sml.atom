@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-sml.atom"/>
 <id>urn:rprimus:github:newsmlrepos</id>
-<updated>2023-04-21T10:51:05Z</updated>
+<updated>2023-04-22T23:58:08Z</updated>
 <title type='text'>New GitHub Sml Repos</title>
+ <entry>
+  <title>kmicinski: Eagleatp</title>
+  <author>
+   <name>kmicinski</name>
+  </author>
+  <link href="https://github.com/kmicinski/Eagleatp" />
+  <id>urn:rprimus:github:kmicinski:Eagleatp</id>
+  <published>2023-04-22T23:58:08Z</published>
+  <updated>2023-04-22T23:58:08Z</updated>
+  <content type="html">
+   Eagle ATP (circa 2007)
+  </content>
+ </entry>
  <entry>
   <title>stephan1827: shuv_demo</title>
   <author>
@@ -15,32 +28,6 @@
   <updated>2023-04-21T10:51:05Z</updated>
   <content type="html">
    For testing shuv
-  </content>
- </entry>
- <entry>
-  <title>yonta: smlsharp-completions-generator</title>
-  <author>
-   <name>yonta</name>
-  </author>
-  <link href="https://github.com/yonta/smlsharp-completions-generator" />
-  <id>urn:rprimus:github:yonta:smlsharp-completions-generator</id>
-  <published>2023-04-20T08:23:26Z</published>
-  <updated>2023-04-20T08:23:26Z</updated>
-  <content type="html">
-   SML# Completion Generator for company-mlton
-  </content>
- </entry>
- <entry>
-  <title>blend-os: pkg-repo</title>
-  <author>
-   <name>blend-os</name>
-  </author>
-  <link href="https://github.com/blend-os/pkg-repo" />
-  <id>urn:rprimus:github:blend-os:pkg-repo</id>
-  <published>2023-04-20T03:56:23Z</published>
-  <updated>2023-04-20T03:56:23Z</updated>
-  <content type="html">
-   New package repository for blendOS, so as to not affect existing users
   </content>
  </entry>
 </feed>
