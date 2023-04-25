@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2023-04-24T06:16:24Z</updated>
+<updated>2023-04-25T03:45:20Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>stothardj: mahjong</title>
+  <author>
+   <name>stothardj</name>
+  </author>
+  <link href="https://github.com/stothardj/mahjong" />
+  <id>urn:rprimus:github:stothardj:mahjong</id>
+  <published>2023-04-25T03:45:20Z</published>
+  <updated>2023-04-25T03:45:20Z</updated>
+  <content type="html">
+   Mahjong in CL
+  </content>
+ </entry>
+ <entry>
+  <title>lisp-polymorph: polymorph.parametric-types</title>
+  <author>
+   <name>lisp-polymorph</name>
+  </author>
+  <link href="https://github.com/lisp-polymorph/polymorph.parametric-types" />
+  <id>urn:rprimus:github:lisp-polymorph:polymorph.parametric-types</id>
+  <published>2023-04-24T19:35:45Z</published>
+  <updated>2023-04-24T19:35:45Z</updated>
+  <content type="html">
+   Parametric types for polymorph.stl
+  </content>
+ </entry>
+ <entry>
+  <title>digikar99: dependently-typed-functions</title>
+  <author>
+   <name>digikar99</name>
+  </author>
+  <link href="https://github.com/digikar99/dependently-typed-functions" />
+  <id>urn:rprimus:github:digikar99:dependently-typed-functions</id>
+  <published>2023-04-24T18:30:10Z</published>
+  <updated>2023-04-24T18:30:10Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Gleefre: cl-android</title>
+  <author>
+   <name>Gleefre</name>
+  </author>
+  <link href="https://github.com/Gleefre/cl-android" />
+  <id>urn:rprimus:github:Gleefre:cl-android</id>
+  <published>2023-04-24T15:50:05Z</published>
+  <updated>2023-04-24T15:50:05Z</updated>
+  <content type="html">
+   CFFI bindings to libandroid library.
+  </content>
+ </entry>
+ <entry>
+  <title>KaiYanagisawa: college_clisp</title>
+  <author>
+   <name>KaiYanagisawa</name>
+  </author>
+  <link href="https://github.com/KaiYanagisawa/college_clisp" />
+  <id>urn:rprimus:github:KaiYanagisawa:college_clisp</id>
+  <published>2023-04-24T13:13:33Z</published>
+  <updated>2023-04-24T13:13:33Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>kdqSoldier: CS</title>
   <author>
@@ -54,84 +119,6 @@
   <updated>2023-04-23T18:15:04Z</updated>
   <content type="html">
    Final Project for ECE 479
-  </content>
- </entry>
- <entry>
-  <title>leocelente: vesc-rs485-lispbm</title>
-  <author>
-   <name>leocelente</name>
-  </author>
-  <link href="https://github.com/leocelente/vesc-rs485-lispbm" />
-  <id>urn:rprimus:github:leocelente:vesc-rs485-lispbm</id>
-  <published>2023-04-22T23:03:49Z</published>
-  <updated>2023-04-22T23:03:49Z</updated>
-  <content type="html">
-   RS485 interface to the VESC controller, written in LispBM
-  </content>
- </entry>
- <entry>
-  <title>diasbruno: cl-slugify</title>
-  <author>
-   <name>diasbruno</name>
-  </author>
-  <link href="https://github.com/diasbruno/cl-slugify" />
-  <id>urn:rprimus:github:diasbruno:cl-slugify</id>
-  <published>2023-04-22T20:04:08Z</published>
-  <updated>2023-04-22T20:04:08Z</updated>
-  <content type="html">
-   convert string into a slug representation.
-  </content>
- </entry>
- <entry>
-  <title>dnizzolo: advent-of-code</title>
-  <author>
-   <name>dnizzolo</name>
-  </author>
-  <link href="https://github.com/dnizzolo/advent-of-code" />
-  <id>urn:rprimus:github:dnizzolo:advent-of-code</id>
-  <published>2023-04-22T20:02:28Z</published>
-  <updated>2023-04-22T20:02:28Z</updated>
-  <content type="html">
-   Advent of Code
-  </content>
- </entry>
- <entry>
-  <title>diasbruno: cl-unac</title>
-  <author>
-   <name>diasbruno</name>
-  </author>
-  <link href="https://github.com/diasbruno/cl-unac" />
-  <id>urn:rprimus:github:diasbruno:cl-unac</id>
-  <published>2023-04-22T16:23:26Z</published>
-  <updated>2023-04-22T16:23:26Z</updated>
-  <content type="html">
-   unac(3) bindings for common lisp.
-  </content>
- </entry>
- <entry>
-  <title>shamazmazum: cl-beads</title>
-  <author>
-   <name>shamazmazum</name>
-  </author>
-  <link href="https://github.com/shamazmazum/cl-beads" />
-  <id>urn:rprimus:github:shamazmazum:cl-beads</id>
-  <published>2023-04-22T15:56:39Z</published>
-  <updated>2023-04-22T15:56:39Z</updated>
-  <content type="html">
-   Editing tool for schemes of beaded crochet rope
-  </content>
- </entry>
- <entry>
-  <title>K1D77A: lisp-in-small-pieces</title>
-  <author>
-   <name>K1D77A</name>
-  </author>
-  <link href="https://github.com/K1D77A/lisp-in-small-pieces" />
-  <id>urn:rprimus:github:K1D77A:lisp-in-small-pieces</id>
-  <published>2023-04-22T06:59:23Z</published>
-  <updated>2023-04-22T06:59:23Z</updated>
-  <content type="html">
-   lisp-in-small-pieces
   </content>
  </entry>
 </feed>

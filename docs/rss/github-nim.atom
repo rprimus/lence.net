@@ -2,19 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2023-04-24T08:49:32Z</updated>
+<updated>2023-04-24T20:51:57Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
  <entry>
-  <title>Z3NTL3: Hydrafy</title>
+  <title>plucafs: lse</title>
   <author>
-   <name>Z3NTL3</name>
+   <name>plucafs</name>
   </author>
-  <link href="https://github.com/Z3NTL3/Hydrafy" />
-  <id>urn:rprimus:github:Z3NTL3:Hydrafy</id>
-  <published>2023-04-24T08:49:32Z</published>
-  <updated>2023-04-24T08:49:32Z</updated>
+  <link href="https://github.com/plucafs/lse" />
+  <id>urn:rprimus:github:plucafs:lse</id>
+  <published>2023-04-24T20:51:57Z</published>
+  <updated>2023-04-24T20:51:57Z</updated>
   <content type="html">
-   Pentest script to perform proxy layered or rotating relayed TCP flood on a target
+   A file&#039;s list exporter
+  </content>
+ </entry>
+ <entry>
+  <title>pysan3: nim_pandoc</title>
+  <author>
+   <name>pysan3</name>
+  </author>
+  <link href="https://github.com/pysan3/nim_pandoc" />
+  <id>urn:rprimus:github:pysan3:nim_pandoc</id>
+  <published>2023-04-24T20:37:31Z</published>
+  <updated>2023-04-24T20:37:31Z</updated>
+  <content type="html">
+   Pandoc AST Type Definitions for Nim Language
   </content>
  </entry>
  <entry>
@@ -67,110 +80,6 @@
   <updated>2023-04-23T08:46:13Z</updated>
   <content type="html">
    A lowerer
-  </content>
- </entry>
- <entry>
-  <title>mbraunwarth: qlang</title>
-  <author>
-   <name>mbraunwarth</name>
-  </author>
-  <link href="https://github.com/mbraunwarth/qlang" />
-  <id>urn:rprimus:github:mbraunwarth:qlang</id>
-  <published>2023-04-22T19:39:17Z</published>
-  <updated>2023-04-22T19:39:17Z</updated>
-  <content type="html">
-   Tasty programming language development.
-  </content>
- </entry>
- <entry>
-  <title>plucafs: rv</title>
-  <author>
-   <name>plucafs</name>
-  </author>
-  <link href="https://github.com/plucafs/rv" />
-  <id>urn:rprimus:github:plucafs:rv</id>
-  <published>2023-04-22T19:27:52Z</published>
-  <updated>2023-04-22T19:27:52Z</updated>
-  <content type="html">
-   A palindrome finder
-  </content>
- </entry>
- <entry>
-  <title>Weldify: naylibpixeltemplate</title>
-  <author>
-   <name>Weldify</name>
-  </author>
-  <link href="https://github.com/Weldify/naylibpixeltemplate" />
-  <id>urn:rprimus:github:Weldify:naylibpixeltemplate</id>
-  <published>2023-04-22T15:48:07Z</published>
-  <updated>2023-04-22T15:48:07Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>eowiz: nim-playground</title>
-  <author>
-   <name>eowiz</name>
-  </author>
-  <link href="https://github.com/eowiz/nim-playground" />
-  <id>urn:rprimus:github:eowiz:nim-playground</id>
-  <published>2023-04-22T15:47:03Z</published>
-  <updated>2023-04-22T15:47:03Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>sgmihai: Nim-misc</title>
-  <author>
-   <name>sgmihai</name>
-  </author>
-  <link href="https://github.com/sgmihai/Nim-misc" />
-  <id>urn:rprimus:github:sgmihai:Nim-misc</id>
-  <published>2023-04-22T15:20:05Z</published>
-  <updated>2023-04-22T15:20:05Z</updated>
-  <content type="html">
-   random nim src
-  </content>
- </entry>
- <entry>
-  <title>Pylgos: nim-cpkgfinder</title>
-  <author>
-   <name>Pylgos</name>
-  </author>
-  <link href="https://github.com/Pylgos/nim-cpkgfinder" />
-  <id>urn:rprimus:github:Pylgos:nim-cpkgfinder</id>
-  <published>2023-04-22T12:21:04Z</published>
-  <updated>2023-04-22T12:21:04Z</updated>
-  <content type="html">
-   Find CMake/pkg-config package.
-  </content>
- </entry>
- <entry>
-  <title>idfp: masquerade</title>
-  <author>
-   <name>idfp</name>
-  </author>
-  <link href="https://github.com/idfp/masquerade" />
-  <id>urn:rprimus:github:idfp:masquerade</id>
-  <published>2023-04-22T10:20:52Z</published>
-  <updated>2023-04-22T10:20:52Z</updated>
-  <content type="html">
-   Spearphishing tools to generate masqueraded pocket executable.
-  </content>
- </entry>
- <entry>
-  <title>panno8M: nim-beyond</title>
-  <author>
-   <name>panno8M</name>
-  </author>
-  <link href="https://github.com/panno8M/nim-beyond" />
-  <id>urn:rprimus:github:panno8M:nim-beyond</id>
-  <published>2023-04-22T09:56:11Z</published>
-  <updated>2023-04-22T09:56:11Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
