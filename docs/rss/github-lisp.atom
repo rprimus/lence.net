@@ -2,8 +2,125 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2023-04-26T04:27:03Z</updated>
+<updated>2023-04-27T08:39:49Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>THEGODFATHERRX: LWM</title>
+  <author>
+   <name>THEGODFATHERRX</name>
+  </author>
+  <link href="https://github.com/THEGODFATHERRX/LWM" />
+  <id>urn:rprimus:github:THEGODFATHERRX:LWM</id>
+  <published>2023-04-27T08:39:49Z</published>
+  <updated>2023-04-27T08:39:49Z</updated>
+  <content type="html">
+   Lisp World Machine
+  </content>
+ </entry>
+ <entry>
+  <title>AkashaP: nanosvg-blob</title>
+  <author>
+   <name>AkashaP</name>
+  </author>
+  <link href="https://github.com/AkashaP/nanosvg-blob" />
+  <id>urn:rprimus:github:AkashaP:nanosvg-blob</id>
+  <published>2023-04-27T04:08:12Z</published>
+  <updated>2023-04-27T04:08:12Z</updated>
+  <content type="html">
+   Foreign library for nanosvg using bodge-blobs-support
+  </content>
+ </entry>
+ <entry>
+  <title>AkashaP: bodge-nano-svg</title>
+  <author>
+   <name>AkashaP</name>
+  </author>
+  <link href="https://github.com/AkashaP/bodge-nano-svg" />
+  <id>urn:rprimus:github:AkashaP:bodge-nano-svg</id>
+  <published>2023-04-27T04:02:44Z</published>
+  <updated>2023-04-27T04:02:44Z</updated>
+  <content type="html">
+   Nanosvg bindings. Load SVG files and intergrate with bodge-nanovg.
+  </content>
+ </entry>
+ <entry>
+  <title>Godwill10: Lights-Out-Lisp</title>
+  <author>
+   <name>Godwill10</name>
+  </author>
+  <link href="https://github.com/Godwill10/Lights-Out-Lisp" />
+  <id>urn:rprimus:github:Godwill10:Lights-Out-Lisp</id>
+  <published>2023-04-27T01:12:54Z</published>
+  <updated>2023-04-27T01:12:54Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>JoRios1006: webackend</title>
+  <author>
+   <name>JoRios1006</name>
+  </author>
+  <link href="https://github.com/JoRios1006/webackend" />
+  <id>urn:rprimus:github:JoRios1006:webackend</id>
+  <published>2023-04-27T00:00:38Z</published>
+  <updated>2023-04-27T00:00:38Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>bartlebooth-factorial: estd</title>
+  <author>
+   <name>bartlebooth-factorial</name>
+  </author>
+  <link href="https://github.com/bartlebooth-factorial/estd" />
+  <id>urn:rprimus:github:bartlebooth-factorial:estd</id>
+  <published>2023-04-26T22:13:57Z</published>
+  <updated>2023-04-26T22:13:57Z</updated>
+  <content type="html">
+   Common Lisp utility library
+  </content>
+ </entry>
+ <entry>
+  <title>SalvadorMedinaRuiz: Lisp-Beginner</title>
+  <author>
+   <name>SalvadorMedinaRuiz</name>
+  </author>
+  <link href="https://github.com/SalvadorMedinaRuiz/Lisp-Beginner" />
+  <id>urn:rprimus:github:SalvadorMedinaRuiz:Lisp-Beginner</id>
+  <published>2023-04-26T21:04:08Z</published>
+  <updated>2023-04-26T21:04:08Z</updated>
+  <content type="html">
+   Extremely simple functions meant to familiarize myself with the language
+  </content>
+ </entry>
+ <entry>
+  <title>martincrz: IA01-Intelligence_Artificielle-Representation</title>
+  <author>
+   <name>martincrz</name>
+  </author>
+  <link href="https://github.com/martincrz/IA01-Intelligence_Artificielle-Representation" />
+  <id>urn:rprimus:github:martincrz:IA01-Intelligence_Artificielle-Representation</id>
+  <published>2023-04-26T11:08:29Z</published>
+  <updated>2023-04-26T11:08:29Z</updated>
+  <content type="html">
+   L&#039;UV permet aux Ã©tudiants : (1) d&#039;apprÃ©hender les notions et techniques de base de l&#039;Intelligence Artificielle, (2) de se familiariser avec la programmation symbolique de type fonctionnel. Les notions et techniques seront introduites Ã  partir d&#039;applications dÃ©veloppÃ©es au moyen du langage LISP.
+  </content>
+ </entry>
+ <entry>
+  <title>atlas-engineer: prompter</title>
+  <author>
+   <name>atlas-engineer</name>
+  </author>
+  <link href="https://github.com/atlas-engineer/prompter" />
+  <id>urn:rprimus:github:atlas-engineer:prompter</id>
+  <published>2023-04-26T10:14:15Z</published>
+  <updated>2023-04-26T10:14:15Z</updated>
+  <content type="html">
+   Live-narrowing, fuzzy-matching, extensible prompt
+  </content>
+ </entry>
  <entry>
   <title>NNS1234: Missionaries_and_Cannibals</title>
   <author>
@@ -80,71 +197,6 @@
   <updated>2023-04-25T03:45:20Z</updated>
   <content type="html">
    Mahjong in CL
-  </content>
- </entry>
- <entry>
-  <title>lisp-polymorph: polymorph.parametric-types</title>
-  <author>
-   <name>lisp-polymorph</name>
-  </author>
-  <link href="https://github.com/lisp-polymorph/polymorph.parametric-types" />
-  <id>urn:rprimus:github:lisp-polymorph:polymorph.parametric-types</id>
-  <published>2023-04-24T19:35:45Z</published>
-  <updated>2023-04-24T19:35:45Z</updated>
-  <content type="html">
-   Parametric types for polymorph.stl
-  </content>
- </entry>
- <entry>
-  <title>digikar99: dependently-typed-functions</title>
-  <author>
-   <name>digikar99</name>
-  </author>
-  <link href="https://github.com/digikar99/dependently-typed-functions" />
-  <id>urn:rprimus:github:digikar99:dependently-typed-functions</id>
-  <published>2023-04-24T18:30:10Z</published>
-  <updated>2023-04-24T18:30:10Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Gleefre: cl-android</title>
-  <author>
-   <name>Gleefre</name>
-  </author>
-  <link href="https://github.com/Gleefre/cl-android" />
-  <id>urn:rprimus:github:Gleefre:cl-android</id>
-  <published>2023-04-24T15:50:05Z</published>
-  <updated>2023-04-24T15:50:05Z</updated>
-  <content type="html">
-   CFFI bindings to libandroid library.
-  </content>
- </entry>
- <entry>
-  <title>KaiYanagisawa: college_clisp</title>
-  <author>
-   <name>KaiYanagisawa</name>
-  </author>
-  <link href="https://github.com/KaiYanagisawa/college_clisp" />
-  <id>urn:rprimus:github:KaiYanagisawa:college_clisp</id>
-  <published>2023-04-24T13:13:33Z</published>
-  <updated>2023-04-24T13:13:33Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>kdqSoldier: CS</title>
-  <author>
-   <name>kdqSoldier</name>
-  </author>
-  <link href="https://github.com/kdqSoldier/CS" />
-  <id>urn:rprimus:github:kdqSoldier:CS</id>
-  <published>2023-04-24T06:16:24Z</published>
-  <updated>2023-04-24T06:16:24Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
