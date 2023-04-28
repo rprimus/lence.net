@@ -2,15 +2,158 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-haskell.atom"/>
 <id>urn:rprimus:github:newhaskellrepos</id>
-<updated>2023-04-28T08:47:52Z</updated>
+<updated>2023-04-28T15:15:42Z</updated>
 <title type='text'>New GitHub Haskell Repos</title>
  <entry>
-  <title>forsilence: hsk</title>
+  <title>viniciusmiradouro: ir</title>
   <author>
-   <name>forsilence</name>
+   <name>viniciusmiradouro</name>
   </author>
-  <link href="https://github.com/forsilence/hsk" />
-  <id>urn:rprimus:github:forsilence:hsk</id>
+  <link href="https://github.com/viniciusmiradouro/ir" />
+  <id>urn:rprimus:github:viniciusmiradouro:ir</id>
+  <published>2023-04-28T15:15:42Z</published>
+  <updated>2023-04-28T15:15:42Z</updated>
+  <content type="html">
+   ir
+  </content>
+ </entry>
+ <entry>
+  <title>gelisam: ghc-9.4-bug</title>
+  <author>
+   <name>gelisam</name>
+  </author>
+  <link href="https://github.com/gelisam/ghc-9.4-bug" />
+  <id>urn:rprimus:github:gelisam:ghc-9.4-bug</id>
+  <published>2023-04-28T14:11:51Z</published>
+  <updated>2023-04-28T14:11:51Z</updated>
+  <content type="html">
+   minimal repro case for a ghc-9.4 regression
+  </content>
+ </entry>
+ <entry>
+  <title>eir-forsakring: national-identifiers</title>
+  <author>
+   <name>eir-forsakring</name>
+  </author>
+  <link href="https://github.com/eir-forsakring/national-identifiers" />
+  <id>urn:rprimus:github:eir-forsakring:national-identifiers</id>
+  <published>2023-04-28T13:22:59Z</published>
+  <updated>2023-04-28T13:22:59Z</updated>
+  <content type="html">
+   A haskell library for Scandinavian personal and organisation numbers
+  </content>
+ </entry>
+ <entry>
+  <title>fabbiodv: paradigmas-haskell</title>
+  <author>
+   <name>fabbiodv</name>
+  </author>
+  <link href="https://github.com/fabbiodv/paradigmas-haskell" />
+  <id>urn:rprimus:github:fabbiodv:paradigmas-haskell</id>
+  <published>2023-04-28T12:47:54Z</published>
+  <updated>2023-04-28T12:47:54Z</updated>
+  <content type="html">
+   Clases de paradigma funcional y programacion en haskell
+  </content>
+ </entry>
+ <entry>
+  <title>testagrossa-intellecteu: daml-jobs</title>
+  <author>
+   <name>testagrossa-intellecteu</name>
+  </author>
+  <link href="https://github.com/testagrossa-intellecteu/daml-jobs" />
+  <id>urn:rprimus:github:testagrossa-intellecteu:daml-jobs</id>
+  <published>2023-04-28T12:18:43Z</published>
+  <updated>2023-04-28T12:18:43Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>JRanasinghe: ProjectCDP</title>
+  <author>
+   <name>JRanasinghe</name>
+  </author>
+  <link href="https://github.com/JRanasinghe/ProjectCDP" />
+  <id>urn:rprimus:github:JRanasinghe:ProjectCDP</id>
+  <published>2023-04-28T11:04:32Z</published>
+  <updated>2023-04-28T11:04:32Z</updated>
+  <content type="html">
+   Project for CDP - Prescriptions on Blockchain
+  </content>
+ </entry>
+ <entry>
+  <title>FDirekt: Escher-Figs</title>
+  <author>
+   <name>FDirekt</name>
+  </author>
+  <link href="https://github.com/FDirekt/Escher-Figs" />
+  <id>urn:rprimus:github:FDirekt:Escher-Figs</id>
+  <published>2023-04-28T10:52:25Z</published>
+  <updated>2023-04-28T10:52:25Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>modotte: tasty-examples</title>
+  <author>
+   <name>modotte</name>
+  </author>
+  <link href="https://github.com/modotte/tasty-examples" />
+  <id>urn:rprimus:github:modotte:tasty-examples</id>
+  <published>2023-04-28T10:30:48Z</published>
+  <updated>2023-04-28T10:30:48Z</updated>
+  <content type="html">
+   Some tasty tests examples (hspec, hedgehog, tasty-rerun, tasty-html)
+  </content>
+ </entry>
+ <entry>
+  <title>Riddarvid: haskell-trees</title>
+  <author>
+   <name>Riddarvid</name>
+  </author>
+  <link href="https://github.com/Riddarvid/haskell-trees" />
+  <id>urn:rprimus:github:Riddarvid:haskell-trees</id>
+  <published>2023-04-28T10:00:12Z</published>
+  <updated>2023-04-28T10:00:12Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Jorgeromeu: categorical-primitive-recursion</title>
+  <author>
+   <name>Jorgeromeu</name>
+  </author>
+  <link href="https://github.com/Jorgeromeu/categorical-primitive-recursion" />
+  <id>urn:rprimus:github:Jorgeromeu:categorical-primitive-recursion</id>
+  <published>2023-04-28T09:43:59Z</published>
+  <updated>2023-04-28T09:43:59Z</updated>
+  <content type="html">
+   Implementation of primitive recursion and corecursion in Haskell, on several examples
+  </content>
+ </entry>
+ <entry>
+  <title>RohitSingh107: xmobar-hs-nix</title>
+  <author>
+   <name>RohitSingh107</name>
+  </author>
+  <link href="https://github.com/RohitSingh107/xmobar-hs-nix" />
+  <id>urn:rprimus:github:RohitSingh107:xmobar-hs-nix</id>
+  <published>2023-04-28T09:40:08Z</published>
+  <updated>2023-04-28T09:40:08Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>YToyCoder: hsk</title>
+  <author>
+   <name>YToyCoder</name>
+  </author>
+  <link href="https://github.com/YToyCoder/hsk" />
+  <id>urn:rprimus:github:YToyCoder:hsk</id>
   <published>2023-04-28T08:47:52Z</published>
   <updated>2023-04-28T08:47:52Z</updated>
   <content type="html">
@@ -261,7 +404,7 @@
   <published>2023-04-27T18:46:04Z</published>
   <updated>2023-04-27T18:46:04Z</updated>
   <content type="html">
-   A Plutus smart contract to make secrets and a reward to the clever few who can successfully reveal the answer. 
+   A Plutus smart contract to make secrets and a reward to the few who can successfully reveal the answer. 
   </content>
  </entry>
  <entry>
@@ -356,6 +499,19 @@
   </content>
  </entry>
  <entry>
+  <title>lancekmyers: shred</title>
+  <author>
+   <name>lancekmyers</name>
+  </author>
+  <link href="https://github.com/lancekmyers/shred" />
+  <id>urn:rprimus:github:lancekmyers:shred</id>
+  <published>2023-04-27T14:56:33Z</published>
+  <updated>2023-04-27T14:56:33Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
   <title>masonxotto: EECS-662-Final-Project</title>
   <author>
    <name>masonxotto</name>
@@ -405,19 +561,6 @@
   <updated>2023-04-27T12:29:41Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>lowarn-dsu: lowarn-evaluate</title>
-  <author>
-   <name>lowarn-dsu</name>
-  </author>
-  <link href="https://github.com/lowarn-dsu/lowarn-evaluate" />
-  <id>urn:rprimus:github:lowarn-dsu:lowarn-evaluate</id>
-  <published>2023-04-27T11:45:24Z</published>
-  <updated>2023-04-27T11:45:24Z</updated>
-  <content type="html">
-   Tools for evaluating Lowarn DSU
   </content>
  </entry>
  <entry>

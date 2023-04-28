@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-elixir.atom"/>
 <id>urn:rprimus:github:newelixirrepos</id>
-<updated>2023-04-28T09:20:18Z</updated>
+<updated>2023-04-28T15:08:20Z</updated>
 <title type='text'>New GitHub Elixir Repos</title>
+ <entry>
+  <title>moomerman: atproto</title>
+  <author>
+   <name>moomerman</name>
+  </author>
+  <link href="https://github.com/moomerman/atproto" />
+  <id>urn:rprimus:github:moomerman:atproto</id>
+  <published>2023-04-28T15:08:20Z</published>
+  <updated>2023-04-28T15:08:20Z</updated>
+  <content type="html">
+   Implementation of the ATProtocol client spec in Elixir.
+  </content>
+ </entry>
+ <entry>
+  <title>moomerman: xrpc</title>
+  <author>
+   <name>moomerman</name>
+  </author>
+  <link href="https://github.com/moomerman/xrpc" />
+  <id>urn:rprimus:github:moomerman:xrpc</id>
+  <published>2023-04-28T10:52:27Z</published>
+  <updated>2023-04-28T10:52:27Z</updated>
+  <content type="html">
+   Implementation of the XRPC client spec in Elixir.
+  </content>
+ </entry>
+ <entry>
+  <title>jupier: test-elixir</title>
+  <author>
+   <name>jupier</name>
+  </author>
+  <link href="https://github.com/jupier/test-elixir" />
+  <id>urn:rprimus:github:jupier:test-elixir</id>
+  <published>2023-04-28T09:21:28Z</published>
+  <updated>2023-04-28T09:21:28Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>arman0414: Pet_Store_Manager</title>
   <author>
@@ -551,19 +590,6 @@
   </content>
  </entry>
  <entry>
-  <title>alexandremcosta: confluent_schema</title>
-  <author>
-   <name>alexandremcosta</name>
-  </author>
-  <link href="https://github.com/alexandremcosta/confluent_schema" />
-  <id>urn:rprimus:github:alexandremcosta:confluent_schema</id>
-  <published>2023-04-26T21:25:06Z</published>
-  <updated>2023-04-26T21:25:06Z</updated>
-  <content type="html">
-   Elixir library to cache and validate confluent schemas from a registry
-  </content>
- </entry>
- <entry>
   <title>bmarkons: ecto_querify</title>
   <author>
    <name>bmarkons</name>
@@ -756,6 +782,19 @@
   <updated>2023-04-26T12:29:00Z</updated>
   <content type="html">
    
+  </content>
+ </entry>
+ <entry>
+  <title>senacor: honeycomb-intermission-04-2023</title>
+  <author>
+   <name>senacor</name>
+  </author>
+  <link href="https://github.com/senacor/honeycomb-intermission-04-2023" />
+  <id>urn:rprimus:github:senacor:honeycomb-intermission-04-2023</id>
+  <published>2023-04-26T12:17:15Z</published>
+  <updated>2023-04-26T12:17:15Z</updated>
+  <content type="html">
+   Intermission about Honeycomb for observability: https://www.honeycomb.io/
   </content>
  </entry>
  <entry>
