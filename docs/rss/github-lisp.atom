@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2023-04-27T08:39:49Z</updated>
+<updated>2023-04-27T15:46:23Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>vibrate-project: gmwright</title>
+  <author>
+   <name>vibrate-project</name>
+  </author>
+  <link href="https://github.com/vibrate-project/gmwright" />
+  <id>urn:rprimus:github:vibrate-project:gmwright</id>
+  <published>2023-04-27T15:46:23Z</published>
+  <updated>2023-04-27T15:46:23Z</updated>
+  <content type="html">
+   Wright function
+  </content>
+ </entry>
+ <entry>
+  <title>Francesco601: LISP-exercises</title>
+  <author>
+   <name>Francesco601</name>
+  </author>
+  <link href="https://github.com/Francesco601/LISP-exercises" />
+  <id>urn:rprimus:github:Francesco601:LISP-exercises</id>
+  <published>2023-04-27T14:29:59Z</published>
+  <updated>2023-04-27T14:29:59Z</updated>
+  <content type="html">
+   A repository for solutions to exercises from the  book Common LiISPcraft and some other nuggets
+  </content>
+ </entry>
+ <entry>
+  <title>L-Factory: random-words-generator</title>
+  <author>
+   <name>L-Factory</name>
+  </author>
+  <link href="https://github.com/L-Factory/random-words-generator" />
+  <id>urn:rprimus:github:L-Factory:random-words-generator</id>
+  <published>2023-04-27T14:25:42Z</published>
+  <updated>2023-04-27T14:25:42Z</updated>
+  <content type="html">
+   This is a simple tool for generating random words
+  </content>
+ </entry>
+ <entry>
+  <title>Gleefre: and-jni</title>
+  <author>
+   <name>Gleefre</name>
+  </author>
+  <link href="https://github.com/Gleefre/and-jni" />
+  <id>urn:rprimus:github:Gleefre:and-jni</id>
+  <published>2023-04-27T10:24:14Z</published>
+  <updated>2023-04-27T10:24:14Z</updated>
+  <content type="html">
+   CFFI bindings to JNI for android.
+  </content>
+ </entry>
  <entry>
   <title>THEGODFATHERRX: LWM</title>
   <author>
@@ -118,7 +170,7 @@
   <published>2023-04-26T10:14:15Z</published>
   <updated>2023-04-26T10:14:15Z</updated>
   <content type="html">
-   Live-narrowing, fuzzy-matching, extensible prompt
+   Live-narrowing, fuzzy-matching, extensible prompt framework
   </content>
  </entry>
  <entry>
@@ -145,58 +197,6 @@
   <updated>2023-04-26T02:20:48Z</updated>
   <content type="html">
    å¯«ä¸äºAutoLisp
-  </content>
- </entry>
- <entry>
-  <title>Hickory-DMTools: sqlite-parser</title>
-  <author>
-   <name>Hickory-DMTools</name>
-  </author>
-  <link href="https://github.com/Hickory-DMTools/sqlite-parser" />
-  <id>urn:rprimus:github:Hickory-DMTools:sqlite-parser</id>
-  <published>2023-04-25T20:37:31Z</published>
-  <updated>2023-04-25T20:37:31Z</updated>
-  <content type="html">
-   Common Lisp SQLite Parser
-  </content>
- </entry>
- <entry>
-  <title>marcoheisig: julia-functions</title>
-  <author>
-   <name>marcoheisig</name>
-  </author>
-  <link href="https://github.com/marcoheisig/julia-functions" />
-  <id>urn:rprimus:github:marcoheisig:julia-functions</id>
-  <published>2023-04-25T13:03:43Z</published>
-  <updated>2023-04-25T13:03:43Z</updated>
-  <content type="html">
-   A prototype implementation for having Julia-like functions in Common Lisp.
-  </content>
- </entry>
- <entry>
-  <title>Hosokawa-Atsushi: the-game-online-experiment</title>
-  <author>
-   <name>Hosokawa-Atsushi</name>
-  </author>
-  <link href="https://github.com/Hosokawa-Atsushi/the-game-online-experiment" />
-  <id>urn:rprimus:github:Hosokawa-Atsushi:the-game-online-experiment</id>
-  <published>2023-04-25T07:32:58Z</published>
-  <updated>2023-04-25T07:32:58Z</updated>
-  <content type="html">
-   ç´°å·æ¦å¸ã®åæ¥­ç ç©¶ã§ç¨ãããªã³ã©ã¤ã³å®é¨ã·ã¹ãã 
-  </content>
- </entry>
- <entry>
-  <title>stothardj: mahjong</title>
-  <author>
-   <name>stothardj</name>
-  </author>
-  <link href="https://github.com/stothardj/mahjong" />
-  <id>urn:rprimus:github:stothardj:mahjong</id>
-  <published>2023-04-25T03:45:20Z</published>
-  <updated>2023-04-25T03:45:20Z</updated>
-  <content type="html">
-   Mahjong in CL
   </content>
  </entry>
 </feed>

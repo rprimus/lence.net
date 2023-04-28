@@ -2,19 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2023-04-26T21:54:53Z</updated>
+<updated>2023-04-27T21:47:23Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
  <entry>
-  <title>aleksrutins: borealis</title>
+  <title>indiscipline: catalay</title>
   <author>
-   <name>aleksrutins</name>
+   <name>indiscipline</name>
   </author>
-  <link href="https://github.com/aleksrutins/borealis" />
-  <id>urn:rprimus:github:aleksrutins:borealis</id>
-  <published>2023-04-26T21:54:53Z</published>
-  <updated>2023-04-26T21:54:53Z</updated>
+  <link href="https://github.com/indiscipline/catalay" />
+  <id>urn:rprimus:github:indiscipline:catalay</id>
+  <published>2023-04-27T21:47:23Z</published>
+  <updated>2023-04-27T21:47:23Z</updated>
   <content type="html">
-   
+   Automate the layout of image catalogues made with Adobe InDesign, using simple declarative configuration files as input.
+  </content>
+ </entry>
+ <entry>
+  <title>BundleFeed: nim-libsodium</title>
+  <author>
+   <name>BundleFeed</name>
+  </author>
+  <link href="https://github.com/BundleFeed/nim-libsodium" />
+  <id>urn:rprimus:github:BundleFeed:nim-libsodium</id>
+  <published>2023-04-27T15:14:27Z</published>
+  <updated>2023-04-27T15:14:27Z</updated>
+  <content type="html">
+   Wrapper around libsodium library
+  </content>
+ </entry>
+ <entry>
+  <title>DummrenDuck: recyclang</title>
+  <author>
+   <name>DummrenDuck</name>
+  </author>
+  <link href="https://github.com/DummrenDuck/recyclang" />
+  <id>urn:rprimus:github:DummrenDuck:recyclang</id>
+  <published>2023-04-27T14:54:24Z</published>
+  <updated>2023-04-27T14:54:24Z</updated>
+  <content type="html">
+   awful recycle bin interpreter written on nim
   </content>
  </entry>
  <entry>
@@ -93,32 +119,6 @@
   <updated>2023-04-26T05:16:56Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>tehasdf: whenchanged-nim</title>
-  <author>
-   <name>tehasdf</name>
-  </author>
-  <link href="https://github.com/tehasdf/whenchanged-nim" />
-  <id>urn:rprimus:github:tehasdf:whenchanged-nim</id>
-  <published>2023-04-25T20:57:31Z</published>
-  <updated>2023-04-25T20:57:31Z</updated>
-  <content type="html">
-   Essentially a short script, but written in nim this time
-  </content>
- </entry>
- <entry>
-  <title>pysan3: norg-parser-nim</title>
-  <author>
-   <name>pysan3</name>
-  </author>
-  <link href="https://github.com/pysan3/norg-parser-nim" />
-  <id>urn:rprimus:github:pysan3:norg-parser-nim</id>
-  <published>2023-04-25T12:09:56Z</published>
-  <updated>2023-04-25T12:09:56Z</updated>
-  <content type="html">
-   A Norg parser in nim language 
   </content>
  </entry>
 </feed>
