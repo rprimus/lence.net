@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2023-04-30T06:21:35Z</updated>
+<updated>2023-05-01T04:12:22Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>dwhall: nimbed</title>
+  <author>
+   <name>dwhall</name>
+  </author>
+  <link href="https://github.com/dwhall/nimbed" />
+  <id>urn:rprimus:github:dwhall:nimbed</id>
+  <published>2023-05-01T04:12:22Z</published>
+  <updated>2023-05-01T04:12:22Z</updated>
+  <content type="html">
+   a framework in Nim for resource-constrained microcontrollers
+  </content>
+ </entry>
  <entry>
   <title>Dev1lroot: AutoTestsNim</title>
   <author>
@@ -18,12 +31,12 @@
   </content>
  </entry>
  <entry>
-  <title>Double-oxygeN: multistack</title>
+  <title>Double-oxygeN: multistacks</title>
   <author>
    <name>Double-oxygeN</name>
   </author>
-  <link href="https://github.com/Double-oxygeN/multistack" />
-  <id>urn:rprimus:github:Double-oxygeN:multistack</id>
+  <link href="https://github.com/Double-oxygeN/multistacks" />
+  <id>urn:rprimus:github:Double-oxygeN:multistacks</id>
   <published>2023-04-30T02:33:06Z</published>
   <updated>2023-04-30T02:33:06Z</updated>
   <content type="html">
@@ -54,58 +67,6 @@
   <updated>2023-04-29T06:17:33Z</updated>
   <content type="html">
    Nim serverless template
-  </content>
- </entry>
- <entry>
-  <title>benjaminheath238: GHL</title>
-  <author>
-   <name>benjaminheath238</name>
-  </author>
-  <link href="https://github.com/benjaminheath238/GHL" />
-  <id>urn:rprimus:github:benjaminheath238:GHL</id>
-  <published>2023-04-28T18:47:25Z</published>
-  <updated>2023-04-28T18:47:25Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Team-Alua: GRR_AFR.nim</title>
-  <author>
-   <name>Team-Alua</name>
-  </author>
-  <link href="https://github.com/Team-Alua/GRR_AFR.nim" />
-  <id>urn:rprimus:github:Team-Alua:GRR_AFR.nim</id>
-  <published>2023-04-28T12:27:23Z</published>
-  <updated>2023-04-28T12:27:23Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>OpenOrbis-Nim: GoldHENPlugin.nim</title>
-  <author>
-   <name>OpenOrbis-Nim</name>
-  </author>
-  <link href="https://github.com/OpenOrbis-Nim/GoldHENPlugin.nim" />
-  <id>urn:rprimus:github:OpenOrbis-Nim:GoldHENPlugin.nim</id>
-  <published>2023-04-28T09:14:24Z</published>
-  <updated>2023-04-28T09:14:24Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>OpenOrbis-Nim: sample-lib</title>
-  <author>
-   <name>OpenOrbis-Nim</name>
-  </author>
-  <link href="https://github.com/OpenOrbis-Nim/sample-lib" />
-  <id>urn:rprimus:github:OpenOrbis-Nim:sample-lib</id>
-  <published>2023-04-28T07:57:06Z</published>
-  <updated>2023-04-28T07:57:06Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
