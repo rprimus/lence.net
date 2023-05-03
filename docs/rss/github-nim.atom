@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2023-05-02T06:34:21Z</updated>
+<updated>2023-05-03T03:37:45Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>neroist: nimipdf</title>
+  <author>
+   <name>neroist</name>
+  </author>
+  <link href="https://github.com/neroist/nimipdf" />
+  <id>urn:rprimus:github:neroist:nimipdf</id>
+  <published>2023-05-03T03:37:45Z</published>
+  <updated>2023-05-03T03:37:45Z</updated>
+  <content type="html">
+   PDF backend for nimib
+  </content>
+ </entry>
  <entry>
   <title>metagn: genericinheritablefix</title>
   <author>
@@ -41,6 +54,19 @@
   <updated>2023-05-01T20:33:18Z</updated>
   <content type="html">
    
+  </content>
+ </entry>
+ <entry>
+  <title>olmeca: peg</title>
+  <author>
+   <name>olmeca</name>
+  </author>
+  <link href="https://github.com/olmeca/peg" />
+  <id>urn:rprimus:github:olmeca:peg</id>
+  <published>2023-05-01T20:23:43Z</published>
+  <updated>2023-05-01T20:23:43Z</updated>
+  <content type="html">
+   A command line tool for searching/extracting text pattern based on PEG expressions.
   </content>
  </entry>
  <entry>
@@ -93,45 +119,6 @@
   <updated>2023-05-01T04:12:22Z</updated>
   <content type="html">
    a framework in Nim for resource-constrained microcontrollers
-  </content>
- </entry>
- <entry>
-  <title>Dev1lroot: AutoTestsNim</title>
-  <author>
-   <name>Dev1lroot</name>
-  </author>
-  <link href="https://github.com/Dev1lroot/AutoTestsNim" />
-  <id>urn:rprimus:github:Dev1lroot:AutoTestsNim</id>
-  <published>2023-04-30T06:21:35Z</published>
-  <updated>2023-04-30T06:21:35Z</updated>
-  <content type="html">
-   Automatic Testing Software written in Nim-Lang
-  </content>
- </entry>
- <entry>
-  <title>Double-oxygeN: multistacks</title>
-  <author>
-   <name>Double-oxygeN</name>
-  </author>
-  <link href="https://github.com/Double-oxygeN/multistacks" />
-  <id>urn:rprimus:github:Double-oxygeN:multistacks</id>
-  <published>2023-04-30T02:33:06Z</published>
-  <updated>2023-04-30T02:33:06Z</updated>
-  <content type="html">
-   Multi-value stack data structure
-  </content>
- </entry>
- <entry>
-  <title>archnim: sunk</title>
-  <author>
-   <name>archnim</name>
-  </author>
-  <link href="https://github.com/archnim/sunk" />
-  <id>urn:rprimus:github:archnim:sunk</id>
-  <published>2023-04-30T00:11:29Z</published>
-  <updated>2023-04-30T00:11:29Z</updated>
-  <content type="html">
-   Few async tools for nim (then, catch, finally, and more)
   </content>
  </entry>
 </feed>
