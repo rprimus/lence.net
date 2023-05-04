@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2023-05-03T03:37:45Z</updated>
+<updated>2023-05-04T04:51:14Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>strainger: norp</title>
+  <author>
+   <name>strainger</name>
+  </author>
+  <link href="https://github.com/strainger/norp" />
+  <id>urn:rprimus:github:strainger:norp</id>
+  <published>2023-05-04T04:51:14Z</published>
+  <updated>2023-05-04T04:51:14Z</updated>
+  <content type="html">
+   norp (Norp Only Reads a Part) is a command line tool to parse text out of a file using user defined tags.
+  </content>
+ </entry>
+ <entry>
+  <title>metagn: dirtydeeds</title>
+  <author>
+   <name>metagn</name>
+  </author>
+  <link href="https://github.com/metagn/dirtydeeds" />
+  <id>urn:rprimus:github:metagn:dirtydeeds</id>
+  <published>2023-05-04T00:19:34Z</published>
+  <updated>2023-05-04T00:19:34Z</updated>
+  <content type="html">
+   macro for partially applied calls
+  </content>
+ </entry>
+ <entry>
+  <title>mantielero: au.nim</title>
+  <author>
+   <name>mantielero</name>
+  </author>
+  <link href="https://github.com/mantielero/au.nim" />
+  <id>urn:rprimus:github:mantielero:au.nim</id>
+  <published>2023-05-03T19:28:35Z</published>
+  <updated>2023-05-03T19:28:35Z</updated>
+  <content type="html">
+   AutoIT bindings
+  </content>
+ </entry>
+ <entry>
+  <title>ETTSU-StarTail: birthday-nim</title>
+  <author>
+   <name>ETTSU-StarTail</name>
+  </author>
+  <link href="https://github.com/ETTSU-StarTail/birthday-nim" />
+  <id>urn:rprimus:github:ETTSU-StarTail:birthday-nim</id>
+  <published>2023-05-03T10:19:43Z</published>
+  <updated>2023-05-03T10:19:43Z</updated>
+  <content type="html">
+   26æ­³ã®èªçæ¥ãè¨å¿µãã¦ããã ã«å¥éãããIn honor of his 26th birthday, he is initiated into Nim.
+  </content>
+ </entry>
  <entry>
   <title>neroist: nimipdf</title>
   <author>
@@ -27,98 +79,7 @@
   <published>2023-05-02T06:34:21Z</published>
   <updated>2023-05-02T06:34:21Z</updated>
   <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>neroist: lorem</title>
-  <author>
-   <name>neroist</name>
-  </author>
-  <link href="https://github.com/neroist/lorem" />
-  <id>urn:rprimus:github:neroist:lorem</id>
-  <published>2023-05-01T23:03:00Z</published>
-  <updated>2023-05-01T23:03:00Z</updated>
-  <content type="html">
-   Nim library for generating &quot;lorem ipsum&quot; text
-  </content>
- </entry>
- <entry>
-  <title>Frityet: Programming-Challenges</title>
-  <author>
-   <name>Frityet</name>
-  </author>
-  <link href="https://github.com/Frityet/Programming-Challenges" />
-  <id>urn:rprimus:github:Frityet:Programming-Challenges</id>
-  <published>2023-05-01T20:33:18Z</published>
-  <updated>2023-05-01T20:33:18Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>olmeca: peg</title>
-  <author>
-   <name>olmeca</name>
-  </author>
-  <link href="https://github.com/olmeca/peg" />
-  <id>urn:rprimus:github:olmeca:peg</id>
-  <published>2023-05-01T20:23:43Z</published>
-  <updated>2023-05-01T20:23:43Z</updated>
-  <content type="html">
-   A command line tool for searching/extracting text pattern based on PEG expressions.
-  </content>
- </entry>
- <entry>
-  <title>krisppurg: mota</title>
-  <author>
-   <name>krisppurg</name>
-  </author>
-  <link href="https://github.com/krisppurg/mota" />
-  <id>urn:rprimus:github:krisppurg:mota</id>
-  <published>2023-05-01T19:11:13Z</published>
-  <updated>2023-05-01T19:11:13Z</updated>
-  <content type="html">
-   discord bot that relays messages from the discord api server to dimscord server vice versa
-  </content>
- </entry>
- <entry>
-  <title>TakWolf: nico-font-tool</title>
-  <author>
-   <name>TakWolf</name>
-  </author>
-  <link href="https://github.com/TakWolf/nico-font-tool" />
-  <id>urn:rprimus:github:TakWolf:nico-font-tool</id>
-  <published>2023-05-01T13:32:32Z</published>
-  <updated>2023-05-01T13:32:32Z</updated>
-  <content type="html">
-   A tool for converting opentype fonts to NICO Game Framework format fonts.
-  </content>
- </entry>
- <entry>
-  <title>Z3NTL3: Collective-UAs</title>
-  <author>
-   <name>Z3NTL3</name>
-  </author>
-  <link href="https://github.com/Z3NTL3/Collective-UAs" />
-  <id>urn:rprimus:github:Z3NTL3:Collective-UAs</id>
-  <published>2023-05-01T11:27:03Z</published>
-  <updated>2023-05-01T11:27:03Z</updated>
-  <content type="html">
-   A script which collects the newest, most fresh and modern user-agents by time it can expand into a dataset of millions of user agents!
-  </content>
- </entry>
- <entry>
-  <title>dwhall: nimbed</title>
-  <author>
-   <name>dwhall</name>
-  </author>
-  <link href="https://github.com/dwhall/nimbed" />
-  <id>urn:rprimus:github:dwhall:nimbed</id>
-  <published>2023-05-01T04:12:22Z</published>
-  <updated>2023-05-01T04:12:22Z</updated>
-  <content type="html">
-   a framework in Nim for resource-constrained microcontrollers
+   shim for {.inheritable.} on generic objects for nim &gt;= 0.20.0
   </content>
  </entry>
 </feed>

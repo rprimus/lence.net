@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2023-05-02T23:49:57Z</updated>
+<updated>2023-05-03T21:32:37Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>TheoCaldas: DigitalVault_INF1416</title>
+  <author>
+   <name>TheoCaldas</name>
+  </author>
+  <link href="https://github.com/TheoCaldas/DigitalVault_INF1416" />
+  <id>urn:rprimus:github:TheoCaldas:DigitalVault_INF1416</id>
+  <published>2023-05-03T21:32:37Z</published>
+  <updated>2023-05-03T21:32:37Z</updated>
+  <content type="html">
+   T4 INF1416 PUC-Rio 2023.1: AplicaÃ§Ã£o de um cofre digital (digital vault) que utiliza uma pasta segura para armazenar arquivos com controle de integridade, autenticidade, confidencialidade (sigilo) e acesso. Usa Java Security.
+  </content>
+ </entry>
+ <entry>
+  <title>94tx: cl-sndio</title>
+  <author>
+   <name>94tx</name>
+  </author>
+  <link href="https://github.com/94tx/cl-sndio" />
+  <id>urn:rprimus:github:94tx:cl-sndio</id>
+  <published>2023-05-03T15:14:22Z</published>
+  <updated>2023-05-03T15:14:22Z</updated>
+  <content type="html">
+   (work in progress) Common Lisp wrapper for the sndio framework
+  </content>
+ </entry>
+ <entry>
+  <title>Shirakumo: quickhull</title>
+  <author>
+   <name>Shirakumo</name>
+  </author>
+  <link href="https://github.com/Shirakumo/quickhull" />
+  <id>urn:rprimus:github:Shirakumo:quickhull</id>
+  <published>2023-05-03T10:00:27Z</published>
+  <updated>2023-05-03T10:00:27Z</updated>
+  <content type="html">
+   An implementation of the Quickhull convex hull construction algorithm
+  </content>
+ </entry>
+ <entry>
+  <title>jaredkrinke: cl-stuff</title>
+  <author>
+   <name>jaredkrinke</name>
+  </author>
+  <link href="https://github.com/jaredkrinke/cl-stuff" />
+  <id>urn:rprimus:github:jaredkrinke:cl-stuff</id>
+  <published>2023-05-03T05:12:52Z</published>
+  <updated>2023-05-03T05:12:52Z</updated>
+  <content type="html">
+   Common Lisp code written by someone with no prior CL experience
+  </content>
+ </entry>
  <entry>
   <title>compufox: forgejo-updater</title>
   <author>
@@ -80,71 +132,6 @@
   <updated>2023-05-02T08:06:47Z</updated>
   <content type="html">
    Imported from https://gitlab.common-lisp.net/iterate/iterate.git
-  </content>
- </entry>
- <entry>
-  <title>MarioAlJim: Lisp</title>
-  <author>
-   <name>MarioAlJim</name>
-  </author>
-  <link href="https://github.com/MarioAlJim/Lisp" />
-  <id>urn:rprimus:github:MarioAlJim:Lisp</id>
-  <published>2023-05-01T19:22:11Z</published>
-  <updated>2023-05-01T19:22:11Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>FilipRazek: correlation</title>
-  <author>
-   <name>FilipRazek</name>
-  </author>
-  <link href="https://github.com/FilipRazek/correlation" />
-  <id>urn:rprimus:github:FilipRazek:correlation</id>
-  <published>2023-05-01T14:36:37Z</published>
-  <updated>2023-05-01T14:36:37Z</updated>
-  <content type="html">
-   correlation
-  </content>
- </entry>
- <entry>
-  <title>aka13-404: VSETT-LISP</title>
-  <author>
-   <name>aka13-404</name>
-  </author>
-  <link href="https://github.com/aka13-404/VSETT-LISP" />
-  <id>urn:rprimus:github:aka13-404:VSETT-LISP</id>
-  <published>2023-05-01T10:38:37Z</published>
-  <updated>2023-05-01T10:38:37Z</updated>
-  <content type="html">
-   Repo with lisp scripts for vesc for Kaboo/VSETT/Iohawk scooters
-  </content>
- </entry>
- <entry>
-  <title>40ants: 40ants-openrpc</title>
-  <author>
-   <name>40ants</name>
-  </author>
-  <link href="https://github.com/40ants/40ants-openrpc" />
-  <id>urn:rprimus:github:40ants:40ants-openrpc</id>
-  <published>2023-05-01T09:05:16Z</published>
-  <updated>2023-05-01T09:05:16Z</updated>
-  <content type="html">
-   A set of helpers to start JSON-RPC server based on https://40ants.com/openrpc/ library.
-  </content>
- </entry>
- <entry>
-  <title>EijiShitara: zipcode</title>
-  <author>
-   <name>EijiShitara</name>
-  </author>
-  <link href="https://github.com/EijiShitara/zipcode" />
-  <id>urn:rprimus:github:EijiShitara:zipcode</id>
-  <published>2023-05-01T02:19:46Z</published>
-  <updated>2023-05-01T02:19:46Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
