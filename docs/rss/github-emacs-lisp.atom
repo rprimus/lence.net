@@ -2,15 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2023-05-04T09:09:37Z</updated>
+<updated>2023-05-04T21:21:33Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
  <entry>
-  <title>Nacho369: EmacsLisp-C_Config</title>
+  <title>minorugh: doom-modeline</title>
+  <author>
+   <name>minorugh</name>
+  </author>
+  <link href="https://github.com/minorugh/doom-modeline" />
+  <id>urn:rprimus:github:minorugh:doom-modeline</id>
+  <published>2023-05-04T21:21:33Z</published>
+  <updated>2023-05-04T21:21:33Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Domse007: website</title>
+  <author>
+   <name>Domse007</name>
+  </author>
+  <link href="https://github.com/Domse007/website" />
+  <id>urn:rprimus:github:Domse007:website</id>
+  <published>2023-05-04T16:57:43Z</published>
+  <updated>2023-05-04T16:57:43Z</updated>
+  <content type="html">
+   Personal website.
+  </content>
+ </entry>
+ <entry>
+  <title>nyannmaru: npel</title>
+  <author>
+   <name>nyannmaru</name>
+  </author>
+  <link href="https://github.com/nyannmaru/npel" />
+  <id>urn:rprimus:github:nyannmaru:npel</id>
+  <published>2023-05-04T13:03:41Z</published>
+  <updated>2023-05-04T13:03:41Z</updated>
+  <content type="html">
+   Emacs minor mode for writing emacs lisp (aka el) files and some utility functions
+  </content>
+ </entry>
+ <entry>
+  <title>Linerre: ft-theme</title>
+  <author>
+   <name>Linerre</name>
+  </author>
+  <link href="https://github.com/Linerre/ft-theme" />
+  <id>urn:rprimus:github:Linerre:ft-theme</id>
+  <published>2023-05-04T11:32:38Z</published>
+  <updated>2023-05-04T11:32:38Z</updated>
+  <content type="html">
+   An Emacs theme that mimics Financial Times XD
+  </content>
+ </entry>
+ <entry>
+  <title>wegatron: lightweight_emacs_settings</title>
+  <author>
+   <name>wegatron</name>
+  </author>
+  <link href="https://github.com/wegatron/lightweight_emacs_settings" />
+  <id>urn:rprimus:github:wegatron:lightweight_emacs_settings</id>
+  <published>2023-05-04T09:53:07Z</published>
+  <updated>2023-05-04T09:53:07Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Nacho369: emacsLisp-C_Config</title>
   <author>
    <name>Nacho369</name>
   </author>
-  <link href="https://github.com/Nacho369/EmacsLisp-C_Config" />
-  <id>urn:rprimus:github:Nacho369:EmacsLisp-C_Config</id>
+  <link href="https://github.com/Nacho369/emacsLisp-C_Config" />
+  <id>urn:rprimus:github:Nacho369:emacsLisp-C_Config</id>
   <published>2023-05-04T09:09:37Z</published>
   <updated>2023-05-04T09:09:37Z</updated>
   <content type="html">
@@ -262,266 +327,6 @@
   <updated>2023-05-03T00:31:43Z</updated>
   <content type="html">
    Mi configuraciÃ³n de Emacs
-  </content>
- </entry>
- <entry>
-  <title>seferergun: emacsconfig</title>
-  <author>
-   <name>seferergun</name>
-  </author>
-  <link href="https://github.com/seferergun/emacsconfig" />
-  <id>urn:rprimus:github:seferergun:emacsconfig</id>
-  <published>2023-05-02T23:13:33Z</published>
-  <updated>2023-05-02T23:13:33Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>rorokimdim: bb-pod</title>
-  <author>
-   <name>rorokimdim</name>
-  </author>
-  <link href="https://github.com/rorokimdim/bb-pod" />
-  <id>urn:rprimus:github:rorokimdim:bb-pod</id>
-  <published>2023-05-02T16:45:03Z</published>
-  <updated>2023-05-02T16:45:03Z</updated>
-  <content type="html">
-   elisp code to interact with babshaka pod
-  </content>
- </entry>
- <entry>
-  <title>Yuanda-Dong: Emacs-Config</title>
-  <author>
-   <name>Yuanda-Dong</name>
-  </author>
-  <link href="https://github.com/Yuanda-Dong/Emacs-Config" />
-  <id>urn:rprimus:github:Yuanda-Dong:Emacs-Config</id>
-  <published>2023-05-02T16:28:53Z</published>
-  <updated>2023-05-02T16:28:53Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jpprin: emacs</title>
-  <author>
-   <name>jpprin</name>
-  </author>
-  <link href="https://github.com/jpprin/emacs" />
-  <id>urn:rprimus:github:jpprin:emacs</id>
-  <published>2023-05-02T16:11:01Z</published>
-  <updated>2023-05-02T16:11:01Z</updated>
-  <content type="html">
-   emacs init files
-  </content>
- </entry>
- <entry>
-  <title>gj313: emacs-aichat</title>
-  <author>
-   <name>gj313</name>
-  </author>
-  <link href="https://github.com/gj313/emacs-aichat" />
-  <id>urn:rprimus:github:gj313:emacs-aichat</id>
-  <published>2023-05-02T15:19:54Z</published>
-  <updated>2023-05-02T15:19:54Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>srrrp: dotfiles</title>
-  <author>
-   <name>srrrp</name>
-  </author>
-  <link href="https://github.com/srrrp/dotfiles" />
-  <id>urn:rprimus:github:srrrp:dotfiles</id>
-  <published>2023-05-02T14:52:25Z</published>
-  <updated>2023-05-02T14:52:25Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Lajtaib0801: EmacsConfig</title>
-  <author>
-   <name>Lajtaib0801</name>
-  </author>
-  <link href="https://github.com/Lajtaib0801/EmacsConfig" />
-  <id>urn:rprimus:github:Lajtaib0801:EmacsConfig</id>
-  <published>2023-05-02T14:12:57Z</published>
-  <updated>2023-05-02T14:12:57Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Shannarra: dotfiles</title>
-  <author>
-   <name>Shannarra</name>
-  </author>
-  <link href="https://github.com/Shannarra/dotfiles" />
-  <id>urn:rprimus:github:Shannarra:dotfiles</id>
-  <published>2023-05-02T11:09:50Z</published>
-  <updated>2023-05-02T11:09:50Z</updated>
-  <content type="html">
-   Collection of my dotfiles
-  </content>
- </entry>
- <entry>
-  <title>girardcarillo: MyEmacsConfig</title>
-  <author>
-   <name>girardcarillo</name>
-  </author>
-  <link href="https://github.com/girardcarillo/MyEmacsConfig" />
-  <id>urn:rprimus:github:girardcarillo:MyEmacsConfig</id>
-  <published>2023-05-02T09:17:59Z</published>
-  <updated>2023-05-02T09:17:59Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>felbit: emacsd</title>
-  <author>
-   <name>felbit</name>
-  </author>
-  <link href="https://github.com/felbit/emacsd" />
-  <id>urn:rprimus:github:felbit:emacsd</id>
-  <published>2023-05-02T08:47:29Z</published>
-  <updated>2023-05-02T08:47:29Z</updated>
-  <content type="html">
-   The Eternal Rewrite
-  </content>
- </entry>
- <entry>
-  <title>Mikhail-lnx: emacs</title>
-  <author>
-   <name>Mikhail-lnx</name>
-  </author>
-  <link href="https://github.com/Mikhail-lnx/emacs" />
-  <id>urn:rprimus:github:Mikhail-lnx:emacs</id>
-  <published>2023-05-02T08:06:54Z</published>
-  <updated>2023-05-02T08:06:54Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>KaitoKk: my-emacs-config</title>
-  <author>
-   <name>KaitoKk</name>
-  </author>
-  <link href="https://github.com/KaitoKk/my-emacs-config" />
-  <id>urn:rprimus:github:KaitoKk:my-emacs-config</id>
-  <published>2023-05-02T04:56:08Z</published>
-  <updated>2023-05-02T04:56:08Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>manateelazycat: wraplish</title>
-  <author>
-   <name>manateelazycat</name>
-  </author>
-  <link href="https://github.com/manateelazycat/wraplish" />
-  <id>urn:rprimus:github:manateelazycat:wraplish</id>
-  <published>2023-05-02T04:23:44Z</published>
-  <updated>2023-05-02T04:23:44Z</updated>
-  <content type="html">
-   Wraplish æ¯ä¸ä¸ªå¨ Unicode ä¸è±æä¹é´å ä¸ç©ºæ ¼çEmacsæä»¶,
-  </content>
- </entry>
- <entry>
-  <title>paublo96: emacs-conf</title>
-  <author>
-   <name>paublo96</name>
-  </author>
-  <link href="https://github.com/paublo96/emacs-conf" />
-  <id>urn:rprimus:github:paublo96:emacs-conf</id>
-  <published>2023-05-02T04:19:15Z</published>
-  <updated>2023-05-02T04:19:15Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ankitshahit: emacs</title>
-  <author>
-   <name>ankitshahit</name>
-  </author>
-  <link href="https://github.com/ankitshahit/emacs" />
-  <id>urn:rprimus:github:ankitshahit:emacs</id>
-  <published>2023-05-02T03:52:11Z</published>
-  <updated>2023-05-02T03:52:11Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Aast12: dotfiles</title>
-  <author>
-   <name>Aast12</name>
-  </author>
-  <link href="https://github.com/Aast12/dotfiles" />
-  <id>urn:rprimus:github:Aast12:dotfiles</id>
-  <published>2023-05-02T02:49:41Z</published>
-  <updated>2023-05-02T02:49:41Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>kisaragi-hiu: changelog-db</title>
-  <author>
-   <name>kisaragi-hiu</name>
-  </author>
-  <link href="https://github.com/kisaragi-hiu/changelog-db" />
-  <id>urn:rprimus:github:kisaragi-hiu:changelog-db</id>
-  <published>2023-05-02T02:32:20Z</published>
-  <updated>2023-05-02T02:32:20Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>sstraust: save-clojure-command</title>
-  <author>
-   <name>sstraust</name>
-  </author>
-  <link href="https://github.com/sstraust/save-clojure-command" />
-  <id>urn:rprimus:github:sstraust:save-clojure-command</id>
-  <published>2023-05-02T02:18:53Z</published>
-  <updated>2023-05-02T02:18:53Z</updated>
-  <content type="html">
-   Save a Clojure Command!
-  </content>
- </entry>
- <entry>
-  <title>AllTheLife: .emacs.d</title>
-  <author>
-   <name>AllTheLife</name>
-  </author>
-  <link href="https://github.com/AllTheLife/.emacs.d" />
-  <id>urn:rprimus:github:AllTheLife:.emacs.d</id>
-  <published>2023-05-02T01:02:53Z</published>
-  <updated>2023-05-02T01:02:53Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Pedro-V: learning-gnu-emacs</title>
-  <author>
-   <name>Pedro-V</name>
-  </author>
-  <link href="https://github.com/Pedro-V/learning-gnu-emacs" />
-  <id>urn:rprimus:github:Pedro-V:learning-gnu-emacs</id>
-  <published>2023-05-02T00:31:53Z</published>
-  <updated>2023-05-02T00:31:53Z</updated>
-  <content type="html">
-   Notes and code for &quot;Learning GNU Emacs&quot; by Debra Cameron et al and &quot;Mastering Emacs&quot; by Mickey Petersen.
   </content>
  </entry>
 </feed>
