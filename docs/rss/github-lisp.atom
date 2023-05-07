@@ -2,8 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2023-05-06T03:57:15Z</updated>
+<updated>2023-05-07T03:14:54Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>fkr-0: cl-format-server</title>
+  <author>
+   <name>fkr-0</name>
+  </author>
+  <link href="https://github.com/fkr-0/cl-format-server" />
+  <id>urn:rprimus:github:fkr-0:cl-format-server</id>
+  <published>2023-05-07T03:14:54Z</published>
+  <updated>2023-05-07T03:14:54Z</updated>
+  <content type="html">
+   Request formatted (Common) Lisp code
+  </content>
+ </entry>
+ <entry>
+  <title>biruh: cl-synthesis</title>
+  <author>
+   <name>biruh</name>
+  </author>
+  <link href="https://github.com/biruh/cl-synthesis" />
+  <id>urn:rprimus:github:biruh:cl-synthesis</id>
+  <published>2023-05-07T01:09:16Z</published>
+  <updated>2023-05-07T01:09:16Z</updated>
+  <content type="html">
+   Genetic Programming and Program Synthesis
+  </content>
+ </entry>
+ <entry>
+  <title>notexactlyawe: lisp-site-downloader</title>
+  <author>
+   <name>notexactlyawe</name>
+  </author>
+  <link href="https://github.com/notexactlyawe/lisp-site-downloader" />
+  <id>urn:rprimus:github:notexactlyawe:lisp-site-downloader</id>
+  <published>2023-05-06T22:26:03Z</published>
+  <updated>2023-05-06T22:26:03Z</updated>
+  <content type="html">
+   Playground repository to try out Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>Gleefre: simple-repl</title>
+  <author>
+   <name>Gleefre</name>
+  </author>
+  <link href="https://github.com/Gleefre/simple-repl" />
+  <id>urn:rprimus:github:Gleefre:simple-repl</id>
+  <published>2023-05-06T20:07:59Z</published>
+  <updated>2023-05-06T20:07:59Z</updated>
+  <content type="html">
+   Very simple REPL to use over TCP.
+  </content>
+ </entry>
+ <entry>
+  <title>acf2: datapouch</title>
+  <author>
+   <name>acf2</name>
+  </author>
+  <link href="https://github.com/acf2/datapouch" />
+  <id>urn:rprimus:github:acf2:datapouch</id>
+  <published>2023-05-06T16:20:29Z</published>
+  <updated>2023-05-06T16:20:29Z</updated>
+  <content type="html">
+   The most neat pile of info mess this side of insanity
+  </content>
+ </entry>
+ <entry>
+  <title>ocicl: ocicl-client</title>
+  <author>
+   <name>ocicl</name>
+  </author>
+  <link href="https://github.com/ocicl/ocicl-client" />
+  <id>urn:rprimus:github:ocicl:ocicl-client</id>
+  <published>2023-05-06T11:50:48Z</published>
+  <updated>2023-05-06T11:50:48Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>40ants: clack-prometheus</title>
+  <author>
+   <name>40ants</name>
+  </author>
+  <link href="https://github.com/40ants/clack-prometheus" />
+  <id>urn:rprimus:github:40ants:clack-prometheus</id>
+  <published>2023-05-06T10:40:33Z</published>
+  <updated>2023-05-06T10:40:33Z</updated>
+  <content type="html">
+   Clack middleware to serve stats in Prometheus format.
+  </content>
+ </entry>
  <entry>
   <title>keydelk: lisp</title>
   <author>
@@ -67,97 +158,6 @@
   <updated>2023-05-05T11:23:00Z</updated>
   <content type="html">
    Implementations of various manifold mesh algorithms
-  </content>
- </entry>
- <entry>
-  <title>25roob: MeaCLISP</title>
-  <author>
-   <name>25roob</name>
-  </author>
-  <link href="https://github.com/25roob/MeaCLISP" />
-  <id>urn:rprimus:github:25roob:MeaCLISP</id>
-  <published>2023-05-04T17:06:49Z</published>
-  <updated>2023-05-04T17:06:49Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>xlxs4: practical-common-lisp</title>
-  <author>
-   <name>xlxs4</name>
-  </author>
-  <link href="https://github.com/xlxs4/practical-common-lisp" />
-  <id>urn:rprimus:github:xlxs4:practical-common-lisp</id>
-  <published>2023-05-04T16:36:09Z</published>
-  <updated>2023-05-04T16:36:09Z</updated>
-  <content type="html">
-   Common Lisp code for &quot;Practical Common Lisp&quot; by Peter Seibel
-  </content>
- </entry>
- <entry>
-  <title>Alexisxde: Paradigmas-Lisp</title>
-  <author>
-   <name>Alexisxde</name>
-  </author>
-  <link href="https://github.com/Alexisxde/Paradigmas-Lisp" />
-  <id>urn:rprimus:github:Alexisxde:Paradigmas-Lisp</id>
-  <published>2023-05-04T16:25:52Z</published>
-  <updated>2023-05-04T16:25:52Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ormf: papierorgel-projekt</title>
-  <author>
-   <name>ormf</name>
-  </author>
-  <link href="https://github.com/ormf/papierorgel-projekt" />
-  <id>urn:rprimus:github:ormf:papierorgel-projekt</id>
-  <published>2023-05-04T13:24:57Z</published>
-  <updated>2023-05-04T13:24:57Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>mmontone: quicklisp-apropos</title>
-  <author>
-   <name>mmontone</name>
-  </author>
-  <link href="https://github.com/mmontone/quicklisp-apropos" />
-  <id>urn:rprimus:github:mmontone:quicklisp-apropos</id>
-  <published>2023-05-04T13:15:05Z</published>
-  <updated>2023-05-04T13:15:05Z</updated>
-  <content type="html">
-   Apropos across Quicklisp libraries
-  </content>
- </entry>
- <entry>
-  <title>xorist: LispPractice</title>
-  <author>
-   <name>xorist</name>
-  </author>
-  <link href="https://github.com/xorist/LispPractice" />
-  <id>urn:rprimus:github:xorist:LispPractice</id>
-  <published>2023-05-04T12:18:01Z</published>
-  <updated>2023-05-04T12:18:01Z</updated>
-  <content type="html">
-   This repo is a documentation of my journey into the world of SBCL.
-  </content>
- </entry>
- <entry>
-  <title>jakespvk: cecs342hw4lisp</title>
-  <author>
-   <name>jakespvk</name>
-  </author>
-  <link href="https://github.com/jakespvk/cecs342hw4lisp" />
-  <id>urn:rprimus:github:jakespvk:cecs342hw4lisp</id>
-  <published>2023-05-04T07:27:27Z</published>
-  <updated>2023-05-04T07:27:27Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
