@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-scheme.atom"/>
 <id>urn:rprimus:github:newschemerepos</id>
-<updated>2023-05-08T05:33:26Z</updated>
+<updated>2023-05-09T06:44:20Z</updated>
 <title type='text'>New GitHub Scheme Repos</title>
+ <entry>
+  <title>CursedBoat: snthe-dotfiles</title>
+  <author>
+   <name>CursedBoat</name>
+  </author>
+  <link href="https://github.com/CursedBoat/snthe-dotfiles" />
+  <id>urn:rprimus:github:CursedBoat:snthe-dotfiles</id>
+  <published>2023-05-09T06:44:20Z</published>
+  <updated>2023-05-09T06:44:20Z</updated>
+  <content type="html">
+   My arch linux dotfiles. (yes the zsh theme is just a slightly modified version of bira)
+  </content>
+ </entry>
  <entry>
   <title>aviraltiwari: conf_backup</title>
   <author>
@@ -31,6 +44,19 @@
   </content>
  </entry>
  <entry>
+  <title>pmbouman: pmbproj</title>
+  <author>
+   <name>pmbouman</name>
+  </author>
+  <link href="https://github.com/pmbouman/pmbproj" />
+  <id>urn:rprimus:github:pmbouman:pmbproj</id>
+  <published>2023-05-08T00:02:33Z</published>
+  <updated>2023-05-08T00:02:33Z</updated>
+  <content type="html">
+   Current pmb projects and dotfiles
+  </content>
+ </entry>
+ <entry>
   <title>BlackTrack-Debian: xfce4-config</title>
   <author>
    <name>BlackTrack-Debian</name>
@@ -54,84 +80,6 @@
   <updated>2023-05-07T08:14:13Z</updated>
   <content type="html">
    Personal Guix System configuration files
-  </content>
- </entry>
- <entry>
-  <title>LADI: pyphat</title>
-  <author>
-   <name>LADI</name>
-  </author>
-  <link href="https://github.com/LADI/pyphat" />
-  <id>urn:rprimus:github:LADI:pyphat</id>
-  <published>2023-05-06T13:26:47Z</published>
-  <updated>2023-05-06T13:26:47Z</updated>
-  <content type="html">
-   Python bindings for the PHAT GTK+ library 
-  </content>
- </entry>
- <entry>
-  <title>bbvvcc24: MyDots</title>
-  <author>
-   <name>bbvvcc24</name>
-  </author>
-  <link href="https://github.com/bbvvcc24/MyDots" />
-  <id>urn:rprimus:github:bbvvcc24:MyDots</id>
-  <published>2023-05-06T08:55:52Z</published>
-  <updated>2023-05-06T08:55:52Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>c4dr01d: mud-scripts</title>
-  <author>
-   <name>c4dr01d</name>
-  </author>
-  <link href="https://github.com/c4dr01d/mud-scripts" />
-  <id>urn:rprimus:github:c4dr01d:mud-scripts</id>
-  <published>2023-05-06T07:56:06Z</published>
-  <updated>2023-05-06T07:56:06Z</updated>
-  <content type="html">
-   Mudæ¸¸æèæ¬
-  </content>
- </entry>
- <entry>
-  <title>c4dr01d: guix-pwn</title>
-  <author>
-   <name>c4dr01d</name>
-  </author>
-  <link href="https://github.com/c4dr01d/guix-pwn" />
-  <id>urn:rprimus:github:c4dr01d:guix-pwn</id>
-  <published>2023-05-06T07:54:17Z</published>
-  <updated>2023-05-06T07:54:17Z</updated>
-  <content type="html">
-   åºäºGuixçPwnå®éªç¯å¢
-  </content>
- </entry>
- <entry>
-  <title>WinJackOne: CHip-8</title>
-  <author>
-   <name>WinJackOne</name>
-  </author>
-  <link href="https://github.com/WinJackOne/CHip-8" />
-  <id>urn:rprimus:github:WinJackOne:CHip-8</id>
-  <published>2023-05-06T04:46:42Z</published>
-  <updated>2023-05-06T04:46:42Z</updated>
-  <content type="html">
-   A emulator of Chip-8
-  </content>
- </entry>
- <entry>
-  <title>mustafa367: SICP</title>
-  <author>
-   <name>mustafa367</name>
-  </author>
-  <link href="https://github.com/mustafa367/SICP" />
-  <id>urn:rprimus:github:mustafa367:SICP</id>
-  <published>2023-05-06T02:03:00Z</published>
-  <updated>2023-05-06T02:03:00Z</updated>
-  <content type="html">
-   https://www.youtube.com/watch?v=-J_xL4IGhJA&amp;list=PLE18841CABEA24090
   </content>
  </entry>
 </feed>
