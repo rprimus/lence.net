@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2023-05-09T04:35:18Z</updated>
+<updated>2023-05-09T09:19:53Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>Aadv1k: lisp-in-lisp</title>
+  <author>
+   <name>Aadv1k</name>
+  </author>
+  <link href="https://github.com/Aadv1k/lisp-in-lisp" />
+  <id>urn:rprimus:github:Aadv1k:lisp-in-lisp</id>
+  <published>2023-05-09T09:19:53Z</published>
+  <updated>2023-05-09T09:19:53Z</updated>
+  <content type="html">
+   An experimental implementation of common lisp within common lisp
+  </content>
+ </entry>
  <entry>
   <title>avodonosov: browsable-colorize</title>
   <author>
