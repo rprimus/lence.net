@@ -2,8 +2,112 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2023-05-10T09:48:53Z</updated>
+<updated>2023-05-11T02:45:20Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>qmdx00: .emacs.d</title>
+  <author>
+   <name>qmdx00</name>
+  </author>
+  <link href="https://github.com/qmdx00/.emacs.d" />
+  <id>urn:rprimus:github:qmdx00:.emacs.d</id>
+  <published>2023-05-11T02:45:20Z</published>
+  <updated>2023-05-11T02:45:20Z</updated>
+  <content type="html">
+   Emacs Configuration
+  </content>
+ </entry>
+ <entry>
+  <title>dizzyvn: emacs-config</title>
+  <author>
+   <name>dizzyvn</name>
+  </author>
+  <link href="https://github.com/dizzyvn/emacs-config" />
+  <id>urn:rprimus:github:dizzyvn:emacs-config</id>
+  <published>2023-05-11T01:36:24Z</published>
+  <updated>2023-05-11T01:36:24Z</updated>
+  <content type="html">
+   Customized emacs config based on SystemCrafters&#039;s emacs config
+  </content>
+ </entry>
+ <entry>
+  <title>emacs-straight: urgrep</title>
+  <author>
+   <name>emacs-straight</name>
+  </author>
+  <link href="https://github.com/emacs-straight/urgrep" />
+  <id>urn:rprimus:github:emacs-straight:urgrep</id>
+  <published>2023-05-11T00:06:36Z</published>
+  <updated>2023-05-11T00:06:36Z</updated>
+  <content type="html">
+   Mirror of the urgrep package from GNU ELPA, current as of 2023-05-11
+  </content>
+ </entry>
+ <entry>
+  <title>CS-Schmidt: .doom.d</title>
+  <author>
+   <name>CS-Schmidt</name>
+  </author>
+  <link href="https://github.com/CS-Schmidt/.doom.d" />
+  <id>urn:rprimus:github:CS-Schmidt:.doom.d</id>
+  <published>2023-05-10T19:10:16Z</published>
+  <updated>2023-05-10T19:10:16Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>s-surineni: doom</title>
+  <author>
+   <name>s-surineni</name>
+  </author>
+  <link href="https://github.com/s-surineni/doom" />
+  <id>urn:rprimus:github:s-surineni:doom</id>
+  <published>2023-05-10T15:35:55Z</published>
+  <updated>2023-05-10T15:35:55Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>ddegr: doom-config</title>
+  <author>
+   <name>ddegr</name>
+  </author>
+  <link href="https://github.com/ddegr/doom-config" />
+  <id>urn:rprimus:github:ddegr:doom-config</id>
+  <published>2023-05-10T14:23:26Z</published>
+  <updated>2023-05-10T14:23:26Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>hubisan: emacs-lisp-package-template</title>
+  <author>
+   <name>hubisan</name>
+  </author>
+  <link href="https://github.com/hubisan/emacs-lisp-package-template" />
+  <id>urn:rprimus:github:hubisan:emacs-lisp-package-template</id>
+  <published>2023-05-10T12:48:21Z</published>
+  <updated>2023-05-10T12:48:21Z</updated>
+  <content type="html">
+   A template to write your own package for Emacs
+  </content>
+ </entry>
+ <entry>
+  <title>wendelscardua: nesfab-mode</title>
+  <author>
+   <name>wendelscardua</name>
+  </author>
+  <link href="https://github.com/wendelscardua/nesfab-mode" />
+  <id>urn:rprimus:github:wendelscardua:nesfab-mode</id>
+  <published>2023-05-10T11:53:56Z</published>
+  <updated>2023-05-10T11:53:56Z</updated>
+  <content type="html">
+   NESFab major mode for Emacs
+  </content>
+ </entry>
  <entry>
   <title>daanturo: starhugger.el</title>
   <author>
@@ -14,7 +118,7 @@
   <published>2023-05-10T09:48:53Z</published>
   <updated>2023-05-10T09:48:53Z</updated>
   <content type="html">
-   Bigcode/starcoder integration for Emacs, mirrored from https://gitlab.com/daanturo/starhugger.el
+   Bigcode/Starcoder integration for Emacs, primary repo: https://gitlab.com/daanturo/starhugger.el.
   </content>
  </entry>
  <entry>
@@ -92,7 +196,7 @@
   <published>2023-05-10T00:07:22Z</published>
   <updated>2023-05-10T00:07:22Z</updated>
   <content type="html">
-   Mirror of the url-http-oauth package from GNU ELPA, current as of 2023-05-10
+   Mirror of the url-http-oauth package from GNU ELPA, current as of 2023-05-11
   </content>
  </entry>
  <entry>
@@ -249,227 +353,6 @@
   <updated>2023-05-09T01:01:22Z</updated>
   <content type="html">
    my doom configurations
-  </content>
- </entry>
- <entry>
-  <title>zakhar1101: Configs</title>
-  <author>
-   <name>zakhar1101</name>
-  </author>
-  <link href="https://github.com/zakhar1101/Configs" />
-  <id>urn:rprimus:github:zakhar1101:Configs</id>
-  <published>2023-05-08T20:27:57Z</published>
-  <updated>2023-05-08T20:27:57Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>idanov: org-roam-logseq.el</title>
-  <author>
-   <name>idanov</name>
-  </author>
-  <link href="https://github.com/idanov/org-roam-logseq.el" />
-  <id>urn:rprimus:github:idanov:org-roam-logseq.el</id>
-  <published>2023-05-08T19:31:44Z</published>
-  <updated>2023-05-08T19:31:44Z</updated>
-  <content type="html">
-   Converter of logseq links to org-roam links
-  </content>
- </entry>
- <entry>
-  <title>ohaukeboe: dot-emacs</title>
-  <author>
-   <name>ohaukeboe</name>
-  </author>
-  <link href="https://github.com/ohaukeboe/dot-emacs" />
-  <id>urn:rprimus:github:ohaukeboe:dot-emacs</id>
-  <published>2023-05-08T19:06:36Z</published>
-  <updated>2023-05-08T19:06:36Z</updated>
-  <content type="html">
-    My Emacs configurations written in Org mode 
-  </content>
- </entry>
- <entry>
-  <title>jolian5532: emacs</title>
-  <author>
-   <name>jolian5532</name>
-  </author>
-  <link href="https://github.com/jolian5532/emacs" />
-  <id>urn:rprimus:github:jolian5532:emacs</id>
-  <published>2023-05-08T18:17:40Z</published>
-  <updated>2023-05-08T18:17:40Z</updated>
-  <content type="html">
-   emacs config
-  </content>
- </entry>
- <entry>
-  <title>hamed-aadi: emacs.d</title>
-  <author>
-   <name>hamed-aadi</name>
-  </author>
-  <link href="https://github.com/hamed-aadi/emacs.d" />
-  <id>urn:rprimus:github:hamed-aadi:emacs.d</id>
-  <published>2023-05-08T15:04:52Z</published>
-  <updated>2023-05-08T15:04:52Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>HACKER097: .emacs.d</title>
-  <author>
-   <name>HACKER097</name>
-  </author>
-  <link href="https://github.com/HACKER097/.emacs.d" />
-  <id>urn:rprimus:github:HACKER097:.emacs.d</id>
-  <published>2023-05-08T11:36:19Z</published>
-  <updated>2023-05-08T11:36:19Z</updated>
-  <content type="html">
-   My emacs config
-  </content>
- </entry>
- <entry>
-  <title>emacsmirror: zone-tmux-clock</title>
-  <author>
-   <name>emacsmirror</name>
-  </author>
-  <link href="https://github.com/emacsmirror/zone-tmux-clock" />
-  <id>urn:rprimus:github:emacsmirror:zone-tmux-clock</id>
-  <published>2023-05-08T10:25:47Z</published>
-  <updated>2023-05-08T10:25:47Z</updated>
-  <content type="html">
-   Zone out with a tmux style clock
-  </content>
- </entry>
- <entry>
-  <title>Mastergamer433: proxmox-el</title>
-  <author>
-   <name>Mastergamer433</name>
-  </author>
-  <link href="https://github.com/Mastergamer433/proxmox-el" />
-  <id>urn:rprimus:github:Mastergamer433:proxmox-el</id>
-  <published>2023-05-08T10:19:07Z</published>
-  <updated>2023-05-08T10:19:07Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>hathawayANdRX105: MyEmacs</title>
-  <author>
-   <name>hathawayANdRX105</name>
-  </author>
-  <link href="https://github.com/hathawayANdRX105/MyEmacs" />
-  <id>urn:rprimus:github:hathawayANdRX105:MyEmacs</id>
-  <published>2023-05-08T10:17:52Z</published>
-  <updated>2023-05-08T10:17:52Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Fogberry: .emacs.d</title>
-  <author>
-   <name>Fogberry</name>
-  </author>
-  <link href="https://github.com/Fogberry/.emacs.d" />
-  <id>urn:rprimus:github:Fogberry:.emacs.d</id>
-  <published>2023-05-08T09:52:59Z</published>
-  <updated>2023-05-08T09:52:59Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Kunh-Lee: tooltip-box</title>
-  <author>
-   <name>Kunh-Lee</name>
-  </author>
-  <link href="https://github.com/Kunh-Lee/tooltip-box" />
-  <id>urn:rprimus:github:Kunh-Lee:tooltip-box</id>
-  <published>2023-05-08T09:46:38Z</published>
-  <updated>2023-05-08T09:46:38Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>LukinEgor: doom.d</title>
-  <author>
-   <name>LukinEgor</name>
-  </author>
-  <link href="https://github.com/LukinEgor/doom.d" />
-  <id>urn:rprimus:github:LukinEgor:doom.d</id>
-  <published>2023-05-08T09:32:11Z</published>
-  <updated>2023-05-08T09:32:11Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>chaosite: souffle-ts-mode</title>
-  <author>
-   <name>chaosite</name>
-  </author>
-  <link href="https://github.com/chaosite/souffle-ts-mode" />
-  <id>urn:rprimus:github:chaosite:souffle-ts-mode</id>
-  <published>2023-05-08T08:39:20Z</published>
-  <updated>2023-05-08T08:39:20Z</updated>
-  <content type="html">
-   Emacs major mode for SoufflÃ© using tree-sitter
-  </content>
- </entry>
- <entry>
-  <title>jakergrossman: nette</title>
-  <author>
-   <name>jakergrossman</name>
-  </author>
-  <link href="https://github.com/jakergrossman/nette" />
-  <id>urn:rprimus:github:jakergrossman:nette</id>
-  <published>2023-05-08T05:38:07Z</published>
-  <updated>2023-05-08T05:38:07Z</updated>
-  <content type="html">
-   A nice dotnet porcelain in Emacs.
-  </content>
- </entry>
- <entry>
-  <title>mtwomey: emacs-doom-config</title>
-  <author>
-   <name>mtwomey</name>
-  </author>
-  <link href="https://github.com/mtwomey/emacs-doom-config" />
-  <id>urn:rprimus:github:mtwomey:emacs-doom-config</id>
-  <published>2023-05-08T03:37:01Z</published>
-  <updated>2023-05-08T03:37:01Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jrick: emacs.d</title>
-  <author>
-   <name>jrick</name>
-  </author>
-  <link href="https://github.com/jrick/emacs.d" />
-  <id>urn:rprimus:github:jrick:emacs.d</id>
-  <published>2023-05-08T01:48:18Z</published>
-  <updated>2023-05-08T01:48:18Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>casouri: expreg</title>
-  <author>
-   <name>casouri</name>
-  </author>
-  <link href="https://github.com/casouri/expreg" />
-  <id>urn:rprimus:github:casouri:expreg</id>
-  <published>2023-05-08T01:15:07Z</published>
-  <updated>2023-05-08T01:15:07Z</updated>
-  <content type="html">
-   Your friendly neighborhood expand-region clone
   </content>
  </entry>
 </feed>

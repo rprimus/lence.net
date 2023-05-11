@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2023-05-10T10:10:16Z</updated>
+<updated>2023-05-10T11:28:20Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>BundleFeed: nim-varint</title>
+  <author>
+   <name>BundleFeed</name>
+  </author>
+  <link href="https://github.com/BundleFeed/nim-varint" />
+  <id>urn:rprimus:github:BundleFeed:nim-varint</id>
+  <published>2023-05-10T11:28:20Z</published>
+  <updated>2023-05-10T11:28:20Z</updated>
+  <content type="html">
+   varint encoding functions
+  </content>
+ </entry>
+ <entry>
+  <title>BundleFeed: nim-sqlite3-up</title>
+  <author>
+   <name>BundleFeed</name>
+  </author>
+  <link href="https://github.com/BundleFeed/nim-sqlite3-up" />
+  <id>urn:rprimus:github:BundleFeed:nim-sqlite3-up</id>
+  <published>2023-05-10T11:21:55Z</published>
+  <updated>2023-05-10T11:21:55Z</updated>
+  <content type="html">
+   High level api to work with SQLite3 db
+  </content>
+ </entry>
  <entry>
   <title>xTrayambak: ferus</title>
   <author>
@@ -109,19 +135,6 @@
   </content>
  </entry>
  <entry>
-  <title>konsumer: nim-gamepad</title>
-  <author>
-   <name>konsumer</name>
-  </author>
-  <link href="https://github.com/konsumer/nim-gamepad" />
-  <id>urn:rprimus:github:konsumer:nim-gamepad</id>
-  <published>2023-05-09T06:25:01Z</published>
-  <updated>2023-05-09T06:25:01Z</updated>
-  <content type="html">
-   Cross-platform gamepad library for nim
-  </content>
- </entry>
- <entry>
   <title>brody192: nim-jester-template</title>
   <author>
    <name>brody192</name>
@@ -158,84 +171,6 @@
   <updated>2023-05-09T00:07:41Z</updated>
   <content type="html">
    Byte ordering without fiasco
-  </content>
- </entry>
- <entry>
-  <title>RubyKyo: Password-Generator</title>
-  <author>
-   <name>RubyKyo</name>
-  </author>
-  <link href="https://github.com/RubyKyo/Password-Generator" />
-  <id>urn:rprimus:github:RubyKyo:Password-Generator</id>
-  <published>2023-05-08T19:45:39Z</published>
-  <updated>2023-05-08T19:45:39Z</updated>
-  <content type="html">
-   Fast, and secure password generator.
-  </content>
- </entry>
- <entry>
-  <title>cfu288: nim-raft</title>
-  <author>
-   <name>cfu288</name>
-  </author>
-  <link href="https://github.com/cfu288/nim-raft" />
-  <id>urn:rprimus:github:cfu288:nim-raft</id>
-  <published>2023-05-08T17:18:30Z</published>
-  <updated>2023-05-08T17:18:30Z</updated>
-  <content type="html">
-   (WIP) Toy implementation of the Raft Consensus Algorithm in Nim
-  </content>
- </entry>
- <entry>
-  <title>noxnivi: nimqml-apps</title>
-  <author>
-   <name>noxnivi</name>
-  </author>
-  <link href="https://github.com/noxnivi/nimqml-apps" />
-  <id>urn:rprimus:github:noxnivi:nimqml-apps</id>
-  <published>2023-05-08T14:37:51Z</published>
-  <updated>2023-05-08T14:37:51Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Bayu12345677: Calculator-Nim</title>
-  <author>
-   <name>Bayu12345677</name>
-  </author>
-  <link href="https://github.com/Bayu12345677/Calculator-Nim" />
-  <id>urn:rprimus:github:Bayu12345677:Calculator-Nim</id>
-  <published>2023-05-08T12:56:10Z</published>
-  <updated>2023-05-08T12:56:10Z</updated>
-  <content type="html">
-   Calculator cli make in Nim Lang
-  </content>
- </entry>
- <entry>
-  <title>CarkWilkinson: nimini-client</title>
-  <author>
-   <name>CarkWilkinson</name>
-  </author>
-  <link href="https://github.com/CarkWilkinson/nimini-client" />
-  <id>urn:rprimus:github:CarkWilkinson:nimini-client</id>
-  <published>2023-05-08T02:11:35Z</published>
-  <updated>2023-05-08T02:11:35Z</updated>
-  <content type="html">
-   Gemini client written in nim, uses nimini-library
-  </content>
- </entry>
- <entry>
-  <title>CarkWilkinson: nimini-library</title>
-  <author>
-   <name>CarkWilkinson</name>
-  </author>
-  <link href="https://github.com/CarkWilkinson/nimini-library" />
-  <id>urn:rprimus:github:CarkWilkinson:nimini-library</id>
-  <published>2023-05-08T01:57:30Z</published>
-  <updated>2023-05-08T01:57:30Z</updated>
-  <content type="html">
-   Gemini library written in nim
   </content>
  </entry>
 </feed>

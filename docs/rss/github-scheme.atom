@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-scheme.atom"/>
 <id>urn:rprimus:github:newschemerepos</id>
-<updated>2023-05-10T01:28:05Z</updated>
+<updated>2023-05-10T23:53:54Z</updated>
 <title type='text'>New GitHub Scheme Repos</title>
+ <entry>
+  <title>rssoc: mit-hacklets</title>
+  <author>
+   <name>rssoc</name>
+  </author>
+  <link href="https://github.com/rssoc/mit-hacklets" />
+  <id>urn:rprimus:github:rssoc:mit-hacklets</id>
+  <published>2023-05-10T23:53:54Z</published>
+  <updated>2023-05-10T23:53:54Z</updated>
+  <content type="html">
+   A collection of hacks (with varying degrees of useful) for MIT-Scheme.
+  </content>
+ </entry>
+ <entry>
+  <title>john-royal: 335-final-project</title>
+  <author>
+   <name>john-royal</name>
+  </author>
+  <link href="https://github.com/john-royal/335-final-project" />
+  <id>urn:rprimus:github:john-royal:335-final-project</id>
+  <published>2023-05-10T21:26:02Z</published>
+  <updated>2023-05-10T21:26:02Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>dawansv: gnucash-transaction-tags</title>
+  <author>
+   <name>dawansv</name>
+  </author>
+  <link href="https://github.com/dawansv/gnucash-transaction-tags" />
+  <id>urn:rprimus:github:dawansv:gnucash-transaction-tags</id>
+  <published>2023-05-10T18:45:55Z</published>
+  <updated>2023-05-10T18:45:55Z</updated>
+  <content type="html">
+   Custom GnuCash transaction report with ability to sort and subtotal by user-defined tags
+  </content>
+ </entry>
+ <entry>
+  <title>tomelam: gambit-in-js-whitelist-test</title>
+  <author>
+   <name>tomelam</name>
+  </author>
+  <link href="https://github.com/tomelam/gambit-in-js-whitelist-test" />
+  <id>urn:rprimus:github:tomelam:gambit-in-js-whitelist-test</id>
+  <published>2023-05-10T18:25:39Z</published>
+  <updated>2023-05-10T18:25:39Z</updated>
+  <content type="html">
+   Just a procedure to print a message, to test whitelisting.
+  </content>
+ </entry>
+ <entry>
+  <title>GitProger: lisp-lib</title>
+  <author>
+   <name>GitProger</name>
+  </author>
+  <link href="https://github.com/GitProger/lisp-lib" />
+  <id>urn:rprimus:github:GitProger:lisp-lib</id>
+  <published>2023-05-10T15:57:54Z</published>
+  <updated>2023-05-10T15:57:54Z</updated>
+  <content type="html">
+   Small Library for CL and Guile Scheme
+  </content>
+ </entry>
+ <entry>
+  <title>ellyhonig: Scheme-Graph-Package</title>
+  <author>
+   <name>ellyhonig</name>
+  </author>
+  <link href="https://github.com/ellyhonig/Scheme-Graph-Package" />
+  <id>urn:rprimus:github:ellyhonig:Scheme-Graph-Package</id>
+  <published>2023-05-10T14:43:46Z</published>
+  <updated>2023-05-10T14:43:46Z</updated>
+  <content type="html">
+   Different graph representation in scheme + graph traversal algorithms 
+  </content>
+ </entry>
  <entry>
   <title>maggiestewart: Scheme-Exercises</title>
   <author>
@@ -13,6 +91,19 @@
   <id>urn:rprimus:github:maggiestewart:Scheme-Exercises</id>
   <published>2023-05-10T01:28:05Z</published>
   <updated>2023-05-10T01:28:05Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>sergeantshaky: 335-Project</title>
+  <author>
+   <name>sergeantshaky</name>
+  </author>
+  <link href="https://github.com/sergeantshaky/335-Project" />
+  <id>urn:rprimus:github:sergeantshaky:335-Project</id>
+  <published>2023-05-09T16:36:35Z</published>
+  <updated>2023-05-09T16:36:35Z</updated>
   <content type="html">
    
   </content>
@@ -41,45 +132,6 @@
   <updated>2023-05-09T06:44:20Z</updated>
   <content type="html">
    My arch linux dotfiles. (yes the zsh theme is just a slightly modified version of bira)
-  </content>
- </entry>
- <entry>
-  <title>aviraltiwari: conf_backup</title>
-  <author>
-   <name>aviraltiwari</name>
-  </author>
-  <link href="https://github.com/aviraltiwari/conf_backup" />
-  <id>urn:rprimus:github:aviraltiwari:conf_backup</id>
-  <published>2023-05-08T05:33:26Z</published>
-  <updated>2023-05-08T05:33:26Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>positronn: sicp</title>
-  <author>
-   <name>positronn</name>
-  </author>
-  <link href="https://github.com/positronn/sicp" />
-  <id>urn:rprimus:github:positronn:sicp</id>
-  <published>2023-05-08T01:11:24Z</published>
-  <updated>2023-05-08T01:11:24Z</updated>
-  <content type="html">
-   My notes and attempts on the book &quot;Structure and Interpretation of Computer Programs&quot;, 2nd Edition.
-  </content>
- </entry>
- <entry>
-  <title>pmbouman: pmbproj</title>
-  <author>
-   <name>pmbouman</name>
-  </author>
-  <link href="https://github.com/pmbouman/pmbproj" />
-  <id>urn:rprimus:github:pmbouman:pmbproj</id>
-  <published>2023-05-08T00:02:33Z</published>
-  <updated>2023-05-08T00:02:33Z</updated>
-  <content type="html">
-   Current pmb projects and dotfiles
   </content>
  </entry>
 </feed>
