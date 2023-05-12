@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2023-05-12T02:51:22Z</updated>
+<updated>2023-05-12T14:57:28Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>Seres67: aoc-input</title>
+  <author>
+   <name>Seres67</name>
+  </author>
+  <link href="https://github.com/Seres67/aoc-input" />
+  <id>urn:rprimus:github:Seres67:aoc-input</id>
+  <published>2023-05-12T14:57:28Z</published>
+  <updated>2023-05-12T14:57:28Z</updated>
+  <content type="html">
+   Get AOC input in Crystal
+  </content>
+ </entry>
  <entry>
   <title>R-unic: cosmo</title>
   <author>
@@ -54,6 +67,19 @@
   <updated>2023-05-10T23:58:52Z</updated>
   <content type="html">
    Experimenting with generating crystal bindings from win32json
+  </content>
+ </entry>
+ <entry>
+  <title>n-1x: redtape</title>
+  <author>
+   <name>n-1x</name>
+  </author>
+  <link href="https://github.com/n-1x/redtape" />
+  <id>urn:rprimus:github:n-1x:redtape</id>
+  <published>2023-05-10T18:12:52Z</published>
+  <updated>2023-05-10T18:12:52Z</updated>
+  <content type="html">
+   A webserver designed to make many penetration testing tasks simpler. It allows the automatic generation and download of msfvenom payloads on a web request, and provides a simple file upload endpoint. It also logs all requests for data exfiltration.
   </content>
  </entry>
 </feed>
