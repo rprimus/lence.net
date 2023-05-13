@@ -2,8 +2,138 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-go.atom"/>
 <id>urn:rprimus:github:newgorepos</id>
-<updated>2023-05-13T06:39:25Z</updated>
+<updated>2023-05-13T09:25:19Z</updated>
 <title type='text'>New GitHub Go Repos</title>
+ <entry>
+  <title>Umbreik: Discorify</title>
+  <author>
+   <name>Umbreik</name>
+  </author>
+  <link href="https://github.com/Umbreik/Discorify" />
+  <id>urn:rprimus:github:Umbreik:Discorify</id>
+  <published>2023-05-13T09:25:19Z</published>
+  <updated>2023-05-13T09:25:19Z</updated>
+  <content type="html">
+   Discord channel content regulator.
+  </content>
+ </entry>
+ <entry>
+  <title>notrequest: CryptoUtilsGo</title>
+  <author>
+   <name>notrequest</name>
+  </author>
+  <link href="https://github.com/notrequest/CryptoUtilsGo" />
+  <id>urn:rprimus:github:notrequest:CryptoUtilsGo</id>
+  <published>2023-05-13T08:29:15Z</published>
+  <updated>2023-05-13T08:29:15Z</updated>
+  <content type="html">
+   Simple AESUtils lib written in go 
+  </content>
+ </entry>
+ <entry>
+  <title>MoYoez: Text-WaterMark</title>
+  <author>
+   <name>MoYoez</name>
+  </author>
+  <link href="https://github.com/MoYoez/Text-WaterMark" />
+  <id>urn:rprimus:github:MoYoez:Text-WaterMark</id>
+  <published>2023-05-13T08:28:20Z</published>
+  <updated>2023-05-13T08:28:20Z</updated>
+  <content type="html">
+   Add watermark to your text,writing in go
+  </content>
+ </entry>
+ <entry>
+  <title>Pradumnasaraf: Shortify</title>
+  <author>
+   <name>Pradumnasaraf</name>
+  </author>
+  <link href="https://github.com/Pradumnasaraf/Shortify" />
+  <id>urn:rprimus:github:Pradumnasaraf:Shortify</id>
+  <published>2023-05-13T08:22:57Z</published>
+  <updated>2023-05-13T08:22:57Z</updated>
+  <content type="html">
+   Shortify is a fast and reliable URL shortener written in Go, using Redis as a database and built with the Fiber web framework.
+  </content>
+ </entry>
+ <entry>
+  <title>Geralt-in-Rivia: WRITING_AN_INTERPRRTER_IN_GO</title>
+  <author>
+   <name>Geralt-in-Rivia</name>
+  </author>
+  <link href="https://github.com/Geralt-in-Rivia/WRITING_AN_INTERPRRTER_IN_GO" />
+  <id>urn:rprimus:github:Geralt-in-Rivia:WRITING_AN_INTERPRRTER_IN_GO</id>
+  <published>2023-05-13T08:20:14Z</published>
+  <updated>2023-05-13T08:20:14Z</updated>
+  <content type="html">
+   Code of WRITING_AN_INTERPRRTER_IN_GO
+  </content>
+ </entry>
+ <entry>
+  <title>XTLS: Trojan-killer</title>
+  <author>
+   <name>XTLS</name>
+  </author>
+  <link href="https://github.com/XTLS/Trojan-killer" />
+  <id>urn:rprimus:github:XTLS:Trojan-killer</id>
+  <published>2023-05-13T08:06:53Z</published>
+  <updated>2023-05-13T08:06:53Z</updated>
+  <content type="html">
+   Detect TLS in TLS.
+  </content>
+ </entry>
+ <entry>
+  <title>1797818494: tinykv</title>
+  <author>
+   <name>1797818494</name>
+  </author>
+  <link href="https://github.com/1797818494/tinykv" />
+  <id>urn:rprimus:github:1797818494:tinykv</id>
+  <published>2023-05-13T07:54:44Z</published>
+  <updated>2023-05-13T07:54:44Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>juanfmange: fiberapi</title>
+  <author>
+   <name>juanfmange</name>
+  </author>
+  <link href="https://github.com/juanfmange/fiberapi" />
+  <id>urn:rprimus:github:juanfmange:fiberapi</id>
+  <published>2023-05-13T07:48:20Z</published>
+  <updated>2023-05-13T07:48:20Z</updated>
+  <content type="html">
+   Testing framework fiber
+  </content>
+ </entry>
+ <entry>
+  <title>donuts-are-good: mdnsscan</title>
+  <author>
+   <name>donuts-are-good</name>
+  </author>
+  <link href="https://github.com/donuts-are-good/mdnsscan" />
+  <id>urn:rprimus:github:donuts-are-good:mdnsscan</id>
+  <published>2023-05-13T07:46:15Z</published>
+  <updated>2023-05-13T07:46:15Z</updated>
+  <content type="html">
+   mDNS scanner &amp; enumeration tool
+  </content>
+ </entry>
+ <entry>
+  <title>megactek: gobank</title>
+  <author>
+   <name>megactek</name>
+  </author>
+  <link href="https://github.com/megactek/gobank" />
+  <id>urn:rprimus:github:megactek:gobank</id>
+  <published>2023-05-13T07:21:37Z</published>
+  <updated>2023-05-13T07:21:37Z</updated>
+  <content type="html">
+   minimalistic bank written with goLang
+  </content>
+ </entry>
  <entry>
   <title>matti: pingo</title>
   <author>
@@ -18,14 +148,14 @@
   </content>
  </entry>
  <entry>
-  <title>BPG8780: e5sub</title>
+  <title>ankitchahal20: go-lang-design-pattern</title>
   <author>
-   <name>BPG8780</name>
+   <name>ankitchahal20</name>
   </author>
-  <link href="https://github.com/BPG8780/e5sub" />
-  <id>urn:rprimus:github:BPG8780:e5sub</id>
-  <published>2023-05-13T06:34:30Z</published>
-  <updated>2023-05-13T06:34:30Z</updated>
+  <link href="https://github.com/ankitchahal20/go-lang-design-pattern" />
+  <id>urn:rprimus:github:ankitchahal20:go-lang-design-pattern</id>
+  <published>2023-05-13T05:53:14Z</published>
+  <updated>2023-05-13T05:53:14Z</updated>
   <content type="html">
    
   </content>
@@ -53,7 +183,7 @@
   <published>2023-05-13T05:36:39Z</published>
   <updated>2023-05-13T05:36:39Z</updated>
   <content type="html">
-   A Fast FuzzySearch service written in go.
+   A Fast FuzzySearch service written in go. Only made for NezukoChan usage.
   </content>
  </entry>
  <entry>
@@ -78,19 +208,6 @@
   <id>urn:rprimus:github:anotherparsa:GoPractice</id>
   <published>2023-05-13T05:10:01Z</published>
   <updated>2023-05-13T05:10:01Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>harold1194: trip_golang</title>
-  <author>
-   <name>harold1194</name>
-  </author>
-  <link href="https://github.com/harold1194/trip_golang" />
-  <id>urn:rprimus:github:harold1194:trip_golang</id>
-  <published>2023-05-13T04:46:18Z</published>
-  <updated>2023-05-13T04:46:18Z</updated>
   <content type="html">
    
   </content>
@@ -135,19 +252,6 @@
   </content>
  </entry>
  <entry>
-  <title>mozammilkarim: go-jwt-authentication</title>
-  <author>
-   <name>mozammilkarim</name>
-  </author>
-  <link href="https://github.com/mozammilkarim/go-jwt-authentication" />
-  <id>urn:rprimus:github:mozammilkarim:go-jwt-authentication</id>
-  <published>2023-05-13T04:09:02Z</published>
-  <updated>2023-05-13T04:09:02Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
   <title>mathing87: ming87</title>
   <author>
    <name>mathing87</name>
@@ -171,19 +275,6 @@
   <updated>2023-05-13T03:33:35Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>mikedll: cvweb</title>
-  <author>
-   <name>mikedll</name>
-  </author>
-  <link href="https://github.com/mikedll/cvweb" />
-  <id>urn:rprimus:github:mikedll:cvweb</id>
-  <published>2023-05-13T03:12:22Z</published>
-  <updated>2023-05-13T03:12:22Z</updated>
-  <content type="html">
-   Messing around with opencv
   </content>
  </entry>
  <entry>
@@ -213,16 +304,16 @@
   </content>
  </entry>
  <entry>
-  <title>maratonafullcyclesidartaoss: maratona-fc-1-part-5-driver</title>
+  <title>wanta-zulfikri: Bukalelang-App</title>
   <author>
-   <name>maratonafullcyclesidartaoss</name>
+   <name>wanta-zulfikri</name>
   </author>
-  <link href="https://github.com/maratonafullcyclesidartaoss/maratona-fc-1-part-5-driver" />
-  <id>urn:rprimus:github:maratonafullcyclesidartaoss:maratona-fc-1-part-5-driver</id>
-  <published>2023-05-13T02:50:18Z</published>
-  <updated>2023-05-13T02:50:18Z</updated>
+  <link href="https://github.com/wanta-zulfikri/Bukalelang-App" />
+  <id>urn:rprimus:github:wanta-zulfikri:Bukalelang-App</id>
+  <published>2023-05-13T02:43:56Z</published>
+  <updated>2023-05-13T02:43:56Z</updated>
   <content type="html">
-   Maratona FullCycle #1 Part V - Driver
+   
   </content>
  </entry>
  <entry>
@@ -252,58 +343,6 @@
   </content>
  </entry>
  <entry>
-  <title>horoshi10v: eKurator</title>
-  <author>
-   <name>horoshi10v</name>
-  </author>
-  <link href="https://github.com/horoshi10v/eKurator" />
-  <id>urn:rprimus:github:horoshi10v:eKurator</id>
-  <published>2023-05-13T02:04:48Z</published>
-  <updated>2023-05-13T02:04:48Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>JoaoPaulo-creator: first-steps-golang</title>
-  <author>
-   <name>JoaoPaulo-creator</name>
-  </author>
-  <link href="https://github.com/JoaoPaulo-creator/first-steps-golang" />
-  <id>urn:rprimus:github:JoaoPaulo-creator:first-steps-golang</id>
-  <published>2023-05-13T01:56:19Z</published>
-  <updated>2023-05-13T01:56:19Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>zhanglt: nvdbtools</title>
-  <author>
-   <name>zhanglt</name>
-  </author>
-  <link href="https://github.com/zhanglt/nvdbtools" />
-  <id>urn:rprimus:github:zhanglt:nvdbtools</id>
-  <published>2023-05-13T01:27:55Z</published>
-  <updated>2023-05-13T01:27:55Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>pandasoli: colorstrings</title>
-  <author>
-   <name>pandasoli</name>
-  </author>
-  <link href="https://github.com/pandasoli/colorstrings" />
-  <id>urn:rprimus:github:pandasoli:colorstrings</id>
-  <published>2023-05-13T01:18:46Z</published>
-  <updated>2023-05-13T01:18:46Z</updated>
-  <content type="html">
-   The better way to manage string with colors ð¨ð¦«
-  </content>
- </entry>
- <entry>
   <title>ejacobg: kv</title>
   <author>
    <name>ejacobg</name>
@@ -314,32 +353,6 @@
   <updated>2023-05-13T00:36:23Z</updated>
   <content type="html">
    Provides several implementations of a key-value store to illustrate testing in Go.
-  </content>
- </entry>
- <entry>
-  <title>meditux27: hello_git</title>
-  <author>
-   <name>meditux27</name>
-  </author>
-  <link href="https://github.com/meditux27/hello_git" />
-  <id>urn:rprimus:github:meditux27:hello_git</id>
-  <published>2023-05-13T00:26:43Z</published>
-  <updated>2023-05-13T00:26:43Z</updated>
-  <content type="html">
-   Pruebas para subir archivos a git 
-  </content>
- </entry>
- <entry>
-  <title>go-hl: jwt</title>
-  <author>
-   <name>go-hl</name>
-  </author>
-  <link href="https://github.com/go-hl/jwt" />
-  <id>urn:rprimus:github:go-hl:jwt</id>
-  <published>2023-05-13T00:22:45Z</published>
-  <updated>2023-05-13T00:22:45Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
  <entry>
@@ -377,19 +390,6 @@
   <id>urn:rprimus:github:Petarda-Atomica:unofficial_yts_API</id>
   <published>2023-05-13T00:10:14Z</published>
   <updated>2023-05-13T00:10:14Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>medivh13: books</title>
-  <author>
-   <name>medivh13</name>
-  </author>
-  <link href="https://github.com/medivh13/books" />
-  <id>urn:rprimus:github:medivh13:books</id>
-  <published>2023-05-13T00:06:19Z</published>
-  <updated>2023-05-13T00:06:19Z</updated>
   <content type="html">
    
   </content>
@@ -499,6 +499,19 @@
   </content>
  </entry>
  <entry>
+  <title>LeakIX: wpfinger</title>
+  <author>
+   <name>LeakIX</name>
+  </author>
+  <link href="https://github.com/LeakIX/wpfinger" />
+  <id>urn:rprimus:github:LeakIX:wpfinger</id>
+  <published>2023-05-12T16:09:18Z</published>
+  <updated>2023-05-12T16:09:18Z</updated>
+  <content type="html">
+   wpfinger is a red-team WordPress scanning tool
+  </content>
+ </entry>
+ <entry>
   <title>guessi: eks-ami-finder</title>
   <author>
    <name>guessi</name>
@@ -587,19 +600,6 @@
   <updated>2023-05-12T13:38:34Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>Umbreik: Discorify</title>
-  <author>
-   <name>Umbreik</name>
-  </author>
-  <link href="https://github.com/Umbreik/Discorify" />
-  <id>urn:rprimus:github:Umbreik:Discorify</id>
-  <published>2023-05-12T13:36:18Z</published>
-  <updated>2023-05-12T13:36:18Z</updated>
-  <content type="html">
-   Discord channel content regulator.
   </content>
  </entry>
  <entry>
@@ -876,6 +876,19 @@
   </content>
  </entry>
  <entry>
+  <title>firtman: go-fundamentals</title>
+  <author>
+   <name>firtman</name>
+  </author>
+  <link href="https://github.com/firtman/go-fundamentals" />
+  <id>urn:rprimus:github:firtman:go-fundamentals</id>
+  <published>2023-05-11T15:48:59Z</published>
+  <updated>2023-05-11T15:48:59Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
   <title>joeirimpan: kaf-relay</title>
   <author>
    <name>joeirimpan</name>
@@ -899,19 +912,6 @@
   <updated>2023-05-11T15:18:36Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>iFANGXIE: GoFender</title>
-  <author>
-   <name>iFANGXIE</name>
-  </author>
-  <link href="https://github.com/iFANGXIE/GoFender" />
-  <id>urn:rprimus:github:iFANGXIE:GoFender</id>
-  <published>2023-05-11T14:17:56Z</published>
-  <updated>2023-05-11T14:17:56Z</updated>
-  <content type="html">
-   A minimalist NIDS based on Go and embedded with deep learning
   </content>
  </entry>
  <entry>
@@ -980,14 +980,14 @@
   </content>
  </entry>
  <entry>
-  <title>qiling1999: go_template_practice</title>
+  <title>HuangLab-SYSU: block-emulator</title>
   <author>
-   <name>qiling1999</name>
+   <name>HuangLab-SYSU</name>
   </author>
-  <link href="https://github.com/qiling1999/go_template_practice" />
-  <id>urn:rprimus:github:qiling1999:go_template_practice</id>
-  <published>2023-05-11T08:11:45Z</published>
-  <updated>2023-05-11T08:11:45Z</updated>
+  <link href="https://github.com/HuangLab-SYSU/block-emulator" />
+  <id>urn:rprimus:github:HuangLab-SYSU:block-emulator</id>
+  <published>2023-05-11T08:18:08Z</published>
+  <updated>2023-05-11T08:18:08Z</updated>
   <content type="html">
    
   </content>
@@ -1003,6 +1003,19 @@
   <updated>2023-05-11T07:34:20Z</updated>
   <content type="html">
    Simple script which can act like a middleware to save your a** on &quot;kubectl delete ...&quot; command
+  </content>
+ </entry>
+ <entry>
+  <title>gamemann: Go-Spawn-And-Output-Logs-From-Process</title>
+  <author>
+   <name>gamemann</name>
+  </author>
+  <link href="https://github.com/gamemann/Go-Spawn-And-Output-Logs-From-Process" />
+  <id>urn:rprimus:github:gamemann:Go-Spawn-And-Output-Logs-From-Process</id>
+  <published>2023-05-11T06:11:42Z</published>
+  <updated>2023-05-11T06:11:42Z</updated>
+  <content type="html">
+   This repository shows how to spawn processes within a Go program and output their stdout and stderr pipes to a log file!
   </content>
  </entry>
  <entry>
@@ -1159,19 +1172,6 @@
   <updated>2023-05-11T01:16:03Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>jspruance: hello-world-go</title>
-  <author>
-   <name>jspruance</name>
-  </author>
-  <link href="https://github.com/jspruance/hello-world-go" />
-  <id>urn:rprimus:github:jspruance:hello-world-go</id>
-  <published>2023-05-11T00:29:18Z</published>
-  <updated>2023-05-11T00:29:18Z</updated>
-  <content type="html">
-   Sample Go app for Dome.
   </content>
  </entry>
 </feed>
