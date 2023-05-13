@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2023-05-12T11:42:59Z</updated>
+<updated>2023-05-13T05:47:41Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>AvinashLikesToLearnNewStuff: my-emacs-config</title>
+  <author>
+   <name>AvinashLikesToLearnNewStuff</name>
+  </author>
+  <link href="https://github.com/AvinashLikesToLearnNewStuff/my-emacs-config" />
+  <id>urn:rprimus:github:AvinashLikesToLearnNewStuff:my-emacs-config</id>
+  <published>2023-05-13T05:47:41Z</published>
+  <updated>2023-05-13T05:47:41Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Cj-bc: misskey.el</title>
+  <author>
+   <name>Cj-bc</name>
+  </author>
+  <link href="https://github.com/Cj-bc/misskey.el" />
+  <id>urn:rprimus:github:Cj-bc:misskey.el</id>
+  <published>2023-05-13T00:34:03Z</published>
+  <updated>2023-05-13T00:34:03Z</updated>
+  <content type="html">
+   misskey API library for elisp
+  </content>
+ </entry>
+ <entry>
+  <title>kaorahi: howm</title>
+  <author>
+   <name>kaorahi</name>
+  </author>
+  <link href="https://github.com/kaorahi/howm" />
+  <id>urn:rprimus:github:kaorahi:howm</id>
+  <published>2023-05-12T22:33:35Z</published>
+  <updated>2023-05-12T22:33:35Z</updated>
+  <content type="html">
+   note-taking tool on Emacs
+  </content>
+ </entry>
+ <entry>
+  <title>samkhn: .emacs.d</title>
+  <author>
+   <name>samkhn</name>
+  </author>
+  <link href="https://github.com/samkhn/.emacs.d" />
+  <id>urn:rprimus:github:samkhn:.emacs.d</id>
+  <published>2023-05-12T21:59:28Z</published>
+  <updated>2023-05-12T21:59:28Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Sean-Ferguson: emacs-no-package-manager</title>
+  <author>
+   <name>Sean-Ferguson</name>
+  </author>
+  <link href="https://github.com/Sean-Ferguson/emacs-no-package-manager" />
+  <id>urn:rprimus:github:Sean-Ferguson:emacs-no-package-manager</id>
+  <published>2023-05-12T19:05:20Z</published>
+  <updated>2023-05-12T19:05:20Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>akamphon: .emacs.d</title>
+  <author>
+   <name>akamphon</name>
+  </author>
+  <link href="https://github.com/akamphon/.emacs.d" />
+  <id>urn:rprimus:github:akamphon:.emacs.d</id>
+  <published>2023-05-12T18:46:08Z</published>
+  <updated>2023-05-12T18:46:08Z</updated>
+  <content type="html">
+   Personal Emacs Config
+  </content>
+ </entry>
  <entry>
   <title>joaotavora: breadcrumb</title>
   <author>
@@ -170,176 +248,7 @@
   <published>2023-05-11T00:06:36Z</published>
   <updated>2023-05-11T00:06:36Z</updated>
   <content type="html">
-   Mirror of the urgrep package from GNU ELPA, current as of 2023-05-12
-  </content>
- </entry>
- <entry>
-  <title>CS-Schmidt: .doom.d</title>
-  <author>
-   <name>CS-Schmidt</name>
-  </author>
-  <link href="https://github.com/CS-Schmidt/.doom.d" />
-  <id>urn:rprimus:github:CS-Schmidt:.doom.d</id>
-  <published>2023-05-10T19:10:16Z</published>
-  <updated>2023-05-10T19:10:16Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>s-surineni: doom</title>
-  <author>
-   <name>s-surineni</name>
-  </author>
-  <link href="https://github.com/s-surineni/doom" />
-  <id>urn:rprimus:github:s-surineni:doom</id>
-  <published>2023-05-10T15:35:55Z</published>
-  <updated>2023-05-10T15:35:55Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ddegr: doom-config</title>
-  <author>
-   <name>ddegr</name>
-  </author>
-  <link href="https://github.com/ddegr/doom-config" />
-  <id>urn:rprimus:github:ddegr:doom-config</id>
-  <published>2023-05-10T14:23:26Z</published>
-  <updated>2023-05-10T14:23:26Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>hubisan: emacs-lisp-package-template</title>
-  <author>
-   <name>hubisan</name>
-  </author>
-  <link href="https://github.com/hubisan/emacs-lisp-package-template" />
-  <id>urn:rprimus:github:hubisan:emacs-lisp-package-template</id>
-  <published>2023-05-10T12:48:21Z</published>
-  <updated>2023-05-10T12:48:21Z</updated>
-  <content type="html">
-   A template to write your own package for Emacs
-  </content>
- </entry>
- <entry>
-  <title>pkulev: magit-remote-link.el</title>
-  <author>
-   <name>pkulev</name>
-  </author>
-  <link href="https://github.com/pkulev/magit-remote-link.el" />
-  <id>urn:rprimus:github:pkulev:magit-remote-link.el</id>
-  <published>2023-05-10T12:40:00Z</published>
-  <updated>2023-05-10T12:40:00Z</updated>
-  <content type="html">
-   Copy remote URL to a line or even a code region in project with a single command!
-  </content>
- </entry>
- <entry>
-  <title>wendelscardua: nesfab-mode</title>
-  <author>
-   <name>wendelscardua</name>
-  </author>
-  <link href="https://github.com/wendelscardua/nesfab-mode" />
-  <id>urn:rprimus:github:wendelscardua:nesfab-mode</id>
-  <published>2023-05-10T11:53:56Z</published>
-  <updated>2023-05-10T11:53:56Z</updated>
-  <content type="html">
-   NESFab major mode for Emacs
-  </content>
- </entry>
- <entry>
-  <title>daanturo: starhugger.el</title>
-  <author>
-   <name>daanturo</name>
-  </author>
-  <link href="https://github.com/daanturo/starhugger.el" />
-  <id>urn:rprimus:github:daanturo:starhugger.el</id>
-  <published>2023-05-10T09:48:53Z</published>
-  <updated>2023-05-10T09:48:53Z</updated>
-  <content type="html">
-   Bigcode/Starcoder integration for Emacs, primary repo: https://gitlab.com/daanturo/starhugger.el.
-  </content>
- </entry>
- <entry>
-  <title>XuegongLab: NeoHunter</title>
-  <author>
-   <name>XuegongLab</name>
-  </author>
-  <link href="https://github.com/XuegongLab/NeoHunter" />
-  <id>urn:rprimus:github:XuegongLab:NeoHunter</id>
-  <published>2023-05-10T04:33:01Z</published>
-  <updated>2023-05-10T04:33:01Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>lcscosta: .doom.d</title>
-  <author>
-   <name>lcscosta</name>
-  </author>
-  <link href="https://github.com/lcscosta/.doom.d" />
-  <id>urn:rprimus:github:lcscosta:.doom.d</id>
-  <published>2023-05-10T02:14:12Z</published>
-  <updated>2023-05-10T02:14:12Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>leira: exercism</title>
-  <author>
-   <name>leira</name>
-  </author>
-  <link href="https://github.com/leira/exercism" />
-  <id>urn:rprimus:github:leira:exercism</id>
-  <published>2023-05-10T00:41:15Z</published>
-  <updated>2023-05-10T00:41:15Z</updated>
-  <content type="html">
-   My exercism solutions.
-  </content>
- </entry>
- <entry>
-  <title>IntDoctor: emacs-config</title>
-  <author>
-   <name>IntDoctor</name>
-  </author>
-  <link href="https://github.com/IntDoctor/emacs-config" />
-  <id>urn:rprimus:github:IntDoctor:emacs-config</id>
-  <published>2023-05-10T00:14:03Z</published>
-  <updated>2023-05-10T00:14:03Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>emacs-straight: url-http-oauth-demo</title>
-  <author>
-   <name>emacs-straight</name>
-  </author>
-  <link href="https://github.com/emacs-straight/url-http-oauth-demo" />
-  <id>urn:rprimus:github:emacs-straight:url-http-oauth-demo</id>
-  <published>2023-05-10T00:07:24Z</published>
-  <updated>2023-05-10T00:07:24Z</updated>
-  <content type="html">
-   Mirror of the url-http-oauth-demo package from GNU ELPA, current as of 2023-05-10
-  </content>
- </entry>
- <entry>
-  <title>emacs-straight: url-http-oauth</title>
-  <author>
-   <name>emacs-straight</name>
-  </author>
-  <link href="https://github.com/emacs-straight/url-http-oauth" />
-  <id>urn:rprimus:github:emacs-straight:url-http-oauth</id>
-  <published>2023-05-10T00:07:22Z</published>
-  <updated>2023-05-10T00:07:22Z</updated>
-  <content type="html">
-   Mirror of the url-http-oauth package from GNU ELPA, current as of 2023-05-12
+   Mirror of the urgrep package from GNU ELPA, current as of 2023-05-13
   </content>
  </entry>
 </feed>

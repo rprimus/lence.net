@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2023-05-12T04:13:55Z</updated>
+<updated>2023-05-13T05:28:08Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>s-ariga: colormapgen</title>
+  <author>
+   <name>s-ariga</name>
+  </author>
+  <link href="https://github.com/s-ariga/colormapgen" />
+  <id>urn:rprimus:github:s-ariga:colormapgen</id>
+  <published>2023-05-13T05:28:08Z</published>
+  <updated>2023-05-13T05:28:08Z</updated>
+  <content type="html">
+   Color map file generator for Nim
+  </content>
+ </entry>
+ <entry>
+  <title>kinkinkijkin: al_cirila-v1</title>
+  <author>
+   <name>kinkinkijkin</name>
+  </author>
+  <link href="https://github.com/kinkinkijkin/al_cirila-v1" />
+  <id>urn:rprimus:github:kinkinkijkin:al_cirila-v1</id>
+  <published>2023-05-12T23:16:49Z</published>
+  <updated>2023-05-12T23:16:49Z</updated>
+  <content type="html">
+   Transliterumilo de latina esperanto al cirila esperanto
+  </content>
+ </entry>
+ <entry>
+  <title>jswinss: Obfuscated-Nim-Reverse-Shell</title>
+  <author>
+   <name>jswinss</name>
+  </author>
+  <link href="https://github.com/jswinss/Obfuscated-Nim-Reverse-Shell" />
+  <id>urn:rprimus:github:jswinss:Obfuscated-Nim-Reverse-Shell</id>
+  <published>2023-05-12T23:05:04Z</published>
+  <updated>2023-05-12T23:05:04Z</updated>
+  <content type="html">
+   Obfuscated Nim Reverse Shell. Bypasses Windows Defender, and I mean completely laughs at it. 
+  </content>
+ </entry>
  <entry>
   <title>nmarzagao: simple-nim-tools</title>
   <author>
@@ -44,6 +83,19 @@
   </content>
  </entry>
  <entry>
+  <title>Kaynato: klein</title>
+  <author>
+   <name>Kaynato</name>
+  </author>
+  <link href="https://github.com/Kaynato/klein" />
+  <id>urn:rprimus:github:Kaynato:klein</id>
+  <published>2023-05-11T20:16:52Z</published>
+  <updated>2023-05-11T20:16:52Z</updated>
+  <content type="html">
+   Nim port of https://github.com/jeremyong/klein
+  </content>
+ </entry>
+ <entry>
   <title>mapogolions: rwlock-sync-primitive</title>
   <author>
    <name>mapogolions</name>
@@ -54,84 +106,6 @@
   <updated>2023-05-11T17:57:32Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>BundleFeed: nim-varint</title>
-  <author>
-   <name>BundleFeed</name>
-  </author>
-  <link href="https://github.com/BundleFeed/nim-varint" />
-  <id>urn:rprimus:github:BundleFeed:nim-varint</id>
-  <published>2023-05-10T11:28:20Z</published>
-  <updated>2023-05-10T11:28:20Z</updated>
-  <content type="html">
-   varint encoding functions
-  </content>
- </entry>
- <entry>
-  <title>BundleFeed: nim-sqlite3-up</title>
-  <author>
-   <name>BundleFeed</name>
-  </author>
-  <link href="https://github.com/BundleFeed/nim-sqlite3-up" />
-  <id>urn:rprimus:github:BundleFeed:nim-sqlite3-up</id>
-  <published>2023-05-10T11:21:55Z</published>
-  <updated>2023-05-10T11:21:55Z</updated>
-  <content type="html">
-   High level api to work with SQLite3 db
-  </content>
- </entry>
- <entry>
-  <title>xTrayambak: ferus</title>
-  <author>
-   <name>xTrayambak</name>
-  </author>
-  <link href="https://github.com/xTrayambak/ferus" />
-  <id>urn:rprimus:github:xTrayambak:ferus</id>
-  <published>2023-05-10T10:10:16Z</published>
-  <updated>2023-05-10T10:10:16Z</updated>
-  <content type="html">
-   A toy web engine written in Nim
-  </content>
- </entry>
- <entry>
-  <title>avahe-kellenberger: safeseq</title>
-  <author>
-   <name>avahe-kellenberger</name>
-  </author>
-  <link href="https://github.com/avahe-kellenberger/safeseq" />
-  <id>urn:rprimus:github:avahe-kellenberger:safeseq</id>
-  <published>2023-05-10T07:54:09Z</published>
-  <updated>2023-05-10T07:54:09Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>MrMaruf: tryout-nim</title>
-  <author>
-   <name>MrMaruf</name>
-  </author>
-  <link href="https://github.com/MrMaruf/tryout-nim" />
-  <id>urn:rprimus:github:MrMaruf:tryout-nim</id>
-  <published>2023-05-10T06:19:49Z</published>
-  <updated>2023-05-10T06:19:49Z</updated>
-  <content type="html">
-   Playing around with nim programming language
-  </content>
- </entry>
- <entry>
-  <title>daylinmorgan: tsm</title>
-  <author>
-   <name>daylinmorgan</name>
-  </author>
-  <link href="https://github.com/daylinmorgan/tsm" />
-  <id>urn:rprimus:github:daylinmorgan:tsm</id>
-  <published>2023-05-10T05:27:17Z</published>
-  <updated>2023-05-10T05:27:17Z</updated>
-  <content type="html">
-   tmux session manager
   </content>
  </entry>
 </feed>
