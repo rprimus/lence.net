@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2023-05-16T07:18:59Z</updated>
+<updated>2023-05-17T05:03:22Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>opensource-force: snake</title>
+  <author>
+   <name>opensource-force</name>
+  </author>
+  <link href="https://github.com/opensource-force/snake" />
+  <id>urn:rprimus:github:opensource-force:snake</id>
+  <published>2023-05-17T05:03:22Z</published>
+  <updated>2023-05-17T05:03:22Z</updated>
+  <content type="html">
+   A super minimal classic snake implementation written in Nim
+  </content>
+ </entry>
+ <entry>
+  <title>gogolxdong: arks-backend</title>
+  <author>
+   <name>gogolxdong</name>
+  </author>
+  <link href="https://github.com/gogolxdong/arks-backend" />
+  <id>urn:rprimus:github:gogolxdong:arks-backend</id>
+  <published>2023-05-17T02:32:56Z</published>
+  <updated>2023-05-17T02:32:56Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>jcalendo: ChatApp</title>
+  <author>
+   <name>jcalendo</name>
+  </author>
+  <link href="https://github.com/jcalendo/ChatApp" />
+  <id>urn:rprimus:github:jcalendo:ChatApp</id>
+  <published>2023-05-17T01:19:36Z</published>
+  <updated>2023-05-17T01:19:36Z</updated>
+  <content type="html">
+   A simple chat app built in Nim
+  </content>
+ </entry>
+ <entry>
+  <title>Nimberite-Development: Trigger-Nim</title>
+  <author>
+   <name>Nimberite-Development</name>
+  </author>
+  <link href="https://github.com/Nimberite-Development/Trigger-Nim" />
+  <id>urn:rprimus:github:Nimberite-Development:Trigger-Nim</id>
+  <published>2023-05-16T20:11:33Z</published>
+  <updated>2023-05-16T20:11:33Z</updated>
+  <content type="html">
+   A basic event system implementation for Nim using no macro magic or syntax sugar!
+  </content>
+ </entry>
+ <entry>
+  <title>status-im: sha256_64B</title>
+  <author>
+   <name>status-im</name>
+  </author>
+  <link href="https://github.com/status-im/sha256_64B" />
+  <id>urn:rprimus:github:status-im:sha256_64B</id>
+  <published>2023-05-16T12:56:40Z</published>
+  <updated>2023-05-16T12:56:40Z</updated>
+  <content type="html">
+   sha256 hash of batches of 64B blocks in parallel via pure asm hashtree
+  </content>
+ </entry>
  <entry>
   <title>mattdw: loxnim</title>
   <author>
@@ -80,32 +145,6 @@
   <updated>2023-05-15T10:21:57Z</updated>
   <content type="html">
    Component system and UI kit for Karax
-  </content>
- </entry>
- <entry>
-  <title>alkotobi: NimQt_NEW</title>
-  <author>
-   <name>alkotobi</name>
-  </author>
-  <link href="https://github.com/alkotobi/NimQt_NEW" />
-  <id>urn:rprimus:github:alkotobi:NimQt_NEW</id>
-  <published>2023-05-14T18:13:35Z</published>
-  <updated>2023-05-14T18:13:35Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Araq: malebolgia</title>
-  <author>
-   <name>Araq</name>
-  </author>
-  <link href="https://github.com/Araq/malebolgia" />
-  <id>urn:rprimus:github:Araq:malebolgia</id>
-  <published>2023-05-14T16:25:16Z</published>
-  <updated>2023-05-14T16:25:16Z</updated>
-  <content type="html">
-   Malebolgia creates new spawns. Experiments with thread pools and related APIs.
   </content>
  </entry>
 </feed>
