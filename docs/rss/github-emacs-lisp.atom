@@ -2,8 +2,125 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2023-05-17T04:42:16Z</updated>
+<updated>2023-05-18T03:58:55Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>erjoalgo: selcand</title>
+  <author>
+   <name>erjoalgo</name>
+  </author>
+  <link href="https://github.com/erjoalgo/selcand" />
+  <id>urn:rprimus:github:erjoalgo:selcand</id>
+  <published>2023-05-18T03:58:55Z</published>
+  <updated>2023-05-18T03:58:55Z</updated>
+  <content type="html">
+   A vimium-like emacs lisp utility for ergonomically selecting a lisp object by navigating a tree of hint characters.
+  </content>
+ </entry>
+ <entry>
+  <title>TheArt3mis: dotfiles</title>
+  <author>
+   <name>TheArt3mis</name>
+  </author>
+  <link href="https://github.com/TheArt3mis/dotfiles" />
+  <id>urn:rprimus:github:TheArt3mis:dotfiles</id>
+  <published>2023-05-18T03:43:27Z</published>
+  <updated>2023-05-18T03:43:27Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Shavvey: doom-config</title>
+  <author>
+   <name>Shavvey</name>
+  </author>
+  <link href="https://github.com/Shavvey/doom-config" />
+  <id>urn:rprimus:github:Shavvey:doom-config</id>
+  <published>2023-05-18T02:24:46Z</published>
+  <updated>2023-05-18T02:24:46Z</updated>
+  <content type="html">
+   Doom configuration for posterity... i guess?
+  </content>
+ </entry>
+ <entry>
+  <title>kalashnikov66p: .emacs.d</title>
+  <author>
+   <name>kalashnikov66p</name>
+  </author>
+  <link href="https://github.com/kalashnikov66p/.emacs.d" />
+  <id>urn:rprimus:github:kalashnikov66p:.emacs.d</id>
+  <published>2023-05-18T02:09:49Z</published>
+  <updated>2023-05-18T02:09:49Z</updated>
+  <content type="html">
+   My Emacs configuration files
+  </content>
+ </entry>
+ <entry>
+  <title>sumadithya: .emacs.d</title>
+  <author>
+   <name>sumadithya</name>
+  </author>
+  <link href="https://github.com/sumadithya/.emacs.d" />
+  <id>urn:rprimus:github:sumadithya:.emacs.d</id>
+  <published>2023-05-17T21:21:38Z</published>
+  <updated>2023-05-17T21:21:38Z</updated>
+  <content type="html">
+   My personal emacs config.
+  </content>
+ </entry>
+ <entry>
+  <title>sakaloner: dotfiles</title>
+  <author>
+   <name>sakaloner</name>
+  </author>
+  <link href="https://github.com/sakaloner/dotfiles" />
+  <id>urn:rprimus:github:sakaloner:dotfiles</id>
+  <published>2023-05-17T21:06:18Z</published>
+  <updated>2023-05-17T21:06:18Z</updated>
+  <content type="html">
+   configuration files 
+  </content>
+ </entry>
+ <entry>
+  <title>pprobst: yukimacs-doom</title>
+  <author>
+   <name>pprobst</name>
+  </author>
+  <link href="https://github.com/pprobst/yukimacs-doom" />
+  <id>urn:rprimus:github:pprobst:yukimacs-doom</id>
+  <published>2023-05-17T20:34:26Z</published>
+  <updated>2023-05-17T20:34:26Z</updated>
+  <content type="html">
+   Yukimacs, but DOOM. Currently testing.
+  </content>
+ </entry>
+ <entry>
+  <title>jcreedcmu: lean4-docker</title>
+  <author>
+   <name>jcreedcmu</name>
+  </author>
+  <link href="https://github.com/jcreedcmu/lean4-docker" />
+  <id>urn:rprimus:github:jcreedcmu:lean4-docker</id>
+  <published>2023-05-17T17:47:12Z</published>
+  <updated>2023-05-17T17:47:12Z</updated>
+  <content type="html">
+   A small Dockerfile to allow working on a particular lean4 development inside emacs inside a docker container
+  </content>
+ </entry>
+ <entry>
+  <title>csinkers: pathtools</title>
+  <author>
+   <name>csinkers</name>
+  </author>
+  <link href="https://github.com/csinkers/pathtools" />
+  <id>urn:rprimus:github:csinkers:pathtools</id>
+  <published>2023-05-17T16:24:40Z</published>
+  <updated>2023-05-17T16:24:40Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>toasted-cornkernels: scribble.el</title>
   <author>
@@ -15,19 +132,6 @@
   <updated>2023-05-17T04:42:16Z</updated>
   <content type="html">
    Redistribution of `scribble.el`, originally by Neil Van Dyke
-  </content>
- </entry>
- <entry>
-  <title>srrrp: dotfiles</title>
-  <author>
-   <name>srrrp</name>
-  </author>
-  <link href="https://github.com/srrrp/dotfiles" />
-  <id>urn:rprimus:github:srrrp:dotfiles</id>
-  <published>2023-05-17T04:22:57Z</published>
-  <updated>2023-05-17T04:22:57Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
  <entry>
@@ -187,19 +291,6 @@
   </content>
  </entry>
  <entry>
-  <title>thefenriswolf: dot</title>
-  <author>
-   <name>thefenriswolf</name>
-  </author>
-  <link href="https://github.com/thefenriswolf/dot" />
-  <id>urn:rprimus:github:thefenriswolf:dot</id>
-  <published>2023-05-16T07:41:53Z</published>
-  <updated>2023-05-16T07:41:53Z</updated>
-  <content type="html">
-   new dotfiles managed by chezmoi
-  </content>
- </entry>
- <entry>
   <title>ypcodes: doom-config</title>
   <author>
    <name>ypcodes</name>
@@ -275,240 +366,6 @@
   <updated>2023-05-16T01:36:05Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>kanielv: archlinux-dotfiles</title>
-  <author>
-   <name>kanielv</name>
-  </author>
-  <link href="https://github.com/kanielv/archlinux-dotfiles" />
-  <id>urn:rprimus:github:kanielv:archlinux-dotfiles</id>
-  <published>2023-05-15T23:46:41Z</published>
-  <updated>2023-05-15T23:46:41Z</updated>
-  <content type="html">
-   Dotfiles for Archlinux setup
-  </content>
- </entry>
- <entry>
-  <title>vsvwir: dotfiles-obsd-cwm</title>
-  <author>
-   <name>vsvwir</name>
-  </author>
-  <link href="https://github.com/vsvwir/dotfiles-obsd-cwm" />
-  <id>urn:rprimus:github:vsvwir:dotfiles-obsd-cwm</id>
-  <published>2023-05-15T22:58:41Z</published>
-  <updated>2023-05-15T22:58:41Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>dmgerman: web-video</title>
-  <author>
-   <name>dmgerman</name>
-  </author>
-  <link href="https://github.com/dmgerman/web-video" />
-  <id>urn:rprimus:github:dmgerman:web-video</id>
-  <published>2023-05-15T22:27:46Z</published>
-  <updated>2023-05-15T22:27:46Z</updated>
-  <content type="html">
-   functions to interact with video in web browser
-  </content>
- </entry>
- <entry>
-  <title>fritzgrabo: elfeed-webkit</title>
-  <author>
-   <name>fritzgrabo</name>
-  </author>
-  <link href="https://github.com/fritzgrabo/elfeed-webkit" />
-  <id>urn:rprimus:github:fritzgrabo:elfeed-webkit</id>
-  <published>2023-05-15T21:15:55Z</published>
-  <updated>2023-05-15T21:15:55Z</updated>
-  <content type="html">
-   Emacs: Render elfeed entries in embedded webkit widgets
-  </content>
- </entry>
- <entry>
-  <title>johnstonskj: emacs-sdml-mode</title>
-  <author>
-   <name>johnstonskj</name>
-  </author>
-  <link href="https://github.com/johnstonskj/emacs-sdml-mode" />
-  <id>urn:rprimus:github:johnstonskj:emacs-sdml-mode</id>
-  <published>2023-05-15T20:19:20Z</published>
-  <updated>2023-05-15T20:19:20Z</updated>
-  <content type="html">
-   SDML major mode for Emacs
-  </content>
- </entry>
- <entry>
-  <title>chrisbouchard: rtx-env</title>
-  <author>
-   <name>chrisbouchard</name>
-  </author>
-  <link href="https://github.com/chrisbouchard/rtx-env" />
-  <id>urn:rprimus:github:chrisbouchard:rtx-env</id>
-  <published>2023-05-15T14:33:43Z</published>
-  <updated>2023-05-15T14:33:43Z</updated>
-  <content type="html">
-   rtx environment management for Emacs
-  </content>
- </entry>
- <entry>
-  <title>qxxt: emacs.d</title>
-  <author>
-   <name>qxxt</name>
-  </author>
-  <link href="https://github.com/qxxt/emacs.d" />
-  <id>urn:rprimus:github:qxxt:emacs.d</id>
-  <published>2023-05-15T14:23:30Z</published>
-  <updated>2023-05-15T14:23:30Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Iacob: mame.el-tools</title>
-  <author>
-   <name>Iacob</name>
-  </author>
-  <link href="https://github.com/Iacob/mame.el-tools" />
-  <id>urn:rprimus:github:Iacob:mame.el-tools</id>
-  <published>2023-05-15T13:11:42Z</published>
-  <updated>2023-05-15T13:11:42Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Rompicapo: MyEvilEmacs</title>
-  <author>
-   <name>Rompicapo</name>
-  </author>
-  <link href="https://github.com/Rompicapo/MyEvilEmacs" />
-  <id>urn:rprimus:github:Rompicapo:MyEvilEmacs</id>
-  <published>2023-05-15T12:53:32Z</published>
-  <updated>2023-05-15T12:53:32Z</updated>
-  <content type="html">
-   My build of Emacs with Evil binding 
-  </content>
- </entry>
- <entry>
-  <title>fingerknight: .emacs.d</title>
-  <author>
-   <name>fingerknight</name>
-  </author>
-  <link href="https://github.com/fingerknight/.emacs.d" />
-  <id>urn:rprimus:github:fingerknight:.emacs.d</id>
-  <published>2023-05-15T10:24:51Z</published>
-  <updated>2023-05-15T10:24:51Z</updated>
-  <content type="html">
-   Personal Emacs settings.
-  </content>
- </entry>
- <entry>
-  <title>lapinin: harmonizer</title>
-  <author>
-   <name>lapinin</name>
-  </author>
-  <link href="https://github.com/lapinin/harmonizer" />
-  <id>urn:rprimus:github:lapinin:harmonizer</id>
-  <published>2023-05-15T10:12:05Z</published>
-  <updated>2023-05-15T10:12:05Z</updated>
-  <content type="html">
-   ~/
-  </content>
- </entry>
- <entry>
-  <title>vogdan: emacs-config</title>
-  <author>
-   <name>vogdan</name>
-  </author>
-  <link href="https://github.com/vogdan/emacs-config" />
-  <id>urn:rprimus:github:vogdan:emacs-config</id>
-  <published>2023-05-15T09:59:19Z</published>
-  <updated>2023-05-15T09:59:19Z</updated>
-  <content type="html">
-   Emacs config file and howto
-  </content>
- </entry>
- <entry>
-  <title>lazzalazza: org-footnote-assistant</title>
-  <author>
-   <name>lazzalazza</name>
-  </author>
-  <link href="https://github.com/lazzalazza/org-footnote-assistant" />
-  <id>urn:rprimus:github:lazzalazza:org-footnote-assistant</id>
-  <published>2023-05-15T09:51:43Z</published>
-  <updated>2023-05-15T09:51:43Z</updated>
-  <content type="html">
-   A minor mode for editing and browsing org-footnotes from a sidebar
-  </content>
- </entry>
- <entry>
-  <title>KenMercusLai: beorged</title>
-  <author>
-   <name>KenMercusLai</name>
-  </author>
-  <link href="https://github.com/KenMercusLai/beorged" />
-  <id>urn:rprimus:github:KenMercusLai:beorged</id>
-  <published>2023-05-15T08:01:41Z</published>
-  <updated>2023-05-15T08:01:41Z</updated>
-  <content type="html">
-   Simplified Orgmode Configuration for Emacs
-  </content>
- </entry>
- <entry>
-  <title>suatkarakusoglu: mobilen</title>
-  <author>
-   <name>suatkarakusoglu</name>
-  </author>
-  <link href="https://github.com/suatkarakusoglu/mobilen" />
-  <id>urn:rprimus:github:suatkarakusoglu:mobilen</id>
-  <published>2023-05-15T07:09:28Z</published>
-  <updated>2023-05-15T07:09:28Z</updated>
-  <content type="html">
-   Mobilen Dergi
-  </content>
- </entry>
- <entry>
-  <title>doolim98: emacs</title>
-  <author>
-   <name>doolim98</name>
-  </author>
-  <link href="https://github.com/doolim98/emacs" />
-  <id>urn:rprimus:github:doolim98:emacs</id>
-  <published>2023-05-15T06:43:01Z</published>
-  <updated>2023-05-15T06:43:01Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ententent: .emacs.d</title>
-  <author>
-   <name>ententent</name>
-  </author>
-  <link href="https://github.com/ententent/.emacs.d" />
-  <id>urn:rprimus:github:ententent:.emacs.d</id>
-  <published>2023-05-15T05:38:22Z</published>
-  <updated>2023-05-15T05:38:22Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>cyq3721: .emacs.d</title>
-  <author>
-   <name>cyq3721</name>
-  </author>
-  <link href="https://github.com/cyq3721/.emacs.d" />
-  <id>urn:rprimus:github:cyq3721:.emacs.d</id>
-  <published>2023-05-15T04:48:55Z</published>
-  <updated>2023-05-15T04:48:55Z</updated>
-  <content type="html">
-   emacs config file
   </content>
  </entry>
 </feed>
