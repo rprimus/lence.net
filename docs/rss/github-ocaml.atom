@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2023-05-19T07:30:20Z</updated>
+<updated>2023-05-19T13:30:44Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>NSXC: CBun</title>
+  <author>
+   <name>NSXC</name>
+  </author>
+  <link href="https://github.com/NSXC/CBun" />
+  <id>urn:rprimus:github:NSXC:CBun</id>
+  <published>2023-05-19T13:30:44Z</published>
+  <updated>2023-05-19T13:30:44Z</updated>
+  <content type="html">
+   CBun preprocessor in Ocaml 
+  </content>
+ </entry>
+ <entry>
+  <title>dinosaure: ada-language-19-05-2023</title>
+  <author>
+   <name>dinosaure</name>
+  </author>
+  <link href="https://github.com/dinosaure/ada-language-19-05-2023" />
+  <id>urn:rprimus:github:dinosaure:ada-language-19-05-2023</id>
+  <published>2023-05-19T10:26:03Z</published>
+  <updated>2023-05-19T10:26:03Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>nogw: higher-rank</title>
   <author>
@@ -66,7 +92,7 @@
   <published>2023-05-19T03:21:09Z</published>
   <updated>2023-05-19T03:21:09Z</updated>
   <content type="html">
-   A strongly typed lisp language intended for use in configuration 
+   A strongly typed functional lisp language with the ownership model from rust
   </content>
  </entry>
  <entry>
