@@ -2,8 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2023-05-20T04:01:07Z</updated>
+<updated>2023-05-21T01:36:38Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>Bintendo42: Single-Cell</title>
+  <author>
+   <name>Bintendo42</name>
+  </author>
+  <link href="https://github.com/Bintendo42/Single-Cell" />
+  <id>urn:rprimus:github:Bintendo42:Single-Cell</id>
+  <published>2023-05-21T01:36:38Z</published>
+  <updated>2023-05-21T01:36:38Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>ImmenseHorse: Lisp-School</title>
+  <author>
+   <name>ImmenseHorse</name>
+  </author>
+  <link href="https://github.com/ImmenseHorse/Lisp-School" />
+  <id>urn:rprimus:github:ImmenseHorse:Lisp-School</id>
+  <published>2023-05-21T00:28:07Z</published>
+  <updated>2023-05-21T00:28:07Z</updated>
+  <content type="html">
+   CPS305
+  </content>
+ </entry>
+ <entry>
+  <title>sven-hluchy: linear-regression</title>
+  <author>
+   <name>sven-hluchy</name>
+  </author>
+  <link href="https://github.com/sven-hluchy/linear-regression" />
+  <id>urn:rprimus:github:sven-hluchy:linear-regression</id>
+  <published>2023-05-20T19:17:03Z</published>
+  <updated>2023-05-20T19:17:03Z</updated>
+  <content type="html">
+   computes the linear regression of a dataset. written in lisp.
+  </content>
+ </entry>
+ <entry>
+  <title>thephoeron: hyperlattice</title>
+  <author>
+   <name>thephoeron</name>
+  </author>
+  <link href="https://github.com/thephoeron/hyperlattice" />
+  <id>urn:rprimus:github:thephoeron:hyperlattice</id>
+  <published>2023-05-20T17:51:31Z</published>
+  <updated>2023-05-20T17:51:31Z</updated>
+  <content type="html">
+   Algebraic Lattice, Hyperlattice, and Probabilistic Hyperlattice data-types for Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>doongjohn: learn-commonlisp</title>
+  <author>
+   <name>doongjohn</name>
+  </author>
+  <link href="https://github.com/doongjohn/learn-commonlisp" />
+  <id>urn:rprimus:github:doongjohn:learn-commonlisp</id>
+  <published>2023-05-20T16:24:29Z</published>
+  <updated>2023-05-20T16:24:29Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>hd2g: aaa</title>
+  <author>
+   <name>hd2g</name>
+  </author>
+  <link href="https://github.com/hd2g/aaa" />
+  <id>urn:rprimus:github:hd2g:aaa</id>
+  <published>2023-05-20T13:46:17Z</published>
+  <updated>2023-05-20T13:46:17Z</updated>
+  <content type="html">
+   aaa
+  </content>
+ </entry>
+ <entry>
+  <title>snmsts: cl-curl</title>
+  <author>
+   <name>snmsts</name>
+  </author>
+  <link href="https://github.com/snmsts/cl-curl" />
+  <id>urn:rprimus:github:snmsts:cl-curl</id>
+  <published>2023-05-20T13:18:03Z</published>
+  <updated>2023-05-20T13:18:03Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>Jobhdez: lispseminar</title>
   <author>
@@ -67,123 +158,6 @@
   <updated>2023-05-19T03:18:46Z</updated>
   <content type="html">
    Various Lisp Projects for Utility Functions
-  </content>
- </entry>
- <entry>
-  <title>aartaka: graven-image</title>
-  <author>
-   <name>aartaka</name>
-  </author>
-  <link href="https://github.com/aartaka/graven-image" />
-  <id>urn:rprimus:github:aartaka:graven-image</id>
-  <published>2023-05-18T21:59:02Z</published>
-  <updated>2023-05-18T21:59:02Z</updated>
-  <content type="html">
-   Common Lisp portability library for better interaction and debugging of a running Lisp image.
-  </content>
- </entry>
- <entry>
-  <title>surfskidude: OnlineIntro</title>
-  <author>
-   <name>surfskidude</name>
-  </author>
-  <link href="https://github.com/surfskidude/OnlineIntro" />
-  <id>urn:rprimus:github:surfskidude:OnlineIntro</id>
-  <published>2023-05-18T20:10:08Z</published>
-  <updated>2023-05-18T20:10:08Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ck46: neuralisp</title>
-  <author>
-   <name>ck46</name>
-  </author>
-  <link href="https://github.com/ck46/neuralisp" />
-  <id>urn:rprimus:github:ck46:neuralisp</id>
-  <published>2023-05-18T16:57:37Z</published>
-  <updated>2023-05-18T16:57:37Z</updated>
-  <content type="html">
-   Neuralisp is a modular machine learning framework for Common Lisp, focused on deep learning models. It offers a high-performance tensor library, various neural network layers, activation functions, optimizers, and loss functions. Designed for rapid model creation, training, and testing across diverse tasks.
-  </content>
- </entry>
- <entry>
-  <title>robert-strandh: Predicament</title>
-  <author>
-   <name>robert-strandh</name>
-  </author>
-  <link href="https://github.com/robert-strandh/Predicament" />
-  <id>urn:rprimus:github:robert-strandh:Predicament</id>
-  <published>2023-05-18T14:57:15Z</published>
-  <updated>2023-05-18T14:57:15Z</updated>
-  <content type="html">
-   Extrinsic and intrinsic package system for Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>pazeshun: cobotta_precise_ik_test</title>
-  <author>
-   <name>pazeshun</name>
-  </author>
-  <link href="https://github.com/pazeshun/cobotta_precise_ik_test" />
-  <id>urn:rprimus:github:pazeshun:cobotta_precise_ik_test</id>
-  <published>2023-05-18T10:18:11Z</published>
-  <updated>2023-05-18T10:18:11Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>mnasoft: gtk-enter-box</title>
-  <author>
-   <name>mnasoft</name>
-  </author>
-  <link href="https://github.com/mnasoft/gtk-enter-box" />
-  <id>urn:rprimus:github:mnasoft:gtk-enter-box</id>
-  <published>2023-05-18T08:09:20Z</published>
-  <updated>2023-05-18T08:09:20Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>mnasoft: mnas-org-mode</title>
-  <author>
-   <name>mnasoft</name>
-  </author>
-  <link href="https://github.com/mnasoft/mnas-org-mode" />
-  <id>urn:rprimus:github:mnasoft:mnas-org-mode</id>
-  <published>2023-05-18T08:07:24Z</published>
-  <updated>2023-05-18T08:07:24Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>mnasoft: mnas-xlsx</title>
-  <author>
-   <name>mnasoft</name>
-  </author>
-  <link href="https://github.com/mnasoft/mnas-xlsx" />
-  <id>urn:rprimus:github:mnasoft:mnas-xlsx</id>
-  <published>2023-05-18T08:03:18Z</published>
-  <updated>2023-05-18T08:03:18Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>fiddlerwoaroof: cl-multis</title>
-  <author>
-   <name>fiddlerwoaroof</name>
-  </author>
-  <link href="https://github.com/fiddlerwoaroof/cl-multis" />
-  <id>urn:rprimus:github:fiddlerwoaroof:cl-multis</id>
-  <published>2023-05-18T00:22:27Z</published>
-  <updated>2023-05-18T00:22:27Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
