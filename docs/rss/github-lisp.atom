@@ -2,8 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2023-05-23T07:57:32Z</updated>
+<updated>2023-05-24T03:22:39Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>Aadv1k: cl-beaver</title>
+  <author>
+   <name>Aadv1k</name>
+  </author>
+  <link href="https://github.com/Aadv1k/cl-beaver" />
+  <id>urn:rprimus:github:Aadv1k:cl-beaver</id>
+  <published>2023-05-24T03:22:39Z</published>
+  <updated>2023-05-24T03:22:39Z</updated>
+  <content type="html">
+   a common lisp library for data analysis and manipulation
+  </content>
+ </entry>
+ <entry>
+  <title>thephoeron: cl-copilot-chat</title>
+  <author>
+   <name>thephoeron</name>
+  </author>
+  <link href="https://github.com/thephoeron/cl-copilot-chat" />
+  <id>urn:rprimus:github:thephoeron:cl-copilot-chat</id>
+  <published>2023-05-23T21:27:39Z</published>
+  <updated>2023-05-23T21:27:39Z</updated>
+  <content type="html">
+   Common Lisp implementation of the Copilot Chat API
+  </content>
+ </entry>
+ <entry>
+  <title>lockie: cookiecutter-lisp-game</title>
+  <author>
+   <name>lockie</name>
+  </author>
+  <link href="https://github.com/lockie/cookiecutter-lisp-game" />
+  <id>urn:rprimus:github:lockie:cookiecutter-lisp-game</id>
+  <published>2023-05-23T18:04:55Z</published>
+  <updated>2023-05-23T18:04:55Z</updated>
+  <content type="html">
+   A cookiecutter template for Common Lisp videogame projects
+  </content>
+ </entry>
+ <entry>
+  <title>mikelevins: triton-noesis</title>
+  <author>
+   <name>mikelevins</name>
+  </author>
+  <link href="https://github.com/mikelevins/triton-noesis" />
+  <id>urn:rprimus:github:mikelevins:triton-noesis</id>
+  <published>2023-05-23T18:02:29Z</published>
+  <updated>2023-05-23T18:02:29Z</updated>
+  <content type="html">
+   information simulation and visualization program
+  </content>
+ </entry>
+ <entry>
+  <title>snmsts: install-lem</title>
+  <author>
+   <name>snmsts</name>
+  </author>
+  <link href="https://github.com/snmsts/install-lem" />
+  <id>urn:rprimus:github:snmsts:install-lem</id>
+  <published>2023-05-23T17:43:36Z</published>
+  <updated>2023-05-23T17:43:36Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>plandes: cl-jsonl</title>
+  <author>
+   <name>plandes</name>
+  </author>
+  <link href="https://github.com/plandes/cl-jsonl" />
+  <id>urn:rprimus:github:plandes:cl-jsonl</id>
+  <published>2023-05-23T15:27:17Z</published>
+  <updated>2023-05-23T15:27:17Z</updated>
+  <content type="html">
+   Efficient JSON File Iteration
+  </content>
+ </entry>
+ <entry>
+  <title>byulparan: cl-glsl</title>
+  <author>
+   <name>byulparan</name>
+  </author>
+  <link href="https://github.com/byulparan/cl-glsl" />
+  <id>urn:rprimus:github:byulparan:cl-glsl</id>
+  <published>2023-05-23T10:43:49Z</published>
+  <updated>2023-05-23T10:43:49Z</updated>
+  <content type="html">
+   translator for Lisp to GLSL
+  </content>
+ </entry>
  <entry>
   <title>aminaDziriexpertise: TA_SDP</title>
   <author>
@@ -28,6 +119,19 @@
   <updated>2023-05-23T07:53:03Z</updated>
   <content type="html">
    Lisp practice programs collection
+  </content>
+ </entry>
+ <entry>
+  <title>yoelmatveyev: pmk</title>
+  <author>
+   <name>yoelmatveyev</name>
+  </author>
+  <link href="https://github.com/yoelmatveyev/pmk" />
+  <id>urn:rprimus:github:yoelmatveyev:pmk</id>
+  <published>2023-05-23T05:42:14Z</published>
+  <updated>2023-05-23T05:42:14Z</updated>
+  <content type="html">
+   Emulator or Soviet programmable calculators and related virtual devices
   </content>
  </entry>
  <entry>
@@ -109,6 +213,19 @@
   </content>
  </entry>
  <entry>
+  <title>metebalci: genera</title>
+  <author>
+   <name>metebalci</name>
+  </author>
+  <link href="https://github.com/metebalci/genera" />
+  <id>urn:rprimus:github:metebalci:genera</id>
+  <published>2023-05-22T09:34:13Z</published>
+  <updated>2023-05-22T09:34:13Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
   <title>CuBeRJAN: not-clos</title>
   <author>
    <name>CuBeRJAN</name>
@@ -119,84 +236,6 @@
   <updated>2023-05-22T01:59:23Z</updated>
   <content type="html">
    Tiny Common Lisp object system
-  </content>
- </entry>
- <entry>
-  <title>allansdefreitas: unsupervised-learning</title>
-  <author>
-   <name>allansdefreitas</name>
-  </author>
-  <link href="https://github.com/allansdefreitas/unsupervised-learning" />
-  <id>urn:rprimus:github:allansdefreitas:unsupervised-learning</id>
-  <published>2023-05-21T21:17:16Z</published>
-  <updated>2023-05-21T21:17:16Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>laDoBlaNco: learning-lisp</title>
-  <author>
-   <name>laDoBlaNco</name>
-  </author>
-  <link href="https://github.com/laDoBlaNco/learning-lisp" />
-  <id>urn:rprimus:github:laDoBlaNco:learning-lisp</id>
-  <published>2023-05-21T17:16:19Z</published>
-  <updated>2023-05-21T17:16:19Z</updated>
-  <content type="html">
-   This repository to have record of these 2 months that I&#039;ve dedicated to deep dive into functional programming  with lisp and Haskell. 
-  </content>
- </entry>
- <entry>
-  <title>pve1: code-names.seed</title>
-  <author>
-   <name>pve1</name>
-  </author>
-  <link href="https://github.com/pve1/code-names.seed" />
-  <id>urn:rprimus:github:pve1:code-names.seed</id>
-  <published>2023-05-21T12:48:12Z</published>
-  <updated>2023-05-21T12:48:12Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>hikettei: cl-waffe2</title>
-  <author>
-   <name>hikettei</name>
-  </author>
-  <link href="https://github.com/hikettei/cl-waffe2" />
-  <id>urn:rprimus:github:hikettei:cl-waffe2</id>
-  <published>2023-05-21T03:24:40Z</published>
-  <updated>2023-05-21T03:24:40Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Bintendo42: Single-Cell</title>
-  <author>
-   <name>Bintendo42</name>
-  </author>
-  <link href="https://github.com/Bintendo42/Single-Cell" />
-  <id>urn:rprimus:github:Bintendo42:Single-Cell</id>
-  <published>2023-05-21T01:36:38Z</published>
-  <updated>2023-05-21T01:36:38Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ImmenseHorse: Lisp-School</title>
-  <author>
-   <name>ImmenseHorse</name>
-  </author>
-  <link href="https://github.com/ImmenseHorse/Lisp-School" />
-  <id>urn:rprimus:github:ImmenseHorse:Lisp-School</id>
-  <published>2023-05-21T00:28:07Z</published>
-  <updated>2023-05-21T00:28:07Z</updated>
-  <content type="html">
-   CPS305
   </content>
  </entry>
 </feed>
