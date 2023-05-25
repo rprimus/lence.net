@@ -2,15 +2,106 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2023-05-24T03:22:39Z</updated>
+<updated>2023-05-25T04:26:53Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
  <entry>
-  <title>Aadv1k: cl-beaver</title>
+  <title>94tx: bsky</title>
+  <author>
+   <name>94tx</name>
+  </author>
+  <link href="https://github.com/94tx/bsky" />
+  <id>urn:rprimus:github:94tx:bsky</id>
+  <published>2023-05-25T04:26:53Z</published>
+  <updated>2023-05-25T04:26:53Z</updated>
+  <content type="html">
+   (work in progress) experiments for the AT protocol
+  </content>
+ </entry>
+ <entry>
+  <title>rlevins: cl-trello</title>
+  <author>
+   <name>rlevins</name>
+  </author>
+  <link href="https://github.com/rlevins/cl-trello" />
+  <id>urn:rprimus:github:rlevins:cl-trello</id>
+  <published>2023-05-24T23:51:54Z</published>
+  <updated>2023-05-24T23:51:54Z</updated>
+  <content type="html">
+   Common Lisp project to interact with Trello Boards and Cards
+  </content>
+ </entry>
+ <entry>
+  <title>rlevins: cl-jira</title>
+  <author>
+   <name>rlevins</name>
+  </author>
+  <link href="https://github.com/rlevins/cl-jira" />
+  <id>urn:rprimus:github:rlevins:cl-jira</id>
+  <published>2023-05-24T23:38:21Z</published>
+  <updated>2023-05-24T23:38:21Z</updated>
+  <content type="html">
+   Common lisp library for communicating with Jira API
+  </content>
+ </entry>
+ <entry>
+  <title>OpenGOAL-Mods: OG-Mod-Base</title>
+  <author>
+   <name>OpenGOAL-Mods</name>
+  </author>
+  <link href="https://github.com/OpenGOAL-Mods/OG-Mod-Base" />
+  <id>urn:rprimus:github:OpenGOAL-Mods:OG-Mod-Base</id>
+  <published>2023-05-24T21:43:28Z</published>
+  <updated>2023-05-24T21:43:28Z</updated>
+  <content type="html">
+   OG Mod Base
+  </content>
+ </entry>
+ <entry>
+  <title>ober: manardb</title>
+  <author>
+   <name>ober</name>
+  </author>
+  <link href="https://github.com/ober/manardb" />
+  <id>urn:rprimus:github:ober:manardb</id>
+  <published>2023-05-24T19:25:16Z</published>
+  <updated>2023-05-24T19:25:16Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>pve1: symbolic-smalltalk-proto-system</title>
+  <author>
+   <name>pve1</name>
+  </author>
+  <link href="https://github.com/pve1/symbolic-smalltalk-proto-system" />
+  <id>urn:rprimus:github:pve1:symbolic-smalltalk-proto-system</id>
+  <published>2023-05-24T12:38:21Z</published>
+  <updated>2023-05-24T12:38:21Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>mtpearce: idyom-tutorial</title>
+  <author>
+   <name>mtpearce</name>
+  </author>
+  <link href="https://github.com/mtpearce/idyom-tutorial" />
+  <id>urn:rprimus:github:mtpearce:idyom-tutorial</id>
+  <published>2023-05-24T10:23:01Z</published>
+  <updated>2023-05-24T10:23:01Z</updated>
+  <content type="html">
+   A tutorial for IDyOM
+  </content>
+ </entry>
+ <entry>
+  <title>Aadv1k: beaver</title>
   <author>
    <name>Aadv1k</name>
   </author>
-  <link href="https://github.com/Aadv1k/cl-beaver" />
-  <id>urn:rprimus:github:Aadv1k:cl-beaver</id>
+  <link href="https://github.com/Aadv1k/beaver" />
+  <id>urn:rprimus:github:Aadv1k:beaver</id>
   <published>2023-05-24T03:22:39Z</published>
   <updated>2023-05-24T03:22:39Z</updated>
   <content type="html">
@@ -145,97 +236,6 @@
   <updated>2023-05-23T01:23:07Z</updated>
   <content type="html">
    Working with public meteor landing data from NASA using Lisp
-  </content>
- </entry>
- <entry>
-  <title>BickeyManandhar: CSCI316</title>
-  <author>
-   <name>BickeyManandhar</name>
-  </author>
-  <link href="https://github.com/BickeyManandhar/CSCI316" />
-  <id>urn:rprimus:github:BickeyManandhar:CSCI316</id>
-  <published>2023-05-22T22:33:51Z</published>
-  <updated>2023-05-22T22:33:51Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>workers-paradigm: marxist-science.ru</title>
-  <author>
-   <name>workers-paradigm</name>
-  </author>
-  <link href="https://github.com/workers-paradigm/marxist-science.ru" />
-  <id>urn:rprimus:github:workers-paradigm:marxist-science.ru</id>
-  <published>2023-05-22T22:20:59Z</published>
-  <updated>2023-05-22T22:20:59Z</updated>
-  <content type="html">
-   Official MS website.
-  </content>
- </entry>
- <entry>
-  <title>cecemel: app-racing-insights</title>
-  <author>
-   <name>cecemel</name>
-  </author>
-  <link href="https://github.com/cecemel/app-racing-insights" />
-  <id>urn:rprimus:github:cecemel:app-racing-insights</id>
-  <published>2023-05-22T19:55:53Z</published>
-  <updated>2023-05-22T19:55:53Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>bo-tato: protohackers-cl</title>
-  <author>
-   <name>bo-tato</name>
-  </author>
-  <link href="https://github.com/bo-tato/protohackers-cl" />
-  <id>urn:rprimus:github:bo-tato:protohackers-cl</id>
-  <published>2023-05-22T19:23:33Z</published>
-  <updated>2023-05-22T19:23:33Z</updated>
-  <content type="html">
-   Protohackers solutions in Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>Bintendo42: Testing-stuff</title>
-  <author>
-   <name>Bintendo42</name>
-  </author>
-  <link href="https://github.com/Bintendo42/Testing-stuff" />
-  <id>urn:rprimus:github:Bintendo42:Testing-stuff</id>
-  <published>2023-05-22T16:10:44Z</published>
-  <updated>2023-05-22T16:10:44Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>metebalci: genera</title>
-  <author>
-   <name>metebalci</name>
-  </author>
-  <link href="https://github.com/metebalci/genera" />
-  <id>urn:rprimus:github:metebalci:genera</id>
-  <published>2023-05-22T09:34:13Z</published>
-  <updated>2023-05-22T09:34:13Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>CuBeRJAN: not-clos</title>
-  <author>
-   <name>CuBeRJAN</name>
-  </author>
-  <link href="https://github.com/CuBeRJAN/not-clos" />
-  <id>urn:rprimus:github:CuBeRJAN:not-clos</id>
-  <published>2023-05-22T01:59:23Z</published>
-  <updated>2023-05-22T01:59:23Z</updated>
-  <content type="html">
-   Tiny Common Lisp object system
   </content>
  </entry>
 </feed>

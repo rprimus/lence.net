@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2023-05-24T05:19:01Z</updated>
+<updated>2023-05-24T18:35:22Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>MarceloGallardoMadrid: hotbdnim</title>
+  <author>
+   <name>MarceloGallardoMadrid</name>
+  </author>
+  <link href="https://github.com/MarceloGallardoMadrid/hotbdnim" />
+  <id>urn:rprimus:github:MarceloGallardoMadrid:hotbdnim</id>
+  <published>2023-05-24T18:35:22Z</published>
+  <updated>2023-05-24T18:35:22Z</updated>
+  <content type="html">
+   Es un intento de modificar con  the fly una base de datos sqlite
+  </content>
+ </entry>
+ <entry>
+  <title>Pylgos: nim-concurrent</title>
+  <author>
+   <name>Pylgos</name>
+  </author>
+  <link href="https://github.com/Pylgos/nim-concurrent" />
+  <id>urn:rprimus:github:Pylgos:nim-concurrent</id>
+  <published>2023-05-24T13:32:08Z</published>
+  <updated>2023-05-24T13:32:08Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Double-oxygeN: misskey-nim</title>
+  <author>
+   <name>Double-oxygeN</name>
+  </author>
+  <link href="https://github.com/Double-oxygeN/misskey-nim" />
+  <id>urn:rprimus:github:Double-oxygeN:misskey-nim</id>
+  <published>2023-05-24T10:25:52Z</published>
+  <updated>2023-05-24T10:25:52Z</updated>
+  <content type="html">
+   Unofficial Misskey SDK in Nim.
+  </content>
+ </entry>
+ <entry>
+  <title>Pylgos: rclnim</title>
+  <author>
+   <name>Pylgos</name>
+  </author>
+  <link href="https://github.com/Pylgos/rclnim" />
+  <id>urn:rprimus:github:Pylgos:rclnim</id>
+  <published>2023-05-24T09:52:41Z</published>
+  <updated>2023-05-24T09:52:41Z</updated>
+  <content type="html">
+   Nim bindings for ROS2
+  </content>
+ </entry>
  <entry>
   <title>elcritch: platonic</title>
   <author>
@@ -44,12 +96,12 @@
   </content>
  </entry>
  <entry>
-  <title>mapogolions: condition-sync-primitive</title>
+  <title>mapogolions: condition-variable-sync-primitive</title>
   <author>
    <name>mapogolions</name>
   </author>
-  <link href="https://github.com/mapogolions/condition-sync-primitive" />
-  <id>urn:rprimus:github:mapogolions:condition-sync-primitive</id>
+  <link href="https://github.com/mapogolions/condition-variable-sync-primitive" />
+  <id>urn:rprimus:github:mapogolions:condition-variable-sync-primitive</id>
   <published>2023-05-23T16:03:37Z</published>
   <updated>2023-05-23T16:03:37Z</updated>
   <content type="html">
@@ -106,175 +158,6 @@
   <updated>2023-05-23T00:43:23Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>NahuelUTNPigui: nbn_onitama</title>
-  <author>
-   <name>NahuelUTNPigui</name>
-  </author>
-  <link href="https://github.com/NahuelUTNPigui/nbn_onitama" />
-  <id>urn:rprimus:github:NahuelUTNPigui:nbn_onitama</id>
-  <published>2023-05-22T20:45:28Z</published>
-  <updated>2023-05-22T20:45:28Z</updated>
-  <content type="html">
-   Es un intento de alpha zero con nbn para jugar al onitama
-  </content>
- </entry>
- <entry>
-  <title>g0ttfrid: asmReflection</title>
-  <author>
-   <name>g0ttfrid</name>
-  </author>
-  <link href="https://github.com/g0ttfrid/asmReflection" />
-  <id>urn:rprimus:github:g0ttfrid:asmReflection</id>
-  <published>2023-05-22T19:47:34Z</published>
-  <updated>2023-05-22T19:47:34Z</updated>
-  <content type="html">
-   Loading a C# executable with Nim
-  </content>
- </entry>
- <entry>
-  <title>Foxicution: nim-aoc-2022</title>
-  <author>
-   <name>Foxicution</name>
-  </author>
-  <link href="https://github.com/Foxicution/nim-aoc-2022" />
-  <id>urn:rprimus:github:Foxicution:nim-aoc-2022</id>
-  <published>2023-05-22T19:09:37Z</published>
-  <updated>2023-05-22T19:09:37Z</updated>
-  <content type="html">
-   My solutions to advent of code 2022 problems written in nim.
-  </content>
- </entry>
- <entry>
-  <title>deNULL: perceptual</title>
-  <author>
-   <name>deNULL</name>
-  </author>
-  <link href="https://github.com/deNULL/perceptual" />
-  <id>urn:rprimus:github:deNULL:perceptual</id>
-  <published>2023-05-22T18:33:50Z</published>
-  <updated>2023-05-22T18:33:50Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>mapogolions: reentrant-lock-sync-primitive</title>
-  <author>
-   <name>mapogolions</name>
-  </author>
-  <link href="https://github.com/mapogolions/reentrant-lock-sync-primitive" />
-  <id>urn:rprimus:github:mapogolions:reentrant-lock-sync-primitive</id>
-  <published>2023-05-22T16:17:18Z</published>
-  <updated>2023-05-22T16:17:18Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>HapticX: happyx-tutorial-series</title>
-  <author>
-   <name>HapticX</name>
-  </author>
-  <link href="https://github.com/HapticX/happyx-tutorial-series" />
-  <id>urn:rprimus:github:HapticX:happyx-tutorial-series</id>
-  <published>2023-05-22T15:18:56Z</published>
-  <updated>2023-05-22T15:18:56Z</updated>
-  <content type="html">
-   In this repo you&#039;ll find HappyX tutorial series from YT or dev.to
-  </content>
- </entry>
- <entry>
-  <title>chmod222: nodot</title>
-  <author>
-   <name>chmod222</name>
-  </author>
-  <link href="https://github.com/chmod222/nodot" />
-  <id>urn:rprimus:github:chmod222:nodot</id>
-  <published>2023-05-22T14:06:48Z</published>
-  <updated>2023-05-22T14:06:48Z</updated>
-  <content type="html">
-   Nim Godot 4.0 GDExtension wrapper (Proof of Concept)
-  </content>
- </entry>
- <entry>
-  <title>status-im: nim-mbedtls</title>
-  <author>
-   <name>status-im</name>
-  </author>
-  <link href="https://github.com/status-im/nim-mbedtls" />
-  <id>urn:rprimus:github:status-im:nim-mbedtls</id>
-  <published>2023-05-22T09:16:52Z</published>
-  <updated>2023-05-22T09:16:52Z</updated>
-  <content type="html">
-   Mbed-TLS wrapper in Nim
-  </content>
- </entry>
- <entry>
-  <title>beef331: gooey</title>
-  <author>
-   <name>beef331</name>
-  </author>
-  <link href="https://github.com/beef331/gooey" />
-  <id>urn:rprimus:github:beef331:gooey</id>
-  <published>2023-05-22T07:30:00Z</published>
-  <updated>2023-05-22T07:30:00Z</updated>
-  <content type="html">
-   It&#039;s ooey and gooey.  No clue what this really is aside from a GUI framework basis?
-  </content>
- </entry>
- <entry>
-  <title>izumiya-keisuke: puyo-core</title>
-  <author>
-   <name>izumiya-keisuke</name>
-  </author>
-  <link href="https://github.com/izumiya-keisuke/puyo-core" />
-  <id>urn:rprimus:github:izumiya-keisuke:puyo-core</id>
-  <published>2023-05-22T05:36:40Z</published>
-  <updated>2023-05-22T05:36:40Z</updated>
-  <content type="html">
-   Puyo Puyo Library
-  </content>
- </entry>
- <entry>
-  <title>wick3dr0se: term</title>
-  <author>
-   <name>wick3dr0se</name>
-  </author>
-  <link href="https://github.com/wick3dr0se/term" />
-  <id>urn:rprimus:github:wick3dr0se:term</id>
-  <published>2023-05-22T01:50:48Z</published>
-  <updated>2023-05-22T01:50:48Z</updated>
-  <content type="html">
-   A small library of helpful terminal procedures
-  </content>
- </entry>
- <entry>
-  <title>konsumer: nim-physfs_static</title>
-  <author>
-   <name>konsumer</name>
-  </author>
-  <link href="https://github.com/konsumer/nim-physfs_static" />
-  <id>urn:rprimus:github:konsumer:nim-physfs_static</id>
-  <published>2023-05-22T01:40:20Z</published>
-  <updated>2023-05-22T01:40:20Z</updated>
-  <content type="html">
-   Simple nim wrapper aound static-compiled physfs
-  </content>
- </entry>
- <entry>
-  <title>lost-rob0t: fediWatch</title>
-  <author>
-   <name>lost-rob0t</name>
-  </author>
-  <link href="https://github.com/lost-rob0t/fediWatch" />
-  <id>urn:rprimus:github:lost-rob0t:fediWatch</id>
-  <published>2023-05-22T01:20:43Z</published>
-  <updated>2023-05-22T01:20:43Z</updated>
-  <content type="html">
-   Watch The entire fediverse ingest 1,600 posts per minute
   </content>
  </entry>
 </feed>
