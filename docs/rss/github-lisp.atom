@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2023-05-25T07:18:30Z</updated>
+<updated>2023-05-25T13:47:16Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>mattyonweb: lispymc</title>
+  <author>
+   <name>mattyonweb</name>
+  </author>
+  <link href="https://github.com/mattyonweb/lispymc" />
+  <id>urn:rprimus:github:mattyonweb:lispymc</id>
+  <published>2023-05-25T13:47:16Z</published>
+  <updated>2023-05-25T13:47:16Z</updated>
+  <content type="html">
+   a temporal logic model checker written in Common LISP
+  </content>
+ </entry>
+ <entry>
+  <title>Shinmera: lru-cache</title>
+  <author>
+   <name>Shinmera</name>
+  </author>
+  <link href="https://github.com/Shinmera/lru-cache" />
+  <id>urn:rprimus:github:Shinmera:lru-cache</id>
+  <published>2023-05-25T11:10:21Z</published>
+  <updated>2023-05-25T11:10:21Z</updated>
+  <content type="html">
+   A least-recently-used cache datastructure
+  </content>
+ </entry>
  <entry>
   <title>juanfco95: Spirograph</title>
   <author>
@@ -119,136 +145,6 @@
   <updated>2023-05-24T03:22:39Z</updated>
   <content type="html">
    a common lisp library for data analysis and manipulation
-  </content>
- </entry>
- <entry>
-  <title>thephoeron: cl-copilot-chat</title>
-  <author>
-   <name>thephoeron</name>
-  </author>
-  <link href="https://github.com/thephoeron/cl-copilot-chat" />
-  <id>urn:rprimus:github:thephoeron:cl-copilot-chat</id>
-  <published>2023-05-23T21:27:39Z</published>
-  <updated>2023-05-23T21:27:39Z</updated>
-  <content type="html">
-   Common Lisp implementation of the Copilot Chat API
-  </content>
- </entry>
- <entry>
-  <title>lockie: cookiecutter-lisp-game</title>
-  <author>
-   <name>lockie</name>
-  </author>
-  <link href="https://github.com/lockie/cookiecutter-lisp-game" />
-  <id>urn:rprimus:github:lockie:cookiecutter-lisp-game</id>
-  <published>2023-05-23T18:04:55Z</published>
-  <updated>2023-05-23T18:04:55Z</updated>
-  <content type="html">
-   A cookiecutter template for Common Lisp videogame projects
-  </content>
- </entry>
- <entry>
-  <title>mikelevins: triton-noesis</title>
-  <author>
-   <name>mikelevins</name>
-  </author>
-  <link href="https://github.com/mikelevins/triton-noesis" />
-  <id>urn:rprimus:github:mikelevins:triton-noesis</id>
-  <published>2023-05-23T18:02:29Z</published>
-  <updated>2023-05-23T18:02:29Z</updated>
-  <content type="html">
-   information simulation and visualization program
-  </content>
- </entry>
- <entry>
-  <title>snmsts: install-lem</title>
-  <author>
-   <name>snmsts</name>
-  </author>
-  <link href="https://github.com/snmsts/install-lem" />
-  <id>urn:rprimus:github:snmsts:install-lem</id>
-  <published>2023-05-23T17:43:36Z</published>
-  <updated>2023-05-23T17:43:36Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>plandes: cl-jsonl</title>
-  <author>
-   <name>plandes</name>
-  </author>
-  <link href="https://github.com/plandes/cl-jsonl" />
-  <id>urn:rprimus:github:plandes:cl-jsonl</id>
-  <published>2023-05-23T15:27:17Z</published>
-  <updated>2023-05-23T15:27:17Z</updated>
-  <content type="html">
-   Efficient JSON File Iteration
-  </content>
- </entry>
- <entry>
-  <title>byulparan: cl-glsl</title>
-  <author>
-   <name>byulparan</name>
-  </author>
-  <link href="https://github.com/byulparan/cl-glsl" />
-  <id>urn:rprimus:github:byulparan:cl-glsl</id>
-  <published>2023-05-23T10:43:49Z</published>
-  <updated>2023-05-23T10:43:49Z</updated>
-  <content type="html">
-   translator for Lisp to GLSL
-  </content>
- </entry>
- <entry>
-  <title>aminaDziriexpertise: TA_SDP</title>
-  <author>
-   <name>aminaDziriexpertise</name>
-  </author>
-  <link href="https://github.com/aminaDziriexpertise/TA_SDP" />
-  <id>urn:rprimus:github:aminaDziriexpertise:TA_SDP</id>
-  <published>2023-05-23T07:57:32Z</published>
-  <updated>2023-05-23T07:57:32Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>EdoardoPracucci: Lisp_Practice_Programs</title>
-  <author>
-   <name>EdoardoPracucci</name>
-  </author>
-  <link href="https://github.com/EdoardoPracucci/Lisp_Practice_Programs" />
-  <id>urn:rprimus:github:EdoardoPracucci:Lisp_Practice_Programs</id>
-  <published>2023-05-23T07:53:03Z</published>
-  <updated>2023-05-23T07:53:03Z</updated>
-  <content type="html">
-   Lisp practice programs collection
-  </content>
- </entry>
- <entry>
-  <title>yoelmatveyev: pmk</title>
-  <author>
-   <name>yoelmatveyev</name>
-  </author>
-  <link href="https://github.com/yoelmatveyev/pmk" />
-  <id>urn:rprimus:github:yoelmatveyev:pmk</id>
-  <published>2023-05-23T05:42:14Z</published>
-  <updated>2023-05-23T05:42:14Z</updated>
-  <content type="html">
-   Emulator or Soviet programmable calculators and related virtual devices
-  </content>
- </entry>
- <entry>
-  <title>JohnBracken: Meteor-data-lisp</title>
-  <author>
-   <name>JohnBracken</name>
-  </author>
-  <link href="https://github.com/JohnBracken/Meteor-data-lisp" />
-  <id>urn:rprimus:github:JohnBracken:Meteor-data-lisp</id>
-  <published>2023-05-23T01:23:07Z</published>
-  <updated>2023-05-23T01:23:07Z</updated>
-  <content type="html">
-   Working with public meteor landing data from NASA using Lisp
   </content>
  </entry>
 </feed>
