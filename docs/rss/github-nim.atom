@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2023-05-26T02:47:46Z</updated>
+<updated>2023-05-26T20:44:54Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>HACCKKER: pyopenai</title>
+  <author>
+   <name>HACCKKER</name>
+  </author>
+  <link href="https://github.com/HACCKKER/pyopenai" />
+  <id>urn:rprimus:github:HACCKKER:pyopenai</id>
+  <published>2023-05-26T20:44:54Z</published>
+  <updated>2023-05-26T20:44:54Z</updated>
+  <content type="html">
+   An attempt to reimplement python OpenAI API bindings in nim
+  </content>
+ </entry>
+ <entry>
+  <title>Mr-Thack: happyx</title>
+  <author>
+   <name>Mr-Thack</name>
+  </author>
+  <link href="https://github.com/Mr-Thack/happyx" />
+  <id>urn:rprimus:github:Mr-Thack:happyx</id>
+  <published>2023-05-26T20:33:28Z</published>
+  <updated>2023-05-26T20:33:28Z</updated>
+  <content type="html">
+   Clone of HapticX/happyx
+  </content>
+ </entry>
+ <entry>
+  <title>eklmt: kumobox</title>
+  <author>
+   <name>eklmt</name>
+  </author>
+  <link href="https://github.com/eklmt/kumobox" />
+  <id>urn:rprimus:github:eklmt:kumobox</id>
+  <published>2023-05-26T18:51:36Z</published>
+  <updated>2023-05-26T18:51:36Z</updated>
+  <content type="html">
+   A program for host-integrated containers.
+  </content>
+ </entry>
+ <entry>
+  <title>thechampagne: libnregex</title>
+  <author>
+   <name>thechampagne</name>
+  </author>
+  <link href="https://github.com/thechampagne/libnregex" />
+  <id>urn:rprimus:github:thechampagne:libnregex</id>
+  <published>2023-05-26T16:03:20Z</published>
+  <updated>2023-05-26T16:03:20Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>ibnteo: html</title>
+  <author>
+   <name>ibnteo</name>
+  </author>
+  <link href="https://github.com/ibnteo/html" />
+  <id>urn:rprimus:github:ibnteo:html</id>
+  <published>2023-05-26T15:07:42Z</published>
+  <updated>2023-05-26T15:07:42Z</updated>
+  <content type="html">
+   HTML Template Benchmark
+  </content>
+ </entry>
  <entry>
   <title>notnullgames: null-light</title>
   <author>
@@ -26,84 +91,6 @@
   <id>urn:rprimus:github:mapogolions:event-sync-primitive</id>
   <published>2023-05-25T16:09:10Z</published>
   <updated>2023-05-25T16:09:10Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>MarceloGallardoMadrid: hotbdnim</title>
-  <author>
-   <name>MarceloGallardoMadrid</name>
-  </author>
-  <link href="https://github.com/MarceloGallardoMadrid/hotbdnim" />
-  <id>urn:rprimus:github:MarceloGallardoMadrid:hotbdnim</id>
-  <published>2023-05-24T18:35:22Z</published>
-  <updated>2023-05-24T18:35:22Z</updated>
-  <content type="html">
-   Es un intento de modificar con  the fly una base de datos sqlite
-  </content>
- </entry>
- <entry>
-  <title>Pylgos: nim-concurrent</title>
-  <author>
-   <name>Pylgos</name>
-  </author>
-  <link href="https://github.com/Pylgos/nim-concurrent" />
-  <id>urn:rprimus:github:Pylgos:nim-concurrent</id>
-  <published>2023-05-24T13:32:08Z</published>
-  <updated>2023-05-24T13:32:08Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Double-oxygeN: misskey-nim</title>
-  <author>
-   <name>Double-oxygeN</name>
-  </author>
-  <link href="https://github.com/Double-oxygeN/misskey-nim" />
-  <id>urn:rprimus:github:Double-oxygeN:misskey-nim</id>
-  <published>2023-05-24T10:25:52Z</published>
-  <updated>2023-05-24T10:25:52Z</updated>
-  <content type="html">
-   Unofficial Misskey SDK in Nim.
-  </content>
- </entry>
- <entry>
-  <title>Pylgos: rclnim</title>
-  <author>
-   <name>Pylgos</name>
-  </author>
-  <link href="https://github.com/Pylgos/rclnim" />
-  <id>urn:rprimus:github:Pylgos:rclnim</id>
-  <published>2023-05-24T09:52:41Z</published>
-  <updated>2023-05-24T09:52:41Z</updated>
-  <content type="html">
-   Nim bindings for ROS2
-  </content>
- </entry>
- <entry>
-  <title>elcritch: platonic</title>
-  <author>
-   <name>elcritch</name>
-  </author>
-  <link href="https://github.com/elcritch/platonic" />
-  <id>urn:rprimus:github:elcritch:platonic</id>
-  <published>2023-05-24T05:19:01Z</published>
-  <updated>2023-05-24T05:19:01Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>acou12: type-system</title>
-  <author>
-   <name>acou12</name>
-  </author>
-  <link href="https://github.com/acou12/type-system" />
-  <id>urn:rprimus:github:acou12:type-system</id>
-  <published>2023-05-24T02:10:07Z</published>
-  <updated>2023-05-24T02:10:07Z</updated>
   <content type="html">
    
   </content>

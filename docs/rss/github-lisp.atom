@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2023-05-25T13:47:16Z</updated>
+<updated>2023-05-26T23:40:15Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>equwal: defsl</title>
+  <author>
+   <name>equwal</name>
+  </author>
+  <link href="https://github.com/equwal/defsl" />
+  <id>urn:rprimus:github:equwal:defsl</id>
+  <published>2023-05-26T23:40:15Z</published>
+  <updated>2023-05-26T23:40:15Z</updated>
+  <content type="html">
+   Dependencies from the lisp macro system, not the reader.
+  </content>
+ </entry>
+ <entry>
+  <title>Izaakwltn: mess-maxima</title>
+  <author>
+   <name>Izaakwltn</name>
+  </author>
+  <link href="https://github.com/Izaakwltn/mess-maxima" />
+  <id>urn:rprimus:github:Izaakwltn:mess-maxima</id>
+  <published>2023-05-26T21:01:11Z</published>
+  <updated>2023-05-26T21:01:11Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>MichaelAnckaert: cl-target</title>
+  <author>
+   <name>MichaelAnckaert</name>
+  </author>
+  <link href="https://github.com/MichaelAnckaert/cl-target" />
+  <id>urn:rprimus:github:MichaelAnckaert:cl-target</id>
+  <published>2023-05-26T15:07:17Z</published>
+  <updated>2023-05-26T15:07:17Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>KyaLaGit: trust</title>
+  <author>
+   <name>KyaLaGit</name>
+  </author>
+  <link href="https://github.com/KyaLaGit/trust" />
+  <id>urn:rprimus:github:KyaLaGit:trust</id>
+  <published>2023-05-25T14:50:13Z</published>
+  <updated>2023-05-25T14:50:13Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>mattyonweb: lispymc</title>
   <author>
@@ -54,97 +106,6 @@
   <updated>2023-05-25T04:26:53Z</updated>
   <content type="html">
    (work in progress) experiments for the AT protocol
-  </content>
- </entry>
- <entry>
-  <title>rlevins: cl-trello</title>
-  <author>
-   <name>rlevins</name>
-  </author>
-  <link href="https://github.com/rlevins/cl-trello" />
-  <id>urn:rprimus:github:rlevins:cl-trello</id>
-  <published>2023-05-24T23:51:54Z</published>
-  <updated>2023-05-24T23:51:54Z</updated>
-  <content type="html">
-   Common Lisp project to interact with Trello Boards and Cards
-  </content>
- </entry>
- <entry>
-  <title>rlevins: cl-jira</title>
-  <author>
-   <name>rlevins</name>
-  </author>
-  <link href="https://github.com/rlevins/cl-jira" />
-  <id>urn:rprimus:github:rlevins:cl-jira</id>
-  <published>2023-05-24T23:38:21Z</published>
-  <updated>2023-05-24T23:38:21Z</updated>
-  <content type="html">
-   Common lisp library for communicating with Jira API
-  </content>
- </entry>
- <entry>
-  <title>OpenGOAL-Mods: OG-Mod-Base</title>
-  <author>
-   <name>OpenGOAL-Mods</name>
-  </author>
-  <link href="https://github.com/OpenGOAL-Mods/OG-Mod-Base" />
-  <id>urn:rprimus:github:OpenGOAL-Mods:OG-Mod-Base</id>
-  <published>2023-05-24T21:43:28Z</published>
-  <updated>2023-05-24T21:43:28Z</updated>
-  <content type="html">
-   OG Mod Base
-  </content>
- </entry>
- <entry>
-  <title>ober: manardb</title>
-  <author>
-   <name>ober</name>
-  </author>
-  <link href="https://github.com/ober/manardb" />
-  <id>urn:rprimus:github:ober:manardb</id>
-  <published>2023-05-24T19:25:16Z</published>
-  <updated>2023-05-24T19:25:16Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>pve1: symbolic-smalltalk-proto-system</title>
-  <author>
-   <name>pve1</name>
-  </author>
-  <link href="https://github.com/pve1/symbolic-smalltalk-proto-system" />
-  <id>urn:rprimus:github:pve1:symbolic-smalltalk-proto-system</id>
-  <published>2023-05-24T12:38:21Z</published>
-  <updated>2023-05-24T12:38:21Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>mtpearce: idyom-tutorial</title>
-  <author>
-   <name>mtpearce</name>
-  </author>
-  <link href="https://github.com/mtpearce/idyom-tutorial" />
-  <id>urn:rprimus:github:mtpearce:idyom-tutorial</id>
-  <published>2023-05-24T10:23:01Z</published>
-  <updated>2023-05-24T10:23:01Z</updated>
-  <content type="html">
-   A tutorial for IDyOM
-  </content>
- </entry>
- <entry>
-  <title>Aadv1k: beaver</title>
-  <author>
-   <name>Aadv1k</name>
-  </author>
-  <link href="https://github.com/Aadv1k/beaver" />
-  <id>urn:rprimus:github:Aadv1k:beaver</id>
-  <published>2023-05-24T03:22:39Z</published>
-  <updated>2023-05-24T03:22:39Z</updated>
-  <content type="html">
-   a common lisp library for data analysis and manipulation
   </content>
  </entry>
 </feed>
