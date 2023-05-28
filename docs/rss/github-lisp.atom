@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2023-05-27T08:50:02Z</updated>
+<updated>2023-05-28T02:41:25Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>Glitch-m: Peacemaker-Barrel-spawner</title>
+  <author>
+   <name>Glitch-m</name>
+  </author>
+  <link href="https://github.com/Glitch-m/Peacemaker-Barrel-spawner" />
+  <id>urn:rprimus:github:Glitch-m:Peacemaker-Barrel-spawner</id>
+  <published>2023-05-28T02:41:25Z</published>
+  <updated>2023-05-28T02:41:25Z</updated>
+  <content type="html">
+   This is a project based on projectiles in jak 2 I replace The peacemaker projectile with the ability to spawn barrels in jak 2 from the equipment at dig
+  </content>
+ </entry>
+ <entry>
+  <title>nesfvillar: aoc20</title>
+  <author>
+   <name>nesfvillar</name>
+  </author>
+  <link href="https://github.com/nesfvillar/aoc20" />
+  <id>urn:rprimus:github:nesfvillar:aoc20</id>
+  <published>2023-05-28T00:02:38Z</published>
+  <updated>2023-05-28T00:02:38Z</updated>
+  <content type="html">
+   Solutions to advent of code 2020 in Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>40ants: reblocks-ui2</title>
+  <author>
+   <name>40ants</name>
+  </author>
+  <link href="https://github.com/40ants/reblocks-ui2" />
+  <id>urn:rprimus:github:40ants:reblocks-ui2</id>
+  <published>2023-05-27T21:11:54Z</published>
+  <updated>2023-05-27T21:11:54Z</updated>
+  <content type="html">
+   Second version of UI toolkit for Reblocks â Common Lisp web-framework
+  </content>
+ </entry>
+ <entry>
+  <title>40ants: 40ants-pg</title>
+  <author>
+   <name>40ants</name>
+  </author>
+  <link href="https://github.com/40ants/40ants-pg" />
+  <id>urn:rprimus:github:40ants:40ants-pg</id>
+  <published>2023-05-27T20:40:13Z</published>
+  <updated>2023-05-27T20:40:13Z</updated>
+  <content type="html">
+   Utilities to simplify use of Postgresql in my Common Lisp projects
+  </content>
+ </entry>
+ <entry>
+  <title>knusbaum: cl-webinspect</title>
+  <author>
+   <name>knusbaum</name>
+  </author>
+  <link href="https://github.com/knusbaum/cl-webinspect" />
+  <id>urn:rprimus:github:knusbaum:cl-webinspect</id>
+  <published>2023-05-27T19:45:26Z</published>
+  <updated>2023-05-27T19:45:26Z</updated>
+  <content type="html">
+   Common Lisp inspector for the web.
+  </content>
+ </entry>
+ <entry>
+  <title>ethanxxxl: lisp-rouge</title>
+  <author>
+   <name>ethanxxxl</name>
+  </author>
+  <link href="https://github.com/ethanxxxl/lisp-rouge" />
+  <id>urn:rprimus:github:ethanxxxl:lisp-rouge</id>
+  <published>2023-05-27T17:44:21Z</published>
+  <updated>2023-05-27T17:44:21Z</updated>
+  <content type="html">
+   A simple rougelike game written in common lisp
+  </content>
+ </entry>
  <entry>
   <title>ntijoh-jack-blomquist: lisp-brainfuck</title>
   <author>
@@ -67,58 +145,6 @@
   <updated>2023-05-26T15:07:17Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>mattyonweb: lispymc</title>
-  <author>
-   <name>mattyonweb</name>
-  </author>
-  <link href="https://github.com/mattyonweb/lispymc" />
-  <id>urn:rprimus:github:mattyonweb:lispymc</id>
-  <published>2023-05-25T13:47:16Z</published>
-  <updated>2023-05-25T13:47:16Z</updated>
-  <content type="html">
-   a temporal logic model checker written in Common LISP
-  </content>
- </entry>
- <entry>
-  <title>Shinmera: lru-cache</title>
-  <author>
-   <name>Shinmera</name>
-  </author>
-  <link href="https://github.com/Shinmera/lru-cache" />
-  <id>urn:rprimus:github:Shinmera:lru-cache</id>
-  <published>2023-05-25T11:10:21Z</published>
-  <updated>2023-05-25T11:10:21Z</updated>
-  <content type="html">
-   A least-recently-used cache datastructure
-  </content>
- </entry>
- <entry>
-  <title>juanfco95: Spirograph</title>
-  <author>
-   <name>juanfco95</name>
-  </author>
-  <link href="https://github.com/juanfco95/Spirograph" />
-  <id>urn:rprimus:github:juanfco95:Spirograph</id>
-  <published>2023-05-25T07:18:30Z</published>
-  <updated>2023-05-25T07:18:30Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>94tx: bsky</title>
-  <author>
-   <name>94tx</name>
-  </author>
-  <link href="https://github.com/94tx/bsky" />
-  <id>urn:rprimus:github:94tx:bsky</id>
-  <published>2023-05-25T04:26:53Z</published>
-  <updated>2023-05-25T04:26:53Z</updated>
-  <content type="html">
-   (work in progress) experiments for the AT protocol
   </content>
  </entry>
 </feed>

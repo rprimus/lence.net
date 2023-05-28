@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2023-05-27T07:14:44Z</updated>
+<updated>2023-05-27T20:26:05Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>josuemoreau: dancing-links</title>
+  <author>
+   <name>josuemoreau</name>
+  </author>
+  <link href="https://github.com/josuemoreau/dancing-links" />
+  <id>urn:rprimus:github:josuemoreau:dancing-links</id>
+  <published>2023-05-27T20:26:05Z</published>
+  <updated>2023-05-27T20:26:05Z</updated>
+  <content type="html">
+   OCaml implementation of the Dancing Links algorithm
+  </content>
+ </entry>
+ <entry>
+  <title>art-w: rmq</title>
+  <author>
+   <name>art-w</name>
+  </author>
+  <link href="https://github.com/art-w/rmq" />
+  <id>urn:rprimus:github:art-w:rmq</id>
+  <published>2023-05-27T16:42:16Z</published>
+  <updated>2023-05-27T16:42:16Z</updated>
+  <content type="html">
+   Range Minimum Query algorithms
+  </content>
+ </entry>
+ <entry>
+  <title>deepmarker: ocaml-aeron</title>
+  <author>
+   <name>deepmarker</name>
+  </author>
+  <link href="https://github.com/deepmarker/ocaml-aeron" />
+  <id>urn:rprimus:github:deepmarker:ocaml-aeron</id>
+  <published>2023-05-27T12:56:36Z</published>
+  <updated>2023-05-27T12:56:36Z</updated>
+  <content type="html">
+   Binding to Aeron client
+  </content>
+ </entry>
  <entry>
   <title>lmazure: ocaml_discovery</title>
   <author>
@@ -130,123 +169,6 @@
   <id>urn:rprimus:github:shrx11:IITH-Courses</id>
   <published>2023-05-26T06:19:24Z</published>
   <updated>2023-05-26T06:19:24Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>girgvliani: ocamlbasics</title>
-  <author>
-   <name>girgvliani</name>
-  </author>
-  <link href="https://github.com/girgvliani/ocamlbasics" />
-  <id>urn:rprimus:github:girgvliani:ocamlbasics</id>
-  <published>2023-05-25T20:48:31Z</published>
-  <updated>2023-05-25T20:48:31Z</updated>
-  <content type="html">
-   just recapping ocaml basics
-  </content>
- </entry>
- <entry>
-  <title>leonardocrociani: Pixel-Language</title>
-  <author>
-   <name>leonardocrociani</name>
-  </author>
-  <link href="https://github.com/leonardocrociani/Pixel-Language" />
-  <id>urn:rprimus:github:leonardocrociani:Pixel-Language</id>
-  <published>2023-05-25T19:56:40Z</published>
-  <updated>2023-05-25T19:56:40Z</updated>
-  <content type="html">
-   Mini interprete in Ocaml per un linguaggio giocattolo
-  </content>
- </entry>
- <entry>
-  <title>master-of-none: ocaml</title>
-  <author>
-   <name>master-of-none</name>
-  </author>
-  <link href="https://github.com/master-of-none/ocaml" />
-  <id>urn:rprimus:github:master-of-none:ocaml</id>
-  <published>2023-05-25T18:46:25Z</published>
-  <updated>2023-05-25T18:46:25Z</updated>
-  <content type="html">
-   Some function stuff
-  </content>
- </entry>
- <entry>
-  <title>jogiet: Fixpoint</title>
-  <author>
-   <name>jogiet</name>
-  </author>
-  <link href="https://github.com/jogiet/Fixpoint" />
-  <id>urn:rprimus:github:jogiet:Fixpoint</id>
-  <published>2023-05-25T16:45:12Z</published>
-  <updated>2023-05-25T16:45:12Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>UnMoutonPerdu: Chicken</title>
-  <author>
-   <name>UnMoutonPerdu</name>
-  </author>
-  <link href="https://github.com/UnMoutonPerdu/Chicken" />
-  <id>urn:rprimus:github:UnMoutonPerdu:Chicken</id>
-  <published>2023-05-25T16:29:16Z</published>
-  <updated>2023-05-25T16:29:16Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>UnMoutonPerdu: ShakespeareCompiler</title>
-  <author>
-   <name>UnMoutonPerdu</name>
-  </author>
-  <link href="https://github.com/UnMoutonPerdu/ShakespeareCompiler" />
-  <id>urn:rprimus:github:UnMoutonPerdu:ShakespeareCompiler</id>
-  <published>2023-05-25T13:30:59Z</published>
-  <updated>2023-05-25T13:30:59Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>imeckler: tern</title>
-  <author>
-   <name>imeckler</name>
-  </author>
-  <link href="https://github.com/imeckler/tern" />
-  <id>urn:rprimus:github:imeckler:tern</id>
-  <published>2023-05-25T12:58:09Z</published>
-  <updated>2023-05-25T12:58:09Z</updated>
-  <content type="html">
-   Project tracker
-  </content>
- </entry>
- <entry>
-  <title>mikhaylovilya: dpll_ocaml</title>
-  <author>
-   <name>mikhaylovilya</name>
-  </author>
-  <link href="https://github.com/mikhaylovilya/dpll_ocaml" />
-  <id>urn:rprimus:github:mikhaylovilya:dpll_ocaml</id>
-  <published>2023-05-25T11:57:48Z</published>
-  <updated>2023-05-25T11:57:48Z</updated>
-  <content type="html">
-   dpll sat solver in OCaml
-  </content>
- </entry>
- <entry>
-  <title>f64u: lol</title>
-  <author>
-   <name>f64u</name>
-  </author>
-  <link href="https://github.com/f64u/lol" />
-  <id>urn:rprimus:github:f64u:lol</id>
-  <published>2023-05-25T04:36:29Z</published>
-  <updated>2023-05-25T04:36:29Z</updated>
   <content type="html">
    
   </content>

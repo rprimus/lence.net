@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2023-05-26T20:44:54Z</updated>
+<updated>2023-05-27T21:56:17Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>konsumer: wasm3_objects</title>
+  <author>
+   <name>konsumer</name>
+  </author>
+  <link href="https://github.com/konsumer/wasm3_objects" />
+  <id>urn:rprimus:github:konsumer:wasm3_objects</id>
+  <published>2023-05-27T21:56:17Z</published>
+  <updated>2023-05-27T21:56:17Z</updated>
+  <content type="html">
+   Repro for passing object back/forth over wasm-barrier
+  </content>
+ </entry>
+ <entry>
+  <title>arashi-software: tsuki</title>
+  <author>
+   <name>arashi-software</name>
+  </author>
+  <link href="https://github.com/arashi-software/tsuki" />
+  <id>urn:rprimus:github:arashi-software:tsuki</id>
+  <published>2023-05-27T21:02:16Z</published>
+  <updated>2023-05-27T21:02:16Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>SirOlaf: unnix_atlasgen</title>
+  <author>
+   <name>SirOlaf</name>
+  </author>
+  <link href="https://github.com/SirOlaf/unnix_atlasgen" />
+  <id>urn:rprimus:github:SirOlaf:unnix_atlasgen</id>
+  <published>2023-05-27T18:55:18Z</published>
+  <updated>2023-05-27T18:55:18Z</updated>
+  <content type="html">
+   Generates a simple nix file for nim atlas dependencies
+  </content>
+ </entry>
+ <entry>
+  <title>andrei-akopian: brainfuck</title>
+  <author>
+   <name>andrei-akopian</name>
+  </author>
+  <link href="https://github.com/andrei-akopian/brainfuck" />
+  <id>urn:rprimus:github:andrei-akopian:brainfuck</id>
+  <published>2023-05-27T13:54:46Z</published>
+  <updated>2023-05-27T13:54:46Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>HACCKKER: pyopenai</title>
   <author>
@@ -53,7 +105,7 @@
   <published>2023-05-26T16:03:20Z</published>
   <updated>2023-05-26T16:03:20Z</updated>
   <content type="html">
-   
+   A C library for parsing, compiling, and executing regular expressions.
   </content>
  </entry>
  <entry>
@@ -80,19 +132,6 @@
   <updated>2023-05-26T02:47:46Z</updated>
   <content type="html">
    IDEAS: lighter runtime (nim, pixie, etc)
-  </content>
- </entry>
- <entry>
-  <title>mapogolions: event-sync-primitive</title>
-  <author>
-   <name>mapogolions</name>
-  </author>
-  <link href="https://github.com/mapogolions/event-sync-primitive" />
-  <id>urn:rprimus:github:mapogolions:event-sync-primitive</id>
-  <published>2023-05-25T16:09:10Z</published>
-  <updated>2023-05-25T16:09:10Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
