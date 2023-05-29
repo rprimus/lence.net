@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2023-05-28T04:08:25Z</updated>
+<updated>2023-05-29T01:14:45Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>SrMordred: asyncselect</title>
+  <author>
+   <name>SrMordred</name>
+  </author>
+  <link href="https://github.com/SrMordred/asyncselect" />
+  <id>urn:rprimus:github:SrMordred:asyncselect</id>
+  <published>2023-05-29T01:14:45Z</published>
+  <updated>2023-05-29T01:14:45Z</updated>
+  <content type="html">
+   Select block for async
+  </content>
+ </entry>
+ <entry>
+  <title>SadSchelz: d3d9-in-nim</title>
+  <author>
+   <name>SadSchelz</name>
+  </author>
+  <link href="https://github.com/SadSchelz/d3d9-in-nim" />
+  <id>urn:rprimus:github:SadSchelz:d3d9-in-nim</id>
+  <published>2023-05-29T00:05:31Z</published>
+  <updated>2023-05-29T00:05:31Z</updated>
+  <content type="html">
+   Simplistic d3d9 window with winim inside nim
+  </content>
+ </entry>
+ <entry>
+  <title>energy-nim: units</title>
+  <author>
+   <name>energy-nim</name>
+  </author>
+  <link href="https://github.com/energy-nim/units" />
+  <id>urn:rprimus:github:energy-nim:units</id>
+  <published>2023-05-28T20:08:41Z</published>
+  <updated>2023-05-28T20:08:41Z</updated>
+  <content type="html">
+   General purpose measuring units datatypes with integrated conversions and definitions.
+  </content>
+ </entry>
+ <entry>
+  <title>deNULL: facedetect</title>
+  <author>
+   <name>deNULL</name>
+  </author>
+  <link href="https://github.com/deNULL/facedetect" />
+  <id>urn:rprimus:github:deNULL:facedetect</id>
+  <published>2023-05-28T18:44:57Z</published>
+  <updated>2023-05-28T18:44:57Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>hitblast: avro.nim</title>
+  <author>
+   <name>hitblast</name>
+  </author>
+  <link href="https://github.com/hitblast/avro.nim" />
+  <id>urn:rprimus:github:hitblast:avro.nim</id>
+  <published>2023-05-28T09:05:57Z</published>
+  <updated>2023-05-28T09:05:57Z</updated>
+  <content type="html">
+   A modern Nim implementation of Avro Phonetic.
+  </content>
+ </entry>
  <entry>
   <title>vfehring: StripeKit</title>
   <author>
@@ -67,84 +132,6 @@
   <updated>2023-05-27T13:54:46Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>HACCKKER: pyopenai</title>
-  <author>
-   <name>HACCKKER</name>
-  </author>
-  <link href="https://github.com/HACCKKER/pyopenai" />
-  <id>urn:rprimus:github:HACCKKER:pyopenai</id>
-  <published>2023-05-26T20:44:54Z</published>
-  <updated>2023-05-26T20:44:54Z</updated>
-  <content type="html">
-   An attempt to reimplement python OpenAI API bindings in nim
-  </content>
- </entry>
- <entry>
-  <title>Mr-Thack: happyx</title>
-  <author>
-   <name>Mr-Thack</name>
-  </author>
-  <link href="https://github.com/Mr-Thack/happyx" />
-  <id>urn:rprimus:github:Mr-Thack:happyx</id>
-  <published>2023-05-26T20:33:28Z</published>
-  <updated>2023-05-26T20:33:28Z</updated>
-  <content type="html">
-   Clone of HapticX/happyx
-  </content>
- </entry>
- <entry>
-  <title>eklmt: kumobox</title>
-  <author>
-   <name>eklmt</name>
-  </author>
-  <link href="https://github.com/eklmt/kumobox" />
-  <id>urn:rprimus:github:eklmt:kumobox</id>
-  <published>2023-05-26T18:51:36Z</published>
-  <updated>2023-05-26T18:51:36Z</updated>
-  <content type="html">
-   A program for host-integrated containers.
-  </content>
- </entry>
- <entry>
-  <title>thechampagne: libnregex</title>
-  <author>
-   <name>thechampagne</name>
-  </author>
-  <link href="https://github.com/thechampagne/libnregex" />
-  <id>urn:rprimus:github:thechampagne:libnregex</id>
-  <published>2023-05-26T16:03:20Z</published>
-  <updated>2023-05-26T16:03:20Z</updated>
-  <content type="html">
-   A C library for parsing, compiling, and executing regular expressions.
-  </content>
- </entry>
- <entry>
-  <title>ibnteo: html</title>
-  <author>
-   <name>ibnteo</name>
-  </author>
-  <link href="https://github.com/ibnteo/html" />
-  <id>urn:rprimus:github:ibnteo:html</id>
-  <published>2023-05-26T15:07:42Z</published>
-  <updated>2023-05-26T15:07:42Z</updated>
-  <content type="html">
-   HTML Template Benchmark
-  </content>
- </entry>
- <entry>
-  <title>notnullgames: null-light</title>
-  <author>
-   <name>notnullgames</name>
-  </author>
-  <link href="https://github.com/notnullgames/null-light" />
-  <id>urn:rprimus:github:notnullgames:null-light</id>
-  <published>2023-05-26T02:47:46Z</published>
-  <updated>2023-05-26T02:47:46Z</updated>
-  <content type="html">
-   IDEAS: lighter runtime (nim, pixie, etc)
   </content>
  </entry>
 </feed>
