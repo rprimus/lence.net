@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2023-06-02T02:51:40Z</updated>
+<updated>2023-06-02T17:45:38Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>wasm-outbound-http-examples: crystal</title>
+  <author>
+   <name>wasm-outbound-http-examples</name>
+  </author>
+  <link href="https://github.com/wasm-outbound-http-examples/crystal" />
+  <id>urn:rprimus:github:wasm-outbound-http-examples:crystal</id>
+  <published>2023-06-02T17:45:38Z</published>
+  <updated>2023-06-02T17:45:38Z</updated>
+  <content type="html">
+   Make HTTP requests from inside WASM in Crystal-lang
+  </content>
+ </entry>
  <entry>
   <title>Vici37: bigger</title>
   <author>
@@ -67,19 +80,6 @@
   <updated>2023-06-01T18:13:42Z</updated>
   <content type="html">
    Example chatbot for Joysticktv&#039;s API 
-  </content>
- </entry>
- <entry>
-  <title>stakach: pg_benchmark</title>
-  <author>
-   <name>stakach</name>
-  </author>
-  <link href="https://github.com/stakach/pg_benchmark" />
-  <id>urn:rprimus:github:stakach:pg_benchmark</id>
-  <published>2023-05-31T04:45:53Z</published>
-  <updated>2023-05-31T04:45:53Z</updated>
-  <content type="html">
-   benchmarks some long running queries in multiple orms
   </content>
  </entry>
 </feed>
