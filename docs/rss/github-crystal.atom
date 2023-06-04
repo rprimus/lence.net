@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2023-06-02T17:45:38Z</updated>
+<updated>2023-06-04T08:50:54Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>radbas: multibase.cr</title>
+  <author>
+   <name>radbas</name>
+  </author>
+  <link href="https://github.com/radbas/multibase.cr" />
+  <id>urn:rprimus:github:radbas:multibase.cr</id>
+  <published>2023-06-04T08:50:54Z</published>
+  <updated>2023-06-04T08:50:54Z</updated>
+  <content type="html">
+   Base transcoder (Base62, Base58, BaseN) with multibyte character alphabet support.
+  </content>
+ </entry>
+ <entry>
+  <title>nogginly: enum_state_machine.cr</title>
+  <author>
+   <name>nogginly</name>
+  </author>
+  <link href="https://github.com/nogginly/enum_state_machine.cr" />
+  <id>urn:rprimus:github:nogginly:enum_state_machine.cr</id>
+  <published>2023-06-04T00:23:55Z</published>
+  <updated>2023-06-04T00:23:55Z</updated>
+  <content type="html">
+   A type-safe finite state machine for Crystal where the states are defined using enum&#039;s.
+  </content>
+ </entry>
  <entry>
   <title>wasm-outbound-http-examples: crystal</title>
   <author>
@@ -28,58 +54,6 @@
   <updated>2023-06-02T02:51:40Z</updated>
   <content type="html">
    Arbitrary arithmetic library written in crystal
-  </content>
- </entry>
- <entry>
-  <title>Garrett96: crystal-http</title>
-  <author>
-   <name>Garrett96</name>
-  </author>
-  <link href="https://github.com/Garrett96/crystal-http" />
-  <id>urn:rprimus:github:Garrett96:crystal-http</id>
-  <published>2023-06-01T21:20:17Z</published>
-  <updated>2023-06-01T21:20:17Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>actions-marketplace-validations: knrg2812_git-version</title>
-  <author>
-   <name>actions-marketplace-validations</name>
-  </author>
-  <link href="https://github.com/actions-marketplace-validations/knrg2812_git-version" />
-  <id>urn:rprimus:github:actions-marketplace-validations:knrg2812_git-version</id>
-  <published>2023-06-01T21:11:16Z</published>
-  <updated>2023-06-01T21:11:16Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ysbaddaden: swagger.cr</title>
-  <author>
-   <name>ysbaddaden</name>
-  </author>
-  <link href="https://github.com/ysbaddaden/swagger.cr" />
-  <id>urn:rprimus:github:ysbaddaden:swagger.cr</id>
-  <published>2023-06-01T20:52:21Z</published>
-  <updated>2023-06-01T20:52:21Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>joysticktv: bot-example-crystal</title>
-  <author>
-   <name>joysticktv</name>
-  </author>
-  <link href="https://github.com/joysticktv/bot-example-crystal" />
-  <id>urn:rprimus:github:joysticktv:bot-example-crystal</id>
-  <published>2023-06-01T18:13:42Z</published>
-  <updated>2023-06-01T18:13:42Z</updated>
-  <content type="html">
-   Example chatbot for Joysticktv&#039;s API 
   </content>
  </entry>
 </feed>
