@@ -2,8 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2023-06-06T15:51:10Z</updated>
+<updated>2023-06-07T06:07:38Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>aillescas76: emacs-python</title>
+  <author>
+   <name>aillescas76</name>
+  </author>
+  <link href="https://github.com/aillescas76/emacs-python" />
+  <id>urn:rprimus:github:aillescas76:emacs-python</id>
+  <published>2023-06-07T06:07:38Z</published>
+  <updated>2023-06-07T06:07:38Z</updated>
+  <content type="html">
+   emacs for python development
+  </content>
+ </entry>
+ <entry>
+  <title>include-yy: chodf</title>
+  <author>
+   <name>include-yy</name>
+  </author>
+  <link href="https://github.com/include-yy/chodf" />
+  <id>urn:rprimus:github:include-yy:chodf</id>
+  <published>2023-06-07T05:28:28Z</published>
+  <updated>2023-06-07T05:28:28Z</updated>
+  <content type="html">
+   cho45&#039;s jsdeferred implemented in elisp
+  </content>
+ </entry>
+ <entry>
+  <title>YuChunZhou: emacs.d</title>
+  <author>
+   <name>YuChunZhou</name>
+  </author>
+  <link href="https://github.com/YuChunZhou/emacs.d" />
+  <id>urn:rprimus:github:YuChunZhou:emacs.d</id>
+  <published>2023-06-07T02:45:14Z</published>
+  <updated>2023-06-07T02:45:14Z</updated>
+  <content type="html">
+   Emacs config
+  </content>
+ </entry>
+ <entry>
+  <title>Moving-Isle: f.el</title>
+  <author>
+   <name>Moving-Isle</name>
+  </author>
+  <link href="https://github.com/Moving-Isle/f.el" />
+  <id>urn:rprimus:github:Moving-Isle:f.el</id>
+  <published>2023-06-07T02:26:12Z</published>
+  <updated>2023-06-07T02:26:12Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>nsulmol: doom-config</title>
+  <author>
+   <name>nsulmol</name>
+  </author>
+  <link href="https://github.com/nsulmol/doom-config" />
+  <id>urn:rprimus:github:nsulmol:doom-config</id>
+  <published>2023-06-07T00:27:04Z</published>
+  <updated>2023-06-07T00:27:04Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>CestDiego: .doom.d</title>
+  <author>
+   <name>CestDiego</name>
+  </author>
+  <link href="https://github.com/CestDiego/.doom.d" />
+  <id>urn:rprimus:github:CestDiego:.doom.d</id>
+  <published>2023-06-06T23:09:59Z</published>
+  <updated>2023-06-06T23:09:59Z</updated>
+  <content type="html">
+   My own doom
+  </content>
+ </entry>
+ <entry>
+  <title>cole-brown: groot</title>
+  <author>
+   <name>cole-brown</name>
+  </author>
+  <link href="https://github.com/cole-brown/groot" />
+  <id>urn:rprimus:github:cole-brown:groot</id>
+  <published>2023-06-06T18:05:03Z</published>
+  <updated>2023-06-06T18:05:03Z</updated>
+  <content type="html">
+   Support for Org links to git repo &amp; git-rooted file path.
+  </content>
+ </entry>
  <entry>
   <title>ag91: ob-gore</title>
   <author>
@@ -57,19 +148,6 @@
   </content>
  </entry>
  <entry>
-  <title>YuChunZhou: emacs.d</title>
-  <author>
-   <name>YuChunZhou</name>
-  </author>
-  <link href="https://github.com/YuChunZhou/emacs.d" />
-  <id>urn:rprimus:github:YuChunZhou:emacs.d</id>
-  <published>2023-06-06T10:05:11Z</published>
-  <updated>2023-06-06T10:05:11Z</updated>
-  <content type="html">
-   Emacs config
-  </content>
- </entry>
- <entry>
   <title>jwalsh: emacs-ai-utils</title>
   <author>
    <name>jwalsh</name>
@@ -119,19 +197,6 @@
   <updated>2023-06-05T23:32:00Z</updated>
   <content type="html">
    Emacs module for managing Agile/Scrum projects
-  </content>
- </entry>
- <entry>
-  <title>NicholasBHubbard: shman.el</title>
-  <author>
-   <name>NicholasBHubbard</name>
-  </author>
-  <link href="https://github.com/NicholasBHubbard/shman.el" />
-  <id>urn:rprimus:github:NicholasBHubbard:shman.el</id>
-  <published>2023-06-05T21:32:35Z</published>
-  <updated>2023-06-05T21:32:35Z</updated>
-  <content type="html">
-   emacs shell manager
   </content>
  </entry>
  <entry>
@@ -275,305 +340,6 @@
   <updated>2023-06-05T03:04:51Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>jegfish: jegfish.github.io</title>
-  <author>
-   <name>jegfish</name>
-  </author>
-  <link href="https://github.com/jegfish/jegfish.github.io" />
-  <id>urn:rprimus:github:jegfish:jegfish.github.io</id>
-  <published>2023-06-04T22:59:19Z</published>
-  <updated>2023-06-04T22:59:19Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>emacsmirror: org-jami-bot</title>
-  <author>
-   <name>emacsmirror</name>
-  </author>
-  <link href="https://github.com/emacsmirror/org-jami-bot" />
-  <id>urn:rprimus:github:emacsmirror:org-jami-bot</id>
-  <published>2023-06-04T22:44:31Z</published>
-  <updated>2023-06-04T22:44:31Z</updated>
-  <content type="html">
-   Capture GNU Jami messages as notes and todos in Org mode
-  </content>
- </entry>
- <entry>
-  <title>emacsmirror: dwim-coder-mode</title>
-  <author>
-   <name>emacsmirror</name>
-  </author>
-  <link href="https://github.com/emacsmirror/dwim-coder-mode" />
-  <id>urn:rprimus:github:emacsmirror:dwim-coder-mode</id>
-  <published>2023-06-04T22:42:58Z</published>
-  <updated>2023-06-04T22:42:58Z</updated>
-  <content type="html">
-   DWIM keybindings for programming modes
-  </content>
- </entry>
- <entry>
-  <title>emacsmirror: ulisp-repl</title>
-  <author>
-   <name>emacsmirror</name>
-  </author>
-  <link href="https://github.com/emacsmirror/ulisp-repl" />
-  <id>urn:rprimus:github:emacsmirror:ulisp-repl</id>
-  <published>2023-06-04T22:42:05Z</published>
-  <updated>2023-06-04T22:42:05Z</updated>
-  <content type="html">
-   ULisp REPL
-  </content>
- </entry>
- <entry>
-  <title>emacsmirror: spacious-padding</title>
-  <author>
-   <name>emacsmirror</name>
-  </author>
-  <link href="https://github.com/emacsmirror/spacious-padding" />
-  <id>urn:rprimus:github:emacsmirror:spacious-padding</id>
-  <published>2023-06-04T22:41:52Z</published>
-  <updated>2023-06-04T22:41:52Z</updated>
-  <content type="html">
-   Increase the padding/spacing of frames and windows
-  </content>
- </entry>
- <entry>
-  <title>emacsmirror: firefox-javascript-repl</title>
-  <author>
-   <name>emacsmirror</name>
-  </author>
-  <link href="https://github.com/emacsmirror/firefox-javascript-repl" />
-  <id>urn:rprimus:github:emacsmirror:firefox-javascript-repl</id>
-  <published>2023-06-04T22:41:28Z</published>
-  <updated>2023-06-04T22:41:28Z</updated>
-  <content type="html">
-   Jack into Firefox
-  </content>
- </entry>
- <entry>
-  <title>hhamud: noir-mode</title>
-  <author>
-   <name>hhamud</name>
-  </author>
-  <link href="https://github.com/hhamud/noir-mode" />
-  <id>urn:rprimus:github:hhamud:noir-mode</id>
-  <published>2023-06-04T22:04:12Z</published>
-  <updated>2023-06-04T22:04:12Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>raynei86: .emacs.d</title>
-  <author>
-   <name>raynei86</name>
-  </author>
-  <link href="https://github.com/raynei86/.emacs.d" />
-  <id>urn:rprimus:github:raynei86:.emacs.d</id>
-  <published>2023-06-04T20:26:49Z</published>
-  <updated>2023-06-04T20:26:49Z</updated>
-  <content type="html">
-   My GNU emacs config
-  </content>
- </entry>
- <entry>
-  <title>borgorworgor: dots</title>
-  <author>
-   <name>borgorworgor</name>
-  </author>
-  <link href="https://github.com/borgorworgor/dots" />
-  <id>urn:rprimus:github:borgorworgor:dots</id>
-  <published>2023-06-04T20:09:05Z</published>
-  <updated>2023-06-04T20:09:05Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>8spx: dotfiles</title>
-  <author>
-   <name>8spx</name>
-  </author>
-  <link href="https://github.com/8spx/dotfiles" />
-  <id>urn:rprimus:github:8spx:dotfiles</id>
-  <published>2023-06-04T17:37:35Z</published>
-  <updated>2023-06-04T17:37:35Z</updated>
-  <content type="html">
-   configs and so on...
-  </content>
- </entry>
- <entry>
-  <title>MrJeet-7: Configs</title>
-  <author>
-   <name>MrJeet-7</name>
-  </author>
-  <link href="https://github.com/MrJeet-7/Configs" />
-  <id>urn:rprimus:github:MrJeet-7:Configs</id>
-  <published>2023-06-04T16:46:08Z</published>
-  <updated>2023-06-04T16:46:08Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>bastisawesome: dotfiles</title>
-  <author>
-   <name>bastisawesome</name>
-  </author>
-  <link href="https://github.com/bastisawesome/dotfiles" />
-  <id>urn:rprimus:github:bastisawesome:dotfiles</id>
-  <published>2023-06-04T15:47:30Z</published>
-  <updated>2023-06-04T15:47:30Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>DanZanzibar: prot-exercises-for-zan</title>
-  <author>
-   <name>DanZanzibar</name>
-  </author>
-  <link href="https://github.com/DanZanzibar/prot-exercises-for-zan" />
-  <id>urn:rprimus:github:DanZanzibar:prot-exercises-for-zan</id>
-  <published>2023-06-04T15:34:39Z</published>
-  <updated>2023-06-04T15:34:39Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>tvlpirb: doom-config</title>
-  <author>
-   <name>tvlpirb</name>
-  </author>
-  <link href="https://github.com/tvlpirb/doom-config" />
-  <id>urn:rprimus:github:tvlpirb:doom-config</id>
-  <published>2023-06-04T15:09:28Z</published>
-  <updated>2023-06-04T15:09:28Z</updated>
-  <content type="html">
-   My doom emacs configuration
-  </content>
- </entry>
- <entry>
-  <title>jotix: guix</title>
-  <author>
-   <name>jotix</name>
-  </author>
-  <link href="https://github.com/jotix/guix" />
-  <id>urn:rprimus:github:jotix:guix</id>
-  <published>2023-06-04T14:50:16Z</published>
-  <updated>2023-06-04T14:50:16Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>quqkuk: dotfiles</title>
-  <author>
-   <name>quqkuk</name>
-  </author>
-  <link href="https://github.com/quqkuk/dotfiles" />
-  <id>urn:rprimus:github:quqkuk:dotfiles</id>
-  <published>2023-06-04T14:37:00Z</published>
-  <updated>2023-06-04T14:37:00Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>funk443: mendako-bocchi-mode</title>
-  <author>
-   <name>funk443</name>
-  </author>
-  <link href="https://github.com/funk443/mendako-bocchi-mode" />
-  <id>urn:rprimus:github:funk443:mendako-bocchi-mode</id>
-  <published>2023-06-04T12:56:50Z</published>
-  <updated>2023-06-04T12:56:50Z</updated>
-  <content type="html">
-   A running mendako Bocchi in your Emacs header line.
-  </content>
- </entry>
- <entry>
-  <title>jasedbrown: emacs_config</title>
-  <author>
-   <name>jasedbrown</name>
-  </author>
-  <link href="https://github.com/jasedbrown/emacs_config" />
-  <id>urn:rprimus:github:jasedbrown:emacs_config</id>
-  <published>2023-06-04T12:56:39Z</published>
-  <updated>2023-06-04T12:56:39Z</updated>
-  <content type="html">
-   yet another misguided attempt at upping my emacs config game ...
-  </content>
- </entry>
- <entry>
-  <title>antoineB: sql-pg-ts-mode.el</title>
-  <author>
-   <name>antoineB</name>
-  </author>
-  <link href="https://github.com/antoineB/sql-pg-ts-mode.el" />
-  <id>urn:rprimus:github:antoineB:sql-pg-ts-mode.el</id>
-  <published>2023-06-04T12:33:53Z</published>
-  <updated>2023-06-04T12:33:53Z</updated>
-  <content type="html">
-   A treesitter mode for postgres sql
-  </content>
- </entry>
- <entry>
-  <title>GravyUnknown: .emacs.d</title>
-  <author>
-   <name>GravyUnknown</name>
-  </author>
-  <link href="https://github.com/GravyUnknown/.emacs.d" />
-  <id>urn:rprimus:github:GravyUnknown:.emacs.d</id>
-  <published>2023-06-04T12:22:27Z</published>
-  <updated>2023-06-04T12:22:27Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Suzamax: .emacs.d</title>
-  <author>
-   <name>Suzamax</name>
-  </author>
-  <link href="https://github.com/Suzamax/.emacs.d" />
-  <id>urn:rprimus:github:Suzamax:.emacs.d</id>
-  <published>2023-06-04T11:50:03Z</published>
-  <updated>2023-06-04T11:50:03Z</updated>
-  <content type="html">
-   My literate configuration
-  </content>
- </entry>
- <entry>
-  <title>reisaraujo-miguel: My-Emacs-Config</title>
-  <author>
-   <name>reisaraujo-miguel</name>
-  </author>
-  <link href="https://github.com/reisaraujo-miguel/My-Emacs-Config" />
-  <id>urn:rprimus:github:reisaraujo-miguel:My-Emacs-Config</id>
-  <published>2023-06-04T06:03:15Z</published>
-  <updated>2023-06-04T06:03:15Z</updated>
-  <content type="html">
-   Vim can save your files, but only Emacs can save your soul
-  </content>
- </entry>
- <entry>
-  <title>emacs-straight: spacious-padding</title>
-  <author>
-   <name>emacs-straight</name>
-  </author>
-  <link href="https://github.com/emacs-straight/spacious-padding" />
-  <id>urn:rprimus:github:emacs-straight:spacious-padding</id>
-  <published>2023-06-04T00:06:03Z</published>
-  <updated>2023-06-04T00:06:03Z</updated>
-  <content type="html">
-   Mirror of the spacious-padding package from GNU ELPA, current as of 2023-06-06
   </content>
  </entry>
 </feed>

@@ -2,8 +2,125 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2023-06-05T08:52:38Z</updated>
+<updated>2023-06-07T02:09:50Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>DanielKeogh: persistent-tree-map</title>
+  <author>
+   <name>DanielKeogh</name>
+  </author>
+  <link href="https://github.com/DanielKeogh/persistent-tree-map" />
+  <id>urn:rprimus:github:DanielKeogh:persistent-tree-map</id>
+  <published>2023-06-07T02:09:50Z</published>
+  <updated>2023-06-07T02:09:50Z</updated>
+  <content type="html">
+   A persistent/immutable red-black tree based upon the implementation in Clojure.
+  </content>
+ </entry>
+ <entry>
+  <title>kchanqvq: plos</title>
+  <author>
+   <name>kchanqvq</name>
+  </author>
+  <link href="https://github.com/kchanqvq/plos" />
+  <id>urn:rprimus:github:kchanqvq:plos</id>
+  <published>2023-06-06T20:14:57Z</published>
+  <updated>2023-06-06T20:14:57Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>lem-project: lem-mailbox</title>
+  <author>
+   <name>lem-project</name>
+  </author>
+  <link href="https://github.com/lem-project/lem-mailbox" />
+  <id>urn:rprimus:github:lem-project:lem-mailbox</id>
+  <published>2023-06-06T14:28:30Z</published>
+  <updated>2023-06-06T14:28:30Z</updated>
+  <content type="html">
+   Mailbox ANSI CL implementation from SBCL
+  </content>
+ </entry>
+ <entry>
+  <title>MusinguziDenis: JEPSAM</title>
+  <author>
+   <name>MusinguziDenis</name>
+  </author>
+  <link href="https://github.com/MusinguziDenis/JEPSAM" />
+  <id>urn:rprimus:github:MusinguziDenis:JEPSAM</id>
+  <published>2023-06-06T07:49:39Z</published>
+  <updated>2023-06-06T07:49:39Z</updated>
+  <content type="html">
+   This repo contains the data generation code for the JEPSAM project. The code is implemeneted in CRAM plan language which is based on LISP
+  </content>
+ </entry>
+ <entry>
+  <title>timmydo: tle</title>
+  <author>
+   <name>timmydo</name>
+  </author>
+  <link href="https://github.com/timmydo/tle" />
+  <id>urn:rprimus:github:timmydo:tle</id>
+  <published>2023-06-06T05:06:00Z</published>
+  <updated>2023-06-06T05:06:00Z</updated>
+  <content type="html">
+   Timmy&#039;s Lisp Environment
+  </content>
+ </entry>
+ <entry>
+  <title>Izder456: StumpWM-Config</title>
+  <author>
+   <name>Izder456</name>
+  </author>
+  <link href="https://github.com/Izder456/StumpWM-Config" />
+  <id>urn:rprimus:github:Izder456:StumpWM-Config</id>
+  <published>2023-06-05T20:27:02Z</published>
+  <updated>2023-06-05T20:27:02Z</updated>
+  <content type="html">
+   My OpenBSD StumpWM Config
+  </content>
+ </entry>
+ <entry>
+  <title>pve1: symbolic-smalltalk-parser</title>
+  <author>
+   <name>pve1</name>
+  </author>
+  <link href="https://github.com/pve1/symbolic-smalltalk-parser" />
+  <id>urn:rprimus:github:pve1:symbolic-smalltalk-parser</id>
+  <published>2023-06-05T20:25:37Z</published>
+  <updated>2023-06-05T20:25:37Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Vest: practical-common-lisp</title>
+  <author>
+   <name>Vest</name>
+  </author>
+  <link href="https://github.com/Vest/practical-common-lisp" />
+  <id>urn:rprimus:github:Vest:practical-common-lisp</id>
+  <published>2023-06-05T19:16:04Z</published>
+  <updated>2023-06-05T19:16:04Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>BipulLamsal: myLisp</title>
+  <author>
+   <name>BipulLamsal</name>
+  </author>
+  <link href="https://github.com/BipulLamsal/myLisp" />
+  <id>urn:rprimus:github:BipulLamsal:myLisp</id>
+  <published>2023-06-05T16:36:14Z</published>
+  <updated>2023-06-05T16:36:14Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>robert-strandh: Common-boot</title>
   <author>
@@ -15,175 +132,6 @@
   <updated>2023-06-05T08:52:38Z</updated>
   <content type="html">
    Initial Clostrum environment containing portable macros for bootstrapping.
-  </content>
- </entry>
- <entry>
-  <title>jenishborah: Lisp_Guide_Example</title>
-  <author>
-   <name>jenishborah</name>
-  </author>
-  <link href="https://github.com/jenishborah/Lisp_Guide_Example" />
-  <id>urn:rprimus:github:jenishborah:Lisp_Guide_Example</id>
-  <published>2023-06-04T20:29:06Z</published>
-  <updated>2023-06-04T20:29:06Z</updated>
-  <content type="html">
-   This repo explain the use of Lisp programs 
-  </content>
- </entry>
- <entry>
-  <title>ajberkley: plotly-user</title>
-  <author>
-   <name>ajberkley</name>
-  </author>
-  <link href="https://github.com/ajberkley/plotly-user" />
-  <id>urn:rprimus:github:ajberkley:plotly-user</id>
-  <published>2023-06-04T13:59:24Z</published>
-  <updated>2023-06-04T13:59:24Z</updated>
-  <content type="html">
-   Use plotly in your browser to explore data from a Common Lisp REPL
-  </content>
- </entry>
- <entry>
-  <title>elderica: codingthematrix</title>
-  <author>
-   <name>elderica</name>
-  </author>
-  <link href="https://github.com/elderica/codingthematrix" />
-  <id>urn:rprimus:github:elderica:codingthematrix</id>
-  <published>2023-06-04T08:59:59Z</published>
-  <updated>2023-06-04T08:59:59Z</updated>
-  <content type="html">
-   Coding the Matrix with Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>Gleefre: waller</title>
-  <author>
-   <name>Gleefre</name>
-  </author>
-  <link href="https://github.com/Gleefre/waller" />
-  <id>urn:rprimus:github:Gleefre:waller</id>
-  <published>2023-06-04T01:46:04Z</published>
-  <updated>2023-06-04T01:46:04Z</updated>
-  <content type="html">
-   Waller - Game for Lisp Game Jam 2023
-  </content>
- </entry>
- <entry>
-  <title>nikitadanilov: forkjoin</title>
-  <author>
-   <name>nikitadanilov</name>
-  </author>
-  <link href="https://github.com/nikitadanilov/forkjoin" />
-  <id>urn:rprimus:github:nikitadanilov:forkjoin</id>
-  <published>2023-06-03T22:09:35Z</published>
-  <updated>2023-06-03T22:09:35Z</updated>
-  <content type="html">
-   Forj-join style concurrency package for Common Lisp.
-  </content>
- </entry>
- <entry>
-  <title>kirollos-ha: lisp-html</title>
-  <author>
-   <name>kirollos-ha</name>
-  </author>
-  <link href="https://github.com/kirollos-ha/lisp-html" />
-  <id>urn:rprimus:github:kirollos-ha:lisp-html</id>
-  <published>2023-06-03T20:48:36Z</published>
-  <updated>2023-06-03T20:48:36Z</updated>
-  <content type="html">
-   html generation with the full might of common lisp
-  </content>
- </entry>
- <entry>
-  <title>joe-op: lisp-addresses</title>
-  <author>
-   <name>joe-op</name>
-  </author>
-  <link href="https://github.com/joe-op/lisp-addresses" />
-  <id>urn:rprimus:github:joe-op:lisp-addresses</id>
-  <published>2023-06-03T20:39:11Z</published>
-  <updated>2023-06-03T20:39:11Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>thelordgod: lisp-learnin</title>
-  <author>
-   <name>thelordgod</name>
-  </author>
-  <link href="https://github.com/thelordgod/lisp-learnin" />
-  <id>urn:rprimus:github:thelordgod:lisp-learnin</id>
-  <published>2023-06-03T18:52:07Z</published>
-  <updated>2023-06-03T18:52:07Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>michaelw: mw-equiv</title>
-  <author>
-   <name>michaelw</name>
-  </author>
-  <link href="https://github.com/michaelw/mw-equiv" />
-  <id>urn:rprimus:github:michaelw:mw-equiv</id>
-  <published>2023-06-03T18:15:19Z</published>
-  <updated>2023-06-03T18:15:19Z</updated>
-  <content type="html">
-   mw-equiv provides one of many possible equivalence relations between Common Lisp objects.
-  </content>
- </entry>
- <entry>
-  <title>tail-call: cl-website</title>
-  <author>
-   <name>tail-call</name>
-  </author>
-  <link href="https://github.com/tail-call/cl-website" />
-  <id>urn:rprimus:github:tail-call:cl-website</id>
-  <published>2023-06-03T15:57:12Z</published>
-  <updated>2023-06-03T15:57:12Z</updated>
-  <content type="html">
-   Common Lisp website
-  </content>
- </entry>
- <entry>
-  <title>Z01berg: Programming_Ukrainian_Books</title>
-  <author>
-   <name>Z01berg</name>
-  </author>
-  <link href="https://github.com/Z01berg/Programming_Ukrainian_Books" />
-  <id>urn:rprimus:github:Z01berg:Programming_Ukrainian_Books</id>
-  <published>2023-06-03T13:39:03Z</published>
-  <updated>2023-06-03T13:39:03Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jcs090218: jcs-lem</title>
-  <author>
-   <name>jcs090218</name>
-  </author>
-  <link href="https://github.com/jcs090218/jcs-lem" />
-  <id>urn:rprimus:github:jcs090218:jcs-lem</id>
-  <published>2023-06-03T12:06:33Z</published>
-  <updated>2023-06-03T12:06:33Z</updated>
-  <content type="html">
-   .lem
-  </content>
- </entry>
- <entry>
-  <title>arthev: autoCLaracterization</title>
-  <author>
-   <name>arthev</name>
-  </author>
-  <link href="https://github.com/arthev/autoCLaracterization" />
-  <id>urn:rprimus:github:arthev:autoCLaracterization</id>
-  <published>2023-06-03T09:31:26Z</published>
-  <updated>2023-06-03T09:31:26Z</updated>
-  <content type="html">
-   Automatic generation of characterization tests in Common Lisp (using 5am as testing framework)
   </content>
  </entry>
 </feed>
