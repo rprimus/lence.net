@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2023-06-07T02:09:50Z</updated>
+<updated>2023-06-07T18:51:57Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>gabydd: site</title>
+  <author>
+   <name>gabydd</name>
+  </author>
+  <link href="https://github.com/gabydd/site" />
+  <id>urn:rprimus:github:gabydd:site</id>
+  <published>2023-06-07T18:51:57Z</published>
+  <updated>2023-06-07T18:51:57Z</updated>
+  <content type="html">
+   Personal site
+  </content>
+ </entry>
+ <entry>
+  <title>bohonghuang: cffi-ops</title>
+  <author>
+   <name>bohonghuang</name>
+  </author>
+  <link href="https://github.com/bohonghuang/cffi-ops" />
+  <id>urn:rprimus:github:bohonghuang:cffi-ops</id>
+  <published>2023-06-07T16:31:00Z</published>
+  <updated>2023-06-07T16:31:00Z</updated>
+  <content type="html">
+   A library that helps write concise CFFI-related code.
+  </content>
+ </entry>
+ <entry>
+  <title>lusergit: chan-actors</title>
+  <author>
+   <name>lusergit</name>
+  </author>
+  <link href="https://github.com/lusergit/chan-actors" />
+  <id>urn:rprimus:github:lusergit:chan-actors</id>
+  <published>2023-06-07T10:00:42Z</published>
+  <updated>2023-06-07T10:00:42Z</updated>
+  <content type="html">
+   Channel based communication and actor model implemented in common lisp
+  </content>
+ </entry>
+ <entry>
+  <title>Shinmera: memory-regions</title>
+  <author>
+   <name>Shinmera</name>
+  </author>
+  <link href="https://github.com/Shinmera/memory-regions" />
+  <id>urn:rprimus:github:Shinmera:memory-regions</id>
+  <published>2023-06-07T09:59:35Z</published>
+  <updated>2023-06-07T09:59:35Z</updated>
+  <content type="html">
+   This library implements the concept of a &quot;memory region&quot; along with several useful tools to deal with them
+  </content>
+ </entry>
+ <entry>
+  <title>walpurgisnatch: acmp</title>
+  <author>
+   <name>walpurgisnatch</name>
+  </author>
+  <link href="https://github.com/walpurgisnatch/acmp" />
+  <id>urn:rprimus:github:walpurgisnatch:acmp</id>
+  <published>2023-06-07T06:59:14Z</published>
+  <updated>2023-06-07T06:59:14Z</updated>
+  <content type="html">
+   acmp tasks
+  </content>
+ </entry>
  <entry>
   <title>DanielKeogh: persistent-tree-map</title>
   <author>
@@ -67,71 +132,6 @@
   <updated>2023-06-06T05:06:00Z</updated>
   <content type="html">
    Timmy&#039;s Lisp Environment
-  </content>
- </entry>
- <entry>
-  <title>Izder456: StumpWM-Config</title>
-  <author>
-   <name>Izder456</name>
-  </author>
-  <link href="https://github.com/Izder456/StumpWM-Config" />
-  <id>urn:rprimus:github:Izder456:StumpWM-Config</id>
-  <published>2023-06-05T20:27:02Z</published>
-  <updated>2023-06-05T20:27:02Z</updated>
-  <content type="html">
-   My OpenBSD StumpWM Config
-  </content>
- </entry>
- <entry>
-  <title>pve1: symbolic-smalltalk-parser</title>
-  <author>
-   <name>pve1</name>
-  </author>
-  <link href="https://github.com/pve1/symbolic-smalltalk-parser" />
-  <id>urn:rprimus:github:pve1:symbolic-smalltalk-parser</id>
-  <published>2023-06-05T20:25:37Z</published>
-  <updated>2023-06-05T20:25:37Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Vest: practical-common-lisp</title>
-  <author>
-   <name>Vest</name>
-  </author>
-  <link href="https://github.com/Vest/practical-common-lisp" />
-  <id>urn:rprimus:github:Vest:practical-common-lisp</id>
-  <published>2023-06-05T19:16:04Z</published>
-  <updated>2023-06-05T19:16:04Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>BipulLamsal: myLisp</title>
-  <author>
-   <name>BipulLamsal</name>
-  </author>
-  <link href="https://github.com/BipulLamsal/myLisp" />
-  <id>urn:rprimus:github:BipulLamsal:myLisp</id>
-  <published>2023-06-05T16:36:14Z</published>
-  <updated>2023-06-05T16:36:14Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>robert-strandh: Common-boot</title>
-  <author>
-   <name>robert-strandh</name>
-  </author>
-  <link href="https://github.com/robert-strandh/Common-boot" />
-  <id>urn:rprimus:github:robert-strandh:Common-boot</id>
-  <published>2023-06-05T08:52:38Z</published>
-  <updated>2023-06-05T08:52:38Z</updated>
-  <content type="html">
-   Initial Clostrum environment containing portable macros for bootstrapping.
   </content>
  </entry>
 </feed>
