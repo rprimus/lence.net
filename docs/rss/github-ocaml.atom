@@ -2,8 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2023-06-09T05:22:58Z</updated>
+<updated>2023-06-10T03:11:20Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>Anlesvavor: ocamlproblems</title>
+  <author>
+   <name>Anlesvavor</name>
+  </author>
+  <link href="https://github.com/Anlesvavor/ocamlproblems" />
+  <id>urn:rprimus:github:Anlesvavor:ocamlproblems</id>
+  <published>2023-06-10T03:11:20Z</published>
+  <updated>2023-06-10T03:11:20Z</updated>
+  <content type="html">
+   solutions for the exercises found on https://ocaml.org/problems
+  </content>
+ </entry>
+ <entry>
+  <title>ProgramingIsTheFuture: Shell</title>
+  <author>
+   <name>ProgramingIsTheFuture</name>
+  </author>
+  <link href="https://github.com/ProgramingIsTheFuture/Shell" />
+  <id>urn:rprimus:github:ProgramingIsTheFuture:Shell</id>
+  <published>2023-06-09T21:54:50Z</published>
+  <updated>2023-06-09T21:54:50Z</updated>
+  <content type="html">
+   Shell built with OCaml
+  </content>
+ </entry>
+ <entry>
+  <title>3intsuki: TigLLVM</title>
+  <author>
+   <name>3intsuki</name>
+  </author>
+  <link href="https://github.com/3intsuki/TigLLVM" />
+  <id>urn:rprimus:github:3intsuki:TigLLVM</id>
+  <published>2023-06-09T21:06:54Z</published>
+  <updated>2023-06-09T21:06:54Z</updated>
+  <content type="html">
+   Compiler targetting the Tigris programming language, implemented in OCaml, that specifically targets LLVM. This compiler serves as a bridge between the high-level syntax and features of Tigris and low-level LLVM, enabling efficient code generation and optimisation. 
+  </content>
+ </entry>
+ <entry>
+  <title>RongYangRosie: Movie-Recommendation-App</title>
+  <author>
+   <name>RongYangRosie</name>
+  </author>
+  <link href="https://github.com/RongYangRosie/Movie-Recommendation-App" />
+  <id>urn:rprimus:github:RongYangRosie:Movie-Recommendation-App</id>
+  <published>2023-06-09T20:34:08Z</published>
+  <updated>2023-06-09T20:34:08Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>WellDN: OCamlexe</title>
+  <author>
+   <name>WellDN</name>
+  </author>
+  <link href="https://github.com/WellDN/OCamlexe" />
+  <id>urn:rprimus:github:WellDN:OCamlexe</id>
+  <published>2023-06-09T20:33:44Z</published>
+  <updated>2023-06-09T20:33:44Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>haochenx: melange-dune-tryout-bc23</title>
+  <author>
+   <name>haochenx</name>
+  </author>
+  <link href="https://github.com/haochenx/melange-dune-tryout-bc23" />
+  <id>urn:rprimus:github:haochenx:melange-dune-tryout-bc23</id>
+  <published>2023-06-09T12:32:42Z</published>
+  <updated>2023-06-09T12:32:42Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>jotaAfonso: OcamlProjections</title>
+  <author>
+   <name>jotaAfonso</name>
+  </author>
+  <link href="https://github.com/jotaAfonso/OcamlProjections" />
+  <id>urn:rprimus:github:jotaAfonso:OcamlProjections</id>
+  <published>2023-06-09T11:00:31Z</published>
+  <updated>2023-06-09T11:00:31Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>emileasmar: AFIT</title>
   <author>
@@ -15,6 +106,19 @@
   <updated>2023-06-09T05:22:58Z</updated>
   <content type="html">
    
+  </content>
+ </entry>
+ <entry>
+  <title>c-cube: trace</title>
+  <author>
+   <name>c-cube</name>
+  </author>
+  <link href="https://github.com/c-cube/trace" />
+  <id>urn:rprimus:github:c-cube:trace</id>
+  <published>2023-06-09T01:26:56Z</published>
+  <updated>2023-06-09T01:26:56Z</updated>
+  <content type="html">
+   Common interface for tracing/instrumentation libraries in OCaml
   </content>
  </entry>
  <entry>
@@ -83,6 +187,19 @@
   </content>
  </entry>
  <entry>
+  <title>shubhamkumar13: experiments-with-cohttp</title>
+  <author>
+   <name>shubhamkumar13</name>
+  </author>
+  <link href="https://github.com/shubhamkumar13/experiments-with-cohttp" />
+  <id>urn:rprimus:github:shubhamkumar13:experiments-with-cohttp</id>
+  <published>2023-06-08T03:31:15Z</published>
+  <updated>2023-06-08T03:31:15Z</updated>
+  <content type="html">
+   replacing esy with a custom package manager in ligo
+  </content>
+ </entry>
+ <entry>
   <title>Flodreey: OCaml-Homework-Tests-2023</title>
   <author>
    <name>Flodreey</name>
@@ -91,110 +208,6 @@
   <id>urn:rprimus:github:Flodreey:OCaml-Homework-Tests-2023</id>
   <published>2023-06-08T00:02:04Z</published>
   <updated>2023-06-08T00:02:04Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ryohkhn: xpat_solver</title>
-  <author>
-   <name>ryohkhn</name>
-  </author>
-  <link href="https://github.com/ryohkhn/xpat_solver" />
-  <id>urn:rprimus:github:ryohkhn:xpat_solver</id>
-  <published>2023-06-07T21:15:43Z</published>
-  <updated>2023-06-07T21:15:43Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>kevin-won: battleship</title>
-  <author>
-   <name>kevin-won</name>
-  </author>
-  <link href="https://github.com/kevin-won/battleship" />
-  <id>urn:rprimus:github:kevin-won:battleship</id>
-  <published>2023-06-07T20:16:17Z</published>
-  <updated>2023-06-07T20:16:17Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Amory-MP2-TdD: TIPE_Paradoxe_de_Braess</title>
-  <author>
-   <name>Amory-MP2-TdD</name>
-  </author>
-  <link href="https://github.com/Amory-MP2-TdD/TIPE_Paradoxe_de_Braess" />
-  <id>urn:rprimus:github:Amory-MP2-TdD:TIPE_Paradoxe_de_Braess</id>
-  <published>2023-06-07T14:41:12Z</published>
-  <updated>2023-06-07T14:41:12Z</updated>
-  <content type="html">
-   TIPE rÃ©alisÃ© en seconde annÃ©e de classe prÃ©paratoire MPI.
-  </content>
- </entry>
- <entry>
-  <title>azazak123: avatar-bot</title>
-  <author>
-   <name>azazak123</name>
-  </author>
-  <link href="https://github.com/azazak123/avatar-bot" />
-  <id>urn:rprimus:github:azazak123:avatar-bot</id>
-  <published>2023-06-07T13:36:00Z</published>
-  <updated>2023-06-07T13:36:00Z</updated>
-  <content type="html">
-   Avatar bot for telegram
-  </content>
- </entry>
- <entry>
-  <title>SkySkimmer: coq-ltac2-compiler</title>
-  <author>
-   <name>SkySkimmer</name>
-  </author>
-  <link href="https://github.com/SkySkimmer/coq-ltac2-compiler" />
-  <id>urn:rprimus:github:SkySkimmer:coq-ltac2-compiler</id>
-  <published>2023-06-07T11:47:36Z</published>
-  <updated>2023-06-07T11:47:36Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>mark-beck: gol</title>
-  <author>
-   <name>mark-beck</name>
-  </author>
-  <link href="https://github.com/mark-beck/gol" />
-  <id>urn:rprimus:github:mark-beck:gol</id>
-  <published>2023-06-07T09:31:16Z</published>
-  <updated>2023-06-07T09:31:16Z</updated>
-  <content type="html">
-   cellular automaton engine
-  </content>
- </entry>
- <entry>
-  <title>CristianDG: aoc</title>
-  <author>
-   <name>CristianDG</name>
-  </author>
-  <link href="https://github.com/CristianDG/aoc" />
-  <id>urn:rprimus:github:CristianDG:aoc</id>
-  <published>2023-06-07T00:57:17Z</published>
-  <updated>2023-06-07T00:57:17Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>csuraparaju: CML</title>
-  <author>
-   <name>csuraparaju</name>
-  </author>
-  <link href="https://github.com/csuraparaju/CML" />
-  <id>urn:rprimus:github:csuraparaju:CML</id>
-  <published>2023-06-07T00:10:36Z</published>
-  <updated>2023-06-07T00:10:36Z</updated>
   <content type="html">
    
   </content>

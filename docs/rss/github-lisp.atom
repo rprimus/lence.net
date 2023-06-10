@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2023-06-08T12:50:58Z</updated>
+<updated>2023-06-09T22:45:12Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>erikbackman: CLickCLackCLoe</title>
+  <author>
+   <name>erikbackman</name>
+  </author>
+  <link href="https://github.com/erikbackman/CLickCLackCLoe" />
+  <id>urn:rprimus:github:erikbackman:CLickCLackCLoe</id>
+  <published>2023-06-09T22:45:12Z</published>
+  <updated>2023-06-09T22:45:12Z</updated>
+  <content type="html">
+   tictactoe
+  </content>
+ </entry>
  <entry>
   <title>tojoqk: kakeibo</title>
   <author>
@@ -15,84 +28,6 @@
   <updated>2023-06-08T12:50:58Z</updated>
   <content type="html">
    Managing my personal household accounts
-  </content>
- </entry>
- <entry>
-  <title>gabydd: site</title>
-  <author>
-   <name>gabydd</name>
-  </author>
-  <link href="https://github.com/gabydd/site" />
-  <id>urn:rprimus:github:gabydd:site</id>
-  <published>2023-06-07T18:51:57Z</published>
-  <updated>2023-06-07T18:51:57Z</updated>
-  <content type="html">
-   Personal site
-  </content>
- </entry>
- <entry>
-  <title>bohonghuang: cffi-ops</title>
-  <author>
-   <name>bohonghuang</name>
-  </author>
-  <link href="https://github.com/bohonghuang/cffi-ops" />
-  <id>urn:rprimus:github:bohonghuang:cffi-ops</id>
-  <published>2023-06-07T16:31:00Z</published>
-  <updated>2023-06-07T16:31:00Z</updated>
-  <content type="html">
-   A library that helps write concise CFFI-related code.
-  </content>
- </entry>
- <entry>
-  <title>lusergit: chan-actors</title>
-  <author>
-   <name>lusergit</name>
-  </author>
-  <link href="https://github.com/lusergit/chan-actors" />
-  <id>urn:rprimus:github:lusergit:chan-actors</id>
-  <published>2023-06-07T10:00:42Z</published>
-  <updated>2023-06-07T10:00:42Z</updated>
-  <content type="html">
-   Channel based communication and actor model implemented in common lisp
-  </content>
- </entry>
- <entry>
-  <title>Shinmera: memory-regions</title>
-  <author>
-   <name>Shinmera</name>
-  </author>
-  <link href="https://github.com/Shinmera/memory-regions" />
-  <id>urn:rprimus:github:Shinmera:memory-regions</id>
-  <published>2023-06-07T09:59:35Z</published>
-  <updated>2023-06-07T09:59:35Z</updated>
-  <content type="html">
-   This library implements the concept of a &quot;memory region&quot; along with several useful tools to deal with them
-  </content>
- </entry>
- <entry>
-  <title>walpurgisnatch: acmp</title>
-  <author>
-   <name>walpurgisnatch</name>
-  </author>
-  <link href="https://github.com/walpurgisnatch/acmp" />
-  <id>urn:rprimus:github:walpurgisnatch:acmp</id>
-  <published>2023-06-07T06:59:14Z</published>
-  <updated>2023-06-07T06:59:14Z</updated>
-  <content type="html">
-   acmp tasks
-  </content>
- </entry>
- <entry>
-  <title>DanielKeogh: persistent-tree-map</title>
-  <author>
-   <name>DanielKeogh</name>
-  </author>
-  <link href="https://github.com/DanielKeogh/persistent-tree-map" />
-  <id>urn:rprimus:github:DanielKeogh:persistent-tree-map</id>
-  <published>2023-06-07T02:09:50Z</published>
-  <updated>2023-06-07T02:09:50Z</updated>
-  <content type="html">
-   A persistent/immutable red-black tree based upon the implementation in Clojure.
   </content>
  </entry>
 </feed>
