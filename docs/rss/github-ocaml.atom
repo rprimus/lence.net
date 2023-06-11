@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2023-06-10T08:09:15Z</updated>
+<updated>2023-06-10T22:21:47Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>jenra-uwu: hm-test</title>
+  <author>
+   <name>jenra-uwu</name>
+  </author>
+  <link href="https://github.com/jenra-uwu/hm-test" />
+  <id>urn:rprimus:github:jenra-uwu:hm-test</id>
+  <published>2023-06-10T22:21:47Z</published>
+  <updated>2023-06-10T22:21:47Z</updated>
+  <content type="html">
+   basic implementation of hindley milner&#039;s algorithm j
+  </content>
+ </entry>
+ <entry>
+  <title>rnath9: burger-clicker</title>
+  <author>
+   <name>rnath9</name>
+  </author>
+  <link href="https://github.com/rnath9/burger-clicker" />
+  <id>urn:rprimus:github:rnath9:burger-clicker</id>
+  <published>2023-06-10T18:45:06Z</published>
+  <updated>2023-06-10T18:45:06Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>AryanGodara: portimpl</title>
+  <author>
+   <name>AryanGodara</name>
+  </author>
+  <link href="https://github.com/AryanGodara/portimpl" />
+  <id>urn:rprimus:github:AryanGodara:portimpl</id>
+  <published>2023-06-10T18:27:03Z</published>
+  <updated>2023-06-10T18:27:03Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>tmattio: ocaml-qdrant</title>
+  <author>
+   <name>tmattio</name>
+  </author>
+  <link href="https://github.com/tmattio/ocaml-qdrant" />
+  <id>urn:rprimus:github:tmattio:ocaml-qdrant</id>
+  <published>2023-06-10T10:07:04Z</published>
+  <updated>2023-06-10T10:07:04Z</updated>
+  <content type="html">
+   OCaml client for Qdrant vector search engine
+  </content>
+ </entry>
  <entry>
   <title>koonwen: obatcher</title>
   <author>
@@ -83,19 +135,6 @@
   </content>
  </entry>
  <entry>
-  <title>3intsuki: TigLLVM</title>
-  <author>
-   <name>3intsuki</name>
-  </author>
-  <link href="https://github.com/3intsuki/TigLLVM" />
-  <id>urn:rprimus:github:3intsuki:TigLLVM</id>
-  <published>2023-06-09T21:06:54Z</published>
-  <updated>2023-06-09T21:06:54Z</updated>
-  <content type="html">
-   Compiler targetting the Tigris programming language, implemented in OCaml, that specifically targets LLVM. This compiler serves as a bridge between the high-level syntax and features of Tigris and low-level LLVM, enabling efficient code generation and optimisation. 
-  </content>
- </entry>
- <entry>
   <title>RongYangRosie: Movie-Recommendation-App</title>
   <author>
    <name>RongYangRosie</name>
@@ -171,97 +210,6 @@
   <updated>2023-06-09T01:26:56Z</updated>
   <content type="html">
    Common interface for tracing/instrumentation libraries in OCaml
-  </content>
- </entry>
- <entry>
-  <title>friave: OCaml-graph_coloring</title>
-  <author>
-   <name>friave</name>
-  </author>
-  <link href="https://github.com/friave/OCaml-graph_coloring" />
-  <id>urn:rprimus:github:friave:OCaml-graph_coloring</id>
-  <published>2023-06-08T23:06:53Z</published>
-  <updated>2023-06-08T23:06:53Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>diohabara: ocaml-c-bindings-sample</title>
-  <author>
-   <name>diohabara</name>
-  </author>
-  <link href="https://github.com/diohabara/ocaml-c-bindings-sample" />
-  <id>urn:rprimus:github:diohabara:ocaml-c-bindings-sample</id>
-  <published>2023-06-08T16:54:29Z</published>
-  <updated>2023-06-08T16:54:29Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>amonsh1: nosock</title>
-  <author>
-   <name>amonsh1</name>
-  </author>
-  <link href="https://github.com/amonsh1/nosock" />
-  <id>urn:rprimus:github:amonsh1:nosock</id>
-  <published>2023-06-08T15:10:12Z</published>
-  <updated>2023-06-08T15:10:12Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>hernoufM: owix</title>
-  <author>
-   <name>hernoufM</name>
-  </author>
-  <link href="https://github.com/hernoufM/owix" />
-  <id>urn:rprimus:github:hernoufM:owix</id>
-  <published>2023-06-08T12:26:28Z</published>
-  <updated>2023-06-08T12:26:28Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>corite: functional-programming</title>
-  <author>
-   <name>corite</name>
-  </author>
-  <link href="https://github.com/corite/functional-programming" />
-  <id>urn:rprimus:github:corite:functional-programming</id>
-  <published>2023-06-08T05:35:59Z</published>
-  <updated>2023-06-08T05:35:59Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>shubhamkumar13: experiments-with-cohttp</title>
-  <author>
-   <name>shubhamkumar13</name>
-  </author>
-  <link href="https://github.com/shubhamkumar13/experiments-with-cohttp" />
-  <id>urn:rprimus:github:shubhamkumar13:experiments-with-cohttp</id>
-  <published>2023-06-08T03:31:15Z</published>
-  <updated>2023-06-08T03:31:15Z</updated>
-  <content type="html">
-   replacing esy with a custom package manager in ligo
-  </content>
- </entry>
- <entry>
-  <title>Flodreey: OCaml-Homework-Tests-2023</title>
-  <author>
-   <name>Flodreey</name>
-  </author>
-  <link href="https://github.com/Flodreey/OCaml-Homework-Tests-2023" />
-  <id>urn:rprimus:github:Flodreey:OCaml-Homework-Tests-2023</id>
-  <published>2023-06-08T00:02:04Z</published>
-  <updated>2023-06-08T00:02:04Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
