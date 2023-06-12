@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2023-06-11T07:43:58Z</updated>
+<updated>2023-06-11T13:48:03Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>bohonghuang: cl-cont-optimizer</title>
+  <author>
+   <name>bohonghuang</name>
+  </author>
+  <link href="https://github.com/bohonghuang/cl-cont-optimizer" />
+  <id>urn:rprimus:github:bohonghuang:cl-cont-optimizer</id>
+  <published>2023-06-11T13:48:03Z</published>
+  <updated>2023-06-11T13:48:03Z</updated>
+  <content type="html">
+   An optimizer designed for cl-cont to reduce the amount of code for CPS transformation, thereby improving performance and compilation speed.
+  </content>
+ </entry>
+ <entry>
+  <title>robert-strandh: Clostrophilia</title>
+  <author>
+   <name>robert-strandh</name>
+  </author>
+  <link href="https://github.com/robert-strandh/Clostrophilia" />
+  <id>urn:rprimus:github:robert-strandh:Clostrophilia</id>
+  <published>2023-06-11T12:36:34Z</published>
+  <updated>2023-06-11T12:36:34Z</updated>
+  <content type="html">
+   An implementation of CLOS and the CLOS MOP
+  </content>
+ </entry>
  <entry>
   <title>avodonosov: reader-garbage-collector</title>
   <author>
@@ -31,16 +57,16 @@
   </content>
  </entry>
  <entry>
-  <title>erikbackman: CLickCLackCLoe</title>
+  <title>snmsts: mirror-dist</title>
   <author>
-   <name>erikbackman</name>
+   <name>snmsts</name>
   </author>
-  <link href="https://github.com/erikbackman/CLickCLackCLoe" />
-  <id>urn:rprimus:github:erikbackman:CLickCLackCLoe</id>
-  <published>2023-06-09T22:45:12Z</published>
-  <updated>2023-06-09T22:45:12Z</updated>
+  <link href="https://github.com/snmsts/mirror-dist" />
+  <id>urn:rprimus:github:snmsts:mirror-dist</id>
+  <published>2023-06-10T12:53:08Z</published>
+  <updated>2023-06-10T12:53:08Z</updated>
   <content type="html">
-   tictactoe
+   
   </content>
  </entry>
 </feed>

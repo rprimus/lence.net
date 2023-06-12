@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2023-06-10T14:04:09Z</updated>
+<updated>2023-06-11T21:50:46Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>SpecBox: specbox-api</title>
+  <author>
+   <name>SpecBox</name>
+  </author>
+  <link href="https://github.com/SpecBox/specbox-api" />
+  <id>urn:rprimus:github:SpecBox:specbox-api</id>
+  <published>2023-06-11T21:50:46Z</published>
+  <updated>2023-06-11T21:50:46Z</updated>
+  <content type="html">
+   Backend API for SpecBox a.k.a. WebSpecimanager
+  </content>
+ </entry>
+ <entry>
+  <title>rajyan: atcoder-crystal</title>
+  <author>
+   <name>rajyan</name>
+  </author>
+  <link href="https://github.com/rajyan/atcoder-crystal" />
+  <id>urn:rprimus:github:rajyan:atcoder-crystal</id>
+  <published>2023-06-11T11:25:31Z</published>
+  <updated>2023-06-11T11:25:31Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>ralsina: croupier</title>
   <author>
@@ -28,45 +54,6 @@
   <updated>2023-06-10T10:46:16Z</updated>
   <content type="html">
    A not-quite-minimalisting SSG written in Crystal
-  </content>
- </entry>
- <entry>
-  <title>vibqetowi: invidious-backup</title>
-  <author>
-   <name>vibqetowi</name>
-  </author>
-  <link href="https://github.com/vibqetowi/invidious-backup" />
-  <id>urn:rprimus:github:vibqetowi:invidious-backup</id>
-  <published>2023-06-09T22:02:36Z</published>
-  <updated>2023-06-09T22:02:36Z</updated>
-  <content type="html">
-   invidious just received an interesting letter... anyways I wonder what the code is doing duplicated here? what a coincidence, I have nothing to do with it I swear. Must be some kind of virus
-  </content>
- </entry>
- <entry>
-  <title>wout: lucky_vite</title>
-  <author>
-   <name>wout</name>
-  </author>
-  <link href="https://github.com/wout/lucky_vite" />
-  <id>urn:rprimus:github:wout:lucky_vite</id>
-  <published>2023-06-09T17:03:17Z</published>
-  <updated>2023-06-09T17:03:17Z</updated>
-  <content type="html">
-   A plugin to make Vite play nice with Lucky Framework.
-  </content>
- </entry>
- <entry>
-  <title>GitPushLive: crystal-sample</title>
-  <author>
-   <name>GitPushLive</name>
-  </author>
-  <link href="https://github.com/GitPushLive/crystal-sample" />
-  <id>urn:rprimus:github:GitPushLive:crystal-sample</id>
-  <published>2023-06-09T13:19:13Z</published>
-  <updated>2023-06-09T13:19:13Z</updated>
-  <content type="html">
-   crystal
   </content>
  </entry>
 </feed>
