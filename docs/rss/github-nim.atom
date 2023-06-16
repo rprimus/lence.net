@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2023-06-15T18:24:31Z</updated>
+<updated>2023-06-16T09:34:12Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>hanhlinux: genhtml</title>
+  <author>
+   <name>hanhlinux</name>
+  </author>
+  <link href="https://github.com/hanhlinux/genhtml" />
+  <id>urn:rprimus:github:hanhlinux:genhtml</id>
+  <published>2023-06-16T09:34:12Z</published>
+  <updated>2023-06-16T09:34:12Z</updated>
+  <content type="html">
+   A dumb program to generate HTML, mainly for API documentation
+  </content>
+ </entry>
+ <entry>
+  <title>deNULL: hyperloglog</title>
+  <author>
+   <name>deNULL</name>
+  </author>
+  <link href="https://github.com/deNULL/hyperloglog" />
+  <id>urn:rprimus:github:deNULL:hyperloglog</id>
+  <published>2023-06-16T05:18:54Z</published>
+  <updated>2023-06-16T05:18:54Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>NahuelUTNPigui: nbn</title>
   <author>
@@ -54,45 +80,6 @@
   <updated>2023-06-14T04:53:36Z</updated>
   <content type="html">
    use dictionaries in nim
-  </content>
- </entry>
- <entry>
-  <title>mashingan: multisock</title>
-  <author>
-   <name>mashingan</name>
-  </author>
-  <link href="https://github.com/mashingan/multisock" />
-  <id>urn:rprimus:github:mashingan:multisock</id>
-  <published>2023-06-13T17:25:25Z</published>
-  <updated>2023-06-13T17:25:25Z</updated>
-  <content type="html">
-   Multisock to support Nim AsyncSocket and Socket in single code.
-  </content>
- </entry>
- <entry>
-  <title>pyrite-os: pyro</title>
-  <author>
-   <name>pyrite-os</name>
-  </author>
-  <link href="https://github.com/pyrite-os/pyro" />
-  <id>urn:rprimus:github:pyrite-os:pyro</id>
-  <published>2023-06-13T02:34:21Z</published>
-  <updated>2023-06-13T02:34:21Z</updated>
-  <content type="html">
-   The hottest way to install your packages 
-  </content>
- </entry>
- <entry>
-  <title>nirokay: nimegenerator</title>
-  <author>
-   <name>nirokay</name>
-  </author>
-  <link href="https://github.com/nirokay/nimegenerator" />
-  <id>urn:rprimus:github:nirokay:nimegenerator</id>
-  <published>2023-06-13T00:03:52Z</published>
-  <updated>2023-06-13T00:03:52Z</updated>
-  <content type="html">
-   nimegenerator is a name/word generator.
   </content>
  </entry>
 </feed>
