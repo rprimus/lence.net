@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-racket.atom"/>
 <id>urn:rprimus:github:newracketrepos</id>
-<updated>2023-06-16T07:26:21Z</updated>
+<updated>2023-06-17T07:05:01Z</updated>
 <title type='text'>New GitHub Racket Repos</title>
+ <entry>
+  <title>ottojung: racket-r7rs</title>
+  <author>
+   <name>ottojung</name>
+  </author>
+  <link href="https://github.com/ottojung/racket-r7rs" />
+  <id>urn:rprimus:github:ottojung:racket-r7rs</id>
+  <published>2023-06-17T07:05:01Z</published>
+  <updated>2023-06-17T07:05:01Z</updated>
+  <content type="html">
+   My fork of r7rs implementation for Racket
+  </content>
+ </entry>
+ <entry>
+  <title>youssefsahli: pediatrie-audit</title>
+  <author>
+   <name>youssefsahli</name>
+  </author>
+  <link href="https://github.com/youssefsahli/pediatrie-audit" />
+  <id>urn:rprimus:github:youssefsahli:pediatrie-audit</id>
+  <published>2023-06-16T13:01:08Z</published>
+  <updated>2023-06-16T13:01:08Z</updated>
+  <content type="html">
+   Service Pediatrie GUI Language (Stage Estaing)
+  </content>
+ </entry>
  <entry>
   <title>AlexanderVarfolomeev: sicp</title>
   <author>
@@ -80,71 +106,6 @@
   <updated>2023-06-15T12:22:54Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>ArunGant8: beautiful-racket</title>
-  <author>
-   <name>ArunGant8</name>
-  </author>
-  <link href="https://github.com/ArunGant8/beautiful-racket" />
-  <id>urn:rprimus:github:ArunGant8:beautiful-racket</id>
-  <published>2023-06-14T21:21:09Z</published>
-  <updated>2023-06-14T21:21:09Z</updated>
-  <content type="html">
-   A repository for the programs in https://beautifulracket.com/ (written by me, of course)
-  </content>
- </entry>
- <entry>
-  <title>GabrielCU: TC2037</title>
-  <author>
-   <name>GabrielCU</name>
-  </author>
-  <link href="https://github.com/GabrielCU/TC2037" />
-  <id>urn:rprimus:github:GabrielCU:TC2037</id>
-  <published>2023-06-14T20:02:52Z</published>
-  <updated>2023-06-14T20:02:52Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>leiDnedyA: racket-macro-test</title>
-  <author>
-   <name>leiDnedyA</name>
-  </author>
-  <link href="https://github.com/leiDnedyA/racket-macro-test" />
-  <id>urn:rprimus:github:leiDnedyA:racket-macro-test</id>
-  <published>2023-06-14T15:06:38Z</published>
-  <updated>2023-06-14T15:06:38Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jbclements: jbc-exam-lib</title>
-  <author>
-   <name>jbclements</name>
-  </author>
-  <link href="https://github.com/jbclements/jbc-exam-lib" />
-  <id>urn:rprimus:github:jbclements:jbc-exam-lib</id>
-  <published>2023-06-14T04:42:12Z</published>
-  <updated>2023-06-14T04:42:12Z</updated>
-  <content type="html">
-   support libraries for compiling and emitting html and tex exams
-  </content>
- </entry>
- <entry>
-  <title>racaid: etf</title>
-  <author>
-   <name>racaid</name>
-  </author>
-  <link href="https://github.com/racaid/etf" />
-  <id>urn:rprimus:github:racaid:etf</id>
-  <published>2023-06-14T01:52:39Z</published>
-  <updated>2023-06-14T01:52:39Z</updated>
-  <content type="html">
-   Racket support for Erlang&#039;s External Term Format, allowing Racket programs to communicate directly with Erlang nodes.
   </content>
  </entry>
 </feed>

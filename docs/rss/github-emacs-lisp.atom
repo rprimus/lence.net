@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2023-06-16T09:26:49Z</updated>
+<updated>2023-06-17T09:14:11Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>mmehner: el-xslt-wrapper-for-saxon</title>
+  <author>
+   <name>mmehner</name>
+  </author>
+  <link href="https://github.com/mmehner/el-xslt-wrapper-for-saxon" />
+  <id>urn:rprimus:github:mmehner:el-xslt-wrapper-for-saxon</id>
+  <published>2023-06-17T09:14:11Z</published>
+  <updated>2023-06-17T09:14:11Z</updated>
+  <content type="html">
+   emacs lisp wrapper for saxon XSLT processors
+  </content>
+ </entry>
+ <entry>
+  <title>dazai-osamu-san: emacs-config</title>
+  <author>
+   <name>dazai-osamu-san</name>
+  </author>
+  <link href="https://github.com/dazai-osamu-san/emacs-config" />
+  <id>urn:rprimus:github:dazai-osamu-san:emacs-config</id>
+  <published>2023-06-17T07:18:40Z</published>
+  <updated>2023-06-17T07:18:40Z</updated>
+  <content type="html">
+   my emacs configuration
+  </content>
+ </entry>
+ <entry>
+  <title>nealsid: simpleproj</title>
+  <author>
+   <name>nealsid</name>
+  </author>
+  <link href="https://github.com/nealsid/simpleproj" />
+  <id>urn:rprimus:github:nealsid:simpleproj</id>
+  <published>2023-06-17T07:06:37Z</published>
+  <updated>2023-06-17T07:06:37Z</updated>
+  <content type="html">
+   Elisp code to help manage projects with compile_commands.json files
+  </content>
+ </entry>
+ <entry>
+  <title>akirakyle: org-mode</title>
+  <author>
+   <name>akirakyle</name>
+  </author>
+  <link href="https://github.com/akirakyle/org-mode" />
+  <id>urn:rprimus:github:akirakyle:org-mode</id>
+  <published>2023-06-17T03:34:20Z</published>
+  <updated>2023-06-17T03:34:20Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>admiralakber: org-books</title>
+  <author>
+   <name>admiralakber</name>
+  </author>
+  <link href="https://github.com/admiralakber/org-books" />
+  <id>urn:rprimus:github:admiralakber:org-books</id>
+  <published>2023-06-17T03:06:34Z</published>
+  <updated>2023-06-17T03:06:34Z</updated>
+  <content type="html">
+   A paperless book like experience with org mode
+  </content>
+ </entry>
+ <entry>
+  <title>fpetros1: my-doom-emacs</title>
+  <author>
+   <name>fpetros1</name>
+  </author>
+  <link href="https://github.com/fpetros1/my-doom-emacs" />
+  <id>urn:rprimus:github:fpetros1:my-doom-emacs</id>
+  <published>2023-06-16T22:13:40Z</published>
+  <updated>2023-06-16T22:13:40Z</updated>
+  <content type="html">
+   Doom Emacs Personal Configuration
+  </content>
+ </entry>
  <entry>
   <title>pawel-damasiewicz: dotfiles</title>
   <author>
@@ -18,12 +96,25 @@
   </content>
  </entry>
  <entry>
-  <title>IammyselfYBX: my_.emacs.d</title>
+  <title>eriffon: emacs_init_windows</title>
+  <author>
+   <name>eriffon</name>
+  </author>
+  <link href="https://github.com/eriffon/emacs_init_windows" />
+  <id>urn:rprimus:github:eriffon:emacs_init_windows</id>
+  <published>2023-06-16T09:09:27Z</published>
+  <updated>2023-06-16T09:09:27Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>IammyselfYBX: .emacs.d</title>
   <author>
    <name>IammyselfYBX</name>
   </author>
-  <link href="https://github.com/IammyselfYBX/my_.emacs.d" />
-  <id>urn:rprimus:github:IammyselfYBX:my_.emacs.d</id>
+  <link href="https://github.com/IammyselfYBX/.emacs.d" />
+  <id>urn:rprimus:github:IammyselfYBX:.emacs.d</id>
   <published>2023-06-16T09:09:17Z</published>
   <updated>2023-06-16T09:09:17Z</updated>
   <content type="html">
@@ -39,6 +130,19 @@
   <id>urn:rprimus:github:MacPapo:SummerEmacs</id>
   <published>2023-06-16T08:20:51Z</published>
   <updated>2023-06-16T08:20:51Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>frandibar: dotfiles</title>
+  <author>
+   <name>frandibar</name>
+  </author>
+  <link href="https://github.com/frandibar/dotfiles" />
+  <id>urn:rprimus:github:frandibar:dotfiles</id>
+  <published>2023-06-16T06:10:48Z</published>
+  <updated>2023-06-16T06:10:48Z</updated>
   <content type="html">
    
   </content>
@@ -288,149 +392,6 @@
   <updated>2023-06-15T01:30:01Z</updated>
   <content type="html">
    My Emacs Config Files
-  </content>
- </entry>
- <entry>
-  <title>mikenlee: .emacs.d</title>
-  <author>
-   <name>mikenlee</name>
-  </author>
-  <link href="https://github.com/mikenlee/.emacs.d" />
-  <id>urn:rprimus:github:mikenlee:.emacs.d</id>
-  <published>2023-06-14T20:29:20Z</published>
-  <updated>2023-06-14T20:29:20Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Doomwhite: .wsl</title>
-  <author>
-   <name>Doomwhite</name>
-  </author>
-  <link href="https://github.com/Doomwhite/.wsl" />
-  <id>urn:rprimus:github:Doomwhite:.wsl</id>
-  <published>2023-06-14T20:00:59Z</published>
-  <updated>2023-06-14T20:00:59Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>mschloesser: dot-http-mode</title>
-  <author>
-   <name>mschloesser</name>
-  </author>
-  <link href="https://github.com/mschloesser/dot-http-mode" />
-  <id>urn:rprimus:github:mschloesser:dot-http-mode</id>
-  <published>2023-06-14T19:16:47Z</published>
-  <updated>2023-06-14T19:16:47Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>precompute: CleanEmacs</title>
-  <author>
-   <name>precompute</name>
-  </author>
-  <link href="https://github.com/precompute/CleanEmacs" />
-  <id>urn:rprimus:github:precompute:CleanEmacs</id>
-  <published>2023-06-14T18:03:57Z</published>
-  <updated>2023-06-14T18:03:57Z</updated>
-  <content type="html">
-   My .emacs.d.
-  </content>
- </entry>
- <entry>
-  <title>shuxiao9058: flycheck-buf-lint</title>
-  <author>
-   <name>shuxiao9058</name>
-  </author>
-  <link href="https://github.com/shuxiao9058/flycheck-buf-lint" />
-  <id>urn:rprimus:github:shuxiao9058:flycheck-buf-lint</id>
-  <published>2023-06-14T17:13:45Z</published>
-  <updated>2023-06-14T17:13:45Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ddling: .emacs.d</title>
-  <author>
-   <name>ddling</name>
-  </author>
-  <link href="https://github.com/ddling/.emacs.d" />
-  <id>urn:rprimus:github:ddling:.emacs.d</id>
-  <published>2023-06-14T14:39:48Z</published>
-  <updated>2023-06-14T14:39:48Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>teesh3rt: emacs</title>
-  <author>
-   <name>teesh3rt</name>
-  </author>
-  <link href="https://github.com/teesh3rt/emacs" />
-  <id>urn:rprimus:github:teesh3rt:emacs</id>
-  <published>2023-06-14T13:50:07Z</published>
-  <updated>2023-06-14T13:50:07Z</updated>
-  <content type="html">
-   My personal emacs config
-  </content>
- </entry>
- <entry>
-  <title>Elonisme: .emacs.d</title>
-  <author>
-   <name>Elonisme</name>
-  </author>
-  <link href="https://github.com/Elonisme/.emacs.d" />
-  <id>urn:rprimus:github:Elonisme:.emacs.d</id>
-  <published>2023-06-14T13:38:52Z</published>
-  <updated>2023-06-14T13:38:52Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>clsty: evil-tutor-sc</title>
-  <author>
-   <name>clsty</name>
-  </author>
-  <link href="https://github.com/clsty/evil-tutor-sc" />
-  <id>urn:rprimus:github:clsty:evil-tutor-sc</id>
-  <published>2023-06-14T02:40:53Z</published>
-  <updated>2023-06-14T02:40:53Z</updated>
-  <content type="html">
-   Evil-tutor in Simplified Chinese.
-  </content>
- </entry>
- <entry>
-  <title>martini97: testrun.el</title>
-  <author>
-   <name>martini97</name>
-  </author>
-  <link href="https://github.com/martini97/testrun.el" />
-  <id>urn:rprimus:github:martini97:testrun.el</id>
-  <published>2023-06-14T01:50:09Z</published>
-  <updated>2023-06-14T01:50:09Z</updated>
-  <content type="html">
-   Test runner for emacs
-  </content>
- </entry>
- <entry>
-  <title>sakamotokenji1983: dotfiles</title>
-  <author>
-   <name>sakamotokenji1983</name>
-  </author>
-  <link href="https://github.com/sakamotokenji1983/dotfiles" />
-  <id>urn:rprimus:github:sakamotokenji1983:dotfiles</id>
-  <published>2023-06-14T01:33:58Z</published>
-  <updated>2023-06-14T01:33:58Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
