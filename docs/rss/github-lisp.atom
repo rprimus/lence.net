@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2023-06-19T22:26:25Z</updated>
+<updated>2023-06-21T05:21:16Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>qnqp: LispTicTacToe</title>
+  <author>
+   <name>qnqp</name>
+  </author>
+  <link href="https://github.com/qnqp/LispTicTacToe" />
+  <id>urn:rprimus:github:qnqp:LispTicTacToe</id>
+  <published>2023-06-21T05:21:16Z</published>
+  <updated>2023-06-21T05:21:16Z</updated>
+  <content type="html">
+   LispTicTacToe is a command-line tic-tac-toe game written in Common Lisp.
+  </content>
+ </entry>
+ <entry>
+  <title>ak-coram: cl-zoneinfo</title>
+  <author>
+   <name>ak-coram</name>
+  </author>
+  <link href="https://github.com/ak-coram/cl-zoneinfo" />
+  <id>urn:rprimus:github:ak-coram:cl-zoneinfo</id>
+  <published>2023-06-21T01:16:45Z</published>
+  <updated>2023-06-21T01:16:45Z</updated>
+  <content type="html">
+   Time zone information for Common Lisp projects compiled from the IANA time zone database
+  </content>
+ </entry>
+ <entry>
+  <title>sessokosga: English-nomber-converter</title>
+  <author>
+   <name>sessokosga</name>
+  </author>
+  <link href="https://github.com/sessokosga/English-nomber-converter" />
+  <id>urn:rprimus:github:sessokosga:English-nomber-converter</id>
+  <published>2023-06-21T00:15:24Z</published>
+  <updated>2023-06-21T00:15:24Z</updated>
+  <content type="html">
+   Convert numbers into letters
+  </content>
+ </entry>
+ <entry>
+  <title>qnqp: LispCalc</title>
+  <author>
+   <name>qnqp</name>
+  </author>
+  <link href="https://github.com/qnqp/LispCalc" />
+  <id>urn:rprimus:github:qnqp:LispCalc</id>
+  <published>2023-06-20T14:58:05Z</published>
+  <updated>2023-06-20T14:58:05Z</updated>
+  <content type="html">
+   LispCalc is a command-line calculator app written in Common Lisp.
+  </content>
+ </entry>
+ <entry>
+  <title>ADHFMZ7: 99-lisp-problems</title>
+  <author>
+   <name>ADHFMZ7</name>
+  </author>
+  <link href="https://github.com/ADHFMZ7/99-lisp-problems" />
+  <id>urn:rprimus:github:ADHFMZ7:99-lisp-problems</id>
+  <published>2023-06-20T02:11:45Z</published>
+  <updated>2023-06-20T02:11:45Z</updated>
+  <content type="html">
+   99 Lisp problems solved in common lisp
+  </content>
+ </entry>
  <entry>
   <title>metaexpression: matasano</title>
   <author>
@@ -41,6 +106,19 @@
   <updated>2023-06-19T18:29:30Z</updated>
   <content type="html">
    Deneysel TÃ¼rkÃ§e programlama arayÃ¼zÃ¼ / Experimental programming interface for Turkish
+  </content>
+ </entry>
+ <entry>
+  <title>Gleefre: grcl</title>
+  <author>
+   <name>Gleefre</name>
+  </author>
+  <link href="https://github.com/Gleefre/grcl" />
+  <id>urn:rprimus:github:Gleefre:grcl</id>
+  <published>2023-06-19T18:20:27Z</published>
+  <updated>2023-06-19T18:20:27Z</updated>
+  <content type="html">
+   I am going to write a CL implementation.
   </content>
  </entry>
  <entry>
@@ -119,97 +197,6 @@
   <updated>2023-06-19T01:26:52Z</updated>
   <content type="html">
    Common Lisp implementation of the suncalc node module
-  </content>
- </entry>
- <entry>
-  <title>rootsecdev: reverse_shells</title>
-  <author>
-   <name>rootsecdev</name>
-  </author>
-  <link href="https://github.com/rootsecdev/reverse_shells" />
-  <id>urn:rprimus:github:rootsecdev:reverse_shells</id>
-  <published>2023-06-18T23:31:49Z</published>
-  <updated>2023-06-18T23:31:49Z</updated>
-  <content type="html">
-   Interesting Reverse Shell Repository
-  </content>
- </entry>
- <entry>
-  <title>40ants: 40ants-deploy</title>
-  <author>
-   <name>40ants</name>
-  </author>
-  <link href="https://github.com/40ants/40ants-deploy" />
-  <id>urn:rprimus:github:40ants:40ants-deploy</id>
-  <published>2023-06-18T22:57:07Z</published>
-  <updated>2023-06-18T22:57:07Z</updated>
-  <content type="html">
-   Utilities making it easier to use Deploy library.
-  </content>
- </entry>
- <entry>
-  <title>40ants: cl-plus-ssl-osx-fix</title>
-  <author>
-   <name>40ants</name>
-  </author>
-  <link href="https://github.com/40ants/cl-plus-ssl-osx-fix" />
-  <id>urn:rprimus:github:40ants:cl-plus-ssl-osx-fix</id>
-  <published>2023-06-18T18:47:27Z</published>
-  <updated>2023-06-18T18:47:27Z</updated>
-  <content type="html">
-   A fix for CL+SSL library paths on OSX needed when you have Intel and Arm64 Homebrew installations. Should be loaded before CL+SSL.
-  </content>
- </entry>
- <entry>
-  <title>renatoathaydes: lisp-site-gen</title>
-  <author>
-   <name>renatoathaydes</name>
-  </author>
-  <link href="https://github.com/renatoathaydes/lisp-site-gen" />
-  <id>urn:rprimus:github:renatoathaydes:lisp-site-gen</id>
-  <published>2023-06-18T18:14:39Z</published>
-  <updated>2023-06-18T18:14:39Z</updated>
-  <content type="html">
-   Common Lisp-based static website generator
-  </content>
- </entry>
- <entry>
-  <title>4mishra: Code-As-Data</title>
-  <author>
-   <name>4mishra</name>
-  </author>
-  <link href="https://github.com/4mishra/Code-As-Data" />
-  <id>urn:rprimus:github:4mishra:Code-As-Data</id>
-  <published>2023-06-18T16:24:21Z</published>
-  <updated>2023-06-18T16:24:21Z</updated>
-  <content type="html">
-    explanation of code-as-data
-  </content>
- </entry>
- <entry>
-  <title>ak-coram: cl-ginkgo-time</title>
-  <author>
-   <name>ak-coram</name>
-  </author>
-  <link href="https://github.com/ak-coram/cl-ginkgo-time" />
-  <id>urn:rprimus:github:ak-coram:cl-ginkgo-time</id>
-  <published>2023-06-18T13:50:34Z</published>
-  <updated>2023-06-18T13:50:34Z</updated>
-  <content type="html">
-   Common Lisp library inspired by the Java API for dates, times, instants, and durations
-  </content>
- </entry>
- <entry>
-  <title>trolololololot: tim-s-repo</title>
-  <author>
-   <name>trolololololot</name>
-  </author>
-  <link href="https://github.com/trolololololot/tim-s-repo" />
-  <id>urn:rprimus:github:trolololololot:tim-s-repo</id>
-  <published>2023-06-18T12:56:29Z</published>
-  <updated>2023-06-18T12:56:29Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
