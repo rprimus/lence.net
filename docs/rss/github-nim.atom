@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2023-06-26T07:40:24Z</updated>
+<updated>2023-06-26T14:27:37Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>Nmerryman: cve_rev</title>
+  <author>
+   <name>Nmerryman</name>
+  </author>
+  <link href="https://github.com/Nmerryman/cve_rev" />
+  <id>urn:rprimus:github:Nmerryman:cve_rev</id>
+  <published>2023-06-26T14:27:37Z</published>
+  <updated>2023-06-26T14:27:37Z</updated>
+  <content type="html">
+   My work on trying to create a cve reverser to find a cwe from the view 1000
+  </content>
+ </entry>
+ <entry>
+  <title>Martinix75: sh1106</title>
+  <author>
+   <name>Martinix75</name>
+  </author>
+  <link href="https://github.com/Martinix75/sh1106" />
+  <id>urn:rprimus:github:Martinix75:sh1106</id>
+  <published>2023-06-26T12:59:28Z</published>
+  <updated>2023-06-26T12:59:28Z</updated>
+  <content type="html">
+   SH1106 Display Library for Nim.
+  </content>
+ </entry>
+ <entry>
+  <title>Martinix75: ssd1306</title>
+  <author>
+   <name>Martinix75</name>
+  </author>
+  <link href="https://github.com/Martinix75/ssd1306" />
+  <id>urn:rprimus:github:Martinix75:ssd1306</id>
+  <published>2023-06-26T12:42:44Z</published>
+  <updated>2023-06-26T12:42:44Z</updated>
+  <content type="html">
+   SSD1308 Display Library for Nim
+  </content>
+ </entry>
  <entry>
   <title>Nemesis-OS: nemesis-pkg-nim</title>
   <author>
@@ -80,19 +119,6 @@
   <updated>2023-06-25T09:18:45Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>xTrayambak: nemesis_pkg_cli</title>
-  <author>
-   <name>xTrayambak</name>
-  </author>
-  <link href="https://github.com/xTrayambak/nemesis_pkg_cli" />
-  <id>urn:rprimus:github:xTrayambak:nemesis_pkg_cli</id>
-  <published>2023-06-24T15:02:57Z</published>
-  <updated>2023-06-24T15:02:57Z</updated>
-  <content type="html">
-   Package manager for NemesisOS
   </content>
  </entry>
 </feed>
