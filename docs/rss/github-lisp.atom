@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2023-06-27T02:21:20Z</updated>
+<updated>2023-06-28T04:44:22Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>atgreen: heresy</title>
+  <author>
+   <name>atgreen</name>
+  </author>
+  <link href="https://github.com/atgreen/heresy" />
+  <id>urn:rprimus:github:atgreen:heresy</id>
+  <published>2023-06-28T04:44:22Z</published>
+  <updated>2023-06-28T04:44:22Z</updated>
+  <content type="html">
+   Mirror of cl-heresy.cvs.sourceforge.net:/cvsroot/cl-heresy 
+  </content>
+ </entry>
+ <entry>
+  <title>dastels: swatch-sheets</title>
+  <author>
+   <name>dastels</name>
+  </author>
+  <link href="https://github.com/dastels/swatch-sheets" />
+  <id>urn:rprimus:github:dastels:swatch-sheets</id>
+  <published>2023-06-27T22:17:40Z</published>
+  <updated>2023-06-27T22:17:40Z</updated>
+  <content type="html">
+   Code to generate swatch sheets
+  </content>
+ </entry>
+ <entry>
+  <title>swapneils: flow-cl</title>
+  <author>
+   <name>swapneils</name>
+  </author>
+  <link href="https://github.com/swapneils/flow-cl" />
+  <id>urn:rprimus:github:swapneils:flow-cl</id>
+  <published>2023-06-27T20:24:20Z</published>
+  <updated>2023-06-27T20:24:20Z</updated>
+  <content type="html">
+   An extension of Common Lisp to support an idiosyncratic view of flow-based programming.
+  </content>
+ </entry>
+ <entry>
+  <title>irisitystefannilsson: MiscCode</title>
+  <author>
+   <name>irisitystefannilsson</name>
+  </author>
+  <link href="https://github.com/irisitystefannilsson/MiscCode" />
+  <id>urn:rprimus:github:irisitystefannilsson:MiscCode</id>
+  <published>2023-06-27T19:45:24Z</published>
+  <updated>2023-06-27T19:45:24Z</updated>
+  <content type="html">
+   Various useful code pieces 
+  </content>
+ </entry>
+ <entry>
+  <title>chumutt: magischeschwein</title>
+  <author>
+   <name>chumutt</name>
+  </author>
+  <link href="https://github.com/chumutt/magischeschwein" />
+  <id>urn:rprimus:github:chumutt:magischeschwein</id>
+  <published>2023-06-27T16:00:59Z</published>
+  <updated>2023-06-27T16:00:59Z</updated>
+  <content type="html">
+   csv to ledger-cli (ledger) converter for first farmers and merchants bank
+  </content>
+ </entry>
+ <entry>
+  <title>mptrzk: kreck</title>
+  <author>
+   <name>mptrzk</name>
+  </author>
+  <link href="https://github.com/mptrzk/kreck" />
+  <id>urn:rprimus:github:mptrzk:kreck</id>
+  <published>2023-06-27T14:11:57Z</published>
+  <updated>2023-06-27T14:11:57Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>crater-space: db-reader</title>
   <author>
@@ -41,84 +119,6 @@
   <updated>2023-06-26T06:02:35Z</updated>
   <content type="html">
    A database of known packages and package sources
-  </content>
- </entry>
- <entry>
-  <title>carnotweat: stumpwm</title>
-  <author>
-   <name>carnotweat</name>
-  </author>
-  <link href="https://github.com/carnotweat/stumpwm" />
-  <id>urn:rprimus:github:carnotweat:stumpwm</id>
-  <published>2023-06-25T12:50:26Z</published>
-  <updated>2023-06-25T12:50:26Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>guitarvydas: 0dv2</title>
-  <author>
-   <name>guitarvydas</name>
-  </author>
-  <link href="https://github.com/guitarvydas/0dv2" />
-  <id>urn:rprimus:github:guitarvydas:0dv2</id>
-  <published>2023-06-25T12:07:24Z</published>
-  <updated>2023-06-25T12:07:24Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>aosync: tokbuf</title>
-  <author>
-   <name>aosync</name>
-  </author>
-  <link href="https://github.com/aosync/tokbuf" />
-  <id>urn:rprimus:github:aosync:tokbuf</id>
-  <published>2023-06-25T11:54:22Z</published>
-  <updated>2023-06-25T11:54:22Z</updated>
-  <content type="html">
-   Library providing a buffered tokenizer with stacking points
-  </content>
- </entry>
- <entry>
-  <title>whitehackrpg: sokoban</title>
-  <author>
-   <name>whitehackrpg</name>
-  </author>
-  <link href="https://github.com/whitehackrpg/sokoban" />
-  <id>urn:rprimus:github:whitehackrpg:sokoban</id>
-  <published>2023-06-25T11:00:16Z</published>
-  <updated>2023-06-25T11:00:16Z</updated>
-  <content type="html">
-   A Sokoban implementation.
-  </content>
- </entry>
- <entry>
-  <title>Mekala02: mekalacar</title>
-  <author>
-   <name>Mekala02</name>
-  </author>
-  <link href="https://github.com/Mekala02/mekalacar" />
-  <id>urn:rprimus:github:Mekala02:mekalacar</id>
-  <published>2023-06-25T06:44:52Z</published>
-  <updated>2023-06-25T06:44:52Z</updated>
-  <content type="html">
-   Autonomous Driving Car With ROS
-  </content>
- </entry>
- <entry>
-  <title>timotheosh: update-nativefier</title>
-  <author>
-   <name>timotheosh</name>
-  </author>
-  <link href="https://github.com/timotheosh/update-nativefier" />
-  <id>urn:rprimus:github:timotheosh:update-nativefier</id>
-  <published>2023-06-25T00:29:07Z</published>
-  <updated>2023-06-25T00:29:07Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
