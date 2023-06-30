@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2023-06-29T05:35:43Z</updated>
+<updated>2023-06-30T03:16:48Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>thisago: seamlesserver</title>
+  <author>
+   <name>thisago</name>
+  </author>
+  <link href="https://github.com/thisago/seamlesserver" />
+  <id>urn:rprimus:github:thisago:seamlesserver</id>
+  <published>2023-06-30T03:16:48Z</published>
+  <updated>2023-06-30T03:16:48Z</updated>
+  <content type="html">
+   A web template that backend and frontend are seamless connected!
+  </content>
+ </entry>
+ <entry>
+  <title>threatcode: binnim</title>
+  <author>
+   <name>threatcode</name>
+  </author>
+  <link href="https://github.com/threatcode/binnim" />
+  <id>urn:rprimus:github:threatcode:binnim</id>
+  <published>2023-06-29T22:33:33Z</published>
+  <updated>2023-06-29T22:33:33Z</updated>
+  <content type="html">
+   Shitty Nim code that reads in a file and converts it into \x hex representation, for the use of shellcode binaries.
+  </content>
+ </entry>
+ <entry>
+  <title>planetis-m: karax-tailwind-template</title>
+  <author>
+   <name>planetis-m</name>
+  </author>
+  <link href="https://github.com/planetis-m/karax-tailwind-template" />
+  <id>urn:rprimus:github:planetis-m:karax-tailwind-template</id>
+  <published>2023-06-29T11:44:24Z</published>
+  <updated>2023-06-29T11:44:24Z</updated>
+  <content type="html">
+   A template repository for creating frontend projects using Karax and TailwindCSS.
+  </content>
+ </entry>
  <entry>
   <title>gnusec: SSHGuard</title>
   <author>
@@ -80,32 +119,6 @@
   <updated>2023-06-28T03:41:01Z</updated>
   <content type="html">
    Shitty Nim code that reads in a file and converts it into \x hex representation, for the use of shellcode binaries.
-  </content>
- </entry>
- <entry>
-  <title>elliotgrigor: skel-nim</title>
-  <author>
-   <name>elliotgrigor</name>
-  </author>
-  <link href="https://github.com/elliotgrigor/skel-nim" />
-  <id>urn:rprimus:github:elliotgrigor:skel-nim</id>
-  <published>2023-06-27T22:05:25Z</published>
-  <updated>2023-06-27T22:05:25Z</updated>
-  <content type="html">
-   A minimal template for a Nim application
-  </content>
- </entry>
- <entry>
-  <title>AFaurholt: dice-thing</title>
-  <author>
-   <name>AFaurholt</name>
-  </author>
-  <link href="https://github.com/AFaurholt/dice-thing" />
-  <id>urn:rprimus:github:AFaurholt:dice-thing</id>
-  <published>2023-06-27T10:47:21Z</published>
-  <updated>2023-06-27T10:47:21Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>

@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2023-06-29T05:11:42Z</updated>
+<updated>2023-06-30T03:03:58Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>sambdal: RTIOW-lisp</title>
+  <author>
+   <name>sambdal</name>
+  </author>
+  <link href="https://github.com/sambdal/RTIOW-lisp" />
+  <id>urn:rprimus:github:sambdal:RTIOW-lisp</id>
+  <published>2023-06-30T03:03:58Z</published>
+  <updated>2023-06-30T03:03:58Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>sambdal: marks-display</title>
+  <author>
+   <name>sambdal</name>
+  </author>
+  <link href="https://github.com/sambdal/marks-display" />
+  <id>urn:rprimus:github:sambdal:marks-display</id>
+  <published>2023-06-30T03:02:20Z</published>
+  <updated>2023-06-30T03:02:20Z</updated>
+  <content type="html">
+   Personal Program to plot marks
+  </content>
+ </entry>
+ <entry>
+  <title>belaja-akacija: dmenu-ssb</title>
+  <author>
+   <name>belaja-akacija</name>
+  </author>
+  <link href="https://github.com/belaja-akacija/dmenu-ssb" />
+  <id>urn:rprimus:github:belaja-akacija:dmenu-ssb</id>
+  <published>2023-06-29T22:45:28Z</published>
+  <updated>2023-06-29T22:45:28Z</updated>
+  <content type="html">
+   suckless search bar from dmenu, written in Common Lisp.
+  </content>
+ </entry>
+ <entry>
+  <title>DeciPaliz: advent-2015-lisp</title>
+  <author>
+   <name>DeciPaliz</name>
+  </author>
+  <link href="https://github.com/DeciPaliz/advent-2015-lisp" />
+  <id>urn:rprimus:github:DeciPaliz:advent-2015-lisp</id>
+  <published>2023-06-29T17:47:22Z</published>
+  <updated>2023-06-29T17:47:22Z</updated>
+  <content type="html">
+   My Advent of Code 2015 solutions, written in Common Lisp.
+  </content>
+ </entry>
  <entry>
   <title>Eldred777: Todo-List</title>
   <author>
@@ -67,84 +119,6 @@
   <updated>2023-06-28T04:44:22Z</updated>
   <content type="html">
    Mirror of cl-heresy.cvs.sourceforge.net:/cvsroot/cl-heresy 
-  </content>
- </entry>
- <entry>
-  <title>dastels: swatch-sheets</title>
-  <author>
-   <name>dastels</name>
-  </author>
-  <link href="https://github.com/dastels/swatch-sheets" />
-  <id>urn:rprimus:github:dastels:swatch-sheets</id>
-  <published>2023-06-27T22:17:40Z</published>
-  <updated>2023-06-27T22:17:40Z</updated>
-  <content type="html">
-   Code to generate swatch sheets
-  </content>
- </entry>
- <entry>
-  <title>swapneils: flow-cl</title>
-  <author>
-   <name>swapneils</name>
-  </author>
-  <link href="https://github.com/swapneils/flow-cl" />
-  <id>urn:rprimus:github:swapneils:flow-cl</id>
-  <published>2023-06-27T20:24:20Z</published>
-  <updated>2023-06-27T20:24:20Z</updated>
-  <content type="html">
-   An extension of Common Lisp to support an idiosyncratic view of flow-based programming.
-  </content>
- </entry>
- <entry>
-  <title>irisitystefannilsson: MiscCode</title>
-  <author>
-   <name>irisitystefannilsson</name>
-  </author>
-  <link href="https://github.com/irisitystefannilsson/MiscCode" />
-  <id>urn:rprimus:github:irisitystefannilsson:MiscCode</id>
-  <published>2023-06-27T19:45:24Z</published>
-  <updated>2023-06-27T19:45:24Z</updated>
-  <content type="html">
-   Various useful code pieces 
-  </content>
- </entry>
- <entry>
-  <title>chumutt: magischeschwein</title>
-  <author>
-   <name>chumutt</name>
-  </author>
-  <link href="https://github.com/chumutt/magischeschwein" />
-  <id>urn:rprimus:github:chumutt:magischeschwein</id>
-  <published>2023-06-27T16:00:59Z</published>
-  <updated>2023-06-27T16:00:59Z</updated>
-  <content type="html">
-   csv to ledger-cli (ledger) converter for first farmers and merchants bank
-  </content>
- </entry>
- <entry>
-  <title>mptrzk: kreck</title>
-  <author>
-   <name>mptrzk</name>
-  </author>
-  <link href="https://github.com/mptrzk/kreck" />
-  <id>urn:rprimus:github:mptrzk:kreck</id>
-  <published>2023-06-27T14:11:57Z</published>
-  <updated>2023-06-27T14:11:57Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>crater-space: db-reader</title>
-  <author>
-   <name>crater-space</name>
-  </author>
-  <link href="https://github.com/crater-space/db-reader" />
-  <id>urn:rprimus:github:crater-space:db-reader</id>
-  <published>2023-06-27T02:21:20Z</published>
-  <updated>2023-06-27T02:21:20Z</updated>
-  <content type="html">
-   An adapter to read Crater DB and generate shell scripts for appropriate actions [coming-soon]
   </content>
  </entry>
 </feed>
