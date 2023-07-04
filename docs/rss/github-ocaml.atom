@@ -2,8 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2023-07-03T05:44:32Z</updated>
+<updated>2023-07-04T09:07:14Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>PizieDust: example-mirage-unikernels</title>
+  <author>
+   <name>PizieDust</name>
+  </author>
+  <link href="https://github.com/PizieDust/example-mirage-unikernels" />
+  <id>urn:rprimus:github:PizieDust:example-mirage-unikernels</id>
+  <published>2023-07-04T09:07:14Z</published>
+  <updated>2023-07-04T09:07:14Z</updated>
+  <content type="html">
+   A catalogue of Mirage Unikernels with Persistent Storage
+  </content>
+ </entry>
+ <entry>
+  <title>zgrkrtl: Class</title>
+  <author>
+   <name>zgrkrtl</name>
+  </author>
+  <link href="https://github.com/zgrkrtl/Class" />
+  <id>urn:rprimus:github:zgrkrtl:Class</id>
+  <published>2023-07-03T21:57:19Z</published>
+  <updated>2023-07-03T21:57:19Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>midorishibukawa: witching-hour_ml</title>
+  <author>
+   <name>midorishibukawa</name>
+  </author>
+  <link href="https://github.com/midorishibukawa/witching-hour_ml" />
+  <id>urn:rprimus:github:midorishibukawa:witching-hour_ml</id>
+  <published>2023-07-03T20:58:46Z</published>
+  <updated>2023-07-03T20:58:46Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>olgam4: fisk</title>
+  <author>
+   <name>olgam4</name>
+  </author>
+  <link href="https://github.com/olgam4/fisk" />
+  <id>urn:rprimus:github:olgam4:fisk</id>
+  <published>2023-07-03T19:10:42Z</published>
+  <updated>2023-07-03T19:10:42Z</updated>
+  <content type="html">
+   ð  fisk - an ocaml starter template
+  </content>
+ </entry>
+ <entry>
+  <title>Hehk: inoread</title>
+  <author>
+   <name>Hehk</name>
+  </author>
+  <link href="https://github.com/Hehk/inoread" />
+  <id>urn:rprimus:github:Hehk:inoread</id>
+  <published>2023-07-03T18:48:34Z</published>
+  <updated>2023-07-03T18:48:34Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Ameen2000: AdventCode</title>
+  <author>
+   <name>Ameen2000</name>
+  </author>
+  <link href="https://github.com/Ameen2000/AdventCode" />
+  <id>urn:rprimus:github:Ameen2000:AdventCode</id>
+  <published>2023-07-03T17:50:43Z</published>
+  <updated>2023-07-03T17:50:43Z</updated>
+  <content type="html">
+   This repo is for educational purposes where I practice to solve Advent of Code problems using OCaml. 
+  </content>
+ </entry>
+ <entry>
+  <title>dhil: generic-count</title>
+  <author>
+   <name>dhil</name>
+  </author>
+  <link href="https://github.com/dhil/generic-count" />
+  <id>urn:rprimus:github:dhil:generic-count</id>
+  <published>2023-07-03T08:43:41Z</published>
+  <updated>2023-07-03T08:43:41Z</updated>
+  <content type="html">
+   implementing generic count using undelimited continuations, delimited continuations, and effect handlers
+  </content>
+ </entry>
  <entry>
   <title>CGQAQ: ocaml-learn</title>
   <author>
@@ -93,19 +184,6 @@
   <updated>2023-07-02T16:45:18Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>weiyizhu: compiler</title>
-  <author>
-   <name>weiyizhu</name>
-  </author>
-  <link href="https://github.com/weiyizhu/compiler" />
-  <id>urn:rprimus:github:weiyizhu:compiler</id>
-  <published>2023-07-02T15:17:04Z</published>
-  <updated>2023-07-02T15:17:04Z</updated>
-  <content type="html">
-   A compiler that parses, assembles, and executes an arbitrarily created &quot;bird&quot; language
   </content>
  </entry>
  <entry>
@@ -210,149 +288,6 @@
   <updated>2023-07-02T04:09:09Z</updated>
   <content type="html">
    This is my take on 2048, a single-player sliding block puzzle game in which one slides numbered tiles on a grid to combine them to create a tile with the number 2048. I did this as my final project for Cornell&#039;s Functional Programming class (CS 3110) using OCaml and the game runs in the user&#039;s terminal.
-  </content>
- </entry>
- <entry>
-  <title>VeroAsghar: lisp_problems</title>
-  <author>
-   <name>VeroAsghar</name>
-  </author>
-  <link href="https://github.com/VeroAsghar/lisp_problems" />
-  <id>urn:rprimus:github:VeroAsghar:lisp_problems</id>
-  <published>2023-07-01T20:30:38Z</published>
-  <updated>2023-07-01T20:30:38Z</updated>
-  <content type="html">
-   OCaml implementation of 99 lisp problems
-  </content>
- </entry>
- <entry>
-  <title>nikolatzotchev: ikamela</title>
-  <author>
-   <name>nikolatzotchev</name>
-  </author>
-  <link href="https://github.com/nikolatzotchev/ikamela" />
-  <id>urn:rprimus:github:nikolatzotchev:ikamela</id>
-  <published>2023-07-01T18:06:56Z</published>
-  <updated>2023-07-01T18:06:56Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>savonet: menhir-backup</title>
-  <author>
-   <name>savonet</name>
-  </author>
-  <link href="https://github.com/savonet/menhir-backup" />
-  <id>urn:rprimus:github:savonet:menhir-backup</id>
-  <published>2023-07-01T16:04:02Z</published>
-  <updated>2023-07-01T16:04:02Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Adrien-No: rubikaml</title>
-  <author>
-   <name>Adrien-No</name>
-  </author>
-  <link href="https://github.com/Adrien-No/rubikaml" />
-  <id>urn:rprimus:github:Adrien-No:rubikaml</id>
-  <published>2023-07-01T15:54:51Z</published>
-  <updated>2023-07-01T15:54:51Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>volesen: miniml</title>
-  <author>
-   <name>volesen</name>
-  </author>
-  <link href="https://github.com/volesen/miniml" />
-  <id>urn:rprimus:github:volesen:miniml</id>
-  <published>2023-07-01T14:21:12Z</published>
-  <updated>2023-07-01T14:21:12Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>WilliamKSilva: social-terminal</title>
-  <author>
-   <name>WilliamKSilva</name>
-  </author>
-  <link href="https://github.com/WilliamKSilva/social-terminal" />
-  <id>urn:rprimus:github:WilliamKSilva:social-terminal</id>
-  <published>2023-07-01T13:13:31Z</published>
-  <updated>2023-07-01T13:13:31Z</updated>
-  <content type="html">
-   Terminal based application to run some social platforms functionalities like spotify player, twitter timeline, discord messaging, etc
-  </content>
- </entry>
- <entry>
-  <title>rosvali: h42n42</title>
-  <author>
-   <name>rosvali</name>
-  </author>
-  <link href="https://github.com/rosvali/h42n42" />
-  <id>urn:rprimus:github:rosvali:h42n42</id>
-  <published>2023-07-01T09:12:58Z</published>
-  <updated>2023-07-01T09:12:58Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>adylanrff: chip8</title>
-  <author>
-   <name>adylanrff</name>
-  </author>
-  <link href="https://github.com/adylanrff/chip8" />
-  <id>urn:rprimus:github:adylanrff:chip8</id>
-  <published>2023-07-01T07:54:11Z</published>
-  <updated>2023-07-01T07:54:11Z</updated>
-  <content type="html">
-   Chip 8 Emulation using OCaml 
-  </content>
- </entry>
- <entry>
-  <title>Yunbo-Glasgow: LSP_Links</title>
-  <author>
-   <name>Yunbo-Glasgow</name>
-  </author>
-  <link href="https://github.com/Yunbo-Glasgow/LSP_Links" />
-  <id>urn:rprimus:github:Yunbo-Glasgow:LSP_Links</id>
-  <published>2023-07-01T06:51:36Z</published>
-  <updated>2023-07-01T06:51:36Z</updated>
-  <content type="html">
-   Implementing the LSP protocol to provide IDE functionality for the Links programming language
-  </content>
- </entry>
- <entry>
-  <title>abakst: specs</title>
-  <author>
-   <name>abakst</name>
-  </author>
-  <link href="https://github.com/abakst/specs" />
-  <id>urn:rprimus:github:abakst:specs</id>
-  <published>2023-07-01T00:37:22Z</published>
-  <updated>2023-07-01T00:37:22Z</updated>
-  <content type="html">
-   The dumbest model checker
-  </content>
- </entry>
- <entry>
-  <title>anott03: ocamlmycaml</title>
-  <author>
-   <name>anott03</name>
-  </author>
-  <link href="https://github.com/anott03/ocamlmycaml" />
-  <id>urn:rprimus:github:anott03:ocamlmycaml</id>
-  <published>2023-07-01T00:25:21Z</published>
-  <updated>2023-07-01T00:25:21Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
