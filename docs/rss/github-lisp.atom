@@ -2,8 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2023-07-04T05:52:55Z</updated>
+<updated>2023-07-05T02:12:17Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>Neshamon: rougelike</title>
+  <author>
+   <name>Neshamon</name>
+  </author>
+  <link href="https://github.com/Neshamon/rougelike" />
+  <id>urn:rprimus:github:Neshamon:rougelike</id>
+  <published>2023-07-05T02:12:17Z</published>
+  <updated>2023-07-05T02:12:17Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>facts-db: cl-rollback</title>
+  <author>
+   <name>facts-db</name>
+  </author>
+  <link href="https://github.com/facts-db/cl-rollback" />
+  <id>urn:rprimus:github:facts-db:cl-rollback</id>
+  <published>2023-07-04T19:01:03Z</published>
+  <updated>2023-07-04T19:01:03Z</updated>
+  <content type="html">
+   Common Lisp reversible transaction library.
+  </content>
+ </entry>
+ <entry>
+  <title>facts-db: cl-compare</title>
+  <author>
+   <name>facts-db</name>
+  </author>
+  <link href="https://github.com/facts-db/cl-compare" />
+  <id>urn:rprimus:github:facts-db:cl-compare</id>
+  <published>2023-07-04T18:56:53Z</published>
+  <updated>2023-07-04T18:56:53Z</updated>
+  <content type="html">
+   Common Lisp library to compare anything.
+  </content>
+ </entry>
+ <entry>
+  <title>facts-db: cl-facts</title>
+  <author>
+   <name>facts-db</name>
+  </author>
+  <link href="https://github.com/facts-db/cl-facts" />
+  <id>urn:rprimus:github:facts-db:cl-facts</id>
+  <published>2023-07-04T18:00:32Z</published>
+  <updated>2023-07-04T18:00:32Z</updated>
+  <content type="html">
+   Common Lisp in-memory graph database.
+  </content>
+ </entry>
+ <entry>
+  <title>kmx-io: sys</title>
+  <author>
+   <name>kmx-io</name>
+  </author>
+  <link href="https://github.com/kmx-io/sys" />
+  <id>urn:rprimus:github:kmx-io:sys</id>
+  <published>2023-07-04T16:26:40Z</published>
+  <updated>2023-07-04T16:26:40Z</updated>
+  <content type="html">
+   Sysadmin using cl-unix-cybernetics and bmake.
+  </content>
+ </entry>
+ <entry>
+  <title>haris-sujethan: Data-Structures</title>
+  <author>
+   <name>haris-sujethan</name>
+  </author>
+  <link href="https://github.com/haris-sujethan/Data-Structures" />
+  <id>urn:rprimus:github:haris-sujethan:Data-Structures</id>
+  <published>2023-07-04T15:22:49Z</published>
+  <updated>2023-07-04T15:22:49Z</updated>
+  <content type="html">
+   CPS 305 Data Structures Lab Repository: A collection of labs showcasing my work and understanding of data structures
+  </content>
+ </entry>
+ <entry>
+  <title>dnaeon: cl-jwk</title>
+  <author>
+   <name>dnaeon</name>
+  </author>
+  <link href="https://github.com/dnaeon/cl-jwk" />
+  <id>urn:rprimus:github:dnaeon:cl-jwk</id>
+  <published>2023-07-04T15:00:26Z</published>
+  <updated>2023-07-04T15:00:26Z</updated>
+  <content type="html">
+   Common Lisp system for decoding public JSON Web Keys (JWK)
+  </content>
+ </entry>
  <entry>
   <title>ak-coram: cl-trivial-clock</title>
   <author>
@@ -65,175 +156,6 @@
   <id>urn:rprimus:github:rajcspsg:basic-lisp</id>
   <published>2023-07-03T01:04:12Z</published>
   <updated>2023-07-03T01:04:12Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>rajcspsg: vectoot</title>
-  <author>
-   <name>rajcspsg</name>
-  </author>
-  <link href="https://github.com/rajcspsg/vectoot" />
-  <id>urn:rprimus:github:rajcspsg:vectoot</id>
-  <published>2023-07-02T23:14:17Z</published>
-  <updated>2023-07-02T23:14:17Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ghollisjr: list</title>
-  <author>
-   <name>ghollisjr</name>
-  </author>
-  <link href="https://github.com/ghollisjr/list" />
-  <id>urn:rprimus:github:ghollisjr:list</id>
-  <published>2023-07-02T22:23:33Z</published>
-  <updated>2023-07-02T22:23:33Z</updated>
-  <content type="html">
-   Conventional mutable list API for Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>Neshamon: graphics-practice</title>
-  <author>
-   <name>Neshamon</name>
-  </author>
-  <link href="https://github.com/Neshamon/graphics-practice" />
-  <id>urn:rprimus:github:Neshamon:graphics-practice</id>
-  <published>2023-07-02T17:15:57Z</published>
-  <updated>2023-07-02T17:15:57Z</updated>
-  <content type="html">
-   My journey through coding math videos with Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>takeiteasy: cl-sokol</title>
-  <author>
-   <name>takeiteasy</name>
-  </author>
-  <link href="https://github.com/takeiteasy/cl-sokol" />
-  <id>urn:rprimus:github:takeiteasy:cl-sokol</id>
-  <published>2023-07-02T15:54:54Z</published>
-  <updated>2023-07-02T15:54:54Z</updated>
-  <content type="html">
-   Unofficial Common Lisp bindings + wrapper for sokol libraries
-  </content>
- </entry>
- <entry>
-  <title>nmunro: cerberus</title>
-  <author>
-   <name>nmunro</name>
-  </author>
-  <link href="https://github.com/nmunro/cerberus" />
-  <id>urn:rprimus:github:nmunro:cerberus</id>
-  <published>2023-07-02T14:12:32Z</published>
-  <updated>2023-07-02T14:12:32Z</updated>
-  <content type="html">
-   A ningle authentication system
-  </content>
- </entry>
- <entry>
-  <title>yoshida2koji: size-limited-cache</title>
-  <author>
-   <name>yoshida2koji</name>
-  </author>
-  <link href="https://github.com/yoshida2koji/size-limited-cache" />
-  <id>urn:rprimus:github:yoshida2koji:size-limited-cache</id>
-  <published>2023-07-02T13:48:48Z</published>
-  <updated>2023-07-02T13:48:48Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>yoshida2koji: ttf-alpha-mask</title>
-  <author>
-   <name>yoshida2koji</name>
-  </author>
-  <link href="https://github.com/yoshida2koji/ttf-alpha-mask" />
-  <id>urn:rprimus:github:yoshida2koji:ttf-alpha-mask</id>
-  <published>2023-07-02T13:46:37Z</published>
-  <updated>2023-07-02T13:46:37Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>samhattangady: little_schemer</title>
-  <author>
-   <name>samhattangady</name>
-  </author>
-  <link href="https://github.com/samhattangady/little_schemer" />
-  <id>urn:rprimus:github:samhattangady:little_schemer</id>
-  <published>2023-07-02T07:15:11Z</published>
-  <updated>2023-07-02T07:15:11Z</updated>
-  <content type="html">
-   working my way through the little schemer book
-  </content>
- </entry>
- <entry>
-  <title>VitoVan: leca</title>
-  <author>
-   <name>VitoVan</name>
-  </author>
-  <link href="https://github.com/VitoVan/leca" />
-  <id>urn:rprimus:github:VitoVan:leca</id>
-  <published>2023-07-02T05:01:51Z</published>
-  <updated>2023-07-02T05:01:51Z</updated>
-  <content type="html">
-   Build Lem Binaries Built With CALM
-  </content>
- </entry>
- <entry>
-  <title>xTriixrx: cl-bus</title>
-  <author>
-   <name>xTriixrx</name>
-  </author>
-  <link href="https://github.com/xTriixrx/cl-bus" />
-  <id>urn:rprimus:github:xTriixrx:cl-bus</id>
-  <published>2023-07-02T04:27:27Z</published>
-  <updated>2023-07-02T04:27:27Z</updated>
-  <content type="html">
-   A Common Lisp message bus for message passing between decoupled applications.
-  </content>
- </entry>
- <entry>
-  <title>null-calx: donco</title>
-  <author>
-   <name>null-calx</name>
-  </author>
-  <link href="https://github.com/null-calx/donco" />
-  <id>urn:rprimus:github:null-calx:donco</id>
-  <published>2023-07-02T04:19:36Z</published>
-  <updated>2023-07-02T04:19:36Z</updated>
-  <content type="html">
-   Database DSL.
-  </content>
- </entry>
- <entry>
-  <title>LinkFly: cl-cffi-from-swig-xml</title>
-  <author>
-   <name>LinkFly</name>
-  </author>
-  <link href="https://github.com/LinkFly/cl-cffi-from-swig-xml" />
-  <id>urn:rprimus:github:LinkFly:cl-cffi-from-swig-xml</id>
-  <published>2023-07-02T04:10:10Z</published>
-  <updated>2023-07-02T04:10:10Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>altmoket: eitaro-meeting</title>
-  <author>
-   <name>altmoket</name>
-  </author>
-  <link href="https://github.com/altmoket/eitaro-meeting" />
-  <id>urn:rprimus:github:altmoket:eitaro-meeting</id>
-  <published>2023-07-02T03:27:14Z</published>
-  <updated>2023-07-02T03:27:14Z</updated>
   <content type="html">
    
   </content>
