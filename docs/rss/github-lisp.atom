@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2023-07-07T07:46:43Z</updated>
+<updated>2023-07-07T23:27:07Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>jg20019: common-lox</title>
+  <author>
+   <name>jg20019</name>
+  </author>
+  <link href="https://github.com/jg20019/common-lox" />
+  <id>urn:rprimus:github:jg20019:common-lox</id>
+  <published>2023-07-07T23:27:07Z</published>
+  <updated>2023-07-07T23:27:07Z</updated>
+  <content type="html">
+   Lox interpreter from Crafting Interpreters written in Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>haxala1r: site-generator</title>
+  <author>
+   <name>haxala1r</name>
+  </author>
+  <link href="https://github.com/haxala1r/site-generator" />
+  <id>urn:rprimus:github:haxala1r:site-generator</id>
+  <published>2023-07-07T20:11:49Z</published>
+  <updated>2023-07-07T20:11:49Z</updated>
+  <content type="html">
+   A static site generator that can create HTML and CSS code from a template written in Lisp and content written in Markdown.
+  </content>
+ </entry>
+ <entry>
+  <title>belaja-akacija: dmenu-bks</title>
+  <author>
+   <name>belaja-akacija</name>
+  </author>
+  <link href="https://github.com/belaja-akacija/dmenu-bks" />
+  <id>urn:rprimus:github:belaja-akacija:dmenu-bks</id>
+  <published>2023-07-07T17:54:18Z</published>
+  <updated>2023-07-07T17:54:18Z</updated>
+  <content type="html">
+   Open files and traverse through filesystem through dmenu
+  </content>
+ </entry>
+ <entry>
+  <title>fatimp: autocorrelation-collisions</title>
+  <author>
+   <name>fatimp</name>
+  </author>
+  <link href="https://github.com/fatimp/autocorrelation-collisions" />
+  <id>urn:rprimus:github:fatimp:autocorrelation-collisions</id>
+  <published>2023-07-07T12:26:47Z</published>
+  <updated>2023-07-07T12:26:47Z</updated>
+  <content type="html">
+   Finding non-trivial collisions in autocorrelation of bit vectors
+  </content>
+ </entry>
  <entry>
   <title>mramdanp: autolisp</title>
   <author>
@@ -70,19 +122,6 @@
   </content>
  </entry>
  <entry>
-  <title>sbcl: test</title>
-  <author>
-   <name>sbcl</name>
-  </author>
-  <link href="https://github.com/sbcl/test" />
-  <id>urn:rprimus:github:sbcl:test</id>
-  <published>2023-07-06T23:16:27Z</published>
-  <updated>2023-07-06T23:16:27Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
   <title>Bthebest-1: Floatwheel-LCM-comm-bridge</title>
   <author>
    <name>Bthebest-1</name>
@@ -119,71 +158,6 @@
   <updated>2023-07-06T00:34:11Z</updated>
   <content type="html">
    A rudimentary raycaster created in commonlisp using lispbuilder-sdl
-  </content>
- </entry>
- <entry>
-  <title>hmxmilohax: dance-central-3-deluxe</title>
-  <author>
-   <name>hmxmilohax</name>
-  </author>
-  <link href="https://github.com/hmxmilohax/dance-central-3-deluxe" />
-  <id>urn:rprimus:github:hmxmilohax:dance-central-3-deluxe</id>
-  <published>2023-07-05T22:23:47Z</published>
-  <updated>2023-07-05T22:23:47Z</updated>
-  <content type="html">
-   QoL enhancements and additions to Dance Central 3
-  </content>
- </entry>
- <entry>
-  <title>homerico: kojun-solver-lisp</title>
-  <author>
-   <name>homerico</name>
-  </author>
-  <link href="https://github.com/homerico/kojun-solver-lisp" />
-  <id>urn:rprimus:github:homerico:kojun-solver-lisp</id>
-  <published>2023-07-05T21:34:52Z</published>
-  <updated>2023-07-05T21:34:52Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>r-aziani: Lisp-Project</title>
-  <author>
-   <name>r-aziani</name>
-  </author>
-  <link href="https://github.com/r-aziani/Lisp-Project" />
-  <id>urn:rprimus:github:r-aziani:Lisp-Project</id>
-  <published>2023-07-05T13:58:39Z</published>
-  <updated>2023-07-05T13:58:39Z</updated>
-  <content type="html">
-   Lisp library manipulating polynomials
-  </content>
- </entry>
- <entry>
-  <title>drigoor: bag-of-aserve</title>
-  <author>
-   <name>drigoor</name>
-  </author>
-  <link href="https://github.com/drigoor/bag-of-aserve" />
-  <id>urn:rprimus:github:drigoor:bag-of-aserve</id>
-  <published>2023-07-05T09:56:19Z</published>
-  <updated>2023-07-05T09:56:19Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Neshamon: rougelike</title>
-  <author>
-   <name>Neshamon</name>
-  </author>
-  <link href="https://github.com/Neshamon/rougelike" />
-  <id>urn:rprimus:github:Neshamon:rougelike</id>
-  <published>2023-07-05T02:12:17Z</published>
-  <updated>2023-07-05T02:12:17Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
