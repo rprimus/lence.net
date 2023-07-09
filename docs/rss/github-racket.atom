@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-racket.atom"/>
 <id>urn:rprimus:github:newracketrepos</id>
-<updated>2023-07-07T19:14:49Z</updated>
+<updated>2023-07-08T23:28:01Z</updated>
 <title type='text'>New GitHub Racket Repos</title>
+ <entry>
+  <title>slamko: xor-nn-racket</title>
+  <author>
+   <name>slamko</name>
+  </author>
+  <link href="https://github.com/slamko/xor-nn-racket" />
+  <id>urn:rprimus:github:slamko:xor-nn-racket</id>
+  <published>2023-07-08T23:28:01Z</published>
+  <updated>2023-07-08T23:28:01Z</updated>
+  <content type="html">
+   XOR-gate neural network example in racket
+  </content>
+ </entry>
+ <entry>
+  <title>samdphillips: uke</title>
+  <author>
+   <name>samdphillips</name>
+  </author>
+  <link href="https://github.com/samdphillips/uke" />
+  <id>urn:rprimus:github:samdphillips:uke</id>
+  <published>2023-07-08T21:19:35Z</published>
+  <updated>2023-07-08T21:19:35Z</updated>
+  <content type="html">
+   Dataframe for Racket
+  </content>
+ </entry>
+ <entry>
+  <title>libgit2-racket: libgit2</title>
+  <author>
+   <name>libgit2-racket</name>
+  </author>
+  <link href="https://github.com/libgit2-racket/libgit2" />
+  <id>urn:rprimus:github:libgit2-racket:libgit2</id>
+  <published>2023-07-08T18:50:25Z</published>
+  <updated>2023-07-08T18:50:25Z</updated>
+  <content type="html">
+   Low-level Racket bindings for the libgit2 C library
+  </content>
+ </entry>
+ <entry>
+  <title>mamofthecoder: space-invaders</title>
+  <author>
+   <name>mamofthecoder</name>
+  </author>
+  <link href="https://github.com/mamofthecoder/space-invaders" />
+  <id>urn:rprimus:github:mamofthecoder:space-invaders</id>
+  <published>2023-07-08T13:35:09Z</published>
+  <updated>2023-07-08T13:35:09Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>Felipelussi: howToCodeSimpleData</title>
   <author>
@@ -18,55 +70,29 @@
   </content>
  </entry>
  <entry>
-  <title>mighmi: racketWebTooling</title>
+  <title>fobi000: sicp</title>
   <author>
-   <name>mighmi</name>
+   <name>fobi000</name>
   </author>
-  <link href="https://github.com/mighmi/racketWebTooling" />
-  <id>urn:rprimus:github:mighmi:racketWebTooling</id>
-  <published>2023-07-06T22:27:32Z</published>
-  <updated>2023-07-06T22:27:32Z</updated>
-  <content type="html">
-   Experimenting with basic web production tasks in Scheme
-  </content>
- </entry>
- <entry>
-  <title>timthirion: Racket</title>
-  <author>
-   <name>timthirion</name>
-  </author>
-  <link href="https://github.com/timthirion/Racket" />
-  <id>urn:rprimus:github:timthirion:Racket</id>
-  <published>2023-07-06T18:57:12Z</published>
-  <updated>2023-07-06T18:57:12Z</updated>
-  <content type="html">
-   Explorations in Racket
-  </content>
- </entry>
- <entry>
-  <title>Krernertok: sicp</title>
-  <author>
-   <name>Krernertok</name>
-  </author>
-  <link href="https://github.com/Krernertok/sicp" />
-  <id>urn:rprimus:github:Krernertok:sicp</id>
-  <published>2023-07-06T16:06:32Z</published>
-  <updated>2023-07-06T16:06:32Z</updated>
-  <content type="html">
-   Notes on SICP and source files for exercise solutions
-  </content>
- </entry>
- <entry>
-  <title>dbp: htdp-examplar</title>
-  <author>
-   <name>dbp</name>
-  </author>
-  <link href="https://github.com/dbp/htdp-examplar" />
-  <id>urn:rprimus:github:dbp:htdp-examplar</id>
-  <published>2023-07-06T15:32:07Z</published>
-  <updated>2023-07-06T15:32:07Z</updated>
+  <link href="https://github.com/fobi000/sicp" />
+  <id>urn:rprimus:github:fobi000:sicp</id>
+  <published>2023-07-07T12:04:25Z</published>
+  <updated>2023-07-07T12:04:25Z</updated>
   <content type="html">
    
+  </content>
+ </entry>
+ <entry>
+  <title>saneef: sublp</title>
+  <author>
+   <name>saneef</name>
+  </author>
+  <link href="https://github.com/saneef/sublp" />
+  <id>urn:rprimus:github:saneef:sublp</id>
+  <published>2023-07-07T07:17:32Z</published>
+  <updated>2023-07-07T07:17:32Z</updated>
+  <content type="html">
+   It&#039;s a smarter `subl` CLI tool for Sublime Text.
   </content>
  </entry>
 </feed>

@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2023-07-08T08:54:45Z</updated>
+<updated>2023-07-09T03:46:14Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>AptDevCode: crystal-rest-api-template</title>
+  <author>
+   <name>AptDevCode</name>
+  </author>
+  <link href="https://github.com/AptDevCode/crystal-rest-api-template" />
+  <id>urn:rprimus:github:AptDevCode:crystal-rest-api-template</id>
+  <published>2023-07-09T03:46:14Z</published>
+  <updated>2023-07-09T03:46:14Z</updated>
+  <content type="html">
+   A template implementing best practices to create a REST API in Crystal lang!
+  </content>
+ </entry>
+ <entry>
+  <title>ralsina: cr-discount</title>
+  <author>
+   <name>ralsina</name>
+  </author>
+  <link href="https://github.com/ralsina/cr-discount" />
+  <id>urn:rprimus:github:ralsina:cr-discount</id>
+  <published>2023-07-08T23:14:27Z</published>
+  <updated>2023-07-08T23:14:27Z</updated>
+  <content type="html">
+   A thin Crystal wrapper for discount, a markdown implementation
+  </content>
+ </entry>
+ <entry>
+  <title>joseafga: pubsubhubbub.cr</title>
+  <author>
+   <name>joseafga</name>
+  </author>
+  <link href="https://github.com/joseafga/pubsubhubbub.cr" />
+  <id>urn:rprimus:github:joseafga:pubsubhubbub.cr</id>
+  <published>2023-07-08T20:59:36Z</published>
+  <updated>2023-07-08T20:59:36Z</updated>
+  <content type="html">
+   PubSubHubbub subscriber library written in Crystal.
+  </content>
+ </entry>
  <entry>
   <title>Holmqvist1990: sync</title>
   <author>
@@ -14,7 +53,7 @@
   <published>2023-07-08T08:54:45Z</published>
   <updated>2023-07-08T08:54:45Z</updated>
   <content type="html">
-   
+   who needs commit messages anyway
   </content>
  </entry>
  <entry>
@@ -41,32 +80,6 @@
   <updated>2023-07-07T00:08:51Z</updated>
   <content type="html">
    A thinking engine
-  </content>
- </entry>
- <entry>
-  <title>NeuraLegion: llm_query</title>
-  <author>
-   <name>NeuraLegion</name>
-  </author>
-  <link href="https://github.com/NeuraLegion/llm_query" />
-  <id>urn:rprimus:github:NeuraLegion:llm_query</id>
-  <published>2023-07-06T11:01:33Z</published>
-  <updated>2023-07-06T11:01:33Z</updated>
-  <content type="html">
-   Easy to use web wrapper around rustformers/llm using the hermes model
-  </content>
- </entry>
- <entry>
-  <title>lucas-de-lima: travels_booker_api</title>
-  <author>
-   <name>lucas-de-lima</name>
-  </author>
-  <link href="https://github.com/lucas-de-lima/travels_booker_api" />
-  <id>urn:rprimus:github:lucas-de-lima:travels_booker_api</id>
-  <published>2023-07-06T01:25:48Z</published>
-  <updated>2023-07-06T01:25:48Z</updated>
-  <content type="html">
-   A API Multiverse Travels Booker Ã© uma API desenvolvida em Crystal com o framework Lucky, que permite planejar e reservar viagens interdimensionais no universo de Rick and Morty. Desenvolvido como parte de um &#039;Code Challenge&#039; disposto por uma empresa.
   </content>
  </entry>
 </feed>

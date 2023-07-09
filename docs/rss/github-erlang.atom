@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-erlang.atom"/>
 <id>urn:rprimus:github:newerlangrepos</id>
-<updated>2023-07-07T22:57:13Z</updated>
+<updated>2023-07-08T15:23:01Z</updated>
 <title type='text'>New GitHub Erlang Repos</title>
+ <entry>
+  <title>Mokso2: course_project</title>
+  <author>
+   <name>Mokso2</name>
+  </author>
+  <link href="https://github.com/Mokso2/course_project" />
+  <id>urn:rprimus:github:Mokso2:course_project</id>
+  <published>2023-07-08T15:23:01Z</published>
+  <updated>2023-07-08T15:23:01Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Mokso2: eltex_erlang_courseproject</title>
+  <author>
+   <name>Mokso2</name>
+  </author>
+  <link href="https://github.com/Mokso2/eltex_erlang_courseproject" />
+  <id>urn:rprimus:github:Mokso2:eltex_erlang_courseproject</id>
+  <published>2023-07-08T14:48:56Z</published>
+  <updated>2023-07-08T14:48:56Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>W3NDO: Befunge93-Elixir-Interpreter</title>
+  <author>
+   <name>W3NDO</name>
+  </author>
+  <link href="https://github.com/W3NDO/Befunge93-Elixir-Interpreter" />
+  <id>urn:rprimus:github:W3NDO:Befunge93-Elixir-Interpreter</id>
+  <published>2023-07-08T11:35:26Z</published>
+  <updated>2023-07-08T11:35:26Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>wfenglund: erlang_chat</title>
   <author>
@@ -28,123 +67,6 @@
   <updated>2023-07-07T17:34:16Z</updated>
   <content type="html">
    gneric parser generator using leex and yecc
-  </content>
- </entry>
- <entry>
-  <title>terry-xiaoyu: msg_batcher</title>
-  <author>
-   <name>terry-xiaoyu</name>
-  </author>
-  <link href="https://github.com/terry-xiaoyu/msg_batcher" />
-  <id>urn:rprimus:github:terry-xiaoyu:msg_batcher</id>
-  <published>2023-07-06T18:44:38Z</published>
-  <updated>2023-07-06T18:44:38Z</updated>
-  <content type="html">
-   A batcher that accumulates messages in ETS tables and then handles them in batches.
-  </content>
- </entry>
- <entry>
-  <title>manish198: Banking-System</title>
-  <author>
-   <name>manish198</name>
-  </author>
-  <link href="https://github.com/manish198/Banking-System" />
-  <id>urn:rprimus:github:manish198:Banking-System</id>
-  <published>2023-07-06T15:25:12Z</published>
-  <updated>2023-07-06T15:25:12Z</updated>
-  <content type="html">
-   Simulation of Banking transactions between concurrent banks and concurrent customers using Erlang.
-  </content>
- </entry>
- <entry>
-  <title>JeanCarloUNL: Proyecto_Elevador</title>
-  <author>
-   <name>JeanCarloUNL</name>
-  </author>
-  <link href="https://github.com/JeanCarloUNL/Proyecto_Elevador" />
-  <id>urn:rprimus:github:JeanCarloUNL:Proyecto_Elevador</id>
-  <published>2023-07-06T15:12:58Z</published>
-  <updated>2023-07-06T15:12:58Z</updated>
-  <content type="html">
-   Proyecto de Algoritmos y Programacion Paralela
-  </content>
- </entry>
- <entry>
-  <title>AlexanderAdrianVicenteJimenez: pagos_erlang</title>
-  <author>
-   <name>AlexanderAdrianVicenteJimenez</name>
-  </author>
-  <link href="https://github.com/AlexanderAdrianVicenteJimenez/pagos_erlang" />
-  <id>urn:rprimus:github:AlexanderAdrianVicenteJimenez:pagos_erlang</id>
-  <published>2023-07-06T15:00:24Z</published>
-  <updated>2023-07-06T15:00:24Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>mrchenfenglin: erlangError</title>
-  <author>
-   <name>mrchenfenglin</name>
-  </author>
-  <link href="https://github.com/mrchenfenglin/erlangError" />
-  <id>urn:rprimus:github:mrchenfenglin:erlangError</id>
-  <published>2023-07-06T12:05:46Z</published>
-  <updated>2023-07-06T12:05:46Z</updated>
-  <content type="html">
-   erlang_send_after_lock 
-  </content>
- </entry>
- <entry>
-  <title>shortishly: pgsqlp</title>
-  <author>
-   <name>shortishly</name>
-  </author>
-  <link href="https://github.com/shortishly/pgsqlp" />
-  <id>urn:rprimus:github:shortishly:pgsqlp</id>
-  <published>2023-07-06T10:43:52Z</published>
-  <updated>2023-07-06T10:43:52Z</updated>
-  <content type="html">
-   Postgres SQL parser using scran
-  </content>
- </entry>
- <entry>
-  <title>shortishly: scran</title>
-  <author>
-   <name>shortishly</name>
-  </author>
-  <link href="https://github.com/shortishly/scran" />
-  <id>urn:rprimus:github:shortishly:scran</id>
-  <published>2023-07-06T08:43:02Z</published>
-  <updated>2023-07-06T08:43:02Z</updated>
-  <content type="html">
-   scran is a text parser combinator library heavily influenced by nom
-  </content>
- </entry>
- <entry>
-  <title>isavita: concurrent-app</title>
-  <author>
-   <name>isavita</name>
-  </author>
-  <link href="https://github.com/isavita/concurrent-app" />
-  <id>urn:rprimus:github:isavita:concurrent-app</id>
-  <published>2023-07-06T06:22:04Z</published>
-  <updated>2023-07-06T06:22:04Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>PatricioOPCH: AscensorErlang</title>
-  <author>
-   <name>PatricioOPCH</name>
-  </author>
-  <link href="https://github.com/PatricioOPCH/AscensorErlang" />
-  <id>urn:rprimus:github:PatricioOPCH:AscensorErlang</id>
-  <published>2023-07-06T05:52:54Z</published>
-  <updated>2023-07-06T05:52:54Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
