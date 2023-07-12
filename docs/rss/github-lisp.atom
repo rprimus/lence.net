@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2023-07-11T02:51:20Z</updated>
+<updated>2023-07-11T22:18:16Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>dmcbane: postoffice</title>
+  <author>
+   <name>dmcbane</name>
+  </author>
+  <link href="https://github.com/dmcbane/postoffice" />
+  <id>urn:rprimus:github:dmcbane:postoffice</id>
+  <published>2023-07-11T22:18:16Z</published>
+  <updated>2023-07-11T22:18:16Z</updated>
+  <content type="html">
+   Mirror of Kevin M. Rosenberg&#039;s kmr@debian.org Official Repository at http://git.kpe.io/postoffice.git/
+  </content>
+ </entry>
+ <entry>
+  <title>heisenberg141: scara_ros</title>
+  <author>
+   <name>heisenberg141</name>
+  </author>
+  <link href="https://github.com/heisenberg141/scara_ros" />
+  <id>urn:rprimus:github:heisenberg141:scara_ros</id>
+  <published>2023-07-11T14:21:19Z</published>
+  <updated>2023-07-11T14:21:19Z</updated>
+  <content type="html">
+   This repository contains my implementation of scara robot on gazebo and code for its forward, differential and inverse kinematics
+  </content>
+ </entry>
+ <entry>
+  <title>SalamandraDevs: Termpop</title>
+  <author>
+   <name>SalamandraDevs</name>
+  </author>
+  <link href="https://github.com/SalamandraDevs/Termpop" />
+  <id>urn:rprimus:github:SalamandraDevs:Termpop</id>
+  <published>2023-07-11T14:09:05Z</published>
+  <updated>2023-07-11T14:09:05Z</updated>
+  <content type="html">
+   An elisp script to launch your favorite terminal
+  </content>
+ </entry>
+ <entry>
+  <title>cmg-york: secure-fuse</title>
+  <author>
+   <name>cmg-york</name>
+  </author>
+  <link href="https://github.com/cmg-york/secure-fuse" />
+  <id>urn:rprimus:github:cmg-york:secure-fuse</id>
+  <published>2023-07-11T12:43:26Z</published>
+  <updated>2023-07-11T12:43:26Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>yothebob: practical-clisp</title>
   <author>
@@ -44,6 +96,19 @@
   </content>
  </entry>
  <entry>
+  <title>motoshira: httf2022-qual</title>
+  <author>
+   <name>motoshira</name>
+  </author>
+  <link href="https://github.com/motoshira/httf2022-qual" />
+  <id>urn:rprimus:github:motoshira:httf2022-qual</id>
+  <published>2023-07-10T11:13:01Z</published>
+  <updated>2023-07-10T11:13:01Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
   <title>timeqsz: practical</title>
   <author>
    <name>timeqsz</name>
@@ -67,45 +132,6 @@
   <updated>2023-07-10T03:51:31Z</updated>
   <content type="html">
    Common Lisp implementation of the game connect four
-  </content>
- </entry>
- <entry>
-  <title>mdbergmann: cl-hab</title>
-  <author>
-   <name>mdbergmann</name>
-  </author>
-  <link href="https://github.com/mdbergmann/cl-hab" />
-  <id>urn:rprimus:github:mdbergmann:cl-hab</id>
-  <published>2023-07-09T16:04:06Z</published>
-  <updated>2023-07-09T16:04:06Z</updated>
-  <content type="html">
-   House automation bus in Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>Collin2024: LISP_VERSION_Buildup_Collin_Schumacher_Edition</title>
-  <author>
-   <name>Collin2024</name>
-  </author>
-  <link href="https://github.com/Collin2024/LISP_VERSION_Buildup_Collin_Schumacher_Edition" />
-  <id>urn:rprimus:github:Collin2024:LISP_VERSION_Buildup_Collin_Schumacher_Edition</id>
-  <published>2023-07-09T07:23:30Z</published>
-  <updated>2023-07-09T07:23:30Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jeffshrager: wynnrun</title>
-  <author>
-   <name>jeffshrager</name>
-  </author>
-  <link href="https://github.com/jeffshrager/wynnrun" />
-  <id>urn:rprimus:github:jeffshrager:wynnrun</id>
-  <published>2023-07-09T01:13:44Z</published>
-  <updated>2023-07-09T01:13:44Z</updated>
-  <content type="html">
-   A Lisp translation of the core crafting algorithm from https://github.com/hppeng-wynn/hppeng-wynn.github.io craft.js so that it can be used as the core for optimization
   </content>
  </entry>
 </feed>
