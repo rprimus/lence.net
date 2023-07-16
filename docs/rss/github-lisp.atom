@@ -2,8 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2023-07-14T17:05:59Z</updated>
+<updated>2023-07-16T02:03:42Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>berrym: guessing-game-lisp</title>
+  <author>
+   <name>berrym</name>
+  </author>
+  <link href="https://github.com/berrym/guessing-game-lisp" />
+  <id>urn:rprimus:github:berrym:guessing-game-lisp</id>
+  <published>2023-07-16T02:03:42Z</published>
+  <updated>2023-07-16T02:03:42Z</updated>
+  <content type="html">
+   Guess the secret number game written in common lisp.
+  </content>
+ </entry>
+ <entry>
+  <title>AndreSlavescu: LispGrad</title>
+  <author>
+   <name>AndreSlavescu</name>
+  </author>
+  <link href="https://github.com/AndreSlavescu/LispGrad" />
+  <id>urn:rprimus:github:AndreSlavescu:LispGrad</id>
+  <published>2023-07-16T01:06:37Z</published>
+  <updated>2023-07-16T01:06:37Z</updated>
+  <content type="html">
+   a lisp based autograd engine
+  </content>
+ </entry>
+ <entry>
+  <title>worldsmithroy: advent-of-code-2022</title>
+  <author>
+   <name>worldsmithroy</name>
+  </author>
+  <link href="https://github.com/worldsmithroy/advent-of-code-2022" />
+  <id>urn:rprimus:github:worldsmithroy:advent-of-code-2022</id>
+  <published>2023-07-15T22:33:18Z</published>
+  <updated>2023-07-15T22:33:18Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Gleefre: sketch-buttons</title>
+  <author>
+   <name>Gleefre</name>
+  </author>
+  <link href="https://github.com/Gleefre/sketch-buttons" />
+  <id>urn:rprimus:github:Gleefre:sketch-buttons</id>
+  <published>2023-07-15T14:00:06Z</published>
+  <updated>2023-07-15T14:00:06Z</updated>
+  <content type="html">
+   Buttons for sketch library
+  </content>
+ </entry>
+ <entry>
+  <title>Gleefre: sketch-utils</title>
+  <author>
+   <name>Gleefre</name>
+  </author>
+  <link href="https://github.com/Gleefre/sketch-utils" />
+  <id>urn:rprimus:github:Gleefre:sketch-utils</id>
+  <published>2023-07-15T13:54:51Z</published>
+  <updated>2023-07-15T13:54:51Z</updated>
+  <content type="html">
+   My sketch utilities
+  </content>
+ </entry>
+ <entry>
+  <title>Gleefre: low-batter</title>
+  <author>
+   <name>Gleefre</name>
+  </author>
+  <link href="https://github.com/Gleefre/low-batter" />
+  <id>urn:rprimus:github:Gleefre:low-batter</id>
+  <published>2023-07-15T13:10:26Z</published>
+  <updated>2023-07-15T13:10:26Z</updated>
+  <content type="html">
+   Game for Trijam#228
+  </content>
+ </entry>
+ <entry>
+  <title>lem-project: elis</title>
+  <author>
+   <name>lem-project</name>
+  </author>
+  <link href="https://github.com/lem-project/elis" />
+  <id>urn:rprimus:github:lem-project:elis</id>
+  <published>2023-07-15T11:51:58Z</published>
+  <updated>2023-07-15T11:51:58Z</updated>
+  <content type="html">
+   ELIS is the Lem Integrated Shell.
+  </content>
+ </entry>
  <entry>
   <title>peternowee: app-hardware</title>
   <author>
@@ -80,84 +171,6 @@
   <updated>2023-07-14T08:07:31Z</updated>
   <content type="html">
    DC Deoffset Nyquist plugin for Audacity
-  </content>
- </entry>
- <entry>
-  <title>svetlyak40wt: test-brew-app</title>
-  <author>
-   <name>svetlyak40wt</name>
-  </author>
-  <link href="https://github.com/svetlyak40wt/test-brew-app" />
-  <id>urn:rprimus:github:svetlyak40wt:test-brew-app</id>
-  <published>2023-07-13T21:20:22Z</published>
-  <updated>2023-07-13T21:20:22Z</updated>
-  <content type="html">
-   An application to test cl-brewer
-  </content>
- </entry>
- <entry>
-  <title>ImNotJahan: ProjectEulerLisp</title>
-  <author>
-   <name>ImNotJahan</name>
-  </author>
-  <link href="https://github.com/ImNotJahan/ProjectEulerLisp" />
-  <id>urn:rprimus:github:ImNotJahan:ProjectEulerLisp</id>
-  <published>2023-07-13T20:25:47Z</published>
-  <updated>2023-07-13T20:25:47Z</updated>
-  <content type="html">
-   Project Euler solutions in LISP
-  </content>
- </entry>
- <entry>
-  <title>jfrancis42: pota-lisp</title>
-  <author>
-   <name>jfrancis42</name>
-  </author>
-  <link href="https://github.com/jfrancis42/pota-lisp" />
-  <id>urn:rprimus:github:jfrancis42:pota-lisp</id>
-  <published>2023-07-13T20:18:16Z</published>
-  <updated>2023-07-13T20:18:16Z</updated>
-  <content type="html">
-   A Common Lisp library for retrieving POTA spots from the pota.app website.
-  </content>
- </entry>
- <entry>
-  <title>Vadim1108: lisp-play</title>
-  <author>
-   <name>Vadim1108</name>
-  </author>
-  <link href="https://github.com/Vadim1108/lisp-play" />
-  <id>urn:rprimus:github:Vadim1108:lisp-play</id>
-  <published>2023-07-13T11:06:08Z</published>
-  <updated>2023-07-13T11:06:08Z</updated>
-  <content type="html">
-   Repo for playing with lisp (SBCL)
-  </content>
- </entry>
- <entry>
-  <title>aryanm17: UGP1</title>
-  <author>
-   <name>aryanm17</name>
-  </author>
-  <link href="https://github.com/aryanm17/UGP1" />
-  <id>urn:rprimus:github:aryanm17:UGP1</id>
-  <published>2023-07-13T08:17:44Z</published>
-  <updated>2023-07-13T08:17:44Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>CodeDruidX: PrologSimpleCore</title>
-  <author>
-   <name>CodeDruidX</name>
-  </author>
-  <link href="https://github.com/CodeDruidX/PrologSimpleCore" />
-  <id>urn:rprimus:github:CodeDruidX:PrologSimpleCore</id>
-  <published>2023-07-13T07:21:21Z</published>
-  <updated>2023-07-13T07:21:21Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
