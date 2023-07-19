@@ -2,8 +2,138 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2023-07-17T13:08:36Z</updated>
+<updated>2023-07-19T08:43:04Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>HugoGranstrom: chip8</title>
+  <author>
+   <name>HugoGranstrom</name>
+  </author>
+  <link href="https://github.com/HugoGranstrom/chip8" />
+  <id>urn:rprimus:github:HugoGranstrom:chip8</id>
+  <published>2023-07-19T08:43:04Z</published>
+  <updated>2023-07-19T08:43:04Z</updated>
+  <content type="html">
+   A Chip-8 emulator written in Nim
+  </content>
+ </entry>
+ <entry>
+  <title>thisago: gookie</title>
+  <author>
+   <name>thisago</name>
+  </author>
+  <link href="https://github.com/thisago/gookie" />
+  <id>urn:rprimus:github:thisago:gookie</id>
+  <published>2023-07-18T20:43:50Z</published>
+  <updated>2023-07-18T20:43:50Z</updated>
+  <content type="html">
+   Google Cookies. In your hands
+  </content>
+ </entry>
+ <entry>
+  <title>thisago: docid</title>
+  <author>
+   <name>thisago</name>
+  </author>
+  <link href="https://github.com/thisago/docid" />
+  <id>urn:rprimus:github:thisago:docid</id>
+  <published>2023-07-18T17:27:58Z</published>
+  <updated>2023-07-18T17:27:58Z</updated>
+  <content type="html">
+   Document IDs generation and validation
+  </content>
+ </entry>
+ <entry>
+  <title>thisago: bibleTools</title>
+  <author>
+   <name>thisago</name>
+  </author>
+  <link href="https://github.com/thisago/bibleTools" />
+  <id>urn:rprimus:github:thisago:bibleTools</id>
+  <published>2023-07-18T13:31:16Z</published>
+  <updated>2023-07-18T13:31:16Z</updated>
+  <content type="html">
+    Tools to manipulate bible references!
+  </content>
+ </entry>
+ <entry>
+  <title>thisago: ohMyForm_analyze</title>
+  <author>
+   <name>thisago</name>
+  </author>
+  <link href="https://github.com/thisago/ohMyForm_analyze" />
+  <id>urn:rprimus:github:thisago:ohMyForm_analyze</id>
+  <published>2023-07-18T13:28:00Z</published>
+  <updated>2023-07-18T13:28:00Z</updated>
+  <content type="html">
+   A userscript that creates a easy to use interface to analyze the submitted forms
+  </content>
+ </entry>
+ <entry>
+  <title>thisago: bothend</title>
+  <author>
+   <name>thisago</name>
+  </author>
+  <link href="https://github.com/thisago/bothend" />
+  <id>urn:rprimus:github:thisago:bothend</id>
+  <published>2023-07-18T13:27:22Z</published>
+  <updated>2023-07-18T13:27:22Z</updated>
+  <content type="html">
+    (PoC) Karax model in both ends (back and front)
+  </content>
+ </entry>
+ <entry>
+  <title>thisago: toOzzuuBible</title>
+  <author>
+   <name>thisago</name>
+  </author>
+  <link href="https://github.com/thisago/toOzzuuBible" />
+  <id>urn:rprimus:github:thisago:toOzzuuBible</id>
+  <published>2023-07-18T13:24:11Z</published>
+  <updated>2023-07-18T13:24:11Z</updated>
+  <content type="html">
+   This is a userscript that allows you go to Ozzuu Bible in any biblical reference in any site!
+  </content>
+ </entry>
+ <entry>
+  <title>thisago: gtrends</title>
+  <author>
+   <name>thisago</name>
+  </author>
+  <link href="https://github.com/thisago/gtrends" />
+  <id>urn:rprimus:github:thisago:gtrends</id>
+  <published>2023-07-18T13:20:45Z</published>
+  <updated>2023-07-18T13:20:45Z</updated>
+  <content type="html">
+   Google Trends RSS in Nim
+  </content>
+ </entry>
+ <entry>
+  <title>thisago: spotlightr</title>
+  <author>
+   <name>thisago</name>
+  </author>
+  <link href="https://github.com/thisago/spotlightr" />
+  <id>urn:rprimus:github:thisago:spotlightr</id>
+  <published>2023-07-18T13:00:13Z</published>
+  <updated>2023-07-18T13:00:13Z</updated>
+  <content type="html">
+   Spotlightr basic extractor to get the video
+  </content>
+ </entry>
+ <entry>
+  <title>thisago: bard</title>
+  <author>
+   <name>thisago</name>
+  </author>
+  <link href="https://github.com/thisago/bard" />
+  <id>urn:rprimus:github:thisago:bard</id>
+  <published>2023-07-18T12:36:32Z</published>
+  <updated>2023-07-18T12:36:32Z</updated>
+  <content type="html">
+   Nim interface for Google Bard batchexecute API
+  </content>
+ </entry>
  <entry>
   <title>lou15b: nimxx</title>
   <author>
@@ -70,42 +200,16 @@
   </content>
  </entry>
  <entry>
-  <title>ZoomTen: nim-gb-test</title>
+  <title>Ayuly3851: yorus</title>
   <author>
-   <name>ZoomTen</name>
+   <name>Ayuly3851</name>
   </author>
-  <link href="https://github.com/ZoomTen/nim-gb-test" />
-  <id>urn:rprimus:github:ZoomTen:nim-gb-test</id>
-  <published>2023-07-16T17:38:16Z</published>
-  <updated>2023-07-16T17:38:16Z</updated>
+  <link href="https://github.com/Ayuly3851/yorus" />
+  <id>urn:rprimus:github:Ayuly3851:yorus</id>
+  <published>2023-07-17T00:50:22Z</published>
+  <updated>2023-07-17T00:50:22Z</updated>
   <content type="html">
-   Writing Game Boy stuff in Nim through GBDK
-  </content>
- </entry>
- <entry>
-  <title>planetis-m: naygui</title>
-  <author>
-   <name>planetis-m</name>
-  </author>
-  <link href="https://github.com/planetis-m/naygui" />
-  <id>urn:rprimus:github:planetis-m:naygui</id>
-  <published>2023-07-16T17:23:21Z</published>
-  <updated>2023-07-16T17:23:21Z</updated>
-  <content type="html">
-   never say never
-  </content>
- </entry>
- <entry>
-  <title>peakdata: webserial-nim</title>
-  <author>
-   <name>peakdata</name>
-  </author>
-  <link href="https://github.com/peakdata/webserial-nim" />
-  <id>urn:rprimus:github:peakdata:webserial-nim</id>
-  <published>2023-07-16T16:56:22Z</published>
-  <updated>2023-07-16T16:56:22Z</updated>
-  <content type="html">
-   Nim wrapper for the Web Serial API
+   A Discord C2 write in nim
   </content>
  </entry>
 </feed>

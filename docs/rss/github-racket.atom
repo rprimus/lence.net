@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-racket.atom"/>
 <id>urn:rprimus:github:newracketrepos</id>
-<updated>2023-07-18T07:20:35Z</updated>
+<updated>2023-07-19T05:16:04Z</updated>
 <title type='text'>New GitHub Racket Repos</title>
+ <entry>
+  <title>priime0: raco-new</title>
+  <author>
+   <name>priime0</name>
+  </author>
+  <link href="https://github.com/priime0/raco-new" />
+  <id>urn:rprimus:github:priime0:raco-new</id>
+  <published>2023-07-19T05:16:04Z</published>
+  <updated>2023-07-19T05:16:04Z</updated>
+  <content type="html">
+   A raco command for creating new Racket projects
+  </content>
+ </entry>
+ <entry>
+  <title>bxs213: space-invaders</title>
+  <author>
+   <name>bxs213</name>
+  </author>
+  <link href="https://github.com/bxs213/space-invaders" />
+  <id>urn:rprimus:github:bxs213:space-invaders</id>
+  <published>2023-07-19T01:21:48Z</published>
+  <updated>2023-07-19T01:21:48Z</updated>
+  <content type="html">
+   Space invaders written in BSL (Racket) using material from &quot;How To Code: Simple Data&quot; course by EdX
+  </content>
+ </entry>
+ <entry>
+  <title>lfgist: sicp-solutions</title>
+  <author>
+   <name>lfgist</name>
+  </author>
+  <link href="https://github.com/lfgist/sicp-solutions" />
+  <id>urn:rprimus:github:lfgist:sicp-solutions</id>
+  <published>2023-07-18T21:02:10Z</published>
+  <updated>2023-07-18T21:02:10Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>SandeepChezhianA: number-guessing-game</title>
+  <author>
+   <name>SandeepChezhianA</name>
+  </author>
+  <link href="https://github.com/SandeepChezhianA/number-guessing-game" />
+  <id>urn:rprimus:github:SandeepChezhianA:number-guessing-game</id>
+  <published>2023-07-18T19:37:11Z</published>
+  <updated>2023-07-18T19:37:11Z</updated>
+  <content type="html">
+   A number-guessing-game built on racket
+  </content>
+ </entry>
+ <entry>
+  <title>Robert213Z: TrabajoLP_Racket</title>
+  <author>
+   <name>Robert213Z</name>
+  </author>
+  <link href="https://github.com/Robert213Z/TrabajoLP_Racket" />
+  <id>urn:rprimus:github:Robert213Z:TrabajoLP_Racket</id>
+  <published>2023-07-18T16:35:43Z</published>
+  <updated>2023-07-18T16:35:43Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>lepnoxic: OSSU-CompSci</title>
+  <author>
+   <name>lepnoxic</name>
+  </author>
+  <link href="https://github.com/lepnoxic/OSSU-CompSci" />
+  <id>urn:rprimus:github:lepnoxic:OSSU-CompSci</id>
+  <published>2023-07-18T11:36:11Z</published>
+  <updated>2023-07-18T11:36:11Z</updated>
+  <content type="html">
+   Repository to log progress in OSSU Computer Science
+  </content>
+ </entry>
  <entry>
   <title>i-amare: OSSU-Computer-Science-Course</title>
   <author>
@@ -57,55 +135,16 @@
   </content>
  </entry>
  <entry>
-  <title>kxn200007: RacketUtilityFunctions</title>
+  <title>moonshot2: Racket-lang</title>
   <author>
-   <name>kxn200007</name>
+   <name>moonshot2</name>
   </author>
-  <link href="https://github.com/kxn200007/RacketUtilityFunctions" />
-  <id>urn:rprimus:github:kxn200007:RacketUtilityFunctions</id>
-  <published>2023-07-16T21:08:11Z</published>
-  <updated>2023-07-16T21:08:11Z</updated>
+  <link href="https://github.com/moonshot2/Racket-lang" />
+  <id>urn:rprimus:github:moonshot2:Racket-lang</id>
+  <published>2023-07-17T11:56:25Z</published>
+  <updated>2023-07-17T11:56:25Z</updated>
   <content type="html">
-   This code provides a collection of utility functions implemented in Racket.
-  </content>
- </entry>
- <entry>
-  <title>samdphillips: uke-examples</title>
-  <author>
-   <name>samdphillips</name>
-  </author>
-  <link href="https://github.com/samdphillips/uke-examples" />
-  <id>urn:rprimus:github:samdphillips:uke-examples</id>
-  <published>2023-07-16T17:54:07Z</published>
-  <updated>2023-07-16T17:54:07Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Petruc-Rares: PP_HW_1---Supermarket</title>
-  <author>
-   <name>Petruc-Rares</name>
-  </author>
-  <link href="https://github.com/Petruc-Rares/PP_HW_1---Supermarket" />
-  <id>urn:rprimus:github:Petruc-Rares:PP_HW_1---Supermarket</id>
-  <published>2023-07-16T13:22:05Z</published>
-  <updated>2023-07-16T13:22:05Z</updated>
-  <content type="html">
-   Implemented in Racket a simulation of a supermarket with different constraints on counters, where each customer will be placed at the most advantageous counter
-  </content>
- </entry>
- <entry>
-  <title>ellacejones02: CS214FINALPROJ</title>
-  <author>
-   <name>ellacejones02</name>
-  </author>
-  <link href="https://github.com/ellacejones02/CS214FINALPROJ" />
-  <id>urn:rprimus:github:ellacejones02:CS214FINALPROJ</id>
-  <published>2023-07-16T11:57:08Z</published>
-  <updated>2023-07-16T11:57:08Z</updated>
-  <content type="html">
-   Final project or data structs and algs course
+   Racket-lang
   </content>
  </entry>
 </feed>
