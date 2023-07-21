@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2023-07-19T22:07:41Z</updated>
+<updated>2023-07-21T05:46:13Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>ethanxxxl: galcon</title>
+  <author>
+   <name>ethanxxxl</name>
+  </author>
+  <link href="https://github.com/ethanxxxl/galcon" />
+  <id>urn:rprimus:github:ethanxxxl:galcon</id>
+  <published>2023-07-21T05:46:13Z</published>
+  <updated>2023-07-21T05:46:13Z</updated>
+  <content type="html">
+   an implementation of galactic conquest written in common lisp using McCLIM
+  </content>
+ </entry>
+ <entry>
+  <title>JKCHacking: inkan-project</title>
+  <author>
+   <name>JKCHacking</name>
+  </author>
+  <link href="https://github.com/JKCHacking/inkan-project" />
+  <id>urn:rprimus:github:JKCHacking:inkan-project</id>
+  <published>2023-07-20T15:14:49Z</published>
+  <updated>2023-07-20T15:14:49Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>mmontone: mutils</title>
+  <author>
+   <name>mmontone</name>
+  </author>
+  <link href="https://github.com/mmontone/mutils" />
+  <id>urn:rprimus:github:mmontone:mutils</id>
+  <published>2023-07-20T14:58:59Z</published>
+  <updated>2023-07-20T14:58:59Z</updated>
+  <content type="html">
+   A collection of Common Lisp modules
+  </content>
+ </entry>
  <entry>
   <title>VOID404: elastic-pi</title>
   <author>
@@ -80,45 +119,6 @@
   <updated>2023-07-19T01:12:58Z</updated>
   <content type="html">
    MY test new cartographer_ros
-  </content>
- </entry>
- <entry>
-  <title>Dwiib: let-over-lambda-notes</title>
-  <author>
-   <name>Dwiib</name>
-  </author>
-  <link href="https://github.com/Dwiib/let-over-lambda-notes" />
-  <id>urn:rprimus:github:Dwiib:let-over-lambda-notes</id>
-  <published>2023-07-18T15:51:47Z</published>
-  <updated>2023-07-18T15:51:47Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>pegesund: cozodb-lisp</title>
-  <author>
-   <name>pegesund</name>
-  </author>
-  <link href="https://github.com/pegesund/cozodb-lisp" />
-  <id>urn:rprimus:github:pegesund:cozodb-lisp</id>
-  <published>2023-07-18T13:40:04Z</published>
-  <updated>2023-07-18T13:40:04Z</updated>
-  <content type="html">
-   A lisp wrapper for Cozodb
-  </content>
- </entry>
- <entry>
-  <title>davidmcnamee: treesitter_playground</title>
-  <author>
-   <name>davidmcnamee</name>
-  </author>
-  <link href="https://github.com/davidmcnamee/treesitter_playground" />
-  <id>urn:rprimus:github:davidmcnamee:treesitter_playground</id>
-  <published>2023-07-18T00:53:28Z</published>
-  <updated>2023-07-18T00:53:28Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>

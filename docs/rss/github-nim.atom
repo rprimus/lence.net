@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2023-07-20T05:56:17Z</updated>
+<updated>2023-07-21T09:37:11Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>nirokay: CardGenerator</title>
+  <author>
+   <name>nirokay</name>
+  </author>
+  <link href="https://github.com/nirokay/CardGenerator" />
+  <id>urn:rprimus:github:nirokay:CardGenerator</id>
+  <published>2023-07-21T09:37:11Z</published>
+  <updated>2023-07-21T09:37:11Z</updated>
+  <content type="html">
+   A simple generator for cards.
+  </content>
+ </entry>
+ <entry>
+  <title>dmknght: NtlshTool</title>
+  <author>
+   <name>dmknght</name>
+  </author>
+  <link href="https://github.com/dmknght/NtlshTool" />
+  <id>urn:rprimus:github:dmknght:NtlshTool</id>
+  <published>2023-07-20T23:45:24Z</published>
+  <updated>2023-07-20T23:45:24Z</updated>
+  <content type="html">
+   A simple tool that use Tlsh in Nim
+  </content>
+ </entry>
  <entry>
   <title>alistairkeys: draughts</title>
   <author>
@@ -106,123 +132,6 @@
   <updated>2023-07-19T08:43:04Z</updated>
   <content type="html">
    A Chip-8 emulator written in Nim
-  </content>
- </entry>
- <entry>
-  <title>thisago: gookie</title>
-  <author>
-   <name>thisago</name>
-  </author>
-  <link href="https://github.com/thisago/gookie" />
-  <id>urn:rprimus:github:thisago:gookie</id>
-  <published>2023-07-18T20:43:50Z</published>
-  <updated>2023-07-18T20:43:50Z</updated>
-  <content type="html">
-   Google Cookies. In your hands
-  </content>
- </entry>
- <entry>
-  <title>thisago: docid</title>
-  <author>
-   <name>thisago</name>
-  </author>
-  <link href="https://github.com/thisago/docid" />
-  <id>urn:rprimus:github:thisago:docid</id>
-  <published>2023-07-18T17:27:58Z</published>
-  <updated>2023-07-18T17:27:58Z</updated>
-  <content type="html">
-   Document IDs generation and validation
-  </content>
- </entry>
- <entry>
-  <title>thisago: bibleTools</title>
-  <author>
-   <name>thisago</name>
-  </author>
-  <link href="https://github.com/thisago/bibleTools" />
-  <id>urn:rprimus:github:thisago:bibleTools</id>
-  <published>2023-07-18T13:31:16Z</published>
-  <updated>2023-07-18T13:31:16Z</updated>
-  <content type="html">
-    Tools to manipulate bible references!
-  </content>
- </entry>
- <entry>
-  <title>thisago: ohMyForm_analyze</title>
-  <author>
-   <name>thisago</name>
-  </author>
-  <link href="https://github.com/thisago/ohMyForm_analyze" />
-  <id>urn:rprimus:github:thisago:ohMyForm_analyze</id>
-  <published>2023-07-18T13:28:00Z</published>
-  <updated>2023-07-18T13:28:00Z</updated>
-  <content type="html">
-   A userscript that creates a easy to use interface to analyze the submitted forms
-  </content>
- </entry>
- <entry>
-  <title>thisago: bothend</title>
-  <author>
-   <name>thisago</name>
-  </author>
-  <link href="https://github.com/thisago/bothend" />
-  <id>urn:rprimus:github:thisago:bothend</id>
-  <published>2023-07-18T13:27:22Z</published>
-  <updated>2023-07-18T13:27:22Z</updated>
-  <content type="html">
-    (PoC) Karax model in both ends (back and front)
-  </content>
- </entry>
- <entry>
-  <title>thisago: toOzzuuBible</title>
-  <author>
-   <name>thisago</name>
-  </author>
-  <link href="https://github.com/thisago/toOzzuuBible" />
-  <id>urn:rprimus:github:thisago:toOzzuuBible</id>
-  <published>2023-07-18T13:24:11Z</published>
-  <updated>2023-07-18T13:24:11Z</updated>
-  <content type="html">
-   This is a userscript that allows you go to Ozzuu Bible in any biblical reference in any site!
-  </content>
- </entry>
- <entry>
-  <title>thisago: gtrends</title>
-  <author>
-   <name>thisago</name>
-  </author>
-  <link href="https://github.com/thisago/gtrends" />
-  <id>urn:rprimus:github:thisago:gtrends</id>
-  <published>2023-07-18T13:20:45Z</published>
-  <updated>2023-07-18T13:20:45Z</updated>
-  <content type="html">
-   Google Trends RSS in Nim
-  </content>
- </entry>
- <entry>
-  <title>thisago: spotlightr</title>
-  <author>
-   <name>thisago</name>
-  </author>
-  <link href="https://github.com/thisago/spotlightr" />
-  <id>urn:rprimus:github:thisago:spotlightr</id>
-  <published>2023-07-18T13:00:13Z</published>
-  <updated>2023-07-18T13:00:13Z</updated>
-  <content type="html">
-   Spotlightr basic extractor to get the video
-  </content>
- </entry>
- <entry>
-  <title>thisago: bard</title>
-  <author>
-   <name>thisago</name>
-  </author>
-  <link href="https://github.com/thisago/bard" />
-  <id>urn:rprimus:github:thisago:bard</id>
-  <published>2023-07-18T12:36:32Z</published>
-  <updated>2023-07-18T12:36:32Z</updated>
-  <content type="html">
-   Nim interface for Google Bard batchexecute API
   </content>
  </entry>
 </feed>
