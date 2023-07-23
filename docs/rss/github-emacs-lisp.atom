@@ -2,8 +2,138 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2023-07-22T09:06:07Z</updated>
+<updated>2023-07-23T04:36:50Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>ivangladius: remacs</title>
+  <author>
+   <name>ivangladius</name>
+  </author>
+  <link href="https://github.com/ivangladius/remacs" />
+  <id>urn:rprimus:github:ivangladius:remacs</id>
+  <published>2023-07-23T04:36:50Z</published>
+  <updated>2023-07-23T04:36:50Z</updated>
+  <content type="html">
+   hopefully my last emacs config
+  </content>
+ </entry>
+ <entry>
+  <title>Mondieur: gifnoc</title>
+  <author>
+   <name>Mondieur</name>
+  </author>
+  <link href="https://github.com/Mondieur/gifnoc" />
+  <id>urn:rprimus:github:Mondieur:gifnoc</id>
+  <published>2023-07-23T04:01:49Z</published>
+  <updated>2023-07-23T04:01:49Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>augiedoggie: jam-mode</title>
+  <author>
+   <name>augiedoggie</name>
+  </author>
+  <link href="https://github.com/augiedoggie/jam-mode" />
+  <id>urn:rprimus:github:augiedoggie:jam-mode</id>
+  <published>2023-07-23T03:42:32Z</published>
+  <updated>2023-07-23T03:42:32Z</updated>
+  <content type="html">
+   Emacs major mode providing syntax highlighting for Jam build files
+  </content>
+ </entry>
+ <entry>
+  <title>MichaelBurge: dotfiles</title>
+  <author>
+   <name>MichaelBurge</name>
+  </author>
+  <link href="https://github.com/MichaelBurge/dotfiles" />
+  <id>urn:rprimus:github:MichaelBurge:dotfiles</id>
+  <published>2023-07-23T02:22:21Z</published>
+  <updated>2023-07-23T02:22:21Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>pyudev-x: .config-emacs</title>
+  <author>
+   <name>pyudev-x</name>
+  </author>
+  <link href="https://github.com/pyudev-x/.config-emacs" />
+  <id>urn:rprimus:github:pyudev-x:.config-emacs</id>
+  <published>2023-07-23T01:10:37Z</published>
+  <updated>2023-07-23T01:10:37Z</updated>
+  <content type="html">
+   My Emacs configurations
+  </content>
+ </entry>
+ <entry>
+  <title>randomScanian: doom-emacs-config</title>
+  <author>
+   <name>randomScanian</name>
+  </author>
+  <link href="https://github.com/randomScanian/doom-emacs-config" />
+  <id>urn:rprimus:github:randomScanian:doom-emacs-config</id>
+  <published>2023-07-22T21:10:24Z</published>
+  <updated>2023-07-22T21:10:24Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Rustywriter: Rustymacs</title>
+  <author>
+   <name>Rustywriter</name>
+  </author>
+  <link href="https://github.com/Rustywriter/Rustymacs" />
+  <id>urn:rprimus:github:Rustywriter:Rustymacs</id>
+  <published>2023-07-22T16:41:26Z</published>
+  <updated>2023-07-22T16:41:26Z</updated>
+  <content type="html">
+   minimal emac config
+  </content>
+ </entry>
+ <entry>
+  <title>fcanlnony: simple-theme</title>
+  <author>
+   <name>fcanlnony</name>
+  </author>
+  <link href="https://github.com/fcanlnony/simple-theme" />
+  <id>urn:rprimus:github:fcanlnony:simple-theme</id>
+  <published>2023-07-22T15:37:27Z</published>
+  <updated>2023-07-22T15:37:27Z</updated>
+  <content type="html">
+   A theme for the not-so-stingy
+  </content>
+ </entry>
+ <entry>
+  <title>jbutcher5: .emacs.d</title>
+  <author>
+   <name>jbutcher5</name>
+  </author>
+  <link href="https://github.com/jbutcher5/.emacs.d" />
+  <id>urn:rprimus:github:jbutcher5:.emacs.d</id>
+  <published>2023-07-22T14:42:16Z</published>
+  <updated>2023-07-22T14:42:16Z</updated>
+  <content type="html">
+   Vanilla emacs config
+  </content>
+ </entry>
+ <entry>
+  <title>NF02: L-99Ninety-NineLispProblems</title>
+  <author>
+   <name>NF02</name>
+  </author>
+  <link href="https://github.com/NF02/L-99Ninety-NineLispProblems" />
+  <id>urn:rprimus:github:NF02:L-99Ninety-NineLispProblems</id>
+  <published>2023-07-22T10:56:32Z</published>
+  <updated>2023-07-22T10:56:32Z</updated>
+  <content type="html">
+   A list of 99 problems created by Werner Hett of Unicamp to practice lisp with real difficulty, here they will be done in Elisp
+  </content>
+ </entry>
  <entry>
   <title>huanie: init.el</title>
   <author>
@@ -236,110 +366,6 @@
   <updated>2023-07-21T01:31:53Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>ag91: scala-cli-repl</title>
-  <author>
-   <name>ag91</name>
-  </author>
-  <link href="https://github.com/ag91/scala-cli-repl" />
-  <id>urn:rprimus:github:ag91:scala-cli-repl</id>
-  <published>2023-07-20T23:34:07Z</published>
-  <updated>2023-07-20T23:34:07Z</updated>
-  <content type="html">
-   Emacs REPL for scala-cli
-  </content>
- </entry>
- <entry>
-  <title>hexgio: emacs_config</title>
-  <author>
-   <name>hexgio</name>
-  </author>
-  <link href="https://github.com/hexgio/emacs_config" />
-  <id>urn:rprimus:github:hexgio:emacs_config</id>
-  <published>2023-07-20T15:51:13Z</published>
-  <updated>2023-07-20T15:51:13Z</updated>
-  <content type="html">
-   ä½¿ç¨orgæ¨¡ååéç½®emacs
-  </content>
- </entry>
- <entry>
-  <title>brahayan-dev: dotfiles</title>
-  <author>
-   <name>brahayan-dev</name>
-  </author>
-  <link href="https://github.com/brahayan-dev/dotfiles" />
-  <id>urn:rprimus:github:brahayan-dev:dotfiles</id>
-  <published>2023-07-20T15:24:55Z</published>
-  <updated>2023-07-20T15:24:55Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>doomslayer-0: exultia</title>
-  <author>
-   <name>doomslayer-0</name>
-  </author>
-  <link href="https://github.com/doomslayer-0/exultia" />
-  <id>urn:rprimus:github:doomslayer-0:exultia</id>
-  <published>2023-07-20T14:38:09Z</published>
-  <updated>2023-07-20T14:38:09Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ardieMejia: ardieMejia.github.io</title>
-  <author>
-   <name>ardieMejia</name>
-  </author>
-  <link href="https://github.com/ardieMejia/ardieMejia.github.io" />
-  <id>urn:rprimus:github:ardieMejia:ardieMejia.github.io</id>
-  <published>2023-07-20T13:51:02Z</published>
-  <updated>2023-07-20T13:51:02Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>SomtoJF: isDoomed</title>
-  <author>
-   <name>SomtoJF</name>
-  </author>
-  <link href="https://github.com/SomtoJF/isDoomed" />
-  <id>urn:rprimus:github:SomtoJF:isDoomed</id>
-  <published>2023-07-20T12:16:09Z</published>
-  <updated>2023-07-20T12:16:09Z</updated>
-  <content type="html">
-   My doom-emacs config
-  </content>
- </entry>
- <entry>
-  <title>able-j: .emacs.d</title>
-  <author>
-   <name>able-j</name>
-  </author>
-  <link href="https://github.com/able-j/.emacs.d" />
-  <id>urn:rprimus:github:able-j:.emacs.d</id>
-  <published>2023-07-20T04:45:44Z</published>
-  <updated>2023-07-20T04:45:44Z</updated>
-  <content type="html">
-   my configuration on Emacs Prelude, (personal settings in /personal and /personal/preload)
-  </content>
- </entry>
- <entry>
-  <title>gicrisf: romkan.el</title>
-  <author>
-   <name>gicrisf</name>
-  </author>
-  <link href="https://github.com/gicrisf/romkan.el" />
-  <id>urn:rprimus:github:gicrisf:romkan.el</id>
-  <published>2023-07-20T00:34:06Z</published>
-  <updated>2023-07-20T00:34:06Z</updated>
-  <content type="html">
-   Romaji/Kana conversion library for Emacs.
   </content>
  </entry>
 </feed>

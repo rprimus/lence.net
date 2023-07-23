@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-erlang.atom"/>
 <id>urn:rprimus:github:newerlangrepos</id>
-<updated>2023-07-21T09:41:41Z</updated>
+<updated>2023-07-22T10:16:26Z</updated>
 <title type='text'>New GitHub Erlang Repos</title>
+ <entry>
+  <title>llaisdy: simpler_nif</title>
+  <author>
+   <name>llaisdy</name>
+  </author>
+  <link href="https://github.com/llaisdy/simpler_nif" />
+  <id>urn:rprimus:github:llaisdy:simpler_nif</id>
+  <published>2023-07-22T10:16:26Z</published>
+  <updated>2023-07-22T10:16:26Z</updated>
+  <content type="html">
+   A toy repo demonstrating the use of Rust to create an Erlang NIF
+  </content>
+ </entry>
  <entry>
   <title>inori2804: car</title>
   <author>
@@ -15,45 +28,6 @@
   <updated>2023-07-21T09:41:41Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>thejohncotton: ledmaestro</title>
-  <author>
-   <name>thejohncotton</name>
-  </author>
-  <link href="https://github.com/thejohncotton/ledmaestro" />
-  <id>urn:rprimus:github:thejohncotton:ledmaestro</id>
-  <published>2023-07-20T18:21:32Z</published>
-  <updated>2023-07-20T18:21:32Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>CloudI: cloudi_service_validate_config</title>
-  <author>
-   <name>CloudI</name>
-  </author>
-  <link href="https://github.com/CloudI/cloudi_service_validate_config" />
-  <id>urn:rprimus:github:CloudI:cloudi_service_validate_config</id>
-  <published>2023-07-20T02:52:38Z</published>
-  <updated>2023-07-20T02:52:38Z</updated>
-  <content type="html">
-   CloudI Validate Config Service
-  </content>
- </entry>
- <entry>
-  <title>rapidfireworks: exercism.erl</title>
-  <author>
-   <name>rapidfireworks</name>
-  </author>
-  <link href="https://github.com/rapidfireworks/exercism.erl" />
-  <id>urn:rprimus:github:rapidfireworks:exercism.erl</id>
-  <published>2023-07-20T00:19:27Z</published>
-  <updated>2023-07-20T00:19:27Z</updated>
-  <content type="html">
-   Exercism exercises in Erlang
   </content>
  </entry>
 </feed>
