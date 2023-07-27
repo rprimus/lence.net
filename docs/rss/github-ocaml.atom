@@ -2,8 +2,125 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2023-07-26T04:31:08Z</updated>
+<updated>2023-07-27T07:50:01Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>Ozymandias11: Ocaml-assignment</title>
+  <author>
+   <name>Ozymandias11</name>
+  </author>
+  <link href="https://github.com/Ozymandias11/Ocaml-assignment" />
+  <id>urn:rprimus:github:Ozymandias11:Ocaml-assignment</id>
+  <published>2023-07-27T07:50:01Z</published>
+  <updated>2023-07-27T07:50:01Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>ftovagliari: ocamlfpdf</title>
+  <author>
+   <name>ftovagliari</name>
+  </author>
+  <link href="https://github.com/ftovagliari/ocamlfpdf" />
+  <id>urn:rprimus:github:ftovagliari:ocamlfpdf</id>
+  <published>2023-07-27T07:03:53Z</published>
+  <updated>2023-07-27T07:03:53Z</updated>
+  <content type="html">
+   OCaml-FPDF is an OCaml translation of the FPDF library (www.fpdf.org), with additions.
+  </content>
+ </entry>
+ <entry>
+  <title>J0sueTM: jotacoin</title>
+  <author>
+   <name>J0sueTM</name>
+  </author>
+  <link href="https://github.com/J0sueTM/jotacoin" />
+  <id>urn:rprimus:github:J0sueTM:jotacoin</id>
+  <published>2023-07-27T02:20:29Z</published>
+  <updated>2023-07-27T02:20:29Z</updated>
+  <content type="html">
+   Yet another shitcoin built primarily for learning purposes.
+  </content>
+ </entry>
+ <entry>
+  <title>jojo142: ConversionCalculator</title>
+  <author>
+   <name>jojo142</name>
+  </author>
+  <link href="https://github.com/jojo142/ConversionCalculator" />
+  <id>urn:rprimus:github:jojo142:ConversionCalculator</id>
+  <published>2023-07-26T21:34:47Z</published>
+  <updated>2023-07-26T21:34:47Z</updated>
+  <content type="html">
+   Learning OCaml through basic unit conversions. These functions allow easy and accurate conversions between different units, making it convenient for me to practice and test.
+  </content>
+ </entry>
+ <entry>
+  <title>slamko: ppx_catch</title>
+  <author>
+   <name>slamko</name>
+  </author>
+  <link href="https://github.com/slamko/ppx_catch" />
+  <id>urn:rprimus:github:slamko:ppx_catch</id>
+  <published>2023-07-26T19:04:10Z</published>
+  <updated>2023-07-26T19:04:10Z</updated>
+  <content type="html">
+   Ocaml PPX for no-exception error handling  
+  </content>
+ </entry>
+ <entry>
+  <title>MrE-Fog: ocaml-krb</title>
+  <author>
+   <name>MrE-Fog</name>
+  </author>
+  <link href="https://github.com/MrE-Fog/ocaml-krb" />
+  <id>urn:rprimus:github:MrE-Fog:ocaml-krb</id>
+  <published>2023-07-26T18:46:58Z</published>
+  <updated>2023-07-26T18:46:58Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Mr-Dator: fonctions-recursives</title>
+  <author>
+   <name>Mr-Dator</name>
+  </author>
+  <link href="https://github.com/Mr-Dator/fonctions-recursives" />
+  <id>urn:rprimus:github:Mr-Dator:fonctions-recursives</id>
+  <published>2023-07-26T16:03:43Z</published>
+  <updated>2023-07-26T16:03:43Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Mr-Dator: Ensemble-de-Mandelbrot</title>
+  <author>
+   <name>Mr-Dator</name>
+  </author>
+  <link href="https://github.com/Mr-Dator/Ensemble-de-Mandelbrot" />
+  <id>urn:rprimus:github:Mr-Dator:Ensemble-de-Mandelbrot</id>
+  <published>2023-07-26T16:02:17Z</published>
+  <updated>2023-07-26T16:02:17Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>maolonglong: bogoscheme</title>
+  <author>
+   <name>maolonglong</name>
+  </author>
+  <link href="https://github.com/maolonglong/bogoscheme" />
+  <id>urn:rprimus:github:maolonglong:bogoscheme</id>
+  <published>2023-07-26T15:36:51Z</published>
+  <updated>2023-07-26T15:36:51Z</updated>
+  <content type="html">
+   A subset of Scheme
+  </content>
+ </entry>
  <entry>
   <title>r4ai: ocaml_cheatsheet</title>
   <author>
@@ -27,7 +144,7 @@
   <published>2023-07-25T20:40:14Z</published>
   <updated>2023-07-25T20:40:14Z</updated>
   <content type="html">
-   
+   An NES emulator using OCaml (imperative style) and SDL 2
   </content>
  </entry>
  <entry>
@@ -132,175 +249,6 @@
   <updated>2023-07-25T00:50:45Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>MrE-Fog: dns-letsencrypt-secondaryyy</title>
-  <author>
-   <name>MrE-Fog</name>
-  </author>
-  <link href="https://github.com/MrE-Fog/dns-letsencrypt-secondaryyy" />
-  <id>urn:rprimus:github:MrE-Fog:dns-letsencrypt-secondaryyy</id>
-  <published>2023-07-24T21:58:02Z</published>
-  <updated>2023-07-24T21:58:02Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>nneomaonochie: triviamurder</title>
-  <author>
-   <name>nneomaonochie</name>
-  </author>
-  <link href="https://github.com/nneomaonochie/triviamurder" />
-  <id>urn:rprimus:github:nneomaonochie:triviamurder</id>
-  <published>2023-07-24T21:09:20Z</published>
-  <updated>2023-07-24T21:09:20Z</updated>
-  <content type="html">
-   This is the JSIP Personal Project emulating the Jackbox game Trivia Murder Party
-  </content>
- </entry>
- <entry>
-  <title>dantomige: jsip_final</title>
-  <author>
-   <name>dantomige</name>
-  </author>
-  <link href="https://github.com/dantomige/jsip_final" />
-  <id>urn:rprimus:github:dantomige:jsip_final</id>
-  <published>2023-07-24T19:24:51Z</published>
-  <updated>2023-07-24T19:24:51Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jokorie: BS-Optimizer</title>
-  <author>
-   <name>jokorie</name>
-  </author>
-  <link href="https://github.com/jokorie/BS-Optimizer" />
-  <id>urn:rprimus:github:jokorie:BS-Optimizer</id>
-  <published>2023-07-24T19:00:24Z</published>
-  <updated>2023-07-24T19:00:24Z</updated>
-  <content type="html">
-   Optimizing tool to assist players as they play the BS card game.
-  </content>
- </entry>
- <entry>
-  <title>AAWorks: real_estate_appraisal</title>
-  <author>
-   <name>AAWorks</name>
-  </author>
-  <link href="https://github.com/AAWorks/real_estate_appraisal" />
-  <id>urn:rprimus:github:AAWorks:real_estate_appraisal</id>
-  <published>2023-07-24T18:51:49Z</published>
-  <updated>2023-07-24T18:51:49Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>dmmulroy: jose-jwk-test</title>
-  <author>
-   <name>dmmulroy</name>
-  </author>
-  <link href="https://github.com/dmmulroy/jose-jwk-test" />
-  <id>urn:rprimus:github:dmmulroy:jose-jwk-test</id>
-  <published>2023-07-24T18:28:02Z</published>
-  <updated>2023-07-24T18:28:02Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Arsalan1230: Arsalan13</title>
-  <author>
-   <name>Arsalan1230</name>
-  </author>
-  <link href="https://github.com/Arsalan1230/Arsalan13" />
-  <id>urn:rprimus:github:Arsalan1230:Arsalan13</id>
-  <published>2023-07-24T17:15:51Z</published>
-  <updated>2023-07-24T17:15:51Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>lucas-cauhe: O-CamlIon</title>
-  <author>
-   <name>lucas-cauhe</name>
-  </author>
-  <link href="https://github.com/lucas-cauhe/O-CamlIon" />
-  <id>urn:rprimus:github:lucas-cauhe:O-CamlIon</id>
-  <published>2023-07-24T16:03:13Z</published>
-  <updated>2023-07-24T16:03:13Z</updated>
-  <content type="html">
-   B+ Tree implementation for OCaml programming language
-  </content>
- </entry>
- <entry>
-  <title>Mr-Dator: rayMarching</title>
-  <author>
-   <name>Mr-Dator</name>
-  </author>
-  <link href="https://github.com/Mr-Dator/rayMarching" />
-  <id>urn:rprimus:github:Mr-Dator:rayMarching</id>
-  <published>2023-07-24T13:31:37Z</published>
-  <updated>2023-07-24T13:31:37Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Mr-Dator: rayCastingTextureLess</title>
-  <author>
-   <name>Mr-Dator</name>
-  </author>
-  <link href="https://github.com/Mr-Dator/rayCastingTextureLess" />
-  <id>urn:rprimus:github:Mr-Dator:rayCastingTextureLess</id>
-  <published>2023-07-24T13:30:43Z</published>
-  <updated>2023-07-24T13:30:43Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>bigconvience: node_fs</title>
-  <author>
-   <name>bigconvience</name>
-  </author>
-  <link href="https://github.com/bigconvience/node_fs" />
-  <id>urn:rprimus:github:bigconvience:node_fs</id>
-  <published>2023-07-24T12:12:57Z</published>
-  <updated>2023-07-24T12:12:57Z</updated>
-  <content type="html">
-   a collection of Node.js file system style apis for OCaml
-  </content>
- </entry>
- <entry>
-  <title>igarnier: zk-basics</title>
-  <author>
-   <name>igarnier</name>
-  </author>
-  <link href="https://github.com/igarnier/zk-basics" />
-  <id>urn:rprimus:github:igarnier:zk-basics</id>
-  <published>2023-07-24T08:35:09Z</published>
-  <updated>2023-07-24T08:35:09Z</updated>
-  <content type="html">
-   Learning about zk-snarks
-  </content>
- </entry>
- <entry>
-  <title>ivancanosa: advent_code_2022</title>
-  <author>
-   <name>ivancanosa</name>
-  </author>
-  <link href="https://github.com/ivancanosa/advent_code_2022" />
-  <id>urn:rprimus:github:ivancanosa:advent_code_2022</id>
-  <published>2023-07-24T03:20:23Z</published>
-  <updated>2023-07-24T03:20:23Z</updated>
-  <content type="html">
-   Implementation of advent code 2022 in OCaml
   </content>
  </entry>
 </feed>
