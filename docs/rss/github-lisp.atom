@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2023-07-28T00:03:17Z</updated>
+<updated>2023-07-29T00:52:59Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>tomrake: stand-alone-clog-app</title>
+  <author>
+   <name>tomrake</name>
+  </author>
+  <link href="https://github.com/tomrake/stand-alone-clog-app" />
+  <id>urn:rprimus:github:tomrake:stand-alone-clog-app</id>
+  <published>2023-07-29T00:52:59Z</published>
+  <updated>2023-07-29T00:52:59Z</updated>
+  <content type="html">
+   How build a stand along clog app.
+  </content>
+ </entry>
+ <entry>
+  <title>arbitrary-alex: cl-ethereum</title>
+  <author>
+   <name>arbitrary-alex</name>
+  </author>
+  <link href="https://github.com/arbitrary-alex/cl-ethereum" />
+  <id>urn:rprimus:github:arbitrary-alex:cl-ethereum</id>
+  <published>2023-07-28T20:59:19Z</published>
+  <updated>2023-07-28T20:59:19Z</updated>
+  <content type="html">
+   Ethereum analysis tools in common lisp
+  </content>
+ </entry>
  <entry>
   <title>shivam-bhandari: Common-Lisp-functions</title>
   <author>
@@ -15,97 +41,6 @@
   <updated>2023-07-28T00:03:17Z</updated>
   <content type="html">
    This is an implementation a variety of functions in the CLISP programming language, including a non-deterministic finite automation, quicksort and matrix operations.
-  </content>
- </entry>
- <entry>
-  <title>mnasoft: mnas-html-translation</title>
-  <author>
-   <name>mnasoft</name>
-  </author>
-  <link href="https://github.com/mnasoft/mnas-html-translation" />
-  <id>urn:rprimus:github:mnasoft:mnas-html-translation</id>
-  <published>2023-07-26T17:06:04Z</published>
-  <updated>2023-07-26T17:06:04Z</updated>
-  <content type="html">
-   ÐÑÐ±Ð¾ÑÐºÐ° ÑÑÑÐ¾Ðº, ÑÐ²ÑÐ·Ð°Ð½Ð½ÑÑ Ñ Ð¾Ð¿ÑÐµÐ´ÐµÐ»ÐµÐ½Ð½ÑÐ¼ ÑÐµÐ³Ð¾Ð¼, Ð¸Ð· html ÑÐ°Ð¹Ð»Ð°
-  </content>
- </entry>
- <entry>
-  <title>mnasoft: mnas-dict</title>
-  <author>
-   <name>mnasoft</name>
-  </author>
-  <link href="https://github.com/mnasoft/mnas-dict" />
-  <id>urn:rprimus:github:mnasoft:mnas-dict</id>
-  <published>2023-07-26T17:01:45Z</published>
-  <updated>2023-07-26T17:01:45Z</updated>
-  <content type="html">
-   Ð¨Ð°Ð±Ð»Ð¾Ð½ Ð´Ð»Ñ ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ ÑÐ»Ð¾Ð²Ð°ÑÑ
-  </content>
- </entry>
- <entry>
-  <title>mnasoft: ansys-doc</title>
-  <author>
-   <name>mnasoft</name>
-  </author>
-  <link href="https://github.com/mnasoft/ansys-doc" />
-  <id>urn:rprimus:github:mnasoft:ansys-doc</id>
-  <published>2023-07-26T16:33:43Z</published>
-  <updated>2023-07-26T16:33:43Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>40ants: homebrew-lake</title>
-  <author>
-   <name>40ants</name>
-  </author>
-  <link href="https://github.com/40ants/homebrew-lake" />
-  <id>urn:rprimus:github:40ants:homebrew-lake</id>
-  <published>2023-07-26T13:09:33Z</published>
-  <updated>2023-07-26T13:09:33Z</updated>
-  <content type="html">
-   A thin wrapper to package https://github.com/takagi/lake for OSX using Homebrew.
-  </content>
- </entry>
- <entry>
-  <title>IDEMSInternational: wxmaxima-stack</title>
-  <author>
-   <name>IDEMSInternational</name>
-  </author>
-  <link href="https://github.com/IDEMSInternational/wxmaxima-stack" />
-  <id>urn:rprimus:github:IDEMSInternational:wxmaxima-stack</id>
-  <published>2023-07-26T08:45:11Z</published>
-  <updated>2023-07-26T08:45:11Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>JadedCtrl: webtentacle</title>
-  <author>
-   <name>JadedCtrl</name>
-  </author>
-  <link href="https://github.com/JadedCtrl/webtentacle" />
-  <id>urn:rprimus:github:JadedCtrl:webtentacle</id>
-  <published>2023-07-26T03:32:52Z</published>
-  <updated>2023-07-26T03:32:52Z</updated>
-  <content type="html">
-   [WIP] Simple Webfinger Clack library.
-  </content>
- </entry>
- <entry>
-  <title>richardwesthaver: macs</title>
-  <author>
-   <name>richardwesthaver</name>
-  </author>
-  <link href="https://github.com/richardwesthaver/macs" />
-  <id>urn:rprimus:github:richardwesthaver:macs</id>
-  <published>2023-07-26T03:08:14Z</published>
-  <updated>2023-07-26T03:08:14Z</updated>
-  <content type="html">
-   macros for the macro-programmer
   </content>
  </entry>
 </feed>
