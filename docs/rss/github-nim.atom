@@ -2,8 +2,125 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2023-07-29T19:41:13Z</updated>
+<updated>2023-07-31T02:56:35Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>elcritch: figura</title>
+  <author>
+   <name>elcritch</name>
+  </author>
+  <link href="https://github.com/elcritch/figura" />
+  <id>urn:rprimus:github:elcritch:figura</id>
+  <published>2023-07-31T02:56:35Z</published>
+  <updated>2023-07-31T02:56:35Z</updated>
+  <content type="html">
+   UI Engine for Nim
+  </content>
+ </entry>
+ <entry>
+  <title>zendbit: nim_zfplugs_zview</title>
+  <author>
+   <name>zendbit</name>
+  </author>
+  <link href="https://github.com/zendbit/nim_zfplugs_zview" />
+  <id>urn:rprimus:github:zendbit:nim_zfplugs_zview</id>
+  <published>2023-07-31T01:17:21Z</published>
+  <updated>2023-07-31T01:17:21Z</updated>
+  <content type="html">
+   helper for view templating using mustache for zfcore framework
+  </content>
+ </entry>
+ <entry>
+  <title>zendbit: nim_zfplugs_settings</title>
+  <author>
+   <name>zendbit</name>
+  </author>
+  <link href="https://github.com/zendbit/nim_zfplugs_settings" />
+  <id>urn:rprimus:github:zendbit:nim_zfplugs_settings</id>
+  <published>2023-07-31T01:13:29Z</published>
+  <updated>2023-07-31T01:13:29Z</updated>
+  <content type="html">
+   settings helper for zfcore framework
+  </content>
+ </entry>
+ <entry>
+  <title>zendbit: nim_zfplugs_session</title>
+  <author>
+   <name>zendbit</name>
+  </author>
+  <link href="https://github.com/zendbit/nim_zfplugs_session" />
+  <id>urn:rprimus:github:zendbit:nim_zfplugs_session</id>
+  <published>2023-07-31T01:09:24Z</published>
+  <updated>2023-07-31T01:09:24Z</updated>
+  <content type="html">
+   session plugin for zfcore framework
+  </content>
+ </entry>
+ <entry>
+  <title>zendbit: nim_zfplugs_paging</title>
+  <author>
+   <name>zendbit</name>
+  </author>
+  <link href="https://github.com/zendbit/nim_zfplugs_paging" />
+  <id>urn:rprimus:github:zendbit:nim_zfplugs_paging</id>
+  <published>2023-07-31T01:05:22Z</published>
+  <updated>2023-07-31T01:05:22Z</updated>
+  <content type="html">
+   paging helper for zfcore framework
+  </content>
+ </entry>
+ <entry>
+  <title>zendbit: nim_zfplugs_dbms</title>
+  <author>
+   <name>zendbit</name>
+  </author>
+  <link href="https://github.com/zendbit/nim_zfplugs_dbms" />
+  <id>urn:rprimus:github:zendbit:nim_zfplugs_dbms</id>
+  <published>2023-07-31T01:00:13Z</published>
+  <updated>2023-07-31T01:00:13Z</updated>
+  <content type="html">
+   database relational helper like active record
+  </content>
+ </entry>
+ <entry>
+  <title>zendbit: nim_zfplugs_csrf</title>
+  <author>
+   <name>zendbit</name>
+  </author>
+  <link href="https://github.com/zendbit/nim_zfplugs_csrf" />
+  <id>urn:rprimus:github:zendbit:nim_zfplugs_csrf</id>
+  <published>2023-07-31T00:52:48Z</published>
+  <updated>2023-07-31T00:52:48Z</updated>
+  <content type="html">
+   csrf helper for zfcore framework
+  </content>
+ </entry>
+ <entry>
+  <title>zendbit: nim_zfplugs_auth</title>
+  <author>
+   <name>zendbit</name>
+  </author>
+  <link href="https://github.com/zendbit/nim_zfplugs_auth" />
+  <id>urn:rprimus:github:zendbit:nim_zfplugs_auth</id>
+  <published>2023-07-31T00:44:27Z</published>
+  <updated>2023-07-31T00:44:27Z</updated>
+  <content type="html">
+   authorization helper for zfcore
+  </content>
+ </entry>
+ <entry>
+  <title>srozb: gptcli</title>
+  <author>
+   <name>srozb</name>
+  </author>
+  <link href="https://github.com/srozb/gptcli" />
+  <id>urn:rprimus:github:srozb:gptcli</id>
+  <published>2023-07-30T18:33:07Z</published>
+  <updated>2023-07-30T18:33:07Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>me-at-way: crossrefs</title>
   <author>
@@ -31,81 +148,16 @@
   </content>
  </entry>
  <entry>
-  <title>lost-rob0t: mycouchSession</title>
+  <title>continuitea: mastoapi</title>
   <author>
-   <name>lost-rob0t</name>
+   <name>continuitea</name>
   </author>
-  <link href="https://github.com/lost-rob0t/mycouchSession" />
-  <id>urn:rprimus:github:lost-rob0t:mycouchSession</id>
-  <published>2023-07-28T20:02:20Z</published>
-  <updated>2023-07-28T20:02:20Z</updated>
+  <link href="https://github.com/continuitea/mastoapi" />
+  <id>urn:rprimus:github:continuitea:mastoapi</id>
+  <published>2023-07-29T12:37:24Z</published>
+  <updated>2023-07-29T12:37:24Z</updated>
   <content type="html">
-   mycouch context for prologue
-  </content>
- </entry>
- <entry>
-  <title>olmeca: zfind</title>
-  <author>
-   <name>olmeca</name>
-  </author>
-  <link href="https://github.com/olmeca/zfind" />
-  <id>urn:rprimus:github:olmeca:zfind</id>
-  <published>2023-07-28T16:21:17Z</published>
-  <updated>2023-07-28T16:21:17Z</updated>
-  <content type="html">
-   CLI tool for finding files by name pattern in zip files, jar files, war files, ear files
-  </content>
- </entry>
- <entry>
-  <title>PhilippMDoerner: mapster</title>
-  <author>
-   <name>PhilippMDoerner</name>
-  </author>
-  <link href="https://github.com/PhilippMDoerner/mapster" />
-  <id>urn:rprimus:github:PhilippMDoerner:mapster</id>
-  <published>2023-07-28T15:24:19Z</published>
-  <updated>2023-07-28T15:24:19Z</updated>
-  <content type="html">
-   A simple way to generate mapping functions at compile-time without having to write them yourself.
-  </content>
- </entry>
- <entry>
-  <title>hamidb80: bale</title>
-  <author>
-   <name>hamidb80</name>
-  </author>
-  <link href="https://github.com/hamidb80/bale" />
-  <id>urn:rprimus:github:hamidb80:bale</id>
-  <published>2023-07-28T14:46:03Z</published>
-  <updated>2023-07-28T14:46:03Z</updated>
-  <content type="html">
-   bale.ai bot API client in Nim
-  </content>
- </entry>
- <entry>
-  <title>jaredmontoya: chatgptclient</title>
-  <author>
-   <name>jaredmontoya</name>
-  </author>
-  <link href="https://github.com/jaredmontoya/chatgptclient" />
-  <id>urn:rprimus:github:jaredmontoya:chatgptclient</id>
-  <published>2023-07-28T14:25:50Z</published>
-  <updated>2023-07-28T14:25:50Z</updated>
-  <content type="html">
-   Native gui client for OpenAI chatgpt
-  </content>
- </entry>
- <entry>
-  <title>TokisakiNinoVn: Crown-Language</title>
-  <author>
-   <name>TokisakiNinoVn</name>
-  </author>
-  <link href="https://github.com/TokisakiNinoVn/Crown-Language" />
-  <id>urn:rprimus:github:TokisakiNinoVn:Crown-Language</id>
-  <published>2023-07-28T13:49:56Z</published>
-  <updated>2023-07-28T13:49:56Z</updated>
-  <content type="html">
-   
+   A Mastodon API library for Nim.
   </content>
  </entry>
 </feed>
