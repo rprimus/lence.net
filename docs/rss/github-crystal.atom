@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2023-07-30T01:49:52Z</updated>
+<updated>2023-08-01T06:31:57Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>joseafga: cruzeiro</title>
+  <author>
+   <name>joseafga</name>
+  </author>
+  <link href="https://github.com/joseafga/cruzeiro" />
+  <id>urn:rprimus:github:joseafga:cruzeiro</id>
+  <published>2023-08-01T06:31:57Z</published>
+  <updated>2023-08-01T06:31:57Z</updated>
+  <content type="html">
+   Cruzeiro Cryptocurrency
+  </content>
+ </entry>
+ <entry>
+  <title>Singond: Crystal-dict</title>
+  <author>
+   <name>Singond</name>
+  </author>
+  <link href="https://github.com/Singond/Crystal-dict" />
+  <id>urn:rprimus:github:Singond:Crystal-dict</id>
+  <published>2023-07-31T19:22:05Z</published>
+  <updated>2023-07-31T19:22:05Z</updated>
+  <content type="html">
+   Crystal implementation of the DICT protocol
+  </content>
+ </entry>
  <entry>
   <title>Cxmrykk: Wilt</title>
   <author>
@@ -15,19 +41,6 @@
   <updated>2023-07-30T01:49:52Z</updated>
   <content type="html">
    TUI for Petals
-  </content>
- </entry>
- <entry>
-  <title>stakach: coap-server</title>
-  <author>
-   <name>stakach</name>
-  </author>
-  <link href="https://github.com/stakach/coap-server" />
-  <id>urn:rprimus:github:stakach:coap-server</id>
-  <published>2023-07-29T14:08:31Z</published>
-  <updated>2023-07-29T14:08:31Z</updated>
-  <content type="html">
-   a CoAP server implementation for Crystal Lang
   </content>
  </entry>
 </feed>

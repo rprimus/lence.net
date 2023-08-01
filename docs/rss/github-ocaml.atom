@@ -2,8 +2,112 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2023-07-31T08:41:37Z</updated>
+<updated>2023-08-01T02:45:30Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>ctbreen: ConnectFour</title>
+  <author>
+   <name>ctbreen</name>
+  </author>
+  <link href="https://github.com/ctbreen/ConnectFour" />
+  <id>urn:rprimus:github:ctbreen:ConnectFour</id>
+  <published>2023-08-01T02:45:30Z</published>
+  <updated>2023-08-01T02:45:30Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>jgulian: suz</title>
+  <author>
+   <name>jgulian</name>
+  </author>
+  <link href="https://github.com/jgulian/suz" />
+  <id>urn:rprimus:github:jgulian:suz</id>
+  <published>2023-08-01T00:55:27Z</published>
+  <updated>2023-08-01T00:55:27Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>ELLIOTTCABLE: ocaml-ambient-context</title>
+  <author>
+   <name>ELLIOTTCABLE</name>
+  </author>
+  <link href="https://github.com/ELLIOTTCABLE/ocaml-ambient-context" />
+  <id>urn:rprimus:github:ELLIOTTCABLE:ocaml-ambient-context</id>
+  <published>2023-07-31T21:45:43Z</published>
+  <updated>2023-07-31T21:45:43Z</updated>
+  <content type="html">
+   Abstraction over thread/continuation/fibre/sequence-local storage mechanisms for implicit communication context-sharing between applications and their transitive dependencies
+  </content>
+ </entry>
+ <entry>
+  <title>acrow18: OCamlProjects</title>
+  <author>
+   <name>acrow18</name>
+  </author>
+  <link href="https://github.com/acrow18/OCamlProjects" />
+  <id>urn:rprimus:github:acrow18:OCamlProjects</id>
+  <published>2023-07-31T19:38:49Z</published>
+  <updated>2023-07-31T19:38:49Z</updated>
+  <content type="html">
+   Projects done in CIS 505 using OCaml
+  </content>
+ </entry>
+ <entry>
+  <title>jabedzaman: Infoceptor</title>
+  <author>
+   <name>jabedzaman</name>
+  </author>
+  <link href="https://github.com/jabedzaman/Infoceptor" />
+  <id>urn:rprimus:github:jabedzaman:Infoceptor</id>
+  <published>2023-07-31T18:33:13Z</published>
+  <updated>2023-07-31T18:33:13Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>jonathanschlitt: ocaml</title>
+  <author>
+   <name>jonathanschlitt</name>
+  </author>
+  <link href="https://github.com/jonathanschlitt/ocaml" />
+  <id>urn:rprimus:github:jonathanschlitt:ocaml</id>
+  <published>2023-07-31T18:03:07Z</published>
+  <updated>2023-07-31T18:03:07Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>geocaml: ocaml-rtree</title>
+  <author>
+   <name>geocaml</name>
+  </author>
+  <link href="https://github.com/geocaml/ocaml-rtree" />
+  <id>urn:rprimus:github:geocaml:ocaml-rtree</id>
+  <published>2023-07-31T15:27:09Z</published>
+  <updated>2023-07-31T15:27:09Z</updated>
+  <content type="html">
+   A pure OCaml implement of R-Trees
+  </content>
+ </entry>
+ <entry>
+  <title>SimonRenblad: ninety-nine-ocaml</title>
+  <author>
+   <name>SimonRenblad</name>
+  </author>
+  <link href="https://github.com/SimonRenblad/ninety-nine-ocaml" />
+  <id>urn:rprimus:github:SimonRenblad:ninety-nine-ocaml</id>
+  <published>2023-07-31T09:36:31Z</published>
+  <updated>2023-07-31T09:36:31Z</updated>
+  <content type="html">
+   The original 99 problems in Lisp but implemented in OCaml for practice
+  </content>
+ </entry>
  <entry>
   <title>NotBad4U: cps_parser</title>
   <author>
@@ -122,6 +226,19 @@
   </content>
  </entry>
  <entry>
+  <title>bord-o: tigml</title>
+  <author>
+   <name>bord-o</name>
+  </author>
+  <link href="https://github.com/bord-o/tigml" />
+  <id>urn:rprimus:github:bord-o:tigml</id>
+  <published>2023-07-30T18:17:40Z</published>
+  <updated>2023-07-30T18:17:40Z</updated>
+  <content type="html">
+   modern compiler implementation in ocaml
+  </content>
+ </entry>
+ <entry>
   <title>prakriti-tandon: Monopoly</title>
   <author>
    <name>prakriti-tandon</name>
@@ -145,110 +262,6 @@
   <updated>2023-07-30T10:18:49Z</updated>
   <content type="html">
    pub-sub server implementation in OCaml, to implement a MIDI server
-  </content>
- </entry>
- <entry>
-  <title>UberPyro: Destructive-Abelian-Group-Unification</title>
-  <author>
-   <name>UberPyro</name>
-  </author>
-  <link href="https://github.com/UberPyro/Destructive-Abelian-Group-Unification" />
-  <id>urn:rprimus:github:UberPyro:Destructive-Abelian-Group-Unification</id>
-  <published>2023-07-29T22:29:39Z</published>
-  <updated>2023-07-29T22:29:39Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Dilichii: Functional-Programming-in-OCaml</title>
-  <author>
-   <name>Dilichii</name>
-  </author>
-  <link href="https://github.com/Dilichii/Functional-Programming-in-OCaml" />
-  <id>urn:rprimus:github:Dilichii:Functional-Programming-in-OCaml</id>
-  <published>2023-07-29T20:19:01Z</published>
-  <updated>2023-07-29T20:19:01Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>tmao8: Texas-Holdm-Poker</title>
-  <author>
-   <name>tmao8</name>
-  </author>
-  <link href="https://github.com/tmao8/Texas-Holdm-Poker" />
-  <id>urn:rprimus:github:tmao8:Texas-Holdm-Poker</id>
-  <published>2023-07-29T18:47:56Z</published>
-  <updated>2023-07-29T18:47:56Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>GiancarloZaniolo: compiler</title>
-  <author>
-   <name>GiancarloZaniolo</name>
-  </author>
-  <link href="https://github.com/GiancarloZaniolo/compiler" />
-  <id>urn:rprimus:github:GiancarloZaniolo:compiler</id>
-  <published>2023-07-29T18:46:34Z</published>
-  <updated>2023-07-29T18:46:34Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Blattvorhang: Concurrent-Async-Exercises</title>
-  <author>
-   <name>Blattvorhang</name>
-  </author>
-  <link href="https://github.com/Blattvorhang/Concurrent-Async-Exercises" />
-  <id>urn:rprimus:github:Blattvorhang:Concurrent-Async-Exercises</id>
-  <published>2023-07-29T18:12:07Z</published>
-  <updated>2023-07-29T18:12:07Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>lifchrs: SoundProof</title>
-  <author>
-   <name>lifchrs</name>
-  </author>
-  <link href="https://github.com/lifchrs/SoundProof" />
-  <id>urn:rprimus:github:lifchrs:SoundProof</id>
-  <published>2023-07-29T17:43:23Z</published>
-  <updated>2023-07-29T17:43:23Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>MrE-Fog: krb5libe</title>
-  <author>
-   <name>MrE-Fog</name>
-  </author>
-  <link href="https://github.com/MrE-Fog/krb5libe" />
-  <id>urn:rprimus:github:MrE-Fog:krb5libe</id>
-  <published>2023-07-29T17:26:12Z</published>
-  <updated>2023-07-29T17:26:12Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jajimajp: ocaml-atcoder-beginners-selection</title>
-  <author>
-   <name>jajimajp</name>
-  </author>
-  <link href="https://github.com/jajimajp/ocaml-atcoder-beginners-selection" />
-  <id>urn:rprimus:github:jajimajp:ocaml-atcoder-beginners-selection</id>
-  <published>2023-07-29T16:59:08Z</published>
-  <updated>2023-07-29T16:59:08Z</updated>
-  <content type="html">
-   AtCoder Beginners Selection ã® OCaml ã«ããè§£ç­
   </content>
  </entry>
 </feed>
