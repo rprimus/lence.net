@@ -2,8 +2,112 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2023-08-01T02:45:30Z</updated>
+<updated>2023-08-02T08:07:16Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>rol1510: 99-ocaml-problems</title>
+  <author>
+   <name>rol1510</name>
+  </author>
+  <link href="https://github.com/rol1510/99-ocaml-problems" />
+  <id>urn:rprimus:github:rol1510:99-ocaml-problems</id>
+  <published>2023-08-02T08:07:16Z</published>
+  <updated>2023-08-02T08:07:16Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>jaymody: ocaml-algos</title>
+  <author>
+   <name>jaymody</name>
+  </author>
+  <link href="https://github.com/jaymody/ocaml-algos" />
+  <id>urn:rprimus:github:jaymody:ocaml-algos</id>
+  <published>2023-08-01T21:36:38Z</published>
+  <updated>2023-08-01T21:36:38Z</updated>
+  <content type="html">
+   Various algorithms and data structure implementations in OCaml.
+  </content>
+ </entry>
+ <entry>
+  <title>zazedd: lispy_lambda</title>
+  <author>
+   <name>zazedd</name>
+  </author>
+  <link href="https://github.com/zazedd/lispy_lambda" />
+  <id>urn:rprimus:github:zazedd:lispy_lambda</id>
+  <published>2023-08-01T20:11:17Z</published>
+  <updated>2023-08-01T20:11:17Z</updated>
+  <content type="html">
+   Simply typed lambda calculus, but lispy
+  </content>
+ </entry>
+ <entry>
+  <title>glyh: ocyula</title>
+  <author>
+   <name>glyh</name>
+  </author>
+  <link href="https://github.com/glyh/ocyula" />
+  <id>urn:rprimus:github:glyh:ocyula</id>
+  <published>2023-08-01T17:36:38Z</published>
+  <updated>2023-08-01T17:36:38Z</updated>
+  <content type="html">
+   Experimental compiler for Yula that generates Elixir code, written in Ocaml.
+  </content>
+ </entry>
+ <entry>
+  <title>pedroclobo: 99-ocaml-problems</title>
+  <author>
+   <name>pedroclobo</name>
+  </author>
+  <link href="https://github.com/pedroclobo/99-ocaml-problems" />
+  <id>urn:rprimus:github:pedroclobo:99-ocaml-problems</id>
+  <published>2023-08-01T17:20:04Z</published>
+  <updated>2023-08-01T17:20:04Z</updated>
+  <content type="html">
+   Solutions to https://ocaml.org/problems
+  </content>
+ </entry>
+ <entry>
+  <title>vitolev: sudoku_solver</title>
+  <author>
+   <name>vitolev</name>
+  </author>
+  <link href="https://github.com/vitolev/sudoku_solver" />
+  <id>urn:rprimus:github:vitolev:sudoku_solver</id>
+  <published>2023-08-01T15:33:32Z</published>
+  <updated>2023-08-01T15:33:32Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>xavierm02: mycore</title>
+  <author>
+   <name>xavierm02</name>
+  </author>
+  <link href="https://github.com/xavierm02/mycore" />
+  <id>urn:rprimus:github:xavierm02:mycore</id>
+  <published>2023-08-01T14:00:54Z</published>
+  <updated>2023-08-01T14:00:54Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>dannypsnl: headvariant</title>
+  <author>
+   <name>dannypsnl</name>
+  </author>
+  <link href="https://github.com/dannypsnl/headvariant" />
+  <id>urn:rprimus:github:dannypsnl:headvariant</id>
+  <published>2023-08-01T11:51:42Z</published>
+  <updated>2023-08-01T11:51:42Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>ctbreen: ConnectFour</title>
   <author>
@@ -66,7 +170,7 @@
   <published>2023-07-31T18:33:13Z</published>
   <updated>2023-07-31T18:33:13Z</updated>
   <content type="html">
-   
+   REST API in OCaml with dream
   </content>
  </entry>
  <entry>
@@ -184,84 +288,6 @@
   <updated>2023-07-31T00:50:32Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>dbuenzli: htmlit</title>
-  <author>
-   <name>dbuenzli</name>
-  </author>
-  <link href="https://github.com/dbuenzli/htmlit" />
-  <id>urn:rprimus:github:dbuenzli:htmlit</id>
-  <published>2023-07-30T21:38:36Z</published>
-  <updated>2023-07-30T21:38:36Z</updated>
-  <content type="html">
-   HTML generation combinators for OCaml
-  </content>
- </entry>
- <entry>
-  <title>Scott-fo: interpreter</title>
-  <author>
-   <name>Scott-fo</name>
-  </author>
-  <link href="https://github.com/Scott-fo/interpreter" />
-  <id>urn:rprimus:github:Scott-fo:interpreter</id>
-  <published>2023-07-30T21:33:09Z</published>
-  <updated>2023-07-30T21:33:09Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>andreypopp: react_server_components</title>
-  <author>
-   <name>andreypopp</name>
-  </author>
-  <link href="https://github.com/andreypopp/react_server_components" />
-  <id>urn:rprimus:github:andreypopp:react_server_components</id>
-  <published>2023-07-30T18:54:40Z</published>
-  <updated>2023-07-30T18:54:40Z</updated>
-  <content type="html">
-   React Server Components (RSC) for OCaml
-  </content>
- </entry>
- <entry>
-  <title>bord-o: tigml</title>
-  <author>
-   <name>bord-o</name>
-  </author>
-  <link href="https://github.com/bord-o/tigml" />
-  <id>urn:rprimus:github:bord-o:tigml</id>
-  <published>2023-07-30T18:17:40Z</published>
-  <updated>2023-07-30T18:17:40Z</updated>
-  <content type="html">
-   modern compiler implementation in ocaml
-  </content>
- </entry>
- <entry>
-  <title>prakriti-tandon: Monopoly</title>
-  <author>
-   <name>prakriti-tandon</name>
-  </author>
-  <link href="https://github.com/prakriti-tandon/Monopoly" />
-  <id>urn:rprimus:github:prakriti-tandon:Monopoly</id>
-  <published>2023-07-30T15:56:20Z</published>
-  <updated>2023-07-30T15:56:20Z</updated>
-  <content type="html">
-   CS3110 Final Project - Monopoly 
-  </content>
- </entry>
- <entry>
-  <title>AryanGodara: pub-sub-server</title>
-  <author>
-   <name>AryanGodara</name>
-  </author>
-  <link href="https://github.com/AryanGodara/pub-sub-server" />
-  <id>urn:rprimus:github:AryanGodara:pub-sub-server</id>
-  <published>2023-07-30T10:18:49Z</published>
-  <updated>2023-07-30T10:18:49Z</updated>
-  <content type="html">
-   pub-sub server implementation in OCaml, to implement a MIDI server
   </content>
  </entry>
 </feed>

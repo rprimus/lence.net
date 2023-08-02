@@ -2,8 +2,125 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-racket.atom"/>
 <id>urn:rprimus:github:newracketrepos</id>
-<updated>2023-08-01T03:45:52Z</updated>
+<updated>2023-08-02T06:23:13Z</updated>
 <title type='text'>New GitHub Racket Repos</title>
+ <entry>
+  <title>srsf35: Simple-Parser</title>
+  <author>
+   <name>srsf35</name>
+  </author>
+  <link href="https://github.com/srsf35/Simple-Parser" />
+  <id>urn:rprimus:github:srsf35:Simple-Parser</id>
+  <published>2023-08-02T06:23:13Z</published>
+  <updated>2023-08-02T06:23:13Z</updated>
+  <content type="html">
+   Practice Parser that determines if an input file is syntactically correct according to a simple calculator syntax. 
+  </content>
+ </entry>
+ <entry>
+  <title>srsf35: BestFirstSearch</title>
+  <author>
+   <name>srsf35</name>
+  </author>
+  <link href="https://github.com/srsf35/BestFirstSearch" />
+  <id>urn:rprimus:github:srsf35:BestFirstSearch</id>
+  <published>2023-08-02T06:11:41Z</published>
+  <updated>2023-08-02T06:11:41Z</updated>
+  <content type="html">
+   Given a list of coordinates, adjacencies, the starting destination, and the ending destination the program uses the shortest distance between nodes as a heuristic to guide the search.
+  </content>
+ </entry>
+ <entry>
+  <title>srsf35: Hash-Directory</title>
+  <author>
+   <name>srsf35</name>
+  </author>
+  <link href="https://github.com/srsf35/Hash-Directory" />
+  <id>urn:rprimus:github:srsf35:Hash-Directory</id>
+  <published>2023-08-02T05:48:10Z</published>
+  <updated>2023-08-02T05:48:10Z</updated>
+  <content type="html">
+   Given several texts, the program filters out stop words then creates a hash directory of every text. Afterwards, user input is used to search the hash directory for matches, which are then printed out with the frequency of the word&#039;s occurrence in each text.
+  </content>
+ </entry>
+ <entry>
+  <title>srsf35: MonadCalculator</title>
+  <author>
+   <name>srsf35</name>
+  </author>
+  <link href="https://github.com/srsf35/MonadCalculator" />
+  <id>urn:rprimus:github:srsf35:MonadCalculator</id>
+  <published>2023-08-02T05:41:04Z</published>
+  <updated>2023-08-02T05:41:04Z</updated>
+  <content type="html">
+   Simple Calculator that handles invalid computations with the either monad.
+  </content>
+ </entry>
+ <entry>
+  <title>srsf35: AuthorGuessor</title>
+  <author>
+   <name>srsf35</name>
+  </author>
+  <link href="https://github.com/srsf35/AuthorGuessor" />
+  <id>urn:rprimus:github:srsf35:AuthorGuessor</id>
+  <published>2023-08-02T05:36:46Z</published>
+  <updated>2023-08-02T05:36:46Z</updated>
+  <content type="html">
+   Reads in texts with identified authors, creates a hash table of words as keys and frequencies as values, then determines which author wrote a mystery text based on the closest match.
+  </content>
+ </entry>
+ <entry>
+  <title>srsf35: GradeAverage</title>
+  <author>
+   <name>srsf35</name>
+  </author>
+  <link href="https://github.com/srsf35/GradeAverage" />
+  <id>urn:rprimus:github:srsf35:GradeAverage</id>
+  <published>2023-08-02T05:32:50Z</published>
+  <updated>2023-08-02T05:32:50Z</updated>
+  <content type="html">
+   Program creates a formatted weighted grade average for each studen from input
+  </content>
+ </entry>
+ <entry>
+  <title>nicball: eoc</title>
+  <author>
+   <name>nicball</name>
+  </author>
+  <link href="https://github.com/nicball/eoc" />
+  <id>urn:rprimus:github:nicball:eoc</id>
+  <published>2023-08-01T15:58:08Z</published>
+  <updated>2023-08-01T15:58:08Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>sdawid: renv</title>
+  <author>
+   <name>sdawid</name>
+  </author>
+  <link href="https://github.com/sdawid/renv" />
+  <id>urn:rprimus:github:sdawid:renv</id>
+  <published>2023-08-01T12:46:58Z</published>
+  <updated>2023-08-01T12:46:58Z</updated>
+  <content type="html">
+   Run local command scripts
+  </content>
+ </entry>
+ <entry>
+  <title>bradsjansen: Coding-Projects</title>
+  <author>
+   <name>bradsjansen</name>
+  </author>
+  <link href="https://github.com/bradsjansen/Coding-Projects" />
+  <id>urn:rprimus:github:bradsjansen:Coding-Projects</id>
+  <published>2023-08-01T10:06:17Z</published>
+  <updated>2023-08-01T10:06:17Z</updated>
+  <content type="html">
+   A display of projects created using various programming languages.
+  </content>
+ </entry>
  <entry>
   <title>peeyushaga: SICP</title>
   <author>
@@ -39,84 +156,6 @@
   <id>urn:rprimus:github:nflromano:Law-Breaker</id>
   <published>2023-07-31T16:46:42Z</published>
   <updated>2023-07-31T16:46:42Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>alinefragadasilvaa: racket</title>
-  <author>
-   <name>alinefragadasilvaa</name>
-  </author>
-  <link href="https://github.com/alinefragadasilvaa/racket" />
-  <id>urn:rprimus:github:alinefragadasilvaa:racket</id>
-  <published>2023-07-31T14:48:42Z</published>
-  <updated>2023-07-31T14:48:42Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>daher13: redex-lpeg</title>
-  <author>
-   <name>daher13</name>
-  </author>
-  <link href="https://github.com/daher13/redex-lpeg" />
-  <id>urn:rprimus:github:daher13:redex-lpeg</id>
-  <published>2023-07-30T22:39:15Z</published>
-  <updated>2023-07-30T22:39:15Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>bairamau: sicp</title>
-  <author>
-   <name>bairamau</name>
-  </author>
-  <link href="https://github.com/bairamau/sicp" />
-  <id>urn:rprimus:github:bairamau:sicp</id>
-  <published>2023-07-30T09:02:47Z</published>
-  <updated>2023-07-30T09:02:47Z</updated>
-  <content type="html">
-   Join me in my journey through SICP
-  </content>
- </entry>
- <entry>
-  <title>paperclipmaximizer: Programming-Languages-Part-B</title>
-  <author>
-   <name>paperclipmaximizer</name>
-  </author>
-  <link href="https://github.com/paperclipmaximizer/Programming-Languages-Part-B" />
-  <id>urn:rprimus:github:paperclipmaximizer:Programming-Languages-Part-B</id>
-  <published>2023-07-30T03:04:56Z</published>
-  <updated>2023-07-30T03:04:56Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>SakurakoKida: Public-Key-Cryptography</title>
-  <author>
-   <name>SakurakoKida</name>
-  </author>
-  <link href="https://github.com/SakurakoKida/Public-Key-Cryptography" />
-  <id>urn:rprimus:github:SakurakoKida:Public-Key-Cryptography</id>
-  <published>2023-07-30T02:41:05Z</published>
-  <updated>2023-07-30T02:41:05Z</updated>
-  <content type="html">
-   CS 230 Public Key Cryptography exercise
-  </content>
- </entry>
- <entry>
-  <title>tbmreza: literal</title>
-  <author>
-   <name>tbmreza</name>
-  </author>
-  <link href="https://github.com/tbmreza/literal" />
-  <id>urn:rprimus:github:tbmreza:literal</id>
-  <published>2023-07-30T02:00:46Z</published>
-  <updated>2023-07-30T02:00:46Z</updated>
   <content type="html">
    
   </content>
