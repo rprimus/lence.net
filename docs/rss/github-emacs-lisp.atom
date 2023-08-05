@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2023-08-04T06:02:44Z</updated>
+<updated>2023-08-05T09:27:25Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>LinArcX: .emacs.d</title>
+  <author>
+   <name>LinArcX</name>
+  </author>
+  <link href="https://github.com/LinArcX/.emacs.d" />
+  <id>urn:rprimus:github:LinArcX:.emacs.d</id>
+  <published>2023-08-05T09:27:25Z</published>
+  <updated>2023-08-05T09:27:25Z</updated>
+  <content type="html">
+   my .emacs.d configurations
+  </content>
+ </entry>
+ <entry>
+  <title>yottanami: noteditor</title>
+  <author>
+   <name>yottanami</name>
+  </author>
+  <link href="https://github.com/yottanami/noteditor" />
+  <id>urn:rprimus:github:yottanami:noteditor</id>
+  <published>2023-08-05T00:58:26Z</published>
+  <updated>2023-08-05T00:58:26Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>AadityaSalgarkar: dotfiles</title>
+  <author>
+   <name>AadityaSalgarkar</name>
+  </author>
+  <link href="https://github.com/AadityaSalgarkar/dotfiles" />
+  <id>urn:rprimus:github:AadityaSalgarkar:dotfiles</id>
+  <published>2023-08-04T18:37:32Z</published>
+  <updated>2023-08-04T18:37:32Z</updated>
+  <content type="html">
+   Dotfiles
+  </content>
+ </entry>
+ <entry>
+  <title>thatptr: basemacs</title>
+  <author>
+   <name>thatptr</name>
+  </author>
+  <link href="https://github.com/thatptr/basemacs" />
+  <id>urn:rprimus:github:thatptr:basemacs</id>
+  <published>2023-08-04T14:21:27Z</published>
+  <updated>2023-08-04T14:21:27Z</updated>
+  <content type="html">
+   My -- very simple -- emacs configuration
+  </content>
+ </entry>
+ <entry>
+  <title>alvarogonzalezsotillo: hl-todo-flycheck</title>
+  <author>
+   <name>alvarogonzalezsotillo</name>
+  </author>
+  <link href="https://github.com/alvarogonzalezsotillo/hl-todo-flycheck" />
+  <id>urn:rprimus:github:alvarogonzalezsotillo:hl-todo-flycheck</id>
+  <published>2023-08-04T10:48:58Z</published>
+  <updated>2023-08-04T10:48:58Z</updated>
+  <content type="html">
+   Display hl-todo keywords as messages in flycheck
+  </content>
+ </entry>
+ <entry>
+  <title>ywatanabe1989: emacs-gpt</title>
+  <author>
+   <name>ywatanabe1989</name>
+  </author>
+  <link href="https://github.com/ywatanabe1989/emacs-gpt" />
+  <id>urn:rprimus:github:ywatanabe1989:emacs-gpt</id>
+  <published>2023-08-04T10:29:53Z</published>
+  <updated>2023-08-04T10:29:53Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>D5n9sMatrix: guile-string</title>
   <author>
@@ -41,6 +119,19 @@
   <updated>2023-08-04T02:43:11Z</updated>
   <content type="html">
    Emacs configuration follow doomemacs
+  </content>
+ </entry>
+ <entry>
+  <title>tomrake: dotfiles</title>
+  <author>
+   <name>tomrake</name>
+  </author>
+  <link href="https://github.com/tomrake/dotfiles" />
+  <id>urn:rprimus:github:tomrake:dotfiles</id>
+  <published>2023-08-04T02:11:01Z</published>
+  <updated>2023-08-04T02:11:01Z</updated>
+  <content type="html">
+   
   </content>
  </entry>
  <entry>
@@ -247,175 +338,6 @@
   <id>urn:rprimus:github:liuyinz:flymake-relint</id>
   <published>2023-08-03T00:56:37Z</published>
   <updated>2023-08-03T00:56:37Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>allispaul: spacemacs-lean4-layer</title>
-  <author>
-   <name>allispaul</name>
-  </author>
-  <link href="https://github.com/allispaul/spacemacs-lean4-layer" />
-  <id>urn:rprimus:github:allispaul:spacemacs-lean4-layer</id>
-  <published>2023-08-02T22:15:45Z</published>
-  <updated>2023-08-02T22:15:45Z</updated>
-  <content type="html">
-   Spacemacs configuration layer for the Lean 4 theorem prover, using lean-mode
-  </content>
- </entry>
- <entry>
-  <title>brahyerr: nix-doom-emacs</title>
-  <author>
-   <name>brahyerr</name>
-  </author>
-  <link href="https://github.com/brahyerr/nix-doom-emacs" />
-  <id>urn:rprimus:github:brahyerr:nix-doom-emacs</id>
-  <published>2023-08-02T20:49:08Z</published>
-  <updated>2023-08-02T20:49:08Z</updated>
-  <content type="html">
-   Nix Doom Emacs config based on template from nix-community/nix-doom-emacs
-  </content>
- </entry>
- <entry>
-  <title>mokrates: json-simple-flymake</title>
-  <author>
-   <name>mokrates</name>
-  </author>
-  <link href="https://github.com/mokrates/json-simple-flymake" />
-  <id>urn:rprimus:github:mokrates:json-simple-flymake</id>
-  <published>2023-08-02T20:34:09Z</published>
-  <updated>2023-08-02T20:34:09Z</updated>
-  <content type="html">
-   flymake mode for json using emacs&#039; builtin json-parse-buffer
-  </content>
- </entry>
- <entry>
-  <title>D5n9sMatrix: guile-gdb-3.1.0</title>
-  <author>
-   <name>D5n9sMatrix</name>
-  </author>
-  <link href="https://github.com/D5n9sMatrix/guile-gdb-3.1.0" />
-  <id>urn:rprimus:github:D5n9sMatrix:guile-gdb-3.1.0</id>
-  <published>2023-08-02T19:04:34Z</published>
-  <updated>2023-08-02T19:04:34Z</updated>
-  <content type="html">
-   GDB Documentation
-  </content>
- </entry>
- <entry>
-  <title>junio12o: dotemacs</title>
-  <author>
-   <name>junio12o</name>
-  </author>
-  <link href="https://github.com/junio12o/dotemacs" />
-  <id>urn:rprimus:github:junio12o:dotemacs</id>
-  <published>2023-08-02T18:53:00Z</published>
-  <updated>2023-08-02T18:53:00Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>corytertel: rough-draft.el</title>
-  <author>
-   <name>corytertel</name>
-  </author>
-  <link href="https://github.com/corytertel/rough-draft.el" />
-  <id>urn:rprimus:github:corytertel:rough-draft.el</id>
-  <published>2023-08-02T18:27:42Z</published>
-  <updated>2023-08-02T18:27:42Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>gbrlgn: machine-abstraite</title>
-  <author>
-   <name>gbrlgn</name>
-  </author>
-  <link href="https://github.com/gbrlgn/machine-abstraite" />
-  <id>urn:rprimus:github:gbrlgn:machine-abstraite</id>
-  <published>2023-08-02T17:31:25Z</published>
-  <updated>2023-08-02T17:31:25Z</updated>
-  <content type="html">
-   Assortment of assemblages
-  </content>
- </entry>
- <entry>
-  <title>mrusso99: dotfiles</title>
-  <author>
-   <name>mrusso99</name>
-  </author>
-  <link href="https://github.com/mrusso99/dotfiles" />
-  <id>urn:rprimus:github:mrusso99:dotfiles</id>
-  <published>2023-08-02T17:01:35Z</published>
-  <updated>2023-08-02T17:01:35Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>dawekenshi: PunPunMacs</title>
-  <author>
-   <name>dawekenshi</name>
-  </author>
-  <link href="https://github.com/dawekenshi/PunPunMacs" />
-  <id>urn:rprimus:github:dawekenshi:PunPunMacs</id>
-  <published>2023-08-02T12:11:18Z</published>
-  <updated>2023-08-02T12:11:18Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>sauvala: emacs-mac</title>
-  <author>
-   <name>sauvala</name>
-  </author>
-  <link href="https://github.com/sauvala/emacs-mac" />
-  <id>urn:rprimus:github:sauvala:emacs-mac</id>
-  <published>2023-08-02T09:54:26Z</published>
-  <updated>2023-08-02T09:54:26Z</updated>
-  <content type="html">
-   Mirror of Mitsuharu Yamamoto&#039;s Emacs Mac port https://bitbucket.org/mituharu/emacs-mac/src/master/
-  </content>
- </entry>
- <entry>
-  <title>Jiaqigege: emacs.d</title>
-  <author>
-   <name>Jiaqigege</name>
-  </author>
-  <link href="https://github.com/Jiaqigege/emacs.d" />
-  <id>urn:rprimus:github:Jiaqigege:emacs.d</id>
-  <published>2023-08-02T09:26:41Z</published>
-  <updated>2023-08-02T09:26:41Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>HikariNee: emacs-config</title>
-  <author>
-   <name>HikariNee</name>
-  </author>
-  <link href="https://github.com/HikariNee/emacs-config" />
-  <id>urn:rprimus:github:HikariNee:emacs-config</id>
-  <published>2023-08-02T09:02:38Z</published>
-  <updated>2023-08-02T09:02:38Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Tarbolin69: Angelmacs2</title>
-  <author>
-   <name>Tarbolin69</name>
-  </author>
-  <link href="https://github.com/Tarbolin69/Angelmacs2" />
-  <id>urn:rprimus:github:Tarbolin69:Angelmacs2</id>
-  <published>2023-08-02T08:31:49Z</published>
-  <updated>2023-08-02T08:31:49Z</updated>
   <content type="html">
    
   </content>
