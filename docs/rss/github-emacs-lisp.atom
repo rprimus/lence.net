@@ -2,342 +2,394 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2023-08-05T09:27:25Z</updated>
+<updated>2023-08-11T07:51:38Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
  <entry>
-  <title>LinArcX: .emacs.d</title>
+  <title>SaurabhJha: my-emacs-file</title>
   <author>
-   <name>LinArcX</name>
+   <name>SaurabhJha</name>
   </author>
-  <link href="https://github.com/LinArcX/.emacs.d" />
-  <id>urn:rprimus:github:LinArcX:.emacs.d</id>
-  <published>2023-08-05T09:27:25Z</published>
-  <updated>2023-08-05T09:27:25Z</updated>
+  <link href="https://github.com/SaurabhJha/my-emacs-file" />
+  <id>urn:rprimus:github:SaurabhJha:my-emacs-file</id>
+  <published>2023-08-11T07:51:38Z</published>
+  <updated>2023-08-11T07:51:38Z</updated>
   <content type="html">
-   my .emacs.d configurations
+   Versioning my .emacs file so that I can use it in other computers
   </content>
  </entry>
  <entry>
-  <title>yottanami: noteditor</title>
+  <title>mauricio-ms: aws.el</title>
   <author>
-   <name>yottanami</name>
+   <name>mauricio-ms</name>
   </author>
-  <link href="https://github.com/yottanami/noteditor" />
-  <id>urn:rprimus:github:yottanami:noteditor</id>
-  <published>2023-08-05T00:58:26Z</published>
-  <updated>2023-08-05T00:58:26Z</updated>
+  <link href="https://github.com/mauricio-ms/aws.el" />
+  <id>urn:rprimus:github:mauricio-ms:aws.el</id>
+  <published>2023-08-11T02:58:43Z</published>
+  <updated>2023-08-11T02:58:43Z</updated>
   <content type="html">
-   
+   AWS interactive environment for Emacs.
   </content>
  </entry>
  <entry>
-  <title>AadityaSalgarkar: dotfiles</title>
-  <author>
-   <name>AadityaSalgarkar</name>
-  </author>
-  <link href="https://github.com/AadityaSalgarkar/dotfiles" />
-  <id>urn:rprimus:github:AadityaSalgarkar:dotfiles</id>
-  <published>2023-08-04T18:37:32Z</published>
-  <updated>2023-08-04T18:37:32Z</updated>
-  <content type="html">
-   Dotfiles
-  </content>
- </entry>
- <entry>
-  <title>thatptr: basemacs</title>
-  <author>
-   <name>thatptr</name>
-  </author>
-  <link href="https://github.com/thatptr/basemacs" />
-  <id>urn:rprimus:github:thatptr:basemacs</id>
-  <published>2023-08-04T14:21:27Z</published>
-  <updated>2023-08-04T14:21:27Z</updated>
-  <content type="html">
-   My -- very simple -- emacs configuration
-  </content>
- </entry>
- <entry>
-  <title>alvarogonzalezsotillo: hl-todo-flycheck</title>
-  <author>
-   <name>alvarogonzalezsotillo</name>
-  </author>
-  <link href="https://github.com/alvarogonzalezsotillo/hl-todo-flycheck" />
-  <id>urn:rprimus:github:alvarogonzalezsotillo:hl-todo-flycheck</id>
-  <published>2023-08-04T10:48:58Z</published>
-  <updated>2023-08-04T10:48:58Z</updated>
-  <content type="html">
-   Display hl-todo keywords as messages in flycheck
-  </content>
- </entry>
- <entry>
-  <title>ywatanabe1989: emacs-gpt</title>
-  <author>
-   <name>ywatanabe1989</name>
-  </author>
-  <link href="https://github.com/ywatanabe1989/emacs-gpt" />
-  <id>urn:rprimus:github:ywatanabe1989:emacs-gpt</id>
-  <published>2023-08-04T10:29:53Z</published>
-  <updated>2023-08-04T10:29:53Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>D5n9sMatrix: guile-string</title>
-  <author>
-   <name>D5n9sMatrix</name>
-  </author>
-  <link href="https://github.com/D5n9sMatrix/guile-string" />
-  <id>urn:rprimus:github:D5n9sMatrix:guile-string</id>
-  <published>2023-08-04T06:02:44Z</published>
-  <updated>2023-08-04T06:02:44Z</updated>
-  <content type="html">
-   Strings (Guile Reference Manual)
-  </content>
- </entry>
- <entry>
-  <title>meain: tree-surgeon</title>
-  <author>
-   <name>meain</name>
-  </author>
-  <link href="https://github.com/meain/tree-surgeon" />
-  <id>urn:rprimus:github:meain:tree-surgeon</id>
-  <published>2023-08-04T05:12:27Z</published>
-  <updated>2023-08-04T05:12:27Z</updated>
-  <content type="html">
-   Code manipulation utilities for Emacs using tree-sitter
-  </content>
- </entry>
- <entry>
-  <title>catnu: doom</title>
-  <author>
-   <name>catnu</name>
-  </author>
-  <link href="https://github.com/catnu/doom" />
-  <id>urn:rprimus:github:catnu:doom</id>
-  <published>2023-08-04T02:43:11Z</published>
-  <updated>2023-08-04T02:43:11Z</updated>
-  <content type="html">
-   Emacs configuration follow doomemacs
-  </content>
- </entry>
- <entry>
-  <title>tomrake: dotfiles</title>
-  <author>
-   <name>tomrake</name>
-  </author>
-  <link href="https://github.com/tomrake/dotfiles" />
-  <id>urn:rprimus:github:tomrake:dotfiles</id>
-  <published>2023-08-04T02:11:01Z</published>
-  <updated>2023-08-04T02:11:01Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>TakingWW: dotfiles</title>
-  <author>
-   <name>TakingWW</name>
-  </author>
-  <link href="https://github.com/TakingWW/dotfiles" />
-  <id>urn:rprimus:github:TakingWW:dotfiles</id>
-  <published>2023-08-04T00:38:23Z</published>
-  <updated>2023-08-04T00:38:23Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>D5n9sMatrix: guile-stream</title>
-  <author>
-   <name>D5n9sMatrix</name>
-  </author>
-  <link href="https://github.com/D5n9sMatrix/guile-stream" />
-  <id>urn:rprimus:github:D5n9sMatrix:guile-stream</id>
-  <published>2023-08-04T00:17:03Z</published>
-  <updated>2023-08-04T00:17:03Z</updated>
-  <content type="html">
-   welcome Streams (Guile Reference Manual)
-  </content>
- </entry>
- <entry>
-  <title>D5n9sMatrix: guile-ash</title>
-  <author>
-   <name>D5n9sMatrix</name>
-  </author>
-  <link href="https://github.com/D5n9sMatrix/guile-ash" />
-  <id>urn:rprimus:github:D5n9sMatrix:guile-ash</id>
-  <published>2023-08-03T19:06:19Z</published>
-  <updated>2023-08-03T19:06:19Z</updated>
-  <content type="html">
-   Bitwise Operations (GNU Emacs Lisp Reference Manual)
-  </content>
- </entry>
- <entry>
-  <title>mokrates: flymaker</title>
-  <author>
-   <name>mokrates</name>
-  </author>
-  <link href="https://github.com/mokrates/flymaker" />
-  <id>urn:rprimus:github:mokrates:flymaker</id>
-  <published>2023-08-03T18:53:25Z</published>
-  <updated>2023-08-03T18:53:25Z</updated>
-  <content type="html">
-   flymaker is an emacs lisp macro to easily define flymake backends
-  </content>
- </entry>
- <entry>
-  <title>denniscmartin: emacs.d</title>
-  <author>
-   <name>denniscmartin</name>
-  </author>
-  <link href="https://github.com/denniscmartin/emacs.d" />
-  <id>urn:rprimus:github:denniscmartin:emacs.d</id>
-  <published>2023-08-03T17:55:33Z</published>
-  <updated>2023-08-03T17:55:33Z</updated>
-  <content type="html">
-   My emacs config
-  </content>
- </entry>
- <entry>
-  <title>probix0001: cfg</title>
-  <author>
-   <name>probix0001</name>
-  </author>
-  <link href="https://github.com/probix0001/cfg" />
-  <id>urn:rprimus:github:probix0001:cfg</id>
-  <published>2023-08-03T16:04:16Z</published>
-  <updated>2023-08-03T16:04:16Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>aibix0001: cfg</title>
-  <author>
-   <name>aibix0001</name>
-  </author>
-  <link href="https://github.com/aibix0001/cfg" />
-  <id>urn:rprimus:github:aibix0001:cfg</id>
-  <published>2023-08-03T15:38:14Z</published>
-  <updated>2023-08-03T15:38:14Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>hengistwang: doom</title>
-  <author>
-   <name>hengistwang</name>
-  </author>
-  <link href="https://github.com/hengistwang/doom" />
-  <id>urn:rprimus:github:hengistwang:doom</id>
-  <published>2023-08-03T14:25:32Z</published>
-  <updated>2023-08-03T14:25:32Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>LeBaoTai: .emacs.d</title>
-  <author>
-   <name>LeBaoTai</name>
-  </author>
-  <link href="https://github.com/LeBaoTai/.emacs.d" />
-  <id>urn:rprimus:github:LeBaoTai:.emacs.d</id>
-  <published>2023-08-03T13:43:23Z</published>
-  <updated>2023-08-03T13:43:23Z</updated>
-  <content type="html">
-   My emacs config :&gt;
-  </content>
- </entry>
- <entry>
-  <title>rafonseca: emacs.d</title>
-  <author>
-   <name>rafonseca</name>
-  </author>
-  <link href="https://github.com/rafonseca/emacs.d" />
-  <id>urn:rprimus:github:rafonseca:emacs.d</id>
-  <published>2023-08-03T11:12:53Z</published>
-  <updated>2023-08-03T11:12:53Z</updated>
-  <content type="html">
-   My emacs config
-  </content>
- </entry>
- <entry>
-  <title>manateelazycat: key-echo</title>
+  <title>manateelazycat: holo-layer</title>
   <author>
    <name>manateelazycat</name>
   </author>
-  <link href="https://github.com/manateelazycat/key-echo" />
-  <id>urn:rprimus:github:manateelazycat:key-echo</id>
-  <published>2023-08-03T09:31:12Z</published>
-  <updated>2023-08-03T09:31:12Z</updated>
+  <link href="https://github.com/manateelazycat/holo-layer" />
+  <id>urn:rprimus:github:manateelazycat:holo-layer</id>
+  <published>2023-08-11T00:29:36Z</published>
+  <updated>2023-08-11T00:29:36Z</updated>
   <content type="html">
-   Key-Echo is an Emacs plugin that uses XRecord technology to listen to system key events
+   HoloLayer is a multimedia layer plugin designed specifically for Emacs
   </content>
  </entry>
  <entry>
-  <title>Book-reader: DOOM-Emacs-Config</title>
+  <title>javashaman: doom-emacs</title>
   <author>
-   <name>Book-reader</name>
+   <name>javashaman</name>
   </author>
-  <link href="https://github.com/Book-reader/DOOM-Emacs-Config" />
-  <id>urn:rprimus:github:Book-reader:DOOM-Emacs-Config</id>
-  <published>2023-08-03T09:17:42Z</published>
-  <updated>2023-08-03T09:17:42Z</updated>
+  <link href="https://github.com/javashaman/doom-emacs" />
+  <id>urn:rprimus:github:javashaman:doom-emacs</id>
+  <published>2023-08-10T21:06:06Z</published>
+  <updated>2023-08-10T21:06:06Z</updated>
+  <content type="html">
+   my doom emacs config
+  </content>
+ </entry>
+ <entry>
+  <title>hzhangxyz: codegeex.el</title>
+  <author>
+   <name>hzhangxyz</name>
+  </author>
+  <link href="https://github.com/hzhangxyz/codegeex.el" />
+  <id>urn:rprimus:github:hzhangxyz:codegeex.el</id>
+  <published>2023-08-10T17:09:55Z</published>
+  <updated>2023-08-10T17:09:55Z</updated>
+  <content type="html">
+   CodeGeeX for Emacs
+  </content>
+ </entry>
+ <entry>
+  <title>medewitt: .doom.d</title>
+  <author>
+   <name>medewitt</name>
+  </author>
+  <link href="https://github.com/medewitt/.doom.d" />
+  <id>urn:rprimus:github:medewitt:.doom.d</id>
+  <published>2023-08-10T15:04:45Z</published>
+  <updated>2023-08-10T15:04:45Z</updated>
+  <content type="html">
+   my doom emacs config
+  </content>
+ </entry>
+ <entry>
+  <title>imandra-ai: ipl-mode</title>
+  <author>
+   <name>imandra-ai</name>
+  </author>
+  <link href="https://github.com/imandra-ai/ipl-mode" />
+  <id>urn:rprimus:github:imandra-ai:ipl-mode</id>
+  <published>2023-08-10T13:56:53Z</published>
+  <updated>2023-08-10T13:56:53Z</updated>
+  <content type="html">
+   IPL mode for emacs
+  </content>
+ </entry>
+ <entry>
+  <title>Linerre: chacha-theme</title>
+  <author>
+   <name>Linerre</name>
+  </author>
+  <link href="https://github.com/Linerre/chacha-theme" />
+  <id>urn:rprimus:github:Linerre:chacha-theme</id>
+  <published>2023-08-10T13:52:00Z</published>
+  <updated>2023-08-10T13:52:00Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>Venoflux: emacs-config</title>
+  <title>aiftt: .emacs.d</title>
   <author>
-   <name>Venoflux</name>
+   <name>aiftt</name>
   </author>
-  <link href="https://github.com/Venoflux/emacs-config" />
-  <id>urn:rprimus:github:Venoflux:emacs-config</id>
-  <published>2023-08-03T06:50:11Z</published>
-  <updated>2023-08-03T06:50:11Z</updated>
-  <content type="html">
-   My personal init.el files
-  </content>
- </entry>
- <entry>
-  <title>boathouse2112: dotfiles</title>
-  <author>
-   <name>boathouse2112</name>
-  </author>
-  <link href="https://github.com/boathouse2112/dotfiles" />
-  <id>urn:rprimus:github:boathouse2112:dotfiles</id>
-  <published>2023-08-03T06:47:10Z</published>
-  <updated>2023-08-03T06:47:10Z</updated>
-  <content type="html">
-   My ~/ dotfiles
-  </content>
- </entry>
- <entry>
-  <title>sakamotokenji1983: dotfiles</title>
-  <author>
-   <name>sakamotokenji1983</name>
-  </author>
-  <link href="https://github.com/sakamotokenji1983/dotfiles" />
-  <id>urn:rprimus:github:sakamotokenji1983:dotfiles</id>
-  <published>2023-08-03T03:45:41Z</published>
-  <updated>2023-08-03T03:45:41Z</updated>
+  <link href="https://github.com/aiftt/.emacs.d" />
+  <id>urn:rprimus:github:aiftt:.emacs.d</id>
+  <published>2023-08-10T11:59:58Z</published>
+  <updated>2023-08-10T11:59:58Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>liuyinz: flymake-relint</title>
+  <title>corpix: elhive</title>
   <author>
-   <name>liuyinz</name>
+   <name>corpix</name>
   </author>
-  <link href="https://github.com/liuyinz/flymake-relint" />
-  <id>urn:rprimus:github:liuyinz:flymake-relint</id>
-  <published>2023-08-03T00:56:37Z</published>
-  <updated>2023-08-03T00:56:37Z</updated>
+  <link href="https://github.com/corpix/elhive" />
+  <id>urn:rprimus:github:corpix:elhive</id>
+  <published>2023-08-10T10:07:23Z</published>
+  <updated>2023-08-10T10:07:23Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>bhanuvrat: dotfiles</title>
+  <author>
+   <name>bhanuvrat</name>
+  </author>
+  <link href="https://github.com/bhanuvrat/dotfiles" />
+  <id>urn:rprimus:github:bhanuvrat:dotfiles</id>
+  <published>2023-08-10T08:08:18Z</published>
+  <updated>2023-08-10T08:08:18Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Hyouteki: .emacs-config</title>
+  <author>
+   <name>Hyouteki</name>
+  </author>
+  <link href="https://github.com/Hyouteki/.emacs-config" />
+  <id>urn:rprimus:github:Hyouteki:.emacs-config</id>
+  <published>2023-08-10T05:52:19Z</published>
+  <updated>2023-08-10T05:52:19Z</updated>
+  <content type="html">
+   My .emacs configuration file
+  </content>
+ </entry>
+ <entry>
+  <title>for-will: user.emacs</title>
+  <author>
+   <name>for-will</name>
+  </author>
+  <link href="https://github.com/for-will/user.emacs" />
+  <id>urn:rprimus:github:for-will:user.emacs</id>
+  <published>2023-08-10T04:50:08Z</published>
+  <updated>2023-08-10T04:50:08Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>bobrowadam: bobs-modeline</title>
+  <author>
+   <name>bobrowadam</name>
+  </author>
+  <link href="https://github.com/bobrowadam/bobs-modeline" />
+  <id>urn:rprimus:github:bobrowadam:bobs-modeline</id>
+  <published>2023-08-10T03:50:22Z</published>
+  <updated>2023-08-10T03:50:22Z</updated>
+  <content type="html">
+   Simple mode line for Emacs
+  </content>
+ </entry>
+ <entry>
+  <title>BraedonM: .emacs.d</title>
+  <author>
+   <name>BraedonM</name>
+  </author>
+  <link href="https://github.com/BraedonM/.emacs.d" />
+  <id>urn:rprimus:github:BraedonM:.emacs.d</id>
+  <published>2023-08-09T22:49:56Z</published>
+  <updated>2023-08-09T22:49:56Z</updated>
+  <content type="html">
+   Configuration files for Emacs (for ease of access)
+  </content>
+ </entry>
+ <entry>
+  <title>emacsmirror: clang-format</title>
+  <author>
+   <name>emacsmirror</name>
+  </author>
+  <link href="https://github.com/emacsmirror/clang-format" />
+  <id>urn:rprimus:github:emacsmirror:clang-format</id>
+  <published>2023-08-09T22:00:04Z</published>
+  <updated>2023-08-09T22:00:04Z</updated>
+  <content type="html">
+   Format code using clang-format
+  </content>
+ </entry>
+ <entry>
+  <title>x0ba: x0ba.github.io</title>
+  <author>
+   <name>x0ba</name>
+  </author>
+  <link href="https://github.com/x0ba/x0ba.github.io" />
+  <id>urn:rprimus:github:x0ba:x0ba.github.io</id>
+  <published>2023-08-09T21:23:26Z</published>
+  <updated>2023-08-09T21:23:26Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>joaocarvalhoopen: zen-old-typewriter-mode--for-emacs</title>
+  <author>
+   <name>joaocarvalhoopen</name>
+  </author>
+  <link href="https://github.com/joaocarvalhoopen/zen-old-typewriter-mode--for-emacs" />
+  <id>urn:rprimus:github:joaocarvalhoopen:zen-old-typewriter-mode--for-emacs</id>
+  <published>2023-08-09T21:17:52Z</published>
+  <updated>2023-08-09T21:17:52Z</updated>
+  <content type="html">
+   This is a very simple mode, just to add some zen old type writer sounds to emacs, it was a reimplementation of selectric-mode.
+  </content>
+ </entry>
+ <entry>
+  <title>yaqubroli: ns-keychain.el</title>
+  <author>
+   <name>yaqubroli</name>
+  </author>
+  <link href="https://github.com/yaqubroli/ns-keychain.el" />
+  <id>urn:rprimus:github:yaqubroli:ns-keychain.el</id>
+  <published>2023-08-09T19:07:37Z</published>
+  <updated>2023-08-09T19:07:37Z</updated>
+  <content type="html">
+   emacs package to interface with macOS keychain (for tools that use logins, like email, copilot, chatgpt)
+  </content>
+ </entry>
+ <entry>
+  <title>lucalabs-de: .emacs.d</title>
+  <author>
+   <name>lucalabs-de</name>
+  </author>
+  <link href="https://github.com/lucalabs-de/.emacs.d" />
+  <id>urn:rprimus:github:lucalabs-de:.emacs.d</id>
+  <published>2023-08-09T15:51:12Z</published>
+  <updated>2023-08-09T15:51:12Z</updated>
+  <content type="html">
+   Comfy Emacs Config
+  </content>
+ </entry>
+ <entry>
+  <title>Yevgnen: macos.el</title>
+  <author>
+   <name>Yevgnen</name>
+  </author>
+  <link href="https://github.com/Yevgnen/macos.el" />
+  <id>urn:rprimus:github:Yevgnen:macos.el</id>
+  <published>2023-08-09T15:50:20Z</published>
+  <updated>2023-08-09T15:50:20Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Yevgnen: dired-fns.el</title>
+  <author>
+   <name>Yevgnen</name>
+  </author>
+  <link href="https://github.com/Yevgnen/dired-fns.el" />
+  <id>urn:rprimus:github:Yevgnen:dired-fns.el</id>
+  <published>2023-08-09T15:44:53Z</published>
+  <updated>2023-08-09T15:44:53Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Gystek: quran.el</title>
+  <author>
+   <name>Gystek</name>
+  </author>
+  <link href="https://github.com/Gystek/quran.el" />
+  <id>urn:rprimus:github:Gystek:quran.el</id>
+  <published>2023-08-09T15:41:21Z</published>
+  <updated>2023-08-09T15:41:21Z</updated>
+  <content type="html">
+   Read the Holy Qurâan in Emacs
+  </content>
+ </entry>
+ <entry>
+  <title>emacsmirror: diffscuss-mode</title>
+  <author>
+   <name>emacsmirror</name>
+  </author>
+  <link href="https://github.com/emacsmirror/diffscuss-mode" />
+  <id>urn:rprimus:github:emacsmirror:diffscuss-mode</id>
+  <published>2023-08-09T15:28:57Z</published>
+  <updated>2023-08-09T15:28:57Z</updated>
+  <content type="html">
+   Major mode for diffscuss files
+  </content>
+ </entry>
+ <entry>
+  <title>emacsmirror: po-mode</title>
+  <author>
+   <name>emacsmirror</name>
+  </author>
+  <link href="https://github.com/emacsmirror/po-mode" />
+  <id>urn:rprimus:github:emacsmirror:po-mode</id>
+  <published>2023-08-09T15:13:26Z</published>
+  <updated>2023-08-09T15:13:26Z</updated>
+  <content type="html">
+   Major mode for GNU gettext PO files
+  </content>
+ </entry>
+ <entry>
+  <title>eribertto: emacs.i3eos.t460</title>
+  <author>
+   <name>eribertto</name>
+  </author>
+  <link href="https://github.com/eribertto/emacs.i3eos.t460" />
+  <id>urn:rprimus:github:eribertto:emacs.i3eos.t460</id>
+  <published>2023-08-09T13:56:19Z</published>
+  <updated>2023-08-09T13:56:19Z</updated>
+  <content type="html">
+   emacs project folder in T460p i3 machine
+  </content>
+ </entry>
+ <entry>
+  <title>gbrlgn: machine-abstraite</title>
+  <author>
+   <name>gbrlgn</name>
+  </author>
+  <link href="https://github.com/gbrlgn/machine-abstraite" />
+  <id>urn:rprimus:github:gbrlgn:machine-abstraite</id>
+  <published>2023-08-09T12:50:32Z</published>
+  <updated>2023-08-09T12:50:32Z</updated>
+  <content type="html">
+   ÃcoumÃ¨ne
+  </content>
+ </entry>
+ <entry>
+  <title>LV: dotfiles</title>
+  <author>
+   <name>LV</name>
+  </author>
+  <link href="https://github.com/LV/dotfiles" />
+  <id>urn:rprimus:github:LV:dotfiles</id>
+  <published>2023-08-09T05:36:44Z</published>
+  <updated>2023-08-09T05:36:44Z</updated>
+  <content type="html">
+   My dotfiles
+  </content>
+ </entry>
+ <entry>
+  <title>hytjyoiu: gredhg</title>
+  <author>
+   <name>hytjyoiu</name>
+  </author>
+  <link href="https://github.com/hytjyoiu/gredhg" />
+  <id>urn:rprimus:github:hytjyoiu:gredhg</id>
+  <published>2023-08-09T03:01:54Z</published>
+  <updated>2023-08-09T03:01:54Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>padawanphysicist: pathogen-emacs</title>
+  <author>
+   <name>padawanphysicist</name>
+  </author>
+  <link href="https://github.com/padawanphysicist/pathogen-emacs" />
+  <id>urn:rprimus:github:padawanphysicist:pathogen-emacs</id>
+  <published>2023-08-09T02:16:32Z</published>
+  <updated>2023-08-09T02:16:32Z</updated>
   <content type="html">
    
   </content>
