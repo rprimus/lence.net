@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2023-08-14T06:34:55Z</updated>
+<updated>2023-08-15T06:10:49Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>termermc: nim-stack-strings</title>
+  <author>
+   <name>termermc</name>
+  </author>
+  <link href="https://github.com/termermc/nim-stack-strings" />
+  <id>urn:rprimus:github:termermc:nim-stack-strings</id>
+  <published>2023-08-15T06:10:49Z</published>
+  <updated>2023-08-15T06:10:49Z</updated>
+  <content type="html">
+   Library for guaranteed zero heap allocation strings
+  </content>
+ </entry>
+ <entry>
+  <title>Doodler8888: flashcards_bot</title>
+  <author>
+   <name>Doodler8888</name>
+  </author>
+  <link href="https://github.com/Doodler8888/flashcards_bot" />
+  <id>urn:rprimus:github:Doodler8888:flashcards_bot</id>
+  <published>2023-08-14T15:59:23Z</published>
+  <updated>2023-08-14T15:59:23Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>nirokay: WebsiteGenerator</title>
+  <author>
+   <name>nirokay</name>
+  </author>
+  <link href="https://github.com/nirokay/WebsiteGenerator" />
+  <id>urn:rprimus:github:nirokay:WebsiteGenerator</id>
+  <published>2023-08-14T11:48:59Z</published>
+  <updated>2023-08-14T11:48:59Z</updated>
+  <content type="html">
+   A basic static html/css generator.
+  </content>
+ </entry>
  <entry>
   <title>MCRusher: cflags</title>
   <author>
@@ -41,110 +80,6 @@
   <updated>2023-08-14T02:00:34Z</updated>
   <content type="html">
    gl*FB | Tiny Framebuffer with OpenGL
-  </content>
- </entry>
- <entry>
-  <title>mildred: sqlemail.nim</title>
-  <author>
-   <name>mildred</name>
-  </author>
-  <link href="https://github.com/mildred/sqlemail.nim" />
-  <id>urn:rprimus:github:mildred:sqlemail.nim</id>
-  <published>2023-08-12T19:59:38Z</published>
-  <updated>2023-08-12T19:59:38Z</updated>
-  <content type="html">
-   Make e-mails available as SQLite database from the web
-  </content>
- </entry>
- <entry>
-  <title>HasanMajid: nit</title>
-  <author>
-   <name>HasanMajid</name>
-  </author>
-  <link href="https://github.com/HasanMajid/nit" />
-  <id>urn:rprimus:github:HasanMajid:nit</id>
-  <published>2023-08-12T17:51:07Z</published>
-  <updated>2023-08-12T17:51:07Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>greghope667: chess</title>
-  <author>
-   <name>greghope667</name>
-  </author>
-  <link href="https://github.com/greghope667/chess" />
-  <id>urn:rprimus:github:greghope667:chess</id>
-  <published>2023-08-12T13:53:19Z</published>
-  <updated>2023-08-12T13:53:19Z</updated>
-  <content type="html">
-   My Chess Bot Adventure
-  </content>
- </entry>
- <entry>
-  <title>mildred: lmtp.nim</title>
-  <author>
-   <name>mildred</name>
-  </author>
-  <link href="https://github.com/mildred/lmtp.nim" />
-  <id>urn:rprimus:github:mildred:lmtp.nim</id>
-  <published>2023-08-12T10:44:58Z</published>
-  <updated>2023-08-12T10:44:58Z</updated>
-  <content type="html">
-   LMTP server and client
-  </content>
- </entry>
- <entry>
-  <title>radekm: app_updater</title>
-  <author>
-   <name>radekm</name>
-  </author>
-  <link href="https://github.com/radekm/app_updater" />
-  <id>urn:rprimus:github:radekm:app_updater</id>
-  <published>2023-08-12T10:38:04Z</published>
-  <updated>2023-08-12T10:38:04Z</updated>
-  <content type="html">
-   Client and server app for updating .NET desktop apps
-  </content>
- </entry>
- <entry>
-  <title>amaank404: namenumbersort</title>
-  <author>
-   <name>amaank404</name>
-  </author>
-  <link href="https://github.com/amaank404/namenumbersort" />
-  <id>urn:rprimus:github:amaank404:namenumbersort</id>
-  <published>2023-08-12T09:51:57Z</published>
-  <updated>2023-08-12T09:51:57Z</updated>
-  <content type="html">
-   Short algorithm that provides a cmp function to compare two strings that may contain positive integers. It transforms the input strings to a sequence of strings and numbers and then sorts it.
-  </content>
- </entry>
- <entry>
-  <title>beef331: nicoscript</title>
-  <author>
-   <name>beef331</name>
-  </author>
-  <link href="https://github.com/beef331/nicoscript" />
-  <id>urn:rprimus:github:beef331:nicoscript</id>
-  <published>2023-08-12T01:38:56Z</published>
-  <updated>2023-08-12T01:38:56Z</updated>
-  <content type="html">
-   An example nico program that shows how to use nimscripter&#039;s dll API for a resuable compilable environment
-  </content>
- </entry>
- <entry>
-  <title>Yu-Vitaqua-fer-Chronos: Astrea</title>
-  <author>
-   <name>Yu-Vitaqua-fer-Chronos</name>
-  </author>
-  <link href="https://github.com/Yu-Vitaqua-fer-Chronos/Astrea" />
-  <id>urn:rprimus:github:Yu-Vitaqua-fer-Chronos:Astrea</id>
-  <published>2023-08-12T00:45:29Z</published>
-  <updated>2023-08-12T00:45:29Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
