@@ -2,8 +2,138 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2023-08-20T09:21:49Z</updated>
+<updated>2023-08-21T04:08:10Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>Anlesvavor: rationallib</title>
+  <author>
+   <name>Anlesvavor</name>
+  </author>
+  <link href="https://github.com/Anlesvavor/rationallib" />
+  <id>urn:rprimus:github:Anlesvavor:rationallib</id>
+  <published>2023-08-21T04:08:10Z</published>
+  <updated>2023-08-21T04:08:10Z</updated>
+  <content type="html">
+   Bespoke module for rational numbers.
+  </content>
+ </entry>
+ <entry>
+  <title>malloc-nbytes: rft</title>
+  <author>
+   <name>malloc-nbytes</name>
+  </author>
+  <link href="https://github.com/malloc-nbytes/rft" />
+  <id>urn:rprimus:github:malloc-nbytes:rft</id>
+  <published>2023-08-20T23:39:06Z</published>
+  <updated>2023-08-20T23:39:06Z</updated>
+  <content type="html">
+   Remove filetype
+  </content>
+ </entry>
+ <entry>
+  <title>zsbahtiar: helloocaml</title>
+  <author>
+   <name>zsbahtiar</name>
+  </author>
+  <link href="https://github.com/zsbahtiar/helloocaml" />
+  <id>urn:rprimus:github:zsbahtiar:helloocaml</id>
+  <published>2023-08-20T23:23:39Z</published>
+  <updated>2023-08-20T23:23:39Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>MexicanPile: Caml</title>
+  <author>
+   <name>MexicanPile</name>
+  </author>
+  <link href="https://github.com/MexicanPile/Caml" />
+  <id>urn:rprimus:github:MexicanPile:Caml</id>
+  <published>2023-08-20T22:43:36Z</published>
+  <updated>2023-08-20T22:43:36Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>jrochel: ppx_log_calls</title>
+  <author>
+   <name>jrochel</name>
+  </author>
+  <link href="https://github.com/jrochel/ppx_log_calls" />
+  <id>urn:rprimus:github:jrochel:ppx_log_calls</id>
+  <published>2023-08-20T14:54:47Z</published>
+  <updated>2023-08-20T14:54:47Z</updated>
+  <content type="html">
+   Ppx deriver for logging function calls in OCaml for debugging purposes
+  </content>
+ </entry>
+ <entry>
+  <title>computerspieler: BF_Compiler</title>
+  <author>
+   <name>computerspieler</name>
+  </author>
+  <link href="https://github.com/computerspieler/BF_Compiler" />
+  <id>urn:rprimus:github:computerspieler:BF_Compiler</id>
+  <published>2023-08-20T14:17:37Z</published>
+  <updated>2023-08-20T14:17:37Z</updated>
+  <content type="html">
+   A bare bone brainfuck compiler
+  </content>
+ </entry>
+ <entry>
+  <title>SamueleGiraudo: Qlusster</title>
+  <author>
+   <name>SamueleGiraudo</name>
+  </author>
+  <link href="https://github.com/SamueleGiraudo/Qlusster" />
+  <id>urn:rprimus:github:SamueleGiraudo:Qlusster</id>
+  <published>2023-08-20T13:24:23Z</published>
+  <updated>2023-08-20T13:24:23Z</updated>
+  <content type="html">
+   A programming language to build sounds by granular synthesis.
+  </content>
+ </entry>
+ <entry>
+  <title>SrikarVasta: ocaml_htmx_test</title>
+  <author>
+   <name>SrikarVasta</name>
+  </author>
+  <link href="https://github.com/SrikarVasta/ocaml_htmx_test" />
+  <id>urn:rprimus:github:SrikarVasta:ocaml_htmx_test</id>
+  <published>2023-08-20T12:18:57Z</published>
+  <updated>2023-08-20T12:18:57Z</updated>
+  <content type="html">
+   Just a example code to try htmx which will probably never be touched again
+  </content>
+ </entry>
+ <entry>
+  <title>AryanGodara: pubsubClient</title>
+  <author>
+   <name>AryanGodara</name>
+  </author>
+  <link href="https://github.com/AryanGodara/pubsubClient" />
+  <id>urn:rprimus:github:AryanGodara:pubsubClient</id>
+  <published>2023-08-20T12:16:50Z</published>
+  <updated>2023-08-20T12:16:50Z</updated>
+  <content type="html">
+   Client implementation for midiServer
+  </content>
+ </entry>
+ <entry>
+  <title>SamueleGiraudo: Aclove</title>
+  <author>
+   <name>SamueleGiraudo</name>
+  </author>
+  <link href="https://github.com/SamueleGiraudo/Aclove" />
+  <id>urn:rprimus:github:SamueleGiraudo:Aclove</id>
+  <published>2023-08-20T12:12:26Z</published>
+  <updated>2023-08-20T12:12:26Z</updated>
+  <content type="html">
+   A programming language based on combinatory logic and term rewrite systems, with an advanced type system.
+  </content>
+ </entry>
  <entry>
   <title>kumanna: bf-ocaml</title>
   <author>
@@ -41,19 +171,6 @@
   <updated>2023-08-19T17:28:16Z</updated>
   <content type="html">
    My implementations of the ocaml 99 problems
-  </content>
- </entry>
- <entry>
-  <title>AryanGodara: midiClient</title>
-  <author>
-   <name>AryanGodara</name>
-  </author>
-  <link href="https://github.com/AryanGodara/midiClient" />
-  <id>urn:rprimus:github:AryanGodara:midiClient</id>
-  <published>2023-08-19T17:08:54Z</published>
-  <updated>2023-08-19T17:08:54Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
  <entry>
@@ -132,201 +249,6 @@
   <updated>2023-08-19T02:52:27Z</updated>
   <content type="html">
    Utility program to get strings that matches a given wordle style pattern
-  </content>
- </entry>
- <entry>
-  <title>RD-png: 99Problems</title>
-  <author>
-   <name>RD-png</name>
-  </author>
-  <link href="https://github.com/RD-png/99Problems" />
-  <id>urn:rprimus:github:RD-png:99Problems</id>
-  <published>2023-08-18T22:45:46Z</published>
-  <updated>2023-08-18T22:45:46Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Alfagov: htmx_tyxml</title>
-  <author>
-   <name>Alfagov</name>
-  </author>
-  <link href="https://github.com/Alfagov/htmx_tyxml" />
-  <id>urn:rprimus:github:Alfagov:htmx_tyxml</id>
-  <published>2023-08-18T21:40:16Z</published>
-  <updated>2023-08-18T21:40:16Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Cethannel: advent_of_code_ocaml</title>
-  <author>
-   <name>Cethannel</name>
-  </author>
-  <link href="https://github.com/Cethannel/advent_of_code_ocaml" />
-  <id>urn:rprimus:github:Cethannel:advent_of_code_ocaml</id>
-  <published>2023-08-18T20:15:19Z</published>
-  <updated>2023-08-18T20:15:19Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>mbou12: oterpreter</title>
-  <author>
-   <name>mbou12</name>
-  </author>
-  <link href="https://github.com/mbou12/oterpreter" />
-  <id>urn:rprimus:github:mbou12:oterpreter</id>
-  <published>2023-08-18T19:49:47Z</published>
-  <updated>2023-08-18T19:49:47Z</updated>
-  <content type="html">
-   Interpreter book written in ocaml.
-  </content>
- </entry>
- <entry>
-  <title>iacore: 80dep</title>
-  <author>
-   <name>iacore</name>
-  </author>
-  <link href="https://github.com/iacore/80dep" />
-  <id>urn:rprimus:github:iacore:80dep</id>
-  <published>2023-08-18T18:32:13Z</published>
-  <updated>2023-08-18T18:32:13Z</updated>
-  <content type="html">
-   fork of https://gist.github.com/Hirrolot/27e6b02a051df333811a23b97c375196
-  </content>
- </entry>
- <entry>
-  <title>rkv0id: ocaml99</title>
-  <author>
-   <name>rkv0id</name>
-  </author>
-  <link href="https://github.com/rkv0id/ocaml99" />
-  <id>urn:rprimus:github:rkv0id:ocaml99</id>
-  <published>2023-08-18T17:41:11Z</published>
-  <updated>2023-08-18T17:41:11Z</updated>
-  <content type="html">
-   holds all solutions (more like trials) for OCaml website&#039;s exercises.
-  </content>
- </entry>
- <entry>
-  <title>jotar910: ocaml_advent_of_code</title>
-  <author>
-   <name>jotar910</name>
-  </author>
-  <link href="https://github.com/jotar910/ocaml_advent_of_code" />
-  <id>urn:rprimus:github:jotar910:ocaml_advent_of_code</id>
-  <published>2023-08-18T17:13:21Z</published>
-  <updated>2023-08-18T17:13:21Z</updated>
-  <content type="html">
-   OCaml - Advent of code solutions
-  </content>
- </entry>
- <entry>
-  <title>thata: dentaku</title>
-  <author>
-   <name>thata</name>
-  </author>
-  <link href="https://github.com/thata/dentaku" />
-  <id>urn:rprimus:github:thata:dentaku</id>
-  <published>2023-08-18T17:04:20Z</published>
-  <updated>2023-08-18T17:04:20Z</updated>
-  <content type="html">
-   ocamllexã¨ocamlyaccã¨duneã®ç·´ç¿
-  </content>
- </entry>
- <entry>
-  <title>royalsaltmerchant: mycelae-wiki</title>
-  <author>
-   <name>royalsaltmerchant</name>
-  </author>
-  <link href="https://github.com/royalsaltmerchant/mycelae-wiki" />
-  <id>urn:rprimus:github:royalsaltmerchant:mycelae-wiki</id>
-  <published>2023-08-18T12:17:18Z</published>
-  <updated>2023-08-18T12:17:18Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>duailibe: aocaml</title>
-  <author>
-   <name>duailibe</name>
-  </author>
-  <link href="https://github.com/duailibe/aocaml" />
-  <id>urn:rprimus:github:duailibe:aocaml</id>
-  <published>2023-08-18T12:11:06Z</published>
-  <updated>2023-08-18T12:11:06Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>AngelVI13: ocaml-its-report</title>
-  <author>
-   <name>AngelVI13</name>
-  </author>
-  <link href="https://github.com/AngelVI13/ocaml-its-report" />
-  <id>urn:rprimus:github:AngelVI13:ocaml-its-report</id>
-  <published>2023-08-18T12:07:23Z</published>
-  <updated>2023-08-18T12:07:23Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>valoran-M: riscV_sim</title>
-  <author>
-   <name>valoran-M</name>
-  </author>
-  <link href="https://github.com/valoran-M/riscV_sim" />
-  <id>urn:rprimus:github:valoran-M:riscV_sim</id>
-  <published>2023-08-18T10:37:25Z</published>
-  <updated>2023-08-18T10:37:25Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>NapoliN: TaPL</title>
-  <author>
-   <name>NapoliN</name>
-  </author>
-  <link href="https://github.com/NapoliN/TaPL" />
-  <id>urn:rprimus:github:NapoliN:TaPL</id>
-  <published>2023-08-18T03:05:14Z</published>
-  <updated>2023-08-18T03:05:14Z</updated>
-  <content type="html">
-   TaPLåå¼·ç¨
-  </content>
- </entry>
- <entry>
-  <title>DevonMorris: rwocaml</title>
-  <author>
-   <name>DevonMorris</name>
-  </author>
-  <link href="https://github.com/DevonMorris/rwocaml" />
-  <id>urn:rprimus:github:DevonMorris:rwocaml</id>
-  <published>2023-08-18T02:55:34Z</published>
-  <updated>2023-08-18T02:55:34Z</updated>
-  <content type="html">
-   Practices and stuff learned from Real World OCaml and maybe other sources too.
-  </content>
- </entry>
- <entry>
-  <title>ZhengCong123: realWorldOcaml</title>
-  <author>
-   <name>ZhengCong123</name>
-  </author>
-  <link href="https://github.com/ZhengCong123/realWorldOcaml" />
-  <id>urn:rprimus:github:ZhengCong123:realWorldOcaml</id>
-  <published>2023-08-18T00:14:36Z</published>
-  <updated>2023-08-18T00:14:36Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
