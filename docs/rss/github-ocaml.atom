@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2023-08-25T19:09:06Z</updated>
+<updated>2023-08-25T22:14:36Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>amrierscuo: BinLogic</title>
+  <author>
+   <name>amrierscuo</name>
+  </author>
+  <link href="https://github.com/amrierscuo/BinLogic" />
+  <id>urn:rprimus:github:amrierscuo:BinLogic</id>
+  <published>2023-08-25T22:14:36Z</published>
+  <updated>2023-08-25T22:14:36Z</updated>
+  <content type="html">
+    Binary-inspired logic with One=True and Zero=False operations.
+  </content>
+ </entry>
  <entry>
   <title>leostera: criterion.ml</title>
   <author>
@@ -14,7 +27,7 @@
   <published>2023-08-25T19:09:06Z</published>
   <updated>2023-08-25T19:09:06Z</updated>
   <content type="html">
-   a benchmarking framework for OCaml
+   Benchmarking framework for OCaml
   </content>
  </entry>
  <entry>
@@ -156,136 +169,6 @@
   <id>urn:rprimus:github:berkeley-cs164-2023:class-compiler-f23</id>
   <published>2023-08-24T00:56:15Z</published>
   <updated>2023-08-24T00:56:15Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Rhernandez513: cs476</title>
-  <author>
-   <name>Rhernandez513</name>
-  </author>
-  <link href="https://github.com/Rhernandez513/cs476" />
-  <id>urn:rprimus:github:Rhernandez513:cs476</id>
-  <published>2023-08-23T23:15:43Z</published>
-  <updated>2023-08-23T23:15:43Z</updated>
-  <content type="html">
-   Used for CS 476 Programmimg Language Design at the University of Illinois at Chicago
-  </content>
- </entry>
- <entry>
-  <title>RiviereA: Projet_AC_M1-S1</title>
-  <author>
-   <name>RiviereA</name>
-  </author>
-  <link href="https://github.com/RiviereA/Projet_AC_M1-S1" />
-  <id>urn:rprimus:github:RiviereA:Projet_AC_M1-S1</id>
-  <published>2023-08-23T15:07:35Z</published>
-  <updated>2023-08-23T15:07:35Z</updated>
-  <content type="html">
-   Projet rÃ©alisÃ© durant le module d&#039;Algo et ComplexitÃ© du 1er semestre de Master 1 informatique
-  </content>
- </entry>
- <entry>
-  <title>modular-implicits: oi</title>
-  <author>
-   <name>modular-implicits</name>
-  </author>
-  <link href="https://github.com/modular-implicits/oi" />
-  <id>urn:rprimus:github:modular-implicits:oi</id>
-  <published>2023-08-23T09:52:09Z</published>
-  <updated>2023-08-23T09:52:09Z</updated>
-  <content type="html">
-   Monadic I/O for OCaml, using modular implicits
-  </content>
- </entry>
- <entry>
-  <title>Hactys: ocamlstockfish</title>
-  <author>
-   <name>Hactys</name>
-  </author>
-  <link href="https://github.com/Hactys/ocamlstockfish" />
-  <id>urn:rprimus:github:Hactys:ocamlstockfish</id>
-  <published>2023-08-23T09:36:48Z</published>
-  <updated>2023-08-23T09:36:48Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>modular-implicits: Category</title>
-  <author>
-   <name>modular-implicits</name>
-  </author>
-  <link href="https://github.com/modular-implicits/Category" />
-  <id>urn:rprimus:github:modular-implicits:Category</id>
-  <published>2023-08-23T09:30:15Z</published>
-  <updated>2023-08-23T09:30:15Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>nglan0409: Paint</title>
-  <author>
-   <name>nglan0409</name>
-  </author>
-  <link href="https://github.com/nglan0409/Paint" />
-  <id>urn:rprimus:github:nglan0409:Paint</id>
-  <published>2023-08-23T04:19:35Z</published>
-  <updated>2023-08-23T04:19:35Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>nglan0409: Computing-Human-Evolution</title>
-  <author>
-   <name>nglan0409</name>
-  </author>
-  <link href="https://github.com/nglan0409/Computing-Human-Evolution" />
-  <id>urn:rprimus:github:nglan0409:Computing-Human-Evolution</id>
-  <published>2023-08-23T04:14:49Z</published>
-  <updated>2023-08-23T04:14:49Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>statspy-ml: math_mb</title>
-  <author>
-   <name>statspy-ml</name>
-  </author>
-  <link href="https://github.com/statspy-ml/math_mb" />
-  <id>urn:rprimus:github:statspy-ml:math_mb</id>
-  <published>2023-08-23T01:47:43Z</published>
-  <updated>2023-08-23T01:47:43Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>vini84200: L1terp</title>
-  <author>
-   <name>vini84200</name>
-  </author>
-  <link href="https://github.com/vini84200/L1terp" />
-  <id>urn:rprimus:github:vini84200:L1terp</id>
-  <published>2023-08-23T01:13:20Z</published>
-  <updated>2023-08-23T01:13:20Z</updated>
-  <content type="html">
-   Interpretador para a linguagem L1 das aulas de SÃªmantica Formal da UFRGS.
-  </content>
- </entry>
- <entry>
-  <title>malloc-nbytes: custom-lang</title>
-  <author>
-   <name>malloc-nbytes</name>
-  </author>
-  <link href="https://github.com/malloc-nbytes/custom-lang" />
-  <id>urn:rprimus:github:malloc-nbytes:custom-lang</id>
-  <published>2023-08-23T00:00:19Z</published>
-  <updated>2023-08-23T00:00:19Z</updated>
   <content type="html">
    
   </content>
