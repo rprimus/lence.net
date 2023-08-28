@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2023-08-27T03:25:09Z</updated>
+<updated>2023-08-27T17:47:01Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>metagn: knot</title>
+  <author>
+   <name>metagn</name>
+  </author>
+  <link href="https://github.com/metagn/knot" />
+  <id>urn:rprimus:github:metagn:knot</id>
+  <published>2023-08-27T17:47:01Z</published>
+  <updated>2023-08-27T17:47:01Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Helixo32: SimpleEDR</title>
+  <author>
+   <name>Helixo32</name>
+  </author>
+  <link href="https://github.com/Helixo32/SimpleEDR" />
+  <id>urn:rprimus:github:Helixo32:SimpleEDR</id>
+  <published>2023-08-27T17:14:51Z</published>
+  <updated>2023-08-27T17:14:51Z</updated>
+  <content type="html">
+   Simple EDR that injects a DLL into a process to place a hook on specific Windows API
+  </content>
+ </entry>
+ <entry>
+  <title>NaAquelo: Idioma</title>
+  <author>
+   <name>NaAquelo</name>
+  </author>
+  <link href="https://github.com/NaAquelo/Idioma" />
+  <id>urn:rprimus:github:NaAquelo:Idioma</id>
+  <published>2023-08-27T16:28:00Z</published>
+  <updated>2023-08-27T16:28:00Z</updated>
+  <content type="html">
+   A programming language dfa generator written in Nim for Nim
+  </content>
+ </entry>
+ <entry>
+  <title>deephacks: nim2-buildroot-toolchain</title>
+  <author>
+   <name>deephacks</name>
+  </author>
+  <link href="https://github.com/deephacks/nim2-buildroot-toolchain" />
+  <id>urn:rprimus:github:deephacks:nim2-buildroot-toolchain</id>
+  <published>2023-08-27T15:44:10Z</published>
+  <updated>2023-08-27T15:44:10Z</updated>
+  <content type="html">
+   nim2 static toolchain for amd64 using buildroot
+  </content>
+ </entry>
  <entry>
   <title>salt-die: regions</title>
   <author>
@@ -31,6 +83,19 @@
   </content>
  </entry>
  <entry>
+  <title>Double-oxygeN: nim-timers</title>
+  <author>
+   <name>Double-oxygeN</name>
+  </author>
+  <link href="https://github.com/Double-oxygeN/nim-timers" />
+  <id>urn:rprimus:github:Double-oxygeN:nim-timers</id>
+  <published>2023-08-26T02:05:24Z</published>
+  <updated>2023-08-26T02:05:24Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
   <title>EmiPhil: cmify</title>
   <author>
    <name>EmiPhil</name>
@@ -39,97 +104,6 @@
   <id>urn:rprimus:github:EmiPhil:cmify</id>
   <published>2023-08-26T00:01:24Z</published>
   <updated>2023-08-26T00:01:24Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>BrianNormant: EM-graph-maker</title>
-  <author>
-   <name>BrianNormant</name>
-  </author>
-  <link href="https://github.com/BrianNormant/EM-graph-maker" />
-  <id>urn:rprimus:github:BrianNormant:EM-graph-maker</id>
-  <published>2023-08-25T21:40:02Z</published>
-  <updated>2023-08-25T21:40:02Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>laluxx: zoomer</title>
-  <author>
-   <name>laluxx</name>
-  </author>
-  <link href="https://github.com/laluxx/zoomer" />
-  <id>urn:rprimus:github:laluxx:zoomer</id>
-  <published>2023-08-25T19:26:06Z</published>
-  <updated>2023-08-25T19:26:06Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>theamarin: nicki-lang</title>
-  <author>
-   <name>theamarin</name>
-  </author>
-  <link href="https://github.com/theamarin/nicki-lang" />
-  <id>urn:rprimus:github:theamarin:nicki-lang</id>
-  <published>2023-08-25T18:56:31Z</published>
-  <updated>2023-08-25T18:56:31Z</updated>
-  <content type="html">
-   An experimental hand-written language
-  </content>
- </entry>
- <entry>
-  <title>thisago: unifetch</title>
-  <author>
-   <name>thisago</name>
-  </author>
-  <link href="https://github.com/thisago/unifetch" />
-  <id>urn:rprimus:github:thisago:unifetch</id>
-  <published>2023-08-25T18:22:10Z</published>
-  <updated>2023-08-25T18:22:10Z</updated>
-  <content type="html">
-   Multi backend HTTP fetching
-  </content>
- </entry>
- <entry>
-  <title>thisago: shopifyextractor</title>
-  <author>
-   <name>thisago</name>
-  </author>
-  <link href="https://github.com/thisago/shopifyextractor" />
-  <id>urn:rprimus:github:thisago:shopifyextractor</id>
-  <published>2023-08-25T16:38:43Z</published>
-  <updated>2023-08-25T16:38:43Z</updated>
-  <content type="html">
-   Shopify stores data in a instant
-  </content>
- </entry>
- <entry>
-  <title>thisago: timage</title>
-  <author>
-   <name>thisago</name>
-  </author>
-  <link href="https://github.com/thisago/timage" />
-  <id>urn:rprimus:github:thisago:timage</id>
-  <published>2023-08-25T16:21:29Z</published>
-  <updated>2023-08-25T16:21:29Z</updated>
-  <content type="html">
-    Telegram inline text images generation, on the fly
-  </content>
- </entry>
- <entry>
-  <title>YabseraBogale: nim</title>
-  <author>
-   <name>YabseraBogale</name>
-  </author>
-  <link href="https://github.com/YabseraBogale/nim" />
-  <id>urn:rprimus:github:YabseraBogale:nim</id>
-  <published>2023-08-25T15:58:30Z</published>
-  <updated>2023-08-25T15:58:30Z</updated>
   <content type="html">
    
   </content>

@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2023-08-26T23:59:18Z</updated>
+<updated>2023-08-27T18:24:51Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>mraffonso: short_version</title>
+  <author>
+   <name>mraffonso</name>
+  </author>
+  <link href="https://github.com/mraffonso/short_version" />
+  <id>urn:rprimus:github:mraffonso:short_version</id>
+  <published>2023-08-27T18:24:51Z</published>
+  <updated>2023-08-27T18:24:51Z</updated>
+  <content type="html">
+   A simple versioning system with only major and minor versions.
+  </content>
+ </entry>
  <entry>
   <title>m7rk: fuccoin-miner</title>
   <author>
@@ -54,19 +67,6 @@
   <updated>2023-08-26T16:18:35Z</updated>
   <content type="html">
    thrift library for crystal
-  </content>
- </entry>
- <entry>
-  <title>Paul-Anthony-Martinez: CBAT-Crystal</title>
-  <author>
-   <name>Paul-Anthony-Martinez</name>
-  </author>
-  <link href="https://github.com/Paul-Anthony-Martinez/CBAT-Crystal" />
-  <id>urn:rprimus:github:Paul-Anthony-Martinez:CBAT-Crystal</id>
-  <published>2023-08-25T00:59:47Z</published>
-  <updated>2023-08-25T00:59:47Z</updated>
-  <content type="html">
-   A simple yet fast Crystal program to display current battery information on your system.
   </content>
  </entry>
 </feed>
