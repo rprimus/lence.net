@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2023-09-02T01:07:36Z</updated>
+<updated>2023-09-03T02:36:17Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>juanQNav: basic_lisp_codes_and_concepts</title>
+  <author>
+   <name>juanQNav</name>
+  </author>
+  <link href="https://github.com/juanQNav/basic_lisp_codes_and_concepts" />
+  <id>urn:rprimus:github:juanQNav:basic_lisp_codes_and_concepts</id>
+  <published>2023-09-03T02:36:17Z</published>
+  <updated>2023-09-03T02:36:17Z</updated>
+  <content type="html">
+   basic lisp codes and concepts
+  </content>
+ </entry>
+ <entry>
+  <title>DeciPaliz: todo-web-app-cl</title>
+  <author>
+   <name>DeciPaliz</name>
+  </author>
+  <link href="https://github.com/DeciPaliz/todo-web-app-cl" />
+  <id>urn:rprimus:github:DeciPaliz:todo-web-app-cl</id>
+  <published>2023-09-02T10:15:28Z</published>
+  <updated>2023-09-02T10:15:28Z</updated>
+  <content type="html">
+   My attempt at making a todo list webapp in Common Lisp.
+  </content>
+ </entry>
  <entry>
   <title>fguerco: fg-utils</title>
   <author>
@@ -67,84 +93,6 @@
   <updated>2023-09-01T02:33:23Z</updated>
   <content type="html">
    Artificial Intelligence (Guy van Den Broeck Fall 2022)
-  </content>
- </entry>
- <entry>
-  <title>pythonXadds: stumpwm_condfigs</title>
-  <author>
-   <name>pythonXadds</name>
-  </author>
-  <link href="https://github.com/pythonXadds/stumpwm_condfigs" />
-  <id>urn:rprimus:github:pythonXadds:stumpwm_condfigs</id>
-  <published>2023-08-31T22:52:20Z</published>
-  <updated>2023-08-31T22:52:20Z</updated>
-  <content type="html">
-   My Stumpwm configs
-  </content>
- </entry>
- <entry>
-  <title>ryanjanoconnell: autodiff</title>
-  <author>
-   <name>ryanjanoconnell</name>
-  </author>
-  <link href="https://github.com/ryanjanoconnell/autodiff" />
-  <id>urn:rprimus:github:ryanjanoconnell:autodiff</id>
-  <published>2023-08-31T21:55:52Z</published>
-  <updated>2023-08-31T21:55:52Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>fiddlerwoaroof: cliccup</title>
-  <author>
-   <name>fiddlerwoaroof</name>
-  </author>
-  <link href="https://github.com/fiddlerwoaroof/cliccup" />
-  <id>urn:rprimus:github:fiddlerwoaroof:cliccup</id>
-  <published>2023-08-31T06:16:00Z</published>
-  <updated>2023-08-31T06:16:00Z</updated>
-  <content type="html">
-   CL hICCUP
-  </content>
- </entry>
- <entry>
-  <title>0eef0: commonLispWordle</title>
-  <author>
-   <name>0eef0</name>
-  </author>
-  <link href="https://github.com/0eef0/commonLispWordle" />
-  <id>urn:rprimus:github:0eef0:commonLispWordle</id>
-  <published>2023-08-31T05:00:50Z</published>
-  <updated>2023-08-31T05:00:50Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>qudrnr: lisp</title>
-  <author>
-   <name>qudrnr</name>
-  </author>
-  <link href="https://github.com/qudrnr/lisp" />
-  <id>urn:rprimus:github:qudrnr:lisp</id>
-  <published>2023-08-31T02:29:55Z</published>
-  <updated>2023-08-31T02:29:55Z</updated>
-  <content type="html">
-   autolisp, visual lisp, opendcl
-  </content>
- </entry>
- <entry>
-  <title>bohonghuang: claw-raylib</title>
-  <author>
-   <name>bohonghuang</name>
-  </author>
-  <link href="https://github.com/bohonghuang/claw-raylib" />
-  <id>urn:rprimus:github:bohonghuang:claw-raylib</id>
-  <published>2023-08-31T01:57:53Z</published>
-  <updated>2023-08-31T01:57:53Z</updated>
-  <content type="html">
-   Auto-generated Common Lisp bindings to Raylib and Raygui using claw and cffi-object
   </content>
  </entry>
 </feed>
