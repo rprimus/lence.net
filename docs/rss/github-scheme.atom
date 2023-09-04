@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-scheme.atom"/>
 <id>urn:rprimus:github:newschemerepos</id>
-<updated>2023-09-04T02:26:52Z</updated>
+<updated>2023-09-04T08:54:04Z</updated>
 <title type='text'>New GitHub Scheme Repos</title>
+ <entry>
+  <title>restruct: silverstripe-adblockdetect</title>
+  <author>
+   <name>restruct</name>
+  </author>
+  <link href="https://github.com/restruct/silverstripe-adblockdetect" />
+  <id>urn:rprimus:github:restruct:silverstripe-adblockdetect</id>
+  <published>2023-09-04T08:54:04Z</published>
+  <updated>2023-09-04T08:54:04Z</updated>
+  <content type="html">
+   Basic JS-based adblocker detection module (+ warning alert template)
+  </content>
+ </entry>
  <entry>
   <title>BennettMartin: Dotfiles</title>
   <author>
@@ -28,19 +41,6 @@
   <updated>2023-09-04T02:11:38Z</updated>
   <content type="html">
    manage git hooks using guix
-  </content>
- </entry>
- <entry>
-  <title>TheMenko: dotfiles</title>
-  <author>
-   <name>TheMenko</name>
-  </author>
-  <link href="https://github.com/TheMenko/dotfiles" />
-  <id>urn:rprimus:github:TheMenko:dotfiles</id>
-  <published>2023-09-03T16:20:19Z</published>
-  <updated>2023-09-03T16:20:19Z</updated>
-  <content type="html">
-   NixOS backup and dotfiles
   </content>
  </entry>
  <entry>
