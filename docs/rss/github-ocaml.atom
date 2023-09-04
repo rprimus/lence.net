@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2023-09-03T01:44:05Z</updated>
+<updated>2023-09-04T05:34:08Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>tisnik: f-sharp-examples</title>
+  <author>
+   <name>tisnik</name>
+  </author>
+  <link href="https://github.com/tisnik/f-sharp-examples" />
+  <id>urn:rprimus:github:tisnik:f-sharp-examples</id>
+  <published>2023-09-04T05:34:08Z</published>
+  <updated>2023-09-04T05:34:08Z</updated>
+  <content type="html">
+   F# programming language examples for articles written for root.cz
+  </content>
+ </entry>
+ <entry>
+  <title>OCamlPro: ez_toml</title>
+  <author>
+   <name>OCamlPro</name>
+  </author>
+  <link href="https://github.com/OCamlPro/ez_toml" />
+  <id>urn:rprimus:github:OCamlPro:ez_toml</id>
+  <published>2023-09-03T22:54:19Z</published>
+  <updated>2023-09-03T22:54:19Z</updated>
+  <content type="html">
+   A library to parse and print TOML files
+  </content>
+ </entry>
+ <entry>
+  <title>edlwang: FPSE-FA23</title>
+  <author>
+   <name>edlwang</name>
+  </author>
+  <link href="https://github.com/edlwang/FPSE-FA23" />
+  <id>urn:rprimus:github:edlwang:FPSE-FA23</id>
+  <published>2023-09-03T14:52:09Z</published>
+  <updated>2023-09-03T14:52:09Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>eratio08: cOnCaml</title>
+  <author>
+   <name>eratio08</name>
+  </author>
+  <link href="https://github.com/eratio08/cOnCaml" />
+  <id>urn:rprimus:github:eratio08:cOnCaml</id>
+  <published>2023-09-03T14:16:21Z</published>
+  <updated>2023-09-03T14:16:21Z</updated>
+  <content type="html">
+   Simple Conway&#039;s Game of Life in OCaml
+  </content>
+ </entry>
  <entry>
   <title>jhston02: stillsuit</title>
   <author>
@@ -109,6 +161,19 @@
   </content>
  </entry>
  <entry>
+  <title>edustocchero: asdf-lang</title>
+  <author>
+   <name>edustocchero</name>
+  </author>
+  <link href="https://github.com/edustocchero/asdf-lang" />
+  <id>urn:rprimus:github:edustocchero:asdf-lang</id>
+  <published>2023-09-02T19:25:19Z</published>
+  <updated>2023-09-02T19:25:19Z</updated>
+  <content type="html">
+   a simple dumb functional language
+  </content>
+ </entry>
+ <entry>
   <title>bbc2: luast</title>
   <author>
    <name>bbc2</name>
@@ -158,149 +223,6 @@
   <updated>2023-09-02T03:49:43Z</updated>
   <content type="html">
    The Ninety-Nine Problems for LISP .. in OCaml
-  </content>
- </entry>
- <entry>
-  <title>snaazy: OCamaton</title>
-  <author>
-   <name>snaazy</name>
-  </author>
-  <link href="https://github.com/snaazy/OCamaton" />
-  <id>urn:rprimus:github:snaazy:OCamaton</id>
-  <published>2023-09-01T22:00:07Z</published>
-  <updated>2023-09-01T22:00:07Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>nlsandler: nqcc2</title>
-  <author>
-   <name>nlsandler</name>
-  </author>
-  <link href="https://github.com/nlsandler/nqcc2" />
-  <id>urn:rprimus:github:nlsandler:nqcc2</id>
-  <published>2023-09-01T17:38:58Z</published>
-  <updated>2023-09-01T17:38:58Z</updated>
-  <content type="html">
-   Reference implementation for Writing a C Compiler
-  </content>
- </entry>
- <entry>
-  <title>alessandro90: OCaml_json_parser</title>
-  <author>
-   <name>alessandro90</name>
-  </author>
-  <link href="https://github.com/alessandro90/OCaml_json_parser" />
-  <id>urn:rprimus:github:alessandro90:OCaml_json_parser</id>
-  <published>2023-09-01T14:47:03Z</published>
-  <updated>2023-09-01T14:47:03Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>xvw: tetra-master-util</title>
-  <author>
-   <name>xvw</name>
-  </author>
-  <link href="https://github.com/xvw/tetra-master-util" />
-  <id>urn:rprimus:github:xvw:tetra-master-util</id>
-  <published>2023-09-01T13:54:52Z</published>
-  <updated>2023-09-01T13:54:52Z</updated>
-  <content type="html">
-   Miscellaneous tools for the Final Fantasy IX Tetra Master card game
-  </content>
- </entry>
- <entry>
-  <title>andreypopp: mlx</title>
-  <author>
-   <name>andreypopp</name>
-  </author>
-  <link href="https://github.com/andreypopp/mlx" />
-  <id>urn:rprimus:github:andreypopp:mlx</id>
-  <published>2023-09-01T13:17:07Z</published>
-  <updated>2023-09-01T13:17:07Z</updated>
-  <content type="html">
-   OCaml syntax dialect which adds JSX syntax expressions
-  </content>
- </entry>
- <entry>
-  <title>dannywillems: ocaml-gadt-playground</title>
-  <author>
-   <name>dannywillems</name>
-  </author>
-  <link href="https://github.com/dannywillems/ocaml-gadt-playground" />
-  <id>urn:rprimus:github:dannywillems:ocaml-gadt-playground</id>
-  <published>2023-09-01T12:23:38Z</published>
-  <updated>2023-09-01T12:23:38Z</updated>
-  <content type="html">
-   Play with GADT in OCaml
-  </content>
- </entry>
- <entry>
-  <title>idansi98: Programming-Languages-Course</title>
-  <author>
-   <name>idansi98</name>
-  </author>
-  <link href="https://github.com/idansi98/Programming-Languages-Course" />
-  <id>urn:rprimus:github:idansi98:Programming-Languages-Course</id>
-  <published>2023-09-01T11:18:24Z</published>
-  <updated>2023-09-01T11:18:24Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>FraserLee: zenith</title>
-  <author>
-   <name>FraserLee</name>
-  </author>
-  <link href="https://github.com/FraserLee/zenith" />
-  <id>urn:rprimus:github:FraserLee:zenith</id>
-  <published>2023-09-01T02:54:12Z</published>
-  <updated>2023-09-01T02:54:12Z</updated>
-  <content type="html">
-   A low level functional programming language
-  </content>
- </entry>
- <entry>
-  <title>zachary-kent: cs6120-task1</title>
-  <author>
-   <name>zachary-kent</name>
-  </author>
-  <link href="https://github.com/zachary-kent/cs6120-task1" />
-  <id>urn:rprimus:github:zachary-kent:cs6120-task1</id>
-  <published>2023-09-01T02:21:55Z</published>
-  <updated>2023-09-01T02:21:55Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>OrelmisT: worldsHardestGameCOPY</title>
-  <author>
-   <name>OrelmisT</name>
-  </author>
-  <link href="https://github.com/OrelmisT/worldsHardestGameCOPY" />
-  <id>urn:rprimus:github:OrelmisT:worldsHardestGameCOPY</id>
-  <published>2023-09-01T02:09:38Z</published>
-  <updated>2023-09-01T02:09:38Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>kevinqtogitty: OCaml99</title>
-  <author>
-   <name>kevinqtogitty</name>
-  </author>
-  <link href="https://github.com/kevinqtogitty/OCaml99" />
-  <id>urn:rprimus:github:kevinqtogitty:OCaml99</id>
-  <published>2023-09-01T01:43:53Z</published>
-  <updated>2023-09-01T01:43:53Z</updated>
-  <content type="html">
-   Solutions to OCaml 99 problems
   </content>
  </entry>
 </feed>
