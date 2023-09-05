@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2023-09-03T21:05:10Z</updated>
+<updated>2023-09-05T01:57:54Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>fukamachi: rove-test-example</title>
+  <author>
+   <name>fukamachi</name>
+  </author>
+  <link href="https://github.com/fukamachi/rove-test-example" />
+  <id>urn:rprimus:github:fukamachi:rove-test-example</id>
+  <published>2023-09-05T01:57:54Z</published>
+  <updated>2023-09-05T01:57:54Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>40ants: resend</title>
   <author>
@@ -41,32 +54,6 @@
   <updated>2023-09-03T02:36:17Z</updated>
   <content type="html">
    basic lisp codes and concepts
-  </content>
- </entry>
- <entry>
-  <title>DeciPaliz: todo-web-app-cl</title>
-  <author>
-   <name>DeciPaliz</name>
-  </author>
-  <link href="https://github.com/DeciPaliz/todo-web-app-cl" />
-  <id>urn:rprimus:github:DeciPaliz:todo-web-app-cl</id>
-  <published>2023-09-02T10:15:28Z</published>
-  <updated>2023-09-02T10:15:28Z</updated>
-  <content type="html">
-   My attempt at making a todo list webapp in Common Lisp.
-  </content>
- </entry>
- <entry>
-  <title>fguerco: fg-utils</title>
-  <author>
-   <name>fguerco</name>
-  </author>
-  <link href="https://github.com/fguerco/fg-utils" />
-  <id>urn:rprimus:github:fguerco:fg-utils</id>
-  <published>2023-09-02T01:07:36Z</published>
-  <updated>2023-09-02T01:07:36Z</updated>
-  <content type="html">
-   Some utilities written in Common Lisp for my studies
   </content>
  </entry>
 </feed>
