@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2023-09-10T08:27:32Z</updated>
+<updated>2023-09-10T23:48:57Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>g000001: srfi-235</title>
+  <author>
+   <name>g000001</name>
+  </author>
+  <link href="https://github.com/g000001/srfi-235" />
+  <id>urn:rprimus:github:g000001:srfi-235</id>
+  <published>2023-09-10T23:48:57Z</published>
+  <updated>2023-09-10T23:48:57Z</updated>
+  <content type="html">
+   SRFI 235 for CL: Combinators
+  </content>
+ </entry>
+ <entry>
+  <title>gabydd: gmlisp</title>
+  <author>
+   <name>gabydd</name>
+  </author>
+  <link href="https://github.com/gabydd/gmlisp" />
+  <id>urn:rprimus:github:gabydd:gmlisp</id>
+  <published>2023-09-10T18:24:24Z</published>
+  <updated>2023-09-10T18:24:24Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>pocket7878: koukoku_shadan_reader_lisp</title>
+  <author>
+   <name>pocket7878</name>
+  </author>
+  <link href="https://github.com/pocket7878/koukoku_shadan_reader_lisp" />
+  <id>urn:rprimus:github:pocket7878:koukoku_shadan_reader_lisp</id>
+  <published>2023-09-10T14:00:12Z</published>
+  <updated>2023-09-10T14:00:12Z</updated>
+  <content type="html">
+   Common Lispã§ä¸è¬ç¤¾å£æ³äººãµã¤ãã¼æè¡ã»ã¤ã³ã¿ã¼ãããèªç±ç ç©¶ä¼ã®é»å­å¬åãèª­ãã§ã¿ã
+  </content>
+ </entry>
+ <entry>
+  <title>digikar99: zero-cost-structures</title>
+  <author>
+   <name>digikar99</name>
+  </author>
+  <link href="https://github.com/digikar99/zero-cost-structures" />
+  <id>urn:rprimus:github:digikar99:zero-cost-structures</id>
+  <published>2023-09-10T13:58:07Z</published>
+  <updated>2023-09-10T13:58:07Z</updated>
+  <content type="html">
+   A dead-end attempt to providing zero runtime cost structures in Common Lisp
+  </content>
+ </entry>
  <entry>
   <title>mehdihoore: lengthstable</title>
   <author>
@@ -79,7 +131,7 @@
   <published>2023-09-09T16:41:58Z</published>
   <updated>2023-09-09T16:41:58Z</updated>
   <content type="html">
-   
+   My StumpWM configurations
   </content>
  </entry>
  <entry>
@@ -93,71 +145,6 @@
   <updated>2023-09-09T14:39:50Z</updated>
   <content type="html">
    Portability library to customize CL implementations&#039; REPL prompt.
-  </content>
- </entry>
- <entry>
-  <title>Adroneleh: common-lisp-learning</title>
-  <author>
-   <name>Adroneleh</name>
-  </author>
-  <link href="https://github.com/Adroneleh/common-lisp-learning" />
-  <id>urn:rprimus:github:Adroneleh:common-lisp-learning</id>
-  <published>2023-09-08T22:42:11Z</published>
-  <updated>2023-09-08T22:42:11Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>tammymakesthings: cl-cookiecutter</title>
-  <author>
-   <name>tammymakesthings</name>
-  </author>
-  <link href="https://github.com/tammymakesthings/cl-cookiecutter" />
-  <id>urn:rprimus:github:tammymakesthings:cl-cookiecutter</id>
-  <published>2023-09-08T17:59:23Z</published>
-  <updated>2023-09-08T17:59:23Z</updated>
-  <content type="html">
-   Common Lisp CookieCutter Template
-  </content>
- </entry>
- <entry>
-  <title>LuigiDotSRC: LispDataStructures</title>
-  <author>
-   <name>LuigiDotSRC</name>
-  </author>
-  <link href="https://github.com/LuigiDotSRC/LispDataStructures" />
-  <id>urn:rprimus:github:LuigiDotSRC:LispDataStructures</id>
-  <published>2023-09-08T15:51:40Z</published>
-  <updated>2023-09-08T15:51:40Z</updated>
-  <content type="html">
-   repository to keep all my lisp files for learning data structures and algorithms 
-  </content>
- </entry>
- <entry>
-  <title>ranjanified: lispademia</title>
-  <author>
-   <name>ranjanified</name>
-  </author>
-  <link href="https://github.com/ranjanified/lispademia" />
-  <id>urn:rprimus:github:ranjanified:lispademia</id>
-  <published>2023-09-08T11:33:17Z</published>
-  <updated>2023-09-08T11:33:17Z</updated>
-  <content type="html">
-   Lisp-y Practices
-  </content>
- </entry>
- <entry>
-  <title>feuery: survelo</title>
-  <author>
-   <name>feuery</name>
-  </author>
-  <link href="https://github.com/feuery/survelo" />
-  <id>urn:rprimus:github:feuery:survelo</id>
-  <published>2023-09-08T10:08:28Z</published>
-  <updated>2023-09-08T10:08:28Z</updated>
-  <content type="html">
-   ilpo askartelee 3d:tÃ¤
   </content>
  </entry>
 </feed>
