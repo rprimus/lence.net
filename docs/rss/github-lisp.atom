@@ -2,8 +2,112 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2023-09-12T05:04:42Z</updated>
+<updated>2023-09-13T03:58:21Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>melusina-org: make-lisp-system-documentation-texinfo</title>
+  <author>
+   <name>melusina-org</name>
+  </author>
+  <link href="https://github.com/melusina-org/make-lisp-system-documentation-texinfo" />
+  <id>urn:rprimus:github:melusina-org:make-lisp-system-documentation-texinfo</id>
+  <published>2023-09-13T03:58:21Z</published>
+  <updated>2023-09-13T03:58:21Z</updated>
+  <content type="html">
+   GitHub Action to make documentation of a Common Lisp system using TeXinfo
+  </content>
+ </entry>
+ <entry>
+  <title>melusina-org: setup-quicklisp</title>
+  <author>
+   <name>melusina-org</name>
+  </author>
+  <link href="https://github.com/melusina-org/setup-quicklisp" />
+  <id>urn:rprimus:github:melusina-org:setup-quicklisp</id>
+  <published>2023-09-13T03:53:39Z</published>
+  <updated>2023-09-13T03:53:39Z</updated>
+  <content type="html">
+   GitHub action to setup QuickLisp
+  </content>
+ </entry>
+ <entry>
+  <title>melusina-org: setup-common-lisp</title>
+  <author>
+   <name>melusina-org</name>
+  </author>
+  <link href="https://github.com/melusina-org/setup-common-lisp" />
+  <id>urn:rprimus:github:melusina-org:setup-common-lisp</id>
+  <published>2023-09-13T03:49:26Z</published>
+  <updated>2023-09-13T03:49:26Z</updated>
+  <content type="html">
+   GitHub action to setup Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>AndresLArrietaP: Labo_LISP</title>
+  <author>
+   <name>AndresLArrietaP</name>
+  </author>
+  <link href="https://github.com/AndresLArrietaP/Labo_LISP" />
+  <id>urn:rprimus:github:AndresLArrietaP:Labo_LISP</id>
+  <published>2023-09-13T00:15:51Z</published>
+  <updated>2023-09-13T00:15:51Z</updated>
+  <content type="html">
+   laboratorio inteligencia artificial
+  </content>
+ </entry>
+ <entry>
+  <title>CryptoRodeo: CommonLisp</title>
+  <author>
+   <name>CryptoRodeo</name>
+  </author>
+  <link href="https://github.com/CryptoRodeo/CommonLisp" />
+  <id>urn:rprimus:github:CryptoRodeo:CommonLisp</id>
+  <published>2023-09-12T22:55:39Z</published>
+  <updated>2023-09-12T22:55:39Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>ethanwong888: CS161</title>
+  <author>
+   <name>ethanwong888</name>
+  </author>
+  <link href="https://github.com/ethanwong888/CS161" />
+  <id>urn:rprimus:github:ethanwong888:CS161</id>
+  <published>2023-09-12T20:44:36Z</published>
+  <updated>2023-09-12T20:44:36Z</updated>
+  <content type="html">
+   CS 161
+  </content>
+ </entry>
+ <entry>
+  <title>tedszy: lysys</title>
+  <author>
+   <name>tedszy</name>
+  </author>
+  <link href="https://github.com/tedszy/lysys" />
+  <id>urn:rprimus:github:tedszy:lysys</id>
+  <published>2023-09-12T20:36:23Z</published>
+  <updated>2023-09-12T20:36:23Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Shinmera: clohost</title>
+  <author>
+   <name>Shinmera</name>
+  </author>
+  <link href="https://github.com/Shinmera/clohost" />
+  <id>urn:rprimus:github:Shinmera:clohost</id>
+  <published>2023-09-12T15:29:44Z</published>
+  <updated>2023-09-12T15:29:44Z</updated>
+  <content type="html">
+   A Common Lisp client library for the Cohost API
+  </content>
+ </entry>
  <entry>
   <title>jbeans0312: lispcore</title>
   <author>
@@ -80,84 +184,6 @@
   <updated>2023-09-11T12:00:26Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>g000001: srfi-235</title>
-  <author>
-   <name>g000001</name>
-  </author>
-  <link href="https://github.com/g000001/srfi-235" />
-  <id>urn:rprimus:github:g000001:srfi-235</id>
-  <published>2023-09-10T23:48:57Z</published>
-  <updated>2023-09-10T23:48:57Z</updated>
-  <content type="html">
-   SRFI 235 for CL: Combinators
-  </content>
- </entry>
- <entry>
-  <title>Lithrein: clisp</title>
-  <author>
-   <name>Lithrein</name>
-  </author>
-  <link href="https://github.com/Lithrein/clisp" />
-  <id>urn:rprimus:github:Lithrein:clisp</id>
-  <published>2023-09-10T20:35:43Z</published>
-  <updated>2023-09-10T20:35:43Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>gabydd: gmlisp</title>
-  <author>
-   <name>gabydd</name>
-  </author>
-  <link href="https://github.com/gabydd/gmlisp" />
-  <id>urn:rprimus:github:gabydd:gmlisp</id>
-  <published>2023-09-10T18:24:24Z</published>
-  <updated>2023-09-10T18:24:24Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>pocket7878: koukoku_shadan_reader_lisp</title>
-  <author>
-   <name>pocket7878</name>
-  </author>
-  <link href="https://github.com/pocket7878/koukoku_shadan_reader_lisp" />
-  <id>urn:rprimus:github:pocket7878:koukoku_shadan_reader_lisp</id>
-  <published>2023-09-10T14:00:12Z</published>
-  <updated>2023-09-10T14:00:12Z</updated>
-  <content type="html">
-   Common Lispã§ä¸è¬ç¤¾å£æ³äººãµã¤ãã¼æè¡ã»ã¤ã³ã¿ã¼ãããèªç±ç ç©¶ä¼ã®é»å­å¬åãèª­ãã§ã¿ã
-  </content>
- </entry>
- <entry>
-  <title>digikar99: zero-cost-structures</title>
-  <author>
-   <name>digikar99</name>
-  </author>
-  <link href="https://github.com/digikar99/zero-cost-structures" />
-  <id>urn:rprimus:github:digikar99:zero-cost-structures</id>
-  <published>2023-09-10T13:58:07Z</published>
-  <updated>2023-09-10T13:58:07Z</updated>
-  <content type="html">
-   A dead-end attempt to providing zero runtime cost structures in Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>mehdihoore: lengthstable</title>
-  <author>
-   <name>mehdihoore</name>
-  </author>
-  <link href="https://github.com/mehdihoore/lengthstable" />
-  <id>urn:rprimus:github:mehdihoore:lengthstable</id>
-  <published>2023-09-10T08:27:32Z</published>
-  <updated>2023-09-10T08:27:32Z</updated>
-  <content type="html">
-   ÛÚ© ÙÛØ³Ù¾ Ø¨Ø±Ø§Û Ø§ÛÙÚ©Ù Ø·ÙÙÙØ§Û Ø§Ø´Ú©Ø§Ù Ø³ÙÚ©Øª Ø´Ø¯Ù Ø±Ø§ Ø¨Ú¯ÛØ±Ø¯ Ø¬ÙØ¹ Ø¨Ø²ÙØ¯ Ù Ø¨Ù ØµÙØ±Øª ØªÚ©Ø³Øª Ø¯Ø± ÙÙØ´Ù Ø¨ÛØ§ÙØ±Ø¯ Ù Ø³Ù¾Ø³ Ø¬Ø¯ÙÙÛ Ø§Ø² ØªÚ© Ø¨Ù ØªÚ© Ø¢ÙÙØ§ Ø¨Ø§ ÙØ´Ø®ØµØ§Øª ÙØ± Ú©Ø¯Ø§Ù Ø§Ø±Ø§ÙÙ Ø¯ÙØ¯
   </content>
  </entry>
 </feed>
