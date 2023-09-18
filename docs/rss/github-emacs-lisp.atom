@@ -2,8 +2,138 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2023-09-17T09:18:20Z</updated>
+<updated>2023-09-18T02:48:11Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>DeciPaliz: .emacs.d</title>
+  <author>
+   <name>DeciPaliz</name>
+  </author>
+  <link href="https://github.com/DeciPaliz/.emacs.d" />
+  <id>urn:rprimus:github:DeciPaliz:.emacs.d</id>
+  <published>2023-09-18T02:48:11Z</published>
+  <updated>2023-09-18T02:48:11Z</updated>
+  <content type="html">
+   My Emacs configuration.
+  </content>
+ </entry>
+ <entry>
+  <title>xrhahelry: GNU-Emacs-Config</title>
+  <author>
+   <name>xrhahelry</name>
+  </author>
+  <link href="https://github.com/xrhahelry/GNU-Emacs-Config" />
+  <id>urn:rprimus:github:xrhahelry:GNU-Emacs-Config</id>
+  <published>2023-09-18T02:21:02Z</published>
+  <updated>2023-09-18T02:21:02Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>emacsmirror: universal-sidecar</title>
+  <author>
+   <name>emacsmirror</name>
+  </author>
+  <link href="https://github.com/emacsmirror/universal-sidecar" />
+  <id>urn:rprimus:github:emacsmirror:universal-sidecar</id>
+  <published>2023-09-17T22:36:38Z</published>
+  <updated>2023-09-17T22:36:38Z</updated>
+  <content type="html">
+   A universal sidecar buffer
+  </content>
+ </entry>
+ <entry>
+  <title>emacsmirror: iota</title>
+  <author>
+   <name>emacsmirror</name>
+  </author>
+  <link href="https://github.com/emacsmirror/iota" />
+  <id>urn:rprimus:github:emacsmirror:iota</id>
+  <published>2023-09-17T22:35:21Z</published>
+  <updated>2023-09-17T22:35:21Z</updated>
+  <content type="html">
+   Replace marker with increasing integers
+  </content>
+ </entry>
+ <entry>
+  <title>tirimia: hush</title>
+  <author>
+   <name>tirimia</name>
+  </author>
+  <link href="https://github.com/tirimia/hush" />
+  <id>urn:rprimus:github:tirimia:hush</id>
+  <published>2023-09-17T19:30:49Z</published>
+  <updated>2023-09-17T19:30:49Z</updated>
+  <content type="html">
+   hush.el - Pluggable secret manager
+  </content>
+ </entry>
+ <entry>
+  <title>vpxyz: php-ts-mode</title>
+  <author>
+   <name>vpxyz</name>
+  </author>
+  <link href="https://github.com/vpxyz/php-ts-mode" />
+  <id>urn:rprimus:github:vpxyz:php-ts-mode</id>
+  <published>2023-09-17T16:57:20Z</published>
+  <updated>2023-09-17T16:57:20Z</updated>
+  <content type="html">
+   emacs major mode for PHP, powered by tree-sitter
+  </content>
+ </entry>
+ <entry>
+  <title>tankensha: tankensha.github.io</title>
+  <author>
+   <name>tankensha</name>
+  </author>
+  <link href="https://github.com/tankensha/tankensha.github.io" />
+  <id>urn:rprimus:github:tankensha:tankensha.github.io</id>
+  <published>2023-09-17T12:56:16Z</published>
+  <updated>2023-09-17T12:56:16Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>0xsuk: command-stats.el</title>
+  <author>
+   <name>0xsuk</name>
+  </author>
+  <link href="https://github.com/0xsuk/command-stats.el" />
+  <id>urn:rprimus:github:0xsuk:command-stats.el</id>
+  <published>2023-09-17T12:49:05Z</published>
+  <updated>2023-09-17T12:49:05Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>mholson: mho_doom-emacs-config</title>
+  <author>
+   <name>mholson</name>
+  </author>
+  <link href="https://github.com/mholson/mho_doom-emacs-config" />
+  <id>urn:rprimus:github:mholson:mho_doom-emacs-config</id>
+  <published>2023-09-17T12:20:56Z</published>
+  <updated>2023-09-17T12:20:56Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>an93lofdeath: .emacs.d</title>
+  <author>
+   <name>an93lofdeath</name>
+  </author>
+  <link href="https://github.com/an93lofdeath/.emacs.d" />
+  <id>urn:rprimus:github:an93lofdeath:.emacs.d</id>
+  <published>2023-09-17T10:43:21Z</published>
+  <updated>2023-09-17T10:43:21Z</updated>
+  <content type="html">
+   My ever evolving personal GNU Emacs config.
+  </content>
+ </entry>
  <entry>
   <title>cepek: dotfiles-etc</title>
   <author>
@@ -79,7 +209,7 @@
   <published>2023-09-17T00:03:17Z</published>
   <updated>2023-09-17T00:03:17Z</updated>
   <content type="html">
-   Mirror of the llm package from GNU ELPA, current as of 2023-09-17
+   Mirror of the llm package from GNU ELPA, current as of 2023-09-18
   </content>
  </entry>
  <entry>
@@ -130,6 +260,19 @@
   <id>urn:rprimus:github:moorts:emacs.d</id>
   <published>2023-09-16T18:44:24Z</published>
   <updated>2023-09-16T18:44:24Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>AndrewJackson2020: termux_dotfiles</title>
+  <author>
+   <name>AndrewJackson2020</name>
+  </author>
+  <link href="https://github.com/AndrewJackson2020/termux_dotfiles" />
+  <id>urn:rprimus:github:AndrewJackson2020:termux_dotfiles</id>
+  <published>2023-09-16T16:24:14Z</published>
+  <updated>2023-09-16T16:24:14Z</updated>
   <content type="html">
    
   </content>
@@ -247,123 +390,6 @@
   <id>urn:rprimus:github:et2010:.spacemacs.d</id>
   <published>2023-09-16T03:17:06Z</published>
   <updated>2023-09-16T03:17:06Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>rafonseca: erx-loop</title>
-  <author>
-   <name>rafonseca</name>
-  </author>
-  <link href="https://github.com/rafonseca/erx-loop" />
-  <id>urn:rprimus:github:rafonseca:erx-loop</id>
-  <published>2023-09-15T21:22:02Z</published>
-  <updated>2023-09-15T21:22:02Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>PatrikOlin: .dotfiles</title>
-  <author>
-   <name>PatrikOlin</name>
-  </author>
-  <link href="https://github.com/PatrikOlin/.dotfiles" />
-  <id>urn:rprimus:github:PatrikOlin:.dotfiles</id>
-  <published>2023-09-15T21:21:43Z</published>
-  <updated>2023-09-15T21:21:43Z</updated>
-  <content type="html">
-   dotfiles, repo created 2023-09-15
-  </content>
- </entry>
- <entry>
-  <title>Greybeard-Entertainment: disposable-key</title>
-  <author>
-   <name>Greybeard-Entertainment</name>
-  </author>
-  <link href="https://github.com/Greybeard-Entertainment/disposable-key" />
-  <id>urn:rprimus:github:Greybeard-Entertainment:disposable-key</id>
-  <published>2023-09-15T16:44:34Z</published>
-  <updated>2023-09-15T16:44:34Z</updated>
-  <content type="html">
-   The emacs disposable keybindings
-  </content>
- </entry>
- <entry>
-  <title>triscuitcircuit: emacs.d</title>
-  <author>
-   <name>triscuitcircuit</name>
-  </author>
-  <link href="https://github.com/triscuitcircuit/emacs.d" />
-  <id>urn:rprimus:github:triscuitcircuit:emacs.d</id>
-  <published>2023-09-15T15:07:58Z</published>
-  <updated>2023-09-15T15:07:58Z</updated>
-  <content type="html">
-   Emacs configuration (2020-current) 
-  </content>
- </entry>
- <entry>
-  <title>RilCritch: doom-emacs-ril</title>
-  <author>
-   <name>RilCritch</name>
-  </author>
-  <link href="https://github.com/RilCritch/doom-emacs-ril" />
-  <id>urn:rprimus:github:RilCritch:doom-emacs-ril</id>
-  <published>2023-09-15T14:08:00Z</published>
-  <updated>2023-09-15T14:08:00Z</updated>
-  <content type="html">
-   RilCritch&#039;s configuration of doom-emacs
-  </content>
- </entry>
- <entry>
-  <title>owinebar: emacs-table-allocation-manager</title>
-  <author>
-   <name>owinebar</name>
-  </author>
-  <link href="https://github.com/owinebar/emacs-table-allocation-manager" />
-  <id>urn:rprimus:github:owinebar:emacs-table-allocation-manager</id>
-  <published>2023-09-15T12:26:24Z</published>
-  <updated>2023-09-15T12:26:24Z</updated>
-  <content type="html">
-   Provides an interface for managing the allocation of slots in a fixed size table in emacs lisp.
-  </content>
- </entry>
- <entry>
-  <title>Rinfella: doom-config</title>
-  <author>
-   <name>Rinfella</name>
-  </author>
-  <link href="https://github.com/Rinfella/doom-config" />
-  <id>urn:rprimus:github:Rinfella:doom-config</id>
-  <published>2023-09-15T06:46:32Z</published>
-  <updated>2023-09-15T06:46:32Z</updated>
-  <content type="html">
-   Doom Emacs personal configuration
-  </content>
- </entry>
- <entry>
-  <title>tmills80: dot-emacs</title>
-  <author>
-   <name>tmills80</name>
-  </author>
-  <link href="https://github.com/tmills80/dot-emacs" />
-  <id>urn:rprimus:github:tmills80:dot-emacs</id>
-  <published>2023-09-15T04:12:48Z</published>
-  <updated>2023-09-15T04:12:48Z</updated>
-  <content type="html">
-   My dot emacs
-  </content>
- </entry>
- <entry>
-  <title>zkcarter: doom-emacs-config</title>
-  <author>
-   <name>zkcarter</name>
-  </author>
-  <link href="https://github.com/zkcarter/doom-emacs-config" />
-  <id>urn:rprimus:github:zkcarter:doom-emacs-config</id>
-  <published>2023-09-15T02:08:40Z</published>
-  <updated>2023-09-15T02:08:40Z</updated>
   <content type="html">
    
   </content>
