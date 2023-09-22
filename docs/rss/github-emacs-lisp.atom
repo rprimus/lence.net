@@ -2,8 +2,125 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2023-09-21T07:33:41Z</updated>
+<updated>2023-09-22T02:10:10Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>williseed: configs</title>
+  <author>
+   <name>williseed</name>
+  </author>
+  <link href="https://github.com/williseed/configs" />
+  <id>urn:rprimus:github:williseed:configs</id>
+  <published>2023-09-22T02:10:10Z</published>
+  <updated>2023-09-22T02:10:10Z</updated>
+  <content type="html">
+   configs for tools like doom emacs, git, zsh, and more
+  </content>
+ </entry>
+ <entry>
+  <title>FireSquid6: .doom.d</title>
+  <author>
+   <name>FireSquid6</name>
+  </author>
+  <link href="https://github.com/FireSquid6/.doom.d" />
+  <id>urn:rprimus:github:FireSquid6:.doom.d</id>
+  <published>2023-09-22T00:58:37Z</published>
+  <updated>2023-09-22T00:58:37Z</updated>
+  <content type="html">
+   My doom emacs config
+  </content>
+ </entry>
+ <entry>
+  <title>Sawyer-Powell: dotfiles</title>
+  <author>
+   <name>Sawyer-Powell</name>
+  </author>
+  <link href="https://github.com/Sawyer-Powell/dotfiles" />
+  <id>urn:rprimus:github:Sawyer-Powell:dotfiles</id>
+  <published>2023-09-21T23:30:50Z</published>
+  <updated>2023-09-21T23:30:50Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>strnglp: emacs</title>
+  <author>
+   <name>strnglp</name>
+  </author>
+  <link href="https://github.com/strnglp/emacs" />
+  <id>urn:rprimus:github:strnglp:emacs</id>
+  <published>2023-09-21T23:17:55Z</published>
+  <updated>2023-09-21T23:17:55Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>LuigiPiucco: nerd-icons-corfu</title>
+  <author>
+   <name>LuigiPiucco</name>
+  </author>
+  <link href="https://github.com/LuigiPiucco/nerd-icons-corfu" />
+  <id>urn:rprimus:github:LuigiPiucco:nerd-icons-corfu</id>
+  <published>2023-09-21T17:34:54Z</published>
+  <updated>2023-09-21T17:34:54Z</updated>
+  <content type="html">
+   Icons for corfu via nerd-icons
+  </content>
+ </entry>
+ <entry>
+  <title>mokrates: quail-classic-german</title>
+  <author>
+   <name>mokrates</name>
+  </author>
+  <link href="https://github.com/mokrates/quail-classic-german" />
+  <id>urn:rprimus:github:mokrates:quail-classic-german</id>
+  <published>2023-09-21T16:35:10Z</published>
+  <updated>2023-09-21T16:35:10Z</updated>
+  <content type="html">
+   Emacs quail input method for classic german.
+  </content>
+ </entry>
+ <entry>
+  <title>Believer1: nix-dotfiles</title>
+  <author>
+   <name>Believer1</name>
+  </author>
+  <link href="https://github.com/Believer1/nix-dotfiles" />
+  <id>urn:rprimus:github:Believer1:nix-dotfiles</id>
+  <published>2023-09-21T15:34:47Z</published>
+  <updated>2023-09-21T15:34:47Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>2tieatie: EL-indicator</title>
+  <author>
+   <name>2tieatie</name>
+  </author>
+  <link href="https://github.com/2tieatie/EL-indicator" />
+  <id>urn:rprimus:github:2tieatie:EL-indicator</id>
+  <published>2023-09-21T14:55:16Z</published>
+  <updated>2023-09-21T14:55:16Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>cicin2837511: config-files</title>
+  <author>
+   <name>cicin2837511</name>
+  </author>
+  <link href="https://github.com/cicin2837511/config-files" />
+  <id>urn:rprimus:github:cicin2837511:config-files</id>
+  <published>2023-09-21T11:35:11Z</published>
+  <updated>2023-09-21T11:35:11Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>claidler: emacs_init</title>
   <author>
@@ -40,7 +157,7 @@
   <published>2023-09-21T00:06:47Z</published>
   <updated>2023-09-21T00:06:47Z</updated>
   <content type="html">
-   Mirror of the wrap-search package from GNU ELPA, current as of 2023-09-21
+   Mirror of the wrap-search package from GNU ELPA, current as of 2023-09-22
   </content>
  </entry>
  <entry>
@@ -53,7 +170,7 @@
   <published>2023-09-21T00:06:04Z</published>
   <updated>2023-09-21T00:06:04Z</updated>
   <content type="html">
-   Mirror of the tam package from GNU ELPA, current as of 2023-09-21
+   Mirror of the tam package from GNU ELPA, current as of 2023-09-22
   </content>
  </entry>
  <entry>
@@ -80,19 +197,6 @@
   <updated>2023-09-20T18:27:54Z</updated>
   <content type="html">
    My own Emacs configuration
-  </content>
- </entry>
- <entry>
-  <title>cicin2837511: config-files</title>
-  <author>
-   <name>cicin2837511</name>
-  </author>
-  <link href="https://github.com/cicin2837511/config-files" />
-  <id>urn:rprimus:github:cicin2837511:config-files</id>
-  <published>2023-09-20T17:43:07Z</published>
-  <updated>2023-09-20T17:43:07Z</updated>
-  <content type="html">
-   This repository is to store all my config files
   </content>
  </entry>
  <entry>
@@ -158,201 +262,6 @@
   <updated>2023-09-20T05:25:44Z</updated>
   <content type="html">
    One-liner flashcards
-  </content>
- </entry>
- <entry>
-  <title>ss0p: emacs.d</title>
-  <author>
-   <name>ss0p</name>
-  </author>
-  <link href="https://github.com/ss0p/emacs.d" />
-  <id>urn:rprimus:github:ss0p:emacs.d</id>
-  <published>2023-09-19T23:36:43Z</published>
-  <updated>2023-09-19T23:36:43Z</updated>
-  <content type="html">
-   emacs stuff
-  </content>
- </entry>
- <entry>
-  <title>ayechanst: emacs-from-scratch</title>
-  <author>
-   <name>ayechanst</name>
-  </author>
-  <link href="https://github.com/ayechanst/emacs-from-scratch" />
-  <id>urn:rprimus:github:ayechanst:emacs-from-scratch</id>
-  <published>2023-09-19T23:08:29Z</published>
-  <updated>2023-09-19T23:08:29Z</updated>
-  <content type="html">
-   init.el file for custom emacs config
-  </content>
- </entry>
- <entry>
-  <title>fwam: nixFlake</title>
-  <author>
-   <name>fwam</name>
-  </author>
-  <link href="https://github.com/fwam/nixFlake" />
-  <id>urn:rprimus:github:fwam:nixFlake</id>
-  <published>2023-09-19T21:35:44Z</published>
-  <updated>2023-09-19T21:35:44Z</updated>
-  <content type="html">
-   NixOS config of mine
-  </content>
- </entry>
- <entry>
-  <title>soerlemans: .emacs</title>
-  <author>
-   <name>soerlemans</name>
-  </author>
-  <link href="https://github.com/soerlemans/.emacs" />
-  <id>urn:rprimus:github:soerlemans:.emacs</id>
-  <published>2023-09-19T21:22:44Z</published>
-  <updated>2023-09-19T21:22:44Z</updated>
-  <content type="html">
-   This is my self contained Emacs config.
-  </content>
- </entry>
- <entry>
-  <title>nickbanderson: perspective-sets.el</title>
-  <author>
-   <name>nickbanderson</name>
-  </author>
-  <link href="https://github.com/nickbanderson/perspective-sets.el" />
-  <id>urn:rprimus:github:nickbanderson:perspective-sets.el</id>
-  <published>2023-09-19T19:19:40Z</published>
-  <updated>2023-09-19T19:19:40Z</updated>
-  <content type="html">
-   Emacs package to organize perspectives from perspective.el into sets.
-  </content>
- </entry>
- <entry>
-  <title>hansknecht: Emacs</title>
-  <author>
-   <name>hansknecht</name>
-  </author>
-  <link href="https://github.com/hansknecht/Emacs" />
-  <id>urn:rprimus:github:hansknecht:Emacs</id>
-  <published>2023-09-19T17:18:36Z</published>
-  <updated>2023-09-19T17:18:36Z</updated>
-  <content type="html">
-   Portable delivery of Emacs
-  </content>
- </entry>
- <entry>
-  <title>jam1015: evil-god-toggle</title>
-  <author>
-   <name>jam1015</name>
-  </author>
-  <link href="https://github.com/jam1015/evil-god-toggle" />
-  <id>urn:rprimus:github:jam1015:evil-god-toggle</id>
-  <published>2023-09-19T16:33:59Z</published>
-  <updated>2023-09-19T16:33:59Z</updated>
-  <content type="html">
-   Persistently toggle between Evil Mode and God Mode in Emacs.
-  </content>
- </entry>
- <entry>
-  <title>meetowl: org-paper-manager</title>
-  <author>
-   <name>meetowl</name>
-  </author>
-  <link href="https://github.com/meetowl/org-paper-manager" />
-  <id>urn:rprimus:github:meetowl:org-paper-manager</id>
-  <published>2023-09-19T12:13:13Z</published>
-  <updated>2023-09-19T12:13:13Z</updated>
-  <content type="html">
-   Quickly copy papers into a local directory and create entry in the current Emacs org-mode file.
-  </content>
- </entry>
- <entry>
-  <title>meetowl: org-screenshot</title>
-  <author>
-   <name>meetowl</name>
-  </author>
-  <link href="https://github.com/meetowl/org-screenshot" />
-  <id>urn:rprimus:github:meetowl:org-screenshot</id>
-  <published>2023-09-19T09:59:27Z</published>
-  <updated>2023-09-19T09:59:27Z</updated>
-  <content type="html">
-   Easily create screenshots and insert them into an Org file in Emacs
-  </content>
- </entry>
- <entry>
-  <title>amaan-kh: handmade</title>
-  <author>
-   <name>amaan-kh</name>
-  </author>
-  <link href="https://github.com/amaan-kh/handmade" />
-  <id>urn:rprimus:github:amaan-kh:handmade</id>
-  <published>2023-09-19T09:51:19Z</published>
-  <updated>2023-09-19T09:51:19Z</updated>
-  <content type="html">
-   This is me trying to follow along with Casey Muratori&#039;s Handmade Hero
-  </content>
- </entry>
- <entry>
-  <title>kkkykin: .emacs.d</title>
-  <author>
-   <name>kkkykin</name>
-  </author>
-  <link href="https://github.com/kkkykin/.emacs.d" />
-  <id>urn:rprimus:github:kkkykin:.emacs.d</id>
-  <published>2023-09-19T09:02:57Z</published>
-  <updated>2023-09-19T09:02:57Z</updated>
-  <content type="html">
-   based on https://git.sr.ht/~ashton314/emacs-bedrock
-  </content>
- </entry>
- <entry>
-  <title>BenKrocke: Emacs-Config</title>
-  <author>
-   <name>BenKrocke</name>
-  </author>
-  <link href="https://github.com/BenKrocke/Emacs-Config" />
-  <id>urn:rprimus:github:BenKrocke:Emacs-Config</id>
-  <published>2023-09-19T07:50:18Z</published>
-  <updated>2023-09-19T07:50:18Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>bharadswami: syncthing-status.el</title>
-  <author>
-   <name>bharadswami</name>
-  </author>
-  <link href="https://github.com/bharadswami/syncthing-status.el" />
-  <id>urn:rprimus:github:bharadswami:syncthing-status.el</id>
-  <published>2023-09-19T07:01:08Z</published>
-  <updated>2023-09-19T07:01:08Z</updated>
-  <content type="html">
-   Elisp to quickly get sync status of folders and devices on Syncthing
-  </content>
- </entry>
- <entry>
-  <title>beho: dotemacs</title>
-  <author>
-   <name>beho</name>
-  </author>
-  <link href="https://github.com/beho/dotemacs" />
-  <id>urn:rprimus:github:beho:dotemacs</id>
-  <published>2023-09-19T04:43:32Z</published>
-  <updated>2023-09-19T04:43:32Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>zaatas: emacs</title>
-  <author>
-   <name>zaatas</name>
-  </author>
-  <link href="https://github.com/zaatas/emacs" />
-  <id>urn:rprimus:github:zaatas:emacs</id>
-  <published>2023-09-19T00:22:20Z</published>
-  <updated>2023-09-19T00:22:20Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
