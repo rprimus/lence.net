@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2023-09-22T06:44:30Z</updated>
+<updated>2023-09-22T21:18:59Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>michaeldelago: cl-wow-srp6</title>
+  <author>
+   <name>michaeldelago</name>
+  </author>
+  <link href="https://github.com/michaeldelago/cl-wow-srp6" />
+  <id>urn:rprimus:github:michaeldelago:cl-wow-srp6</id>
+  <published>2023-09-22T21:18:59Z</published>
+  <updated>2023-09-22T21:18:59Z</updated>
+  <content type="html">
+   Common Lisp implementation of the Wrath of the Lich King SRP6 Verifier algorithm
+  </content>
+ </entry>
+ <entry>
+  <title>blakemcbride: parenscript</title>
+  <author>
+   <name>blakemcbride</name>
+  </author>
+  <link href="https://github.com/blakemcbride/parenscript" />
+  <id>urn:rprimus:github:blakemcbride:parenscript</id>
+  <published>2023-09-22T19:12:09Z</published>
+  <updated>2023-09-22T19:12:09Z</updated>
+  <content type="html">
+   Common Lisp to JavaScript compiler
+  </content>
+ </entry>
  <entry>
   <title>mezzoEmrys: bunny-stream</title>
   <author>
@@ -54,71 +80,6 @@
   <updated>2023-09-21T00:02:12Z</updated>
   <content type="html">
    Repo for assignments in 4240-Artifical Intelligence
-  </content>
- </entry>
- <entry>
-  <title>ParasiteNetwork: Fruktorama3-LispEdition</title>
-  <author>
-   <name>ParasiteNetwork</name>
-  </author>
-  <link href="https://github.com/ParasiteNetwork/Fruktorama3-LispEdition" />
-  <id>urn:rprimus:github:ParasiteNetwork:Fruktorama3-LispEdition</id>
-  <published>2023-09-20T19:05:53Z</published>
-  <updated>2023-09-20T19:05:53Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ParasiteNetwork: Glas</title>
-  <author>
-   <name>ParasiteNetwork</name>
-  </author>
-  <link href="https://github.com/ParasiteNetwork/Glas" />
-  <id>urn:rprimus:github:ParasiteNetwork:Glas</id>
-  <published>2023-09-20T18:56:31Z</published>
-  <updated>2023-09-20T18:56:31Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ryanjanoconnell: cl-grad</title>
-  <author>
-   <name>ryanjanoconnell</name>
-  </author>
-  <link href="https://github.com/ryanjanoconnell/cl-grad" />
-  <id>urn:rprimus:github:ryanjanoconnell:cl-grad</id>
-  <published>2023-09-20T18:27:29Z</published>
-  <updated>2023-09-20T18:27:29Z</updated>
-  <content type="html">
-   Common Lisp Tensor library with automatic differentiation using backpropogation.
-  </content>
- </entry>
- <entry>
-  <title>pheonix9001: kamera</title>
-  <author>
-   <name>pheonix9001</name>
-  </author>
-  <link href="https://github.com/pheonix9001/kamera" />
-  <id>urn:rprimus:github:pheonix9001:kamera</id>
-  <published>2023-09-20T13:32:13Z</published>
-  <updated>2023-09-20T13:32:13Z</updated>
-  <content type="html">
-   Kanren style logic programming, fitted to common lisp
-  </content>
- </entry>
- <entry>
-  <title>k4noe: CAD_LISP</title>
-  <author>
-   <name>k4noe</name>
-  </author>
-  <link href="https://github.com/k4noe/CAD_LISP" />
-  <id>urn:rprimus:github:k4noe:CAD_LISP</id>
-  <published>2023-09-20T09:23:03Z</published>
-  <updated>2023-09-20T09:23:03Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
