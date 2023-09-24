@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2023-09-23T08:49:52Z</updated>
+<updated>2023-09-24T04:03:59Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>mmcqd: bdtt</title>
+  <author>
+   <name>mmcqd</name>
+  </author>
+  <link href="https://github.com/mmcqd/bdtt" />
+  <id>urn:rprimus:github:mmcqd:bdtt</id>
+  <published>2023-09-24T04:03:59Z</published>
+  <updated>2023-09-24T04:03:59Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>rachaelclose: Terminal-Chess</title>
+  <author>
+   <name>rachaelclose</name>
+  </author>
+  <link href="https://github.com/rachaelclose/Terminal-Chess" />
+  <id>urn:rprimus:github:rachaelclose:Terminal-Chess</id>
+  <published>2023-09-23T23:56:15Z</published>
+  <updated>2023-09-23T23:56:15Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>xjpa: camelnotes</title>
+  <author>
+   <name>xjpa</name>
+  </author>
+  <link href="https://github.com/xjpa/camelnotes" />
+  <id>urn:rprimus:github:xjpa:camelnotes</id>
+  <published>2023-09-23T18:48:30Z</published>
+  <updated>2023-09-23T18:48:30Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>xjpa: conway</title>
+  <author>
+   <name>xjpa</name>
+  </author>
+  <link href="https://github.com/xjpa/conway" />
+  <id>urn:rprimus:github:xjpa:conway</id>
+  <published>2023-09-23T18:17:10Z</published>
+  <updated>2023-09-23T18:17:10Z</updated>
+  <content type="html">
+   cellular automaton
+  </content>
+ </entry>
  <entry>
   <title>gloppasglop: 6502-assembler</title>
   <author>
@@ -83,32 +135,6 @@
   </content>
  </entry>
  <entry>
-  <title>feebsa: wsp</title>
-  <author>
-   <name>feebsa</name>
-  </author>
-  <link href="https://github.com/feebsa/wsp" />
-  <id>urn:rprimus:github:feebsa:wsp</id>
-  <published>2023-09-22T22:26:19Z</published>
-  <updated>2023-09-22T22:26:19Z</updated>
-  <content type="html">
-   Trivial whitespace indentation parser written in OCaml
-  </content>
- </entry>
- <entry>
-  <title>feebsa: pratt</title>
-  <author>
-   <name>feebsa</name>
-  </author>
-  <link href="https://github.com/feebsa/pratt" />
-  <id>urn:rprimus:github:feebsa:pratt</id>
-  <published>2023-09-22T22:09:32Z</published>
-  <updated>2023-09-22T22:09:32Z</updated>
-  <content type="html">
-   Compiler for expressions using the Pratt parsing algorithm written in OCaml
-  </content>
- </entry>
- <entry>
   <title>mooreryan: ocaml_vg_example_plot</title>
   <author>
    <name>mooreryan</name>
@@ -132,6 +158,19 @@
   <updated>2023-09-22T21:13:58Z</updated>
   <content type="html">
    
+  </content>
+ </entry>
+ <entry>
+  <title>obazl: llvm</title>
+  <author>
+   <name>obazl</name>
+  </author>
+  <link href="https://github.com/obazl/llvm" />
+  <id>urn:rprimus:github:obazl:llvm</id>
+  <published>2023-09-22T15:54:35Z</published>
+  <updated>2023-09-22T15:54:35Z</updated>
+  <content type="html">
+   llvm bindings for OCaml
   </content>
  </entry>
  <entry>
@@ -210,123 +249,6 @@
   <updated>2023-09-22T00:44:08Z</updated>
   <content type="html">
    An alternative frontend for your favorite news outlets
-  </content>
- </entry>
- <entry>
-  <title>wmjd: PA0</title>
-  <author>
-   <name>wmjd</name>
-  </author>
-  <link href="https://github.com/wmjd/PA0" />
-  <id>urn:rprimus:github:wmjd:PA0</id>
-  <published>2023-09-21T19:29:18Z</published>
-  <updated>2023-09-21T19:29:18Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Vinhuanc: hw2</title>
-  <author>
-   <name>Vinhuanc</name>
-  </author>
-  <link href="https://github.com/Vinhuanc/hw2" />
-  <id>urn:rprimus:github:Vinhuanc:hw2</id>
-  <published>2023-09-21T14:20:04Z</published>
-  <updated>2023-09-21T14:20:04Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>murilovpinheiro: Tarefas-Ocaml</title>
-  <author>
-   <name>murilovpinheiro</name>
-  </author>
-  <link href="https://github.com/murilovpinheiro/Tarefas-Ocaml" />
-  <id>urn:rprimus:github:murilovpinheiro:Tarefas-Ocaml</id>
-  <published>2023-09-21T13:44:25Z</published>
-  <updated>2023-09-21T13:44:25Z</updated>
-  <content type="html">
-   Basicamente sÃ£o as atividades em Ocaml, uma linguagem funcional, feitas durante a disciplina de Linguagens de ProgramaÃ§Ã£o.
-  </content>
- </entry>
- <entry>
-  <title>Octachron: ocaml-changelog-analyzer</title>
-  <author>
-   <name>Octachron</name>
-  </author>
-  <link href="https://github.com/Octachron/ocaml-changelog-analyzer" />
-  <id>urn:rprimus:github:Octachron:ocaml-changelog-analyzer</id>
-  <published>2023-09-21T11:41:33Z</published>
-  <updated>2023-09-21T11:41:33Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>glyh: macmac</title>
-  <author>
-   <name>glyh</name>
-  </author>
-  <link href="https://github.com/glyh/macmac" />
-  <id>urn:rprimus:github:glyh:macmac</id>
-  <published>2023-09-21T08:30:07Z</published>
-  <updated>2023-09-21T08:30:07Z</updated>
-  <content type="html">
-   An experiment on macros
-  </content>
- </entry>
- <entry>
-  <title>rdavison: leveltypeml</title>
-  <author>
-   <name>rdavison</name>
-  </author>
-  <link href="https://github.com/rdavison/leveltypeml" />
-  <id>urn:rprimus:github:rdavison:leveltypeml</id>
-  <published>2023-09-21T08:27:35Z</published>
-  <updated>2023-09-21T08:27:35Z</updated>
-  <content type="html">
-   leveltype reimplemented in OCaml
-  </content>
- </entry>
- <entry>
-  <title>calvinaduma: Algorithms-OCAML</title>
-  <author>
-   <name>calvinaduma</name>
-  </author>
-  <link href="https://github.com/calvinaduma/Algorithms-OCAML" />
-  <id>urn:rprimus:github:calvinaduma:Algorithms-OCAML</id>
-  <published>2023-09-21T07:30:23Z</published>
-  <updated>2023-09-21T07:30:23Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>tanashou: lexical_syntax_analysis</title>
-  <author>
-   <name>tanashou</name>
-  </author>
-  <link href="https://github.com/tanashou/lexical_syntax_analysis" />
-  <id>urn:rprimus:github:tanashou:lexical_syntax_analysis</id>
-  <published>2023-09-21T06:35:23Z</published>
-  <updated>2023-09-21T06:35:23Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>sezeef: ocaml-99-problems</title>
-  <author>
-   <name>sezeef</name>
-  </author>
-  <link href="https://github.com/sezeef/ocaml-99-problems" />
-  <id>urn:rprimus:github:sezeef:ocaml-99-problems</id>
-  <published>2023-09-21T00:23:42Z</published>
-  <updated>2023-09-21T00:23:42Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
