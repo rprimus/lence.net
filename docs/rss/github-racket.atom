@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-racket.atom"/>
 <id>urn:rprimus:github:newracketrepos</id>
-<updated>2023-09-30T09:10:34Z</updated>
+<updated>2023-10-01T08:43:10Z</updated>
 <title type='text'>New GitHub Racket Repos</title>
+ <entry>
+  <title>GillinedUp: sicp-exercises</title>
+  <author>
+   <name>GillinedUp</name>
+  </author>
+  <link href="https://github.com/GillinedUp/sicp-exercises" />
+  <id>urn:rprimus:github:GillinedUp:sicp-exercises</id>
+  <published>2023-10-01T08:43:10Z</published>
+  <updated>2023-10-01T08:43:10Z</updated>
+  <content type="html">
+   Solutions to the exercies for the SICP book written in SICP-compatible dialect of Racket
+  </content>
+ </entry>
+ <entry>
+  <title>carreral2023: Problem-set-2</title>
+  <author>
+   <name>carreral2023</name>
+  </author>
+  <link href="https://github.com/carreral2023/Problem-set-2" />
+  <id>urn:rprimus:github:carreral2023:Problem-set-2</id>
+  <published>2023-10-01T01:17:34Z</published>
+  <updated>2023-10-01T01:17:34Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>rock-pulak: rock-pulak-hw2</title>
+  <author>
+   <name>rock-pulak</name>
+  </author>
+  <link href="https://github.com/rock-pulak/rock-pulak-hw2" />
+  <id>urn:rprimus:github:rock-pulak:rock-pulak-hw2</id>
+  <published>2023-09-30T23:34:58Z</published>
+  <updated>2023-09-30T23:34:58Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>dumitrache-adrian92: SMP_PP-HW1</title>
+  <author>
+   <name>dumitrache-adrian92</name>
+  </author>
+  <link href="https://github.com/dumitrache-adrian92/SMP_PP-HW1" />
+  <id>urn:rprimus:github:dumitrache-adrian92:SMP_PP-HW1</id>
+  <published>2023-09-30T18:55:23Z</published>
+  <updated>2023-09-30T18:55:23Z</updated>
+  <content type="html">
+   A solution to the Stable Marriage Problem given as a homework assignment during the Programming Paradigms course at ACS-UPB 
+  </content>
+ </entry>
+ <entry>
+  <title>dorinm17: stable-marriage-problem</title>
+  <author>
+   <name>dorinm17</name>
+  </author>
+  <link href="https://github.com/dorinm17/stable-marriage-problem" />
+  <id>urn:rprimus:github:dorinm17:stable-marriage-problem</id>
+  <published>2023-09-30T15:43:14Z</published>
+  <updated>2023-09-30T15:43:14Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>Antigen-1: racket-gsl</title>
   <author>
@@ -11,8 +76,21 @@
   </author>
   <link href="https://github.com/Antigen-1/racket-gsl" />
   <id>urn:rprimus:github:Antigen-1:racket-gsl</id>
-  <published>2023-09-30T09:10:34Z</published>
-  <updated>2023-09-30T09:10:34Z</updated>
+  <published>2023-09-30T13:39:58Z</published>
+  <updated>2023-09-30T13:39:58Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>amcmillion3: sicp</title>
+  <author>
+   <name>amcmillion3</name>
+  </author>
+  <link href="https://github.com/amcmillion3/sicp" />
+  <id>urn:rprimus:github:amcmillion3:sicp</id>
+  <published>2023-09-30T10:20:19Z</published>
+  <updated>2023-09-30T10:20:19Z</updated>
   <content type="html">
    
   </content>
@@ -67,97 +145,6 @@
   <updated>2023-09-29T02:12:43Z</updated>
   <content type="html">
    My solutions to problems from the 2htdp - an amazing intro to programming. 
-  </content>
- </entry>
- <entry>
-  <title>HEISZERTON: Knapsack-problem-Racket</title>
-  <author>
-   <name>HEISZERTON</name>
-  </author>
-  <link href="https://github.com/HEISZERTON/Knapsack-problem-Racket" />
-  <id>urn:rprimus:github:HEISZERTON:Knapsack-problem-Racket</id>
-  <published>2023-09-28T21:13:58Z</published>
-  <updated>2023-09-28T21:13:58Z</updated>
-  <content type="html">
-   Programming Paradigms Comprehensive Assignment Knapsack problem Racket (Scheme)
-  </content>
- </entry>
- <entry>
-  <title>dstorrs: json-ipc</title>
-  <author>
-   <name>dstorrs</name>
-  </author>
-  <link href="https://github.com/dstorrs/json-ipc" />
-  <id>urn:rprimus:github:dstorrs:json-ipc</id>
-  <published>2023-09-28T19:47:11Z</published>
-  <updated>2023-09-28T19:47:11Z</updated>
-  <content type="html">
-   A Racket server using JSON over TCP with generic dispatch.
-  </content>
- </entry>
- <entry>
-  <title>freindst: CSC470-Fall-2023-Interpreter</title>
-  <author>
-   <name>freindst</name>
-  </author>
-  <link href="https://github.com/freindst/CSC470-Fall-2023-Interpreter" />
-  <id>urn:rprimus:github:freindst:CSC470-Fall-2023-Interpreter</id>
-  <published>2023-09-28T14:50:32Z</published>
-  <updated>2023-09-28T14:50:32Z</updated>
-  <content type="html">
-   Interpreter in Scheme 
-  </content>
- </entry>
- <entry>
-  <title>Kregiss: bmstu_1sem_OI</title>
-  <author>
-   <name>Kregiss</name>
-  </author>
-  <link href="https://github.com/Kregiss/bmstu_1sem_OI" />
-  <id>urn:rprimus:github:Kregiss:bmstu_1sem_OI</id>
-  <published>2023-09-28T14:28:27Z</published>
-  <updated>2023-09-28T14:28:27Z</updated>
-  <content type="html">
-   BMSTU | 1 semester | basics of information
-  </content>
- </entry>
- <entry>
-  <title>ThoseGrapefruits: pong-racket</title>
-  <author>
-   <name>ThoseGrapefruits</name>
-  </author>
-  <link href="https://github.com/ThoseGrapefruits/pong-racket" />
-  <id>urn:rprimus:github:ThoseGrapefruits:pong-racket</id>
-  <published>2023-09-28T13:42:10Z</published>
-  <updated>2023-09-28T13:42:10Z</updated>
-  <content type="html">
-   3d pong, in racket
-  </content>
- </entry>
- <entry>
-  <title>Antigen-1: sieve</title>
-  <author>
-   <name>Antigen-1</name>
-  </author>
-  <link href="https://github.com/Antigen-1/sieve" />
-  <id>urn:rprimus:github:Antigen-1:sieve</id>
-  <published>2023-09-28T08:29:46Z</published>
-  <updated>2023-09-28T08:29:46Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>somaditya: sicp</title>
-  <author>
-   <name>somaditya</name>
-  </author>
-  <link href="https://github.com/somaditya/sicp" />
-  <id>urn:rprimus:github:somaditya:sicp</id>
-  <published>2023-09-28T00:17:59Z</published>
-  <updated>2023-09-28T00:17:59Z</updated>
-  <content type="html">
-   Exercise solutions to Structure and Interpretation of Computer Programs
   </content>
  </entry>
 </feed>
