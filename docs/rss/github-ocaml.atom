@@ -2,8 +2,125 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2023-10-01T09:18:21Z</updated>
+<updated>2023-10-02T06:48:32Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>mouloudelarram: rogrammation-fonctionnelle</title>
+  <author>
+   <name>mouloudelarram</name>
+  </author>
+  <link href="https://github.com/mouloudelarram/rogrammation-fonctionnelle" />
+  <id>urn:rprimus:github:mouloudelarram:rogrammation-fonctionnelle</id>
+  <published>2023-10-02T06:48:32Z</published>
+  <updated>2023-10-02T06:48:32Z</updated>
+  <content type="html">
+   rogrammation fonctionnelle Ocaml
+  </content>
+ </entry>
+ <entry>
+  <title>DabrowskiFr: htool</title>
+  <author>
+   <name>DabrowskiFr</name>
+  </author>
+  <link href="https://github.com/DabrowskiFr/htool" />
+  <id>urn:rprimus:github:DabrowskiFr:htool</id>
+  <published>2023-10-02T06:09:00Z</published>
+  <updated>2023-10-02T06:09:00Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>ryanolsonx: trimmer</title>
+  <author>
+   <name>ryanolsonx</name>
+  </author>
+  <link href="https://github.com/ryanolsonx/trimmer" />
+  <id>urn:rprimus:github:ryanolsonx:trimmer</id>
+  <published>2023-10-02T03:05:36Z</published>
+  <updated>2023-10-02T03:05:36Z</updated>
+  <content type="html">
+   Git branch trimmer
+  </content>
+ </entry>
+ <entry>
+  <title>Louise-X10: CS384-Lambda-Calculus</title>
+  <author>
+   <name>Louise-X10</name>
+  </author>
+  <link href="https://github.com/Louise-X10/CS384-Lambda-Calculus" />
+  <id>urn:rprimus:github:Louise-X10:CS384-Lambda-Calculus</id>
+  <published>2023-10-02T01:10:06Z</published>
+  <updated>2023-10-02T01:10:06Z</updated>
+  <content type="html">
+   Generate parser and write reducer for Lambda Calculus. 
+  </content>
+ </entry>
+ <entry>
+  <title>Vasyl-Bodnar: forthish</title>
+  <author>
+   <name>Vasyl-Bodnar</name>
+  </author>
+  <link href="https://github.com/Vasyl-Bodnar/forthish" />
+  <id>urn:rprimus:github:Vasyl-Bodnar:forthish</id>
+  <published>2023-10-02T00:04:10Z</published>
+  <updated>2023-10-02T00:04:10Z</updated>
+  <content type="html">
+   Forthish Language Interpreter
+  </content>
+ </entry>
+ <entry>
+  <title>laluxx: 99-ocaml-problems</title>
+  <author>
+   <name>laluxx</name>
+  </author>
+  <link href="https://github.com/laluxx/99-ocaml-problems" />
+  <id>urn:rprimus:github:laluxx:99-ocaml-problems</id>
+  <published>2023-10-01T20:37:20Z</published>
+  <updated>2023-10-01T20:37:20Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>albertgoncalves: fnlng</title>
+  <author>
+   <name>albertgoncalves</name>
+  </author>
+  <link href="https://github.com/albertgoncalves/fnlng" />
+  <id>urn:rprimus:github:albertgoncalves:fnlng</id>
+  <published>2023-10-01T18:48:34Z</published>
+  <updated>2023-10-01T18:48:34Z</updated>
+  <content type="html">
+   working out how to compile closures
+  </content>
+ </entry>
+ <entry>
+  <title>Pingumaniac: Functional_Programming_in_OCaml</title>
+  <author>
+   <name>Pingumaniac</name>
+  </author>
+  <link href="https://github.com/Pingumaniac/Functional_Programming_in_OCaml" />
+  <id>urn:rprimus:github:Pingumaniac:Functional_Programming_in_OCaml</id>
+  <published>2023-10-01T14:42:01Z</published>
+  <updated>2023-10-01T14:42:01Z</updated>
+  <content type="html">
+   Functional Programming in OCaml
+  </content>
+ </entry>
+ <entry>
+  <title>ushitora-anqou: yomer</title>
+  <author>
+   <name>ushitora-anqou</name>
+  </author>
+  <link href="https://github.com/ushitora-anqou/yomer" />
+  <id>urn:rprimus:github:ushitora-anqou:yomer</id>
+  <published>2023-10-01T10:06:58Z</published>
+  <updated>2023-10-01T10:06:58Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>backtracking: latexpp</title>
   <author>
@@ -132,188 +249,6 @@
   <updated>2023-09-30T02:29:17Z</updated>
   <content type="html">
    Learning OCaml
-  </content>
- </entry>
- <entry>
-  <title>llee454: amina</title>
-  <author>
-   <name>llee454</name>
-  </author>
-  <link href="https://github.com/llee454/amina" />
-  <id>urn:rprimus:github:llee454:amina</id>
-  <published>2023-09-29T22:07:53Z</published>
-  <updated>2023-09-29T22:07:53Z</updated>
-  <content type="html">
-   Amina is a templating language similar to Mustache. You can use it to insert variables into text files and to replace those variables using values taken from a JSON file. Unlike Mustache, you can also embed Scheme (LISP) expressions into your files. Amina will evaluate these expressions and insert the resulting string values.
-  </content>
- </entry>
- <entry>
-  <title>kanaksad: CS181</title>
-  <author>
-   <name>kanaksad</name>
-  </author>
-  <link href="https://github.com/kanaksad/CS181" />
-  <id>urn:rprimus:github:kanaksad:CS181</id>
-  <published>2023-09-29T21:13:49Z</published>
-  <updated>2023-09-29T21:13:49Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>joseph-beck: caml-maths</title>
-  <author>
-   <name>joseph-beck</name>
-  </author>
-  <link href="https://github.com/joseph-beck/caml-maths" />
-  <id>urn:rprimus:github:joseph-beck:caml-maths</id>
-  <published>2023-09-29T20:34:20Z</published>
-  <updated>2023-09-29T20:34:20Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>AxterDoesCode: CS3110</title>
-  <author>
-   <name>AxterDoesCode</name>
-  </author>
-  <link href="https://github.com/AxterDoesCode/CS3110" />
-  <id>urn:rprimus:github:AxterDoesCode:CS3110</id>
-  <published>2023-09-29T17:10:56Z</published>
-  <updated>2023-09-29T17:10:56Z</updated>
-  <content type="html">
-   Excercise Solutions of the CS3110 Textbook
-  </content>
- </entry>
- <entry>
-  <title>inessdv: UR2Phd_KAT</title>
-  <author>
-   <name>inessdv</name>
-  </author>
-  <link href="https://github.com/inessdv/UR2Phd_KAT" />
-  <id>urn:rprimus:github:inessdv:UR2Phd_KAT</id>
-  <published>2023-09-29T16:45:45Z</published>
-  <updated>2023-09-29T16:45:45Z</updated>
-  <content type="html">
-   UR2Phd Kleene Algebra with tests research program
-  </content>
- </entry>
- <entry>
-  <title>Armemius: Bober</title>
-  <author>
-   <name>Armemius</name>
-  </author>
-  <link href="https://github.com/Armemius/Bober" />
-  <id>urn:rprimus:github:Armemius:Bober</id>
-  <published>2023-09-29T15:41:24Z</published>
-  <updated>2023-09-29T15:41:24Z</updated>
-  <content type="html">
-   TODO
-  </content>
- </entry>
- <entry>
-  <title>igarnier: extract-ocaml-bnf</title>
-  <author>
-   <name>igarnier</name>
-  </author>
-  <link href="https://github.com/igarnier/extract-ocaml-bnf" />
-  <id>urn:rprimus:github:igarnier:extract-ocaml-bnf</id>
-  <published>2023-09-29T15:34:36Z</published>
-  <updated>2023-09-29T15:34:36Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>wmjd: Anaconda</title>
-  <author>
-   <name>wmjd</name>
-  </author>
-  <link href="https://github.com/wmjd/Anaconda" />
-  <id>urn:rprimus:github:wmjd:Anaconda</id>
-  <published>2023-09-29T15:08:07Z</published>
-  <updated>2023-09-29T15:08:07Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>leostera: riot</title>
-  <author>
-   <name>leostera</name>
-  </author>
-  <link href="https://github.com/leostera/riot" />
-  <id>urn:rprimus:github:leostera:riot</id>
-  <published>2023-09-29T13:57:12Z</published>
-  <updated>2023-09-29T13:57:12Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>txloc1909: cs3110-ocaml</title>
-  <author>
-   <name>txloc1909</name>
-  </author>
-  <link href="https://github.com/txloc1909/cs3110-ocaml" />
-  <id>urn:rprimus:github:txloc1909:cs3110-ocaml</id>
-  <published>2023-09-29T09:32:18Z</published>
-  <updated>2023-09-29T09:32:18Z</updated>
-  <content type="html">
-   Learning functional programming with OCaml
-  </content>
- </entry>
- <entry>
-  <title>Merlin04: lambda_calculus</title>
-  <author>
-   <name>Merlin04</name>
-  </author>
-  <link href="https://github.com/Merlin04/lambda_calculus" />
-  <id>urn:rprimus:github:Merlin04:lambda_calculus</id>
-  <published>2023-09-29T08:17:29Z</published>
-  <updated>2023-09-29T08:17:29Z</updated>
-  <content type="html">
-   pldi
-  </content>
- </entry>
- <entry>
-  <title>Ndenko: Ocaml-Lexer-and-Parser</title>
-  <author>
-   <name>Ndenko</name>
-  </author>
-  <link href="https://github.com/Ndenko/Ocaml-Lexer-and-Parser" />
-  <id>urn:rprimus:github:Ndenko:Ocaml-Lexer-and-Parser</id>
-  <published>2023-09-29T02:10:34Z</published>
-  <updated>2023-09-29T02:10:34Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Ndenko: Ocaml-Interpreter</title>
-  <author>
-   <name>Ndenko</name>
-  </author>
-  <link href="https://github.com/Ndenko/Ocaml-Interpreter" />
-  <id>urn:rprimus:github:Ndenko:Ocaml-Interpreter</id>
-  <published>2023-09-29T02:09:13Z</published>
-  <updated>2023-09-29T02:09:13Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>luiox: Vrosi</title>
-  <author>
-   <name>luiox</name>
-  </author>
-  <link href="https://github.com/luiox/Vrosi" />
-  <id>urn:rprimus:github:luiox:Vrosi</id>
-  <published>2023-09-29T00:33:32Z</published>
-  <updated>2023-09-29T00:33:32Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
