@@ -2,15 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2023-10-02T06:48:32Z</updated>
+<updated>2023-10-03T03:37:31Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
  <entry>
-  <title>mouloudelarram: rogrammation-fonctionnelle</title>
+  <title>cod1r: huffbro</title>
+  <author>
+   <name>cod1r</name>
+  </author>
+  <link href="https://github.com/cod1r/huffbro" />
+  <id>urn:rprimus:github:cod1r:huffbro</id>
+  <published>2023-10-03T03:37:31Z</published>
+  <updated>2023-10-03T03:37:31Z</updated>
+  <content type="html">
+   OCaml implementation of Huffman Coding
+  </content>
+ </entry>
+ <entry>
+  <title>CobbCoding1: 99-ocaml-problems</title>
+  <author>
+   <name>CobbCoding1</name>
+  </author>
+  <link href="https://github.com/CobbCoding1/99-ocaml-problems" />
+  <id>urn:rprimus:github:CobbCoding1:99-ocaml-problems</id>
+  <published>2023-10-02T22:38:05Z</published>
+  <updated>2023-10-02T22:38:05Z</updated>
+  <content type="html">
+   Solving the 99 problems in OCaml https://ocaml.org/problems
+  </content>
+ </entry>
+ <entry>
+  <title>talDoFlemis: ocaml_parser</title>
+  <author>
+   <name>talDoFlemis</name>
+  </author>
+  <link href="https://github.com/talDoFlemis/ocaml_parser" />
+  <id>urn:rprimus:github:talDoFlemis:ocaml_parser</id>
+  <published>2023-10-02T22:05:08Z</published>
+  <updated>2023-10-02T22:05:08Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>zielinsky: uni2023-2024</title>
+  <author>
+   <name>zielinsky</name>
+  </author>
+  <link href="https://github.com/zielinsky/uni2023-2024" />
+  <id>urn:rprimus:github:zielinsky:uni2023-2024</id>
+  <published>2023-10-02T20:15:07Z</published>
+  <updated>2023-10-02T20:15:07Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Esteban795: TreeViewer</title>
+  <author>
+   <name>Esteban795</name>
+  </author>
+  <link href="https://github.com/Esteban795/TreeViewer" />
+  <id>urn:rprimus:github:Esteban795:TreeViewer</id>
+  <published>2023-10-02T10:46:42Z</published>
+  <updated>2023-10-02T10:46:42Z</updated>
+  <content type="html">
+   A graphical interface to visualize tree operations, made in OCaml.
+  </content>
+ </entry>
+ <entry>
+  <title>mouloudelarram: programmation-fonctionnelle</title>
   <author>
    <name>mouloudelarram</name>
   </author>
-  <link href="https://github.com/mouloudelarram/rogrammation-fonctionnelle" />
-  <id>urn:rprimus:github:mouloudelarram:rogrammation-fonctionnelle</id>
+  <link href="https://github.com/mouloudelarram/programmation-fonctionnelle" />
+  <id>urn:rprimus:github:mouloudelarram:programmation-fonctionnelle</id>
   <published>2023-10-02T06:48:32Z</published>
   <updated>2023-10-02T06:48:32Z</updated>
   <content type="html">
@@ -132,123 +197,6 @@
   <updated>2023-10-01T09:18:21Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>VioletaSaravia: ocaml-hello-world</title>
-  <author>
-   <name>VioletaSaravia</name>
-  </author>
-  <link href="https://github.com/VioletaSaravia/ocaml-hello-world" />
-  <id>urn:rprimus:github:VioletaSaravia:ocaml-hello-world</id>
-  <published>2023-09-30T22:54:57Z</published>
-  <updated>2023-09-30T22:54:57Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Pobedinsky: web-server-derivation</title>
-  <author>
-   <name>Pobedinsky</name>
-  </author>
-  <link href="https://github.com/Pobedinsky/web-server-derivation" />
-  <id>urn:rprimus:github:Pobedinsky:web-server-derivation</id>
-  <published>2023-09-30T17:16:16Z</published>
-  <updated>2023-09-30T17:16:16Z</updated>
-  <content type="html">
-   little programme 
-  </content>
- </entry>
- <entry>
-  <title>johnyob: modd</title>
-  <author>
-   <name>johnyob</name>
-  </author>
-  <link href="https://github.com/johnyob/modd" />
-  <id>urn:rprimus:github:johnyob:modd</id>
-  <published>2023-09-30T16:45:22Z</published>
-  <updated>2023-09-30T16:45:22Z</updated>
-  <content type="html">
-   Modd is a minimal ML with modes using constraint-based type inference!
-  </content>
- </entry>
- <entry>
-  <title>swarnimcodes: 99problems-in-ocaml</title>
-  <author>
-   <name>swarnimcodes</name>
-  </author>
-  <link href="https://github.com/swarnimcodes/99problems-in-ocaml" />
-  <id>urn:rprimus:github:swarnimcodes:99problems-in-ocaml</id>
-  <published>2023-09-30T14:51:29Z</published>
-  <updated>2023-09-30T14:51:29Z</updated>
-  <content type="html">
-   99 Problems in OCaml
-  </content>
- </entry>
- <entry>
-  <title>lceragioli: SELinuxCILSemantics</title>
-  <author>
-   <name>lceragioli</name>
-  </author>
-  <link href="https://github.com/lceragioli/SELinuxCILSemantics" />
-  <id>urn:rprimus:github:lceragioli:SELinuxCILSemantics</id>
-  <published>2023-09-30T14:32:45Z</published>
-  <updated>2023-09-30T14:32:45Z</updated>
-  <content type="html">
-   An executable semantics for SELinux CIL configuration language
-  </content>
- </entry>
- <entry>
-  <title>benmandrew: typestack</title>
-  <author>
-   <name>benmandrew</name>
-  </author>
-  <link href="https://github.com/benmandrew/typestack" />
-  <id>urn:rprimus:github:benmandrew:typestack</id>
-  <published>2023-09-30T13:57:59Z</published>
-  <updated>2023-09-30T13:57:59Z</updated>
-  <content type="html">
-   Program semantics and type system for a stack-based language
-  </content>
- </entry>
- <entry>
-  <title>dmanchon: aoc-2022-ocaml</title>
-  <author>
-   <name>dmanchon</name>
-  </author>
-  <link href="https://github.com/dmanchon/aoc-2022-ocaml" />
-  <id>urn:rprimus:github:dmanchon:aoc-2022-ocaml</id>
-  <published>2023-09-30T13:01:08Z</published>
-  <updated>2023-09-30T13:01:08Z</updated>
-  <content type="html">
-   Advent of code 2022 in Ocaml
-  </content>
- </entry>
- <entry>
-  <title>AryanGodara: ocamlInterpreter</title>
-  <author>
-   <name>AryanGodara</name>
-  </author>
-  <link href="https://github.com/AryanGodara/ocamlInterpreter" />
-  <id>urn:rprimus:github:AryanGodara:ocamlInterpreter</id>
-  <published>2023-09-30T10:33:03Z</published>
-  <updated>2023-09-30T10:33:03Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>rachelpopa: ocaml-100</title>
-  <author>
-   <name>rachelpopa</name>
-  </author>
-  <link href="https://github.com/rachelpopa/ocaml-100" />
-  <id>urn:rprimus:github:rachelpopa:ocaml-100</id>
-  <published>2023-09-30T02:29:17Z</published>
-  <updated>2023-09-30T02:29:17Z</updated>
-  <content type="html">
-   Learning OCaml
   </content>
  </entry>
 </feed>
