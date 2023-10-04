@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2023-10-04T09:20:09Z</updated>
+<updated>2023-10-04T14:09:12Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>implicitcate: imp</title>
+  <author>
+   <name>implicitcate</name>
+  </author>
+  <link href="https://github.com/implicitcate/imp" />
+  <id>urn:rprimus:github:implicitcate:imp</id>
+  <published>2023-10-04T14:09:12Z</published>
+  <updated>2023-10-04T14:09:12Z</updated>
+  <content type="html">
+   IMP interpreter written in OCaml
+  </content>
+ </entry>
  <entry>
   <title>tarsinka: imp</title>
   <author>
@@ -288,6 +301,19 @@
   <updated>2023-10-02T22:05:08Z</updated>
   <content type="html">
    
+  </content>
+ </entry>
+ <entry>
+  <title>jrosain: ModuleDiffing</title>
+  <author>
+   <name>jrosain</name>
+  </author>
+  <link href="https://github.com/jrosain/ModuleDiffing" />
+  <id>urn:rprimus:github:jrosain:ModuleDiffing</id>
+  <published>2023-10-02T13:14:21Z</published>
+  <updated>2023-10-02T13:14:21Z</updated>
+  <content type="html">
+   This directory aims towards giving better error messages for OCaml modules through tree diffing algorithms.
   </content>
  </entry>
  <entry>
