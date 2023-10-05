@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2023-10-03T22:03:20Z</updated>
+<updated>2023-10-04T19:30:03Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>textlambda: scripting-examples</title>
+  <author>
+   <name>textlambda</name>
+  </author>
+  <link href="https://github.com/textlambda/scripting-examples" />
+  <id>urn:rprimus:github:textlambda:scripting-examples</id>
+  <published>2023-10-04T19:30:03Z</published>
+  <updated>2023-10-04T19:30:03Z</updated>
+  <content type="html">
+   Examples for interacting with textlambda via scripts
+  </content>
+ </entry>
+ <entry>
+  <title>Surelye: prots</title>
+  <author>
+   <name>Surelye</name>
+  </author>
+  <link href="https://github.com/Surelye/prots" />
+  <id>urn:rprimus:github:Surelye:prots</id>
+  <published>2023-10-04T17:37:09Z</published>
+  <updated>2023-10-04T17:37:09Z</updated>
+  <content type="html">
+   La sÃ©curitÃ© rÃ©side dans le fondement de la vulnÃ©rabilitÃ©.
+  </content>
+ </entry>
+ <entry>
+  <title>Talen-520: Lisp</title>
+  <author>
+   <name>Talen-520</name>
+  </author>
+  <link href="https://github.com/Talen-520/Lisp" />
+  <id>urn:rprimus:github:Talen-520:Lisp</id>
+  <published>2023-10-04T16:41:24Z</published>
+  <updated>2023-10-04T16:41:24Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>angelorenz70: lisp-problem-code</title>
+  <author>
+   <name>angelorenz70</name>
+  </author>
+  <link href="https://github.com/angelorenz70/lisp-problem-code" />
+  <id>urn:rprimus:github:angelorenz70:lisp-problem-code</id>
+  <published>2023-10-04T15:53:16Z</published>
+  <updated>2023-10-04T15:53:16Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>BennyBear452: Lisp-testing</title>
   <author>
@@ -106,162 +158,6 @@
   <updated>2023-10-03T01:16:19Z</updated>
   <content type="html">
    Temporary fork of cl-variates
-  </content>
- </entry>
- <entry>
-  <title>alejandrozf: abcl-websocket-client</title>
-  <author>
-   <name>alejandrozf</name>
-  </author>
-  <link href="https://github.com/alejandrozf/abcl-websocket-client" />
-  <id>urn:rprimus:github:alejandrozf:abcl-websocket-client</id>
-  <published>2023-10-02T21:03:04Z</published>
-  <updated>2023-10-02T21:03:04Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>alejandrozf: abcl-websocket-server</title>
-  <author>
-   <name>alejandrozf</name>
-  </author>
-  <link href="https://github.com/alejandrozf/abcl-websocket-server" />
-  <id>urn:rprimus:github:alejandrozf:abcl-websocket-server</id>
-  <published>2023-10-02T21:00:35Z</published>
-  <updated>2023-10-02T21:00:35Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>samjvsutcliffe: ham-chalk</title>
-  <author>
-   <name>samjvsutcliffe</name>
-  </author>
-  <link href="https://github.com/samjvsutcliffe/ham-chalk" />
-  <id>urn:rprimus:github:samjvsutcliffe:ham-chalk</id>
-  <published>2023-10-02T18:21:11Z</published>
-  <updated>2023-10-02T18:21:11Z</updated>
-  <content type="html">
-   Chalk cliff collapse investigation
-  </content>
- </entry>
- <entry>
-  <title>ngrishaev: LandOfLisp</title>
-  <author>
-   <name>ngrishaev</name>
-  </author>
-  <link href="https://github.com/ngrishaev/LandOfLisp" />
-  <id>urn:rprimus:github:ngrishaev:LandOfLisp</id>
-  <published>2023-10-02T17:14:08Z</published>
-  <updated>2023-10-02T17:14:08Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>qmdx00: cl-parse-bookmarks</title>
-  <author>
-   <name>qmdx00</name>
-  </author>
-  <link href="https://github.com/qmdx00/cl-parse-bookmarks" />
-  <id>urn:rprimus:github:qmdx00:cl-parse-bookmarks</id>
-  <published>2023-10-02T12:28:55Z</published>
-  <updated>2023-10-02T12:28:55Z</updated>
-  <content type="html">
-   Parse Google Chrome Bookmarks with Common Lisp.
-  </content>
- </entry>
- <entry>
-  <title>cl-swp: utilities</title>
-  <author>
-   <name>cl-swp</name>
-  </author>
-  <link href="https://github.com/cl-swp/utilities" />
-  <id>urn:rprimus:github:cl-swp:utilities</id>
-  <published>2023-10-02T11:26:30Z</published>
-  <updated>2023-10-02T11:26:30Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>cl-swp: namespace</title>
-  <author>
-   <name>cl-swp</name>
-  </author>
-  <link href="https://github.com/cl-swp/namespace" />
-  <id>urn:rprimus:github:cl-swp:namespace</id>
-  <published>2023-10-02T11:12:56Z</published>
-  <updated>2023-10-02T11:12:56Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>cl-swp: newdtree</title>
-  <author>
-   <name>cl-swp</name>
-  </author>
-  <link href="https://github.com/cl-swp/newdtree" />
-  <id>urn:rprimus:github:cl-swp:newdtree</id>
-  <published>2023-10-02T11:09:15Z</published>
-  <updated>2023-10-02T11:09:15Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>cl-swp: iri</title>
-  <author>
-   <name>cl-swp</name>
-  </author>
-  <link href="https://github.com/cl-swp/iri" />
-  <id>urn:rprimus:github:cl-swp:iri</id>
-  <published>2023-10-02T11:06:34Z</published>
-  <updated>2023-10-02T11:06:34Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>cl-swp: line-reader</title>
-  <author>
-   <name>cl-swp</name>
-  </author>
-  <link href="https://github.com/cl-swp/line-reader" />
-  <id>urn:rprimus:github:cl-swp:line-reader</id>
-  <published>2023-10-02T07:03:33Z</published>
-  <updated>2023-10-02T07:03:33Z</updated>
-  <content type="html">
-   line reader for Semantic Web Programing
-  </content>
- </entry>
- <entry>
-  <title>actions-marketplace-validations: melusina-org_make-common-lisp-program</title>
-  <author>
-   <name>actions-marketplace-validations</name>
-  </author>
-  <link href="https://github.com/actions-marketplace-validations/melusina-org_make-common-lisp-program" />
-  <id>urn:rprimus:github:actions-marketplace-validations:melusina-org_make-common-lisp-program</id>
-  <published>2023-10-02T03:29:21Z</published>
-  <updated>2023-10-02T03:29:21Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>finin: pfl</title>
-  <author>
-   <name>finin</name>
-  </author>
-  <link href="https://github.com/finin/pfl" />
-  <id>urn:rprimus:github:finin:pfl</id>
-  <published>2023-10-02T00:05:37Z</published>
-  <updated>2023-10-02T00:05:37Z</updated>
-  <content type="html">
-   Source code for the Pedagogical Fram Language from a 1986 article in AI Expert
   </content>
  </entry>
 </feed>
