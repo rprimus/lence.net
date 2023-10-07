@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2023-10-06T08:44:48Z</updated>
+<updated>2023-10-07T03:36:30Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>wwalker: build-info.cr</title>
+  <author>
+   <name>wwalker</name>
+  </author>
+  <link href="https://github.com/wwalker/build-info.cr" />
+  <id>urn:rprimus:github:wwalker:build-info.cr</id>
+  <published>2023-10-07T03:36:30Z</published>
+  <updated>2023-10-07T03:36:30Z</updated>
+  <content type="html">
+   build-info.cr
+  </content>
+ </entry>
+ <entry>
+  <title>mdwagner: lucky_hxml</title>
+  <author>
+   <name>mdwagner</name>
+  </author>
+  <link href="https://github.com/mdwagner/lucky_hxml" />
+  <id>urn:rprimus:github:mdwagner:lucky_hxml</id>
+  <published>2023-10-07T00:14:56Z</published>
+  <updated>2023-10-07T00:14:56Z</updated>
+  <content type="html">
+   Similar to LuckyHTML, but for Hyperview (https://hyperview.org/).
+  </content>
+ </entry>
+ <entry>
+  <title>serge-hulne: htmx-tests</title>
+  <author>
+   <name>serge-hulne</name>
+  </author>
+  <link href="https://github.com/serge-hulne/htmx-tests" />
+  <id>urn:rprimus:github:serge-hulne:htmx-tests</id>
+  <published>2023-10-06T10:41:25Z</published>
+  <updated>2023-10-06T10:41:25Z</updated>
+  <content type="html">
+   Testing compatibility between HTMX and WebView for Crystal
+  </content>
+ </entry>
  <entry>
   <title>dsisnero: msvc_env</title>
   <author>
@@ -15,32 +54,6 @@
   <updated>2023-10-06T08:44:48Z</updated>
   <content type="html">
    A Crystal program to run any coomand under the Visual Studio Command Prompt
-  </content>
- </entry>
- <entry>
-  <title>serge-hulne: isomorphic-crystal-examples</title>
-  <author>
-   <name>serge-hulne</name>
-  </author>
-  <link href="https://github.com/serge-hulne/isomorphic-crystal-examples" />
-  <id>urn:rprimus:github:serge-hulne:isomorphic-crystal-examples</id>
-  <published>2023-10-04T08:19:06Z</published>
-  <updated>2023-10-04T08:19:06Z</updated>
-  <content type="html">
-   Examples for isomorphic crystal
-  </content>
- </entry>
- <entry>
-  <title>serge-hulne: isomorphic-crystal-lib</title>
-  <author>
-   <name>serge-hulne</name>
-  </author>
-  <link href="https://github.com/serge-hulne/isomorphic-crystal-lib" />
-  <id>urn:rprimus:github:serge-hulne:isomorphic-crystal-lib</id>
-  <published>2023-10-04T08:03:02Z</published>
-  <updated>2023-10-04T08:03:02Z</updated>
-  <content type="html">
-   GUI lib for Crystal-lang allowing for developing simple desktop apps using Crystal only. Based on Blueprint, Webview, Pico CSS, HTMX and Crystal lang.
   </content>
  </entry>
 </feed>
