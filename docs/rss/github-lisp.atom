@@ -2,8 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2023-10-07T02:56:59Z</updated>
+<updated>2023-10-08T05:43:22Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>wasuken: cl-top</title>
+  <author>
+   <name>wasuken</name>
+  </author>
+  <link href="https://github.com/wasuken/cl-top" />
+  <id>urn:rprimus:github:wasuken:cl-top</id>
+  <published>2023-10-08T05:43:22Z</published>
+  <updated>2023-10-08T05:43:22Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>nklein: moongate</title>
+  <author>
+   <name>nklein</name>
+  </author>
+  <link href="https://github.com/nklein/moongate" />
+  <id>urn:rprimus:github:nklein:moongate</id>
+  <published>2023-10-08T04:59:28Z</published>
+  <updated>2023-10-08T04:59:28Z</updated>
+  <content type="html">
+   Lisp code to create laser-cutter or CNC shapes for a moon gate
+  </content>
+ </entry>
+ <entry>
+  <title>njm64: aoc2020</title>
+  <author>
+   <name>njm64</name>
+  </author>
+  <link href="https://github.com/njm64/aoc2020" />
+  <id>urn:rprimus:github:njm64:aoc2020</id>
+  <published>2023-10-08T01:00:55Z</published>
+  <updated>2023-10-08T01:00:55Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>vbuaraujo: mandelbrot</title>
+  <author>
+   <name>vbuaraujo</name>
+  </author>
+  <link href="https://github.com/vbuaraujo/mandelbrot" />
+  <id>urn:rprimus:github:vbuaraujo:mandelbrot</id>
+  <published>2023-10-08T00:26:59Z</published>
+  <updated>2023-10-08T00:26:59Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>felipebubu: pdwa5-rest-api</title>
+  <author>
+   <name>felipebubu</name>
+  </author>
+  <link href="https://github.com/felipebubu/pdwa5-rest-api" />
+  <id>urn:rprimus:github:felipebubu:pdwa5-rest-api</id>
+  <published>2023-10-07T20:16:38Z</published>
+  <updated>2023-10-07T20:16:38Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>svetlyak40wt: tiny-routes-realworld-example-app</title>
+  <author>
+   <name>svetlyak40wt</name>
+  </author>
+  <link href="https://github.com/svetlyak40wt/tiny-routes-realworld-example-app" />
+  <id>urn:rprimus:github:svetlyak40wt:tiny-routes-realworld-example-app</id>
+  <published>2023-10-07T13:10:10Z</published>
+  <updated>2023-10-07T13:10:10Z</updated>
+  <content type="html">
+   Patched version of jeko2000/tiny-routes-realworld-example-app to make it work as a part of 40ants/example-clack-app
+  </content>
+ </entry>
+ <entry>
+  <title>nthien2512: ws</title>
+  <author>
+   <name>nthien2512</name>
+  </author>
+  <link href="https://github.com/nthien2512/ws" />
+  <id>urn:rprimus:github:nthien2512:ws</id>
+  <published>2023-10-07T12:13:19Z</published>
+  <updated>2023-10-07T12:13:19Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>s-expressionists: Maclina</title>
   <author>
@@ -132,123 +223,6 @@
   <updated>2023-10-06T14:19:44Z</updated>
   <content type="html">
    A library implementing a simple deprecation mechanism
-  </content>
- </entry>
- <entry>
-  <title>404Awesome: AutoCAD_Plugins</title>
-  <author>
-   <name>404Awesome</name>
-  </author>
-  <link href="https://github.com/404Awesome/AutoCAD_Plugins" />
-  <id>urn:rprimus:github:404Awesome:AutoCAD_Plugins</id>
-  <published>2023-10-05T23:50:46Z</published>
-  <updated>2023-10-05T23:50:46Z</updated>
-  <content type="html">
-   AutoCADçèªç¨æä»¶ï¼
-  </content>
- </entry>
- <entry>
-  <title>aartaka: lisp-config</title>
-  <author>
-   <name>aartaka</name>
-  </author>
-  <link href="https://github.com/aartaka/lisp-config" />
-  <id>urn:rprimus:github:aartaka:lisp-config</id>
-  <published>2023-10-05T21:13:44Z</published>
-  <updated>2023-10-05T21:13:44Z</updated>
-  <content type="html">
-   Shared config for all my Lisp REPLs.
-  </content>
- </entry>
- <entry>
-  <title>compufox: media-bot</title>
-  <author>
-   <name>compufox</name>
-  </author>
-  <link href="https://github.com/compufox/media-bot" />
-  <id>urn:rprimus:github:compufox:media-bot</id>
-  <published>2023-10-05T16:16:36Z</published>
-  <updated>2023-10-05T16:16:36Z</updated>
-  <content type="html">
-   mastodon social media bot that posts specified media at specified times -- mirror of https://dev.focks.website/focks/media-bot
-  </content>
- </entry>
- <entry>
-  <title>genos: razor</title>
-  <author>
-   <name>genos</name>
-  </author>
-  <link href="https://github.com/genos/razor" />
-  <id>urn:rprimus:github:genos:razor</id>
-  <published>2023-10-05T15:31:15Z</published>
-  <updated>2023-10-05T15:31:15Z</updated>
-  <content type="html">
-   Using Hutton&#039;s Razor to play with different programming languages and paradigms.
-  </content>
- </entry>
- <entry>
-  <title>hiran-hiran: land-of-lisp</title>
-  <author>
-   <name>hiran-hiran</name>
-  </author>
-  <link href="https://github.com/hiran-hiran/land-of-lisp" />
-  <id>urn:rprimus:github:hiran-hiran:land-of-lisp</id>
-  <published>2023-10-05T14:32:42Z</published>
-  <updated>2023-10-05T14:32:42Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>pierceglenn12345: cleaf</title>
-  <author>
-   <name>pierceglenn12345</name>
-  </author>
-  <link href="https://github.com/pierceglenn12345/cleaf" />
-  <id>urn:rprimus:github:pierceglenn12345:cleaf</id>
-  <published>2023-10-05T13:48:39Z</published>
-  <updated>2023-10-05T13:48:39Z</updated>
-  <content type="html">
-   Common Lisp Economics And Finance
-  </content>
- </entry>
- <entry>
-  <title>PhNeum: Buttermilk</title>
-  <author>
-   <name>PhNeum</name>
-  </author>
-  <link href="https://github.com/PhNeum/Buttermilk" />
-  <id>urn:rprimus:github:PhNeum:Buttermilk</id>
-  <published>2023-10-05T13:43:20Z</published>
-  <updated>2023-10-05T13:43:20Z</updated>
-  <content type="html">
-   Package for algorithmic composition based on Common Lisp and Slippery Chicken.
-  </content>
- </entry>
- <entry>
-  <title>notmgsk: sbcl-librarian-gc-error</title>
-  <author>
-   <name>notmgsk</name>
-  </author>
-  <link href="https://github.com/notmgsk/sbcl-librarian-gc-error" />
-  <id>urn:rprimus:github:notmgsk:sbcl-librarian-gc-error</id>
-  <published>2023-10-05T12:53:29Z</published>
-  <updated>2023-10-05T12:53:29Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>dbmcclain: ForthRPL</title>
-  <author>
-   <name>dbmcclain</name>
-  </author>
-  <link href="https://github.com/dbmcclain/ForthRPL" />
-  <id>urn:rprimus:github:dbmcclain:ForthRPL</id>
-  <published>2023-10-05T12:00:36Z</published>
-  <updated>2023-10-05T12:00:36Z</updated>
-  <content type="html">
-   A Forth (RPL) System like you have never seen... 
   </content>
  </entry>
 </feed>
