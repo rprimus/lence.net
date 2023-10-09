@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2023-10-08T04:35:41Z</updated>
+<updated>2023-10-08T18:20:55Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>sbsoftware: stimulus.cr</title>
+  <author>
+   <name>sbsoftware</name>
+  </author>
+  <link href="https://github.com/sbsoftware/stimulus.cr" />
+  <id>urn:rprimus:github:sbsoftware:stimulus.cr</id>
+  <published>2023-10-08T18:20:55Z</published>
+  <updated>2023-10-08T18:20:55Z</updated>
+  <content type="html">
+   Write Stimulus controllers in Crystal
+  </content>
+ </entry>
+ <entry>
+  <title>Srijan-Sengupta: invidious</title>
+  <author>
+   <name>Srijan-Sengupta</name>
+  </author>
+  <link href="https://github.com/Srijan-Sengupta/invidious" />
+  <id>urn:rprimus:github:Srijan-Sengupta:invidious</id>
+  <published>2023-10-08T13:30:38Z</published>
+  <updated>2023-10-08T13:30:38Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>nobodywasishere: berry.cr</title>
+  <author>
+   <name>nobodywasishere</name>
+  </author>
+  <link href="https://github.com/nobodywasishere/berry.cr" />
+  <id>urn:rprimus:github:nobodywasishere:berry.cr</id>
+  <published>2023-10-08T10:32:05Z</published>
+  <updated>2023-10-08T10:32:05Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>spider-gazelle: gpio.cr</title>
   <author>
@@ -67,32 +106,6 @@
   <updated>2023-10-07T00:14:56Z</updated>
   <content type="html">
    Similar to LuckyHTML, but for Hyperview (https://hyperview.org/).
-  </content>
- </entry>
- <entry>
-  <title>serge-hulne: htmx-tests</title>
-  <author>
-   <name>serge-hulne</name>
-  </author>
-  <link href="https://github.com/serge-hulne/htmx-tests" />
-  <id>urn:rprimus:github:serge-hulne:htmx-tests</id>
-  <published>2023-10-06T10:41:25Z</published>
-  <updated>2023-10-06T10:41:25Z</updated>
-  <content type="html">
-   Testing compatibility between HTMX and WebView for Crystal
-  </content>
- </entry>
- <entry>
-  <title>dsisnero: msvc_env</title>
-  <author>
-   <name>dsisnero</name>
-  </author>
-  <link href="https://github.com/dsisnero/msvc_env" />
-  <id>urn:rprimus:github:dsisnero:msvc_env</id>
-  <published>2023-10-06T08:44:48Z</published>
-  <updated>2023-10-06T08:44:48Z</updated>
-  <content type="html">
-   A Crystal program to run any coomand under the Visual Studio Command Prompt
   </content>
  </entry>
 </feed>
