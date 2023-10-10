@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-racket.atom"/>
 <id>urn:rprimus:github:newracketrepos</id>
-<updated>2023-10-09T08:47:37Z</updated>
+<updated>2023-10-10T01:45:48Z</updated>
 <title type='text'>New GitHub Racket Repos</title>
+ <entry>
+  <title>zamora: literate-drag-and-drop</title>
+  <author>
+   <name>zamora</name>
+  </author>
+  <link href="https://github.com/zamora/literate-drag-and-drop" />
+  <id>urn:rprimus:github:zamora:literate-drag-and-drop</id>
+  <published>2023-10-10T01:45:48Z</published>
+  <updated>2023-10-10T01:45:48Z</updated>
+  <content type="html">
+   Literate Drag and Drop Using the Racket GUI
+  </content>
+ </entry>
+ <entry>
+  <title>FrankCaglianone: Homer-Rush</title>
+  <author>
+   <name>FrankCaglianone</name>
+  </author>
+  <link href="https://github.com/FrankCaglianone/Homer-Rush" />
+  <id>urn:rprimus:github:FrankCaglianone:Homer-Rush</id>
+  <published>2023-10-09T15:48:13Z</published>
+  <updated>2023-10-09T15:48:13Z</updated>
+  <content type="html">
+   Mario Bros inspired game but with Homer Simpson in DrRacket
+  </content>
+ </entry>
  <entry>
   <title>jsvoid: the-little-learner</title>
   <author>
@@ -66,7 +92,7 @@
   <published>2023-10-08T20:28:02Z</published>
   <updated>2023-10-08T20:28:02Z</updated>
   <content type="html">
-   A social network created using scheme. 
+   A social network created using scheme. SImilar to my FriendReccomendation written in python.
   </content>
  </entry>
  <entry>
@@ -145,32 +171,6 @@
   <updated>2023-10-08T04:42:51Z</updated>
   <content type="html">
    Course archive for CPSC 110 at UBC.
-  </content>
- </entry>
- <entry>
-  <title>isifire: Scheme</title>
-  <author>
-   <name>isifire</name>
-  </author>
-  <link href="https://github.com/isifire/Scheme" />
-  <id>urn:rprimus:github:isifire:Scheme</id>
-  <published>2023-10-07T22:14:24Z</published>
-  <updated>2023-10-07T22:14:24Z</updated>
-  <content type="html">
-   Ejercicios de programaciÃ³n funcional en el lenguaje Scheme para la asignatura de TecnologÃ­as y Paradigmas de la ProgramaciÃ³n
-  </content>
- </entry>
- <entry>
-  <title>sunfora: sicp</title>
-  <author>
-   <name>sunfora</name>
-  </author>
-  <link href="https://github.com/sunfora/sicp" />
-  <id>urn:rprimus:github:sunfora:sicp</id>
-  <published>2023-10-07T08:45:03Z</published>
-  <updated>2023-10-07T08:45:03Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
