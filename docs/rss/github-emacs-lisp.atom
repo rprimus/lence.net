@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2023-10-15T04:02:59Z</updated>
+<updated>2023-10-15T08:29:58Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>DucTuLeAnh: .emacs.d</title>
+  <author>
+   <name>DucTuLeAnh</name>
+  </author>
+  <link href="https://github.com/DucTuLeAnh/.emacs.d" />
+  <id>urn:rprimus:github:DucTuLeAnh:.emacs.d</id>
+  <published>2023-10-15T08:29:58Z</published>
+  <updated>2023-10-15T08:29:58Z</updated>
+  <content type="html">
+   My current emacs configuration in use
+  </content>
+ </entry>
+ <entry>
+  <title>vmiheer: mlir-mode</title>
+  <author>
+   <name>vmiheer</name>
+  </author>
+  <link href="https://github.com/vmiheer/mlir-mode" />
+  <id>urn:rprimus:github:vmiheer:mlir-mode</id>
+  <published>2023-10-15T05:56:41Z</published>
+  <updated>2023-10-15T05:56:41Z</updated>
+  <content type="html">
+   Just a mirror of mlir/llvm mode from llvm repo
+  </content>
+ </entry>
+ <entry>
+  <title>mkleehammer: surround</title>
+  <author>
+   <name>mkleehammer</name>
+  </author>
+  <link href="https://github.com/mkleehammer/surround" />
+  <id>urn:rprimus:github:mkleehammer:surround</id>
+  <published>2023-10-15T05:10:43Z</published>
+  <updated>2023-10-15T05:10:43Z</updated>
+  <content type="html">
+   An Emacs package for inserting, changing, and, deleting surrounding pairs of quotes, braces, etc.
+  </content>
+ </entry>
+ <entry>
+  <title>mkleehammer: smart-jump-mode</title>
+  <author>
+   <name>mkleehammer</name>
+  </author>
+  <link href="https://github.com/mkleehammer/smart-jump-mode" />
+  <id>urn:rprimus:github:mkleehammer:smart-jump-mode</id>
+  <published>2023-10-15T04:45:18Z</published>
+  <updated>2023-10-15T04:45:18Z</updated>
+  <content type="html">
+   An emacs minor mode for jumping over closing braces, parentheses, and quotes.
+  </content>
+ </entry>
  <entry>
   <title>thread314: shortcut-trainer</title>
   <author>
@@ -161,16 +213,16 @@
   </content>
  </entry>
  <entry>
-  <title>akirak: bfmt.el</title>
+  <title>akirak: nix-fmt.el</title>
   <author>
    <name>akirak</name>
   </author>
-  <link href="https://github.com/akirak/bfmt.el" />
-  <id>urn:rprimus:github:akirak:bfmt.el</id>
+  <link href="https://github.com/akirak/nix-fmt.el" />
+  <id>urn:rprimus:github:akirak:nix-fmt.el</id>
   <published>2023-10-14T04:25:32Z</published>
   <updated>2023-10-14T04:25:32Z</updated>
   <content type="html">
-   (WIP) A formatter frontend for Emacs
+   (WIP) An Emacs frontend to `nix fmt` command
   </content>
  </entry>
  <entry>
