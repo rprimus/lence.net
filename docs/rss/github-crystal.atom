@@ -2,15 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2023-10-16T06:25:09Z</updated>
+<updated>2023-10-16T12:58:47Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
  <entry>
-  <title>kebasyaty: cryode</title>
+  <title>spider-gazelle: SPAKE2_plus</title>
+  <author>
+   <name>spider-gazelle</name>
+  </author>
+  <link href="https://github.com/spider-gazelle/SPAKE2_plus" />
+  <id>urn:rprimus:github:spider-gazelle:SPAKE2_plus</id>
+  <published>2023-10-16T12:58:47Z</published>
+  <updated>2023-10-16T12:58:47Z</updated>
+  <content type="html">
+   a crystal lang implementation of  SPAKE2+, a Password Authenticated Key Exchange (PAKE) protocol
+  </content>
+ </entry>
+ <entry>
+  <title>kebasyaty: cryod</title>
   <author>
    <name>kebasyaty</name>
   </author>
-  <link href="https://github.com/kebasyaty/cryode" />
-  <id>urn:rprimus:github:kebasyaty:cryode</id>
+  <link href="https://github.com/kebasyaty/cryod" />
+  <id>urn:rprimus:github:kebasyaty:cryod</id>
   <published>2023-10-16T06:25:09Z</published>
   <updated>2023-10-16T06:25:09Z</updated>
   <content type="html">
@@ -28,58 +41,6 @@
   <updated>2023-10-15T05:30:26Z</updated>
   <content type="html">
    A lightweight xlsx library for Crystal.
-  </content>
- </entry>
- <entry>
-  <title>disalazarg: mocr</title>
-  <author>
-   <name>disalazarg</name>
-  </author>
-  <link href="https://github.com/disalazarg/mocr" />
-  <id>urn:rprimus:github:disalazarg:mocr</id>
-  <published>2023-10-14T14:29:42Z</published>
-  <updated>2023-10-14T14:29:42Z</updated>
-  <content type="html">
-   Crystal service for mocking backend microservices based on a YAML configuration file.
-  </content>
- </entry>
- <entry>
-  <title>serge-hulne: ic-tests</title>
-  <author>
-   <name>serge-hulne</name>
-  </author>
-  <link href="https://github.com/serge-hulne/ic-tests" />
-  <id>urn:rprimus:github:serge-hulne:ic-tests</id>
-  <published>2023-10-14T14:06:54Z</published>
-  <updated>2023-10-14T14:06:54Z</updated>
-  <content type="html">
-   IC-tests
-  </content>
- </entry>
- <entry>
-  <title>satler-git: RayTin1w.cr</title>
-  <author>
-   <name>satler-git</name>
-  </author>
-  <link href="https://github.com/satler-git/RayTin1w.cr" />
-  <id>urn:rprimus:github:satler-git:RayTin1w.cr</id>
-  <published>2023-10-14T04:14:35Z</published>
-  <updated>2023-10-14T04:14:35Z</updated>
-  <content type="html">
-   Ray Tracing in One Weekend with crystal lang. (for learnning)
-  </content>
- </entry>
- <entry>
-  <title>iaeluk: ruby-crystal-jukebox</title>
-  <author>
-   <name>iaeluk</name>
-  </author>
-  <link href="https://github.com/iaeluk/ruby-crystal-jukebox" />
-  <id>urn:rprimus:github:iaeluk:ruby-crystal-jukebox</id>
-  <published>2023-10-14T03:10:21Z</published>
-  <updated>2023-10-14T03:10:21Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
