@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2023-10-18T03:00:41Z</updated>
+<updated>2023-10-19T09:29:29Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>garlic0x1: hiccl</title>
+  <author>
+   <name>garlic0x1</name>
+  </author>
+  <link href="https://github.com/garlic0x1/hiccl" />
+  <id>urn:rprimus:github:garlic0x1:hiccl</id>
+  <published>2023-10-19T09:29:29Z</published>
+  <updated>2023-10-19T09:29:29Z</updated>
+  <content type="html">
+   Hiccup HTML generator for Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>lockie: ecs-tutorial-1</title>
+  <author>
+   <name>lockie</name>
+  </author>
+  <link href="https://github.com/lockie/ecs-tutorial-1" />
+  <id>urn:rprimus:github:lockie:ecs-tutorial-1</id>
+  <published>2023-10-19T09:12:23Z</published>
+  <updated>2023-10-19T09:12:23Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>art3xias23: clisp-ltk-tutorials</title>
+  <author>
+   <name>art3xias23</name>
+  </author>
+  <link href="https://github.com/art3xias23/clisp-ltk-tutorials" />
+  <id>urn:rprimus:github:art3xias23:clisp-ltk-tutorials</id>
+  <published>2023-10-18T16:08:30Z</published>
+  <updated>2023-10-18T16:08:30Z</updated>
+  <content type="html">
+   Me going through the LTK (LISP TK) Interface to the TK GUI Toolkit Tutorial. Found here. http://www.peter-herth.de/ltk/ltkdoc/node5.html
+  </content>
+ </entry>
+ <entry>
+  <title>mahmoodsheikh36: polynomial-regression-lisp</title>
+  <author>
+   <name>mahmoodsheikh36</name>
+  </author>
+  <link href="https://github.com/mahmoodsheikh36/polynomial-regression-lisp" />
+  <id>urn:rprimus:github:mahmoodsheikh36:polynomial-regression-lisp</id>
+  <published>2023-10-18T14:25:56Z</published>
+  <updated>2023-10-18T14:25:56Z</updated>
+  <content type="html">
+   polynomial regression from scratch
+  </content>
+ </entry>
+ <entry>
+  <title>0xsuk: flow</title>
+  <author>
+   <name>0xsuk</name>
+  </author>
+  <link href="https://github.com/0xsuk/flow" />
+  <id>urn:rprimus:github:0xsuk:flow</id>
+  <published>2023-10-18T11:40:37Z</published>
+  <updated>2023-10-18T11:40:37Z</updated>
+  <content type="html">
+   Common Lisp Threading Macro
+  </content>
+ </entry>
  <entry>
   <title>s-expressionists: Extrinsicl</title>
   <author>
@@ -119,71 +184,6 @@
   <updated>2023-10-17T01:45:28Z</updated>
   <content type="html">
    C-Drive &amp; Others for DOSBox
-  </content>
- </entry>
- <entry>
-  <title>Gleefre: captures</title>
-  <author>
-   <name>Gleefre</name>
-  </author>
-  <link href="https://github.com/Gleefre/captures" />
-  <id>urn:rprimus:github:Gleefre:captures</id>
-  <published>2023-10-16T21:50:57Z</published>
-  <updated>2023-10-16T21:50:57Z</updated>
-  <content type="html">
-   Captures are functions that can access the lexical environment they are called in.
-  </content>
- </entry>
- <entry>
-  <title>OrganicProgramming: csv</title>
-  <author>
-   <name>OrganicProgramming</name>
-  </author>
-  <link href="https://github.com/OrganicProgramming/csv" />
-  <id>urn:rprimus:github:OrganicProgramming:csv</id>
-  <published>2023-10-16T18:47:31Z</published>
-  <updated>2023-10-16T18:47:31Z</updated>
-  <content type="html">
-   Small library to read csv files based on the headers
-  </content>
- </entry>
- <entry>
-  <title>lxcode: PARRY</title>
-  <author>
-   <name>lxcode</name>
-  </author>
-  <link href="https://github.com/lxcode/PARRY" />
-  <id>urn:rprimus:github:lxcode:PARRY</id>
-  <published>2023-10-16T13:59:54Z</published>
-  <updated>2023-10-16T13:59:54Z</updated>
-  <content type="html">
-   Source code of the PARRY chatbot
-  </content>
- </entry>
- <entry>
-  <title>jason-chandler: cl-threejs-valtan</title>
-  <author>
-   <name>jason-chandler</name>
-  </author>
-  <link href="https://github.com/jason-chandler/cl-threejs-valtan" />
-  <id>urn:rprimus:github:jason-chandler:cl-threejs-valtan</id>
-  <published>2023-10-16T05:33:53Z</published>
-  <updated>2023-10-16T05:33:53Z</updated>
-  <content type="html">
-   Thin wrapper around three.js for cxxxr&#039;s valtan Common Lisp to JavaScript compiler
-  </content>
- </entry>
- <entry>
-  <title>CyRusyyx: LISP</title>
-  <author>
-   <name>CyRusyyx</name>
-  </author>
-  <link href="https://github.com/CyRusyyx/LISP" />
-  <id>urn:rprimus:github:CyRusyyx:LISP</id>
-  <published>2023-10-16T03:26:17Z</published>
-  <updated>2023-10-16T03:26:17Z</updated>
-  <content type="html">
-   For lisp learning.
   </content>
  </entry>
 </feed>
