@@ -2,8 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2023-10-19T07:48:05Z</updated>
+<updated>2023-10-20T09:06:48Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>positron-solutions: erk-basic</title>
+  <author>
+   <name>positron-solutions</name>
+  </author>
+  <link href="https://github.com/positron-solutions/erk-basic" />
+  <id>urn:rprimus:github:positron-solutions:erk-basic</id>
+  <published>2023-10-20T09:06:48Z</published>
+  <updated>2023-10-20T09:06:48Z</updated>
+  <content type="html">
+   A very basic example using the Elisp Repo Kit project structure
+  </content>
+ </entry>
+ <entry>
+  <title>blindFS: doom-private</title>
+  <author>
+   <name>blindFS</name>
+  </author>
+  <link href="https://github.com/blindFS/doom-private" />
+  <id>urn:rprimus:github:blindFS:doom-private</id>
+  <published>2023-10-20T03:00:52Z</published>
+  <updated>2023-10-20T03:00:52Z</updated>
+  <content type="html">
+   private config layers for doom emacs
+  </content>
+ </entry>
+ <entry>
+  <title>mkleehammer: mark-yank</title>
+  <author>
+   <name>mkleehammer</name>
+  </author>
+  <link href="https://github.com/mkleehammer/mark-yank" />
+  <id>urn:rprimus:github:mkleehammer:mark-yank</id>
+  <published>2023-10-19T22:04:00Z</published>
+  <updated>2023-10-19T22:04:00Z</updated>
+  <content type="html">
+   Emacs minor mode to select the last paste
+  </content>
+ </entry>
+ <entry>
+  <title>jfrogren: .emacs.d</title>
+  <author>
+   <name>jfrogren</name>
+  </author>
+  <link href="https://github.com/jfrogren/.emacs.d" />
+  <id>urn:rprimus:github:jfrogren:.emacs.d</id>
+  <published>2023-10-19T18:43:13Z</published>
+  <updated>2023-10-19T18:43:13Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>prerit714: .doom.d</title>
+  <author>
+   <name>prerit714</name>
+  </author>
+  <link href="https://github.com/prerit714/.doom.d" />
+  <id>urn:rprimus:github:prerit714:.doom.d</id>
+  <published>2023-10-19T15:59:41Z</published>
+  <updated>2023-10-19T15:59:41Z</updated>
+  <content type="html">
+   My doom emacs config
+  </content>
+ </entry>
+ <entry>
+  <title>wi11dey: palantir-java-style</title>
+  <author>
+   <name>wi11dey</name>
+  </author>
+  <link href="https://github.com/wi11dey/palantir-java-style" />
+  <id>urn:rprimus:github:wi11dey:palantir-java-style</id>
+  <published>2023-10-19T13:58:45Z</published>
+  <updated>2023-10-19T13:58:45Z</updated>
+  <content type="html">
+   Emacs indentation style for palantir-java-format
+  </content>
+ </entry>
+ <entry>
+  <title>rodrigueslazaro: dotfiles</title>
+  <author>
+   <name>rodrigueslazaro</name>
+  </author>
+  <link href="https://github.com/rodrigueslazaro/dotfiles" />
+  <id>urn:rprimus:github:rodrigueslazaro:dotfiles</id>
+  <published>2023-10-19T11:33:41Z</published>
+  <updated>2023-10-19T11:33:41Z</updated>
+  <content type="html">
+   Dotfiles for GNU/Linux stuff
+  </content>
+ </entry>
  <entry>
   <title>MatchaEggTart: emacs</title>
   <author>
@@ -130,6 +221,19 @@
   <id>urn:rprimus:github:tuxikus-1337:dotfiles</id>
   <published>2023-10-18T16:53:03Z</published>
   <updated>2023-10-18T16:53:03Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>yhiraki: org-link-youtube.el</title>
+  <author>
+   <name>yhiraki</name>
+  </author>
+  <link href="https://github.com/yhiraki/org-link-youtube.el" />
+  <id>urn:rprimus:github:yhiraki:org-link-youtube.el</id>
+  <published>2023-10-18T15:05:51Z</published>
+  <updated>2023-10-18T15:05:51Z</updated>
   <content type="html">
    
   </content>
@@ -288,175 +392,6 @@
   <updated>2023-10-18T00:13:54Z</updated>
   <content type="html">
    My dotfiles and home manager scripts
-  </content>
- </entry>
- <entry>
-  <title>oh2yo: EmacsConfig</title>
-  <author>
-   <name>oh2yo</name>
-  </author>
-  <link href="https://github.com/oh2yo/EmacsConfig" />
-  <id>urn:rprimus:github:oh2yo:EmacsConfig</id>
-  <published>2023-10-17T22:26:13Z</published>
-  <updated>2023-10-17T22:26:13Z</updated>
-  <content type="html">
-   My Emacs Configuration
-  </content>
- </entry>
- <entry>
-  <title>acnimda: nix-dotfiles</title>
-  <author>
-   <name>acnimda</name>
-  </author>
-  <link href="https://github.com/acnimda/nix-dotfiles" />
-  <id>urn:rprimus:github:acnimda:nix-dotfiles</id>
-  <published>2023-10-17T14:22:02Z</published>
-  <updated>2023-10-17T14:22:02Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>willthefrog: llvm-emacs</title>
-  <author>
-   <name>willthefrog</name>
-  </author>
-  <link href="https://github.com/willthefrog/llvm-emacs" />
-  <id>urn:rprimus:github:willthefrog:llvm-emacs</id>
-  <published>2023-10-17T13:47:22Z</published>
-  <updated>2023-10-17T13:47:22Z</updated>
-  <content type="html">
-   split the llvm related emacs modes into a separate repo for package managers
-  </content>
- </entry>
- <entry>
-  <title>TomFryersMidsummer: Doom-Config</title>
-  <author>
-   <name>TomFryersMidsummer</name>
-  </author>
-  <link href="https://github.com/TomFryersMidsummer/Doom-Config" />
-  <id>urn:rprimus:github:TomFryersMidsummer:Doom-Config</id>
-  <published>2023-10-17T13:11:18Z</published>
-  <updated>2023-10-17T13:11:18Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>argrubbs: emacs-config</title>
-  <author>
-   <name>argrubbs</name>
-  </author>
-  <link href="https://github.com/argrubbs/emacs-config" />
-  <id>urn:rprimus:github:argrubbs:emacs-config</id>
-  <published>2023-10-17T12:45:06Z</published>
-  <updated>2023-10-17T12:45:06Z</updated>
-  <content type="html">
-   Emacs Configuration
-  </content>
- </entry>
- <entry>
-  <title>lizqwerscott: rsync-project-mode</title>
-  <author>
-   <name>lizqwerscott</name>
-  </author>
-  <link href="https://github.com/lizqwerscott/rsync-project-mode" />
-  <id>urn:rprimus:github:lizqwerscott:rsync-project-mode</id>
-  <published>2023-10-17T10:58:12Z</published>
-  <updated>2023-10-17T10:58:12Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>F18: dotfiles</title>
-  <author>
-   <name>F18</name>
-  </author>
-  <link href="https://github.com/F18/dotfiles" />
-  <id>urn:rprimus:github:F18:dotfiles</id>
-  <published>2023-10-17T10:18:49Z</published>
-  <updated>2023-10-17T10:18:49Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>BonomiC: doom_config</title>
-  <author>
-   <name>BonomiC</name>
-  </author>
-  <link href="https://github.com/BonomiC/doom_config" />
-  <id>urn:rprimus:github:BonomiC:doom_config</id>
-  <published>2023-10-17T09:12:36Z</published>
-  <updated>2023-10-17T09:12:36Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>KarimAziev: gptel-extra</title>
-  <author>
-   <name>KarimAziev</name>
-  </author>
-  <link href="https://github.com/KarimAziev/gptel-extra" />
-  <id>urn:rprimus:github:KarimAziev:gptel-extra</id>
-  <published>2023-10-17T09:11:55Z</published>
-  <updated>2023-10-17T09:11:55Z</updated>
-  <content type="html">
-   Enhancers for Gptel ChatGPT client
-  </content>
- </entry>
- <entry>
-  <title>timlucmiptev: emacs-init-el</title>
-  <author>
-   <name>timlucmiptev</name>
-  </author>
-  <link href="https://github.com/timlucmiptev/emacs-init-el" />
-  <id>urn:rprimus:github:timlucmiptev:emacs-init-el</id>
-  <published>2023-10-17T07:35:59Z</published>
-  <updated>2023-10-17T07:35:59Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>kazuakiishiguro: nixpkgs</title>
-  <author>
-   <name>kazuakiishiguro</name>
-  </author>
-  <link href="https://github.com/kazuakiishiguro/nixpkgs" />
-  <id>urn:rprimus:github:kazuakiishiguro:nixpkgs</id>
-  <published>2023-10-17T06:04:22Z</published>
-  <updated>2023-10-17T06:04:22Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>XianmingLuo: emacs4beginners</title>
-  <author>
-   <name>XianmingLuo</name>
-  </author>
-  <link href="https://github.com/XianmingLuo/emacs4beginners" />
-  <id>urn:rprimus:github:XianmingLuo:emacs4beginners</id>
-  <published>2023-10-17T02:40:49Z</published>
-  <updated>2023-10-17T02:40:49Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>kborling: angular-mode</title>
-  <author>
-   <name>kborling</name>
-  </author>
-  <link href="https://github.com/kborling/angular-mode" />
-  <id>urn:rprimus:github:kborling:angular-mode</id>
-  <published>2023-10-17T00:47:41Z</published>
-  <updated>2023-10-17T00:47:41Z</updated>
-  <content type="html">
-   Emacs minor-mode for Angular that offers an interactive API for Angular CLI commands.
   </content>
  </entry>
 </feed>

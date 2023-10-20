@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2023-10-19T09:29:29Z</updated>
+<updated>2023-10-20T06:36:09Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>chuongCode: Lisp-Functional-Programming</title>
+  <author>
+   <name>chuongCode</name>
+  </author>
+  <link href="https://github.com/chuongCode/Lisp-Functional-Programming" />
+  <id>urn:rprimus:github:chuongCode:Lisp-Functional-Programming</id>
+  <published>2023-10-20T06:36:09Z</published>
+  <updated>2023-10-20T06:36:09Z</updated>
+  <content type="html">
+   A project based on Alan Turingâs formalization of âcomputable functionsâ using Turing machines. This project is meant to be an introduction to the original functional programming language: Lisp.
+  </content>
+ </entry>
+ <entry>
+  <title>intoxx: lss</title>
+  <author>
+   <name>intoxx</name>
+  </author>
+  <link href="https://github.com/intoxx/lss" />
+  <id>urn:rprimus:github:intoxx:lss</id>
+  <published>2023-10-20T03:24:53Z</published>
+  <updated>2023-10-20T03:24:53Z</updated>
+  <content type="html">
+   Lisp Style Sheets
+  </content>
+ </entry>
+ <entry>
+  <title>Gleefre: chrono-labyrinth</title>
+  <author>
+   <name>Gleefre</name>
+  </author>
+  <link href="https://github.com/Gleefre/chrono-labyrinth" />
+  <id>urn:rprimus:github:Gleefre:chrono-labyrinth</id>
+  <published>2023-10-20T02:29:08Z</published>
+  <updated>2023-10-20T02:29:08Z</updated>
+  <content type="html">
+   For Autumn Lisp Game Jam 2023
+  </content>
+ </entry>
+ <entry>
+  <title>D5n9sMatrix: guile-lcode</title>
+  <author>
+   <name>D5n9sMatrix</name>
+  </author>
+  <link href="https://github.com/D5n9sMatrix/guile-lcode" />
+  <id>urn:rprimus:github:D5n9sMatrix:guile-lcode</id>
+  <published>2023-10-19T22:33:57Z</published>
+  <updated>2023-10-19T22:33:57Z</updated>
+  <content type="html">
+   Symbol Type
+  </content>
+ </entry>
+ <entry>
+  <title>lockie: ecs-tutorial-1</title>
+  <author>
+   <name>lockie</name>
+  </author>
+  <link href="https://github.com/lockie/ecs-tutorial-1" />
+  <id>urn:rprimus:github:lockie:ecs-tutorial-1</id>
+  <published>2023-10-19T11:17:06Z</published>
+  <updated>2023-10-19T11:17:06Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>garlic0x1: hiccl</title>
   <author>
@@ -18,14 +83,14 @@
   </content>
  </entry>
  <entry>
-  <title>lockie: ecs-tutorial-1</title>
+  <title>branson8815: ML-project</title>
   <author>
-   <name>lockie</name>
+   <name>branson8815</name>
   </author>
-  <link href="https://github.com/lockie/ecs-tutorial-1" />
-  <id>urn:rprimus:github:lockie:ecs-tutorial-1</id>
-  <published>2023-10-19T09:12:23Z</published>
-  <updated>2023-10-19T09:12:23Z</updated>
+  <link href="https://github.com/branson8815/ML-project" />
+  <id>urn:rprimus:github:branson8815:ML-project</id>
+  <published>2023-10-18T18:53:37Z</published>
+  <updated>2023-10-18T18:53:37Z</updated>
   <content type="html">
    
   </content>
@@ -119,71 +184,6 @@
   <updated>2023-10-18T00:02:44Z</updated>
   <content type="html">
    This is an experimental April/Petalisp integration.
-  </content>
- </entry>
- <entry>
-  <title>lunalawl: MiloWMV</title>
-  <author>
-   <name>lunalawl</name>
-  </author>
-  <link href="https://github.com/lunalawl/MiloWMV" />
-  <id>urn:rprimus:github:lunalawl:MiloWMV</id>
-  <published>2023-10-17T23:39:17Z</published>
-  <updated>2023-10-17T23:39:17Z</updated>
-  <content type="html">
-   A very simple WMV player for Xbox 360 based on Harmonix&#039;s &quot;Milo&quot; engine.
-  </content>
- </entry>
- <entry>
-  <title>Mens1s: LispProgramingLanguages</title>
-  <author>
-   <name>Mens1s</name>
-  </author>
-  <link href="https://github.com/Mens1s/LispProgramingLanguages" />
-  <id>urn:rprimus:github:Mens1s:LispProgramingLanguages</id>
-  <published>2023-10-17T19:06:04Z</published>
-  <updated>2023-10-17T19:06:04Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>oreodave: advent-of-code</title>
-  <author>
-   <name>oreodave</name>
-  </author>
-  <link href="https://github.com/oreodave/advent-of-code" />
-  <id>urn:rprimus:github:oreodave:advent-of-code</id>
-  <published>2023-10-17T13:11:50Z</published>
-  <updated>2023-10-17T13:11:50Z</updated>
-  <content type="html">
-   My advent of code solutions
-  </content>
- </entry>
- <entry>
-  <title>wmealing: clform-spinneret</title>
-  <author>
-   <name>wmealing</name>
-  </author>
-  <link href="https://github.com/wmealing/clform-spinneret" />
-  <id>urn:rprimus:github:wmealing:clform-spinneret</id>
-  <published>2023-10-17T08:52:48Z</published>
-  <updated>2023-10-17T08:52:48Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>evitiello: dos-emulation-drives</title>
-  <author>
-   <name>evitiello</name>
-  </author>
-  <link href="https://github.com/evitiello/dos-emulation-drives" />
-  <id>urn:rprimus:github:evitiello:dos-emulation-drives</id>
-  <published>2023-10-17T01:45:28Z</published>
-  <updated>2023-10-17T01:45:28Z</updated>
-  <content type="html">
-   C-Drive &amp; Others for DOSBox
   </content>
  </entry>
 </feed>
