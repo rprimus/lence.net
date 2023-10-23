@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-erlang.atom"/>
 <id>urn:rprimus:github:newerlangrepos</id>
-<updated>2023-10-22T01:27:36Z</updated>
+<updated>2023-10-23T07:45:24Z</updated>
 <title type='text'>New GitHub Erlang Repos</title>
+ <entry>
+  <title>tc-szhu: test_for_snyk</title>
+  <author>
+   <name>tc-szhu</name>
+  </author>
+  <link href="https://github.com/tc-szhu/test_for_snyk" />
+  <id>urn:rprimus:github:tc-szhu:test_for_snyk</id>
+  <published>2023-10-23T07:45:24Z</published>
+  <updated>2023-10-23T07:45:24Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>SamTemple23111: 1wed</title>
   <author>
@@ -57,107 +70,16 @@
   </content>
  </entry>
  <entry>
-  <title>cogini: opentelemetry_propagator_xray</title>
+  <title>cogini: opentelemetry_xray</title>
   <author>
    <name>cogini</name>
   </author>
-  <link href="https://github.com/cogini/opentelemetry_propagator_xray" />
-  <id>urn:rprimus:github:cogini:opentelemetry_propagator_xray</id>
+  <link href="https://github.com/cogini/opentelemetry_xray" />
+  <id>urn:rprimus:github:cogini:opentelemetry_xray</id>
   <published>2023-10-21T15:56:01Z</published>
   <updated>2023-10-21T15:56:01Z</updated>
   <content type="html">
-   Otel propagator for AWS X-Ray
-  </content>
- </entry>
- <entry>
-  <title>joq62: lgh_phoscon_provider</title>
-  <author>
-   <name>joq62</name>
-  </author>
-  <link href="https://github.com/joq62/lgh_phoscon_provider" />
-  <id>urn:rprimus:github:joq62:lgh_phoscon_provider</id>
-  <published>2023-10-20T21:03:31Z</published>
-  <updated>2023-10-20T21:03:31Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>markvagil: global_talk_erlang</title>
-  <author>
-   <name>markvagil</name>
-  </author>
-  <link href="https://github.com/markvagil/global_talk_erlang" />
-  <id>urn:rprimus:github:markvagil:global_talk_erlang</id>
-  <published>2023-10-20T20:59:55Z</published>
-  <updated>2023-10-20T20:59:55Z</updated>
-  <content type="html">
-   playing with erlang global processes
-  </content>
- </entry>
- <entry>
-  <title>pdeigan: foodtruck</title>
-  <author>
-   <name>pdeigan</name>
-  </author>
-  <link href="https://github.com/pdeigan/foodtruck" />
-  <id>urn:rprimus:github:pdeigan:foodtruck</id>
-  <published>2023-10-20T16:32:48Z</published>
-  <updated>2023-10-20T16:32:48Z</updated>
-  <content type="html">
-   Food Truck Database project
-  </content>
- </entry>
- <entry>
-  <title>rlipscombe: prom_parse</title>
-  <author>
-   <name>rlipscombe</name>
-  </author>
-  <link href="https://github.com/rlipscombe/prom_parse" />
-  <id>urn:rprimus:github:rlipscombe:prom_parse</id>
-  <published>2023-10-20T10:49:10Z</published>
-  <updated>2023-10-20T10:49:10Z</updated>
-  <content type="html">
-   Simple parser for text-format Prometheus metrics
-  </content>
- </entry>
- <entry>
-  <title>vsgirelli: opty_cpds</title>
-  <author>
-   <name>vsgirelli</name>
-  </author>
-  <link href="https://github.com/vsgirelli/opty_cpds" />
-  <id>urn:rprimus:github:vsgirelli:opty_cpds</id>
-  <published>2023-10-20T08:11:25Z</published>
-  <updated>2023-10-20T08:11:25Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Belivins: akber-soft</title>
-  <author>
-   <name>Belivins</name>
-  </author>
-  <link href="https://github.com/Belivins/akber-soft" />
-  <id>urn:rprimus:github:Belivins:akber-soft</id>
-  <published>2023-10-20T04:33:29Z</published>
-  <updated>2023-10-20T04:33:29Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>hstreamdb: hstream-erl-demo</title>
-  <author>
-   <name>hstreamdb</name>
-  </author>
-  <link href="https://github.com/hstreamdb/hstream-erl-demo" />
-  <id>urn:rprimus:github:hstreamdb:hstream-erl-demo</id>
-  <published>2023-10-20T02:02:18Z</published>
-  <updated>2023-10-20T02:02:18Z</updated>
-  <content type="html">
-   
+   OpenTelemetry AWS X-Ray for Erlang
   </content>
  </entry>
 </feed>
