@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2023-10-24T06:13:00Z</updated>
+<updated>2023-10-24T18:29:18Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>frodef: joysen</title>
+  <author>
+   <name>frodef</name>
+  </author>
+  <link href="https://github.com/frodef/joysen" />
+  <id>urn:rprimus:github:frodef:joysen</id>
+  <published>2023-10-24T18:29:18Z</published>
+  <updated>2023-10-24T18:29:18Z</updated>
+  <content type="html">
+   Common Lisp library for encoding lisp values into JSON syntax.
+  </content>
+ </entry>
  <entry>
   <title>garlic0x1: git-notify</title>
   <author>
@@ -13,6 +26,19 @@
   <id>urn:rprimus:github:garlic0x1:git-notify</id>
   <published>2023-10-24T06:13:00Z</published>
   <updated>2023-10-24T06:13:00Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Digitzaki: GUnleashed-Master-Tools</title>
+  <author>
+   <name>Digitzaki</name>
+  </author>
+  <link href="https://github.com/Digitzaki/GUnleashed-Master-Tools" />
+  <id>urn:rprimus:github:Digitzaki:GUnleashed-Master-Tools</id>
+  <published>2023-10-24T05:00:32Z</published>
+  <updated>2023-10-24T05:00:32Z</updated>
   <content type="html">
    
   </content>
@@ -54,110 +80,6 @@
   <updated>2023-10-23T05:53:33Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>yw509: COM_SCI_161</title>
-  <author>
-   <name>yw509</name>
-  </author>
-  <link href="https://github.com/yw509/COM_SCI_161" />
-  <id>urn:rprimus:github:yw509:COM_SCI_161</id>
-  <published>2023-10-22T22:51:30Z</published>
-  <updated>2023-10-22T22:51:30Z</updated>
-  <content type="html">
-   This is the repository for my COM_SCI_161 assignment.
-  </content>
- </entry>
- <entry>
-  <title>vasuvs45: CreditCardApprovalPrediction</title>
-  <author>
-   <name>vasuvs45</name>
-  </author>
-  <link href="https://github.com/vasuvs45/CreditCardApprovalPrediction" />
-  <id>urn:rprimus:github:vasuvs45:CreditCardApprovalPrediction</id>
-  <published>2023-10-22T22:34:32Z</published>
-  <updated>2023-10-22T22:34:32Z</updated>
-  <content type="html">
-   Predicting if an applicant is eligible for a credit card or not
-  </content>
- </entry>
- <entry>
-  <title>g000001: rmscl</title>
-  <author>
-   <name>g000001</name>
-  </author>
-  <link href="https://github.com/g000001/rmscl" />
-  <id>urn:rprimus:github:g000001:rmscl</id>
-  <published>2023-10-22T19:22:34Z</published>
-  <updated>2023-10-22T19:22:34Z</updated>
-  <content type="html">
-   RMS Flavored CL
-  </content>
- </entry>
- <entry>
-  <title>mishoo: cbor.lisp</title>
-  <author>
-   <name>mishoo</name>
-  </author>
-  <link href="https://github.com/mishoo/cbor.lisp" />
-  <id>urn:rprimus:github:mishoo:cbor.lisp</id>
-  <published>2023-10-22T14:11:16Z</published>
-  <updated>2023-10-22T14:11:16Z</updated>
-  <content type="html">
-   CBOR library for Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>rmelgo: FSI-Algoritmo-unificacion-LISP</title>
-  <author>
-   <name>rmelgo</name>
-  </author>
-  <link href="https://github.com/rmelgo/FSI-Algoritmo-unificacion-LISP" />
-  <id>urn:rprimus:github:rmelgo:FSI-Algoritmo-unificacion-LISP</id>
-  <published>2023-10-22T12:13:57Z</published>
-  <updated>2023-10-22T12:13:57Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jaketothepast: Learning-Common-Lisp</title>
-  <author>
-   <name>jaketothepast</name>
-  </author>
-  <link href="https://github.com/jaketothepast/Learning-Common-Lisp" />
-  <id>urn:rprimus:github:jaketothepast:Learning-Common-Lisp</id>
-  <published>2023-10-22T11:55:39Z</published>
-  <updated>2023-10-22T11:55:39Z</updated>
-  <content type="html">
-   Tracking through Loving Common Lisp - Using this to learn Emacs and Common Lisp fully
-  </content>
- </entry>
- <entry>
-  <title>atgreen: cl-hue</title>
-  <author>
-   <name>atgreen</name>
-  </author>
-  <link href="https://github.com/atgreen/cl-hue" />
-  <id>urn:rprimus:github:atgreen:cl-hue</id>
-  <published>2023-10-22T10:35:55Z</published>
-  <updated>2023-10-22T10:35:55Z</updated>
-  <content type="html">
-   Backup location for cl-hue
-  </content>
- </entry>
- <entry>
-  <title>bohonghuang: cl-gstreamer</title>
-  <author>
-   <name>bohonghuang</name>
-  </author>
-  <link href="https://github.com/bohonghuang/cl-gstreamer" />
-  <id>urn:rprimus:github:bohonghuang:cl-gstreamer</id>
-  <published>2023-10-22T08:20:17Z</published>
-  <updated>2023-10-22T08:20:17Z</updated>
-  <content type="html">
-   GStreamer bindings for Common Lisp.
   </content>
  </entry>
 </feed>
