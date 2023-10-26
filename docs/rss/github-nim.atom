@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2023-10-25T08:28:18Z</updated>
+<updated>2023-10-26T01:30:37Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>RobCubed: retool</title>
+  <author>
+   <name>RobCubed</name>
+  </author>
+  <link href="https://github.com/RobCubed/retool" />
+  <id>urn:rprimus:github:RobCubed:retool</id>
+  <published>2023-10-26T01:30:37Z</published>
+  <updated>2023-10-26T01:30:37Z</updated>
+  <content type="html">
+   do regex on your clipboard
+  </content>
+ </entry>
+ <entry>
+  <title>mdwmage: physicsSolver</title>
+  <author>
+   <name>mdwmage</name>
+  </author>
+  <link href="https://github.com/mdwmage/physicsSolver" />
+  <id>urn:rprimus:github:mdwmage:physicsSolver</id>
+  <published>2023-10-26T01:16:41Z</published>
+  <updated>2023-10-26T01:16:41Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Glasses-Neo: ecslib</title>
+  <author>
+   <name>Glasses-Neo</name>
+  </author>
+  <link href="https://github.com/Glasses-Neo/ecslib" />
+  <id>urn:rprimus:github:Glasses-Neo:ecslib</id>
+  <published>2023-10-25T16:22:15Z</published>
+  <updated>2023-10-25T16:22:15Z</updated>
+  <content type="html">
+   A nimble package for Entity Component System
+  </content>
+ </entry>
+ <entry>
+  <title>Martinix75: NiModbus</title>
+  <author>
+   <name>Martinix75</name>
+  </author>
+  <link href="https://github.com/Martinix75/NiModbus" />
+  <id>urn:rprimus:github:Martinix75:NiModbus</id>
+  <published>2023-10-25T15:53:35Z</published>
+  <updated>2023-10-25T15:53:35Z</updated>
+  <content type="html">
+   Modbuf for Nim
+  </content>
+ </entry>
+ <entry>
+  <title>nortio: gallery_creator</title>
+  <author>
+   <name>nortio</name>
+  </author>
+  <link href="https://github.com/nortio/gallery_creator" />
+  <id>urn:rprimus:github:nortio:gallery_creator</id>
+  <published>2023-10-25T15:31:25Z</published>
+  <updated>2023-10-25T15:31:25Z</updated>
+  <content type="html">
+   Generate a simple image gallery from a folder with photos
+  </content>
+ </entry>
+ <entry>
+  <title>nim-lang: htmlparser</title>
+  <author>
+   <name>nim-lang</name>
+  </author>
+  <link href="https://github.com/nim-lang/htmlparser" />
+  <id>urn:rprimus:github:nim-lang:htmlparser</id>
+  <published>2023-10-25T12:25:40Z</published>
+  <updated>2023-10-25T12:25:40Z</updated>
+  <content type="html">
+   Parse a HTML document in Nim
+  </content>
+ </entry>
  <entry>
   <title>codex-storage: nim-poseidon2</title>
   <author>
@@ -83,19 +161,6 @@
   </content>
  </entry>
  <entry>
-  <title>Martinix75: NimModbus</title>
-  <author>
-   <name>Martinix75</name>
-  </author>
-  <link href="https://github.com/Martinix75/NimModbus" />
-  <id>urn:rprimus:github:Martinix75:NimModbus</id>
-  <published>2023-10-24T15:57:43Z</published>
-  <updated>2023-10-24T15:57:43Z</updated>
-  <content type="html">
-   Library to use Modbus in Nim.
-  </content>
- </entry>
- <entry>
   <title>xTrayambak: noreutils</title>
   <author>
    <name>xTrayambak</name>
@@ -132,123 +197,6 @@
   <updated>2023-10-24T06:48:57Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>erk52: crafting_nimterpreters</title>
-  <author>
-   <name>erk52</name>
-  </author>
-  <link href="https://github.com/erk52/crafting_nimterpreters" />
-  <id>urn:rprimus:github:erk52:crafting_nimterpreters</id>
-  <published>2023-10-23T23:45:40Z</published>
-  <updated>2023-10-23T23:45:40Z</updated>
-  <content type="html">
-   Following crafting interpreters to build a Lox interpreter from scratch, but with Nim
-  </content>
- </entry>
- <entry>
-  <title>daniel-j: nim-gpiod</title>
-  <author>
-   <name>daniel-j</name>
-  </author>
-  <link href="https://github.com/daniel-j/nim-gpiod" />
-  <id>urn:rprimus:github:daniel-j:nim-gpiod</id>
-  <published>2023-10-23T20:31:48Z</published>
-  <updated>2023-10-23T20:31:48Z</updated>
-  <content type="html">
-   Nim wrapper of libgpiod
-  </content>
- </entry>
- <entry>
-  <title>Just-Jasmine: TicTacToe</title>
-  <author>
-   <name>Just-Jasmine</name>
-  </author>
-  <link href="https://github.com/Just-Jasmine/TicTacToe" />
-  <id>urn:rprimus:github:Just-Jasmine:TicTacToe</id>
-  <published>2023-10-23T18:12:19Z</published>
-  <updated>2023-10-23T18:12:19Z</updated>
-  <content type="html">
-   Command Line TicTacToe Implemented in Nim
-  </content>
- </entry>
- <entry>
-  <title>jaar23: octoque_client</title>
-  <author>
-   <name>jaar23</name>
-  </author>
-  <link href="https://github.com/jaar23/octoque_client" />
-  <id>urn:rprimus:github:jaar23:octoque_client</id>
-  <published>2023-10-23T17:43:11Z</published>
-  <updated>2023-10-23T17:43:11Z</updated>
-  <content type="html">
-   client library used to access octoque
-  </content>
- </entry>
- <entry>
-  <title>ferus-web: ferus_sanchar</title>
-  <author>
-   <name>ferus-web</name>
-  </author>
-  <link href="https://github.com/ferus-web/ferus_sanchar" />
-  <id>urn:rprimus:github:ferus-web:ferus_sanchar</id>
-  <published>2023-10-23T14:00:11Z</published>
-  <updated>2023-10-23T14:00:11Z</updated>
-  <content type="html">
-   Networking stack for Ferus
-  </content>
- </entry>
- <entry>
-  <title>song10: spaex</title>
-  <author>
-   <name>song10</name>
-  </author>
-  <link href="https://github.com/song10/spaex" />
-  <id>urn:rprimus:github:song10:spaex</id>
-  <published>2023-10-23T13:07:56Z</published>
-  <updated>2023-10-23T13:07:56Z</updated>
-  <content type="html">
-   SPA Example
-  </content>
- </entry>
- <entry>
-  <title>SciNim: NimBoltz</title>
-  <author>
-   <name>SciNim</name>
-  </author>
-  <link href="https://github.com/SciNim/NimBoltz" />
-  <id>urn:rprimus:github:SciNim:NimBoltz</id>
-  <published>2023-10-23T10:57:26Z</published>
-  <updated>2023-10-23T10:57:26Z</updated>
-  <content type="html">
-   A library to interface with Magboltz (Boltzmann transport equation solver for gas mixtures)
-  </content>
- </entry>
- <entry>
-  <title>KerorinNorthFox: OsuCursorChangerGUI</title>
-  <author>
-   <name>KerorinNorthFox</name>
-  </author>
-  <link href="https://github.com/KerorinNorthFox/OsuCursorChangerGUI" />
-  <id>urn:rprimus:github:KerorinNorthFox:OsuCursorChangerGUI</id>
-  <published>2023-10-23T01:01:34Z</published>
-  <updated>2023-10-23T01:01:34Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>omarcospo: nash</title>
-  <author>
-   <name>omarcospo</name>
-  </author>
-  <link href="https://github.com/omarcospo/nash" />
-  <id>urn:rprimus:github:omarcospo:nash</id>
-  <published>2023-10-23T00:28:45Z</published>
-  <updated>2023-10-23T00:28:45Z</updated>
-  <content type="html">
-   Nim repl
   </content>
  </entry>
 </feed>
