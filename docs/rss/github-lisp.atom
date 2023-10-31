@@ -2,8 +2,112 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2023-10-30T04:06:52Z</updated>
+<updated>2023-10-30T22:14:20Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>colfrog: stazy</title>
+  <author>
+   <name>colfrog</name>
+  </author>
+  <link href="https://github.com/colfrog/stazy" />
+  <id>urn:rprimus:github:colfrog:stazy</id>
+  <published>2023-10-30T22:14:20Z</published>
+  <updated>2023-10-30T22:14:20Z</updated>
+  <content type="html">
+   Static blog in Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>alexrudnick: nlp-sketches-lisp</title>
+  <author>
+   <name>alexrudnick</name>
+  </author>
+  <link href="https://github.com/alexrudnick/nlp-sketches-lisp" />
+  <id>urn:rprimus:github:alexrudnick:nlp-sketches-lisp</id>
+  <published>2023-10-30T17:15:54Z</published>
+  <updated>2023-10-30T17:15:54Z</updated>
+  <content type="html">
+   NLP sketches in LISP
+  </content>
+ </entry>
+ <entry>
+  <title>clasp-developers: asdf</title>
+  <author>
+   <name>clasp-developers</name>
+  </author>
+  <link href="https://github.com/clasp-developers/asdf" />
+  <id>urn:rprimus:github:clasp-developers:asdf</id>
+  <published>2023-10-30T16:50:45Z</published>
+  <updated>2023-10-30T16:50:45Z</updated>
+  <content type="html">
+   Mirror of https://gitlab.common-lisp.net/asdf/asdf.git
+  </content>
+ </entry>
+ <entry>
+  <title>clasp-developers: trivial-utf-8</title>
+  <author>
+   <name>clasp-developers</name>
+  </author>
+  <link href="https://github.com/clasp-developers/trivial-utf-8" />
+  <id>urn:rprimus:github:clasp-developers:trivial-utf-8</id>
+  <published>2023-10-30T16:50:30Z</published>
+  <updated>2023-10-30T16:50:30Z</updated>
+  <content type="html">
+   Mirror of https://gitlab.common-lisp.net/trivial-utf-8/trivial-utf-8.git
+  </content>
+ </entry>
+ <entry>
+  <title>clasp-developers: cl-bench</title>
+  <author>
+   <name>clasp-developers</name>
+  </author>
+  <link href="https://github.com/clasp-developers/cl-bench" />
+  <id>urn:rprimus:github:clasp-developers:cl-bench</id>
+  <published>2023-10-30T16:50:05Z</published>
+  <updated>2023-10-30T16:50:05Z</updated>
+  <content type="html">
+   Mirror of https://gitlab.common-lisp.net/ansi-test/cl-bench.git
+  </content>
+ </entry>
+ <entry>
+  <title>clasp-developers: ansi-test</title>
+  <author>
+   <name>clasp-developers</name>
+  </author>
+  <link href="https://github.com/clasp-developers/ansi-test" />
+  <id>urn:rprimus:github:clasp-developers:ansi-test</id>
+  <published>2023-10-30T16:49:47Z</published>
+  <updated>2023-10-30T16:49:47Z</updated>
+  <content type="html">
+   Mirror of https://gitlab.common-lisp.net/ansi-test/ansi-test.git
+  </content>
+ </entry>
+ <entry>
+  <title>clasp-developers: alexandria</title>
+  <author>
+   <name>clasp-developers</name>
+  </author>
+  <link href="https://github.com/clasp-developers/alexandria" />
+  <id>urn:rprimus:github:clasp-developers:alexandria</id>
+  <published>2023-10-30T14:32:32Z</published>
+  <updated>2023-10-30T14:32:32Z</updated>
+  <content type="html">
+   Mirror of https://gitlab.common-lisp.net/alexandria/alexandria
+  </content>
+ </entry>
+ <entry>
+  <title>elderica: dezero</title>
+  <author>
+   <name>elderica</name>
+  </author>
+  <link href="https://github.com/elderica/dezero" />
+  <id>urn:rprimus:github:elderica:dezero</id>
+  <published>2023-10-30T12:43:31Z</published>
+  <updated>2023-10-30T12:43:31Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>cando-developers: metal-binder</title>
   <author>
@@ -67,71 +171,6 @@
   <updated>2023-10-29T09:41:21Z</updated>
   <content type="html">
    My personal playground for learning causal discovery
-  </content>
- </entry>
- <entry>
-  <title>oliverdelancey: gtk-cl-example</title>
-  <author>
-   <name>oliverdelancey</name>
-  </author>
-  <link href="https://github.com/oliverdelancey/gtk-cl-example" />
-  <id>urn:rprimus:github:oliverdelancey:gtk-cl-example</id>
-  <published>2023-10-28T19:59:12Z</published>
-  <updated>2023-10-28T19:59:12Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ksixty: ucircom</title>
-  <author>
-   <name>ksixty</name>
-  </author>
-  <link href="https://github.com/ksixty/ucircom" />
-  <id>urn:rprimus:github:ksixty:ucircom</id>
-  <published>2023-10-28T18:33:51Z</published>
-  <updated>2023-10-28T18:33:51Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Surelye: neuro</title>
-  <author>
-   <name>Surelye</name>
-  </author>
-  <link href="https://github.com/Surelye/neuro" />
-  <id>urn:rprimus:github:Surelye:neuro</id>
-  <published>2023-10-28T13:32:43Z</published>
-  <updated>2023-10-28T13:32:43Z</updated>
-  <content type="html">
-   Parse this, parse that.
-  </content>
- </entry>
- <entry>
-  <title>BobbyAxerol: Credit-Score-Sets-for-ML-Basic-Demo</title>
-  <author>
-   <name>BobbyAxerol</name>
-  </author>
-  <link href="https://github.com/BobbyAxerol/Credit-Score-Sets-for-ML-Basic-Demo" />
-  <id>urn:rprimus:github:BobbyAxerol:Credit-Score-Sets-for-ML-Basic-Demo</id>
-  <published>2023-10-28T09:03:43Z</published>
-  <updated>2023-10-28T09:03:43Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>omggelato: paradigm</title>
-  <author>
-   <name>omggelato</name>
-  </author>
-  <link href="https://github.com/omggelato/paradigm" />
-  <id>urn:rprimus:github:omggelato:paradigm</id>
-  <published>2023-10-28T04:07:13Z</published>
-  <updated>2023-10-28T04:07:13Z</updated>
-  <content type="html">
-   A Visual Workspace and Extensions Library for Composition and Analysis  Involving User-Defined Rules
   </content>
  </entry>
 </feed>
