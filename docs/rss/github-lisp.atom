@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2023-11-01T00:22:26Z</updated>
+<updated>2023-11-02T06:46:33Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>garlic0x1: cl-workers</title>
+  <author>
+   <name>garlic0x1</name>
+  </author>
+  <link href="https://github.com/garlic0x1/cl-workers" />
+  <id>urn:rprimus:github:garlic0x1:cl-workers</id>
+  <published>2023-11-02T06:46:33Z</published>
+  <updated>2023-11-02T06:46:33Z</updated>
+  <content type="html">
+   fork of cl-actors with some extra features
+  </content>
+ </entry>
+ <entry>
+  <title>lotockib: ros-tutorials</title>
+  <author>
+   <name>lotockib</name>
+  </author>
+  <link href="https://github.com/lotockib/ros-tutorials" />
+  <id>urn:rprimus:github:lotockib:ros-tutorials</id>
+  <published>2023-11-01T21:58:56Z</published>
+  <updated>2023-11-01T21:58:56Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>2lambda123: CLERIC</title>
+  <author>
+   <name>2lambda123</name>
+  </author>
+  <link href="https://github.com/2lambda123/CLERIC" />
+  <id>urn:rprimus:github:2lambda123:CLERIC</id>
+  <published>2023-11-01T21:27:15Z</published>
+  <updated>2023-11-01T21:27:15Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>matteo-pallini: learning-lisp</title>
+  <author>
+   <name>matteo-pallini</name>
+  </author>
+  <link href="https://github.com/matteo-pallini/learning-lisp" />
+  <id>urn:rprimus:github:matteo-pallini:learning-lisp</id>
+  <published>2023-11-01T20:12:55Z</published>
+  <updated>2023-11-01T20:12:55Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>dfmorrison: voorhees</title>
+  <author>
+   <name>dfmorrison</name>
+  </author>
+  <link href="https://github.com/dfmorrison/voorhees" />
+  <id>urn:rprimus:github:dfmorrison:voorhees</id>
+  <published>2023-11-01T11:15:09Z</published>
+  <updated>2023-11-01T11:15:09Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>hraban: plist-copy</title>
   <author>
@@ -14,7 +79,7 @@
   <published>2023-11-01T00:22:26Z</published>
   <updated>2023-11-01T00:22:26Z</updated>
   <content type="html">
-   
+   Copy Apple PLIST properties between two files
   </content>
  </entry>
  <entry>
@@ -44,133 +109,16 @@
   </content>
  </entry>
  <entry>
-  <title>colfrog: stazy</title>
+  <title>Folkwang-ICEM: Lisp</title>
   <author>
-   <name>colfrog</name>
+   <name>Folkwang-ICEM</name>
   </author>
-  <link href="https://github.com/colfrog/stazy" />
-  <id>urn:rprimus:github:colfrog:stazy</id>
-  <published>2023-10-30T22:14:20Z</published>
-  <updated>2023-10-30T22:14:20Z</updated>
+  <link href="https://github.com/Folkwang-ICEM/Lisp" />
+  <id>urn:rprimus:github:Folkwang-ICEM:Lisp</id>
+  <published>2023-10-31T13:21:31Z</published>
+  <updated>2023-10-31T13:21:31Z</updated>
   <content type="html">
-   Static blog in Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>alexrudnick: nlp-sketches-lisp</title>
-  <author>
-   <name>alexrudnick</name>
-  </author>
-  <link href="https://github.com/alexrudnick/nlp-sketches-lisp" />
-  <id>urn:rprimus:github:alexrudnick:nlp-sketches-lisp</id>
-  <published>2023-10-30T17:15:54Z</published>
-  <updated>2023-10-30T17:15:54Z</updated>
-  <content type="html">
-   NLP sketches in LISP
-  </content>
- </entry>
- <entry>
-  <title>clasp-developers: asdf</title>
-  <author>
-   <name>clasp-developers</name>
-  </author>
-  <link href="https://github.com/clasp-developers/asdf" />
-  <id>urn:rprimus:github:clasp-developers:asdf</id>
-  <published>2023-10-30T16:50:45Z</published>
-  <updated>2023-10-30T16:50:45Z</updated>
-  <content type="html">
-   Mirror of https://gitlab.common-lisp.net/asdf/asdf.git
-  </content>
- </entry>
- <entry>
-  <title>clasp-developers: trivial-utf-8</title>
-  <author>
-   <name>clasp-developers</name>
-  </author>
-  <link href="https://github.com/clasp-developers/trivial-utf-8" />
-  <id>urn:rprimus:github:clasp-developers:trivial-utf-8</id>
-  <published>2023-10-30T16:50:30Z</published>
-  <updated>2023-10-30T16:50:30Z</updated>
-  <content type="html">
-   Mirror of https://gitlab.common-lisp.net/trivial-utf-8/trivial-utf-8.git
-  </content>
- </entry>
- <entry>
-  <title>clasp-developers: cl-bench</title>
-  <author>
-   <name>clasp-developers</name>
-  </author>
-  <link href="https://github.com/clasp-developers/cl-bench" />
-  <id>urn:rprimus:github:clasp-developers:cl-bench</id>
-  <published>2023-10-30T16:50:05Z</published>
-  <updated>2023-10-30T16:50:05Z</updated>
-  <content type="html">
-   Mirror of https://gitlab.common-lisp.net/ansi-test/cl-bench.git
-  </content>
- </entry>
- <entry>
-  <title>clasp-developers: ansi-test</title>
-  <author>
-   <name>clasp-developers</name>
-  </author>
-  <link href="https://github.com/clasp-developers/ansi-test" />
-  <id>urn:rprimus:github:clasp-developers:ansi-test</id>
-  <published>2023-10-30T16:49:47Z</published>
-  <updated>2023-10-30T16:49:47Z</updated>
-  <content type="html">
-   Mirror of https://gitlab.common-lisp.net/ansi-test/ansi-test.git
-  </content>
- </entry>
- <entry>
-  <title>clasp-developers: alexandria</title>
-  <author>
-   <name>clasp-developers</name>
-  </author>
-  <link href="https://github.com/clasp-developers/alexandria" />
-  <id>urn:rprimus:github:clasp-developers:alexandria</id>
-  <published>2023-10-30T14:32:32Z</published>
-  <updated>2023-10-30T14:32:32Z</updated>
-  <content type="html">
-   Mirror of https://gitlab.common-lisp.net/alexandria/alexandria
-  </content>
- </entry>
- <entry>
-  <title>elderica: dezero</title>
-  <author>
-   <name>elderica</name>
-  </author>
-  <link href="https://github.com/elderica/dezero" />
-  <id>urn:rprimus:github:elderica:dezero</id>
-  <published>2023-10-30T12:43:31Z</published>
-  <updated>2023-10-30T12:43:31Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>cando-developers: metal-binder</title>
-  <author>
-   <name>cando-developers</name>
-  </author>
-  <link href="https://github.com/cando-developers/metal-binder" />
-  <id>urn:rprimus:github:cando-developers:metal-binder</id>
-  <published>2023-10-30T04:06:52Z</published>
-  <updated>2023-10-30T04:06:52Z</updated>
-  <content type="html">
-   Metal binding molecules
-  </content>
- </entry>
- <entry>
-  <title>lockie: mana-break</title>
-  <author>
-   <name>lockie</name>
-  </author>
-  <link href="https://github.com/lockie/mana-break" />
-  <id>urn:rprimus:github:lockie:mana-break</id>
-  <published>2023-10-30T00:19:25Z</published>
-  <updated>2023-10-30T00:19:25Z</updated>
-  <content type="html">
-   Autumn Lisp Game Jam 2023 entry
+   A repository for collecting and collectively working on projects related to Lisp
   </content>
  </entry>
 </feed>
