@@ -2,123 +2,136 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2023-11-02T06:46:33Z</updated>
+<updated>2023-11-16T03:24:25Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
  <entry>
-  <title>garlic0x1: cl-workers</title>
-  <author>
-   <name>garlic0x1</name>
-  </author>
-  <link href="https://github.com/garlic0x1/cl-workers" />
-  <id>urn:rprimus:github:garlic0x1:cl-workers</id>
-  <published>2023-11-02T06:46:33Z</published>
-  <updated>2023-11-02T06:46:33Z</updated>
-  <content type="html">
-   fork of cl-actors with some extra features
-  </content>
- </entry>
- <entry>
-  <title>lotockib: ros-tutorials</title>
-  <author>
-   <name>lotockib</name>
-  </author>
-  <link href="https://github.com/lotockib/ros-tutorials" />
-  <id>urn:rprimus:github:lotockib:ros-tutorials</id>
-  <published>2023-11-01T21:58:56Z</published>
-  <updated>2023-11-01T21:58:56Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>2lambda123: CLERIC</title>
-  <author>
-   <name>2lambda123</name>
-  </author>
-  <link href="https://github.com/2lambda123/CLERIC" />
-  <id>urn:rprimus:github:2lambda123:CLERIC</id>
-  <published>2023-11-01T21:27:15Z</published>
-  <updated>2023-11-01T21:27:15Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>matteo-pallini: learning-lisp</title>
-  <author>
-   <name>matteo-pallini</name>
-  </author>
-  <link href="https://github.com/matteo-pallini/learning-lisp" />
-  <id>urn:rprimus:github:matteo-pallini:learning-lisp</id>
-  <published>2023-11-01T20:12:55Z</published>
-  <updated>2023-11-01T20:12:55Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>dfmorrison: voorhees</title>
-  <author>
-   <name>dfmorrison</name>
-  </author>
-  <link href="https://github.com/dfmorrison/voorhees" />
-  <id>urn:rprimus:github:dfmorrison:voorhees</id>
-  <published>2023-11-01T11:15:09Z</published>
-  <updated>2023-11-01T11:15:09Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>hraban: plist-copy</title>
+  <title>hraban: home-tools</title>
   <author>
    <name>hraban</name>
   </author>
-  <link href="https://github.com/hraban/plist-copy" />
-  <id>urn:rprimus:github:hraban:plist-copy</id>
-  <published>2023-11-01T00:22:26Z</published>
-  <updated>2023-11-01T00:22:26Z</updated>
-  <content type="html">
-   Copy Apple PLIST properties between two files
-  </content>
- </entry>
- <entry>
-  <title>albertolerda: cl-experiments</title>
-  <author>
-   <name>albertolerda</name>
-  </author>
-  <link href="https://github.com/albertolerda/cl-experiments" />
-  <id>urn:rprimus:github:albertolerda:cl-experiments</id>
-  <published>2023-10-31T22:31:10Z</published>
-  <updated>2023-10-31T22:31:10Z</updated>
+  <link href="https://github.com/hraban/home-tools" />
+  <id>urn:rprimus:github:hraban:home-tools</id>
+  <published>2023-11-16T03:24:25Z</published>
+  <updated>2023-11-16T03:24:25Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>veer66: cl-feed2fedi</title>
+  <title>alangalvino: consistent-hashing</title>
   <author>
-   <name>veer66</name>
+   <name>alangalvino</name>
   </author>
-  <link href="https://github.com/veer66/cl-feed2fedi" />
-  <id>urn:rprimus:github:veer66:cl-feed2fedi</id>
-  <published>2023-10-31T16:00:01Z</published>
-  <updated>2023-10-31T16:00:01Z</updated>
+  <link href="https://github.com/alangalvino/consistent-hashing" />
+  <id>urn:rprimus:github:alangalvino:consistent-hashing</id>
+  <published>2023-11-15T23:51:25Z</published>
+  <updated>2023-11-15T23:51:25Z</updated>
+  <content type="html">
+   A Common Lisp consistent hashing implementation
+  </content>
+ </entry>
+ <entry>
+  <title>dradicchi: romanize-numbers</title>
+  <author>
+   <name>dradicchi</name>
+  </author>
+  <link href="https://github.com/dradicchi/romanize-numbers" />
+  <id>urn:rprimus:github:dradicchi:romanize-numbers</id>
+  <published>2023-11-15T17:20:32Z</published>
+  <updated>2023-11-15T17:20:32Z</updated>
+  <content type="html">
+   Converts a given Arabic numeral (between 1 and 3000) to the respective Roman numeral.
+  </content>
+ </entry>
+ <entry>
+  <title>dradicchi: turbo-tictactoe</title>
+  <author>
+   <name>dradicchi</name>
+  </author>
+  <link href="https://github.com/dradicchi/turbo-tictactoe" />
+  <id>urn:rprimus:github:dradicchi:turbo-tictactoe</id>
+  <published>2023-11-15T16:21:40Z</published>
+  <updated>2023-11-15T16:21:40Z</updated>
+  <content type="html">
+   A command line tic-tac-toe game with a configurable board.
+  </content>
+ </entry>
+ <entry>
+  <title>Leguu: advent-2022</title>
+  <author>
+   <name>Leguu</name>
+  </author>
+  <link href="https://github.com/Leguu/advent-2022" />
+  <id>urn:rprimus:github:Leguu:advent-2022</id>
+  <published>2023-11-15T13:37:04Z</published>
+  <updated>2023-11-15T13:37:04Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>Folkwang-ICEM: Lisp</title>
+  <title>tchn11: fp1</title>
   <author>
-   <name>Folkwang-ICEM</name>
+   <name>tchn11</name>
   </author>
-  <link href="https://github.com/Folkwang-ICEM/Lisp" />
-  <id>urn:rprimus:github:Folkwang-ICEM:Lisp</id>
-  <published>2023-10-31T13:21:31Z</published>
-  <updated>2023-10-31T13:21:31Z</updated>
+  <link href="https://github.com/tchn11/fp1" />
+  <id>urn:rprimus:github:tchn11:fp1</id>
+  <published>2023-11-14T21:55:36Z</published>
+  <updated>2023-11-14T21:55:36Z</updated>
   <content type="html">
-   A repository for collecting and collectively working on projects related to Lisp
+   
+  </content>
+ </entry>
+ <entry>
+  <title>mdavic0: Lenguajes-Formales-2C-2023</title>
+  <author>
+   <name>mdavic0</name>
+  </author>
+  <link href="https://github.com/mdavic0/Lenguajes-Formales-2C-2023" />
+  <id>urn:rprimus:github:mdavic0:Lenguajes-Formales-2C-2023</id>
+  <published>2023-11-14T20:56:35Z</published>
+  <updated>2023-11-14T20:56:35Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>hikettei: AbstractNode.lisp</title>
+  <author>
+   <name>hikettei</name>
+  </author>
+  <link href="https://github.com/hikettei/AbstractNode.lisp" />
+  <id>urn:rprimus:github:hikettei:AbstractNode.lisp</id>
+  <published>2023-11-14T05:54:39Z</published>
+  <updated>2023-11-14T05:54:39Z</updated>
+  <content type="html">
+   [WIP] A Tiny and Portable DAG Compiler intended to be integrated into cl-waffe2
+  </content>
+ </entry>
+ <entry>
+  <title>Kowalskiexe: dotfiles</title>
+  <author>
+   <name>Kowalskiexe</name>
+  </author>
+  <link href="https://github.com/Kowalskiexe/dotfiles" />
+  <id>urn:rprimus:github:Kowalskiexe:dotfiles</id>
+  <published>2023-11-14T01:37:37Z</published>
+  <updated>2023-11-14T01:37:37Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>dplister: CL-Neetcode</title>
+  <author>
+   <name>dplister</name>
+  </author>
+  <link href="https://github.com/dplister/CL-Neetcode" />
+  <id>urn:rprimus:github:dplister:CL-Neetcode</id>
+  <published>2023-11-14T00:06:44Z</published>
+  <updated>2023-11-14T00:06:44Z</updated>
+  <content type="html">
+   Common Lisp Neetcode Exercises
   </content>
  </entry>
 </feed>
