@@ -2,8 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2023-11-16T10:02:33Z</updated>
+<updated>2023-11-17T00:13:49Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>fkgfys: Interpreter</title>
+  <author>
+   <name>fkgfys</name>
+  </author>
+  <link href="https://github.com/fkgfys/Interpreter" />
+  <id>urn:rprimus:github:fkgfys:Interpreter</id>
+  <published>2023-11-17T00:13:49Z</published>
+  <updated>2023-11-17T00:13:49Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>sh0eonbread: glir</title>
+  <author>
+   <name>sh0eonbread</name>
+  </author>
+  <link href="https://github.com/sh0eonbread/glir" />
+  <id>urn:rprimus:github:sh0eonbread:glir</id>
+  <published>2023-11-17T00:00:22Z</published>
+  <updated>2023-11-17T00:00:22Z</updated>
+  <content type="html">
+   Refactored version of https://github.com/pfalcon/graph-llvm-ir written in OCaml with some minor changes.
+  </content>
+ </entry>
+ <entry>
+  <title>AbdinasirAbdulkadir: 2041project</title>
+  <author>
+   <name>AbdinasirAbdulkadir</name>
+  </author>
+  <link href="https://github.com/AbdinasirAbdulkadir/2041project" />
+  <id>urn:rprimus:github:AbdinasirAbdulkadir:2041project</id>
+  <published>2023-11-16T23:03:55Z</published>
+  <updated>2023-11-16T23:03:55Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>charlesJShartman: ocaml-project</title>
+  <author>
+   <name>charlesJShartman</name>
+  </author>
+  <link href="https://github.com/charlesJShartman/ocaml-project" />
+  <id>urn:rprimus:github:charlesJShartman:ocaml-project</id>
+  <published>2023-11-16T17:50:53Z</published>
+  <updated>2023-11-16T17:50:53Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>acrucetta: advent-of-code-2023</title>
+  <author>
+   <name>acrucetta</name>
+  </author>
+  <link href="https://github.com/acrucetta/advent-of-code-2023" />
+  <id>urn:rprimus:github:acrucetta:advent-of-code-2023</id>
+  <published>2023-11-16T17:23:52Z</published>
+  <updated>2023-11-16T17:23:52Z</updated>
+  <content type="html">
+   Solving AOC with O&#039;Caml
+  </content>
+ </entry>
+ <entry>
+  <title>MateoVB: OCaml-Project</title>
+  <author>
+   <name>MateoVB</name>
+  </author>
+  <link href="https://github.com/MateoVB/OCaml-Project" />
+  <id>urn:rprimus:github:MateoVB:OCaml-Project</id>
+  <published>2023-11-16T16:34:09Z</published>
+  <updated>2023-11-16T16:34:09Z</updated>
+  <content type="html">
+   OCaml Project for Functional Programming - Harvard
+  </content>
+ </entry>
+ <entry>
+  <title>0017-alt: predicate_convertor</title>
+  <author>
+   <name>0017-alt</name>
+  </author>
+  <link href="https://github.com/0017-alt/predicate_convertor" />
+  <id>urn:rprimus:github:0017-alt:predicate_convertor</id>
+  <published>2023-11-16T15:19:27Z</published>
+  <updated>2023-11-16T15:19:27Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>Djahyouf: afit</title>
   <author>
@@ -210,123 +301,6 @@
   <updated>2023-11-15T00:37:28Z</updated>
   <content type="html">
    A watermelon game on browser implemented in ocaml
-  </content>
- </entry>
- <entry>
-  <title>phantom660: CSCI_2041_Project</title>
-  <author>
-   <name>phantom660</name>
-  </author>
-  <link href="https://github.com/phantom660/CSCI_2041_Project" />
-  <id>urn:rprimus:github:phantom660:CSCI_2041_Project</id>
-  <published>2023-11-14T23:22:59Z</published>
-  <updated>2023-11-14T23:22:59Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>theteachr: logix</title>
-  <author>
-   <name>theteachr</name>
-  </author>
-  <link href="https://github.com/theteachr/logix" />
-  <id>urn:rprimus:github:theteachr:logix</id>
-  <published>2023-11-14T23:03:20Z</published>
-  <updated>2023-11-14T23:03:20Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>andreypopp: ppx_deriving_tools</title>
-  <author>
-   <name>andreypopp</name>
-  </author>
-  <link href="https://github.com/andreypopp/ppx_deriving_tools" />
-  <id>urn:rprimus:github:andreypopp:ppx_deriving_tools</id>
-  <published>2023-11-14T19:55:36Z</published>
-  <updated>2023-11-14T19:55:36Z</updated>
-  <content type="html">
-   Tools to build ppx deriving generators
-  </content>
- </entry>
- <entry>
-  <title>leostera: nomad</title>
-  <author>
-   <name>leostera</name>
-  </author>
-  <link href="https://github.com/leostera/nomad" />
-  <id>urn:rprimus:github:leostera:nomad</id>
-  <published>2023-11-14T17:32:58Z</published>
-  <updated>2023-11-14T17:32:58Z</updated>
-  <content type="html">
-   Pure OCaml HTTP server for Riot
-  </content>
- </entry>
- <entry>
-  <title>mbarbin: dune-rpc-eio</title>
-  <author>
-   <name>mbarbin</name>
-  </author>
-  <link href="https://github.com/mbarbin/dune-rpc-eio" />
-  <id>urn:rprimus:github:mbarbin:dune-rpc-eio</id>
-  <published>2023-11-14T17:06:40Z</published>
-  <updated>2023-11-14T17:06:40Z</updated>
-  <content type="html">
-   Communicate with dune using rpc and Eio
-  </content>
- </entry>
- <entry>
-  <title>Tofeha: FractalsOcaml</title>
-  <author>
-   <name>Tofeha</name>
-  </author>
-  <link href="https://github.com/Tofeha/FractalsOcaml" />
-  <id>urn:rprimus:github:Tofeha:FractalsOcaml</id>
-  <published>2023-11-14T15:57:30Z</published>
-  <updated>2023-11-14T15:57:30Z</updated>
-  <content type="html">
-   First try on Ocaml, fractals
-  </content>
- </entry>
- <entry>
-  <title>vshender: ocaml-algorithms</title>
-  <author>
-   <name>vshender</name>
-  </author>
-  <link href="https://github.com/vshender/ocaml-algorithms" />
-  <id>urn:rprimus:github:vshender:ocaml-algorithms</id>
-  <published>2023-11-14T14:23:35Z</published>
-  <updated>2023-11-14T14:23:35Z</updated>
-  <content type="html">
-   Various algorithms and data structures implemented in OCaml.  Purely for educational purposes.
-  </content>
- </entry>
- <entry>
-  <title>Rokcas: chorcaml</title>
-  <author>
-   <name>Rokcas</name>
-  </author>
-  <link href="https://github.com/Rokcas/chorcaml" />
-  <id>urn:rprimus:github:Rokcas:chorcaml</id>
-  <published>2023-11-14T13:59:50Z</published>
-  <updated>2023-11-14T13:59:50Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>palainp: solo5memory</title>
-  <author>
-   <name>palainp</name>
-  </author>
-  <link href="https://github.com/palainp/solo5memory" />
-  <id>urn:rprimus:github:palainp:solo5memory</id>
-  <published>2023-11-14T08:32:42Z</published>
-  <updated>2023-11-14T08:32:42Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
