@@ -2,19 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2023-11-15T12:04:33Z</updated>
+<updated>2023-11-17T19:45:03Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
  <entry>
-  <title>dsennerlov: transit.cr</title>
+  <title>grkek: xlsx</title>
   <author>
-   <name>dsennerlov</name>
+   <name>grkek</name>
   </author>
-  <link href="https://github.com/dsennerlov/transit.cr" />
-  <id>urn:rprimus:github:dsennerlov:transit.cr</id>
-  <published>2023-11-15T12:04:33Z</published>
-  <updated>2023-11-15T12:04:33Z</updated>
+  <link href="https://github.com/grkek/xlsx" />
+  <id>urn:rprimus:github:grkek:xlsx</id>
+  <published>2023-11-17T19:45:03Z</published>
+  <updated>2023-11-17T19:45:03Z</updated>
   <content type="html">
-   
+   Goofiest way to generate XLSX files from CSV input
+  </content>
+ </entry>
+ <entry>
+  <title>sol-vin: solvox</title>
+  <author>
+   <name>sol-vin</name>
+  </author>
+  <link href="https://github.com/sol-vin/solvox" />
+  <id>urn:rprimus:github:sol-vin:solvox</id>
+  <published>2023-11-17T17:12:44Z</published>
+  <updated>2023-11-17T17:12:44Z</updated>
+  <content type="html">
+   An esoteric, wireland-inspired, modular synth and tracker built off of the SunVox developer library
   </content>
  </entry>
 </feed>
