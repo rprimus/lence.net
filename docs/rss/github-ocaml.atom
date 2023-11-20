@@ -2,8 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2023-11-19T09:36:01Z</updated>
+<updated>2023-11-20T04:46:08Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>aherby1: testing</title>
+  <author>
+   <name>aherby1</name>
+  </author>
+  <link href="https://github.com/aherby1/testing" />
+  <id>urn:rprimus:github:aherby1:testing</id>
+  <published>2023-11-20T04:46:08Z</published>
+  <updated>2023-11-20T04:46:08Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>bord-o: camltracing</title>
+  <author>
+   <name>bord-o</name>
+  </author>
+  <link href="https://github.com/bord-o/camltracing" />
+  <id>urn:rprimus:github:bord-o:camltracing</id>
+  <published>2023-11-20T01:16:22Z</published>
+  <updated>2023-11-20T01:16:22Z</updated>
+  <content type="html">
+   implementing a raytracer in ocaml
+  </content>
+ </entry>
+ <entry>
+  <title>mkramarz: stlc</title>
+  <author>
+   <name>mkramarz</name>
+  </author>
+  <link href="https://github.com/mkramarz/stlc" />
+  <id>urn:rprimus:github:mkramarz:stlc</id>
+  <published>2023-11-20T00:17:14Z</published>
+  <updated>2023-11-20T00:17:14Z</updated>
+  <content type="html">
+   A small demonstration of the STLC in OCaml.
+  </content>
+ </entry>
+ <entry>
+  <title>moha1747: ProjOcaml_1</title>
+  <author>
+   <name>moha1747</name>
+  </author>
+  <link href="https://github.com/moha1747/ProjOcaml_1" />
+  <id>urn:rprimus:github:moha1747:ProjOcaml_1</id>
+  <published>2023-11-20T00:13:11Z</published>
+  <updated>2023-11-20T00:13:11Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>ngmymy: expression</title>
+  <author>
+   <name>ngmymy</name>
+  </author>
+  <link href="https://github.com/ngmymy/expression" />
+  <id>urn:rprimus:github:ngmymy:expression</id>
+  <published>2023-11-19T23:05:55Z</published>
+  <updated>2023-11-19T23:05:55Z</updated>
+  <content type="html">
+   Part 1 of the Proof Parser Project
+  </content>
+ </entry>
+ <entry>
+  <title>emilpriver: homebrew-ocaml</title>
+  <author>
+   <name>emilpriver</name>
+  </author>
+  <link href="https://github.com/emilpriver/homebrew-ocaml" />
+  <id>urn:rprimus:github:emilpriver:homebrew-ocaml</id>
+  <published>2023-11-19T23:00:04Z</published>
+  <updated>2023-11-19T23:00:04Z</updated>
+  <content type="html">
+   Homebrew client written in OCaml
+  </content>
+ </entry>
+ <entry>
+  <title>DieguinCode: Calculo-Lambda-Simplesmente-Tipado</title>
+  <author>
+   <name>DieguinCode</name>
+  </author>
+  <link href="https://github.com/DieguinCode/Calculo-Lambda-Simplesmente-Tipado" />
+  <id>urn:rprimus:github:DieguinCode:Calculo-Lambda-Simplesmente-Tipado</id>
+  <published>2023-11-19T20:26:15Z</published>
+  <updated>2023-11-19T20:26:15Z</updated>
+  <content type="html">
+   O trabalho consiste em dado um termo do CÃ¡lculo Lambda Simplesmente Tipado iremos imprimir o tipo do referido termo
+  </content>
+ </entry>
  <entry>
   <title>igarnier: mlrasp</title>
   <author>
@@ -92,7 +183,7 @@
   <published>2023-11-18T19:19:07Z</published>
   <updated>2023-11-18T19:19:07Z</updated>
   <content type="html">
-   Ocaml implementation of Ocaml&#039;s Parsec
+   Ocaml implementation of Haskel&#039;s Parsec
   </content>
  </entry>
  <entry>
@@ -171,110 +262,6 @@
   <updated>2023-11-18T02:03:31Z</updated>
   <content type="html">
    Solving the classic 99 problems using OCaml
-  </content>
- </entry>
- <entry>
-  <title>banshay: deepl_tools</title>
-  <author>
-   <name>banshay</name>
-  </author>
-  <link href="https://github.com/banshay/deepl_tools" />
-  <id>urn:rprimus:github:banshay:deepl_tools</id>
-  <published>2023-11-17T23:24:35Z</published>
-  <updated>2023-11-17T23:24:35Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>n-elsonf: World-of-Bingalee</title>
-  <author>
-   <name>n-elsonf</name>
-  </author>
-  <link href="https://github.com/n-elsonf/World-of-Bingalee" />
-  <id>urn:rprimus:github:n-elsonf:World-of-Bingalee</id>
-  <published>2023-11-17T23:13:09Z</published>
-  <updated>2023-11-17T23:13:09Z</updated>
-  <content type="html">
-   A text-based video game for CS 3110: Functional Programming implemented in OCaml
-  </content>
- </entry>
- <entry>
-  <title>backspace-phill: ocaml_textfile_concat</title>
-  <author>
-   <name>backspace-phill</name>
-  </author>
-  <link href="https://github.com/backspace-phill/ocaml_textfile_concat" />
-  <id>urn:rprimus:github:backspace-phill:ocaml_textfile_concat</id>
-  <published>2023-11-17T22:54:46Z</published>
-  <updated>2023-11-17T22:54:46Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>enbugging: CompilateursENS</title>
-  <author>
-   <name>enbugging</name>
-  </author>
-  <link href="https://github.com/enbugging/CompilateursENS" />
-  <id>urn:rprimus:github:enbugging:CompilateursENS</id>
-  <published>2023-11-17T17:14:35Z</published>
-  <updated>2023-11-17T17:14:35Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>yoon123seul: Compilers</title>
-  <author>
-   <name>yoon123seul</name>
-  </author>
-  <link href="https://github.com/yoon123seul/Compilers" />
-  <id>urn:rprimus:github:yoon123seul:Compilers</id>
-  <published>2023-11-17T14:10:30Z</published>
-  <updated>2023-11-17T14:10:30Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>aeliusrs: exercism</title>
-  <author>
-   <name>aeliusrs</name>
-  </author>
-  <link href="https://github.com/aeliusrs/exercism" />
-  <id>urn:rprimus:github:aeliusrs:exercism</id>
-  <published>2023-11-17T12:32:35Z</published>
-  <updated>2023-11-17T12:32:35Z</updated>
-  <content type="html">
-   My exercism repositories
-  </content>
- </entry>
- <entry>
-  <title>aeghost: ezcast-lwt</title>
-  <author>
-   <name>aeghost</name>
-  </author>
-  <link href="https://github.com/aeghost/ezcast-lwt" />
-  <id>urn:rprimus:github:aeghost:ezcast-lwt</id>
-  <published>2023-11-17T10:37:04Z</published>
-  <updated>2023-11-17T10:37:04Z</updated>
-  <content type="html">
-   Ez network cast library
-  </content>
- </entry>
- <entry>
-  <title>fkgfys: Interpreter</title>
-  <author>
-   <name>fkgfys</name>
-  </author>
-  <link href="https://github.com/fkgfys/Interpreter" />
-  <id>urn:rprimus:github:fkgfys:Interpreter</id>
-  <published>2023-11-17T00:13:49Z</published>
-  <updated>2023-11-17T00:13:49Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
