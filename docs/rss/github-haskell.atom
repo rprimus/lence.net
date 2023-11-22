@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-haskell.atom"/>
 <id>urn:rprimus:github:newhaskellrepos</id>
-<updated>2023-11-22T07:28:01Z</updated>
+<updated>2023-11-22T10:09:01Z</updated>
 <title type='text'>New GitHub Haskell Repos</title>
+ <entry>
+  <title>paulkoba: haskell</title>
+  <author>
+   <name>paulkoba</name>
+  </author>
+  <link href="https://github.com/paulkoba/haskell" />
+  <id>urn:rprimus:github:paulkoba:haskell</id>
+  <published>2023-11-22T10:09:01Z</published>
+  <updated>2023-11-22T10:09:01Z</updated>
+  <content type="html">
+   Labwork for functional programming course at Taras Shevchenko National University of Kyiv.
+  </content>
+ </entry>
  <entry>
   <title>dhruvSHA256: haskell-intro</title>
   <author>
@@ -525,19 +538,6 @@
   </content>
  </entry>
  <entry>
-  <title>Hanarin-Ltd: RevProxyServer</title>
-  <author>
-   <name>Hanarin-Ltd</name>
-  </author>
-  <link href="https://github.com/Hanarin-Ltd/RevProxyServer" />
-  <id>urn:rprimus:github:Hanarin-Ltd:RevProxyServer</id>
-  <published>2023-11-20T19:00:55Z</published>
-  <updated>2023-11-20T19:00:55Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
   <title>arthurrlima: if686-PLC</title>
   <author>
    <name>arthurrlima</name>
@@ -574,6 +574,19 @@
   <updated>2023-11-20T16:10:21Z</updated>
   <content type="html">
    Custom leaderboard for AoC
+  </content>
+ </entry>
+ <entry>
+  <title>alextpedro: Haskell-Static-Site-Generator</title>
+  <author>
+   <name>alextpedro</name>
+  </author>
+  <link href="https://github.com/alextpedro/Haskell-Static-Site-Generator" />
+  <id>urn:rprimus:github:alextpedro:Haskell-Static-Site-Generator</id>
+  <published>2023-11-20T16:02:21Z</published>
+  <updated>2023-11-20T16:02:21Z</updated>
+  <content type="html">
+   Learning Haskell through the programming of a static site generator. 
   </content>
  </entry>
  <entry>

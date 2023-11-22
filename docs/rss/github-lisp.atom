@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2023-11-22T08:04:02Z</updated>
+<updated>2023-11-22T10:22:11Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>Shinmera: machine-state</title>
+  <author>
+   <name>Shinmera</name>
+  </author>
+  <link href="https://github.com/Shinmera/machine-state" />
+  <id>urn:rprimus:github:Shinmera:machine-state</id>
+  <published>2023-11-22T10:22:11Z</published>
+  <updated>2023-11-22T10:22:11Z</updated>
+  <content type="html">
+   Retrieve machine state information about CPU time, memory usage, etc.
+  </content>
+ </entry>
+ <entry>
+  <title>Meritamen: recreational</title>
+  <author>
+   <name>Meritamen</name>
+  </author>
+  <link href="https://github.com/Meritamen/recreational" />
+  <id>urn:rprimus:github:Meritamen:recreational</id>
+  <published>2023-11-22T09:19:47Z</published>
+  <updated>2023-11-22T09:19:47Z</updated>
+  <content type="html">
+   Code snippets merely for time wasting
+  </content>
+ </entry>
  <entry>
   <title>setmy-info: cl-commons</title>
   <author>
