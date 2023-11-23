@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2023-11-22T10:22:11Z</updated>
+<updated>2023-11-23T06:25:53Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>jl2: stdout-mandelbrot</title>
+  <author>
+   <name>jl2</name>
+  </author>
+  <link href="https://github.com/jl2/stdout-mandelbrot" />
+  <id>urn:rprimus:github:jl2:stdout-mandelbrot</id>
+  <published>2023-11-23T06:25:53Z</published>
+  <updated>2023-11-23T06:25:53Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>yusufmalikul: learn-lisp</title>
+  <author>
+   <name>yusufmalikul</name>
+  </author>
+  <link href="https://github.com/yusufmalikul/learn-lisp" />
+  <id>urn:rprimus:github:yusufmalikul:learn-lisp</id>
+  <published>2023-11-23T02:24:15Z</published>
+  <updated>2023-11-23T02:24:15Z</updated>
+  <content type="html">
+   Collection of Common Lisp code snippet.
+  </content>
+ </entry>
+ <entry>
+  <title>li-yiyang: tiny-renderer</title>
+  <author>
+   <name>li-yiyang</name>
+  </author>
+  <link href="https://github.com/li-yiyang/tiny-renderer" />
+  <id>urn:rprimus:github:li-yiyang:tiny-renderer</id>
+  <published>2023-11-22T13:01:34Z</published>
+  <updated>2023-11-22T13:01:34Z</updated>
+  <content type="html">
+   My learning note of TinyRenderer via Common Lisp.
+  </content>
+ </entry>
  <entry>
   <title>Shinmera: machine-state</title>
   <author>
@@ -27,7 +66,7 @@
   <published>2023-11-22T09:19:47Z</published>
   <updated>2023-11-22T09:19:47Z</updated>
   <content type="html">
-   Code snippets merely for time wasting
+   Brain-dead code snippets merely for time wasting
   </content>
  </entry>
  <entry>
@@ -93,19 +132,6 @@
   <updated>2023-11-21T11:13:44Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>li-yiyang: cl-corsika</title>
-  <author>
-   <name>li-yiyang</name>
-  </author>
-  <link href="https://github.com/li-yiyang/cl-corsika" />
-  <id>urn:rprimus:github:li-yiyang:cl-corsika</id>
-  <published>2023-11-20T08:19:20Z</published>
-  <updated>2023-11-20T08:19:20Z</updated>
-  <content type="html">
-   A package that read Corsika output.
   </content>
  </entry>
 </feed>
