@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-erlang.atom"/>
 <id>urn:rprimus:github:newerlangrepos</id>
-<updated>2023-11-22T03:32:03Z</updated>
+<updated>2023-11-23T14:41:37Z</updated>
 <title type='text'>New GitHub Erlang Repos</title>
+ <entry>
+  <title>phm-esl: sandpit</title>
+  <author>
+   <name>phm-esl</name>
+  </author>
+  <link href="https://github.com/phm-esl/sandpit" />
+  <id>urn:rprimus:github:phm-esl:sandpit</id>
+  <published>2023-11-23T14:41:37Z</published>
+  <updated>2023-11-23T14:41:37Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>SergMartidi: webserver</title>
+  <author>
+   <name>SergMartidi</name>
+  </author>
+  <link href="https://github.com/SergMartidi/webserver" />
+  <id>urn:rprimus:github:SergMartidi:webserver</id>
+  <published>2023-11-23T11:33:37Z</published>
+  <updated>2023-11-23T11:33:37Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>zinirun: elk-practice</title>
+  <author>
+   <name>zinirun</name>
+  </author>
+  <link href="https://github.com/zinirun/elk-practice" />
+  <id>urn:rprimus:github:zinirun:elk-practice</id>
+  <published>2023-11-22T07:47:03Z</published>
+  <updated>2023-11-22T07:47:03Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>geeksilva97: state_machines</title>
   <author>
@@ -15,45 +54,6 @@
   <updated>2023-11-22T03:32:03Z</updated>
   <content type="html">
    Demonstrations of state machine in Erlang and Elixir using gen_statem + ruby implementation
-  </content>
- </entry>
- <entry>
-  <title>lafirest: rebar3_dynamic_plugin</title>
-  <author>
-   <name>lafirest</name>
-  </author>
-  <link href="https://github.com/lafirest/rebar3_dynamic_plugin" />
-  <id>urn:rprimus:github:lafirest:rebar3_dynamic_plugin</id>
-  <published>2023-11-21T12:13:09Z</published>
-  <updated>2023-11-21T12:13:09Z</updated>
-  <content type="html">
-   A plugin which directly passthrough the rebar3 provider call to a specific script
-  </content>
- </entry>
- <entry>
-  <title>gmas: cpds-paxy</title>
-  <author>
-   <name>gmas</name>
-  </author>
-  <link href="https://github.com/gmas/cpds-paxy" />
-  <id>urn:rprimus:github:gmas:cpds-paxy</id>
-  <published>2023-11-21T10:15:17Z</published>
-  <updated>2023-11-21T10:15:17Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>zaryntech: beamhub</title>
-  <author>
-   <name>zaryntech</name>
-  </author>
-  <link href="https://github.com/zaryntech/beamhub" />
-  <id>urn:rprimus:github:zaryntech:beamhub</id>
-  <published>2023-11-21T08:03:16Z</published>
-  <updated>2023-11-21T08:03:16Z</updated>
-  <content type="html">
-   Beamhub is an Distributed Data Storage Platform for Mazaryn Social Network 
   </content>
  </entry>
 </feed>
