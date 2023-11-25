@@ -2,8 +2,125 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2023-11-24T10:00:07Z</updated>
+<updated>2023-11-25T07:46:21Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>nonk123: emacs-cmake-utils</title>
+  <author>
+   <name>nonk123</name>
+  </author>
+  <link href="https://github.com/nonk123/emacs-cmake-utils" />
+  <id>urn:rprimus:github:nonk123:emacs-cmake-utils</id>
+  <published>2023-11-25T07:46:21Z</published>
+  <updated>2023-11-25T07:46:21Z</updated>
+  <content type="html">
+   CMake utility commands for Emacs!
+  </content>
+ </entry>
+ <entry>
+  <title>chosenbit: Compiler</title>
+  <author>
+   <name>chosenbit</name>
+  </author>
+  <link href="https://github.com/chosenbit/Compiler" />
+  <id>urn:rprimus:github:chosenbit:Compiler</id>
+  <published>2023-11-25T02:13:59Z</published>
+  <updated>2023-11-25T02:13:59Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>emacs-straight: theme-buffet</title>
+  <author>
+   <name>emacs-straight</name>
+  </author>
+  <link href="https://github.com/emacs-straight/theme-buffet" />
+  <id>urn:rprimus:github:emacs-straight:theme-buffet</id>
+  <published>2023-11-25T00:05:27Z</published>
+  <updated>2023-11-25T00:05:27Z</updated>
+  <content type="html">
+   Mirror of the theme-buffet package from GNU ELPA, current as of 2023-11-25
+  </content>
+ </entry>
+ <entry>
+  <title>emacsmirror: theme-buffet</title>
+  <author>
+   <name>emacsmirror</name>
+  </author>
+  <link href="https://github.com/emacsmirror/theme-buffet" />
+  <id>urn:rprimus:github:emacsmirror:theme-buffet</id>
+  <published>2023-11-24T23:29:26Z</published>
+  <updated>2023-11-24T23:29:26Z</updated>
+  <content type="html">
+   Time based theme switcher
+  </content>
+ </entry>
+ <entry>
+  <title>goband34: emacs-config</title>
+  <author>
+   <name>goband34</name>
+  </author>
+  <link href="https://github.com/goband34/emacs-config" />
+  <id>urn:rprimus:github:goband34:emacs-config</id>
+  <published>2023-11-24T22:26:04Z</published>
+  <updated>2023-11-24T22:26:04Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>xenodium: EmacsMacOSModule</title>
+  <author>
+   <name>xenodium</name>
+  </author>
+  <link href="https://github.com/xenodium/EmacsMacOSModule" />
+  <id>urn:rprimus:github:xenodium:EmacsMacOSModule</id>
+  <published>2023-11-24T21:01:36Z</published>
+  <updated>2023-11-24T21:01:36Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>eeshugerman: sql-databricks.el</title>
+  <author>
+   <name>eeshugerman</name>
+  </author>
+  <link href="https://github.com/eeshugerman/sql-databricks.el" />
+  <id>urn:rprimus:github:eeshugerman:sql-databricks.el</id>
+  <published>2023-11-24T19:50:43Z</published>
+  <updated>2023-11-24T19:50:43Z</updated>
+  <content type="html">
+   Databricks SQL support for sql.el
+  </content>
+ </entry>
+ <entry>
+  <title>gregoryg: org-powerslides</title>
+  <author>
+   <name>gregoryg</name>
+  </author>
+  <link href="https://github.com/gregoryg/org-powerslides" />
+  <id>urn:rprimus:github:gregoryg:org-powerslides</id>
+  <published>2023-11-24T18:17:52Z</published>
+  <updated>2023-11-24T18:17:52Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>crap0101: emacs_vibuf</title>
+  <author>
+   <name>crap0101</name>
+  </author>
+  <link href="https://github.com/crap0101/emacs_vibuf" />
+  <id>urn:rprimus:github:crap0101:emacs_vibuf</id>
+  <published>2023-11-24T14:50:20Z</published>
+  <updated>2023-11-24T14:50:20Z</updated>
+  <content type="html">
+   Switch between visiting buffers (from files) trying to not mess up things.
+  </content>
+ </entry>
  <entry>
   <title>goosecoid: doom</title>
   <author>
@@ -15,6 +132,19 @@
   <updated>2023-11-24T10:00:07Z</updated>
   <content type="html">
    doom emacs conf
+  </content>
+ </entry>
+ <entry>
+  <title>adelplanque: dedicate-windows-manually</title>
+  <author>
+   <name>adelplanque</name>
+  </author>
+  <link href="https://github.com/adelplanque/dedicate-windows-manually" />
+  <id>urn:rprimus:github:adelplanque:dedicate-windows-manually</id>
+  <published>2023-11-24T09:56:28Z</published>
+  <updated>2023-11-24T09:56:28Z</updated>
+  <content type="html">
+   
   </content>
  </entry>
  <entry>
@@ -54,19 +184,6 @@
   <updated>2023-11-24T03:23:06Z</updated>
   <content type="html">
    Dot-Files of my Doom Emacs configuration
-  </content>
- </entry>
- <entry>
-  <title>skehrli: skehrli.github.io</title>
-  <author>
-   <name>skehrli</name>
-  </author>
-  <link href="https://github.com/skehrli/skehrli.github.io" />
-  <id>urn:rprimus:github:skehrli:skehrli.github.io</id>
-  <published>2023-11-24T02:13:56Z</published>
-  <updated>2023-11-24T02:13:56Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
  <entry>
@@ -135,6 +252,19 @@
   </content>
  </entry>
  <entry>
+  <title>NicoDevStuff: emacs-config</title>
+  <author>
+   <name>NicoDevStuff</name>
+  </author>
+  <link href="https://github.com/NicoDevStuff/emacs-config" />
+  <id>urn:rprimus:github:NicoDevStuff:emacs-config</id>
+  <published>2023-11-23T16:31:51Z</published>
+  <updated>2023-11-23T16:31:51Z</updated>
+  <content type="html">
+   My emacs config
+  </content>
+ </entry>
+ <entry>
   <title>marki259: .emacs</title>
   <author>
    <name>marki259</name>
@@ -169,6 +299,19 @@
   <id>urn:rprimus:github:iboukhss:.emacs.d</id>
   <published>2023-11-23T10:01:49Z</published>
   <updated>2023-11-23T10:01:49Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>owenyi2: Bad_Apple_elisp_formatting</title>
+  <author>
+   <name>owenyi2</name>
+  </author>
+  <link href="https://github.com/owenyi2/Bad_Apple_elisp_formatting" />
+  <id>urn:rprimus:github:owenyi2:Bad_Apple_elisp_formatting</id>
+  <published>2023-11-23T05:30:53Z</published>
+  <updated>2023-11-23T05:30:53Z</updated>
   <content type="html">
    
   </content>
@@ -236,266 +379,6 @@
   <updated>2023-11-23T00:04:48Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>KeyWeeUsr: ob-base64</title>
-  <author>
-   <name>KeyWeeUsr</name>
-  </author>
-  <link href="https://github.com/KeyWeeUsr/ob-base64" />
-  <id>urn:rprimus:github:KeyWeeUsr:ob-base64</id>
-  <published>2023-11-22T23:57:25Z</published>
-  <updated>2023-11-22T23:57:25Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>kingofdreams777: doom</title>
-  <author>
-   <name>kingofdreams777</name>
-  </author>
-  <link href="https://github.com/kingofdreams777/doom" />
-  <id>urn:rprimus:github:kingofdreams777:doom</id>
-  <published>2023-11-22T22:16:10Z</published>
-  <updated>2023-11-22T22:16:10Z</updated>
-  <content type="html">
-   holds my config for emacs
-  </content>
- </entry>
- <entry>
-  <title>ahmed-alllam: dotfiles</title>
-  <author>
-   <name>ahmed-alllam</name>
-  </author>
-  <link href="https://github.com/ahmed-alllam/dotfiles" />
-  <id>urn:rprimus:github:ahmed-alllam:dotfiles</id>
-  <published>2023-11-22T21:53:37Z</published>
-  <updated>2023-11-22T21:53:37Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>gwaterisland: emacs</title>
-  <author>
-   <name>gwaterisland</name>
-  </author>
-  <link href="https://github.com/gwaterisland/emacs" />
-  <id>urn:rprimus:github:gwaterisland:emacs</id>
-  <published>2023-11-22T20:55:11Z</published>
-  <updated>2023-11-22T20:55:11Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>lcolonq: giving</title>
-  <author>
-   <name>lcolonq</name>
-  </author>
-  <link href="https://github.com/lcolonq/giving" />
-  <id>urn:rprimus:github:lcolonq:giving</id>
-  <published>2023-11-22T20:32:52Z</published>
-  <updated>2023-11-22T20:32:52Z</updated>
-  <content type="html">
-   Forth&#039;s giving
-  </content>
- </entry>
- <entry>
-  <title>tomasz-lutoborski: .emacs.d</title>
-  <author>
-   <name>tomasz-lutoborski</name>
-  </author>
-  <link href="https://github.com/tomasz-lutoborski/.emacs.d" />
-  <id>urn:rprimus:github:tomasz-lutoborski:.emacs.d</id>
-  <published>2023-11-22T20:04:55Z</published>
-  <updated>2023-11-22T20:04:55Z</updated>
-  <content type="html">
-   emacs configuration
-  </content>
- </entry>
- <entry>
-  <title>cashpw: summarize-agenda-time</title>
-  <author>
-   <name>cashpw</name>
-  </author>
-  <link href="https://github.com/cashpw/summarize-agenda-time" />
-  <id>urn:rprimus:github:cashpw:summarize-agenda-time</id>
-  <published>2023-11-22T18:27:39Z</published>
-  <updated>2023-11-22T18:27:39Z</updated>
-  <content type="html">
-   Summarize efforts and scheduled time in agenda views.
-  </content>
- </entry>
- <entry>
-  <title>semenInRussia: emmet3</title>
-  <author>
-   <name>semenInRussia</name>
-  </author>
-  <link href="https://github.com/semenInRussia/emmet3" />
-  <id>urn:rprimus:github:semenInRussia:emmet3</id>
-  <published>2023-11-22T17:29:18Z</published>
-  <updated>2023-11-22T17:29:18Z</updated>
-  <content type="html">
-   auto completion for Emmet in Emacs
-  </content>
- </entry>
- <entry>
-  <title>velvetrock9: .emacs.d</title>
-  <author>
-   <name>velvetrock9</name>
-  </author>
-  <link href="https://github.com/velvetrock9/.emacs.d" />
-  <id>urn:rprimus:github:velvetrock9:.emacs.d</id>
-  <published>2023-11-22T16:22:59Z</published>
-  <updated>2023-11-22T16:22:59Z</updated>
-  <content type="html">
-   emacs dot files
-  </content>
- </entry>
- <entry>
-  <title>njs-emacs: emacs</title>
-  <author>
-   <name>njs-emacs</name>
-  </author>
-  <link href="https://github.com/njs-emacs/emacs" />
-  <id>urn:rprimus:github:njs-emacs:emacs</id>
-  <published>2023-11-22T13:00:03Z</published>
-  <updated>2023-11-22T13:00:03Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ivvil: EmacsLinux</title>
-  <author>
-   <name>ivvil</name>
-  </author>
-  <link href="https://github.com/ivvil/EmacsLinux" />
-  <id>urn:rprimus:github:ivvil:EmacsLinux</id>
-  <published>2023-11-22T12:13:06Z</published>
-  <updated>2023-11-22T12:13:06Z</updated>
-  <content type="html">
-   Check linux distro inside of emacs
-  </content>
- </entry>
- <entry>
-  <title>fabinholima: NewEmacs</title>
-  <author>
-   <name>fabinholima</name>
-  </author>
-  <link href="https://github.com/fabinholima/NewEmacs" />
-  <id>urn:rprimus:github:fabinholima:NewEmacs</id>
-  <published>2023-11-22T11:29:00Z</published>
-  <updated>2023-11-22T11:29:00Z</updated>
-  <content type="html">
-   Nova config Emacs
-  </content>
- </entry>
- <entry>
-  <title>s4lmon: spacemacs</title>
-  <author>
-   <name>s4lmon</name>
-  </author>
-  <link href="https://github.com/s4lmon/spacemacs" />
-  <id>urn:rprimus:github:s4lmon:spacemacs</id>
-  <published>2023-11-22T10:11:12Z</published>
-  <updated>2023-11-22T10:11:12Z</updated>
-  <content type="html">
-   Spacemacs backup
-  </content>
- </entry>
- <entry>
-  <title>crmsnbleyd: uiua-ts-mode</title>
-  <author>
-   <name>crmsnbleyd</name>
-  </author>
-  <link href="https://github.com/crmsnbleyd/uiua-ts-mode" />
-  <id>urn:rprimus:github:crmsnbleyd:uiua-ts-mode</id>
-  <published>2023-11-22T09:31:52Z</published>
-  <updated>2023-11-22T09:31:52Z</updated>
-  <content type="html">
-   Emacs major mode for Uiua, a stack-based array language, powered by tree-sitter
-  </content>
- </entry>
- <entry>
-  <title>roby-ianny: dotfiles</title>
-  <author>
-   <name>roby-ianny</name>
-  </author>
-  <link href="https://github.com/roby-ianny/dotfiles" />
-  <id>urn:rprimus:github:roby-ianny:dotfiles</id>
-  <published>2023-11-22T07:08:36Z</published>
-  <updated>2023-11-22T07:08:36Z</updated>
-  <content type="html">
-   Every config file that i use
-  </content>
- </entry>
- <entry>
-  <title>juselara1: juselara_emacs</title>
-  <author>
-   <name>juselara1</name>
-  </author>
-  <link href="https://github.com/juselara1/juselara_emacs" />
-  <id>urn:rprimus:github:juselara1:juselara_emacs</id>
-  <published>2023-11-22T03:57:55Z</published>
-  <updated>2023-11-22T03:57:55Z</updated>
-  <content type="html">
-   Emacs configuration
-  </content>
- </entry>
- <entry>
-  <title>Mrsyuu: nyan-mode-with-pomodoro</title>
-  <author>
-   <name>Mrsyuu</name>
-  </author>
-  <link href="https://github.com/Mrsyuu/nyan-mode-with-pomodoro" />
-  <id>urn:rprimus:github:Mrsyuu:nyan-mode-with-pomodoro</id>
-  <published>2023-11-22T03:31:13Z</published>
-  <updated>2023-11-22T03:31:13Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>adalbertog20: dotfiles</title>
-  <author>
-   <name>adalbertog20</name>
-  </author>
-  <link href="https://github.com/adalbertog20/dotfiles" />
-  <id>urn:rprimus:github:adalbertog20:dotfiles</id>
-  <published>2023-11-22T02:33:18Z</published>
-  <updated>2023-11-22T02:33:18Z</updated>
-  <content type="html">
-   My Linux Dotfiles
-  </content>
- </entry>
- <entry>
-  <title>elijah-u: emacs_configs</title>
-  <author>
-   <name>elijah-u</name>
-  </author>
-  <link href="https://github.com/elijah-u/emacs_configs" />
-  <id>urn:rprimus:github:elijah-u:emacs_configs</id>
-  <published>2023-11-22T02:15:58Z</published>
-  <updated>2023-11-22T02:15:58Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>buttergrillcorn: dot</title>
-  <author>
-   <name>buttergrillcorn</name>
-  </author>
-  <link href="https://github.com/buttergrillcorn/dot" />
-  <id>urn:rprimus:github:buttergrillcorn:dot</id>
-  <published>2023-11-22T01:27:18Z</published>
-  <updated>2023-11-22T01:27:18Z</updated>
-  <content type="html">
-   My dotfiles managed using Dotdrop
   </content>
  </entry>
 </feed>

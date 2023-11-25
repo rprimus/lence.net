@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2023-11-24T10:01:29Z</updated>
+<updated>2023-11-24T23:12:07Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>bmansurov: cl-telegram-bot</title>
+  <author>
+   <name>bmansurov</name>
+  </author>
+  <link href="https://github.com/bmansurov/cl-telegram-bot" />
+  <id>urn:rprimus:github:bmansurov:cl-telegram-bot</id>
+  <published>2023-11-24T23:12:07Z</published>
+  <updated>2023-11-24T23:12:07Z</updated>
+  <content type="html">
+   Library for interacting with the Telegram API
+  </content>
+ </entry>
+ <entry>
+  <title>artech-dvd: logoblocks-new</title>
+  <author>
+   <name>artech-dvd</name>
+  </author>
+  <link href="https://github.com/artech-dvd/logoblocks-new" />
+  <id>urn:rprimus:github:artech-dvd:logoblocks-new</id>
+  <published>2023-11-24T22:43:49Z</published>
+  <updated>2023-11-24T22:43:49Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>johnhilts: kindle-note-utility</title>
+  <author>
+   <name>johnhilts</name>
+  </author>
+  <link href="https://github.com/johnhilts/kindle-note-utility" />
+  <id>urn:rprimus:github:johnhilts:kindle-note-utility</id>
+  <published>2023-11-24T17:48:00Z</published>
+  <updated>2023-11-24T17:48:00Z</updated>
+  <content type="html">
+   Wrote some functions that parse notes from a kindle device
+  </content>
+ </entry>
+ <entry>
+  <title>motoshira: cobblestone</title>
+  <author>
+   <name>motoshira</name>
+  </author>
+  <link href="https://github.com/motoshira/cobblestone" />
+  <id>urn:rprimus:github:motoshira:cobblestone</id>
+  <published>2023-11-24T13:23:01Z</published>
+  <updated>2023-11-24T13:23:01Z</updated>
+  <content type="html">
+   Structural validation library for Common Lisp
+  </content>
+ </entry>
  <entry>
   <title>unixtech-06: cl-todolist</title>
   <author>
@@ -41,6 +93,19 @@
   <updated>2023-11-24T04:52:30Z</updated>
   <content type="html">
    Learn Pali using the graduated interval recall method pioneered by Dr. Pimsleur
+  </content>
+ </entry>
+ <entry>
+  <title>perimetro20: daga</title>
+  <author>
+   <name>perimetro20</name>
+  </author>
+  <link href="https://github.com/perimetro20/daga" />
+  <id>urn:rprimus:github:perimetro20:daga</id>
+  <published>2023-11-24T00:09:37Z</published>
+  <updated>2023-11-24T00:09:37Z</updated>
+  <content type="html">
+   daga.fyi main repository
   </content>
  </entry>
  <entry>
@@ -132,58 +197,6 @@
   <updated>2023-11-23T02:24:15Z</updated>
   <content type="html">
    Collection of Common Lisp code snippet.
-  </content>
- </entry>
- <entry>
-  <title>li-yiyang: tiny-renderer</title>
-  <author>
-   <name>li-yiyang</name>
-  </author>
-  <link href="https://github.com/li-yiyang/tiny-renderer" />
-  <id>urn:rprimus:github:li-yiyang:tiny-renderer</id>
-  <published>2023-11-22T13:01:34Z</published>
-  <updated>2023-11-22T13:01:34Z</updated>
-  <content type="html">
-   My learning note of TinyRenderer via Common Lisp.
-  </content>
- </entry>
- <entry>
-  <title>Shinmera: machine-state</title>
-  <author>
-   <name>Shinmera</name>
-  </author>
-  <link href="https://github.com/Shinmera/machine-state" />
-  <id>urn:rprimus:github:Shinmera:machine-state</id>
-  <published>2023-11-22T10:22:11Z</published>
-  <updated>2023-11-22T10:22:11Z</updated>
-  <content type="html">
-   Retrieve machine state information about CPU time, memory usage, etc.
-  </content>
- </entry>
- <entry>
-  <title>Meritamen: recreational</title>
-  <author>
-   <name>Meritamen</name>
-  </author>
-  <link href="https://github.com/Meritamen/recreational" />
-  <id>urn:rprimus:github:Meritamen:recreational</id>
-  <published>2023-11-22T09:19:47Z</published>
-  <updated>2023-11-22T09:19:47Z</updated>
-  <content type="html">
-   Brain-dead code snippets merely for time wasting
-  </content>
- </entry>
- <entry>
-  <title>setmy-info: cl-commons</title>
-  <author>
-   <name>setmy-info</name>
-  </author>
-  <link href="https://github.com/setmy-info/cl-commons" />
-  <id>urn:rprimus:github:setmy-info:cl-commons</id>
-  <published>2023-11-22T08:04:02Z</published>
-  <updated>2023-11-22T08:04:02Z</updated>
-  <content type="html">
-   Common Lisp commons
   </content>
  </entry>
 </feed>
