@@ -2,8 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2023-11-24T23:12:07Z</updated>
+<updated>2023-11-26T01:38:18Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>ocicl: ocicl-manage</title>
+  <author>
+   <name>ocicl</name>
+  </author>
+  <link href="https://github.com/ocicl/ocicl-manage" />
+  <id>urn:rprimus:github:ocicl:ocicl-manage</id>
+  <published>2023-11-26T01:38:18Z</published>
+  <updated>2023-11-26T01:38:18Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>colfrog: toot-fortune</title>
+  <author>
+   <name>colfrog</name>
+  </author>
+  <link href="https://github.com/colfrog/toot-fortune" />
+  <id>urn:rprimus:github:colfrog:toot-fortune</id>
+  <published>2023-11-26T01:19:49Z</published>
+  <updated>2023-11-26T01:19:49Z</updated>
+  <content type="html">
+   Toot the output of fortune(6) a few times a day.
+  </content>
+ </entry>
+ <entry>
+  <title>colfrog: gfortune</title>
+  <author>
+   <name>colfrog</name>
+  </author>
+  <link href="https://github.com/colfrog/gfortune" />
+  <id>urn:rprimus:github:colfrog:gfortune</id>
+  <published>2023-11-25T21:15:59Z</published>
+  <updated>2023-11-25T21:15:59Z</updated>
+  <content type="html">
+   A GTK4 program that shows fortunes from fortune(6)
+  </content>
+ </entry>
+ <entry>
+  <title>hexathe6: lispylangs</title>
+  <author>
+   <name>hexathe6</name>
+  </author>
+  <link href="https://github.com/hexathe6/lispylangs" />
+  <id>urn:rprimus:github:hexathe6:lispylangs</id>
+  <published>2023-11-25T18:42:35Z</published>
+  <updated>2023-11-25T18:42:35Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>michaeldelago: protohackers</title>
+  <author>
+   <name>michaeldelago</name>
+  </author>
+  <link href="https://github.com/michaeldelago/protohackers" />
+  <id>urn:rprimus:github:michaeldelago:protohackers</id>
+  <published>2023-11-25T18:21:08Z</published>
+  <updated>2023-11-25T18:21:08Z</updated>
+  <content type="html">
+   we do a little protohackin
+  </content>
+ </entry>
+ <entry>
+  <title>bhlieberman: aoc_token</title>
+  <author>
+   <name>bhlieberman</name>
+  </author>
+  <link href="https://github.com/bhlieberman/aoc_token" />
+  <id>urn:rprimus:github:bhlieberman:aoc_token</id>
+  <published>2023-11-25T17:04:37Z</published>
+  <updated>2023-11-25T17:04:37Z</updated>
+  <content type="html">
+   Common Lisp package to get AOC input from session token
+  </content>
+ </entry>
+ <entry>
+  <title>galdor: advent-of-code-2023</title>
+  <author>
+   <name>galdor</name>
+  </author>
+  <link href="https://github.com/galdor/advent-of-code-2023" />
+  <id>urn:rprimus:github:galdor:advent-of-code-2023</id>
+  <published>2023-11-25T13:54:27Z</published>
+  <updated>2023-11-25T13:54:27Z</updated>
+  <content type="html">
+   Solutions for the Advent of Code 2023 in Common Lisp.
+  </content>
+ </entry>
  <entry>
   <title>bmansurov: cl-telegram-bot</title>
   <author>
@@ -41,6 +132,19 @@
   <updated>2023-11-24T17:48:00Z</updated>
   <content type="html">
    Wrote some functions that parse notes from a kindle device
+  </content>
+ </entry>
+ <entry>
+  <title>suptower: lisp-ical-cli</title>
+  <author>
+   <name>suptower</name>
+  </author>
+  <link href="https://github.com/suptower/lisp-ical-cli" />
+  <id>urn:rprimus:github:suptower:lisp-ical-cli</id>
+  <published>2023-11-24T14:27:42Z</published>
+  <updated>2023-11-24T14:27:42Z</updated>
+  <content type="html">
+   iCalendar parser and cli-tool written in CommonLisp.
   </content>
  </entry>
  <entry>
@@ -106,97 +210,6 @@
   <updated>2023-11-24T00:09:37Z</updated>
   <content type="html">
    daga.fyi main repository
-  </content>
- </entry>
- <entry>
-  <title>takeiteasy: cl-sokol</title>
-  <author>
-   <name>takeiteasy</name>
-  </author>
-  <link href="https://github.com/takeiteasy/cl-sokol" />
-  <id>urn:rprimus:github:takeiteasy:cl-sokol</id>
-  <published>2023-11-23T17:21:23Z</published>
-  <updated>2023-11-23T17:21:23Z</updated>
-  <content type="html">
-   Common Lisp bindings + wrapper for sokol libraries
-  </content>
- </entry>
- <entry>
-  <title>guitarvydas: ecs</title>
-  <author>
-   <name>guitarvydas</name>
-  </author>
-  <link href="https://github.com/guitarvydas/ecs" />
-  <id>urn:rprimus:github:guitarvydas:ecs</id>
-  <published>2023-11-23T15:18:57Z</published>
-  <updated>2023-11-23T15:18:57Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>TenebraeX8: lisp-qbf</title>
-  <author>
-   <name>TenebraeX8</name>
-  </author>
-  <link href="https://github.com/TenebraeX8/lisp-qbf" />
-  <id>urn:rprimus:github:TenebraeX8:lisp-qbf</id>
-  <published>2023-11-23T13:07:52Z</published>
-  <updated>2023-11-23T13:07:52Z</updated>
-  <content type="html">
-   A very small library for quantified boolean formulas
-  </content>
- </entry>
- <entry>
-  <title>Eduardo-Silveiro: KnightGame_IA</title>
-  <author>
-   <name>Eduardo-Silveiro</name>
-  </author>
-  <link href="https://github.com/Eduardo-Silveiro/KnightGame_IA" />
-  <id>urn:rprimus:github:Eduardo-Silveiro:KnightGame_IA</id>
-  <published>2023-11-23T11:43:40Z</published>
-  <updated>2023-11-23T11:43:40Z</updated>
-  <content type="html">
-   Projeto IA Knight Game IPS 2023/2024
-  </content>
- </entry>
- <entry>
-  <title>PiroDev: lisp-labs</title>
-  <author>
-   <name>PiroDev</name>
-  </author>
-  <link href="https://github.com/PiroDev/lisp-labs" />
-  <id>urn:rprimus:github:PiroDev:lisp-labs</id>
-  <published>2023-11-23T11:14:51Z</published>
-  <updated>2023-11-23T11:14:51Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jl2: stdout-mandelbrot</title>
-  <author>
-   <name>jl2</name>
-  </author>
-  <link href="https://github.com/jl2/stdout-mandelbrot" />
-  <id>urn:rprimus:github:jl2:stdout-mandelbrot</id>
-  <published>2023-11-23T06:25:53Z</published>
-  <updated>2023-11-23T06:25:53Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>yusufmalikul: learn-lisp</title>
-  <author>
-   <name>yusufmalikul</name>
-  </author>
-  <link href="https://github.com/yusufmalikul/learn-lisp" />
-  <id>urn:rprimus:github:yusufmalikul:learn-lisp</id>
-  <published>2023-11-23T02:24:15Z</published>
-  <updated>2023-11-23T02:24:15Z</updated>
-  <content type="html">
-   Collection of Common Lisp code snippet.
   </content>
  </entry>
 </feed>

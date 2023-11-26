@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2023-11-25T08:00:43Z</updated>
+<updated>2023-11-26T04:18:55Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>hxb2012: melpa</title>
+  <author>
+   <name>hxb2012</name>
+  </author>
+  <link href="https://github.com/hxb2012/melpa" />
+  <id>urn:rprimus:github:hxb2012:melpa</id>
+  <published>2023-11-26T04:18:55Z</published>
+  <updated>2023-11-26T04:18:55Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>wi11dey: variable-pitch-indent</title>
+  <author>
+   <name>wi11dey</name>
+  </author>
+  <link href="https://github.com/wi11dey/variable-pitch-indent" />
+  <id>urn:rprimus:github:wi11dey:variable-pitch-indent</id>
+  <published>2023-11-26T00:27:03Z</published>
+  <updated>2023-11-26T00:27:03Z</updated>
+  <content type="html">
+   Indent code even when using variable-pitch faces in Emacs
+  </content>
+ </entry>
+ <entry>
+  <title>Hinivir: doom_emacs</title>
+  <author>
+   <name>Hinivir</name>
+  </author>
+  <link href="https://github.com/Hinivir/doom_emacs" />
+  <id>urn:rprimus:github:Hinivir:doom_emacs</id>
+  <published>2023-11-25T22:00:32Z</published>
+  <updated>2023-11-25T22:00:32Z</updated>
+  <content type="html">
+   My Doom Emacs repo
+  </content>
+ </entry>
+ <entry>
+  <title>TroyFletcher: mpu</title>
+  <author>
+   <name>TroyFletcher</name>
+  </author>
+  <link href="https://github.com/TroyFletcher/mpu" />
+  <id>urn:rprimus:github:TroyFletcher:mpu</id>
+  <published>2023-11-25T21:41:13Z</published>
+  <updated>2023-11-25T21:41:13Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>toruingithub: emacs.d</title>
+  <author>
+   <name>toruingithub</name>
+  </author>
+  <link href="https://github.com/toruingithub/emacs.d" />
+  <id>urn:rprimus:github:toruingithub:emacs.d</id>
+  <published>2023-11-25T18:30:13Z</published>
+  <updated>2023-11-25T18:30:13Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Davidbrcz: tla-ts-mode</title>
+  <author>
+   <name>Davidbrcz</name>
+  </author>
+  <link href="https://github.com/Davidbrcz/tla-ts-mode" />
+  <id>urn:rprimus:github:Davidbrcz:tla-ts-mode</id>
+  <published>2023-11-25T14:28:23Z</published>
+  <updated>2023-11-25T14:28:23Z</updated>
+  <content type="html">
+   TLA+ and PlusCal editing mode for emacs powered by tree-sitter
+  </content>
+ </entry>
  <entry>
   <title>hhirsch: memacs</title>
   <author>
@@ -44,6 +122,19 @@
   </content>
  </entry>
  <entry>
+  <title>mdewolfe: mdewolfe.github.io</title>
+  <author>
+   <name>mdewolfe</name>
+  </author>
+  <link href="https://github.com/mdewolfe/mdewolfe.github.io" />
+  <id>urn:rprimus:github:mdewolfe:mdewolfe.github.io</id>
+  <published>2023-11-25T02:37:15Z</published>
+  <updated>2023-11-25T02:37:15Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
   <title>chosenbit: Compiler</title>
   <author>
    <name>chosenbit</name>
@@ -66,7 +157,7 @@
   <published>2023-11-25T00:05:27Z</published>
   <updated>2023-11-25T00:05:27Z</updated>
   <content type="html">
-   Mirror of the theme-buffet package from GNU ELPA, current as of 2023-11-25
+   Mirror of the theme-buffet package from GNU ELPA, current as of 2023-11-26
   </content>
  </entry>
  <entry>
@@ -236,175 +327,6 @@
   <updated>2023-11-24T00:03:15Z</updated>
   <content type="html">
    A dark theme for emacs
-  </content>
- </entry>
- <entry>
-  <title>Walheimat: ship-mate</title>
-  <author>
-   <name>Walheimat</name>
-  </author>
-  <link href="https://github.com/Walheimat/ship-mate" />
-  <id>urn:rprimus:github:Walheimat:ship-mate</id>
-  <published>2023-11-23T20:08:05Z</published>
-  <updated>2023-11-23T20:08:05Z</updated>
-  <content type="html">
-   Project-scoped compilation
-  </content>
- </entry>
- <entry>
-  <title>alexb7711: elpa</title>
-  <author>
-   <name>alexb7711</name>
-  </author>
-  <link href="https://github.com/alexb7711/elpa" />
-  <id>urn:rprimus:github:alexb7711:elpa</id>
-  <published>2023-11-23T17:18:41Z</published>
-  <updated>2023-11-23T17:18:41Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>alexb7711: emacs</title>
-  <author>
-   <name>alexb7711</name>
-  </author>
-  <link href="https://github.com/alexb7711/emacs" />
-  <id>urn:rprimus:github:alexb7711:emacs</id>
-  <published>2023-11-23T17:18:30Z</published>
-  <updated>2023-11-23T17:18:30Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>NicoDevStuff: emacs-config</title>
-  <author>
-   <name>NicoDevStuff</name>
-  </author>
-  <link href="https://github.com/NicoDevStuff/emacs-config" />
-  <id>urn:rprimus:github:NicoDevStuff:emacs-config</id>
-  <published>2023-11-23T16:31:51Z</published>
-  <updated>2023-11-23T16:31:51Z</updated>
-  <content type="html">
-   My emacs config
-  </content>
- </entry>
- <entry>
-  <title>marki259: .emacs</title>
-  <author>
-   <name>marki259</name>
-  </author>
-  <link href="https://github.com/marki259/.emacs" />
-  <id>urn:rprimus:github:marki259:.emacs</id>
-  <published>2023-11-23T15:58:26Z</published>
-  <updated>2023-11-23T15:58:26Z</updated>
-  <content type="html">
-   emacs config
-  </content>
- </entry>
- <entry>
-  <title>Y0ngg4n: emacs-config</title>
-  <author>
-   <name>Y0ngg4n</name>
-  </author>
-  <link href="https://github.com/Y0ngg4n/emacs-config" />
-  <id>urn:rprimus:github:Y0ngg4n:emacs-config</id>
-  <published>2023-11-23T14:23:52Z</published>
-  <updated>2023-11-23T14:23:52Z</updated>
-  <content type="html">
-   My emacs configuration
-  </content>
- </entry>
- <entry>
-  <title>iboukhss: .emacs.d</title>
-  <author>
-   <name>iboukhss</name>
-  </author>
-  <link href="https://github.com/iboukhss/.emacs.d" />
-  <id>urn:rprimus:github:iboukhss:.emacs.d</id>
-  <published>2023-11-23T10:01:49Z</published>
-  <updated>2023-11-23T10:01:49Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>owenyi2: Bad_Apple_elisp_formatting</title>
-  <author>
-   <name>owenyi2</name>
-  </author>
-  <link href="https://github.com/owenyi2/Bad_Apple_elisp_formatting" />
-  <id>urn:rprimus:github:owenyi2:Bad_Apple_elisp_formatting</id>
-  <published>2023-11-23T05:30:53Z</published>
-  <updated>2023-11-23T05:30:53Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>wlharvey4: System-Inits</title>
-  <author>
-   <name>wlharvey4</name>
-  </author>
-  <link href="https://github.com/wlharvey4/System-Inits" />
-  <id>urn:rprimus:github:wlharvey4:System-Inits</id>
-  <published>2023-11-23T04:58:50Z</published>
-  <updated>2023-11-23T04:58:50Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Siegeszug: emacs_config</title>
-  <author>
-   <name>Siegeszug</name>
-  </author>
-  <link href="https://github.com/Siegeszug/emacs_config" />
-  <id>urn:rprimus:github:Siegeszug:emacs_config</id>
-  <published>2023-11-23T02:10:31Z</published>
-  <updated>2023-11-23T02:10:31Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>anmolsinghbhullar: journal-emacs-config</title>
-  <author>
-   <name>anmolsinghbhullar</name>
-  </author>
-  <link href="https://github.com/anmolsinghbhullar/journal-emacs-config" />
-  <id>urn:rprimus:github:anmolsinghbhullar:journal-emacs-config</id>
-  <published>2023-11-23T01:43:16Z</published>
-  <updated>2023-11-23T01:43:16Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>eeshugerman: sql-snowflake.el</title>
-  <author>
-   <name>eeshugerman</name>
-  </author>
-  <link href="https://github.com/eeshugerman/sql-snowflake.el" />
-  <id>urn:rprimus:github:eeshugerman:sql-snowflake.el</id>
-  <published>2023-11-23T00:17:18Z</published>
-  <updated>2023-11-23T00:17:18Z</updated>
-  <content type="html">
-   Snowflake support for sql.el
-  </content>
- </entry>
- <entry>
-  <title>justinac0: dotfiles</title>
-  <author>
-   <name>justinac0</name>
-  </author>
-  <link href="https://github.com/justinac0/dotfiles" />
-  <id>urn:rprimus:github:justinac0:dotfiles</id>
-  <published>2023-11-23T00:04:48Z</published>
-  <updated>2023-11-23T00:04:48Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
