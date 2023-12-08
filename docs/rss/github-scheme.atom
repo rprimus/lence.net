@@ -2,84 +2,188 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-scheme.atom"/>
 <id>urn:rprimus:github:newschemerepos</id>
-<updated>2023-11-27T07:19:57Z</updated>
+<updated>2023-12-08T19:27:20Z</updated>
 <title type='text'>New GitHub Scheme Repos</title>
  <entry>
-  <title>euler0: s7</title>
+  <title>chsasank: llama-scheme</title>
   <author>
-   <name>euler0</name>
+   <name>chsasank</name>
   </author>
-  <link href="https://github.com/euler0/s7" />
-  <id>urn:rprimus:github:euler0:s7</id>
-  <published>2023-11-27T07:19:57Z</published>
-  <updated>2023-11-27T07:19:57Z</updated>
+  <link href="https://github.com/chsasank/llama-scheme" />
+  <id>urn:rprimus:github:chsasank:llama-scheme</id>
+  <published>2023-12-08T19:27:20Z</published>
+  <updated>2023-12-08T19:27:20Z</updated>
   <content type="html">
-   A personal s7 mirror for version tagging
+   Scheme dialect that wraps ggml/llama library.
   </content>
  </entry>
  <entry>
-  <title>timrichardt: stern-brocot-chez</title>
+  <title>anjandn: aoc2023</title>
   <author>
-   <name>timrichardt</name>
+   <name>anjandn</name>
   </author>
-  <link href="https://github.com/timrichardt/stern-brocot-chez" />
-  <id>urn:rprimus:github:timrichardt:stern-brocot-chez</id>
-  <published>2023-11-26T13:26:52Z</published>
-  <updated>2023-11-26T13:26:52Z</updated>
+  <link href="https://github.com/anjandn/aoc2023" />
+  <id>urn:rprimus:github:anjandn:aoc2023</id>
+  <published>2023-12-08T18:05:55Z</published>
+  <updated>2023-12-08T18:05:55Z</updated>
+  <content type="html">
+   AOC 2023
+  </content>
+ </entry>
+ <entry>
+  <title>callamgraham: cig-guix</title>
+  <author>
+   <name>callamgraham</name>
+  </author>
+  <link href="https://github.com/callamgraham/cig-guix" />
+  <id>urn:rprimus:github:callamgraham:cig-guix</id>
+  <published>2023-12-08T01:52:22Z</published>
+  <updated>2023-12-08T01:52:22Z</updated>
+  <content type="html">
+   Channel for some personal Guix packages
+  </content>
+ </entry>
+ <entry>
+  <title>deearee: sicp</title>
+  <author>
+   <name>deearee</name>
+  </author>
+  <link href="https://github.com/deearee/sicp" />
+  <id>urn:rprimus:github:deearee:sicp</id>
+  <published>2023-12-07T21:46:15Z</published>
+  <updated>2023-12-07T21:46:15Z</updated>
+  <content type="html">
+   Excercises from &quot;Structure and Intepretation of Computer Programs&quot;
+  </content>
+ </entry>
+ <entry>
+  <title>joker1007: tree-sitter-rbs-queries</title>
+  <author>
+   <name>joker1007</name>
+  </author>
+  <link href="https://github.com/joker1007/tree-sitter-rbs-queries" />
+  <id>urn:rprimus:github:joker1007:tree-sitter-rbs-queries</id>
+  <published>2023-12-07T16:38:36Z</published>
+  <updated>2023-12-07T16:38:36Z</updated>
+  <content type="html">
+   Query definitions for nvim plugins using nvim-treesitter
+  </content>
+ </entry>
+ <entry>
+  <title>k4i0: AoC2023</title>
+  <author>
+   <name>k4i0</name>
+  </author>
+  <link href="https://github.com/k4i0/AoC2023" />
+  <id>urn:rprimus:github:k4i0:AoC2023</id>
+  <published>2023-12-07T16:24:37Z</published>
+  <updated>2023-12-07T16:24:37Z</updated>
+  <content type="html">
+   Advent of Code 2023
+  </content>
+ </entry>
+ <entry>
+  <title>gtzampanakis: guile-sqlite3</title>
+  <author>
+   <name>gtzampanakis</name>
+  </author>
+  <link href="https://github.com/gtzampanakis/guile-sqlite3" />
+  <id>urn:rprimus:github:gtzampanakis:guile-sqlite3</id>
+  <published>2023-12-07T10:07:07Z</published>
+  <updated>2023-12-07T10:07:07Z</updated>
+  <content type="html">
+   GNU Guile bidings for the sqlite3 database system
+  </content>
+ </entry>
+ <entry>
+  <title>shabab-kabir: SCAMPER_Musings</title>
+  <author>
+   <name>shabab-kabir</name>
+  </author>
+  <link href="https://github.com/shabab-kabir/SCAMPER_Musings" />
+  <id>urn:rprimus:github:shabab-kabir:SCAMPER_Musings</id>
+  <published>2023-12-07T00:04:58Z</published>
+  <updated>2023-12-07T00:04:58Z</updated>
+  <content type="html">
+   Several programming musings using SCAMPER, a functional language.
+  </content>
+ </entry>
+ <entry>
+  <title>bmatticus: dotfiles</title>
+  <author>
+   <name>bmatticus</name>
+  </author>
+  <link href="https://github.com/bmatticus/dotfiles" />
+  <id>urn:rprimus:github:bmatticus:dotfiles</id>
+  <published>2023-12-06T18:52:27Z</published>
+  <updated>2023-12-06T18:52:27Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>HolgerPeters: mestral</title>
+  <title>afgnsu: spss_statistics</title>
   <author>
-   <name>HolgerPeters</name>
+   <name>afgnsu</name>
   </author>
-  <link href="https://github.com/HolgerPeters/mestral" />
-  <id>urn:rprimus:github:HolgerPeters:mestral</id>
-  <published>2023-11-26T11:59:41Z</published>
-  <updated>2023-11-26T11:59:41Z</updated>
+  <link href="https://github.com/afgnsu/spss_statistics" />
+  <id>urn:rprimus:github:afgnsu:spss_statistics</id>
+  <published>2023-12-06T08:52:39Z</published>
+  <updated>2023-12-06T08:52:39Z</updated>
+  <content type="html">
+   SPSS+çµ±è¨å­¸
+  </content>
+ </entry>
+ <entry>
+  <title>kenya-eie-wg: kenya_locations</title>
+  <author>
+   <name>kenya-eie-wg</name>
+  </author>
+  <link href="https://github.com/kenya-eie-wg/kenya_locations" />
+  <id>urn:rprimus:github:kenya-eie-wg:kenya_locations</id>
+  <published>2023-12-06T05:40:43Z</published>
+  <updated>2023-12-06T05:40:43Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>maruhiro-ver0: nazghul-ja</title>
+  <title>samplet: advent2023</title>
   <author>
-   <name>maruhiro-ver0</name>
+   <name>samplet</name>
   </author>
-  <link href="https://github.com/maruhiro-ver0/nazghul-ja" />
-  <id>urn:rprimus:github:maruhiro-ver0:nazghul-ja</id>
-  <published>2023-11-26T02:13:27Z</published>
-  <updated>2023-11-26T02:13:27Z</updated>
+  <link href="https://github.com/samplet/advent2023" />
+  <id>urn:rprimus:github:samplet:advent2023</id>
+  <published>2023-12-06T04:14:29Z</published>
+  <updated>2023-12-06T04:14:29Z</updated>
   <content type="html">
-   Nazghul/Haxima æ¥æ¬èªç
+   Advent of Code 2023
   </content>
  </entry>
  <entry>
-  <title>miyamok: verified-epsilon-elimination</title>
+  <title>davidlenfesty: aoc2023</title>
   <author>
-   <name>miyamok</name>
+   <name>davidlenfesty</name>
   </author>
-  <link href="https://github.com/miyamok/verified-epsilon-elimination" />
-  <id>urn:rprimus:github:miyamok:verified-epsilon-elimination</id>
-  <published>2023-11-26T01:32:21Z</published>
-  <updated>2023-11-26T01:32:21Z</updated>
+  <link href="https://github.com/davidlenfesty/aoc2023" />
+  <id>urn:rprimus:github:davidlenfesty:aoc2023</id>
+  <published>2023-12-06T02:56:32Z</published>
+  <updated>2023-12-06T02:56:32Z</updated>
   <content type="html">
-   formally verified epsilon elimination procedure
+   Advent of Code 2023... in Scheme!
   </content>
  </entry>
  <entry>
-  <title>GholesrolK: dotfiles</title>
+  <title>Perfect5th: aoc-2023</title>
   <author>
-   <name>GholesrolK</name>
+   <name>Perfect5th</name>
   </author>
-  <link href="https://github.com/GholesrolK/dotfiles" />
-  <id>urn:rprimus:github:GholesrolK:dotfiles</id>
-  <published>2023-11-25T17:43:13Z</published>
-  <updated>2023-11-25T17:43:13Z</updated>
+  <link href="https://github.com/Perfect5th/aoc-2023" />
+  <id>urn:rprimus:github:Perfect5th:aoc-2023</id>
+  <published>2023-12-06T01:48:52Z</published>
+  <updated>2023-12-06T01:48:52Z</updated>
   <content type="html">
-   .config files for some of the apps i use in my system
+   Advent of Code solutions for 2023, Scheme
   </content>
  </entry>
 </feed>
