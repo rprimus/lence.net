@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2023-12-08T20:24:46Z</updated>
+<updated>2023-12-09T07:47:27Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>Pylgos: nimtypes</title>
+  <author>
+   <name>Pylgos</name>
+  </author>
+  <link href="https://github.com/Pylgos/nimtypes" />
+  <id>urn:rprimus:github:Pylgos:nimtypes</id>
+  <published>2023-12-09T07:47:27Z</published>
+  <updated>2023-12-09T07:47:27Z</updated>
+  <content type="html">
+   Make it easier to handle types with macros in the Nim programming language
+  </content>
+ </entry>
+ <entry>
+  <title>jmcduffie32: aoc-2023-nim</title>
+  <author>
+   <name>jmcduffie32</name>
+  </author>
+  <link href="https://github.com/jmcduffie32/aoc-2023-nim" />
+  <id>urn:rprimus:github:jmcduffie32:aoc-2023-nim</id>
+  <published>2023-12-08T22:18:28Z</published>
+  <updated>2023-12-08T22:18:28Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>SirOlaf: aoc2023</title>
   <author>
@@ -41,45 +67,6 @@
   <updated>2023-12-07T12:05:37Z</updated>
   <content type="html">
    Nim iterators that use move semantics.
-  </content>
- </entry>
- <entry>
-  <title>openpeeps: importer</title>
-  <author>
-   <name>openpeeps</name>
-  </author>
-  <link href="https://github.com/openpeeps/importer" />
-  <id>urn:rprimus:github:openpeeps:importer</id>
-  <published>2023-12-06T17:45:17Z</published>
-  <updated>2023-12-06T17:45:17Z</updated>
-  <content type="html">
-   A generic file importer for building module systems [wip]
-  </content>
- </entry>
- <entry>
-  <title>haydenmuhl: aoc2023</title>
-  <author>
-   <name>haydenmuhl</name>
-  </author>
-  <link href="https://github.com/haydenmuhl/aoc2023" />
-  <id>urn:rprimus:github:haydenmuhl:aoc2023</id>
-  <published>2023-12-06T01:22:30Z</published>
-  <updated>2023-12-06T01:22:30Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>joloppo: AOC2023</title>
-  <author>
-   <name>joloppo</name>
-  </author>
-  <link href="https://github.com/joloppo/AOC2023" />
-  <id>urn:rprimus:github:joloppo:AOC2023</id>
-  <published>2023-12-06T00:43:30Z</published>
-  <updated>2023-12-06T00:43:30Z</updated>
-  <content type="html">
-   Advent of Code 2023 Scuff Edition
   </content>
  </entry>
 </feed>
