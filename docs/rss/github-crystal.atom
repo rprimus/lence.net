@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2023-12-10T02:16:58Z</updated>
+<updated>2023-12-12T09:31:56Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>merongivian: webvtt.cr</title>
+  <author>
+   <name>merongivian</name>
+  </author>
+  <link href="https://github.com/merongivian/webvtt.cr" />
+  <id>urn:rprimus:github:merongivian:webvtt.cr</id>
+  <published>2023-12-12T09:31:56Z</published>
+  <updated>2023-12-12T09:31:56Z</updated>
+  <content type="html">
+   WebVTT parser for crystal
+  </content>
+ </entry>
+ <entry>
+  <title>dbackeus: csv-to-sqlite</title>
+  <author>
+   <name>dbackeus</name>
+  </author>
+  <link href="https://github.com/dbackeus/csv-to-sqlite" />
+  <id>urn:rprimus:github:dbackeus:csv-to-sqlite</id>
+  <published>2023-12-12T07:28:18Z</published>
+  <updated>2023-12-12T07:28:18Z</updated>
+  <content type="html">
+   Labbing with fast SQLite inserts
+  </content>
+ </entry>
  <entry>
   <title>nobodywasishere: plaid-crystal</title>
   <author>
@@ -28,19 +54,6 @@
   <updated>2023-12-10T00:26:20Z</updated>
   <content type="html">
    Advanced time, calendar, schedule, and remind library for Crystal
-  </content>
- </entry>
- <entry>
-  <title>SuperErnD: asexual</title>
-  <author>
-   <name>SuperErnD</name>
-  </author>
-  <link href="https://github.com/SuperErnD/asexual" />
-  <id>urn:rprimus:github:SuperErnD:asexual</id>
-  <published>2023-12-09T20:03:37Z</published>
-  <updated>2023-12-09T20:03:37Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
