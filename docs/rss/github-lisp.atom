@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2023-12-12T23:29:04Z</updated>
+<updated>2023-12-14T02:38:03Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>Chil-HW: chil</title>
+  <author>
+   <name>Chil-HW</name>
+  </author>
+  <link href="https://github.com/Chil-HW/chil" />
+  <id>urn:rprimus:github:Chil-HW:chil</id>
+  <published>2023-12-14T02:38:03Z</published>
+  <updated>2023-12-14T02:38:03Z</updated>
+  <content type="html">
+   Constructing Hardware in Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>40ants: quicklisp-client-fix</title>
+  <author>
+   <name>40ants</name>
+  </author>
+  <link href="https://github.com/40ants/quicklisp-client-fix" />
+  <id>urn:rprimus:github:40ants:quicklisp-client-fix</id>
+  <published>2023-12-13T21:10:56Z</published>
+  <updated>2023-12-13T21:10:56Z</updated>
+  <content type="html">
+   A fix to make ql:quickload work with package inferred ASDF systems better
+  </content>
+ </entry>
+ <entry>
+  <title>colfrog: stumpwm.d</title>
+  <author>
+   <name>colfrog</name>
+  </author>
+  <link href="https://github.com/colfrog/stumpwm.d" />
+  <id>urn:rprimus:github:colfrog:stumpwm.d</id>
+  <published>2023-12-13T17:25:44Z</published>
+  <updated>2023-12-13T17:25:44Z</updated>
+  <content type="html">
+   My stumpwm.d
+  </content>
+ </entry>
+ <entry>
+  <title>nunojesus22: Projeto_IA</title>
+  <author>
+   <name>nunojesus22</name>
+  </author>
+  <link href="https://github.com/nunojesus22/Projeto_IA" />
+  <id>urn:rprimus:github:nunojesus22:Projeto_IA</id>
+  <published>2023-12-13T11:19:10Z</published>
+  <updated>2023-12-13T11:19:10Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>aidanc2004: advent-of-code-2023</title>
+  <author>
+   <name>aidanc2004</name>
+  </author>
+  <link href="https://github.com/aidanc2004/advent-of-code-2023" />
+  <id>urn:rprimus:github:aidanc2004:advent-of-code-2023</id>
+  <published>2023-12-13T10:52:10Z</published>
+  <updated>2023-12-13T10:52:10Z</updated>
+  <content type="html">
+   An attempt of Advent of Code 2023 to try to learn Common Lisp
+  </content>
+ </entry>
  <entry>
   <title>emacdona: 2023-advent-of-code</title>
   <author>
@@ -18,6 +83,19 @@
   </content>
  </entry>
  <entry>
+  <title>vim-is-life: home-workorder</title>
+  <author>
+   <name>vim-is-life</name>
+  </author>
+  <link href="https://github.com/vim-is-life/home-workorder" />
+  <id>urn:rprimus:github:vim-is-life:home-workorder</id>
+  <published>2023-12-12T21:20:49Z</published>
+  <updated>2023-12-12T21:20:49Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
   <title>paulynome: physique</title>
   <author>
    <name>paulynome</name>
@@ -28,6 +106,19 @@
   <updated>2023-12-12T18:50:23Z</updated>
   <content type="html">
    Les TP de physique, ou tout du moins ceux que j&#039;ai retrouvÃ©
+  </content>
+ </entry>
+ <entry>
+  <title>Fraaaaaunimib: LP2023</title>
+  <author>
+   <name>Fraaaaaunimib</name>
+  </author>
+  <link href="https://github.com/Fraaaaaunimib/LP2023" />
+  <id>urn:rprimus:github:Fraaaaaunimib:LP2023</id>
+  <published>2023-12-12T17:22:40Z</published>
+  <updated>2023-12-12T17:22:40Z</updated>
+  <content type="html">
+   Progetto OOI e OOII per LP - anno 2023
   </content>
  </entry>
  <entry>
@@ -67,32 +158,6 @@
   <updated>2023-12-12T09:24:30Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>Prospero23: CAAC-OM</title>
-  <author>
-   <name>Prospero23</name>
-  </author>
-  <link href="https://github.com/Prospero23/CAAC-OM" />
-  <id>urn:rprimus:github:Prospero23:CAAC-OM</id>
-  <published>2023-12-11T21:33:51Z</published>
-  <updated>2023-12-11T21:33:51Z</updated>
-  <content type="html">
-   Open Music Patches from Computer Aided Analysis and Composition
-  </content>
- </entry>
- <entry>
-  <title>kisp: aoc2023-cl</title>
-  <author>
-   <name>kisp</name>
-  </author>
-  <link href="https://github.com/kisp/aoc2023-cl" />
-  <id>urn:rprimus:github:kisp:aoc2023-cl</id>
-  <published>2023-12-11T19:36:14Z</published>
-  <updated>2023-12-11T19:36:14Z</updated>
-  <content type="html">
-   Having fun with Advent of Code 2023 in Common Lisp
   </content>
  </entry>
 </feed>
