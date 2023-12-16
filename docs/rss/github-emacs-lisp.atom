@@ -2,8 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2023-12-15T08:36:56Z</updated>
+<updated>2023-12-16T07:52:01Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>AravindIM: config-backup</title>
+  <author>
+   <name>AravindIM</name>
+  </author>
+  <link href="https://github.com/AravindIM/config-backup" />
+  <id>urn:rprimus:github:AravindIM:config-backup</id>
+  <published>2023-12-16T07:52:01Z</published>
+  <updated>2023-12-16T07:52:01Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>meritamen: erc-sasl</title>
+  <author>
+   <name>meritamen</name>
+  </author>
+  <link href="https://github.com/meritamen/erc-sasl" />
+  <id>urn:rprimus:github:meritamen:erc-sasl</id>
+  <published>2023-12-16T06:03:29Z</published>
+  <updated>2023-12-16T06:03:29Z</updated>
+  <content type="html">
+   Handle SASL PLAIN authentication
+  </content>
+ </entry>
+ <entry>
+  <title>yathxyz: doomconfig</title>
+  <author>
+   <name>yathxyz</name>
+  </author>
+  <link href="https://github.com/yathxyz/doomconfig" />
+  <id>urn:rprimus:github:yathxyz:doomconfig</id>
+  <published>2023-12-16T04:17:40Z</published>
+  <updated>2023-12-16T04:17:40Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>shrikecode: doom-kyoto-night-theme</title>
+  <author>
+   <name>shrikecode</name>
+  </author>
+  <link href="https://github.com/shrikecode/doom-kyoto-night-theme" />
+  <id>urn:rprimus:github:shrikecode:doom-kyoto-night-theme</id>
+  <published>2023-12-15T23:01:01Z</published>
+  <updated>2023-12-15T23:01:01Z</updated>
+  <content type="html">
+   Doom Emacs theme that is a marriage of Tokyo Night and Nord Theme. And they went on honeymoon to Kyoto I guess. Dark, elegant, and easy on the eyes.
+  </content>
+ </entry>
+ <entry>
+  <title>werelax: emacs-llm-chat</title>
+  <author>
+   <name>werelax</name>
+  </author>
+  <link href="https://github.com/werelax/emacs-llm-chat" />
+  <id>urn:rprimus:github:werelax:emacs-llm-chat</id>
+  <published>2023-12-15T19:33:16Z</published>
+  <updated>2023-12-15T19:33:16Z</updated>
+  <content type="html">
+   Simple chat using llm-api
+  </content>
+ </entry>
+ <entry>
+  <title>werelax: emacs-llm-api</title>
+  <author>
+   <name>werelax</name>
+  </author>
+  <link href="https://github.com/werelax/emacs-llm-api" />
+  <id>urn:rprimus:github:werelax:emacs-llm-api</id>
+  <published>2023-12-15T19:30:46Z</published>
+  <updated>2023-12-15T19:30:46Z</updated>
+  <content type="html">
+   unified backend for multiple LLM providers
+  </content>
+ </entry>
+ <entry>
+  <title>Finlifin: emacs-config</title>
+  <author>
+   <name>Finlifin</name>
+  </author>
+  <link href="https://github.com/Finlifin/emacs-config" />
+  <id>urn:rprimus:github:Finlifin:emacs-config</id>
+  <published>2023-12-15T15:10:11Z</published>
+  <updated>2023-12-15T15:10:11Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>takeokunn: nvim-config</title>
   <author>
@@ -262,175 +353,6 @@
   <updated>2023-12-14T01:21:56Z</updated>
   <content type="html">
    Some solutions to Advent of Code 2023 in various languages
-  </content>
- </entry>
- <entry>
-  <title>Ghibranalj: vterm-posframe</title>
-  <author>
-   <name>Ghibranalj</name>
-  </author>
-  <link href="https://github.com/Ghibranalj/vterm-posframe" />
-  <id>urn:rprimus:github:Ghibranalj:vterm-posframe</id>
-  <published>2023-12-13T21:55:26Z</published>
-  <updated>2023-12-13T21:55:26Z</updated>
-  <content type="html">
-   open vterm in a popup window
-  </content>
- </entry>
- <entry>
-  <title>CarsonEllsworth33: dunderscore-emacs</title>
-  <author>
-   <name>CarsonEllsworth33</name>
-  </author>
-  <link href="https://github.com/CarsonEllsworth33/dunderscore-emacs" />
-  <id>urn:rprimus:github:CarsonEllsworth33:dunderscore-emacs</id>
-  <published>2023-12-13T21:17:04Z</published>
-  <updated>2023-12-13T21:17:04Z</updated>
-  <content type="html">
-   my personal emacs configuration for any and all development. Very much a WIP
-  </content>
- </entry>
- <entry>
-  <title>Ghibranalj: scratch-posframe</title>
-  <author>
-   <name>Ghibranalj</name>
-  </author>
-  <link href="https://github.com/Ghibranalj/scratch-posframe" />
-  <id>urn:rprimus:github:Ghibranalj:scratch-posframe</id>
-  <published>2023-12-13T21:04:09Z</published>
-  <updated>2023-12-13T21:04:09Z</updated>
-  <content type="html">
-   view scratch buffer on a popup frame
-  </content>
- </entry>
- <entry>
-  <title>anmolsinghbhullar: emacs-config</title>
-  <author>
-   <name>anmolsinghbhullar</name>
-  </author>
-  <link href="https://github.com/anmolsinghbhullar/emacs-config" />
-  <id>urn:rprimus:github:anmolsinghbhullar:emacs-config</id>
-  <published>2023-12-13T20:24:44Z</published>
-  <updated>2023-12-13T20:24:44Z</updated>
-  <content type="html">
-   My personal emacs config
-  </content>
- </entry>
- <entry>
-  <title>joaotavora: zapp</title>
-  <author>
-   <name>joaotavora</name>
-  </author>
-  <link href="https://github.com/joaotavora/zapp" />
-  <id>urn:rprimus:github:joaotavora:zapp</id>
-  <published>2023-12-13T19:57:25Z</published>
-  <updated>2023-12-13T19:57:25Z</updated>
-  <content type="html">
-   Zebugger Adapter Protocol Plugin
-  </content>
- </entry>
- <entry>
-  <title>WellIDKRealy: my-emacs-config</title>
-  <author>
-   <name>WellIDKRealy</name>
-  </author>
-  <link href="https://github.com/WellIDKRealy/my-emacs-config" />
-  <id>urn:rprimus:github:WellIDKRealy:my-emacs-config</id>
-  <published>2023-12-13T18:33:00Z</published>
-  <updated>2023-12-13T18:33:00Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ckoshikumo: org-synopsis</title>
-  <author>
-   <name>ckoshikumo</name>
-  </author>
-  <link href="https://github.com/ckoshikumo/org-synopsis" />
-  <id>urn:rprimus:github:ckoshikumo:org-synopsis</id>
-  <published>2023-12-13T15:36:17Z</published>
-  <updated>2023-12-13T15:36:17Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>mirsahebali: emacs_config</title>
-  <author>
-   <name>mirsahebali</name>
-  </author>
-  <link href="https://github.com/mirsahebali/emacs_config" />
-  <id>urn:rprimus:github:mirsahebali:emacs_config</id>
-  <published>2023-12-13T15:35:42Z</published>
-  <updated>2023-12-13T15:35:42Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>C-mellia: my_init</title>
-  <author>
-   <name>C-mellia</name>
-  </author>
-  <link href="https://github.com/C-mellia/my_init" />
-  <id>urn:rprimus:github:C-mellia:my_init</id>
-  <published>2023-12-13T09:05:27Z</published>
-  <updated>2023-12-13T09:05:27Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>th1nhori9ami: .emacs.d</title>
-  <author>
-   <name>th1nhori9ami</name>
-  </author>
-  <link href="https://github.com/th1nhori9ami/.emacs.d" />
-  <id>urn:rprimus:github:th1nhori9ami:.emacs.d</id>
-  <published>2023-12-13T04:34:48Z</published>
-  <updated>2023-12-13T04:34:48Z</updated>
-  <content type="html">
-   emacs configuration
-  </content>
- </entry>
- <entry>
-  <title>nverno: tablegen-ts-mode</title>
-  <author>
-   <name>nverno</name>
-  </author>
-  <link href="https://github.com/nverno/tablegen-ts-mode" />
-  <id>urn:rprimus:github:nverno:tablegen-ts-mode</id>
-  <published>2023-12-13T03:47:43Z</published>
-  <updated>2023-12-13T03:47:43Z</updated>
-  <content type="html">
-   Emacs major mode to LLVM TableGen
-  </content>
- </entry>
- <entry>
-  <title>dorrajmachai: windot</title>
-  <author>
-   <name>dorrajmachai</name>
-  </author>
-  <link href="https://github.com/dorrajmachai/windot" />
-  <id>urn:rprimus:github:dorrajmachai:windot</id>
-  <published>2023-12-13T01:13:59Z</published>
-  <updated>2023-12-13T01:13:59Z</updated>
-  <content type="html">
-   My WSL dotfiles
-  </content>
- </entry>
- <entry>
-  <title>terebeza: dotemacs</title>
-  <author>
-   <name>terebeza</name>
-  </author>
-  <link href="https://github.com/terebeza/dotemacs" />
-  <id>urn:rprimus:github:terebeza:dotemacs</id>
-  <published>2023-12-13T00:15:10Z</published>
-  <updated>2023-12-13T00:15:10Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>

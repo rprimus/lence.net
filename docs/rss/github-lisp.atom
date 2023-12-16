@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2023-12-14T15:09:39Z</updated>
+<updated>2023-12-16T06:15:33Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>meritamen: brainfuck</title>
+  <author>
+   <name>meritamen</name>
+  </author>
+  <link href="https://github.com/meritamen/brainfuck" />
+  <id>urn:rprimus:github:meritamen:brainfuck</id>
+  <published>2023-12-16T06:15:33Z</published>
+  <updated>2023-12-16T06:15:33Z</updated>
+  <content type="html">
+   Brainfuck implementations and interpreters
+  </content>
+ </entry>
+ <entry>
+  <title>tojoqk: useful-types</title>
+  <author>
+   <name>tojoqk</name>
+  </author>
+  <link href="https://github.com/tojoqk/useful-types" />
+  <id>urn:rprimus:github:tojoqk:useful-types</id>
+  <published>2023-12-15T18:41:21Z</published>
+  <updated>2023-12-15T18:41:21Z</updated>
+  <content type="html">
+   Useful Coalton library for me
+  </content>
+ </entry>
+ <entry>
+  <title>Kevinpgalligan: noisy</title>
+  <author>
+   <name>Kevinpgalligan</name>
+  </author>
+  <link href="https://github.com/Kevinpgalligan/noisy" />
+  <id>urn:rprimus:github:Kevinpgalligan:noisy</id>
+  <published>2023-12-15T16:44:27Z</published>
+  <updated>2023-12-15T16:44:27Z</updated>
+  <content type="html">
+   Perlin noise for an arbitrary number of dimensions.
+  </content>
+ </entry>
  <entry>
   <title>paulapatience: fanion</title>
   <author>
@@ -41,58 +80,6 @@
   <updated>2023-12-14T02:38:03Z</updated>
   <content type="html">
    Constructing Hardware in Lisp
-  </content>
- </entry>
- <entry>
-  <title>40ants: quicklisp-client-fix</title>
-  <author>
-   <name>40ants</name>
-  </author>
-  <link href="https://github.com/40ants/quicklisp-client-fix" />
-  <id>urn:rprimus:github:40ants:quicklisp-client-fix</id>
-  <published>2023-12-13T21:10:56Z</published>
-  <updated>2023-12-13T21:10:56Z</updated>
-  <content type="html">
-   A fix to make ql:quickload work with package inferred ASDF systems better
-  </content>
- </entry>
- <entry>
-  <title>colfrog: stumpwm.d</title>
-  <author>
-   <name>colfrog</name>
-  </author>
-  <link href="https://github.com/colfrog/stumpwm.d" />
-  <id>urn:rprimus:github:colfrog:stumpwm.d</id>
-  <published>2023-12-13T17:25:44Z</published>
-  <updated>2023-12-13T17:25:44Z</updated>
-  <content type="html">
-   My stumpwm.d
-  </content>
- </entry>
- <entry>
-  <title>nunojesus22: Projeto_IA</title>
-  <author>
-   <name>nunojesus22</name>
-  </author>
-  <link href="https://github.com/nunojesus22/Projeto_IA" />
-  <id>urn:rprimus:github:nunojesus22:Projeto_IA</id>
-  <published>2023-12-13T11:19:10Z</published>
-  <updated>2023-12-13T11:19:10Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>aidanc2004: advent-of-code-2023</title>
-  <author>
-   <name>aidanc2004</name>
-  </author>
-  <link href="https://github.com/aidanc2004/advent-of-code-2023" />
-  <id>urn:rprimus:github:aidanc2004:advent-of-code-2023</id>
-  <published>2023-12-13T10:52:10Z</published>
-  <updated>2023-12-13T10:52:10Z</updated>
-  <content type="html">
-   An attempt of Advent of Code 2023 to try to learn Common Lisp
   </content>
  </entry>
 </feed>
