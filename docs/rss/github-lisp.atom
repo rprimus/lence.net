@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2023-12-17T07:04:00Z</updated>
+<updated>2023-12-18T03:11:00Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>jetmonk: cl-pigpio</title>
+  <author>
+   <name>jetmonk</name>
+  </author>
+  <link href="https://github.com/jetmonk/cl-pigpio" />
+  <id>urn:rprimus:github:jetmonk:cl-pigpio</id>
+  <published>2023-12-18T03:11:00Z</published>
+  <updated>2023-12-18T03:11:00Z</updated>
+  <content type="html">
+   Common Lisp interface to the pigpio Raspberry Pi hardware library
+  </content>
+ </entry>
+ <entry>
+  <title>certainty: cl-dns</title>
+  <author>
+   <name>certainty</name>
+  </author>
+  <link href="https://github.com/certainty/cl-dns" />
+  <id>urn:rprimus:github:certainty:cl-dns</id>
+  <published>2023-12-17T13:10:22Z</published>
+  <updated>2023-12-17T13:10:22Z</updated>
+  <content type="html">
+   Implementing DNS for fun an profit
+  </content>
+ </entry>
  <entry>
   <title>qnkhuat: paip</title>
   <author>
@@ -93,32 +119,6 @@
   <updated>2023-12-16T06:15:33Z</updated>
   <content type="html">
    Brainfuck implementations and interpreters
-  </content>
- </entry>
- <entry>
-  <title>tojoqk: useful-types</title>
-  <author>
-   <name>tojoqk</name>
-  </author>
-  <link href="https://github.com/tojoqk/useful-types" />
-  <id>urn:rprimus:github:tojoqk:useful-types</id>
-  <published>2023-12-15T18:41:21Z</published>
-  <updated>2023-12-15T18:41:21Z</updated>
-  <content type="html">
-   Useful Coalton library for me
-  </content>
- </entry>
- <entry>
-  <title>Kevinpgalligan: noisy</title>
-  <author>
-   <name>Kevinpgalligan</name>
-  </author>
-  <link href="https://github.com/Kevinpgalligan/noisy" />
-  <id>urn:rprimus:github:Kevinpgalligan:noisy</id>
-  <published>2023-12-15T16:44:27Z</published>
-  <updated>2023-12-15T16:44:27Z</updated>
-  <content type="html">
-   Perlin noise for an arbitrary number of dimensions.
   </content>
  </entry>
 </feed>
