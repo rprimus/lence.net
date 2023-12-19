@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2023-12-18T03:11:00Z</updated>
+<updated>2023-12-19T00:34:10Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>jakkcer: land-of-lisp</title>
+  <author>
+   <name>jakkcer</name>
+  </author>
+  <link href="https://github.com/jakkcer/land-of-lisp" />
+  <id>urn:rprimus:github:jakkcer:land-of-lisp</id>
+  <published>2023-12-19T00:34:10Z</published>
+  <updated>2023-12-19T00:34:10Z</updated>
+  <content type="html">
+   Practice code from the book &quot;Land of Lisp&quot;
+  </content>
+ </entry>
+ <entry>
+  <title>adrsimon: gr20-planner</title>
+  <author>
+   <name>adrsimon</name>
+  </author>
+  <link href="https://github.com/adrsimon/gr20-planner" />
+  <id>urn:rprimus:github:adrsimon:gr20-planner</id>
+  <published>2023-12-18T15:31:20Z</published>
+  <updated>2023-12-18T15:31:20Z</updated>
+  <content type="html">
+   A Common Lisp expert system to recommand a subpart of the Corsican GR20 according to your requests.
+  </content>
+ </entry>
+ <entry>
+  <title>certainty: cl-starwars</title>
+  <author>
+   <name>certainty</name>
+  </author>
+  <link href="https://github.com/certainty/cl-starwars" />
+  <id>urn:rprimus:github:certainty:cl-starwars</id>
+  <published>2023-12-18T15:07:06Z</published>
+  <updated>2023-12-18T15:07:06Z</updated>
+  <content type="html">
+   Fun with APIs
+  </content>
+ </entry>
  <entry>
   <title>jetmonk: cl-pigpio</title>
   <author>
@@ -27,7 +66,7 @@
   <published>2023-12-17T13:10:22Z</published>
   <updated>2023-12-17T13:10:22Z</updated>
   <content type="html">
-   Implementing DNS for fun an profit
+   Implementing DNS for fun an profit (in a weekend)
   </content>
  </entry>
  <entry>
@@ -67,58 +106,6 @@
   <updated>2023-12-17T03:32:27Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>danielostling: AoC-2023</title>
-  <author>
-   <name>danielostling</name>
-  </author>
-  <link href="https://github.com/danielostling/AoC-2023" />
-  <id>urn:rprimus:github:danielostling:AoC-2023</id>
-  <published>2023-12-16T20:09:23Z</published>
-  <updated>2023-12-16T20:09:23Z</updated>
-  <content type="html">
-   AoC 2023 solutions
-  </content>
- </entry>
- <entry>
-  <title>dnizzolo: advent-of-code</title>
-  <author>
-   <name>dnizzolo</name>
-  </author>
-  <link href="https://github.com/dnizzolo/advent-of-code" />
-  <id>urn:rprimus:github:dnizzolo:advent-of-code</id>
-  <published>2023-12-16T17:27:08Z</published>
-  <updated>2023-12-16T17:27:08Z</updated>
-  <content type="html">
-   Advent of Code
-  </content>
- </entry>
- <entry>
-  <title>yeungchie: virtuoso-utils</title>
-  <author>
-   <name>yeungchie</name>
-  </author>
-  <link href="https://github.com/yeungchie/virtuoso-utils" />
-  <id>urn:rprimus:github:yeungchie:virtuoso-utils</id>
-  <published>2023-12-16T11:45:18Z</published>
-  <updated>2023-12-16T11:45:18Z</updated>
-  <content type="html">
-   ä¸äºæ£è£ç Skill å½æ°ï¼åå Virtuoso çåè½æå±ã
-  </content>
- </entry>
- <entry>
-  <title>meritamen: brainfuck</title>
-  <author>
-   <name>meritamen</name>
-  </author>
-  <link href="https://github.com/meritamen/brainfuck" />
-  <id>urn:rprimus:github:meritamen:brainfuck</id>
-  <published>2023-12-16T06:15:33Z</published>
-  <updated>2023-12-16T06:15:33Z</updated>
-  <content type="html">
-   Brainfuck implementations and interpreters
   </content>
  </entry>
 </feed>

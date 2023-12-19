@@ -2,6 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated></updated>
+<updated>2023-12-19T07:14:01Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>kalmai: sports-deal-notifier</title>
+  <author>
+   <name>kalmai</name>
+  </author>
+  <link href="https://github.com/kalmai/sports-deal-notifier" />
+  <id>urn:rprimus:github:kalmai:sports-deal-notifier</id>
+  <published>2023-12-19T07:14:01Z</published>
+  <updated>2023-12-19T07:14:01Z</updated>
+  <content type="html">
+   notify me about deals based on score/win thresholds for teams based on zip codes
+  </content>
+ </entry>
+ <entry>
+  <title>NeuraLegion: incremental</title>
+  <author>
+   <name>NeuraLegion</name>
+  </author>
+  <link href="https://github.com/NeuraLegion/incremental" />
+  <id>urn:rprimus:github:NeuraLegion:incremental</id>
+  <published>2023-12-18T13:42:06Z</published>
+  <updated>2023-12-18T13:42:06Z</updated>
+  <content type="html">
+   Incremental scanning and suggestion CLI
+  </content>
+ </entry>
 </feed>
