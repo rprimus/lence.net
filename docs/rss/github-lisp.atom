@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2023-12-20T07:18:33Z</updated>
+<updated>2023-12-21T01:46:59Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>IsaacGemal: UsefulAutoLISP</title>
+  <author>
+   <name>IsaacGemal</name>
+  </author>
+  <link href="https://github.com/IsaacGemal/UsefulAutoLISP" />
+  <id>urn:rprimus:github:IsaacGemal:UsefulAutoLISP</id>
+  <published>2023-12-21T01:46:59Z</published>
+  <updated>2023-12-21T01:46:59Z</updated>
+  <content type="html">
+   Useful AutoLISP scripts I&#039;ve written or found while working with autocad
+  </content>
+ </entry>
+ <entry>
+  <title>dradicchi: shortest-path-searching</title>
+  <author>
+   <name>dradicchi</name>
+  </author>
+  <link href="https://github.com/dradicchi/shortest-path-searching" />
+  <id>urn:rprimus:github:dradicchi:shortest-path-searching</id>
+  <published>2023-12-21T00:52:59Z</published>
+  <updated>2023-12-21T00:52:59Z</updated>
+  <content type="html">
+   An implementation to &quot;shortest-path&quot; searching solution, with breadth-first approach, to search in two-way networks.
+  </content>
+ </entry>
+ <entry>
+  <title>ysulsky: cinline</title>
+  <author>
+   <name>ysulsky</name>
+  </author>
+  <link href="https://github.com/ysulsky/cinline" />
+  <id>urn:rprimus:github:ysulsky:cinline</id>
+  <published>2023-12-20T19:59:07Z</published>
+  <updated>2023-12-20T19:59:07Z</updated>
+  <content type="html">
+   Inline C support for Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>albertolerda: nacl-from-cl</title>
+  <author>
+   <name>albertolerda</name>
+  </author>
+  <link href="https://github.com/albertolerda/nacl-from-cl" />
+  <id>urn:rprimus:github:albertolerda:nacl-from-cl</id>
+  <published>2023-12-20T19:39:16Z</published>
+  <updated>2023-12-20T19:39:16Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>madnificent: test-resources-cache-keys</title>
+  <author>
+   <name>madnificent</name>
+  </author>
+  <link href="https://github.com/madnificent/test-resources-cache-keys" />
+  <id>urn:rprimus:github:madnificent:test-resources-cache-keys</id>
+  <published>2023-12-20T14:24:44Z</published>
+  <updated>2023-12-20T14:24:44Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>Harikamatta: autolisp</title>
   <author>
@@ -80,45 +145,6 @@
   <updated>2023-12-19T00:34:10Z</updated>
   <content type="html">
    Practice code from the book &quot;Land of Lisp&quot;
-  </content>
- </entry>
- <entry>
-  <title>adrsimon: gr20-planner</title>
-  <author>
-   <name>adrsimon</name>
-  </author>
-  <link href="https://github.com/adrsimon/gr20-planner" />
-  <id>urn:rprimus:github:adrsimon:gr20-planner</id>
-  <published>2023-12-18T15:31:20Z</published>
-  <updated>2023-12-18T15:31:20Z</updated>
-  <content type="html">
-   A Common Lisp expert system to recommand a subpart of the Corsican GR20 according to your requests.
-  </content>
- </entry>
- <entry>
-  <title>certainty: cl-starwars</title>
-  <author>
-   <name>certainty</name>
-  </author>
-  <link href="https://github.com/certainty/cl-starwars" />
-  <id>urn:rprimus:github:certainty:cl-starwars</id>
-  <published>2023-12-18T15:07:06Z</published>
-  <updated>2023-12-18T15:07:06Z</updated>
-  <content type="html">
-   Fun with APIs
-  </content>
- </entry>
- <entry>
-  <title>jetmonk: cl-pigpio</title>
-  <author>
-   <name>jetmonk</name>
-  </author>
-  <link href="https://github.com/jetmonk/cl-pigpio" />
-  <id>urn:rprimus:github:jetmonk:cl-pigpio</id>
-  <published>2023-12-18T03:11:00Z</published>
-  <updated>2023-12-18T03:11:00Z</updated>
-  <content type="html">
-   Common Lisp interface to the pigpio Raspberry Pi hardware library
   </content>
  </entry>
 </feed>
