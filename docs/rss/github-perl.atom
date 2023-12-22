@@ -2,8 +2,164 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-perl.atom"/>
 <id>urn:rprimus:github:newperlrepos</id>
-<updated>2023-12-21T10:01:12Z</updated>
+<updated>2023-12-22T03:59:08Z</updated>
 <title type='text'>New GitHub Perl Repos</title>
+ <entry>
+  <title>prosaugat: RadacctTrim</title>
+  <author>
+   <name>prosaugat</name>
+  </author>
+  <link href="https://github.com/prosaugat/RadacctTrim" />
+  <id>urn:rprimus:github:prosaugat:RadacctTrim</id>
+  <published>2023-12-22T03:59:08Z</published>
+  <updated>2023-12-22T03:59:08Z</updated>
+  <content type="html">
+   This Perl script is designed for maintaining a FreeRADIUS MySQL database by archiving and trimming the radacct table. The script automates the process of copying relevant data to an archive table (radacct_archive) and deleting old records from the main radacct table. The goal is to optimize database size and improve performance over time.
+  </content>
+ </entry>
+ <entry>
+  <title>Shweta311: Student_database_management_system</title>
+  <author>
+   <name>Shweta311</name>
+  </author>
+  <link href="https://github.com/Shweta311/Student_database_management_system" />
+  <id>urn:rprimus:github:Shweta311:Student_database_management_system</id>
+  <published>2023-12-21T19:26:43Z</published>
+  <updated>2023-12-21T19:26:43Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>gehad88: Project1</title>
+  <author>
+   <name>gehad88</name>
+  </author>
+  <link href="https://github.com/gehad88/Project1" />
+  <id>urn:rprimus:github:gehad88:Project1</id>
+  <published>2023-12-21T19:07:01Z</published>
+  <updated>2023-12-21T19:07:01Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>ferraraa: PhaseNoiseGraphingUtility</title>
+  <author>
+   <name>ferraraa</name>
+  </author>
+  <link href="https://github.com/ferraraa/PhaseNoiseGraphingUtility" />
+  <id>urn:rprimus:github:ferraraa:PhaseNoiseGraphingUtility</id>
+  <published>2023-12-21T19:01:52Z</published>
+  <updated>2023-12-21T19:01:52Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>ferraraa: WebsiteModules</title>
+  <author>
+   <name>ferraraa</name>
+  </author>
+  <link href="https://github.com/ferraraa/WebsiteModules" />
+  <id>urn:rprimus:github:ferraraa:WebsiteModules</id>
+  <published>2023-12-21T19:00:05Z</published>
+  <updated>2023-12-21T19:00:05Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>VVelox: Rex-CMDB-YAMLwithRoles</title>
+  <author>
+   <name>VVelox</name>
+  </author>
+  <link href="https://github.com/VVelox/Rex-CMDB-YAMLwithRoles" />
+  <id>urn:rprimus:github:VVelox:Rex-CMDB-YAMLwithRoles</id>
+  <published>2023-12-21T18:57:10Z</published>
+  <updated>2023-12-21T18:57:10Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>twelsh-aw: chroot-jailbreak</title>
+  <author>
+   <name>twelsh-aw</name>
+  </author>
+  <link href="https://github.com/twelsh-aw/chroot-jailbreak" />
+  <id>urn:rprimus:github:twelsh-aw:chroot-jailbreak</id>
+  <published>2023-12-21T17:10:51Z</published>
+  <updated>2023-12-21T17:10:51Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>mehmet-akif: Customer-Registration-Perl-Program</title>
+  <author>
+   <name>mehmet-akif</name>
+  </author>
+  <link href="https://github.com/mehmet-akif/Customer-Registration-Perl-Program" />
+  <id>urn:rprimus:github:mehmet-akif:Customer-Registration-Perl-Program</id>
+  <published>2023-12-21T16:06:31Z</published>
+  <updated>2023-12-21T16:06:31Z</updated>
+  <content type="html">
+   Perl-based Customer Registration Program with robust error handling &amp; secure data processing. Effortlessly collect user data &amp; photos via a user-friendly form interface
+  </content>
+ </entry>
+ <entry>
+  <title>bengtssonpalme: ITSx</title>
+  <author>
+   <name>bengtssonpalme</name>
+  </author>
+  <link href="https://github.com/bengtssonpalme/ITSx" />
+  <id>urn:rprimus:github:bengtssonpalme:ITSx</id>
+  <published>2023-12-21T15:19:51Z</published>
+  <updated>2023-12-21T15:19:51Z</updated>
+  <content type="html">
+   Identifies ITS sequences and extracts the ITS region
+  </content>
+ </entry>
+ <entry>
+  <title>elquimista: qst-docker</title>
+  <author>
+   <name>elquimista</name>
+  </author>
+  <link href="https://github.com/elquimista/qst-docker" />
+  <id>urn:rprimus:github:elquimista:qst-docker</id>
+  <published>2023-12-21T15:06:23Z</published>
+  <updated>2023-12-21T15:06:23Z</updated>
+  <content type="html">
+   QST (Quiz/Survey/Test) in a Docker container.
+  </content>
+ </entry>
+ <entry>
+  <title>jkg: rtt-api-telegram-bot</title>
+  <author>
+   <name>jkg</name>
+  </author>
+  <link href="https://github.com/jkg/rtt-api-telegram-bot" />
+  <id>urn:rprimus:github:jkg:rtt-api-telegram-bot</id>
+  <published>2023-12-21T14:58:04Z</published>
+  <updated>2023-12-21T14:58:04Z</updated>
+  <content type="html">
+   A simple TG bot to access data from the Real Time Trains API
+  </content>
+ </entry>
+ <entry>
+  <title>Piratenpartij: PPNL-Bridge</title>
+  <author>
+   <name>Piratenpartij</name>
+  </author>
+  <link href="https://github.com/Piratenpartij/PPNL-Bridge" />
+  <id>urn:rprimus:github:Piratenpartij:PPNL-Bridge</id>
+  <published>2023-12-21T12:10:57Z</published>
+  <updated>2023-12-21T12:10:57Z</updated>
+  <content type="html">
+   Brug tussen meerdere chat kanalen
+  </content>
+ </entry>
  <entry>
   <title>Hussein119: lcd-system</title>
   <author>
@@ -13,19 +169,6 @@
   <id>urn:rprimus:github:Hussein119:lcd-system</id>
   <published>2023-12-21T10:01:12Z</published>
   <updated>2023-12-21T10:01:12Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>SakuraWind: resty-redis-cluster</title>
-  <author>
-   <name>SakuraWind</name>
-  </author>
-  <link href="https://github.com/SakuraWind/resty-redis-cluster" />
-  <id>urn:rprimus:github:SakuraWind:resty-redis-cluster</id>
-  <published>2023-12-21T08:54:25Z</published>
-  <updated>2023-12-21T08:54:25Z</updated>
   <content type="html">
    
   </content>
@@ -70,19 +213,6 @@
   </content>
  </entry>
  <entry>
-  <title>a270443177: bugzilla</title>
-  <author>
-   <name>a270443177</name>
-  </author>
-  <link href="https://github.com/a270443177/bugzilla" />
-  <id>urn:rprimus:github:a270443177:bugzilla</id>
-  <published>2023-12-21T03:25:29Z</published>
-  <updated>2023-12-21T03:25:29Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
   <title>estebah: dotfiles</title>
   <author>
    <name>estebah</name>
@@ -93,6 +223,19 @@
   <updated>2023-12-20T22:35:20Z</updated>
   <content type="html">
    My personal config files
+  </content>
+ </entry>
+ <entry>
+  <title>Unidata: awips2-radar-case</title>
+  <author>
+   <name>Unidata</name>
+  </author>
+  <link href="https://github.com/Unidata/awips2-radar-case" />
+  <id>urn:rprimus:github:Unidata:awips2-radar-case</id>
+  <published>2023-12-20T21:03:42Z</published>
+  <updated>2023-12-20T21:03:42Z</updated>
+  <content type="html">
+   
   </content>
  </entry>
  <entry>
@@ -222,7 +365,7 @@
   <published>2023-12-20T12:31:19Z</published>
   <updated>2023-12-20T12:31:19Z</updated>
   <content type="html">
-   KullanabileceÄiniz saÄlam script olarak ayarladÄ±m. LÃ¼tfen aÃ§Ä±klamayÄ± okuyunuz
+   LÃ¼tfen aÃ§Ä±klamayÄ± okuyunuz
   </content>
  </entry>
  <entry>
@@ -327,201 +470,6 @@
   <updated>2023-12-20T00:28:43Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>jkstill: FlameGraphs</title>
-  <author>
-   <name>jkstill</name>
-  </author>
-  <link href="https://github.com/jkstill/FlameGraphs" />
-  <id>urn:rprimus:github:jkstill:FlameGraphs</id>
-  <published>2023-12-19T23:29:24Z</published>
-  <updated>2023-12-19T23:29:24Z</updated>
-  <content type="html">
-   FlameGraph techniques - currently only Oracle SQL Trace files.
-  </content>
- </entry>
- <entry>
-  <title>ahmed1magdy2: Embedded-System-Project</title>
-  <author>
-   <name>ahmed1magdy2</name>
-  </author>
-  <link href="https://github.com/ahmed1magdy2/Embedded-System-Project" />
-  <id>urn:rprimus:github:ahmed1magdy2:Embedded-System-Project</id>
-  <published>2023-12-19T21:06:59Z</published>
-  <updated>2023-12-19T21:06:59Z</updated>
-  <content type="html">
-   Smart Lock 
-  </content>
- </entry>
- <entry>
-  <title>JeffWDH: MR6500-SMS-Server</title>
-  <author>
-   <name>JeffWDH</name>
-  </author>
-  <link href="https://github.com/JeffWDH/MR6500-SMS-Server" />
-  <id>urn:rprimus:github:JeffWDH:MR6500-SMS-Server</id>
-  <published>2023-12-19T20:06:59Z</published>
-  <updated>2023-12-19T20:06:59Z</updated>
-  <content type="html">
-   Netgear Nighthawk M6 Pro / MR6500 SMS HTTP Server
-  </content>
- </entry>
- <entry>
-  <title>g-i-w: serial-port-tools</title>
-  <author>
-   <name>g-i-w</name>
-  </author>
-  <link href="https://github.com/g-i-w/serial-port-tools" />
-  <id>urn:rprimus:github:g-i-w:serial-port-tools</id>
-  <published>2023-12-19T17:28:26Z</published>
-  <updated>2023-12-19T17:28:26Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>dbgenomics: Web-App-Development</title>
-  <author>
-   <name>dbgenomics</name>
-  </author>
-  <link href="https://github.com/dbgenomics/Web-App-Development" />
-  <id>urn:rprimus:github:dbgenomics:Web-App-Development</id>
-  <published>2023-12-19T15:54:47Z</published>
-  <updated>2023-12-19T15:54:47Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>g-i-w: wireguard-tools</title>
-  <author>
-   <name>g-i-w</name>
-  </author>
-  <link href="https://github.com/g-i-w/wireguard-tools" />
-  <id>urn:rprimus:github:g-i-w:wireguard-tools</id>
-  <published>2023-12-19T15:26:29Z</published>
-  <updated>2023-12-19T15:26:29Z</updated>
-  <content type="html">
-   Perl script to create a wg server and add clients
-  </content>
- </entry>
- <entry>
-  <title>jananth2: AoC2023</title>
-  <author>
-   <name>jananth2</name>
-  </author>
-  <link href="https://github.com/jananth2/AoC2023" />
-  <id>urn:rprimus:github:jananth2:AoC2023</id>
-  <published>2023-12-19T12:30:31Z</published>
-  <updated>2023-12-19T12:30:31Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>lnussel: os-autoinst-distri-microos-sdboot</title>
-  <author>
-   <name>lnussel</name>
-  </author>
-  <link href="https://github.com/lnussel/os-autoinst-distri-microos-sdboot" />
-  <id>urn:rprimus:github:lnussel:os-autoinst-distri-microos-sdboot</id>
-  <published>2023-12-19T11:45:12Z</published>
-  <updated>2023-12-19T11:45:12Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>patelsmuseum: perl</title>
-  <author>
-   <name>patelsmuseum</name>
-  </author>
-  <link href="https://github.com/patelsmuseum/perl" />
-  <id>urn:rprimus:github:patelsmuseum:perl</id>
-  <published>2023-12-19T09:48:28Z</published>
-  <updated>2023-12-19T09:48:28Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>bakhtiararya: ms_metabolica</title>
-  <author>
-   <name>bakhtiararya</name>
-  </author>
-  <link href="https://github.com/bakhtiararya/ms_metabolica" />
-  <id>urn:rprimus:github:bakhtiararya:ms_metabolica</id>
-  <published>2023-12-19T07:48:45Z</published>
-  <updated>2023-12-19T07:48:45Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>IAmBlAcKH4T: destroy</title>
-  <author>
-   <name>IAmBlAcKH4T</name>
-  </author>
-  <link href="https://github.com/IAmBlAcKH4T/destroy" />
-  <id>urn:rprimus:github:IAmBlAcKH4T:destroy</id>
-  <published>2023-12-19T07:19:44Z</published>
-  <updated>2023-12-19T07:19:44Z</updated>
-  <content type="html">
-   DESTROY EVERYTHING!!!!!!!!!!!!!!!!!
-  </content>
- </entry>
- <entry>
-  <title>perlancar: perl-Acme-CPANModules-OpeningFileInApp</title>
-  <author>
-   <name>perlancar</name>
-  </author>
-  <link href="https://github.com/perlancar/perl-Acme-CPANModules-OpeningFileInApp" />
-  <id>urn:rprimus:github:perlancar:perl-Acme-CPANModules-OpeningFileInApp</id>
-  <published>2023-12-19T06:15:10Z</published>
-  <updated>2023-12-19T06:15:10Z</updated>
-  <content type="html">
-   (No description)
-  </content>
- </entry>
- <entry>
-  <title>perlancar: perl-App-SpreadsheetOpenUtils</title>
-  <author>
-   <name>perlancar</name>
-  </author>
-  <link href="https://github.com/perlancar/perl-App-SpreadsheetOpenUtils" />
-  <id>urn:rprimus:github:perlancar:perl-App-SpreadsheetOpenUtils</id>
-  <published>2023-12-19T05:40:04Z</published>
-  <updated>2023-12-19T05:40:04Z</updated>
-  <content type="html">
-   (No description)
-  </content>
- </entry>
- <entry>
-  <title>XGuo001l: Comparative-genomics-analysis-of-camelid</title>
-  <author>
-   <name>XGuo001l</name>
-  </author>
-  <link href="https://github.com/XGuo001l/Comparative-genomics-analysis-of-camelid" />
-  <id>urn:rprimus:github:XGuo001l:Comparative-genomics-analysis-of-camelid</id>
-  <published>2023-12-19T02:48:51Z</published>
-  <updated>2023-12-19T02:48:51Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>petertorelli: advent2023</title>
-  <author>
-   <name>petertorelli</name>
-  </author>
-  <link href="https://github.com/petertorelli/advent2023" />
-  <id>urn:rprimus:github:petertorelli:advent2023</id>
-  <published>2023-12-19T02:40:50Z</published>
-  <updated>2023-12-19T02:40:50Z</updated>
-  <content type="html">
-   advent of code, 2023 challenge
   </content>
  </entry>
 </feed>
