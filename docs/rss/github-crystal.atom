@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2023-12-22T09:02:13Z</updated>
+<updated>2023-12-22T21:19:06Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>nogginly: sugar.cr</title>
+  <author>
+   <name>nogginly</name>
+  </author>
+  <link href="https://github.com/nogginly/sugar.cr" />
+  <id>urn:rprimus:github:nogginly:sugar.cr</id>
+  <published>2023-12-22T21:19:06Z</published>
+  <updated>2023-12-22T21:19:06Z</updated>
+  <content type="html">
+   Some syntactic (and maybe API) sugar for Crystal programs.
+  </content>
+ </entry>
  <entry>
   <title>kojix2: nt.cr</title>
   <author>
@@ -54,32 +67,6 @@
   <updated>2023-12-21T04:59:35Z</updated>
   <content type="html">
    GitHub API client
-  </content>
- </entry>
- <entry>
-  <title>GrottoPress: fella</title>
-  <author>
-   <name>GrottoPress</name>
-  </author>
-  <link href="https://github.com/GrottoPress/fella" />
-  <id>urn:rprimus:github:GrottoPress:fella</id>
-  <published>2023-12-20T18:07:37Z</published>
-  <updated>2023-12-20T18:07:37Z</updated>
-  <content type="html">
-   An expressive HTTP log handler for Crystal
-  </content>
- </entry>
- <entry>
-  <title>NucciTheBoss: nlxd-cr</title>
-  <author>
-   <name>NucciTheBoss</name>
-  </author>
-  <link href="https://github.com/NucciTheBoss/nlxd-cr" />
-  <id>urn:rprimus:github:NucciTheBoss:nlxd-cr</id>
-  <published>2023-12-20T14:37:31Z</published>
-  <updated>2023-12-20T14:37:31Z</updated>
-  <content type="html">
-   ð A next-generation Crystal shard for interfacing with the LXD API ð¡ðð¥ï¸
   </content>
  </entry>
 </feed>

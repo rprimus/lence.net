@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2023-12-22T18:06:57Z</updated>
+<updated>2023-12-23T00:26:44Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>dreac0nic: cl-advent-of-code</title>
+  <author>
+   <name>dreac0nic</name>
+  </author>
+  <link href="https://github.com/dreac0nic/cl-advent-of-code" />
+  <id>urn:rprimus:github:dreac0nic:cl-advent-of-code</id>
+  <published>2023-12-23T00:26:44Z</published>
+  <updated>2023-12-23T00:26:44Z</updated>
+  <content type="html">
+   A basic library for working with the Advent of Code. Super experimental
+  </content>
+ </entry>
+ <entry>
+  <title>colfrog: chime</title>
+  <author>
+   <name>colfrog</name>
+  </author>
+  <link href="https://github.com/colfrog/chime" />
+  <id>urn:rprimus:github:colfrog:chime</id>
+  <published>2023-12-22T19:52:49Z</published>
+  <updated>2023-12-22T19:52:49Z</updated>
+  <content type="html">
+   Game of chess made with McCLIM
+  </content>
+ </entry>
  <entry>
   <title>asdr: aoc2023</title>
   <author>
@@ -106,84 +132,6 @@
   <updated>2023-12-21T00:52:59Z</updated>
   <content type="html">
    An implementation to &quot;shortest-path&quot; searching solution, with breadth-first approach, to search in two-way networks.
-  </content>
- </entry>
- <entry>
-  <title>ysulsky: cinline</title>
-  <author>
-   <name>ysulsky</name>
-  </author>
-  <link href="https://github.com/ysulsky/cinline" />
-  <id>urn:rprimus:github:ysulsky:cinline</id>
-  <published>2023-12-20T19:59:07Z</published>
-  <updated>2023-12-20T19:59:07Z</updated>
-  <content type="html">
-   Inline C support for Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>albertolerda: nacl-from-cl</title>
-  <author>
-   <name>albertolerda</name>
-  </author>
-  <link href="https://github.com/albertolerda/nacl-from-cl" />
-  <id>urn:rprimus:github:albertolerda:nacl-from-cl</id>
-  <published>2023-12-20T19:39:16Z</published>
-  <updated>2023-12-20T19:39:16Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>madnificent: test-resources-cache-keys</title>
-  <author>
-   <name>madnificent</name>
-  </author>
-  <link href="https://github.com/madnificent/test-resources-cache-keys" />
-  <id>urn:rprimus:github:madnificent:test-resources-cache-keys</id>
-  <published>2023-12-20T14:24:44Z</published>
-  <updated>2023-12-20T14:24:44Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Harikamatta: autolisp</title>
-  <author>
-   <name>Harikamatta</name>
-  </author>
-  <link href="https://github.com/Harikamatta/autolisp" />
-  <id>urn:rprimus:github:Harikamatta:autolisp</id>
-  <published>2023-12-20T07:18:33Z</published>
-  <updated>2023-12-20T07:18:33Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Junker: hashids</title>
-  <author>
-   <name>Junker</name>
-  </author>
-  <link href="https://github.com/Junker/hashids" />
-  <id>urn:rprimus:github:Junker:hashids</id>
-  <published>2023-12-20T06:23:24Z</published>
-  <updated>2023-12-20T06:23:24Z</updated>
-  <content type="html">
-   Common Lisp system to generate YouTube-like hashes from one or many numbers
-  </content>
- </entry>
- <entry>
-  <title>CaryRock: AdventOfCode2023</title>
-  <author>
-   <name>CaryRock</name>
-  </author>
-  <link href="https://github.com/CaryRock/AdventOfCode2023" />
-  <id>urn:rprimus:github:CaryRock:AdventOfCode2023</id>
-  <published>2023-12-20T01:06:47Z</published>
-  <updated>2023-12-20T01:06:47Z</updated>
-  <content type="html">
-   Master folder for holding the solutions for the 2023 Advent of Code challenges in the various languages I try it in.
   </content>
  </entry>
 </feed>
