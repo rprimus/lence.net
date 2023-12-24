@@ -2,8 +2,138 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-perl.atom"/>
 <id>urn:rprimus:github:newperlrepos</id>
-<updated>2023-12-23T07:44:53Z</updated>
+<updated>2023-12-24T09:22:20Z</updated>
 <title type='text'>New GitHub Perl Repos</title>
+ <entry>
+  <title>Man2Dev: Microprocessor-Lab-course</title>
+  <author>
+   <name>Man2Dev</name>
+  </author>
+  <link href="https://github.com/Man2Dev/Microprocessor-Lab-course" />
+  <id>urn:rprimus:github:Man2Dev:Microprocessor-Lab-course</id>
+  <published>2023-12-24T09:22:20Z</published>
+  <updated>2023-12-24T09:22:20Z</updated>
+  <content type="html">
+   Some of my Microprocessor Lab projects
+  </content>
+ </entry>
+ <entry>
+  <title>jeremy-serenne: mysqlsetup</title>
+  <author>
+   <name>jeremy-serenne</name>
+  </author>
+  <link href="https://github.com/jeremy-serenne/mysqlsetup" />
+  <id>urn:rprimus:github:jeremy-serenne:mysqlsetup</id>
+  <published>2023-12-24T08:58:14Z</published>
+  <updated>2023-12-24T08:58:14Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Ronika19: DICEP</title>
+  <author>
+   <name>Ronika19</name>
+  </author>
+  <link href="https://github.com/Ronika19/DICEP" />
+  <id>urn:rprimus:github:Ronika19:DICEP</id>
+  <published>2023-12-23T21:35:59Z</published>
+  <updated>2023-12-23T21:35:59Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>renehiemstra: Pkg</title>
+  <author>
+   <name>renehiemstra</name>
+  </author>
+  <link href="https://github.com/renehiemstra/Pkg" />
+  <id>urn:rprimus:github:renehiemstra:Pkg</id>
+  <published>2023-12-23T20:55:48Z</published>
+  <updated>2023-12-23T20:55:48Z</updated>
+  <content type="html">
+   Package manager for the terra language
+  </content>
+ </entry>
+ <entry>
+  <title>mcphase: webpage</title>
+  <author>
+   <name>mcphase</name>
+  </author>
+  <link href="https://github.com/mcphase/webpage" />
+  <id>urn:rprimus:github:mcphase:webpage</id>
+  <published>2023-12-23T20:04:18Z</published>
+  <updated>2023-12-23T20:04:18Z</updated>
+  <content type="html">
+   McPhase Webpage
+  </content>
+ </entry>
+ <entry>
+  <title>amitsingh3396: moss-plag-check</title>
+  <author>
+   <name>amitsingh3396</name>
+  </author>
+  <link href="https://github.com/amitsingh3396/moss-plag-check" />
+  <id>urn:rprimus:github:amitsingh3396:moss-plag-check</id>
+  <published>2023-12-23T15:45:03Z</published>
+  <updated>2023-12-23T15:45:03Z</updated>
+  <content type="html">
+   This repository contains scripts to check plagiarism of codechef and atcoder contests on stanford moss server
+  </content>
+ </entry>
+ <entry>
+  <title>7eggert: mov-scripts</title>
+  <author>
+   <name>7eggert</name>
+  </author>
+  <link href="https://github.com/7eggert/mov-scripts" />
+  <id>urn:rprimus:github:7eggert:mov-scripts</id>
+  <published>2023-12-23T12:40:54Z</published>
+  <updated>2023-12-23T12:40:54Z</updated>
+  <content type="html">
+   Scripts for handling movie files
+  </content>
+ </entry>
+ <entry>
+  <title>morepurpose: customer-registration</title>
+  <author>
+   <name>morepurpose</name>
+  </author>
+  <link href="https://github.com/morepurpose/customer-registration" />
+  <id>urn:rprimus:github:morepurpose:customer-registration</id>
+  <published>2023-12-23T11:06:22Z</published>
+  <updated>2023-12-23T11:06:22Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>jeetusait: gitprac</title>
+  <author>
+   <name>jeetusait</name>
+  </author>
+  <link href="https://github.com/jeetusait/gitprac" />
+  <id>urn:rprimus:github:jeetusait:gitprac</id>
+  <published>2023-12-23T10:53:22Z</published>
+  <updated>2023-12-23T10:53:22Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>shark803: FVRE</title>
+  <author>
+   <name>shark803</name>
+  </author>
+  <link href="https://github.com/shark803/FVRE" />
+  <id>urn:rprimus:github:shark803:FVRE</id>
+  <published>2023-12-23T10:43:03Z</published>
+  <updated>2023-12-23T10:43:03Z</updated>
+  <content type="html">
+   Relation Extracor using  Fact verification via LLM
+  </content>
+ </entry>
  <entry>
   <title>vopl: jl</title>
   <author>
@@ -145,214 +275,6 @@
   <updated>2023-12-22T03:59:08Z</updated>
   <content type="html">
    This Perl script is designed for maintaining a FreeRADIUS MySQL database by archiving and trimming the radacct table. The script automates the process of copying relevant data to an archive table (radacct_archive) and deleting old records from the main radacct table. The goal is to optimize database size and improve performance over time.
-  </content>
- </entry>
- <entry>
-  <title>eastmountaincode: AutoTrinity</title>
-  <author>
-   <name>eastmountaincode</name>
-  </author>
-  <link href="https://github.com/eastmountaincode/AutoTrinity" />
-  <id>urn:rprimus:github:eastmountaincode:AutoTrinity</id>
-  <published>2023-12-21T22:04:58Z</published>
-  <updated>2023-12-21T22:04:58Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Shweta311: Student_database_management_system</title>
-  <author>
-   <name>Shweta311</name>
-  </author>
-  <link href="https://github.com/Shweta311/Student_database_management_system" />
-  <id>urn:rprimus:github:Shweta311:Student_database_management_system</id>
-  <published>2023-12-21T19:26:43Z</published>
-  <updated>2023-12-21T19:26:43Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>gehad88: Project1</title>
-  <author>
-   <name>gehad88</name>
-  </author>
-  <link href="https://github.com/gehad88/Project1" />
-  <id>urn:rprimus:github:gehad88:Project1</id>
-  <published>2023-12-21T19:07:01Z</published>
-  <updated>2023-12-21T19:07:01Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ferraraa: PhaseNoiseGraphingUtility</title>
-  <author>
-   <name>ferraraa</name>
-  </author>
-  <link href="https://github.com/ferraraa/PhaseNoiseGraphingUtility" />
-  <id>urn:rprimus:github:ferraraa:PhaseNoiseGraphingUtility</id>
-  <published>2023-12-21T19:01:52Z</published>
-  <updated>2023-12-21T19:01:52Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ferraraa: WebsiteModules</title>
-  <author>
-   <name>ferraraa</name>
-  </author>
-  <link href="https://github.com/ferraraa/WebsiteModules" />
-  <id>urn:rprimus:github:ferraraa:WebsiteModules</id>
-  <published>2023-12-21T19:00:05Z</published>
-  <updated>2023-12-21T19:00:05Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>VVelox: Rex-CMDB-YAMLwithRoles</title>
-  <author>
-   <name>VVelox</name>
-  </author>
-  <link href="https://github.com/VVelox/Rex-CMDB-YAMLwithRoles" />
-  <id>urn:rprimus:github:VVelox:Rex-CMDB-YAMLwithRoles</id>
-  <published>2023-12-21T18:57:10Z</published>
-  <updated>2023-12-21T18:57:10Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>twelsh-aw: chroot-jailbreak</title>
-  <author>
-   <name>twelsh-aw</name>
-  </author>
-  <link href="https://github.com/twelsh-aw/chroot-jailbreak" />
-  <id>urn:rprimus:github:twelsh-aw:chroot-jailbreak</id>
-  <published>2023-12-21T17:10:51Z</published>
-  <updated>2023-12-21T17:10:51Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>mehmet-akif: Customer-Registration-Perl-Program</title>
-  <author>
-   <name>mehmet-akif</name>
-  </author>
-  <link href="https://github.com/mehmet-akif/Customer-Registration-Perl-Program" />
-  <id>urn:rprimus:github:mehmet-akif:Customer-Registration-Perl-Program</id>
-  <published>2023-12-21T16:06:31Z</published>
-  <updated>2023-12-21T16:06:31Z</updated>
-  <content type="html">
-   Perl-based Customer Registration Program with robust error handling &amp; secure data processing. Effortlessly collect user data &amp; photos via a user-friendly form interface
-  </content>
- </entry>
- <entry>
-  <title>bengtssonpalme: ITSx</title>
-  <author>
-   <name>bengtssonpalme</name>
-  </author>
-  <link href="https://github.com/bengtssonpalme/ITSx" />
-  <id>urn:rprimus:github:bengtssonpalme:ITSx</id>
-  <published>2023-12-21T15:19:51Z</published>
-  <updated>2023-12-21T15:19:51Z</updated>
-  <content type="html">
-   Identifies ITS sequences and extracts the ITS region
-  </content>
- </entry>
- <entry>
-  <title>elquimista: qst-docker</title>
-  <author>
-   <name>elquimista</name>
-  </author>
-  <link href="https://github.com/elquimista/qst-docker" />
-  <id>urn:rprimus:github:elquimista:qst-docker</id>
-  <published>2023-12-21T15:06:23Z</published>
-  <updated>2023-12-21T15:06:23Z</updated>
-  <content type="html">
-   QST (Quiz/Survey/Test) in a Docker container.
-  </content>
- </entry>
- <entry>
-  <title>jkg: rtt-api-telegram-bot</title>
-  <author>
-   <name>jkg</name>
-  </author>
-  <link href="https://github.com/jkg/rtt-api-telegram-bot" />
-  <id>urn:rprimus:github:jkg:rtt-api-telegram-bot</id>
-  <published>2023-12-21T14:58:04Z</published>
-  <updated>2023-12-21T14:58:04Z</updated>
-  <content type="html">
-   A simple TG bot to access data from the Real Time Trains API
-  </content>
- </entry>
- <entry>
-  <title>Piratenpartij: PPNL-Bridge</title>
-  <author>
-   <name>Piratenpartij</name>
-  </author>
-  <link href="https://github.com/Piratenpartij/PPNL-Bridge" />
-  <id>urn:rprimus:github:Piratenpartij:PPNL-Bridge</id>
-  <published>2023-12-21T12:10:57Z</published>
-  <updated>2023-12-21T12:10:57Z</updated>
-  <content type="html">
-   Brug tussen meerdere chat kanalen
-  </content>
- </entry>
- <entry>
-  <title>Hussein119: lcd-system</title>
-  <author>
-   <name>Hussein119</name>
-  </author>
-  <link href="https://github.com/Hussein119/lcd-system" />
-  <id>urn:rprimus:github:Hussein119:lcd-system</id>
-  <published>2023-12-21T10:01:12Z</published>
-  <updated>2023-12-21T10:01:12Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>habiebzain: pfdel</title>
-  <author>
-   <name>habiebzain</name>
-  </author>
-  <link href="https://github.com/habiebzain/pfdel" />
-  <id>urn:rprimus:github:habiebzain:pfdel</id>
-  <published>2023-12-21T08:48:36Z</published>
-  <updated>2023-12-21T08:48:36Z</updated>
-  <content type="html">
-   Zimbra Postfix Delete
-  </content>
- </entry>
- <entry>
-  <title>deepin-community: libmodule-depends-perl</title>
-  <author>
-   <name>deepin-community</name>
-  </author>
-  <link href="https://github.com/deepin-community/libmodule-depends-perl" />
-  <id>urn:rprimus:github:deepin-community:libmodule-depends-perl</id>
-  <published>2023-12-21T07:19:08Z</published>
-  <updated>2023-12-21T07:19:08Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>spacey-sooty: perl</title>
-  <author>
-   <name>spacey-sooty</name>
-  </author>
-  <link href="https://github.com/spacey-sooty/perl" />
-  <id>urn:rprimus:github:spacey-sooty:perl</id>
-  <published>2023-12-21T07:09:48Z</published>
-  <updated>2023-12-21T07:09:48Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
