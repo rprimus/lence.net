@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2023-12-24T06:09:46Z</updated>
+<updated>2023-12-24T13:24:04Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>gmartsenkov: atlas</title>
+  <author>
+   <name>gmartsenkov</name>
+  </author>
+  <link href="https://github.com/gmartsenkov/atlas" />
+  <id>urn:rprimus:github:gmartsenkov:atlas</id>
+  <published>2023-12-24T13:24:04Z</published>
+  <updated>2023-12-24T13:24:04Z</updated>
+  <content type="html">
+   Crystal lang database mapper
+  </content>
+ </entry>
  <entry>
   <title>kojix2: hello-qiitan</title>
   <author>
@@ -28,32 +41,6 @@
   <updated>2023-12-23T20:00:01Z</updated>
   <content type="html">
    Crystal Implementation of _The Ray Tracer Challenge_
-  </content>
- </entry>
- <entry>
-  <title>nogginly: sugar.cr</title>
-  <author>
-   <name>nogginly</name>
-  </author>
-  <link href="https://github.com/nogginly/sugar.cr" />
-  <id>urn:rprimus:github:nogginly:sugar.cr</id>
-  <published>2023-12-22T21:19:06Z</published>
-  <updated>2023-12-22T21:19:06Z</updated>
-  <content type="html">
-   Some syntactic (and maybe API) sugar for Crystal programs.
-  </content>
- </entry>
- <entry>
-  <title>kojix2: nt.cr</title>
-  <author>
-   <name>kojix2</name>
-  </author>
-  <link href="https://github.com/kojix2/nt.cr" />
-  <id>urn:rprimus:github:kojix2:nt.cr</id>
-  <published>2023-12-22T09:02:13Z</published>
-  <updated>2023-12-22T09:02:13Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
