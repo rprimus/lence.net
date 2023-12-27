@@ -2,8 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2023-12-26T02:24:01Z</updated>
+<updated>2023-12-27T10:22:44Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>SamSamV: Mini_ML</title>
+  <author>
+   <name>SamSamV</name>
+  </author>
+  <link href="https://github.com/SamSamV/Mini_ML" />
+  <id>urn:rprimus:github:SamSamV:Mini_ML</id>
+  <published>2023-12-27T10:22:44Z</published>
+  <updated>2023-12-27T10:22:44Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>davish: org2md</title>
+  <author>
+   <name>davish</name>
+  </author>
+  <link href="https://github.com/davish/org2md" />
+  <id>urn:rprimus:github:davish:org2md</id>
+  <published>2023-12-27T00:40:06Z</published>
+  <updated>2023-12-27T00:40:06Z</updated>
+  <content type="html">
+   Parser for a subset of org-mode syntax into github-flavored markdown.
+  </content>
+ </entry>
+ <entry>
+  <title>apesteguia: Oranger</title>
+  <author>
+   <name>apesteguia</name>
+  </author>
+  <link href="https://github.com/apesteguia/Oranger" />
+  <id>urn:rprimus:github:apesteguia:Oranger</id>
+  <published>2023-12-27T00:30:00Z</published>
+  <updated>2023-12-27T00:30:00Z</updated>
+  <content type="html">
+   Terminal file viewer written in OCaml and inspired by ranger
+  </content>
+ </entry>
+ <entry>
+  <title>paylhorse: plaga</title>
+  <author>
+   <name>paylhorse</name>
+  </author>
+  <link href="https://github.com/paylhorse/plaga" />
+  <id>urn:rprimus:github:paylhorse:plaga</id>
+  <published>2023-12-26T21:02:29Z</published>
+  <updated>2023-12-26T21:02:29Z</updated>
+  <content type="html">
+   A C-like programming language
+  </content>
+ </entry>
+ <entry>
+  <title>NateRecktenwald: WordPuzzle</title>
+  <author>
+   <name>NateRecktenwald</name>
+  </author>
+  <link href="https://github.com/NateRecktenwald/WordPuzzle" />
+  <id>urn:rprimus:github:NateRecktenwald:WordPuzzle</id>
+  <published>2023-12-26T20:03:38Z</published>
+  <updated>2023-12-26T20:03:38Z</updated>
+  <content type="html">
+   A fun word puzzle game where letter can be replaced to create different words
+  </content>
+ </entry>
+ <entry>
+  <title>gclaramunt: AdventOfCode2023</title>
+  <author>
+   <name>gclaramunt</name>
+  </author>
+  <link href="https://github.com/gclaramunt/AdventOfCode2023" />
+  <id>urn:rprimus:github:gclaramunt:AdventOfCode2023</id>
+  <published>2023-12-26T19:39:46Z</published>
+  <updated>2023-12-26T19:39:46Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>leehahoon: ocaml-exercises</title>
+  <author>
+   <name>leehahoon</name>
+  </author>
+  <link href="https://github.com/leehahoon/ocaml-exercises" />
+  <id>urn:rprimus:github:leehahoon:ocaml-exercises</id>
+  <published>2023-12-26T14:16:59Z</published>
+  <updated>2023-12-26T14:16:59Z</updated>
+  <content type="html">
+   Ocaml exercises (https://ocaml.org/exercises)
+  </content>
+ </entry>
  <entry>
   <title>paulo-granthon: aoc23</title>
   <author>
@@ -83,6 +174,19 @@
   </content>
  </entry>
  <entry>
+  <title>MartinOndejka: snarkyml_vs_o1js</title>
+  <author>
+   <name>MartinOndejka</name>
+  </author>
+  <link href="https://github.com/MartinOndejka/snarkyml_vs_o1js" />
+  <id>urn:rprimus:github:MartinOndejka:snarkyml_vs_o1js</id>
+  <published>2023-12-25T12:45:08Z</published>
+  <updated>2023-12-25T12:45:08Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
   <title>neshtea: kimai_report</title>
   <author>
    <name>neshtea</name>
@@ -145,97 +249,6 @@
   <updated>2023-12-25T00:57:22Z</updated>
   <content type="html">
    Thin, extensive and safe wrapper over libc using ctypes. WIP.
-  </content>
- </entry>
- <entry>
-  <title>LeedsJohn: OCaml-Minimax-Game-Solver</title>
-  <author>
-   <name>LeedsJohn</name>
-  </author>
-  <link href="https://github.com/LeedsJohn/OCaml-Minimax-Game-Solver" />
-  <id>urn:rprimus:github:LeedsJohn:OCaml-Minimax-Game-Solver</id>
-  <published>2023-12-24T20:25:54Z</published>
-  <updated>2023-12-24T20:25:54Z</updated>
-  <content type="html">
-   Experimenting with applying a minimax algorithm to several different games.
-  </content>
- </entry>
- <entry>
-  <title>leostera: castore</title>
-  <author>
-   <name>leostera</name>
-  </author>
-  <link href="https://github.com/leostera/castore" />
-  <id>urn:rprimus:github:leostera:castore</id>
-  <published>2023-12-24T17:28:12Z</published>
-  <updated>2023-12-24T17:28:12Z</updated>
-  <content type="html">
-   A portable pure OCaml CA Store
-  </content>
- </entry>
- <entry>
-  <title>hawkaii: Advent_of_code</title>
-  <author>
-   <name>hawkaii</name>
-  </author>
-  <link href="https://github.com/hawkaii/Advent_of_code" />
-  <id>urn:rprimus:github:hawkaii:Advent_of_code</id>
-  <published>2023-12-24T15:49:39Z</published>
-  <updated>2023-12-24T15:49:39Z</updated>
-  <content type="html">
-   My advent of code solutions
-  </content>
- </entry>
- <entry>
-  <title>ryukzak: brainfuck</title>
-  <author>
-   <name>ryukzak</name>
-  </author>
-  <link href="https://github.com/ryukzak/brainfuck" />
-  <id>urn:rprimus:github:ryukzak:brainfuck</id>
-  <published>2023-12-24T13:38:06Z</published>
-  <updated>2023-12-24T13:38:06Z</updated>
-  <content type="html">
-   Brainfuck translator and processor model in Python and OCaml
-  </content>
- </entry>
- <entry>
-  <title>christopherfujino: jsconfig</title>
-  <author>
-   <name>christopherfujino</name>
-  </author>
-  <link href="https://github.com/christopherfujino/jsconfig" />
-  <id>urn:rprimus:github:christopherfujino:jsconfig</id>
-  <published>2023-12-24T10:31:43Z</published>
-  <updated>2023-12-24T10:31:43Z</updated>
-  <content type="html">
-   A JSON-like configuration description language.
-  </content>
- </entry>
- <entry>
-  <title>bocchi2718: LearnOcaml</title>
-  <author>
-   <name>bocchi2718</name>
-  </author>
-  <link href="https://github.com/bocchi2718/LearnOcaml" />
-  <id>urn:rprimus:github:bocchi2718:LearnOcaml</id>
-  <published>2023-12-24T07:29:05Z</published>
-  <updated>2023-12-24T07:29:05Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ilayG2004: CompilerProject</title>
-  <author>
-   <name>ilayG2004</name>
-  </author>
-  <link href="https://github.com/ilayG2004/CompilerProject" />
-  <id>urn:rprimus:github:ilayG2004:CompilerProject</id>
-  <published>2023-12-24T02:22:04Z</published>
-  <updated>2023-12-24T02:22:04Z</updated>
-  <content type="html">
-   Experimental Project to Compile Python into low-level stack language
   </content>
  </entry>
 </feed>
