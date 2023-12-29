@@ -2,188 +2,149 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2023-01-01T23:47:26Z</updated>
+<updated>2023-12-29T00:45:29Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
  <entry>
-  <title>247i: AudaCity32</title>
+  <title>JNSFilipe: L-99</title>
   <author>
-   <name>247i</name>
+   <name>JNSFilipe</name>
   </author>
-  <link href="https://github.com/247i/AudaCity32" />
-  <id>urn:rprimus:github:247i:AudaCity32</id>
-  <published>2023-01-01T23:47:26Z</published>
-  <updated>2023-01-01T23:47:26Z</updated>
+  <link href="https://github.com/JNSFilipe/L-99" />
+  <id>urn:rprimus:github:JNSFilipe:L-99</id>
+  <published>2023-12-29T00:45:29Z</published>
+  <updated>2023-12-29T00:45:29Z</updated>
   <content type="html">
-   à®à®à®¾à®à®¿à®à¯à®à®¿
+   My solutions to &quot;L-99: Ninety-Nine Lisp Problems&quot;
   </content>
  </entry>
  <entry>
-  <title>danielostling: AoC-2022</title>
+  <title>JakubPloch: obj-generator</title>
   <author>
-   <name>danielostling</name>
+   <name>JakubPloch</name>
   </author>
-  <link href="https://github.com/danielostling/AoC-2022" />
-  <id>urn:rprimus:github:danielostling:AoC-2022</id>
-  <published>2023-01-01T20:40:32Z</published>
-  <updated>2023-01-01T20:40:32Z</updated>
+  <link href="https://github.com/JakubPloch/obj-generator" />
+  <id>urn:rprimus:github:JakubPloch:obj-generator</id>
+  <published>2023-12-28T18:44:53Z</published>
+  <updated>2023-12-28T18:44:53Z</updated>
+  <content type="html">
+   A university project written in Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>franklin51: ACED-Final-Autolisp-generation</title>
+  <author>
+   <name>franklin51</name>
+  </author>
+  <link href="https://github.com/franklin51/ACED-Final-Autolisp-generation" />
+  <id>urn:rprimus:github:franklin51:ACED-Final-Autolisp-generation</id>
+  <published>2023-12-28T16:36:06Z</published>
+  <updated>2023-12-28T16:36:06Z</updated>
+  <content type="html">
+   CAED Final project: 2D AutoLisp Program Auto-generation
+  </content>
+ </entry>
+ <entry>
+  <title>WorldWideWest: lisp</title>
+  <author>
+   <name>WorldWideWest</name>
+  </author>
+  <link href="https://github.com/WorldWideWest/lisp" />
+  <id>urn:rprimus:github:WorldWideWest:lisp</id>
+  <published>2023-12-28T15:59:40Z</published>
+  <updated>2023-12-28T15:59:40Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>lem-project: micros</title>
+  <title>zzkt: osc-devices</title>
   <author>
-   <name>lem-project</name>
+   <name>zzkt</name>
   </author>
-  <link href="https://github.com/lem-project/micros" />
-  <id>urn:rprimus:github:lem-project:micros</id>
-  <published>2023-01-01T12:53:06Z</published>
-  <updated>2023-01-01T12:53:06Z</updated>
+  <link href="https://github.com/zzkt/osc-devices" />
+  <id>urn:rprimus:github:zzkt:osc-devices</id>
+  <published>2023-12-28T10:13:44Z</published>
+  <updated>2023-12-28T10:13:44Z</updated>
   <content type="html">
-   Micro slime/swank with forked SLIME
+   A common lisp implementation of the Open Sound Control protocol aka OSC (with devices &amp; CLOS)
   </content>
  </entry>
  <entry>
-  <title>glallen01: aoc</title>
+  <title>the-alex-g: lisp-space-game</title>
   <author>
-   <name>glallen01</name>
+   <name>the-alex-g</name>
   </author>
-  <link href="https://github.com/glallen01/aoc" />
-  <id>urn:rprimus:github:glallen01:aoc</id>
-  <published>2022-12-31T20:54:32Z</published>
-  <updated>2022-12-31T20:54:32Z</updated>
-  <content type="html">
-   Advent of Code
-  </content>
- </entry>
- <entry>
-  <title>Ryan-B-W: advent-of-code</title>
-  <author>
-   <name>Ryan-B-W</name>
-  </author>
-  <link href="https://github.com/Ryan-B-W/advent-of-code" />
-  <id>urn:rprimus:github:Ryan-B-W:advent-of-code</id>
-  <published>2022-12-31T20:42:11Z</published>
-  <updated>2022-12-31T20:42:11Z</updated>
-  <content type="html">
-   My solutions for advent of code
-  </content>
- </entry>
- <entry>
-  <title>p3h3: vesc_sam_ev_ii_integration</title>
-  <author>
-   <name>p3h3</name>
-  </author>
-  <link href="https://github.com/p3h3/vesc_sam_ev_ii_integration" />
-  <id>urn:rprimus:github:p3h3:vesc_sam_ev_ii_integration</id>
-  <published>2022-12-31T18:35:22Z</published>
-  <updated>2022-12-31T18:35:22Z</updated>
-  <content type="html">
-   LispBM Script for Canbus integration of a VESC 100/250 into a SAM EV II
-  </content>
- </entry>
- <entry>
-  <title>gregoryg: cl-cryptogrammer</title>
-  <author>
-   <name>gregoryg</name>
-  </author>
-  <link href="https://github.com/gregoryg/cl-cryptogrammer" />
-  <id>urn:rprimus:github:gregoryg:cl-cryptogrammer</id>
-  <published>2022-12-31T17:53:51Z</published>
-  <updated>2022-12-31T17:53:51Z</updated>
-  <content type="html">
-   Cryptogram generator in Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>PressStart10: lisp-things</title>
-  <author>
-   <name>PressStart10</name>
-  </author>
-  <link href="https://github.com/PressStart10/lisp-things" />
-  <id>urn:rprimus:github:PressStart10:lisp-things</id>
-  <published>2022-12-31T04:19:04Z</published>
-  <updated>2022-12-31T04:19:04Z</updated>
-  <content type="html">
-   a repo of lisp stuff for clickallthebuttons.space
-  </content>
- </entry>
- <entry>
-  <title>tobyWorland: cl-simple-animation-demo</title>
-  <author>
-   <name>tobyWorland</name>
-  </author>
-  <link href="https://github.com/tobyWorland/cl-simple-animation-demo" />
-  <id>urn:rprimus:github:tobyWorland:cl-simple-animation-demo</id>
-  <published>2022-12-31T01:20:41Z</published>
-  <updated>2022-12-31T01:20:41Z</updated>
+  <link href="https://github.com/the-alex-g/lisp-space-game" />
+  <id>urn:rprimus:github:the-alex-g:lisp-space-game</id>
+  <published>2023-12-28T02:08:31Z</published>
+  <updated>2023-12-28T02:08:31Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>nkocsis27: Recursion-Functions-Lisp</title>
+  <title>ikeofilic1: red-blue-nim</title>
   <author>
-   <name>nkocsis27</name>
+   <name>ikeofilic1</name>
   </author>
-  <link href="https://github.com/nkocsis27/Recursion-Functions-Lisp" />
-  <id>urn:rprimus:github:nkocsis27:Recursion-Functions-Lisp</id>
-  <published>2022-12-31T00:20:39Z</published>
-  <updated>2022-12-31T00:20:39Z</updated>
+  <link href="https://github.com/ikeofilic1/red-blue-nim" />
+  <id>urn:rprimus:github:ikeofilic1:red-blue-nim</id>
+  <published>2023-12-28T00:57:20Z</published>
+  <updated>2023-12-28T00:57:20Z</updated>
   <content type="html">
-   Recursive functions in Lisp
+   Red-Blue Nim game in Lisp
   </content>
  </entry>
  <entry>
-  <title>juliojimenez: clickhouse-cl</title>
+  <title>ikeofilic1: 8-puzzle-solver</title>
   <author>
-   <name>juliojimenez</name>
+   <name>ikeofilic1</name>
   </author>
-  <link href="https://github.com/juliojimenez/clickhouse-cl" />
-  <id>urn:rprimus:github:juliojimenez:clickhouse-cl</id>
-  <published>2022-12-30T23:55:57Z</published>
-  <updated>2022-12-30T23:55:57Z</updated>
+  <link href="https://github.com/ikeofilic1/8-puzzle-solver" />
+  <id>urn:rprimus:github:ikeofilic1:8-puzzle-solver</id>
+  <published>2023-12-28T00:03:49Z</published>
+  <updated>2023-12-28T00:03:49Z</updated>
   <content type="html">
-   Common Lisp ClickHouse Client Library
+   8-puzzle agent written in Common Lisp using state space search
   </content>
  </entry>
  <entry>
-  <title>fade: stumpwm-d</title>
+  <title>Lisp-Stat: smoothers</title>
   <author>
-   <name>fade</name>
+   <name>Lisp-Stat</name>
   </author>
-  <link href="https://github.com/fade/stumpwm-d" />
-  <id>urn:rprimus:github:fade:stumpwm-d</id>
-  <published>2022-12-30T17:05:13Z</published>
-  <updated>2022-12-30T17:05:13Z</updated>
+  <link href="https://github.com/Lisp-Stat/smoothers" />
+  <id>urn:rprimus:github:Lisp-Stat:smoothers</id>
+  <published>2023-12-27T23:40:58Z</published>
+  <updated>2023-12-27T23:40:58Z</updated>
+  <content type="html">
+   Statistical smoothing functions
+  </content>
+ </entry>
+ <entry>
+  <title>bbreisch26: CSCI561-Project1</title>
+  <author>
+   <name>bbreisch26</name>
+  </author>
+  <link href="https://github.com/bbreisch26/CSCI561-Project1" />
+  <id>urn:rprimus:github:bbreisch26:CSCI561-Project1</id>
+  <published>2023-12-27T21:33:18Z</published>
+  <updated>2023-12-27T21:33:18Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>jaszczur: advent-2022</title>
+  <title>garlic0x1: fusillade</title>
   <author>
-   <name>jaszczur</name>
+   <name>garlic0x1</name>
   </author>
-  <link href="https://github.com/jaszczur/advent-2022" />
-  <id>urn:rprimus:github:jaszczur:advent-2022</id>
-  <published>2022-12-30T09:11:20Z</published>
-  <updated>2022-12-30T09:11:20Z</updated>
+  <link href="https://github.com/garlic0x1/fusillade" />
+  <id>urn:rprimus:github:garlic0x1:fusillade</id>
+  <published>2023-12-27T05:21:20Z</published>
+  <updated>2023-12-27T05:21:20Z</updated>
   <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>sasukeusnm: calc-bmi</title>
-  <author>
-   <name>sasukeusnm</name>
-  </author>
-  <link href="https://github.com/sasukeusnm/calc-bmi" />
-  <id>urn:rprimus:github:sasukeusnm:calc-bmi</id>
-  <published>2022-12-30T06:51:21Z</published>
-  <updated>2022-12-30T06:51:21Z</updated>
-  <content type="html">
-   
+   Concurrent versions of map/filter/foreach using bordeaux-threads
   </content>
  </entry>
 </feed>
