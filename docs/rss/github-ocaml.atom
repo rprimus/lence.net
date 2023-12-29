@@ -2,240 +2,214 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2023-01-01T21:57:36Z</updated>
+<updated>2023-12-29T03:20:19Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
  <entry>
-  <title>pcrockett: ocaml-playground</title>
+  <title>ofrighil: olox</title>
   <author>
-   <name>pcrockett</name>
+   <name>ofrighil</name>
   </author>
-  <link href="https://github.com/pcrockett/ocaml-playground" />
-  <id>urn:rprimus:github:pcrockett:ocaml-playground</id>
-  <published>2023-01-01T21:57:36Z</published>
-  <updated>2023-01-01T21:57:36Z</updated>
+  <link href="https://github.com/ofrighil/olox" />
+  <id>urn:rprimus:github:ofrighil:olox</id>
+  <published>2023-12-29T03:20:19Z</published>
+  <updated>2023-12-29T03:20:19Z</updated>
   <content type="html">
-   Just playing around with OCaml
+   An OCaml implementation of the tree-walk interpreter from https://craftinginterpreters.com/
   </content>
  </entry>
  <entry>
-  <title>Kitari31: test-csv</title>
+  <title>m-spitfire: tapl</title>
   <author>
-   <name>Kitari31</name>
+   <name>m-spitfire</name>
   </author>
-  <link href="https://github.com/Kitari31/test-csv" />
-  <id>urn:rprimus:github:Kitari31:test-csv</id>
-  <published>2023-01-01T17:09:22Z</published>
-  <updated>2023-01-01T17:09:22Z</updated>
+  <link href="https://github.com/m-spitfire/tapl" />
+  <id>urn:rprimus:github:m-spitfire:tapl</id>
+  <published>2023-12-29T03:04:07Z</published>
+  <updated>2023-12-29T03:04:07Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>andrii-venher: PasswordFinder</title>
+  <title>addykan: monadicParsing</title>
   <author>
-   <name>andrii-venher</name>
+   <name>addykan</name>
   </author>
-  <link href="https://github.com/andrii-venher/PasswordFinder" />
-  <id>urn:rprimus:github:andrii-venher:PasswordFinder</id>
-  <published>2023-01-01T16:36:45Z</published>
-  <updated>2023-01-01T16:36:45Z</updated>
+  <link href="https://github.com/addykan/monadicParsing" />
+  <id>urn:rprimus:github:addykan:monadicParsing</id>
+  <published>2023-12-28T20:50:25Z</published>
+  <updated>2023-12-28T20:50:25Z</updated>
   <content type="html">
-   Multicore password brute-force attack using distributed computations and message passing.
+   Explorations into monadic parsing with ocaml
   </content>
  </entry>
  <entry>
-  <title>Hughshine: PolyCert-Codegen</title>
+  <title>BirnadinErick: 99-ocaml-problems</title>
   <author>
-   <name>Hughshine</name>
+   <name>BirnadinErick</name>
   </author>
-  <link href="https://github.com/Hughshine/PolyCert-Codegen" />
-  <id>urn:rprimus:github:Hughshine:PolyCert-Codegen</id>
-  <published>2023-01-01T12:27:03Z</published>
-  <updated>2023-01-01T12:27:03Z</updated>
+  <link href="https://github.com/BirnadinErick/99-ocaml-problems" />
+  <id>urn:rprimus:github:BirnadinErick:99-ocaml-problems</id>
+  <published>2023-12-28T16:17:27Z</published>
+  <updated>2023-12-28T16:17:27Z</updated>
   <content type="html">
-   ocaml 4.13.1 &amp; coq 8.13.2, mirror of https://github.com/Ekdohibs/PolyGen
+   my attempt to 99 lisp problems in ocaml (not exhaustive and extras included)
   </content>
  </entry>
  <entry>
-  <title>pixilcode: datalog-interpreter-ocaml</title>
+  <title>idoburstein: OCaml-Interpreter</title>
   <author>
-   <name>pixilcode</name>
+   <name>idoburstein</name>
   </author>
-  <link href="https://github.com/pixilcode/datalog-interpreter-ocaml" />
-  <id>urn:rprimus:github:pixilcode:datalog-interpreter-ocaml</id>
-  <published>2022-12-31T18:47:40Z</published>
-  <updated>2022-12-31T18:47:40Z</updated>
-  <content type="html">
-   A reimplementation of the datalog interpreter, done in OCaml
-  </content>
- </entry>
- <entry>
-  <title>tmnvanderberg: ocaml_exp</title>
-  <author>
-   <name>tmnvanderberg</name>
-  </author>
-  <link href="https://github.com/tmnvanderberg/ocaml_exp" />
-  <id>urn:rprimus:github:tmnvanderberg:ocaml_exp</id>
-  <published>2022-12-31T18:23:06Z</published>
-  <updated>2022-12-31T18:23:06Z</updated>
+  <link href="https://github.com/idoburstein/OCaml-Interpreter" />
+  <id>urn:rprimus:github:idoburstein:OCaml-Interpreter</id>
+  <published>2023-12-28T13:40:46Z</published>
+  <updated>2023-12-28T13:40:46Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>kennybop: MiniML-Interpreter</title>
+  <title>elicatza: camlsnake</title>
   <author>
-   <name>kennybop</name>
+   <name>elicatza</name>
   </author>
-  <link href="https://github.com/kennybop/MiniML-Interpreter" />
-  <id>urn:rprimus:github:kennybop:MiniML-Interpreter</id>
-  <published>2022-12-31T18:08:16Z</published>
-  <updated>2022-12-31T18:08:16Z</updated>
+  <link href="https://github.com/elicatza/camlsnake" />
+  <id>urn:rprimus:github:elicatza:camlsnake</id>
+  <published>2023-12-28T12:00:49Z</published>
+  <updated>2023-12-28T12:00:49Z</updated>
+  <content type="html">
+   Snake in Ocaml with C interop using Raylib
+  </content>
+ </entry>
+ <entry>
+  <title>Axot017: validator</title>
+  <author>
+   <name>Axot017</name>
+  </author>
+  <link href="https://github.com/Axot017/validator" />
+  <id>urn:rprimus:github:Axot017:validator</id>
+  <published>2023-12-28T11:44:11Z</published>
+  <updated>2023-12-28T11:44:11Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>danielkarl888: ex3_pl</title>
+  <title>rawburt: rl</title>
   <author>
-   <name>danielkarl888</name>
+   <name>rawburt</name>
   </author>
-  <link href="https://github.com/danielkarl888/ex3_pl" />
-  <id>urn:rprimus:github:danielkarl888:ex3_pl</id>
-  <published>2022-12-31T17:36:18Z</published>
-  <updated>2022-12-31T17:36:18Z</updated>
+  <link href="https://github.com/rawburt/rl" />
+  <id>urn:rprimus:github:rawburt:rl</id>
+  <published>2023-12-28T09:37:09Z</published>
+  <updated>2023-12-28T09:37:09Z</updated>
+  <content type="html">
+   robert&#039;s language
+  </content>
+ </entry>
+ <entry>
+  <title>bmusuko: aoc2015</title>
+  <author>
+   <name>bmusuko</name>
+  </author>
+  <link href="https://github.com/bmusuko/aoc2015" />
+  <id>urn:rprimus:github:bmusuko:aoc2015</id>
+  <published>2023-12-28T07:03:36Z</published>
+  <updated>2023-12-28T07:03:36Z</updated>
+  <content type="html">
+   my attempt to learn ocaml
+  </content>
+ </entry>
+ <entry>
+  <title>steffenhaug: learning-llvm</title>
+  <author>
+   <name>steffenhaug</name>
+  </author>
+  <link href="https://github.com/steffenhaug/learning-llvm" />
+  <id>urn:rprimus:github:steffenhaug:learning-llvm</id>
+  <published>2023-12-28T01:03:22Z</published>
+  <updated>2023-12-28T01:03:22Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>bikallem: http-date</title>
+  <title>nathanfarlow: simple-ocaml-ctypes-example</title>
   <author>
-   <name>bikallem</name>
+   <name>nathanfarlow</name>
   </author>
-  <link href="https://github.com/bikallem/http-date" />
-  <id>urn:rprimus:github:bikallem:http-date</id>
-  <published>2022-12-31T15:08:03Z</published>
-  <updated>2022-12-31T15:08:03Z</updated>
+  <link href="https://github.com/nathanfarlow/simple-ocaml-ctypes-example" />
+  <id>urn:rprimus:github:nathanfarlow:simple-ocaml-ctypes-example</id>
+  <published>2023-12-28T00:49:11Z</published>
+  <updated>2023-12-28T00:49:11Z</updated>
   <content type="html">
-   HTTP timestamp Decoder and Encoder
+   A simple example of how to use ocaml ctypes with a vendored library
   </content>
  </entry>
  <entry>
-  <title>Harim-H: Chess</title>
+  <title>thetunr: ofishl</title>
   <author>
-   <name>Harim-H</name>
+   <name>thetunr</name>
   </author>
-  <link href="https://github.com/Harim-H/Chess" />
-  <id>urn:rprimus:github:Harim-H:Chess</id>
-  <published>2022-12-31T06:47:33Z</published>
-  <updated>2022-12-31T06:47:33Z</updated>
+  <link href="https://github.com/thetunr/ofishl" />
+  <id>urn:rprimus:github:thetunr:ofishl</id>
+  <published>2023-12-27T16:19:39Z</published>
+  <updated>2023-12-27T16:19:39Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>ksrky: tiger</title>
+  <title>DexerMatters: Descript-in-OCaml</title>
   <author>
-   <name>ksrky</name>
+   <name>DexerMatters</name>
   </author>
-  <link href="https://github.com/ksrky/tiger" />
-  <id>urn:rprimus:github:ksrky:tiger</id>
-  <published>2022-12-31T06:00:24Z</published>
-  <updated>2022-12-31T06:00:24Z</updated>
-  <content type="html">
-   OCaml implementation of Andrew Appel&#039;s &quot;Modern Compiler Implementation in ML&quot;.
-  </content>
- </entry>
- <entry>
-  <title>lithium: ocaml-exercises</title>
-  <author>
-   <name>lithium</name>
-  </author>
-  <link href="https://github.com/lithium/ocaml-exercises" />
-  <id>urn:rprimus:github:lithium:ocaml-exercises</id>
-  <published>2022-12-30T23:19:49Z</published>
-  <updated>2022-12-30T23:19:49Z</updated>
+  <link href="https://github.com/DexerMatters/Descript-in-OCaml" />
+  <id>urn:rprimus:github:DexerMatters:Descript-in-OCaml</id>
+  <published>2023-12-27T15:17:19Z</published>
+  <updated>2023-12-27T15:17:19Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>akai54: compiler</title>
+  <title>SamSamV: Mini_ML</title>
   <author>
-   <name>akai54</name>
+   <name>SamSamV</name>
   </author>
-  <link href="https://github.com/akai54/compiler" />
-  <id>urn:rprimus:github:akai54:compiler</id>
-  <published>2022-12-30T20:05:22Z</published>
-  <updated>2022-12-30T20:05:22Z</updated>
+  <link href="https://github.com/SamSamV/Mini_ML" />
+  <id>urn:rprimus:github:SamSamV:Mini_ML</id>
+  <published>2023-12-27T10:22:44Z</published>
+  <updated>2023-12-27T10:22:44Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>mrojasb2000: Ocaml</title>
+  <title>davish: org2md</title>
   <author>
-   <name>mrojasb2000</name>
+   <name>davish</name>
   </author>
-  <link href="https://github.com/mrojasb2000/Ocaml" />
-  <id>urn:rprimus:github:mrojasb2000:Ocaml</id>
-  <published>2022-12-30T17:47:36Z</published>
-  <updated>2022-12-30T17:47:36Z</updated>
+  <link href="https://github.com/davish/org2md" />
+  <id>urn:rprimus:github:davish:org2md</id>
+  <published>2023-12-27T00:40:06Z</published>
+  <updated>2023-12-27T00:40:06Z</updated>
   <content type="html">
-   
+   Parser for a subset of org-mode syntax into github-flavored markdown.
   </content>
  </entry>
  <entry>
-  <title>Hughshine: VPL</title>
+  <title>apesteguia: Oranger</title>
   <author>
-   <name>Hughshine</name>
+   <name>apesteguia</name>
   </author>
-  <link href="https://github.com/Hughshine/VPL" />
-  <id>urn:rprimus:github:Hughshine:VPL</id>
-  <published>2022-12-30T17:01:43Z</published>
-  <updated>2022-12-30T17:01:43Z</updated>
+  <link href="https://github.com/apesteguia/Oranger" />
+  <id>urn:rprimus:github:apesteguia:Oranger</id>
+  <published>2023-12-27T00:30:00Z</published>
+  <updated>2023-12-27T00:30:00Z</updated>
   <content type="html">
-   for coq 8.13.2
-  </content>
- </entry>
- <entry>
-  <title>UPS-ILU: ilu1-project-example</title>
-  <author>
-   <name>UPS-ILU</name>
-  </author>
-  <link href="https://github.com/UPS-ILU/ilu1-project-example" />
-  <id>urn:rprimus:github:UPS-ILU:ilu1-project-example</id>
-  <published>2022-12-30T14:21:41Z</published>
-  <updated>2022-12-30T14:21:41Z</updated>
-  <content type="html">
-   ElÃ©ments d&#039;aide pour le projet ILU1 en dÃ©cembre 2022
-  </content>
- </entry>
- <entry>
-  <title>sam571128: OCaml_CP_Template</title>
-  <author>
-   <name>sam571128</name>
-  </author>
-  <link href="https://github.com/sam571128/OCaml_CP_Template" />
-  <id>urn:rprimus:github:sam571128:OCaml_CP_Template</id>
-  <published>2022-12-30T08:45:02Z</published>
-  <updated>2022-12-30T08:45:02Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Tgolden-19: terminal-chess</title>
-  <author>
-   <name>Tgolden-19</name>
-  </author>
-  <link href="https://github.com/Tgolden-19/terminal-chess" />
-  <id>urn:rprimus:github:Tgolden-19:terminal-chess</id>
-  <published>2022-12-30T07:35:09Z</published>
-  <updated>2022-12-30T07:35:09Z</updated>
-  <content type="html">
-   Chess in the terminal designed in ocaml
+   Terminal file viewer written in OCaml and inspired by ranger
   </content>
  </entry>
 </feed>
