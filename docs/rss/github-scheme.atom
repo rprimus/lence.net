@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-scheme.atom"/>
 <id>urn:rprimus:github:newschemerepos</id>
-<updated>2023-12-31T04:12:01Z</updated>
+<updated>2024-01-01T02:47:03Z</updated>
 <title type='text'>New GitHub Scheme Repos</title>
+ <entry>
+  <title>OpenJ92: SICP</title>
+  <author>
+   <name>OpenJ92</name>
+  </author>
+  <link href="https://github.com/OpenJ92/SICP" />
+  <id>urn:rprimus:github:OpenJ92:SICP</id>
+  <published>2024-01-01T02:47:03Z</published>
+  <updated>2024-01-01T02:47:03Z</updated>
+  <content type="html">
+   Structure and Interpretation of Computer Programs -- Notes and Assignments
+  </content>
+ </entry>
+ <entry>
+  <title>abhijithcd: gnucash_custom_reports</title>
+  <author>
+   <name>abhijithcd</name>
+  </author>
+  <link href="https://github.com/abhijithcd/gnucash_custom_reports" />
+  <id>urn:rprimus:github:abhijithcd:gnucash_custom_reports</id>
+  <published>2023-12-31T21:28:51Z</published>
+  <updated>2023-12-31T21:28:51Z</updated>
+  <content type="html">
+   Gnucash report to calculate savings rate
+  </content>
+ </entry>
  <entry>
   <title>zmisic: my-guix-channel</title>
   <author>
@@ -41,58 +67,6 @@
   <updated>2023-12-30T06:47:16Z</updated>
   <content type="html">
    Uploaded for posterity, sans commit history and some sensative files.
-  </content>
- </entry>
- <entry>
-  <title>senkowo: guix-channel</title>
-  <author>
-   <name>senkowo</name>
-  </author>
-  <link href="https://github.com/senkowo/guix-channel" />
-  <id>urn:rprimus:github:senkowo:guix-channel</id>
-  <published>2023-12-29T21:50:42Z</published>
-  <updated>2023-12-29T21:50:42Z</updated>
-  <content type="html">
-   A personal guix channel
-  </content>
- </entry>
- <entry>
-  <title>svitax: guix</title>
-  <author>
-   <name>svitax</name>
-  </author>
-  <link href="https://github.com/svitax/guix" />
-  <id>urn:rprimus:github:svitax:guix</id>
-  <published>2023-12-29T20:17:45Z</published>
-  <updated>2023-12-29T20:17:45Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>marc-rowegroup: ss-foundation-6</title>
-  <author>
-   <name>marc-rowegroup</name>
-  </author>
-  <link href="https://github.com/marc-rowegroup/ss-foundation-6" />
-  <id>urn:rprimus:github:marc-rowegroup:ss-foundation-6</id>
-  <published>2023-12-29T19:38:42Z</published>
-  <updated>2023-12-29T19:38:42Z</updated>
-  <content type="html">
-   Simple Foundation 6 theme for Silverstripe
-  </content>
- </entry>
- <entry>
-  <title>carnotweat: dotguix</title>
-  <author>
-   <name>carnotweat</name>
-  </author>
-  <link href="https://github.com/carnotweat/dotguix" />
-  <id>urn:rprimus:github:carnotweat:dotguix</id>
-  <published>2023-12-29T06:15:33Z</published>
-  <updated>2023-12-29T06:15:33Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
