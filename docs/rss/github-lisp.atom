@@ -2,8 +2,112 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2024-01-01T05:35:52Z</updated>
+<updated>2024-01-02T06:35:55Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>mhkoji: boem</title>
+  <author>
+   <name>mhkoji</name>
+  </author>
+  <link href="https://github.com/mhkoji/boem" />
+  <id>urn:rprimus:github:mhkoji:boem</id>
+  <published>2024-01-02T06:35:55Z</published>
+  <updated>2024-01-02T06:35:55Z</updated>
+  <content type="html">
+   An emulator
+  </content>
+ </entry>
+ <entry>
+  <title>amithasound: Bingo-Organization</title>
+  <author>
+   <name>amithasound</name>
+  </author>
+  <link href="https://github.com/amithasound/Bingo-Organization" />
+  <id>urn:rprimus:github:amithasound:Bingo-Organization</id>
+  <published>2024-01-01T23:19:21Z</published>
+  <updated>2024-01-01T23:19:21Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>3b: 3b-winmd</title>
+  <author>
+   <name>3b</name>
+  </author>
+  <link href="https://github.com/3b/3b-winmd" />
+  <id>urn:rprimus:github:3b:3b-winmd</id>
+  <published>2024-01-01T22:16:15Z</published>
+  <updated>2024-01-01T22:16:15Z</updated>
+  <content type="html">
+   wip common lisp parser and ffi generator for windows .winmd files
+  </content>
+ </entry>
+ <entry>
+  <title>staudtlex: calendar-utilities</title>
+  <author>
+   <name>staudtlex</name>
+  </author>
+  <link href="https://github.com/staudtlex/calendar-utilities" />
+  <id>urn:rprimus:github:staudtlex:calendar-utilities</id>
+  <published>2024-01-01T21:48:34Z</published>
+  <updated>2024-01-01T21:48:34Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>woudshoo: wo-ledger</title>
+  <author>
+   <name>woudshoo</name>
+  </author>
+  <link href="https://github.com/woudshoo/wo-ledger" />
+  <id>urn:rprimus:github:woudshoo:wo-ledger</id>
+  <published>2024-01-01T18:49:05Z</published>
+  <updated>2024-01-01T18:49:05Z</updated>
+  <content type="html">
+   playground to see if I can replace YNAB with ledger
+  </content>
+ </entry>
+ <entry>
+  <title>NoamZeise: triangle-solver</title>
+  <author>
+   <name>NoamZeise</name>
+  </author>
+  <link href="https://github.com/NoamZeise/triangle-solver" />
+  <id>urn:rprimus:github:NoamZeise:triangle-solver</id>
+  <published>2024-01-01T16:12:12Z</published>
+  <updated>2024-01-01T16:12:12Z</updated>
+  <content type="html">
+   Given straight lines of  vertices, calculate how many traingles the graph has
+  </content>
+ </entry>
+ <entry>
+  <title>the-alex-g: lisp-space-game</title>
+  <author>
+   <name>the-alex-g</name>
+  </author>
+  <link href="https://github.com/the-alex-g/lisp-space-game" />
+  <id>urn:rprimus:github:the-alex-g:lisp-space-game</id>
+  <published>2024-01-01T13:45:51Z</published>
+  <updated>2024-01-01T13:45:51Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>gomadoufu: practical-common-lisp</title>
+  <author>
+   <name>gomadoufu</name>
+  </author>
+  <link href="https://github.com/gomadoufu/practical-common-lisp" />
+  <id>urn:rprimus:github:gomadoufu:practical-common-lisp</id>
+  <published>2024-01-01T11:22:32Z</published>
+  <updated>2024-01-01T11:22:32Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>LeafChage: c.lisp</title>
   <author>
@@ -44,16 +148,16 @@
   </content>
  </entry>
  <entry>
-  <title>gongahkia: yacc</title>
+  <title>map9959: simple-lisp-tools</title>
   <author>
-   <name>gongahkia</name>
+   <name>map9959</name>
   </author>
-  <link href="https://github.com/gongahkia/yacc" />
-  <id>urn:rprimus:github:gongahkia:yacc</id>
-  <published>2023-12-31T05:04:09Z</published>
-  <updated>2023-12-31T05:04:09Z</updated>
+  <link href="https://github.com/map9959/simple-lisp-tools" />
+  <id>urn:rprimus:github:map9959:simple-lisp-tools</id>
+  <published>2023-12-31T19:03:46Z</published>
+  <updated>2023-12-31T19:03:46Z</updated>
   <content type="html">
-   learning common lisp
+   Math functions and a BST implemented in Common Lisp
   </content>
  </entry>
  <entry>
@@ -67,58 +171,6 @@
   <updated>2023-12-31T04:04:10Z</updated>
   <content type="html">
    Simple AutoLISP to automate my main work tasks
-  </content>
- </entry>
- <entry>
-  <title>jwhiteman: schemer-cl</title>
-  <author>
-   <name>jwhiteman</name>
-  </author>
-  <link href="https://github.com/jwhiteman/schemer-cl" />
-  <id>urn:rprimus:github:jwhiteman:schemer-cl</id>
-  <published>2023-12-30T21:08:11Z</published>
-  <updated>2023-12-30T21:08:11Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>hemml: TomoV</title>
-  <author>
-   <name>hemml</name>
-  </author>
-  <link href="https://github.com/hemml/TomoV" />
-  <id>urn:rprimus:github:hemml:TomoV</id>
-  <published>2023-12-30T12:07:54Z</published>
-  <updated>2023-12-30T12:07:54Z</updated>
-  <content type="html">
-   Doppler tomography with ART reconstruction method
-  </content>
- </entry>
- <entry>
-  <title>kvitebjorn: rosalind</title>
-  <author>
-   <name>kvitebjorn</name>
-  </author>
-  <link href="https://github.com/kvitebjorn/rosalind" />
-  <id>urn:rprimus:github:kvitebjorn:rosalind</id>
-  <published>2023-12-30T08:55:19Z</published>
-  <updated>2023-12-30T08:55:19Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>monospod: boing</title>
-  <author>
-   <name>monospod</name>
-  </author>
-  <link href="https://github.com/monospod/boing" />
-  <id>urn:rprimus:github:monospod:boing</id>
-  <published>2023-12-30T08:48:14Z</published>
-  <updated>2023-12-30T08:48:14Z</updated>
-  <content type="html">
-   Trivial-Gamekit implementation of &quot;Boing&quot; from &quot;Code the Classics&quot;.
   </content>
  </entry>
 </feed>

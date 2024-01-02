@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2024-01-01T10:01:33Z</updated>
+<updated>2024-01-02T05:23:45Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>bourkey08: nim_macros</title>
+  <author>
+   <name>bourkey08</name>
+  </author>
+  <link href="https://github.com/bourkey08/nim_macros" />
+  <id>urn:rprimus:github:bourkey08:nim_macros</id>
+  <published>2024-01-02T05:23:45Z</published>
+  <updated>2024-01-02T05:23:45Z</updated>
+  <content type="html">
+   Personal NIM macros
+  </content>
+ </entry>
+ <entry>
+  <title>HapticX: vkraken</title>
+  <author>
+   <name>HapticX</name>
+  </author>
+  <link href="https://github.com/HapticX/vkraken" />
+  <id>urn:rprimus:github:HapticX:vkraken</id>
+  <published>2024-01-01T13:33:05Z</published>
+  <updated>2024-01-01T13:33:05Z</updated>
+  <content type="html">
+   VK API for Nim ð¥
+  </content>
+ </entry>
  <entry>
   <title>lost22git: apk_dl</title>
   <author>
@@ -41,19 +67,6 @@
   <updated>2023-12-31T03:37:54Z</updated>
   <content type="html">
    ctrshim is an example of container shim program for create oci container.
-  </content>
- </entry>
- <entry>
-  <title>JCallicoat: nim_wordle</title>
-  <author>
-   <name>JCallicoat</name>
-  </author>
-  <link href="https://github.com/JCallicoat/nim_wordle" />
-  <id>urn:rprimus:github:JCallicoat:nim_wordle</id>
-  <published>2023-12-30T00:19:39Z</published>
-  <updated>2023-12-30T00:19:39Z</updated>
-  <content type="html">
-   Toy wordle cli program and solver just to mess around some more with nim
   </content>
  </entry>
 </feed>
