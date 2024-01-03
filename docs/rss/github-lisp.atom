@@ -2,8 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2024-01-02T09:00:02Z</updated>
+<updated>2024-01-03T04:32:35Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>oaguy1: blog</title>
+  <author>
+   <name>oaguy1</name>
+  </author>
+  <link href="https://github.com/oaguy1/blog" />
+  <id>urn:rprimus:github:oaguy1:blog</id>
+  <published>2024-01-03T04:32:35Z</published>
+  <updated>2024-01-03T04:32:35Z</updated>
+  <content type="html">
+   The Source Code for my Blog
+  </content>
+ </entry>
+ <entry>
+  <title>sourceprobe: bf_lisp</title>
+  <author>
+   <name>sourceprobe</name>
+  </author>
+  <link href="https://github.com/sourceprobe/bf_lisp" />
+  <id>urn:rprimus:github:sourceprobe:bf_lisp</id>
+  <published>2024-01-03T01:10:50Z</published>
+  <updated>2024-01-03T01:10:50Z</updated>
+  <content type="html">
+   A simple brainf*** interpreter in common lisp
+  </content>
+ </entry>
+ <entry>
+  <title>ivvil: acylx-lisp</title>
+  <author>
+   <name>ivvil</name>
+  </author>
+  <link href="https://github.com/ivvil/acylx-lisp" />
+  <id>urn:rprimus:github:ivvil:acylx-lisp</id>
+  <published>2024-01-02T15:55:48Z</published>
+  <updated>2024-01-02T15:55:48Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>jdz: fmt</title>
+  <author>
+   <name>jdz</name>
+  </author>
+  <link href="https://github.com/jdz/fmt" />
+  <id>urn:rprimus:github:jdz:fmt</id>
+  <published>2024-01-02T15:15:05Z</published>
+  <updated>2024-01-02T15:15:05Z</updated>
+  <content type="html">
+   Common lisp formatting utility functions
+  </content>
+ </entry>
+ <entry>
+  <title>k3ut0i: atcoder-practice-algos</title>
+  <author>
+   <name>k3ut0i</name>
+  </author>
+  <link href="https://github.com/k3ut0i/atcoder-practice-algos" />
+  <id>urn:rprimus:github:k3ut0i:atcoder-practice-algos</id>
+  <published>2024-01-02T13:00:22Z</published>
+  <updated>2024-01-02T13:00:22Z</updated>
+  <content type="html">
+   Solutions for practice algorithms from atcoder.jp
+  </content>
+ </entry>
+ <entry>
+  <title>James-P-D: NQueens</title>
+  <author>
+   <name>James-P-D</name>
+  </author>
+  <link href="https://github.com/James-P-D/NQueens" />
+  <id>urn:rprimus:github:James-P-D:NQueens</id>
+  <published>2024-01-02T11:33:35Z</published>
+  <updated>2024-01-02T11:33:35Z</updated>
+  <content type="html">
+   N-Queens solver in Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>selwynsimsek: xmpp-repl</title>
+  <author>
+   <name>selwynsimsek</name>
+  </author>
+  <link href="https://github.com/selwynsimsek/xmpp-repl" />
+  <id>urn:rprimus:github:selwynsimsek:xmpp-repl</id>
+  <published>2024-01-02T11:03:39Z</published>
+  <updated>2024-01-02T11:03:39Z</updated>
+  <content type="html">
+   Communicate with a Lisp process over XMPP
+  </content>
+ </entry>
  <entry>
   <title>kvitebjorn: randumb</title>
   <author>
@@ -197,45 +288,6 @@
   <updated>2024-01-01T05:12:25Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>priswm: stamp</title>
-  <author>
-   <name>priswm</name>
-  </author>
-  <link href="https://github.com/priswm/stamp" />
-  <id>urn:rprimus:github:priswm:stamp</id>
-  <published>2023-12-31T21:02:25Z</published>
-  <updated>2023-12-31T21:02:25Z</updated>
-  <content type="html">
-    Personal Stumpwm Nicities Adjacent To PrisWM. 
-  </content>
- </entry>
- <entry>
-  <title>map9959: simple-lisp-tools</title>
-  <author>
-   <name>map9959</name>
-  </author>
-  <link href="https://github.com/map9959/simple-lisp-tools" />
-  <id>urn:rprimus:github:map9959:simple-lisp-tools</id>
-  <published>2023-12-31T19:03:46Z</published>
-  <updated>2023-12-31T19:03:46Z</updated>
-  <content type="html">
-   Math functions and a BST implemented in Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>thetitorenko: autolisp</title>
-  <author>
-   <name>thetitorenko</name>
-  </author>
-  <link href="https://github.com/thetitorenko/autolisp" />
-  <id>urn:rprimus:github:thetitorenko:autolisp</id>
-  <published>2023-12-31T04:04:10Z</published>
-  <updated>2023-12-31T04:04:10Z</updated>
-  <content type="html">
-   Simple AutoLISP to automate my main work tasks
   </content>
  </entry>
 </feed>
