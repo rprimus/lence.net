@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2024-01-06T03:47:04Z</updated>
+<updated>2024-01-06T10:08:44Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>mratsim: weave-io</title>
+  <author>
+   <name>mratsim</name>
+  </author>
+  <link href="https://github.com/mratsim/weave-io" />
+  <id>urn:rprimus:github:mratsim:weave-io</id>
+  <published>2024-01-06T10:08:44Z</published>
+  <updated>2024-01-06T10:08:44Z</updated>
+  <content type="html">
+   A latency and fairness optimized threadpool. Tuned for async IO and decent for compute tasks.
+  </content>
+ </entry>
+ <entry>
+  <title>4zv4l: md5nim</title>
+  <author>
+   <name>4zv4l</name>
+  </author>
+  <link href="https://github.com/4zv4l/md5nim" />
+  <id>urn:rprimus:github:4zv4l:md5nim</id>
+  <published>2024-01-06T06:24:16Z</published>
+  <updated>2024-01-06T06:24:16Z</updated>
+  <content type="html">
+   Simple Client/Server sending hashes  and breaking them (hopefully).
+  </content>
+ </entry>
  <entry>
   <title>clpi: cbc</title>
   <author>
