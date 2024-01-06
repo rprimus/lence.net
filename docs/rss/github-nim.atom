@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2024-01-05T08:52:01Z</updated>
+<updated>2024-01-06T03:47:04Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>clpi: cbc</title>
+  <author>
+   <name>clpi</name>
+  </author>
+  <link href="https://github.com/clpi/cbc" />
+  <id>urn:rprimus:github:clpi:cbc</id>
+  <published>2024-01-06T03:47:04Z</published>
+  <updated>2024-01-06T03:47:04Z</updated>
+  <content type="html">
+   nim ms
+  </content>
+ </entry>
+ <entry>
+  <title>systemonia: everything</title>
+  <author>
+   <name>systemonia</name>
+  </author>
+  <link href="https://github.com/systemonia/everything" />
+  <id>urn:rprimus:github:systemonia:everything</id>
+  <published>2024-01-05T16:14:56Z</published>
+  <updated>2024-01-05T16:14:56Z</updated>
+  <content type="html">
+   Every nimble package ever... Now In one convenient package!
+  </content>
+ </entry>
+ <entry>
+  <title>zsolt001: nim-test</title>
+  <author>
+   <name>zsolt001</name>
+  </author>
+  <link href="https://github.com/zsolt001/nim-test" />
+  <id>urn:rprimus:github:zsolt001:nim-test</id>
+  <published>2024-01-05T11:31:20Z</published>
+  <updated>2024-01-05T11:31:20Z</updated>
+  <content type="html">
+   Random stuff to explore the Nim language
+  </content>
+ </entry>
  <entry>
   <title>bung87: finim</title>
   <author>
@@ -54,32 +93,6 @@
   <updated>2024-01-04T01:08:47Z</updated>
   <content type="html">
    Quickly generate Nim headers from exported Nim code
-  </content>
- </entry>
- <entry>
-  <title>harbitz: scope-filter</title>
-  <author>
-   <name>harbitz</name>
-  </author>
-  <link href="https://github.com/harbitz/scope-filter" />
-  <id>urn:rprimus:github:harbitz:scope-filter</id>
-  <published>2024-01-03T08:55:18Z</published>
-  <updated>2024-01-03T08:55:18Z</updated>
-  <content type="html">
-   Filtering scopes from Bug Bounty platforms
-  </content>
- </entry>
- <entry>
-  <title>sneekyfoxx: Superuser</title>
-  <author>
-   <name>sneekyfoxx</name>
-  </author>
-  <link href="https://github.com/sneekyfoxx/Superuser" />
-  <id>urn:rprimus:github:sneekyfoxx:Superuser</id>
-  <published>2024-01-03T05:56:57Z</published>
-  <updated>2024-01-03T05:56:57Z</updated>
-  <content type="html">
-   A shell program that bundles custom built versions of five common shell programs.
   </content>
  </entry>
 </feed>
