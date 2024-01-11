@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-erlang.atom"/>
 <id>urn:rprimus:github:newerlangrepos</id>
-<updated>2024-01-10T17:36:46Z</updated>
+<updated>2024-01-11T03:59:44Z</updated>
 <title type='text'>New GitHub Erlang Repos</title>
+ <entry>
+  <title>morton-t: CS3363-Organization-of-Programming-Languages-Coursework</title>
+  <author>
+   <name>morton-t</name>
+  </author>
+  <link href="https://github.com/morton-t/CS3363-Organization-of-Programming-Languages-Coursework" />
+  <id>urn:rprimus:github:morton-t:CS3363-Organization-of-Programming-Languages-Coursework</id>
+  <published>2024-01-11T03:59:44Z</published>
+  <updated>2024-01-11T03:59:44Z</updated>
+  <content type="html">
+   Contains homework exploring various functional programming languages to solidify student understanding of lecture materials covered in class.
+  </content>
+ </entry>
+ <entry>
+  <title>maennchen: http-message-signatures</title>
+  <author>
+   <name>maennchen</name>
+  </author>
+  <link href="https://github.com/maennchen/http-message-signatures" />
+  <id>urn:rprimus:github:maennchen:http-message-signatures</id>
+  <published>2024-01-10T22:08:32Z</published>
+  <updated>2024-01-10T22:08:32Z</updated>
+  <content type="html">
+   Work In Progress, do not use
+  </content>
+ </entry>
  <entry>
   <title>derekely: Hello-Erlang</title>
   <author>
@@ -44,6 +70,19 @@
   </content>
  </entry>
  <entry>
+  <title>DaQuany: helloworldpython</title>
+  <author>
+   <name>DaQuany</name>
+  </author>
+  <link href="https://github.com/DaQuany/helloworldpython" />
+  <id>urn:rprimus:github:DaQuany:helloworldpython</id>
+  <published>2024-01-09T16:26:55Z</published>
+  <updated>2024-01-09T16:26:55Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
   <title>valitydev: ranger</title>
   <author>
    <name>valitydev</name>
@@ -70,42 +109,16 @@
   </content>
  </entry>
  <entry>
-  <title>SharifAkram: messaging-app</title>
+  <title>conplexio: webchess</title>
   <author>
-   <name>SharifAkram</name>
+   <name>conplexio</name>
   </author>
-  <link href="https://github.com/SharifAkram/messaging-app" />
-  <id>urn:rprimus:github:SharifAkram:messaging-app</id>
-  <published>2024-01-08T19:03:09Z</published>
-  <updated>2024-01-08T19:03:09Z</updated>
+  <link href="https://github.com/conplexio/webchess" />
+  <id>urn:rprimus:github:conplexio:webchess</id>
+  <published>2024-01-09T04:28:33Z</published>
+  <updated>2024-01-09T04:28:33Z</updated>
   <content type="html">
-   Basic text messaging app
-  </content>
- </entry>
- <entry>
-  <title>ZuluDelta117: CSE_481</title>
-  <author>
-   <name>ZuluDelta117</name>
-  </author>
-  <link href="https://github.com/ZuluDelta117/CSE_481" />
-  <id>urn:rprimus:github:ZuluDelta117:CSE_481</id>
-  <published>2024-01-08T17:59:27Z</published>
-  <updated>2024-01-08T17:59:27Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>tank-bohr: exqwalizer</title>
-  <author>
-   <name>tank-bohr</name>
-  </author>
-  <link href="https://github.com/tank-bohr/exqwalizer" />
-  <id>urn:rprimus:github:tank-bohr:exqwalizer</id>
-  <published>2024-01-08T01:08:39Z</published>
-  <updated>2024-01-08T01:08:39Z</updated>
-  <content type="html">
-   
+   Server for a community of chess players to engage in chess related activities online. Written in Erlang.
   </content>
  </entry>
 </feed>

@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2024-01-10T17:21:15Z</updated>
+<updated>2024-01-11T06:40:26Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>trev-dev: stumpwm.d</title>
+  <author>
+   <name>trev-dev</name>
+  </author>
+  <link href="https://github.com/trev-dev/stumpwm.d" />
+  <id>urn:rprimus:github:trev-dev:stumpwm.d</id>
+  <published>2024-01-11T06:40:26Z</published>
+  <updated>2024-01-11T06:40:26Z</updated>
+  <content type="html">
+   My Stumpwm Config
+  </content>
+ </entry>
+ <entry>
+  <title>mcandre: yao</title>
+  <author>
+   <name>mcandre</name>
+  </author>
+  <link href="https://github.com/mcandre/yao" />
+  <id>urn:rprimus:github:mcandre:yao</id>
+  <published>2024-01-11T02:41:42Z</published>
+  <updated>2024-01-11T02:41:42Z</updated>
+  <content type="html">
+   a Common Lisp task runner
+  </content>
+ </entry>
+ <entry>
+  <title>kvitebjorn: advent-of-code</title>
+  <author>
+   <name>kvitebjorn</name>
+  </author>
+  <link href="https://github.com/kvitebjorn/advent-of-code" />
+  <id>urn:rprimus:github:kvitebjorn:advent-of-code</id>
+  <published>2024-01-11T02:05:34Z</published>
+  <updated>2024-01-11T02:05:34Z</updated>
+  <content type="html">
+   Advent of Code solutions in Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>mgmarlow: cl-raytest</title>
+  <author>
+   <name>mgmarlow</name>
+  </author>
+  <link href="https://github.com/mgmarlow/cl-raytest" />
+  <id>urn:rprimus:github:mgmarlow:cl-raytest</id>
+  <published>2024-01-11T00:01:37Z</published>
+  <updated>2024-01-11T00:01:37Z</updated>
+  <content type="html">
+   Common Lisp + Raylib
+  </content>
+ </entry>
+ <entry>
+  <title>macrologist: cl-base64</title>
+  <author>
+   <name>macrologist</name>
+  </author>
+  <link href="https://github.com/macrologist/cl-base64" />
+  <id>urn:rprimus:github:macrologist:cl-base64</id>
+  <published>2024-01-10T18:25:56Z</published>
+  <updated>2024-01-10T18:25:56Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>macrologist: puri</title>
+  <author>
+   <name>macrologist</name>
+  </author>
+  <link href="https://github.com/macrologist/puri" />
+  <id>urn:rprimus:github:macrologist:puri</id>
+  <published>2024-01-10T18:19:43Z</published>
+  <updated>2024-01-10T18:19:43Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>simmihugs: pts-cl</title>
   <author>
@@ -80,97 +158,6 @@
   <updated>2024-01-09T14:20:05Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>jingwends: LISP-List-Operations</title>
-  <author>
-   <name>jingwends</name>
-  </author>
-  <link href="https://github.com/jingwends/LISP-List-Operations" />
-  <id>urn:rprimus:github:jingwends:LISP-List-Operations</id>
-  <published>2024-01-08T21:56:18Z</published>
-  <updated>2024-01-08T21:56:18Z</updated>
-  <content type="html">
-   The program implements fundamental LISP operations. 
-  </content>
- </entry>
- <entry>
-  <title>phasewalk1: tinynn</title>
-  <author>
-   <name>phasewalk1</name>
-  </author>
-  <link href="https://github.com/phasewalk1/tinynn" />
-  <id>urn:rprimus:github:phasewalk1:tinynn</id>
-  <published>2024-01-08T20:34:15Z</published>
-  <updated>2024-01-08T20:34:15Z</updated>
-  <content type="html">
-   A tiny neural network to solve the MNIST classification problem
-  </content>
- </entry>
- <entry>
-  <title>philspil66: ELIZA</title>
-  <author>
-   <name>philspil66</name>
-  </author>
-  <link href="https://github.com/philspil66/ELIZA" />
-  <id>urn:rprimus:github:philspil66:ELIZA</id>
-  <published>2024-01-08T20:22:14Z</published>
-  <updated>2024-01-08T20:22:14Z</updated>
-  <content type="html">
-   A collection of versions of ELIZA which was an early AI natural language processing computer program created from 1964 to 1967 at MIT by Joseph Weizenbaum.
-  </content>
- </entry>
- <entry>
-  <title>michaelolson01: SuperStarTrek</title>
-  <author>
-   <name>michaelolson01</name>
-  </author>
-  <link href="https://github.com/michaelolson01/SuperStarTrek" />
-  <id>urn:rprimus:github:michaelolson01:SuperStarTrek</id>
-  <published>2024-01-08T14:29:18Z</published>
-  <updated>2024-01-08T14:29:18Z</updated>
-  <content type="html">
-   TRS-80 Super Start Trek in LISP
-  </content>
- </entry>
- <entry>
-  <title>Centrix14: penelope</title>
-  <author>
-   <name>Centrix14</name>
-  </author>
-  <link href="https://github.com/Centrix14/penelope" />
-  <id>urn:rprimus:github:Centrix14:penelope</id>
-  <published>2024-01-08T07:56:43Z</published>
-  <updated>2024-01-08T07:56:43Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Seyedamirhosseini2117: AutoprintLisp</title>
-  <author>
-   <name>Seyedamirhosseini2117</name>
-  </author>
-  <link href="https://github.com/Seyedamirhosseini2117/AutoprintLisp" />
-  <id>urn:rprimus:github:Seyedamirhosseini2117:AutoprintLisp</id>
-  <published>2024-01-08T07:30:32Z</published>
-  <updated>2024-01-08T07:30:32Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>shamazmazum: cl-polynomial</title>
-  <author>
-   <name>shamazmazum</name>
-  </author>
-  <link href="https://github.com/shamazmazum/cl-polynomial" />
-  <id>urn:rprimus:github:shamazmazum:cl-polynomial</id>
-  <published>2024-01-08T05:15:40Z</published>
-  <updated>2024-01-08T05:15:40Z</updated>
-  <content type="html">
-   Polynomial factorization over finite fields with prime number of elements
   </content>
  </entry>
 </feed>
