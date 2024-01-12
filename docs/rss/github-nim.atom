@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2024-01-11T08:16:58Z</updated>
+<updated>2024-01-11T15:53:09Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>ripter: Signal-Lanterns</title>
+  <author>
+   <name>ripter</name>
+  </author>
+  <link href="https://github.com/ripter/Signal-Lanterns" />
+  <id>urn:rprimus:github:ripter:Signal-Lanterns</id>
+  <published>2024-01-11T15:53:09Z</published>
+  <updated>2024-01-11T15:53:09Z</updated>
+  <content type="html">
+   Signal Lanterns is an esoteric programming language.
+  </content>
+ </entry>
  <entry>
   <title>swrge: oppress</title>
   <author>
@@ -67,32 +80,6 @@
   <updated>2024-01-10T09:35:44Z</updated>
   <content type="html">
    a simple sieve_cache nim impl
-  </content>
- </entry>
- <entry>
-  <title>Q-Master: zximagetools.nim</title>
-  <author>
-   <name>Q-Master</name>
-  </author>
-  <link href="https://github.com/Q-Master/zximagetools.nim" />
-  <id>urn:rprimus:github:Q-Master:zximagetools.nim</id>
-  <published>2024-01-09T16:57:58Z</published>
-  <updated>2024-01-09T16:57:58Z</updated>
-  <content type="html">
-   ZX disk/tape image tools 
-  </content>
- </entry>
- <entry>
-  <title>heysokam: spry</title>
-  <author>
-   <name>heysokam</name>
-  </author>
-  <link href="https://github.com/heysokam/spry" />
-  <id>urn:rprimus:github:heysokam:spry</id>
-  <published>2024-01-09T10:44:23Z</published>
-  <updated>2024-01-09T10:44:23Z</updated>
-  <content type="html">
-   á spry | Nimble, brisk and lively package manager for Nim â£
   </content>
  </entry>
 </feed>
