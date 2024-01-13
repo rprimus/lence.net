@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2024-01-11T18:32:28Z</updated>
+<updated>2024-01-13T02:40:13Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>wmoxam: editor</title>
+  <author>
+   <name>wmoxam</name>
+  </author>
+  <link href="https://github.com/wmoxam/editor" />
+  <id>urn:rprimus:github:wmoxam:editor</id>
+  <published>2024-01-13T02:40:13Z</published>
+  <updated>2024-01-13T02:40:13Z</updated>
+  <content type="html">
+   This is my editor. There are many like it but this one is mine
+  </content>
+ </entry>
  <entry>
   <title>DmarshalTU: microdallecr</title>
   <author>
@@ -67,45 +80,6 @@
   <updated>2024-01-11T00:03:42Z</updated>
   <content type="html">
    Crystal lang shard which provides a file-based `Log::Backend` that supports automatic log file rotation, compression, and purging
-  </content>
- </entry>
- <entry>
-  <title>Fulgurance: SystemGroups-Main</title>
-  <author>
-   <name>Fulgurance</name>
-  </author>
-  <link href="https://github.com/Fulgurance/SystemGroups-Main" />
-  <id>urn:rprimus:github:Fulgurance:SystemGroups-Main</id>
-  <published>2024-01-10T23:36:19Z</published>
-  <updated>2024-01-10T23:36:19Z</updated>
-  <content type="html">
-   SystemGroups-Main port for ISM. 
-  </content>
- </entry>
- <entry>
-  <title>ggiraldez: brium-raylib</title>
-  <author>
-   <name>ggiraldez</name>
-  </author>
-  <link href="https://github.com/ggiraldez/brium-raylib" />
-  <id>urn:rprimus:github:ggiraldez:brium-raylib</id>
-  <published>2024-01-10T16:01:28Z</published>
-  <updated>2024-01-10T16:01:28Z</updated>
-  <content type="html">
-   Brium client using Raygui for the UI
-  </content>
- </entry>
- <entry>
-  <title>DmarshalTU: advent_of_code_2023_crystal</title>
-  <author>
-   <name>DmarshalTU</name>
-  </author>
-  <link href="https://github.com/DmarshalTU/advent_of_code_2023_crystal" />
-  <id>urn:rprimus:github:DmarshalTU:advent_of_code_2023_crystal</id>
-  <published>2024-01-10T00:52:35Z</published>
-  <updated>2024-01-10T00:52:35Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>

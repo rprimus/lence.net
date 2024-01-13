@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2024-01-11T19:00:38Z</updated>
+<updated>2024-01-13T01:15:36Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>phasewalk1: cl-python</title>
+  <author>
+   <name>phasewalk1</name>
+  </author>
+  <link href="https://github.com/phasewalk1/cl-python" />
+  <id>urn:rprimus:github:phasewalk1:cl-python</id>
+  <published>2024-01-13T01:15:36Z</published>
+  <updated>2024-01-13T01:15:36Z</updated>
+  <content type="html">
+   Interacting with Python libraries with Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>mpemer: simple-idate</title>
+  <author>
+   <name>mpemer</name>
+  </author>
+  <link href="https://github.com/mpemer/simple-idate" />
+  <id>urn:rprimus:github:mpemer:simple-idate</id>
+  <published>2024-01-13T00:21:06Z</published>
+  <updated>2024-01-13T00:21:06Z</updated>
+  <content type="html">
+   Common Lisp library for simple date handling, storing dates as YYYYMMDD integers
+  </content>
+ </entry>
+ <entry>
+  <title>r-aziani: Functional-Programming---Lisp-k-means</title>
+  <author>
+   <name>r-aziani</name>
+  </author>
+  <link href="https://github.com/r-aziani/Functional-Programming---Lisp-k-means" />
+  <id>urn:rprimus:github:r-aziani:Functional-Programming---Lisp-k-means</id>
+  <published>2024-01-12T23:18:39Z</published>
+  <updated>2024-01-12T23:18:39Z</updated>
+  <content type="html">
+   Lisp implementation of k-means algorithm
+  </content>
+ </entry>
+ <entry>
+  <title>mark-watson: mistral</title>
+  <author>
+   <name>mark-watson</name>
+  </author>
+  <link href="https://github.com/mark-watson/mistral" />
+  <id>urn:rprimus:github:mark-watson:mistral</id>
+  <published>2024-01-12T19:11:58Z</published>
+  <updated>2024-01-12T19:11:58Z</updated>
+  <content type="html">
+   Mistral LLM API examples for my book &quot;Loving Common Lisp, or the Savvy Programmer&#039;s Secret Weapon&quot;
+  </content>
+ </entry>
+ <entry>
+  <title>functional-sc: ulisp-managed-state-event-loop</title>
+  <author>
+   <name>functional-sc</name>
+  </author>
+  <link href="https://github.com/functional-sc/ulisp-managed-state-event-loop" />
+  <id>urn:rprimus:github:functional-sc:ulisp-managed-state-event-loop</id>
+  <published>2024-01-12T13:52:44Z</published>
+  <updated>2024-01-12T13:52:44Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>RobertoPinheirod: LISP</title>
+  <author>
+   <name>RobertoPinheirod</name>
+  </author>
+  <link href="https://github.com/RobertoPinheirod/LISP" />
+  <id>urn:rprimus:github:RobertoPinheirod:LISP</id>
+  <published>2024-01-12T09:47:25Z</published>
+  <updated>2024-01-12T09:47:25Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>lefleon1973: LispUtilities</title>
   <author>
@@ -15,6 +93,19 @@
   <updated>2024-01-11T19:00:38Z</updated>
   <content type="html">
    
+  </content>
+ </entry>
+ <entry>
+  <title>cpmachado: egcl</title>
+  <author>
+   <name>cpmachado</name>
+  </author>
+  <link href="https://github.com/cpmachado/egcl" />
+  <id>urn:rprimus:github:cpmachado:egcl</id>
+  <published>2024-01-11T18:26:14Z</published>
+  <updated>2024-01-11T18:26:14Z</updated>
+  <content type="html">
+   Rewrite of egc in common lisp
   </content>
  </entry>
  <entry>
@@ -80,97 +171,6 @@
   <updated>2024-01-11T00:01:37Z</updated>
   <content type="html">
    Common Lisp + Raylib
-  </content>
- </entry>
- <entry>
-  <title>macrologist: cl-base64</title>
-  <author>
-   <name>macrologist</name>
-  </author>
-  <link href="https://github.com/macrologist/cl-base64" />
-  <id>urn:rprimus:github:macrologist:cl-base64</id>
-  <published>2024-01-10T18:25:56Z</published>
-  <updated>2024-01-10T18:25:56Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>macrologist: puri</title>
-  <author>
-   <name>macrologist</name>
-  </author>
-  <link href="https://github.com/macrologist/puri" />
-  <id>urn:rprimus:github:macrologist:puri</id>
-  <published>2024-01-10T18:19:43Z</published>
-  <updated>2024-01-10T18:19:43Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>simmihugs: pts-cl</title>
-  <author>
-   <name>simmihugs</name>
-  </author>
-  <link href="https://github.com/simmihugs/pts-cl" />
-  <id>urn:rprimus:github:simmihugs:pts-cl</id>
-  <published>2024-01-10T17:21:15Z</published>
-  <updated>2024-01-10T17:21:15Z</updated>
-  <content type="html">
-   Checking pts files for correctness using `common lisp&#039;.
-  </content>
- </entry>
- <entry>
-  <title>40ants: tree-shaker</title>
-  <author>
-   <name>40ants</name>
-  </author>
-  <link href="https://github.com/40ants/tree-shaker" />
-  <id>urn:rprimus:github:40ants:tree-shaker</id>
-  <published>2024-01-10T13:06:19Z</published>
-  <updated>2024-01-10T13:06:19Z</updated>
-  <content type="html">
-   A tree shaker for SBCL
-  </content>
- </entry>
- <entry>
-  <title>nthien2512: ros_</title>
-  <author>
-   <name>nthien2512</name>
-  </author>
-  <link href="https://github.com/nthien2512/ros_" />
-  <id>urn:rprimus:github:nthien2512:ros_</id>
-  <published>2024-01-10T11:12:04Z</published>
-  <updated>2024-01-10T11:12:04Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Junker: stumpwm-battery</title>
-  <author>
-   <name>Junker</name>
-  </author>
-  <link href="https://github.com/Junker/stumpwm-battery" />
-  <id>urn:rprimus:github:Junker:stumpwm-battery</id>
-  <published>2024-01-10T05:29:08Z</published>
-  <updated>2024-01-10T05:29:08Z</updated>
-  <content type="html">
-   Battery information module for StumpWM
-  </content>
- </entry>
- <entry>
-  <title>bipul018: common-lisp-some-aoc-2023</title>
-  <author>
-   <name>bipul018</name>
-  </author>
-  <link href="https://github.com/bipul018/common-lisp-some-aoc-2023" />
-  <id>urn:rprimus:github:bipul018:common-lisp-some-aoc-2023</id>
-  <published>2024-01-10T02:49:23Z</published>
-  <updated>2024-01-10T02:49:23Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
