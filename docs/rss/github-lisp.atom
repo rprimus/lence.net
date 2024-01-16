@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2024-01-15T19:52:51Z</updated>
+<updated>2024-01-16T03:22:23Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>rheaplex: cybernetic-cli</title>
+  <author>
+   <name>rheaplex</name>
+  </author>
+  <link href="https://github.com/rheaplex/cybernetic-cli" />
+  <id>urn:rprimus:github:rheaplex:cybernetic-cli</id>
+  <published>2024-01-16T03:22:23Z</published>
+  <updated>2024-01-16T03:22:23Z</updated>
+  <content type="html">
+   A command-line-only version of &quot;The Cybernetic Artworld&quot;.
+  </content>
+ </entry>
+ <entry>
+  <title>rheaplex: draw-something-clog</title>
+  <author>
+   <name>rheaplex</name>
+  </author>
+  <link href="https://github.com/rheaplex/draw-something-clog" />
+  <id>urn:rprimus:github:rheaplex:draw-something-clog</id>
+  <published>2024-01-16T03:15:06Z</published>
+  <updated>2024-01-16T03:15:06Z</updated>
+  <content type="html">
+   draw-something served via CLOG.
+  </content>
+ </entry>
+ <entry>
+  <title>barton-willis: mrv-sign</title>
+  <author>
+   <name>barton-willis</name>
+  </author>
+  <link href="https://github.com/barton-willis/mrv-sign" />
+  <id>urn:rprimus:github:barton-willis:mrv-sign</id>
+  <published>2024-01-16T00:37:13Z</published>
+  <updated>2024-01-16T00:37:13Z</updated>
+  <content type="html">
+   new implementation of Maxima function mrv-sign
+  </content>
+ </entry>
+ <entry>
+  <title>sauercrowd: trains</title>
+  <author>
+   <name>sauercrowd</name>
+  </author>
+  <link href="https://github.com/sauercrowd/trains" />
+  <id>urn:rprimus:github:sauercrowd:trains</id>
+  <published>2024-01-15T22:12:54Z</published>
+  <updated>2024-01-15T22:12:54Z</updated>
+  <content type="html">
+   common lisp on rails
+  </content>
+ </entry>
  <entry>
   <title>dotjulia: eaa-hw-distributed-algorithm</title>
   <author>
@@ -145,58 +197,6 @@
   <updated>2024-01-14T12:26:25Z</updated>
   <content type="html">
    n-body Simulation in Lisp
-  </content>
- </entry>
- <entry>
-  <title>Neisven: Calc</title>
-  <author>
-   <name>Neisven</name>
-  </author>
-  <link href="https://github.com/Neisven/Calc" />
-  <id>urn:rprimus:github:Neisven:Calc</id>
-  <published>2024-01-13T22:34:19Z</published>
-  <updated>2024-01-13T22:34:19Z</updated>
-  <content type="html">
-   My Lisp project, here will be all the variations from me in creating a calculator.
-  </content>
- </entry>
- <entry>
-  <title>vigh1000: land-of-lisp</title>
-  <author>
-   <name>vigh1000</name>
-  </author>
-  <link href="https://github.com/vigh1000/land-of-lisp" />
-  <id>urn:rprimus:github:vigh1000:land-of-lisp</id>
-  <published>2024-01-13T22:13:09Z</published>
-  <updated>2024-01-13T22:13:09Z</updated>
-  <content type="html">
-   One Game at a Time! See http://landoflisp.com/
-  </content>
- </entry>
- <entry>
-  <title>phasewalk1: cl-python</title>
-  <author>
-   <name>phasewalk1</name>
-  </author>
-  <link href="https://github.com/phasewalk1/cl-python" />
-  <id>urn:rprimus:github:phasewalk1:cl-python</id>
-  <published>2024-01-13T01:15:36Z</published>
-  <updated>2024-01-13T01:15:36Z</updated>
-  <content type="html">
-   Interacting with Python libraries with Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>mpemer: simple-idate</title>
-  <author>
-   <name>mpemer</name>
-  </author>
-  <link href="https://github.com/mpemer/simple-idate" />
-  <id>urn:rprimus:github:mpemer:simple-idate</id>
-  <published>2024-01-13T00:21:06Z</published>
-  <updated>2024-01-13T00:21:06Z</updated>
-  <content type="html">
-   Common Lisp library for simple date handling, storing dates as YYYYMMDD integers
   </content>
  </entry>
 </feed>

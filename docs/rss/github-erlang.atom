@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-erlang.atom"/>
 <id>urn:rprimus:github:newerlangrepos</id>
-<updated>2024-01-15T16:45:13Z</updated>
+<updated>2024-01-16T10:20:14Z</updated>
 <title type='text'>New GitHub Erlang Repos</title>
+ <entry>
+  <title>redbus-labs: Phoenix</title>
+  <author>
+   <name>redbus-labs</name>
+  </author>
+  <link href="https://github.com/redbus-labs/Phoenix" />
+  <id>urn:rprimus:github:redbus-labs:Phoenix</id>
+  <published>2024-01-16T10:20:14Z</published>
+  <updated>2024-01-16T10:20:14Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>emqplus: emqtt-bus</title>
+  <author>
+   <name>emqplus</name>
+  </author>
+  <link href="https://github.com/emqplus/emqtt-bus" />
+  <id>urn:rprimus:github:emqplus:emqtt-bus</id>
+  <published>2024-01-16T05:16:12Z</published>
+  <updated>2024-01-16T05:16:12Z</updated>
+  <content type="html">
+   A broker-less MQTT messaging bus for distributed real-time applications.
+  </content>
+ </entry>
+ <entry>
+  <title>tonyrog: scad</title>
+  <author>
+   <name>tonyrog</name>
+  </author>
+  <link href="https://github.com/tonyrog/scad" />
+  <id>urn:rprimus:github:tonyrog:scad</id>
+  <published>2024-01-15T22:54:31Z</published>
+  <updated>2024-01-15T22:54:31Z</updated>
+  <content type="html">
+   OpenScad parser for Erlang
+  </content>
+ </entry>
  <entry>
   <title>burbas: nova_db</title>
   <author>
@@ -15,6 +54,19 @@
   <updated>2024-01-15T16:45:13Z</updated>
   <content type="html">
    
+  </content>
+ </entry>
+ <entry>
+  <title>Kartstig: 1brc_erl</title>
+  <author>
+   <name>Kartstig</name>
+  </author>
+  <link href="https://github.com/Kartstig/1brc_erl" />
+  <id>urn:rprimus:github:Kartstig:1brc_erl</id>
+  <published>2024-01-15T15:50:17Z</published>
+  <updated>2024-01-15T15:50:17Z</updated>
+  <content type="html">
+   1billion Row Challenge
   </content>
  </entry>
  <entry>
@@ -41,45 +93,6 @@
   <updated>2024-01-14T14:46:20Z</updated>
   <content type="html">
    Working through the great book Designing for Scalability with Erlang / OTP
-  </content>
- </entry>
- <entry>
-  <title>jesperes: erlang_1brc</title>
-  <author>
-   <name>jesperes</name>
-  </author>
-  <link href="https://github.com/jesperes/erlang_1brc" />
-  <id>urn:rprimus:github:jesperes:erlang_1brc</id>
-  <published>2024-01-13T17:14:10Z</published>
-  <updated>2024-01-13T17:14:10Z</updated>
-  <content type="html">
-   Erlang implementation of the One Billion Row Challenge
-  </content>
- </entry>
- <entry>
-  <title>thilak-kanala: erlang-twitter-clone</title>
-  <author>
-   <name>thilak-kanala</name>
-  </author>
-  <link href="https://github.com/thilak-kanala/erlang-twitter-clone" />
-  <id>urn:rprimus:github:thilak-kanala:erlang-twitter-clone</id>
-  <published>2024-01-13T06:07:16Z</published>
-  <updated>2024-01-13T06:07:16Z</updated>
-  <content type="html">
-   Twitter Clone built using Erlang
-  </content>
- </entry>
- <entry>
-  <title>Dr-Nekoma: lyceum</title>
-  <author>
-   <name>Dr-Nekoma</name>
-  </author>
-  <link href="https://github.com/Dr-Nekoma/lyceum" />
-  <id>urn:rprimus:github:Dr-Nekoma:lyceum</id>
-  <published>2024-01-13T05:00:44Z</published>
-  <updated>2024-01-13T05:00:44Z</updated>
-  <content type="html">
-   A MMO game written in Erlang
   </content>
  </entry>
 </feed>

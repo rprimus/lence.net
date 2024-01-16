@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2024-01-15T20:37:27Z</updated>
+<updated>2024-01-16T02:40:46Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>CTL-Datalog: infer_TempDataLog</title>
+  <author>
+   <name>CTL-Datalog</name>
+  </author>
+  <link href="https://github.com/CTL-Datalog/infer_TempDataLog" />
+  <id>urn:rprimus:github:CTL-Datalog:infer_TempDataLog</id>
+  <published>2024-01-16T02:40:46Z</published>
+  <updated>2024-01-16T02:40:46Z</updated>
+  <content type="html">
+   a program analysis/repair tool for CTL properties for C language. 
+  </content>
+ </entry>
+ <entry>
+  <title>formalsec: memory-models</title>
+  <author>
+   <name>formalsec</name>
+  </author>
+  <link href="https://github.com/formalsec/memory-models" />
+  <id>urn:rprimus:github:formalsec:memory-models</id>
+  <published>2024-01-15T20:39:38Z</published>
+  <updated>2024-01-15T20:39:38Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>maybemabeline: bicikelj-api</title>
   <author>
@@ -314,162 +340,6 @@
   <updated>2024-01-14T00:55:54Z</updated>
   <content type="html">
    a WIP project
-  </content>
- </entry>
- <entry>
-  <title>TheMostMrGhost: PostKrypt</title>
-  <author>
-   <name>TheMostMrGhost</name>
-  </author>
-  <link href="https://github.com/TheMostMrGhost/PostKrypt" />
-  <id>urn:rprimus:github:TheMostMrGhost:PostKrypt</id>
-  <published>2024-01-13T23:35:29Z</published>
-  <updated>2024-01-13T23:35:29Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Lucccyo: Chacha20</title>
-  <author>
-   <name>Lucccyo</name>
-  </author>
-  <link href="https://github.com/Lucccyo/Chacha20" />
-  <id>urn:rprimus:github:Lucccyo:Chacha20</id>
-  <published>2024-01-13T21:57:26Z</published>
-  <updated>2024-01-13T21:57:26Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>esinx: cis1200-ocaml-env</title>
-  <author>
-   <name>esinx</name>
-  </author>
-  <link href="https://github.com/esinx/cis1200-ocaml-env" />
-  <id>urn:rprimus:github:esinx:cis1200-ocaml-env</id>
-  <published>2024-01-13T21:53:31Z</published>
-  <updated>2024-01-13T21:53:31Z</updated>
-  <content type="html">
-   OCaml environment for CIS1200 @ UPenn
-  </content>
- </entry>
- <entry>
-  <title>nickforce: ocaml_todo_app</title>
-  <author>
-   <name>nickforce</name>
-  </author>
-  <link href="https://github.com/nickforce/ocaml_todo_app" />
-  <id>urn:rprimus:github:nickforce:ocaml_todo_app</id>
-  <published>2024-01-13T20:09:56Z</published>
-  <updated>2024-01-13T20:09:56Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>yaceno: Rust-analysis</title>
-  <author>
-   <name>yaceno</name>
-  </author>
-  <link href="https://github.com/yaceno/Rust-analysis" />
-  <id>urn:rprimus:github:yaceno:Rust-analysis</id>
-  <published>2024-01-13T18:57:41Z</published>
-  <updated>2024-01-13T18:57:41Z</updated>
-  <content type="html">
-   Lexical and syntactical analysis on a simplified version of Rust langage.
-  </content>
- </entry>
- <entry>
-  <title>eleensmathew: sailing-downstream-prerequisite</title>
-  <author>
-   <name>eleensmathew</name>
-  </author>
-  <link href="https://github.com/eleensmathew/sailing-downstream-prerequisite" />
-  <id>urn:rprimus:github:eleensmathew:sailing-downstream-prerequisite</id>
-  <published>2024-01-13T16:48:30Z</published>
-  <updated>2024-01-13T16:48:30Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>amir-rafee23: ztock-zimulator</title>
-  <author>
-   <name>amir-rafee23</name>
-  </author>
-  <link href="https://github.com/amir-rafee23/ztock-zimulator" />
-  <id>urn:rprimus:github:amir-rafee23:ztock-zimulator</id>
-  <published>2024-01-13T14:31:58Z</published>
-  <updated>2024-01-13T14:31:58Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>leostera: libc.ml</title>
-  <author>
-   <name>leostera</name>
-  </author>
-  <link href="https://github.com/leostera/libc.ml" />
-  <id>urn:rprimus:github:leostera:libc.ml</id>
-  <published>2024-01-13T11:30:57Z</published>
-  <updated>2024-01-13T11:30:57Z</updated>
-  <content type="html">
-   Raw bindings to platform APIs for OCaml
-  </content>
- </entry>
- <entry>
-  <title>Ulferin: OCaml-Interpreter</title>
-  <author>
-   <name>Ulferin</name>
-  </author>
-  <link href="https://github.com/Ulferin/OCaml-Interpreter" />
-  <id>urn:rprimus:github:Ulferin:OCaml-Interpreter</id>
-  <published>2024-01-13T11:13:46Z</published>
-  <updated>2024-01-13T11:13:46Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ekrall1: electricity-modeling-tools</title>
-  <author>
-   <name>ekrall1</name>
-  </author>
-  <link href="https://github.com/ekrall1/electricity-modeling-tools" />
-  <id>urn:rprimus:github:ekrall1:electricity-modeling-tools</id>
-  <published>2024-01-13T06:12:39Z</published>
-  <updated>2024-01-13T06:12:39Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>umapulu: bigredblockchain</title>
-  <author>
-   <name>umapulu</name>
-  </author>
-  <link href="https://github.com/umapulu/bigredblockchain" />
-  <id>urn:rprimus:github:umapulu:bigredblockchain</id>
-  <published>2024-01-13T01:34:40Z</published>
-  <updated>2024-01-13T01:34:40Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Manolo-dev: SevenWondersDuel</title>
-  <author>
-   <name>Manolo-dev</name>
-  </author>
-  <link href="https://github.com/Manolo-dev/SevenWondersDuel" />
-  <id>urn:rprimus:github:Manolo-dev:SevenWondersDuel</id>
-  <published>2024-01-13T00:14:51Z</published>
-  <updated>2024-01-13T00:14:51Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
