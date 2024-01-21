@@ -2,8 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2024-01-20T10:03:58Z</updated>
+<updated>2024-01-21T09:34:42Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>zerodouglas: cbor</title>
+  <author>
+   <name>zerodouglas</name>
+  </author>
+  <link href="https://github.com/zerodouglas/cbor" />
+  <id>urn:rprimus:github:zerodouglas:cbor</id>
+  <published>2024-01-21T09:34:42Z</published>
+  <updated>2024-01-21T09:34:42Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>hexathe6: metacode_c</title>
+  <author>
+   <name>hexathe6</name>
+  </author>
+  <link href="https://github.com/hexathe6/metacode_c" />
+  <id>urn:rprimus:github:hexathe6:metacode_c</id>
+  <published>2024-01-21T04:49:04Z</published>
+  <updated>2024-01-21T04:49:04Z</updated>
+  <content type="html">
+   a tool to allow decent metaprogramming in c
+  </content>
+ </entry>
+ <entry>
+  <title>may: common-lisp-github-actions</title>
+  <author>
+   <name>may</name>
+  </author>
+  <link href="https://github.com/may/common-lisp-github-actions" />
+  <id>urn:rprimus:github:may:common-lisp-github-actions</id>
+  <published>2024-01-21T03:40:50Z</published>
+  <updated>2024-01-21T03:40:50Z</updated>
+  <content type="html">
+   How to utilize GitHub Actions to build Common Lisp programs cross-platform.
+  </content>
+ </entry>
+ <entry>
+  <title>Fabiokleis: land-of-lisp</title>
+  <author>
+   <name>Fabiokleis</name>
+  </author>
+  <link href="https://github.com/Fabiokleis/land-of-lisp" />
+  <id>urn:rprimus:github:Fabiokleis:land-of-lisp</id>
+  <published>2024-01-21T03:17:20Z</published>
+  <updated>2024-01-21T03:17:20Z</updated>
+  <content type="html">
+   learning lisp by following Land of Lisp book. http://landoflisp.com
+  </content>
+ </entry>
+ <entry>
+  <title>gpcz: cl-uniquifier</title>
+  <author>
+   <name>gpcz</name>
+  </author>
+  <link href="https://github.com/gpcz/cl-uniquifier" />
+  <id>urn:rprimus:github:gpcz:cl-uniquifier</id>
+  <published>2024-01-21T03:10:21Z</published>
+  <updated>2024-01-21T03:10:21Z</updated>
+  <content type="html">
+   Produces a function that will return a new simple unique symbol for every symbol that is introduced.  Good for generating files that require simple names for things, code obfuscation, etc.
+  </content>
+ </entry>
+ <entry>
+  <title>evalwhen: stumpwm.d</title>
+  <author>
+   <name>evalwhen</name>
+  </author>
+  <link href="https://github.com/evalwhen/stumpwm.d" />
+  <id>urn:rprimus:github:evalwhen:stumpwm.d</id>
+  <published>2024-01-20T17:57:40Z</published>
+  <updated>2024-01-20T17:57:40Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>krystianres2: ProjektLisp</title>
+  <author>
+   <name>krystianres2</name>
+  </author>
+  <link href="https://github.com/krystianres2/ProjektLisp" />
+  <id>urn:rprimus:github:krystianres2:ProjektLisp</id>
+  <published>2024-01-20T13:56:44Z</published>
+  <updated>2024-01-20T13:56:44Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>TUNGGAHRMDHN: pbt</title>
   <author>
@@ -31,12 +122,12 @@
   </content>
  </entry>
  <entry>
-  <title>az4r: azt</title>
+  <title>az4r: AZT</title>
   <author>
    <name>az4r</name>
   </author>
-  <link href="https://github.com/az4r/azt" />
-  <id>urn:rprimus:github:az4r:azt</id>
+  <link href="https://github.com/az4r/AZT" />
+  <id>urn:rprimus:github:az4r:AZT</id>
   <published>2024-01-19T18:03:09Z</published>
   <updated>2024-01-19T18:03:09Z</updated>
   <content type="html">
@@ -80,84 +171,6 @@
   <updated>2024-01-19T01:39:23Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>LorenzoColombo3: JSON-parser</title>
-  <author>
-   <name>LorenzoColombo3</name>
-  </author>
-  <link href="https://github.com/LorenzoColombo3/JSON-parser" />
-  <id>urn:rprimus:github:LorenzoColombo3:JSON-parser</id>
-  <published>2024-01-18T22:26:20Z</published>
-  <updated>2024-01-18T22:26:20Z</updated>
-  <content type="html">
-   parser JSON in linguaggi lisp e prolog
-  </content>
- </entry>
- <entry>
-  <title>Dorovich: rpg-utils</title>
-  <author>
-   <name>Dorovich</name>
-  </author>
-  <link href="https://github.com/Dorovich/rpg-utils" />
-  <id>urn:rprimus:github:Dorovich:rpg-utils</id>
-  <published>2024-01-18T20:07:01Z</published>
-  <updated>2024-01-18T20:07:01Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>andreaspagnolo17: parser_json</title>
-  <author>
-   <name>andreaspagnolo17</name>
-  </author>
-  <link href="https://github.com/andreaspagnolo17/parser_json" />
-  <id>urn:rprimus:github:andreaspagnolo17:parser_json</id>
-  <published>2024-01-18T15:25:15Z</published>
-  <updated>2024-01-18T15:25:15Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Shinmera: random-sampling</title>
-  <author>
-   <name>Shinmera</name>
-  </author>
-  <link href="https://github.com/Shinmera/random-sampling" />
-  <id>urn:rprimus:github:Shinmera:random-sampling</id>
-  <published>2024-01-18T14:29:05Z</published>
-  <updated>2024-01-18T14:29:05Z</updated>
-  <content type="html">
-   Functions to generate random samples with various distributions
-  </content>
- </entry>
- <entry>
-  <title>Bordinbjj: Lisp</title>
-  <author>
-   <name>Bordinbjj</name>
-  </author>
-  <link href="https://github.com/Bordinbjj/Lisp" />
-  <id>urn:rprimus:github:Bordinbjj:Lisp</id>
-  <published>2024-01-18T11:51:43Z</published>
-  <updated>2024-01-18T11:51:43Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>steve-ttt: EvilAlien_LISP</title>
-  <author>
-   <name>steve-ttt</name>
-  </author>
-  <link href="https://github.com/steve-ttt/EvilAlien_LISP" />
-  <id>urn:rprimus:github:steve-ttt:EvilAlien_LISP</id>
-  <published>2024-01-18T02:32:15Z</published>
-  <updated>2024-01-18T02:32:15Z</updated>
-  <content type="html">
-   This is a Common Lisp port of the Osbourne BASIC computer space game, &quot;Evil Alien&quot;.
   </content>
  </entry>
 </feed>
