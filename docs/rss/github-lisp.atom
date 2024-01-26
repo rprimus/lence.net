@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2024-01-25T23:57:21Z</updated>
+<updated>2024-01-26T06:49:32Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>garlic0x1: plug</title>
+  <author>
+   <name>garlic0x1</name>
+  </author>
+  <link href="https://github.com/garlic0x1/plug" />
+  <id>urn:rprimus:github:garlic0x1:plug</id>
+  <published>2024-01-26T06:49:32Z</published>
+  <updated>2024-01-26T06:49:32Z</updated>
+  <content type="html">
+   Plugin manager for Common Lisp applications
+  </content>
+ </entry>
  <entry>
   <title>b3ast-t: cl-stackwalk</title>
   <author>
