@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2024-01-29T19:58:36Z</updated>
+<updated>2024-01-31T01:54:49Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>rkv0id: nim-exorcism</title>
+  <author>
+   <name>rkv0id</name>
+  </author>
+  <link href="https://github.com/rkv0id/nim-exorcism" />
+  <id>urn:rprimus:github:rkv0id:nim-exorcism</id>
+  <published>2024-01-31T01:54:49Z</published>
+  <updated>2024-01-31T01:54:49Z</updated>
+  <content type="html">
+   Gists for exercism nim track and some hackerrank problems.
+  </content>
+ </entry>
  <entry>
   <title>hanhursp1: linear_algebra</title>
   <author>
@@ -67,58 +80,6 @@
   <updated>2024-01-29T03:27:23Z</updated>
   <content type="html">
    Dithering algorithms implemented in Nim
-  </content>
- </entry>
- <entry>
-  <title>Q-Master: statsdaemon.nim</title>
-  <author>
-   <name>Q-Master</name>
-  </author>
-  <link href="https://github.com/Q-Master/statsdaemon.nim" />
-  <id>urn:rprimus:github:Q-Master:statsdaemon.nim</id>
-  <published>2024-01-28T20:28:05Z</published>
-  <updated>2024-01-28T20:28:05Z</updated>
-  <content type="html">
-   StatsD compatible daemon based upon the bitly/statsdaemon
-  </content>
- </entry>
- <entry>
-  <title>jaar23: tui_widget</title>
-  <author>
-   <name>jaar23</name>
-  </author>
-  <link href="https://github.com/jaar23/tui_widget" />
-  <id>urn:rprimus:github:jaar23:tui_widget</id>
-  <published>2024-01-28T15:38:03Z</published>
-  <updated>2024-01-28T15:38:03Z</updated>
-  <content type="html">
-   terminal ui widget based on illwill
-  </content>
- </entry>
- <entry>
-  <title>bctnry: Crimson</title>
-  <author>
-   <name>bctnry</name>
-  </author>
-  <link href="https://github.com/bctnry/Crimson" />
-  <id>urn:rprimus:github:bctnry:Crimson</id>
-  <published>2024-01-28T14:51:41Z</published>
-  <updated>2024-01-28T14:51:41Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ZoomTen: pocket-clicker</title>
-  <author>
-   <name>ZoomTen</name>
-  </author>
-  <link href="https://github.com/ZoomTen/pocket-clicker" />
-  <id>urn:rprimus:github:ZoomTen:pocket-clicker</id>
-  <published>2024-01-28T14:35:15Z</published>
-  <updated>2024-01-28T14:35:15Z</updated>
-  <content type="html">
-   A simple Cookie Clicker clone for the Game Boy with a twist, written in Nim.
   </content>
  </entry>
 </feed>
