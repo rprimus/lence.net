@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2024-02-11T04:03:59Z</updated>
+<updated>2024-02-12T05:12:04Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>ravi-delia: common-peg</title>
+  <author>
+   <name>ravi-delia</name>
+  </author>
+  <link href="https://github.com/ravi-delia/common-peg" />
+  <id>urn:rprimus:github:ravi-delia:common-peg</id>
+  <published>2024-02-12T05:12:04Z</published>
+  <updated>2024-02-12T05:12:04Z</updated>
+  <content type="html">
+   An experimental implementation of parsing expression grammars (a la Janet) in Common Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>fatimp: ac-collisions-mt</title>
+  <author>
+   <name>fatimp</name>
+  </author>
+  <link href="https://github.com/fatimp/ac-collisions-mt" />
+  <id>urn:rprimus:github:fatimp:ac-collisions-mt</id>
+  <published>2024-02-12T04:34:54Z</published>
+  <updated>2024-02-12T04:34:54Z</updated>
+  <content type="html">
+   Collisions in autocorrelations of bit vectors
+  </content>
+ </entry>
+ <entry>
+  <title>JoseOrdonezB: PRO1</title>
+  <author>
+   <name>JoseOrdonezB</name>
+  </author>
+  <link href="https://github.com/JoseOrdonezB/PRO1" />
+  <id>urn:rprimus:github:JoseOrdonezB:PRO1</id>
+  <published>2024-02-11T20:18:58Z</published>
+  <updated>2024-02-11T20:18:58Z</updated>
+  <content type="html">
+   Proyecto 1 - Algoritmos y Estructura de Datos
+  </content>
+ </entry>
+ <entry>
+  <title>masao-f: utilities</title>
+  <author>
+   <name>masao-f</name>
+  </author>
+  <link href="https://github.com/masao-f/utilities" />
+  <id>urn:rprimus:github:masao-f:utilities</id>
+  <published>2024-02-11T16:08:11Z</published>
+  <updated>2024-02-11T16:08:11Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>atgreen: trivial-system-loader</title>
+  <author>
+   <name>atgreen</name>
+  </author>
+  <link href="https://github.com/atgreen/trivial-system-loader" />
+  <id>urn:rprimus:github:atgreen:trivial-system-loader</id>
+  <published>2024-02-11T12:23:44Z</published>
+  <updated>2024-02-11T12:23:44Z</updated>
+  <content type="html">
+   A system installation/loading abstraction for Common Lisp
+  </content>
+ </entry>
  <entry>
   <title>qeftser: yawn</title>
   <author>
@@ -132,58 +197,6 @@
   <updated>2024-02-10T03:21:25Z</updated>
   <content type="html">
    A READ-LINE alternative that handles MS/Mac/Unix end-of-line conventions
-  </content>
- </entry>
- <entry>
-  <title>awesomebjt: com.rabidquill.blocks</title>
-  <author>
-   <name>awesomebjt</name>
-  </author>
-  <link href="https://github.com/awesomebjt/com.rabidquill.blocks" />
-  <id>urn:rprimus:github:awesomebjt:com.rabidquill.blocks</id>
-  <published>2024-02-09T19:44:15Z</published>
-  <updated>2024-02-09T19:44:15Z</updated>
-  <content type="html">
-   A program in Common Lisp for playing around with mostly hexahedrons
-  </content>
- </entry>
- <entry>
-  <title>CerealBuster: cl-dicom</title>
-  <author>
-   <name>CerealBuster</name>
-  </author>
-  <link href="https://github.com/CerealBuster/cl-dicom" />
-  <id>urn:rprimus:github:CerealBuster:cl-dicom</id>
-  <published>2024-02-09T08:26:18Z</published>
-  <updated>2024-02-09T08:26:18Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>radish-miyazaki: yubin</title>
-  <author>
-   <name>radish-miyazaki</name>
-  </author>
-  <link href="https://github.com/radish-miyazaki/yubin" />
-  <id>urn:rprimus:github:radish-miyazaki:yubin</id>
-  <published>2024-02-09T04:14:48Z</published>
-  <updated>2024-02-09T04:14:48Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Durey-creater: lisp.practice</title>
-  <author>
-   <name>Durey-creater</name>
-  </author>
-  <link href="https://github.com/Durey-creater/lisp.practice" />
-  <id>urn:rprimus:github:Durey-creater:lisp.practice</id>
-  <published>2024-02-09T00:30:13Z</published>
-  <updated>2024-02-09T00:30:13Z</updated>
-  <content type="html">
-   Record of my own Lisp study
   </content>
  </entry>
 </feed>
