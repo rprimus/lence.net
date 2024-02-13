@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-erlang.atom"/>
 <id>urn:rprimus:github:newerlangrepos</id>
-<updated>2024-02-12T02:31:17Z</updated>
+<updated>2024-02-13T09:00:12Z</updated>
 <title type='text'>New GitHub Erlang Repos</title>
+ <entry>
+  <title>sandipmr3: wsock</title>
+  <author>
+   <name>sandipmr3</name>
+  </author>
+  <link href="https://github.com/sandipmr3/wsock" />
+  <id>urn:rprimus:github:sandipmr3:wsock</id>
+  <published>2024-02-13T09:00:12Z</published>
+  <updated>2024-02-13T09:00:12Z</updated>
+  <content type="html">
+   My local repo for wsock
+  </content>
+ </entry>
+ <entry>
+  <title>erupmi: router.erl</title>
+  <author>
+   <name>erupmi</name>
+  </author>
+  <link href="https://github.com/erupmi/router.erl" />
+  <id>urn:rprimus:github:erupmi:router.erl</id>
+  <published>2024-02-13T03:52:00Z</published>
+  <updated>2024-02-13T03:52:00Z</updated>
+  <content type="html">
+   A simple network router in erlang
+  </content>
+ </entry>
+ <entry>
+  <title>Emoral90: Erlang_voter</title>
+  <author>
+   <name>Emoral90</name>
+  </author>
+  <link href="https://github.com/Emoral90/Erlang_voter" />
+  <id>urn:rprimus:github:Emoral90:Erlang_voter</id>
+  <published>2024-02-13T00:26:01Z</published>
+  <updated>2024-02-13T00:26:01Z</updated>
+  <content type="html">
+   A basic system coded in Erlang that will simulate a multi-tiered voting system 
+  </content>
+ </entry>
+ <entry>
+  <title>zzydxm: worker_pool</title>
+  <author>
+   <name>zzydxm</name>
+  </author>
+  <link href="https://github.com/zzydxm/worker_pool" />
+  <id>urn:rprimus:github:zzydxm:worker_pool</id>
+  <published>2024-02-12T23:58:49Z</published>
+  <updated>2024-02-12T23:58:49Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>joq62: specs</title>
+  <author>
+   <name>joq62</name>
+  </author>
+  <link href="https://github.com/joq62/specs" />
+  <id>urn:rprimus:github:joq62:specs</id>
+  <published>2024-02-12T21:11:13Z</published>
+  <updated>2024-02-12T21:11:13Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>joq62: catalog</title>
+  <author>
+   <name>joq62</name>
+  </author>
+  <link href="https://github.com/joq62/catalog" />
+  <id>urn:rprimus:github:joq62:catalog</id>
+  <published>2024-02-12T21:05:37Z</published>
+  <updated>2024-02-12T21:05:37Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>dmsnell: erl_imap</title>
   <author>
@@ -26,110 +104,6 @@
   <id>urn:rprimus:github:d-led:various-benchmarks-erlang</id>
   <published>2024-02-11T15:11:52Z</published>
   <updated>2024-02-11T15:11:52Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>lfe-dragon: rebar3</title>
-  <author>
-   <name>lfe-dragon</name>
-  </author>
-  <link href="https://github.com/lfe-dragon/rebar3" />
-  <id>urn:rprimus:github:lfe-dragon:rebar3</id>
-  <published>2024-02-10T22:12:15Z</published>
-  <updated>2024-02-10T22:12:15Z</updated>
-  <content type="html">
-   The LFE Dragon rebar3 plugin
-  </content>
- </entry>
- <entry>
-  <title>lfe-dragon: dragon-pubsub</title>
-  <author>
-   <name>lfe-dragon</name>
-  </author>
-  <link href="https://github.com/lfe-dragon/dragon-pubsub" />
-  <id>urn:rprimus:github:lfe-dragon:dragon-pubsub</id>
-  <published>2024-02-10T21:37:05Z</published>
-  <updated>2024-02-10T21:37:05Z</updated>
-  <content type="html">
-   An LFE port of the Elixir/Phoenix PubSub project
-  </content>
- </entry>
- <entry>
-  <title>lfe-dragon: dragon-routes</title>
-  <author>
-   <name>lfe-dragon</name>
-  </author>
-  <link href="https://github.com/lfe-dragon/dragon-routes" />
-  <id>urn:rprimus:github:lfe-dragon:dragon-routes</id>
-  <published>2024-02-10T21:32:25Z</published>
-  <updated>2024-02-10T21:32:25Z</updated>
-  <content type="html">
-   A reitit (Clojure) inspired library for routing in LFE web APIs and applications
-  </content>
- </entry>
- <entry>
-  <title>niamtokik: pgq</title>
-  <author>
-   <name>niamtokik</name>
-  </author>
-  <link href="https://github.com/niamtokik/pgq" />
-  <id>urn:rprimus:github:niamtokik:pgq</id>
-  <published>2024-02-10T21:01:16Z</published>
-  <updated>2024-02-10T21:01:16Z</updated>
-  <content type="html">
-   Erlang interface to pgq
-  </content>
- </entry>
- <entry>
-  <title>dziaineka: dotenv_config_erlang</title>
-  <author>
-   <name>dziaineka</name>
-  </author>
-  <link href="https://github.com/dziaineka/dotenv_config_erlang" />
-  <id>urn:rprimus:github:dziaineka:dotenv_config_erlang</id>
-  <published>2024-02-10T17:42:20Z</published>
-  <updated>2024-02-10T17:42:20Z</updated>
-  <content type="html">
-   Erlang apps config based on environment variables and .env files
-  </content>
- </entry>
- <entry>
-  <title>rsrivastav54: Twitter_Project</title>
-  <author>
-   <name>rsrivastav54</name>
-  </author>
-  <link href="https://github.com/rsrivastav54/Twitter_Project" />
-  <id>urn:rprimus:github:rsrivastav54:Twitter_Project</id>
-  <published>2024-02-10T09:07:25Z</published>
-  <updated>2024-02-10T09:07:25Z</updated>
-  <content type="html">
-   This project aims to design a Twitter Clone which performs all the functionalities of the twitter application and a client tester/simulator to test the above used functionalities.
-  </content>
- </entry>
- <entry>
-  <title>rsrivastav54: Chord_Protocol</title>
-  <author>
-   <name>rsrivastav54</name>
-  </author>
-  <link href="https://github.com/rsrivastav54/Chord_Protocol" />
-  <id>urn:rprimus:github:rsrivastav54:Chord_Protocol</id>
-  <published>2024-02-10T08:56:05Z</published>
-  <updated>2024-02-10T08:56:05Z</updated>
-  <content type="html">
-   This project aims to design the Chord protocol and a simplistic object access service to demonstrate the Chord protocol&#039;s utility using Erlang and Actor Model.
-  </content>
- </entry>
- <entry>
-  <title>Ja-Vani: fp-lab1</title>
-  <author>
-   <name>Ja-Vani</name>
-  </author>
-  <link href="https://github.com/Ja-Vani/fp-lab1" />
-  <id>urn:rprimus:github:Ja-Vani:fp-lab1</id>
-  <published>2024-02-10T05:37:34Z</published>
-  <updated>2024-02-10T05:37:34Z</updated>
   <content type="html">
    
   </content>
