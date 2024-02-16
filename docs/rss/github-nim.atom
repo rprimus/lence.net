@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2024-02-15T10:09:43Z</updated>
+<updated>2024-02-15T23:34:38Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>lebakasable: cat</title>
+  <author>
+   <name>lebakasable</name>
+  </author>
+  <link href="https://github.com/lebakasable/cat" />
+  <id>urn:rprimus:github:lebakasable:cat</id>
+  <published>2024-02-15T23:34:38Z</published>
+  <updated>2024-02-15T23:34:38Z</updated>
+  <content type="html">
+   A Lispy concatenative programming language
+  </content>
+ </entry>
+ <entry>
+  <title>xioren: poly1305-nim</title>
+  <author>
+   <name>xioren</name>
+  </author>
+  <link href="https://github.com/xioren/poly1305-nim" />
+  <id>urn:rprimus:github:xioren:poly1305-nim</id>
+  <published>2024-02-15T22:52:30Z</published>
+  <updated>2024-02-15T22:52:30Z</updated>
+  <content type="html">
+   Poly1305 in pure Nim
+  </content>
+ </entry>
+ <entry>
+  <title>xioren: chacha20-nim</title>
+  <author>
+   <name>xioren</name>
+  </author>
+  <link href="https://github.com/xioren/chacha20-nim" />
+  <id>urn:rprimus:github:xioren:chacha20-nim</id>
+  <published>2024-02-15T22:45:35Z</published>
+  <updated>2024-02-15T22:45:35Z</updated>
+  <content type="html">
+   ChaCha20 in pure Nim
+  </content>
+ </entry>
+ <entry>
+  <title>arcolinux: arcolinux-nimdow-nemesis</title>
+  <author>
+   <name>arcolinux</name>
+  </author>
+  <link href="https://github.com/arcolinux/arcolinux-nimdow-nemesis" />
+  <id>urn:rprimus:github:arcolinux:arcolinux-nimdow-nemesis</id>
+  <published>2024-02-15T17:10:55Z</published>
+  <updated>2024-02-15T17:10:55Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>alexgustafson: nimclap</title>
   <author>
@@ -67,71 +119,6 @@
   <updated>2024-02-14T05:31:09Z</updated>
   <content type="html">
    A blog engine implemented in Nim
-  </content>
- </entry>
- <entry>
-  <title>Fakecrafter: neutwork</title>
-  <author>
-   <name>Fakecrafter</name>
-  </author>
-  <link href="https://github.com/Fakecrafter/neutwork" />
-  <id>urn:rprimus:github:Fakecrafter:neutwork</id>
-  <published>2024-02-13T21:28:14Z</published>
-  <updated>2024-02-13T21:28:14Z</updated>
-  <content type="html">
-   Rubiks Cube AI
-  </content>
- </entry>
- <entry>
-  <title>jmgomez: testpackage</title>
-  <author>
-   <name>jmgomez</name>
-  </author>
-  <link href="https://github.com/jmgomez/testpackage" />
-  <id>urn:rprimus:github:jmgomez:testpackage</id>
-  <published>2024-02-13T16:24:00Z</published>
-  <updated>2024-02-13T16:24:00Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>termermc: methttp</title>
-  <author>
-   <name>termermc</name>
-  </author>
-  <link href="https://github.com/termermc/methttp" />
-  <id>urn:rprimus:github:termermc:methttp</id>
-  <published>2024-02-13T07:35:54Z</published>
-  <updated>2024-02-13T07:35:54Z</updated>
-  <content type="html">
-   Lean HTTP parser and utilities using only statically-allocated memory for Nim
-  </content>
- </entry>
- <entry>
-  <title>rkv0id: mind</title>
-  <author>
-   <name>rkv0id</name>
-  </author>
-  <link href="https://github.com/rkv0id/mind" />
-  <id>urn:rprimus:github:rkv0id:mind</id>
-  <published>2024-02-13T06:16:42Z</published>
-  <updated>2024-02-13T06:16:42Z</updated>
-  <content type="html">
-   A tag-based content and file management system. With memos and tasks support.
-  </content>
- </entry>
- <entry>
-  <title>lilellia: soundgasm</title>
-  <author>
-   <name>lilellia</name>
-  </author>
-  <link href="https://github.com/lilellia/soundgasm" />
-  <id>urn:rprimus:github:lilellia:soundgasm</id>
-  <published>2024-02-13T00:56:01Z</published>
-  <updated>2024-02-13T00:56:01Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
