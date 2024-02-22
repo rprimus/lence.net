@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-scheme.atom"/>
 <id>urn:rprimus:github:newschemerepos</id>
-<updated>2024-02-21T08:06:11Z</updated>
+<updated>2024-02-21T22:11:09Z</updated>
 <title type='text'>New GitHub Scheme Repos</title>
+ <entry>
+  <title>Kyaki101: 99-Lisp-Problems</title>
+  <author>
+   <name>Kyaki101</name>
+  </author>
+  <link href="https://github.com/Kyaki101/99-Lisp-Problems" />
+  <id>urn:rprimus:github:Kyaki101:99-Lisp-Problems</id>
+  <published>2024-02-21T22:11:09Z</published>
+  <updated>2024-02-21T22:11:09Z</updated>
+  <content type="html">
+   This repo answers 99-lisp-problems from https://www.ic.unicamp.br/~meidanis/courses/mc336/problemas-lisp/L-99_Ninety-Nine_Lisp_Problems.html
+  </content>
+ </entry>
+ <entry>
+  <title>jspurrier: HyprlandAtomic</title>
+  <author>
+   <name>jspurrier</name>
+  </author>
+  <link href="https://github.com/jspurrier/HyprlandAtomic" />
+  <id>urn:rprimus:github:jspurrier:HyprlandAtomic</id>
+  <published>2024-02-21T20:34:13Z</published>
+  <updated>2024-02-21T20:34:13Z</updated>
+  <content type="html">
+   This is my personal OS image.
+  </content>
+ </entry>
+ <entry>
+  <title>nicholaspmccarty: CSE465_Project2</title>
+  <author>
+   <name>nicholaspmccarty</name>
+  </author>
+  <link href="https://github.com/nicholaspmccarty/CSE465_Project2" />
+  <id>urn:rprimus:github:nicholaspmccarty:CSE465_Project2</id>
+  <published>2024-02-21T20:32:48Z</published>
+  <updated>2024-02-21T20:32:48Z</updated>
+  <content type="html">
+   Abstraction, recursion, and data manipulation in scheme.
+  </content>
+ </entry>
+ <entry>
+  <title>zumvorde: univention-guix</title>
+  <author>
+   <name>zumvorde</name>
+  </author>
+  <link href="https://github.com/zumvorde/univention-guix" />
+  <id>urn:rprimus:github:zumvorde:univention-guix</id>
+  <published>2024-02-21T17:26:58Z</published>
+  <updated>2024-02-21T17:26:58Z</updated>
+  <content type="html">
+   A guix channel for a collection of packages i use at univention
+  </content>
+ </entry>
+ <entry>
+  <title>aartaka: guile-gemma</title>
+  <author>
+   <name>aartaka</name>
+  </author>
+  <link href="https://github.com/aartaka/guile-gemma" />
+  <id>urn:rprimus:github:aartaka:guile-gemma</id>
+  <published>2024-02-21T14:28:23Z</published>
+  <updated>2024-02-21T14:28:23Z</updated>
+  <content type="html">
+   Attempt to re-implement (at least a fraction of) GEMMA in Guile.
+  </content>
+ </entry>
  <entry>
   <title>baileym4: schemeinterpreter</title>
   <author>
@@ -15,19 +80,6 @@
   <updated>2024-02-21T08:06:11Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>huacnlee: zed-sass</title>
-  <author>
-   <name>huacnlee</name>
-  </author>
-  <link href="https://github.com/huacnlee/zed-sass" />
-  <id>urn:rprimus:github:huacnlee:zed-sass</id>
-  <published>2024-02-21T02:21:33Z</published>
-  <updated>2024-02-21T02:21:33Z</updated>
-  <content type="html">
-   SCSS grammar for Zed
   </content>
  </entry>
  <entry>
@@ -70,19 +122,6 @@
   </content>
  </entry>
  <entry>
-  <title>Pablo12345678901: guix-channel-for-building-custom-packages</title>
-  <author>
-   <name>Pablo12345678901</name>
-  </author>
-  <link href="https://github.com/Pablo12345678901/guix-channel-for-building-custom-packages" />
-  <id>urn:rprimus:github:Pablo12345678901:guix-channel-for-building-custom-packages</id>
-  <published>2024-02-20T17:33:21Z</published>
-  <updated>2024-02-20T17:33:21Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
   <title>brianhsu: GnuCashTWStockReport</title>
   <author>
    <name>brianhsu</name>
@@ -119,97 +158,6 @@
   <updated>2024-02-20T03:13:56Z</updated>
   <content type="html">
    port knocking utility written in guile
-  </content>
- </entry>
- <entry>
-  <title>vb2007: dotfiles</title>
-  <author>
-   <name>vb2007</name>
-  </author>
-  <link href="https://github.com/vb2007/dotfiles" />
-  <id>urn:rprimus:github:vb2007:dotfiles</id>
-  <published>2024-02-19T22:11:46Z</published>
-  <updated>2024-02-19T22:11:46Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>dissoc: sops-guix</title>
-  <author>
-   <name>dissoc</name>
-  </author>
-  <link href="https://github.com/dissoc/sops-guix" />
-  <id>urn:rprimus:github:dissoc:sops-guix</id>
-  <published>2024-02-19T20:44:50Z</published>
-  <updated>2024-02-19T20:44:50Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>xflow-systems: fsc-dev</title>
-  <author>
-   <name>xflow-systems</name>
-  </author>
-  <link href="https://github.com/xflow-systems/fsc-dev" />
-  <id>urn:rprimus:github:xflow-systems:fsc-dev</id>
-  <published>2024-02-19T16:29:24Z</published>
-  <updated>2024-02-19T16:29:24Z</updated>
-  <content type="html">
-   Fully Self Contained Dev Environment
-  </content>
- </entry>
- <entry>
-  <title>d1y: dart.zed</title>
-  <author>
-   <name>d1y</name>
-  </author>
-  <link href="https://github.com/d1y/dart.zed" />
-  <id>urn:rprimus:github:d1y:dart.zed</id>
-  <published>2024-02-19T13:31:31Z</published>
-  <updated>2024-02-19T13:31:31Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>samuser107: zed-swift-extension</title>
-  <author>
-   <name>samuser107</name>
-  </author>
-  <link href="https://github.com/samuser107/zed-swift-extension" />
-  <id>urn:rprimus:github:samuser107:zed-swift-extension</id>
-  <published>2024-02-19T09:14:14Z</published>
-  <updated>2024-02-19T09:14:14Z</updated>
-  <content type="html">
-   Extension for Zed to support Swift
-  </content>
- </entry>
- <entry>
-  <title>piotrstrozyk: Deklaratywne</title>
-  <author>
-   <name>piotrstrozyk</name>
-  </author>
-  <link href="https://github.com/piotrstrozyk/Deklaratywne" />
-  <id>urn:rprimus:github:piotrstrozyk:Deklaratywne</id>
-  <published>2024-02-19T08:25:46Z</published>
-  <updated>2024-02-19T08:25:46Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>PeepalCapital: SICP</title>
-  <author>
-   <name>PeepalCapital</name>
-  </author>
-  <link href="https://github.com/PeepalCapital/SICP" />
-  <id>urn:rprimus:github:PeepalCapital:SICP</id>
-  <published>2024-02-19T04:58:38Z</published>
-  <updated>2024-02-19T04:58:38Z</updated>
-  <content type="html">
-   Solutions to exercises in the book Structure and Interpretation of Computer Programs (2nd ed.) by Gerald Jay Sussman, Hal Abelson, Julie Sussman
   </content>
  </entry>
 </feed>
