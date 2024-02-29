@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2024-02-28T14:12:29Z</updated>
+<updated>2024-02-29T03:00:02Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>dysrakescence: RHIT-Course-Catalog-To-CSV</title>
+  <author>
+   <name>dysrakescence</name>
+  </author>
+  <link href="https://github.com/dysrakescence/RHIT-Course-Catalog-To-CSV" />
+  <id>urn:rprimus:github:dysrakescence:RHIT-Course-Catalog-To-CSV</id>
+  <published>2024-02-29T03:00:02Z</published>
+  <updated>2024-02-29T03:00:02Z</updated>
+  <content type="html">
+   Web scrapes the entire course catalog from Rose-Hulman Institute of Technology and put all the information together into a single CSV file
+  </content>
+ </entry>
+ <entry>
+  <title>xioren: sha3-nim</title>
+  <author>
+   <name>xioren</name>
+  </author>
+  <link href="https://github.com/xioren/sha3-nim" />
+  <id>urn:rprimus:github:xioren:sha3-nim</id>
+  <published>2024-02-28T23:43:05Z</published>
+  <updated>2024-02-28T23:43:05Z</updated>
+  <content type="html">
+   SHA-3 in pure Nim
+  </content>
+ </entry>
+ <entry>
+  <title>etwhook: procdumper</title>
+  <author>
+   <name>etwhook</name>
+  </author>
+  <link href="https://github.com/etwhook/procdumper" />
+  <id>urn:rprimus:github:etwhook:procdumper</id>
+  <published>2024-02-28T21:15:28Z</published>
+  <updated>2024-02-28T21:15:28Z</updated>
+  <content type="html">
+   A Simple Process Dumper Written in Nim.
+  </content>
+ </entry>
+ <entry>
+  <title>GillesRamstein: Performance-aware-programming</title>
+  <author>
+   <name>GillesRamstein</name>
+  </author>
+  <link href="https://github.com/GillesRamstein/Performance-aware-programming" />
+  <id>urn:rprimus:github:GillesRamstein:Performance-aware-programming</id>
+  <published>2024-02-28T17:19:46Z</published>
+  <updated>2024-02-28T17:19:46Z</updated>
+  <content type="html">
+   Homework for Casey Muratorys &#039;Performance Aware Programming&#039; course on https://www.computerenhance.com.
+  </content>
+ </entry>
+ <entry>
+  <title>birkin: nim_by_example_stuff</title>
+  <author>
+   <name>birkin</name>
+  </author>
+  <link href="https://github.com/birkin/nim_by_example_stuff" />
+  <id>urn:rprimus:github:birkin:nim_by_example_stuff</id>
+  <published>2024-02-28T16:30:38Z</published>
+  <updated>2024-02-28T16:30:38Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>Niminem: LPG</title>
   <author>
@@ -14,7 +79,7 @@
   <published>2024-02-28T14:12:29Z</published>
   <updated>2024-02-28T14:12:29Z</updated>
   <content type="html">
-   Experimental Labeled Property Graph Database written in Nim, powered by SQLite/MySQL/PostgreSQL.
+   A Simple Labeled Property Graph Database implementation in Nim using SQLite.
   </content>
  </entry>
  <entry>
@@ -223,58 +288,6 @@
   <updated>2024-02-27T02:26:32Z</updated>
   <content type="html">
    We do math
-  </content>
- </entry>
- <entry>
-  <title>etwhook: shell-ng</title>
-  <author>
-   <name>etwhook</name>
-  </author>
-  <link href="https://github.com/etwhook/shell-ng" />
-  <id>urn:rprimus:github:etwhook:shell-ng</id>
-  <published>2024-02-26T20:24:49Z</published>
-  <updated>2024-02-26T20:24:49Z</updated>
-  <content type="html">
-   A Payload XOR Encryption Tool Written in Nim.
-  </content>
- </entry>
- <entry>
-  <title>maikelthedev: nimplayground</title>
-  <author>
-   <name>maikelthedev</name>
-  </author>
-  <link href="https://github.com/maikelthedev/nimplayground" />
-  <id>urn:rprimus:github:maikelthedev:nimplayground</id>
-  <published>2024-02-26T19:34:43Z</published>
-  <updated>2024-02-26T19:34:43Z</updated>
-  <content type="html">
-   Just a playground of nim code
-  </content>
- </entry>
- <entry>
-  <title>Q-Master: rmq-statsd.nim</title>
-  <author>
-   <name>Q-Master</name>
-  </author>
-  <link href="https://github.com/Q-Master/rmq-statsd.nim" />
-  <id>urn:rprimus:github:Q-Master:rmq-statsd.nim</id>
-  <published>2024-02-26T16:03:29Z</published>
-  <updated>2024-02-26T16:03:29Z</updated>
-  <content type="html">
-   Pure Nim rabbitmq -&gt; statsd metrics sending service
-  </content>
- </entry>
- <entry>
-  <title>xyztony: alligators</title>
-  <author>
-   <name>xyztony</name>
-  </author>
-  <link href="https://github.com/xyztony/alligators" />
-  <id>urn:rprimus:github:xyztony:alligators</id>
-  <published>2024-02-26T15:56:12Z</published>
-  <updated>2024-02-26T15:56:12Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
