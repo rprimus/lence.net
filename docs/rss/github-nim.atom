@@ -2,8 +2,138 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2024-02-29T03:00:02Z</updated>
+<updated>2024-03-01T06:16:08Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>riinr: procurl</title>
+  <author>
+   <name>riinr</name>
+  </author>
+  <link href="https://github.com/riinr/procurl" />
+  <id>urn:rprimus:github:riinr:procurl</id>
+  <published>2024-03-01T06:16:08Z</published>
+  <updated>2024-03-01T06:16:08Z</updated>
+  <content type="html">
+   My attempt to make curl IPC
+  </content>
+ </entry>
+ <entry>
+  <title>RattleyCooper: resourcetables</title>
+  <author>
+   <name>RattleyCooper</name>
+  </author>
+  <link href="https://github.com/RattleyCooper/resourcetables" />
+  <id>urn:rprimus:github:RattleyCooper:resourcetables</id>
+  <published>2024-03-01T04:30:08Z</published>
+  <updated>2024-03-01T04:30:08Z</updated>
+  <content type="html">
+   Super simple compile time embedded resources.
+  </content>
+ </entry>
+ <entry>
+  <title>qszhu: closedai-assist-nim</title>
+  <author>
+   <name>qszhu</name>
+  </author>
+  <link href="https://github.com/qszhu/closedai-assist-nim" />
+  <id>urn:rprimus:github:qszhu:closedai-assist-nim</id>
+  <published>2024-03-01T03:23:26Z</published>
+  <updated>2024-03-01T03:23:26Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>mikemadden42: nim-utils</title>
+  <author>
+   <name>mikemadden42</name>
+  </author>
+  <link href="https://github.com/mikemadden42/nim-utils" />
+  <id>urn:rprimus:github:mikemadden42:nim-utils</id>
+  <published>2024-03-01T03:00:30Z</published>
+  <updated>2024-03-01T03:00:30Z</updated>
+  <content type="html">
+   Utilities written in Nim
+  </content>
+ </entry>
+ <entry>
+  <title>codex-storage: nim-chroprof</title>
+  <author>
+   <name>codex-storage</name>
+  </author>
+  <link href="https://github.com/codex-storage/nim-chroprof" />
+  <id>urn:rprimus:github:codex-storage:nim-chroprof</id>
+  <published>2024-02-29T23:55:16Z</published>
+  <updated>2024-02-29T23:55:16Z</updated>
+  <content type="html">
+   Profiling for Chronos
+  </content>
+ </entry>
+ <entry>
+  <title>birkin: nim_version_showing_commit</title>
+  <author>
+   <name>birkin</name>
+  </author>
+  <link href="https://github.com/birkin/nim_version_showing_commit" />
+  <id>urn:rprimus:github:birkin:nim_version_showing_commit</id>
+  <published>2024-02-29T23:03:21Z</published>
+  <updated>2024-02-29T23:03:21Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>etwhook: discordump</title>
+  <author>
+   <name>etwhook</name>
+  </author>
+  <link href="https://github.com/etwhook/discordump" />
+  <id>urn:rprimus:github:etwhook:discordump</id>
+  <published>2024-02-29T16:46:51Z</published>
+  <updated>2024-02-29T16:46:51Z</updated>
+  <content type="html">
+   Stealthy Discord Memory Dumper Written in Nim.
+  </content>
+ </entry>
+ <entry>
+  <title>etwhook: wlanapi.nim</title>
+  <author>
+   <name>etwhook</name>
+  </author>
+  <link href="https://github.com/etwhook/wlanapi.nim" />
+  <id>urn:rprimus:github:etwhook:wlanapi.nim</id>
+  <published>2024-02-29T12:36:34Z</published>
+  <updated>2024-02-29T12:36:34Z</updated>
+  <content type="html">
+   Most Of The Nim Bindings For WlanAPI.
+  </content>
+ </entry>
+ <entry>
+  <title>HTGenomeAnalysisUnit: rsid_tools</title>
+  <author>
+   <name>HTGenomeAnalysisUnit</name>
+  </author>
+  <link href="https://github.com/HTGenomeAnalysisUnit/rsid_tools" />
+  <id>urn:rprimus:github:HTGenomeAnalysisUnit:rsid_tools</id>
+  <published>2024-02-29T11:44:52Z</published>
+  <updated>2024-02-29T11:44:52Z</updated>
+  <content type="html">
+   Small utilities to play with dbSNP rsID: annotate rsID for a var or get position for an rsID
+  </content>
+ </entry>
+ <entry>
+  <title>uvensys: ssh-ldap</title>
+  <author>
+   <name>uvensys</name>
+  </author>
+  <link href="https://github.com/uvensys/ssh-ldap" />
+  <id>urn:rprimus:github:uvensys:ssh-ldap</id>
+  <published>2024-02-29T11:32:00Z</published>
+  <updated>2024-02-29T11:32:00Z</updated>
+  <content type="html">
+   a ssh-ldap implementation in nim
+  </content>
+ </entry>
  <entry>
   <title>dysrakescence: RHIT-Course-Catalog-To-CSV</title>
   <author>
@@ -28,6 +158,19 @@
   <updated>2024-02-28T23:43:05Z</updated>
   <content type="html">
    SHA-3 in pure Nim
+  </content>
+ </entry>
+ <entry>
+  <title>bctnry: pl0</title>
+  <author>
+   <name>bctnry</name>
+  </author>
+  <link href="https://github.com/bctnry/pl0" />
+  <id>urn:rprimus:github:bctnry:pl0</id>
+  <published>2024-02-28T23:35:22Z</published>
+  <updated>2024-02-28T23:35:22Z</updated>
+  <content type="html">
+   pl0 in nim
   </content>
  </entry>
  <entry>
@@ -174,6 +317,19 @@
   </content>
  </entry>
  <entry>
+  <title>sunarch: placeholder</title>
+  <author>
+   <name>sunarch</name>
+  </author>
+  <link href="https://github.com/sunarch/placeholder" />
+  <id>urn:rprimus:github:sunarch:placeholder</id>
+  <published>2024-02-28T09:46:14Z</published>
+  <updated>2024-02-28T09:46:14Z</updated>
+  <content type="html">
+   preferred remote: https://codeberg.org/sunarch/placeholder
+  </content>
+ </entry>
+ <entry>
   <title>RattleyCooper: timeouts</title>
   <author>
    <name>RattleyCooper</name>
@@ -236,58 +392,6 @@
   <updated>2024-02-28T00:18:29Z</updated>
   <content type="html">
    twofish in pure nim
-  </content>
- </entry>
- <entry>
-  <title>etwhook: nimengine</title>
-  <author>
-   <name>etwhook</name>
-  </author>
-  <link href="https://github.com/etwhook/nimengine" />
-  <id>urn:rprimus:github:etwhook:nimengine</id>
-  <published>2024-02-27T23:04:28Z</published>
-  <updated>2024-02-27T23:04:28Z</updated>
-  <content type="html">
-   A Simple Game Engine PoC Written in Nim.
-  </content>
- </entry>
- <entry>
-  <title>tdely: umriss</title>
-  <author>
-   <name>tdely</name>
-  </author>
-  <link href="https://github.com/tdely/umriss" />
-  <id>urn:rprimus:github:tdely:umriss</id>
-  <published>2024-02-27T20:59:11Z</published>
-  <updated>2024-02-27T20:59:11Z</updated>
-  <content type="html">
-   Extract syscall stats from strace output files
-  </content>
- </entry>
- <entry>
-  <title>etwhook: wifinimfo</title>
-  <author>
-   <name>etwhook</name>
-  </author>
-  <link href="https://github.com/etwhook/wifinimfo" />
-  <id>urn:rprimus:github:etwhook:wifinimfo</id>
-  <published>2024-02-27T15:23:15Z</published>
-  <updated>2024-02-27T15:23:15Z</updated>
-  <content type="html">
-   A Wifi Password Extractor Written In Nim.
-  </content>
- </entry>
- <entry>
-  <title>FlamongoBird: moth</title>
-  <author>
-   <name>FlamongoBird</name>
-  </author>
-  <link href="https://github.com/FlamongoBird/moth" />
-  <id>urn:rprimus:github:FlamongoBird:moth</id>
-  <published>2024-02-27T02:26:32Z</published>
-  <updated>2024-02-27T02:26:32Z</updated>
-  <content type="html">
-   We do math
   </content>
  </entry>
 </feed>

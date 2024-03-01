@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-scheme.atom"/>
 <id>urn:rprimus:github:newschemerepos</id>
-<updated>2024-02-28T22:36:56Z</updated>
+<updated>2024-03-01T05:13:38Z</updated>
 <title type='text'>New GitHub Scheme Repos</title>
+ <entry>
+  <title>hasit: zed-nix</title>
+  <author>
+   <name>hasit</name>
+  </author>
+  <link href="https://github.com/hasit/zed-nix" />
+  <id>urn:rprimus:github:hasit:zed-nix</id>
+  <published>2024-03-01T05:13:38Z</published>
+  <updated>2024-03-01T05:13:38Z</updated>
+  <content type="html">
+   Nix language support in Zed
+  </content>
+ </entry>
+ <entry>
+  <title>Y-Ran: sicp</title>
+  <author>
+   <name>Y-Ran</name>
+  </author>
+  <link href="https://github.com/Y-Ran/sicp" />
+  <id>urn:rprimus:github:Y-Ran:sicp</id>
+  <published>2024-03-01T04:40:10Z</published>
+  <updated>2024-03-01T04:40:10Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>itsey276: Scheme-Lisp</title>
+  <author>
+   <name>itsey276</name>
+  </author>
+  <link href="https://github.com/itsey276/Scheme-Lisp" />
+  <id>urn:rprimus:github:itsey276:Scheme-Lisp</id>
+  <published>2024-02-29T23:14:56Z</published>
+  <updated>2024-02-29T23:14:56Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>berndysart: Codebook</title>
   <author>
@@ -11,10 +50,36 @@
   </author>
   <link href="https://github.com/berndysart/Codebook" />
   <id>urn:rprimus:github:berndysart:Codebook</id>
-  <published>2024-02-28T22:36:56Z</published>
-  <updated>2024-02-28T22:36:56Z</updated>
+  <published>2024-02-29T19:24:31Z</published>
+  <updated>2024-02-29T19:24:31Z</updated>
   <content type="html">
    
+  </content>
+ </entry>
+ <entry>
+  <title>rzukic: zed-latex</title>
+  <author>
+   <name>rzukic</name>
+  </author>
+  <link href="https://github.com/rzukic/zed-latex" />
+  <id>urn:rprimus:github:rzukic:zed-latex</id>
+  <published>2024-02-29T11:56:33Z</published>
+  <updated>2024-02-29T11:56:33Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>massimo-nocentini: unittest.scm</title>
+  <author>
+   <name>massimo-nocentini</name>
+  </author>
+  <link href="https://github.com/massimo-nocentini/unittest.scm" />
+  <id>urn:rprimus:github:massimo-nocentini:unittest.scm</id>
+  <published>2024-02-29T11:20:06Z</published>
+  <updated>2024-02-29T11:20:06Z</updated>
+  <content type="html">
+   A unit testing framework, bootstrapped from itself.
   </content>
  </entry>
  <entry>
@@ -91,84 +156,6 @@
   <id>urn:rprimus:github:viperML:guix</id>
   <published>2024-02-28T09:28:45Z</published>
   <updated>2024-02-28T09:28:45Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>unfortunatelygeek: dotfiles</title>
-  <author>
-   <name>unfortunatelygeek</name>
-  </author>
-  <link href="https://github.com/unfortunatelygeek/dotfiles" />
-  <id>urn:rprimus:github:unfortunatelygeek:dotfiles</id>
-  <published>2024-02-27T16:35:20Z</published>
-  <updated>2024-02-27T16:35:20Z</updated>
-  <content type="html">
-   config files for my debian 12 setup
-  </content>
- </entry>
- <entry>
-  <title>egek92: zed-kotlin-extension</title>
-  <author>
-   <name>egek92</name>
-  </author>
-  <link href="https://github.com/egek92/zed-kotlin-extension" />
-  <id>urn:rprimus:github:egek92:zed-kotlin-extension</id>
-  <published>2024-02-27T16:05:10Z</published>
-  <updated>2024-02-27T16:05:10Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>makifdb: zed-templ</title>
-  <author>
-   <name>makifdb</name>
-  </author>
-  <link href="https://github.com/makifdb/zed-templ" />
-  <id>urn:rprimus:github:makifdb:zed-templ</id>
-  <published>2024-02-27T14:18:28Z</published>
-  <updated>2024-02-27T14:18:28Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>cdo256: cdo-guix-channel</title>
-  <author>
-   <name>cdo256</name>
-  </author>
-  <link href="https://github.com/cdo256/cdo-guix-channel" />
-  <id>urn:rprimus:github:cdo256:cdo-guix-channel</id>
-  <published>2024-02-27T13:20:21Z</published>
-  <updated>2024-02-27T13:20:21Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>evrsen: zed-kotlin</title>
-  <author>
-   <name>evrsen</name>
-  </author>
-  <link href="https://github.com/evrsen/zed-kotlin" />
-  <id>urn:rprimus:github:evrsen:zed-kotlin</id>
-  <published>2024-02-27T10:35:56Z</published>
-  <updated>2024-02-27T10:35:56Z</updated>
-  <content type="html">
-   Syntax highlighting for Kotlin in Zed.
-  </content>
- </entry>
- <entry>
-  <title>talhaaguven: CS305-Programming_Languages</title>
-  <author>
-   <name>talhaaguven</name>
-  </author>
-  <link href="https://github.com/talhaaguven/CS305-Programming_Languages" />
-  <id>urn:rprimus:github:talhaaguven:CS305-Programming_Languages</id>
-  <published>2024-02-27T08:08:57Z</published>
-  <updated>2024-02-27T08:08:57Z</updated>
   <content type="html">
    
   </content>
