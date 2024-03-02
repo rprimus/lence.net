@@ -2,8 +2,138 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2024-03-01T09:40:05Z</updated>
+<updated>2024-03-02T04:03:31Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>kylerky: .emacs.d</title>
+  <author>
+   <name>kylerky</name>
+  </author>
+  <link href="https://github.com/kylerky/.emacs.d" />
+  <id>urn:rprimus:github:kylerky:.emacs.d</id>
+  <published>2024-03-02T04:03:31Z</published>
+  <updated>2024-03-02T04:03:31Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>ksladowski: .emacs.d</title>
+  <author>
+   <name>ksladowski</name>
+  </author>
+  <link href="https://github.com/ksladowski/.emacs.d" />
+  <id>urn:rprimus:github:ksladowski:.emacs.d</id>
+  <published>2024-03-02T02:32:44Z</published>
+  <updated>2024-03-02T02:32:44Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>nethojs29: .config</title>
+  <author>
+   <name>nethojs29</name>
+  </author>
+  <link href="https://github.com/nethojs29/.config" />
+  <id>urn:rprimus:github:nethojs29:.config</id>
+  <published>2024-03-01T23:59:21Z</published>
+  <updated>2024-03-01T23:59:21Z</updated>
+  <content type="html">
+   Configurations, mainly for emacs
+  </content>
+ </entry>
+ <entry>
+  <title>charmitro: emacs-ssh-machines</title>
+  <author>
+   <name>charmitro</name>
+  </author>
+  <link href="https://github.com/charmitro/emacs-ssh-machines" />
+  <id>urn:rprimus:github:charmitro:emacs-ssh-machines</id>
+  <published>2024-03-01T23:44:15Z</published>
+  <updated>2024-03-01T23:44:15Z</updated>
+  <content type="html">
+   Emacs SSH Machines Management Tool
+  </content>
+ </entry>
+ <entry>
+  <title>nikita-popov: hare-mode</title>
+  <author>
+   <name>nikita-popov</name>
+  </author>
+  <link href="https://github.com/nikita-popov/hare-mode" />
+  <id>urn:rprimus:github:nikita-popov:hare-mode</id>
+  <published>2024-03-01T21:19:23Z</published>
+  <updated>2024-03-01T21:19:23Z</updated>
+  <content type="html">
+   Emacs mode for Hare lang. Fork from https://git.sr.ht/~laumann/hare-mode
+  </content>
+ </entry>
+ <entry>
+  <title>chumutt: doom</title>
+  <author>
+   <name>chumutt</name>
+  </author>
+  <link href="https://github.com/chumutt/doom" />
+  <id>urn:rprimus:github:chumutt:doom</id>
+  <published>2024-03-01T20:39:30Z</published>
+  <updated>2024-03-01T20:39:30Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>chumutt: chumacs</title>
+  <author>
+   <name>chumutt</name>
+  </author>
+  <link href="https://github.com/chumutt/chumacs" />
+  <id>urn:rprimus:github:chumutt:chumacs</id>
+  <published>2024-03-01T19:25:47Z</published>
+  <updated>2024-03-01T19:25:47Z</updated>
+  <content type="html">
+   for later
+  </content>
+ </entry>
+ <entry>
+  <title>marcusbendtsen: dotfiles</title>
+  <author>
+   <name>marcusbendtsen</name>
+  </author>
+  <link href="https://github.com/marcusbendtsen/dotfiles" />
+  <id>urn:rprimus:github:marcusbendtsen:dotfiles</id>
+  <published>2024-03-01T18:04:05Z</published>
+  <updated>2024-03-01T18:04:05Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>PeteLeng: epub-mode</title>
+  <author>
+   <name>PeteLeng</name>
+  </author>
+  <link href="https://github.com/PeteLeng/epub-mode" />
+  <id>urn:rprimus:github:PeteLeng:epub-mode</id>
+  <published>2024-03-01T15:02:55Z</published>
+  <updated>2024-03-01T15:02:55Z</updated>
+  <content type="html">
+   An Emacs major mode for reading epub files 
+  </content>
+ </entry>
+ <entry>
+  <title>macparnami: .dotfiles</title>
+  <author>
+   <name>macparnami</name>
+  </author>
+  <link href="https://github.com/macparnami/.dotfiles" />
+  <id>urn:rprimus:github:macparnami:.dotfiles</id>
+  <published>2024-03-01T12:54:06Z</published>
+  <updated>2024-03-01T12:54:06Z</updated>
+  <content type="html">
+   All My linux config files 
+  </content>
+ </entry>
  <entry>
   <title>kj-kang: dot-emacs</title>
   <author>
@@ -83,29 +213,16 @@
   </content>
  </entry>
  <entry>
-  <title>ramblehead: rh-project</title>
+  <title>ramblehead: rh-project.el</title>
   <author>
    <name>ramblehead</name>
   </author>
-  <link href="https://github.com/ramblehead/rh-project" />
-  <id>urn:rprimus:github:ramblehead:rh-project</id>
+  <link href="https://github.com/ramblehead/rh-project.el" />
+  <id>urn:rprimus:github:ramblehead:rh-project.el</id>
   <published>2024-02-29T16:04:53Z</published>
   <updated>2024-02-29T16:04:53Z</updated>
   <content type="html">
    Emacs Ramblehead Project mode
-  </content>
- </entry>
- <entry>
-  <title>aurelbof: emacs-dotfiles</title>
-  <author>
-   <name>aurelbof</name>
-  </author>
-  <link href="https://github.com/aurelbof/emacs-dotfiles" />
-  <id>urn:rprimus:github:aurelbof:emacs-dotfiles</id>
-  <published>2024-02-29T14:26:59Z</published>
-  <updated>2024-02-29T14:26:59Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
  <entry>
@@ -262,188 +379,6 @@
   <updated>2024-02-29T04:04:25Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>goldfita: .emacs.d</title>
-  <author>
-   <name>goldfita</name>
-  </author>
-  <link href="https://github.com/goldfita/.emacs.d" />
-  <id>urn:rprimus:github:goldfita:.emacs.d</id>
-  <published>2024-02-28T21:11:33Z</published>
-  <updated>2024-02-28T21:11:33Z</updated>
-  <content type="html">
-   Emacs configuration
-  </content>
- </entry>
- <entry>
-  <title>vorjdux: crates.el</title>
-  <author>
-   <name>vorjdux</name>
-  </author>
-  <link href="https://github.com/vorjdux/crates.el" />
-  <id>urn:rprimus:github:vorjdux:crates.el</id>
-  <published>2024-02-28T19:17:37Z</published>
-  <updated>2024-02-28T19:17:37Z</updated>
-  <content type="html">
-   Simplify Dependency Management in Rust &amp; Emacs
-  </content>
- </entry>
- <entry>
-  <title>skx: save-check.el</title>
-  <author>
-   <name>skx</name>
-  </author>
-  <link href="https://github.com/skx/save-check.el" />
-  <id>urn:rprimus:github:skx:save-check.el</id>
-  <published>2024-02-28T18:52:03Z</published>
-  <updated>2024-02-28T18:52:03Z</updated>
-  <content type="html">
-   Automatically perform syntax checks on files, after they&#039;ve been saved.
-  </content>
- </entry>
- <entry>
-  <title>ivvil: Garbanzo</title>
-  <author>
-   <name>ivvil</name>
-  </author>
-  <link href="https://github.com/ivvil/Garbanzo" />
-  <id>urn:rprimus:github:ivvil:Garbanzo</id>
-  <published>2024-02-28T17:42:01Z</published>
-  <updated>2024-02-28T17:42:01Z</updated>
-  <content type="html">
-   Run and build projects inside of emacs
-  </content>
- </entry>
- <entry>
-  <title>EmmanueleSalvati: dotfiles</title>
-  <author>
-   <name>EmmanueleSalvati</name>
-  </author>
-  <link href="https://github.com/EmmanueleSalvati/dotfiles" />
-  <id>urn:rprimus:github:EmmanueleSalvati:dotfiles</id>
-  <published>2024-02-28T16:19:47Z</published>
-  <updated>2024-02-28T16:19:47Z</updated>
-  <content type="html">
-   Collection of all my dotfiles
-  </content>
- </entry>
- <entry>
-  <title>whodatXLIV: elpaca</title>
-  <author>
-   <name>whodatXLIV</name>
-  </author>
-  <link href="https://github.com/whodatXLIV/elpaca" />
-  <id>urn:rprimus:github:whodatXLIV:elpaca</id>
-  <published>2024-02-28T16:06:23Z</published>
-  <updated>2024-02-28T16:06:23Z</updated>
-  <content type="html">
-   emacs elpaca setup
-  </content>
- </entry>
- <entry>
-  <title>andreas-roehler: ar-dir</title>
-  <author>
-   <name>andreas-roehler</name>
-  </author>
-  <link href="https://github.com/andreas-roehler/ar-dir" />
-  <id>urn:rprimus:github:andreas-roehler:ar-dir</id>
-  <published>2024-02-28T14:03:23Z</published>
-  <updated>2024-02-28T14:03:23Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>lsem: configs</title>
-  <author>
-   <name>lsem</name>
-  </author>
-  <link href="https://github.com/lsem/configs" />
-  <id>urn:rprimus:github:lsem:configs</id>
-  <published>2024-02-28T10:00:45Z</published>
-  <updated>2024-02-28T10:00:45Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>alinsoar: dot-emacs</title>
-  <author>
-   <name>alinsoar</name>
-  </author>
-  <link href="https://github.com/alinsoar/dot-emacs" />
-  <id>urn:rprimus:github:alinsoar:dot-emacs</id>
-  <published>2024-02-28T08:39:16Z</published>
-  <updated>2024-02-28T08:39:16Z</updated>
-  <content type="html">
-   My .emacs configuration.
-  </content>
- </entry>
- <entry>
-  <title>kfischer-okarin: lsp-dragonruby.el</title>
-  <author>
-   <name>kfischer-okarin</name>
-  </author>
-  <link href="https://github.com/kfischer-okarin/lsp-dragonruby.el" />
-  <id>urn:rprimus:github:kfischer-okarin:lsp-dragonruby.el</id>
-  <published>2024-02-28T06:51:58Z</published>
-  <updated>2024-02-28T06:51:58Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>okomestudio: greppu.el</title>
-  <author>
-   <name>okomestudio</name>
-  </author>
-  <link href="https://github.com/okomestudio/greppu.el" />
-  <id>urn:rprimus:github:okomestudio:greppu.el</id>
-  <published>2024-02-28T05:26:57Z</published>
-  <updated>2024-02-28T05:26:57Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>togakangaroo: gim-jira</title>
-  <author>
-   <name>togakangaroo</name>
-  </author>
-  <link href="https://github.com/togakangaroo/gim-jira" />
-  <id>urn:rprimus:github:togakangaroo:gim-jira</id>
-  <published>2024-02-28T04:41:45Z</published>
-  <updated>2024-02-28T04:41:45Z</updated>
-  <content type="html">
-   Some jira integration for emacs org-ode
-  </content>
- </entry>
- <entry>
-  <title>emacs-straight: lentic-server</title>
-  <author>
-   <name>emacs-straight</name>
-  </author>
-  <link href="https://github.com/emacs-straight/lentic-server" />
-  <id>urn:rprimus:github:emacs-straight:lentic-server</id>
-  <published>2024-02-28T00:04:56Z</published>
-  <updated>2024-02-28T00:04:56Z</updated>
-  <content type="html">
-   Mirror of the lentic-server package from GNU ELPA, current as of 2024-03-01
-  </content>
- </entry>
- <entry>
-  <title>emacs-straight: lentic</title>
-  <author>
-   <name>emacs-straight</name>
-  </author>
-  <link href="https://github.com/emacs-straight/lentic" />
-  <id>urn:rprimus:github:emacs-straight:lentic</id>
-  <published>2024-02-28T00:04:55Z</published>
-  <updated>2024-02-28T00:04:55Z</updated>
-  <content type="html">
-   Mirror of the lentic package from GNU ELPA, current as of 2024-03-01
   </content>
  </entry>
 </feed>
