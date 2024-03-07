@@ -2,8 +2,112 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2024-03-06T10:23:57Z</updated>
+<updated>2024-03-07T06:06:31Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>beef331: rdldd</title>
+  <author>
+   <name>beef331</name>
+  </author>
+  <link href="https://github.com/beef331/rdldd" />
+  <id>urn:rprimus:github:beef331:rdldd</id>
+  <published>2024-03-07T06:06:31Z</published>
+  <updated>2024-03-07T06:06:31Z</updated>
+  <content type="html">
+   A really dumb ldd
+  </content>
+ </entry>
+ <entry>
+  <title>CarlosEduardoL: nbang</title>
+  <author>
+   <name>CarlosEduardoL</name>
+  </author>
+  <link href="https://github.com/CarlosEduardoL/nbang" />
+  <id>urn:rprimus:github:CarlosEduardoL:nbang</id>
+  <published>2024-03-07T03:57:35Z</published>
+  <updated>2024-03-07T03:57:35Z</updated>
+  <content type="html">
+   Nim Shebang script compiler tool
+  </content>
+ </entry>
+ <entry>
+  <title>rockcavera: nim-zerocstringtostring</title>
+  <author>
+   <name>rockcavera</name>
+  </author>
+  <link href="https://github.com/rockcavera/nim-zerocstringtostring" />
+  <id>urn:rprimus:github:rockcavera:nim-zerocstringtostring</id>
+  <published>2024-03-07T00:56:51Z</published>
+  <updated>2024-03-07T00:56:51Z</updated>
+  <content type="html">
+   Transforms `cstring` into `string` without the cost of copying.
+  </content>
+ </entry>
+ <entry>
+  <title>filvyb: BoorusDownloader</title>
+  <author>
+   <name>filvyb</name>
+  </author>
+  <link href="https://github.com/filvyb/BoorusDownloader" />
+  <id>urn:rprimus:github:filvyb:BoorusDownloader</id>
+  <published>2024-03-06T20:24:41Z</published>
+  <updated>2024-03-06T20:24:41Z</updated>
+  <content type="html">
+   Downloder for multiple boorus saving files for training DeepDanbooru
+  </content>
+ </entry>
+ <entry>
+  <title>morganholly: nim-clap</title>
+  <author>
+   <name>morganholly</name>
+  </author>
+  <link href="https://github.com/morganholly/nim-clap" />
+  <id>urn:rprimus:github:morganholly:nim-clap</id>
+  <published>2024-03-06T18:52:17Z</published>
+  <updated>2024-03-06T18:52:17Z</updated>
+  <content type="html">
+   clap plugin api in nim. currently unfinished
+  </content>
+ </entry>
+ <entry>
+  <title>etwhook: handlenimfo</title>
+  <author>
+   <name>etwhook</name>
+  </author>
+  <link href="https://github.com/etwhook/handlenimfo" />
+  <id>urn:rprimus:github:etwhook:handlenimfo</id>
+  <published>2024-03-06T15:55:43Z</published>
+  <updated>2024-03-06T15:55:43Z</updated>
+  <content type="html">
+   Enumerating All Open Handles In Nim.
+  </content>
+ </entry>
+ <entry>
+  <title>LianelLars: microscapy</title>
+  <author>
+   <name>LianelLars</name>
+  </author>
+  <link href="https://github.com/LianelLars/microscapy" />
+  <id>urn:rprimus:github:LianelLars:microscapy</id>
+  <published>2024-03-06T13:20:21Z</published>
+  <updated>2024-03-06T13:20:21Z</updated>
+  <content type="html">
+   Small library for parsing PCAP-files like Scapy.
+  </content>
+ </entry>
+ <entry>
+  <title>etwhook: rempeb</title>
+  <author>
+   <name>etwhook</name>
+  </author>
+  <link href="https://github.com/etwhook/rempeb" />
+  <id>urn:rprimus:github:etwhook:rempeb</id>
+  <published>2024-03-06T13:19:48Z</published>
+  <updated>2024-03-06T13:19:48Z</updated>
+  <content type="html">
+   Finding Remote PEB Address With Nim.
+  </content>
+ </entry>
  <entry>
   <title>Negrini085: PhotoNim</title>
   <author>
@@ -145,32 +249,6 @@
   <updated>2024-03-05T00:24:27Z</updated>
   <content type="html">
    Create a passphrase using the diceware word list.
-  </content>
- </entry>
- <entry>
-  <title>disruptek: pcp</title>
-  <author>
-   <name>disruptek</name>
-  </author>
-  <link href="https://github.com/disruptek/pcp" />
-  <id>urn:rprimus:github:disruptek:pcp</id>
-  <published>2024-03-04T19:10:44Z</published>
-  <updated>2024-03-04T19:10:44Z</updated>
-  <content type="html">
-   proper continuation-passing
-  </content>
- </entry>
- <entry>
-  <title>etwhook: tempsc</title>
-  <author>
-   <name>etwhook</name>
-  </author>
-  <link href="https://github.com/etwhook/tempsc" />
-  <id>urn:rprimus:github:etwhook:tempsc</id>
-  <published>2024-03-04T15:48:29Z</published>
-  <updated>2024-03-04T15:48:29Z</updated>
-  <content type="html">
-   Nim Shellcode Injection Via Stomping Injection.
   </content>
  </entry>
 </feed>
