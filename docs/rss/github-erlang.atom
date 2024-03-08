@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-erlang.atom"/>
 <id>urn:rprimus:github:newerlangrepos</id>
-<updated>2024-03-06T17:26:23Z</updated>
+<updated>2024-03-08T10:26:18Z</updated>
 <title type='text'>New GitHub Erlang Repos</title>
+ <entry>
+  <title>Neackow: hera</title>
+  <author>
+   <name>Neackow</name>
+  </author>
+  <link href="https://github.com/Neackow/hera" />
+  <id>urn:rprimus:github:Neackow:hera</id>
+  <published>2024-03-08T10:26:18Z</published>
+  <updated>2024-03-08T10:26:18Z</updated>
+  <content type="html">
+   Hera repository for my TFE
+  </content>
+ </entry>
+ <entry>
+  <title>Neackow: movement_detection</title>
+  <author>
+   <name>Neackow</name>
+  </author>
+  <link href="https://github.com/Neackow/movement_detection" />
+  <id>urn:rprimus:github:Neackow:movement_detection</id>
+  <published>2024-03-08T09:27:27Z</published>
+  <updated>2024-03-08T09:27:27Z</updated>
+  <content type="html">
+   Main repository for my TFE
+  </content>
+ </entry>
+ <entry>
+  <title>Neackow: hera_synchronization</title>
+  <author>
+   <name>Neackow</name>
+  </author>
+  <link href="https://github.com/Neackow/hera_synchronization" />
+  <id>urn:rprimus:github:Neackow:hera_synchronization</id>
+  <published>2024-03-08T09:26:12Z</published>
+  <updated>2024-03-08T09:26:12Z</updated>
+  <content type="html">
+   Hera synchronisation repository for my TFE
+  </content>
+ </entry>
+ <entry>
+  <title>Yars2021: functional_lab4</title>
+  <author>
+   <name>Yars2021</name>
+  </author>
+  <link href="https://github.com/Yars2021/functional_lab4" />
+  <id>urn:rprimus:github:Yars2021:functional_lab4</id>
+  <published>2024-03-07T22:08:06Z</published>
+  <updated>2024-03-07T22:08:06Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>rlipscombe: erlang_ls_1501_parent</title>
+  <author>
+   <name>rlipscombe</name>
+  </author>
+  <link href="https://github.com/rlipscombe/erlang_ls_1501_parent" />
+  <id>urn:rprimus:github:rlipscombe:erlang_ls_1501_parent</id>
+  <published>2024-03-07T15:30:49Z</published>
+  <updated>2024-03-07T15:30:49Z</updated>
+  <content type="html">
+   https://github.com/erlang-ls/erlang_ls/issues/1501
+  </content>
+ </entry>
+ <entry>
+  <title>rlipscombe: erlang_ls_1501_child</title>
+  <author>
+   <name>rlipscombe</name>
+  </author>
+  <link href="https://github.com/rlipscombe/erlang_ls_1501_child" />
+  <id>urn:rprimus:github:rlipscombe:erlang_ls_1501_child</id>
+  <published>2024-03-07T15:29:30Z</published>
+  <updated>2024-03-07T15:29:30Z</updated>
+  <content type="html">
+   https://github.com/erlang-ls/erlang_ls/issues/1501
+  </content>
+ </entry>
  <entry>
   <title>DallinO: Twelve-Legions-Coding</title>
   <author>
@@ -57,16 +135,16 @@
   </content>
  </entry>
  <entry>
-  <title>rlipscombe: copy_node_labels</title>
+  <title>echenim: http-response-parser</title>
   <author>
-   <name>rlipscombe</name>
+   <name>echenim</name>
   </author>
-  <link href="https://github.com/rlipscombe/copy_node_labels" />
-  <id>urn:rprimus:github:rlipscombe:copy_node_labels</id>
-  <published>2024-03-05T16:54:46Z</published>
-  <updated>2024-03-05T16:54:46Z</updated>
+  <link href="https://github.com/echenim/http-response-parser" />
+  <id>urn:rprimus:github:echenim:http-response-parser</id>
+  <published>2024-03-06T05:45:11Z</published>
+  <updated>2024-03-06T05:45:11Z</updated>
   <content type="html">
-   
+   The HTTP 1.1 Response Parser in Erlang is a specialized module designed to interpret and convert raw HTTP response binaries into structured data types that can be easily manipulated within Erlang applications. This parser meticulously handles the complexities of HTTP/1.1 responses
   </content>
  </entry>
 </feed>
