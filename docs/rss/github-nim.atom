@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2024-03-08T09:47:24Z</updated>
+<updated>2024-03-09T08:23:55Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>xTrayambak: rustify</title>
+  <author>
+   <name>xTrayambak</name>
+  </author>
+  <link href="https://github.com/xTrayambak/rustify" />
+  <id>urn:rprimus:github:xTrayambak:rustify</id>
+  <published>2024-03-09T08:23:55Z</published>
+  <updated>2024-03-09T08:23:55Z</updated>
+  <content type="html">
+   Spread the good word of memory safety with this delectable Rust copypasta generator
+  </content>
+ </entry>
+ <entry>
+  <title>etwhook: nimput</title>
+  <author>
+   <name>etwhook</name>
+  </author>
+  <link href="https://github.com/etwhook/nimput" />
+  <id>urn:rprimus:github:etwhook:nimput</id>
+  <published>2024-03-08T17:22:42Z</published>
+  <updated>2024-03-08T17:22:42Z</updated>
+  <content type="html">
+   A Simple Input Library Written In Nim.
+  </content>
+ </entry>
+ <entry>
+  <title>status-im: nim-usrsctp</title>
+  <author>
+   <name>status-im</name>
+  </author>
+  <link href="https://github.com/status-im/nim-usrsctp" />
+  <id>urn:rprimus:github:status-im:nim-usrsctp</id>
+  <published>2024-03-08T10:51:35Z</published>
+  <updated>2024-03-08T10:51:35Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Azumabashi: gemtext2html</title>
+  <author>
+   <name>Azumabashi</name>
+  </author>
+  <link href="https://github.com/Azumabashi/gemtext2html" />
+  <id>urn:rprimus:github:Azumabashi:gemtext2html</id>
+  <published>2024-03-08T10:40:54Z</published>
+  <updated>2024-03-08T10:40:54Z</updated>
+  <content type="html">
+   gemtext to html implemented using Nim
+  </content>
+ </entry>
  <entry>
   <title>choltreppe: nglsl</title>
   <author>
@@ -15,6 +67,19 @@
   <updated>2024-03-08T09:47:24Z</updated>
   <content type="html">
    glsl dsl for nim
+  </content>
+ </entry>
+ <entry>
+  <title>DeEpinGh0st: HideNimMain</title>
+  <author>
+   <name>DeEpinGh0st</name>
+  </author>
+  <link href="https://github.com/DeEpinGh0st/HideNimMain" />
+  <id>urn:rprimus:github:DeEpinGh0st:HideNimMain</id>
+  <published>2024-03-08T09:40:30Z</published>
+  <updated>2024-03-08T09:40:30Z</updated>
+  <content type="html">
+   Hide the exported NimMain in a DLL
   </content>
  </entry>
  <entry>
@@ -119,136 +184,6 @@
   <updated>2024-03-07T00:56:51Z</updated>
   <content type="html">
    Transforms `cstring` into `string` without the cost of copying.
-  </content>
- </entry>
- <entry>
-  <title>filvyb: BoorusDownloader</title>
-  <author>
-   <name>filvyb</name>
-  </author>
-  <link href="https://github.com/filvyb/BoorusDownloader" />
-  <id>urn:rprimus:github:filvyb:BoorusDownloader</id>
-  <published>2024-03-06T20:24:41Z</published>
-  <updated>2024-03-06T20:24:41Z</updated>
-  <content type="html">
-   Downloder for multiple boorus saving files for training DeepDanbooru
-  </content>
- </entry>
- <entry>
-  <title>morganholly: nim-clap</title>
-  <author>
-   <name>morganholly</name>
-  </author>
-  <link href="https://github.com/morganholly/nim-clap" />
-  <id>urn:rprimus:github:morganholly:nim-clap</id>
-  <published>2024-03-06T18:52:17Z</published>
-  <updated>2024-03-06T18:52:17Z</updated>
-  <content type="html">
-   clap plugin api in nim. currently unfinished
-  </content>
- </entry>
- <entry>
-  <title>etwhook: handlenimfo</title>
-  <author>
-   <name>etwhook</name>
-  </author>
-  <link href="https://github.com/etwhook/handlenimfo" />
-  <id>urn:rprimus:github:etwhook:handlenimfo</id>
-  <published>2024-03-06T15:55:43Z</published>
-  <updated>2024-03-06T15:55:43Z</updated>
-  <content type="html">
-   Enumerating All Open Handles In Nim.
-  </content>
- </entry>
- <entry>
-  <title>LianelLars: microscapy</title>
-  <author>
-   <name>LianelLars</name>
-  </author>
-  <link href="https://github.com/LianelLars/microscapy" />
-  <id>urn:rprimus:github:LianelLars:microscapy</id>
-  <published>2024-03-06T13:20:21Z</published>
-  <updated>2024-03-06T13:20:21Z</updated>
-  <content type="html">
-   Small library for parsing PCAP-files like Scapy.
-  </content>
- </entry>
- <entry>
-  <title>etwhook: rempeb</title>
-  <author>
-   <name>etwhook</name>
-  </author>
-  <link href="https://github.com/etwhook/rempeb" />
-  <id>urn:rprimus:github:etwhook:rempeb</id>
-  <published>2024-03-06T13:19:48Z</published>
-  <updated>2024-03-06T13:19:48Z</updated>
-  <content type="html">
-   Finding Remote PEB Address With Nim.
-  </content>
- </entry>
- <entry>
-  <title>Negrini085: PhotoNim</title>
-  <author>
-   <name>Negrini085</name>
-  </author>
-  <link href="https://github.com/Negrini085/PhotoNim" />
-  <id>urn:rprimus:github:Negrini085:PhotoNim</id>
-  <published>2024-03-06T10:23:57Z</published>
-  <updated>2024-03-06T10:23:57Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>angela-bonato: RayTracingCourse</title>
-  <author>
-   <name>angela-bonato</name>
-  </author>
-  <link href="https://github.com/angela-bonato/RayTracingCourse" />
-  <id>urn:rprimus:github:angela-bonato:RayTracingCourse</id>
-  <published>2024-03-06T10:11:46Z</published>
-  <updated>2024-03-06T10:11:46Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>litlighilit: boolTable</title>
-  <author>
-   <name>litlighilit</name>
-  </author>
-  <link href="https://github.com/litlighilit/boolTable" />
-  <id>urn:rprimus:github:litlighilit:boolTable</id>
-  <published>2024-03-06T08:39:21Z</published>
-  <updated>2024-03-06T08:39:21Z</updated>
-  <content type="html">
-   library based on Nim&#039;s macro to generate Truth Table.
-  </content>
- </entry>
- <entry>
-  <title>penguinite: nimforum-re</title>
-  <author>
-   <name>penguinite</name>
-  </author>
-  <link href="https://github.com/penguinite/nimforum-re" />
-  <id>urn:rprimus:github:penguinite:nimforum-re</id>
-  <published>2024-03-06T07:52:26Z</published>
-  <updated>2024-03-06T07:52:26Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>pouriyajamshidi: nginwho</title>
-  <author>
-   <name>pouriyajamshidi</name>
-  </author>
-  <link href="https://github.com/pouriyajamshidi/nginwho" />
-  <id>urn:rprimus:github:pouriyajamshidi:nginwho</id>
-  <published>2024-03-06T07:33:15Z</published>
-  <updated>2024-03-06T07:33:15Z</updated>
-  <content type="html">
-   Nginx log parser written in Nim
   </content>
  </entry>
 </feed>

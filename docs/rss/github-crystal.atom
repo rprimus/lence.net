@@ -2,19 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2024-03-06T21:59:47Z</updated>
+<updated>2024-03-08T22:36:22Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
  <entry>
-  <title>Final-Sigma: talk-o-clock</title>
+  <title>nbrandaleone: crystal_docker</title>
   <author>
-   <name>Final-Sigma</name>
+   <name>nbrandaleone</name>
   </author>
-  <link href="https://github.com/Final-Sigma/talk-o-clock" />
-  <id>urn:rprimus:github:Final-Sigma:talk-o-clock</id>
-  <published>2024-03-06T21:59:47Z</published>
-  <updated>2024-03-06T21:59:47Z</updated>
+  <link href="https://github.com/nbrandaleone/crystal_docker" />
+  <id>urn:rprimus:github:nbrandaleone:crystal_docker</id>
+  <published>2024-03-08T22:36:22Z</published>
+  <updated>2024-03-08T22:36:22Z</updated>
   <content type="html">
-   
+   A sample minimal Crystal program, with associated Dockerfile
+  </content>
+ </entry>
+ <entry>
+  <title>nbrandaleone: fibonacci</title>
+  <author>
+   <name>nbrandaleone</name>
+  </author>
+  <link href="https://github.com/nbrandaleone/fibonacci" />
+  <id>urn:rprimus:github:nbrandaleone:fibonacci</id>
+  <published>2024-03-08T22:33:34Z</published>
+  <updated>2024-03-08T22:33:34Z</updated>
+  <content type="html">
+   A client server fibonacci program, written in Crystal.
+  </content>
+ </entry>
+ <entry>
+  <title>nbrandaleone: json-pp</title>
+  <author>
+   <name>nbrandaleone</name>
+  </author>
+  <link href="https://github.com/nbrandaleone/json-pp" />
+  <id>urn:rprimus:github:nbrandaleone:json-pp</id>
+  <published>2024-03-08T22:24:52Z</published>
+  <updated>2024-03-08T22:24:52Z</updated>
+  <content type="html">
+   A crystal program that pretty prints a JSON string
+  </content>
+ </entry>
+ <entry>
+  <title>nbrandaleone: igol</title>
+  <author>
+   <name>nbrandaleone</name>
+  </author>
+  <link href="https://github.com/nbrandaleone/igol" />
+  <id>urn:rprimus:github:nbrandaleone:igol</id>
+  <published>2024-03-08T22:20:14Z</published>
+  <updated>2024-03-08T22:20:14Z</updated>
+  <content type="html">
+   Interactive Game of Life, written in Crystal. Demonstrates use of Parser and Interpreter.
+  </content>
+ </entry>
+ <entry>
+  <title>nbrandaleone: url-checker</title>
+  <author>
+   <name>nbrandaleone</name>
+  </author>
+  <link href="https://github.com/nbrandaleone/url-checker" />
+  <id>urn:rprimus:github:nbrandaleone:url-checker</id>
+  <published>2024-03-08T22:01:40Z</published>
+  <updated>2024-03-08T22:01:40Z</updated>
+  <content type="html">
+   A Crystal program that checks the status of a list of URLs
   </content>
  </entry>
 </feed>
