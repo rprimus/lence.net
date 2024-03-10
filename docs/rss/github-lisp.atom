@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2024-03-09T10:16:57Z</updated>
+<updated>2024-03-10T08:03:10Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>jthing: sicl-compiler</title>
+  <author>
+   <name>jthing</name>
+  </author>
+  <link href="https://github.com/jthing/sicl-compiler" />
+  <id>urn:rprimus:github:jthing:sicl-compiler</id>
+  <published>2024-03-10T08:03:10Z</published>
+  <updated>2024-03-10T08:03:10Z</updated>
+  <content type="html">
+   SICL compiler see https://github.com/robert-strandh/SICL
+  </content>
+ </entry>
+ <entry>
+  <title>prkg: cl-libical</title>
+  <author>
+   <name>prkg</name>
+  </author>
+  <link href="https://github.com/prkg/cl-libical" />
+  <id>urn:rprimus:github:prkg:cl-libical</id>
+  <published>2024-03-10T03:25:43Z</published>
+  <updated>2024-03-10T03:25:43Z</updated>
+  <content type="html">
+   Common Lisp bindings for libical, an implementation of iCalendar protocols and data formats.
+  </content>
+ </entry>
+ <entry>
+  <title>rubenphilipp: rp-clm</title>
+  <author>
+   <name>rubenphilipp</name>
+  </author>
+  <link href="https://github.com/rubenphilipp/rp-clm" />
+  <id>urn:rprimus:github:rubenphilipp:rp-clm</id>
+  <published>2024-03-09T21:30:59Z</published>
+  <updated>2024-03-09T21:30:59Z</updated>
+  <content type="html">
+   A collection of Common Lisp generators and instruments for CLM. 
+  </content>
+ </entry>
+ <entry>
+  <title>eric-gilles: VM_Compiler_LISP</title>
+  <author>
+   <name>eric-gilles</name>
+  </author>
+  <link href="https://github.com/eric-gilles/VM_Compiler_LISP" />
+  <id>urn:rprimus:github:eric-gilles:VM_Compiler_LISP</id>
+  <published>2024-03-09T18:29:29Z</published>
+  <updated>2024-03-09T18:29:29Z</updated>
+  <content type="html">
+   VM et Compilateur rÃ©alisÃ© en Common LISP
+  </content>
+ </entry>
  <entry>
   <title>certainty: VacayGenius</title>
   <author>
@@ -80,58 +132,6 @@
   <updated>2024-03-08T09:00:58Z</updated>
   <content type="html">
    An integrated CVS and development environment for Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>mgmarlow: advent-of-code</title>
-  <author>
-   <name>mgmarlow</name>
-  </author>
-  <link href="https://github.com/mgmarlow/advent-of-code" />
-  <id>urn:rprimus:github:mgmarlow:advent-of-code</id>
-  <published>2024-03-07T23:54:19Z</published>
-  <updated>2024-03-07T23:54:19Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>CDamianS: stumpwm-config</title>
-  <author>
-   <name>CDamianS</name>
-  </author>
-  <link href="https://github.com/CDamianS/stumpwm-config" />
-  <id>urn:rprimus:github:CDamianS:stumpwm-config</id>
-  <published>2024-03-07T16:53:25Z</published>
-  <updated>2024-03-07T16:53:25Z</updated>
-  <content type="html">
-   Misc dotfiles
-  </content>
- </entry>
- <entry>
-  <title>BHa2R00: cdl_wrapper</title>
-  <author>
-   <name>BHa2R00</name>
-  </author>
-  <link href="https://github.com/BHa2R00/cdl_wrapper" />
-  <id>urn:rprimus:github:BHa2R00:cdl_wrapper</id>
-  <published>2024-03-07T11:14:28Z</published>
-  <updated>2024-03-07T11:14:28Z</updated>
-  <content type="html">
-   verilog wrapper of cdl netlist
-  </content>
- </entry>
- <entry>
-  <title>jackcarrozzo: planesnwind</title>
-  <author>
-   <name>jackcarrozzo</name>
-  </author>
-  <link href="https://github.com/jackcarrozzo/planesnwind" />
-  <id>urn:rprimus:github:jackcarrozzo:planesnwind</id>
-  <published>2024-03-07T00:18:22Z</published>
-  <updated>2024-03-07T00:18:22Z</updated>
-  <content type="html">
-   Dynamically improve commercial flight routes using realtime wind data and genetic algorithms to save fuel
   </content>
  </entry>
 </feed>
