@@ -2,8 +2,138 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-zig.atom"/>
 <id>urn:rprimus:github:newzigrepos</id>
-<updated>2024-03-11T10:19:17Z</updated>
+<updated>2024-03-12T07:04:23Z</updated>
 <title type='text'>New GitHub Zig Repos</title>
+ <entry>
+  <title>andy5995: zigpokerhands</title>
+  <author>
+   <name>andy5995</name>
+  </author>
+  <link href="https://github.com/andy5995/zigpokerhands" />
+  <id>urn:rprimus:github:andy5995:zigpokerhands</id>
+  <published>2024-03-12T07:04:23Z</published>
+  <updated>2024-03-12T07:04:23Z</updated>
+  <content type="html">
+   A non-functioning program that uses zigdeck to evaluate five cards to determine if it matches a poker hand
+  </content>
+ </entry>
+ <entry>
+  <title>gabkhanfig: CubicScript</title>
+  <author>
+   <name>gabkhanfig</name>
+  </author>
+  <link href="https://github.com/gabkhanfig/CubicScript" />
+  <id>urn:rprimus:github:gabkhanfig:CubicScript</id>
+  <published>2024-03-12T03:40:39Z</published>
+  <updated>2024-03-12T03:40:39Z</updated>
+  <content type="html">
+   Embeddable Scripting Language For Multiplayer Games
+  </content>
+ </entry>
+ <entry>
+  <title>krystianMoras: bia</title>
+  <author>
+   <name>krystianMoras</name>
+  </author>
+  <link href="https://github.com/krystianMoras/bia" />
+  <id>urn:rprimus:github:krystianMoras:bia</id>
+  <published>2024-03-12T00:06:25Z</published>
+  <updated>2024-03-12T00:06:25Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>KodinGoose: zig_calc</title>
+  <author>
+   <name>KodinGoose</name>
+  </author>
+  <link href="https://github.com/KodinGoose/zig_calc" />
+  <id>urn:rprimus:github:KodinGoose:zig_calc</id>
+  <published>2024-03-11T23:58:51Z</published>
+  <updated>2024-03-11T23:58:51Z</updated>
+  <content type="html">
+   A very simple terminal based calculator made in Zig. Currently only does addition, subtraction, multiplication and division and the inputed numbers must be positive.
+  </content>
+ </entry>
+ <entry>
+  <title>InfiniteRain: zig-lox</title>
+  <author>
+   <name>InfiniteRain</name>
+  </author>
+  <link href="https://github.com/InfiniteRain/zig-lox" />
+  <id>urn:rprimus:github:InfiniteRain:zig-lox</id>
+  <published>2024-03-11T22:43:07Z</published>
+  <updated>2024-03-11T22:43:07Z</updated>
+  <content type="html">
+   Implementation of Lox VM in Zig.
+  </content>
+ </entry>
+ <entry>
+  <title>Toanuvo: zlox</title>
+  <author>
+   <name>Toanuvo</name>
+  </author>
+  <link href="https://github.com/Toanuvo/zlox" />
+  <id>urn:rprimus:github:Toanuvo:zlox</id>
+  <published>2024-03-11T20:44:10Z</published>
+  <updated>2024-03-11T20:44:10Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>ngrilly: zig3d</title>
+  <author>
+   <name>ngrilly</name>
+  </author>
+  <link href="https://github.com/ngrilly/zig3d" />
+  <id>urn:rprimus:github:ngrilly:zig3d</id>
+  <published>2024-03-11T19:34:23Z</published>
+  <updated>2024-03-11T19:34:23Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>niteshbalusu11: zig-codec</title>
+  <author>
+   <name>niteshbalusu11</name>
+  </author>
+  <link href="https://github.com/niteshbalusu11/zig-codec" />
+  <id>urn:rprimus:github:niteshbalusu11:zig-codec</id>
+  <published>2024-03-11T18:42:08Z</published>
+  <updated>2024-03-11T18:42:08Z</updated>
+  <content type="html">
+   A Zig Library for Encoding and Decoding Formats
+  </content>
+ </entry>
+ <entry>
+  <title>ryleelyman: GapBuffer.zig</title>
+  <author>
+   <name>ryleelyman</name>
+  </author>
+  <link href="https://github.com/ryleelyman/GapBuffer.zig" />
+  <id>urn:rprimus:github:ryleelyman:GapBuffer.zig</id>
+  <published>2024-03-11T16:01:11Z</published>
+  <updated>2024-03-11T16:01:11Z</updated>
+  <content type="html">
+   a general-purpose gap buffer implementation in Zig
+  </content>
+ </entry>
+ <entry>
+  <title>david-haerer: rat</title>
+  <author>
+   <name>david-haerer</name>
+  </author>
+  <link href="https://github.com/david-haerer/rat" />
+  <id>urn:rprimus:github:david-haerer:rat</id>
+  <published>2024-03-11T15:15:02Z</published>
+  <updated>2024-03-11T15:15:02Z</updated>
+  <content type="html">
+   A better mouse.
+  </content>
+ </entry>
  <entry>
   <title>nullzeiger: zigfield</title>
   <author>
@@ -27,7 +157,7 @@
   <published>2024-03-11T08:10:46Z</published>
   <updated>2024-03-11T08:10:46Z</updated>
   <content type="html">
-   Non-functioning library that provides a deck of shuffled cards
+   A library that creates and shuffles a deck of cards from which you can draw
   </content>
  </entry>
  <entry>
@@ -291,19 +421,6 @@
   </content>
  </entry>
  <entry>
-  <title>pmotionf: mmc-core</title>
-  <author>
-   <name>pmotionf</name>
-  </author>
-  <link href="https://github.com/pmotionf/mmc-core" />
-  <id>urn:rprimus:github:pmotionf:mmc-core</id>
-  <published>2024-03-10T00:57:26Z</published>
-  <updated>2024-03-10T00:57:26Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
   <title>snailcreature: zigex</title>
   <author>
    <name>snailcreature</name>
@@ -340,253 +457,6 @@
   <updated>2024-03-10T00:03:33Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>peteraba: ziglings</title>
-  <author>
-   <name>peteraba</name>
-  </author>
-  <link href="https://github.com/peteraba/ziglings" />
-  <id>urn:rprimus:github:peteraba:ziglings</id>
-  <published>2024-03-09T21:03:19Z</published>
-  <updated>2024-03-09T21:03:19Z</updated>
-  <content type="html">
-   My Ziglings solutions.
-  </content>
- </entry>
- <entry>
-  <title>magic003: zag</title>
-  <author>
-   <name>magic003</name>
-  </author>
-  <link href="https://github.com/magic003/zag" />
-  <id>urn:rprimus:github:magic003:zag</id>
-  <published>2024-03-09T18:32:01Z</published>
-  <updated>2024-03-09T18:32:01Z</updated>
-  <content type="html">
-   A 2D vector path and curves library in Zig
-  </content>
- </entry>
- <entry>
-  <title>peterhellberg: w4-zig-spelsylt10</title>
-  <author>
-   <name>peterhellberg</name>
-  </author>
-  <link href="https://github.com/peterhellberg/w4-zig-spelsylt10" />
-  <id>urn:rprimus:github:peterhellberg:w4-zig-spelsylt10</id>
-  <published>2024-03-09T16:42:15Z</published>
-  <updated>2024-03-09T16:42:15Z</updated>
-  <content type="html">
-   https://assets.c7.se/games/w4-zig-spelsylt10
-  </content>
- </entry>
- <entry>
-  <title>DAlba-sudo: hapi</title>
-  <author>
-   <name>DAlba-sudo</name>
-  </author>
-  <link href="https://github.com/DAlba-sudo/hapi" />
-  <id>urn:rprimus:github:DAlba-sudo:hapi</id>
-  <published>2024-03-09T16:28:07Z</published>
-  <updated>2024-03-09T16:28:07Z</updated>
-  <content type="html">
-   Hardware Abstraction Layer for the Pi 4B written in Zig.
-  </content>
- </entry>
- <entry>
-  <title>JungerBoyo: SPA-simple-zig</title>
-  <author>
-   <name>JungerBoyo</name>
-  </author>
-  <link href="https://github.com/JungerBoyo/SPA-simple-zig" />
-  <id>urn:rprimus:github:JungerBoyo:SPA-simple-zig</id>
-  <published>2024-03-09T15:03:41Z</published>
-  <updated>2024-03-09T15:03:41Z</updated>
-  <content type="html">
-   Tokenization and abstract syntax tree creation of purely hypothetical language `SIMPLE`.
-  </content>
- </entry>
- <entry>
-  <title>protocol-laboratory: cngp-zig</title>
-  <author>
-   <name>protocol-laboratory</name>
-  </author>
-  <link href="https://github.com/protocol-laboratory/cngp-zig" />
-  <id>urn:rprimus:github:protocol-laboratory:cngp-zig</id>
-  <published>2024-03-09T14:14:32Z</published>
-  <updated>2024-03-09T14:14:32Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>tinlizard: zig-raylib-example-repo</title>
-  <author>
-   <name>tinlizard</name>
-  </author>
-  <link href="https://github.com/tinlizard/zig-raylib-example-repo" />
-  <id>urn:rprimus:github:tinlizard:zig-raylib-example-repo</id>
-  <published>2024-03-09T13:57:44Z</published>
-  <updated>2024-03-09T13:57:44Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>aryalaadi: zinit-xv6-riscv</title>
-  <author>
-   <name>aryalaadi</name>
-  </author>
-  <link href="https://github.com/aryalaadi/zinit-xv6-riscv" />
-  <id>urn:rprimus:github:aryalaadi:zinit-xv6-riscv</id>
-  <published>2024-03-09T13:10:33Z</published>
-  <updated>2024-03-09T13:10:33Z</updated>
-  <content type="html">
-   init system for xv6-riscv in zig
-  </content>
- </entry>
- <entry>
-  <title>lakrestofer: zig-c-interop</title>
-  <author>
-   <name>lakrestofer</name>
-  </author>
-  <link href="https://github.com/lakrestofer/zig-c-interop" />
-  <id>urn:rprimus:github:lakrestofer:zig-c-interop</id>
-  <published>2024-03-09T11:42:11Z</published>
-  <updated>2024-03-09T11:42:11Z</updated>
-  <content type="html">
-   a test project to get a feel for how to configure a mixed C and zig project
-  </content>
- </entry>
- <entry>
-  <title>jpx40: zigling</title>
-  <author>
-   <name>jpx40</name>
-  </author>
-  <link href="https://github.com/jpx40/zigling" />
-  <id>urn:rprimus:github:jpx40:zigling</id>
-  <published>2024-03-09T11:10:08Z</published>
-  <updated>2024-03-09T11:10:08Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>noearc: zlua</title>
-  <author>
-   <name>noearc</name>
-  </author>
-  <link href="https://github.com/noearc/zlua" />
-  <id>urn:rprimus:github:noearc:zlua</id>
-  <published>2024-03-09T08:54:22Z</published>
-  <updated>2024-03-09T08:54:22Z</updated>
-  <content type="html">
-   lua in zig
-  </content>
- </entry>
- <entry>
-  <title>safx: zig-tiny-wasm-runtime</title>
-  <author>
-   <name>safx</name>
-  </author>
-  <link href="https://github.com/safx/zig-tiny-wasm-runtime" />
-  <id>urn:rprimus:github:safx:zig-tiny-wasm-runtime</id>
-  <published>2024-03-09T07:38:31Z</published>
-  <updated>2024-03-09T07:38:31Z</updated>
-  <content type="html">
-   A tiny Web Assembly interpreter written in Zig
-  </content>
- </entry>
- <entry>
-  <title>nesv: cmsketch.zig</title>
-  <author>
-   <name>nesv</name>
-  </author>
-  <link href="https://github.com/nesv/cmsketch.zig" />
-  <id>urn:rprimus:github:nesv:cmsketch.zig</id>
-  <published>2024-03-09T07:27:53Z</published>
-  <updated>2024-03-09T07:27:53Z</updated>
-  <content type="html">
-   Count-min sketch data structures, in Zig
-  </content>
- </entry>
- <entry>
-  <title>SuperAuguste: random-dsa-dump</title>
-  <author>
-   <name>SuperAuguste</name>
-  </author>
-  <link href="https://github.com/SuperAuguste/random-dsa-dump" />
-  <id>urn:rprimus:github:SuperAuguste:random-dsa-dump</id>
-  <published>2024-03-09T06:31:24Z</published>
-  <updated>2024-03-09T06:31:24Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>TheDrawingCoder-Gamer: zon-parser</title>
-  <author>
-   <name>TheDrawingCoder-Gamer</name>
-  </author>
-  <link href="https://github.com/TheDrawingCoder-Gamer/zon-parser" />
-  <id>urn:rprimus:github:TheDrawingCoder-Gamer:zon-parser</id>
-  <published>2024-03-09T04:29:34Z</published>
-  <updated>2024-03-09T04:29:34Z</updated>
-  <content type="html">
-   A not so simple parser for Zon supporting static parsing like std.json. 
-  </content>
- </entry>
- <entry>
-  <title>TylerWerne40: basis</title>
-  <author>
-   <name>TylerWerne40</name>
-  </author>
-  <link href="https://github.com/TylerWerne40/basis" />
-  <id>urn:rprimus:github:TylerWerne40:basis</id>
-  <published>2024-03-09T04:12:19Z</published>
-  <updated>2024-03-09T04:12:19Z</updated>
-  <content type="html">
-   Basis for all Zig Builds of C++
-  </content>
- </entry>
- <entry>
-  <title>Azpect3120: zig-livechat</title>
-  <author>
-   <name>Azpect3120</name>
-  </author>
-  <link href="https://github.com/Azpect3120/zig-livechat" />
-  <id>urn:rprimus:github:Azpect3120:zig-livechat</id>
-  <published>2024-03-09T03:48:31Z</published>
-  <updated>2024-03-09T03:48:31Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>bluespada: z-trx</title>
-  <author>
-   <name>bluespada</name>
-  </author>
-  <link href="https://github.com/bluespada/z-trx" />
-  <id>urn:rprimus:github:bluespada:z-trx</id>
-  <published>2024-03-09T02:34:27Z</published>
-  <updated>2024-03-09T02:34:27Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>bcrist: tempora</title>
-  <author>
-   <name>bcrist</name>
-  </author>
-  <link href="https://github.com/bcrist/tempora" />
-  <id>urn:rprimus:github:bcrist:tempora</id>
-  <published>2024-03-09T02:04:51Z</published>
-  <updated>2024-03-09T02:04:51Z</updated>
-  <content type="html">
-   Simple Zig Dates/Times/Timezones
   </content>
  </entry>
 </feed>
