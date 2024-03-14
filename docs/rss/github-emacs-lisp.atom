@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2024-03-13T07:06:20Z</updated>
+<updated>2024-03-13T23:43:29Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>emacsattic: protobuf-ts-mode</title>
+  <author>
+   <name>emacsattic</name>
+  </author>
+  <link href="https://github.com/emacsattic/protobuf-ts-mode" />
+  <id>urn:rprimus:github:emacsattic:protobuf-ts-mode</id>
+  <published>2024-03-13T23:43:29Z</published>
+  <updated>2024-03-13T23:43:29Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>emacsattic: eshell-outline</title>
+  <author>
+   <name>emacsattic</name>
+  </author>
+  <link href="https://github.com/emacsattic/eshell-outline" />
+  <id>urn:rprimus:github:emacsattic:eshell-outline</id>
+  <published>2024-03-13T23:33:33Z</published>
+  <updated>2024-03-13T23:33:33Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>emacsattic: flymake-golangci</title>
+  <author>
+   <name>emacsattic</name>
+  </author>
+  <link href="https://github.com/emacsattic/flymake-golangci" />
+  <id>urn:rprimus:github:emacsattic:flymake-golangci</id>
+  <published>2024-03-13T23:32:22Z</published>
+  <updated>2024-03-13T23:32:22Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>ananjiani: doom-emacs</title>
+  <author>
+   <name>ananjiani</name>
+  </author>
+  <link href="https://github.com/ananjiani/doom-emacs" />
+  <id>urn:rprimus:github:ananjiani:doom-emacs</id>
+  <published>2024-03-13T19:53:38Z</published>
+  <updated>2024-03-13T19:53:38Z</updated>
+  <content type="html">
+   My doom emacs config
+  </content>
+ </entry>
+ <entry>
+  <title>epost: egglog-mode</title>
+  <author>
+   <name>epost</name>
+  </author>
+  <link href="https://github.com/epost/egglog-mode" />
+  <id>urn:rprimus:github:epost:egglog-mode</id>
+  <published>2024-03-13T17:11:09Z</published>
+  <updated>2024-03-13T17:11:09Z</updated>
+  <content type="html">
+   Emacs major mode for working with egglog (e-graphs, EqSat + Datalog)
+  </content>
+ </entry>
+ <entry>
+  <title>MooersLab: emacs-learning-spiral-hydra</title>
+  <author>
+   <name>MooersLab</name>
+  </author>
+  <link href="https://github.com/MooersLab/emacs-learning-spiral-hydra" />
+  <id>urn:rprimus:github:MooersLab:emacs-learning-spiral-hydra</id>
+  <published>2024-03-13T15:35:36Z</published>
+  <updated>2024-03-13T15:35:36Z</updated>
+  <content type="html">
+   In line pop-up menus of commands that you are trying to master or thought you mastered.
+  </content>
+ </entry>
  <entry>
   <title>wearry01: .emacs.d</title>
   <author>
@@ -236,227 +314,6 @@
   <updated>2024-03-12T00:36:08Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>djgoku: sops</title>
-  <author>
-   <name>djgoku</name>
-  </author>
-  <link href="https://github.com/djgoku/sops" />
-  <id>urn:rprimus:github:djgoku:sops</id>
-  <published>2024-03-11T23:47:17Z</published>
-  <updated>2024-03-11T23:47:17Z</updated>
-  <content type="html">
-   SOPS encrypt and decrypt without leaving the editor.
-  </content>
- </entry>
- <entry>
-  <title>kwzeee: dotfiles</title>
-  <author>
-   <name>kwzeee</name>
-  </author>
-  <link href="https://github.com/kwzeee/dotfiles" />
-  <id>urn:rprimus:github:kwzeee:dotfiles</id>
-  <published>2024-03-11T21:50:29Z</published>
-  <updated>2024-03-11T21:50:29Z</updated>
-  <content type="html">
-   my dot files
-  </content>
- </entry>
- <entry>
-  <title>mpardalos: gc-geiger</title>
-  <author>
-   <name>mpardalos</name>
-  </author>
-  <link href="https://github.com/mpardalos/gc-geiger" />
-  <id>urn:rprimus:github:mpardalos:gc-geiger</id>
-  <published>2024-03-11T21:22:51Z</published>
-  <updated>2024-03-11T21:22:51Z</updated>
-  <content type="html">
-   Make a click sound when emacs does garbage collection
-  </content>
- </entry>
- <entry>
-  <title>hrehfeld: after-make-any-frame-hook</title>
-  <author>
-   <name>hrehfeld</name>
-  </author>
-  <link href="https://github.com/hrehfeld/after-make-any-frame-hook" />
-  <id>urn:rprimus:github:hrehfeld:after-make-any-frame-hook</id>
-  <published>2024-03-11T18:53:56Z</published>
-  <updated>2024-03-11T18:53:56Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>hrehfeld: focus-change-hooks</title>
-  <author>
-   <name>hrehfeld</name>
-  </author>
-  <link href="https://github.com/hrehfeld/focus-change-hooks" />
-  <id>urn:rprimus:github:hrehfeld:focus-change-hooks</id>
-  <published>2024-03-11T18:49:24Z</published>
-  <updated>2024-03-11T18:49:24Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>okomestudio: ok.el</title>
-  <author>
-   <name>okomestudio</name>
-  </author>
-  <link href="https://github.com/okomestudio/ok.el" />
-  <id>urn:rprimus:github:okomestudio:ok.el</id>
-  <published>2024-03-11T18:23:03Z</published>
-  <updated>2024-03-11T18:23:03Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>gazj82: hamlib.el</title>
-  <author>
-   <name>gazj82</name>
-  </author>
-  <link href="https://github.com/gazj82/hamlib.el" />
-  <id>urn:rprimus:github:gazj82:hamlib.el</id>
-  <published>2024-03-11T17:20:19Z</published>
-  <updated>2024-03-11T17:20:19Z</updated>
-  <content type="html">
-   Emacs interface to hamlib and rigctl
-  </content>
- </entry>
- <entry>
-  <title>facepunch01: new-doom</title>
-  <author>
-   <name>facepunch01</name>
-  </author>
-  <link href="https://github.com/facepunch01/new-doom" />
-  <id>urn:rprimus:github:facepunch01:new-doom</id>
-  <published>2024-03-11T17:05:38Z</published>
-  <updated>2024-03-11T17:05:38Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>contagnas: .config</title>
-  <author>
-   <name>contagnas</name>
-  </author>
-  <link href="https://github.com/contagnas/.config" />
-  <id>urn:rprimus:github:contagnas:.config</id>
-  <published>2024-03-11T16:13:39Z</published>
-  <updated>2024-03-11T16:13:39Z</updated>
-  <content type="html">
-   dotfiles
-  </content>
- </entry>
- <entry>
-  <title>soryu-ryouji: emacs-config</title>
-  <author>
-   <name>soryu-ryouji</name>
-  </author>
-  <link href="https://github.com/soryu-ryouji/emacs-config" />
-  <id>urn:rprimus:github:soryu-ryouji:emacs-config</id>
-  <published>2024-03-11T14:40:17Z</published>
-  <updated>2024-03-11T14:40:17Z</updated>
-  <content type="html">
-   Ryouji&#039;s Emacs Config
-  </content>
- </entry>
- <entry>
-  <title>C-Ler: emacs-config4chezscheme</title>
-  <author>
-   <name>C-Ler</name>
-  </author>
-  <link href="https://github.com/C-Ler/emacs-config4chezscheme" />
-  <id>urn:rprimus:github:C-Ler:emacs-config4chezscheme</id>
-  <published>2024-03-11T12:06:25Z</published>
-  <updated>2024-03-11T12:06:25Z</updated>
-  <content type="html">
-   my emacs config for chezscheme
-  </content>
- </entry>
- <entry>
-  <title>erpreciso: elfeed-score-org</title>
-  <author>
-   <name>erpreciso</name>
-  </author>
-  <link href="https://github.com/erpreciso/elfeed-score-org" />
-  <id>urn:rprimus:github:erpreciso:elfeed-score-org</id>
-  <published>2024-03-11T08:55:28Z</published>
-  <updated>2024-03-11T08:55:28Z</updated>
-  <content type="html">
-   Elfeed scores in org-mode
-  </content>
- </entry>
- <entry>
-  <title>ewhd: .emacs.d</title>
-  <author>
-   <name>ewhd</name>
-  </author>
-  <link href="https://github.com/ewhd/.emacs.d" />
-  <id>urn:rprimus:github:ewhd:.emacs.d</id>
-  <published>2024-03-11T07:42:04Z</published>
-  <updated>2024-03-11T07:42:04Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>progfolio: mel</title>
-  <author>
-   <name>progfolio</name>
-  </author>
-  <link href="https://github.com/progfolio/mel" />
-  <id>urn:rprimus:github:progfolio:mel</id>
-  <published>2024-03-11T06:48:13Z</published>
-  <updated>2024-03-11T06:48:13Z</updated>
-  <content type="html">
-   Elisp HTML Templating
-  </content>
- </entry>
- <entry>
-  <title>running-grass: system-packages</title>
-  <author>
-   <name>running-grass</name>
-  </author>
-  <link href="https://github.com/running-grass/system-packages" />
-  <id>urn:rprimus:github:running-grass:system-packages</id>
-  <published>2024-03-11T02:28:02Z</published>
-  <updated>2024-03-11T02:28:02Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>emacsmirror: mpdired</title>
-  <author>
-   <name>emacsmirror</name>
-  </author>
-  <link href="https://github.com/emacsmirror/mpdired" />
-  <id>urn:rprimus:github:emacsmirror:mpdired</id>
-  <published>2024-03-11T00:59:47Z</published>
-  <updated>2024-03-11T00:59:47Z</updated>
-  <content type="html">
-   A dired-like client for Music Player Daemon
-  </content>
- </entry>
- <entry>
-  <title>emacs-straight: mpdired</title>
-  <author>
-   <name>emacs-straight</name>
-  </author>
-  <link href="https://github.com/emacs-straight/mpdired" />
-  <id>urn:rprimus:github:emacs-straight:mpdired</id>
-  <published>2024-03-11T00:04:48Z</published>
-  <updated>2024-03-11T00:04:48Z</updated>
-  <content type="html">
-   Mirror of the mpdired package from GNU ELPA, current as of 2024-03-13
   </content>
  </entry>
 </feed>
