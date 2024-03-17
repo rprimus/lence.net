@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2024-03-16T04:45:11Z</updated>
+<updated>2024-03-17T07:58:05Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>zeptometer: lispjit</title>
+  <author>
+   <name>zeptometer</name>
+  </author>
+  <link href="https://github.com/zeptometer/lispjit" />
+  <id>urn:rprimus:github:zeptometer:lispjit</id>
+  <published>2024-03-17T07:58:05Z</published>
+  <updated>2024-03-17T07:58:05Z</updated>
+  <content type="html">
+   PoC lisp interpreter that performs JIT Common-Lisp code generation
+  </content>
+ </entry>
+ <entry>
+  <title>iory: kxr_model_zoo</title>
+  <author>
+   <name>iory</name>
+  </author>
+  <link href="https://github.com/iory/kxr_model_zoo" />
+  <id>urn:rprimus:github:iory:kxr_model_zoo</id>
+  <published>2024-03-17T07:13:51Z</published>
+  <updated>2024-03-17T07:13:51Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>disturbedhha: lispProject</title>
+  <author>
+   <name>disturbedhha</name>
+  </author>
+  <link href="https://github.com/disturbedhha/lispProject" />
+  <id>urn:rprimus:github:disturbedhha:lispProject</id>
+  <published>2024-03-16T23:29:32Z</published>
+  <updated>2024-03-16T23:29:32Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>gabrielaugz: lisp</title>
+  <author>
+   <name>gabrielaugz</name>
+  </author>
+  <link href="https://github.com/gabrielaugz/lisp" />
+  <id>urn:rprimus:github:gabrielaugz:lisp</id>
+  <published>2024-03-16T18:24:34Z</published>
+  <updated>2024-03-16T18:24:34Z</updated>
+  <content type="html">
+   CÃ³digos realizados em LISP para a disciplina de &quot;Linguagens e Paradigmas de ProgramaÃ§Ã£o&quot; do 2Â° semestre.
+  </content>
+ </entry>
+ <entry>
+  <title>jrm-code-project: Platformer</title>
+  <author>
+   <name>jrm-code-project</name>
+  </author>
+  <link href="https://github.com/jrm-code-project/Platformer" />
+  <id>urn:rprimus:github:jrm-code-project:Platformer</id>
+  <published>2024-03-16T14:26:30Z</published>
+  <updated>2024-03-16T14:26:30Z</updated>
+  <content type="html">
+   A simple platformer game in Common Lisp
+  </content>
+ </entry>
  <entry>
   <title>nickjohnsonn: psimhvacseries2024</title>
   <author>
@@ -132,32 +197,6 @@
   <updated>2024-03-15T13:03:43Z</updated>
   <content type="html">
    A package to convert SQL queries to S-expression SQL queries and vice versa, and S-SQL queries to predicate networks. All necessary package are listed in the package.lisp file.
-  </content>
- </entry>
- <entry>
-  <title>Michael-Baher: AutoLISP</title>
-  <author>
-   <name>Michael-Baher</name>
-  </author>
-  <link href="https://github.com/Michael-Baher/AutoLISP" />
-  <id>urn:rprimus:github:Michael-Baher:AutoLISP</id>
-  <published>2024-03-14T23:35:43Z</published>
-  <updated>2024-03-14T23:35:43Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>can23384: fase-2</title>
-  <author>
-   <name>can23384</name>
-  </author>
-  <link href="https://github.com/can23384/fase-2" />
-  <id>urn:rprimus:github:can23384:fase-2</id>
-  <published>2024-03-14T02:40:12Z</published>
-  <updated>2024-03-14T02:40:12Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
