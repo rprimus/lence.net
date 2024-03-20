@@ -2,8 +2,125 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2024-03-18T22:56:17Z</updated>
+<updated>2024-03-20T02:57:14Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>lilyyllyyllyly: lstree</title>
+  <author>
+   <name>lilyyllyyllyly</name>
+  </author>
+  <link href="https://github.com/lilyyllyyllyly/lstree" />
+  <id>urn:rprimus:github:lilyyllyyllyly:lstree</id>
+  <published>2024-03-20T02:57:14Z</published>
+  <updated>2024-03-20T02:57:14Z</updated>
+  <content type="html">
+   List directories recursively with a tree view
+  </content>
+ </entry>
+ <entry>
+  <title>OpenGOAL-Mods: OG-RCO</title>
+  <author>
+   <name>OpenGOAL-Mods</name>
+  </author>
+  <link href="https://github.com/OpenGOAL-Mods/OG-RCO" />
+  <id>urn:rprimus:github:OpenGOAL-Mods:OG-RCO</id>
+  <published>2024-03-20T02:06:15Z</published>
+  <updated>2024-03-20T02:06:15Z</updated>
+  <content type="html">
+   Random Cell Order (original version by SixRock and Dexz https://teamrun.web.app/rco)
+  </content>
+ </entry>
+ <entry>
+  <title>Lovesan: .emacs.d</title>
+  <author>
+   <name>Lovesan</name>
+  </author>
+  <link href="https://github.com/Lovesan/.emacs.d" />
+  <id>urn:rprimus:github:Lovesan:.emacs.d</id>
+  <published>2024-03-19T23:08:30Z</published>
+  <updated>2024-03-19T23:08:30Z</updated>
+  <content type="html">
+   Personal Emacs configuration files
+  </content>
+ </entry>
+ <entry>
+  <title>ahnafIsCoding: CS316-Assignments</title>
+  <author>
+   <name>ahnafIsCoding</name>
+  </author>
+  <link href="https://github.com/ahnafIsCoding/CS316-Assignments" />
+  <id>urn:rprimus:github:ahnafIsCoding:CS316-Assignments</id>
+  <published>2024-03-19T20:33:43Z</published>
+  <updated>2024-03-19T20:33:43Z</updated>
+  <content type="html">
+   Functional Programming in LISP
+  </content>
+ </entry>
+ <entry>
+  <title>mmorgulis: Object-oriented-extension-for-Common-Lisp</title>
+  <author>
+   <name>mmorgulis</name>
+  </author>
+  <link href="https://github.com/mmorgulis/Object-oriented-extension-for-Common-Lisp" />
+  <id>urn:rprimus:github:mmorgulis:Object-oriented-extension-for-Common-Lisp</id>
+  <published>2024-03-19T19:12:07Z</published>
+  <updated>2024-03-19T19:12:07Z</updated>
+  <content type="html">
+   Project for university course
+  </content>
+ </entry>
+ <entry>
+  <title>joe-ds: advent-of-code-2019</title>
+  <author>
+   <name>joe-ds</name>
+  </author>
+  <link href="https://github.com/joe-ds/advent-of-code-2019" />
+  <id>urn:rprimus:github:joe-ds:advent-of-code-2019</id>
+  <published>2024-03-19T17:26:57Z</published>
+  <updated>2024-03-19T17:26:57Z</updated>
+  <content type="html">
+   https://adventofcode.com/2019
+  </content>
+ </entry>
+ <entry>
+  <title>joe-ds: bfc</title>
+  <author>
+   <name>joe-ds</name>
+  </author>
+  <link href="https://github.com/joe-ds/bfc" />
+  <id>urn:rprimus:github:joe-ds:bfc</id>
+  <published>2024-03-19T17:20:11Z</published>
+  <updated>2024-03-19T17:20:11Z</updated>
+  <content type="html">
+   An optimising bf compiler written in Common Lisp.
+  </content>
+ </entry>
+ <entry>
+  <title>joe-ds: a-bus-journey-simulator</title>
+  <author>
+   <name>joe-ds</name>
+  </author>
+  <link href="https://github.com/joe-ds/a-bus-journey-simulator" />
+  <id>urn:rprimus:github:joe-ds:a-bus-journey-simulator</id>
+  <published>2024-03-19T17:18:52Z</published>
+  <updated>2024-03-19T17:18:52Z</updated>
+  <content type="html">
+   This is a whimsical simulator of the way in which I saw that I and other passengers on buses take our seats.
+  </content>
+ </entry>
+ <entry>
+  <title>fatimp: binary-media-gen</title>
+  <author>
+   <name>fatimp</name>
+  </author>
+  <link href="https://github.com/fatimp/binary-media-gen" />
+  <id>urn:rprimus:github:fatimp:binary-media-gen</id>
+  <published>2024-03-19T12:18:10Z</published>
+  <updated>2024-03-19T12:18:10Z</updated>
+  <content type="html">
+   Procedural generation of binary porous media
+  </content>
+ </entry>
  <entry>
   <title>ZeroPlayerRodent: cavycode</title>
   <author>
@@ -67,71 +184,6 @@
   <updated>2024-03-18T05:08:48Z</updated>
   <content type="html">
    Tic-tac-toe in Common Lisp
-  </content>
- </entry>
- <entry>
-  <title>chenota: lisp-js</title>
-  <author>
-   <name>chenota</name>
-  </author>
-  <link href="https://github.com/chenota/lisp-js" />
-  <id>urn:rprimus:github:chenota:lisp-js</id>
-  <published>2024-03-17T17:00:34Z</published>
-  <updated>2024-03-17T17:00:34Z</updated>
-  <content type="html">
-   (In Progress) JavaScript interpreter written in Common LISP.
-  </content>
- </entry>
- <entry>
-  <title>oblivikun: nyxt-config</title>
-  <author>
-   <name>oblivikun</name>
-  </author>
-  <link href="https://github.com/oblivikun/nyxt-config" />
-  <id>urn:rprimus:github:oblivikun:nyxt-config</id>
-  <published>2024-03-17T13:03:06Z</published>
-  <updated>2024-03-17T13:03:06Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Homo-carbonis: infr</title>
-  <author>
-   <name>Homo-carbonis</name>
-  </author>
-  <link href="https://github.com/Homo-carbonis/infr" />
-  <id>urn:rprimus:github:Homo-carbonis:infr</id>
-  <published>2024-03-17T10:55:10Z</published>
-  <updated>2024-03-17T10:55:10Z</updated>
-  <content type="html">
-   Bayesian inference for dynamical systems
-  </content>
- </entry>
- <entry>
-  <title>zeptometer: lispjit</title>
-  <author>
-   <name>zeptometer</name>
-  </author>
-  <link href="https://github.com/zeptometer/lispjit" />
-  <id>urn:rprimus:github:zeptometer:lispjit</id>
-  <published>2024-03-17T07:58:05Z</published>
-  <updated>2024-03-17T07:58:05Z</updated>
-  <content type="html">
-   PoC lisp interpreter that performs JIT Common-Lisp code generation
-  </content>
- </entry>
- <entry>
-  <title>iory: kxr_model_zoo</title>
-  <author>
-   <name>iory</name>
-  </author>
-  <link href="https://github.com/iory/kxr_model_zoo" />
-  <id>urn:rprimus:github:iory:kxr_model_zoo</id>
-  <published>2024-03-17T07:13:51Z</published>
-  <updated>2024-03-17T07:13:51Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
