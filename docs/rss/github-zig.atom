@@ -2,8 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-zig.atom"/>
 <id>urn:rprimus:github:newzigrepos</id>
-<updated>2024-03-21T08:43:30Z</updated>
+<updated>2024-03-22T08:02:33Z</updated>
 <title type='text'>New GitHub Zig Repos</title>
+ <entry>
+  <title>kdchambers: wayland-client</title>
+  <author>
+   <name>kdchambers</name>
+  </author>
+  <link href="https://github.com/kdchambers/wayland-client" />
+  <id>urn:rprimus:github:kdchambers:wayland-client</id>
+  <published>2024-03-22T08:02:33Z</published>
+  <updated>2024-03-22T08:02:33Z</updated>
+  <content type="html">
+   Simple Wayland client with software-based rendering.
+  </content>
+ </entry>
+ <entry>
+  <title>scottredig: zig-javascript-bridge</title>
+  <author>
+   <name>scottredig</name>
+  </author>
+  <link href="https://github.com/scottredig/zig-javascript-bridge" />
+  <id>urn:rprimus:github:scottredig:zig-javascript-bridge</id>
+  <published>2024-03-22T06:13:51Z</published>
+  <updated>2024-03-22T06:13:51Z</updated>
+  <content type="html">
+   Easily call Javascript from Zig
+  </content>
+ </entry>
+ <entry>
+  <title>ItalicIntegral: triangle</title>
+  <author>
+   <name>ItalicIntegral</name>
+  </author>
+  <link href="https://github.com/ItalicIntegral/triangle" />
+  <id>urn:rprimus:github:ItalicIntegral:triangle</id>
+  <published>2024-03-21T23:57:40Z</published>
+  <updated>2024-03-21T23:57:40Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>PorcoRosso85: zig_init</title>
+  <author>
+   <name>PorcoRosso85</name>
+  </author>
+  <link href="https://github.com/PorcoRosso85/zig_init" />
+  <id>urn:rprimus:github:PorcoRosso85:zig_init</id>
+  <published>2024-03-21T23:31:13Z</published>
+  <updated>2024-03-21T23:31:13Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>srazash: dsazig</title>
+  <author>
+   <name>srazash</name>
+  </author>
+  <link href="https://github.com/srazash/dsazig" />
+  <id>urn:rprimus:github:srazash:dsazig</id>
+  <published>2024-03-21T17:05:57Z</published>
+  <updated>2024-03-21T17:05:57Z</updated>
+  <content type="html">
+   Data Structures &amp; Algorithms in Zig
+  </content>
+ </entry>
+ <entry>
+  <title>svc-user: nb-notifier</title>
+  <author>
+   <name>svc-user</name>
+  </author>
+  <link href="https://github.com/svc-user/nb-notifier" />
+  <id>urn:rprimus:github:svc-user:nb-notifier</id>
+  <published>2024-03-21T14:46:09Z</published>
+  <updated>2024-03-21T14:46:09Z</updated>
+  <content type="html">
+   Application to tell you when there are new notifcations on Naturbasen.dk
+  </content>
+ </entry>
+ <entry>
+  <title>OAguinagalde: tinyrenderer</title>
+  <author>
+   <name>OAguinagalde</name>
+  </author>
+  <link href="https://github.com/OAguinagalde/tinyrenderer" />
+  <id>urn:rprimus:github:OAguinagalde:tinyrenderer</id>
+  <published>2024-03-21T12:37:38Z</published>
+  <updated>2024-03-21T12:37:38Z</updated>
+  <content type="html">
+   exploration of software rendering, audio, windowing and other stuff written in zig for `win32` and `wasm`
+  </content>
+ </entry>
  <entry>
   <title>Zig-Samples: win32-Hotkey</title>
   <author>
@@ -54,19 +145,6 @@
   <updated>2024-03-21T01:33:19Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>JimTwn: godot-zig</title>
-  <author>
-   <name>JimTwn</name>
-  </author>
-  <link href="https://github.com/JimTwn/godot-zig" />
-  <id>urn:rprimus:github:JimTwn:godot-zig</id>
-  <published>2024-03-20T19:40:32Z</published>
-  <updated>2024-03-20T19:40:32Z</updated>
-  <content type="html">
-   Zig bindings for the Godot GDExtension API
   </content>
  </entry>
  <entry>
@@ -184,162 +262,6 @@
   <updated>2024-03-20T04:25:12Z</updated>
   <content type="html">
    Object-like Strings in Zig
-  </content>
- </entry>
- <entry>
-  <title>ethanholz: zig-fermyon-router</title>
-  <author>
-   <name>ethanholz</name>
-  </author>
-  <link href="https://github.com/ethanholz/zig-fermyon-router" />
-  <id>urn:rprimus:github:ethanholz:zig-fermyon-router</id>
-  <published>2024-03-19T23:40:20Z</published>
-  <updated>2024-03-19T23:40:20Z</updated>
-  <content type="html">
-   An experminatal router for Fermyon Spin using zig
-  </content>
- </entry>
- <entry>
-  <title>tylergannon: coursera-neural-networks-zig</title>
-  <author>
-   <name>tylergannon</name>
-  </author>
-  <link href="https://github.com/tylergannon/coursera-neural-networks-zig" />
-  <id>urn:rprimus:github:tylergannon:coursera-neural-networks-zig</id>
-  <published>2024-03-19T21:02:04Z</published>
-  <updated>2024-03-19T21:02:04Z</updated>
-  <content type="html">
-   My implementations in Zig of the algorithms learned in my NN course
-  </content>
- </entry>
- <entry>
-  <title>ianic: zig-fetch-test</title>
-  <author>
-   <name>ianic</name>
-  </author>
-  <link href="https://github.com/ianic/zig-fetch-test" />
-  <id>urn:rprimus:github:ianic:zig-fetch-test</id>
-  <published>2024-03-19T20:48:05Z</published>
-  <updated>2024-03-19T20:48:05Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>lacc97: prometheus.zig</title>
-  <author>
-   <name>lacc97</name>
-  </author>
-  <link href="https://github.com/lacc97/prometheus.zig" />
-  <id>urn:rprimus:github:lacc97:prometheus.zig</id>
-  <published>2024-03-19T20:17:33Z</published>
-  <updated>2024-03-19T20:17:33Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>alexgenaud: zigzagzog</title>
-  <author>
-   <name>alexgenaud</name>
-  </author>
-  <link href="https://github.com/alexgenaud/zigzagzog" />
-  <id>urn:rprimus:github:alexgenaud:zigzagzog</id>
-  <published>2024-03-19T17:14:37Z</published>
-  <updated>2024-03-19T17:14:37Z</updated>
-  <content type="html">
-   Tic-Tac-Toe in Zig
-  </content>
- </entry>
- <entry>
-  <title>ash-hashtag: awc</title>
-  <author>
-   <name>ash-hashtag</name>
-  </author>
-  <link href="https://github.com/ash-hashtag/awc" />
-  <id>urn:rprimus:github:ash-hashtag:awc</id>
-  <published>2024-03-19T15:54:00Z</published>
-  <updated>2024-03-19T15:54:00Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>fcases: zig-pa1</title>
-  <author>
-   <name>fcases</name>
-  </author>
-  <link href="https://github.com/fcases/zig-pa1" />
-  <id>urn:rprimus:github:fcases:zig-pa1</id>
-  <published>2024-03-19T14:57:52Z</published>
-  <updated>2024-03-19T14:57:52Z</updated>
-  <content type="html">
-   An exercise with ZIG and the C libraries: gtk and portaudio.
-  </content>
- </entry>
- <entry>
-  <title>KlimentLagrangiewicz: k-means-in-Zig</title>
-  <author>
-   <name>KlimentLagrangiewicz</name>
-  </author>
-  <link href="https://github.com/KlimentLagrangiewicz/k-means-in-Zig" />
-  <id>urn:rprimus:github:KlimentLagrangiewicz:k-means-in-Zig</id>
-  <published>2024-03-19T13:57:36Z</published>
-  <updated>2024-03-19T13:57:36Z</updated>
-  <content type="html">
-   An implementation of k-means algorithm in Zig
-  </content>
- </entry>
- <entry>
-  <title>malmiDEV: ZChip8</title>
-  <author>
-   <name>malmiDEV</name>
-  </author>
-  <link href="https://github.com/malmiDEV/ZChip8" />
-  <id>urn:rprimus:github:malmiDEV:ZChip8</id>
-  <published>2024-03-19T11:15:03Z</published>
-  <updated>2024-03-19T11:15:03Z</updated>
-  <content type="html">
-   Chip8 Emulator in zig
-  </content>
- </entry>
- <entry>
-  <title>tw4452852: virtualizer</title>
-  <author>
-   <name>tw4452852</name>
-  </author>
-  <link href="https://github.com/tw4452852/virtualizer" />
-  <id>urn:rprimus:github:tw4452852:virtualizer</id>
-  <published>2024-03-19T07:46:40Z</published>
-  <updated>2024-03-19T07:46:40Z</updated>
-  <content type="html">
-   Virtualize linux kernel on bare metal
-  </content>
- </entry>
- <entry>
-  <title>StatisticalLearningAI: seq-cli-tools</title>
-  <author>
-   <name>StatisticalLearningAI</name>
-  </author>
-  <link href="https://github.com/StatisticalLearningAI/seq-cli-tools" />
-  <id>urn:rprimus:github:StatisticalLearningAI:seq-cli-tools</id>
-  <published>2024-03-19T04:27:21Z</published>
-  <updated>2024-03-19T04:27:21Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>capthehacker99: minesweeper</title>
-  <author>
-   <name>capthehacker99</name>
-  </author>
-  <link href="https://github.com/capthehacker99/minesweeper" />
-  <id>urn:rprimus:github:capthehacker99:minesweeper</id>
-  <published>2024-03-19T02:20:01Z</published>
-  <updated>2024-03-19T02:20:01Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
