@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2024-03-22T19:19:22Z</updated>
+<updated>2024-03-24T14:03:49Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>bloovis: xbs</title>
+  <author>
+   <name>bloovis</name>
+  </author>
+  <link href="https://github.com/bloovis/xbs" />
+  <id>urn:rprimus:github:bloovis:xbs</id>
+  <published>2024-03-24T14:03:49Z</published>
+  <updated>2024-03-24T14:03:49Z</updated>
+  <content type="html">
+   xBrowserSync server written in Crystal (mirror)
+  </content>
+ </entry>
+ <entry>
+  <title>bloovis: cover</title>
+  <author>
+   <name>bloovis</name>
+  </author>
+  <link href="https://github.com/bloovis/cover" />
+  <id>urn:rprimus:github:bloovis:cover</id>
+  <published>2024-03-24T14:01:27Z</published>
+  <updated>2024-03-24T14:01:27Z</updated>
+  <content type="html">
+   Book cover URL cache server for Koha ILS (mirror)
+  </content>
+ </entry>
  <entry>
   <title>pes18fan: ncal</title>
   <author>
@@ -14,7 +40,7 @@
   <published>2024-03-22T19:19:22Z</published>
   <updated>2024-03-22T19:19:22Z</updated>
   <content type="html">
-   
+   nepali calendar for the terminal
   </content>
  </entry>
 </feed>
