@@ -2,19 +2,97 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2024-03-24T16:50:07Z</updated>
+<updated>2024-03-25T05:21:08Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
  <entry>
-  <title>caIIan: emacs-async</title>
+  <title>zhscn: .emacs.d</title>
   <author>
-   <name>caIIan</name>
+   <name>zhscn</name>
   </author>
-  <link href="https://github.com/caIIan/emacs-async" />
-  <id>urn:rprimus:github:caIIan:emacs-async</id>
+  <link href="https://github.com/zhscn/.emacs.d" />
+  <id>urn:rprimus:github:zhscn:.emacs.d</id>
+  <published>2024-03-25T05:21:08Z</published>
+  <updated>2024-03-25T05:21:08Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>jmibanez: unison-daemon-el</title>
+  <author>
+   <name>jmibanez</name>
+  </author>
+  <link href="https://github.com/jmibanez/unison-daemon-el" />
+  <id>urn:rprimus:github:jmibanez:unison-daemon-el</id>
+  <published>2024-03-25T03:43:26Z</published>
+  <updated>2024-03-25T03:43:26Z</updated>
+  <content type="html">
+   Run Unison in a background subprocess on Emacs
+  </content>
+ </entry>
+ <entry>
+  <title>jgrey4296: jg-el-macros</title>
+  <author>
+   <name>jgrey4296</name>
+  </author>
+  <link href="https://github.com/jgrey4296/jg-el-macros" />
+  <id>urn:rprimus:github:jgrey4296:jg-el-macros</id>
+  <published>2024-03-24T23:47:46Z</published>
+  <updated>2024-03-24T23:47:46Z</updated>
+  <content type="html">
+   Assorted Emacs Lisp Macros
+  </content>
+ </entry>
+ <entry>
+  <title>meandnano: emacs-config</title>
+  <author>
+   <name>meandnano</name>
+  </author>
+  <link href="https://github.com/meandnano/emacs-config" />
+  <id>urn:rprimus:github:meandnano:emacs-config</id>
+  <published>2024-03-24T21:59:11Z</published>
+  <updated>2024-03-24T21:59:11Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>benleis1: emacs-init</title>
+  <author>
+   <name>benleis1</name>
+  </author>
+  <link href="https://github.com/benleis1/emacs-init" />
+  <id>urn:rprimus:github:benleis1:emacs-init</id>
+  <published>2024-03-24T20:09:06Z</published>
+  <updated>2024-03-24T20:09:06Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>phos-rt: dotfiles</title>
+  <author>
+   <name>phos-rt</name>
+  </author>
+  <link href="https://github.com/phos-rt/dotfiles" />
+  <id>urn:rprimus:github:phos-rt:dotfiles</id>
+  <published>2024-03-24T20:08:44Z</published>
+  <updated>2024-03-24T20:08:44Z</updated>
+  <content type="html">
+   dotfiles, folder structure is for it to be usable by stow
+  </content>
+ </entry>
+ <entry>
+  <title>yurication: emacs-async</title>
+  <author>
+   <name>yurication</name>
+  </author>
+  <link href="https://github.com/yurication/emacs-async" />
+  <id>urn:rprimus:github:yurication:emacs-async</id>
   <published>2024-03-24T16:50:07Z</published>
   <updated>2024-03-24T16:50:07Z</updated>
   <content type="html">
-   async/await for Emacs Lisp
+   Async/await for Emacs Lisp
   </content>
  </entry>
  <entry>
@@ -92,7 +170,7 @@
   <published>2024-03-24T08:54:59Z</published>
   <updated>2024-03-24T08:54:59Z</updated>
   <content type="html">
-   
+   (experimental package) JavaScript/TypeScript syntax checking by Biome.
   </content>
  </entry>
  <entry>
@@ -200,6 +278,19 @@
   </content>
  </entry>
  <entry>
+  <title>rnadler: password-menu</title>
+  <author>
+   <name>rnadler</name>
+  </author>
+  <link href="https://github.com/rnadler/password-menu" />
+  <id>urn:rprimus:github:rnadler:password-menu</id>
+  <published>2024-03-23T22:35:03Z</published>
+  <updated>2024-03-23T22:35:03Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
   <title>emacs-dashboard: doom-dashboard</title>
   <author>
    <name>emacs-dashboard</name>
@@ -236,19 +327,6 @@
   <updated>2024-03-23T15:58:21Z</updated>
   <content type="html">
    My personal emacs configuration
-  </content>
- </entry>
- <entry>
-  <title>Topoi-TES: TopoiEmacs</title>
-  <author>
-   <name>Topoi-TES</name>
-  </author>
-  <link href="https://github.com/Topoi-TES/TopoiEmacs" />
-  <id>urn:rprimus:github:Topoi-TES:TopoiEmacs</id>
-  <published>2024-03-23T14:07:59Z</published>
-  <updated>2024-03-23T14:07:59Z</updated>
-  <content type="html">
-   TopoiEmacs - An Emacs Package System to ease project initialization and information management. 
   </content>
  </entry>
  <entry>
@@ -366,201 +444,6 @@
   <updated>2024-03-23T00:23:51Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>dventimiglia: exercism</title>
-  <author>
-   <name>dventimiglia</name>
-  </author>
-  <link href="https://github.com/dventimiglia/exercism" />
-  <id>urn:rprimus:github:dventimiglia:exercism</id>
-  <published>2024-03-22T23:22:19Z</published>
-  <updated>2024-03-22T23:22:19Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>fabcontigiani: biblio-openlibrary</title>
-  <author>
-   <name>fabcontigiani</name>
-  </author>
-  <link href="https://github.com/fabcontigiani/biblio-openlibrary" />
-  <id>urn:rprimus:github:fabcontigiani:biblio-openlibrary</id>
-  <published>2024-03-22T18:25:45Z</published>
-  <updated>2024-03-22T18:25:45Z</updated>
-  <content type="html">
-   ð biblio-openlibrary | An OpenLibrary backend for biblio.el
-  </content>
- </entry>
- <entry>
-  <title>r0man: plz-media-type</title>
-  <author>
-   <name>r0man</name>
-  </author>
-  <link href="https://github.com/r0man/plz-media-type" />
-  <id>urn:rprimus:github:r0man:plz-media-type</id>
-  <published>2024-03-22T17:39:53Z</published>
-  <updated>2024-03-22T17:39:53Z</updated>
-  <content type="html">
-   A plz.el extension library to handle media types.
-  </content>
- </entry>
- <entry>
-  <title>r0man: plz-event-source</title>
-  <author>
-   <name>r0man</name>
-  </author>
-  <link href="https://github.com/r0man/plz-event-source" />
-  <id>urn:rprimus:github:r0man:plz-event-source</id>
-  <published>2024-03-22T17:10:59Z</published>
-  <updated>2024-03-22T17:10:59Z</updated>
-  <content type="html">
-   A plz.el media type to handle Server-Sent Events
-  </content>
- </entry>
- <entry>
-  <title>StrandedString: doom_config</title>
-  <author>
-   <name>StrandedString</name>
-  </author>
-  <link href="https://github.com/StrandedString/doom_config" />
-  <id>urn:rprimus:github:StrandedString:doom_config</id>
-  <published>2024-03-22T15:38:27Z</published>
-  <updated>2024-03-22T15:38:27Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>kaction-emacs: typst-ts-mode</title>
-  <author>
-   <name>kaction-emacs</name>
-  </author>
-  <link href="https://github.com/kaction-emacs/typst-ts-mode" />
-  <id>urn:rprimus:github:kaction-emacs:typst-ts-mode</id>
-  <published>2024-03-22T15:06:26Z</published>
-  <updated>2024-03-22T15:06:26Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>slouis214: dotfiles</title>
-  <author>
-   <name>slouis214</name>
-  </author>
-  <link href="https://github.com/slouis214/dotfiles" />
-  <id>urn:rprimus:github:slouis214:dotfiles</id>
-  <published>2024-03-22T15:06:09Z</published>
-  <updated>2024-03-22T15:06:09Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>fenril058: dotfiles-linux</title>
-  <author>
-   <name>fenril058</name>
-  </author>
-  <link href="https://github.com/fenril058/dotfiles-linux" />
-  <id>urn:rprimus:github:fenril058:dotfiles-linux</id>
-  <published>2024-03-22T13:18:10Z</published>
-  <updated>2024-03-22T13:18:10Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>doesn123: dotemacs</title>
-  <author>
-   <name>doesn123</name>
-  </author>
-  <link href="https://github.com/doesn123/dotemacs" />
-  <id>urn:rprimus:github:doesn123:dotemacs</id>
-  <published>2024-03-22T12:44:45Z</published>
-  <updated>2024-03-22T12:44:45Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>nitardus: morpheus.el</title>
-  <author>
-   <name>nitardus</name>
-  </author>
-  <link href="https://github.com/nitardus/morpheus.el" />
-  <id>urn:rprimus:github:nitardus:morpheus.el</id>
-  <published>2024-03-22T11:42:19Z</published>
-  <updated>2024-03-22T11:42:19Z</updated>
-  <content type="html">
-   Some emacs lisp functions to interact with the morpheus parser for Classical Greek and Latin
-  </content>
- </entry>
- <entry>
-  <title>cemeroncel: dotfiles</title>
-  <author>
-   <name>cemeroncel</name>
-  </author>
-  <link href="https://github.com/cemeroncel/dotfiles" />
-  <id>urn:rprimus:github:cemeroncel:dotfiles</id>
-  <published>2024-03-22T07:58:15Z</published>
-  <updated>2024-03-22T07:58:15Z</updated>
-  <content type="html">
-   Home of my system configuration
-  </content>
- </entry>
- <entry>
-  <title>localauthor: pdf-pagelabels</title>
-  <author>
-   <name>localauthor</name>
-  </author>
-  <link href="https://github.com/localauthor/pdf-pagelabels" />
-  <id>urn:rprimus:github:localauthor:pdf-pagelabels</id>
-  <published>2024-03-22T07:46:54Z</published>
-  <updated>2024-03-22T07:46:54Z</updated>
-  <content type="html">
-   Transient interface for pagelabels.py in Emacs
-  </content>
- </entry>
- <entry>
-  <title>fingerknight: select-mode</title>
-  <author>
-   <name>fingerknight</name>
-  </author>
-  <link href="https://github.com/fingerknight/select-mode" />
-  <id>urn:rprimus:github:fingerknight:select-mode</id>
-  <published>2024-03-22T07:17:10Z</published>
-  <updated>2024-03-22T07:17:10Z</updated>
-  <content type="html">
-   A minor mode to define key shortcut when selection is on.
-  </content>
- </entry>
- <entry>
-  <title>anrichtait: dotfiles</title>
-  <author>
-   <name>anrichtait</name>
-  </author>
-  <link href="https://github.com/anrichtait/dotfiles" />
-  <id>urn:rprimus:github:anrichtait:dotfiles</id>
-  <published>2024-03-22T05:40:35Z</published>
-  <updated>2024-03-22T05:40:35Z</updated>
-  <content type="html">
-   My qtile dotfiles (Arch Linux)
-  </content>
- </entry>
- <entry>
-  <title>nitardus: pdf-tricks.el</title>
-  <author>
-   <name>nitardus</name>
-  </author>
-  <link href="https://github.com/nitardus/pdf-tricks.el" />
-  <id>urn:rprimus:github:nitardus:pdf-tricks.el</id>
-  <published>2024-03-22T01:20:08Z</published>
-  <updated>2024-03-22T01:20:08Z</updated>
-  <content type="html">
-   Some handy elisp functions to be used with pdf-tools
   </content>
  </entry>
 </feed>
