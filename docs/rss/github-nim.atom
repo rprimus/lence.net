@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2024-03-25T05:47:09Z</updated>
+<updated>2024-03-25T21:28:21Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>trival: emscripten-test</title>
+  <author>
+   <name>trival</name>
+  </author>
+  <link href="https://github.com/trival/emscripten-test" />
+  <id>urn:rprimus:github:trival:emscripten-test</id>
+  <published>2024-03-25T21:28:21Z</published>
+  <updated>2024-03-25T21:28:21Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>FyraLabs: sweet</title>
   <author>
@@ -53,7 +66,7 @@
   <published>2024-03-24T21:20:50Z</published>
   <updated>2024-03-24T21:20:50Z</updated>
   <content type="html">
-   Complete low-level Nim wrapper for Chrome DevTools Protocol (CDP) v1.3 stable. Bend Chrome to your will- scrape dynamic webpages, create browser automations, and more.
+   Low-level Nim wrapper for Chrome DevTools Protocol (CDP) v1.3 stable. Bend Chrome to your will: scrape dynamic webpages, create browser automations, and more.
   </content>
  </entry>
  <entry>
@@ -93,19 +106,6 @@
   <updated>2024-03-24T13:49:05Z</updated>
   <content type="html">
    My Ongoing Attempt To Run Stable-lm-1.6b Inference On My 8Gb Laptop
-  </content>
- </entry>
- <entry>
-  <title>monofuel: mono_finetune</title>
-  <author>
-   <name>monofuel</name>
-  </author>
-  <link href="https://github.com/monofuel/mono_finetune" />
-  <id>urn:rprimus:github:monofuel:mono_finetune</id>
-  <published>2024-03-23T21:03:39Z</published>
-  <updated>2024-03-23T21:03:39Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
