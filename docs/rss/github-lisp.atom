@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2024-03-28T06:07:43Z</updated>
+<updated>2024-03-29T08:37:32Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>bnlnd: cl-flate</title>
+  <author>
+   <name>bnlnd</name>
+  </author>
+  <link href="https://github.com/bnlnd/cl-flate" />
+  <id>urn:rprimus:github:bnlnd:cl-flate</id>
+  <published>2024-03-29T08:37:32Z</published>
+  <updated>2024-03-29T08:37:32Z</updated>
+  <content type="html">
+   toy DEFLATE decompressor
+  </content>
+ </entry>
+ <entry>
+  <title>code-help-tutor: cs2800-acl2s</title>
+  <author>
+   <name>code-help-tutor</name>
+  </author>
+  <link href="https://github.com/code-help-tutor/cs2800-acl2s" />
+  <id>urn:rprimus:github:code-help-tutor:cs2800-acl2s</id>
+  <published>2024-03-29T01:42:34Z</published>
+  <updated>2024-03-29T01:42:34Z</updated>
+  <content type="html">
+   cs2800 acl2s ä»£åä»£å ç¼ç¨è¾å¯¼, code help, CS tutor, WeChat: cstutorcs Email: tutorcs@163.com
+  </content>
+ </entry>
+ <entry>
+  <title>atgreen: cl-rag-example</title>
+  <author>
+   <name>atgreen</name>
+  </author>
+  <link href="https://github.com/atgreen/cl-rag-example" />
+  <id>urn:rprimus:github:atgreen:cl-rag-example</id>
+  <published>2024-03-28T20:23:10Z</published>
+  <updated>2024-03-28T20:23:10Z</updated>
+  <content type="html">
+   A simple Common Lisp example of using LLMs with RAG 
+  </content>
+ </entry>
  <entry>
   <title>jl2: gq-geiger</title>
   <author>
@@ -106,45 +145,6 @@
   <updated>2024-03-27T00:50:25Z</updated>
   <content type="html">
    A Common Lisp embeddings library
-  </content>
- </entry>
- <entry>
-  <title>hakanyilmazz: lisp-play</title>
-  <author>
-   <name>hakanyilmazz</name>
-  </author>
-  <link href="https://github.com/hakanyilmazz/lisp-play" />
-  <id>urn:rprimus:github:hakanyilmazz:lisp-play</id>
-  <published>2024-03-26T23:41:06Z</published>
-  <updated>2024-03-26T23:41:06Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>atgreen: cl-chroma</title>
-  <author>
-   <name>atgreen</name>
-  </author>
-  <link href="https://github.com/atgreen/cl-chroma" />
-  <id>urn:rprimus:github:atgreen:cl-chroma</id>
-  <published>2024-03-26T14:25:39Z</published>
-  <updated>2024-03-26T14:25:39Z</updated>
-  <content type="html">
-   A Common Lisp client for the Chroma vector database
-  </content>
- </entry>
- <entry>
-  <title>sunkitten-shash: export-to-project-folder</title>
-  <author>
-   <name>sunkitten-shash</name>
-  </author>
-  <link href="https://github.com/sunkitten-shash/export-to-project-folder" />
-  <id>urn:rprimus:github:sunkitten-shash:export-to-project-folder</id>
-  <published>2024-03-26T00:52:08Z</published>
-  <updated>2024-03-26T00:52:08Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
