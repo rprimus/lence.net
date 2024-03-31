@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2024-03-30T07:57:34Z</updated>
+<updated>2024-03-31T06:34:43Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>ghollisjr: clsql</title>
+  <author>
+   <name>ghollisjr</name>
+  </author>
+  <link href="https://github.com/ghollisjr/clsql" />
+  <id>urn:rprimus:github:ghollisjr:clsql</id>
+  <published>2024-03-31T06:34:43Z</published>
+  <updated>2024-03-31T06:34:43Z</updated>
+  <content type="html">
+   Fork of clsql
+  </content>
+ </entry>
+ <entry>
+  <title>quek: dgw</title>
+  <author>
+   <name>quek</name>
+  </author>
+  <link href="https://github.com/quek/dgw" />
+  <id>urn:rprimus:github:quek:dgw</id>
+  <published>2024-03-31T06:33:59Z</published>
+  <updated>2024-03-31T06:33:59Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>seigakaku: sb-epoll</title>
+  <author>
+   <name>seigakaku</name>
+  </author>
+  <link href="https://github.com/seigakaku/sb-epoll" />
+  <id>urn:rprimus:github:seigakaku:sb-epoll</id>
+  <published>2024-03-31T05:12:52Z</published>
+  <updated>2024-03-31T05:12:52Z</updated>
+  <content type="html">
+   (Mirror) SBCL FFI (sb-alien) bindings for Linux&#039;s epoll(7)
+  </content>
+ </entry>
+ <entry>
+  <title>li-yiyang: cl-bdf</title>
+  <author>
+   <name>li-yiyang</name>
+  </author>
+  <link href="https://github.com/li-yiyang/cl-bdf" />
+  <id>urn:rprimus:github:li-yiyang:cl-bdf</id>
+  <published>2024-03-30T12:23:28Z</published>
+  <updated>2024-03-30T12:23:28Z</updated>
+  <content type="html">
+   CL-BDF is a package for parsing BDF fonts. 
+  </content>
+ </entry>
  <entry>
   <title>certainty: cl-braces.ice</title>
   <author>
@@ -132,32 +184,6 @@
   <updated>2024-03-29T01:42:34Z</updated>
   <content type="html">
    cs2800 acl2s ä»£åä»£å ç¼ç¨è¾å¯¼, code help, CS tutor, WeChat: cstutorcs Email: tutorcs@163.com
-  </content>
- </entry>
- <entry>
-  <title>atgreen: cl-rag-example</title>
-  <author>
-   <name>atgreen</name>
-  </author>
-  <link href="https://github.com/atgreen/cl-rag-example" />
-  <id>urn:rprimus:github:atgreen:cl-rag-example</id>
-  <published>2024-03-28T20:23:10Z</published>
-  <updated>2024-03-28T20:23:10Z</updated>
-  <content type="html">
-   A simple Common Lisp example of using LLMs with RAG 
-  </content>
- </entry>
- <entry>
-  <title>jl2: gq-geiger</title>
-  <author>
-   <name>jl2</name>
-  </author>
-  <link href="https://github.com/jl2/gq-geiger" />
-  <id>urn:rprimus:github:jl2:gq-geiger</id>
-  <published>2024-03-28T06:07:43Z</published>
-  <updated>2024-03-28T06:07:43Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
