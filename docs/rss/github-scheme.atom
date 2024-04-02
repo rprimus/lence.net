@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-scheme.atom"/>
 <id>urn:rprimus:github:newschemerepos</id>
-<updated>2024-04-01T09:12:12Z</updated>
+<updated>2024-04-02T09:35:44Z</updated>
 <title type='text'>New GitHub Scheme Repos</title>
+ <entry>
+  <title>BirDt: dxtr</title>
+  <author>
+   <name>BirDt</name>
+  </author>
+  <link href="https://github.com/BirDt/dxtr" />
+  <id>urn:rprimus:github:BirDt:dxtr</id>
+  <published>2024-04-02T09:35:44Z</published>
+  <updated>2024-04-02T09:35:44Z</updated>
+  <content type="html">
+   A commandline dice roller written in chicken scheme
+  </content>
+ </entry>
+ <entry>
+  <title>LDM-A: sicp_exercises</title>
+  <author>
+   <name>LDM-A</name>
+  </author>
+  <link href="https://github.com/LDM-A/sicp_exercises" />
+  <id>urn:rprimus:github:LDM-A:sicp_exercises</id>
+  <published>2024-04-02T06:29:52Z</published>
+  <updated>2024-04-02T06:29:52Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>jumzzz: sicp</title>
+  <author>
+   <name>jumzzz</name>
+  </author>
+  <link href="https://github.com/jumzzz/sicp" />
+  <id>urn:rprimus:github:jumzzz:sicp</id>
+  <published>2024-04-01T23:39:28Z</published>
+  <updated>2024-04-01T23:39:28Z</updated>
+  <content type="html">
+   Repository for Structure and Interpretation of Computer Programs 2nd ed
+  </content>
+ </entry>
  <entry>
   <title>polyedre: guix-helm-charts</title>
   <author>
@@ -41,45 +80,6 @@
   <updated>2024-03-31T21:51:15Z</updated>
   <content type="html">
    Programming recipes.
-  </content>
- </entry>
- <entry>
-  <title>PeterK-end: netflow-monitoring</title>
-  <author>
-   <name>PeterK-end</name>
-  </author>
-  <link href="https://github.com/PeterK-end/netflow-monitoring" />
-  <id>urn:rprimus:github:PeterK-end:netflow-monitoring</id>
-  <published>2024-03-30T20:28:52Z</published>
-  <updated>2024-03-30T20:28:52Z</updated>
-  <content type="html">
-   PDSe project VUT-University
-  </content>
- </entry>
- <entry>
-  <title>andreicek: zed-asciidoc</title>
-  <author>
-   <name>andreicek</name>
-  </author>
-  <link href="https://github.com/andreicek/zed-asciidoc" />
-  <id>urn:rprimus:github:andreicek:zed-asciidoc</id>
-  <published>2024-03-30T11:33:55Z</published>
-  <updated>2024-03-30T11:33:55Z</updated>
-  <content type="html">
-   Zed support for AsciiDoc syntax
-  </content>
- </entry>
- <entry>
-  <title>minipaca: zerotier-gtk4</title>
-  <author>
-   <name>minipaca</name>
-  </author>
-  <link href="https://github.com/minipaca/zerotier-gtk4" />
-  <id>urn:rprimus:github:minipaca:zerotier-gtk4</id>
-  <published>2024-03-30T04:30:06Z</published>
-  <updated>2024-03-30T04:30:06Z</updated>
-  <content type="html">
-   Creates virtual Ethernet networks of almost unlimited size. GTK4 UI.
   </content>
  </entry>
 </feed>

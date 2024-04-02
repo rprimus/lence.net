@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2024-04-01T04:45:58Z</updated>
+<updated>2024-04-02T08:53:07Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>realratchet: nim-zipper</title>
+  <author>
+   <name>realratchet</name>
+  </author>
+  <link href="https://github.com/realratchet/nim-zipper" />
+  <id>urn:rprimus:github:realratchet:nim-zipper</id>
+  <published>2024-04-02T08:53:07Z</published>
+  <updated>2024-04-02T08:53:07Z</updated>
+  <content type="html">
+   A python-like generic zipper that can zip any number of iterables into a single tuple.
+  </content>
+ </entry>
+ <entry>
+  <title>etwhook: kmodenum</title>
+  <author>
+   <name>etwhook</name>
+  </author>
+  <link href="https://github.com/etwhook/kmodenum" />
+  <id>urn:rprimus:github:etwhook:kmodenum</id>
+  <published>2024-04-02T00:23:54Z</published>
+  <updated>2024-04-02T00:23:54Z</updated>
+  <content type="html">
+   Enumerating Loaded Kernel Modules With Nim.
+  </content>
+ </entry>
+ <entry>
+  <title>totolkat: Nim-shenanigans</title>
+  <author>
+   <name>totolkat</name>
+  </author>
+  <link href="https://github.com/totolkat/Nim-shenanigans" />
+  <id>urn:rprimus:github:totolkat:Nim-shenanigans</id>
+  <published>2024-04-01T15:38:29Z</published>
+  <updated>2024-04-01T15:38:29Z</updated>
+  <content type="html">
+   some nim code ive done
+  </content>
+ </entry>
  <entry>
   <title>Uzo2005: mini-code-golf</title>
   <author>
@@ -18,6 +57,19 @@
   </content>
  </entry>
  <entry>
+  <title>openpeeps: mailersend-nim</title>
+  <author>
+   <name>openpeeps</name>
+  </author>
+  <link href="https://github.com/openpeeps/mailersend-nim" />
+  <id>urn:rprimus:github:openpeeps:mailersend-nim</id>
+  <published>2024-04-01T03:56:53Z</published>
+  <updated>2024-04-01T03:56:53Z</updated>
+  <content type="html">
+   The unofficial MailerSend Nim SDK
+  </content>
+ </entry>
+ <entry>
   <title>beef331: dodger</title>
   <author>
    <name>beef331</name>
@@ -28,71 +80,6 @@
   <updated>2024-03-31T20:19:19Z</updated>
   <content type="html">
    A matrix api wrapper
-  </content>
- </entry>
- <entry>
-  <title>GbotHQ: MicroUI</title>
-  <author>
-   <name>GbotHQ</name>
-  </author>
-  <link href="https://github.com/GbotHQ/MicroUI" />
-  <id>urn:rprimus:github:GbotHQ:MicroUI</id>
-  <published>2024-03-30T22:51:01Z</published>
-  <updated>2024-03-30T22:51:01Z</updated>
-  <content type="html">
-   MicroUI library rewritten in nim https://github.com/rxi/microui
-  </content>
- </entry>
- <entry>
-  <title>GbotHQ: nim-bmp</title>
-  <author>
-   <name>GbotHQ</name>
-  </author>
-  <link href="https://github.com/GbotHQ/nim-bmp" />
-  <id>urn:rprimus:github:GbotHQ:nim-bmp</id>
-  <published>2024-03-30T22:28:01Z</published>
-  <updated>2024-03-30T22:28:01Z</updated>
-  <content type="html">
-   A simple BMP image encoder and decoder
-  </content>
- </entry>
- <entry>
-  <title>Noraxx1: Nimling</title>
-  <author>
-   <name>Noraxx1</name>
-  </author>
-  <link href="https://github.com/Noraxx1/Nimling" />
-  <id>urn:rprimus:github:Noraxx1:Nimling</id>
-  <published>2024-03-30T13:32:40Z</published>
-  <updated>2024-03-30T13:32:40Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>SecDbg: Nim-CryptProtectData</title>
-  <author>
-   <name>SecDbg</name>
-  </author>
-  <link href="https://github.com/SecDbg/Nim-CryptProtectData" />
-  <id>urn:rprimus:github:SecDbg:Nim-CryptProtectData</id>
-  <published>2024-03-30T10:35:56Z</published>
-  <updated>2024-03-30T10:35:56Z</updated>
-  <content type="html">
-   An example of how you&#039;d use the CryptProtectData and CryptUnprotectData functions in Nim
-  </content>
- </entry>
- <entry>
-  <title>cheminDeFer: nishe</title>
-  <author>
-   <name>cheminDeFer</name>
-  </author>
-  <link href="https://github.com/cheminDeFer/nishe" />
-  <id>urn:rprimus:github:cheminDeFer:nishe</id>
-  <published>2024-03-30T10:01:25Z</published>
-  <updated>2024-03-30T10:01:25Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
