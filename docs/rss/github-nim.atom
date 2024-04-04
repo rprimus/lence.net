@@ -2,19 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2024-04-03T07:00:38Z</updated>
+<updated>2024-04-04T08:41:38Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
  <entry>
-  <title>ttiimmothy: doe-1</title>
+  <title>ltriant: lox</title>
   <author>
-   <name>ttiimmothy</name>
+   <name>ltriant</name>
   </author>
-  <link href="https://github.com/ttiimmothy/doe-1" />
-  <id>urn:rprimus:github:ttiimmothy:doe-1</id>
-  <published>2024-04-03T07:00:38Z</published>
-  <updated>2024-04-03T07:00:38Z</updated>
+  <link href="https://github.com/ltriant/lox" />
+  <id>urn:rprimus:github:ltriant:lox</id>
+  <published>2024-04-04T08:41:38Z</published>
+  <updated>2024-04-04T08:41:38Z</updated>
   <content type="html">
-   No suitable description for doe 1
+   Yet Another Lox Interpreter
+  </content>
+ </entry>
+ <entry>
+  <title>kingwangboss: learnNim</title>
+  <author>
+   <name>kingwangboss</name>
+  </author>
+  <link href="https://github.com/kingwangboss/learnNim" />
+  <id>urn:rprimus:github:kingwangboss:learnNim</id>
+  <published>2024-04-04T06:55:48Z</published>
+  <updated>2024-04-04T06:55:48Z</updated>
+  <content type="html">
+   learnNim
+  </content>
+ </entry>
+ <entry>
+  <title>RattleyCooper: seeds</title>
+  <author>
+   <name>RattleyCooper</name>
+  </author>
+  <link href="https://github.com/RattleyCooper/seeds" />
+  <id>urn:rprimus:github:RattleyCooper:seeds</id>
+  <published>2024-04-04T06:09:44Z</published>
+  <updated>2024-04-04T06:09:44Z</updated>
+  <content type="html">
+   RNG with unique vector-based seeds for deterministic procedural generation.
+  </content>
+ </entry>
+ <entry>
+  <title>ellipsi2: mcpat</title>
+  <author>
+   <name>ellipsi2</name>
+  </author>
+  <link href="https://github.com/ellipsi2/mcpat" />
+  <id>urn:rprimus:github:ellipsi2:mcpat</id>
+  <published>2024-04-04T01:29:31Z</published>
+  <updated>2024-04-04T01:29:31Z</updated>
+  <content type="html">
+   my minecraft simple patcher
+  </content>
+ </entry>
+ <entry>
+  <title>no-pizza-hawaii: beni_compiler</title>
+  <author>
+   <name>no-pizza-hawaii</name>
+  </author>
+  <link href="https://github.com/no-pizza-hawaii/beni_compiler" />
+  <id>urn:rprimus:github:no-pizza-hawaii:beni_compiler</id>
+  <published>2024-04-03T17:19:27Z</published>
+  <updated>2024-04-03T17:19:27Z</updated>
+  <content type="html">
+   A highly sophisticated and buggy Compiler for the BENI programming language written in NIM in 2 days with no experience. Please don&#039;t use!
   </content>
  </entry>
  <entry>
@@ -80,45 +132,6 @@
   <updated>2024-04-02T00:23:54Z</updated>
   <content type="html">
    Enumerating Loaded Kernel Modules With Nim.
-  </content>
- </entry>
- <entry>
-  <title>totolkat: Nim-shenanigans</title>
-  <author>
-   <name>totolkat</name>
-  </author>
-  <link href="https://github.com/totolkat/Nim-shenanigans" />
-  <id>urn:rprimus:github:totolkat:Nim-shenanigans</id>
-  <published>2024-04-01T15:38:29Z</published>
-  <updated>2024-04-01T15:38:29Z</updated>
-  <content type="html">
-   some nim code ive done
-  </content>
- </entry>
- <entry>
-  <title>Uzo2005: mini-code-golf</title>
-  <author>
-   <name>Uzo2005</name>
-  </author>
-  <link href="https://github.com/Uzo2005/mini-code-golf" />
-  <id>urn:rprimus:github:Uzo2005:mini-code-golf</id>
-  <published>2024-04-01T04:45:58Z</published>
-  <updated>2024-04-01T04:45:58Z</updated>
-  <content type="html">
-   Mini golf game written in Nim using 2.5kb of ascii.
-  </content>
- </entry>
- <entry>
-  <title>openpeeps: mailersend-nim</title>
-  <author>
-   <name>openpeeps</name>
-  </author>
-  <link href="https://github.com/openpeeps/mailersend-nim" />
-  <id>urn:rprimus:github:openpeeps:mailersend-nim</id>
-  <published>2024-04-01T03:56:53Z</published>
-  <updated>2024-04-01T03:56:53Z</updated>
-  <content type="html">
-   The unofficial MailerSend Nim SDK
   </content>
  </entry>
 </feed>
