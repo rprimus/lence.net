@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-crystal.atom"/>
 <id>urn:rprimus:github:newcrystalrepos</id>
-<updated>2024-04-03T20:43:36Z</updated>
+<updated>2024-04-05T08:17:18Z</updated>
 <title type='text'>New GitHub Crystal Repos</title>
+ <entry>
+  <title>geocrystal: ipapi-crystal</title>
+  <author>
+   <name>geocrystal</name>
+  </author>
+  <link href="https://github.com/geocrystal/ipapi-crystal" />
+  <id>urn:rprimus:github:geocrystal:ipapi-crystal</id>
+  <published>2024-04-05T08:17:18Z</published>
+  <updated>2024-04-05T08:17:18Z</updated>
+  <content type="html">
+   Crystal bindings for https://ipapi.co (IP Address Location &amp; Geolocation API)
+  </content>
+ </entry>
+ <entry>
+  <title>jwoertink: bsky</title>
+  <author>
+   <name>jwoertink</name>
+  </author>
+  <link href="https://github.com/jwoertink/bsky" />
+  <id>urn:rprimus:github:jwoertink:bsky</id>
+  <published>2024-04-04T15:32:33Z</published>
+  <updated>2024-04-04T15:32:33Z</updated>
+  <content type="html">
+   A BlueSky social API for Crystal
+  </content>
+ </entry>
  <entry>
   <title>SleepingInsomniac: dot_display</title>
   <author>
@@ -41,32 +67,6 @@
   <updated>2024-04-03T00:30:04Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>wladimir: search-cr</title>
-  <author>
-   <name>wladimir</name>
-  </author>
-  <link href="https://github.com/wladimir/search-cr" />
-  <id>urn:rprimus:github:wladimir:search-cr</id>
-  <published>2024-04-02T15:29:18Z</published>
-  <updated>2024-04-02T15:29:18Z</updated>
-  <content type="html">
-   toy crystal search engine
-  </content>
- </entry>
- <entry>
-  <title>crimson-knight: llamero</title>
-  <author>
-   <name>crimson-knight</name>
-  </author>
-  <link href="https://github.com/crimson-knight/llamero" />
-  <id>urn:rprimus:github:crimson-knight:llamero</id>
-  <published>2024-04-02T13:58:02Z</published>
-  <updated>2024-04-02T13:58:02Z</updated>
-  <content type="html">
-   A wrapper shard for llama.cpp that acts as a client to work directly with AI models through llama.cpp from within Crystal applications
   </content>
  </entry>
 </feed>

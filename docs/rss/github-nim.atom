@@ -2,8 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2024-04-04T08:41:38Z</updated>
+<updated>2024-04-04T23:38:02Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>RattleyCooper: framecounter</title>
+  <author>
+   <name>RattleyCooper</name>
+  </author>
+  <link href="https://github.com/RattleyCooper/framecounter" />
+  <id>urn:rprimus:github:RattleyCooper:framecounter</id>
+  <published>2024-04-04T23:38:02Z</published>
+  <updated>2024-04-04T23:38:02Z</updated>
+  <content type="html">
+   Schedule code to run after/every X frames.
+  </content>
+ </entry>
+ <entry>
+  <title>2lambda123: waku-org-nwaku</title>
+  <author>
+   <name>2lambda123</name>
+  </author>
+  <link href="https://github.com/2lambda123/waku-org-nwaku" />
+  <id>urn:rprimus:github:2lambda123:waku-org-nwaku</id>
+  <published>2024-04-04T16:18:25Z</published>
+  <updated>2024-04-04T16:18:25Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>ltriant: lox</title>
   <author>
@@ -40,7 +66,7 @@
   <published>2024-04-04T06:09:44Z</published>
   <updated>2024-04-04T06:09:44Z</updated>
   <content type="html">
-   RNG with unique vector-based seeds for deterministic procedural generation.
+   RNG with vector-based seeds for deterministic procedural generation.
   </content>
  </entry>
  <entry>
@@ -67,71 +93,6 @@
   <updated>2024-04-03T17:19:27Z</updated>
   <content type="html">
    A highly sophisticated and buggy Compiler for the BENI programming language written in NIM in 2 days with no experience. Please don&#039;t use!
-  </content>
- </entry>
- <entry>
-  <title>rockcavera: nim-mircify</title>
-  <author>
-   <name>rockcavera</name>
-  </author>
-  <link href="https://github.com/rockcavera/nim-mircify" />
-  <id>urn:rprimus:github:rockcavera:nim-mircify</id>
-  <published>2024-04-02T19:53:45Z</published>
-  <updated>2024-04-02T19:53:45Z</updated>
-  <content type="html">
-   DLL to be used with mIRC and obtain Spotify status without needing to access the API
-  </content>
- </entry>
- <entry>
-  <title>itaymigdal: winfork</title>
-  <author>
-   <name>itaymigdal</name>
-  </author>
-  <link href="https://github.com/itaymigdal/winfork" />
-  <id>urn:rprimus:github:itaymigdal:winfork</id>
-  <published>2024-04-02T18:14:45Z</published>
-  <updated>2024-04-02T18:14:45Z</updated>
-  <content type="html">
-   Quick and dirty Nim wrapper for RtlCloneUserProcess
-  </content>
- </entry>
- <entry>
-  <title>openpeeps: voodoo</title>
-  <author>
-   <name>openpeeps</name>
-  </author>
-  <link href="https://github.com/openpeeps/voodoo" />
-  <id>urn:rprimus:github:openpeeps:voodoo</id>
-  <published>2024-04-02T11:44:02Z</published>
-  <updated>2024-04-02T11:44:02Z</updated>
-  <content type="html">
-   Working with Nim&#039;s macros is just Voodoo ð±
-  </content>
- </entry>
- <entry>
-  <title>realratchet: nim-zipper</title>
-  <author>
-   <name>realratchet</name>
-  </author>
-  <link href="https://github.com/realratchet/nim-zipper" />
-  <id>urn:rprimus:github:realratchet:nim-zipper</id>
-  <published>2024-04-02T08:53:07Z</published>
-  <updated>2024-04-02T08:53:07Z</updated>
-  <content type="html">
-   A python-like generic zipper that can zip any number of iterables into a single tuple.
-  </content>
- </entry>
- <entry>
-  <title>etwhook: kmodenum</title>
-  <author>
-   <name>etwhook</name>
-  </author>
-  <link href="https://github.com/etwhook/kmodenum" />
-  <id>urn:rprimus:github:etwhook:kmodenum</id>
-  <published>2024-04-02T00:23:54Z</published>
-  <updated>2024-04-02T00:23:54Z</updated>
-  <content type="html">
-   Enumerating Loaded Kernel Modules With Nim.
   </content>
  </entry>
 </feed>
