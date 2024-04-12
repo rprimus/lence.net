@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2024-04-10T20:20:06Z</updated>
+<updated>2024-04-11T22:12:43Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>khaledh: elfview</title>
+  <author>
+   <name>khaledh</name>
+  </author>
+  <link href="https://github.com/khaledh/elfview" />
+  <id>urn:rprimus:github:khaledh:elfview</id>
+  <published>2024-04-11T22:12:43Z</published>
+  <updated>2024-04-11T22:12:43Z</updated>
+  <content type="html">
+   ELF viewer for the terminal
+  </content>
+ </entry>
+ <entry>
+  <title>xyztony: levenshtein</title>
+  <author>
+   <name>xyztony</name>
+  </author>
+  <link href="https://github.com/xyztony/levenshtein" />
+  <id>urn:rprimus:github:xyztony:levenshtein</id>
+  <published>2024-04-11T18:55:15Z</published>
+  <updated>2024-04-11T18:55:15Z</updated>
+  <content type="html">
+   Basic Levenshtein Distance impl in Nim
+  </content>
+ </entry>
+ <entry>
+  <title>ferus-web: vyavast</title>
+  <author>
+   <name>ferus-web</name>
+  </author>
+  <link href="https://github.com/ferus-web/vyavast" />
+  <id>urn:rprimus:github:ferus-web:vyavast</id>
+  <published>2024-04-11T14:36:29Z</published>
+  <updated>2024-04-11T14:36:29Z</updated>
+  <content type="html">
+   Ferus&#039; layout solver
+  </content>
+ </entry>
+ <entry>
+  <title>sosafe-site-reliability-engineering: dummy-app</title>
+  <author>
+   <name>sosafe-site-reliability-engineering</name>
+  </author>
+  <link href="https://github.com/sosafe-site-reliability-engineering/dummy-app" />
+  <id>urn:rprimus:github:sosafe-site-reliability-engineering:dummy-app</id>
+  <published>2024-04-11T12:29:02Z</published>
+  <updated>2024-04-11T12:29:02Z</updated>
+  <content type="html">
+   A dummy app that provide metrics and logs
+  </content>
+ </entry>
+ <entry>
+  <title>bpx-chain: synapse-node</title>
+  <author>
+   <name>bpx-chain</name>
+  </author>
+  <link href="https://github.com/bpx-chain/synapse-node" />
+  <id>urn:rprimus:github:bpx-chain:synapse-node</id>
+  <published>2024-04-11T11:16:06Z</published>
+  <updated>2024-04-11T11:16:06Z</updated>
+  <content type="html">
+   BPX Message Queue node
+  </content>
+ </entry>
+ <entry>
+  <title>foxoman: CVE-2024-24576-PoC---Nim</title>
+  <author>
+   <name>foxoman</name>
+  </author>
+  <link href="https://github.com/foxoman/CVE-2024-24576-PoC---Nim" />
+  <id>urn:rprimus:github:foxoman:CVE-2024-24576-PoC---Nim</id>
+  <published>2024-04-11T10:22:10Z</published>
+  <updated>2024-04-11T10:22:10Z</updated>
+  <content type="html">
+   CVE-2024-24576 PoC for Nim Lang
+  </content>
+ </entry>
  <entry>
   <title>mantielero: vs.nim</title>
   <author>
@@ -41,84 +119,6 @@
   <updated>2024-04-10T01:30:30Z</updated>
   <content type="html">
    Learning OpenGL in Nim, following along with the tutorial.
-  </content>
- </entry>
- <entry>
-  <title>bctnry: CrimsonRegex</title>
-  <author>
-   <name>bctnry</name>
-  </author>
-  <link href="https://github.com/bctnry/CrimsonRegex" />
-  <id>urn:rprimus:github:bctnry:CrimsonRegex</id>
-  <published>2024-04-09T21:19:55Z</published>
-  <updated>2024-04-09T21:19:55Z</updated>
-  <content type="html">
-   A tiny regular expression library (for my own use)
-  </content>
- </entry>
- <entry>
-  <title>PMunch: statusbar</title>
-  <author>
-   <name>PMunch</name>
-  </author>
-  <link href="https://github.com/PMunch/statusbar" />
-  <id>urn:rprimus:github:PMunch:statusbar</id>
-  <published>2024-04-09T20:40:50Z</published>
-  <updated>2024-04-09T20:40:50Z</updated>
-  <content type="html">
-   Libfuse based statusbar for Nimdow and other xsetroot -name WMs
-  </content>
- </entry>
- <entry>
-  <title>etwhook: tcpnimfo</title>
-  <author>
-   <name>etwhook</name>
-  </author>
-  <link href="https://github.com/etwhook/tcpnimfo" />
-  <id>urn:rprimus:github:etwhook:tcpnimfo</id>
-  <published>2024-04-09T17:58:47Z</published>
-  <updated>2024-04-09T17:58:47Z</updated>
-  <content type="html">
-   Enumerating TCP Connections With Nim.
-  </content>
- </entry>
- <entry>
-  <title>YaDev: NimCLS</title>
-  <author>
-   <name>YaDev</name>
-  </author>
-  <link href="https://github.com/YaDev/NimCLS" />
-  <id>urn:rprimus:github:YaDev:NimCLS</id>
-  <published>2024-04-09T17:13:52Z</published>
-  <updated>2024-04-09T17:13:52Z</updated>
-  <content type="html">
-   Classes and dependency injection for Nim.
-  </content>
- </entry>
- <entry>
-  <title>Buldram: skulite</title>
-  <author>
-   <name>Buldram</name>
-  </author>
-  <link href="https://github.com/Buldram/skulite" />
-  <id>urn:rprimus:github:Buldram:skulite</id>
-  <published>2024-04-09T13:36:07Z</published>
-  <updated>2024-04-09T13:36:07Z</updated>
-  <content type="html">
-   SQLite bindings for Nim
-  </content>
- </entry>
- <entry>
-  <title>Monsler: Nim-Calculator</title>
-  <author>
-   <name>Monsler</name>
-  </author>
-  <link href="https://github.com/Monsler/Nim-Calculator" />
-  <id>urn:rprimus:github:Monsler:Nim-Calculator</id>
-  <published>2024-04-09T11:12:27Z</published>
-  <updated>2024-04-09T11:12:27Z</updated>
-  <content type="html">
-   Nim calculator with mathexpr
   </content>
  </entry>
 </feed>
