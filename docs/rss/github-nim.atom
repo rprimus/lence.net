@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2024-04-11T22:12:43Z</updated>
+<updated>2024-04-12T23:14:17Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>Comamoca: nimffui</title>
+  <author>
+   <name>Comamoca</name>
+  </author>
+  <link href="https://github.com/Comamoca/nimffui" />
+  <id>urn:rprimus:github:Comamoca:nimffui</id>
+  <published>2024-04-12T23:14:17Z</published>
+  <updated>2024-04-12T23:14:17Z</updated>
+  <content type="html">
+   Simple fuzzy finder library for Nim.
+  </content>
+ </entry>
+ <entry>
+  <title>felipecruz: vex</title>
+  <author>
+   <name>felipecruz</name>
+  </author>
+  <link href="https://github.com/felipecruz/vex" />
+  <id>urn:rprimus:github:felipecruz:vex</id>
+  <published>2024-04-12T22:44:02Z</published>
+  <updated>2024-04-12T22:44:02Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>shujink0: nim-experiments</title>
+  <author>
+   <name>shujink0</name>
+  </author>
+  <link href="https://github.com/shujink0/nim-experiments" />
+  <id>urn:rprimus:github:shujink0:nim-experiments</id>
+  <published>2024-04-12T17:24:42Z</published>
+  <updated>2024-04-12T17:24:42Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>PMunch: data.vm</title>
+  <author>
+   <name>PMunch</name>
+  </author>
+  <link href="https://github.com/PMunch/data.vm" />
+  <id>urn:rprimus:github:PMunch:data.vm</id>
+  <published>2024-04-12T11:16:13Z</published>
+  <updated>2024-04-12T11:16:13Z</updated>
+  <content type="html">
+   Experiment into a data based VM
+  </content>
+ </entry>
+ <entry>
+  <title>minamorl: nimtypst</title>
+  <author>
+   <name>minamorl</name>
+  </author>
+  <link href="https://github.com/minamorl/nimtypst" />
+  <id>urn:rprimus:github:minamorl:nimtypst</id>
+  <published>2024-04-12T10:21:39Z</published>
+  <updated>2024-04-12T10:21:39Z</updated>
+  <content type="html">
+   Typst parser for nim
+  </content>
+ </entry>
  <entry>
   <title>khaledh: elfview</title>
   <author>
@@ -28,6 +93,19 @@
   <updated>2024-04-11T18:55:15Z</updated>
   <content type="html">
    Basic Levenshtein Distance impl in Nim
+  </content>
+ </entry>
+ <entry>
+  <title>openpeeps: ical</title>
+  <author>
+   <name>openpeeps</name>
+  </author>
+  <link href="https://github.com/openpeeps/ical" />
+  <id>urn:rprimus:github:openpeeps:ical</id>
+  <published>2024-04-11T16:29:53Z</published>
+  <updated>2024-04-11T16:29:53Z</updated>
+  <content type="html">
+   ð A tolerant, minimal iCalendar reader &amp; writer for Nim ð [WIP]
   </content>
  </entry>
  <entry>
@@ -66,7 +144,7 @@
   <published>2024-04-11T11:16:06Z</published>
   <updated>2024-04-11T11:16:06Z</updated>
   <content type="html">
-   BPX Message Queue node
+   BPX Synapse node
   </content>
  </entry>
  <entry>
@@ -80,45 +158,6 @@
   <updated>2024-04-11T10:22:10Z</updated>
   <content type="html">
    CVE-2024-24576 PoC for Nim Lang
-  </content>
- </entry>
- <entry>
-  <title>mantielero: vs.nim</title>
-  <author>
-   <name>mantielero</name>
-  </author>
-  <link href="https://github.com/mantielero/vs.nim" />
-  <id>urn:rprimus:github:mantielero:vs.nim</id>
-  <published>2024-04-10T20:20:06Z</published>
-  <updated>2024-04-10T20:20:06Z</updated>
-  <content type="html">
-   VapourSynth bindings for API4
-  </content>
- </entry>
- <entry>
-  <title>redrededredred: usernim</title>
-  <author>
-   <name>redrededredred</name>
-  </author>
-  <link href="https://github.com/redrededredred/usernim" />
-  <id>urn:rprimus:github:redrededredred:usernim</id>
-  <published>2024-04-10T14:57:47Z</published>
-  <updated>2024-04-10T14:57:47Z</updated>
-  <content type="html">
-   username generator written in nim
-  </content>
- </entry>
- <entry>
-  <title>CaesarXInsanium: LearnOpenGLinNim</title>
-  <author>
-   <name>CaesarXInsanium</name>
-  </author>
-  <link href="https://github.com/CaesarXInsanium/LearnOpenGLinNim" />
-  <id>urn:rprimus:github:CaesarXInsanium:LearnOpenGLinNim</id>
-  <published>2024-04-10T01:30:30Z</published>
-  <updated>2024-04-10T01:30:30Z</updated>
-  <content type="html">
-   Learning OpenGL in Nim, following along with the tutorial.
   </content>
  </entry>
 </feed>
