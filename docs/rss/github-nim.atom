@@ -2,8 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2024-04-12T23:14:17Z</updated>
+<updated>2024-04-14T00:43:32Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
+ <entry>
+  <title>heysokam: libevdev</title>
+  <author>
+   <name>heysokam</name>
+  </author>
+  <link href="https://github.com/heysokam/libevdev" />
+  <id>urn:rprimus:github:heysokam:libevdev</id>
+  <published>2024-04-14T00:43:32Z</published>
+  <updated>2024-04-14T00:43:32Z</updated>
+  <content type="html">
+   libevdev | Bindings for Nim
+  </content>
+ </entry>
+ <entry>
+  <title>vabresto: nim-trading</title>
+  <author>
+   <name>vabresto</name>
+  </author>
+  <link href="https://github.com/vabresto/nim-trading" />
+  <id>urn:rprimus:github:vabresto:nim-trading</id>
+  <published>2024-04-13T15:18:33Z</published>
+  <updated>2024-04-13T15:18:33Z</updated>
+  <content type="html">
+   Monitor Paper Trading: http://142.93.153.5:8080/
+  </content>
+ </entry>
+ <entry>
+  <title>NimVenture: chatgpt</title>
+  <author>
+   <name>NimVenture</name>
+  </author>
+  <link href="https://github.com/NimVenture/chatgpt" />
+  <id>urn:rprimus:github:NimVenture:chatgpt</id>
+  <published>2024-04-13T13:54:44Z</published>
+  <updated>2024-04-13T13:54:44Z</updated>
+  <content type="html">
+   OpenAI API in nim
+  </content>
+ </entry>
  <entry>
   <title>Comamoca: nimffui</title>
   <author>
@@ -67,97 +106,6 @@
   <updated>2024-04-12T10:21:39Z</updated>
   <content type="html">
    Typst parser for nim
-  </content>
- </entry>
- <entry>
-  <title>khaledh: elfview</title>
-  <author>
-   <name>khaledh</name>
-  </author>
-  <link href="https://github.com/khaledh/elfview" />
-  <id>urn:rprimus:github:khaledh:elfview</id>
-  <published>2024-04-11T22:12:43Z</published>
-  <updated>2024-04-11T22:12:43Z</updated>
-  <content type="html">
-   ELF viewer for the terminal
-  </content>
- </entry>
- <entry>
-  <title>xyztony: levenshtein</title>
-  <author>
-   <name>xyztony</name>
-  </author>
-  <link href="https://github.com/xyztony/levenshtein" />
-  <id>urn:rprimus:github:xyztony:levenshtein</id>
-  <published>2024-04-11T18:55:15Z</published>
-  <updated>2024-04-11T18:55:15Z</updated>
-  <content type="html">
-   Basic Levenshtein Distance impl in Nim
-  </content>
- </entry>
- <entry>
-  <title>openpeeps: ical</title>
-  <author>
-   <name>openpeeps</name>
-  </author>
-  <link href="https://github.com/openpeeps/ical" />
-  <id>urn:rprimus:github:openpeeps:ical</id>
-  <published>2024-04-11T16:29:53Z</published>
-  <updated>2024-04-11T16:29:53Z</updated>
-  <content type="html">
-   ð A tolerant, minimal iCalendar reader &amp; writer for Nim ð [WIP]
-  </content>
- </entry>
- <entry>
-  <title>ferus-web: vyavast</title>
-  <author>
-   <name>ferus-web</name>
-  </author>
-  <link href="https://github.com/ferus-web/vyavast" />
-  <id>urn:rprimus:github:ferus-web:vyavast</id>
-  <published>2024-04-11T14:36:29Z</published>
-  <updated>2024-04-11T14:36:29Z</updated>
-  <content type="html">
-   Ferus&#039; layout solver
-  </content>
- </entry>
- <entry>
-  <title>sosafe-site-reliability-engineering: dummy-app</title>
-  <author>
-   <name>sosafe-site-reliability-engineering</name>
-  </author>
-  <link href="https://github.com/sosafe-site-reliability-engineering/dummy-app" />
-  <id>urn:rprimus:github:sosafe-site-reliability-engineering:dummy-app</id>
-  <published>2024-04-11T12:29:02Z</published>
-  <updated>2024-04-11T12:29:02Z</updated>
-  <content type="html">
-   A dummy app that provide metrics and logs
-  </content>
- </entry>
- <entry>
-  <title>bpx-chain: synapse-node</title>
-  <author>
-   <name>bpx-chain</name>
-  </author>
-  <link href="https://github.com/bpx-chain/synapse-node" />
-  <id>urn:rprimus:github:bpx-chain:synapse-node</id>
-  <published>2024-04-11T11:16:06Z</published>
-  <updated>2024-04-11T11:16:06Z</updated>
-  <content type="html">
-   BPX Synapse node
-  </content>
- </entry>
- <entry>
-  <title>foxoman: CVE-2024-24576-PoC---Nim</title>
-  <author>
-   <name>foxoman</name>
-  </author>
-  <link href="https://github.com/foxoman/CVE-2024-24576-PoC---Nim" />
-  <id>urn:rprimus:github:foxoman:CVE-2024-24576-PoC---Nim</id>
-  <published>2024-04-11T10:22:10Z</published>
-  <updated>2024-04-11T10:22:10Z</updated>
-  <content type="html">
-   CVE-2024-24576 PoC for Nim Lang
   </content>
  </entry>
 </feed>
