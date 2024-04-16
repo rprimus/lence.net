@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-lisp.atom"/>
 <id>urn:rprimus:github:newlisprepos</id>
-<updated>2024-04-14T21:33:15Z</updated>
+<updated>2024-04-16T00:35:07Z</updated>
 <title type='text'>New GitHub Lisp Repos</title>
+ <entry>
+  <title>dsletten: OnLisp</title>
+  <author>
+   <name>dsletten</name>
+  </author>
+  <link href="https://github.com/dsletten/OnLisp" />
+  <id>urn:rprimus:github:dsletten:OnLisp</id>
+  <published>2024-04-16T00:35:07Z</published>
+  <updated>2024-04-16T00:35:07Z</updated>
+  <content type="html">
+   Notes and exercises from Paul Graham&#039;s book On Lisp
+  </content>
+ </entry>
+ <entry>
+  <title>kchanqvq: fast-mpsc-queue</title>
+  <author>
+   <name>kchanqvq</name>
+  </author>
+  <link href="https://github.com/kchanqvq/fast-mpsc-queue" />
+  <id>urn:rprimus:github:kchanqvq:fast-mpsc-queue</id>
+  <published>2024-04-16T00:23:46Z</published>
+  <updated>2024-04-16T00:23:46Z</updated>
+  <content type="html">
+   Fast Multi-Producer Single-Consumer queue for SBCL x86-64.
+  </content>
+ </entry>
+ <entry>
+  <title>OscarPortillo37: PingPongROSGazebo</title>
+  <author>
+   <name>OscarPortillo37</name>
+  </author>
+  <link href="https://github.com/OscarPortillo37/PingPongROSGazebo" />
+  <id>urn:rprimus:github:OscarPortillo37:PingPongROSGazebo</id>
+  <published>2024-04-15T19:47:58Z</published>
+  <updated>2024-04-15T19:47:58Z</updated>
+  <content type="html">
+   Repository for training Sawyer Robot to play Table Tennis in Simulation
+  </content>
+ </entry>
+ <entry>
+  <title>terryc321: c2ffi</title>
+  <author>
+   <name>terryc321</name>
+  </author>
+  <link href="https://github.com/terryc321/c2ffi" />
+  <id>urn:rprimus:github:terryc321:c2ffi</id>
+  <published>2024-04-15T14:39:53Z</published>
+  <updated>2024-04-15T14:39:53Z</updated>
+  <content type="html">
+   common lisp cffi exploration with sdl2 sdl2-image
+  </content>
+ </entry>
+ <entry>
+  <title>DennisVanEecke: app-data-monitoring</title>
+  <author>
+   <name>DennisVanEecke</name>
+  </author>
+  <link href="https://github.com/DennisVanEecke/app-data-monitoring" />
+  <id>urn:rprimus:github:DennisVanEecke:app-data-monitoring</id>
+  <published>2024-04-15T14:07:39Z</published>
+  <updated>2024-04-15T14:07:39Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>mohamed-nagy11: Intro_to_Artificial_Intelligence</title>
   <author>
@@ -67,32 +132,6 @@
   <updated>2024-04-14T02:01:35Z</updated>
   <content type="html">
    ç¨äºåæçå¾ååçå¾çååå±æ¬¡åä¿¡æ¯ã
-  </content>
- </entry>
- <entry>
-  <title>Junker: oauth2-client</title>
-  <author>
-   <name>Junker</name>
-  </author>
-  <link href="https://github.com/Junker/oauth2-client" />
-  <id>urn:rprimus:github:Junker:oauth2-client</id>
-  <published>2024-04-13T05:18:41Z</published>
-  <updated>2024-04-13T05:18:41Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>chise: cl-chise</title>
-  <author>
-   <name>chise</name>
-  </author>
-  <link href="https://github.com/chise/cl-chise" />
-  <id>urn:rprimus:github:chise:cl-chise</id>
-  <published>2024-04-13T04:01:53Z</published>
-  <updated>2024-04-13T04:01:53Z</updated>
-  <content type="html">
-   CHISE implementation based on Common Lisp
   </content>
  </entry>
 </feed>
