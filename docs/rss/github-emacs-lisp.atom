@@ -2,8 +2,138 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2024-04-18T00:05:35Z</updated>
+<updated>2024-04-19T01:51:07Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>tuliolima: emacs-config</title>
+  <author>
+   <name>tuliolima</name>
+  </author>
+  <link href="https://github.com/tuliolima/emacs-config" />
+  <id>urn:rprimus:github:tuliolima:emacs-config</id>
+  <published>2024-04-19T01:51:07Z</published>
+  <updated>2024-04-19T01:51:07Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>precompute: hyperstitional-themes</title>
+  <author>
+   <name>precompute</name>
+  </author>
+  <link href="https://github.com/precompute/hyperstitional-themes" />
+  <id>urn:rprimus:github:precompute:hyperstitional-themes</id>
+  <published>2024-04-18T23:20:14Z</published>
+  <updated>2024-04-18T23:20:14Z</updated>
+  <content type="html">
+   Weird themes for Emacs.
+  </content>
+ </entry>
+ <entry>
+  <title>3L0C: wks-mode</title>
+  <author>
+   <name>3L0C</name>
+  </author>
+  <link href="https://github.com/3L0C/wks-mode" />
+  <id>urn:rprimus:github:3L0C:wks-mode</id>
+  <published>2024-04-18T17:42:50Z</published>
+  <updated>2024-04-18T17:42:50Z</updated>
+  <content type="html">
+   Emacs major mode for wks files
+  </content>
+ </entry>
+ <entry>
+  <title>w08r: org-roam-career</title>
+  <author>
+   <name>w08r</name>
+  </author>
+  <link href="https://github.com/w08r/org-roam-career" />
+  <id>urn:rprimus:github:w08r:org-roam-career</id>
+  <published>2024-04-18T16:30:25Z</published>
+  <updated>2024-04-18T16:30:25Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>Inushin: emacsCustomConfig</title>
+  <author>
+   <name>Inushin</name>
+  </author>
+  <link href="https://github.com/Inushin/emacsCustomConfig" />
+  <id>urn:rprimus:github:Inushin:emacsCustomConfig</id>
+  <published>2024-04-18T13:26:45Z</published>
+  <updated>2024-04-18T13:26:45Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>gscatto: .emacs.d</title>
+  <author>
+   <name>gscatto</name>
+  </author>
+  <link href="https://github.com/gscatto/.emacs.d" />
+  <id>urn:rprimus:github:gscatto:.emacs.d</id>
+  <published>2024-04-18T12:50:01Z</published>
+  <updated>2024-04-18T12:50:01Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>zlqrvx: glyphin</title>
+  <author>
+   <name>zlqrvx</name>
+  </author>
+  <link href="https://github.com/zlqrvx/glyphin" />
+  <id>urn:rprimus:github:zlqrvx:glyphin</id>
+  <published>2024-04-18T11:54:29Z</published>
+  <updated>2024-04-18T11:54:29Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>kaushalbundel: doom-emacs-config</title>
+  <author>
+   <name>kaushalbundel</name>
+  </author>
+  <link href="https://github.com/kaushalbundel/doom-emacs-config" />
+  <id>urn:rprimus:github:kaushalbundel:doom-emacs-config</id>
+  <published>2024-04-18T08:22:31Z</published>
+  <updated>2024-04-18T08:22:31Z</updated>
+  <content type="html">
+   My doom emacs configuration files
+  </content>
+ </entry>
+ <entry>
+  <title>larsmagne: emacs</title>
+  <author>
+   <name>larsmagne</name>
+  </author>
+  <link href="https://github.com/larsmagne/emacs" />
+  <id>urn:rprimus:github:larsmagne:emacs</id>
+  <published>2024-04-18T07:15:05Z</published>
+  <updated>2024-04-18T07:15:05Z</updated>
+  <content type="html">
+   Not Emacs
+  </content>
+ </entry>
+ <entry>
+  <title>lucasvreis: wordiff.el</title>
+  <author>
+   <name>lucasvreis</name>
+  </author>
+  <link href="https://github.com/lucasvreis/wordiff.el" />
+  <id>urn:rprimus:github:lucasvreis:wordiff.el</id>
+  <published>2024-04-18T05:05:23Z</published>
+  <updated>2024-04-18T05:05:23Z</updated>
+  <content type="html">
+   View Git word diffs in the buffer as overlays. Good for revising prose.
+  </content>
+ </entry>
  <entry>
   <title>emacs-straight: track-changes</title>
   <author>
@@ -14,7 +144,7 @@
   <published>2024-04-18T00:05:35Z</published>
   <updated>2024-04-18T00:05:35Z</updated>
   <content type="html">
-   Mirror of the track-changes package from GNU ELPA, current as of 2024-04-18
+   Mirror of the track-changes package from GNU ELPA, current as of 2024-04-19
   </content>
  </entry>
  <entry>
@@ -28,6 +158,19 @@
   <updated>2024-04-17T17:00:54Z</updated>
   <content type="html">
    
+  </content>
+ </entry>
+ <entry>
+  <title>olfREG314: .dotfiles</title>
+  <author>
+   <name>olfREG314</name>
+  </author>
+  <link href="https://github.com/olfREG314/.dotfiles" />
+  <id>urn:rprimus:github:olfREG314:.dotfiles</id>
+  <published>2024-04-17T15:47:51Z</published>
+  <updated>2024-04-17T15:47:51Z</updated>
+  <content type="html">
+   All the configurations
   </content>
  </entry>
  <entry>
@@ -119,266 +262,6 @@
   <updated>2024-04-17T03:05:19Z</updated>
   <content type="html">
    
-  </content>
- </entry>
- <entry>
-  <title>nverno: scss-ts-mode</title>
-  <author>
-   <name>nverno</name>
-  </author>
-  <link href="https://github.com/nverno/scss-ts-mode" />
-  <id>urn:rprimus:github:nverno:scss-ts-mode</id>
-  <published>2024-04-16T23:24:24Z</published>
-  <updated>2024-04-16T23:24:24Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>tralph3: conner</title>
-  <author>
-   <name>tralph3</name>
-  </author>
-  <link href="https://github.com/tralph3/conner" />
-  <id>urn:rprimus:github:tralph3:conner</id>
-  <published>2024-04-16T21:50:49Z</published>
-  <updated>2024-04-16T21:50:49Z</updated>
-  <content type="html">
-   Conner is a Command Runner for GNU Emacs
-  </content>
- </entry>
- <entry>
-  <title>piercegwang: emacs-touchscreen</title>
-  <author>
-   <name>piercegwang</name>
-  </author>
-  <link href="https://github.com/piercegwang/emacs-touchscreen" />
-  <id>urn:rprimus:github:piercegwang:emacs-touchscreen</id>
-  <published>2024-04-16T20:35:11Z</published>
-  <updated>2024-04-16T20:35:11Z</updated>
-  <content type="html">
-   Touchscreen support for Emacs
-  </content>
- </entry>
- <entry>
-  <title>wrycode: anki-capture</title>
-  <author>
-   <name>wrycode</name>
-  </author>
-  <link href="https://github.com/wrycode/anki-capture" />
-  <id>urn:rprimus:github:wrycode:anki-capture</id>
-  <published>2024-04-16T20:16:33Z</published>
-  <updated>2024-04-16T20:16:33Z</updated>
-  <content type="html">
-   Capture Anki notes in Emacs
-  </content>
- </entry>
- <entry>
-  <title>kasteph: .doom.d</title>
-  <author>
-   <name>kasteph</name>
-  </author>
-  <link href="https://github.com/kasteph/.doom.d" />
-  <id>urn:rprimus:github:kasteph:.doom.d</id>
-  <published>2024-04-16T19:05:55Z</published>
-  <updated>2024-04-16T19:05:55Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>MatthewTromp: list-projects</title>
-  <author>
-   <name>MatthewTromp</name>
-  </author>
-  <link href="https://github.com/MatthewTromp/list-projects" />
-  <id>urn:rprimus:github:MatthewTromp:list-projects</id>
-  <published>2024-04-16T18:46:27Z</published>
-  <updated>2024-04-16T18:46:27Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>aatmunbaxi: lasgun.el</title>
-  <author>
-   <name>aatmunbaxi</name>
-  </author>
-  <link href="https://github.com/aatmunbaxi/lasgun.el" />
-  <id>urn:rprimus:github:aatmunbaxi:lasgun.el</id>
-  <published>2024-04-16T17:28:52Z</published>
-  <updated>2024-04-16T17:28:52Z</updated>
-  <content type="html">
-   Avy-backed, actionable placement of multiple marks
-  </content>
- </entry>
- <entry>
-  <title>MingUnice: .emacs.d</title>
-  <author>
-   <name>MingUnice</name>
-  </author>
-  <link href="https://github.com/MingUnice/.emacs.d" />
-  <id>urn:rprimus:github:MingUnice:.emacs.d</id>
-  <published>2024-04-16T16:45:06Z</published>
-  <updated>2024-04-16T16:45:06Z</updated>
-  <content type="html">
-   emacs config
-  </content>
- </entry>
- <entry>
-  <title>laluxx: minimacs</title>
-  <author>
-   <name>laluxx</name>
-  </author>
-  <link href="https://github.com/laluxx/minimacs" />
-  <id>urn:rprimus:github:laluxx:minimacs</id>
-  <published>2024-04-16T14:40:02Z</published>
-  <updated>2024-04-16T14:40:02Z</updated>
-  <content type="html">
-   Minimal emacs configuration
-  </content>
- </entry>
- <entry>
-  <title>PatrikOkanovic: smat</title>
-  <author>
-   <name>PatrikOkanovic</name>
-  </author>
-  <link href="https://github.com/PatrikOkanovic/smat" />
-  <id>urn:rprimus:github:PatrikOkanovic:smat</id>
-  <published>2024-04-16T13:37:50Z</published>
-  <updated>2024-04-16T13:37:50Z</updated>
-  <content type="html">
-   High Performance Unstructured SpMM Computation Using Tensor Cores
-  </content>
- </entry>
- <entry>
-  <title>ykumards: min-dotemacs</title>
-  <author>
-   <name>ykumards</name>
-  </author>
-  <link href="https://github.com/ykumards/min-dotemacs" />
-  <id>urn:rprimus:github:ykumards:min-dotemacs</id>
-  <published>2024-04-16T12:13:46Z</published>
-  <updated>2024-04-16T12:13:46Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>ultronozm: tex-numbers.el</title>
-  <author>
-   <name>ultronozm</name>
-  </author>
-  <link href="https://github.com/ultronozm/tex-numbers.el" />
-  <id>urn:rprimus:github:ultronozm:tex-numbers.el</id>
-  <published>2024-04-16T11:53:16Z</published>
-  <updated>2024-04-16T11:53:16Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>meedstrom: org-node</title>
-  <author>
-   <name>meedstrom</name>
-  </author>
-  <link href="https://github.com/meedstrom/org-node" />
-  <id>urn:rprimus:github:meedstrom:org-node</id>
-  <published>2024-04-16T09:34:40Z</published>
-  <updated>2024-04-16T09:34:40Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Svartstrom: Doom-emacs</title>
-  <author>
-   <name>Svartstrom</name>
-  </author>
-  <link href="https://github.com/Svartstrom/Doom-emacs" />
-  <id>urn:rprimus:github:Svartstrom:Doom-emacs</id>
-  <published>2024-04-16T06:49:56Z</published>
-  <updated>2024-04-16T06:49:56Z</updated>
-  <content type="html">
-   configuration for Doom-emacs
-  </content>
- </entry>
- <entry>
-  <title>jny0444: emacs-dots</title>
-  <author>
-   <name>jny0444</name>
-  </author>
-  <link href="https://github.com/jny0444/emacs-dots" />
-  <id>urn:rprimus:github:jny0444:emacs-dots</id>
-  <published>2024-04-16T05:04:22Z</published>
-  <updated>2024-04-16T05:04:22Z</updated>
-  <content type="html">
-   current emacs configuration (still more features left to be added)
-  </content>
- </entry>
- <entry>
-  <title>kayomarz: sicp-notes</title>
-  <author>
-   <name>kayomarz</name>
-  </author>
-  <link href="https://github.com/kayomarz/sicp-notes" />
-  <id>urn:rprimus:github:kayomarz:sicp-notes</id>
-  <published>2024-04-16T04:21:58Z</published>
-  <updated>2024-04-16T04:21:58Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Gabachin-mx: doom</title>
-  <author>
-   <name>Gabachin-mx</name>
-  </author>
-  <link href="https://github.com/Gabachin-mx/doom" />
-  <id>urn:rprimus:github:Gabachin-mx:doom</id>
-  <published>2024-04-16T03:31:33Z</published>
-  <updated>2024-04-16T03:31:33Z</updated>
-  <content type="html">
-   My doom emacs configuration
-  </content>
- </entry>
- <entry>
-  <title>pcmariani: Exersicm</title>
-  <author>
-   <name>pcmariani</name>
-  </author>
-  <link href="https://github.com/pcmariani/Exersicm" />
-  <id>urn:rprimus:github:pcmariani:Exersicm</id>
-  <published>2024-04-16T02:28:23Z</published>
-  <updated>2024-04-16T02:28:23Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jcs-elpa: ansi-colorful</title>
-  <author>
-   <name>jcs-elpa</name>
-  </author>
-  <link href="https://github.com/jcs-elpa/ansi-colorful" />
-  <id>urn:rprimus:github:jcs-elpa:ansi-colorful</id>
-  <published>2024-04-16T02:27:35Z</published>
-  <updated>2024-04-16T02:27:35Z</updated>
-  <content type="html">
-   Toggle render ansi-color
-  </content>
- </entry>
- <entry>
-  <title>CDamianS: psp-scripts</title>
-  <author>
-   <name>CDamianS</name>
-  </author>
-  <link href="https://github.com/CDamianS/psp-scripts" />
-  <id>urn:rprimus:github:CDamianS:psp-scripts</id>
-  <published>2024-04-16T01:49:07Z</published>
-  <updated>2024-04-16T01:49:07Z</updated>
-  <content type="html">
-   PSP exercises
   </content>
  </entry>
 </feed>
