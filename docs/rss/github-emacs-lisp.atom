@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-emacs-lisp.atom"/>
 <id>urn:rprimus:github:newemacs-lisprepos</id>
-<updated>2024-04-27T13:47:00Z</updated>
+<updated>2024-04-28T00:02:36Z</updated>
 <title type='text'>New GitHub Emacs-Lisp Repos</title>
+ <entry>
+  <title>emacs-straight: colorful-mode</title>
+  <author>
+   <name>emacs-straight</name>
+  </author>
+  <link href="https://github.com/emacs-straight/colorful-mode" />
+  <id>urn:rprimus:github:emacs-straight:colorful-mode</id>
+  <published>2024-04-28T00:02:36Z</published>
+  <updated>2024-04-28T00:02:36Z</updated>
+  <content type="html">
+   Mirror of the colorful-mode package from GNU ELPA, current as of 2024-04-28
+  </content>
+ </entry>
+ <entry>
+  <title>skissue: org-typst</title>
+  <author>
+   <name>skissue</name>
+  </author>
+  <link href="https://github.com/skissue/org-typst" />
+  <id>urn:rprimus:github:skissue:org-typst</id>
+  <published>2024-04-27T20:21:35Z</published>
+  <updated>2024-04-27T20:21:35Z</updated>
+  <content type="html">
+   (WIP) Org Mode â¤ï¸ Typst
+  </content>
+ </entry>
+ <entry>
+  <title>KevinDanh: emacs-config</title>
+  <author>
+   <name>KevinDanh</name>
+  </author>
+  <link href="https://github.com/KevinDanh/emacs-config" />
+  <id>urn:rprimus:github:KevinDanh:emacs-config</id>
+  <published>2024-04-27T19:51:20Z</published>
+  <updated>2024-04-27T19:51:20Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>mtll: kmacro-dispatch</title>
+  <author>
+   <name>mtll</name>
+  </author>
+  <link href="https://github.com/mtll/kmacro-dispatch" />
+  <id>urn:rprimus:github:mtll:kmacro-dispatch</id>
+  <published>2024-04-27T18:34:36Z</published>
+  <updated>2024-04-27T18:34:36Z</updated>
+  <content type="html">
+   Dispatch keyboard macros on multiple regions
+  </content>
+ </entry>
+ <entry>
+  <title>alexandrelaplante: .config</title>
+  <author>
+   <name>alexandrelaplante</name>
+  </author>
+  <link href="https://github.com/alexandrelaplante/.config" />
+  <id>urn:rprimus:github:alexandrelaplante:.config</id>
+  <published>2024-04-27T17:59:24Z</published>
+  <updated>2024-04-27T17:59:24Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>aileks: astromacs</title>
+  <author>
+   <name>aileks</name>
+  </author>
+  <link href="https://github.com/aileks/astromacs" />
+  <id>urn:rprimus:github:aileks:astromacs</id>
+  <published>2024-04-27T14:23:38Z</published>
+  <updated>2024-04-27T14:23:38Z</updated>
+  <content type="html">
+   Emacs Fun
+  </content>
+ </entry>
  <entry>
   <title>jeremyf: mastodon.el</title>
   <author>
@@ -223,149 +301,6 @@
   <updated>2024-04-26T05:16:20Z</updated>
   <content type="html">
    This&#039;s my emacs config
-  </content>
- </entry>
- <entry>
-  <title>Manueljlin: .emacs.d</title>
-  <author>
-   <name>Manueljlin</name>
-  </author>
-  <link href="https://github.com/Manueljlin/.emacs.d" />
-  <id>urn:rprimus:github:Manueljlin:.emacs.d</id>
-  <published>2024-04-25T21:05:20Z</published>
-  <updated>2024-04-25T21:05:20Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>joshburnsxyz: charcoal-softie.el</title>
-  <author>
-   <name>joshburnsxyz</name>
-  </author>
-  <link href="https://github.com/joshburnsxyz/charcoal-softie.el" />
-  <id>urn:rprimus:github:joshburnsxyz:charcoal-softie.el</id>
-  <published>2024-04-25T21:01:05Z</published>
-  <updated>2024-04-25T21:01:05Z</updated>
-  <content type="html">
-   Soft, Dark, Emacs Theme
-  </content>
- </entry>
- <entry>
-  <title>licht1stein: context-transient.el</title>
-  <author>
-   <name>licht1stein</name>
-  </author>
-  <link href="https://github.com/licht1stein/context-transient.el" />
-  <id>urn:rprimus:github:licht1stein:context-transient.el</id>
-  <published>2024-04-25T17:54:07Z</published>
-  <updated>2024-04-25T17:54:07Z</updated>
-  <content type="html">
-   Context specific transient menus for Emacs
-  </content>
- </entry>
- <entry>
-  <title>8dcc: align.el</title>
-  <author>
-   <name>8dcc</name>
-  </author>
-  <link href="https://github.com/8dcc/align.el" />
-  <id>urn:rprimus:github:8dcc:align.el</id>
-  <published>2024-04-25T16:22:24Z</published>
-  <updated>2024-04-25T16:22:24Z</updated>
-  <content type="html">
-   Emacs functions for aligning text relative to regex
-  </content>
- </entry>
- <entry>
-  <title>ptkab: dot-emacs</title>
-  <author>
-   <name>ptkab</name>
-  </author>
-  <link href="https://github.com/ptkab/dot-emacs" />
-  <id>urn:rprimus:github:ptkab:dot-emacs</id>
-  <published>2024-04-25T16:20:32Z</published>
-  <updated>2024-04-25T16:20:32Z</updated>
-  <content type="html">
-   My custom Emacs config
-  </content>
- </entry>
- <entry>
-  <title>tomoyukim: org-journal-timeline</title>
-  <author>
-   <name>tomoyukim</name>
-  </author>
-  <link href="https://github.com/tomoyukim/org-journal-timeline" />
-  <id>urn:rprimus:github:tomoyukim:org-journal-timeline</id>
-  <published>2024-04-25T14:10:35Z</published>
-  <updated>2024-04-25T14:10:35Z</updated>
-  <content type="html">
-   Elisp package provides a view showing multiple journals in one buffer.
-  </content>
- </entry>
- <entry>
-  <title>lvntky: LEmacs</title>
-  <author>
-   <name>lvntky</name>
-  </author>
-  <link href="https://github.com/lvntky/LEmacs" />
-  <id>urn:rprimus:github:lvntky:LEmacs</id>
-  <published>2024-04-25T14:03:17Z</published>
-  <updated>2024-04-25T14:03:17Z</updated>
-  <content type="html">
-   Levent&#039;s Emacs Config
-  </content>
- </entry>
- <entry>
-  <title>Xayoux: .emacs.d</title>
-  <author>
-   <name>Xayoux</name>
-  </author>
-  <link href="https://github.com/Xayoux/.emacs.d" />
-  <id>urn:rprimus:github:Xayoux:.emacs.d</id>
-  <published>2024-04-25T13:26:15Z</published>
-  <updated>2024-04-25T13:26:15Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>QuirkQ: EPry</title>
-  <author>
-   <name>QuirkQ</name>
-  </author>
-  <link href="https://github.com/QuirkQ/EPry" />
-  <id>urn:rprimus:github:QuirkQ:EPry</id>
-  <published>2024-04-25T09:44:45Z</published>
-  <updated>2024-04-25T09:44:45Z</updated>
-  <content type="html">
-   Emacs Ruby pry debugging interface
-  </content>
- </entry>
- <entry>
-  <title>Xayoux: emacs_config</title>
-  <author>
-   <name>Xayoux</name>
-  </author>
-  <link href="https://github.com/Xayoux/emacs_config" />
-  <id>urn:rprimus:github:Xayoux:emacs_config</id>
-  <published>2024-04-25T07:47:48Z</published>
-  <updated>2024-04-25T07:47:48Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>typicalsamprice: arch-dots</title>
-  <author>
-   <name>typicalsamprice</name>
-  </author>
-  <link href="https://github.com/typicalsamprice/arch-dots" />
-  <id>urn:rprimus:github:typicalsamprice:arch-dots</id>
-  <published>2024-04-25T05:25:06Z</published>
-  <updated>2024-04-25T05:25:06Z</updated>
-  <content type="html">
-   
   </content>
  </entry>
 </feed>
