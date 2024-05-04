@@ -2,8 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2024-05-03T07:25:26Z</updated>
+<updated>2024-05-03T22:55:54Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>awkren: mlox</title>
+  <author>
+   <name>awkren</name>
+  </author>
+  <link href="https://github.com/awkren/mlox" />
+  <id>urn:rprimus:github:awkren:mlox</id>
+  <published>2024-05-03T22:55:54Z</published>
+  <updated>2024-05-03T22:55:54Z</updated>
+  <content type="html">
+   trying to implement a lox interpreter in ocaml
+  </content>
+ </entry>
+ <entry>
+  <title>jmyphn: risk_of_ocaml</title>
+  <author>
+   <name>jmyphn</name>
+  </author>
+  <link href="https://github.com/jmyphn/risk_of_ocaml" />
+  <id>urn:rprimus:github:jmyphn:risk_of_ocaml</id>
+  <published>2024-05-03T17:11:57Z</published>
+  <updated>2024-05-03T17:11:57Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>dboris: camlkit-tools</title>
+  <author>
+   <name>dboris</name>
+  </author>
+  <link href="https://github.com/dboris/camlkit-tools" />
+  <id>urn:rprimus:github:dboris:camlkit-tools</id>
+  <published>2024-05-03T15:09:41Z</published>
+  <updated>2024-05-03T15:09:41Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>xvw: yocaml2-empty-template</title>
+  <author>
+   <name>xvw</name>
+  </author>
+  <link href="https://github.com/xvw/yocaml2-empty-template" />
+  <id>urn:rprimus:github:xvw:yocaml2-empty-template</id>
+  <published>2024-05-03T11:10:02Z</published>
+  <updated>2024-05-03T11:10:02Z</updated>
+  <content type="html">
+   A dead simple skeleton for bootstrapping a blog using YOCaml 2
+  </content>
+ </entry>
+ <entry>
+  <title>MashyBasker: lfx-riscv-code-challenge</title>
+  <author>
+   <name>MashyBasker</name>
+  </author>
+  <link href="https://github.com/MashyBasker/lfx-riscv-code-challenge" />
+  <id>urn:rprimus:github:MashyBasker:lfx-riscv-code-challenge</id>
+  <published>2024-05-03T09:59:36Z</published>
+  <updated>2024-05-03T09:59:36Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>lsylvestre: HLPP24</title>
+  <author>
+   <name>lsylvestre</name>
+  </author>
+  <link href="https://github.com/lsylvestre/HLPP24" />
+  <id>urn:rprimus:github:lsylvestre:HLPP24</id>
+  <published>2024-05-03T09:33:59Z</published>
+  <updated>2024-05-03T09:33:59Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>Cethannel: mocaml</title>
   <author>
@@ -208,136 +286,6 @@
   <id>urn:rprimus:github:almathaler:KATSolver2</id>
   <published>2024-05-02T00:51:49Z</published>
   <updated>2024-05-02T00:51:49Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>hortixs: web-OCaml</title>
-  <author>
-   <name>hortixs</name>
-  </author>
-  <link href="https://github.com/hortixs/web-OCaml" />
-  <id>urn:rprimus:github:hortixs:web-OCaml</id>
-  <published>2024-05-01T22:40:15Z</published>
-  <updated>2024-05-01T22:40:15Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>joshuaseaton: monkey-ml</title>
-  <author>
-   <name>joshuaseaton</name>
-  </author>
-  <link href="https://github.com/joshuaseaton/monkey-ml" />
-  <id>urn:rprimus:github:joshuaseaton:monkey-ml</id>
-  <published>2024-05-01T15:29:31Z</published>
-  <updated>2024-05-01T15:29:31Z</updated>
-  <content type="html">
-   Writing an Interpreter and Compiler in Go in OCaml
-  </content>
- </entry>
- <entry>
-  <title>patricoferris: network</title>
-  <author>
-   <name>patricoferris</name>
-  </author>
-  <link href="https://github.com/patricoferris/network" />
-  <id>urn:rprimus:github:patricoferris:network</id>
-  <published>2024-05-01T13:29:59Z</published>
-  <updated>2024-05-01T13:29:59Z</updated>
-  <content type="html">
-   Scheduler-agnostic networking library with structured concurrency for OCaml
-  </content>
- </entry>
- <entry>
-  <title>nnimbo: llvm_of_ocaml</title>
-  <author>
-   <name>nnimbo</name>
-  </author>
-  <link href="https://github.com/nnimbo/llvm_of_ocaml" />
-  <id>urn:rprimus:github:nnimbo:llvm_of_ocaml</id>
-  <published>2024-05-01T09:59:06Z</published>
-  <updated>2024-05-01T09:59:06Z</updated>
-  <content type="html">
-   LLVM to OCaml transpiler
-  </content>
- </entry>
- <entry>
-  <title>theogoix: my-git</title>
-  <author>
-   <name>theogoix</name>
-  </author>
-  <link href="https://github.com/theogoix/my-git" />
-  <id>urn:rprimus:github:theogoix:my-git</id>
-  <published>2024-05-01T09:12:27Z</published>
-  <updated>2024-05-01T09:12:27Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>jyssh: csdsa</title>
-  <author>
-   <name>jyssh</name>
-  </author>
-  <link href="https://github.com/jyssh/csdsa" />
-  <id>urn:rprimus:github:jyssh:csdsa</id>
-  <published>2024-05-01T08:05:38Z</published>
-  <updated>2024-05-01T08:05:38Z</updated>
-  <content type="html">
-   Exercises from A Common Sense Guide to Data Structures and Algorithms by Jan Wengrow
-  </content>
- </entry>
- <entry>
-  <title>makavelli666: tsp_simulated_annealling_ocaml</title>
-  <author>
-   <name>makavelli666</name>
-  </author>
-  <link href="https://github.com/makavelli666/tsp_simulated_annealling_ocaml" />
-  <id>urn:rprimus:github:makavelli666:tsp_simulated_annealling_ocaml</id>
-  <published>2024-05-01T01:56:12Z</published>
-  <updated>2024-05-01T01:56:12Z</updated>
-  <content type="html">
-   tsp-recuit_simulÃ©-simulated annealing
-  </content>
- </entry>
- <entry>
-  <title>LuminaScript: Micro-C</title>
-  <author>
-   <name>LuminaScript</name>
-  </author>
-  <link href="https://github.com/LuminaScript/Micro-C" />
-  <id>urn:rprimus:github:LuminaScript:Micro-C</id>
-  <published>2024-05-01T01:48:45Z</published>
-  <updated>2024-05-01T01:48:45Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>fow5040: nvoa-camel</title>
-  <author>
-   <name>fow5040</name>
-  </author>
-  <link href="https://github.com/fow5040/nvoa-camel" />
-  <id>urn:rprimus:github:fow5040:nvoa-camel</id>
-  <published>2024-05-01T01:01:02Z</published>
-  <updated>2024-05-01T01:01:02Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>GaloisInc: simple-smt-ocaml</title>
-  <author>
-   <name>GaloisInc</name>
-  </author>
-  <link href="https://github.com/GaloisInc/simple-smt-ocaml" />
-  <id>urn:rprimus:github:GaloisInc:simple-smt-ocaml</id>
-  <published>2024-05-01T00:33:47Z</published>
-  <updated>2024-05-01T00:33:47Z</updated>
   <content type="html">
    
   </content>
