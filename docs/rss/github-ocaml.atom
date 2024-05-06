@@ -2,292 +2,266 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2024-05-03T22:55:54Z</updated>
+<updated>2024-05-06T10:01:35Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
  <entry>
-  <title>awkren: mlox</title>
+  <title>MagaliCASA: File_language</title>
   <author>
-   <name>awkren</name>
+   <name>MagaliCASA</name>
   </author>
-  <link href="https://github.com/awkren/mlox" />
-  <id>urn:rprimus:github:awkren:mlox</id>
-  <published>2024-05-03T22:55:54Z</published>
-  <updated>2024-05-03T22:55:54Z</updated>
+  <link href="https://github.com/MagaliCASA/File_language" />
+  <id>urn:rprimus:github:MagaliCASA:File_language</id>
+  <published>2024-05-06T10:01:35Z</published>
+  <updated>2024-05-06T10:01:35Z</updated>
   <content type="html">
-   trying to implement a lox interpreter in ocaml
+   New language for the manipulation of files and repositories.
   </content>
  </entry>
  <entry>
-  <title>jmyphn: risk_of_ocaml</title>
+  <title>Asrat77: hello_ocam</title>
   <author>
-   <name>jmyphn</name>
+   <name>Asrat77</name>
   </author>
-  <link href="https://github.com/jmyphn/risk_of_ocaml" />
-  <id>urn:rprimus:github:jmyphn:risk_of_ocaml</id>
-  <published>2024-05-03T17:11:57Z</published>
-  <updated>2024-05-03T17:11:57Z</updated>
+  <link href="https://github.com/Asrat77/hello_ocam" />
+  <id>urn:rprimus:github:Asrat77:hello_ocam</id>
+  <published>2024-05-06T09:31:52Z</published>
+  <updated>2024-05-06T09:31:52Z</updated>
+  <content type="html">
+   First OCaml Project. Might get interesting...
+  </content>
+ </entry>
+ <entry>
+  <title>ahrefs: ppx_deriving_variant_string</title>
+  <author>
+   <name>ahrefs</name>
+  </author>
+  <link href="https://github.com/ahrefs/ppx_deriving_variant_string" />
+  <id>urn:rprimus:github:ahrefs:ppx_deriving_variant_string</id>
+  <published>2024-05-06T06:37:58Z</published>
+  <updated>2024-05-06T06:37:58Z</updated>
+  <content type="html">
+   OCaml PPX deriver that generates converters between regular or polymorphic variants and strings
+  </content>
+ </entry>
+ <entry>
+  <title>dannyvelas: jqaml</title>
+  <author>
+   <name>dannyvelas</name>
+  </author>
+  <link href="https://github.com/dannyvelas/jqaml" />
+  <id>urn:rprimus:github:dannyvelas:jqaml</id>
+  <published>2024-05-06T02:56:56Z</published>
+  <updated>2024-05-06T02:56:56Z</updated>
+  <content type="html">
+   jq implementation in ocaml
+  </content>
+ </entry>
+ <entry>
+  <title>jdsee: aoc</title>
+  <author>
+   <name>jdsee</name>
+  </author>
+  <link href="https://github.com/jdsee/aoc" />
+  <id>urn:rprimus:github:jdsee:aoc</id>
+  <published>2024-05-05T21:34:08Z</published>
+  <updated>2024-05-05T21:34:08Z</updated>
+  <content type="html">
+   My solutions to the Advent of Code puzzles
+  </content>
+ </entry>
+ <entry>
+  <title>Pirate-Hunter-Zoro: OCaml</title>
+  <author>
+   <name>Pirate-Hunter-Zoro</name>
+  </author>
+  <link href="https://github.com/Pirate-Hunter-Zoro/OCaml" />
+  <id>urn:rprimus:github:Pirate-Hunter-Zoro:OCaml</id>
+  <published>2024-05-05T21:12:00Z</published>
+  <updated>2024-05-05T21:12:00Z</updated>
+  <content type="html">
+   This is my compilation of OCaml code which performs various operations on lists via recursion. Making this repository will keep me accountable on making sure the code is organized :-).
+  </content>
+ </entry>
+ <entry>
+  <title>MichelBartels: early-parser</title>
+  <author>
+   <name>MichelBartels</name>
+  </author>
+  <link href="https://github.com/MichelBartels/early-parser" />
+  <id>urn:rprimus:github:MichelBartels:early-parser</id>
+  <published>2024-05-05T18:27:55Z</published>
+  <updated>2024-05-05T18:27:55Z</updated>
+  <content type="html">
+   Quick and dirty early parser without any optimisations (coursework)
+  </content>
+ </entry>
+ <entry>
+  <title>abdoul-aziz: programmation_fonctionnelle</title>
+  <author>
+   <name>abdoul-aziz</name>
+  </author>
+  <link href="https://github.com/abdoul-aziz/programmation_fonctionnelle" />
+  <id>urn:rprimus:github:abdoul-aziz:programmation_fonctionnelle</id>
+  <published>2024-05-05T17:10:33Z</published>
+  <updated>2024-05-05T17:10:33Z</updated>
+  <content type="html">
+   apprendre la programmation fonctionnelle
+  </content>
+ </entry>
+ <entry>
+  <title>heaven-in-a-wildflower: COL226</title>
+  <author>
+   <name>heaven-in-a-wildflower</name>
+  </author>
+  <link href="https://github.com/heaven-in-a-wildflower/COL226" />
+  <id>urn:rprimus:github:heaven-in-a-wildflower:COL226</id>
+  <published>2024-05-05T15:40:36Z</published>
+  <updated>2024-05-05T15:40:36Z</updated>
+  <content type="html">
+   Programming Languages
+  </content>
+ </entry>
+ <entry>
+  <title>Carson-9: TP-ENS</title>
+  <author>
+   <name>Carson-9</name>
+  </author>
+  <link href="https://github.com/Carson-9/TP-ENS" />
+  <id>urn:rprimus:github:Carson-9:TP-ENS</id>
+  <published>2024-05-05T15:24:55Z</published>
+  <updated>2024-05-05T15:24:55Z</updated>
+  <content type="html">
+   Un endroit qui regroupe des corrections des TP algorithmiques ENS
+  </content>
+ </entry>
+ <entry>
+  <title>smercer10: camelot</title>
+  <author>
+   <name>smercer10</name>
+  </author>
+  <link href="https://github.com/smercer10/camelot" />
+  <id>urn:rprimus:github:smercer10:camelot</id>
+  <published>2024-05-05T13:45:44Z</published>
+  <updated>2024-05-05T13:45:44Z</updated>
+  <content type="html">
+   A UCI-compatible chess engine.
+  </content>
+ </entry>
+ <entry>
+  <title>noghartt: ztl</title>
+  <author>
+   <name>noghartt</name>
+  </author>
+  <link href="https://github.com/noghartt/ztl" />
+  <id>urn:rprimus:github:noghartt:ztl</id>
+  <published>2024-05-05T01:46:09Z</published>
+  <updated>2024-05-05T01:46:09Z</updated>
+  <content type="html">
+   A terminal-driven app to improve productivity written in OCaml
+  </content>
+ </entry>
+ <entry>
+  <title>Caio-Nogueira: oRs-interpreter</title>
+  <author>
+   <name>Caio-Nogueira</name>
+  </author>
+  <link href="https://github.com/Caio-Nogueira/oRs-interpreter" />
+  <id>urn:rprimus:github:Caio-Nogueira:oRs-interpreter</id>
+  <published>2024-05-04T23:35:00Z</published>
+  <updated>2024-05-04T23:35:00Z</updated>
+  <content type="html">
+   Interpreter frontend implemented in oCaml 
+  </content>
+ </entry>
+ <entry>
+  <title>ggsmith842: crypto-hacks</title>
+  <author>
+   <name>ggsmith842</name>
+  </author>
+  <link href="https://github.com/ggsmith842/crypto-hacks" />
+  <id>urn:rprimus:github:ggsmith842:crypto-hacks</id>
+  <published>2024-05-04T19:15:13Z</published>
+  <updated>2024-05-04T19:15:13Z</updated>
+  <content type="html">
+   CTF challenges from the Cryptohack Cryptography course.
+  </content>
+ </entry>
+ <entry>
+  <title>parth1212121: Prolog-Interpreter</title>
+  <author>
+   <name>parth1212121</name>
+  </author>
+  <link href="https://github.com/parth1212121/Prolog-Interpreter" />
+  <id>urn:rprimus:github:parth1212121:Prolog-Interpreter</id>
+  <published>2024-05-04T19:05:44Z</published>
+  <updated>2024-05-04T19:05:44Z</updated>
+  <content type="html">
+   The Project is aimed at writing an Interpreter for Prolog in Ocaml.
+  </content>
+ </entry>
+ <entry>
+  <title>NoMrBody: OCaml-advanture</title>
+  <author>
+   <name>NoMrBody</name>
+  </author>
+  <link href="https://github.com/NoMrBody/OCaml-advanture" />
+  <id>urn:rprimus:github:NoMrBody:OCaml-advanture</id>
+  <published>2024-05-04T18:34:19Z</published>
+  <updated>2024-05-04T18:34:19Z</updated>
+  <content type="html">
+   Repository that contains solutions of exercises during the functional programming course
+  </content>
+ </entry>
+ <entry>
+  <title>ssbx: chesspuzzles</title>
+  <author>
+   <name>ssbx</name>
+  </author>
+  <link href="https://github.com/ssbx/chesspuzzles" />
+  <id>urn:rprimus:github:ssbx:chesspuzzles</id>
+  <published>2024-05-04T16:00:41Z</published>
+  <updated>2024-05-04T16:00:41Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>dboris: camlkit-tools</title>
+  <title>mbarbin: visa-debugger</title>
   <author>
-   <name>dboris</name>
+   <name>mbarbin</name>
   </author>
-  <link href="https://github.com/dboris/camlkit-tools" />
-  <id>urn:rprimus:github:dboris:camlkit-tools</id>
-  <published>2024-05-03T15:09:41Z</published>
-  <updated>2024-05-03T15:09:41Z</updated>
+  <link href="https://github.com/mbarbin/visa-debugger" />
+  <id>urn:rprimus:github:mbarbin:visa-debugger</id>
+  <published>2024-05-04T09:41:04Z</published>
+  <updated>2024-05-04T09:41:04Z</updated>
+  <content type="html">
+   A graphical debugger for visa assembly programs (bopkit)
+  </content>
+ </entry>
+ <entry>
+  <title>Mene-B: DM-n-4-informatique-Fermat</title>
+  <author>
+   <name>Mene-B</name>
+  </author>
+  <link href="https://github.com/Mene-B/DM-n-4-informatique-Fermat" />
+  <id>urn:rprimus:github:Mene-B:DM-n-4-informatique-Fermat</id>
+  <published>2024-05-04T06:12:57Z</published>
+  <updated>2024-05-04T06:12:57Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>xvw: yocaml2-empty-template</title>
+  <title>Ibrahim-Haroon: Vector_OCaml</title>
   <author>
-   <name>xvw</name>
+   <name>Ibrahim-Haroon</name>
   </author>
-  <link href="https://github.com/xvw/yocaml2-empty-template" />
-  <id>urn:rprimus:github:xvw:yocaml2-empty-template</id>
-  <published>2024-05-03T11:10:02Z</published>
-  <updated>2024-05-03T11:10:02Z</updated>
+  <link href="https://github.com/Ibrahim-Haroon/Vector_OCaml" />
+  <id>urn:rprimus:github:Ibrahim-Haroon:Vector_OCaml</id>
+  <published>2024-05-04T05:09:17Z</published>
+  <updated>2024-05-04T05:09:17Z</updated>
   <content type="html">
-   A dead simple skeleton for bootstrapping a blog using YOCaml 2
-  </content>
- </entry>
- <entry>
-  <title>MashyBasker: lfx-riscv-code-challenge</title>
-  <author>
-   <name>MashyBasker</name>
-  </author>
-  <link href="https://github.com/MashyBasker/lfx-riscv-code-challenge" />
-  <id>urn:rprimus:github:MashyBasker:lfx-riscv-code-challenge</id>
-  <published>2024-05-03T09:59:36Z</published>
-  <updated>2024-05-03T09:59:36Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>lsylvestre: HLPP24</title>
-  <author>
-   <name>lsylvestre</name>
-  </author>
-  <link href="https://github.com/lsylvestre/HLPP24" />
-  <id>urn:rprimus:github:lsylvestre:HLPP24</id>
-  <published>2024-05-03T09:33:59Z</published>
-  <updated>2024-05-03T09:33:59Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Cethannel: mocaml</title>
-  <author>
-   <name>Cethannel</name>
-  </author>
-  <link href="https://github.com/Cethannel/mocaml" />
-  <id>urn:rprimus:github:Cethannel:mocaml</id>
-  <published>2024-05-03T07:25:26Z</published>
-  <updated>2024-05-03T07:25:26Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>tonychenxyz: TreeLang</title>
-  <author>
-   <name>tonychenxyz</name>
-  </author>
-  <link href="https://github.com/tonychenxyz/TreeLang" />
-  <id>urn:rprimus:github:tonychenxyz:TreeLang</id>
-  <published>2024-05-03T03:37:35Z</published>
-  <updated>2024-05-03T03:37:35Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>yacinebg: MicroJS_Eclat</title>
-  <author>
-   <name>yacinebg</name>
-  </author>
-  <link href="https://github.com/yacinebg/MicroJS_Eclat" />
-  <id>urn:rprimus:github:yacinebg:MicroJS_Eclat</id>
-  <published>2024-05-03T00:10:08Z</published>
-  <updated>2024-05-03T00:10:08Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>leostera: riot_fetch_test</title>
-  <author>
-   <name>leostera</name>
-  </author>
-  <link href="https://github.com/leostera/riot_fetch_test" />
-  <id>urn:rprimus:github:leostera:riot_fetch_test</id>
-  <published>2024-05-02T20:43:11Z</published>
-  <updated>2024-05-02T20:43:11Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>Adrien-No: partition-algebra</title>
-  <author>
-   <name>Adrien-No</name>
-  </author>
-  <link href="https://github.com/Adrien-No/partition-algebra" />
-  <id>urn:rprimus:github:Adrien-No:partition-algebra</id>
-  <published>2024-05-02T18:58:59Z</published>
-  <updated>2024-05-02T18:58:59Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>davesnx: test-http-ocaml</title>
-  <author>
-   <name>davesnx</name>
-  </author>
-  <link href="https://github.com/davesnx/test-http-ocaml" />
-  <id>urn:rprimus:github:davesnx:test-http-ocaml</id>
-  <published>2024-05-02T18:04:33Z</published>
-  <updated>2024-05-02T18:04:33Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>dboris: camlkit-examples</title>
-  <author>
-   <name>dboris</name>
-  </author>
-  <link href="https://github.com/dboris/camlkit-examples" />
-  <id>urn:rprimus:github:dboris:camlkit-examples</id>
-  <published>2024-05-02T17:21:37Z</published>
-  <updated>2024-05-02T17:21:37Z</updated>
-  <content type="html">
-   Example macOS and iOS apps using Camlkit
-  </content>
- </entry>
- <entry>
-  <title>varunshah4554: ASTOcaml</title>
-  <author>
-   <name>varunshah4554</name>
-  </author>
-  <link href="https://github.com/varunshah4554/ASTOcaml" />
-  <id>urn:rprimus:github:varunshah4554:ASTOcaml</id>
-  <published>2024-05-02T13:51:38Z</published>
-  <updated>2024-05-02T13:51:38Z</updated>
-  <content type="html">
-   AST in Ocaml
-  </content>
- </entry>
- <entry>
-  <title>dariusf: fable</title>
-  <author>
-   <name>dariusf</name>
-  </author>
-  <link href="https://github.com/dariusf/fable" />
-  <id>urn:rprimus:github:dariusf:fable</id>
-  <published>2024-05-02T13:44:39Z</published>
-  <updated>2024-05-02T13:44:39Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>punchagan: revdeps-prototype</title>
-  <author>
-   <name>punchagan</name>
-  </author>
-  <link href="https://github.com/punchagan/revdeps-prototype" />
-  <id>urn:rprimus:github:punchagan:revdeps-prototype</id>
-  <published>2024-05-02T12:48:52Z</published>
-  <updated>2024-05-02T12:48:52Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>EnzoGitMoreau: OcamlProver</title>
-  <author>
-   <name>EnzoGitMoreau</name>
-  </author>
-  <link href="https://github.com/EnzoGitMoreau/OcamlProver" />
-  <id>urn:rprimus:github:EnzoGitMoreau:OcamlProver</id>
-  <published>2024-05-02T11:11:21Z</published>
-  <updated>2024-05-02T11:11:21Z</updated>
-  <content type="html">
-   Prover developed in Ocaml, proof assistant for first order logic 
-  </content>
- </entry>
- <entry>
-  <title>riczenyx: ENSIIE-IPFN12</title>
-  <author>
-   <name>riczenyx</name>
-  </author>
-  <link href="https://github.com/riczenyx/ENSIIE-IPFN12" />
-  <id>urn:rprimus:github:riczenyx:ENSIIE-IPFN12</id>
-  <published>2024-05-02T09:14:40Z</published>
-  <updated>2024-05-02T09:14:40Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>acorrenson: minilia</title>
-  <author>
-   <name>acorrenson</name>
-  </author>
-  <link href="https://github.com/acorrenson/minilia" />
-  <id>urn:rprimus:github:acorrenson:minilia</id>
-  <published>2024-05-02T08:58:06Z</published>
-  <updated>2024-05-02T08:58:06Z</updated>
-  <content type="html">
-   Minimalistic OCaml API to send LIA queries to Z3
-  </content>
- </entry>
- <entry>
-  <title>pingpingy1: rosen-number-theory</title>
-  <author>
-   <name>pingpingy1</name>
-  </author>
-  <link href="https://github.com/pingpingy1/rosen-number-theory" />
-  <id>urn:rprimus:github:pingpingy1:rosen-number-theory</id>
-  <published>2024-05-02T07:15:54Z</published>
-  <updated>2024-05-02T07:15:54Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>mateogo42: ov</title>
-  <author>
-   <name>mateogo42</name>
-  </author>
-  <link href="https://github.com/mateogo42/ov" />
-  <id>urn:rprimus:github:mateogo42:ov</id>
-  <published>2024-05-02T01:15:23Z</published>
-  <updated>2024-05-02T01:15:23Z</updated>
-  <content type="html">
-   Vim-like text editor in OCaml
-  </content>
- </entry>
- <entry>
-  <title>almathaler: KATSolver2</title>
-  <author>
-   <name>almathaler</name>
-  </author>
-  <link href="https://github.com/almathaler/KATSolver2" />
-  <id>urn:rprimus:github:almathaler:KATSolver2</id>
-  <published>2024-05-02T00:51:49Z</published>
-  <updated>2024-05-02T00:51:49Z</updated>
-  <content type="html">
-   
+   implementing a dynamic array in OCaml to learn
   </content>
  </entry>
 </feed>
