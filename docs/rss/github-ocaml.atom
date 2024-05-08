@@ -2,8 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-ocaml.atom"/>
 <id>urn:rprimus:github:newocamlrepos</id>
-<updated>2024-05-07T00:06:48Z</updated>
+<updated>2024-05-08T04:12:06Z</updated>
 <title type='text'>New GitHub Ocaml Repos</title>
+ <entry>
+  <title>33Arsenic75: ProCaml</title>
+  <author>
+   <name>33Arsenic75</name>
+  </author>
+  <link href="https://github.com/33Arsenic75/ProCaml" />
+  <id>urn:rprimus:github:33Arsenic75:ProCaml</id>
+  <published>2024-05-08T04:12:06Z</published>
+  <updated>2024-05-08T04:12:06Z</updated>
+  <content type="html">
+   Prolog Interpreter in OCaml
+  </content>
+ </entry>
+ <entry>
+  <title>GrumpyBumbleBee: CSCI2041</title>
+  <author>
+   <name>GrumpyBumbleBee</name>
+  </author>
+  <link href="https://github.com/GrumpyBumbleBee/CSCI2041" />
+  <id>urn:rprimus:github:GrumpyBumbleBee:CSCI2041</id>
+  <published>2024-05-07T22:50:04Z</published>
+  <updated>2024-05-07T22:50:04Z</updated>
+  <content type="html">
+   CSCI2041 [assignments, labs, homework] 
+  </content>
+ </entry>
+ <entry>
+  <title>drewwilen: CS3110FinalProject</title>
+  <author>
+   <name>drewwilen</name>
+  </author>
+  <link href="https://github.com/drewwilen/CS3110FinalProject" />
+  <id>urn:rprimus:github:drewwilen:CS3110FinalProject</id>
+  <published>2024-05-07T20:49:34Z</published>
+  <updated>2024-05-07T20:49:34Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>isnotJack: M.Sc._University</title>
+  <author>
+   <name>isnotJack</name>
+  </author>
+  <link href="https://github.com/isnotJack/M.Sc._University" />
+  <id>urn:rprimus:github:isnotJack:M.Sc._University</id>
+  <published>2024-05-07T17:46:09Z</published>
+  <updated>2024-05-07T17:46:09Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
+  <title>oyumusak: h42n42rework</title>
+  <author>
+   <name>oyumusak</name>
+  </author>
+  <link href="https://github.com/oyumusak/h42n42rework" />
+  <id>urn:rprimus:github:oyumusak:h42n42rework</id>
+  <published>2024-05-07T15:00:46Z</published>
+  <updated>2024-05-07T15:00:46Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
  <entry>
   <title>esohel30: Ocaml-Experience</title>
   <author>
@@ -53,7 +118,7 @@
   <published>2024-05-06T17:53:12Z</published>
   <updated>2024-05-06T17:53:12Z</updated>
   <content type="html">
-   Lisp interpreter in ocaml
+   A simple Lisp interpreter in ocaml
   </content>
  </entry>
  <entry>
@@ -200,6 +265,19 @@
   </content>
  </entry>
  <entry>
+  <title>Neptunium931: ocamlLearn</title>
+  <author>
+   <name>Neptunium931</name>
+  </author>
+  <link href="https://github.com/Neptunium931/ocamlLearn" />
+  <id>urn:rprimus:github:Neptunium931:ocamlLearn</id>
+  <published>2024-05-06T08:58:45Z</published>
+  <updated>2024-05-06T08:58:45Z</updated>
+  <content type="html">
+   
+  </content>
+ </entry>
+ <entry>
   <title>ahrefs: ppx_deriving_variant_string</title>
   <author>
    <name>ahrefs</name>
@@ -223,110 +301,6 @@
   <updated>2024-05-06T02:56:56Z</updated>
   <content type="html">
    jq implementation in ocaml
-  </content>
- </entry>
- <entry>
-  <title>jdsee: aoc</title>
-  <author>
-   <name>jdsee</name>
-  </author>
-  <link href="https://github.com/jdsee/aoc" />
-  <id>urn:rprimus:github:jdsee:aoc</id>
-  <published>2024-05-05T21:34:08Z</published>
-  <updated>2024-05-05T21:34:08Z</updated>
-  <content type="html">
-   My solutions to the Advent of Code puzzles
-  </content>
- </entry>
- <entry>
-  <title>Pirate-Hunter-Zoro: OCaml</title>
-  <author>
-   <name>Pirate-Hunter-Zoro</name>
-  </author>
-  <link href="https://github.com/Pirate-Hunter-Zoro/OCaml" />
-  <id>urn:rprimus:github:Pirate-Hunter-Zoro:OCaml</id>
-  <published>2024-05-05T21:12:00Z</published>
-  <updated>2024-05-05T21:12:00Z</updated>
-  <content type="html">
-   This is my compilation of OCaml code which performs various operations on lists via recursion. Making this repository will keep me accountable on making sure the code is organized :-).
-  </content>
- </entry>
- <entry>
-  <title>MichelBartels: early-parser</title>
-  <author>
-   <name>MichelBartels</name>
-  </author>
-  <link href="https://github.com/MichelBartels/early-parser" />
-  <id>urn:rprimus:github:MichelBartels:early-parser</id>
-  <published>2024-05-05T18:27:55Z</published>
-  <updated>2024-05-05T18:27:55Z</updated>
-  <content type="html">
-   Quick and dirty early parser without any optimisations (coursework)
-  </content>
- </entry>
- <entry>
-  <title>abdoul-aziz: programmation_fonctionnelle</title>
-  <author>
-   <name>abdoul-aziz</name>
-  </author>
-  <link href="https://github.com/abdoul-aziz/programmation_fonctionnelle" />
-  <id>urn:rprimus:github:abdoul-aziz:programmation_fonctionnelle</id>
-  <published>2024-05-05T17:10:33Z</published>
-  <updated>2024-05-05T17:10:33Z</updated>
-  <content type="html">
-   apprendre la programmation fonctionnelle
-  </content>
- </entry>
- <entry>
-  <title>heaven-in-a-wildflower: COL226</title>
-  <author>
-   <name>heaven-in-a-wildflower</name>
-  </author>
-  <link href="https://github.com/heaven-in-a-wildflower/COL226" />
-  <id>urn:rprimus:github:heaven-in-a-wildflower:COL226</id>
-  <published>2024-05-05T15:40:36Z</published>
-  <updated>2024-05-05T15:40:36Z</updated>
-  <content type="html">
-   Programming Languages
-  </content>
- </entry>
- <entry>
-  <title>Carson-9: TP-ENS</title>
-  <author>
-   <name>Carson-9</name>
-  </author>
-  <link href="https://github.com/Carson-9/TP-ENS" />
-  <id>urn:rprimus:github:Carson-9:TP-ENS</id>
-  <published>2024-05-05T15:24:55Z</published>
-  <updated>2024-05-05T15:24:55Z</updated>
-  <content type="html">
-   Un endroit qui regroupe des corrections des TP algorithmiques ENS
-  </content>
- </entry>
- <entry>
-  <title>smercer10: camelot</title>
-  <author>
-   <name>smercer10</name>
-  </author>
-  <link href="https://github.com/smercer10/camelot" />
-  <id>urn:rprimus:github:smercer10:camelot</id>
-  <published>2024-05-05T13:45:44Z</published>
-  <updated>2024-05-05T13:45:44Z</updated>
-  <content type="html">
-   A UCI-compatible chess engine.
-  </content>
- </entry>
- <entry>
-  <title>noghartt: ztl</title>
-  <author>
-   <name>noghartt</name>
-  </author>
-  <link href="https://github.com/noghartt/ztl" />
-  <id>urn:rprimus:github:noghartt:ztl</id>
-  <published>2024-05-05T01:46:09Z</published>
-  <updated>2024-05-05T01:46:09Z</updated>
-  <content type="html">
-   A terminal-driven app to improve productivity written in OCaml
   </content>
  </entry>
 </feed>
