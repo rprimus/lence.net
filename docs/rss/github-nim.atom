@@ -2,97 +2,136 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link rel="self" type="application/atom+xml" href="http://lence.net/github-nim.atom"/>
 <id>urn:rprimus:github:newnimrepos</id>
-<updated>2024-05-07T21:26:41Z</updated>
+<updated>2024-05-12T11:57:16Z</updated>
 <title type='text'>New GitHub Nim Repos</title>
  <entry>
-  <title>rockcavera: nim-nloxvm</title>
+  <title>mantielero: konva.nim</title>
   <author>
-   <name>rockcavera</name>
+   <name>mantielero</name>
   </author>
-  <link href="https://github.com/rockcavera/nim-nloxvm" />
-  <id>urn:rprimus:github:rockcavera:nim-nloxvm</id>
-  <published>2024-05-07T21:26:41Z</published>
-  <updated>2024-05-07T21:26:41Z</updated>
+  <link href="https://github.com/mantielero/konva.nim" />
+  <id>urn:rprimus:github:mantielero:konva.nim</id>
+  <published>2024-05-12T11:57:16Z</published>
+  <updated>2024-05-12T11:57:16Z</updated>
   <content type="html">
-   nloxvm is a Nim implementation of a bytecode virtual machine for interpreting the Lox programming language
+   Nim bindings to https://konvajs.org
   </content>
  </entry>
  <entry>
-  <title>system64MC: nim-tilengine</title>
+  <title>Ultramarine-Linux: mkfstab</title>
   <author>
-   <name>system64MC</name>
+   <name>Ultramarine-Linux</name>
   </author>
-  <link href="https://github.com/system64MC/nim-tilengine" />
-  <id>urn:rprimus:github:system64MC:nim-tilengine</id>
-  <published>2024-05-07T20:59:59Z</published>
-  <updated>2024-05-07T20:59:59Z</updated>
+  <link href="https://github.com/Ultramarine-Linux/mkfstab" />
+  <id>urn:rprimus:github:Ultramarine-Linux:mkfstab</id>
+  <published>2024-05-12T10:45:13Z</published>
+  <updated>2024-05-12T10:45:13Z</updated>
   <content type="html">
-   
+   An alternative to genfstab: generate output suitable for addition to /etc/fstab
   </content>
  </entry>
  <entry>
-  <title>0xOvid: NimSFAT</title>
-  <author>
-   <name>0xOvid</name>
-  </author>
-  <link href="https://github.com/0xOvid/NimSFAT" />
-  <id>urn:rprimus:github:0xOvid:NimSFAT</id>
-  <published>2024-05-07T20:31:02Z</published>
-  <updated>2024-05-07T20:31:02Z</updated>
-  <content type="html">
-   Nim implementation of the SFAT file system. SFAT is a simplified version of the FAT16 file system
-  </content>
- </entry>
- <entry>
-  <title>ironpython2001: nimpractice</title>
-  <author>
-   <name>ironpython2001</name>
-  </author>
-  <link href="https://github.com/ironpython2001/nimpractice" />
-  <id>urn:rprimus:github:ironpython2001:nimpractice</id>
-  <published>2024-05-07T11:04:58Z</published>
-  <updated>2024-05-07T11:04:58Z</updated>
-  <content type="html">
-   
-  </content>
- </entry>
- <entry>
-  <title>fillipehmeireles: nfuzz</title>
+  <title>fillipehmeireles: l1nkl1st3r</title>
   <author>
    <name>fillipehmeireles</name>
   </author>
-  <link href="https://github.com/fillipehmeireles/nfuzz" />
-  <id>urn:rprimus:github:fillipehmeireles:nfuzz</id>
-  <published>2024-05-06T20:56:50Z</published>
-  <updated>2024-05-06T20:56:50Z</updated>
+  <link href="https://github.com/fillipehmeireles/l1nkl1st3r" />
+  <id>urn:rprimus:github:fillipehmeireles:l1nkl1st3r</id>
+  <published>2024-05-12T06:26:38Z</published>
+  <updated>2024-05-12T06:26:38Z</updated>
+  <content type="html">
+   Fast webpage link collector for penetration testers
+  </content>
+ </entry>
+ <entry>
+  <title>RuBublik: NimShot</title>
+  <author>
+   <name>RuBublik</name>
+  </author>
+  <link href="https://github.com/RuBublik/NimShot" />
+  <id>urn:rprimus:github:RuBublik:NimShot</id>
+  <published>2024-05-11T17:58:47Z</published>
+  <updated>2024-05-11T17:58:47Z</updated>
+  <content type="html">
+   Nim windows screenshoot tool.
+  </content>
+ </entry>
+ <entry>
+  <title>blackmius: realworld-mike</title>
+  <author>
+   <name>blackmius</name>
+  </author>
+  <link href="https://github.com/blackmius/realworld-mike" />
+  <id>urn:rprimus:github:blackmius:realworld-mike</id>
+  <published>2024-05-11T14:21:25Z</published>
+  <updated>2024-05-11T14:21:25Z</updated>
+  <content type="html">
+   Real world example using mike and ponari
+  </content>
+ </entry>
+ <entry>
+  <title>HapticX: happyx-ui</title>
+  <author>
+   <name>HapticX</name>
+  </author>
+  <link href="https://github.com/HapticX/happyx-ui" />
+  <id>urn:rprimus:github:HapticX:happyx-ui</id>
+  <published>2024-05-11T03:42:46Z</published>
+  <updated>2024-05-11T03:42:46Z</updated>
+  <content type="html">
+   HappyX UI library
+  </content>
+ </entry>
+ <entry>
+  <title>system64MC: tilengineFramework</title>
+  <author>
+   <name>system64MC</name>
+  </author>
+  <link href="https://github.com/system64MC/tilengineFramework" />
+  <id>urn:rprimus:github:system64MC:tilengineFramework</id>
+  <published>2024-05-10T22:55:36Z</published>
+  <updated>2024-05-10T22:55:36Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>carrexxii: nimg</title>
+  <title>FyraLabs: nimsutils</title>
   <author>
-   <name>carrexxii</name>
+   <name>FyraLabs</name>
   </author>
-  <link href="https://github.com/carrexxii/nimg" />
-  <id>urn:rprimus:github:carrexxii:nimg</id>
-  <published>2024-05-06T17:55:38Z</published>
-  <updated>2024-05-06T17:55:38Z</updated>
+  <link href="https://github.com/FyraLabs/nimsutils" />
+  <id>urn:rprimus:github:FyraLabs:nimsutils</id>
+  <published>2024-05-10T15:21:56Z</published>
+  <updated>2024-05-10T15:21:56Z</updated>
   <content type="html">
    
   </content>
  </entry>
  <entry>
-  <title>CentRa-Linux: citrus</title>
+  <title>NimVenture: useragents</title>
   <author>
-   <name>CentRa-Linux</name>
+   <name>NimVenture</name>
   </author>
-  <link href="https://github.com/CentRa-Linux/citrus" />
-  <id>urn:rprimus:github:CentRa-Linux:citrus</id>
-  <published>2024-05-06T07:19:36Z</published>
-  <updated>2024-05-06T07:19:36Z</updated>
+  <link href="https://github.com/NimVenture/useragents" />
+  <id>urn:rprimus:github:NimVenture:useragents</id>
+  <published>2024-05-10T10:56:59Z</published>
+  <updated>2024-05-10T10:56:59Z</updated>
   <content type="html">
-   
+   useragents
+  </content>
+ </entry>
+ <entry>
+  <title>anosatsuk124: discord-rtmp-bot.nim</title>
+  <author>
+   <name>anosatsuk124</name>
+  </author>
+  <link href="https://github.com/anosatsuk124/discord-rtmp-bot.nim" />
+  <id>urn:rprimus:github:anosatsuk124:discord-rtmp-bot.nim</id>
+  <published>2024-05-10T00:21:36Z</published>
+  <updated>2024-05-10T00:21:36Z</updated>
+  <content type="html">
+   A discord bot written in nim to play rtmp streams.
   </content>
  </entry>
 </feed>
